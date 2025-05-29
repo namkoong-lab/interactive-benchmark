@@ -6,9 +6,9 @@ from dotenv import load_dotenv
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-def llm_a_respond(user_attributes, question):
+def simulated_user_respond(user_attributes, question):
     """
-    LLM A simulates the user based on user_attributes.
+    LLM simulates the user based on user_attributes.
     """
     prompt = f"""You are simulating a user with the following attributes describing their preferences:
 {json.dumps(user_attributes, indent=2)}
@@ -29,11 +29,11 @@ Answer:"""
     )
     return response.choices[0].message.content.strip()
 
-def llm_b_interact(products, user_attributes, category, llm_b_model="gpt-4o", num_questions=1):
+def ai_recommender_interact(products, user_attributes, category, llm_b_model="gpt-4o", num_questions=1):
     """
-    LLM B interacts with LLM A iteratively to find a liked product.
+    AI Recommender interacts with User iteratively to find a liked product.
     """
-    # Initialize chat messages for LLM B
+    # Initialize chat messages for AI Recommender 
     messages = [
         {"role": "system", "content": "You are a product recommender. Ask only about user preferences over product attributes; do not ask the user directly to name or pick a product by name."},
         {"role": "assistant", "content": f"The product category is: {category}. Here are the products and their attributes:\n{json.dumps(products, indent=2)}"}
@@ -50,10 +50,10 @@ def llm_b_interact(products, user_attributes, category, llm_b_model="gpt-4o", nu
             max_tokens=100
         )
         question = q_resp.choices[0].message.content.strip()
-        print(f"LLM B: {question}")
+        print(f"AI Recommender: {question}")
 
-        answer = llm_a_respond(user_attributes, question)
-        print(f"LLM A (user simulation): {answer}")
+        answer = simulated_user_respond(user_attributes, question)
+        print(f"User: {answer}")
 
         messages.append({"role": "assistant", "content": question})
         messages.append({"role": "user", "content": answer})

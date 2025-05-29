@@ -31,43 +31,42 @@ def generate_benchmark_entry(user_description):
         print(f"Invalid JSON returned:\n{content}\n--- Error: {e}")
         raise
 
+if __name__ == "__main__":
+    dataset = load_dataset("Tianyi-Lab/Personas", split="train")
 
-dataset = load_dataset("Tianyi-Lab/Personas", split="train")
-print(dataset[0].keys())
+    if len(sys.argv) < 2:
+        print("Usage: python personas.py <comma_separated_indices>")
+        sys.exit(1)
 
-if len(sys.argv) < 2:
-    print("Usage: python personas.py <comma_separated_indices>")
-    sys.exit(1)
-
-try:
-    persona_indices = list(map(int, sys.argv[1].split(',')))
-    print(f"Generating benchmark entries for personas: {persona_indices}")
-except ValueError:
-    print("Invalid input. Provide comma-separated integer indices like 4,5,6.")
-    sys.exit(1)
-
-output_dir = "benchmark_entries"
-os.makedirs(output_dir, exist_ok=True)
-
-for idx in persona_indices:
     try:
-        file_path = os.path.join(output_dir, f"persona_{idx}.json")
-        if len(persona_indices) == 1:
-            # Single index: check if file exists
-            if os.path.exists(file_path):
-                print(f"Benchmark entry for persona {idx} already exists at {file_path}. Skipping generation.")
-                continue
-            else:
-                print(f"Generating benchmark entry for persona {idx} as file does not exist.")
-        entry = dataset[int(idx)]
-        user_description = entry["Llama-3.1-70B-Instruct_descriptive_persona"]
-        result = generate_benchmark_entry(user_description)
+        persona_indices = list(map(int, sys.argv[1].split(',')))
+        print(f"Generating benchmark entries for personas: {persona_indices}")
+    except ValueError:
+        print("Invalid input. Provide comma-separated integer indices like 4,5,6.")
+        sys.exit(1)
 
-        with open(file_path, "w") as f:
-            json.dump(result, f, indent=2)
+    output_dir = "benchmark_entries"
+    os.makedirs(output_dir, exist_ok=True)
 
-        print(f"Saved persona {idx} to {file_path}")
+    for idx in persona_indices:
+        try:
+            file_path = os.path.join(output_dir, f"persona_{idx}.json")
+            if len(persona_indices) == 1:
+                # Single index: check if file exists
+                if os.path.exists(file_path):
+                    print(f"Benchmark entry for persona {idx} already exists at {file_path}. Skipping generation.")
+                    continue
+                else:
+                    print(f"Generating benchmark entry for persona {idx} as file does not exist.")
+            entry = dataset[int(idx)]
+            user_description = entry["Llama-3.1-70B-Instruct_descriptive_persona"]
+            result = generate_benchmark_entry(user_description)
 
-    except Exception as e:
-        print(f"Error processing entry {idx}: {e}")
-        continue
+            with open(file_path, "w") as f:
+                json.dump(result, f, indent=2)
+
+            print(f"Saved persona {idx} to {file_path}")
+
+        except Exception as e:
+            print(f"Error processing entry {idx}: {e}")
+            continue
