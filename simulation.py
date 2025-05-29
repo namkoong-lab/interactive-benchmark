@@ -49,6 +49,18 @@ def main():
     products = data.get("products", [])
     category = data.get("category")
 
+    # Remove any 'user_preference' metadata so the recommender doesn't see it
+    for product in products:
+        if 'user_preference' in product:
+            del product['user_preference']
+
+    # Debug: show exactly what the recommender sees
+    print("=== Recommender Input ===")
+    print("Category:", category)
+    print("Products and attributes:")
+    print(json.dumps(products, indent=2))
+    print("=========================")
+
     if not user_attributes or not products:
         print("Invalid benchmark entry format: missing 'user_attributes' or 'products'.")
         sys.exit(1)
