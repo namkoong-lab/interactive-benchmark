@@ -8,12 +8,16 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 def simulated_user_respond(user_attributes, question):
     """
-    LLM simulates the user based on user_attributes.
+    Simulation of a user based on user_attributes (given by the persona)
     """
-    prompt = f"""You are simulating a user with the following attributes describing their preferences:
+    prompt = f"""You are simulating a user with the following attributes describing their preferences.
 {json.dumps(user_attributes, indent=2)}
 
-Answer the following question as this user would, providing exactly one attribute and its value in a short sentence:
+Answer the following question as this user would. Talk and act in a nature way as a person 
+with your characteristics would (eg. if you are young, then speak with youth and slang language, 
+or if you are old, speak according to that). It is crucial, however, that you provide the answer 
+to only what the question is. Do not give more than one attribute to the question, and do not 
+provide any additional information or context.
 
 Question: {question}
 
