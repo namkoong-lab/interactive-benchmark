@@ -14,7 +14,7 @@ This repo generates persona entries, simulates a user (LLM A) interacting with a
      - `user_attributes`: decisive filters that rule out disliked items  
      - `correct_product` & `noise_traits` for evaluation (hidden from the recommender LLM)
 
-- **simulation_logic.py**  
+- **simulate_interaction.py**  
   Core simulation functions:
   - `llm_a_respond(user_attributes, question)` → simulates user answers  
   - `llm_b_interact(products, user_attributes, model_name)` → runs 5 rounds of dynamic questioning and issues a recommendation
