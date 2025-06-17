@@ -27,15 +27,17 @@ def load_meta(meta_indices_list, output_directory):
     max_index_needed = -1
     if indices_to_process:
         max_index_needed = max(indices_to_process)
+        
+    # This section demonstrates how to load Amazon data from the Hugging Face Hub.
     try:
         streaming_dataset = load_dataset(
             "McAuley-Lab/Amazon-Reviews-2023",
-            "raw_meta_All_Beauty",
+            "raw_meta_All_Beauty", # The dataset have 34 subsets(sorted by 34 categories in `all_categories.txt`). Specify which one you want. The example is loading the "All_Beauty" metadata.
             split="full",
             streaming=True,
             trust_remote_code=True
         )
-        # streaming_dataset = streaming_dataset.remove_columns("images")
+        streaming_dataset = streaming_dataset.remove_columns("images")
     except Exception as e:
         print(f"Error loading dataset: {e}")
         return
