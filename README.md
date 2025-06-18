@@ -43,14 +43,8 @@ OPENAI_API_KEY=your_api_key_here
 
 ### 1. Categorize Products
 
-To categorize products using AI:
-
 ```bash
-# Categorize all products
-python amazon_dataset/categorize.py
-
-# Or specify number of products to process
-python amazon_dataset/categorize.py 100
+python amazon_dataset/run_pipeline.py
 ```
 
 This will:
@@ -83,18 +77,6 @@ The visualization is interactive:
 - Pan: Right-click and drag
 - Hover: See exact values
 
-### 3. Run Complete Pipeline
-
-To run the entire process:
-
-```bash
-python amazon_dataset/run_pipeline.py
-```
-
-This will:
-1. Categorize all products
-2. Build the data index
-3. Open the visualization tool
 
 ### 4. Persona-Based Recommender System
 
