@@ -1,0 +1,33 @@
+{
+    "product_id": "B07KQWMJQW",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "Jaciya 8 Pack Hair Scrunchies Velvet Elastic Hair Bands Scrunchy Hair Ties Ropes Scrunchies for Women Hair Accessories, Rabbit Ear Scrunchie",
+        "average_rating": 4.2,
+        "rating_number": 2,
+        "features": [],
+        "description": [],
+        "price": "None",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": "Jaciya",
+        "categories": [],
+        "details": "{\"Material\": \"Velvet\", \"Item Form\": \"Scrunchie\", \"Brand\": \"Jaciya\", \"Hair Type\": \"Curly\", \"Number of Pieces\": \"8\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"6.1 x 3.4 x 1.1 inches; 2.4 Ounces\"}",
+        "parent_asin": "B07KQWMJQW",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Hair Care",
+            "Hair Styling Accessories"
+        ],
+        "confidence": 0.99,
+        "explanation": "The product is a pack of hair scrunchies, which are used for hair styling, thus it fits best under the 'Hair Styling Accessories' subcategory of 'Hair Care' in the 'Beauty & Personal Care' main category."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "product_id": "B07N15C6ZP",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "Inverse Hair Ice Mist",
+        "average_rating": 3.2,
+        "rating_number": 5,
+        "features": [],
+        "description": [
+            "Prime your locks for the hair smoothening goodness of the Ice Hair Conditioner Tool. The ice mist spray is pH-balanced to help hair cuticles gently close and seal in shine-boosting moisture."
+        ],
+        "price": "19.99",
+        "videos": {
+            "title": [
+                "How to use Inverse Hair Conditioning System"
+            ],
+            "url": [
+                "https://www.amazon.com/vdp/5c2142b64de24565a4d5101d1efdc08d?ref=dp_vse_rvc_0"
+            ],
+            "user_id": [
+                ""
+            ]
+        },
+        "store": "Inverse Hair",
+        "categories": [],
+        "details": "{\"Hair Type\": \"All\", \"Item Form\": \"Spray\", \"Brand\": \"Inverse Hair\", \"Number of Items\": \"1\", \"Unit Count\": \"1.00 Count\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.4 x 1.9 x 1.7 inches; 8.8 Ounces\", \"UPC\": \"653836431656\"}",
+        "parent_asin": "B07N15C6ZP",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Hair Care"
+        ],
+        "confidence": 0.95,
+        "explanation": "This product is a hair care product that helps in smoothening and moisturizing the hair."
+    }
+}

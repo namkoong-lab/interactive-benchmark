@@ -1,0 +1,33 @@
+{
+    "product_id": "B07QS8JQTJ",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "FEAYEA Replacement Norelco HQ8 Shavers Head Series 8800 7800 7100 7200",
+        "average_rating": 3.0,
+        "rating_number": 9,
+        "features": [],
+        "description": [],
+        "price": "None",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": "FEAYEA",
+        "categories": [],
+        "details": "{\"Package Dimensions\": \"3.9 x 3.6 x 0.9 inches; 1.59 Ounces\", \"UPC\": \"681381659829\"}",
+        "parent_asin": "B07QS8JQTJ",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Shave & Hair Removal",
+            "Men's"
+        ],
+        "confidence": 0.95,
+        "explanation": "The product is a replacement head for a Norelco shaver, which falls under the category of Men's Shave & Hair Removal."
+    }
+}

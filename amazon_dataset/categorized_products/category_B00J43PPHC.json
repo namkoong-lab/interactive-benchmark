@@ -1,0 +1,37 @@
+{
+    "product_id": "B00J43PPHC",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "The Blade Rack Holds 10 Blades (Green)",
+        "average_rating": 4.9,
+        "rating_number": 112,
+        "features": [
+            "Made of high impact styrene and measures 7-1/2\" x 5\"",
+            "Conveniently stores up to 10 blades of various sizes",
+            "This versatile storage rack organizes and protects valuable blades and can be mounted on a wall or placed on a countertop"
+        ],
+        "description": [],
+        "price": "19.97",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": "Marvy",
+        "categories": [],
+        "details": "{\"Color\": \"Green\", \"Mounting Type\": \"Countertop, Wall Mount\", \"Brand\": \"Marvy\", \"Package Dimensions\": \"9.33 x 5.79 x 1.54 inches; 7.16 Ounces\", \"UPC\": \"695019072126\", \"Manufacturer\": \"Marvy\"}",
+        "parent_asin": "B00J43PPHC",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Hair Care",
+            "Hair Cutting Tools"
+        ],
+        "confidence": 0.95,
+        "explanation": "This product is a rack for storing blades, which are typically used in hair cutting tools. Therefore, it fits best under the 'Hair Cutting Tools' subcategory of 'Hair Care' in 'Beauty & Personal Care'."
+    }
+}

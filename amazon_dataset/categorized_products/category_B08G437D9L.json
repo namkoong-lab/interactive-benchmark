@@ -1,0 +1,33 @@
+{
+    "product_id": "B08G437D9L",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "7 Pieces Bath Shower Sponge Pouf Loofahs, Includes 4 Pieces Animal Toys Loofahs and 3 Pieces Delicate Mesh Bath Sponge Body Scrubber for Kids Adult Shower",
+        "average_rating": 3.5,
+        "rating_number": 7,
+        "features": [],
+        "description": [],
+        "price": "None",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": "Tatuo",
+        "categories": [],
+        "details": "{\"Package Dimensions\": \"12.28 x 9.41 x 3.07 inches; 11.68 Ounces\", \"Manufacturer\": \"Tatuo\"}",
+        "parent_asin": "B08G437D9L",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Bath & Shower",
+            "Bath Accessories"
+        ],
+        "confidence": 0.95,
+        "explanation": "The product is a set of bath shower sponges and loofahs, which are commonly used bath accessories. Thus, it fits best under the 'Bath Accessories' subcategory of 'Bath & Shower' in the 'Beauty & Personal Care' main category."
+    }
+}

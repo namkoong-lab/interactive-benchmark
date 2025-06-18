@@ -1,0 +1,33 @@
+{
+    "product_id": "B00OPYYU3U",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "AshopZ Womens Short Fibril Wigs for Halloween Party, Dark Brown",
+        "average_rating": 4.3,
+        "rating_number": 10,
+        "features": [],
+        "description": [],
+        "price": "None",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": null,
+        "categories": [],
+        "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"10.4 x 7.6 x 2 inches; 7.2 Ounces\", \"Item model number\": \"PartialUpdate\", \"UPC\": \"798813847171\"}",
+        "parent_asin": "B00OPYYU3U",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Hair Care",
+            "Hair Extensions & Wigs"
+        ],
+        "confidence": 0.99,
+        "explanation": "The product is a wig, which falls under the 'Hair Extensions & Wigs' subcategory of 'Hair Care' in 'Beauty & Personal Care'."
+    }
+}

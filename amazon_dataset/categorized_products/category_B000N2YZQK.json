@@ -1,0 +1,38 @@
+{
+    "product_id": "B000N2YZQK",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "Mistique Eyebrow Pencil, Dark Brown",
+        "average_rating": 4.7,
+        "rating_number": 4,
+        "features": [
+            "European made, finely crafted",
+            "Fine texture"
+        ],
+        "description": [
+            "Build full beautiful brows with our european made pencils. Provides perfect color coating even the finest hairs with color for a natural-looking finish."
+        ],
+        "price": "None",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": null,
+        "categories": [],
+        "details": "{\"Item Form\": \"Pencil\", \"Color\": \"Dark Brown\", \"Finish Type\": \"Natural\", \"Package Information\": \"Tube\", \"Country/Region Of Origin\": \"Germany\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"6.69 x 1.57 x 0.59 inches; 0.64 Ounces\", \"UPC\": \"794168185395\"}",
+        "parent_asin": "B000N2YZQK",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Makeup",
+            "Eye Makeup"
+        ],
+        "confidence": 0.99,
+        "explanation": "The product is an eyebrow pencil, which is a type of eye makeup. Therefore, it fits best in the 'Eye Makeup' subcategory under 'Makeup' in 'Beauty & Personal Care'."
+    }
+}

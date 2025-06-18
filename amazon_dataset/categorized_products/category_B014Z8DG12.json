@@ -1,0 +1,34 @@
+{
+    "product_id": "B014Z8DG12",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "New ~ e.l.f. Studio Foundation Palette (Light/Medium)",
+        "average_rating": 4.3,
+        "rating_number": 22,
+        "features": [],
+        "description": [
+            "This gorgeous foundation palette holds 4 complimentary shades to mix and match for custom blended color year round. The creamy formula glides on effortless for adjustable natural looking coverage. Enriched with Shea, Vitamin A, C, & E and other nourishing ingredients to help skin feel soft, smooth, and revitalized. INGREDIENTS :Hydrogenated Polyisobutene, Silica, Polyethylene, Bismuth Oxychloride, Sorbitan Sesquioleate, Butryospermum Parkii (Shea) Butter, Mica, Ascorbyl Palmitate (Vc), Tocopheryl Acetate (Ve), Retinyl Palmitate (Va), Theobroma Cacao (Cocoa) Seed Butter, Vitis Vinifera (Grape) Seed Oil, Persea Gratissima (Avocado) Oil, Macademia Ternifolia Seed Oil, Undaria Pinnatifida Extract, Aloe Barbadensis Leaf Extract, Chrysanthellum Indicum Extract, Phenoxyethanol, Propylparaben. MAY CONTAIN: Titanium Dioxide (CI 78891), Iron Oxides (CI 77491, CI 77492, CI 77499). Net Wt. 0.43 oz / 12.4 g"
+        ],
+        "price": "None",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": "e.l.f.",
+        "categories": [],
+        "details": "{\"Item Form\": \"Cream\", \"Finish Type\": \"Natural\", \"Recommended Uses For Product\": \"Nourishing\", \"Package Information\": \"Palette\", \"Brand\": \"E.l.f.\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"6 x 2 x 2 inches; 2.89 Ounces\", \"Item model number\": \"SG_B014Z8DG12_US\", \"UPC\": \"609332833173\"}",
+        "parent_asin": "B014Z8DG12",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Makeup"
+        ],
+        "confidence": 0.95,
+        "explanation": "The product is a makeup foundation palette, which falls under the 'Makeup' subcategory of 'Beauty & Personal Care'."
+    }
+}

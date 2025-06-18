@@ -1,0 +1,33 @@
+{
+    "product_id": "B01N21HAYJ",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "Chroma Lights Temporary Hair Color Spray, Metallic Fuchsia, 1.5 oz.",
+        "average_rating": 3.9,
+        "rating_number": 6,
+        "features": [],
+        "description": [],
+        "price": "6.25",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": "ChromaLights",
+        "categories": [],
+        "details": "{\"Brand\": \"ChromaLights\", \"Item Form\": \"Spray\", \"Hair Type\": \"All\", \"Unit Count\": \"1.00 Count\", \"Is Discontinued By Manufacturer\": \"No\", \"UPC\": \"816132010707\"}",
+        "parent_asin": "B01N21HAYJ",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Hair Care",
+            "Hair Color"
+        ],
+        "confidence": 0.99,
+        "explanation": "The product is a temporary hair color spray, which fits best under the 'Hair Color' subcategory of 'Hair Care' in the 'Beauty & Personal Care' main category."
+    }
+}

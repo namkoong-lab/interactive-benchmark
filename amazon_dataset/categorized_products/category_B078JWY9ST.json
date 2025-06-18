@@ -1,0 +1,32 @@
+{
+    "product_id": "B078JWY9ST",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "LaFlore 3-Step Kit",
+        "average_rating": 4.7,
+        "rating_number": 11,
+        "features": [],
+        "description": [],
+        "price": "None",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": "LaFlore",
+        "categories": [],
+        "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"9.5 x 9.5 x 3 inches; 1.7 Pounds\", \"UPC\": \"040232675720\"}",
+        "parent_asin": "B078JWY9ST",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Skin Care"
+        ],
+        "confidence": 0.9,
+        "explanation": "The product 'LaFlore 3-Step Kit' is a skincare product, hence it is categorized under 'Beauty & Personal Care' and 'Skin Care'. However, as the product description and features are not provided, the confidence level is set to 0.90."
+    }
+}

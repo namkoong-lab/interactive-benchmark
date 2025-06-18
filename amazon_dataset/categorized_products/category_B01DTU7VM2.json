@@ -1,0 +1,40 @@
+{
+    "product_id": "B01DTU7VM2",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "Patriotic Paws - Waterslide Nail Decals",
+        "average_rating": 5.0,
+        "rating_number": 2,
+        "features": [
+            "Easy To Use!",
+            "Nail Design in Less Than a Minute!",
+            "Works with Regular, Gel or Acrylic Nails!",
+            "These are decals not stickers"
+        ],
+        "description": [
+            "Create Nail Designs in less than a minute with these decals!"
+        ],
+        "price": "4.19",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": "Boston Nail Art",
+        "categories": [],
+        "details": "{\"Brand\": \"Boston Nail Art\", \"Item Dimensions LxWxH\": \"5 x 3.5 x 0.1 inches\", \"Unit Count\": \"1.00 Count\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5 x 3.5 x 0.1 inches; 0.1 Ounces\", \"Manufacturer\": \"Boston Nail Art\"}",
+        "parent_asin": "B01DTU7VM2",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Foot, Hand & Nail Care",
+            "Nail Art & Polish"
+        ],
+        "confidence": 0.99,
+        "explanation": "The product is a nail decal, which falls under the category of Nail Art & Polish in the Foot, Hand & Nail Care section of Beauty & Personal Care."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "product_id": "B01COCGHFS",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "Victoria's Secret Body Smoothing Scrub Wash Passionflower",
+        "average_rating": 4.6,
+        "rating_number": 9,
+        "features": [
+            "Smoothing Scrub Wash 8oz/236ml Paraben free",
+            "Infused with a limited-edition passionflower scent for its calming, soothing qualities",
+            "Exclusive Cotton Moisture Complex",
+            "Polishing beads for gentle exfoliation",
+            "Clinically proven formula; International patent-pending technology"
+        ],
+        "description": [],
+        "price": "None",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": "Victoria's Secret",
+        "categories": [],
+        "details": "{\"Brand\": \"Victoria's Secret\", \"Product Benefits\": \"Smoothening\", \"Material Feature\": \"Paraben Free\", \"Scent\": \"Passionflower\", \"Item Weight\": \"0.57 Pounds\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"8.1 x 3 x 2 inches; 9.12 Ounces\", \"UPC\": \"667539634047\", \"Manufacturer\": \"Victoria's Secret\"}",
+        "parent_asin": "B01COCGHFS",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Bath & Shower",
+            "Scrubs & Body Treatments"
+        ],
+        "confidence": 0.99,
+        "explanation": "The product is a body scrub wash, which falls under the 'Scrubs & Body Treatments' subcategory of 'Bath & Shower' in 'Beauty & Personal Care'."
+    }
+}

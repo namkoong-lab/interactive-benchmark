@@ -1,0 +1,37 @@
+{
+    "product_id": "B00I254ZDS",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "WET N WILD Megarocks Glitter Nail Color - Slap the Bass",
+        "average_rating": 5.0,
+        "rating_number": 2,
+        "features": [
+            "Wet n Wild 493C Slap The Bass Mega Rocks Glitter Nail Color. New."
+        ],
+        "description": [
+            "Toluene and phthalate free."
+        ],
+        "price": "7.97",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": "wet n wild",
+        "categories": [],
+        "details": "{\"Brand\": \"wet n wild\", \"Item Form\": \"Flakes\", \"Finish Type\": \"Shimmery\", \"Age Range (Description)\": \"Adult\", \"Number of Pieces\": \"1\", \"Liquid Volume\": \"0.42 Fluid Ounces\", \"Item Weight\": \"0.22 Kilograms\", \"Package Dimensions\": \"3 x 1.1 x 1.1 inches; 7.76 Ounces\", \"UPC\": \"077802549334\", \"Manufacturer\": \"Markwins Beauty Products, Inc.\"}",
+        "parent_asin": "B00I254ZDS",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Foot, Hand & Nail Care",
+            "Nail Art & Polish"
+        ],
+        "confidence": 0.99,
+        "explanation": "The product is a nail polish, which fits best under the 'Nail Art & Polish' subcategory of 'Foot, Hand & Nail Care' in 'Beauty & Personal Care'."
+    }
+}

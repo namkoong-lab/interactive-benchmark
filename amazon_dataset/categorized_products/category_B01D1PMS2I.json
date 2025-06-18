@@ -1,0 +1,33 @@
+{
+    "product_id": "B01D1PMS2I",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "Compagnie de Provence Hand Balm Olive Enriched - Black Jasmine - 2.5 Fl Oz Tube",
+        "average_rating": 4.4,
+        "rating_number": 8,
+        "features": [],
+        "description": [],
+        "price": "None",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": "La Compagnie de Provence",
+        "categories": [],
+        "details": "{\"Brand\": \"La Compagnie de Provence\", \"Scent\": \"Jasmine\", \"Item Form\": \"Lotion\", \"Unit Count\": \"2.5 Fl Oz\", \"Number of Items\": \"1\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"1.89 x 6.18 x 0.02 inches; 3.2 Ounces\", \"Item model number\": \"17162\"}",
+        "parent_asin": "B01D1PMS2I",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Foot, Hand & Nail Care",
+            "Foot & Hand Care"
+        ],
+        "confidence": 0.95,
+        "explanation": "The product is a hand balm, which falls under the category of foot and hand care within the broader category of beauty and personal care."
+    }
+}

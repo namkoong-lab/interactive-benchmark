@@ -1,0 +1,33 @@
+{
+    "product_id": "B00YUCVJFO",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "AW Silver 24W Nail Drill Art Dust Suction Collector Manicure Filing Acrylic Gel Machine Nail File Tool",
+        "average_rating": 3.9,
+        "rating_number": 33,
+        "features": [],
+        "description": [],
+        "price": "None",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": "AW",
+        "categories": [],
+        "details": "{\"Package Dimensions\": \"12.6 x 11.5 x 5.3 inches; 3.55 Pounds\"}",
+        "parent_asin": "B00YUCVJFO",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Foot, Hand & Nail Care",
+            "Nail Art & Polish"
+        ],
+        "confidence": 0.95,
+        "explanation": "The product is a nail drill art dust suction collector, which is used for manicure and nail care. Therefore, it fits best in the 'Nail Art & Polish' subcategory under 'Foot, Hand & Nail Care' in the 'Beauty & Personal Care' main category."
+    }
+}

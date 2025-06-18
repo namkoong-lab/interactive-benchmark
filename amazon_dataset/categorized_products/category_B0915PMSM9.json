@@ -1,0 +1,33 @@
+{
+    "product_id": "B0915PMSM9",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "Movement of Hair Flexi-Brush - Alternating Nylon and Boar Flutes with Ceramic Tips - Smooths and Polishes",
+        "average_rating": 4.0,
+        "rating_number": 11,
+        "features": [],
+        "description": [],
+        "price": "None",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": "HAI Beauty Concepts",
+        "categories": [],
+        "details": "{\"Brand\": \"HAI Beauty Concepts\", \"Shape\": \"Oblong\", \"Product Benefits\": \"Smoothing\", \"Unit Count\": \"1.00 Count\", \"Hair Type\": \"All,Frizzy\", \"Package Dimensions\": \"9.69 x 3.27 x 1.93 inches; 6.74 Ounces\", \"UPC\": \"860002318639\"}",
+        "parent_asin": "B0915PMSM9",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Hair Care",
+            "Hair Styling Accessories"
+        ],
+        "confidence": 0.99,
+        "explanation": "The product is a hair brush, which is a tool used for hair styling. Therefore, it fits best under the 'Hair Styling Accessories' subcategory of 'Hair Care' in the 'Beauty & Personal Care' main category."
+    }
+}

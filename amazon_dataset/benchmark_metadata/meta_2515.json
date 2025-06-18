@@ -1,0 +1,36 @@
+{
+    "main_category": "All Beauty",
+    "title": "cosmetic",
+    "average_rating": 4.6,
+    "rating_number": 113,
+    "features": [],
+    "description": [],
+    "price": "None",
+    "videos": {
+        "title": [
+            "Absolutely perfect!",
+            "Totally obsessed!!!",
+            "Perfect for my vanity",
+            "Large and sturdey"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/47b1b82c0a084572b2f0fb9a654e93cf?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/3b03e5ae49394c60bb577778d4d29bee?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/c7126ac267a64164ba8d4a7bd6453e27?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/586926e67b9f44d0831eb1dd9be107ef?ref=dp_vse_rvc_3"
+        ],
+        "user_id": [
+            "AHVWRIAYLUCS2HVRM3AGSFIB3NCQ",
+            "AHDYO2JMYU3TKDRCDIKAWR44TF2Q",
+            "AFNENPWLIGJKCFWELDVZQ7IJL4SQ",
+            "AE3C7ZBTCGLYWCRRCFF74OR7I5ZA"
+        ]
+    },
+    "store": "PHILIMORE",
+    "categories": [],
+    "details": "{\"Material\": \"Acrylic\", \"Color\": \"Transparent\", \"Brand\": \"PHILIMORE\", \"Number of Compartments\": \"1\", \"Unit Count\": \"200.00 Count\", \"Package Type\": \"Standard Packaging\", \"Number of Items\": \"1\", \"Package Dimensions\": \"14.5 x 11.2 x 8 inches; 3.95 Pounds\", \"Item model number\": \"ricardokaka1216\"}",
+    "parent_asin": "B08BPC9PCH",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

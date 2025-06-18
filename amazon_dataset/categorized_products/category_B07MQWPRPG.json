@@ -1,0 +1,33 @@
+{
+    "product_id": "B07MQWPRPG",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "Beauty Concepts 2 Pack (60 Count Each) Vanilla Almond “Donut Forget to Remove your Makeup” Facial Cleansing Wipes – Detoxifies Skin and Removes Makeup – Flip Top Pack",
+        "average_rating": 3.9,
+        "rating_number": 28,
+        "features": [],
+        "description": [],
+        "price": "None",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": "B.C BEAUTY CONCEPTS",
+        "categories": [],
+        "details": "{\"Brand\": \"B.C BEAUTY CONCEPTS\", \"Unit Count\": \"2.00 Count\", \"Number of Items\": \"2\", \"Age Range (Description)\": \"Adult\", \"Item Form\": \"Wipes\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.87 x 4.53 x 4.49 inches; 2.01 Pounds\", \"UPC\": \"192598256805\"}",
+        "parent_asin": "B07MQWPRPG",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Makeup",
+            "Makeup Remover"
+        ],
+        "confidence": 0.95,
+        "explanation": "The product is a pack of facial cleansing wipes that are used to remove makeup, hence it fits best under the 'Makeup Remover' subcategory of 'Makeup' in 'Beauty & Personal Care'."
+    }
+}

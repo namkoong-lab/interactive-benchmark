@@ -1,0 +1,33 @@
+{
+    "product_id": "B08DF7F72N",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "Acrylic Powder,18 Colors Nail Dip Powder, Nail Acrylic Powder Sets Art Tips UV Gel Nail Acrylic Color Powder Decoration 3D Manicure",
+        "average_rating": 3.8,
+        "rating_number": 42,
+        "features": [],
+        "description": [],
+        "price": "None",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": "Meile",
+        "categories": [],
+        "details": "{\"Product Dimensions\": \"7.87 x 3.94 x 1.18 inches; 0.35 Ounces\", \"UPC\": \"767410813865\"}",
+        "parent_asin": "B08DF7F72N",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Foot, Hand & Nail Care",
+            "Nail Art & Polish"
+        ],
+        "confidence": 0.98,
+        "explanation": "The product is a set of acrylic nail powder, which is used for nail art and polish. Therefore, it fits best under the 'Nail Art & Polish' subcategory of 'Foot, Hand & Nail Care' in the 'Beauty & Personal Care' main category."
+    }
+}

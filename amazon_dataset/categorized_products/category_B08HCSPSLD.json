@@ -1,0 +1,32 @@
+{
+    "product_id": "B08HCSPSLD",
+    "metadata": {
+        "main_category": "All Beauty",
+        "title": "Bath and Body Works White Barn Peeling Good Banana Colada Hand Soap Wash 8.75 Ounce Full Size",
+        "average_rating": 4.4,
+        "rating_number": 9,
+        "features": [],
+        "description": [],
+        "price": "None",
+        "videos": {
+            "title": [],
+            "url": [],
+            "user_id": []
+        },
+        "store": "Bath & Body Works",
+        "categories": [],
+        "details": "{\"Skin Type\": \"Dry\", \"Brand\": \"Bath & Body Works\", \"Scent\": \"Banana\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"1.00 Count\", \"Is Discontinued By Manufacturer\": \"Yes\", \"Product Dimensions\": \"5 x 2 x 2 inches; 11.99 Ounces\", \"UPC\": \"667552299438\"}",
+        "parent_asin": "B08HCSPSLD",
+        "bought_together": null,
+        "subtitle": null,
+        "author": null
+    },
+    "categorization": {
+        "category_path": [
+            "Beauty & Personal Care",
+            "Bath & Shower"
+        ],
+        "confidence": 0.95,
+        "explanation": "The product is a hand soap wash, which falls under the category of Bath & Shower in the Beauty & Personal Care main category."
+    }
+}
