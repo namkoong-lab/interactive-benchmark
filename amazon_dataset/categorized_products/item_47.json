@@ -1,0 +1,32 @@
+{
+  "item_id": 47,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Avon FullSpeed Extreme Eau De Toilette Natural Spray 75ml - 2.5oz Full Speed",
+    "average_rating": 4.7,
+    "rating_number": 3,
+    "features": [],
+    "description": [],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "AVON",
+    "categories": [],
+    "details": "{\"Brand\": \"AVON\", \"Item Form\": \"Spray\", \"Item Volume\": \"75 Milliliters\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.17 x 4.49 x 1.26 inches; 2.5 Ounces\", \"UPC\": \"000008064974\"}",
+    "parent_asin": "B015ZJO20O",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Makeup",
+      "Fragrances"
+    ],
+    "confidence": 0.95
+  }
+}

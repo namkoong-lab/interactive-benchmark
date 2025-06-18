@@ -1,0 +1,33 @@
+{
+  "item_id": 185,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Incoco Nail Polish Strips, Nail Art, Easter Surprise",
+    "average_rating": 3.7,
+    "rating_number": 9,
+    "features": [],
+    "description": [],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Incoco",
+    "categories": [],
+    "details": "{\"Brand\": \"Incoco\", \"Item Form\": \"Liquid\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"1.00 Count\", \"UPC\": \"812650018577\"}",
+    "parent_asin": "B00VGEJIPM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Makeup",
+      "Makeup Tools",
+      "Nail Art & Design"
+    ],
+    "confidence": 0.95
+  }
+}

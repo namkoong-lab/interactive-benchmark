@@ -1,143 +1,161 @@
 {
     "categories": [
         {
-            "name": "Beauty & Personal Care",
+            "name": "Hair Care",
             "subcategories": [
                 {
-                    "name": "Hair Care",
+                    "name": "Hair Styling Tools",
                     "subcategories": [
-                        {
-                            "name": "Hair Styling Accessories"
-                        },
-                        {
-                            "name": "Hair Extensions & Wigs"
-                        },
                         {
                             "name": "Hair Cutting Tools"
                         },
                         {
-                            "name": "Hair Color"
+                            "name": "Hair Curling Tools"
+                        },
+                        {
+                            "name": "Hair Straightening Tools"
                         }
                     ]
                 },
                 {
-                    "name": "Skin Care",
+                    "name": "Hair Accessories",
                     "subcategories": [
                         {
-                            "name": "Body"
+                            "name": "Headbands"
                         },
                         {
-                            "name": "Face"
+                            "name": "Hair Ties"
+                        },
+                        {
+                            "name": "Hair Clips"
+                        },
+                        {
+                            "name": "Wig Accessories",
+                            "parent_category": "Hair Accessories"
                         }
                     ]
                 },
                 {
-                    "name": "Makeup",
+                    "name": "Hair Extensions & Wigs",
                     "subcategories": [
                         {
-                            "name": "Brushes & Tools"
+                            "name": "Human Hair Extensions"
                         },
                         {
-                            "name": "Makeup Remover"
+                            "name": "Synthetic Hair Extensions"
                         },
                         {
-                            "name": "Eye Makeup",
-                            "parent_category": "Makeup"
-                        },
-                        {
-                            "name": "Kids' Makeup",
-                            "parent_category": "Makeup"
-                        },
-                        {
-                            "name": "Face Makeup",
-                            "parent_category": "Makeup"
+                            "name": "Wigs"
                         }
                     ]
                 },
                 {
-                    "name": "Fragrance",
-                    "subcategories": [
-                        {
-                            "name": "Women's"
-                        },
-                        {
-                            "name": "Men's"
-                        }
-                    ]
-                },
-                {
-                    "name": "Bath & Shower",
-                    "subcategories": [
-                        {
-                            "name": "Scrubs & Body Treatments"
-                        },
-                        {
-                            "name": "Bath Accessories"
-                        }
-                    ]
-                },
-                {
-                    "name": "Salon & Spa Equipment",
-                    "subcategories": [
-                        {
-                            "name": "Hair Dryers & Accessories"
-                        },
-                        {
-                            "name": "Salon & Spa Apparel"
-                        }
-                    ]
-                },
-                {
-                    "name": "Foot, Hand & Nail Care",
-                    "subcategories": [
-                        {
-                            "name": "Nail Art & Polish"
-                        },
-                        {
-                            "name": "Foot & Hand Care"
-                        }
-                    ]
-                },
-                {
-                    "name": "Shave & Hair Removal",
-                    "subcategories": [
-                        {
-                            "name": "Men's"
-                        },
-                        {
-                            "name": "Women's"
-                        }
-                    ]
-                },
-                {
-                    "name": "Oral Care",
-                    "parent_category": "Beauty & Personal Care"
+                    "name": "Hair Color",
+                    "parent_category": "Hair Care"
                 }
             ]
         },
         {
-            "name": "Pet Supplies",
+            "name": "Skin Care",
             "subcategories": [
                 {
-                    "name": "Grooming",
+                    "name": "Face Care",
                     "subcategories": [
                         {
-                            "name": "Brushes"
+                            "name": "Face Scrubs"
+                        },
+                        {
+                            "name": "Face Sunscreen"
                         }
                     ]
+                },
+                {
+                    "name": "Breast Care",
+                    "parent_category": "Skin Care"
+                },
+                {
+                    "name": "Skin Care Sets",
+                    "parent_category": "Skin Care"
+                },
+                {
+                    "name": "Hand Care",
+                    "parent_category": "Skin Care"
                 }
             ]
         },
         {
-            "name": "Electronics",
+            "name": "Makeup",
             "subcategories": [
                 {
-                    "name": "Accessories & Supplies",
+                    "name": "Makeup Tools",
                     "subcategories": [
                         {
-                            "name": "Screen Protectors"
+                            "name": "Makeup Brushes"
+                        },
+                        {
+                            "name": "Nail Art & Design",
+                            "parent_category": "Makeup Tools"
+                        },
+                        {
+                            "name": "Makeup Containers",
+                            "parent_category": "Makeup Tools"
                         }
                     ]
+                },
+                {
+                    "name": "Fragrances",
+                    "subcategories": []
+                },
+                {
+                    "name": "Eye Makeup",
+                    "parent_category": "Makeup"
+                }
+            ]
+        },
+        {
+            "name": "Bath & Body",
+            "subcategories": [
+                {
+                    "name": "Body Scrubs",
+                    "subcategories": []
+                },
+                {
+                    "name": "Shaving & Grooming",
+                    "parent_category": "Bath & Body"
+                },
+                {
+                    "name": "Intimate Care",
+                    "parent_category": "Bath & Body"
+                },
+                {
+                    "name": "Bath Accessories",
+                    "parent_category": "Bath & Body"
+                }
+            ]
+        },
+        {
+            "name": "Salon & Spa Equipment",
+            "subcategories": [
+                {
+                    "name": "Salon Apparel",
+                    "subcategories": []
+                },
+                {
+                    "name": "Salon Hair Dryers",
+                    "subcategories": []
+                },
+                {
+                    "name": "Massage Tools",
+                    "parent_category": "Salon & Spa Equipment"
+                }
+            ]
+        },
+        {
+            "name": "Pet Grooming",
+            "subcategories": [
+                {
+                    "name": "Pet Brushes",
+                    "subcategories": []
                 }
             ]
         },
@@ -148,17 +166,38 @@
                     "name": "Body Jewelry",
                     "subcategories": [
                         {
-                            "name": "Piercing Jewelry"
+                            "name": "Belly Rings"
                         }
                     ]
                 }
             ]
         },
         {
+            "name": "Electronics",
+            "subcategories": [
+                {
+                    "name": "Mobile Accessories",
+                    "subcategories": [
+                        {
+                            "name": "Screen Protectors"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Oral Care",
+            "parent_category": "All Beauty"
+        },
+        {
             "name": "Educational Toys",
-            "parent_category": "Toys & Games"
+            "parent_category": "All Beauty"
+        },
+        {
+            "name": "Food & Cooking Supplies",
+            "parent_category": "All Beauty"
         }
     ],
-    "version": "1.5",
-    "last_updated": "2025-06-18 03:01:47"
+    "version": "1.16",
+    "last_updated": "2025-06-18 03:20:39"
 }

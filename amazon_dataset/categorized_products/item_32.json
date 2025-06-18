@@ -1,0 +1,31 @@
+{
+  "item_id": 32,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Wet Brush Detangler Gypsy Orange",
+    "average_rating": 4.7,
+    "rating_number": 140,
+    "features": [],
+    "description": [],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Wet Brush",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"9.9 x 3 x 1.6 inches; 3.21 Ounces\", \"UPC\": \"736658798029\"}",
+    "parent_asin": "B0843GNY8V",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Hair Care",
+      "Hair Styling Tools"
+    ],
+    "confidence": 0.95
+  }
+}

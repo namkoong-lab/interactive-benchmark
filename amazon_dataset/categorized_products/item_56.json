@@ -1,0 +1,32 @@
+{
+  "item_id": 56,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Newcally 3D False Eyelashes Faux Mink Long Dramatic Lashes 3 Pairs",
+    "average_rating": 3.7,
+    "rating_number": 4,
+    "features": [],
+    "description": [],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Newcally",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"3.9 x 3.7 x 0.7 inches; 1.27 Ounces\", \"UPC\": \"682559263695\"}",
+    "parent_asin": "B07T624K9V",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Makeup",
+      "Eye Makeup"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -9,7 +9,7 @@ from tqdm import tqdm
 
 OUTPUT_DIR = "categorized_products"
 METADATA_DIR = "benchmark_metadata"
-MAX_PRODUCTS = 3000
+MAX_PRODUCTS = 200
 
 def ensure_directories():
     """Create necessary directories if they don't exist."""

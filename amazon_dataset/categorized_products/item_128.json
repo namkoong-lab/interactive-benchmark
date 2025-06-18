@@ -1,0 +1,33 @@
+{
+  "item_id": 128,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "URSULA (OP530) - FreeTress Equal Synthetic Hair Extreme Side Part Wig",
+    "average_rating": 2.8,
+    "rating_number": 2,
+    "features": [],
+    "description": [],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Freetress",
+    "categories": [],
+    "details": "{\"Material\": \"Synthetic\", \"Hair Type\": \"Synthetic\", \"Brand\": \"Freetress\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Is Discontinued By Manufacturer\": \"No\", \"UPC\": \"821090873851\"}",
+    "parent_asin": "B01IYN69KO",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Hair Care",
+      "Hair Extensions & Wigs",
+      "Wigs"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "item_id": 14,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Barber Sponge Brush Double Side 2 Different Wave Sizes 2 PC",
+    "average_rating": 4.2,
+    "rating_number": 38,
+    "features": [],
+    "description": [],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "umi",
+    "categories": [],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.39 x 2.99 x 2.52 inches; 2.4 Ounces\", \"UPC\": \"099461002227\"}",
+    "parent_asin": "B0159D9ZJ4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Hair Care",
+      "Hair Styling Tools",
+      "Hair Cutting Tools"
+    ],
+    "confidence": 0.95
+  }
+}

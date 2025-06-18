@@ -1,0 +1,42 @@
+{
+  "item_id": 181,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Belize Tropical Cabana 8 fl oz. Fragrance Mist, 10 fl oz.Shower Gel , 8 Fl o z., Body Lotion",
+    "average_rating": 4.8,
+    "rating_number": 26,
+    "features": [],
+    "description": [
+      "Belize Tropical Cabana 8 fl oz. Fragrance Mist, 10 fl oz.Shower Gel , 8 Fl o z., Body Lotion"
+    ],
+    "price": "69.75",
+    "videos": {
+      "title": [
+        "Evereden Baby Massage Oil",
+        "Evereden Moms in Medicine"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/02e49cfa035841adabb373c2027c4fe6?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/0e557261d5aa46f3ae74f4193d16da47?ref=dp_vse_rvc_1"
+      ],
+      "user_id": [
+        "",
+        ""
+      ]
+    },
+    "store": "Bath & Body Works",
+    "categories": [],
+    "details": "{\"Brand\": \"Bath & Body Works\", \"Item Form\": \"Gel\", \"Unit Count\": \"3.00 Count\", \"Number of Items\": \"1\", \"Item Volume\": \"8 Fluid Ounces\", \"UPC\": \"667554129719\"}",
+    "parent_asin": "B094GZW7KD",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Bath & Body"
+    ],
+    "confidence": 0.95
+  }
+}

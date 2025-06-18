@@ -1,0 +1,38 @@
+{
+  "item_id": 197,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Michel Design Works Large Hand Cream, Honey Almond",
+    "average_rating": 4.7,
+    "rating_number": 19,
+    "features": [
+      "Michel Design Works Large Hand Cream, Honey Almond",
+      "Fragrance Notes: Sweet almond muddled with cherry, vanilla and honey",
+      "Made in England",
+      "2.5 fl. oz. / 75 ml.",
+      "It all started in 1991 at a local farmers' market with a few dozen items that we'd finished hand-labeling only hours before. Fast-forward to today and Stonewall Kitchen is now home to an ever-growing family of like-minded lifestyle brands! Expertly made with premium ingredients, our products are the result of decades spent dreaming up, testing and producing only the very best in specialty foods and fine home living."
+    ],
+    "description": [],
+    "price": "18.99",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Michel Design Works",
+    "categories": [],
+    "details": "{\"Brand\": \"Michel Design Works\", \"Scent\": \"Almond\", \"Item Form\": \"Cream\", \"Active Ingredients\": \"vitamin enriched\", \"Unit Count\": \"2.5 Fl Oz\", \"Package Dimensions\": \"9.02 x 1.73 x 1.38 inches; 3.21 Ounces\", \"Manufacturer recommended age\": \"0 months and up\", \"UPC\": \"608666740010\", \"Manufacturer\": \"Michel Design Works\"}",
+    "parent_asin": "B09DP71VK3",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Skin Care",
+      "Hand Care"
+    ],
+    "confidence": 0.95
+  }
+}

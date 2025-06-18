@@ -7,6 +7,7 @@ import time
 from tqdm import tqdm
 from dotenv import load_dotenv
 from collections import defaultdict
+import sys
 
 # Load environment variables from .env file
 load_dotenv(os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env'))
@@ -221,12 +222,14 @@ Format your response as JSON:
     
     return categorization
 
-def categorize_products() -> None:
+def categorize_products(num_products: int = None) -> None:
     """Categorize products using a consistent category hierarchy that can evolve."""
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
     # Load all product metadata
     meta_files = [f for f in os.listdir(METADATA_DIR) if f.startswith('meta_')]
+    if num_products:
+        meta_files = meta_files[:num_products]
     print(f"\nFound {len(meta_files)} metadata files to process")
     
     products = []
@@ -245,27 +248,40 @@ def categorize_products() -> None:
     
     # Categorize each product
     successful_categorizations = 0
-    categorized_products = []
     
-    for product in tqdm(products, desc="Categorizing products"):
+    for idx, product in enumerate(tqdm(products, desc="Categorizing products"), 1):
         try:
             categorization = categorize_product(product, category_hierarchy)
-            product['categorization'] = categorization
-            categorized_products.append(product)
+            
+            # Save individual product file with sequential numbering
+            output_path = os.path.join(OUTPUT_DIR, f"item_{idx}.json")
+            with open(output_path, 'w', encoding='utf-8') as f:
+                json.dump({
+                    "item_id": idx,
+                    "metadata": product.get('metadata', {}),
+                    "categorization": categorization
+                }, f, indent=2, ensure_ascii=False)
+            
             successful_categorizations += 1
         except Exception as e:
-            print(f"\nError categorizing product: {e}")
+            print(f"\nError categorizing item {idx}: {e}")
             continue
     
-    # Save categorized products
-    output_file = os.path.join(OUTPUT_DIR, "categorized_products.json")
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(categorized_products, f, indent=2, ensure_ascii=False)
-    
     print(f"\nSuccessfully categorized {successful_categorizations} out of {len(products)} products")
-    print(f"Results saved to {output_file}")
 
 if __name__ == "__main__":
+    # Parse command line arguments
+    num_products = None
+    if len(sys.argv) > 1:
+        try:
+            num_products = int(sys.argv[1])
+            if num_products <= 0:
+                print("Number of products must be positive")
+                sys.exit(1)
+        except ValueError:
+            print("Please provide a valid number of products")
+            sys.exit(1)
+    
     # Check if API key is available
     if not os.getenv("OPENAI_API_KEY"):
         print("Please ensure your OPENAI_API_KEY is set in the .env file")
@@ -276,4 +292,4 @@ if __name__ == "__main__":
         print(f"Error: {METADATA_DIR} directory not found")
         exit(1)
         
-    categorize_products() 
+    categorize_products(num_products) 
