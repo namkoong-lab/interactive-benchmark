@@ -45,7 +45,7 @@ if __name__ == "__main__":
         print("Invalid input. Provide comma-separated integer indices like 4,5,6.")
         sys.exit(1)
 
-    output_dir = "benchmark_entries"
+    output_dir = os.path.join("benchmark_entries")
     os.makedirs(output_dir, exist_ok=True)
 
     for idx in persona_indices:
