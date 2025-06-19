@@ -1,0 +1,32 @@
+{
+  "item_id": 210,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "COSRX Low pH PHA Barrier Mist, 75ml",
+    "average_rating": 4.2,
+    "rating_number": 91,
+    "features": [],
+    "description": [],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "COSRX",
+    "categories": [],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"6.93 x 2.05 x 3.78 inches; 2.47 Ounces\", \"Manufacturer\": \"COSRX\"}",
+    "parent_asin": "B078JJW9GV",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Skin Care",
+      "Face Care"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "item_id": 469,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "SERGE LUTENS PARFUMS La Fille De Berlin, Mini.03 oz",
+    "average_rating": 3.2,
+    "rating_number": 5,
+    "features": [],
+    "description": [
+      "SERGE LUTENS PARFUMS La Fille De Berlin, Mini.03 oz"
+    ],
+    "price": "9.9",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Serge Lutens",
+    "categories": [],
+    "details": "{\"Brand\": \"Serge Lutens\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Package Dimensions\": \"1 x 1 x 0.3 inches; 0.32 Ounces\"}",
+    "parent_asin": "B07QNGTSYY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Makeup",
+      "Fragrances"
+    ],
+    "confidence": 0.95
+  }
+}

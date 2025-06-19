@@ -1,0 +1,31 @@
+{
+  "item_id": 347,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Zoella Beauty Tutti Fruity Foam Sweet Foam Shower Gel 250ml",
+    "average_rating": 4.1,
+    "rating_number": 2,
+    "features": [],
+    "description": [],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": null,
+    "categories": [],
+    "details": "{\"Item Form\": \"Foam, Gel\", \"Age Range (Description)\": \"Adult\", \"Number of Items\": \"1\", \"Unit Count\": \"8.5 Fl Oz\", \"Item Package Quantity\": \"1\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"2 x 2 x 7 inches; 10.4 Ounces\", \"UPC\": \"794168353688\"}",
+    "parent_asin": "B017JPCGSM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Bath & Body"
+    ],
+    "confidence": 0.95
+  }
+}

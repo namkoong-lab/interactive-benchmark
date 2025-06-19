@@ -1,0 +1,47 @@
+{
+  "item_id": 382,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "SSEN CLIPS (Large/ 8 clips) (Rainbow)",
+    "average_rating": 4.8,
+    "rating_number": 36,
+    "features": [
+      "Sectioning Clips for Hair Stylists",
+      "No Stain and Discoloration",
+      "Able to use with Chemicals for Perm and Dye",
+      "Durable and long lasting",
+      "No Slip"
+    ],
+    "description": [
+      "Hair Clips for hairdressers"
+    ],
+    "price": "35.99",
+    "videos": {
+      "title": [
+        "Professional Hair Clips Set"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0f5bc267ce6f44ff81380b94c8738470?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "SSEN CLIPS",
+    "categories": [],
+    "details": "{\"Brand\": \"SSEN CLIPS\", \"Hair Type\": \"All\", \"Color\": \"Rainbow\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"8.00 Count\", \"Manufacturer\": \"SSEN BEAUTY\"}",
+    "parent_asin": "B08378WVBJ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Hair Care",
+      "Hair Accessories",
+      "Hair Clips"
+    ],
+    "confidence": 0.99
+  }
+}

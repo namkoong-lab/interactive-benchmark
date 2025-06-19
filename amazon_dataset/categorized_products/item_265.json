@@ -1,0 +1,33 @@
+{
+  "item_id": 265,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Sol Sunguard Bluewater SPF 36 32 oz Pump Bottle",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [],
+    "description": [],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "SOL Sunguard",
+    "categories": [],
+    "details": "{\"Unit Count\": \"32.00 Fl Oz\", \"Skin Type\": \"All\", \"Brand\": \"SOL Sunguard\", \"Item Volume\": \"32 Fluid Ounces\", \"Water Resistance Level\": \"Water Resistant\"}",
+    "parent_asin": "B007D7FU8K",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Skin Care",
+      "Face Care",
+      "Face Sunscreen"
+    ],
+    "confidence": 0.95
+  }
+}

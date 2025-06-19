@@ -1,0 +1,32 @@
+{
+  "item_id": 433,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Zermat MIO Malicia By Alicia Machado for Men 3.38oz MIO Caballero 100ml",
+    "average_rating": 5.0,
+    "rating_number": 9,
+    "features": [],
+    "description": [],
+    "price": "39.75",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Zermat International",
+    "categories": [],
+    "details": "{\"Brand\": \"Zermat International\", \"Item Volume\": \"100 Milliliters\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Item Weight\": \"3.38 Ounces\", \"Is Discontinued By Manufacturer\": \"No\"}",
+    "parent_asin": "B00KWUOJ3M",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Makeup",
+      "Fragrances"
+    ],
+    "confidence": 0.95
+  }
+}

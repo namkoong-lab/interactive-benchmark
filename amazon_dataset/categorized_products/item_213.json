@@ -1,0 +1,39 @@
+{
+  "item_id": 213,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Garnier Fructis Color Sealer, Instant, Lightweight Leave-In, Color Shield, For Color-Treated Hair, 6 oz.",
+    "average_rating": 4.4,
+    "rating_number": 17,
+    "features": [
+      "Seals In Color And Conditions For Extra Softness",
+      "Infused With Acai Berry And Grape Seed Oil",
+      "For Color Treated Hair",
+      "Lightweight Formula"
+    ],
+    "description": [
+      "Proven to stop dry-out. Fight fade-out. The lightweight formula, infused with acai berry and grape seed oil, instantly seals in color for longer-lasting vibrancy while improving manageability and delivering lasting softness. Uva and uvb protectant help protect hair. Garnier fructis color shield instant color sealer lightweight leave-in instantly seals in color and conditions for extra softness."
+    ],
+    "price": "24.0",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Garnier",
+    "categories": [],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"1.35 x 2.39 x 6.63 inches; 7 Ounces\", \"Item model number\": \"K0814201\", \"UPC\": \"603084230662\", \"Manufacturer\": \"Garnier LLC\"}",
+    "parent_asin": "B004ZWH3XG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Hair Care",
+      "Hair Color"
+    ],
+    "confidence": 0.95
+  }
+}

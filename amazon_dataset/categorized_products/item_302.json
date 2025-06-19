@@ -1,0 +1,31 @@
+{
+  "item_id": 302,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Sharonelle Natural Cream Soft Wax for Sensitive Skin in 14 oz. - 4 cans",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [],
+    "price": "50.0",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Sharonelle",
+    "categories": [],
+    "details": "{\"Item Form\": \"Wax\", \"Skin Type\": \"Sensitive\", \"Brand\": \"Sharonelle\", \"Unit Count\": \"4.00 Count\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"8 x 8 x 3 inches; 4 Pounds\", \"Date First Available\": \"June 6, 2017\"}",
+    "parent_asin": "B071G4NNH7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Skin Care"
+    ],
+    "confidence": 0.95
+  }
+}

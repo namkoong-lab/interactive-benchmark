@@ -1,0 +1,31 @@
+{
+  "item_id": 297,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Ohana Mahaalo Silky & Moist Fragrance Shampoo - Halia nohea",
+    "average_rating": 4.3,
+    "rating_number": 12,
+    "features": [],
+    "description": [],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Ohana Mahaalo",
+    "categories": [],
+    "details": "{\"Brand\": \"Ohana Mahaalo\", \"Item Form\": \"Liquid\", \"Age Range (Description)\": \"Adult\", \"Liquid Volume\": \"465 Milliliters\", \"Recommended Uses For Product\": \"Moisturizing\", \"Package Dimensions\": \"7.8 x 3.07 x 2.72 inches; 1.26 Pounds\"}",
+    "parent_asin": "B07SKJSD9S",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Hair Care"
+    ],
+    "confidence": 0.95
+  }
+}

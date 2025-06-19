@@ -1,0 +1,34 @@
+{
+  "item_id": 555,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Beauty 21 Cosmetics Clipc32 Beauty 21 Cosmetics",
+    "average_rating": 2.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+      "Introducing a new line of hydrating color lipsticks that nourish and moisturize lips while giving them the vibrant color. Enriched with Vitamin E, it goes on with ease and leaves lips feeling soft and supple."
+    ],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "L.A. COLORS",
+    "categories": [],
+    "details": "{\"Brand\": \"L.A. COLORS\", \"Skin Type\": \"All\", \"Item Form\": \"Stick\", \"Age Range (Description)\": \"Adult\", \"Item Weight\": \"0.02 Pounds\", \"Package Dimensions\": \"5.4 x 1.8 x 0.1 inches; 0.32 Ounces\", \"UPC\": \"885109620034 081555770327 787461812433 890267160988\", \"Manufacturer\": \"Kodiake\"}",
+    "parent_asin": "B00CM0WHXY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Makeup",
+      "Lip Makeup"
+    ],
+    "confidence": 0.95
+  }
+}

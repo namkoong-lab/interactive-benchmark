@@ -1,0 +1,32 @@
+{
+  "item_id": 432,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Lilac Scented Oil From Incense King - 1/2 Ounce Bottle",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": null,
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"4 x 3 x 3 inches\", \"UPC\": \"709733001215\"}",
+    "parent_asin": "B002VZNCL6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Makeup",
+      "Fragrances"
+    ],
+    "confidence": 0.95
+  }
+}

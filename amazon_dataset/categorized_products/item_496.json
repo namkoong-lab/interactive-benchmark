@@ -1,0 +1,33 @@
+{
+  "item_id": 496,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "HAWAIIAN TR SH AFTER SUN IRC - 6OZ",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "AYKU",
+    "categories": [],
+    "details": "{}",
+    "parent_asin": "B00YMP7RZU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Skin Care",
+      "Face Care",
+      "Face Sunscreen"
+    ],
+    "confidence": 0.85
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "item_id": 656,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Olive Oil Bar Soap - 100% Natural Pure & Artisan Hand Crafted Quality  (6 Bar Enhanced Set)",
+    "average_rating": 5.0,
+    "rating_number": 7,
+    "features": [],
+    "description": [],
+    "price": "24.99",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "AnatoliaDaphne",
+    "categories": [],
+    "details": "{\"Item Form\": \"Bar\", \"Skin Type\": \"All\", \"Brand\": \"AnatoliaDaphne\", \"Scent\": \"Lavender, Almond, Rose\", \"Material Feature\": \"Natural\", \"Is Discontinued By Manufacturer\": \"No\", \"UPC\": \"640843066988\"}",
+    "parent_asin": "B07KN5T2PC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Bath & Body"
+    ],
+    "confidence": 0.95
+  }
+}

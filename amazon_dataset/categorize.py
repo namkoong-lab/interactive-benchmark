@@ -8,6 +8,7 @@ from tqdm import tqdm
 from dotenv import load_dotenv
 from collections import defaultdict
 import sys
+import argparse
 
 # Load environment variables from .env file
 load_dotenv(os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env'))
@@ -222,14 +223,24 @@ Format your response as JSON:
     
     return categorization
 
-def categorize_products(num_products: int = None) -> None:
+def categorize_products(start_from: int = 0, num_products: int = None) -> None:
     """Categorize products using a consistent category hierarchy that can evolve."""
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
     # Load all product metadata
     meta_files = [f for f in os.listdir(METADATA_DIR) if f.startswith('meta_')]
+    meta_files.sort()  # Ensure consistent ordering
+    
+    # Apply start_from filter
+    if start_from > 0:
+        meta_files = meta_files[start_from:]
+        print(f"Starting from product index {start_from} (skipping first {start_from} products)")
+    
+    # Apply num_products filter
     if num_products:
         meta_files = meta_files[:num_products]
+        print(f"Processing {num_products} products")
+    
     print(f"\nFound {len(meta_files)} metadata files to process")
     
     products = []
@@ -249,7 +260,7 @@ def categorize_products(num_products: int = None) -> None:
     # Categorize each product
     successful_categorizations = 0
     
-    for idx, product in enumerate(tqdm(products, desc="Categorizing products"), 1):
+    for idx, product in enumerate(tqdm(products, desc="Categorizing products"), start_from + 1):
         try:
             categorization = categorize_product(product, category_hierarchy)
             
@@ -270,17 +281,34 @@ def categorize_products(num_products: int = None) -> None:
     print(f"\nSuccessfully categorized {successful_categorizations} out of {len(products)} products")
 
 if __name__ == "__main__":
+    # Check for legacy numeric argument first
+    legacy_num_products = None
+    if len(sys.argv) > 1 and sys.argv[1].isdigit():
+        legacy_num_products = int(sys.argv[1])
+        # Remove the legacy argument from sys.argv to avoid conflicts
+        sys.argv.pop(1)
+    
     # Parse command line arguments
-    num_products = None
-    if len(sys.argv) > 1:
-        try:
-            num_products = int(sys.argv[1])
-            if num_products <= 0:
-                print("Number of products must be positive")
-                sys.exit(1)
-        except ValueError:
-            print("Please provide a valid number of products")
-            sys.exit(1)
+    parser = argparse.ArgumentParser(description='Categorize Amazon products')
+    parser.add_argument('--start-from', type=int, default=0,
+                       help='Start processing from this product index (0-based)')
+    parser.add_argument('--num-products', type=int, default=None,
+                       help='Number of products to process (default: all remaining)')
+    
+    args = parser.parse_args()
+    
+    # Handle legacy argument
+    if legacy_num_products is not None:
+        args.num_products = legacy_num_products
+    
+    # Validate arguments
+    if args.start_from < 0:
+        print("Start index must be non-negative")
+        sys.exit(1)
+    
+    if args.num_products is not None and args.num_products <= 0:
+        print("Number of products must be positive")
+        sys.exit(1)
     
     # Check if API key is available
     if not os.getenv("OPENAI_API_KEY"):
@@ -292,4 +320,4 @@ if __name__ == "__main__":
         print(f"Error: {METADATA_DIR} directory not found")
         exit(1)
         
-    categorize_products(num_products) 
+    categorize_products(args.start_from, args.num_products) 

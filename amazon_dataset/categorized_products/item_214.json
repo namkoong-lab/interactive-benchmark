@@ -1,0 +1,38 @@
+{
+  "item_id": 214,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Zia Natural Skincare Ultimate Body Butter, 6 oz",
+    "average_rating": 5.0,
+    "rating_number": 7,
+    "features": [
+      "Safflower oil, organic elder and cucumber oil calm inflammation and restore moisture.",
+      "Essential oils of neroli, myrrh and lavender aid healing and cell regeneration.",
+      "Vitamin E, green tea and beta carotene fight free radical damage."
+    ],
+    "description": [
+      "Discover why our customers cannot get enought of this product. This rich, luxurious cream uses shea and mango butters to lavish the skin with moisture. A blend of organic botanicals including aloe, chamomile and ginko biloba, soothe dry, irritated skin and aid cell repair. Green tea, rosehip seed and essential oils are added to fight damage and promote cellular regeneration. Great for elbows, feet, and other areas prone to dry skin"
+    ],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Zia",
+    "categories": [],
+    "details": "{\"Brand\": \"Zia\", \"Item Form\": \"Cream\", \"Unit Count\": \"6.0 Ounce\", \"Number of Items\": \"1\", \"Skin Type\": \"Dry\", \"Is Discontinued By Manufacturer\": \"Yes\", \"Package Dimensions\": \"3.1 x 3 x 2.4 inches; 8.48 Ounces\", \"Item model number\": \"8018I\", \"UPC\": \"758024007641\", \"Manufacturer\": \"Zia\"}",
+    "parent_asin": "B0007CHJGY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Skin Care",
+      "Face Care"
+    ],
+    "confidence": 0.85
+  }
+}

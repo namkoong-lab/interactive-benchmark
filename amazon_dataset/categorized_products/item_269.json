@@ -1,0 +1,38 @@
+{
+  "item_id": 269,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "DOVE Pro Age Neck & Chest Beauty Serum 3.3oz (Quantity:3)",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [
+      "Smoothes the appearance of fine lines and wrinkles and improve surface cell renewal",
+      "Contains specially selected oils",
+      "Makes a real difference in the appearance of you skin's condition"
+    ],
+    "description": [
+      "Dove Pro-Age Neck & Chest Beauty Serum makes a real difference in the appearance of you skin's condition. It contains specially selected oils to smooth the appearance of fine lines and wrinkles and improve surface cell renewal."
+    ],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Co-t ARBrend",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"6.9 x 5.2 x 1.8 inches; 14.4 Ounces\", \"Manufacturer\": \"ARBrend\"}",
+    "parent_asin": "B0017WUID4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Skin Care",
+      "Face Care"
+    ],
+    "confidence": 0.85
+  }
+}

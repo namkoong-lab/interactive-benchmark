@@ -1,0 +1,34 @@
+{
+  "item_id": 456,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "LeChat Dare To Wear Nail Polish - (Plumeria)",
+    "average_rating": 4.5,
+    "rating_number": 5,
+    "features": [],
+    "description": [],
+    "price": "9.5",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Dare to Wear",
+    "categories": [],
+    "details": "{\"Brand\": \"Dare to Wear\", \"Item Form\": \"Liquid\", \"Color\": \"Classic Colors\", \"Finish Type\": \"Shimmery\", \"Special Feature\": \"Long Lasting\", \"Age Range (Description)\": \"Adult\", \"Liquid Volume\": \"0.5 Fluid Ounces\", \"UPC\": \"618460211333\"}",
+    "parent_asin": "B01M0WMHLS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Makeup",
+      "Makeup Tools",
+      "Nail Art & Design",
+      "Nail Polish"
+    ],
+    "confidence": 0.95
+  }
+}

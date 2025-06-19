@@ -1,0 +1,31 @@
+{
+  "item_id": 654,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Kao Merit Shampoo Refill Net Wt.11.49 floz/340ml (3 Pack)",
+    "average_rating": 4.2,
+    "rating_number": 4,
+    "features": [],
+    "description": [],
+    "price": "27.98",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Kao",
+    "categories": [],
+    "details": "{\"Brand\": \"Kao\", \"Item Form\": \"Liquid\", \"Age Range (Description)\": \"Adult\", \"Liquid Volume\": \"16.23 Fluid Ounces\", \"Unit Count\": \"3.0 Ounce\"}",
+    "parent_asin": "B08DRX8MZ7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Hair Care"
+    ],
+    "confidence": 0.95
+  }
+}

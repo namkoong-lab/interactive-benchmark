@@ -1,0 +1,40 @@
+{
+  "item_id": 655,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Blue Saint Instant Self-Tanner - Natural Self Tanning Lotion With Probiotics - Zero Orange Sunless Foam Self Tanner",
+    "average_rating": 3.9,
+    "rating_number": 22,
+    "features": [
+      "Zero-Orange: Finally a self-tanner that doesn't leave the pumpkin orange tone afterwards.",
+      "All-Natural: Blue Saint is made from plant-based ingredients with italian probiotics that leaves a natural-looking tan.",
+      "Works Instantly: Starts to work immediately and the bronze tan deepens rapidly in just 2 hours.",
+      "Easy To Apply: Blue Saint is easy to apply, drys fast, and is streak-free!",
+      "No Fake Smell: Finally a self-tanner that that doesn't leave the typical fake-tan smell."
+    ],
+    "description": [
+      "Blue Saint is a luxurious self-tanning foam that's made from plant-based ingredients with Italian probiotics for a natural-looking tan. It's easy to apply, streak-free, fast-drying, and has no “fake tan” smell. Blue Saint gives you beautiful instant color when applied, and your bronze tan deepens rapidly in just two hours."
+    ],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Blue Saint",
+    "categories": [],
+    "details": "{\"Item Form\": \"Lotion\", \"Skin Type\": \"All\", \"Brand\": \"Blue Saint\", \"Skin Tone\": \"Medium Deep\", \"Material Feature\": \"Certified Organic\", \"Package Dimensions\": \"8.43 x 2.52 x 2.32 inches; 7.83 Ounces\", \"Manufacturer\": \"Blue Saint\"}",
+    "parent_asin": "B08GST17RP",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Skin Care",
+      "Face Care"
+    ],
+    "confidence": 0.95
+  }
+}

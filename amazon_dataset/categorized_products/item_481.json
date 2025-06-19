@@ -1,0 +1,37 @@
+{
+  "item_id": 481,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Shower Jellies (Blueberry Cobbler)",
+    "average_rating": 4.0,
+    "rating_number": 297,
+    "features": [],
+    "description": [],
+    "price": "None",
+    "videos": {
+      "title": [
+        "Did not get the right product"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0576d9f4305c45fc93378d19b30584b7?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        "AGCFQECYIQGFNHIPIJFG7I3EQDVA"
+      ]
+    },
+    "store": "Bella and Bear",
+    "categories": [],
+    "details": "{\"Skin Type\": \"Sensitive\", \"Brand\": \"Bella and Bear\", \"Scent\": \"blueberry cobbler\", \"Number of Items\": \"1\", \"Unit Count\": \"3.4 Ounce\", \"Product Dimensions\": \"2.5 x 2.5 x 2.5 inches; 4.16 Ounces\", \"UPC\": \"851586007606\"}",
+    "parent_asin": "B084GGP5SQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Bath & Body"
+    ],
+    "confidence": 0.95
+  }
+}

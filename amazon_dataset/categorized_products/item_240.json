@@ -1,0 +1,30 @@
+{
+  "item_id": 240,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Guerra De Capos Malditos",
+    "average_rating": 1.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [],
+    "price": "3.42",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "K.C. Sales",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"7.1 x 5.42 x 0.58 inches; 2.93 Ounces\", \"Item model number\": \"826481219416\", \"UPC\": \"826481219416\", \"Manufacturer\": \"K.C. Sales\"}",
+    "parent_asin": "B002GIBVL6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty"
+    ],
+    "confidence": 0.5
+  }
+}

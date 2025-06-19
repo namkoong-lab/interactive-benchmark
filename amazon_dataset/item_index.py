@@ -21,7 +21,7 @@ class ItemIndex:
             if not filename.startswith('item_') or not filename.endswith('.json'):
                 continue
                 
-            with open(os.path.join(self.categorized_dir, filename), 'r') as f:
+            with open(os.path.join(self.categorized_dir, filename), 'r', encoding='utf-8') as f:
                 item = json.load(f)
                 item_id = item['item_id']
                 

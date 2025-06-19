@@ -1,0 +1,32 @@
+{
+  "item_id": 268,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Nivea Lip Care Watermelon 0.17 Ounce Carded (6 Pieces)",
+    "average_rating": 4.1,
+    "rating_number": 27,
+    "features": [],
+    "description": [],
+    "price": "18.99",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "NIVEA",
+    "categories": [],
+    "details": "{\"Brand\": \"NIVEA\", \"Skin Type\": \"All\", \"Flavor\": \"watermelon\", \"Unit Count\": \"6.00 Count\", \"Package Dimensions\": \"4.61 x 2.91 x 0.87 inches; 0.63 Ounces\", \"Item model number\": \"22907\", \"UPC\": \"072140022907\"}",
+    "parent_asin": "B07JCDP7KV",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Skin Care",
+      "Face Care"
+    ],
+    "confidence": 0.95
+  }
+}

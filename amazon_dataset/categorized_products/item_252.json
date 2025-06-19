@@ -1,0 +1,36 @@
+{
+  "item_id": 252,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Be Spontaneous by Avon Eau De Toilette Spray 1.7 oz",
+    "average_rating": 4.0,
+    "rating_number": 6,
+    "features": [
+      "Be Spontaneous by Avon Eau De Toilette Spray 1.7 oz"
+    ],
+    "description": [
+      "Be Spontaneous by Avon Eau De Toilette Spray 1.7 oz"
+    ],
+    "price": "45.0",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "AVON",
+    "categories": [],
+    "details": "{\"Brand\": \"AVON\", \"Item Form\": \"Spray\", \"Item Volume\": \"1.7 Fluid Ounces\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Is Discontinued By Manufacturer\": \"No\", \"Item Weight\": \"1.7 Ounces\", \"UPC\": \"885240812664\", \"Manufacturer\": \"Avon\"}",
+    "parent_asin": "B000VMGAD8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Makeup",
+      "Fragrances"
+    ],
+    "confidence": 0.95
+  }
+}

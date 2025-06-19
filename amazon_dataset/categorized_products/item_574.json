@@ -1,0 +1,32 @@
+{
+  "item_id": 574,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Amaranth Oil by 5AM. 100% Pure, Organic, Cold-Pressed. Amazing for Face, Skin, Nails, Health (Glass Bottle). Learn More. 1oz.",
+    "average_rating": 3.9,
+    "rating_number": 63,
+    "features": [],
+    "description": [],
+    "price": "None",
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "5AM",
+    "categories": [],
+    "details": "{\"Brand\": \"5AM\", \"Item Form\": \"Oil\", \"Unit Count\": \"1.00 Fl Oz\", \"Number of Items\": \"1\", \"Use for\": \"Face\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"1.38 x 1.38 x 4.13 inches; 3.21 Ounces\"}",
+    "parent_asin": "B01NCY6667",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Skin Care",
+      "Face Care"
+    ],
+    "confidence": 0.95
+  }
+}
