@@ -1,20 +1,52 @@
 {
-    "main_category": "All Beauty",
-    "title": "600PCS White Coffin False Nails Short Artificial Ballerina Fake Nail Tips Full Cover 10 Size",
-    "average_rating": 3.4,
-    "rating_number": 11,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "BlowOut Bedding Multiple Sizes & Colors - Down Alternative Reversible Black/Red Comforter - Twin/Twin XL",
+    "average_rating": 2.8,
+    "rating_number": 9,
+    "features": [
+        "Cotton",
+        "Luxurious GOOSE DOWN Comforter Provides Medium Warmth For Year Round Comfort",
+        "Twin/ Twin XL Comforter. Size 68\"X90\"",
+        "300 Thread Count 100% Egyptian Cotton Cover.",
+        "Filling with 750+ Fill Power, 70 oz Fill Weight, 100% Goose Down REVERSIBLE comforter",
+        "Machine Wash in Cold/Warm Water, Delicate Cycle with Mild Detergent, No Bleach, Tumble Dry on Low, Remove Immediately at end of Cycle"
+    ],
+    "description": [
+        "Wrap yourself in these luxurious 300 Thread Count 100% Egyptian Cotton GOOSE DOWN REVERSIBLE Comforters that are truly worthy of a classy elegant suite, and are found in world class hotels. Woven to a luxurious 300 threads per square inch, these fine Luxury Bed Comforters are crafted from Long Staple Egyptian Cotton. Comfort, quality and opulence set our Luxury Bedding in a class above the rest. The result is a comforter so luxurious and soft, you will believe you are truly covering with a cloud, night after night. You will relax and enjoy the rich, soft and luxurious feeling of these Egyptian cotton cover REVERSIBLE comforter. Package contains 1 GOOSE DOWN REVERSIBLE Comforter."
+    ],
+    "price": "95.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61bAJCHKo-L._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61bAJCHKo-L._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51y+SbRjyXL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51y+SbRjyXL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51y+SbRjyXL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51y+SbRjyXL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Polly Online",
-    "categories": [],
-    "details": "{\"Size\": \"Small\", \"Material\": \"Acrylonitrile Butadiene Styrene (ABS)\", \"Brand\": \"Polly Online\", \"Style\": \"French\", \"Pattern\": \"Solid\", \"Package Dimensions\": \"6.3 x 6.3 x 1.97 inches; 3.17 Ounces\", \"UPC\": \"713929491155\"}",
-    "parent_asin": "B07PB8QHNF",
+    "store": "BlowOut Bedding",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Comforters & Sets",
+        "Comforter Sets"
+    ],
+    "details": "{\"Material\": \"Cotton\", \"Color\": \"Black/ Red\", \"Brand\": \"BlowOut Bedding\", \"Blanket Form\": \"Comforter\", \"Theme\": \"Cloud\", \"Pattern\": \"Solid\", \"Seasons\": \"All Seasons\", \"Fill Material\": \"cotton, goose_down , down , cotton , fiber\", \"Care instructions\": \"Machine Wash\", \"Size\": \"Twin/ Twin XL- 1 piece\", \"Fabric Type\": \"Cotton\", \"Included Components\": \"Comforter\", \"Manufacturer\": \"High Kotton\", \"Best Sellers Rank\": {\"Home & Kitchen\": 4822578, \"Bedding Comforters\": 1849, \"Bedding Comforter Sets\": 10196}, \"Refill\": \"cotton, goose_down , down , cotton , fiber\", \"Number of pieces\": \"1\"}",
+    "parent_asin": "B07YDQGFYR",
     "bought_together": null,
     "subtitle": null,
     "author": null

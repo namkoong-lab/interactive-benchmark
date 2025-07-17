@@ -1,28 +1,79 @@
 {
-    "main_category": "All Beauty",
-    "title": "Yves Rocher Monoi de Tahiti Lagoon Hair and Body Wash, 200 ml./ 6.7 fl.oz.",
-    "average_rating": 4.3,
-    "rating_number": 14,
+    "main_category": "Amazon Home",
+    "title": "Christopher Knight Home Riley Faux Wood Industrial Three Tier Shelf, Dark Brown Finish, Texture",
+    "average_rating": 4.4,
+    "rating_number": 5,
     "features": [
-        "A 2 in 1 formula that leaves an exotic perfume on skin and hair.",
-        "This Lagoon Hair & Body Wash which is scented with Tiare Flowers crushed in Coconut Oil rinses away perspiration, sea salt and sunscreen.",
-        "Result: it leaves your skin soft and your hair shiny!",
-        "The Plus: leaves your body scented from head to toe!",
-        "Treat yourself to an exotic escape with this 2 in 1 formula!"
+        "Not all bookshelves need to be reminiscent of Sleepy libraries. This rugged, industrial bookshelf welcomes not only books but any other kitsch in Need of a home with open arms. The embodiment of both form and function, this shelf comes equipped with three sturdy shelves capable of carrying the weight of whatever you happen to stock them with.",
+        "Includes: one (1) shelf. Material: faux wood. Frame material: steel. Finish: dark brown.",
+        "Frame Finish: textured brown. Dimensions: 15. 25 inches deep x 41. 25 inches wide x 41. 75 inches high.",
+        "Assembly required.",
+        "Hand crafted details"
     ],
     "description": [
-        "Yves Rocher Monoi de Tahiti Lagoon Hair and Body Wash, 200 ml./ 6.7 fl.oz. MONOÏ. The Yves Rocher research division has selected a Monoï de Tahiti that is AOC certified (controlled designation of origin). It is obtained by macerating fresh tiare flowers in coconut oil, grown exclusively in the coralline soil and volcanic rock of French Polynesia. Did you know? Monoï, a truly traditional beauty secret of Tahitian women, means \"scented oil\" in the Polynesian language. Tahitian women apply this 100 % natural botanical elixir to their skin and hair to enhance their beauty and to wear its heavenly scent. Key botanicals: 100% Botanical oil Monoï de Tahiti, organic aloe vera gel. How To: Use this shampoo after the beach or at the end of the day to eliminate the last tracks of salt and sand.  Rinse abundantly in the clear water. In case of projection in the eye, rinse abundantly. End with a rinsing in the clear water to tighten hair fibers and make them more brilliant."
+        "Not all bookshelves need to be reminiscent of Sleepy libraries. This rugged, industrial bookshelf welcomes not only books but any other kitsch in need of a home with open arms. The embodiment of both form and function, this shelf comes equipped with three sturdy shelves capable of carrying the weight of whatever you happen to stock them with."
     ],
-    "price": "None",
+    "price": "141.72",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81-yW2SCjbL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/910wN148jmL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91zv8seGH1L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91FuLfsHk7L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91zW2dvWjVL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81wsF73DH4L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81YEgG-ywmL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81t-WRfpmGL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81NX0tvM4ML._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/417gQMFpJwL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51aWHJR1m0L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51DdVNmLStL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51LPEfwTDWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51k3ct0u3sL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41CvhTvVSKL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41NCgA3LQrL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31uiPDL+BEL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41w2xBf1mYL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/417gQMFpJwL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51aWHJR1m0L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51DdVNmLStL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51LPEfwTDWL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51k3ct0u3sL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41CvhTvVSKL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41NCgA3LQrL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31uiPDL+BEL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41w2xBf1mYL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Yves Rocher",
-    "categories": [],
-    "details": "{\"Item Form\": \"Gel\", \"Brand\": \"Yves Rocher\", \"Scent\": \"Coconut, Aloe Vera\", \"Material Feature\": \"Organic, Natural\", \"Age Range (Description)\": \"Adult\", \"Package Dimensions\": \"7.3 x 2.3 x 2.1 inches; 8.8 Ounces\"}",
-    "parent_asin": "B01CQ1KPCS",
+    "store": "Christopher Knight Home",
+    "categories": [
+        "Home & Kitchen",
+        "Furniture",
+        "Home Office Furniture",
+        "Bookcases"
+    ],
+    "details": "{\"Room Type\": \"Bedroom, Study Room\", \"Number of Shelves\": \"3\", \"Special Feature\": \"Sturdy\", \"Product Dimensions\": \"15.25\\\"D x 41.25\\\"W x 41.75\\\"H\", \"Age Range (Description)\": \"Adult\", \"Brand\": \"Christopher Knight Home\", \"Assembly Required\": \"Yes\", \"Number of Items\": \"1\", \"Manufacturer\": \"Christopher Knight Home\", \"Included Components\": \"1 Item\", \"Model Name\": \"Riley\", \"Item Weight\": \"1 pounds\", \"Furniture Finish\": \"Engineered Wood\", \"Installation Type\": \"Assembly Required\", \"Country of Origin\": \"China\", \"Item model number\": \"305241\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3628617, \"Bookcases\": 5932}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"May 31, 2018\", \"Material Fabric\": \"\", \"\": \"Shape Rectangular\", \"Shelf Type Tiered Shelf\": \"\"}",
+    "parent_asin": "B07DPFRVJX",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,20 +1,76 @@
 {
-    "main_category": "All Beauty",
-    "title": "2 Pcs Deft Bun for Hair, Magic Hair Bun Maker, Lightweight French Retro Hair Band Printed Headband Lazy Hair Set Twist Hair Tool to Roll a Bun",
-    "average_rating": 2.5,
-    "rating_number": 23,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": null,
+    "title": "Dudietry Black Girl Bubble Tapestry Hippie Art Tapestry for Bedroom Living Room Dorm Party Decor 60x40Inch",
+    "average_rating": 4.5,
+    "rating_number": 15,
+    "features": [
+        "Material:This Tapestry is Made of 100% Polyester Fabric,Which is Soft,Durable,Skin-Friendly,Lightweight and Easy to Hang or Pack Away for Your Indoor or Outdoor Use.Suitable for 4 Seasons.",
+        "Unique Design:Our Tapestry Wall-Mounted Single-Sided Print,The Image Clearly and Color Vivid.The Wonderful Pattern Design is a Great Way to Add Color to Your Bed,Ceiling,and Wall.",
+        "Muliple Options:This Wall Tapestry is Great for Wall Hangings,Beach Throws,Picnic Blankets,Porch Hangings,Table Cloths,Bed Spreads,Sofa Covers,Dorm Decorations,Ceiling Decor,Window Curtain,Etc.As a Gift You Can't Go Wrong With an Art Tapestry.",
+        "Accessories Description:This Product is Equipped With 2 Barb Clips and 3 Non-Marking Nail Hooks,You Only Need to Fix the Two Ends of the Tapestry to the Wall.It is Easy to Install and Will not Damage the Walls of the House.",
+        "Care Guide:The New Tapestry Has Folds,You Can Iron it,Will Be More Beautiful.Hand or Machine Wash Under Gentle Cycle or Dry Clean,And do not Bleach.Please Use Mild Detergent With Cold Water."
+    ],
+    "description": [
+        "Multipurpose:Photography Backdrop,Tablecloth,Party Background Decoration,Bed and Sofa Cover,Curtain,Wall Hanging,Dorm Decor,and so on.Black and White Tapestry for Men Woman Bedroom Teen Girls Boys Lightweight Colors are Very Vibrant Dorm Room Easy to Hang Easter Mother's Day Father's Day Memorial Day Gifts for Mom.",
+        "Tips:",
+        "1.Colors May not Appear Exactly as Seen on Photo in Real Life Due to Variations Between the Computer Monitors and Naked Eye Color Difference.2.The Error Within 1-2cm Due to Different Measurement Methods is a Normal Phenomenon."
+    ],
+    "price": "15.99",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Fy2KhfJOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41z4US3apkL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51I271fFboL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41irhRKSjSL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41rXG77iFyL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41mLbch1vBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51P3hmkorpL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41108P9LY+L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Fy2KhfJOL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41z4US3apkL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51I271fFboL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41irhRKSjSL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41rXG77iFyL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41mLbch1vBL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51P3hmkorpL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41108P9LY+L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "CUPBEN",
-    "categories": [],
-    "details": "{\"Material\": \"Metal\", \"Brand\": \"CUPBEN\", \"Hair Type\": \"Straight\", \"Number of Pieces\": \"2\", \"Number of Items\": \"1\", \"Package Dimensions\": \"9.21 x 6.14 x 0.87 inches; 1.13 Ounces\"}",
-    "parent_asin": "B095YK98D9",
+    "store": "Dudietry",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Tapestries"
+    ],
+    "details": "{\"Size\": \"One Size\", \"Product Dimensions\": \"60\\\"L x 40\\\"W\", \"Number of Items\": \"1\", \"Orientation\": \"Landscape\", \"Shape\": \"Rectangular\", \"Theme\": \"Hippie\", \"Frame Type\": \"Unframed\", \"Wall Art Form\": \"Tapestry\", \"Material\": \"Polyester\", \"Color\": \"Style1\", \"Style\": \"Party\", \"Room Type\": \"Bedroom,Dorm,Living Room\", \"Brand\": \"Dudietry\", \"Frame Material\": \"Plastic\", \"Mounting Type\": \"Wall Mount\", \"Is framed?\": \"No\", \"Item Weight\": \"6.8 ounces\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2650365, \"Tapestries\": 15773}, \"Date First Available\": \"March 20, 2021\"}",
+    "parent_asin": "B08ZL3PSSV",
     "bought_together": null,
     "subtitle": null,
     "author": null

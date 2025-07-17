@@ -1,20 +1,72 @@
 {
-    "main_category": "All Beauty",
-    "title": "20 Sheets Nail Polish Stickers Glitter Gradient Nail Wraps Pure Color Shine Nail Tip Stickers Full Nail Self Adhesive Nail Decals False Nail Design Manicure Sets with 2 Nail File for Women Girls",
-    "average_rating": 3.7,
-    "rating_number": 113,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "JBCD Scotland Toothpick Flag Scottish Mini Small Cupcake Topper Flags (100 pcs)",
+    "average_rating": 4.7,
+    "rating_number": 2,
+    "features": [
+        "Quantity: 100 pcs Scotland flags cupcake toppers per pack, enough for you to use",
+        "Flag size: 1.38\" x 0.98'', toothpick size: 2.56'', easy to use, suit for decorating hamburgers, cupcakes, appetizers, sandwiches, pastries, etc",
+        "Material: made of high quality wood and paper, sturdy and durable, easier for you to pick up food, and keep you away from stains",
+        "Application: the flag toothpicks are widely used to decorate cupcakes, mini desserts, sandwiches, cake, cheese, fruit platters, etc. Note: the flag picks are for food decoration only, not edible and please do not place in oven for heating",
+        "Adhered to a \"customer first, quality first\" principle. If the product is unsatisfactory, 100% refund!"
+    ],
+    "description": [
+        "JBCD flags toothpick are suitable for patriotic themed events, sports event, national celebrations, birthday parties, wedding parties, etc",
+        "Features:",
+        "Package contents: 100 toothpick flags per pack, enough for you to use  The toothpick flag is made of high quality wood and paper. The production process is advanced and reliable, and can be safely applied to food.  In addition, please pay attention to the pointed toothpicks, and keep these toothpick flags away from children or children should be used under the supervision of adults.Please don‘t put the toothpick flag in the microwave for heating.",
+        "Warranty：Adhered to a \"customer first, quality first\" principle. If the product is unsatisfactory, 100% refund!"
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81BYNNEA9ML._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81LPA4HtpHS._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81sunuPc9SS._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61epbjuJuGL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81UM-r6BrHL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/911Bu1pOFqS._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51++IhoB-qL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/415vZR4OsoS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41wT-fnpdGS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/313NnoX7HrL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41tybQ3ZgnL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61jsZy1-YES._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51++IhoB-qL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/415vZR4OsoS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41wT-fnpdGS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/313NnoX7HrL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41tybQ3ZgnL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61jsZy1-YES._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Blulu",
-    "categories": [],
-    "details": "{\"Brand\": \"Blulu\", \"Surface Recommendation\": \"nail\", \"Age Range (Description)\": \"Adult\", \"Installation Type\": \"Self-Adhesive\", \"Reusability\": \"Single Use\", \"Pattern\": \"Solid\", \"Shape\": \"Irregular\", \"Unit Count\": \"1.00 Count\", \"Finish Type\": \"Shimmery\", \"Number of Items\": \"1\", \"Package Dimensions\": \"6.42 x 6.34 x 0.63 inches; 5.89 Ounces\", \"Item model number\": \"Blulu-Gradient Nail Wraps-01\"}",
-    "parent_asin": "B0871ZTZSW",
+    "store": "JBCD",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Bar Tools & Drinkware",
+        "Bar Tools",
+        "Cocktail Picks"
+    ],
+    "details": "{\"Package Dimensions\": \"3.54 x 3.5 x 0.75 inches\", \"Item Weight\": \"2.08 ounces\", \"Manufacturer\": \"JBCD\", \"Country of Origin\": \"China\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 415451, \"Cocktail Picks\": 1498}, \"Date First Available\": \"August 2, 2020\"}",
+    "parent_asin": "B09D9M685Q",
     "bought_together": null,
     "subtitle": null,
     "author": null

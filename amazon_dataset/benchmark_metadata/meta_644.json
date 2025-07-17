@@ -1,20 +1,74 @@
 {
-    "main_category": "All Beauty",
-    "title": "Perlier Body Honey Miel Nurturing Body Balm 3.3 fl oz",
+    "main_category": "Amazon Home",
+    "title": "Collections Etc Scalloped Elastic Bed Wrap Around, Easy Fit, Dust Ruffle Bedskirt, Rose, Queen/King",
     "average_rating": 4.2,
-    "rating_number": 11,
-    "features": [],
-    "description": [],
-    "price": "19.95",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "rating_number": 212,
+    "features": [
+        "Elastic",
+        "Adjustable, elastic-trimmed, wrap-around ruffle makes it so easy to put on and take off your bed, that you won't even need to lift the mattress. Lovely dust ruffle with scalloped edge hides your box spring and underneath storage too",
+        "Polyester/cotton",
+        "Machine wash",
+        "Imported| Available in 2 sizes and 6 colors| Colors available in Blue, Burgundy, Chocolate, Ivory, Rose or White"
+    ],
+    "description": [
+        "Collections Etc Scalloped Elastic Bed Wrap Around, Easy Fit, Dust Ruffle Bedskirt, Rose, Queen/KingDescriptionAdjustable, elastic-trimmed, wrap-around ruffle makes it so easy to put on and take off your bed, that you won't even need to lift the mattress! Lovely dust ruffle with scalloped edge hides your box spring and underneath storage too. Polyester/cotton. Machine wash. Imported. Available in 2 sizes and 6 colors. Colors available in Blue, Burgundy, Chocolate, Ivory, Rose or White. Sizes available in Twin/Full (75\"L x 54\"W x 14\"H) or Queen/King (78\"L x 80\"W x 14\"H).Material TypePolyester,Cotton"
+    ],
+    "price": "31.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51Ik5ztlYQL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/71wAkmLykPL._AC_SL1400_.jpg",
+            "https://m.media-amazon.com/images/I/611+vIB5AkL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/61-OjK5XpmL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/61-OjK5XpmL._AC_SL1001_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41XBNPSaVBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41WGhbEhV6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51tjfHnCuKL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51rTGOHCs3L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51rTGOHCs3L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41XBNPSaVBL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41WGhbEhV6L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51tjfHnCuKL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51rTGOHCs3L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51rTGOHCs3L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT06",
+            "PT07",
+            "PT08"
+        ]
     },
-    "store": "Perlier",
-    "categories": [],
-    "details": "{\"Brand\": \"Perlier\", \"Scent\": \"Honey\", \"Item Form\": \"Balm\", \"Unit Count\": \"3.3 Fl Oz\", \"Use for\": \"Whole Body\"}",
-    "parent_asin": "B0945ZXR6S",
+    "videos": {
+        "title": [
+            "MIYE Ruffled Lace Bed Skirt",
+            "Elastic wrap around bed skirt",
+            "It changes the look of any bed.. Beautiful!"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0b830c58a9324774bbff084584dd2fea?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0c5a8e7115874d81a17e91515fbb82c9?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0b4c6bbb3e69434a83ccae0d4645962e?ref=dp_vse_rvc_2"
+        ],
+        "user_id": [
+            "",
+            "/shop/influencer-93ec5835",
+            "/shop/shanettadiylife"
+        ]
+    },
+    "store": "Collections Etc",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Bed Skirts"
+    ],
+    "details": "{\"Color\": \"Rose\", \"Size\": \"Queen/King\", \"Material\": \"Polyester\", \"Brand\": \"Collections Etc\", \"Pattern\": \"Solid\", \"Fabric Type\": \"Elastic\", \"Product Care Instructions\": \"Machine Wash\", \"Drop Length\": \"14 Inches\", \"Product Dimensions\": \"80\\\"L x 78\\\"W x 14\\\"H\", \"Item Weight\": \"12.8 ounces\", \"Manufacturer\": \"Winston Brands\", \"Best Sellers Rank\": {\"Home & Kitchen\": 420620, \"Bed Skirts\": 242}, \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B06Y4JQXCM",
     "bought_together": null,
     "subtitle": null,
     "author": null

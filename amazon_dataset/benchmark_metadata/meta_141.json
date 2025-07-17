@@ -1,28 +1,46 @@
 {
-    "main_category": "All Beauty",
-    "title": "Belle Wig for Women Costume Wig Long Wavy Synthetic Wig with Braided Updo Cosplay",
-    "average_rating": 3.7,
-    "rating_number": 19,
+    "main_category": "Tools & Home Improvement",
+    "title": "Samsung 6003-001729 Screw-Taptype",
+    "average_rating": 1.0,
+    "rating_number": 1,
     "features": [
-        "The most beautiful Belle wig",
-        "Pre-styled, brown belle costume wig for adults and young adults",
-        "One size fits all. Adjustable to fit most women .",
-        "Quality costume wig to wear for many occasions- it can be washed and combed.",
-        "Add a Beast wig for a couple's costume."
+        "This Is An O.E.M. Authorized Part",
+        "Fits With Various Samsung Brand Models",
+        "Oem Part # 6003-001729",
+        "Brand Name: Samsung"
     ],
     "description": [
-        "Beauty Wig Updo. Brown Belle costume wig.Pre-styled and ready to wear. Super for a Southern Belle Costume wig or Civil War-era costumes. Long, synthetic Braided Updo Cosplay wig for women."
+        "This is an authorized aftermarket product. Fits with various Samsung brand models. It has a oem part # 6003-001729."
     ],
-    "price": "None",
+    "price": "4.55",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/513elHQOPUL._AC_SL1102_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41KvDD-tTNL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41KvDD-tTNL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "City Costume Wigs",
-    "categories": [],
-    "details": "{\"Color\": \"brown\", \"Material\": \"Synthetic\", \"Hair Type\": \"Wavy\", \"Brand\": \"City Costume Wigs\", \"Age Range (Description)\": \"Adult\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"13.86 x 9.17 x 3.27 inches; 7.94 Ounces\", \"Department\": \"womens\", \"UPC\": \"619317841086\"}",
-    "parent_asin": "B07JDDWWBL",
+    "store": "SAMSUNG",
+    "categories": [
+        "Home & Kitchen",
+        "Heating, Cooling & Air Quality",
+        "Parts & Accessories",
+        "Space Heater Replacement Parts"
+    ],
+    "details": "{\"Manufacturer\": \"Samsung\", \"Part Number\": \"6003-001729\", \"Item Weight\": \"0.798 ounces\", \"Product Dimensions\": \"1 x 1 x 1 inches\", \"Country of Origin\": \"USA\", \"Item model number\": \"6003-001729\", \"Item Package Quantity\": \"1\", \"Included Components\": \"appliance-replacement-parts\", \"Batteries Included?\": \"No\", \"Batteries Required?\": \"No\", \"Date First Available\": \"August 14, 2014\"}",
+    "parent_asin": "B00MQ0WQK4",
     "bought_together": null,
     "subtitle": null,
     "author": null

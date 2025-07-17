@@ -1,20 +1,59 @@
 {
-    "main_category": "All Beauty",
-    "title": "RufnTop Pocket Palm Hair Brushes, Shampoo Beard Comb, Massager, Short Hair Cat, Dog Grooming Easel Display (12 Pieces, 3 Fingers or over-Finger)",
-    "average_rating": 4.6,
-    "rating_number": 14,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Handmade",
+    "title": "Kitties Will Puke on Everything You Love Mug",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "Created with all lead free, non toxic materials",
+        "Safe to place in the dishwasher and microwave",
+        "Made to be used and enjoyed"
+    ],
+    "description": [
+        "Kitties will puke on everything you love mug is a great gift for cat owners-- a MUCH BETTER gift than the presents we sometimes find inside our slippers, on our bedspreads....pretty much throughout the house. Back reads: That's Life, Hairballs Happen. Interior is spring green. Handmade from stoneware clay, this mug measures 4 x 4 and holds 16 oz."
+    ],
+    "price": "18.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51jgfnjSXiL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51bqRmAMveL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51aRQVuiVNL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51gUnpwS3hL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31SftgjRDlL.jpg",
+            "https://m.media-amazon.com/images/I/31oEYC50udL.jpg",
+            "https://m.media-amazon.com/images/I/313PuretTyL.jpg",
+            "https://m.media-amazon.com/images/I/319lovgdaJL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31SftgjRDlL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/31oEYC50udL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/313PuretTyL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/319lovgdaJL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "RufnTop",
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"14 x 11 x 0.5 inches; 4.8 Ounces\", \"Item model number\": \"MRuf-HairBrushes01-02\", \"UPC\": \"617999208708\"}",
-    "parent_asin": "B07F5TJZQ7",
+    "store": "Generic",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Glassware & Drinkware",
+        "Cups, Mugs, & Saucers",
+        "Coffee Cups & Mugs"
+    ],
+    "details": "{\"Item Weight\": \"2 Pounds\", \"Date First Available\": \"June 3, 2019\"}",
+    "parent_asin": "B07SNTPPNV",
     "bought_together": null,
     "subtitle": null,
     "author": null

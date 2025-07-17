@@ -1,20 +1,93 @@
 {
-    "main_category": "All Beauty",
-    "title": "Bust Firming Cream- MeeShirer 50g Natural Breast Beauty Cream Breast Enlargement Enhancement Supplement Massage Cream Essential Oil for Enlarging and Lifting Bust to Help Bust Size Up",
-    "average_rating": 3.1,
-    "rating_number": 17,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Takeya Stainless Steel Insulated Tumbler with Straw Lid, 24 Ounce, Purple",
+    "average_rating": 4.9,
+    "rating_number": 22,
+    "features": [
+        "Stainless Steel Tumbler: This 24 Ounce tumbler keeps drinks frosty for up to 24 hours with sweat-free double-wall insulation; Features a twist-on leak-proof lid with splash-proof gasket and 2 straws, standard size and jumbo",
+        "Insulated Tumbler: Takeya Stainless Steel Tumbler is a sleek, double-wall insulated cup designed to keep beverages ice cold. The powder coat finish ensures an easy grip. The tumbler won't sweat so you can put it down on a countertop without a coaster!",
+        "Slim Tumbler Design: the tumbler fits in treadmill cupholders or in the car to take on the go",
+        "Premium Bottles and Lids: We offer water bottles from 14 to 64 Ounce sizes, tumblers in 24 and 32 Ounce sizes, and beverage makers and pitchers in 1 quart and 2 quart sizes",
+        "Innovative Hydration Solutions: Takeya brings over 55 years of Japanese design heritage to our line of insulated, BPA free water bottles, our sustainable iced tea, fruit infusion, and cold brew pitchers, and our Pickleball bottles and equipment."
+    ],
+    "description": [
+        "Stay Hydrated While On The Go: The Takeya 24oz Insulated Stainless Steel Tumbler keeps your favorite drink ice cold for up to 24 hours. Made from 18/8 food grade stainless steel to keep up with any adventure you may have. The wide mouth is easy to clean and fill and securely screws on for an airtight seal. The folding straw lid is leakproof so you can throw in your bag or car without fear of spills. The slim body is cupholder friendly so you can you take it in your car, or use while on the treadmill or bike."
+    ],
+    "price": "29.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/711yN-nexdL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/710GE11zXsL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61DxVHU2gBL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71LqQkQil2L._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31pCgCrLaXL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31yaitqX+aL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51ZTmo0Bt2L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/513voCvCjrL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31pCgCrLaXL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31yaitqX+aL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51ZTmo0Bt2L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/513voCvCjrL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
     },
-    "store": "MeeShirer",
-    "categories": [],
-    "details": "{\"Brand\": \"MeeShirer\", \"Item Form\": \"Cream\", \"Unit Count\": \"1.7 Fl Oz\", \"Skin Type\": \"mature,all skin types\", \"Age Range (Description)\": \"Adult\", \"Package Dimensions\": \"5.1 x 1.7 x 1.7 inches; 1.76 Ounces\", \"UPC\": \"747966702936\"}",
-    "parent_asin": "B08BS4MD39",
+    "videos": {
+        "title": [
+            "Takeya Straw Tumblers - Stay Hydrated While On The Go",
+            "BJPKPK 20oz Insulated Tumbler",
+            "BJPKPK 30oz Insulated Tumbler",
+            "Takeya's Actives Bottle with Straw Lid",
+            "Cold water for ya momma!",
+            "Takeya Thermos Insulated Cup Travel Mug Various Colors",
+            "Takeya Actives Insulated Stainless Water Bottle with Insulated Spout Lid",
+            "Takeya Traveler Leak Proof Insulated Travel Mugs",
+            "Takeya Actives Bottle with Spout Lid",
+            "20oz Insulated Travel Tumbler"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0345b84ca6484cc3bfdf4a5f6561add6?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0f73ffcfd4f74a5082bb792426bed35b?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0e26c62b87264a0986a4eb3215a1c668?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/353214f4625b4a439e5513285b4f3b9f?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0fb72aa1ae044a0686a1e5aad2fb46f6?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/01818a3c2c814f40ae16fcf9825fc015?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/083cd8f1a7264232b236c76363a1743c?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/0f049c01d2334ec689e1453eeb952efc?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/362d5b9b00fb4efa80ca1144adcf2b4a?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/03e67bfb6eb64ffa8e201fd3c823aaa1?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            "",
+            "/shop/influencer-72c51422",
+            "/shop/influencer-dcb4065c",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "store": "Takeya",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Glassware & Drinkware",
+        "Tumblers & Water Glasses"
+    ],
+    "details": "{\"Brand\": \"Takeya\", \"Color\": \"Purple\", \"Special Feature\": \"Leak Proof\", \"Style\": \"Modern\", \"Theme\": \"Transportation\", \"Included Components\": \"No\", \"Pattern\": \"Solid\", \"Product Care Instructions\": \"Hand Wash Only\", \"Material Feature\": \"Insulated\", \"Unit Count\": \"1.0 Count\", \"Item Weight\": \"13.4 ounces\", \"Product Dimensions\": \"3.9 x 3.9 x 8.9 inches\", \"Number of Items\": \"1\", \"Manufacturer\": \"Takeya\", \"Country of Origin\": \"China\", \"Item model number\": \"Insulated\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 43620, \"Tumblers & Water Glasses\": 1713}, \"Volume\": \"700 Milliliters\", \"Assembly required\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\", \"Material Bottle: 18/8 food grade stainless steelInsulated Lid: Durable PP#5 with silicone o-ringsRemovable, protective silicone bumperBPA-Free|Tumbler: 18/8 food grade stainless steelLid: Durable PP#5 with silicone o-ringsStraw: Includes One Silicone StrawBPA-FreeBottle: 18/8 food grade stainless steelInsulated Lid: Durable PP#5 with silicone o-ringsRemovable, protective silic\\u2026  See more\": \"\", \"\": \"Capacity 1.5 Pounds\"}",
+    "parent_asin": "B0C5XKYCT1",
     "bought_together": null,
     "subtitle": null,
     "author": null

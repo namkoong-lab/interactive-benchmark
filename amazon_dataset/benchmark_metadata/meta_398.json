@@ -1,28 +1,67 @@
 {
-    "main_category": "All Beauty",
-    "title": "Travel Neck Wallet (black)",
-    "average_rating": 4.0,
-    "rating_number": 46,
+    "main_category": "Appliances",
+    "title": "Nispira 4-in-1 True HEPA Replacement Filters Compatible with Tredy Air Purifier TD-1500, 2 Pack",
+    "average_rating": 3.0,
+    "rating_number": 2,
     "features": [
-        "Executive Travel Wallet, Black color",
-        "Fine quality polyurethane material with good stitching, contains no animal products",
-        "6 credit card or business card slots, 4 document pockets",
-        "Back exterior slip pocket for your boarding pass or tickets",
-        "Size: 7 ¼ x 4 ¾ approximate"
+        "Nispira 4-in-1 premium HEPA filter replacement compatible with Tredy air purifier TD-1500",
+        "Compared to Part TD-1500-FILTER",
+        "HEPA filter removes up to 99.97 percent of airborne particles as small as 0.3 microns. Activated Carbon layer helps remove household odors caused by pets, cooking and mildew.",
+        "2 Filters included. Filter size dimension: 7.5 x 7.5 x 5.2 inches",
+        "Recommend to replace the filter every 6 months to optimize performance. 100% customer satisfaction guaranteed. Quality meets or exceeds leading national brands"
     ],
     "description": [
-        "Travel confidently knowing your documents, cards, and currency are organized and safe inside your sleek neck wallet. Interior features designated pockets for two passports as well as six slots for credit card and ID. In addition, there are four full-length pockets and compartments, plus an exterior back slip pocket….. tickets, cash, boarding passes or other documents are easily accessed in airport and elsewhere. Made of black polyurethane with dual snap closures and about 3 feet detachable strap. For men or women."
+        "Nispira 4-in-1 premium HEPA filter replacement compatible with Tredy air purifier TD-1500. Compared to Part TD-1500-FILTER. 1 Filter included. Filter size dimension: 7.5 x 7.5 x 5.2 inches. HEPA filter removes up to 99.97 percent of airborne particles as small as 0.3 microns. Activated Carbon layer helps remove household odors caused by pets, cooking and mildew. Recommend to replace the filter every 6 months to optimize performance. 2 Filters included"
     ],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "price": "28.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81vnsy4OMJL._AC_SL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/81104K+u1kL._AC_SL1480_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41fM29mVInL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51biC6dZ-RL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51wU25SVwAL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41fM29mVInL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51biC6dZ-RL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51wU25SVwAL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
     },
-    "store": "Organized Travel",
-    "categories": [],
-    "details": "{\"Product Dimensions\": \"7.25 x 0.5 x 4.75 inches\", \"Item Weight\": \"4.8 ounces\", \"Item model number\": \"PH1203\", \"Is Discontinued By Manufacturer\": \"No\", \"Brand\": \"Organized Travel\", \"Color\": \"Black\", \"Material\": \"Polyurethane\", \"Pattern\": \"Solid\", \"Special Feature\": \"Lightweight\"}",
-    "parent_asin": "B00CYVUAA8",
+    "videos": {
+        "title": [
+            "PUREBURG - Air Purifier Filters",
+            "Core 300 white filters for LEVOIT core Air Purifier ",
+            "This Might Help "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/075259c4e21e4e38ab42cb1de6642fa7?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0c1680dc645145e59e0f2723d198b39a?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0c143ef0218447ab80950fd1e3fa46d4?ref=dp_vse_rvc_2"
+        ],
+        "user_id": [
+            "",
+            "",
+            "/shop/victoriastylesbeauty"
+        ]
+    },
+    "store": "Nispira",
+    "categories": [
+        "Home & Kitchen",
+        "Heating, Cooling & Air Quality",
+        "Parts & Accessories",
+        "Air Purifier Parts & Accessories"
+    ],
+    "details": "{\"Brand Name\": \"Nispira\", \"Model Info\": \"HBTDY1500\", \"Item Weight\": \"1.23 pounds\", \"Product Dimensions\": \"7.5 x 7.5 x 5.2 inches\", \"Item model number\": \"HBTDY1500\", \"Part Number\": \"HBTDY1500\", \"Color\": \"white\", \"Compatible Device\": \"Air Purifier TD-1500\", \"Material Type\": \"Meltblown Fiber, Activated Carbon\", \"Included Components\": \"Plastic casing\", \"Batteries Included?\": \"No\", \"Batteries Required?\": \"No\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2739828, \"Home Air Purifier Parts & Accessories\": 7132}, \"Date First Available\": \"March 6, 2022\", \"Brand\": \"Nispira\", \"Material\": \"Meltblown Fiber, Activated Carbon\"}",
+    "parent_asin": "B09VS75MMG",
     "bought_together": null,
     "subtitle": null,
     "author": null

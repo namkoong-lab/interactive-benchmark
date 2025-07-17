@@ -1,20 +1,71 @@
 {
-    "main_category": "All Beauty",
-    "title": "xcoser Princess Jasmine Wig Aladdin Cosplay Long Black Fluffy Ponytail Hairs for Halloween",
-    "average_rating": 2.0,
-    "rating_number": 4,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "SCSF Hey Careful Man There's a Beverage Here Coffee Mug - Funny Quote Mug Morphing Changing Color Heat Reveal coffee Tea Cup (11oz)",
+    "average_rating": 4.0,
+    "rating_number": 114,
+    "features": [
+        "Material: 11 ounce White Ceramic coffee mug with C-shape handle Npd Gonumi",
+        "Use: black in cold, turn white and reveal your design when filled with a hot beverage.",
+        "Artwork is Printed on Both Sides of the Mug: It can be seen from both sides.",
+        "Hand Wash Only£ºDue to the special, heat-sensitive coating that gives this mug its magic.",
+        "Shipping Package: shipping with care in a sturdy box ensure it arrives perfect condition."
+    ],
+    "description": [
+        "PERFECT FOR ANY OCCASION - Whether you are looking for Christmas gifts for Him, Birthday gifts for Her, Valentine's gifts for someone you love, we¡¯ve got you covered! This is not a cheap plastic novelty gag gift. This ceramic coffee mug is a fun and meaningful gift for someone special.  .STURDY AND DURABLE TOP QUALITY DESIGN - Your mug is made from only the best ceramic available with a top quality handle, Microwave and dishwasher are not recommended due to the special, heat-sensitive coating that gives this mug its magic.The eye-catching designs are printed on both sides of the mug in easy to read and attractive styling.  .SHIPPING INFORMATION: Please allow up to 3-5 business days for production of your item, prior to shipment. You will receive a tracking number when your order ships.Delivery times will vary based on your countries policies.  .SHIPPING PACKAGE: Mug will come packaged carefully and shipped to you in a sturdy form fitting,arrive safely and on time or your money back, no questions asked  .RETURN POLICY: You may return any unopened, unused item in original condition with original packaging shipped by us for a refund within 15 days of receipt. If you wish to request a return, please ensure you contact us within 7 business days of delivery."
+    ],
+    "price": "16.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31eoaK0c6qL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41IHbdoTp+L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41IHbdoTp+L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Zt3dt1JxL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41OXKePRHVL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31eoaK0c6qL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41IHbdoTp+L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41IHbdoTp+L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41Zt3dt1JxL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41OXKePRHVL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
     },
-    "store": "Xcoser",
-    "categories": [],
-    "details": "{\"Hair Type\": \"Curly\", \"Brand\": \"Xcoser\", \"Age Range (Description)\": \"Adult\", \"Theme\": \"Princess\", \"Style\": \"Modern\", \"Package Dimensions\": \"7.95 x 6.5 x 3.11 inches; 1.1 Pounds\"}",
-    "parent_asin": "B07GDL58LN",
+    "videos": {
+        "title": [
+            "Color changing"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/8d78f11d507e4a908f8b35b16bf68663?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "AHXAZFMZB5HTNSHICIZX6A22V2XQ"
+        ]
+    },
+    "store": "WECE",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Novelty",
+        "Drinkware",
+        "Coffee Mugs"
+    ],
+    "details": "{\"Brand\": \"WECE\", \"Material\": \"Ceramic\", \"Color\": \"White\", \"Capacity\": \"11 Ounces\", \"Special Feature\": \"Microwave Safe\", \"Style\": \"Modern\", \"Theme\": \"Funny\", \"Occasion\": \"Christmas, Birthday\", \"Included Components\": \"Handle\", \"Pattern\": \"Letter Print\", \"Product Care Instructions\": \"Hand Wash Only\", \"Unit Count\": \"1 Count\", \"Number of Items\": \"1\", \"League\": \"ncaa\", \"Package Dimensions\": \"4.96 x 4.09 x 3.54 inches\", \"Item Weight\": \"13.2 ounces\", \"Manufacturer\": \"WECE\", \"Item model number\": \"WS-02748\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 303808, \"Sports Fan Cups & Glasses\": 6374, \"Novelty Coffee Mugs\": 14293, \"Glassware & Drinkware\": 46860}, \"Date First Available\": \"October 10, 2018\"}",
+    "parent_asin": "B07JBQDSWX",
     "bought_together": null,
     "subtitle": null,
     "author": null

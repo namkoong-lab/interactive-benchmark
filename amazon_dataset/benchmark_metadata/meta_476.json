@@ -1,20 +1,62 @@
 {
-    "main_category": "All Beauty",
-    "title": "3Pcs Makeup Blender Beauty Sponge Set for Foundations, Powders and Creams with a holder",
-    "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Trintec Massive 14\" Aviation Vintage Artificial Horizon Wall Clock 9063V-14 Aviatrix",
+    "average_rating": 4.1,
+    "rating_number": 30,
+    "features": [
+        "14\" Round Diameter - huge!",
+        "Injection molded from high impact styrene and features a plastic lens.",
+        "For best performance please use a high quality Alkaline battery. One \"AA\" alkaline battery required. Compare with similar",
+        "Comes with a one year manufacturer's warranty"
+    ],
+    "description": [
+        "Injection molded high impact polystyrene case. Snap in polystyrene lens. High quality American made Quartz Clock Movement. One \"AA\" battery required (High quality Alkaline battery recommended for best performance). One year manufacturers warranty. Dimensions: 14\" diameter"
+    ],
+    "price": "41.3",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61VGxXI863L._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51q6CZa7bLL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51IuAd--V7L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31WbQOjbaML._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51IuAd--V7L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31WbQOjbaML._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
     },
-    "store": "Glaray",
-    "categories": [],
-    "details": "{\"Package Dimensions\": \"7.48 x 5.51 x 2.36 inches; 6.35 Ounces\", \"UPC\": \"665059654637\"}",
-    "parent_asin": "B082FBCPLX",
+    "videos": {
+        "title": [
+            "wall clocks battery operated",
+            "Airplane Wall Clocks detail",
+            "360-degree overall view, assembly method."
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0db021b5d1294326907ab3dc76cacde0?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/065d6d6ce1864785b2527f4139a6ede5?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/dc114be2a43e415e8be4d5c545aaa1bd?ref=dp_vse_rvc_2"
+        ],
+        "user_id": [
+            "",
+            "",
+            ""
+        ]
+    },
+    "store": "Trintec",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Clocks",
+        "Wall Clocks"
+    ],
+    "details": "{\"Brand\": \"Trintec\", \"Color\": \"Black\", \"Display Type\": \"Analog\", \"Style\": \"Vintage\", \"Product Dimensions\": \"14\\\"W x 14\\\"H\", \"Power Source\": \"Battery Powered\", \"Age Range (Description)\": \"Kid\", \"Material\": \"Polyurethane\", \"Theme\": \"Aviation,Vintage\", \"Frame Material\": \"Plastic\", \"Are Batteries Included\": \"No\", \"Mounting Type\": \"Wall Mount\", \"Alarm Clock\": \"No\", \"Watch Movement\": \"Quartz\", \"Operation Mode\": \"Electrical\", \"Item Weight\": \"1.88 pounds\", \"Manufacturer\": \"Trintec Ind\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1123960, \"Wall Clocks\": 3783}, \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B01N79LBOL",
     "bought_together": null,
     "subtitle": null,
     "author": null

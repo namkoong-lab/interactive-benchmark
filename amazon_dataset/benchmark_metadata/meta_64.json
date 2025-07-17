@@ -1,27 +1,61 @@
 {
-    "main_category": "All Beauty",
-    "title": "Kosher Complete Lulav and Esrog Etrog Set",
-    "average_rating": 4.0,
-    "rating_number": 5,
+    "main_category": "Amazon Home",
+    "title": "UpStart Battery 2-Pack Replacement for Eureka Optima Pet Lover 439AZ Vacuum Dust Cup Filter - Compatible with Eureka DCF-10, DCF-14 Filter",
+    "average_rating": 4.7,
+    "rating_number": 6,
     "features": [
-        "COMPLETE SET OF A LULAV ESROG HADASSIM & ARAVOS",
-        "Plastic carry bag also included",
-        "100% KOSHER",
-        "AJ Wholesale"
+        "UpStart Components Brand",
+        "This is an UpStart Components Brand replacement part, NOT an OEM product. All mentions of brand names or model descriptions are made strictly to illustrate compatibility. All brand names and logos are registered trademarks of their respective owners. This product is not affiliated with any brands and is not covered under any warranties offered by the original manufacturers. Any warranties for this product are offered solely by UpStart Components."
     ],
     "description": [
-        "Your purchase of an Israeli esrog - citron includes a complete, pre-bound arba minim set: lulav - palm, hadassim - myrtles, (“meshulashim”) and aravos - willows, in their traditional holder, and all bearing their own kashrus endorsements. Plastic carry bag also included. All arba minim sets are professionally packed in foam to virtually eliminate shipping damage—and are accompanied by your complementary English-language instructional booklet PLEASE EMAIL FOR YANAVER AND DELUXE SET OR IF YOU WANT ONE SHIPPED TODAY"
+        "This is an UpStart Components Brand replacement part, NOT an OEM product. All mentions of brand names or model descriptions are made strictly to illustrate compatibility. All brand names and logos are registered trademarks of their respective owners. This product is not affiliated with any brands and is not covered under any warranties offered by the original manufacturers. Any warranties for this product are offered solely by UpStart Components."
     ],
-    "price": "None",
+    "price": "10.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/714vaPQhBlL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71rVvzff6xL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61OY6sXcW-L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71AbF6O5jNL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61UyoS7QCEL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41P0tpyzOLL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41XR57St70L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41V0e0hMVNL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41i6olD3t4L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41YpMRBZ3RL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41P0tpyzOLL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41XR57St70L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41V0e0hMVNL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41i6olD3t4L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41YpMRBZ3RL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "AJ Wholesale",
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"49 x 11.3 x 4.5 inches; 3 Pounds\", \"Manufacturer\": \"AJ Wholesale\"}",
-    "parent_asin": "B000VCCM58",
+    "store": "Upstart Battery",
+    "categories": [
+        "Home & Kitchen",
+        "Vacuums & Floor Care",
+        "Vacuum Parts & Accessories",
+        "Bags",
+        "Upright Bags"
+    ],
+    "details": "{\"Manufacturer\": \"Upstart Battery\", \"Best Sellers Rank\": {\"Home & Kitchen\": 4608207, \"Replacement Upright Vacuum Bags\": 2513}, \"Number of pieces\": \"2\", \"Brand\": \"Upstart Battery\", \"Compatible Devices\": \"Vacuum Cleaner\", \"Reusability\": \"Reusable\"}",
+    "parent_asin": "B00ZIB1ORO",
     "bought_together": null,
     "subtitle": null,
     "author": null

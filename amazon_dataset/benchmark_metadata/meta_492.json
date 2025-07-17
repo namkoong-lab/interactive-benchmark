@@ -1,20 +1,67 @@
 {
-    "main_category": "All Beauty",
-    "title": "14\" (6 Packs) fashion crochet Faux dreadlocks braids Soft Locs Crochet Hair Braiding Hair 30roots/1pack synthetic hair extensions (14 inch 6packs, 1b)",
-    "average_rating": 1.7,
-    "rating_number": 2,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "CafeTime Custom Pillow Case Print with Your Pictures Texts Designs Photos Unique DIY Square Throw Pillowcase 18\"x18\"Inch",
+    "average_rating": 4.6,
+    "rating_number": 73,
+    "features": [
+        "Size:18x18inches/45cmx45cm,20x20inches/50x50cm.",
+        "Material:High Quality Canvas Pillow Cover.",
+        "Print:The Pillowcase Is One Side Printed.",
+        "Use:It's A Perfect Decoration And Gift For Living Room Or Bedroom.",
+        "Difference:Actual Color And Measure May Be A Little Different With The Pictures Because Of The Light And Manual Measurement."
+    ],
+    "description": [
+        "This Pillowcase Is Cute And Funny Decorative Designed With Colorful Lovely Pet Dogs And Cats.Due To The Light And Screen Difference, The It's Color May Be Slightly Different From The Picture.Our Long-Term Commitment To Create High-Quality Pillow For Making Your Life More Perfect.We Provide Custom Service, If You Want To Made Personalized Pillow Case, Just Email Us.It's A Good Chose That Take It As Valentine's Day Gifts, Anniversary Day Gifts, Wedding Gifts, Engagement Gift,Father'S Day Gifts."
+    ],
+    "price": "9.89",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/618w-LUSjVL._AC_SL1200_.jpg",
+            null,
+            null,
+            null,
+            "https://m.media-amazon.com/images/I/81auxlTGnGL._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/71CoiLZeimL._AC_SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41erBsGkyyL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51p6QFnP6kL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61aN+kXS-4L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61colIwm33L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61kgyXjWNiL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51cxUecJnpL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41erBsGkyyL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51p6QFnP6kL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61aN+kXS-4L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61colIwm33L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61kgyXjWNiL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51cxUecJnpL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Kamileo",
-    "categories": [],
-    "details": "{\"Brand\": \"Kamileo\", \"Material\": \"Synthetic\", \"Extension Length\": \"14 Inches\", \"Style\": \"fashion\", \"Hair Type\": \"Wavy\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"10 x 10 x 1.5 inches; 1.3 Pounds\", \"UPC\": \"712492602876\"}",
-    "parent_asin": "B073XDWYR1",
+    "store": "CafeTime",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Decorative Pillows, Inserts & Covers",
+        "Throw Pillow Covers"
+    ],
+    "details": "{\"Pattern\": \"Animal Print\", \"Material\": \"Canvas\", \"Color\": \"Multi35\", \"Product Dimensions\": \"18\\\"L x 18\\\"W\", \"Brand\": \"CafeTime\", \"Shape\": \"Square\", \"Number of Items\": \"1\", \"Care instructions\": \"Hand Wash Only\", \"Occasion\": \"Car, Father's Day, Halloween\", \"Closure Type\": \"Zipper\", \"Recommended Uses For Product\": \"Home\", \"Item Weight\": \"0.64 ounces\", \"Manufacturer\": \"CafeTime\"}",
+    "parent_asin": "B01NCVI13W",
     "bought_together": null,
     "subtitle": null,
     "author": null

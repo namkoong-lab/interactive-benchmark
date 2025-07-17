@@ -1,20 +1,47 @@
 {
-    "main_category": "All Beauty",
-    "title": "HAWAIIAN TR SH AFTER SUN IRC - 6OZ",
-    "average_rating": 4.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Lopkey Silk Artificial Azalea Bush Flower,Red",
+    "average_rating": 3.7,
+    "rating_number": 12,
+    "features": [
+        "Material: silk flower,plastic",
+        "Adds a boost to your exterior architecture and landscaping",
+        "Made of a high quality industrial grade polyethylene blend material with added ingredients to prevent U.V. Degradation",
+        "A bunch of 12 fork, a total of 54 flowers",
+        "Packing: 1pc flower,Overall length Size: 38cm/14.96inch"
+    ],
+    "description": [
+        "Material: silk flower,plastic A bunch of 12 fork, a total of 54 flowers Packing: 1pc flower,Overall length Size: 38cm/14.96inch"
+    ],
+    "price": "8.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61TSFDEpWfL._AC_SL1001_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51wHjeZPG5L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51wHjeZPG5L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "AYKU",
-    "categories": [],
-    "details": "{}",
-    "parent_asin": "B00YMP7RZU",
+    "store": "Lopkey",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Artificial Plants & Flowers",
+        "Artificial Flowers"
+    ],
+    "details": "{\"Brand\": \"Lopkey\", \"Plant or Animal Product Type\": \"Azalea\", \"Color\": \"Red\", \"Material\": \"Silk, Plastic\", \"Number of Items\": \"1\", \"Item Weight\": \"5.3 ounces\", \"Unit Count\": \"1.0 Count\", \"Product Dimensions\": \"14.96 x 9.84 x 14.96 inches\", \"Manufacturer\": \"Lopkey\", \"Best Sellers Rank\": {\"Home & Kitchen\": 441323, \"Artificial Flowers\": 3712}, \"Is Discontinued By Manufacturer\": \"No\"}",
+    "parent_asin": "B071ZFL9FK",
     "bought_together": null,
     "subtitle": null,
     "author": null

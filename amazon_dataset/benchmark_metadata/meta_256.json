@@ -1,20 +1,68 @@
 {
-    "main_category": "All Beauty",
-    "title": "32oz African Shea Butter 100% Pure Unrefined Raw Shea Butter, From Ghana (Gold or Ivory) (Gold)",
-    "average_rating": 3.4,
-    "rating_number": 8,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Trends International DC Comics TV - DC Superhero Girls - Girls Wall Poster, 22.375\" x 34\", Black Framed Version",
+    "average_rating": 4.3,
+    "rating_number": 15,
+    "features": [
+        "PREMIUM PRINTED SATIN FINISH provides dynamic colors without the reflective glare",
+        "POSTER FRAME is a clean and modern design offered in a variety of colors to showcase the art and compliment any room decor",
+        "LIGHTWEIGHT & EASY TO HANG construction allows for a quick installation of this framed poster using the attached sawtooth hanger so you can enjoy your wall art immediately",
+        "PERFECT SIZE for any room; poster is 22.375\" x 34\" and finished size is 24.25\" x 35.75\" x .75\"",
+        "EASILY DECORATE any space to create the perfect decor for a party, bedroom, bathroom, kids room, living room, office, dorm, and more"
+    ],
+    "description": [
+        "Trends International framed posters are everyone's favorite room decor! The clean, modern design and premium satin finish make a bold wall decor statement in any room. Decorate the bedroom, bathroom, kid's room, living room, office, dorm, and more! Our framed posters are lightweight and easy to hang using the sawtooth hanger so you'll be able to enjoy it in no time. Every one of our framed posters are proudly Made in the USA. Add these decorations alongside the other accessories on your party supplies list too! Trends International's wall posters are the perfect way to dress up your parties. A framed poster makes a great gift as well! Whether it's for a Christmas stocking stuffer, a best friend's birthday, or a house warming gift, they'll love receiving a framed poster to show off their style."
+    ],
+    "price": "41.57",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91ymR4YiiKL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81DzFCCv2PL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91f7cSgDmeL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71j2MhsY3XL._AC_SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61WRIfJijgL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51lSuhf+6EL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61VjsI0+HmL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31+r0blNijL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31oZvewLMVL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61WRIfJijgL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51lSuhf+6EL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61VjsI0+HmL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31+r0blNijL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31oZvewLMVL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Package Dimensions\": \"7 x 4 x 4 inches\"}",
-    "parent_asin": "B00TISI070",
+    "videos": {
+        "title": [
+            "Trends International Wall Poster, Frames and Accessories"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/9434d1bd70624135853390a3faca3772?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Trends International",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Posters & Prints"
+    ],
+    "details": "{\"Size\": \"22.375\\\" x 34\\\"\", \"Product Dimensions\": \"34\\\"L x 22.38\\\"W\", \"Item Weight\": \"2.45 Pounds\", \"Number of Items\": \"1\", \"Orientation\": \"Landscape\", \"Shape\": \"Rectangular\", \"Theme\": \"Modern,Superhero\", \"Frame Type\": \"Framed\", \"Wall Art Form\": \"Poster\", \"Material\": \"Paper\", \"Color\": \"Black Framed Version\", \"Style\": \"Modern\", \"Room Type\": \"Bathroom,Bedroom,Kids Room,Living Room,Office,Room\", \"Brand\": \"Trends International\", \"Frame Material\": \"Wood\", \"Mounting Type\": \"Wall Mount\", \"Manufacturer\": \"Trends International\", \"Country of Origin\": \"USA\", \"Item model number\": \"FR14077BLK22X34\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2365263, \"Posters & Prints\": 127965}, \"Maximum recommended load\": \"2.45 Pounds\", \"Assembly required\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\", \"Included Components\": \"Wall Poster\"}",
+    "parent_asin": "B0BCWSZ4YQ",
     "bought_together": null,
     "subtitle": null,
     "author": null

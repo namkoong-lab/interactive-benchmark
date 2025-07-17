@@ -1,26 +1,62 @@
 {
-    "main_category": "All Beauty",
-    "title": "CB 2 Pairs Set 3D Reusable Dual Magnetic Eyelashes Kit Natural Dramatic Volume False Eyelash Extensions, With Magnetic Lash Curler (Set-B)",
-    "average_rating": 2.2,
-    "rating_number": 31,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "How To Apply Magnetic Eyelashes With Magnetic Lash Curler"
+    "main_category": "Amazon Home",
+    "title": "Trademark Fine Art Eternity by Victoria Ivanova, 14x19-Inch, 14 in x 19 in",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Artist: Victoria Ivanova",
+        "Subject: Still Life",
+        "Style: Modern & Contemporary",
+        "Product Type: Gallery-Wrapped Canvas Art",
+        "Made in USA"
+    ],
+    "description": [
+        "This ready to hang, gallery-wrapped art piece features a clock sitting next to a mirror. Prominent Colors: Grey, Black, White 1x is not your average photo site. All photos on 1x are selected by a team of professional gallery curators, just like in a real photo gallery. Our curators have experience from well-known institutions such as Sothebys and Tate Modern Art. We believe that everyone has an inner photographer, just waiting to be discovered. Getting published on 1x is a great achievement; many photographers whose works now hang in art galleries were once discovered on 1x. Its no coincidence that art directors, book editors, and magazines all over the world use photos from 1x photographers. Giclee (jee-clay) is an advanced printmaking process for creating high quality fine art reproductions. The attainable excellence that Giclee printmaking affords makes the reproduction virtually indistinguishable from the original piece. The result is wide acceptance of Giclee by galleries, museums, and private collectors. Gallery wrap is a method of stretching an artist's canvas so that the canvas wraps around the sides and is secured a hidden, wooden frame. This method of stretching and preparing a canvas allows for a frameless presentation of the finished painting."
+    ],
+    "price": "43.68",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81h8r6gtR+L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71YbKr4QdzL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81-lOBlCT2L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71llnpyQs5L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81+F4eo2XrL._AC_SL1500_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/e8be8c1154a548e6905723040acf7d6e?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/41-e+NPM83L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41R77d4fmNL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41RMJROZGoL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51VKiDnILpL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/615LrHG+ceL._AC_.jpg"
         ],
-        "user_id": [
-            ""
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41-e+NPM83L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41R77d4fmNL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41RMJROZGoL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51VKiDnILpL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/615LrHG+ceL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT11",
+            "PT12"
         ]
     },
-    "store": "CaserBay",
-    "categories": [],
-    "details": "{\"Brand\": \"CaserBay\", \"Material Feature\": \"Latex\", \"Item Form\": \"Pair\", \"Mounting Type\": \"Magnet\", \"Unit Count\": \"1.00 Count\", \"Package Dimensions\": \"5.71 x 3.74 x 1.26 inches; 1.76 Ounces\", \"UPC\": \"689833193525\"}",
-    "parent_asin": "B08VGYCWQ7",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Trademark Fine Art",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Posters & Prints"
+    ],
+    "details": "{\"Size\": \"14 in x 19 in\", \"Product Dimensions\": \"19\\\"L x 14\\\"W\", \"Number of Items\": \"1\", \"Orientation\": \"Portrait\", \"Shape\": \"Rectangular\", \"Theme\": \"Contemporary,Modern\", \"Frame Type\": \"Wrapped Canvas\", \"Wall Art Form\": \"Painting\", \"Material\": \"Gallery wrapped canvas\", \"Color\": \"White,Grey\", \"Style\": \"Contemporary\", \"Brand\": \"Trademark Fine Art\", \"Frame Material\": \"Wood\", \"Mounting Type\": \"Wall Mount\", \"Is framed?\": \"Yes\", \"Item Weight\": \"3.5 pounds\", \"Manufacturer\": \"Trademark\", \"Country of Origin\": \"USA\", \"Item model number\": \"1X07480-C1419GG\", \"Assembly required\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\", \"Included Components\": \"The Eternity by Victoria Ivanova, 14x19-Inch\"}",
+    "parent_asin": "B07HB3PS97",
     "bought_together": null,
     "subtitle": null,
     "author": null

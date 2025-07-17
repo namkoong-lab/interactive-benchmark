@@ -1,20 +1,44 @@
 {
-    "main_category": "All Beauty",
-    "title": "Nail Stamping Plates Kit with 20 Stainless Steel Nail Plates and Bag",
-    "average_rating": 4.1,
-    "rating_number": 60,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "JT International Decorative Arrow Motif",
+    "average_rating": 2.8,
+    "rating_number": 6,
+    "features": [
+        "Metal frame"
+    ],
+    "description": [
+        "Decorative Arrow Motif Metal arrow makes a fun and stylish addition to your home decor! Features: Stylish decor Durable Metal Can be easily hung on a wall Specifications: Colors: Bronze (darkest color) Copper (mid range color) Silver (lightest color) Material: Metal Dimensions: 23 1/2\" x 3 1/4\""
+    ],
+    "price": "8.52",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51eVXDe1cTL._AC_UL1024_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31zY0lzM1zL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31zY0lzM1zL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Glamlily",
-    "categories": [],
-    "details": "{\"Package Dimensions\": \"6 x 4.1 x 1.6 inches; 15.2 Ounces\", \"UPC\": \"194425395855\"}",
-    "parent_asin": "B085HBB4DD",
+    "store": "JT International",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Decorative Accessories",
+        "Decorative Signs & Plaques"
+    ],
+    "details": "{\"Number of Items\": \"1\", \"Orientation\": \"Landscape\", \"Shape\": \"Rectangular\", \"Material\": \"Metal\", \"Color\": \"Black/Copper\", \"Date First Available\": \"December 21, 2018\", \"Manufacturer\": \"JT International\"}",
+    "parent_asin": "B07M9CW41D",
     "bought_together": null,
     "subtitle": null,
     "author": null

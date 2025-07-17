@@ -1,20 +1,52 @@
 {
-    "main_category": "All Beauty",
-    "title": "Bite Beauty The Perfect Pair High Pigment Pencil Lip Set Quince/ Tannin",
-    "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Scanpan CTX Stainless Steel and Glass 6.25 Inch Lid",
+    "average_rating": 4.8,
+    "rating_number": 54,
+    "features": [
+        "Stainless steel and glass",
+        "Great for saucepans, sautes and more",
+        "Oven safe up to 500 degrees F",
+        "Dishwasher safe; hand wash recommended"
+    ],
+    "description": [
+        "Scanpan CTX Stainless Steel/Glass Lid, 6.25\""
+    ],
+    "price": "34.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61CSCyj7dQL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/312o40i2vKL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/312o40i2vKL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"3.9 x 2.3 x 1.4 inches; 1.6 Ounces\"}",
-    "parent_asin": "B01LZSVBSI",
+    "videos": {
+        "title": [
+            "Scanpan Classic 7 Quart Covered Dutch Oven"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/3b13911f494a41acbf71a54a5f5321b6?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Scanpan",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Cookware",
+        "Lids"
+    ],
+    "details": "{\"Material\": \"Stainless Steel\", \"Color\": \"Silver\", \"Brand\": \"Scanpan\", \"Style\": \"Pan\", \"Item Dimensions LxWxH\": \"6.25 x 6.25 x 1.5 inches\", \"Shape\": \"Round\", \"Number of Pieces\": \"1\", \"Is Dishwasher Safe\": \"Yes\", \"Closure Type\": \"Lid\", \"Is Microwaveable\": \"Yes\", \"Product Dimensions\": \"6.25 x 6.25 x 1.5 inches\", \"Item Weight\": \"10.6 ounces\", \"Manufacturer\": \"Scanpan\", \"Country of Origin\": \"Denmark\", \"Item model number\": \"65901600\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 310301, \"Cookware & Bakeware Lids\": 1676}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"February 9, 2017\"}",
+    "parent_asin": "B0787LMXCD",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,20 +1,108 @@
 {
-    "main_category": "Premium Beauty",
-    "title": "Suavecito X Breast Cancer Solutions - Original Hold Pomade",
-    "average_rating": 4.8,
-    "rating_number": 52,
-    "features": [],
-    "description": [],
-    "price": "11.99",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Elegant Comfort POM-POM Fringe Velvet Cushion Covers Set of 2, Velvet Soft Solid Decorative Square Throw Pillow Covers Set Cushion Case for Couch Bed, Livingroom 20 x 20 Inch (50 x 50 cm), Silver Grey",
+    "average_rating": 4.6,
+    "rating_number": 47,
+    "features": [
+        "100% Velvet Polyester",
+        "COZY & BREATHABLE: Luxurious Super Soft Particles Velvet Texture, Soft, Cozy and Breathable. Skin Friendly to Your Family and Pets. Same fabric used in both front and back. 100% Durable and Wrinkle and Fade Resistant.",
+        "PACKAGE AND SIZE: Includes 2-PACK of 20x20inch Luxury Velvet Touch Cushion Covers. PILLOW INSERTS ARE NOT INCLUDED.",
+        "HIGH QUALITY HIDDEN ZIPPER: The throw pillow covers with delicate and durable hidden zipper, could improves the appearance, and provides easy insertion and removal. Our solid design makes it becomes a durable pillow cover for daily use with children and pets.",
+        "DURABLE POM-POM FRINGE DESIGN: Beautiful Pom-Pom fringes are firmly attached to the pillow covers. Every seam has been tight thread and over-locked to avoid fraying and ripping. These velvet pillow covers are very comfy and soft. Suitable for balcony, living room, bedroom, party, picnic, wedding, office, cafe, etc. You can put our pillow covers on the sofa, bed, couch, chair etc.",
+        "EASY CARE & WASH: Washing at low 30°C, do not bleach, ironing at low 120°C, dry clean, do not tumble dry. Our velvet touch pillow covers blend with fade resistant and stain resistant which always looks like new after every washing."
+    ],
+    "description": [
+        "Enjoy an Experience of a true luxury and a cool comfortable pillow covers that are exceptionally soft and breathable. Silky soft feel and a lustrous finish cushion covers will help refreshing your place. These Velvet Touch Pillow Covers provide a lasting vibrancy of color no matter how often they are washed and are made of high strength yarns that will stay soft silky and wrinkle free and fade resistant for years. Elegant Comfort Home decor pillow covers will help refreshing your place. Soft to the touch, easy care. No ironing necessary. IMPORTANT NOTE : Includes 2-PACK of 20x20inch Luxury Velvet Touch Pom-Pom fringe Cushion Covers. PILLOW INSERTS ARE NOT INCLUDED."
+    ],
+    "price": "18.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91t74RwcKbL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81ReIDohJaL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/919WAuCgG-L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91so20mh3-L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81BKqwM4qGL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81YU+ZB356L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/913OmICg6IL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81QWE4RU0mL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81P-HA9gbUL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81TaUNRcFmL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51q6OAZbJ-L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/419HYKuMJiL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51yOlParRvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51fIiMBfnOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41DD5cS1CbL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51LmYtS41SL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/516LfEIvVML._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51dRtGN5gHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51RbUn8fn5L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51C7mjaJ9OL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51q6OAZbJ-L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/419HYKuMJiL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51yOlParRvL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51fIiMBfnOL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41DD5cS1CbL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51LmYtS41SL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/516LfEIvVML._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51dRtGN5gHL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51RbUn8fn5L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51C7mjaJ9OL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08",
+            "PT09"
+        ]
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Product Benefits\": \"This water soluble pomade offers a medium hold and medium shine without any harsh chemicals, stiffness, or flaking.This water soluble pomade offers a medium hold and medium shine without any harsh chemicals, stiffness, or flaking.  See more\", \"Hair Type\": \"All\", \"Liquid Volume\": \"118.29 Milliliters\", \"Item Form\": \"Wax\", \"Brand\": \"Suavecito\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"2.8 x 2.8 x 2.5 inches; 4.8 Ounces\", \"UPC\": \"700645581833\", \"Manufacturer\": \"Suavecito\"}",
-    "parent_asin": "B01LZXWCXM",
+    "videos": {
+        "title": [
+            "Things To Know About These Decorative Throw Pillow Covers",
+            "Home 2 Pkg 18x18 Soft Corduroy Pompom Pillow Cover Review ",
+            "Pillow Cases for Pillows ",
+            "Alerfa Throw Pillow Cover",
+            "Top Finel Square Decorative Throw Pillow Covers with Balls ",
+            "Amazon Office Favorites.MOV",
+            "Master Bedroom Bedding and Decor"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0e47e1223abf4f1580dff2465b467df3?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0cf7b6ca241b436fa7f5cd8f8c937028?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/09add3f3708e49c0bb99869153586d35?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0838617a1f634bedbb89d5c4be5b1dad?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/004b1b9a6e3f47a9bd9616d3e32c2a3a?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/0af9bc0e6666421da23d3b88e572e043?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/099736f427e14629b8077f48b9e5338b?ref=dp_vse_rvc_6"
+        ],
+        "user_id": [
+            "/shop/steelcitynews",
+            "/shop/influencer-19a403c1",
+            "/shop/influencer-55cb69f3",
+            "",
+            "",
+            "/shop/influencer-88a54606",
+            "/shop/alishaamberarnold"
+        ]
+    },
+    "store": "Elegant Comfort",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Decorative Pillows, Inserts & Covers",
+        "Throw Pillow Covers"
+    ],
+    "details": "{\"Pattern\": \"Solid\", \"Material\": \"Polyester, Velvet\", \"Color\": \"Silver Grey\", \"Product Dimensions\": \"4\\\"L x 2\\\"W\", \"Style\": \"Bohemian\", \"Brand\": \"Elegant Comfort\", \"Theme\": \"Grey,Silver\", \"Shape\": \"Square\", \"Number of Items\": \"2\", \"Special Feature\": \"Fade Resistant, Wrinkle Resii\", \"Number of pieces\": \"2\", \"Care instructions\": \"Machine Wash\", \"Occasion\": \"Daily\", \"Closure Type\": \"Zipper\", \"Recommended Uses For Product\": \"Indoor\", \"Item Weight\": \"14.9 ounces\", \"Manufacturer\": \"Elegant Comfort\", \"Country of Origin\": \"China\", \"Item model number\": \"PomPom-Cover-20x20-Silver\", \"Best Sellers Rank\": {\"Home & Kitchen\": 169288, \"Throw Pillow Covers\": 1533}, \"Thickness\": \"0.25 Inches\", \"Fabric Type\": \"100% Velvet Polyester\", \"Assembly required\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B09VGRTRFQ",
     "bought_together": null,
     "subtitle": null,
     "author": null

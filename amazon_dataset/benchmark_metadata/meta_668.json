@@ -1,20 +1,93 @@
 {
-    "main_category": "All Beauty",
-    "title": "FARI 12 PCS Eyebrow Razors for Women, Dermaplaning Razor and Facial Hair Trimmer for Men & Women (12 PCS)",
-    "average_rating": 3.5,
-    "rating_number": 23,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Bath Mat- Natural Wooden Non-Slip Roll Up Lattice Design Mat for Indoor or Outdoor Bathtub, Shower, Sauna, Hot Tub by Lavish Home",
+    "average_rating": 4.2,
+    "rating_number": 46,
+    "features": [
+        "Nullify",
+        "This fresh and modern looking bath mat is finished with a smooth gloss lacquer to prevent water stains.",
+        "ROLL UP LATTICE DESIGN - The unique lattice design of this bath mat allows for optimal air circulation for faster drying and also makes it easy to roll up and store when not in use.",
+        "ANTI-SLIP BOTTOM - The rubber, anti-slip gripper pads on the bottom of the mat help protect your floor while also keeping it firmly in place, to prevent it from moving around as you get in or out of the shower.",
+        "VERSATILE USE - The mat can conveniently be used indoors or outside. It’s perfect for your shower, bathtub, sauna, pool, or hot tub, or as a shoe or boot mat in your mudroom, or a cool dog lounge mat. This mat is a must have for any home.",
+        "PRODUCT DETAILS - Material: 100% natural; rubber grip pads. Dimensions: (L) 24” x (W) 16”x (H) 0. 25”."
+    ],
+    "description": [
+        "Form and function combine with the Bathroom Mat by Lavish Home! This natural wood bath mat has an open lattice design with a fresh and modern look. Its unique roll up structure allows for easy portability and storage. Anti-slip bottom pads ensure safe use and floor protection. The mat is finished with a gloss lacquer to prevent water stains. This versatile mat can be used indoors or outdoors. The clean minimalist aesthetic of this bath mat is sure to complement any home décor and will give a Zen spa-like feel to your bathroom."
+    ],
+    "price": "17.59",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71JIa9lQWsL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81M66POhcJL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71fXAYESHXL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81mzvd9UYwL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71rLnBNnbVL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71GaFTjkvhL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/418tbMQ3Z1L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41D9VjB2uXL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41h3a0NhctL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51tOP63ZSqL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41ph9VmNZ+L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41V9pHCwJEL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/418tbMQ3Z1L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41D9VjB2uXL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41h3a0NhctL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51tOP63ZSqL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41ph9VmNZ+L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41V9pHCwJEL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT05",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT06"
+        ]
     },
-    "store": "FARI Series",
-    "categories": [],
-    "details": "{\"Brand\": \"FARI Series\", \"Number of Blades\": \"12\", \"Unit Count\": \"1.00 Count\", \"Handle Material\": \"Acrylonitrile Butadiene Styrene, Plastic, Stainless Steel\", \"Age Range (Description)\": \"Adult\", \"Package Dimensions\": \"8.15 x 3.15 x 0.79 inches; 2.82 Ounces\", \"UPC\": \"779640895412\"}",
-    "parent_asin": "B08K7LXVXL",
+    "videos": {
+        "title": [
+            "How does it feel like on my bare feet? Real Life Reviews!",
+            "SlipX Solutions Bamboo Bath & Shower Mat",
+            "Shower mat Non Slip Without Suction Cups ",
+            "Watch Before You Get This So Called Bamboo Matt",
+            "hot tub mat",
+            "Ruckaye Bamboo Bath Mat, Foldable with Silicon Grip Pads",
+            "Cute bathroom mat that won't build up mould"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0221578d8a2541de898ad48751df9c02?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/032aa6e8c3584d75ba45e9ef2c866c2a?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0547595a91e14ebc8acfe409caf3aaaa?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/02673ffaedd1447ea5a7740a6754a1c7?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0fc7e4ad37734247b306d1d977a086a5?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/0fa9f179c6f245c2aff7c850c5deb2dc?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/0173b6c4ab324f75b76cc6b5282fb385?ref=dp_vse_rvc_6"
+        ],
+        "user_id": [
+            "/shop/annapanfilms",
+            "",
+            "",
+            "/shop/influencer-06ce95a6",
+            "",
+            "",
+            "/shop/liviaukugccreator"
+        ]
+    },
+    "store": "Lavish Home",
+    "categories": [
+        "Home & Kitchen",
+        "Bath",
+        "Bathroom Accessories",
+        "Bathtub Accessories",
+        "Bathtub Mats"
+    ],
+    "details": "{\"Material\": \"Bamboo\", \"Color\": \"Natural\", \"Size\": \"(L)24\\u201d x (W)16\\u201dx (H)0.25\\u201d\", \"Brand\": \"Lavish Home\", \"Item Weight\": \"2.25 Pounds\", \"Shape\": \"Rectangular\", \"Product Dimensions\": \"24\\\"L x 16\\\"W\", \"Manufacturer\": \"Trademark\", \"Country of Origin\": \"China\", \"Item model number\": \"67-BAMB-2\", \"Best Sellers Rank\": {\"Home & Kitchen\": 583589, \"Bathtub Mats\": 500}, \"Volume\": \"1573 Milliliters\", \"Fabric Type\": \"Nullify\", \"Care instructions\": \"Hand wash\", \"Assembly required\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\", \"Included Components\": \"Bath Mat- Natural Wooden Non-Slip Roll Up Lattice Design\"}",
+    "parent_asin": "B0B19GV2GZ",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,20 +1,60 @@
 {
-    "main_category": "All Beauty",
-    "title": "Unisex Face Covering Protective Bandana Neck Gaiter Fashion Cloth Fabric Face Protection Earloop Reusable Washable (4 Pack Camo Dark Brown)",
-    "average_rating": 4.4,
-    "rating_number": 3,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Homelegance Gavino Metal Platform Bed, Full, Silver",
+    "average_rating": 4.2,
+    "rating_number": 10,
+    "features": [
+        "Full size metal bed frame comes with 16 slats",
+        "Stable and durable metal frame construction with fabric insert on headboard and footboard",
+        "Platform bed design can support mattress with or without a foundation/box spring",
+        "Headboard 35.5H, footboard 24.5H inch",
+        "Assembly is required"
+    ],
+    "description": [
+        "The Gavino Collection is styled for the modern bedroom, utilizing minimalistic design elements to create a unique look. Gray metal framing provides contrast to the brown fabric inserts of the headboard and footboard. The collection is offered in twin (B06XQ4CPVX) and full(B06XQ9KQ8P) size beds."
+    ],
+    "price": "191.22",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31927b9SfBS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61CXeQbhMYL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41LGlVGWH0L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31UcorX1cqS._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31927b9SfBS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61CXeQbhMYL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41LGlVGWH0L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31UcorX1cqS._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT02",
+            "PT03",
+            "PT01"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Christmas Feeling",
-    "categories": [],
-    "details": "{\"Package Dimensions\": \"8.54 x 7.28 x 0.67 inches; 1.87 Ounces\", \"UPC\": \"694610266316\"}",
-    "parent_asin": "B08FCLKX9V",
+    "store": "Homelegance",
+    "categories": [
+        "Home & Kitchen",
+        "Furniture",
+        "Bedroom Furniture",
+        "Beds, Frames & Bases",
+        "Beds"
+    ],
+    "details": "{\"Size\": \"Full\", \"Material\": \"Metal\", \"Product Dimensions\": \"78\\\"L x 57.5\\\"W x 36\\\"H\", \"Style\": \"Full Bed\", \"Special Feature\": \"Durable\", \"Color\": \"Silver\", \"Included Components\": \"Bed\", \"Brand\": \"Homelegance\", \"Maximum Weight Recommendation\": \"500 Pounds\", \"Item Weight\": \"73.2 pounds\", \"Furniture Finish\": \"Silver\", \"Assembly Required\": \"Yes\", \"Country of Origin\": \"China\", \"Item model number\": \"2049F-1\", \"Assembled Height\": \"36 inches\", \"Assembled Width\": \"58 inches\", \"Assembled Length\": \"78 inches\", \"Weight\": \"73.25 Pounds\", \"Date First Available\": \"March 17, 2017\"}",
+    "parent_asin": "B071HQG4RW",
     "bought_together": null,
     "subtitle": null,
     "author": null

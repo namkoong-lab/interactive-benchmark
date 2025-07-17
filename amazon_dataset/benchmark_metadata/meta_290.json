@@ -1,26 +1,80 @@
 {
-    "main_category": "All Beauty",
-    "title": "Zia Natural Skincare Ultimate Body Butter, 6 oz",
-    "average_rating": 5.0,
-    "rating_number": 7,
+    "main_category": null,
+    "title": "Vintage Corning Ware Cornflower Blue 1 QT Casserole Dish (A-1-B)",
+    "average_rating": 4.9,
+    "rating_number": 22,
     "features": [
-        "Safflower oil, organic elder and cucumber oil calm inflammation and restore moisture.",
-        "Essential oils of neroli, myrrh and lavender aid healing and cell regeneration.",
-        "Vitamin E, green tea and beta carotene fight free radical damage."
+        "Corning Ware Cornflower Blue A-1-B Casserole 1 QT",
+        "Great for stove, oven, microwave, refrigerator and freezer",
+        "Cornflower Blue design",
+        "Made of durable pyroceramic glass"
     ],
     "description": [
-        "Discover why our customers cannot get enought of this product. This rich, luxurious cream uses shea and mango butters to lavish the skin with moisture. A blend of organic botanicals including aloe, chamomile and ginko biloba, soothe dry, irritated skin and aid cell repair. Green tea, rosehip seed and essential oils are added to fight damage and promote cellular regeneration. Great for elbows, feet, and other areas prone to dry skin"
+        "Vintage Corning Ware Casserole Dish 1 quart (A-1-B) Cornflower Blue design."
     ],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "price": "129.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/310kWO0v+gL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/310kWO0v+gL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "Zia",
-    "categories": [],
-    "details": "{\"Brand\": \"Zia\", \"Item Form\": \"Cream\", \"Unit Count\": \"6.0 Ounce\", \"Number of Items\": \"1\", \"Skin Type\": \"Dry\", \"Is Discontinued By Manufacturer\": \"Yes\", \"Package Dimensions\": \"3.1 x 3 x 2.4 inches; 8.48 Ounces\", \"Item model number\": \"8018I\", \"UPC\": \"758024007641\", \"Manufacturer\": \"Zia\"}",
-    "parent_asin": "B0007CHJGY",
+    "videos": {
+        "title": [
+            "Honest review of Borosilicate Glass Loaf Dish/Pan",
+            "Simax Casseroles and Roasters",
+            "Honest review of Corningware Casserole Ovenware w/ Glass Lid",
+            "NUTRIUPS casserole dish",
+            "Uses for this are endless.....",
+            "Is this the right size you need? ",
+            "HONEST Review of CorningWare Ceramic - Watch Before Buying",
+            "HONEST Review CorningWare White 7-Pc Ceramic Bakeware Set",
+            "Our Point of View on the Pyrex Easy Grab Casserole Dish",
+            "NUTRIUPS glass casserole dish with lid"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0dd0d1003dae4de08b44f5ead2c7243b?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0950257d99aa4a50a2316099c1dafa5d?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0e6e6164a0304c7891d3386dcf860f01?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0d4d1b3b7549400793353ed4cb4df85e?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/00282c9aedec49a7b7fa68a5fa6d007c?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/0c5f644e48e240ef86764291524982de?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/096a9965ab4841eab795159bf7359c98?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/02876516ba6e4cb9af13cea1cb185073?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/0f1bed7a93174615a02d1888075a6227?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/0614b4417cbb4268b429a3db125e4199?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "/shop/roshnirebecca",
+            "",
+            "/shop/roshnirebecca",
+            "",
+            "/shop/influencer20170928659",
+            "/shop/paulad",
+            "/shop/jasonalex28",
+            "/shop/daviddommauthor",
+            "/shop/influencer-20a38664",
+            ""
+        ]
+    },
+    "store": "Corning",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Bakeware",
+        "Bakers & Casseroles",
+        "Casseroles"
+    ],
+    "details": "{\"Package Dimensions\": \"10.51 x 10.31 x 6.69 inches\", \"Item Weight\": \"3.29 pounds\", \"Manufacturer\": \"Corning Ware\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 387399, \"Casserole Cookware\": 567}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"December 15, 2010\", \"Material\": \"Glass\", \"Brand\": \"Corning\", \"Capacity\": \"1 Quarts\", \"Product Care Instructions\": \"Refrigerator Safe And D, Microwave Safe\"}",
+    "parent_asin": "B004GETCIC",
     "bought_together": null,
     "subtitle": null,
     "author": null

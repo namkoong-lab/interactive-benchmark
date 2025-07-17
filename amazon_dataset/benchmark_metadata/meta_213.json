@@ -1,29 +1,82 @@
 {
-    "main_category": "All Beauty",
-    "title": "QrBxa 20 Pcs/Set Tattoo Lipstick Cotton Swab Lipstick, Lip Tattoo Lip Stain Lipstick Cotton Swab, Waterproof Long-Lasting Non-Stick Lipstick Cotton Swab Lip Tint, Easy to Carry(Haze Red)",
-    "average_rating": 3.6,
-    "rating_number": 12,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            " 4 Colors Mini Liquid Lipstick Kit for Watery Lips ",
-            "4 Color Lip Tint Stain Set for Your Charming Lips"
+    "main_category": "Toys & Games",
+    "title": "Dinosaur Party Supplies Birthday Party Decorations - for 16 Guests (161 Pieces)",
+    "average_rating": 4.4,
+    "rating_number": 96,
+    "features": [
+        "MAKE THEIR DINOSAUR FANTASIES COME TRUE with this complete and vibrant dinosaur themed birthday party set",
+        "THE COMPLETE PACKAGE – tired of looking for all the different dinosaur party supplies / decorations for the perfect birthday party ? Look no further ! This set includes 24 balloons, 32 plates, 16 napkins, 16 cups, 16 forks, spoons & knives, 1 table cover, 1 “Happy Birthday” banner, 20 photo booth props, 1 cake topper and 2 ribbon rolls for a total of 161 pieces",
+        "VALUE FOR MONEY - Just the photo booth props alone retail on Amazon for 9 USD; buying the contents of this set separately would cost you more than 60 USD",
+        "PREMIUM QUALITY – with top of the line items, we promise you won't want to take down the decorations after your memorable dinosaur birthday party",
+        "SATISFACTION GUARANTEED – order the party set well in advance to let us know if something is missing/not right (rare) and our dedicated customer service team will make it right for you"
+    ],
+    "description": [
+        "The Dinosaur Theme Birthday Party Supplies / Dinosaur Themed Decorations You Have Been Looking For !",
+        "We made this vibrant Dinosaur Party Supplies Set so you can sit back, relax and impress your guests with your thoughtfulness and birthday party planning skills. This set is going to save you both TIME AND MONEY and we assure you won’t be disappointed",
+        "This set includes:",
+        "✔ 16 dinosaur plates (9 in)",
+        "✔ 16 dinosaur plates (7 in)",
+        "✔ 16 forks, spoons & knives (6 in)",
+        "✔ 16 dinosaur napkins (13 in x 13 in)",
+        "✔ 16 cups (9 oz)",
+        "✔ 24 balloons (8 confetti, 8 green and 8 marble)",
+        "✔ 20 photo booth props",
+        "✔ 1 table cover (108 in x 54 in)",
+        "✔ 1 cake topper",
+        "✔ 1 “Happy Birthday” banner (79in x 12in)",
+        "✔ 2 ribbon rolls (394 in)",
+        "Note:",
+        "To get confetti in balloon to be well dispersed, rub cloth on the confetti balloon exterior - this creates static and holds confetti in place after shaking",
+        "Fiesta de dinosaurios suministros globos platos tazas Photo Booth apoyos"
+    ],
+    "price": "22.71",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91yntZ0415L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91ipvoqyXlL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91Kx5TwPX0L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/815CJrodm6L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61NV9eTxukL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/612KlVh6IjL._AC_SL1000_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/090b4953b72d4080b6d3006809111b71?ref=dp_vse_rvc_0",
-            "https://www.amazon.com/vdp/0bc056b9758d4412a1e202a39a296386?ref=dp_vse_rvc_1"
+        "large": [
+            "https://m.media-amazon.com/images/I/51r2ejTrbUL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51zChwVEMpL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51EHtfJKYGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51zmvGeHs8L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41BnLT9DAhL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51RmV5TprRL._AC_.jpg"
         ],
-        "user_id": [
-            "",
-            ""
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51r2ejTrbUL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51zChwVEMpL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51EHtfJKYGL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51zmvGeHs8L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41BnLT9DAhL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51RmV5TprRL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
         ]
     },
-    "store": "QrBxa",
-    "categories": [],
-    "details": "{\"Brand\": \"QrBxa\", \"Item Form\": \"Stick\", \"Product Benefits\": \"Stain,Makeup Remover,Brightening,Gentle,Long-lasting,Makeup\", \"Specialty\": \"Long-lasting\", \"Age Range (Description)\": \"Adult\", \"Package Dimensions\": \"4.29 x 2.32 x 0.98 inches; 0.63 Ounces\", \"UPC\": \"735913856900\"}",
-    "parent_asin": "B09BNDHBHF",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "FUTURE2",
+    "categories": [
+        "Home & Kitchen",
+        "Event & Party Supplies",
+        "Party Packs"
+    ],
+    "details": "{\"Package Dimensions\": \"9.9 x 9.5 x 4.6 inches\", \"Item Weight\": \"2.49 pounds\", \"Manufacturer recommended age\": \"6 months and up\", \"Manufacturer\": \"FutureSquared\", \"Brand\": \"FUTURE2\", \"Theme\": \"Dinosaur\", \"Occasion\": \"Birthday\", \"Cartoon Character\": \"Dinosaur\"}",
+    "parent_asin": "B07QNDDY5C",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,20 +1,52 @@
 {
-    "main_category": "All Beauty",
-    "title": "MagiDeal 100Pcs Disposable Eyelash Glue Holder Pallet Eyelash Extension Glue Pads",
-    "average_rating": 4.7,
-    "rating_number": 2,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Boston Red Sox Latex Balloon (6 Pack)",
+    "average_rating": 4.5,
+    "rating_number": 48,
+    "features": [
+        "as shown"
+    ],
+    "description": [
+        "blln 12-6 ct ltx bstn red sx. as shown."
+    ],
+    "price": "4.49",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71DlMN1tBfL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51RM1snWlCL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51RM1snWlCL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"UPC\": \"716894743380\"}",
-    "parent_asin": "B01GHSRLTQ",
+    "videos": {
+        "title": [
+            "Balloons Baseball Glove",
+            "Foil Mylar Baseball Balloons "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/00419c625e0b46b28997018dcc5b8b89?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0f4e6344babb4d3db1984495c48ba3f7?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            ""
+        ]
+    },
+    "store": "amscan",
+    "categories": [
+        "Home & Kitchen",
+        "Event & Party Supplies",
+        "Decorations",
+        "Balloons"
+    ],
+    "details": "{\"Product Dimensions\": \"7 x 5 x 0.1 inches\", \"Item Weight\": \"0.32 ounces\", \"Manufacturer\": \"Amscan\", \"Item model number\": \"SG_B004ZNYQD0_US\", \"Is Discontinued By Manufacturer\": \"No\", \"Assembly required\": \"No\", \"Number of pieces\": \"6\", \"Batteries required\": \"No\", \"Color\": \"Red\", \"Cartoon Character\": \"Boston Red Sox\", \"Material\": \"Rubber\", \"Unit Count\": \"1.00 Count\", \"Item Dimensions LxWxH\": \"7 x 5 x 0.1 inches\", \"Brand\": \"Amscan\", \"CPSIA Cautionary Statement\": \"Choking Hazard - Balloon\"}",
+    "parent_asin": "B004ZNYQD0",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,20 +1,54 @@
 {
-    "main_category": "All Beauty",
-    "title": "100Pcs Durable Micro Disposable Eyelash Applicators, Eyelash Dedicated Extension Individual Applicators Mascara Brush for Make up, Clean and Compatible",
-    "average_rating": 3.9,
-    "rating_number": 10,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Beverage Factory FP-CB05G Carboy, 1 Count (Pack of 1)",
+    "average_rating": 4.5,
+    "rating_number": 299,
+    "features": [
+        "The Kegco 5 gallon glass carboy makes a great alternative option to a plastic carboy or bucket and is the perfect vessel for fermenting 4 or 5 gallon batches. The durable carboy is airtight and will not break down over time.",
+        "This carboy is constructed of glass ensuring that they do not easily scratch making cleaning and sanitizing much easier. If handled with care, the Kegco 5 gallon glass carboy can provide decades of great performance.",
+        "These carboys are made of glass and should be handled with extreme care, they are not impervious to thermal shock and can shatter when exposed to large, sudden changes in temperature.",
+        "Carboy includes nylon carrying straps for ease of transportation.",
+        "Measures 18.75\" H x 10.5\" W."
+    ],
+    "description": [
+        "5 gallon glass carboys are preferred over plastic buckets and plastic carboys for a multitude of reasons. They do not scratch easily, making them easy to sanitize and preventing them from holding odors After fermentation. They are airtight and do not break down over time so if you handle them with care, They can provide decades of great performance. Material: glass dimensions: 18.75\"H x 10.5\"W weight: 15 lbs"
+    ],
+    "price": "97.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61rpo3lWSnL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41WKHIA7p1L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41WKHIA7p1L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "KAYZON",
-    "categories": [],
-    "details": "{\"Brand\": \"KAYZON\", \"Recommended Uses For Product\": \"Eyelashes, For Mascara\", \"Material\": \"Cotton,Plastic\", \"Skin Type\": \"All\", \"Item Form\": \"Wand\", \"Number of Pieces\": \"100\", \"Age Range (Description)\": \"Adult\", \"Ferrule Material\": \"Aluminum\", \"Skin Tone\": \"All\", \"Package Dimensions\": \"5.28 x 3.9 x 0.63 inches; 3.21 Ounces\", \"UPC\": \"670526462738\"}",
-    "parent_asin": "B09F6B5G9D",
+    "videos": {
+        "title": [
+            "REVIEW of the 5 Gallon PET Carboy"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0e6cb4c688184b9ea4b749e2677037bd?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "/shop/dallascarter"
+        ]
+    },
+    "store": "Beverage Factory",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Home Brewing & Wine Making",
+        "Fermentation & More",
+        "Carboys"
+    ],
+    "details": "{\"Brand\": \"Beverage Factory\", \"Material\": \"Glass\", \"Color\": \"Multicolor\", \"Capacity\": \"5 Gallons\", \"Style\": \"Modern\", \"Occasion\": \"Everyday\", \"Included Components\": \"Carboy, Strap\", \"Pattern\": \"Solid\", \"Product Care Instructions\": \"Hand Wash Only\", \"Unit Count\": \"1.0 Count\", \"Item Weight\": \"16 pounds\", \"Product Dimensions\": \"11\\\"W x 21\\\"H\", \"Number of Items\": \"1\", \"Package Type\": \"Standard Packaging\", \"Department\": \"Home and Garden\", \"Manufacturer\": \"Beverage Factory\", \"Item model number\": \"FP-CB05G\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 277165, \"Brewing & Fermentation Carboys\": 61}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"June 29, 2017\"}",
+    "parent_asin": "B00JWYRFTY",
     "bought_together": null,
     "subtitle": null,
     "author": null

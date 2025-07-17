@@ -1,20 +1,73 @@
 {
-    "main_category": "All Beauty",
-    "title": "Red Hair Coloring Dye Wax Instant Hair Wax Temporay Hairstyle Cream Hair Pomades Natural Hairstyle Wax for Men and Women Party Cosplay",
-    "average_rating": 3.8,
-    "rating_number": 19,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "AMAZON FASHION",
+    "title": "Fashion press Creative Blanket Hummingbird Art Blanket 58x80 Inch Fleece Blanket Sheet Throw Bedding Blanket Fleece Throw Blanket Baby Blanket Travel Blanket Indoor / Outdoor",
+    "average_rating": 5.0,
+    "rating_number": 5,
+    "features": [
+        "Fleece",
+        "Machine Wash",
+        "Fashion press shop Dimensions: 58 inches wide x 80 inches long - 147.32cm * 203.2cm",
+        "All blankets are white colored with black satin trim. Photo Collage Full Color Printing",
+        "Machine washable and dries quickly. High quality blanket, Supersoft, Washable, Anti pilling",
+        "Whether used as a lap warmer or snuggling in on a cold wintery night, these refined sizes are conveniently suited for indoor and outdoor usage.",
+        "Give warmth to friends and family members with a personalized touch in the shape of fleece blankets. Always need 15-20 days shipping"
+    ],
+    "description": [
+        "Give warmth to friends and family members with a personalized touch in the shape of fleece blankets. With advanced technology and investment put into new machinery, we are proud to present you with well-sized blankets that can be fully customized. Whether used as a lap warmer or snuggling in on a cold winter night, these refined sizes are conveniently suited for indoor and outdoor usage."
+    ],
+    "price": "35.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51irilRcL-L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41SDyZ6cE6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41vRzYX2o5L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51RfmEr+DdL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41i+vjt95LL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41kOdmJrCHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41ej3VCltJL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51irilRcL-L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41SDyZ6cE6L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41vRzYX2o5L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51RfmEr+DdL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41i+vjt95LL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41kOdmJrCHL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41ej3VCltJL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Neutral",
-    "categories": [],
-    "details": "{\"Brand\": \"Neutral\", \"Item Form\": \"Wax\", \"Unit Count\": \"1.00 Count\", \"Material Feature\": \"Natural\", \"Package Dimensions\": \"2.83 x 2.83 x 2.05 inches; 5.29 Ounces\", \"UPC\": \"718893086086\"}",
-    "parent_asin": "B087BL2XJ5",
+    "store": "Blanket 58\" x 80\"",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Blankets & Throws",
+        "Throws"
+    ],
+    "details": "{\"Material\": \"Fleece\", \"Color\": \"Red,?navy?blue,?pink,?green,?black,?white\", \"Brand\": \"Blanket 58\\\" x 80\\\"\", \"Style\": \"Modern\", \"Blanket Form\": \"Throw Blanket\", \"Date First Available\": \"December 25, 2015\", \"Manufacturer\": \"fashion press\"}",
+    "parent_asin": "B019TGVOZU",
     "bought_together": null,
     "subtitle": null,
     "author": null

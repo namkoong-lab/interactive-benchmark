@@ -1,24 +1,58 @@
 {
-    "main_category": "All Beauty",
-    "title": "Facial Mask-Mud Magick Botanicals 3 oz Cream",
-    "average_rating": 3.6,
-    "rating_number": 2,
+    "main_category": "Amazon Home",
+    "title": "Metallic Gold Silver Foil Fringe Curtain Shiny Tinsel For Party, Birthday, Prom, Photo Booth, Special Event (3' x 8' ft) Curtains (2-Pack Gold)",
+    "average_rating": 4.8,
+    "rating_number": 24,
     "features": [
-        "Facial Mask-Mud - 3 oz - Cream"
+        "ALL PURPOSE - These shiny curtains are great for all events, crafts and anything in between! At 3' (feet) x 8' (feet) Drop, you can use them for almost anything your creative mind allows!",
+        "SHINY & DECORATIVE - Shiny, decorative, and simply great. It doesn't matter where you place it, it'll just look awesome. That's because the gold foil reflects and evenly scatters the light that hits it. It looks pretty awesome.",
+        "STRONG & STURDY - Forget about those cheap plastic curtains that fall apart as soon as you put them up. With these, you'll have them lasting you for ages to come and the life of your party.",
+        "PREMIUM MATERIALS - We use only the finest materials when making these curtains. You know what means? Your guests will be able to walk through them and not fall apart. Their reflective nature will make your party stand out from the rest!",
+        "GREAT FOR PARTIES & EVENTS - Photo Booth Parties, Halloween, New Years and any other holiday you can think of!"
     ],
     "description": [
-        "Facial Mask-Mud by Magick Botanicals 3 oz Cream Magick Mud Facial Masque 3 oz Makes 20 Facials Ingredients Clay Barley Rosemary Mint Kelp Rosehips Ascorbic Acid (Vitamin-C) Homeopathic Cell Salts Allantoin."
+        "ALL PURPOSE - These shiny curtains are great for all events, crafts and anything in between! At 3' (feet) x 8' (feet) Drop, you can use them for almost anything your creative mind allows! SHINY & DECORATIVE - Shiny, decorative, and simply great. It doesn't matter where you place it, it'll just look awesome. That's because the gold foil reflects and evenly scatters the light that hits it. It looks pretty awesome. STRONG & STURDY - Forget about those cheap plastic curtains that fall apart as soon as you put them up. With these, you'll have them lasting you for ages to come and the life of your party. PREMIUM MATERIALS - We use only the finest materials when making these curtains. You know what means? Your guests will be able to walk through them and not fall apart. Their reflective nature will make your party stand out from the rest! GREAT FOR PARTIES & EVENTS - Photo Booth Parties, Halloween, New Years and any other holiday you can think of!"
     ],
-    "price": "None",
+    "price": "8.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71UI7Q7uYrL._AC_SL1275_.jpg",
+            "https://m.media-amazon.com/images/I/71qTZsLM5BL._AC_SL1278_.jpg",
+            "https://m.media-amazon.com/images/I/61-98Tll0eL._AC_SL1000_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51MneUYJcPL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51z4LnmSVIL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51vJO8RS76L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51yXK22ew7L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51MneUYJcPL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51z4LnmSVIL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51vJO8RS76L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51yXK22ew7L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "thebestton",
-    "categories": [],
-    "details": "{\"Brand\": \"Thebestton\", \"Item Form\": \"Clay\", \"Scent\": \"Mint, Rosemary\", \"Skin Type\": \"Sensitive\", \"Unit Count\": \"1.00 Count\", \"Package Dimensions\": \"5.7 x 3.1 x 0.6 inches; 0.35 Ounces\", \"Item model number\": \"000469007060\", \"UPC\": \"890124790884 000469007060\", \"Manufacturer\": \"Magick Botanicals\"}",
-    "parent_asin": "B00028NLKG",
+    "store": "Wall2Wall",
+    "categories": [
+        "Home & Kitchen",
+        "Event & Party Supplies",
+        "Photobooth Props"
+    ],
+    "details": "{\"Material\": \"Plastic\", \"Color\": \"2-pack Gold\", \"Occasion\": \"Birthday, Halloween\", \"Theme\": \"Birthday, Halloween\", \"Brand\": \"Wall2Wall\", \"Number of Pieces\": \"2\", \"Package Dimensions\": \"7.72 x 7.01 x 1.18 inches\", \"Item Weight\": \"5.6 ounces\", \"Manufacturer\": \"Wall2Wall\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"January 19, 2017\"}",
+    "parent_asin": "B01MR7M49Q",
     "bought_together": null,
     "subtitle": null,
     "author": null

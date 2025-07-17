@@ -1,20 +1,104 @@
 {
-    "main_category": "All Beauty",
-    "title": "Hemani Organic Henna Hair Color – 100% Organic and Chemical Free - Black",
-    "average_rating": 3.0,
-    "rating_number": 6,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Meat Grinder, Manual Household Aluminum Alloy Mincer Machine Sausage Meat Grinder Pepper Spice Grinding Machine with Sausage Stuffing Tube, Food Grinding Mincing Machine for Meat, Sausage",
+    "average_rating": 3.1,
+    "rating_number": 9,
+    "features": [
+        "[High‑hardness Aluminum Alloy Material]: Our meat grinder adopts high‑hardness aluminum alloy for one‑time molding and precise casting, which is durable in use and anti‑rust. Fine, strong blade that won't dull or wear after multiple grindings and is durable for a long service life",
+        "[Effortless Ergonomic Handle]: With a comfortable handle, it conforms to ergonomics and lever principle, the operation is labor‑saving and convenient. Easy, simple and effortless operation, allowing you to get finely ground meat quickly",
+        "[Five‑segment Spiral Extrusion]: The meat grinder adopts five‑segment spiral extrusion to imitate manual beating, which is easy to use and suitable for home kitchen use. Multi-level auger and cutting blade working simultaneously makes meat spirally extruded many times and instantly minced",
+        "[Simple Operation]: Equipped with forged high‑quality cutter heads, with fine perforations, the skeined meat is delicate and smooth. Just turning the handle several times, the manual meat mincer makes you get ground meat without touching the blades",
+        "[Multifunctional Mincer Machine]: Easy to install, the meat grinder is suitable for mincing pork, beef, chicken, various spices, peppers, etc. and sausage making. A sausage stuffing tube is included to make it easier to make your own unique sausage"
+    ],
+    "description": [
+        "Feature:    1. Sausage stuffer machine adopts high‑hardness aluminum alloy for one‑time molding and precise casting, which is durable in use and anti‑rust.    2. With a comfortable handle, it conforms to ergonomics and lever principle, the operation is labor‑saving and convenient.    3. Adopts five‑segment spiral extrusion to imitate manual beating, which is easy to use and suitable for home kitchen use.    4. Equipped with forged high‑quality cutter heads, with fine perforations, the skeined meat is delicate and smooth.    5. Easy to install, manual meat grinding machine suitable for mincing pork, beef, chicken, various spices, peppers, etc. and sausage making.    Specification:    Condition: 100% Brand New    Item Type: Manual Grinder    Material: Aluminum Alloy    Weight: Approx. 573g / 20.2oz    Size: Approx. 13x22cm / 5.1x8.7in    Package List:    1 x Manual Grinder    1 x Handle    1 x Sausage Stuffing Tube    1 x Screw    Note:    1.Please allow 0‑1 inch error due to manual measurement. Thanks for your understanding.    2.Monitors are not calibrated same, item color displayed in photos may be showing slightly different from the real object. Please take the real one as standard.    3.Please note that the new type and old type of this product will be sent randomly, and make sure you will not mind before ordering."
+    ],
+    "price": "24.39",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/713PNlPBWFL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81v+judCheL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71x8GOHN1nL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/713drVJCm9L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81ZS-FN2NrL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71pvYRAhAPL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Mc3J1p2CL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61qZZGoSMCL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/713PNlPBWFL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41HX3ZGTnGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51YtXsTsaPL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51ZoubINf5L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51aDMe29X-L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51qos6LFmYL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51MLfs3O1hL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51xFmNIulhL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/418HpNgsiZL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41HX3ZGTnGL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41HX3ZGTnGL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51YtXsTsaPL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51ZoubINf5L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51aDMe29X-L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51qos6LFmYL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51MLfs3O1hL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51xFmNIulhL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/418HpNgsiZL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41HX3ZGTnGL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08"
+        ]
     },
-    "store": "Hemani",
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\"}",
-    "parent_asin": "B01LY9YNEK",
+    "videos": {
+        "title": [
+            "CucinaPro Meat Grinder with Tabletop Clamp & 2 Cutting Disks",
+            "LHS Manual Meat Grinder Operation Video",
+            "HONEST REVIEW-The LHS Manual Meat Grinder",
+            "Meat Grinder with Tabletop Clamp ",
+            "Manual Meat Grinder",
+            "Meat in a Clear Meat Grinder",
+            "Install a Meat Grinder on Table Edge"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0d44c396a2f543ba860c19fbbe581f04?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/06a8ac80e2bd4b319ee7063d4026be64?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/04239a7871ae4cc39592c678ba9305dd?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0c3951263aa947e5a8b2f6048deffcbe?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0c57a56dd7174622ad3416f69a737059?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/0827b50d8a0d4f629389e7d5715c7519?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/bc40c6d41f554007bdab50ec504b332f?ref=dp_vse_rvc_6"
+        ],
+        "user_id": [
+            "",
+            "",
+            "/shop/ronschrader",
+            "",
+            "",
+            "/shop/beatthebush",
+            ""
+        ]
+    },
+    "store": "Ejoyous",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen Utensils & Gadgets",
+        "Meat & Poultry Tools",
+        "Meat Grinders"
+    ],
+    "details": "{\"Package Dimensions\": \"9.25 x 6.46 x 3.31 inches\", \"Item Weight\": \"1.23 pounds\", \"Manufacturer\": \"Ejoyous\", \"Item model number\": \"Ejoyousyd9rng58z11384\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 331745, \"Meat Grinders\": 439}, \"Date First Available\": \"March 16, 2022\", \"Brand\": \"Ejoyous\", \"Color\": \"Silver\", \"Material\": \"default\", \"Recommended Uses For Product\": \"Kitchen\", \"Specific Uses For Product\": \"Mincer\"}",
+    "parent_asin": "B09VQ7FNSZ",
     "bought_together": null,
     "subtitle": null,
     "author": null

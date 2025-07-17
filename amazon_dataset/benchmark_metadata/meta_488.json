@@ -1,20 +1,76 @@
 {
-    "main_category": "All Beauty",
-    "title": "Zermat MIO Malicia By Alicia Machado for Men 3.38oz MIO Caballero 100ml",
-    "average_rating": 5.0,
-    "rating_number": 9,
-    "features": [],
-    "description": [],
-    "price": "39.75",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Classic Touch Cordless 1\" Light Filtering Mini Blind, 30\" Wide x 64\" Long, White",
+    "average_rating": 4.4,
+    "rating_number": 22,
+    "features": [
+        "No Cords to Tangle! Child & Pet Safe!",
+        "Specially formulated to minimize dust",
+        "To operate simply Lift or Lower Bottom Rail to Raise or Lower Blind",
+        "Includes tilt wand to adjust slats & control how much sunlight streams into your room"
+    ],
+    "description": [
+        "No Cords to Tangle! Child & Pet Safe! Specially formulated to minimize dust To Operate: Simply Lift or Lower Bottom Rail to Raise or Lower Blind Includes tilt wand to adjust slats & control how much sunlight streams into your room Mounting brackets are designed for inside, outside or ceiling installation The blind can easily be shortened by following the simple instructions. All hardware and installation instructions are included. This blind will fit windows 3/8\" (0.95 cm) smaller and 1/2\" (1.27 cm) wider than stated size. This actual blind is 1/2 \" (1.27 cm) narrower/smaller than stated size. Actual Slat size is 1\""
+    ],
+    "price": "32.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61Zzz3lZeuL._AC_SL1500_.jpg",
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31UCYqJXSSL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61GPNdATinL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31JD77ioWVL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31UCYqJXSSL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61GPNdATinL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31JD77ioWVL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
     },
-    "store": "Zermat International",
-    "categories": [],
-    "details": "{\"Brand\": \"Zermat International\", \"Item Volume\": \"100 Milliliters\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Item Weight\": \"3.38 Ounces\", \"Is Discontinued By Manufacturer\": \"No\"}",
-    "parent_asin": "B00KWUOJ3M",
+    "videos": {
+        "title": [
+            "Cordless Vinyl Blinds",
+            "Achim Home Furnishings Cordless GII Luna 2\" Vinyl Venetian",
+            "MUST KNOW THINGS About The CHICOLOGY Blinds for Windows",
+            "Achim Home Furnishings Cordless GII Morningstar 1\" Light Filtering Mini Blind, 35\" x 48\", White,...",
+            "White Wide Luver Window Blinds",
+            "These Blinds Are The Best!"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/037410dc9f5a4fa295dfebb09b22d158?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/17793f88fdb44b518f90969b57e94902?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0809b3e7c39d499da535e328fa6d6229?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/7ffb880371ec4b83a5133aadfd900a92?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0578a880fe0a486c9f90ee7fd7daf9aa?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/0c89ee9a584a4450aece201c1c17d34a?ref=dp_vse_rvc_5"
+        ],
+        "user_id": [
+            "/shop/thecherieamourshow",
+            "",
+            "/shop/jimbobalaam",
+            "",
+            "/shop/influencer-dcb4065c",
+            "/shop/jasenf"
+        ]
+    },
+    "store": "Classic Touch",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Window Treatments",
+        "Blinds & Shades",
+        "Horizontal Blinds"
+    ],
+    "details": "{\"Material\": \"Vinyl\", \"Product Dimensions\": \"64\\\"L x 30\\\"W\", \"Brand\": \"Classic Touch\", \"Color\": \"White\", \"Room Type\": \"Bedroom\", \"Operation Mode\": \"Manual\", \"Special Feature\": \"Cordless\", \"Shape\": \"Rectangular\", \"Number of Items\": \"1\", \"Item Weight\": \"4 pounds\", \"Size\": \"30\\\" (Width) x 64\\\" (Length)\", \"Mounting Type\": \"Outside Mount,Ceiling Mount\", \"Number Of Panels\": \"1\", \"Water Resistance Level\": \"Not Water Resistant\", \"Manufacturer\": \"Friedland Bros.\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1885050, \"Horizontal Window Blinds\": 1151}, \"Date First Available\": \"January 26, 2019\"}",
+    "parent_asin": "B07PB57SY8",
     "bought_together": null,
     "subtitle": null,
     "author": null

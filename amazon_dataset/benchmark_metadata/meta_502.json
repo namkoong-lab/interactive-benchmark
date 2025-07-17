@@ -1,20 +1,95 @@
 {
-    "main_category": "All Beauty",
-    "title": "Boscia the Black Collection",
-    "average_rating": 3.0,
-    "rating_number": 2,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Appliances",
+    "title": "Nostalgia Retro Compact Countertop Microwave Oven, 0.7 Cu. Ft. 700-Watts with LED Digital Display, Child Lock, Easy Clean Interior, Orange",
+    "average_rating": 4.3,
+    "rating_number": 4183,
+    "features": [
+        "700-Watts Cooking Power: At 0.7 cubic foot, this microwave provides the cooking power needed to quickly cook and reheat foods",
+        "Convenient Cooking Controls: 12 pre-programmed cooking settings, delay timer and express cooking provide options for the optimal heating of popular foods like popcorn, pizza, potatoes, veggies and more",
+        "Digital Clock: Easy-to-read LED display lights up the digital clock and highlights each cooking setting",
+        "Even Cooking: Rotating glass carousel helps cook food evenly",
+        "Retro Accents: A sleek chrome door handle, control panel and accents add fun and flair to this unique retro-styled appliance",
+        "Simple Program Dial: Easily navigate cooking settings with simple turn-and-push program dial",
+        "Interior Dimension: 13 L x 13 W x 8 H inch"
+    ],
+    "description": [
+        "With a beautiful and sleek retro design, this microwave is sure to stand out in any kitchen. It features 12-pre programmed cooking settings and a bright LED display, making usability simple. Five power levels and 700-watts of power are perfect for reheating leftovers or cooking food."
+    ],
+    "price": "112.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71CMipnTOnL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61A32qR3VJL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Bg3txruVL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/715mBp9SRjL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/418w3CaE5QL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41eqDJ6Wv1L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31gPwVDZyHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41fTrs5aVAL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/418w3CaE5QL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41eqDJ6Wv1L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31gPwVDZyHL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41fTrs5aVAL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
     },
-    "store": "BOSCIA",
-    "categories": [],
-    "details": "{\"Package Dimensions\": \"5.25 x 4 x 3.25 inches; 6.4 Ounces\"}",
-    "parent_asin": "B019EPWMW0",
+    "videos": {
+        "title": [
+            "All my friends ask where I got such a cool microwave! ",
+            "Nostalgia Retro Microwave Countertop Oven LED Digital Review",
+            "Vintage microwave review",
+            "Pink nostalgia microwave  ",
+            "Nostalgia 0.7 Cu.Ft Retro Microwave, Black",
+            "Nostalgia 0.7 Cu.Ft. Retro Microwave, Aqua",
+            "Finally - a simple microwave!",
+            "My new microwave unboxing",
+            "Nostalgia RMO4BK Retro 0.9 Cubic Foot 800-Watt Countertop Microwave Oven, 5 Power Levels and 12 C...",
+            "COSTWAY Retro Countertop Microwave Oven"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/040097377e0f46dc9bdc681dadffb318?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/01a6b462278441be8b4d388050804597?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/04d8686d38de4ba9a22cef7b74bec28a?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/02d1ffdf16da4596a5a575bbaff8bde7?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0b3ca331ff80484bbad6866ec5f2cc09?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/0717cf482757477cab7480aab4fcdf94?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/09b4ce6afcd74784b40477da88ccd53f?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/092f3db51ec9406b976291f8dac5487c?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/23be831a22f5401eb9c993a99ac07b16?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/05dfd917f01049319d5b7e48743e7052?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "/shop/marlodarescuepup",
+            "/shop/passionpurposeprofit",
+            "/shop/shanicecunnigan",
+            "/shop/jordainshrum",
+            "",
+            "",
+            "/shop/brightonwestvideo",
+            "/shop/themobilenotarymentor",
+            "",
+            ""
+        ]
+    },
+    "store": "Nostalgia",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Small Appliances",
+        "Microwave Ovens",
+        "Countertop Microwave Ovens"
+    ],
+    "details": "{\"Brand Name\": \"Nostalgia\", \"Model Info\": \"Retro\", \"Item Weight\": \"23.2 pounds\", \"Product Dimensions\": \"10.09\\\"D x 17.75\\\"W x 12.91\\\"H\", \"Country of Origin\": \"China\", \"Item model number\": \"Retro\", \"Energy Use\": \"700 Watts\", \"Capacity\": \"0.7 Cubic Feet\", \"Installation Type\": \"Countertop\", \"Part Number\": \"NRMO7OR6A\", \"Special Features\": \"Timer\", \"Color\": \"Orange\", \"Wattage\": \"700 watts\", \"Included Components\": \"Microwave\", \"Batteries Required?\": \"No\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 5567, \"Countertop Microwave Ovens\": 22}, \"Domestic Shipping\": \"Item can be shipped within U.S.\", \"International Shipping\": \"This item is not eligible for international shipping.  Learn More\", \"Date First Available\": \"September 16, 2022\", \"Brand\": \"Nostalgia\", \"Special Feature\": \"Timer\", \"Recommended Uses For Product\": \"Residential\", \"Controller Type\": \"Mechanical Knob\"}",
+    "parent_asin": "B0BYTBY92H",
     "bought_together": null,
     "subtitle": null,
     "author": null

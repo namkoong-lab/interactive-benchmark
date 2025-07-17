@@ -1,20 +1,76 @@
 {
-    "main_category": "All Beauty",
-    "title": "COSRX Low pH PHA Barrier Mist, 75ml",
-    "average_rating": 4.2,
-    "rating_number": 91,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Dust Ruffled Bed Skirt with Split Corner 100% Microfiber Soft, Sheen & Wrinkle Free Bed Skirt Gathered Style Dust Ruffle Bed Skirt with 18\" Drop Three Sided Coverage Bed Skirts (White-Queen)",
+    "average_rating": 4.3,
+    "rating_number": 55,
+    "features": [
+        "100% Microfiber",
+        "Made in India",
+        "PACKAGE INCLUDES: Leisure Lazing Split Corners Ruffled Bed Skirt Package Includes one piece of QUEEN Size Bed Skirt (60x80x18) inch.",
+        "DELIGHTFUL DESIGN : This Bedskirt features with gathered ruffles around 3 sides of bed for a classic, beautiful look. This Ruffle gathered Bed skirt is having Split Corners for the pretty appearance. It will hang nicely & helps to hide the space below bed and protect it from the dust.",
+        "QUALITY ASSURANCE: The Bed skirt Woven from the finest 100% Microfiber Yarns to ensure super soft luxurious Sheets which are long-lasting with a specialized finishing process to enhance the softness of the fabric.",
+        "Fabric is pre-shrunk, colorfast, and wrinkle-resistant for optimal longevity.",
+        "CARE INSTRUCTION: Machine wash in cold water with similar colors. Tumble dry low. Do not bleach."
+    ],
+    "description": [
+        "Bed Skirt Made up of 100% Microber"
+    ],
+    "price": "28.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61FdBANZL1L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/611YtpCs-GL._AC_SL1358_.jpg",
+            "https://m.media-amazon.com/images/I/71JzhIbqXuL._AC_SL1000_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/51bO+MPlJBL._AC_SL1281_.jpg",
+            null,
+            null,
+            "https://m.media-amazon.com/images/I/61n-19ekytL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41xVPwuRKDL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/416LZ1hbmmL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61M7e2LVd6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41HOSyyVU5L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31-wK+3UrwL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/510Lqp3s1zL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/418E3JF7UyL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31nLclSsTDL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41xVPwuRKDL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/416LZ1hbmmL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61M7e2LVd6L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41HOSyyVU5L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31-wK+3UrwL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/510Lqp3s1zL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/418E3JF7UyL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31nLclSsTDL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "COSRX",
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"6.93 x 2.05 x 3.78 inches; 2.47 Ounces\", \"Manufacturer\": \"COSRX\"}",
-    "parent_asin": "B078JJW9GV",
+    "store": "Leisure Lazing",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Bed Skirts"
+    ],
+    "details": "{\"Color\": \"White\", \"Size\": \"Queen-18\\\" Drop\", \"Material\": \"Microfiber\", \"Brand\": \"Leisure Lazing\", \"Pattern\": \"Solid\", \"Fabric Type\": \"100% Microfiber\", \"Care instructions\": \"Machine Wash\", \"Drop Length\": \"18 Inches\", \"Product Dimensions\": \"80\\\"L x 60\\\"W x 18\\\"H\", \"Item Weight\": \"1.86 pounds\", \"Manufacturer\": \"Leisure Lazing\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3641750, \"Bed Skirts\": 1854}, \"Perfume\": \"Unscented\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\", \"Import\": \"Made in India\"}",
+    "parent_asin": "B08DJ3CD2F",
     "bought_together": null,
     "subtitle": null,
     "author": null

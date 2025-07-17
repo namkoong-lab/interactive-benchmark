@@ -1,20 +1,55 @@
 {
-    "main_category": "All Beauty",
-    "title": "LANKIZ Volume Lash Extensions Premade Fans Eyelash Extensions 5D 0.07mm C Curl 11mm Long Stem Russian Volume Individual Lashes",
-    "average_rating": 3.7,
-    "rating_number": 47,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Industrial & Scientific",
+    "title": "di Potter WS435 Linen & Lace Paper White Wine Glass Shade, White (Pack of 6)",
+    "average_rating": 4.2,
+    "rating_number": 11,
+    "features": [
+        "Create an enchanting atmosphere with ease just place on a wine glass with a flameless tea light",
+        "Easy to assemble, just roll and insert the tabs into the notches",
+        "Fits Standard White Wine Glass",
+        "Made in America",
+        "For use with a flameless tea light and your own wine glass"
+    ],
+    "description": [
+        "Di Potter's translucent paper wine glass shades set an elegant scene with ease; Simply place on a white wine glass and add a tea light. Shades store flat or stacked to maximize space. Fits standard white wine glass. For use with battery operated tea lights or tea light fuel cells in a glass container; Tea light not included. Assembly required. Finished dimension is 4.5\" diameter x 4.75\" high."
+    ],
+    "price": "16.77",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41HTcq9UKtL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41HTcq9UKtL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "LK LANKIZ",
-    "categories": [],
-    "details": "{\"Color\": \"Black\", \"Brand\": \"LK LANKIZ\", \"Material\": \"Polybutylene Terephthalate Fiber\", \"Item Dimensions LxWxH\": \"4.61 x 2.48 x 0.39 inches\", \"Material Feature\": \"Natural\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"4.61 x 2.48 x 0.39 inches; 0.81 Ounces\", \"Item model number\": \"BLAN033\"}",
-    "parent_asin": "B07K6GKN19",
+    "videos": {
+        "title": [
+            "Instant Table Decor! Wine Glass Shades "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/09b46ebcf2224e32baed4d506549d5ea?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "/shop/marcymckenna"
+        ]
+    },
+    "store": "di Potter",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Glassware & Drinkware",
+        "Wine & Champagne Glasses",
+        "Wine Glasses"
+    ],
+    "details": "{\"Brand\": \"Di Potter\", \"Material\": \"Glass, Paper\", \"Color\": \"White\", \"Style\": \"Modern\", \"Theme\": \"Tea\", \"Product Dimensions\": \"4.5 x 4.5 x 5.75 inches; 0.5 Ounces\", \"Item model number\": \"WS435\", \"Date First Available\": \"December 9, 2015\", \"Manufacturer\": \"di Potter\", \"Country of Origin\": \"USA\"}",
+    "parent_asin": "B0195GPKPY",
     "bought_together": null,
     "subtitle": null,
     "author": null

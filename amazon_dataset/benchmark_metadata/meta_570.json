@@ -1,20 +1,51 @@
 {
-    "main_category": "All Beauty",
-    "title": "TAFLY Boys Temporary Tattoos for Kids - Cat,Spider,Scorpion,lizard,unicorn,bat,sailboat,cross,flame etc 8 Sheets (2.4\"X4\")",
+    "main_category": "Amazon Home",
+    "title": "jarden consumer-domestic HAPF600M-U3 Hep Repl Filter",
     "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "rating_number": 3,
+    "features": [
+        "This product adds a great value",
+        "Product is highly durable and very easy to use",
+        "This product is manufactured in China",
+        "Product Dimension: 10.0\"L x 7.13\"W x 2.0\"H"
+    ],
+    "description": [
+        "The Holmes HAPF600M-U3 True HEPA Filter helps transform impure, polluted air by passing it thru a HEPA-type filtration system that leaves nothing but a balance of clean inhalation & gentle renewal in its wake. This filter works with Holmes Air Purifier models HAP726-NU, HAP756-NU and HAP8650B-NU."
+    ],
+    "price": "24.95",
+    "images": {
+        "hi_res": [
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/412Vmz3C9AL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/313-1ZSf3iL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/412Vmz3C9AL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/313-1ZSf3iL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT12"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": null,
-    "categories": [],
-    "details": "{}",
-    "parent_asin": "B06X6LW14H",
+    "store": "jarden consumer-domestic",
+    "categories": [
+        "Home & Kitchen",
+        "Vacuums & Floor Care",
+        "Vacuum Parts & Accessories",
+        "Filters",
+        "Upright Filters"
+    ],
+    "details": "{\"Product Dimensions\": \"10 x 7.13 x 2 inches\", \"Item Weight\": \"0.01 ounces\", \"Manufacturer\": \"JARDEN CONSUMER DOMESTIC\", \"Item model number\": \"HAPF600M-U3\", \"Best Sellers Rank\": {\"Home & Kitchen\": 4318094, \"Replacement Upright Vacuum Filters\": 7568}, \"Is Discontinued By Manufacturer\": \"No\", \"Assembly required\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\", \"Included Components\": \"Home Decor;Decorative Accessories;home-decor-accents\", \"Import\": \"Imported\", \"Brand\": \"jarden consumer-domestic\", \"Material\": \"HEPA\", \"Number of Pieces\": \"1\"}",
+    "parent_asin": "B00NBBHFNK",
     "bought_together": null,
     "subtitle": null,
     "author": null

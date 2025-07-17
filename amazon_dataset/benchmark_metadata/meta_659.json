@@ -1,20 +1,100 @@
 {
-    "main_category": "All Beauty",
-    "title": "6 Pack Headbands for Women Workout Head Bands Fashion Soft Hair Band Floral Style Bandana Yoga Running Boho Elastic Non Slip Head Wrap",
-    "average_rating": 3.8,
-    "rating_number": 8,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Casio TQ140 Travel Alarm Clock - Bla Clock Radios",
+    "average_rating": 4.2,
+    "rating_number": 2039,
+    "features": [
+        "Beep Alarm",
+        "3 Hand Analog Display",
+        "Luminous Hands and Markers",
+        "Size: 57mm Each Size",
+        "Size AA Battery Included"
+    ],
+    "description": [
+        "This Casio alarm clock features luminescent hands and Arabic hour markers on a white dial. It has a durable black plastic case that is ideal for travelling. Requires 1 AA battery (included). Case / bezel material: Resin Beeper sound alarm Accuracy: ±20 seconds per month Approx. battery life: 12 months on R6P Size of case: 57 × 57 × 33 mm Total weight: 65 g"
+    ],
+    "price": "12.96",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61KqdVWhOML._AC_SL1100_.jpg",
+            "https://m.media-amazon.com/images/I/61l9Iki+fyL._AC_SL1100_.jpg",
+            "https://m.media-amazon.com/images/I/61sosZ3bx4L._AC_SL1100_.jpg",
+            "https://m.media-amazon.com/images/I/61vP9+tT9KL._AC_SL1100_.jpg",
+            "https://m.media-amazon.com/images/I/5169+20kbQL._AC_SL1100_.jpg",
+            "https://m.media-amazon.com/images/I/71SiPZZgBiL._AC_SL1100_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41sXzIEGqkL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51Mhr-3mPoL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41PYkNaIxTL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41wWs6m7xtL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31QQrCrVfhL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51UEHcZUHxL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41sXzIEGqkL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51Mhr-3mPoL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41PYkNaIxTL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41wWs6m7xtL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31QQrCrVfhL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51UEHcZUHxL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
     },
-    "store": "NBNMTY",
-    "categories": [],
-    "details": "{\"Material\": \"Cotton\", \"Fabric Type\": \"Elastic\", \"Brand\": \"NBNMTY\", \"Unit Count\": \"1.0 Ounce\", \"UPC\": \"789622484060\"}",
-    "parent_asin": "B08JVK9R59",
+    "videos": {
+        "title": [
+            "Casio TQ140 Glow in the Dark hands demo and thoughts",
+            "See my note, then buy.",
+            "My honest review and demo on this clock",
+            "Alarm doesn’t work. Tried over and over.",
+            "How to Send Your Jet Lag Packing",
+            "travel alarm clock",
+            "OSTAR Small Travel Analog Alarm Clock Portable ",
+            "Braun Essential Simple Alarm Clock for Travel or Home",
+            "Awesome Simple Analog Alarm Clock!",
+            "Small travel alarm clock with lighted"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0304d380cbe54af3bb010538cd80234b?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0eaac08420c54119a6a4a106321c13ef?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/03a3dbed09a14b31a2156484b5a52b7b?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/000209e2d47b41cf8594cc7e93dab55b?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/2c28515d147f4b3b8e6d26a1944cf939?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/045495d0a22e4b89b77499c096f6b23b?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/0c41e7ce8a7a4918b2cc1a46b876f91f?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/0b5dc752fb254f3aba8576455c01087c?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/0927e1a2374b4531b6b84dce409f03d1?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/0014afd30f344c8f9212e84beb2fc352?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "/shop/dcsoundop",
+            "AG5LW6K7N5VEKEP7X7EPEV7DUMJQ",
+            "/shop/martyenglander",
+            "AHYOO2FOCFDPIFRBT2J356VP2WIQ",
+            "",
+            "",
+            "/shop/wordsofwisdom",
+            "/shop/dcsoundop",
+            "/shop/blake.allen22",
+            ""
+        ]
+    },
+    "store": "Casio",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Clocks",
+        "Alarm Clocks"
+    ],
+    "details": "{\"Product Dimensions\": \"2.24 x 2.24 x 1.3 inches\", \"Item Weight\": \"2.29 ounces\", \"Department\": \"Unisex\", \"Manufacturer\": \"Casio\", \"Item model number\": \"TQ-140-1B\", \"Batteries\": \"1 CR2 batteries required.\", \"Best Sellers Rank\": {\"Home & Kitchen\": 514263, \"Alarm Clocks\": 1024}, \"Is Discontinued By Manufacturer\": \"No\", \"Assembly required\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B000VS4K7U",
     "bought_together": null,
     "subtitle": null,
     "author": null

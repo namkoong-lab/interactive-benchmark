@@ -1,20 +1,103 @@
 {
-    "main_category": "All Beauty",
-    "title": "Stamped Glorious Curly Ponytail Extensions for Black Women Synthetic Drawstring Ponytails with 2 Clips for Women Daily Party Use (T33#)",
-    "average_rating": 4.0,
-    "rating_number": 51,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Nourison Paramount Persian Gold 7'10\" x 10'6\" Area -Rug, Easy -Cleaning, Non Shedding, Bed Room, Living Room, Dining Room, Kitchen (8x11)",
+    "average_rating": 4.2,
+    "rating_number": 22,
+    "features": [
+        "100% Polypropylene",
+        "Imported",
+        "Spice up the décor in your home with Nourison. This rug is perfect for any room. Feel free to lay ontop of hard floors or carpet areas.",
+        "This rug is stain resistant, fade resistant, no shedding, and easy to clean"
+    ],
+    "description": [
+        "This classic Persian inspired piece features a delightful array of floral geometric designs artfully arranged around a central golden toned medallion. Mesmerizing borders dance with a delightful array of palmettes and twining vines plucked straight from the masterful designs of antiquity. The rich tones and a traditional design add an air of sophistication to any room that will inspire for many years to come."
+    ],
+    "price": "119.65",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/A1DSzXOVjGL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91gTg3w+8+L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1aZ0RM+vlL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1JuPDO2V3L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1RHES52u5L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A17l4sApKQL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91lYZIZr5IL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51WPLXvvL-L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61RJyA82AsL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61bl-wKTUvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/610wBIBCXiL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/612obWsdCkL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61NRQrY3cOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51uHDDCeHxL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51WPLXvvL-L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61RJyA82AsL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61bl-wKTUvL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/610wBIBCXiL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/612obWsdCkL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61NRQrY3cOL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51uHDDCeHxL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06"
+        ]
     },
-    "store": "Stamped Glorious",
-    "categories": [],
-    "details": "{\"Brand\": \"Stamped Glorious\", \"Material\": \"Synthetic\", \"Hair Type\": \"Curly,Kinky\", \"Material Feature\": \"Natural\", \"Installation Type\": \"Clip-In\", \"Package Dimensions\": \"9.8 x 6.97 x 2.68 inches; 6.21 Ounces\"}",
-    "parent_asin": "B08CGV3RR9",
+    "videos": {
+        "title": [
+            "Nour Brand Short",
+            "Nourison Paramount Multicolor Rectangle Area Rug, 3-Feet 11-Inches by 5-Feet 10-Inches (3'11\" x 5...",
+            "Well Woven Noble Medallion Red Persian Floral Oriental Formal Traditional Area Rug",
+            "VTH214C",
+            "Moynesa Non Slip Washable Rug",
+            "Antep Oriental Traditional Area Rug (Maroon, 7'10\" x 10')",
+            "Like Walking on a Soft Blanket",
+            "Antep Kashan King Himalayas Oriental Rug Red 5x7",
+            "Antep Alfombras Oriental Rug Brown",
+            "How to Repair a Snagged Carpet"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/abe3757027ec49cba8c3a02f4da8b48a?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/616f5c34691b411dabcda59f083fd371?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/bf8d970cc4ce4e91894056d03de75b3c?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/946c6d3d94554655bed3af757c82415d?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/02f3418727b8477ea913690b79b2731d?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/0358f338698e4548b0997c9c3d4c8acf?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/0b3db6725fff4f52813ed14d1ce5ca2a?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/11fec9d59c9c430a8f19a1d365b84ab2?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/09116f4b09bb453d8c87501e27c022b7?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/bf201e5b013743c88611ea5f8187507a?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "/shop/satori727",
+            "",
+            "",
+            "AGAKIN4QUMYHZMOCB45UUWCRMKQA"
+        ]
+    },
+    "store": "Nourison",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Rugs, Pads & Protectors",
+        "Area Rugs"
+    ],
+    "details": "{\"Brand\": \"Nourison\", \"Size\": \"7 ft 10 in x 10 ft 6 in\", \"Material\": \"Polypropylene\", \"Weave Type\": \"Braided\", \"Item Weight\": \"30 Pounds\", \"Pile Height\": \"0.5\", \"Construction Type\": \"Handmade\", \"Color\": \"Gold\", \"Indoor/Outdoor Usage\": \"Indoor\", \"Theme\": \"Floral\", \"Is Stain Resistant\": \"Yes\", \"Pattern\": \"Geometric\", \"Shape\": \"Rectangular\", \"Special Feature\": \"Stain Resistant\", \"Room Type\": \"Living Room\", \"Product Dimensions\": \"126 x 94 x 0.5 inches\", \"Rug Form Type\": \"Area Rug\", \"Style\": \"Traditional\", \"Age Range (Description)\": \"Adult\", \"Manufacturer\": \"Nourison\", \"Country of Origin\": \"Turkey\", \"Item model number\": \"PAR05\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1627971, \"Area Rugs\": 13189}, \"Is Discontinued By Manufacturer\": \"No\", \"Fabric Type\": \"100% Polypropylene\", \"Perfume\": \"Unscented\", \"Assembly required\": \"No\", \"Batteries required\": \"No\", \"Included Components\": \"Area Rug\", \"Import\": \"Imported\"}",
+    "parent_asin": "B08F9GRXWM",
     "bought_together": null,
     "subtitle": null,
     "author": null

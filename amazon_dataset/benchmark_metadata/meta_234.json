@@ -1,20 +1,65 @@
 {
-    "main_category": "All Beauty",
-    "title": "LASHVIEW Rapid Blooming Eyelash Extension 0.07mm Thickness C Curl 5D Volume Fast Fan Eyelash Extension Quick Volume Application For Professional Salon Use (mix)",
-    "average_rating": 3.6,
-    "rating_number": 6,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Central Park Spring Pond by David Lloyd Glover, 18x24-Inch Canvas Wall Art",
+    "average_rating": 4.0,
+    "rating_number": 5,
+    "features": [
+        "Artist: David Lloyd Glover, Subject: Landscape",
+        "Style: Contemporary, Product Type: Gallery-Wrapped Canvas Art, Made in USA",
+        "Trademark Fine Art specializes in producing superior quality giclee prints on gallery wrapped canvas as well as in the matted, framed format",
+        "Trademark Fine Art's compilation of artists is constantly evolving and growing to fit with the style trends in demand of the times with each of our pieces being selected to add the most sophisticated touch to any home décor"
+    ],
+    "description": [
+        "This ready to hang, gallery wrapped art piece features a pond in the spring. David Lloyd Glover has a 25 year international reputation exhibiting in major galleries in the US, Canada, Mexico and Japan. His works have been acquired by collectors all over the world. Glover creates masterworks in watercolor on paper, gouache on paper, oil on canvas and acrylic on canvas with equal facility. After a career in the advertising industry he embarked on a full time vocation of creating fine art for gallery sales. Giclee (jee-clay) is an advanced printmaking process for creating high quality fine art reproductions. The attainable excellence that Giclee printmaking affords makes the reproduction virtually indistinguishable from the original piece. The result is wide acceptance of Giclee by galleries, museums, and private collectors. Gallery wrap is a method of stretching an artist's canvas so that the canvas wraps around the sides and is secured a hidden, wooden frame. This method of stretching and preparing a canvas allows for a frameless presentation of the finished painting."
+    ],
+    "price": "36.48",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81IXS09rUlL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71LuZKY9SJL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71btKdWyE8L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71llnpyQs5L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81+F4eo2XrL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71llnpyQs5L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61B0NwlH2xL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61vlOCPQKeL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Gh+ozn2jL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51VKiDnILpL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/615LrHG+ceL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51VKiDnILpL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61B0NwlH2xL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61vlOCPQKeL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41Gh+ozn2jL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51VKiDnILpL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/615LrHG+ceL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51VKiDnILpL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT10",
+            "PT11",
+            "PT12",
+            "PT13"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "LASHVIEW",
-    "categories": [],
-    "details": "{\"Brand\": \"LASHVIEW\", \"Item Form\": \"Individual\", \"Unit Count\": \"1.00 Count\", \"Package Dimensions\": \"4.5 x 2.4 x 0.5 inches; 0.81 Ounces\"}",
-    "parent_asin": "B07NXS6YJ3",
+    "store": "Trademark Fine Art",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Posters & Prints"
+    ],
+    "details": "{\"Size\": \"18 x 24 in\", \"Product Dimensions\": \"24\\\"L x 18\\\"W\", \"Number of Items\": \"1\", \"Orientation\": \"Landscape\", \"Shape\": \"Rectangular\", \"Theme\": \"Landscape,Contemporary\", \"Frame Type\": \"Wrapped Canvas\", \"Wall Art Form\": \"Painting\", \"Material\": \"Wood\", \"Style\": \"Contemporary\", \"Cartoon Character\": \"Mexico\", \"Brand\": \"Trademark Fine Art\", \"Frame Material\": \"Wood\", \"Mounting Type\": \"Wall Mount\", \"Is framed?\": \"No\", \"Item Weight\": \"3.35 pounds\", \"Manufacturer\": \"Trademark Fine Art\", \"Country of Origin\": \"USA\", \"Item model number\": \"DLG0238-C1824GG\", \"Assembly required\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B00BKFK6PS",
     "bought_together": null,
     "subtitle": null,
     "author": null

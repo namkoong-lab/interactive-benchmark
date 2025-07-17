@@ -1,20 +1,58 @@
 {
-    "main_category": "All Beauty",
-    "title": "Multi-purpose Big Head Loose Powder Brush Blush Foundation Makeup Short",
-    "average_rating": 4.0,
-    "rating_number": 5,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Framendino, Black Mannequin Foot Sock Model Display Stand for Anklet Short Stocking Left",
+    "average_rating": 4.3,
+    "rating_number": 34,
+    "features": [
+        "Apply to: Great presentation model for jewelry, ankle chain, shoes, socks, etc.",
+        "Size: Anklet display stand size is approx.9.1*7.1*7.1*3.2 inch, for most shoes or socks.",
+        "Useful: Provides great convenience to who sell shoes or socks.",
+        "Reliable material: Sock display stand made of plastic, durable and strong.",
+        "Package contains: 1 Pcs mannequin foot sock display, black."
+    ],
+    "description": [
+        "Specifications:Material: PlasticSize(about): 9.1*7.1*7.1*3.2 inch.Colors: As the picture shown, black.Package includes:1 Pcs mannequin foot sock display.Features:Special base design for stable stand.Notice:1.Since the size above is measured by hand, the size of the actual item you received could be slight different from the size above.2.Due to the different monitor and light effect, the actual color may be a little different from the picture's."
+    ],
+    "price": "11.89",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61cbu5z9GuL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81Sjg-wuORL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Z4kwnDdlL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61gVojk9ubL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61gl1sRKQzL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21nruaTJ14L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41JRDwGUZKL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41cr8xrHwXL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/313hbLd8OML._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31O2W6aqKhL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/21nruaTJ14L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41JRDwGUZKL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41cr8xrHwXL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/313hbLd8OML._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31O2W6aqKhL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Generic",
+    "store": "Framendino",
     "categories": [],
-    "details": "{\"Brand\": \"Generic\", \"Number of Pieces\": \"1\", \"Age Range (Description)\": \"Adult\", \"Skin Tone\": \"All\", \"UPC\": \"796201011302\"}",
-    "parent_asin": "B00T5KQAUU",
+    "details": "{\"Product Dimensions\": \"9.17 x 8.03 x 3.11 inches\", \"Item Weight\": \"8.8 ounces\", \"Manufacturer\": \"Framendino\", \"Item model number\": \"MC14805F_GROUP1\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B0C683Q2C9",
     "bought_together": null,
     "subtitle": null,
     "author": null

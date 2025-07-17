@@ -1,22 +1,57 @@
 {
-    "main_category": "All Beauty",
-    "title": "Dove Advanced Care Sheer Moisture Leave-In Replenishing Mist, 9.25 FL. OZ. (273 mL)",
-    "average_rating": 4.7,
-    "rating_number": 6,
-    "features": [],
-    "description": [
-        "Hair needs different levels of moisture depending on the level of symptoms experienced. Dove Sheer Moisture provides just the right level of care to hair with slight symptoms of dryness, without weighing it down."
+    "main_category": "Industrial & Scientific",
+    "title": "Creative Hobbies M995K-M38 Black Multi Size Lamp Wiring Kit for Wine, Oil, Liquor Bottle Lamp Conversion - Pre-Wired Ready to Use, DIY Lamp, Unique Side Exit Socket Cap No Drilling Required",
+    "average_rating": 4.1,
+    "rating_number": 8,
+    "features": [
+        "Creative Hobbies Bottle Lamp Kit allows you to easily convert your treasured wine or decorative bottles into unique, convenient electric accent lamps or repair and restore an old lamp.",
+        "PRE-WIRED Lamp Socket With Side Cord Exit (6 feet long, SPT-1 wire) means no drilling of glass bottle for lamp wire to pass through.",
+        "Includes 3 different size rubber adapters for various bottles (1/2\", 3/4\" and 15/16\" diameter size) and instructions for use. Threaded nipple size is 1/8 IP and 1-1/2\" long.",
+        "Lamp shade sold separately (uses type of lamp shade that clips onto light bulb)",
+        "Cord set & fittings. UL Listed. 75 watt max household bulb recommended."
     ],
-    "price": "21.5",
+    "description": [
+        "This unique and charming Bottle Lamp Kit allows you to easily convert your treasured wine, brandy, or decorative bottles into unique, convenient electric accent lamps. The kit comes with 3 different size rubber adapters to fit the finished socket assembly in to the bottle opening. Adapters are (1/2\", 3/4\" and 15/16\" diameter size), to fit different size wine bottle necks. All necessary hardware parts and instructions are also included. With this kit you can create a clever lamp in minutes. 6 Foot Brown SPT-1 Lamp Cord factory assembled onto Gold Push Thru style socket. Lamp wire exits from side hole on socket so glass bottle does not need to be drilled as lamp wire can exit the socket from the side of the socket cap (and not run through the bottle). UL Listed. 75 watt max household bulb recommended."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/810RJ0BHUhL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61PaW2b0iIL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71hCG6zA5LL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71znkX-xj+L._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41INkF9E62L.jpg",
+            "https://m.media-amazon.com/images/I/31yJfox67KL.jpg",
+            "https://m.media-amazon.com/images/I/31xSDu8CqfL.jpg",
+            "https://m.media-amazon.com/images/I/31zN2pk483L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41INkF9E62L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31yJfox67KL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31xSDu8CqfL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31zN2pk483L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Unilever",
-    "categories": [],
-    "details": "{\"Brand\": \"Unilever\", \"Item Form\": \"Spray\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Item Weight\": \"0.1 Kilograms\", \"Package Dimensions\": \"8.1 x 2.2 x 1.6 inches; 3.35 Ounces\", \"Item model number\": \"03309\", \"UPC\": \"045893033094\", \"Manufacturer\": \"Unilever\"}",
-    "parent_asin": "B000FQ5NQ0",
+    "store": "Creative Hobbies",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products"
+    ],
+    "details": "{\"Brand\": \"Creative Hobbies\", \"Color\": \"Black\", \"Wattage\": \"75 watts\", \"Is Discontinued By Manufacturer\": \"No\", \"Item model number\": \"MM995K-M38\", \"Date First Available\": \"April 13, 2011\", \"Manufacturer\": \"Creative Hobbies\"}",
+    "parent_asin": "B08J8D1QN7",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,20 +1,112 @@
 {
-    "main_category": "All Beauty",
-    "title": "[Tosowoong] Men's Booster Vitalizing All In One 110ml",
-    "average_rating": 4.6,
-    "rating_number": 5,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Nordic Ware Prism Half Sheet, Metallic",
+    "average_rating": 4.8,
+    "rating_number": 402,
+    "features": [
+        "Embossed grid pattern enhances the look and performance of our hugely popular baking pans",
+        "Prism grid adds durability and provides easy release while also improving air flow for uniform crisping",
+        "Natural aluminum affords the best possible heat dispersion to create perfectly browned baked goods every time and the reinforced encapsulated steel rim prevents warping",
+        "Hand wash only",
+        "Made in USA"
+    ],
+    "description": [
+        "Embossed grid pattern enhances the look and performance of our hugely popular baking pans. Exclusive Prism grid adds durability and provides easy release while also improving air flow for uniform crisping. Natural aluminum affords the best possible heat dispersion to create perfectly browned baked goods every time. Encapsulated galvanized steel rims prevent warping. Pan should be hand washed or discoloration will occur. If any discoloration occurs during hand washing or baking this is merely cosmetic in nature and will not affect baking performance. Made in USA."
+    ],
+    "price": "18.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71x-tdi5gLL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91SILpuoUfL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/914IYqDDz1L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61Zj66rTpFL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91eBolhA9tL._AC_SL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/718K5zGN0wL._AC_SL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/81bgfRgD6UL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31V25QgPhtL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51SIDRx5+qL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/614f0XOvYeL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31oerwk9tzL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/518Iw3llgVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51UGrnDITML._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41i1mfOi-vL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31x-YaLEN8L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51y-uZ41zxL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31V25QgPhtL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51SIDRx5+qL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/614f0XOvYeL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31oerwk9tzL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/518Iw3llgVL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51UGrnDITML._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41i1mfOi-vL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31x-YaLEN8L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51y-uZ41zxL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT10",
+            "PT11",
+            "PT12",
+            "PT88"
+        ]
     },
-    "store": "TOSOWOONG",
-    "categories": [],
-    "details": "{\"Brand\": \"TOSOWOONG\", \"Item Form\": \"Cream\", \"Unit Count\": \"3.72 Fl Oz\", \"Skin Type\": \"All\", \"Item Volume\": \"110 Milliliters\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"6 x 2.2 x 2.1 inches; 8.01 Ounces\", \"Item model number\": \"SG_B00XOSMH4M_US\"}",
-    "parent_asin": "B00XOSMH4M",
+    "videos": {
+        "title": [
+            "How to Clean a Sheet Pan",
+            "Foolproof Roasted Potatoes",
+            "Nordic Ware Sheet Pan Review ",
+            "Pros and cons of the nordic ware bakers sheet",
+            " Nordic Ware Pan Review",
+            "USA Pan Sheet Pans",
+            "A bakers dream",
+            "Our Point of View on Nordic Ware Baking Pans",
+            "Comparison: Both of the two (2) top selling cookie sheets",
+            "Our Point of View on Nordic Ware NonStick Baker's Sheet"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0c4670d7fa7c445db3e90cd37d396ed5?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0972c3a47f084de488202e975d417791?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/05eba6d1f4d44afd93a261278d79dfdc?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0d6c7d69ca6749978fc9ca79269f5234?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0fc7e530cd9b4add816b38b99c7fe81f?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/7dc85ebb89e54113886e51fc8f2874ab?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/0fffd04e5d084cd098aa5293a8414fbb?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/00eda0785e804b12879a7688d0bf3f60?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/0efa43fb930444818682e212abe4be3a?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/00c42b2c0bf54ad783b7067199aa7a1e?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "",
+            "/shop/entertainingwithbeth",
+            "/shop/merrburytiels",
+            "/shop/ziggyroll",
+            "/shop/themathsorcerer",
+            "",
+            "/shop/influencer-d227a4de",
+            "/shop/influencer-20a38664",
+            "/shop/influencer-a5c7b85a",
+            "/shop/influencer-20a38664"
+        ]
+    },
+    "store": "Nordic Ware",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Bakeware",
+        "Baking & Cookie Sheets"
+    ],
+    "details": "{\"Product Dimensions\": \"17.87 x 12.87 x 1.06 inches\", \"Item Weight\": \"0.28 Kilograms\", \"Manufacturer\": \"Nordic Ware\", \"Country of Origin\": \"USA\", \"Item model number\": \"43170\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 55758, \"Baking & Cookie Sheets\": 284}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"May 16, 2015\", \"Color\": \"Metallic\", \"Material\": \"Aluminum\", \"Brand\": \"Nordic Ware\", \"Item Dimensions LxWxH\": \"17.87 x 12.87 x 1.06 inches\", \"Is Dishwasher Safe\": \"No\"}",
+    "parent_asin": "B00XRQG8D2",
     "bought_together": null,
     "subtitle": null,
     "author": null

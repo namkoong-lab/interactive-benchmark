@@ -1,26 +1,61 @@
 {
-    "main_category": "All Beauty",
-    "title": "Shower Jellies (Blueberry Cobbler)",
-    "average_rating": 4.0,
-    "rating_number": 297,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "Did not get the right product"
+    "main_category": "Amazon Home",
+    "title": "Double Cross Folding Shoji 4 Panel Screen Room Divider",
+    "average_rating": 4.3,
+    "rating_number": 32,
+    "features": [
+        "Each Panel 17\"",
+        "70\" H x 70\"L",
+        "Solid Wood Frame with Shoji Paper",
+        "Black Finish"
+    ],
+    "description": [
+        "4 Panels Folding screen Each Panel 17\" 70\" H x 70\"L Solid Wood Frame with Shoji Paper Black Finish"
+    ],
+    "price": "95.0",
+    "images": {
+        "hi_res": [
+            null
         ],
-        "url": [
-            "https://www.amazon.com/vdp/0576d9f4305c45fc93378d19b30584b7?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/51m83u7vlCL._AC_.jpg"
         ],
-        "user_id": [
-            "AGCFQECYIQGFNHIPIJFG7I3EQDVA"
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51m83u7vlCL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
         ]
     },
-    "store": "Bella and Bear",
-    "categories": [],
-    "details": "{\"Skin Type\": \"Sensitive\", \"Brand\": \"Bella and Bear\", \"Scent\": \"blueberry cobbler\", \"Number of Items\": \"1\", \"Unit Count\": \"3.4 Ounce\", \"Product Dimensions\": \"2.5 x 2.5 x 2.5 inches; 4.16 Ounces\", \"UPC\": \"851586007606\"}",
-    "parent_asin": "B084GGP5SQ",
+    "videos": {
+        "title": [
+            "Good quality? Check out how it looks",
+            "Stylish And Compact Wall Divider!",
+            "MoNiBloom Japanese Shoji Room Divider with 3 Panel 5.9ft",
+            "What is a metal vintage barber chair like? Simple review"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0d3111801a664ddf807f0d9f1be61b0e?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0dc0957c9b9d403e85bf655bfbeab20a?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0e3cbcc55d97443386e89102d0f92bad?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/07b1fcd858774551a21ab282a8eb6fa2?ref=dp_vse_rvc_3"
+        ],
+        "user_id": [
+            "/shop/talanyc",
+            "/shop/mattsbenson",
+            "",
+            "/shop/muscularaxe"
+        ]
+    },
+    "store": "SQUARE FURNITURE",
+    "categories": [
+        "Home & Kitchen",
+        "Furniture",
+        "Bedroom Furniture",
+        "Room Dividers"
+    ],
+    "details": "{\"Product Dimensions\": \"70\\\"W x 70\\\"H\", \"Style\": \"Modern\", \"Color\": \"Black\", \"Number Of Panels\": \"4\", \"Material\": \"Wood\", \"Special Feature\": \"Foldable\", \"Product Care Instructions\": \"Wipe with Dry Cloth\", \"Item Weight\": \"15 pounds\", \"Country of Origin\": \"Vietnam\", \"Item model number\": \"SQ10BK\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2526337, \"Room Dividers\": 1286}, \"Date First Available\": \"December 14, 2014\"}",
+    "parent_asin": "B00R0AQTT4",
     "bought_together": null,
     "subtitle": null,
     "author": null

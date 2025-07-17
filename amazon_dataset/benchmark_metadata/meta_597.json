@@ -1,20 +1,36 @@
 {
-    "main_category": "All Beauty",
-    "title": "Protein 29 Conditioning Hair Groom Tonic 4 oz (Pack of 6)",
+    "main_category": "Amazon Home",
+    "title": "24 ~ Zoo Animal Paper Plates ~ 9\" ~ New",
     "average_rating": 5.0,
-    "rating_number": 4,
+    "rating_number": 2,
     "features": [],
-    "description": [],
-    "price": "None",
+    "description": [
+        "24 ~ Zoo Animal Paper Plates ~ 9\" ~ New in sealed package."
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61wdJa8vO9L._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51TnNINPl6L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51TnNINPl6L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": null,
+    "store": "FX/OT",
     "categories": [],
-    "details": "{\"UPC\": \"795827630454\"}",
-    "parent_asin": "B00KJSAW1K",
+    "details": "{\"Material\": \"Paper\", \"Brand\": \"FX/OT\", \"Shape\": \"Round\", \"Pattern\": \"Animal Print\", \"Size\": \"Medium\", \"Item Firmness Description\": \"Soft\", \"Package Dimensions\": \"9.02 x 9.02 x 1.61 inches\", \"Item Weight\": \"14.4 ounces\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"March 27, 2017\"}",
+    "parent_asin": "B06XWGBSZJ",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,20 +1,78 @@
 {
-    "main_category": "All Beauty",
-    "title": "PPY Eyelash Growth Serum – Natural Ingredients – Advanced Growth Formula – Strengthening Effect – Nourished and Moisturized Lashes (White Pack)",
-    "average_rating": 3.9,
-    "rating_number": 114,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "32 Pack Spanish Floral Folding Hand Fan Women Vintage Retro Pattern Fabric Fans (8 Different Patterns)",
+    "average_rating": 4.6,
+    "rating_number": 428,
+    "features": [
+        "Size: Fan Length 9\"/ 23 cm , Width 16.5''/42cm when opened",
+        "Color: Multi-color , 8 different patterns in one set",
+        "Feature: Made of Silk Fabric & Plastic frame, Designed with lace around edge, a loop at the end for a wrist strap",
+        "Wide Application: 1. These fashion and elegant fans can be used to decorate a room, for a party, Halloween costume, etc ; 2. Best wall decoration or any special occasions; 3. These would be great for a themed party or effective if handed out during a summer wedding ; 4. Great for keeping cool, folds into small space, you can keep some for yourself a fan . The open/close effortlessly",
+        "Package: 8 different patterns , each pattern includes 4 pieces, total 32 pieces in one set"
+    ],
+    "description": [
+        "32 PCS Spanish Floral Folding Hand Fan Women Vintage Retro Pattern Fabric Fans （8 different patterns）"
+    ],
+    "price": "42.88",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/817oQ+hmDBL._AC_SL1500_.jpg",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Nu8zO6LiL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61Sx9CasU5L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61Qv2RCMW6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61IP40d+FWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61ycXS7GcVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61wiiFSoYwL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61vWT0k3dcL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Nu8zO6LiL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61Sx9CasU5L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61Qv2RCMW6L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61IP40d+FWL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61ycXS7GcVL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61wiiFSoYwL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61vWT0k3dcL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06"
+        ]
     },
-    "store": "PPY",
-    "categories": [],
-    "details": "{\"Use for\": \"Face\", \"Scent\": \"Aloe\", \"Brand\": \"PPY\", \"Material Feature\": \"Natural\", \"Package Dimensions\": \"4.45 x 1.14 x 0.91 inches; 1.06 Ounces\", \"UPC\": \"785197223554\"}",
-    "parent_asin": "B07WFSQXL5",
+    "videos": {
+        "title": [
+            "Keep me a breeze of air"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/089fe670745047deb0d6c118b5e55ef9?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "AGHWTAG42YA5OB6G47YY3OTKWPNA"
+        ]
+    },
+    "store": "Huihuiyang",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Decorative Accessories",
+        "Decorative Folding Fans"
+    ],
+    "details": "{\"Brand\": \"Huihuiyang\", \"Color\": \"Black32\", \"Style\": \"32 pcs\", \"Special Feature\": \"Foldable\", \"Recommended Uses For Product\": \"Travel\", \"Mounting Type\": \"Wall Mount\", \"Controller Type\": \"Button Control\", \"Material\": \"Fabric\", \"Theme\": \"Horror\", \"Product Dimensions\": \"11.9 x 9.6 x 3 inches\", \"Item Weight\": \"3.25 pounds\", \"Manufacturer\": \"HUIHUIYANG\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1249740, \"Decorative Folding Fans\": 1164}, \"Is Discontinued By Manufacturer\": \"No\", \"Number of pieces\": \"32\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B074DVWM5G",
     "bought_together": null,
     "subtitle": null,
     "author": null

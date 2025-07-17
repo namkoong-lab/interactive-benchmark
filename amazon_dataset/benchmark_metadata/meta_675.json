@@ -1,20 +1,53 @@
 {
-    "main_category": "All Beauty",
-    "title": "L'Oreal Silkissime Eyeliner 260 True Teal (2 Pack)",
-    "average_rating": 3.9,
-    "rating_number": 50,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": null,
+    "title": "West Virginia, Almost Heaven, State Silhouette and Mountains, Blue and Gold (16x24 Giclee Gallery Art Print, Vivid Textured Wall Decor)",
+    "average_rating": 4.2,
+    "rating_number": 6,
+    "features": [
+        "West Virginia, Almost Heaven, State Silhouette and Mountains, Blue and Gold (16x24 Giclee Gallery Art Print, Vivid Textured Wall Decor), High resolution artwork is borderless and prints to edges, ready for framing.",
+        "Printed in the USA on thick, archival matte paper.",
+        "Spray ink technique provides intense, rich color, for a flawless finish in high definition.",
+        "UV and fade-resistant inks which are eco-friendly, color safe, and durable to last."
+    ],
+    "description": [
+        "This original high-resolution Giclee art print from Lantern Press boasts sharp detail and bright color imagery of West Virginia, Almost Heaven, State Silhouette and Mountains, Blue and Gold (16x24 Giclee Gallery Art Print, Vivid Textured Wall Decor). -Giclee print size is 16\" x 24\" and is borderless, image prints to edge. -Printed on thick, textured, archival matte paper. -UV and fade-resistant inks which are eco-friendly, color safe, and durable to last. -Spray ink technique provides intense, rich, and vibrant color, for a flawless finish in high-definition. -Made in the USA and ready to frame size. Lantern Press is a dynamic art company that specializes in the world's leading imagery. Our collection includes original works created by our in-house art team, photography, home & office decor trends, vintage art, and more. Your support allows us to continue doing what we love - creating beautiful art."
+    ],
+    "price": "29.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61+zx15uelL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/6106bUznVBL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/91HnL7vR9sL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41iYYEHWbWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51jItjhS+pL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51yfEmU22cL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41iYYEHWbWL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51jItjhS+pL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51yfEmU22cL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "L'Oreal Paris",
-    "categories": [],
-    "details": "{\"Brand\": \"L'Oreal Paris\", \"Special Feature\": \"Travel size, Matte\", \"Unit Count\": \"2.00 Count\", \"Age Range (Description)\": \"Adult\", \"Package Type\": \"Tube\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.01 x 1.89 x 0.79 inches; 0.67 Ounces\", \"Item model number\": \"SG_B00O2OEEFC_US\", \"UPC\": \"071249284575\"}",
-    "parent_asin": "B00O2OEEFC",
+    "store": "Lantern Press",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Posters & Prints"
+    ],
+    "details": "{\"Size\": \"16 x 24 Giclee Print\", \"Product Dimensions\": \"24\\\"L x 16\\\"W\", \"Item Weight\": \"7 Ounces\", \"Number of Items\": \"1\", \"Orientation\": \"Landscape\", \"Shape\": \"Rectangular\", \"Theme\": \"Mountains,West\", \"Frame Type\": \"Unframed\", \"Wall Art Form\": \"Art Print\", \"Material\": \"Paper\", \"Color\": \"Multi\", \"Style\": \"Retro\", \"Brand\": \"Lantern Press\", \"Frame Material\": \"Unframed\", \"Mounting Type\": \"Wall Mount\", \"Is framed?\": \"No\", \"Department\": \"unisex-adult\", \"Manufacturer\": \"Lantern Press\", \"Country of Origin\": \"USA\", \"Item model number\": \"LANT-90137-16x24\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2269181, \"Posters & Prints\": 124169}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"April 20, 2023\"}",
+    "parent_asin": "B07RK568P1",
     "bought_together": null,
     "subtitle": null,
     "author": null

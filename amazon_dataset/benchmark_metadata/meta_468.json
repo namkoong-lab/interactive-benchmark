@@ -1,22 +1,55 @@
 {
-    "main_category": "All Beauty",
-    "title": "MustaeV - Lustrous Cream Base",
-    "average_rating": 5.0,
+    "main_category": "Amazon Home",
+    "title": "Ashford Non-Leaded Crystal, Gold Rimmed Wine Glasses 10 Ounces, Set of 4 (Gold Rimmed Wine Glasses, 10 Ounces)",
+    "average_rating": 3.5,
     "rating_number": 3,
-    "features": [],
-    "description": [
-        "A lightweight cream base infused with pink pearl particles to create dazzling skin. This hydrating cream base melts into the skin diffusing light creating a radiant, luminosity."
+    "features": [
+        "Set of 4 classically designed gold rimmed wine glasses, 10.1 oz. (300ml)",
+        "Each glass features a sleek golden rim and deep decorative etchings that glint and sparkle in the light",
+        "The drinking glass is slightly thickened to ensure good stability and firm standing",
+        "Made from premium quality lead-free crystal",
+        "Height: 7.9 inches, Diameter: 3.1 inches"
     ],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "description": [
+        "Invite some gala to feel into your home! Whether it’s a birthday, a family get-together, or just for the pleasure of enhancing your everyday table setting, use these drinking glasses with gold trims to bring a touch of elegance to any occasion. This set of classic Ashford Gold Wine Glasses is beautifully designed with richly carved details. Each glass features horizontal diamond etchings that are interspersed with three stunning vertical columns and a striking gold rim that will let your table sparkle and pop. These clear drinking glasses with gold trim is made from premium-quality, lead-free crystal glass to give it a substantial weight that will make it a favorite addition to any bar setting. Be it a party or a formal gathering, you can rely on this set of fancy wine glasses to create an ambiance that will leave everyone speechless."
+    ],
+    "price": "44.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61knBM8A3zL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41I2eaPSGFL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41I2eaPSGFL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "MustaeV",
-    "categories": [],
-    "details": "{\"Brand\": \"MustaeV\", \"Product Benefits\": \"Hydrating\", \"Coverage\": \"Lightweight\", \"Item Form\": \"Cream\", \"Package Information\": \"Tube\"}",
-    "parent_asin": "B0149DT3WY",
+    "videos": {
+        "title": [
+            "Cafe Con Leche Flip #Mixology #Bartender #Cocktail"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/01a7118503054e0a8e8ef38235423bfc?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "/shop/influencer-9c4ffbfb"
+        ]
+    },
+    "store": "B. BRILLIANT",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Glassware & Drinkware",
+        "Wine & Champagne Glasses",
+        "Wine Glasses"
+    ],
+    "details": "{\"Brand\": \"B. BRILLIANT\", \"Color\": \"Clear, gold\", \"Special Feature\": \"Non Slip\", \"Style\": \"Modern\", \"Occasion\": \"Birthday,Home\", \"Pattern\": \"Solid\", \"Product Care Instructions\": \"Hand Wash Only\", \"Unit Count\": \"4 Count\", \"Product Dimensions\": \"3.1\\\"W x 7.9\\\"H\", \"Number of Items\": \"4\", \"Package Dimensions\": \"8.46 x 6.73 x 6.65 inches\", \"Item Weight\": \"3.89 pounds\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 918934, \"Wine Glasses\": 18266}, \"Date First Available\": \"December 28, 2020\", \"Material Crystal\": \"\", \"\": \"Capacity 300 Milliliters\"}",
+    "parent_asin": "B08RDVMWZW",
     "bought_together": null,
     "subtitle": null,
     "author": null

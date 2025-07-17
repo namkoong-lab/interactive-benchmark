@@ -1,36 +1,49 @@
 {
-    "main_category": "All Beauty",
-    "title": "Chelly Keratin Treatment Deep Cleansing Shampoo, 16 fl oz 473 mL.",
-    "average_rating": 4.6,
-    "rating_number": 25,
+    "main_category": "Amazon Home",
+    "title": "Pope John Paul II and Ronald Reagan Photo Print (30 x 24)",
+    "average_rating": 1.0,
+    "rating_number": 1,
     "features": [
-        "Deeply cleanses: Formulated to reset your hair by removing dirt and hair product residue & buildup from hair and scalp without irritation while refreshing.",
-        "High pH: With a high pH, our formula helps by opening the cuticles allowing treatments to deeply penetrate and absorb properly. The high pH of the Clarifying Shampoo combined with the low pH of smoothing and conditioning treatments provide a good balance for your hair and scalp. Combined, they are the perfect solution for effectively treating dull damaged hair.",
-        "Paraben- free: Our product is Paraben-Free, Phosphate-Free, Drying Alcohol-Free, and Silicone-Free.",
-        "Proudly made in the USA: Chelly's products are made in the USA and specially made with the highest quality ingredients."
+        "Pope John Paul II and Ronald Reagan",
+        "Country of origin: United States",
+        "Product Dimension: 0.02\"L x 30.0\"W x 24.0\"H",
+        "Package Dimension: 30.0\" L x 2.0\" W x 2.0\" H"
     ],
     "description": [
-        "Formulated to reset your hair by removing dirt and hair product residue & buildup from hair and scalp without irritation while refreshing."
+        "Pope John Paul II and Ronald Reagan is a licensed reproduction that was printed on Premium Heavy Stock Paper which captures all of the vivid colors and details of the original. The overall paper size is 30.00 x 24.00 inches. This print is ready for hanging or framing and would make a great addition to your home or office decor."
     ],
-    "price": "12.99",
-    "videos": {
-        "title": [
-            "Brazilian Keratin Treatment Fine Hair",
-            "Brazilian Keratin Treatment Safe on Colored Treated Hair"
+    "price": "54.72",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61ia5cU8hCL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/A14ZOJhUhjL._AC_SL1500_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/29e56ee8da834d94aa93fd06f71abb93?ref=dp_vse_rvc_0",
-            "https://www.amazon.com/vdp/0aa08904683a42df817cb3a129aca035?ref=dp_vse_rvc_1"
+        "large": [
+            "https://m.media-amazon.com/images/I/51-BkFq+XSL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51Gt8iJULsL._AC_.jpg"
         ],
-        "user_id": [
-            "",
-            ""
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51-BkFq+XSL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51Gt8iJULsL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "EV01"
         ]
     },
-    "store": "CHELLY",
-    "categories": [],
-    "details": "{\"Brand\": \"CHELLY\", \"Item Form\": \"Cream\", \"Hair Type\": \"Dry\", \"Scent\": \"Floral Bouquet & Moetberry\", \"Age Range (Description)\": \"Adult\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"8.46 x 4.65 x 2.6 inches; 1.21 Pounds\", \"UPC\": \"780422780017\", \"Manufacturer\": \"Chelly Cosmetics MFG., INC\"}",
-    "parent_asin": "B07DGKQWSB",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Posterazzi",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Posters & Prints"
+    ],
+    "details": "{\"Product Dimensions\": \"0.02 x 30 x 24 inches\", \"Item Weight\": \"1.99 pounds\", \"Manufacturer\": \"Globe Photos LLC\", \"Country of Origin\": \"USA\", \"Item model number\": \"GLP346794LARGE\", \"Best Sellers Rank\": {\"Home & Kitchen\": 6053778, \"Posters & Prints\": 554987}, \"Batteries required\": \"No\"}",
+    "parent_asin": "B07BTDH17G",
     "bought_together": null,
     "subtitle": null,
     "author": null

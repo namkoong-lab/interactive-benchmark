@@ -1,20 +1,69 @@
 {
-    "main_category": "All Beauty",
-    "title": "Nueva Crema Hidratante para Manos y Pies Asperos Elimina las Grietas RECOMENDADO",
-    "average_rating": 1.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "16.98",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Waverly Charmed Life Valances for Windows Rod Pocket Curtains for -Kitchen and Living Room, 52\" x 18\", Cornflower (15404052018CRF)",
+    "average_rating": 4.7,
+    "rating_number": 128,
+    "features": [
+        "100% Cotton",
+        "Imported",
+        "PREMIUM QUALITY - Masterly crafted 100% Cotton Valance curtains. Sold as a single valance.",
+        "THOUGHTFULLY SIZED - Valance measures 52\" wide and 18\" long.",
+        "STYLE - Bring classic elegance into any room of your home with Charmed Life valance by Waverly. This traditional panel features a classic French country toile scene with coordinating solid trim.",
+        "EASY SET UP - Rod Pocket design fits any standard or decorative rod for quick and easy installation. Ready to be hung right away.",
+        "CARE INSTRUCTIONS - Machine washable in gentle cycle and cold water, do not bleach. Warm iron and tumble dry at low temperatures."
+    ],
+    "description": [
+        "Refresh any room in your home with classically elegant window treatments by Waverly. Exquisite and versatile, the charmed life valance features a classic French country toile scene with coordinating solid trim. Pair with the charmed life curtain line to complete the look. Valance measures 52 inch wide x 18 inch long. Hang coordinating panels and valance on standard or decorative curtain rod. 2 inch header adds decorative flair. 3 inch rod is recommended with up to a 1. 5 inch rod. Curtain rod sold separately. 100Percent cotton, unlined. Machine wash cold, gentle cycle. Tumble dry low. Imported."
+    ],
+    "price": "15.87",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91uQqcCnfJL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81DHcYttPsL._AC_SL1021_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51XlmJKJYdL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61yU+CByNGL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51XlmJKJYdL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61yU+CByNGL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
     },
-    "store": "dongjing",
-    "categories": [],
-    "details": "{\"Brand\": \"Dongjing\", \"Item Form\": \"Cream\", \"Unit Count\": \"1.00 Count\", \"Use for\": \"Whole Body\", \"Skin Type\": \"Sequedad\"}",
-    "parent_asin": "B08GZWJVR4",
+    "videos": {
+        "title": [
+            "Refresh any room with elegant treatments by Waverly",
+            "Decorate your room with Waverly's bedding sets.",
+            "Waverly Spring Bling Valances for Windows Rod Pocket Curtains for Kitchen and Living Room, 52\" x ...",
+            "Waverly Spring Bling Window Valance"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/1876c169d25b48fcaf24cd838240d210?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/983ed27b87fc4e78869c288c99b2200d?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0319235ca17747f9918434b8050c72d4?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0555e56322b0486a8276422d334e162e?ref=dp_vse_rvc_3"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "store": "WAVERLY",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Window Treatments",
+        "Curtains & Drapes",
+        "Valances"
+    ],
+    "details": "{\"Brand\": \"Waverly\", \"Color\": \"Cornflower\", \"Material\": \"Cotton, Fabric\", \"Product Dimensions\": \"52\\\"L x 18\\\"W\", \"Opacity\": \"Light-filtering\", \"Special Feature\": \"Premium\", \"Room Type\": \"Kitchen\", \"Style\": \"Classic\", \"Pattern\": \"Solid\", \"Theme\": \"Country\", \"Curtain Form\": \"Valance\", \"Top Style\": \"Rod Pocket\", \"Size\": \"52\\\" x 18\\\"\", \"Included Components\": \"Single Valance\", \"Age Range (Description)\": \"Adult\", \"Item Weight\": \"12 ounces\", \"Number of Items\": \"1\", \"Care instructions\": \"Machine washable in gentle cycle and cold water, do not bleach. Warm iron and tumble dry at low temperatures.\", \"Lining Description\": \"Cotton\", \"Package Weight\": \"0.39 Kilograms\", \"Manufacturer\": \"Ellery Homestyles\", \"Country of Origin\": \"Pakistan\", \"Item model number\": \"Valances for Windows\", \"Best Sellers Rank\": {\"Home & Kitchen\": 589788, \"Window Treatment Valances\": 956}, \"Fabric Type\": \"100% Cotton\", \"Assembly required\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\", \"Import\": \"Imported\"}",
+    "parent_asin": "B08MCD8YBS",
     "bought_together": null,
     "subtitle": null,
     "author": null

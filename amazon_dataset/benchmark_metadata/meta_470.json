@@ -1,20 +1,46 @@
 {
-    "main_category": "All Beauty",
-    "title": "VeSunny Remy Human Hair Extensions Clip in 70g One Piece Clip in Real Hair Extesnions Jet Black Clip in Hair Extensions Human Hair for 3/4 Full Head,#1 Silky Straight Human Hair Clip in",
-    "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "All American Kids' Dinosaur 3-Piece Twin Sheet Set with Pillow Case | Matching Comforter Set & Curtain Set Available!",
+    "average_rating": 4.4,
+    "rating_number": 35,
+    "features": [
+        "100% Polyester construction for durability",
+        "1 standard twin fitted sheet (39\" x 75\" x 14\")",
+        "1 standard twin flat sheet (63\" x 92\")",
+        "1 pillow case",
+        "Machine washable and dryer safe"
+    ],
+    "description": [
+        "Turn your child's bedroom into Dinosaur Central with this colorful twin sheet set. This standard twin sheet set fits mattresses up to 14 inches thick and is designed to coordinate beautifully with our dinosaur-themed comforter sets and curtain sets. Kids love the bright red, green and blue color scheme that brings all of their favorite dinosaurs to life to inspire their imagination, while parents are pleased with their durability. The twin set comes with a fitted sheet, flat sheet and matching pillow case. All linens are made of 100% Polyester and are machine washable — perfect for even your youngest family member."
+    ],
+    "price": "30.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91ii0TKK8BL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51e0HZhE7QL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51e0HZhE7QL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Ve Sunny",
-    "categories": [],
-    "details": "{\"Brand\": \"Ve Sunny\", \"Material\": \"Human Hair\", \"Extension Length\": \"22 Inches\", \"Hair Type\": \"Straight\", \"Material Feature\": \"Natural\", \"Product Dimensions\": \"22 x 1 x 1 inches; 2.47 Ounces\", \"UPC\": \"786118496194\"}",
-    "parent_asin": "B082KFJS9H",
+    "store": "All American Collection",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Window Treatments"
+    ],
+    "details": "{\"Size\": \"SHEET SET ONLY\", \"Included Components\": \"Pillow Cover, Comforter, Fitted Sheet, Flat Sheet\", \"Color\": \"Green\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Brand\": \"All American Collection\", \"Theme\": \"Animal\", \"Pattern\": \"Animal Print\", \"Material\": \"100% Polyester\", \"Fabric Type\": \"100% Polyester\", \"Number of Pieces\": \"3\", \"Product Care Instructions\": \"Machine Wash\", \"Package Dimensions\": \"10.5 x 8.9 x 3.1 inches\", \"Item Weight\": \"1.95 pounds\", \"Department\": \"Kids\", \"Manufacturer\": \"All American Collection\", \"Country of Origin\": \"China\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1446713, \"Window Treatments\": 18698}, \"Is Discontinued By Manufacturer\": \"No\"}",
+    "parent_asin": "B06XWJSWW1",
     "bought_together": null,
     "subtitle": null,
     "author": null

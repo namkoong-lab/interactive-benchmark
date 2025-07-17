@@ -1,20 +1,51 @@
 {
-    "main_category": "All Beauty",
-    "title": "BIELENDA NEURO COLLAGEN 3 PEPTIDE CERAMIDES. ADVANCED BEAUTIFYING FACE SERUM. DAY/NIGHT. 1 FL OZ",
+    "main_category": "Tools & Home Improvement",
+    "title": "Legacy Decor 8 Hook, 3 Tier Shelves Garment Coat Hat Rack Hanger, Wooden Black Finish",
     "average_rating": 4.6,
-    "rating_number": 39,
-    "features": [],
-    "description": [],
-    "price": "35.0",
+    "rating_number": 99,
+    "features": [
+        "Black Finished, Wood Coat Rack with 3-Tier Storage Shelves",
+        "8 Big Hooks in a Striking Bronze Finish for Coats, Scarves and Jackets",
+        "Dimension: 17.5'' x 17.5'' x 72''H",
+        "Three Storage Shelves are Perfect for Adding Extra Storage",
+        "Simple Assembly Required"
+    ],
+    "description": [
+        "Wooden clothes hanger with three racks for storage. Dimension: 72”H X 17.5” X 17.5”. Simple assembly required."
+    ],
+    "price": "110.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/718m6DzKpUL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71mo3hYKCJL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41ucyatiiVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41DXUxq1HyL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41ucyatiiVL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41DXUxq1HyL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Bielenda",
-    "categories": [],
-    "details": "{\"Brand\": \"Bielenda\", \"Item Form\": \"Cream\", \"Unit Count\": \"1.00 Fl Oz\", \"Number of Items\": \"1\", \"Item Volume\": \"1 Fluid Ounces\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"4.92 x 2.6 x 1.54 inches; 4.62 Ounces\"}",
-    "parent_asin": "B077MWYVLC",
+    "store": "Legacy Decor",
+    "categories": [
+        "Home & Kitchen",
+        "Furniture",
+        "Entryway Furniture",
+        "Coat Racks"
+    ],
+    "details": "{\"Brand\": \"Legacy Decor\", \"Color\": \"Black\", \"Material\": \"Wood\", \"Recommended Uses For Product\": \"indoor\", \"Product Dimensions\": \"17.5\\\"D x 17.5\\\"W x 72\\\"H\", \"Installation Type\": \"Free Standing\", \"Special Feature\": \"multiple shelves\", \"Style\": \"Simple\", \"Finish Type\": \"Bronze\", \"Furniture Finish\": \"Bronze\", \"Frame Material\": \"Wood\", \"Assembly Required\": \"Yes\", \"Manufacturer\": \"Legacy Decor\", \"Part Number\": \"3010 BK\", \"Item Weight\": \"21.6 pounds\", \"Package Dimensions\": \"35.39 x 18.7 x 5.79 inches\", \"Item model number\": \"3010 BK\", \"Is Discontinued By Manufacturer\": \"No\", \"Finish\": \"Bronze\", \"Item Package Quantity\": \"1\", \"Number Of Pieces\": \"1\", \"Special Features\": \"multiple shelves\", \"Batteries Included?\": \"No\", \"Batteries Required?\": \"No\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2092419, \"Coat Racks\": 791, \"Home Storage & Organization\": 181232}, \"Date First Available\": \"March 17, 2017\"}",
+    "parent_asin": "B06XQBC2PS",
     "bought_together": null,
     "subtitle": null,
     "author": null

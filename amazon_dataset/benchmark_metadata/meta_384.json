@@ -1,20 +1,50 @@
 {
-    "main_category": "All Beauty",
-    "title": "Auch 24k Golden Pulse Facial Massager, T-Shape Facial Massage Tools for Sensitive Skin Face Pull Tight Firming Lift (Rose Gold)",
-    "average_rating": 3.6,
-    "rating_number": 9,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "West Window 17x21 Framed Art Print by Wyeth, Andrew",
+    "average_rating": 3.7,
+    "rating_number": 4,
+    "features": [
+        "High quality framed art print",
+        "Two inch wide black wood frame",
+        "In stock and ready to frame and ship",
+        "Custom packed for safe delivery",
+        "Satisfaction Guaranteed"
+    ],
+    "description": [
+        "West Window 17x21 Framed Art Print by Wyeth, Andrew"
+    ],
+    "price": "79.99",
+    "images": {
+        "hi_res": [
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41uUjraqtCL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/316vGhF++GL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41uUjraqtCL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/316vGhF++GL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Auch",
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.3 x 3.9 x 2.2 inches; 5.61 Ounces\", \"Item model number\": \"ABCD\", \"UPC\": \"601285486567\"}",
-    "parent_asin": "B0794R47BM",
+    "store": "ArtDirect",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Posters & Prints"
+    ],
+    "details": "{\"Size\": \"17 x 21 inch\", \"Product Dimensions\": \"21\\\"L x 17\\\"W\", \"Number of Items\": \"1\", \"Orientation\": \"Portrait\", \"Shape\": \"Rectangular\", \"Theme\": \"West\", \"Frame Type\": \"Framed\", \"Wall Art Form\": \"Art Print\", \"Material\": \"Wood\", \"Color\": \"Black\", \"Brand\": \"ArtDirect\", \"Frame Material\": \"Wood\", \"Is framed?\": \"Yes\", \"Item Weight\": \"5 pounds\", \"Manufacturer\": \"ArtDirect\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3597188, \"Posters & Prints\": 238303}, \"Warranty Description\": \"30 days.\"}",
+    "parent_asin": "B00676TJ58",
     "bought_together": null,
     "subtitle": null,
     "author": null

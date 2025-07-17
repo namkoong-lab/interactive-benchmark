@@ -1,20 +1,73 @@
 {
-    "main_category": "All Beauty",
-    "title": "ORGANIC Coconut Extracts Luxury SALT Scrub",
-    "average_rating": 3.8,
-    "rating_number": 6,
-    "features": [],
-    "description": [],
-    "price": "17.99",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "3PCS Halloween Party Tablecloth Halloween Tablecloth Plastic Rectangle Pumpkin Bat Skeleton Picnic Table Cover Waterproof Orange and Black Decorations for Holiday Party Favors Supplies(3 Pieces)",
+    "average_rating": 4.8,
+    "rating_number": 7,
+    "features": [
+        "You will get: 3 pieces of Halloween tablecloths, the sizes are 54*108 inches. fitting the regular rectangle table. It’s long and large enough for table decorations, absolutely a MUST have for your Halloween party decorations.",
+        "Material: These Halloween table covers are made of sturdy plastic, easily wipeable and durable for future fall festivals, even the next Halloween, easy to match with other Halloween decorations for a more festive touch.",
+        "Perfect halloween decoration: Halloween tablecloth has the exquisite pattern of Halloween moon night. evil pumpkins, and bats look vivid and beautiful. Put it on furniture or stick it on the wall to warm up your Halloween night!",
+        "Extensive usages: In addition to protecting your table, you can also hang them on the wall or garbage door as a backdrop, or hang them on the other side of the room as a banner to add a Halloween feel.",
+        "Protect your table well: Our bright and interesting tablecloths are placed on your party table, so you don’t have to worry about children spilling drinks or damaging crafts. It is both decorative and functional."
+    ],
+    "description": [
+        "Halloween tablecloths"
+    ],
+    "price": "15.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/813ucXml9iL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81OdrnkYILL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81-Ob3j8q0L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71W2YvZxTGL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/81DDxgST6gL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71y9WJocLoL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51cFMgu+B-L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61ysWnjbtbL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61Nn96gm2BL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61f5lDjYdwL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61dqjA1jYPL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/516g-HUookL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51cFMgu+B-L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61ysWnjbtbL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61Nn96gm2BL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61f5lDjYdwL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61dqjA1jYPL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/516g-HUookL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
     },
-    "store": "Asquith & Somerset",
-    "categories": [],
-    "details": "{\"Brand\": \"Asquith & Somerset\", \"Material Feature\": \"Certified Organic\", \"Scent\": \"Coconut\", \"Item Weight\": \"19.4 Ounces\", \"Recommended Uses For Product\": \"Exfoliating\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"3.9 x 3.5 x 3.5 inches; 1.21 Pounds\", \"UPC\": \"639136933830\"}",
-    "parent_asin": "B06W2K5ZFX",
+    "videos": {
+        "title": [
+            "Halloween Pupkin Tablecloth"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0ba8817ad5de4965b7f140fb225a6673?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "MSJEHQI",
+    "categories": [
+        "Home & Kitchen",
+        "Event & Party Supplies",
+        "Decorations",
+        "Tablecovers"
+    ],
+    "details": "{\"Brand\": \"MSJEHQI\", \"Color\": \"Black\", \"Material\": \"Plastic\", \"Product Dimensions\": \"108\\\"L x 54\\\"W\", \"Shape\": \"Oblong\", \"Occasion\": \"Holiday, Halloween\", \"Number of Sets\": \"1\", \"Included Components\": \"Halloween tablecloths\", \"Fabric Type\": \"Plastic\", \"Corner Style\": \"Pleated\", \"Number of Items\": \"3\", \"Item Weight\": \"8.4 ounces\", \"Manufacturer\": \"MSJEHQI\", \"Country of Origin\": \"China\", \"Item model number\": \"NORMAL\", \"Date First Available\": \"July 4, 2022\"}",
+    "parent_asin": "B0B5QL4M7Q",
     "bought_together": null,
     "subtitle": null,
     "author": null

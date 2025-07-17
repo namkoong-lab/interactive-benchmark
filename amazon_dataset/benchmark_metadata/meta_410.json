@@ -1,20 +1,61 @@
 {
-    "main_category": "All Beauty",
-    "title": "22\" Straight Ombre Wrap Around Ponytail Synthetic Clip in Hair Extensions Hairpieces (dark brown/sandy blonde)",
-    "average_rating": 2.6,
-    "rating_number": 6,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Lenox Butterfly Meadow Soup Bowl Set of 4",
+    "average_rating": 5.0,
+    "rating_number": 18,
+    "features": [
+        "Capacity: 32 oz.",
+        "Width: 8.7\"",
+        "Material: White Porcelain",
+        "Dishwasher and Microwave Safe",
+        "Chip Resistant",
+        "Set of 4 Bowls"
+    ],
+    "description": [
+        "The classic design decorates and shapes the Butterfly Meadow Soup Bowl with a gently scalloped rim and lively garden illustration. A pleasant complement to one's Butterfly Meadow Collection, this durable ceramic porcelain piece is ideal for snacks, and is microwave and dishwasher-safe."
+    ],
+    "price": "117.36",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/81tpeDOGHqL._AC_SL1250_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31rM3D0qCRL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51xdnaOvc0L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31rM3D0qCRL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51xdnaOvc0L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Package Dimensions\": \"10 x 6.5 x 0.51 inches; 3.99 Ounces\"}",
-    "parent_asin": "B06XBZ961R",
+    "videos": {
+        "title": [
+            "Lenox Evergreen video"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0a7ce967e01944b1a6ef61be3c7acb3e?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Lenox",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Dinnerware & Serveware",
+        "Dinnerware",
+        "Bowls",
+        "Soup Bowls"
+    ],
+    "details": "{\"Bowl Material\": \"Porcelain\", \"Number of Pieces\": \"4\", \"Brand\": \"Lenox\", \"Color\": \"White\", \"Special Feature\": \"Durable\", \"Shape\": \"Bowl,Butterfly\", \"Capacity\": \"2 Pounds\", \"Specific Uses For Product\": \"Soup\", \"Pattern\": \"Butterfly\", \"Seasons\": \"All Seasons\", \"Is Dishwasher Safe\": \"No\", \"Is Microwaveable\": \"No\", \"Material\": \"White Porcelain\", \"Package Dimensions\": \"8.6 x 8.5 x 5.1 inches\", \"Item Weight\": \"3.84 pounds\", \"Item model number\": \"857702\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 441283, \"Soup Bowls\": 981}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"August 13, 2016\"}",
+    "parent_asin": "B01ISGNLXA",
     "bought_together": null,
     "subtitle": null,
     "author": null

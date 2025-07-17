@@ -1,20 +1,75 @@
 {
-    "main_category": "All Beauty",
-    "title": "Peppermint Water Organic Facial Toner 100 ml by Suti",
-    "average_rating": 4.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Sonic Alert 0 Sonic Bomb Extra Dual Alarm Clock with Large Display-SBD375SS, Silver",
+    "average_rating": 4.3,
+    "rating_number": 367,
+    "features": [
+        "Nullify",
+        "Made in the USA or Imported",
+        "EXTRA-LOUD dual alarm with volume control",
+        "SUPER SHAKER BED SHAKER wake with a shake",
+        "LARGE DISPLAY FACE see from across the room",
+        "DIMMER FUNCTION 5-levels of brightness or not at all",
+        "SNOOZE TIME 1-30 minutes your choice"
+    ],
+    "description": [
+        "The perfect couple's alarm clock, the SBD375ss dual alarm allows for two different alarm times to accommodate two people. It also features an easy-to-read large (1.8\") display, our most powerful bed shaker, 5-level dimmer function and a convenient test mode to ensure your clock is setup properly. Sleep well knowing you'll wake up on time."
+    ],
+    "price": "49.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61DtKtm0luL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61S81bLPA6L._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61O+u29FobL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61gDduofFoL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61PlZIErkZL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61074su8kxL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41fKVMw-WOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51yYJJVJPIL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51BaoX13oUL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/517e6zQG4DL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41yUyeDZXBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51LZzEwm6jL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41fKVMw-WOL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51yYJJVJPIL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51BaoX13oUL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/517e6zQG4DL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41yUyeDZXBL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51LZzEwm6jL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"UPC\": \"796433119746\"}",
-    "parent_asin": "B00BPMPUHU",
+    "videos": {
+        "title": [
+            "Sonic Bomb Extra-Large Dual Alarm Clock with Large Display - SBD375SS"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/f6541c7cd0c4491085b6285b3ccc4940?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Sonic Alert",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Clocks",
+        "Alarm Clocks"
+    ],
+    "details": "{\"Brand\": \"Sonic Alert\", \"Color\": \"Silver\", \"Display Type\": \"Digital\", \"Style\": \"Modern\", \"Special Feature\": \"Large Display, Alarm, Auto Dimmable\", \"Product Dimensions\": \"9\\\"W x 5\\\"H\", \"Power Source\": \"Battery Powered\", \"Age Range (Description)\": \"Adult\", \"Shape\": \"Round\", \"Material\": \"silver\", \"Are Batteries Included\": \"No\", \"Mounting Type\": \"Tabletop\", \"Item Weight\": \"2.45 pounds\", \"Number of Batteries\": \"4 AA batteries required.\", \"Alarm Clock\": \"Yes\", \"Watch Movement\": \"CLOCKWISE\", \"Number of Items\": \"1\", \"Operation Mode\": \"Electrical\", \"Manufacturer\": \"Sonic Alert\", \"Country of Origin\": \"China\", \"Item model number\": \"SBD375SS\", \"Batteries\": \"4 AA batteries required.\", \"Best Sellers Rank\": {\"Home & Kitchen\": 365784, \"Alarm Clocks\": 805}, \"Is Discontinued By Manufacturer\": \"No\", \"Fabric Type\": \"Nullify\", \"Assembly required\": \"No\", \"Warranty Description\": \"1 year parts, 1 year labor.\", \"Batteries required\": \"No\", \"Included Components\": \"product, manual\", \"Import\": \"Made in the USA or Imported\"}",
+    "parent_asin": "B000RZPE86",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,20 +1,93 @@
 {
-    "main_category": "All Beauty",
-    "title": "FACE Atelier Ultra Foundation Pro, Zero Plus Plus",
-    "average_rating": 1.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Tools & Home Improvement",
+    "title": "BESTCLEAN 10 Pack Replacement Filter Spare Parts Compatible for Roomba Vacuum Cleaners 500 600 Series 536 550 551 614 620 630 650 655 660 665 671 680 690",
+    "average_rating": 4.7,
+    "rating_number": 16,
+    "features": [
+        "【Wide Compatibility】This pack of filters are designed to be compatible for Roomba vacuum cleaner 500 600 Series 536 550 551 614 620 630 650 655 660 665 671 680 690",
+        "【Works Great】These replacement filters for roomba vacuum cleaner function almost identical to the original.",
+        "【Perfect Match】This is a great replacement filter that perfectly fits your vacuum cleaner like a glove. Simply remove the old filter and install the new ones. They can be snapped on easily for a fast installation",
+        "【Easy Maintenance】The package comes with total 10 pack filters. It is recommended to replace the air filters every 2~3 months to keep a high working efficiency. A brush is included to help clean them and get a few more uses behind they need to be replaced.",
+        "【Zero-Risk Purchase】We are providing qualified products and best customer service. If you are not completely satisfied with our vacuum cleaner filter replacement pack, please contact us for a fast and satisfying solution"
+    ],
+    "description": [
+        "This is a great alternative filter that works completely as original one and fits perfectly. It helps remove pollutants and clean the air, keeping your vacuum cleaner in a high working efficiency, providing a fresh clean environment. They snapped on easily and are picking up all sorts of debris and detritus that your worn-down original brushes missed. Do the same job and you no longer overpay for brand filters.",
+        "Features:",
+        "1. The filter is well constructed for best odor absorbing effect, providing you with best clean and fresh air to breath 2. It is recommended to replace the filter every 2-3 month to maintain its working efficiency. 3. This air filter suits for indoor plants grow tents, bathrooms, basements and kitchens. 4. It is an over-valued pack of 10, easy to snap on and remove. Work as original ones. 5. Compatible for Roomba vacuum cleaner 500 600 Series 536 550 551 614 620 630 650 655 660 665 671 680 690  Specifications Item Type: Replacement Filters Color: Black & White Recommend Replacement Period: Every 2-3 months Package Includes 10 x Replacement Filter for Vacuum Cleaner"
+    ],
+    "price": "12.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71fQJk0aqVL._AC_SL1071_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/61ALjO9pbcL._AC_SL1118_.jpg",
+            "https://m.media-amazon.com/images/I/51xcjRhV9DL._AC_SL1000_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51KqF0dEyjL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Sok6IqelL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41UDq5yfEBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41fKGsZ8Y4L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41FVLk03heL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51KqF0dEyjL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41Sok6IqelL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41UDq5yfEBL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41fKGsZ8Y4L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41FVLk03heL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
     },
-    "store": "FACE atelier",
-    "categories": [],
-    "details": "{\"Item Form\": \"Liquid\", \"Skin Type\": \"All\", \"Finish Type\": \"Dewy\", \"Package Information\": \"Bottle\", \"Brand\": \"FACE atelier\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"3.8 x 1.1 x 1.1 inches; 0.63 Ounces\", \"UPC\": \"882839112150\"}",
-    "parent_asin": "B0086UL0WS",
+    "videos": {
+        "title": [
+            "Fur-Free Floors: Why Every Dog Owner Needs a Robot Vacuum",
+            "How to replace iRobot Vacuum Filter",
+            "Blutoget creates a happy life for you",
+            "Replace 8106-01 Central Vac Filter",
+            "For Irobot Roomba 600 500 Series 692 694 695 675 645 595 564",
+            "Roomba is like new after replacement parts!",
+            "How To Replace Roomba Brushes With I Clean Parts!",
+            "Funmit Roomba 500 600 Series Replacement Parts"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/04b6a0be79e14421b61dd6e927cafe60?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/04d4b3bd343148d1b168aaf771eac401?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/081ae577f24942cab669a85b24cf26f6?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/09bcd4c59f3a49f299de9fad426bf303?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/033a05728259449099a111278f294ce1?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/05166278bce543eea895444e1e99e087?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/06dc16accff84bb8b27703b8acb5bef0?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/0992db0f576d47799597ffe77d3e87b6?ref=dp_vse_rvc_7"
+        ],
+        "user_id": [
+            "/shop/_foodieshots_",
+            "/shop/_foodieshots_",
+            "",
+            "",
+            "",
+            "/shop/brandib",
+            "/shop/startingstrongman",
+            ""
+        ]
+    },
+    "store": "BESTCLEAN",
+    "categories": [
+        "Home & Kitchen",
+        "Vacuums & Floor Care",
+        "Vacuum Parts & Accessories",
+        "Filters",
+        "Upright Filters"
+    ],
+    "details": "{\"Manufacturer\": \"BESTCLEAN\", \"Item Weight\": \"9.6 ounces\", \"Package Dimensions\": \"9.84 x 5.31 x 2.83 inches\", \"Number Of Pieces\": \"10\", \"Batteries Included?\": \"No\", \"Batteries Required?\": \"No\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1603187, \"Replacement Upright Vacuum Filters\": 3661}, \"Date First Available\": \"January 30, 2021\", \"Duration\": \"2 \\tmonths\", \"Reusability\": \"Reusable\"}",
+    "parent_asin": "B08VGR3JRM",
     "bought_together": null,
     "subtitle": null,
     "author": null

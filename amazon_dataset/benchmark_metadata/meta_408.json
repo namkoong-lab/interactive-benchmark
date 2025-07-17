@@ -1,26 +1,65 @@
 {
-    "main_category": "All Beauty",
-    "title": "Aigemei 3 Packs Spring Twist Hair Crochet Braids Ombre Braiding Hair Synthetic Crochet Hair Extensions Black Color #1b/gray",
-    "average_rating": 4.3,
-    "rating_number": 15,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "More Details for Spring Twist Hair Crochet Braids  Hair Extensi"
+    "main_category": "Amazon Home",
+    "title": "12 Replacement AS Premium Bag for Eureka - Compatible with Eureka AS1051A, Eureka AS, Eureka AS1050, Eureka AS1053AX, Eureka 68155, Eureka AS1052AX, Eureka AS1055AX, Eureka AirSpeed AS1050, Eureka AirSpeed AS1051A, Eureka AirSpeed AS1052AX, Eureka AirSpeed AS1053AX",
+    "average_rating": 3.3,
+    "rating_number": 9,
+    "features": [
+        "UpStart Components Brand",
+        "This is an UpStart Components Brand replacement part, NOT an OEM product. All mentions of brand names or model descriptions are made strictly to illustrate compatibility. All brand names and logos are registered trademarks of their respective owners. This product is not affiliated with any brands and is not covered under any warranties offered by the original manufacturers. Any warranties for this product are offered solely by UpStart Components."
+    ],
+    "description": [
+        "This is an UpStart Components Brand replacement part, NOT an OEM product. All mentions of brand names or model descriptions are made strictly to illustrate compatibility. All brand names and logos are registered trademarks of their respective owners. This product is not affiliated with any brands and is not covered under any warranties offered by the original manufacturers. Any warranties for this product are offered solely by UpStart Components."
+    ],
+    "price": "18.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/618gf7FUuJL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61zEJv0Tl9L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/618gf7FUuJL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71VnPOQxsEL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61OI+UUJosL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61uXAo3k4XL._AC_SL1500_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/a018e85b091a4773ab30ea4f359ce0ef?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/41yuAJt1IfL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41z6y5SdOqL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41yuAJt1IfL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41L5Wbxa8CL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31dXBD5MayL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31k+rz3fANL._AC_.jpg"
         ],
-        "user_id": [
-            ""
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41yuAJt1IfL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41z6y5SdOqL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41yuAJt1IfL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41L5Wbxa8CL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31dXBD5MayL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31k+rz3fANL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
         ]
     },
-    "store": "Aigemei",
-    "categories": [],
-    "details": "{\"Brand\": \"Aigemei\", \"Material\": \"Synthetic\", \"Hair Type\": \"Straight\", \"Material Feature\": \"Natural\", \"Installation Type\": \"Clip-In\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"13 x 10.8 x 2 inches; 12.32 Ounces\", \"UPC\": \"722020723577\"}",
-    "parent_asin": "B07LBBB7KB",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Upstart Battery",
+    "categories": [
+        "Home & Kitchen",
+        "Vacuums & Floor Care",
+        "Vacuum Parts & Accessories",
+        "Bags",
+        "Upright Bags"
+    ],
+    "details": "{\"Manufacturer\": \"Upstart Battery\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3753444, \"Replacement Upright Vacuum Bags\": 2200}, \"Number of pieces\": \"4\", \"Compatible Devices\": \"Vacuum Cleaner\", \"Brand\": \"Upstart Battery\", \"Special Feature\": \"Premium\", \"Number of Items\": \"12\"}",
+    "parent_asin": "B010GF6FDO",
     "bought_together": null,
     "subtitle": null,
     "author": null

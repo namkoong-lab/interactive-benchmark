@@ -1,20 +1,61 @@
 {
-    "main_category": "All Beauty",
-    "title": "STARDEL LASH BLACK SF FLARE SHORT 3PACK",
-    "average_rating": 2.0,
+    "main_category": "Health & Personal Care",
+    "title": "Replacement 3106 Filter for Bissell - Compatible with Bissell 3106, Bissell 3105, Bissell 31061, Bissell 31063, Bissell 3106B, Bissell 32045, Bissell 3204E with 7-Piece Micro Vacuum Attachment Kit",
+    "average_rating": 1.0,
     "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "features": [
+        "UpStart Components Brand",
+        "This is an UpStart Components Brand replacement part, NOT an OEM product. All mentions of brand names or model descriptions are made strictly to illustrate compatibility. All brand names and logos are registered trademarks of their respective owners. This product is not affiliated with any brands and is not covered under any warranties offered by the original manufacturers. Any warranties for this product are offered solely by UpStart Components."
+    ],
+    "description": [
+        "This is an UpStart Components Brand replacement part, NOT an OEM product. All mentions of brand names or model descriptions are made strictly to illustrate compatibility. All brand names and logos are registered trademarks of their respective owners. This product is not affiliated with any brands and is not covered under any warranties offered by the original manufacturers. Any warranties for this product are offered solely by UpStart Components."
+    ],
+    "price": "10.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/611VMlg6fJL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61vS5uP21xL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61QBWCyYKQL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61Ekz74I0QL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51wZk3gGLWL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/415yP4Oge4L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41YBWux-x1L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31Mty5tm8rL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31Dv8vKwMOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/313ZzX0Vn2L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/415yP4Oge4L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41YBWux-x1L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31Mty5tm8rL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31Dv8vKwMOL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/313ZzX0Vn2L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "STARDEL",
-    "categories": [],
-    "details": "{\"UPC\": \"759894916934\"}",
-    "parent_asin": "B00X8CFLNS",
+    "store": "UpStart Battery",
+    "categories": [
+        "Home & Kitchen",
+        "Vacuums & Floor Care",
+        "Vacuum Parts & Accessories",
+        "Filters",
+        "Upright Filters"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"June 22, 2015\", \"Manufacturer\": \"Upstart Battery\"}",
+    "parent_asin": "B010BZK4YK",
     "bought_together": null,
     "subtitle": null,
     "author": null

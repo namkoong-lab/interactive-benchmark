@@ -1,20 +1,81 @@
 {
-    "main_category": "All Beauty",
-    "title": "Panthere De Cartier 2-piece Set 1.6 Oz Parfum De Toilette Spray Women",
-    "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Monarch Specialties I Table SET-3PCS Set, Grey",
+    "average_rating": 3.9,
+    "rating_number": 143,
+    "features": [
+        "Item Dimensions : 36L x 20W x 16H inches. Material : Wood. Assembly required",
+        "3 piece table set includes a rectangular coffee table and two matching square end tables",
+        "Simple minimalist contemporary design",
+        "Rich grey wood-look finish blends well in any décor",
+        "Spacious table tops perfect for placing magazines, small lamps, books, drinks, decorative objects"
+    ],
+    "description": [
+        "Bring some warmth and style to your living room, den, or family room with this modern 3 piece rectangular coffee table set in a rich grey wood-look finish. The table tops are spacious enough to place books, a lamp, or decorative accessories, and the angular sturdy legs with a cross bar keep the look clean yet stylish. With a simple minimalist design, this rectangular coffee table with two matching square end tables is perfect for small spaces easily fitting into any décor style."
+    ],
+    "price": "134.41",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/915Ro-7WYuL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71b6giCmk-L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/719n1J+BvLL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51xjcViAq7L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51iRWI1BBNL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41+l-GBS0XL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41M3YLLjA1L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31WQ-zFQ5HL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51iRWI1BBNL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41+l-GBS0XL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41M3YLLjA1L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31WQ-zFQ5HL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT02",
+            "PT01",
+            "DIMN"
+        ]
     },
-    "store": "ERTDDE",
-    "categories": [],
-    "details": "{}",
-    "parent_asin": "B016R0UMD6",
+    "videos": {
+        "title": [
+            "Black Coffee Table Set",
+            "Yaheetech Wooden X Design Coffee Table for Living Room,White",
+            "Elegance & Practicality Coexistent Coffee Table Set",
+            "Living Room Table Set",
+            "Coffee Table Set Assembly",
+            "why i chose this farmhouse style coffee table. Love it"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/039db539e6714252874b86de8370602b?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0d02ff847beb4b5586a6027012d9220d?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/237ee1ef9b094462a470808c2c6f1edd?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0d972bfbf638467b87a67c78d9a1cf00?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0a29c33914d742138ef1e02ca5362493?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/0e6c497db23547d68730e37bf0881b3a?ref=dp_vse_rvc_5"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "/shop/jackemathews"
+        ]
+    },
+    "store": "Monarch Specialties",
+    "categories": [
+        "Home & Kitchen",
+        "Furniture",
+        "Living Room Furniture",
+        "Tables",
+        "Living Room Table Sets"
+    ],
+    "details": "{\"Product Dimensions\": \"20\\\"D x 36\\\"W x 16.25\\\"H\", \"Color\": \"Grey\", \"Brand\": \"Monarch Specialties\", \"Table design\": \"Coffee Table\", \"Special Feature\": \"Portable\", \"Style\": \"Contemporary\", \"Room Type\": \"Living Room, Home Office\", \"Base Type\": \"Legs\", \"Unit Count\": \"1.0 Count\", \"Model Name\": \"Monarch Specialties I 7932P Table Set, 3pcs Set, Coffee, End, Side, Accent, Living Room, Laminate, Grey, Transitional\", \"Item Weight\": \"17 pounds\", \"Included Components\": \"Assembly Guide\", \"Country of Origin\": \"Malaysia\", \"Item model number\": \"I 7932P\", \"Is Discontinued By Manufacturer\": \"No\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1656849, \"Living Room Table Sets\": 174}, \"Date First Available\": \"June 22, 2017\", \"Shape Rectangular\": \"\", \"\": \"Assembly Required Yes\", \"Frame Material Wood\": \"\"}",
+    "parent_asin": "B076Q85HCR",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,20 +1,57 @@
 {
-    "main_category": "All Beauty",
-    "title": "Rimmel Brow Kit Special Value, Clear Styling Gel & Eyebrow Pencil,001 Dark Brown,(Pack of 2)",
-    "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "CUISINOX Aluminum Moka Pot Stovetop Espresso Maker Silicone Replacement Gasket, 3-Cup Size 64mm outer, 49mm inner",
+    "average_rating": 4.5,
+    "rating_number": 11,
+    "features": [
+        "Fits 3 cup Moka, Crema and Vista espresso coffee makers",
+        "Made of silicone",
+        "outer diameter",
+        "49 mm inner diameter",
+        "Made of silicone"
+    ],
+    "description": [
+        "Replacement silicone gasket for 3-cup size Cuisinox Moka espresso coffeemakers. Keep your espresso maker working properly by replacing your gasket once a year regardless if it needs replacing or not."
+    ],
+    "price": "9.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61dr5u-AU6L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/3191rR9XbuL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/3191rR9XbuL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": null,
-    "categories": [],
-    "details": "{}",
-    "parent_asin": "B01BK54AJU",
+    "videos": {
+        "title": [
+            "How to replace the filter and gasket seals for moka pot",
+            "Honest Review of the Bialetti Moka Express "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0ab1f7446a5948f4b052f71530b534dd?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0ba10dcdf9554bd8bc2f3af75cd3d986?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            "/shop/tungtran"
+        ]
+    },
+    "store": "CUISINOX",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Small Appliance Parts & Accessories",
+        "Coffee & Espresso Machine Parts & Accessories",
+        "Espresso Machine Replacement Parts"
+    ],
+    "details": "{\"Brand\": \"CUISINOX\", \"Color\": \"1\", \"Product Dimensions\": \"2.52\\\"D x 2.52\\\"W x 0.1\\\"H\", \"Special Feature\": \"Long-Lasting Silicone Gasket\", \"Coffee Maker Type\": \"Moka Pot\", \"Included Components\": \"Silicone Replacement Gasket for Moka Pots\", \"Model Name\": \"Aluminum Moka Pot Stovetop Espresso Maker\", \"Number of Items\": \"1\", \"Human Interface Input\": \"Buttons\", \"Item Weight\": \"1.41 ounces\", \"Manufacturer\": \"CUISINOX\", \"Country of Origin\": \"China\", \"Item model number\": \"GAS-M3-SILICONE\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1420154, \"Espresso Machine Replacement Parts\": 677}, \"Date First Available\": \"March 6, 2015\", \"Capacity 3 Cups\": \"\", \"\": \"Material Silicone\"}",
+    "parent_asin": "B0B8FZFWQ1",
     "bought_together": null,
     "subtitle": null,
     "author": null

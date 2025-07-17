@@ -9,6 +9,7 @@ from dotenv import load_dotenv
 from collections import defaultdict
 import sys
 import argparse
+import random
 
 # Load environment variables from .env file
 load_dotenv(os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env'))
@@ -72,31 +73,43 @@ def generate_initial_category_hierarchy(products: List[Dict[str, Any]]) -> Dict[
 create a comprehensive, hierarchical category system that can accommodate all products. The categories should be specific 
 enough to be meaningful but not overly specific.
 
+CATEGORY HIERARCHY FORMAT INSTRUCTIONS:
+When generating or updating product_categories.json, you must follow these rules:
+
+1. The category hierarchy must be a single nested tree, starting from the root "categories" list.
+2. Each category is an object with:
+   - "name": the category name (string)
+   - "subcategories": a list of subcategory objects (may be omitted or empty if none)
+3. Do NOT use "parent_category" fields anywhere in the hierarchy.
+4. All categories and subcategories must be reachable from the root via nested "subcategories".
+5. The root object must include:
+   - "categories": the top-level list of category objects
+   - "version": a string version number (e.g., "1.0")
+   - "last_updated": a string timestamp (e.g., "2024-06-19 01:59:54")
+6. Example:
+{{
+  "categories": [
+    {{
+      "name": "Main Category",
+      "subcategories": [
+        {{
+          "name": "Subcategory",
+          "subcategories": [
+            {{ "name": "Leaf Category" }}
+          ]
+        }}
+      ]
+    }}
+  ],
+  "version": "1.0",
+  "last_updated": "2024-06-19 01:59:54"
+}}
+7. All category additions or updates must preserve this structure.
+
 Sample Products:
 {products_text}
 
-Create a hierarchical category system with the following structure:
-{{
-    "categories": [
-        {{
-            "name": "Category Name",
-            "subcategories": [
-                {{
-                    "name": "Subcategory Name",
-                    "subcategories": [
-                        {{
-                            "name": "Specific Category Name"
-                        }}
-                    ]
-                }}
-            ]
-        }}
-    ],
-    "version": "1.0",
-    "last_updated": "timestamp"
-}}
-
-The categories should be consistent and reusable across all products. For example:
+Create a hierarchical category system following the format rules above. The categories should be consistent and reusable across all products. For example:
 - "Tech Products" -> "Wearable Technology" -> "Smart Watches"
 - "Home & Kitchen" -> "Kitchen Tools" -> "Utensils"
 - "Electronics" -> "Audio" -> "Headphones"
@@ -190,6 +203,39 @@ Price: {metadata.get('price', 'N/A')}
 Available Categories:
 {json.dumps(category_hierarchy, indent=2)}
 
+CATEGORY HIERARCHY FORMAT INSTRUCTIONS:
+When generating or updating product_categories.json, you must follow these rules:
+
+1. The category hierarchy must be a single nested tree, starting from the root "categories" list.
+2. Each category is an object with:
+   - "name": the category name (string)
+   - "subcategories": a list of subcategory objects (may be omitted or empty if none)
+3. Do NOT use "parent_category" fields anywhere in the hierarchy.
+4. All categories and subcategories must be reachable from the root via nested "subcategories".
+5. The root object must include:
+   - "categories": the top-level list of category objects
+   - "version": a string version number (e.g., "1.0")
+   - "last_updated": a string timestamp (e.g., "2024-06-19 01:59:54")
+6. Example:
+{{
+  "categories": [
+    {{
+      "name": "Main Category",
+      "subcategories": [
+        {{
+          "name": "Subcategory",
+          "subcategories": [
+            {{ "name": "Leaf Category" }}
+          ]
+        }}
+      ]
+    }}
+  ],
+  "version": "1.0",
+  "last_updated": "2024-06-19 01:59:54"
+}}
+7. All category additions or updates must preserve this structure.
+
 Categorize this product using the categories provided above. If no existing category fits well, propose a new category.
 
 Format your response as JSON:
@@ -197,8 +243,8 @@ Format your response as JSON:
     "category_path": ["Main Category", "Subcategory", ...],  # List of categories from broadest to most specific
     "confidence": 0.95,
     "new_category": {{
-        "name": "New Category Name",
-        "parent_category": "Parent Category Name"
+        "name": "New Category Name"
+        # Do NOT include 'parent_category'. Instead, the new category will be nested under the last element of the category_path as a subcategory.
     }}  # Only include if a new category is needed
 }}"""
 
@@ -223,23 +269,39 @@ Format your response as JSON:
     
     return categorization
 
-def categorize_products(start_from: int = 0, num_products: int = None) -> None:
+def categorize_products(start_from: int = 0, num_products: int = None, random_sample: bool = False, seed: int = None) -> None:
     """Categorize products using a consistent category hierarchy that can evolve."""
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
+    # Set random seed if provided
+    if seed is not None:
+        random.seed(seed)
+        print(f"Using random seed: {seed}")
+    
     # Load all product metadata
     meta_files = [f for f in os.listdir(METADATA_DIR) if f.startswith('meta_')]
-    meta_files.sort()  # Ensure consistent ordering
     
-    # Apply start_from filter
-    if start_from > 0:
-        meta_files = meta_files[start_from:]
-        print(f"Starting from product index {start_from} (skipping first {start_from} products)")
-    
-    # Apply num_products filter
-    if num_products:
-        meta_files = meta_files[:num_products]
-        print(f"Processing {num_products} products")
+    if random_sample:
+        # Randomly sample without replacement
+        if num_products and num_products < len(meta_files):
+            meta_files = random.sample(meta_files, num_products)
+            print(f"Randomly sampled {len(meta_files)} products from {len([f for f in os.listdir(METADATA_DIR) if f.startswith('meta_')])} total products")
+        else:
+            print(f"Processing all {len(meta_files)} products in random order")
+            random.shuffle(meta_files)
+    else:
+        # Sequential processing (original behavior)
+        meta_files.sort()  # Ensure consistent ordering
+        
+        # Apply start_from filter
+        if start_from > 0:
+            meta_files = meta_files[start_from:]
+            print(f"Starting from product index {start_from} (skipping first {start_from} products)")
+        
+        # Apply num_products filter
+        if num_products:
+            meta_files = meta_files[:num_products]
+            print(f"Processing {num_products} products")
     
     print(f"\nFound {len(meta_files)} metadata files to process")
     
@@ -260,22 +322,22 @@ def categorize_products(start_from: int = 0, num_products: int = None) -> None:
     # Categorize each product
     successful_categorizations = 0
     
-    for idx, product in enumerate(tqdm(products, desc="Categorizing products"), start_from + 1):
+    for idx, product in enumerate(tqdm(products, desc="Categorizing products")):
         try:
             categorization = categorize_product(product, category_hierarchy)
             
             # Save individual product file with sequential numbering
-            output_path = os.path.join(OUTPUT_DIR, f"item_{idx}.json")
+            output_path = os.path.join(OUTPUT_DIR, f"item_{idx + 1}.json")
             with open(output_path, 'w', encoding='utf-8') as f:
                 json.dump({
-                    "item_id": idx,
+                    "item_id": idx + 1,
                     "metadata": product.get('metadata', {}),
                     "categorization": categorization
                 }, f, indent=2, ensure_ascii=False)
             
             successful_categorizations += 1
         except Exception as e:
-            print(f"\nError categorizing item {idx}: {e}")
+            print(f"\nError categorizing item {idx + 1}: {e}")
             continue
     
     print(f"\nSuccessfully categorized {successful_categorizations} out of {len(products)} products")
@@ -291,9 +353,13 @@ if __name__ == "__main__":
     # Parse command line arguments
     parser = argparse.ArgumentParser(description='Categorize Amazon products')
     parser.add_argument('--start-from', type=int, default=0,
-                       help='Start processing from this product index (0-based)')
+                       help='Start processing from this product index (0-based) - only used when not using random sampling')
     parser.add_argument('--num-products', type=int, default=None,
                        help='Number of products to process (default: all remaining)')
+    parser.add_argument('--random-sample', action='store_true',
+                       help='Randomly sample products instead of processing sequentially')
+    parser.add_argument('--seed', type=int, default=None,
+                       help='Random seed for reproducible sampling (default: None)')
     
     args = parser.parse_args()
     
@@ -320,4 +386,4 @@ if __name__ == "__main__":
         print(f"Error: {METADATA_DIR} directory not found")
         exit(1)
         
-    categorize_products(args.start_from, args.num_products) 
+    categorize_products(args.start_from, args.num_products, args.random_sample, args.seed) 

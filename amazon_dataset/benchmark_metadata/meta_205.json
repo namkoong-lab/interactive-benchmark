@@ -1,20 +1,78 @@
 {
-    "main_category": "All Beauty",
-    "title": "T Part Lace Front Wig For Black Woman Lace Wig Human Hair Wig Brazilian Virgin Human Lace Front Wig Straight Bob Wig 613 Blonde Short Bob Wigs(8 inch, 613#)",
-    "average_rating": 3.5,
-    "rating_number": 38,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Saffron Bolster Pillowcase Decorative Bed Neck Roll Round Pillow Cover 6\" Diameter x 24\" Long (15cm Diameter x 61cm long) Teal Blue Removable COVER",
+    "average_rating": 3.3,
+    "rating_number": 11,
+    "features": [
+        "Cotton",
+        "This listing is for COVER ONLY, insert is not included",
+        "SHADE - Blue / Color : Tropical Rain Forest / Hex Color #016B90",
+        "CARE :-Machine washable ,Hot Iron ,It can be Removed and washed easily and requires Hot iron if needed.",
+        "MATERIAL : Cotton .Its 100% Cotton Poplin fabric ,not thick as the upholstery fabric But it fits for outdoor as well as indoor covers.",
+        "STYLE : Draw String Closures on both ends to pull and remove cover easily .Please see the photo how to take correct measurement of your round bolster."
+    ],
+    "description": [
+        "This listing is for COVER ONLY, insert is not included SHADE - Blue / Color : Tropical Rain Forest / Hex Color #016B52 CARE :-Machine washable ,Hot Iron ,It can be Removed and washed easily and requires Hot iron if needed. MATERIAL : Cotton .Its 100% Cotton Poplin fabric ,not thick as the upholstery fabric But it fits for outdoor as well as indoor covers. STYLE : Draw String Closures on both ends to pull and remove cover easily .Please see the photo how to take correct measurement of your round bolster."
+    ],
+    "price": "11.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/A1T++B22CUL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/912bBpvZ1dL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81TNZJYbwuL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81evEPeFIKL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91blP8DSjIL._AC_SL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/613U2PDuT7L._AC_SL1168_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41be0a9J27L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/411o1BJu6aL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31oNw4qkH5L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31eyTneANvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/3173hfEBR4L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51OmPQcKa+L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/413mLmxbxHL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41be0a9J27L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/411o1BJu6aL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31oNw4qkH5L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31eyTneANvL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/3173hfEBR4L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51OmPQcKa+L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/413mLmxbxHL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06"
+        ]
     },
-    "store": "PLADIO",
-    "categories": [],
-    "details": "{\"Material\": \"Human Hair\", \"Hair Type\": \"Straight\", \"Brand\": \"PLADIO\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Package Dimensions\": \"8.6 x 7.7 x 2.1 inches; 4.8 Ounces\"}",
-    "parent_asin": "B07XYVPQQK",
+    "videos": {
+        "title": [
+            "My Thoughts on the Bamboo Round Pillow"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0cf915d223fe4d25bd2f17a2155e20d9?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "/shop/helpfultutorials"
+        ]
+    },
+    "store": "SAFFRON",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Decorative Pillows, Inserts & Covers",
+        "Throw Pillow Covers"
+    ],
+    "details": "{\"Pattern\": \"Solid\", \"Material\": \"Cotton\", \"Color\": \"Blue\", \"Product Dimensions\": \"24\\\"L x 6\\\"W\", \"Style\": \"Decorative\", \"Brand\": \"Saffron\", \"Theme\": \"Tropical\", \"Shape\": \"Round\", \"Number of Items\": \"1\", \"Special Feature\": \"Removable\", \"Number of Pieces\": \"1\", \"Product Care Instructions\": \"Machine Wash\", \"Occasion\": \"Outdoor\", \"Closure Type\": \"Drawstring closure\", \"Manufacturer\": \"Saffron Handicrafts\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3434387, \"Throw Pillow Covers\": 50408}, \"Is Discontinued By Manufacturer\": \"No\", \"Fabric Type\": \"Cotton\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B07CR36GBV",
     "bought_together": null,
     "subtitle": null,
     "author": null

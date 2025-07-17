@@ -1,20 +1,52 @@
 {
-    "main_category": "All Beauty",
-    "title": "Kiara Sky Gel What The Shell G910",
-    "average_rating": 3.2,
-    "rating_number": 6,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "6pc 300 Thread Count Egyptian Cotton Sheet Set with 4 Pillow Cases, King, White Stripe",
+    "average_rating": 3.0,
+    "rating_number": 1,
+    "features": [
+        "Egyptian Cotton",
+        "300TC long-staple Egyptian Cotton Sheet Set.",
+        "1 Flat Sheet (108\" x 102\"), 1 Fitted Sheet (78\" x 80\") and 2 King Pillow Cases (20\" x 40\")",
+        "Fits mattresses up to 14\" - 18\" deep with elastic all around the fitted sheet.",
+        "Machine wash in cold water with similar colors. Tumble dry low. Do not bleach",
+        "Brand New & Factory Sealed in a Beautiful Zippered package. Full warranty & 100% money back guarantee."
+    ],
+    "description": [
+        "This is a EGYPTIAN COTTON FACTORY OUTLET STORE brand product. This luxury 6 Piece Bedding set includes bonus 4 (Four) pillow cases. The set is constructed of the finest Egyptian combed cotton woven into fabrics by premier mills. These lovely linens are done with impeccable quality and durability. We bring the beauty and style of generations of craftsmanship directly to your home. The luxury package contains 1 Flat Sheet, 1 Fitted Sheet and 4 Pillow Case in a beautiful zippered package. Wrap yourself in these 100% Egyptian Cotton Superior bed sheets that are truly worthy of a classy elegant suite, and are found in world class hotels. These fine Luxury Bed Linens are crafted from Long Staple Giza Cotton grown in the lush Nile River Valley since the time of the Pharaohs. Comfort, quality and opulence set our Luxury Bedding in a class above the rest. Elegant yet durable, their softness is enhanced with each washing. You will relax and enjoy the rich, soft and luxurious feeling of cotton sheets. Warranty only when purchased from EGYPTIAN COTTON FACTORY OUTLET STORE brand Reseller."
+    ],
+    "price": "79.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/619+RsUmgiL._AC_SL1024_.jpg",
+            "https://m.media-amazon.com/images/I/41A6uCtRalL._AC_SL1024_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41NixGyEe9L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31pPsLIgzJL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41NixGyEe9L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31pPsLIgzJL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT02"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Kiara Sky",
-    "categories": [],
-    "details": "{\"Brand\": \"Kiara Sky\", \"Item Form\": \"Gel\", \"Finish Type\": \"Glossy\", \"Age Range (Description)\": \"Adult\", \"Liquid Volume\": \"15 Milliliters\", \"Is Discontinued By Manufacturer\": \"No\", \"UPC\": \"637390565781\"}",
-    "parent_asin": "B073XRBMWW",
+    "store": "Egyptian Cotton Factory Outlet Store",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Sheets & Pillowcases",
+        "Sheet & Pillowcase Sets"
+    ],
+    "details": "{\"Size\": \"King\", \"Material\": \"Cotton\", \"Color\": \"White\", \"Pattern\": \"Striped\", \"Brand\": \"Egyptian Cotton Factory Outlet Store\", \"Number of Pieces\": \"6\", \"Included Components\": \"Pillowcase, Fitted Sheet, Flat Sheet\", \"Thread Count\": \"1200\", \"Product Care Instructions\": \"Machine Wash\", \"Theme\": \"Stripe\", \"Item Weight\": \"8 pounds\", \"Manufacturer\": \"Egyptian Cotton Factory Outlet Store\", \"Fabric Type\": \"Egyptian Cotton\"}",
+    "parent_asin": "B003QL0PH8",
     "bought_together": null,
     "subtitle": null,
     "author": null

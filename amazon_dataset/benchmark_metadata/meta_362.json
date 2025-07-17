@@ -1,20 +1,57 @@
 {
-    "main_category": "All Beauty",
-    "title": "Hair Straightening Brush 3.0, Buture Mini Hair Straightener Brush Negative ion Ceramic Iron Hair Brush Fast Heat Hot Brush Travel Size Anti-scald MCH 110-240V Auto Off Temperature Lock (Black)",
-    "average_rating": 4.0,
-    "rating_number": 46,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Splash the Marlin Coaster Set",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "Polyester: Heat resistant and allows for vibrant colors that are imaged to last",
+        "Built in Barrier: Locks in moisture from seeping through the coaster onto the kitchen table",
+        "Slub Weave Design: Linen pattern for decoration and is machine washable",
+        "Designed from original sea-life artwork this coaster set helps to bring an ocean accent to your home",
+        "Size: 4\" x 4\" (set comes with 4 coasters)"
+    ],
+    "description": [
+        "The Splash the Marlin Coaster Set contains four highly absorbent fabric coasters and makes a great functional gift item useful for any setting. 4\" x 4\"."
+    ],
+    "price": "7.96",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71lHDAoxO9L._AC_SL1280_.jpg",
+            "https://m.media-amazon.com/images/I/71lHDAoxO9L._AC_SL1280_.jpg",
+            "https://m.media-amazon.com/images/I/81tH0ogH45L._AC_SL1280_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/410JQOwk9bL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/410JQOwk9bL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51533w0M4GL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/410JQOwk9bL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/410JQOwk9bL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51533w0M4GL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "BuTure",
-    "categories": [],
-    "details": "{\"Brand\": \"BuTure\", \"Hair Type\": \"All\", \"Material\": \"Ceramic\", \"Power Source\": \"Corded Electric\", \"Max Temperature Setting\": \"230 Degrees Celsius\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"10 x 4.3 x 2.5 inches; 1.25 Pounds\", \"Manufacturer\": \"BuTure\"}",
-    "parent_asin": "B07SYY1162",
+    "store": "Live Free .Ink",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Bar Tools & Drinkware",
+        "Bar Tools",
+        "Coasters"
+    ],
+    "details": "{\"Color\": \"Blue\", \"Material\": \"Polyester Slub Weave\", \"Brand\": \"Live Free .Ink\", \"Shape\": \"Square\", \"Product Care Instructions\": \"Machine Wash\", \"Is Dishwasher Safe\": \"No\", \"Product Dimensions\": \"0.5 x 4 x 4 inches\", \"Item Weight\": \"1.1 ounces\", \"Manufacturer\": \"Live Free .Ink\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 1482024, \"Bar Coasters\": 26662}, \"Date First Available\": \"June 10, 2019\"}",
+    "parent_asin": "B07SX5KWD8",
     "bought_together": null,
     "subtitle": null,
     "author": null

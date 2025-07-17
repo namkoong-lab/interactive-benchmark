@@ -1,20 +1,52 @@
 {
-    "main_category": "All Beauty",
-    "title": "12 Pieces Set Dragonfly Style Crystal Barrette With Silver Color Metal Clip 5 Different Crystal Color",
-    "average_rating": 5.0,
-    "rating_number": 3,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Havana Fridge Magnet Cuba Travel Souvenir",
+    "average_rating": 4.4,
+    "rating_number": 8,
+    "features": [
+        "Magnet for refrigerator or locker",
+        "UV protect",
+        "True colors",
+        "Great gift",
+        "Good for collection"
+    ],
+    "description": [
+        "Havana fridge magnet Cuba travel souvenir"
+    ],
+    "price": "5.97",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/51DqCiknfnL._AC_SL1020_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51+gwVYyEIL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41hzEyfII3L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51+gwVYyEIL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41hzEyfII3L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Elice",
-    "categories": [],
-    "details": "{\"Brand\": \"Elice\", \"Color\": \"Blue,Green,White,Pink,Silver,Purple\", \"Material\": \"Metal, Crystal\", \"Unit Count\": \"12.00 Count\", \"Number of Pieces\": \"12\", \"UPC\": \"793002442779\"}",
-    "parent_asin": "B079SD3GZW",
+    "store": "Magnet Sv",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen Utensils & Gadgets",
+        "Kitchen Accessories",
+        "Refrigerator Magnets"
+    ],
+    "details": "{\"Product Dimensions\": \"3.15 x 0.39 x 2.36 inches\", \"Item Weight\": \"0.64 ounces\", \"Country of Origin\": \"Kyrgyzstan\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 288987, \"Refrigerator Magnets\": 5918}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"March 12, 2017\", \"Size\": \"Size 2\\\" x 3\\\" (50mm x 75mm)\", \"Color\": \"True Colors\", \"Brand\": \"Magnet Sv\", \"Shape\": \"Rectangular\"}",
+    "parent_asin": "B071LTSFN4",
     "bought_together": null,
     "subtitle": null,
     "author": null

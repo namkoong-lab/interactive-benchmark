@@ -1,20 +1,65 @@
 {
-    "main_category": "All Beauty",
-    "title": "Chennie Spa Headbands Sequins Elastic Bowknot Makeup Hair Bands Washing Face HeadWraps For Women And Girls (2PCS) (Blue&Pink)",
-    "average_rating": 3.0,
-    "rating_number": 2,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "FSTIKO Kitchen Towel 4 Piece Linen Set 2 Towels 2 Pot Holders 2 Oven Mittfor Cooking, Baking, Housewarming (Farm Sunflower)",
+    "average_rating": 3.9,
+    "rating_number": 545,
+    "features": [
+        "APPLE THEMED SET: Juicy Apple bundle includes 2 heat resistant oven mitt(7\" x 11\"), 2 cotton blend kitchen towel (24\" x 14\"), 2 potholders(6\" x 6\").",
+        "MATERIAL: Polyester and soft cotton,high quality fabric can effectively insulate protect the hands from heat while protecting your table from being scorched by the hot bottom.",
+        "EASY CARE: Easy to clean and machine wash, Lay flat to dry.",
+        "WONDERFUL DECOR:A wonderful addition to any kitchen decor and perfect for everyday use. keep your kitchen looking bright and energetic.",
+        "GREAT GIFT: Charming 6 piece kitchen solution set makes a great hostess, wedding, or housewarming. wonderful gift for your mother ,wife or friend."
+    ],
+    "description": [
+        "FSTIKO store has various themes Kitchen Set, keep your kitchen looking bright and Warm, 6 piece kitchen solution set includes 2 terry kitchen towels, 2 pot holders and 2 oven mitt.with unique design and vibrant colors,perfect to decorate you kitchen decor or as hostess gift, christmas gift, holiday gift, mother's day gift, father's day gift, birthday gift, etc."
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81hmGgGiXuL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81VEC+9dAJL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81vDS5MSLsL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81yHsWtIMHL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/6173LefP2ZL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/510WAinj85L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51iJPPS9zzL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61iSs7aK-LL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/6173LefP2ZL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/510WAinj85L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51iJPPS9zzL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61iSs7aK-LL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
     },
-    "store": "Chennie",
-    "categories": [],
-    "details": "{\"Material\": \"Microfiber\", \"Brand\": \"Chennie\", \"Unit Count\": \"1.00 Count\", \"Package Dimensions\": \"5 x 4.5 x 1.4 inches; 1.59 Ounces\"}",
-    "parent_asin": "B08BC5MMT1",
+    "videos": {
+        "title": [
+            "Designer Kitchen Sunflower Dishtowel and Oven Mitts Set"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0fb9269b80ed451aa3c6d5251afbe301?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "FSTIKO",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen & Table Linens",
+        "Kitchen Linen Sets"
+    ],
+    "details": "{\"Color\": \"Farm Sunflower\", \"Brand\": \"FSTIKO\", \"Outer Material\": \"Polyester, Cotton\", \"Product Care Instructions\": \"Machine Wash\", \"Shape\": \"Hand\", \"Fill Material\": \"Polyester, Cotton\", \"Number of Pieces\": \"6\", \"Product Dimensions\": \"11\\\"L x 7\\\"W\", \"Item Weight\": \"10.2 ounces\", \"Manufacturer\": \"FSTIKO\", \"Country of Origin\": \"China\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 70414, \"Kitchen Linen Sets\": 27}, \"Date First Available\": \"May 5, 2020\", \"Item Dimensions LxWxH\": \"11 x 7 x 0.01 inches\"}",
+    "parent_asin": "B0BFCDBB5N",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,26 +1,55 @@
 {
-    "main_category": "All Beauty",
-    "title": "Liquid Foundation Makeup Sunscreen 2 Pcs 35ml Waterproof Oil Control Moisturizing Lightweight Non Stick Concealer Foundation for Face and Body in Glass Bottle with 2 Pcs Black Makeup Sponge",
-    "average_rating": 3.5,
-    "rating_number": 14,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "Great Values Worth!"
+    "main_category": "Amazon Home",
+    "title": "NAO A Lesson in Learning. Porcelain Woman Reading Figure.",
+    "average_rating": 5.0,
+    "rating_number": 5,
+    "features": [
+        "Unique pieces by the artist of LLADRÃ“",
+        "Porcelain figurines made by hand",
+        "The PERFECT GIFT idea.",
+        "Designed and handmade in Spain.",
+        "The highest QUALITY standards"
+    ],
+    "description": [
+        "Porcelain Figurine of a teacher sitting down reading the lecture. Hand crafted in the Spanish city of Valencia."
+    ],
+    "price": "175.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71C8nlOyhTL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71142AYB9zL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71zafibDbCL._AC_SL1500_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/0cb1614eb9fe4ce3ae48cd98d3201c34?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/315ad6cb51L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41mcuUYJYdL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/4164YQDhMFL._AC_.jpg"
         ],
-        "user_id": [
-            "AHS36RONQ4MAEPOXJZ4T7C3VDWHA"
+        "thumb": [
+            "https://m.media-amazon.com/images/I/315ad6cb51L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41mcuUYJYdL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/4164YQDhMFL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
         ]
     },
-    "store": "Marine Forest",
-    "categories": [],
-    "details": "{\"Item Form\": \"Powder\", \"Finish Type\": \"Natural\", \"Package Information\": \"Bottle\", \"Brand\": \"Marine Forest\", \"Coverage\": \"Light\", \"Package Dimensions\": \"5.08 x 4.25 x 1.57 inches; 7.68 Ounces\", \"UPC\": \"729843981955\"}",
-    "parent_asin": "B08ZRTSR2S",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "NAO",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Collectible Figurines"
+    ],
+    "details": "{\"Product Dimensions\": \"3.54 x 8.27 x 7.87 inches\", \"Item Weight\": \"1.06 pounds\", \"Manufacturer\": \"LLADRO\", \"Item model number\": \"2001625.0\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1548519, \"Collectible Figurines\": 13744}, \"Is Discontinued By Manufacturer\": \"No\", \"Assembly required\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\", \"Included Components\": \"Porcelain\"}",
+    "parent_asin": "B003JU2BPA",
     "bought_together": null,
     "subtitle": null,
     "author": null

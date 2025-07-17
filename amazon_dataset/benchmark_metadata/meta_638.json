@@ -1,24 +1,62 @@
 {
-    "main_category": "All Beauty",
-    "title": "Tahe Magic Instant Spray Mask 125ml (4.22fl.oz). Do Not Rinse.",
-    "average_rating": 3.9,
-    "rating_number": 7,
+    "main_category": "Amazon Home",
+    "title": "MAGNET Jolly Corgis in Green Magnetic Car Sticker Decal Refrigerator Metal Magnet Vinyl 5\"",
+    "average_rating": 3.7,
+    "rating_number": 65,
     "features": [
-        "Deep nourishment. Protect hair from heat and UVA rays. Illuminate from roots to ends. Repair split ends. Discipline frizzy hair. Preserve color longer. Redensify the hair making it easier to comb. Reduce static electricity. Untangle hair making styling easier. Revitalize dry and colored hair."
+        "Approx Size: 5\"",
+        "Colors are printed with ultra-violet (UV) fade resistant inks - High resolution print quality. Magnets are printed on high performance outdoor vinyl.",
+        "Durable, weatherproof- 100% waterproof/washable",
+        "Suitable for indoor or outdoor use - Can be applied to any smooth, non-porous metal surface. Reuseable peel and stick anywhere and move them around when needed",
+        "Made in the USA. Easy to apply"
     ],
     "description": [
-        "Powerful concentrated formula of intensive action spray mask. Fusion of precious natural extracts and exquisite oil with a non-greasy texture, ideal for: Deep nourishment. Protect hair from heat and UVA rays. Illuminate from roots to ends. Repair split ends. Discipline frizzy hair. Preserve color longer. Redensify the hair making it easier to comb. Reduce static electricity. Untangle hair making styling easier. Revitalize dry and colored hair."
+        "High quality magnet using industry leading eco-solvent ink and meticulously cut to shape using state of the art cutting technology. It is truly a beautiful magnet. They are great for refrigerators, lockers, cars, any flat or curved metal surface."
     ],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "price": "5.95",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Va2tzJ-gL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51Va2tzJ-gL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51Va2tzJ-gL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Va2tzJ-gL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51Va2tzJ-gL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51Va2tzJ-gL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
     },
-    "store": "Tahe",
-    "categories": [],
-    "details": "{\"Hair Type\": \"Frizzy\", \"Scent\": \"Unscented\", \"Liquid Volume\": \"4.22 Fluid Ounces\", \"Item Form\": \"Spray\", \"Brand\": \"Tahe\", \"Is Discontinued By Manufacturer\": \"No\"}",
-    "parent_asin": "B07NNXQXJX",
+    "videos": {
+        "title": [
+            "Decorate your Home with funny Corgi Butts Fridge Magnets "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0a4d121ba7564db2a386678f07a16801?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Unknown",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen Utensils & Gadgets",
+        "Kitchen Accessories",
+        "Refrigerator Magnets"
+    ],
+    "details": "{\"Manufacturer\": \"KYX Vinyl\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 315198, \"Refrigerator Magnets\": 6806}, \"Date First Available\": \"October 30, 2019\", \"Size\": \"5 inches\", \"Color\": \"Green\", \"Material\": \"Other\", \"Brand\": \"Unknown\", \"Shape\": \"Round\"}",
+    "parent_asin": "B07ZR6ZRKF",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,20 +1,111 @@
 {
-    "main_category": "All Beauty",
-    "title": "Yeshan Rhinestone and Crystal Small Jaw Claw Hair Clip,Metal Butterfly Design Barrettes for Women,pack of 6.",
-    "average_rating": 3.5,
-    "rating_number": 4,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Tommy Bahama Home Quilt Set Reversible Cotton Bedding with Matching Sham, All Season Home Decor, Twin, Turtle Cove Green",
+    "average_rating": 4.5,
+    "rating_number": 1011,
+    "features": [
+        "100% Cotton; Fill: 60% Cotton/30% Polyester/10% New Reclaimed Fibers",
+        "QUALITY MATERIALS: Crafted from super soft brushed microfiber",
+        "SOFT & EASY TO LAYER: This quilt set is lightweight, with a casual style; prewashed for added softness",
+        "QUILT FILL: 80% Cotton & 20% Polyester; blended to create a durable quilt",
+        "SET INCLUDES: 2-PIECE SET- Twin Quilt (1-Piece Included): 88\"W X 68\"L, Standard Sham (1-Piece Included): 21\"L X 27\"W",
+        "THOUGHTFUL DETAILS: Rounded corner shams with two piece back closures for easy removal; Quilts are reversible offering a combination of traditional and soft texture options"
+    ],
+    "description": [
+        "Turtle Cove Lagoon quilt set by Tommy Bahama bedding features an all over damask design in green. On the reverse quilt and matching shams is a textured green print with vermicelli stitching. Quilt and shams are prewashed for an extremely soft feel. 100Percent cotton with a cotton rich fill. Update your bedroom with a new Tommy Bahama quilt."
+    ],
+    "price": "60.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/A1nPzYNmJ+S._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A12DD3IYZKS._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A16LvIpe9IS._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1rpMt+ib7L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1oQKj3vBcS._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91owDcIqMwL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1JWeC+zZ3L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1GsWAcgHKS._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1fjphw9D9L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91Cvh4KkC9L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91El2nbTyeL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91nFiD4+9hL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/918h1wYO6BL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51idbNQWIWS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61m2vax5N5S._AC_.jpg",
+            "https://m.media-amazon.com/images/I/614BIiAia4S._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61xRV9kiqOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61PHZGzefUS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51T90tBXYPL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51BRn0Rw6YL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61yCOpounCS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51Hksu4fe1L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41HO1d4bjeL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51hqWI2xErL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51K6DIz0R7L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51+oCTEFLvL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51idbNQWIWS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61m2vax5N5S._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/614BIiAia4S._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61xRV9kiqOL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61PHZGzefUS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51T90tBXYPL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51BRn0Rw6YL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61yCOpounCS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51Hksu4fe1L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41HO1d4bjeL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51hqWI2xErL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51K6DIz0R7L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51+oCTEFLvL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08",
+            "PT09",
+            "PT10",
+            "PT11",
+            "PT12",
+            "PT13"
+        ]
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Hair Type\": \"All\", \"Age Range (Description)\": \"Adult\", \"Embellishment\": \"Rhinestone\", \"Material\": \"Metal\", \"Unit Count\": \"6.0 Count\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"1 x 1 x 1 inches; 2.24 Ounces\"}",
-    "parent_asin": "B074YHVN5D",
+    "videos": {
+        "title": [
+            "Tommy Bahama Cotton Quilts",
+            "Nautica Ridgeport Quilt Set",
+            "Nautica Coveside Quilt Set",
+            "Nautica Quilt Set Assortment Updated Video"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0b92aae2a795412e88855c7b4e7bf9fc?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0b6a8820c0f748bfa43e642f9ac6689e?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0e43491aa25d4d9cafd1cbb33e9c0cb0?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0d7d92a56ac24aea98562a27a33cbb07?ref=dp_vse_rvc_3"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "store": "Tommy Bahama",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Quilts & Sets",
+        "Quilt Sets"
+    ],
+    "details": "{\"Size\": \"Twin\", \"Included Components\": \"Quilt, Pillow Sham\", \"Color\": \"Turtle Cove Green\", \"Age Range (Description)\": \"Baby\", \"Style\": \"Tropical\", \"Brand\": \"Tommy Bahama\", \"Theme\": \"Classic\", \"Pattern\": \"print\", \"Material\": \"Cotton\", \"Fabric Type\": \"100% Cotton; Fill: 60% Cotton/30% Polyester/10% New Reclaimed Fibers\", \"Number of Pieces\": \"2\", \"Seasons\": \"All\", \"Product Care Instructions\": \"Machine Wash\", \"Product Dimensions\": \"15 x 17 x 4.5 inches\", \"Item Weight\": \"4.65 pounds\", \"Department\": \"mens\", \"Manufacturer\": \"Tommy Bahama Home\", \"Country of Origin\": \"China\", \"Item model number\": \"208220\", \"Best Sellers Rank\": {\"Home & Kitchen\": 81161, \"Quilt Sets\": 174}, \"Is Discontinued By Manufacturer\": \"No\", \"Refill\": \"cotton , polyester, down_alternative\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B09TDWD2T2",
     "bought_together": null,
     "subtitle": null,
     "author": null

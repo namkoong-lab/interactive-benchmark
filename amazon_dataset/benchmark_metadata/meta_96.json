@@ -1,20 +1,70 @@
 {
-    "main_category": "All Beauty",
-    "title": "Miss U Hair 20\"/50cm 110g Long Curl/wavy Clip in Hair Extensions 5Clips Women Synthetic Hairpiece Accessories (Purple)",
+    "main_category": "Amazon Home",
+    "title": "Frescorr - Black Wrought Iron Metal Coasters Holder for (4.25 INCH ) Round Coasters, Premium Quality!! (Black)",
     "average_rating": 4.6,
-    "rating_number": 3,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "rating_number": 108,
+    "features": [
+        "Made from carbon structured iron, sturdy and durable.",
+        "Ideal for (3.5 - 4 INCHES) round coasters.",
+        "4 - 6 coasters can be accommodated at the same time depending upon coasters width",
+        "This Holder dimensions are 4.5(L) x 4.5(W) x 2.7(H) inches.",
+        "Set of 1 metal coaster holders, for best results please hand wash only, Do not Scrub."
+    ],
+    "description": [
+        "Coaster Holder easily holds 3-4 inches size coasters , best for 4-6 coasters depending upon width of the coaster. New modern design with thicker stronger more durable construction. Carbon iron construction, powder-coated black to fit in with any décor. Holds round coasters, ideal for neat spaces. More substantial design assures solid footing on furniture."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61ncnbTA5SL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/613afRHuevL._AC_SL1500_.jpg",
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41n6XZH9StL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41sufTvtZJL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41g7SCo90kL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41pxxeBboqL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41n6XZH9StL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41sufTvtZJL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41g7SCo90kL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41pxxeBboqL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
     },
-    "store": "miss u hair",
-    "categories": [],
-    "details": "{\"Brand\": \"Miss u hair\", \"Material\": \"Synthetic\", \"Extension Length\": \"20 Inches\", \"Hair Type\": \"Curly\", \"Installation Type\": \"Clip-In\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"3.66 x 2.56 x 0.69 inches; 3.84 Ounces\", \"Item model number\": \"W3-A05\", \"UPC\": \"794168186347 604697942744\"}",
-    "parent_asin": "B010J7VQ88",
+    "videos": {
+        "title": [
+            "Triangle coaster holder",
+            "Honest Review Thirstystone Coasters"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0fee76daef2649d98bd3003f3da7b197?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0227130b85ba4cb4a34adfad2f7b7cf5?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            "/shop/bj_richards_author"
+        ]
+    },
+    "store": "Frescorr",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Bar Tools & Drinkware",
+        "Bar Tools",
+        "Coasters"
+    ],
+    "details": "{\"Color\": \"Black\", \"Material\": \"Iron\", \"Brand\": \"Frescorr\", \"Shape\": \"Round\", \"Product Care Instructions\": \"Hand Wash,Iron\", \"Is Dishwasher Safe\": \"No\", \"Product Dimensions\": \"4.5\\\"L x 4.5\\\"W\", \"Package Dimensions\": \"4.9 x 4.9 x 3.5 inches\", \"Item Weight\": \"9.6 ounces\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 109299, \"Bar Coasters\": 1064}, \"Date First Available\": \"November 13, 2019\"}",
+    "parent_asin": "B08HS6XS4M",
     "bought_together": null,
     "subtitle": null,
     "author": null

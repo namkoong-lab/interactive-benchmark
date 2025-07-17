@@ -1,20 +1,67 @@
 {
-    "main_category": "All Beauty",
-    "title": "WXJ13 Heatless Hair Curler with Soft Pearl Cotton Filling, Women Heatless Curling Ribbon, No Heat Curling Headband, Heatless Curls Headband Ribbon, Heatless Hair Curler with Hair Clip & Scrunchies",
-    "average_rating": 3.1,
-    "rating_number": 6,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Iconic Furniture Company RD45-BEL-CH53-CL-BI 5PC 5 Piece Dining Set, Caramel (CL)/Biscotti (BI)",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Set includes 1 Table and 4 Chairs Ships in Five Cartons * Table size : *Table size: 45\"W x 45\"-63\"L x 30\"H",
+        "*Chairs: 18\"W x 22\"D x 38 1/2\"H * Additional chairs are available for purchase CH53-CL-BI",
+        "*Round single pedestal table *Gear driven 18\" takeout leaf",
+        "* Seat capacity 4 to 6",
+        "Material: Solid wood"
+    ],
+    "description": [
+        "Dining Table *Round single pedestal table *Gear driven 18\" takeout leaf *Antiqued *Table shown in an antiqued caramel biscotti two tone finish *Table size: 45\"W x 45\"-63\"L x 30\"H *Table shown with a Bella pedestal base * Seat capacity 4 to 6 Chairs *Napoleon back dining side chair *French country style *Turned leg design *Wood seat *Shown in a two tone caramel/biscotti finish *Chairs: 18\"W x 22\"D x 38 1/2\"H *Chairs come two per box * Additional chairs are available for purchase CH53-CL-BI"
+    ],
+    "price": "1812.25",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91v+RsHUm+L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61HILgaorPL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61mvkmv03YL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81rRM9GWNNL._AC_SL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/61SVpU3AwJL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51rUhzpIUJL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31ybH+Y+CpL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/314ekqMCOUL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41yIyptpItL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31T3JWDvVSL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31+xK7f67UL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51rUhzpIUJL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31ybH+Y+CpL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/314ekqMCOUL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41yIyptpItL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31T3JWDvVSL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31+xK7f67UL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "WXJ13",
-    "categories": [],
-    "details": "{\"Item Form\": \"Clip\", \"Hair Type\": \"Curly\", \"Material\": \"Silk\", \"Brand\": \"WXJ13\", \"Unit Count\": \"1.00 Count\", \"Package Dimensions\": \"10.43 x 9.17 x 3.54 inches; 5.93 Ounces\"}",
-    "parent_asin": "B09NN699FT",
+    "store": "Iconic Furniture Company",
+    "categories": [
+        "Home & Kitchen",
+        "Furniture",
+        "Dining Room Furniture",
+        "Table & Chair Sets"
+    ],
+    "details": "{\"Item Weight\": \"250 Pounds\", \"Product Dimensions\": \"72 x 48 x 35 inches\", \"Item model number\": \"RD45-BEL-CH53-CL-BI 5PC\", \"Date First Available\": \"November 21, 2020\", \"Color\": \"Caramel (Cl)/Biscotti (Bi)\", \"Brand\": \"Iconic Furniture Company\", \"Room Type\": \"Dining Room\", \"Style\": \"French Country\"}",
+    "parent_asin": "B08NYYZ9VP",
     "bought_together": null,
     "subtitle": null,
     "author": null

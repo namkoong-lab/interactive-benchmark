@@ -1,20 +1,65 @@
 {
-    "main_category": "All Beauty",
-    "title": "Remy Human Hair Pieces Front Clip in Hair #1B Natural Black Fringe Hair Extensions with Hair Temples",
-    "average_rating": 3.7,
-    "rating_number": 22,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Stainless-Steel| Easy Use Good Grips Stainless Steel Pineapple Corer & Slicer,Stainless Steel/Black",
+    "average_rating": 4.3,
+    "rating_number": 30,
+    "features": [
+        "GOOD QUALITY STAINLESS STEEL BLADE: UHC33 pineapple fruit slicer is equipped with a good quality stainless steel medium size blade which is totally rustproof, corrosion-resistant and ready to stand any heavy-duty use. This stainless steel tool is healthy, safe and easy to clean",
+        "ERGONOMIC HANDLE FOR PERFECT GRIP: Our pineapple peeler comes with a handle on top which is made of good quality plastic material so as to stand repeated use and ensures non-slip holding and twisting. It protects your hands from sharp blades and keeps you safe from unwanted cuts with kitchen tools",
+        "IDEAL TOOL FOR PINEAPPLE SLICING: This pineapple slicer will make your tedious task of pineapple peeling more easily. No more struggling to peel and de-core a whole pineapple on your own with this fruit slicer. It can easily create one slice at a time or cut up the whole fruit at once",
+        "SIMPLE & EASY TO USE KITCHEN TOOL: Our fruit cutter is very simple and easy to use. Grab a UHC33 pineapple slicer and let it do the rest. Remove the top of the pineapple, stick the slicer in the middle and twist the ratchet. As its parts are removable this tool is easy to clean. Create perfectly formed and ring-shaped pineapple flesh and enjoy on the spot",
+        "A THOUGHTFUL KITCHEN ACCESSORY FOR YOU: If you are searching for a clever and practical housewarming tool, then your search ends here. Surprise your beloved one today with this sleek kitchen utensil. It is ideal for both personal and professional use"
+    ],
+    "description": [
+        "Most people love the sweet pineapple! But what about the peeling and cutting nightmare? No more worries! Find your peace of mind with a UHC33 pineapple slicer tool by your side. This stainless steel pineapple slicer acts as a pineapple peeler, pineapple slicer, pineapple corer and works all in one in just a few seconds. It has a sharp stainless steel cutting blade. This small piece cutter not only perfect for pineapple but also for apples or pears. It has comfortable, non-slip knob ratchets to allow for continuous rotation without adjusting your grip. It is very easy and simple to use, take a UHC33 pineapple slicer and let it do the rest. Remove the top of the pineapple, stick the slicer in the middle and twist the ratchet. You can use the pineapple rest shell as a serving vessel for a fruit salad or any type of dish, use as a fancy part mug, the centerpiece for the table or buffet. Facilitate pineapple peeling and de-coring. Enjoy your favorite fruit in less than 30 seconds!"
+    ],
+    "price": "11.95",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41GqJtyc1WL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31XvlYIUgPL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31RLOfxU9DL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41GqJtyc1WL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41fTnyfM2UL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41GqJtyc1WL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31XvlYIUgPL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31RLOfxU9DL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41GqJtyc1WL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41fTnyfM2UL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Material\": \"Human Hair\", \"Hair Type\": \"Straight\", \"Material Feature\": \"Natural\", \"Installation Type\": \"Clip-In\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"9 x 1 x 1 inches; 0.48 Ounces\", \"UPC\": \"615517482166\"}",
-    "parent_asin": "B07BXHZLV4",
+    "store": "Generic",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen Utensils & Gadgets",
+        "Fruit & Vegetable Tools",
+        "Corers & Pitters",
+        "Corers"
+    ],
+    "details": "{\"Package Dimensions\": \"9.1 x 3.4 x 3.2 inches\", \"Item Weight\": \"5 ounces\", \"Manufacturer\": \"Generic\", \"Item model number\": \"UHC33-SPS\", \"Date First Available\": \"February 27, 2020\", \"Color\": \"Silver\", \"Blade Material\": \"Stainless Steel\", \"Brand\": \"Generic\", \"Handle Material\": \"Stainless Steel\", \"Is Dishwasher Safe\": \"Yes\"}",
+    "parent_asin": "B085T8JX4X",
     "bought_together": null,
     "subtitle": null,
     "author": null

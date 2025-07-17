@@ -1,26 +1,68 @@
 {
-    "main_category": "All Beauty",
-    "title": "CHuangQi Mouse Ears Headbands (Set of 2), Black Sequin Ear Headbands for Boys and Girls Birthday Party or Celebrations & Event",
-    "average_rating": 3.9,
-    "rating_number": 24,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "CHuangQi Mickey Ears Headbands for Boy & Girl Birthday Party"
+    "main_category": "Amazon Home",
+    "title": "Maxi-Matic Elite Cuisine ECM-2919 Flip Bundt Cake Maker, Black",
+    "average_rating": 3.6,
+    "rating_number": 60,
+    "features": [
+        "Makes perfectly shaped Bundt cakes",
+        "Quick and easy to use",
+        "Makes 6.5-inch Bundt cakes faster than the over",
+        "Rotates to create even baked Bundt cake",
+        "Non-stick cooking surface for hassle free clean up"
+    ],
+    "description": [
+        "The Elite ECM-2919 Cuisine Flip Bundt Cake Maker, Black makes perfectly shaped Bundt cakes. The non-stick baking plates are easy to clean, and the removable cake tray allows you to quickly and easily cool and serve cake. The unique design flips upside down to bake evenly and is faster than cooking in an oven. It makes 6.5-inch Bundt cakes. There are separate power and ready indicator lights to let you know when to add the batter. The folding handle creates easy and compact storage. The Elite Cuisine Flip Bundt Cake Maker is a fun activity for the whole family!"
+    ],
+    "price": "219.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81bhOB-PYBL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81kohl6JuZL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91lgjkYpP6L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71DyG+B8QVL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81cWwQOEvwL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71HuK5iAdHL._AC_SL1354_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/b174ab228acd4be8b4392a3b8d6e84a6?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/41hM9CTg+7L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Tl8P5283L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41-2q9eEzHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31NJAU0ZuGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41SKJ1KbWRL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51J04KfcUIL._AC_.jpg"
         ],
-        "user_id": [
-            ""
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41hM9CTg+7L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41Tl8P5283L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41-2q9eEzHL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31NJAU0ZuGL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41SKJ1KbWRL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51J04KfcUIL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
         ]
     },
-    "store": "CHuangQi",
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"13.05 x 7.85 x 1.75 inches; 1.27 Ounces\", \"UPC\": \"723800955478\"}",
-    "parent_asin": "B01DM4ROS6",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Elite Gourmet",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Small Appliances",
+        "Electric Cake Pop & Mini Cake Makers",
+        "Cake Pop Makers"
+    ],
+    "details": "{\"Special Feature\": \"Non-StickRotatingIndicator Light\", \"Color\": \"Black\", \"Material\": \"Plastic\", \"Brand\": \"Elite Gourmet\", \"Item Weight\": \"4 Pounds\", \"Style\": \"Cooking\", \"Voltage\": \"120\", \"Product Dimensions\": \"8 x 8 x 8 inches\", \"Manufacturer\": \"Maxi-Matic\", \"Item model number\": \"ECM-2919\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 705491, \"Cake Pop Makers\": 29}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"October 15, 2014\"}",
+    "parent_asin": "B00OIEL9T0",
     "bought_together": null,
     "subtitle": null,
     "author": null

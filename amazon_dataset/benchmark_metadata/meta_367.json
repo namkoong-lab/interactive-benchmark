@@ -1,20 +1,47 @@
 {
-    "main_category": "All Beauty",
-    "title": "Nyx Professional Makeup Full Throttle Shadow Stick, Graphic Con, FTSS05",
-    "average_rating": 4.7,
-    "rating_number": 6,
-    "features": [],
-    "description": [],
-    "price": "7.69",
+    "main_category": "Amazon Home",
+    "title": "Beistle Party Supplies, 6\" x 5', Multicolored",
+    "average_rating": 4.8,
+    "rating_number": 8,
+    "features": [
+        "This item is a great value!",
+        "1 per package",
+        "Birthday party item",
+        "Jointed Streamers for festive occasions",
+        "High Quality"
+    ],
+    "description": [
+        "Beistle 50357 Prismatic Happy Birthday Streamer. This colorful birthday streamer is a must have for any birthday celebration! It is prismatic and very colorful. This streamer measures 6 Inch tall by 5 feet wide."
+    ],
+    "price": "6.78",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81Fa-KGBwzL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41qGLe64FPL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41qGLe64FPL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "NYX PROFESSIONAL MAKEUP",
-    "categories": [],
-    "details": "{\"Brand\": \"NYX PROFESSIONAL MAKEUP\", \"Item Form\": \"Stick\", \"Finish Type\": \"Shimmery\", \"Special Feature\": \"Travel size\", \"Unit Count\": \"1.00 Count\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"0.68 x 2.34 x 5.73 inches; 0.07 Ounces\", \"UPC\": \"800897846091\"}",
-    "parent_asin": "B01IW03FLU",
+    "store": "Beistle",
+    "categories": [
+        "Home & Kitchen",
+        "Event & Party Supplies",
+        "Decorations",
+        "Streamers"
+    ],
+    "details": "{\"Product Dimensions\": \"9 x 8 x 0.13 inches\", \"Item Weight\": \"2.46 ounces\", \"Manufacturer\": \"The Beistle Company\", \"Item model number\": \"50357\", \"Date First Available\": \"May 23, 2007\", \"Color\": \"Multicolor\", \"Brand\": \"Beistle\", \"Occasion\": \"Birthday\", \"Material\": \"Paper\", \"Special Feature\": \"Foldable\", \"Product Care Instructions\": \"Hand Wash Only\", \"Target Audience\": \"Unisex\", \"Included Components\": \"Prismatic Happy Birthday Streamer\"}",
+    "parent_asin": "B00AJ9B7GS",
     "bought_together": null,
     "subtitle": null,
     "author": null

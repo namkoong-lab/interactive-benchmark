@@ -1,38 +1,73 @@
 {
-    "main_category": "All Beauty",
-    "title": "Neutrogena Lightweight Body Oil Moisturizer for Dry Skin, Light Sesame Formula, 16 oz & Sheer Moisturizing Body Oil Lotion with Light Sesame Formula, 32 oz",
-    "average_rating": 4.7,
-    "rating_number": 182,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "In search of lightweight body oil? Watch This! ",
-            "REDMOND Full Touch LED Toaster",
-            "L.O.L. Surprise! O.M.G. Dance Dance Dance Dolls B-Gurl, Virtuelle, Miss Royale & Major Lady from MGA",
-            "Join the \"World of HALO\"",
-            "LOL OMG B-Gurl Fashion Doll"
+    "main_category": "Amazon Home",
+    "title": "Leather Journal Gift Set Luxury Wooden Pen - Best Unique Gifts for Mom Dad, Handmade Anniversary Gifts for Women Men, Birthday, Personalized Gifts, Graduation Gift Ideas Her Him, Refillable Notebook",
+    "average_rating": 5.0,
+    "rating_number": 16,
+    "features": [
+        "SUMMON YOUR OWN HELLBOY: After a long day of sending demons back to hell, quench your thirst and unwind with this Geeki Tikis Hellboy mug! This collectible mug captures Hellboy's demonic likeness perfectly!",
+        "THE LATEST IN DEMON STYLE DRINKWARES: Tiki mugs are a popular commodity among those who enjoy a fun and refreshing drink. Improve your collection of Geeki Tikis bar mugs by adding Hellboy to your mix!",
+        "HELLISHLY GOOD QUALITY: This collectible tiki mug is crafted from a durable ceramic material and built to last. Nearly cast from the fires of the underworld, this Hellboy mug is microwave safe and top shelf dishwasher safe!",
+        "POUR A ROUND FOR YOUR FAVORITE DEMON: With a ceramic build and a 25-ounce capacity, Hellboy is the perfect drinking cup for any type of brew or mixed drink! Enjoy a Mai Tai or Pina Colada with Hellboy! OFFICIAL",
+        "HELLBOY MEETS GEEKI TIKIS: Each Geeki Tikis mug is designed to bring your favorite hobbies together; mixed drinks and comic book heroes! This Hellboy mug is officially licensed and perfect for any tiki mug collection!"
+    ],
+    "description": [
+        "SLAY SOME DEMONS & HAVE A DRINKSummoned from the depths of hell to earth by Nazis in World War 2, Hellboy was found by allied paranormal investigators belonging to the Bureau of Paranormal Research & Defense (B.P.R.D.). There, Hellboy was 'adopted' by Professor Trevor \"Broom\" Bruttenholm. Eventually joining the B.P.R.D., Hellboy is tasked with seeking out rogue demons and supernatural entities to defeat them and send them back to hell. All that demon slaying action is bound to make anyone thirsty. That's where this Geeki Tikis Hellboy mug comes in! At a hearty 25-ounce capacity, you can quench the seemingly-insatiable thirst of any demon. The Geeki Tikis unique design allows fans of Hellboy to raise their glass to their demon-hunting hero in a fun Hellboy fashion. Made from ceramic, the wood style designs transform this collectible hero cup into a true tiki style mug. Collect Hellboy and a whole array of other comic book Geeki Tikis characters for your bar mug collection today! OFFICIAL GEEKI TIKIS COLLECTIBLE MUGSCombining the popular fashion of tiki mugs with amazing pop culture icons, Geeki Tikis has created a product line for geeks, nerds, and super-fans to enjoy their favorite drinks with their favorite characters! Made from a durable quality ceramic, each mug is designed to deliver stunning details while also being durable enough to quench your thirst round after round! Enjoy the magic of Geeki Tikis mugs and collect the complete set of your favorite series!"
+    ],
+    "price": "49.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/615vQdoY91L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/614gvrLUi6L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61MoNJo1MUL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71ojwDK1fnL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71SMXXAX7jL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/711A3TZ+sEL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/715McblJfML._AC_SL1200_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/01e00ee3be3c403499ef5ebad234d695?ref=dp_vse_rvc_0",
-            "https://www.amazon.com/vdp/0da607e36f79417085b5363391ed5a7d?ref=dp_vse_rvc_1",
-            "https://www.amazon.com/vdp/012176a0f3e34e7ea59aa6397f69a4a6?ref=dp_vse_rvc_2",
-            "https://www.amazon.com/vdp/0768e186c9b44cd8bd2d386d4e4f830a?ref=dp_vse_rvc_3",
-            "https://www.amazon.com/vdp/0d1b998342a84c2ca0772de47e93f6f0?ref=dp_vse_rvc_4"
+        "large": [
+            "https://m.media-amazon.com/images/I/41wm20U+IGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41wCw+JC0NL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41CHyBvjXkL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41i7bxk6GcL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41JEaEhb0-L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51m5DK99-KL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51z8DmW3IUL._AC_.jpg"
         ],
-        "user_id": [
-            "/shop/themcmittens",
-            "",
-            "AFDXZEFUCHX5JGKQJK5AVUZ56YSQ",
-            "",
-            "/shop/eviestoyhouse"
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41wm20U+IGL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41wCw+JC0NL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41CHyBvjXkL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41i7bxk6GcL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41JEaEhb0-L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51m5DK99-KL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51z8DmW3IUL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06"
         ]
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Item Form\": \"Lotion,Oil\", \"Unit Count\": \"1 Count\", \"Number of Items\": \"2\", \"Skin Type\": \"Sensitive\", \"Item Volume\": \"32 Fluid Ounces\", \"Item Weight\": \"2 Pounds\"}",
-    "parent_asin": "B07CF9R32T",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Hellboy",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Novelty",
+        "Drinkware",
+        "Coffee Mugs"
+    ],
+    "details": "{\"Product Dimensions\": \"4.8 x 4.8 x 4.8 inches\", \"Item Weight\": \"1.3 pounds\", \"Manufacturer\": \"Beeline Creative\", \"Country of Origin\": \"China\", \"Date First Available\": \"May 17, 2019\"}",
+    "parent_asin": "B07R6V2BTV",
     "bought_together": null,
     "subtitle": null,
     "author": null

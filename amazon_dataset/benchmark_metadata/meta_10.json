@@ -1,20 +1,69 @@
 {
-    "main_category": "All Beauty",
-    "title": "Avon Big & False Lash Mascara - Brown/Black by Big & False Lash",
-    "average_rating": 4.0,
-    "rating_number": 7,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "CafePress Black Lab Mug Ceramic Coffee Mug, Tea Cup 11 oz",
+    "average_rating": 4.6,
+    "rating_number": 23,
+    "features": [
+        "Dimensions: Our standard size 11 oz mug measures 3.75\" tall x 3\" in diameter",
+        "Color Coordinate: Mix and match your mugs with your decor by choosing from the following interior and handle colors: Black, Pink, Navy, Blue, Red and White",
+        "Superior Quality: Constructed by our manufacturing partners from high performing ceramic, UV protected and FDA compliant, rest assured that your mug is dishwasher (top shelf) and microwave safe.",
+        "Professionally Printed: Our mugs are printed in the USA with vivid, vibrant, crisp, long lasting images. Your one-of-a-kind, durable design is guaranteed to last for years to come.",
+        "A Special Gift for any occasion. Perfect to give your friends and family for birthday, as a Christmas gift, or just because."
+    ],
+    "description": [
+        "Perfect for your mid-morning pick me up a the office or for your decaf before the gym. This 11 ounce cup is an easy go-to mug for everyday use. Each of our beautiful mugs are printed by professionals in the USA with Lead-Free design for your safety. Whether you're drinking coffee, tea, or hot chocolate, this mug is perfect for you and your family. Our premium quality mugs are constructed of heat resistant ceramic and are dishwasher safe (top rack) and microwave safe. Choose your favorite coffee mug for women and men. Choose a quote mug for your best friend, a religious mug for your family, or a funny mug for your coworker. Whatever your hobby or passion, we are bound to have a mug for that."
+    ],
+    "price": "17.99",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41mHIoHJt7L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41p+iyubnHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41aMPB6-jQL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31wM+G6PSFL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41aMPB6-jQL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31tsGZP50wL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41mHIoHJt7L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41p+iyubnHL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41aMPB6-jQL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31wM+G6PSFL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41aMPB6-jQL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31tsGZP50wL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "AVON",
-    "categories": [],
-    "details": "{\"Color\": \"black\", \"Brand\": \"AVON\", \"Item Volume\": \"10 Milliliters\", \"Package Information\": \"Tube\", \"Package Type\": \"Tube\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"4.9 x 1 x 1 inches; 0.71 Ounces\", \"UPC\": \"888761028828\"}",
-    "parent_asin": "B01555WAOS",
+    "store": "CafePress",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Novelty",
+        "Drinkware",
+        "Coffee Mugs"
+    ],
+    "details": "{\"Brand\": \"CafePress\", \"Material\": \"Ceramic\", \"Color\": \"White/Blue Inside\", \"Capacity\": \"11 Ounces\", \"Special Feature\": \"Microwave Safe\", \"Style\": \"Modern\", \"Theme\": \"Religious\", \"Occasion\": \"Mother's Day, Christmas, Father's Day, Birthday, Valentine's Day\", \"Included Components\": \"Handle\", \"Specific Uses For Product\": \"Coffee\", \"Shape\": \"Round\", \"Product Care Instructions\": \"Machine Wash, Hand Wash Only\", \"Unit Count\": \"1.0 Count\", \"Number of Items\": \"1\", \"League\": \"ncaa\", \"Product Dimensions\": \"3 x 3 x 3.8 inches\", \"Department\": \"Home\", \"Manufacturer\": \"CafePress\", \"Country of Origin\": \"USA\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 392466, \"Sports Fan Cups & Glasses\": 10676, \"Novelty Coffee Mugs\": 21106, \"Glassware & Drinkware\": 63991}, \"Date First Available\": \"September 23, 2020\"}",
+    "parent_asin": "B088PK1TR1",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,20 +1,48 @@
 {
-    "main_category": "All Beauty",
-    "title": "Pure Vie Professional 5 Colors Cream Concealer Camouflage Makeup Palette Contouring Kit #4",
-    "average_rating": 3.8,
-    "rating_number": 4,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Dew Caps 12PK",
+    "average_rating": 3.5,
+    "rating_number": 3,
+    "features": [
+        "Replacement cap for 3 & 5 gallon snap top water bottles",
+        "Light blue cap offers a release tab for easy removal",
+        "Interior cup assures a seal between bottle & cap",
+        "It fits both plastic and glass water bottles",
+        "The solution to transporting water"
+    ],
+    "description": [
+        "This simple but effective item is the heart and soul of keeping your purified water contained. This 55mm crown or snap-on light blue cap is the industry standard cap for 3 and 5 gallon water bottles. Its standard intergrated cup seals both the interior and exterior neck of the bottle. Release tab on the outer edge makes removing the cap a breeze. The cap fits both glass and plastic 3 and 5 gallon bottles with a \"crown\" or \"snap-on\" top. They are sold two per pack. For reference, outside dimension for the bottle opening would be 2.165 inches. If you currently have a snap cap for the bottle the outside dimension of that cap is about 2.75 inches. ....."
+    ],
+    "price": "15.86",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41DVfuPsydL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41DVfuPsydL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Pure Vie",
-    "categories": [],
-    "details": "{\"Brand\": \"Pure Vie\", \"Item Dimensions LxWxH\": \"3 x 3 x 1 inches\", \"Item Weight\": \"0.1 Pounds\", \"Unit Count\": \"1.00 Count\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"3 x 3 x 1 inches; 1.6 Ounces\", \"UPC\": \"702756110643\"}",
-    "parent_asin": "B017G9220S",
+    "store": null,
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Home Brewing & Wine Making",
+        "Beer Brewing",
+        "Bottles & Bottling"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B003VW1I5K",
     "bought_together": null,
     "subtitle": null,
     "author": null

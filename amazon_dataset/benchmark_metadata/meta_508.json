@@ -1,20 +1,51 @@
 {
-    "main_category": "All Beauty",
-    "title": "LeChat Dare To Wear Nail Polish - (Plumeria)",
-    "average_rating": 4.5,
-    "rating_number": 5,
-    "features": [],
-    "description": [],
-    "price": "9.5",
+    "main_category": "Amazon Home",
+    "title": "Ovanpa 2022 Personalized American Football Shoulder Pads and Helmet Car Hanging Ornament",
+    "average_rating": 1.3,
+    "rating_number": 3,
+    "features": [
+        "OUR PRODUCT IS 2D, PERSONALIZED CAR ORNAMENT: Click \"Customize Now\" and start to design your Car ornament. Please leave your name/word EXACTLY as you would like your ornament to be created (lowercase/uppercase/please check your spelling) in the personalization box. We are not responsible for spelling errors.",
+        "A GREAT GIFT AND DECORATION IDEA: A wonderful housewarming gift, a rustic decoration for farmhouse, beach home, office, classroom, restaurant or shops and much more. These unique signs are a perfect choice for a thoughtful birthday or holiday present.",
+        "SATISFACTION GUARANTEE: If you have any questions, complaints or suggestions about our product quality, after-sale service or work efficiency, PLEASE CONTACT US with attached pictures about the problem, we will provide you a satisfactory solution WITHIN 24 hours.",
+        "EASY TO HANG: this adorable charm is equipped with a easy to hang string, and you can easily move it to different places with less effort, meeting your different decorative ideas; The funny and lovely appearance will bring you a pleasant mood and a different visual experience, increasing the happy and cheerful feelings of the driving tour",
+        "Suitable for expressing your personality. This beautiful ornament makes a great keepsake gift for newlyweds, couples, families, friends, colleagues, etc."
+    ],
+    "description": [
+        "DESCRIPTION: PRODUCT FEATURES:Size: 3.34*3.34 inches tall;DOUBLE sided dye-sublimation printing;Made of lightweight mica acrylic, easy for hanging;Nicely sized for easy coordination with other small or large-sized ornaments;Perfect for car rear view mirror, wreaths, doorways, and more.PRODUCT INCLUDED:1PCS OrnamentDETAILS: Premium Material: The Ornaments are made of high-quality mica plastic, lightweight, smooth surface, waterproof, durable, no bad smells, and harmless for kids.Each Plastic Ornaments has a string for you to hang them easily. Only need to pass the rope in the product through the small hole on the Christmas hanging ornaments, knot it, and hang it in the place where it needs to be decorated. Or after you have decided where you want to hang the hanging ornaments, simply tie the Plastic Ornaments and twine to it. You can adorn your table, desk, or counter or your bag and keychain with this adorable party decoration.Please note that this product is a 2D print product with high color quality"
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51SmEpM4QiL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61ghbWD6zAL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51SmEpM4QiL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61ghbWD6zAL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Dare to Wear",
-    "categories": [],
-    "details": "{\"Brand\": \"Dare to Wear\", \"Item Form\": \"Liquid\", \"Color\": \"Classic Colors\", \"Finish Type\": \"Shimmery\", \"Special Feature\": \"Long Lasting\", \"Age Range (Description)\": \"Adult\", \"Liquid Volume\": \"0.5 Fluid Ounces\", \"UPC\": \"618460211333\"}",
-    "parent_asin": "B01M0WMHLS",
+    "store": "Ovanpa",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Hanging Ornaments"
+    ],
+    "details": "{\"Color\": \"White\", \"Brand\": \"Ovanpa\", \"Occasion\": \"Christmas, Housewarming, Birthday\", \"Material\": \"Plastic\", \"Theme\": \"Personalized\", \"Included Components\": \"Cord And String\", \"Shape\": \"Rectangular\", \"Item Package Quantity\": \"1\", \"Unit Count\": \"1.0 Count\", \"Scent\": \"Unscented\", \"Number of Pieces\": \"1\", \"Manufacturer\": \"Ovanpa\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3560351, \"Decorative Hanging Ornaments\": 77228}, \"Date First Available\": \"April 14, 2022\"}",
+    "parent_asin": "B09Z1VWVK5",
     "bought_together": null,
     "subtitle": null,
     "author": null

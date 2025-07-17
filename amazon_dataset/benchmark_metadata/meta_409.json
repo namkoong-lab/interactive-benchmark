@@ -1,20 +1,113 @@
 {
-    "main_category": "All Beauty",
-    "title": "Galaxy Print Nail Stickers - 3 Pack (42 Total Nail Art Wraps) Shooting Stars for Easy Nail Art and Pretty Nails That Are Out of This World - Great for Star Wars Fans",
-    "average_rating": 3.3,
-    "rating_number": 66,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Cuisinart SM-50BC 5.5-Quart Stand Mixer Brushed Chrome Silver Lining Bundle with 1 YR CPS Enhanced Protection Pack",
+    "average_rating": 4.9,
+    "rating_number": 26,
+    "features": [
+        "CUISINART AUTHORIZED - Includes Full CUISINART USA Protection",
+        "5.5qt capacity, polished stainless steel bowl | 500W motor | Die-cast metal construction | 12 speeds for precision mixing",
+        "IN THE BOX: Dough Hook - Flat Beater - Whisk Attachment - Bowl (5.2 l) - Splashguard - Recipe Book",
+        "BUNDLE INCLUDES: Cuisinart 5.5-Quart Stand Mixer SM-50 Brushed Chrome Silver Lining",
+        "1 Year Extended Protection Plan in ADDITION to the Included FULL Manufacturer Protection"
+    ],
+    "description": [
+        "Product Highlights: 5.5-quart capacity, polished stainless steel bowl 500-watt motor Die-cast metal construction 12 speeds for precision mixing Tilt-back head One power outlet for optional attachments Product Features: Handles the Heaviest Mixing Tasks Powerful 500-watt motor Die-cast metal construction 5.5-Quart Stainless Steel Bowl Mixes enough batter for 5 dozen cookies or stirs 6 cups of dry ingredients. Polished stainless steel. Easy-to-grip handle. Dishwasher safe for quick cleanup. Tilt-Back Head Allows easy access to the mixing bowl. Splash Guard with Pour Spout Prevents spattering when mixing and adding ingredients. Chef's Whisk Ideal for whipping eggs, egg whites, or heavy cream. Flat Mixing Paddle Stir, mix, or beat - perfect for cookies and batters. Dough Hook Kneads yeast dough for breads, rolls, and pizza. 12 Speeds for Precision Mixing 12 speeds lets you go from ultra-gentle 'fold' to powerfully fast whip in seconds. Outlet for Compatible Attachments Precision Master Meat Grinder, Spiralizer, Ice Cream Maker, and Pasta Maker attachments turn your stand mixer into the most multi-functional appliance in your kitchen Product Specifications: Product Dimensions (LxWxH): 14.17\" x 7.87\" x 14.13\" Shipping Weight: 17.00lb Shipping Dimensions (LxWxH): 16.50\" x 11.20\" x 15.90\""
+    ],
+    "price": "249.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51liYZ4TysS._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51dmEGCh4FS._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61zaaiSOCIS._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61sTgxRI9US._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51wF5mRXT3S._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51eT7P-Is+S._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/41F532ySsBS._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/41d+dWxQZBS._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51brjzd0wcS._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/411A40sBZES._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41W4knVXsFS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41C5k9Usp3S._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Tb02U3eHS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41qvPVOAupS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Zg0JJfRyS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31a8kzcdKcS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31f15bqFkaS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41ObAuyJSYS._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/411A40sBZES._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41W4knVXsFS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41C5k9Usp3S._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41Tb02U3eHS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41qvPVOAupS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41Zg0JJfRyS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31a8kzcdKcS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31f15bqFkaS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41ObAuyJSYS._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08"
+        ]
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Item Dimensions LxWxH\": \"6 x 2.75 x 0.1 inches\", \"Surface Recommendation\": \"Nail\", \"Theme\": \"Space, Movie\", \"Age Range (Description)\": \"Adult\", \"Reusability\": \"Single Use\", \"Pattern\": \"Star\", \"Product Dimensions\": \"6 x 2.75 x 0.1 inches; 0.8 Ounces\", \"UPC\": \"736283174175\"}",
-    "parent_asin": "B017F2OH2M",
+    "videos": {
+        "title": [
+            "Is This Cuisinart Stand Mixer Worth the Price?",
+            "Cuisinart SM-50 Series - 5.5 Quart Stand Mixer",
+            "How Well Does This Stand Mixer Really Work?",
+            "Cuisinart Stand Mixer Dough Hook Demo and Breadstick Recipe",
+            "CUISINART Mixer: How LOUD Is It + See It In A Real Kitchen",
+            "Cuisinart 5.5-Quart Stand Mixer Manual, Ruby Red",
+            "Tried and true! Great value for this stand mixer",
+            "Why I Love This Stand Mixer",
+            "Cuisinart Stand Mixer Demo and Recipe",
+            "Big stand mixer to make baking goods quick "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0c36c27ef0984a2ebff2b31a4467baf7?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/2c485e6e4fbb4c96869bd370afdba1da?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/06ff157a1ae94f1c8b665f3dbfdd891d?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/01da7cc98f8d4fe6b05166de228ef5c5?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0481e0fad1754e00bd4856b99ef091c0?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/0583e1c2c46e47c09e2b8102e6687cc7?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/07f0c6e7a86148c7835eff86a56deaac?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/0533540f7c194e60b7decc7f0e21d44a?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/0856a5ed9afa43ebab0cd8012dd7c0e7?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/0fe9f0587d6f43f2b9f90c87746595c4?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "/shop/hello.thalita",
+            "",
+            "/shop/nickcatoire",
+            "/shop/realdealpearls",
+            "/shop/influencer-b17d563c",
+            "/shop/countessoflowcarb",
+            "/shop/relativelyrichlife",
+            "/shop/nickcatoire",
+            "/shop/realdealpearls",
+            "/shop/upgradeguy"
+        ]
+    },
+    "store": "Cuisinart",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Small Appliances",
+        "Mixers",
+        "Stand Mixers"
+    ],
+    "details": "{\"Brand\": \"Cuisinart\", \"Color\": \"Brushed Chrome\", \"Product Dimensions\": \"14.17\\\"D x 7.87\\\"W x 14.13\\\"H\", \"Special Feature\": \"Die-Cast Metal Construction; 12 Speeds; Tilt-Back Head\", \"Capacity\": \"5.5 Quarts\", \"Model Name\": \"E9CUISM50BC\", \"Is Dishwasher Safe\": \"Yes\", \"Item Weight\": \"16 pounds\", \"Item model number\": \"E9CUISM50BC\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 299489, \"Household Stand Mixers\": 379}, \"Date First Available\": \"March 3, 2022\", \"Material Stainless Steel, Metal\": \"\", \"\": \"Item Weight 16 Pounds\", \"Wattage 500 watts\": \"\"}",
+    "parent_asin": "B09S2NLTDW",
     "bought_together": null,
     "subtitle": null,
     "author": null

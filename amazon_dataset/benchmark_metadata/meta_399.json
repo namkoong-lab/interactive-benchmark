@@ -1,20 +1,48 @@
 {
-    "main_category": "All Beauty",
-    "title": "Sterly Brazilian Straight Hair 3 Bundles With Frontal 13x4 Ear To Ear Lace Frontal With Bundles Unprocessed Virgin Human Hair Extensions Natural Color (14 16 18+12)",
-    "average_rating": 3.6,
-    "rating_number": 21,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Health & Personal Care",
+    "title": "Hosley Set of 3 Gardenia Fragrance Warming Oils 55 Milliliter. Ideal Gift for Weddings Spa Meditation Settings P1",
+    "average_rating": 3.8,
+    "rating_number": 12,
+    "features": [
+        "PRODUCT:Hosley's Set of 3, 55 Milliliter GARDENIA Fragrance Warming Oils.",
+        "USE: These are perfect for adding a decorative touch to any room's decor. Perfect for everyday use, wedding, events, aromatherapy,Spa, Reiki, Meditation, Bathroom setting.",
+        "BENEFITS: Hosley's oils create a highly fragrance Aroma with oil warmers. Freshen Every room in your home with Beautify lasting Fragrances.",
+        "MEASUREMENTS/MATERIAL: Each bottle is 55 ml. with 3 in each order and made from fragranced oils.",
+        "HOSLEY BRAND PRODUCTS: Hosley brand products are made from quality raw materials with minimal wastage at every step of production. With the goal of achieving a neutral carbon footprint, please recycle and help leave Mother Earth better off for future generations.",
+        "Made in the USA!"
+    ],
+    "description": [
+        "Made in the USA! Hosley Set of 3, 55 ml Gardenia Fragrance Warming Oils. Create a welcoming and relaxing atmosphere in your home with Hosley warming oils. As the fragrance is dispersed throughout your home it will freshen the air and help assist in removing lingering odors. Use these oils with any electric or candle dispenser (sold separately) to disperse its welcoming fragrance throughout your home. These oils do not produce any wick or soot making an easy clean-up with just a paper towel. With only a few drops, these oils will release a captivating aroma in the air. These fragrance warming oils are environmentally friendly and are highly concentrated. It is even suitable for refreshing dried out potpourri, making it fragrant once again. Try combining two or more scents to create your own enchanting fragrance. Wrap them up as a gift or use them as a stocking stuffer. Spread these fragrances around and share with your family and friends. Instructions: For use with oil warmers only. Use oil as is. Do not dilute. Follow the directions of the oil warmer for amount to be used (DO NOT OVERFILL). Only add oil to a clean warmer that is at room temperature. Caution: Skin and eye irritant. Do not ingest. Keep out of reach of children and pets. May damage finished surfaces if spill occurs. Contains fragrance oils. (Product label may differ)."
+    ],
+    "price": "9.87",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71IJRGAm54L._AC_SL1472_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41oIvcbtcjL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41oIvcbtcjL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Color\": \"Black\", \"Material\": \"Human Hair\", \"Hair Type\": \"Straight\", \"Material Feature\": \"Natural\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"10.79 x 10.35 x 2.17 inches; 14.74 Ounces\", \"UPC\": \"746860751415\"}",
-    "parent_asin": "B074SGRFCW",
+    "store": "Hosley",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Fragrance",
+        "Home Fragrance Accessories"
+    ],
+    "details": "{\"Brand\": \"Hosley\", \"Seasons\": \"All Seasons\", \"Item Volume\": \"55 Milliliters\", \"Unit Count\": \"6.00 Fl Oz\", \"Item Form\": \"Drop\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7 x 5 x 4 inches; 1 Pounds\", \"Date First Available\": \"May 22, 2017\", \"Manufacturer\": \"HG Global\"}",
+    "parent_asin": "B07K2HCDS4",
     "bought_together": null,
     "subtitle": null,
     "author": null

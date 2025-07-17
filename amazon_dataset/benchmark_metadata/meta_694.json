@@ -1,20 +1,48 @@
 {
-    "main_category": "All Beauty",
-    "title": "Pack of 5 Multi Color Indian Art Bindi Body Stickers/tattoo Self Adhesive Reusable",
-    "average_rating": 2.8,
-    "rating_number": 3,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Quality Judaica Vintage Metal Fire Truck Menorah for Hanukkah",
+    "average_rating": 4.0,
+    "rating_number": 8,
+    "features": [
+        "Beautiful Hand Painted Hanukkah Menorah",
+        "Vintage Fire Engine Replica",
+        "Makes a Great Chanukah Gift",
+        "Metal",
+        "Measures 14\" L x 6\" H"
+    ],
+    "description": [
+        "Vintage Metal Fire Truck Menorah for Hanukkah"
+    ],
+    "price": "69.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81xpKUSh-6L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41vCzvOSADL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41vCzvOSADL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Buycrafty",
-    "categories": [],
-    "details": "{\"Brand\": \"Buycrafty\", \"Water Resistance Level\": \"Water Resistant\", \"Number of Pieces\": \"5\", \"Age Range (Description)\": \"Adult\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"4.2 x 3.2 x 1 inches; 2.26 Ounces\", \"UPC\": \"666010035557\"}",
-    "parent_asin": "B071JF7K36",
+    "store": "Quality Judaica",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Candles & Holders",
+        "Candleholders",
+        "Menorahs"
+    ],
+    "details": "{\"Color\": \"Fire Truck\", \"Material\": \"Metal\", \"Brand\": \"Quality Judaica\", \"Product Dimensions\": \"14\\\"L x 6\\\"W x 4\\\"H\", \"Finish Type\": \"Painted\", \"Number of Pieces\": \"1\", \"Theme\": \"Wedding\", \"Item Diameter\": \"6 Inches\", \"Mounting Type\": \"Tabletop\", \"Item Weight\": \"2.21 pounds\", \"Manufacturer\": \"Quality Judaica\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3021294, \"Menorahs\": 609}, \"Date First Available\": \"November 13, 2019\"}",
+    "parent_asin": "B081G71KDG",
     "bought_together": null,
     "subtitle": null,
     "author": null

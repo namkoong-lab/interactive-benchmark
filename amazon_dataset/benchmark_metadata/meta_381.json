@@ -1,20 +1,57 @@
 {
-    "main_category": "All Beauty",
-    "title": "Collapsible Dog Bowl, Dog Water Bowls for Cats Dogs, Portable Pet Feeding Watering Dish for Walking Parking Traveling",
-    "average_rating": 4.1,
-    "rating_number": 8,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Wheaten Terrier Figurine",
+    "average_rating": 4.3,
+    "rating_number": 5,
+    "features": [
+        "Detailed representation of animal",
+        "Approx. Size: 4\" to 5\" in The longest direction.",
+        "Unique collectable character"
+    ],
+    "description": [
+        "Each figurine in cast resin is carefully hand painted for that extra bit of realism. We boast a collection that offers The worlds most popular Dog breeds as well as its rarest! From Afghans to Yorkies, we've got The m all!"
+    ],
+    "price": "21.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21F149GWAnL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/21F149GWAnL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "HEPEENG",
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"8.23 x 4.21 x 2.76 inches; 13.86 Ounces\"}",
-    "parent_asin": "B07KWLBY9H",
+    "videos": {
+        "title": [
+            "Cairn Terrier Figurines",
+            "West Highland Terrier Figurine",
+            "Gray Cairn Terrier Figurine"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0aad9bd1d0cb40bf9bb97fa5e6e592e8?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0e380ee5afcf407f99011afeea121ae3?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0e9c3f237986410d8ebe909ace94b44b?ref=dp_vse_rvc_2"
+        ],
+        "user_id": [
+            "",
+            "",
+            ""
+        ]
+    },
+    "store": "Conversation Concepts",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Collectible Figurines"
+    ],
+    "details": "{\"Product Dimensions\": \"6 x 6 x 6 inches\", \"Item Weight\": \"14.4 ounces\", \"Manufacturer\": \"Conversation Concepts\", \"Item model number\": \"DF98\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3210097, \"Collectible Figurines\": 35234}}",
+    "parent_asin": "B005OTAJF8",
     "bought_together": null,
     "subtitle": null,
     "author": null

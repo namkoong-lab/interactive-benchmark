@@ -1,20 +1,82 @@
 {
-    "main_category": "All Beauty",
-    "title": "Colourpop Super Shock Cheek Highlighter (Tie Dye - Whipped)",
-    "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Bodum Assam 2 Piece Small Tea Glass with Steel Handle, 10 oz, Chrome",
+    "average_rating": 4.4,
+    "rating_number": 269,
+    "features": [
+        "They are made from borosilicate glass, which is light and robust at the same time and dishwasher safe",
+        "On top of that, borosilicate glass doesn't cloud - not even after years of dishwasher use",
+        "The glasses' handles are made from stainless steel",
+        "The ASSAM is a classic tea and coffee glass to go beautifully with any of our tea and coffee pots"
+    ],
+    "description": [
+        "Drinking coffee and tea out of a glass cup instead of porcelain can feel like a double treat. It's your eyes helping your taste buds to anticipate the specific flavor of your favorite brew at the exact strength you desire. With our ASSAM glasses transparency is a beautiful thing!."
+    ],
+    "price": "44.93",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/716G5VUWZsL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71w+l4BeMgL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81SuuZWRIIL._AC_SL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/81wuhuuFItL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31-G5vGmBSL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41AtY5dlLyL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41QaUn8W6iL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41h+6LWXgdL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41OhP988j3L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31-G5vGmBSL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41AtY5dlLyL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41QaUn8W6iL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41h+6LWXgdL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41OhP988j3L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
     },
-    "store": "Colourpop",
-    "categories": [],
-    "details": "{\"Brand\": \"Colourpop\", \"Skin Tone\": \"All\", \"Unit Count\": \"1.00 Count\", \"Number of Items\": \"1\", \"Style\": \"Compact\", \"Is Discontinued By Manufacturer\": \"No\", \"Item Weight\": \"15.84 Ounces\", \"UPC\": \"851951007583\"}",
-    "parent_asin": "B06XFY9HZY",
+    "videos": {
+        "title": [
+            "Bodum Bistro Coffee Mug",
+            "Bodum Bistro Coffee Mug, Double-Wall Insulated Glass Mugs, Clear, .15 Liter, 5 Ounces Each (Set o...",
+            "Modern and Stylish Glass Coffee Mugs",
+            "Every tea drinker needs a Manatea.",
+            "Stays hot! cool to touch!"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/045bb71ec5e9460f8daa2caf687fbbe5?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/f4bf728b20ba4a61a18d4bb624717f93?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0ff06ea4afbb470a87d9fba9d56788ca?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0431add8d09643438f03f2cef114de7f?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/06003dcb3ddf4a249e2018fa57f5c424?ref=dp_vse_rvc_4"
+        ],
+        "user_id": [
+            "/shop/5after12",
+            "",
+            "/shop/dee2102",
+            "/shop/thegrrreatbambino",
+            "/shop/influencer-2cc73601"
+        ]
+    },
+    "store": "Bodum",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Glassware & Drinkware",
+        "Cups, Mugs, & Saucers",
+        "Coffee Cups & Mugs"
+    ],
+    "details": "{\"Brand\": \"Bodum\", \"Material\": \"Glass\", \"Color\": \"Chrome\", \"Capacity\": \"0.3 Liters\", \"Special Feature\": \"Dishwasher Safe\", \"Style\": \"10 oz\", \"Theme\": \"Cloud\", \"Included Components\": \"Tea glass (2)^Manual\", \"Pattern\": \"Solid\", \"Care instructions\": \"Machine Wash, Hand Wash Only\", \"Unit Count\": \"2.0 Count\", \"Item Weight\": \"12.7 ounces\", \"Number of Items\": \"1\", \"Product Dimensions\": \"3.63 x 4.25 x 3.88 inches\", \"Manufacturer\": \"Bodum\", \"Item model number\": \"4552-16\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 661753, \"Mugs\": 9905}, \"Is Discontinued By Manufacturer\": \"No\", \"Volume\": \"0.3 Liters\", \"Dishwasher compatible\": \"Yes\", \"Assembly required\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B095TH5H3B",
     "bought_together": null,
     "subtitle": null,
     "author": null

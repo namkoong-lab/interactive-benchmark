@@ -1,20 +1,66 @@
 {
-    "main_category": "All Beauty",
-    "title": "Asquith & Somerset Bergamot & Ginger Scented Soap Bar 10.58 OZ",
-    "average_rating": 1.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Fleece Blanket Queen Size, Fleece Blanket Throw Size Lightweight Cozy Plush Microfiber Solid Blanket for All Season for Bed Couch Travel Office (Dark Grey, 78\" X 90\")",
+    "average_rating": 4.8,
+    "rating_number": 20,
+    "features": [
+        "Fabric Flannel Blankets;Ingredients 100% polyester fiber.",
+        "This section weighs 300 grams square meter, light and warm, but when the sheets can be blanket, not lint, do not fade, do not shrink, soft and delicate, is the choice of warm winter.",
+        "Washing Tips hand washing or machine washing can be. Normal temperature washing, hand wash under 40°C,neutral detergent,do not bleach, hang to dry, low temperature ironing, not long time soaking.",
+        "Note Due to material properties, the cut fluff may be left behind. The blanket itself will not fall off, it can be removed with a fine brush, and it will not fall off after washing. Please understand that plush products are inevitable due to the cutting process."
+    ],
+    "description": [
+        "Specifications  Fabric Flannel Blankets  Ingredients 100% polyester fiber  Sizes: 150x200cm, 200x230cm"
+    ],
+    "price": "45.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71Lo0ABQPtL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/717XLblzLmL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/61bGnmZuq5L._AC_SL1001_.jpg",
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51GtPsYSL8L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51hOkZDMJaL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51bSZ+cqJvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41wfilc+gRL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41UOYmxp9BL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31CRuJSAm5L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51GtPsYSL8L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51hOkZDMJaL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51bSZ+cqJvL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41wfilc+gRL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41UOYmxp9BL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31CRuJSAm5L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT04",
+            "PT05",
+            "PT06"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Asquith & Somerset",
-    "categories": [],
-    "details": "{\"Item Form\": \"Bar\", \"Brand\": \"Asquith & Somerset\", \"Scent\": \"Bergamot\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"10.5822 Ounce\", \"Package Dimensions\": \"5 x 3.5 x 2 inches; 11.22 Ounces\", \"UPC\": \"639136107316\"}",
-    "parent_asin": "B07YK71561",
+    "store": "TOPCHANCES",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Blankets & Throws",
+        "Bed Blankets"
+    ],
+    "details": "{\"Material\": \"Flannel\", \"Color\": \"Dark Grey\", \"Brand\": \"TOPCHANCES\", \"Special Feature\": \"Lightweight\", \"Style\": \"Modern\", \"Age Range (Description)\": \"Default\", \"Product Dimensions\": \"90\\\"L x 78\\\"W\", \"Theme\": \"Grey\", \"Pattern\": \"Solid\", \"Product Care Instructions\": \"Machine Wash, Hand Wash Only\", \"Size\": \"78\\\" X 90\\\"\", \"Fabric Type\": \"Microfiber,fleece,100 % Polyester,flannel\", \"Fabric Warmth Description\": \"Lightweight\", \"Item Weight\": \"3.99 pounds\", \"Manufacturer\": \"TOPCHANCES\", \"Best Sellers Rank\": {\"Home & Kitchen\": 5286605, \"Bed Blankets\": 10320}, \"Date First Available\": \"July 15, 2019\"}",
+    "parent_asin": "B07V7DBJVS",
     "bought_together": null,
     "subtitle": null,
     "author": null

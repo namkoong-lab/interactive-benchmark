@@ -1,20 +1,46 @@
 {
-    "main_category": "All Beauty",
-    "title": "Zuri Naturally Sheer Pressed Powder Wet To Dry - Autumn Burst",
-    "average_rating": 3.9,
-    "rating_number": 9,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Beistle Star Chandelier, 35\" (Black/Silver)",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "This item is a great value!",
+        "Includes 1 star chandelier in package",
+        "Measures 35 inches long",
+        "Metallic; Black and Silver; Assembly required",
+        "Hang up for an Awards Night or New Year's party!"
+    ],
+    "description": [
+        "Beistle 54753-BKS Star Chandelier. The package contains 1 star chandelier. This black and silver chandelier is made with metallic strands and stars. It measures 35 inches long. Assembly required. Hang this great looking chandelier up to decorate for an Awards Night or New Year's party!."
+    ],
+    "price": "6.78",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71Tn8B0AtNL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/510O+qYmB+L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/510O+qYmB+L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "ZURI",
-    "categories": [],
-    "details": "{\"Brand\": \"ZURI\", \"Item Form\": \"Powder\", \"Finish Type\": \"Sheer\", \"Product Benefits\": \"Smoothening,Moisturizing\", \"Package Information\": \"Jar\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5 x 4.1 x 0.8 inches; 0.18 Ounces\", \"UPC\": \"021959166746\"}",
-    "parent_asin": "B00AJVLYGO",
+    "store": "Beistle",
+    "categories": [
+        "Home & Kitchen",
+        "Event & Party Supplies",
+        "Decorations"
+    ],
+    "details": "{\"Product Dimensions\": \"35 x 18 x 18 inches\", \"Item Weight\": \"3.68 ounces\", \"Manufacturer\": \"Beistle\", \"Item model number\": \"54753-BKS\", \"Date First Available\": \"January 24, 2017\"}",
+    "parent_asin": "B01N25VD73",
     "bought_together": null,
     "subtitle": null,
     "author": null

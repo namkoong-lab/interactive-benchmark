@@ -1,20 +1,45 @@
 {
-    "main_category": "All Beauty",
-    "title": "Thick Wrap Around 100% Remy Human Hair Ponytail Extension Long Straight Hairpiece with Comb Clip in One Piece Magic Paste Pony Tail For Women 20''/20 inch 90g #1B Natural Black",
-    "average_rating": 3.4,
-    "rating_number": 2,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Zentron Crystal Collection Abalone Shell and Tripod Stand",
+    "average_rating": 4.3,
+    "rating_number": 70,
+    "features": [
+        "Includes: 1 ablone shell and 1 wooden tripod stand",
+        "Abalone shell is natural and pulled from the ocean. These will all vary but look very similar to the one pictured. Each has spectacular coloration on the inside from the natural nacre. Please allow for the natural descripancies and remember yours in one of a kind.",
+        "Cobra tripod is made of wood and folds in and out",
+        "Part of the Zentron Crystal Collection a collection of top quality items"
+    ],
+    "description": [
+        "Abalone shell and Tripod stand set. This comes with one abalone shell and one 5\" wooden tripod stand. Great kit for incense burning and smudging. No sage sticks included."
+    ],
+    "price": "16.15",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/51R80MwFMFL._AC_SL1024_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41rTZi8jKaL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41tTF06Uu6L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41rTZi8jKaL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41tTF06Uu6L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "MY-LADY",
+    "store": "Zentron",
     "categories": [],
-    "details": "{\"Brand\": \"MY-LADY\", \"Material\": \"Human Hair\", \"Extension Length\": \"20 Inches\", \"Hair Type\": \"Straight\", \"Material Feature\": \"Natural\", \"Package Dimensions\": \"11.5 x 7.5 x 0.5 inches; 9.59 Ounces\"}",
-    "parent_asin": "B0895NG63H",
+    "details": "{\"Package Dimensions\": \"6.54 x 4.41 x 4.33 inches\", \"Item Weight\": \"6.2 ounces\", \"Item model number\": \"Abalone/ Tripod\", \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B07DHYM6PB",
     "bought_together": null,
     "subtitle": null,
     "author": null

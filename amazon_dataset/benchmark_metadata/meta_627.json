@@ -1,20 +1,47 @@
 {
-    "main_category": "All Beauty",
-    "title": "Qandsweet Baby Girl's 14\" Soft Headbands and Bows (8pack)",
-    "average_rating": 3.5,
-    "rating_number": 14,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Creative Converting Party Supplies, Multicolor",
+    "average_rating": 4.1,
+    "rating_number": 7,
+    "features": [
+        "One Package of 3 Pirates Map Dangling Cutout Party Decorations. Each One Hangs Down 36 Inches.",
+        "One Package of 3 Pirates Map Dangling Cutout Party Decorations",
+        "Each One Hangs Down 36 Inches",
+        "There Are Two Danglers With Skull Medallions and One With a Ship Medallion",
+        "From the Brand: Creative Converting"
+    ],
+    "description": [
+        "Pirates map dangling cutout party decorations. One package of 3 pirates map dangling cutout party decorations. Each one hangs down 36 inches. There are two danglers with Skull medallions and one with a ship medallion."
+    ],
+    "price": "6.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71XYI9OH7mL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41qLjOVbGtL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41qLjOVbGtL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Package Dimensions\": \"9.7 x 7.1 x 1.2 inches; 5.6 Ounces\"}",
-    "parent_asin": "B00V4AJXT4",
+    "store": "Creative Converting",
+    "categories": [
+        "Home & Kitchen",
+        "Event & Party Supplies",
+        "Decorations",
+        "Streamers"
+    ],
+    "details": "{\"Material\": \"Paper\", \"Color\": \"Multi Color\", \"Occasion\": \"Birthday\", \"Brand\": \"Creative Converting\", \"Item Weight\": \"0.02 Pounds\", \"Number of Pieces\": \"1\", \"Item Dimensions LxWxH\": \"0.25 x 7.25 x 8.25 inches\", \"Product Dimensions\": \"0.25 x 7.25 x 8.25 inches\", \"Manufacturer\": \"Creative Converting\", \"Item model number\": \"995969\", \"Best Sellers Rank\": {\"Toys & Games\": 900382, \"Party Streamers\": 4048}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"April 14, 2015\"}",
+    "parent_asin": "B00W48HE7I",
     "bought_together": null,
     "subtitle": null,
     "author": null

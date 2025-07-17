@@ -1,20 +1,61 @@
 {
-    "main_category": "All Beauty",
-    "title": "Back Bath Brush with Long Bamboo Handle, Lifetop Back Body Scrubber Exfoliates Dry Skin Shower Brush, Natural Bristle",
-    "average_rating": 4.1,
-    "rating_number": 231,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Office Products",
+    "title": "Digibuddha DB Party Studio Luau Party Invitations with Envelopes (Pack of 50) Fill-In Graduation Party Invites Birthday Invitations VI0021",
+    "average_rating": 4.8,
+    "rating_number": 15,
+    "features": [
+        "INCLUDES 50 INVITATIONS & 50 WHITE ENVELOPES - no need to search elsewhere for envelopes!",
+        "paper: quality durable white cover stock",
+        "size: 5\"x 7\", INCLUDES A7 envelopes",
+        "envelopes: quality white square flap",
+        "back side: blank for additional writing space"
+    ],
+    "description": [
+        "DB Party Studio by Digibuddha Excellent Value Invitations",
+        "are created in-house by professional designers exclusively for Digibuddha. All production, packaging and shipping is also done on the premises by our small team of paper lovers. We truly love what we do and it shows! · Full Sets INCLUDING envelopes; with Digibuddha stationery, you'll never have to search elsewhere for envelopes to complete your set. · Quality: All Excellent Value thank you cards are printed on quality card stock. · Exclusive design: created in-house exclusively for our own Excellent Value line, not available anywhere else. · Easy to write on: All cards are printed on a matte card stock which isn't shiny - the perfect writing surface for any pen type. · Designed and produced in the USA in our shop located in Hatboro, PA. · 100% MONEY BACK GUARANTEE: We're sure you won't find a better product for the value anywhere else. If you aren't happy with your purchase for any reason, reach out to us and we'll make it right with our 100% money back guarantee!",
+        "Why choose DIGIBUDDHA stationery?",
+        "· We have been in business since 2011 with tens of thousands of happy customers! We truly love what we do and it shows! · Digibuddha Excellent Value stationery is not available anywhere else; our original designs lead the small stationery industry. · Your invitations will be created with exceptional quality for the value and are shipped quickly & securely. · Stand out from the crowd with gorgeous Digibuddha stationery! · With our",
+        "100% MONEY BACK GUARANTEE",
+        ", your order is truly risk-free. Combined with our long history of quality products and excellent value, Digibuddha stationery is the perfect choice!"
+    ],
+    "price": "24.99",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/71YuCn-7zRL._AC_SL1050_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51bEu6G69FL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51I3zbmOlyL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51bEu6G69FL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51I3zbmOlyL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
     },
-    "store": "lifetop",
-    "categories": [],
-    "details": "{\"Material\": \"Bamboo\", \"Brand\": \"Lifetop\", \"Power Source\": \"Hand_powered\", \"Product Benefits\": \"Softening,Pores,Exfoliating\", \"Operation Mode\": \"Manual\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"17.64 x 3.03 x 2.44 inches; 5.61 Ounces\", \"Item model number\": \"BBB-1pcs\", \"UPC\": \"704529512913\", \"Manufacturer\": \"lifetop\"}",
-    "parent_asin": "B07CSKGJ2H",
+    "videos": {
+        "title": [
+            "25 Invitation Packs"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/03a087c5797740d4aefc0694857e173e?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Digibuddha",
+    "categories": [
+        "Home & Kitchen",
+        "Event & Party Supplies",
+        "Invitations"
+    ],
+    "details": "{\"Manufacturer\": \"Digibuddha\", \"Brand\": \"Digibuddha\", \"Item Weight\": \"12 ounces\", \"Product Dimensions\": \"7.5 x 5.5 x 0.5 inches\", \"Item model number\": \"VI0021\", \"Is Discontinued By Manufacturer\": \"No\", \"Color\": \"Blue pink green\", \"Material Type\": \"High quality card stock\", \"Size\": \"5.5\\\"W x 7.5\\\"L\", \"Manufacturer Part Number\": \"VI0021\", \"Date First Available\": \"May 16, 2017\", \"Occasion\": \"Graduation, Birthday, Thank You\", \"Target Audience\": \"Unisex-Adults\", \"Number of Pieces\": \"50\"}",
+    "parent_asin": "B0714DZ5YF",
     "bought_together": null,
     "subtitle": null,
     "author": null

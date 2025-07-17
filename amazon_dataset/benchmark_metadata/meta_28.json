@@ -1,20 +1,52 @@
 {
-    "main_category": "All Beauty",
-    "title": "7 Packs Deep Wave Crochet Hair 22 Inch Deep wave Twist Crochet Braid Low Tempreture Kanekalon Synthetic Hair Extensions (22\"7Packs,1b)",
-    "average_rating": 3.4,
-    "rating_number": 10,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Ata-Boy DC Comics Artgerm Harley Quinn Vol.3 No.1 2.5\" x 3.5\" Magnet for Refrigerators and Lockers",
+    "average_rating": 4.4,
+    "rating_number": 22,
+    "features": [
+        "A fridge or locker door is always a great place to keep an important reminder or to-do list while showing the world what you love",
+        "This big, bright high-resolution magnet features iconic pop culture graphics that will show off your fandom and catch your eye so your reminders won't be forgotten!",
+        "Magnets offer super-sturdy construction - full color image is fully laminated and wraps around the magnet edge so you never have to worry about peeling or chipping",
+        "Full magnet back means your notes and to-do lists will be held tight to your metal surface",
+        "Officially licensed and made in the USA; measures approximately 3.5\" high x 2.5\" wide"
+    ],
+    "description": [
+        "DC Harley Vol 3 No 1 ArtGerm"
+    ],
+    "price": "6.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61JcqWZBgQL._AC_SL1010_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51OGvMYBWnL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/315hsZY3sQL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51OGvMYBWnL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/315hsZY3sQL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Yun Mei Hair",
-    "categories": [],
-    "details": "{\"Brand\": \"Yun Mei Hair\", \"Material\": \"Synthetic\", \"Extension Length\": \"22 Inches\", \"Hair Type\": \"Wavy\", \"Material Feature\": \"Natural\", \"Package Dimensions\": \"17.76 x 7.87 x 2.17 inches; 1.02 Pounds\", \"UPC\": \"711221192763\"}",
-    "parent_asin": "B07Z818MLY",
+    "store": "Ata-Boy",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen Utensils & Gadgets",
+        "Kitchen Accessories",
+        "Refrigerator Magnets"
+    ],
+    "details": "{\"Product Dimensions\": \"0.1 x 3.5 x 2.5 inches\", \"Item Weight\": \"0.8 ounces\", \"Manufacturer\": \"Ata-Boy\", \"Item model number\": \"73425DC\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 433174, \"Refrigerator Magnets\": 9747}, \"Is Discontinued By Manufacturer\": \"Yes\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\", \"Import\": \"Made in USA\", \"Size\": \"2.5\\\" x 3.5\\\"\", \"Color\": \"Artgerm Harley Quinn\", \"Material\": \"Metal\", \"Brand\": \"Ata-Boy\", \"Shape\": \"Rectangular\"}",
+    "parent_asin": "B083TJB1BF",
     "bought_together": null,
     "subtitle": null,
     "author": null

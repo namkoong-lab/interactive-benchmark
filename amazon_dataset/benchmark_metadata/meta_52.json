@@ -1,22 +1,44 @@
 {
-    "main_category": "All Beauty",
-    "title": "SERGE LUTENS PARFUMS La Fille De Berlin, Mini.03 oz",
-    "average_rating": 3.2,
-    "rating_number": 5,
-    "features": [],
-    "description": [
-        "SERGE LUTENS PARFUMS La Fille De Berlin, Mini.03 oz"
+    "main_category": "Amazon Home",
+    "title": "Adventure Time Finn Head Magnet",
+    "average_rating": 4.6,
+    "rating_number": 9,
+    "features": [
+        "Officially Licensed"
     ],
-    "price": "9.9",
+    "description": [
+        "These magnets depict the characters from the popular animated series, Adventure Time. Includes Finn Head, Jake, Lumpy Space Princess, Finn and Jake, and Lady Rainacorn. Perfect for cars, lockers, office, and refrigerators."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41bC-+NFUEL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41bC-+NFUEL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Serge Lutens",
-    "categories": [],
-    "details": "{\"Brand\": \"Serge Lutens\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Package Dimensions\": \"1 x 1 x 0.3 inches; 0.32 Ounces\"}",
-    "parent_asin": "B07QNGTSYY",
+    "store": "Hot Properties",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen Utensils & Gadgets",
+        "Kitchen Accessories",
+        "Refrigerator Magnets"
+    ],
+    "details": "{\"Product Dimensions\": \"8 x 6 x 0.1 inches\", \"Item Weight\": \"0.32 ounces\", \"Manufacturer\": \"Hot Properties\", \"Country of Origin\": \"China\", \"Item model number\": \"AMB425\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 641518, \"Refrigerator Magnets\": 16634}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"November 9, 2011\"}",
+    "parent_asin": "B0064GE3TI",
     "bought_together": null,
     "subtitle": null,
     "author": null

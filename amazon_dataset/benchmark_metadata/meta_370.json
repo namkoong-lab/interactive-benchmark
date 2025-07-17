@@ -1,20 +1,53 @@
 {
-    "main_category": "All Beauty",
-    "title": "Sensationnel Synthetic Hair Empress Natural Center Part Lace Front Wig ALANI (4)",
-    "average_rating": 3.8,
-    "rating_number": 3,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": null,
+    "title": "Idaho, Fly Fisherman (9x12 Wall Art Print, Home Decor)",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Idaho, Fly Fisherman (9x12 Wall Art Print, Home Decor), Image size of 7.75 x 11.625 inches, white borders along all edges of at least 0.25 inches.",
+        "Guaranteed color accuracy, durable imaging, and high print resolution.",
+        "Printed on heavy stock paper using a high-end digital printing press.",
+        "Lantern Press high-quality art prints are designed and printed in the USA."
+    ],
+    "description": [
+        "This original high-quality art print from Lantern Press boasts sharp detail and vivid imagery of Idaho, Fly Fisherman (9x12 Wall Art Print, Home Decor). -Paper size measures 9 x 12 inches with an image size of 7.75 x 11.625 inches, ready for framing. -Printed on heavy stock paper using a high-end digital printing press. -Guaranteed color accuracy, durable imaging, and high print resolution. -Lantern Press art prints are designed and printed right here in the USA. Lantern Press incorporates our unique imagery with thoughtfully made keepsakes and gifts that delight our customers, connecting people to their memorable experiences."
+    ],
+    "price": "12.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71VDCqlDaJL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71F1laBVANL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/81xlYMsjDbL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51tRhRwQi2L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/519qwQElqJL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51To5hB-rpL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51tRhRwQi2L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/519qwQElqJL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51To5hB-rpL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Sensationnel",
-    "categories": [],
-    "details": "{\"Hair Type\": \"Straight\", \"Brand\": \"Sensationnel\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Package Dimensions\": \"16.9 x 7.4 x 2.7 inches; 1 Pounds\", \"UPC\": \"803868470264\"}",
-    "parent_asin": "B07WDCY23G",
+    "store": "Lantern Press",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Posters & Prints"
+    ],
+    "details": "{\"Brand\": \"Lantern Press\", \"Material\": \"Paper\", \"Color\": \"Multicolor\", \"Special Feature\": \"Durable\", \"Style\": \"Modern\", \"Occasion\": \"Travel\", \"Pattern\": \"Art print\", \"Unit Count\": \"1.0 Count\", \"Item Weight\": \"4 ounces\", \"Product Dimensions\": \"12 x 9 x 0.2 inches\", \"Department\": \"Unisex-adult\", \"Manufacturer\": \"Lantern Press\", \"Country of Origin\": \"USA\", \"Item model number\": \"LANT-13808-9x12\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 1769106, \"Novelty Coffee Mugs\": 203543, \"Glassware & Drinkware\": 421618}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"November 23, 2014\"}",
+    "parent_asin": "B07RGXP3ZS",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,26 +1,61 @@
 {
-    "main_category": "All Beauty",
-    "title": "ApHogee Curlific Moisture Rich Leave-In 8oz",
-    "average_rating": 5.0,
-    "rating_number": 3,
-    "features": [],
-    "description": [],
-    "price": "8.99",
-    "videos": {
-        "title": [
-            "It worth it ? Yes!!"
+    "main_category": "Amazon Home",
+    "title": "Wilton W91-02 Numeral Candle, 3-Inch by 1.5-Inch, No. 2, Green, 1-Pack",
+    "average_rating": 4.3,
+    "rating_number": 71,
+    "features": [
+        "Wilton-polka dot numeral party candle: blue",
+        "Add fun to any occasion with Wilton novelty candle",
+        "This package contains one 3x1-1/2x1/ 2 inch No. 1 candle with polka dots and blue trim",
+        "These candles indicate Number",
+        "Made in USA"
+    ],
+    "description": [
+        "WIL 2811-9102 SIZE: EACH ***NUMERAL CANDLE 2 GREEN Wilton 2811-W-9102 Cake-Party WILTON Cake, Bakeware & Party Supplies TO BE DISCONTINUED ITEM"
+    ],
+    "price": "4.23",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/614e6AvUWaL._AC_SL1200_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/086302e0ff6f4d75b6524d2b478ac7b3?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/41rc8Asn2cL._AC_.jpg"
         ],
-        "user_id": [
-            "/shop/preciousdeshield"
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41rc8Asn2cL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
         ]
     },
-    "store": "Aphogee",
-    "categories": [],
-    "details": "{\"Brand\": \"Aphogee\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"5.00 Count\", \"Number of Items\": \"1\", \"Special Feature\": \"Leave In\", \"Package Dimensions\": \"6.3 x 3.15 x 3.15 inches; 8 Ounces\", \"UPC\": \"015228131481\"}",
-    "parent_asin": "B01IAEV8LM",
+    "videos": {
+        "title": [
+            "These candles have lasted me 3 parties already and I've used the same number 3 times too!",
+            "PHD CAKE Modern Number Candles",
+            "10 Pieces Birthday Number Candles"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0cd0412763174f4da479bb92b3589b27?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/07dbb75f7eb34b3791fb0ee7b31084f1?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0aef815d72244cdabe5ff06ccf60ab57?ref=dp_vse_rvc_2"
+        ],
+        "user_id": [
+            "/shop/influencer-e888ef9d",
+            "",
+            ""
+        ]
+    },
+    "store": "Wilton",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Candles & Holders",
+        "Candles",
+        "Specialty Candles",
+        "Birthday Candles"
+    ],
+    "details": "{\"Brand\": \"Wilton\", \"Color\": \"Green\", \"Product Dimensions\": \"1.5\\\"W x 3\\\"H\", \"Item Weight\": \"0.03 Pounds\", \"Number of Items\": \"1\", \"Are Batteries Included\": \"No\", \"Specific instructions for use\": \"Party,Party Supplies\", \"Material\": \"Other\", \"Occasion\": \"Birthday\", \"Special Feature\": \"Nonstandard Shaped\", \"Style\": \"#2 Green\", \"Model Name\": \"Numeral Candle\", \"Size\": \"3\\\" x 1\\\"\", \"Unit Count\": \"1.0 Count\", \"Department\": \"U.S. Art Supply / www.USArtSupply.com\", \"Manufacturer\": \"Wilton\", \"Item model number\": \"2811-9102\", \"Best Sellers Rank\": {\"Home & Kitchen\": 731702, \"Birthday Candles\": 1378}, \"Is Discontinued By Manufacturer\": \"No\", \"Assembly required\": \"No\", \"Number of pieces\": \"1\", \"Warranty Description\": \"N/a.\", \"Batteries required\": \"No\", \"Included Components\": \"Candle\"}",
+    "parent_asin": "B00KORQ1F2",
     "bought_together": null,
     "subtitle": null,
     "author": null

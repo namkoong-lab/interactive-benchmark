@@ -1,20 +1,60 @@
 {
-    "main_category": "All Beauty",
-    "title": "MARLOWE. No. 021 Body Soufflé 8 oz | Soft, Creamy, Light Whipped Lotion | Hydrating Dry Skin Cream | Clean, Natural Scent",
-    "average_rating": 3.3,
-    "rating_number": 13,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Fall Clings Party Accessory (1 count) (12/Sh)",
+    "average_rating": 4.4,
+    "rating_number": 253,
+    "features": [
+        "MADE IN THE USA",
+        "INCLUDES: 1 sheet of static clings which has 12 individual different pieces of window clings",
+        "MATERIAL: Static Cling Vinyl",
+        "USE: Put on windows to decorate for the Fall and Thanksgiving seasons",
+        "CELEBRATE LIFE WITH US: Since 1900 The Beistle Company’s mission has remained the same: to help people around the world celebrate life’s events by creating fun, high quality products using the finest materials"
+    ],
+    "description": [
+        "Beistle 99130 Fall clings (12 count). the sheet includes 12 pieces of window clings in assorted sizes, shapes and designs of pumpkins, Leaves, a corn shock, A fall tree, Sunflowers and a wheelbarrow with pumpkins. The sheet measures 12 inch wide by 17 inch tall."
+    ],
+    "price": "5.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81WBR9rbjDL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/513AoCiKIVL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/513AoCiKIVL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "MARLOWE. M BLEND",
-    "categories": [],
-    "details": "{\"Brand\": \"MARLOWE. M BLEND\", \"Item Form\": \"Cream\", \"Unit Count\": \"8.0 Ounce\", \"Number of Items\": \"1\", \"Skin Type\": \"Dry\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"3.78 x 3.62 x 2.68 inches; 10.44 Ounces\", \"UPC\": \"853646006611\"}",
-    "parent_asin": "B075H2WPXN",
+    "videos": {
+        "title": [
+            "HoralDaily Spring Window Clings",
+            "Such beautiful window clings and so many of them!  Love!!!",
+            "VEYLIN Fall Maple Leaves Window Clings"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/088fcc255ced47b0a252afedf41299d2?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0ae2a20ac4684d38b20e4b7bbcc7cd2f?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/03c66527ff8343ac830ef711bfa7a92f?ref=dp_vse_rvc_2"
+        ],
+        "user_id": [
+            "",
+            "/shop/influencer-d2020e2e",
+            ""
+        ]
+    },
+    "store": "Beistle",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Window Treatments",
+        "Window Stickers & Films",
+        "Window Stickers"
+    ],
+    "details": "{\"Brand\": \"Beistle\", \"Color\": \"Red/Orange/Yellow/Green/Brown\", \"Item Dimensions LxWxH\": \"17.5 x 12.5 x 0.06 inches\", \"Surface Recommendation\": \"Window\", \"Room Type\": \"Living Room\", \"Recommended Uses For Product\": \"Window\", \"Material\": \"Plastic\", \"Theme\": \"Seasons,Thanksgiving\", \"Special Feature\": \"Reusable\", \"Number of Pieces\": \"1\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"17.5 x 12.5 x 0.06 inches; 2.08 Ounces\", \"Manufacturer recommended age\": \"1 month and up\", \"Item model number\": \"99130\", \"Department\": \"unisex-child\", \"Date First Available\": \"November 3, 2008\", \"Manufacturer\": \"The Beistle Company\"}",
+    "parent_asin": "B0148W48TE",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,26 +1,59 @@
 {
-    "main_category": "All Beauty",
-    "title": "Syntheitc Weave Kinky Curly Hair Bundles Two Tone Ombre Black to Green 16 18 20 Inches 3 Bundles Hair Extensions",
-    "average_rating": 3.9,
-    "rating_number": 42,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "Nice"
+    "main_category": "Office Products",
+    "title": "Fox Valley Traders Personalized I Said A Christmas Prayer Christmas Card Set of 20, Front of Envelope Personalization with Design Only",
+    "average_rating": 4.2,
+    "rating_number": 29,
+    "features": [
+        "Joyful Greeting – Send a personalized, thoughtful Christmas prayer card this holiday season for an extra-special blessing that your loved one won’t forget",
+        "Artfully Designed – Our “I Said a Christmas Prayer” card features a country home’s snowy winter scene complete with garland, Christmas greenery, lighting and delightful trim",
+        "Premium Quality – Along with its touching Christmas prayer, Philippians 1:34 is printed inside of this 5 inch x 7 inch glossy card stock",
+        "Value Set – Set of 20 cards lets you share Christmas wishes with your family, friends and neighbors both near and far; value set includes 20 blank white envelopes, making it easy for you to prepare and send out your holiday greetings",
+        "Customized – Let us save you time and money this holiday season with the option to personalize the card with your family’s name, a joyous Christmas message or a meaningful Bible verse"
+    ],
+    "description": [
+        "Inside: I Said a Christmas Prayer for You because the season's near. I didn't ask for riches but for gifts so much more dear. I asked for joyful gatherings with your family all around, and for carols to inspire you with their old familiar sound. I asked for quiet moments in your heart on Christmas morn, for a special time to celebrate the Savior who was born...I asked for friends to send their best that you might know they care. I asked for peace and love and hope, and I know God heard my prayer. Holiday home in grandiose decor warms hearts for Christmas Features inside Scripture verse from Philippians 1:34. Glossy card stock single folds to 4 1/2\" x 6 1/4\"; coordinating envelopes included.Personalization: Specify names as they are to be printed on the cards. Please note: At this time, we are only able to personalize characters from the English keyboard."
+    ],
+    "price": "21.97",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61FH0tmDFuL._AC_SL1168_.jpg",
+            "https://m.media-amazon.com/images/I/71jifRydLjL._AC_SL1168_.jpg",
+            "https://m.media-amazon.com/images/I/51netcbK6sL._AC_SL1168_.jpg",
+            "https://m.media-amazon.com/images/I/514Q4WVTWpL._AC_SL1168_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/03ee02b069854525a0cc17d05f91b32e?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/4135h8U4VBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51skcGJ8ujL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/4101WNx4agL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31RXBkdBW6L._AC_.jpg"
         ],
-        "user_id": [
-            "AE7MROXMXHHAMRFAN2KCN52OOMRQ"
+        "thumb": [
+            "https://m.media-amazon.com/images/I/4135h8U4VBL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51skcGJ8ujL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/4101WNx4agL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31RXBkdBW6L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
         ]
     },
-    "store": "Angie",
-    "categories": [],
-    "details": "{\"Brand\": \"Angie\", \"Material\": \"Human Hair, Synthetic\", \"Extension Length\": \"20 Inches\", \"Hair Type\": \"Curly,Kinky\", \"Material Feature\": \"Natural\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"14.6 x 2.2 x 2.1 inches; 8.78 Ounces\", \"UPC\": \"656699677582\"}",
-    "parent_asin": "B07GCJJ4HT",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Fox Valley Traders",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Collectible Figurines"
+    ],
+    "details": "{\"Manufacturer\": \"Fox Valley Traders\", \"Brand\": \"Fox Valley Traders\", \"Color\": \"Front of Envelope Personalization w/Design Only\", \"Size\": \"One Size Fits All\", \"Date First Available\": \"November 17, 2013\", \"Occasion\": \"Christmas\", \"Target Audience\": \"Unisex-Adults\", \"Number of Pieces\": \"20\"}",
+    "parent_asin": "B0BDH8WJG4",
     "bought_together": null,
     "subtitle": null,
     "author": null

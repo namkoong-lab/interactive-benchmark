@@ -1,20 +1,42 @@
 {
-    "main_category": "All Beauty",
-    "title": "24 Pieces No Bend Clips Pin Curl Clips No Crease Hair Clips for Hairstyle Bangs Finger Waves Makeup Application (Black, Pink, Blue, Yellow)",
-    "average_rating": 4.1,
-    "rating_number": 57,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Trendspot 8in Artisan Planter, DRIP BLUE",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [
+        "Glazed finish offers a sleek, polished look",
+        "Adds character and visual appeal to any garden",
+        "Hand-crafted with artisan glazes and colors",
+        "Made of durable glazed ceramic for long-lasting indoor use",
+        "Textured planter adds visual interest to a table, deck or porch"
+    ],
+    "description": [
+        "Trend spot ceramic pottery is hand crafted of durable ceramic clay & artisan glazes in trend-right colors & designs"
+    ],
+    "price": "59.25",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81ERcJrbbTL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/514+qUxrUZL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/514+qUxrUZL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "TOODOO",
+    "store": "TRENDSPOT",
     "categories": [],
-    "details": "{\"Brand\": \"TOODOO\", \"Hair Type\": \"All, dry\", \"Age Range (Description)\": \"Adult\", \"Material\": \"Plastic\", \"Unit Count\": \"24.00 Count\", \"Product Dimensions\": \"5.91 x 2.56 x 0.63 inches; 3.17 Ounces\"}",
-    "parent_asin": "B087N2TD86",
+    "details": "{\"Material\": \"Ceramic\", \"Color\": \"Blue\", \"Special Feature\": \"Handmade\", \"Shape\": \"Round\", \"Mounting Type\": \"Window Mount, Floor Standing, Tabletop\", \"Brand\": \"TRENDSPOT\", \"Number of Pieces\": \"1\", \"Assembly Required\": \"No\", \"Finish Type\": \"Polished\", \"Item Weight\": \"4 pounds\", \"Item Dimensions LxWxH\": \"8.3 x 8.3 x 7.1 inches\", \"Product Dimensions\": \"8.3 x 8.3 x 7.1 inches\", \"Manufacturer\": \"Trendspot\", \"Item model number\": \"ECR10975-08G\"}",
+    "parent_asin": "B075B4M4VG",
     "bought_together": null,
     "subtitle": null,
     "author": null

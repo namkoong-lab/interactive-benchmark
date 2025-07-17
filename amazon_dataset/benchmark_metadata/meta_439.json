@@ -1,20 +1,81 @@
 {
-    "main_category": "All Beauty",
-    "title": "Illamasqua Lipstick One Size Magnetism",
-    "average_rating": 2.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "13.5",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Industrial & Scientific",
+    "title": "Vitamix XL Programmable Blender",
+    "average_rating": 4.0,
+    "rating_number": 3,
+    "features": [
+        "Xl Blender System, Programmable Speed, Pulse Function, Includes: (1) 1",
+        "5 Gallon (5",
+        "6 Liter) Container, (1) 64 Oz.",
+        "(2 Liter) Container, Lid, Removable Lid Plug, Accelerator Tool, Blade Assembly, 4",
+        "From the Brand: Vitamix"
+    ],
+    "description": [
+        "XL Blender System, programmable speed, pulse function, includes: (1) 1.5 gallon (5.6 liter) container, (1) 64 oz. (2 liter) container, lid, removable lid plug, accelerator tool, blade assembly, 4.2 peak HP, cULus, RoHS, CE, NSF"
+    ],
+    "price": "1720.37",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61y1wUj9WFL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/419mRRd-44L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/419mRRd-44L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "Illamasqua",
-    "categories": [],
-    "details": "{\"Brand\": \"Illamasqua\", \"Skin Type\": \"All\", \"Item Form\": \"Cream\", \"Finish Type\": \"Cream\", \"Product Benefits\": \"Stain,Eye Health\", \"Product Dimensions\": \"6 x 4 x 8 inches; 1 Pounds\", \"Country of Origin\": \"Germany\"}",
-    "parent_asin": "B0099LBLB8",
+    "videos": {
+        "title": [
+            "HONEST Vitamix 750 Series Review + Demonstration (10yr Old!)",
+            "Vitamix Certified Reconditioned Explorian Series ",
+            "Our FAVORITE Quiet Blender, it  blends almost Everything!",
+            "HONEST Review of The Vitamix Blender - AMAZING but Loud!",
+            "Ninja Professional Blender 1000",
+            "Vitamix A3500 Blender Review + Demo (Hot soup and smoothie!)",
+            "Watch me make a smoothie. + My thoughts...",
+            "HONEST review of Vitamix Explorian Blender",
+            "Blend Quietly, Smile Loudly - This Vitamix",
+            "Unbiased Review of VitaMix Explorian Blender "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/090a354eb4cc4bc9a76e90dc3971d6ed?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0c0569ad590349b3a6beaa467806a741?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/015e3e69fa114b33bc7d7e0bf837341b?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0c3d7e757bef4e158f7e7c9d9b718716?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/761d5ec26bed428fb2bda6f21e304b72?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/09fb2c81301a473db3a1516d566ddade?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/0119cf9f14b042338882d063aa07cac6?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/083a229211d448009fbbc5100ebc4f20?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/080d23d204d147fb913cbd3fb5b6c3f4?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/0aa52460c9d64c41afccfeabdb690120?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "/shop/alexandrachristineblog",
+            "",
+            "/shop/doodledogs",
+            "/shop/dovvie",
+            "",
+            "/shop/retreat.and.roam",
+            "/shop/philletten",
+            "/shop/benhart",
+            "/shop/mikelazarus",
+            "/shop/theorganicmomma"
+        ]
+    },
+    "store": "Vitamix",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Small Appliances",
+        "Blenders",
+        "Countertop Blenders"
+    ],
+    "details": "{\"Brand\": \"Vitamix\", \"Color\": \"Black\", \"Capacity\": \"64 Fluid Ounces\", \"Included Components\": \"Programmable Blender\", \"Style\": \"Modern\", \"Item Weight 45.6 Pounds\": \"\", \"\": \"Is Dishwasher Safe Yes\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"16 x 35.5 x 19.25 inches; 45.6 Pounds\", \"Item model number\": \"5202\", \"Date First Available\": \"March 15, 2017\", \"Manufacturer\": \"Vitamix Corporation\"}",
+    "parent_asin": "B06XNMJT8B",
     "bought_together": null,
     "subtitle": null,
     "author": null

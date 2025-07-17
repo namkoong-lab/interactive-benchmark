@@ -1,26 +1,51 @@
 {
-    "main_category": "All Beauty",
-    "title": "Hawaiian Drink It Up Leave - In Conditioning Mist Coconut Milk, 8 oz (Pack of 3) by Alba Botanica",
+    "main_category": "Amazon Home",
+    "title": "Department 56 SNOWP Let's BE Jolly Hanging Ornament",
     "average_rating": 5.0,
-    "rating_number": 3,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "A Conditioner We Can Count On"
+    "rating_number": 5,
+    "features": [
+        "“Let’s Be Jolly” hanging Christmas ornament from the Department 56 Snowpinions collection",
+        "Snowpinions feature sweet and sassy sentiments for the holidays",
+        "Showcases a curious snowman peeking out from his hand-knit scarf with “let’s be jolly” messaging",
+        "Handcrafted from high-quality bisque porcelain with hand-painted accents",
+        "3-inch height (7.6 cm)"
+    ],
+    "description": [
+        "Snowpinions are sweet and sassy sentiments that relay just the right message for the holidays. Handcrafted from creamy bisque porcelain, highly detailed Snowpinions bring life and character to any holiday scene. A bashful, rosy-cheeked snowman peeks out from his hand-knit scarf with the message: “let’s be jolly.” Hand-painted accents provide a distinctive artistic touch that ensures each item will remain a treasured piece for years to come. Snowpinions come boxed in decorative packaging for easy gifting. For over 30 years, artist Kristi Jensen Pierro has captured the beauty and splendor of winter through her many giftware collections with Department 56, including the popular Snowpinions line. About Us: Enesco is committed to bringing joy every day. The premier global destination for high-quality giftware, plush, and home décor, our prestigious family of brands includes: GUND, Department 56 Village, Gregg Gift, Foundations, Jim Shore Heartwood Creek, Disney Traditions by Jim Shore, Walt Disney Archives Collection, Disney Showcase Collection, Disney by Britto, Pusheen, Designs by Lolita, Our Name Is Mud, and many more."
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61lWUzgvRlL._AC_SL1500_.jpg",
+            null
         ],
-        "url": [
-            "https://www.amazon.com/vdp/01bfd3a422ce4c5bbc21421dba428043?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/31EPzRiLIBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31tecO4+I7L._AC_.jpg"
         ],
-        "user_id": [
-            "/shop/malakwazne"
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31EPzRiLIBL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31tecO4+I7L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT12"
         ]
     },
-    "store": "Alba Botanica",
-    "categories": [],
-    "details": "{\"Brand\": \"Alba Botanica\", \"Material Feature\": \"Vegetarian\", \"Product Benefits\": \"Hydrating\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"1.00 Count\", \"UPC\": \"787734465687\"}",
-    "parent_asin": "B018IVD9FK",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Department 56",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Hanging Ornaments"
+    ],
+    "details": "{\"Color\": \"White\", \"Brand\": \"Department 56\", \"Occasion\": \"Christmas\", \"Material\": \"Porcelain\", \"Theme\": \"Christmas\", \"Included Components\": \"Hanging Ornament\", \"Item Dimensions LxWxH\": \"1 x 1 x 1 inches\", \"Shape\": \"Snowman\", \"Mounting Type\": \"Hanging\", \"Item Package Quantity\": \"1\", \"Unit Count\": \"1.0 Count\", \"Batteries Required?\": \"No\", \"Scent\": \"Unscented\", \"Number of Pieces\": \"1\", \"Product Dimensions\": \"1 x 1 x 1 inches\", \"Item Weight\": \"1.58 ounces\", \"Manufacturer\": \"Enesco, LLC\", \"Item model number\": \"4059930\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3489015, \"Decorative Hanging Ornaments\": 75192}, \"Is Discontinued By Manufacturer\": \"No\", \"Assembly required\": \"No\", \"Import\": \"Imported\"}",
+    "parent_asin": "B01N13OF8A",
     "bought_together": null,
     "subtitle": null,
     "author": null

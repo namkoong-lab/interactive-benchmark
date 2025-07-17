@@ -1,20 +1,61 @@
 {
-    "main_category": "All Beauty",
-    "title": "HAIR CHALKS SET: 6 Colors Temporary Hair Coloring Chalk - Hair Dye Colorful Sticks - Dress Up Performance Costumes Halloween Christmas Party",
-    "average_rating": 2.2,
-    "rating_number": 10,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Twisted Envy Go Indonesia! Ceramic Novelty Mug",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Create a stir with these funny mugs featuring amusing and funny design. Perfect for brewing up some laughter with those comforting cuppas and energising coffees, each novelty mug makes those time outs extra interesting. Whether seeking funny gift ideas for a friend, colleague or family member, or treating yourself to an extra-special mug to call your own these quality ceramic designs have the fun factor.",
+        "Our fantastic statement mugs are great for the workplace or just at home, have a look at out other great designs. Good Art Is A Taste, Choose from Thousands of Funny prints on Mugs",
+        "Mugs are professionally printed. Your unique design will make someone smile with funny, cute, vintage, or expressive artwork",
+        "Funny Comedy Mugs and more . Some witty, some stupid, others funny. From childish to humour, these humorous designs will brighten up your day, Also make a Wonderful Gifts For Every Occasion",
+        "We offer 100% money back guarantee, so you can buy with confidence. Your satisfaction is our promise, and returns/exchanges are made easy."
+    ],
+    "description": [
+        "Start your day off right with one of our Funny coffee mugs made just for you. Whether you like your morning brew black or light and sweet, Twisted Envy is bound to have the perfect Funny coffee mug for you! Find thousands of different mug designs including unique and Funny mugs. Unique designs that any coffee lover will appreciate. Our coffee / Tea mugs make the perfect gift for your friends, co-workers, family, home or office. Browse our wide selection of personalized mugs for coffee, tea, or hot cocoa."
+    ],
+    "price": "16.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71ugRfOVEfL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61p5xAuZ7AL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61BAFjR8GqL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71z4R1EDeML._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51MGUVfEIhL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41ObYMzc26L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31PY6DijoiL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51RTh5re4cL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51MGUVfEIhL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41ObYMzc26L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31PY6DijoiL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51RTh5re4cL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "BUOCEANS",
-    "categories": [],
-    "details": "{\"Brand\": \"BUOCEANS\", \"Item Form\": \"Stick\", \"Unit Count\": \"2.8219 Ounce\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.8 x 5.12 x 1.02 inches; 4.97 Ounces\"}",
-    "parent_asin": "B078SP328M",
+    "store": "TWISTED ENVY",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Novelty",
+        "Drinkware",
+        "Coffee Mugs"
+    ],
+    "details": "{\"Brand\": \"TWISTED ENVY\", \"Color\": \"White\", \"Special Feature\": \"Dishwasher Safe\", \"Theme\": \"Funny,Novelty\", \"Product Care Instructions\": \"Hand Wash Only\", \"Unit Count\": \"1 Count\", \"Item Weight\": \"11.3 ounces\", \"Manufacturer\": \"TWISTED ENVY\", \"Date First Available\": \"July 15, 2016\", \"Material Ceramic\": \"\", \"\": \"Item Weight 320 Grams\"}",
+    "parent_asin": "B078XNTGCR",
     "bought_together": null,
     "subtitle": null,
     "author": null

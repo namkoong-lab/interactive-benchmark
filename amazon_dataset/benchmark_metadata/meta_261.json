@@ -1,20 +1,51 @@
 {
-    "main_category": "All Beauty",
-    "title": "Cream balm for foot with an extract of the leech 75 ml",
-    "average_rating": 3.1,
-    "rating_number": 2,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Imposing Design Teach Love Inspire 23 X 16 Vinyl Wall Quote Decal Sticker Teacher School Decor Student Office Calligraphy Decor Motivational Inspirational Decorative Lettering",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [
+        "23\" W X 16\" H",
+        "PREMIUM QUALITY Vinyl - Easy Install & Removal",
+        "PROUDLY MADE IN AMERICA - Shipped from USA",
+        "FREE & FAST Shipping",
+        "All items are copyrighted. Created and manufactured by Imposing Design only."
+    ],
+    "description": [
+        "Our wall decals apply easily to the majority of flat surfaces and provides the unique look of being \"painted on the wall\". We only provide premium grade vinyl which will last for years to come. Easy to read and follow instructions included . When it comes time to remove, simply peel away the vinyl. No hassle, no fuss and no damage when removing. Our graphic designers dream new ideas all the time. Please check back for the freshest looks and classy works of art. Please contact us for any custom work or color choices. All works of art are designed and manufactured by Imposing Design. Designs are copyrighted by Imposing Design."
+    ],
+    "price": "13.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/519vfS9G2LL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51AIVKzaunL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41SHRCkgTBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41g2a4RvEpL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41SHRCkgTBL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41g2a4RvEpL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Elixir",
-    "categories": [],
-    "details": "{\"Brand\": \"Elixir\", \"Item Form\": \"Cream\", \"Unit Count\": \"1.00 Fl Oz\", \"Item Volume\": \"75 Milliliters\", \"Age Range (Description)\": \"Adult\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.91 x 1.97 x 1.57 inches; 3.17 Ounces\", \"UPC\": \"664979952250\"}",
-    "parent_asin": "B0798PTV19",
+    "store": "Imposing Design",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Kids' Room Décor",
+        "Wall Décor"
+    ],
+    "details": "{\"Brand\": \"Imposing Design\", \"Color\": \"Matte Black\", \"Surface Recommendation\": \"wall\", \"Room Type\": \"Office, Kitchen, Living Room, Bedroom\", \"Material\": \"Vinyl\", \"Theme\": \"Quote, Love\", \"Style\": \"Art Deco\", \"Age Range (Description)\": \"Adult\", \"Installation Type\": \"Peel\", \"Reusability\": \"Single Use\", \"Pattern\": \"Letter\", \"Shape\": \"Irregular\", \"Unit Count\": \"1 Count\", \"League\": \"ncaa\", \"Manufacturer\": \"Imposing Design\", \"Best Sellers Rank\": {\"Sports & Outdoors\": 1462463, \"Sports Fan Home D\\u00e9cor\": 14225, \"Kids' Wall D\\u00e9cor\": 19309}, \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\", \"Import\": \"Made in USA\"}",
+    "parent_asin": "B07DW675FK",
     "bought_together": null,
     "subtitle": null,
     "author": null

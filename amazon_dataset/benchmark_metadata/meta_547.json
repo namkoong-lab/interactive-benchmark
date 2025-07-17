@@ -1,20 +1,71 @@
 {
-    "main_category": "Premium Beauty",
-    "title": "Christian BRETON Infinite Lashes 4 ml",
-    "average_rating": 4.0,
-    "rating_number": 5,
-    "features": [],
-    "description": [],
-    "price": "14.97",
+    "main_category": "Amazon Home",
+    "title": "Full Size 1200 Thread-Count Siberian Goose Down Comforter, 100% Egyptian Cotton, White Stripe & 50Oz",
+    "average_rating": 4.3,
+    "rating_number": 91,
+    "features": [
+        "100% Egyptian Cotton Cover",
+        "Luxury down comforter provides medium warmth for year-round comfort",
+        "Size 90 x 90 inches, RDS Certified and filled with ethically sourced, down filling certified to the Responsible Down Standard (RDS), OEKO-TEX Standard 100 and BSCI.",
+        "100% Egyptian-Cotton Cover. Machine Wash",
+        "Box-stitching design to avoid any shifting in your comforter",
+        "Brand New & Factory Sealed in a Beautiful Zippered Gift Package"
+    ],
+    "description": [
+        "Package contains 1 Luxurious all year Down Comforter in a beautiful zippered package. Wrap yourself in these 100% Egyptian Cotton Superior comforters that are truly worthy of a classy elegant suite, and are found in world class hotels. Woven to a luxurious high threads per square inch,these fine Luxury Bed Duvets are crafted from Long Staple Giza Cotton grown in the lush Nile River Valley since the time of the Pharaohs. Comfort, quality and opulence set our Luxury Bedding in a class above the rest. The result is a comforter so luxurious and soft, you will believe you are truly covering with a cloud, night after night. You will relax and enjoy the rich, soft and luxurious feeling of cotton cover comforter."
+    ],
+    "price": "134.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61vIaV2quKL._AC_SL1024_.jpg",
+            "https://m.media-amazon.com/images/I/610xLBZwg4L._AC_SL1024_.jpg",
+            "https://m.media-amazon.com/images/I/51zi32gHMjL._AC_SL1024_.jpg",
+            "https://m.media-amazon.com/images/I/519mBhjT40L._AC_SL1024_.jpg",
+            "https://m.media-amazon.com/images/I/8194Qd3s17L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81LyLzNXfQL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81YfZ2K+-6L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41EMyvF-3iL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51oxG8jOOGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31BYciE-bKL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31ahGs+-loL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41NhQKVJ67L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/410b2m6wVaL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/411DOHXdd4L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41EMyvF-3iL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51oxG8jOOGL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31BYciE-bKL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31ahGs+-loL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41NhQKVJ67L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/410b2m6wVaL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/411DOHXdd4L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Brand\": \"Christian BRETON\", \"Unit Count\": \"1.00 Fl Oz\", \"Number of Items\": \"1\", \"Skin Type\": \"Dry\", \"Item Volume\": \"4 Milliliters\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"0.59 x 0.59 x 4.65 inches; 0.85 Ounces\", \"Our Recommended age\": \"12 months and up\", \"Item model number\": \"1117\", \"Manufacturer\": \"Christian Breton\"}",
-    "parent_asin": "B00Z1QMMT0",
+    "store": "Egyptian Cotton Factory Outlet",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Duvets & Down Comforters"
+    ],
+    "details": "{\"Material\": \"Cotton\", \"Color\": \"White\", \"Brand\": \"Egyptian Cotton Factory Outlet Store\", \"Style\": \"Modern\", \"Blanket Form\": \"Comforter\", \"Age Range (Description)\": \"Adult\", \"Product Dimensions\": \"90\\\"L x 90\\\"W\", \"Theme\": \"Stripe\", \"Pattern\": \"Striped\", \"Fill Material\": \"down\", \"Product Care Instructions\": \"Machine Wash\", \"Size\": \"Full\", \"Fabric Type\": \"100% Egyptian Cotton Cover\", \"Item Weight\": \"3.12 pounds\", \"Included Components\": \"comforter\", \"Manufacturer\": \"Egyptian Cotton Factory Outlet Store\", \"Item model number\": \"8541807678\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2203315, \"Bedding Duvets & Down Comforters\": 1571}, \"Is Discontinued By Manufacturer\": \"No\", \"Refill\": \"down\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B007GXHBR4",
     "bought_together": null,
     "subtitle": null,
     "author": null

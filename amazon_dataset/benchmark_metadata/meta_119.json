@@ -1,32 +1,55 @@
 {
-    "main_category": "All Beauty",
-    "title": "Shimmer Anna Shine Headband (St. Patricks Green Clover)",
-    "average_rating": 4.4,
-    "rating_number": 133,
+    "main_category": "Amazon Home",
+    "title": "Divatex Home Fashions Jumbo Dots Mini Comforter Set, Multi Bright, Full/Queen",
+    "average_rating": 4.1,
+    "rating_number": 225,
     "features": [
-        "A perfect St Patrick's Day hair accessory",
-        "One size fits most women",
-        "Material: Headbands made of cotton and spandex",
-        "Whether you are wanting to wish someone good luck, feeling lucky or celebrating St. Pats day you will love this headband!",
-        "Comfort and Style: Soft, stretchy and comfortable"
+        "Comforter mini sets",
+        "Super soft brushed microfiber",
+        "Machine wash and dry",
+        "Do not iron",
+        "Jumbo multi dots"
     ],
-    "description": [],
-    "price": "6.99",
-    "videos": {
-        "title": [
-            "Shimmer Anna Shine St Patricks Day Twist Headband"
+    "description": [
+        "Walk into a world of bright jumbo polka dots on a white ground printed on super soft brushed microfiber. Each set includes a comforter and 2 shams 1 sham on twin, The sets are available in a twin 66 by 86-inch, full/queen 86 by 86-inch and king 102 by 86-inch ."
+    ],
+    "price": "48.88",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91uJ13GAklL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81qi3d+wrlL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91BHZQQTp0L._AC_SL1500_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/aab78f0b3b284ef48afadd564ecaa67d?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/51LwpbgSobL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/517P1mmqnKL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51dTT63gN6L._AC_.jpg"
         ],
-        "user_id": [
-            ""
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51LwpbgSobL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/517P1mmqnKL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51dTT63gN6L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
         ]
     },
-    "store": "Shimmer Anna Shine",
-    "categories": [],
-    "details": "{\"Brand\": \"Shimmer Anna Shine\", \"Band Color\": \"Green\", \"Band Material Type\": \"Cotton\", \"Band Size\": \"One Size\", \"Package Dimensions\": \"5.9 x 4 x 0.4 inches; 0.63 Ounces\", \"Item model number\": \"LE\", \"UPC\": \"721248940988\", \"Manufacturer\": \"Shimmer Anna Shine\"}",
-    "parent_asin": "B07YBLFFW5",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Divatex Home Fashions",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Kids' Bedding",
+        "Comforters & Sets"
+    ],
+    "details": "{\"Size\": \"Multi-Bright\", \"Included Components\": \"Pillow Sham, Comforter\", \"Color\": \"Full-queen\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Brand\": \"Divatex Home Fashions\", \"Pattern\": \"Polka Dot\", \"Material\": \"Microfiber\", \"Number of pieces\": \"4\", \"Care instructions\": \"Machine Wash\", \"Product Dimensions\": \"86 x 86 x 2 inches\", \"Item Weight\": \"4.25 pounds\", \"Manufacturer\": \"Divatex Home Fashions\", \"Item model number\": \"312986FQ\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3561835, \"Kids' Comforters & Sets\": 3741, \"Bedding Comforter Sets\": 7484, \"Sheet & Pillowcase Sets\": 11834}, \"Refill\": \"down_alternative\", \"Assembly required\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B00LC0Y8XW",
     "bought_together": null,
     "subtitle": null,
     "author": null

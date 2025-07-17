@@ -1,20 +1,70 @@
 {
-    "main_category": "All Beauty",
-    "title": "TENNESSEE VOLUNTEERS FACE AND NAIL SPORT STICK ONS-UNIVERSITY OF TENNESSEE TATTOOS",
-    "average_rating": 4.6,
-    "rating_number": 13,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "AVITO Personalized Radiologist Tumbler- Stainless Vacuum Insulated - 12 oz Wine Tumbler - Rad Tech Gift - Radiology Tech Gift- MRI Tech - X Ray Tech - Radiologist Gift - Radiologic Technologist",
+    "average_rating": 4.7,
+    "rating_number": 18,
+    "features": [
+        "SHIPS FAST - We will ship your item within two(2) business days of receiving your order.",
+        "PERSONALIZED - Each tumbler is a unique creation made just for you.",
+        "QUALITY - Your design and personalized text will be permanently printed on your tumbler, so it will last for years. Tumblers are dishwasher safe.",
+        "INSULATED - These stainless steel tumblers are vacuum insulated and keep your drinks hot or cold for hours. Fits in your cup holder.",
+        "100% MONEY BACK GUARANTEE - We are confident that you will love our products. However, if for any reason you are unsatisfied, simply return for a 100% refund, no questions asked."
+    ],
+    "description": [
+        "Our personalized tumblers make a great personalized gift for the people in your life who deserve something special. We permanently print your design on your tumbler so it will last for years. The tumbler is a one-of-kind, unique gift. Our tumblers are vacuum insulated stainless steel, so they keep drinks hot or cold for hours. Includes a straw and lid. Please note that tumblers may show some minor indications of being touched since they were handled during the customization process."
+    ],
+    "price": "24.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71D2LefHdiL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71NqO8kIUSL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61TyES-bKWL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61QIyaD9AXL._AC_SL1282_.jpg",
+            "https://m.media-amazon.com/images/I/71vyAPyxLyL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41P0EVIrTDL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/4165e5GmukL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41QfDxATDEL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41J4SdPECQL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41GRmf337RL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41P0EVIrTDL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/4165e5GmukL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41QfDxATDEL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41J4SdPECQL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41GRmf337RL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
     },
-    "store": "Color Club",
-    "categories": [],
-    "details": "{\"Brand\": \"Color Club\", \"Water Resistance Level\": \"Water Resistant\", \"Number of Pieces\": \"1\", \"Package Dimensions\": \"6 x 4.5 x 0.2 inches; 0.16 Ounces\"}",
-    "parent_asin": "B00UVXAG50",
+    "videos": {
+        "title": [
+            "20 oz Dental Tumbler "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/08cc5faea927484b87b6a4bb24558b0c?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "AVITO",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Glassware & Drinkware",
+        "Tumblers & Water Glasses"
+    ],
+    "details": "{\"Brand\": \"AVITO\", \"Special Feature\": \"Insulated\", \"Style\": \"12 oz Wine Tumbler\", \"Theme\": \"Holiday\", \"Occasion\": \"business\", \"Included Components\": \"12 oz Wine\", \"Shape\": \"Tumblers\", \"Pattern\": \"Letter Print\", \"Product Care Instructions\": \"Hand Wash Only\", \"Material Feature\": \"Insulated\", \"Unit Count\": \"1.0 Count\", \"Number of Items\": \"1\", \"League\": \"ncaa\", \"Manufacturer\": \"AVITO\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 129067, \"Tumblers & Water Glasses\": 5350}, \"Date First Available\": \"March 1, 2022\", \"Material Stainless Steel\": \"\", \"\": \"Capacity 12 Fluid Ounces\"}",
+    "parent_asin": "B09TS3W7RB",
     "bought_together": null,
     "subtitle": null,
     "author": null

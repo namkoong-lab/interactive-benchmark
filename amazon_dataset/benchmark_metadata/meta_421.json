@@ -1,29 +1,69 @@
 {
-    "main_category": "All Beauty",
-    "title": "Claw Hair Clips, IKOCO 6 Pack Jaw Clips Stylish Matte Plastic Strong Hold Hair Clamps Box Packaged for Thin Fine Hair with 10Pcs Black Hair ties (2.4Inch)",
-    "average_rating": 4.4,
-    "rating_number": 122,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "Love them! Holds my long hair all day long!",
-            "Octopus Claw Clips"
+    "main_category": "Amazon Home",
+    "title": "GAGEC Fall Pillow Covers 12 x 20 Inch Pumpkins Wreath Autumn Harvest Home Throw Pillowcase Blessed Thanksgiving Outdoor Decorative Cushion Case for Sofa Couch Set of 4",
+    "average_rating": 4.6,
+    "rating_number": 167,
+    "features": [
+        "Polyester",
+        "【MACHINE WASHABLE】: Machine wash in cold water separately,Material: 100% Polyester,and the pattern is printed on the front.",
+        "【HIGH QUIATLITY】: Durable home decorations made of machine washable Polyester, comfortable and soft touch, no fading or fraying issue.",
+        "【FEATURES】:Welcome guests to your home with this unique, they are used for indoor, outdoor, sofa, and farmhouse home decoration.",
+        "【EASY TO PUT ON】:Hidden zipper closure, super easy to cram your pillow/filler into this cover.",
+        "【SATISFACTION GUARANTEE】: We have 24/7 support team, if you aren't 100% satisfied, we will provide you with a refund or a free replacement - so you can place order now with confidence and enjoy really great product."
+    ],
+    "description": [
+        "Fall Pillow Covers 12 x 20 Inch Pumpkins Wreath Autumn Harvest Home Throw Pillowcase Blessed Thanksgiving Outdoor Decorative Cushion Case for Sofa Couch Set of 4"
+    ],
+    "price": "17.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71v9rdGKVhL._AC_SL1500_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/06e357d4ab1845d38ee04506bcc158bb?ref=dp_vse_rvc_0",
-            "https://www.amazon.com/vdp/0d6e22c53d78497da6e17cb795f694f0?ref=dp_vse_rvc_1"
+        "large": [
+            "https://m.media-amazon.com/images/I/41tnc9vR4fL._AC_.jpg"
         ],
-        "user_id": [
-            "AHPXV3JAI2QAMKKEKACCX5BCZXSA",
-            ""
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41tnc9vR4fL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
         ]
     },
-    "store": "IKOCO",
-    "categories": [],
-    "details": "{\"Brand\": \"IKOCO\", \"Hair Type\": \"Fine\", \"Color\": \"Green,Grey\", \"Age Range (Description)\": \"Adult\", \"Material\": \"Plastic, Metal, Acrylic\", \"Product Dimensions\": \"6.25 x 4.25 x 2 inches; 5.89 Ounces\"}",
-    "parent_asin": "B08HMLXW65",
+    "videos": {
+        "title": [
+            "Warm Tones fall pillow cover",
+            "GAGEC Fall Pillow Covers--Farmhouse Style",
+            "Pretty fall decorations for home",
+            "Honest Review Of The Utopia Bedding Throw Pillows",
+            "fall pillow cover pumpkin",
+            "very impressed with these"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/01f9d7a101fb4da38b72583749d7b78a?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/015ecf6a903749ddb3ccede2d8fdc473?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0be01255b9b44f3a86ec2bc0d0ea2c86?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0bf3b7aebe654c87a21dde1f394587ab?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/05419133db8f471bb0b1738bf2841605?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/08762a77d48c488aba4cad4056cea999?ref=dp_vse_rvc_5"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            "/shop/layla_par5on5",
+            "",
+            "/shop/zulfphotography"
+        ]
+    },
+    "store": "GAGEC",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Decorative Pillows, Inserts & Covers",
+        "Throw Pillow Covers"
+    ],
+    "details": "{\"Pattern\": \"Print\", \"Material\": \"Polyester\", \"Color\": \"12'' X 20''\", \"Product Dimensions\": \"20\\\"L x 12\\\"W\", \"Style\": \"Farmhouse\", \"Brand\": \"GAGEC\", \"Shape\": \"Rectangular\", \"Number of Items\": \"4\", \"Special Feature\": \"Durable\", \"Number of Pieces\": \"4\", \"Product Care Instructions\": \"Machine Wash\", \"Occasion\": \"Decoration,Thanksgiving\", \"Closure Type\": \"Zipper\", \"Recommended Uses For Product\": \"Sofa\", \"Item Weight\": \"8.4 ounces\", \"Manufacturer\": \"GAGEC\", \"Item model number\": \"F213-02\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1050803, \"Throw Pillow Covers\": 12851}, \"Fabric Type\": \"Polyester\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B09D2DRY77",
     "bought_together": null,
     "subtitle": null,
     "author": null

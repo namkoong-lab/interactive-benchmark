@@ -1,20 +1,48 @@
 {
-    "main_category": "All Beauty",
-    "title": "TCHB GENIX (1 Jet Black) - Vanessa Honey C Side Lace Front Part Human Hair Blend Wig",
-    "average_rating": 4.3,
+    "main_category": "Tools & Home Improvement",
+    "title": "Cut-'N-Fit Air Conditioner Filter 15 \" X 24 \" X 1/4 \" Polyurethane Foam Washable",
+    "average_rating": 5.0,
     "rating_number": 2,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "features": [
+        "Polyurethane foam designed for in pad-holding frames",
+        "Aluminum mesh, dry filtration media",
+        "All washable media",
+        "Protect your room unit air conditioning unitSpecifications",
+        "Filter Material: Polyester"
+    ],
+    "description": [
+        "We have always cared for our beauty and health care supplements These products provide you health wellness and natural beauty with every day They are unique for its flavors scents herbs their health appeal their multi use capability simple elegant look and their uniqueness Our products help you to picture the healthy ecosystems which provide you a healthy and happy life aheadFeatures. Polyurethane foam designed for in padholding frames. Aluminum mesh dry filtration media. All washable media. Protect your room unit air conditioning unitSpecifications. Filter Material Polyester. Width 15 in. Length 24 in. Height 14 in. Type Air Conditioner Filter. High Efficiency Yes. Filters Dust Yes. Filters Bacteria Yes. Trimmable Yes. Dimensions 1175 H x 1575 W x 255 L. Weight 4"
+    ],
+    "price": "17.33",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91Vp6AF3hRL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51ofX4jTTML._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51ofX4jTTML._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "VANESSA",
-    "categories": [],
-    "details": "{\"Material\": \"Human Hair\", \"Hair Type\": \"Color\", \"Brand\": \"VANESSA\", \"UPC\": \"885160130954\"}",
-    "parent_asin": "B01959J7OQ",
+    "store": "Flanders",
+    "categories": [
+        "Home & Kitchen",
+        "Heating, Cooling & Air Quality",
+        "Parts & Accessories",
+        "Air Conditioner Parts & Accessories",
+        "Filters"
+    ],
+    "details": "{\"Manufacturer\": \"CUT 'N FIT\", \"Part Number\": \"KK500\", \"Item Weight\": \"0.353 ounces\", \"Product Dimensions\": \"25.5 x 15.75 x 11.75 inches\", \"Item model number\": \"KK500\", \"Is Discontinued By Manufacturer\": \"No\", \"Size\": \"1\", \"Material\": \"Polyester, Aluminum, Polyurethane\", \"Item Package Quantity\": \"24\", \"Minimum Efficiency Reporting Values (MERV)\": \"3\", \"Batteries Included?\": \"No\", \"Batteries Required?\": \"No\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3878890, \"Air Conditioner Replacement Filters\": 217}, \"Date First Available\": \"February 10, 2010\", \"Brand\": \"Flanders\", \"MERV Rating\": \"3\", \"Compatible Devices\": \"Air Conditioner\"}",
+    "parent_asin": "B0084896U0",
     "bought_together": null,
     "subtitle": null,
     "author": null

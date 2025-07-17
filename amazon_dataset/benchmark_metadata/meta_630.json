@@ -1,26 +1,52 @@
 {
-    "main_category": "All Beauty",
-    "title": "Soap Sheets Portable Dissolvable Set - 4 Scented Paper Hand Soap Papers Pocket Box and 50 Mini Disposable Compressed Towels Set for Travel Handwashing",
-    "average_rating": 4.2,
-    "rating_number": 213,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "It really expands!"
+    "main_category": "Automotive",
+    "title": "8 Inch Soft Sleeper 5.5 Full / Double RV/Truck Mattress Bed With 4 Inches of Visco Elastic Memory Foam Assembly Required USA Made",
+    "average_rating": 4.0,
+    "rating_number": 43,
+    "features": [
+        "Assembly required. Two separate layers of foam and removable expandable mattress pad cover.",
+        "4\" layer of Soft Sleeper Superior Support Foam for spinal alignment and transitional support.",
+        "4\" layer of Soft Sleeper 5.5 Visco Elastic Memory Foam, and a removable, washable, Expand-A-Cover",
+        "This luxurious visco memory foam material reacts to your body temperature reducing pressure points.",
+        "30 NIGHT SLEEP TRIAL! 3 Year Soft Sleeper Manufacturer Limited Warranty! Not For Home or Mobile Home Use"
+    ],
+    "description": [
+        "Soft Sleeper 5.5 has found a way to give you the same great sleep surface as a $5,000 visco-elastic foam mattress for a price starting at 94% less the cost of a traditional visco foam mattress that sell at some retailers for over $5,000! There is a revolution going on in bedrooms across the country. The revolution is not between the sheets...it's under them! Visco-Elastic memory foam uses a technology first developed by NASA to make the most comfort sleep surface ever. We have taken that technology and developed a luxurious Soft Sleeper 5.5 next generation material. You may have seen the visco-foam mattress story on TV but the secret is that you can save money by shopping online instead of paying over $5,000 for their mattress. The Soft Sleeper 5.5 eight inch mattress is a component mattress made from 4 inches of heat sensitive visco elastic memory foam and one 4 inch supportive base component for spinal alignment and support. One base is a firm supportive layer and the second layer is made of temperature sensitive visco elastic memory foam for comfort. This luxurious Soft Sleeper 5.5 material reacts to your body temperature, so the surface stays cool in the summer and warm in the winter. Over 9 out of 10 of our customers report that the contoured surface cradles their body and helps eliminate those pressure points created by traditional mattress surfaces. Another 89% of our customers even reported less back and neck pain. You will enjoy a rejuvenating sleep with our luxurious Soft Sleeper 5.5 integral component mattresses sleep system from Soft Sleeper memory foam. The Soft Sleeper Memory Foam integral component formula means that our component mattresses are scientifically engineered to exacting standards, incorporating the two most important factors when it comes to making sure you get the best sleep possible. Shipped in 2 separate packages, some assembly required. For laminated mattresses please visit our All Sleep Store for other Soft Sleeper products."
+    ],
+    "price": "529.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51mtGnfaTBL._AC_SL1024_.jpg",
+            "https://m.media-amazon.com/images/I/51XT1Rpf1YL._AC_SL1024_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/0f38e4d1ab4f489981c73f6d92f47fda?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/419fQ576B7L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/418JzuaC1wL._AC_.jpg"
         ],
-        "user_id": [
-            "/shop/influencer-d5b72af7"
+        "thumb": [
+            "https://m.media-amazon.com/images/I/419fQ576B7L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/418JzuaC1wL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
         ]
     },
-    "store": "beeOrders",
-    "categories": [],
-    "details": "{\"Item Form\": \"Sheet\", \"Skin Type\": \"Sensitive, Dry\", \"Brand\": \"beeOrders\", \"Scent\": \"Lavender, Jasmine, Rose, Lemon\", \"Age Range (Description)\": \"Adult\", \"Product Dimensions\": \"7.68 x 4.92 x 1.89 inches; 5.61 Ounces\", \"Item model number\": \"1\", \"UPC\": \"656750380024\"}",
-    "parent_asin": "B08FTLH7QK",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Soft Sleeper Visco Elastic Memory Foam",
+    "categories": [
+        "Home & Kitchen",
+        "Furniture",
+        "Bedroom Furniture",
+        "Mattresses & Box Springs",
+        "Mattresses"
+    ],
+    "details": "{\"Manufacturer\": \"Soft Sleeper Visco Elastic Memory Foam\", \"Brand\": \"Soft Sleeper Visco Elastic Memory Foam\", \"Item Weight\": \"220 pounds\", \"Product Dimensions\": \"73 x 52 x 8 inches\", \"Country of Origin\": \"USA\", \"Manufacturer Part Number\": \"EBAS085F\", \"Special Features\": \"Removable\", \"Construction\": \"Memory Foam\", \"Best Sellers Rank\": {\"Home & Kitchen\": 4285758, \"Mattresses\": 3657}, \"Date First Available\": \"May 23, 2006\", \"Item Firmness Description Firm\": \"\", \"\": \"Age Range (Description) Adult\", \"Size\": \"Full Size\", \"Special Feature\": \"Removable\", \"Fill Material\": \"Memory Foam\", \"Construction Type\": \"Memory Foam\"}",
+    "parent_asin": "B07CS4L2WF",
     "bought_together": null,
     "subtitle": null,
     "author": null

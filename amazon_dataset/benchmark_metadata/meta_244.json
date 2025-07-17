@@ -1,26 +1,62 @@
 {
-    "main_category": "All Beauty",
-    "title": "Human Hair Ponytail Extensions 80g #1 Jet Black 100% Remy Human Hair Wrap Around Long Ponytail Clip in Hair Extensions Straight One Piece Hairpiece (22, Copper Red)",
-    "average_rating": 5.0,
-    "rating_number": 3,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "The BEST BOB in BUISNESS! ❤️"
+    "main_category": "Amazon Home",
+    "title": "Poppy by Georgia O'Keefe, 35x47-Inch Canvas Wall Art",
+    "average_rating": 4.2,
+    "rating_number": 75,
+    "features": [
+        "Artist: Georgia O'Keefe",
+        "Subject: Floral",
+        "Style: traditional",
+        "Product Type: Gallery-Wrapped canvas art",
+        "Made in USA"
+    ],
+    "description": [
+        "This ready to hang, gallery-wrapped multi panel canvas art set features decorative tiles with Mayan designs. Most days, one would find Marion Rose putting on her favorite music or playing an old video before settling in to paint for the day in her spacious studio, especially once the winter chill set in. Her work is influenced by past masters such as Joaquin Sorolla, Tom Thomson, Carl Rungius, Bob Kuhn, and many others that work today in a variety of subjects and media. She also studied printmaking, life painting and drawing in college in her 30's. Her subjects come from her life of traveling enthusiastically as often as she could, both close to home or across the ocean. Sketching and studying animals were a favorite pastime, setting an excellent foundation for creating authentic work. Texture and richly colored paint applied generously by knife or brush strokes capture the essence of a subject's spirit and demeanor."
+    ],
+    "price": "99.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61+rE0FFsFL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/710Tm0xdDUL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71btKdWyE8L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71llnpyQs5L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81+F4eo2XrL._AC_SL1500_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/08391bf8c1034491a9d6bc375a110980?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/51A65dlZq2L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51kq8AbaNkL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Gh+ozn2jL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51VKiDnILpL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/615LrHG+ceL._AC_.jpg"
         ],
-        "user_id": [
-            "AELRAN4LK7Q3JY6RHVAFJJOJZDVQ"
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51A65dlZq2L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51kq8AbaNkL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41Gh+ozn2jL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51VKiDnILpL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/615LrHG+ceL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT02",
+            "PT10",
+            "PT11",
+            "PT12"
         ]
     },
-    "store": "FAAAL",
-    "categories": [],
-    "details": "{\"Brand\": \"FAAAL\", \"Material\": \"Human Hair\", \"Extension Length\": \"12 Inches\", \"Hair Type\": \"Straight\", \"Material Feature\": \"Natural\", \"Is Discontinued By Manufacturer\": \"No\"}",
-    "parent_asin": "B085Y57C8G",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Trademark Fine Art",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Posters & Prints"
+    ],
+    "details": "{\"Size\": \"35 in x 47 in\", \"Product Dimensions\": \"47\\\"L x 35\\\"W\", \"Number of Items\": \"1\", \"Orientation\": \"Landscape\", \"Shape\": \"Rectangular\", \"Theme\": \"Floral,Music,Poppy\", \"Frame Type\": \"Wrapped Canvas\", \"Wall Art Form\": \"Painting\", \"Material\": \"canvas\", \"Color\": \"Rose\", \"Style\": \"Keefe 'Poppy- Canvas Art 35x47\", \"Cartoon Character\": \"Georgia\", \"Brand\": \"Trademark Fine Art\", \"Frame Material\": \"Wood\", \"Mounting Type\": \"Wall Mount\", \"Is framed?\": \"No\", \"Item Weight\": \"7.78 pounds\", \"Manufacturer\": \"Trademark Global\", \"Country of Origin\": \"USA\", \"Item model number\": \"ALI10055-C3547GG\", \"Best Sellers Rank\": {\"Patio, Lawn & Garden\": 371667, \"Outdoor Plaques & Wall Art\": 1250, \"Garden Sculptures & Statues\": 11918, \"Posters & Prints\": 58805}, \"Assembly required\": \"No\", \"Batteries required\": \"No\", \"Included Components\": \"Trademark Fine Art A Quiet Evening by Robert Wavra, 14x19-Inch\", \"Import\": \"Made in US\"}",
+    "parent_asin": "B074CSFLFS",
     "bought_together": null,
     "subtitle": null,
     "author": null

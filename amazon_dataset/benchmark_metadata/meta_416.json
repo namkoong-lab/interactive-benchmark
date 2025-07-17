@@ -1,20 +1,68 @@
 {
-    "main_category": "All Beauty",
-    "title": "Easyouth Ombre Wire Hair Extensions Color Ash Brown Fading to Platinum Blonde One Piece Fish Wire Human Hair Extensions Invisible Crown Remy Hair Extensions 18Inch 80g",
-    "average_rating": 3.0,
-    "rating_number": 7,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Frogs Garden Statues Home Decor Statuary",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "Our Statuary is Made with 100% Concrete",
+        "All Weather Proof",
+        "Spruce up your Home, Garden or Patio with this Ornamental Frogs Stack Concrete Statue",
+        "Lasts a Lifetime",
+        "This Amphibian Statue Measures 10 inches H x 7 inches W"
+    ],
+    "description": [
+        "This Frog Stack statue and each one of our concrete Garden Statues are handmade in the USA, using our secret poured concrete formula so each statue resists all weather climates. Our craftsman use acid stain formulas to bring our Cement statuary to life with unique colors like this Stacked Toads Garden Figure. Free Shipping."
+    ],
+    "price": "69.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81dG2idEIyL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71EVHyHPc5L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81JNomBN2fL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81TDTK43SlL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71h4owL45bL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81JljL+B-fL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41ijm8xtnNL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41uel2a0urL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41DJYhpN8zL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41e7V9qH5dL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41tUk8i6l7L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41hy3jeEh0L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41ijm8xtnNL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41uel2a0urL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41DJYhpN8zL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41e7V9qH5dL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41tUk8i6l7L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41hy3jeEh0L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Easyouth",
-    "categories": [],
-    "details": "{\"Brand\": \"Easyouth\", \"Material\": \"Human Hair\", \"Extension Length\": \"18 Inches\", \"Hair Type\": \"Straight\", \"Material Feature\": \"Natural\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"18 x 11 x 18 inches; 14.78 Ounces\"}",
-    "parent_asin": "B07Q4VWYK8",
+    "store": "Fleur de Lis Garden Ornaments LLC",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Sculptures",
+        "Statues"
+    ],
+    "details": "{\"Package Dimensions\": \"12.3 x 8.9 x 8.4 inches\", \"Item Weight\": \"8.13 pounds\", \"Manufacturer\": \"FLEUR DE LIS GARDEN ORNAMENTS LLC\", \"Country of Origin\": \"USA\", \"Best Sellers Rank\": {\"Home & Kitchen\": 5646749, \"Statues\": 31543}, \"Is Discontinued By Manufacturer\": \"No\"}",
+    "parent_asin": "B01LWLTYGT",
     "bought_together": null,
     "subtitle": null,
     "author": null

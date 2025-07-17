@@ -1,20 +1,98 @@
 {
-    "main_category": "All Beauty",
-    "title": "Brazilian Body Wave Hair Weave Human Hair Bundles 10A Grade Virgin Hair For African Americans Women 3 Bundles Body Wavy Hair Extension 18 20 22 Inch",
-    "average_rating": 2.9,
-    "rating_number": 10,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Texlab Blackout Curtains for Bedroom - Grommet Thermal Insulated Summer Heat/Winter Cold, Light Blocking Window Curtain Panels for Living Room, Set of 2 Pieces (Mustard Yellow, 42 x 54 inch)",
+    "average_rating": 4.6,
+    "rating_number": 554,
+    "features": [
+        "Fabric & Package Content: Our blackout curtains are made from super soft, durable triple weaved 100-percent polyester fabric. Your package will include 2 curtain panels, each measuring 42-inch-wide by 54-inch length (Total width 84 inch)",
+        "EASY TO INSTALL GROMMET CURTAINS: Light blocking curtains features 8 grommet construction measuring 1.6-inch inner diameter. Making it easy to install the drapes and move them along",
+        "BLACKOUT YOUR ROOM AND BLOCK OUT LIGHT: Our thermal blackout curtains are tripled weave and can block out 95% sun light, protect from harmful UV rays. These bedroom curtains are completely opaque providing total privacy and reduce noise",
+        "ENERGY SAVING THERMAL CURTAINS: These energy efficient curtains will keep out summer heat and winter cold helping in reducing energy consumption and leaving the room at an ideal temperature acting as an energy efficient barrier",
+        "EASY FABRIC CARE: Machine washable curtains in cold water, do not bleach, low temperature ironing. Great room darkening curtains for bedroom, living room, nursery room, office, kids room"
+    ],
+    "description": [
+        "Featuring an elegant soft to the touch fabric, our thermal blackout grommet curtains provide the ultimate in light blocking technology to keep out even the harshest of light while adding opulent radiance to any room of your home. Texlab thermal blackout curtain is tested to block out most of light, reduce outside noise, and decrease energy lost through your windows. Comfort is optimized with thermal properties that help keep summer heat and winter chill out of your home. Hang in your entertainment room to eliminate screen glare and reduce distracting outside noise, or in your bedroom for enhanced privacy and a sounder, more uninterrupted sleep.",
+        "Super Soft to the Touch and Durable",
+        "Texlab blackout curtains are made of the highest quality of polyester fabric for curtains weighing 270 GSM, triple weaved for durability and performance. Our bedroom and living room curtains are soft and silky to the touch.",
+        "Easy to Install Grommet Construction",
+        "Our Light blocking curtains features 6 prevent rust metal grommet construction measuring 1.6-inch inner diameter. Making it easy to install the drapes and move them along",
+        "Thermal and Energy Efficient/Saving Curtains",
+        "We use a triple weaving technique in 3 layers of fabric are weaved together to ensure these curtains keep out summer heat and winter cold. Reducing energy consumption and leaving the room at an ideal temperature acting as an energy efficient barrier",
+        "Total Privacy & Noise Reducing",
+        "This bedroom and living curtains are completely opaque providing total privacy and reduce noise",
+        "Easy to Care",
+        "Machine wash cold on gentle cycle. Use non-chlorine bleach when needed. Tumble dry on low heat, using a cool iron as needed.",
+        "NOTE:",
+        "Darker colors offer a better blackout effect"
+    ],
+    "price": "27.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81EaVyyJfLL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/810j3PZAWNL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61jtvwC0AaL._AC_SL1080_.jpg",
+            "https://m.media-amazon.com/images/I/71mAp7UtQZL._AC_SL1080_.jpg",
+            "https://m.media-amazon.com/images/I/71uiJBsB2oL._AC_SL1080_.jpg",
+            "https://m.media-amazon.com/images/I/71ScPIMlgrL._AC_SL1080_.jpg",
+            "https://m.media-amazon.com/images/I/71lT4LoiiTL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/810fhBHI+VL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71eEjiZD69L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41CaZXdSDVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/4179u-hpBwL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41juCMchcKL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/4165XzBqhkL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41s+xczrKcL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51YcBUH7B8L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41zDMl2J8wL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/418IQV2fT3L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/418+t-v76aL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41CaZXdSDVL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/4179u-hpBwL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41juCMchcKL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/4165XzBqhkL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41s+xczrKcL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51YcBUH7B8L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41zDMl2J8wL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/418IQV2fT3L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/418+t-v76aL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08"
+        ]
     },
-    "store": "feibin",
-    "categories": [],
-    "details": "{\"Brand\": \"feibin\", \"Material\": \"Human Hair\", \"Extension Length\": \"22 Inches\", \"Hair Type\": \"Wavy\", \"Material Feature\": \"Natural\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"11 x 10 x 1.3 inches; 10.58 Ounces\", \"Item model number\": \"FB-OB3001\", \"UPC\": \"739450637329\"}",
-    "parent_asin": "B01BBRNLEC",
+    "videos": {
+        "title": [
+            "How to Install"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/e287af1b690d4c2fac466e8b493822b1?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Texlab",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Window Treatments",
+        "Curtains & Drapes",
+        "Panels"
+    ],
+    "details": "{\"Brand\": \"Texlab\", \"Color\": \"Mustard Yellow\", \"Material\": \"Polyester\", \"Product Dimensions\": \"54\\\"L x 42\\\"W\", \"Special Feature\": \"Durable\", \"Room Type\": \"NO, Nursery\", \"Style\": \"Modern\", \"Pattern\": \"Solid\", \"Theme\": \"Solid\", \"Curtain Form\": \"Drapes\", \"Top Style\": \"Grommet\", \"Size\": \"42 x 54 inch\", \"Included Components\": \"Grommet\", \"Age Range (Description)\": \"Adult\", \"Product Care Instructions\": \"Machine Wash\", \"Package Weight\": \"0.86 Kilograms\", \"Item Weight\": \"1.88 pounds\", \"Manufacturer\": \"Texlab\", \"Item model number\": \"GMustard Yellow-4254\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1169114, \"Window Curtain Panels\": 7524}, \"Date First Available\": \"December 8, 2019\"}",
+    "parent_asin": "B0948GR2RZ",
     "bought_together": null,
     "subtitle": null,
     "author": null

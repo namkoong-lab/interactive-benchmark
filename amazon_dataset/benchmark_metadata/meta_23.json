@@ -1,20 +1,64 @@
 {
-    "main_category": "All Beauty",
-    "title": "VeSunny 20\" Clip in Hair Extensions Balayage Color #2 Dark Brown Fading to #6 Brown Highlights #18A Ash Blonde Balayage Clip in Double Weft Hair Extensions Real Human Hair 7Pcs 120G",
-    "average_rating": 3.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "HiEnd Accents Bordered 350 Thread Count 4-PC Cotton Bed Sheet Set, Queen, White w/Silver Scroll",
+    "average_rating": 3.2,
+    "rating_number": 2,
+    "features": [
+        "100% Cotton",
+        "This set of silky sheets features a beautiful, intricate scroll embroidery",
+        "Luxurious 350TC sheets have a satin-like softness",
+        "4-PC Queen Set Includes:  (1) Flat Sheet,  (1) Fitted Sheet,  (2) Pillowcases",
+        "Queen:  Flat Sheet: 90\"x102\", Fitted Sheet: 60\"x80\" +18\", Pillowcase: 20\"x30\" +5\"",
+        "Machine wash cold, gentle cycle only, do not bleach. Tumble dry on low heat, iron on low heat. Do not dry clean"
+    ],
+    "description": [
+        "This set of crisp white sheets features a beautiful, intricate scroll embroidery for added elegance and sophistication for your bedding. The 350TC adds to a satin like softness for comfort and style. Elevate your sheets experience with this gorgeous four piece queen set that will lend luxury and refinement to your bedding ensemble. 100% Cotton. Machine Wash Cold, Gentle Cycle Only, Do Not Bleach, Tumble Dry on Low Heat, Iron on Low Heat, Do Not Dry Clean. Imported."
+    ],
+    "price": "180.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61PQe-2MHWL._AC_SL1500_.jpg",
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31yu270FlTL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31IxXx2vcVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31I40S9kgBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/411j+jCD3mL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/314QV44NeAL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31yu270FlTL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31IxXx2vcVL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31I40S9kgBL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/411j+jCD3mL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/314QV44NeAL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Ve Sunny",
-    "categories": [],
-    "details": "{\"Brand\": \"Ve Sunny\", \"Material\": \"Human Hair\", \"Hair Type\": \"Straight\", \"Installation Type\": \"Clip\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"20 x 1 x 1 inches; 4.16 Ounces\", \"UPC\": \"799577980005\"}",
-    "parent_asin": "B07MDP86Q4",
+    "store": "H HIEND ACCENTS",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Sheets & Pillowcases",
+        "Sheet & Pillowcase Sets"
+    ],
+    "details": "{\"Size\": \"Queen\", \"Material\": \"Cotton\", \"Color\": \"White W/ Silver Scroll\", \"Pattern\": \"Bordered\", \"Brand\": \"H HIEND ACCENTS\", \"Number of Pieces\": \"4\", \"Style\": \"Modern\", \"Included Components\": \"(1) Flat Sheet,\\u00a0(1) Fitted Sheet,\\u00a0(2) Pillowcases\", \"Closure Type\": \"Button\", \"Thread Count\": \"350\", \"Product Care Instructions\": \"Machine wash cold, gentle cycle only, do not bleach. Tumble dry on low heat, iron on low heat. Do not dry clean\", \"Item Dimensions LxWxH\": \"90 x 102 x 0.2 inches\", \"Unit Count\": \"4.0 Count\", \"Product Dimensions\": \"90 x 102 x 0.2 inches\", \"Item Weight\": \"5.5 pounds\", \"Manufacturer\": \"HiEnd Accents\", \"Item model number\": \"SS3504-QN-WH\", \"Best Sellers Rank\": {\"Home & Kitchen\": 4311806, \"Sheet & Pillowcase Sets\": 14971}, \"Fabric Type\": \"100% Cotton\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B0852FNNHH",
     "bought_together": null,
     "subtitle": null,
     "author": null

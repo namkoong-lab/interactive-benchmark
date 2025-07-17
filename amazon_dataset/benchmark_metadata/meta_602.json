@@ -1,20 +1,69 @@
 {
-    "main_category": "All Beauty",
-    "title": "Disney Hair Glitter Barrettes Assorted Pack",
-    "average_rating": 3.4,
-    "rating_number": 2,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "CafePress Starfleet Academy Instructor's Mug Ceramic Coffee Mug, Tea Cup 11 oz",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Dimensions: Our standard size 11 oz mug measures 3.75\" tall x 3\" in diameter",
+        "Color Coordinate: Mix and match your mugs with your decor by choosing from the following interior and handle colors: Black, Pink, Navy, Blue, Red and White",
+        "Superior Quality: Constructed by our manufacturing partners from high performing ceramic, UV protected and FDA compliant, rest assured that your mug is dishwasher (top shelf) and microwave safe.",
+        "Professionally Printed: Our mugs are printed in the USA with vivid, vibrant, crisp, long lasting images. Your one-of-a-kind, durable design is guaranteed to last for years to come.",
+        "A Special Gift for any occasion. Perfect to give your friends and family for birthday, as a Christmas gift, or just because."
+    ],
+    "description": [
+        "Perfect for your mid-morning pick me up a the office or for your decaf before the gym. This 11 ounce cup is an easy go-to mug for everyday use. Each of our beautiful mugs are printed by professionals in the USA with Lead-Free design for your safety. Whether you're drinking coffee, tea, or hot chocolate, this mug is perfect for you and your family. Our premium quality mugs are constructed of heat resistant ceramic and are dishwasher safe (top rack) and microwave safe. Choose your favorite coffee mug for women and men. Choose a quote mug for your best friend, a religious mug for your family, or a funny mug for your coworker. Whatever your hobby or passion, we are bound to have a mug for that."
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31soza2-5CL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21kqzvtb0CL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21307FKM8+L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31+D-j3GvXL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31-WV8wDPbL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41+wI70zTOL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31soza2-5CL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/21kqzvtb0CL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/21307FKM8+L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31+D-j3GvXL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31-WV8wDPbL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41+wI70zTOL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\"}",
-    "parent_asin": "B01H45Q4MG",
+    "store": "CafePress",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Novelty",
+        "Drinkware",
+        "Coffee Mugs"
+    ],
+    "details": "{\"Brand\": \"CafePress\", \"Material\": \"Ceramic\", \"Color\": \"White\", \"Capacity\": \"11 Ounces\", \"Special Feature\": \"Durable\", \"Style\": \"Modern\", \"Theme\": \"Religious\", \"Occasion\": \"Mother's Day, Christmas, Father's Day, Birthday, Valentine's Day\", \"Included Components\": \"Handle\", \"Specific Uses For Product\": \"Coffee\", \"Shape\": \"Round\", \"Product Care Instructions\": \"Machine Wash, Hand Wash Only\", \"Unit Count\": \"1 Count\", \"Number of Items\": \"1\", \"Product Dimensions\": \"3 x 3 x 3.8 inches\", \"Department\": \"Home\", \"Manufacturer\": \"CafePress\", \"Country of Origin\": \"USA\", \"Date First Available\": \"June 18, 2019\"}",
+    "parent_asin": "B07T6JMPD6",
     "bought_together": null,
     "subtitle": null,
     "author": null

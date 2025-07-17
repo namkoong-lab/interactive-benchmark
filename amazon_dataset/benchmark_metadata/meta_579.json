@@ -1,20 +1,65 @@
 {
-    "main_category": "All Beauty",
-    "title": "6 Colors Highly Pigmented Glow Kit Makeup Powder Palette Face Illuminating Highlighter & Bronzer",
-    "average_rating": 4.1,
-    "rating_number": 17,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Cackleberry Home Red and White Ticking Stripe Cafe Curtains 28 Inches W x 36 Inches L Woven Cotton, Set of 2",
+    "average_rating": 4.7,
+    "rating_number": 121,
+    "features": [
+        "Set of two classic woven red and white ticking stripe cafe curtains",
+        "Each panel measures 28 inches wide by 36 inches long; 1.5 inch rod pocket - use 3/4 inch or smaller rod",
+        "Matching valance and other home textiles available separately",
+        "100% cotton; machine wash cold, tumble dry low; made in India",
+        "Complements traditional, contemporary and holiday home décor"
+    ],
+    "description": [
+        "Classic woven red and white ticking stripe cafe curtains. Set of 2 panels - each measures 28 inches wide by 36 inches long. 1.5 inch rod pocket - use 3/4 inch or smaller rod. 100% cotton. Machine wash cold, tumble dry low. Made in India. Matching valance and kitchen textiles available separately. These beautiful cafe curtains complement both traditional and contemporary home decor."
+    ],
+    "price": "21.97",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91bc+OXzJoL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81cvOwj6iIL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91YuVJS-KiL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51r7pxR8ZZL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51KGe917M2L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/619weCwnrfL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51r7pxR8ZZL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51KGe917M2L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/619weCwnrfL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"6 x 4 x 0.8 inches; 3.84 Ounces\", \"UPC\": \"680727236380\"}",
-    "parent_asin": "B07GR87K96",
+    "videos": {
+        "title": [
+            "In our small kitchen ",
+            "Small Kitchen Updates"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/064b01baf9344995b76706577c75c474?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0da66546bed14ba7ba78d7fd0b6d3364?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "/shop/prettyinthepines",
+            "/shop/prettyinthepines"
+        ]
+    },
+    "store": "Cackleberry Home",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Window Treatments",
+        "Curtains & Drapes",
+        "Tiers"
+    ],
+    "details": "{\"Brand\": \"Cackleberry Home\", \"Color\": \"Red\", \"Material\": \"Cotton\", \"Product Dimensions\": \"36\\\"L x 28\\\"W\", \"Opacity\": \"Light-filtering\", \"Special Feature\": \"Rod Pocket\", \"Room Type\": \"Kitchen\", \"Style\": \"Farmhouse\", \"Pattern\": \"Striped\", \"Theme\": \"Stripe\", \"Curtain Form\": \"Valance\", \"Top Style\": \"Rod\", \"Size\": \"28 W x 36 L\", \"Included Components\": \"2 Panels\", \"Age Range (Description)\": \"Adult\", \"Specific Uses For Product\": \"Decorative\", \"Item Weight\": \"12 ounces\", \"Product Care Instructions\": \"Machine Wash\", \"Package Weight\": \"0.36 Kilograms\", \"Manufacturer\": \"Cackleberry Home\", \"Best Sellers Rank\": {\"Home & Kitchen\": 933216, \"Window Treatment Tiers\": 656}, \"Date First Available\": \"September 14, 2019\"}",
+    "parent_asin": "B07XWZ78PX",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,20 +1,55 @@
 {
-    "main_category": "All Beauty",
-    "title": "Sinful Colors Denim & Bling Kylie Jenner Nail Polish #2102 - After Dark (Grey Metallic) - 0.5 Fl Oz",
-    "average_rating": 4.3,
-    "rating_number": 12,
-    "features": [],
-    "description": [],
-    "price": "7.25",
+    "main_category": "Amazon Home",
+    "title": "Lantern Press Sasquatch Crossing Sign (12x18 Aluminum Art, Indoor Outdoor Metal Sign Decor)",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Sasquatch Crossing Sign (12x18 Aluminum Art, Indoor Outdoor Metal Sign Decor), 1/16 inch thickness heavy gauge aluminum.",
+        "Ready to hang with holes in each corner.",
+        "Hand buffed and coated, for indoor or outdoor use.",
+        "Printed in the USA using fade resistant, eco-friendly inks. Great for Gifting!"
+    ],
+    "description": [
+        "This original high-quality metal art sign from Lantern Press boasts sharp detail and vivid imagery of Sasquatch Crossing Sign (12x18 Aluminum Art, Indoor Outdoor Metal Sign Decor). -Heavy gauge aluminum sign, 1/16 inch thick, size of 12x18 inches.  -Holes in each corner, ready to hang. -Hand buffed and coated, for indoor or outdoor use. -Lantern Press metal decor is designed and printed in the USA using eco-friendly inks. Lantern Press is a dynamic art company that specializes in the world's leading imagery. Our collection includes original works created by our in-house art team, photography, home & office decor trends, vintage art, and more. Your support allows us to continue doing what we love - creating beautiful art."
+    ],
+    "price": "34.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81ABXx4tyYL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71xAZvnR8wL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71trBYMKq6L._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51+wzGcT9HL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41-dsVEp0rL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51+zr8Y+7fL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51+wzGcT9HL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41-dsVEp0rL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51+zr8Y+7fL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Item Form\": \"Liquid\", \"Finish Type\": \"Metallic\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"1.00 Count\", \"Liquid Volume\": \"0.5 Fluid Ounces\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"4.7 x 1.9 x 1.8 inches; 2.4 Ounces\", \"UPC\": \"099500103168\"}",
-    "parent_asin": "B01LY9NKOX",
+    "store": "Lantern Press",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Decorative Accessories",
+        "Decorative Signs & Plaques"
+    ],
+    "details": "{\"Product Dimensions\": \"0.07 x 18 x 12 inches\", \"Item Weight\": \"1.12 pounds\", \"Department\": \"unisex-adult\", \"Manufacturer\": \"Lantern Press\", \"Country of Origin\": \"USA\", \"Item model number\": \"LANT-81735-12x18M\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3271060, \"Posters & Prints\": 208657}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"March 27, 2023\", \"Color\": \"Multicolor\", \"Brand\": \"Lantern Press\", \"Material\": \"Aluminum\", \"Theme\": \"Vintage\", \"Mounting Type\": \"Wall Mount\"}",
+    "parent_asin": "B07RM8998X",
     "bought_together": null,
     "subtitle": null,
     "author": null

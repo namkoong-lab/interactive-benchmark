@@ -1,20 +1,45 @@
 {
-    "main_category": "All Beauty",
-    "title": "L'oreal Infallible Pro-last Nail Color, 905 Double Entendre (Pack of 2)",
-    "average_rating": 4.9,
-    "rating_number": 4,
-    "features": [],
-    "description": [],
-    "price": "10.99",
+    "main_category": "Amazon Home",
+    "title": "Betty Boop Lenticular Photo Album 4x6, Changing Image, Pink",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "Slim design fits your pocket",
+        "18 double-side clear pockets hold 36 photos",
+        "Durable plastic spiral binding matches back cover PVC 15 mil"
+    ],
+    "description": [
+        "Why settle for a generic photo album? The Betty Boop brings your holiday photos to life and with enough room to hold 36 of your favorite photos at home or on the road."
+    ],
+    "price": "5.76",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/716k1ivzxiL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41uZRNX9dWL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41uZRNX9dWL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "L'Oreal Paris",
-    "categories": [],
-    "details": "{\"Brand\": \"L'Oreal Paris\", \"Item Form\": \"Liquid\", \"Unit Count\": \"2.00 Count\", \"Item model number\": \"905 Double Entendre\", \"UPC\": \"071249307588\"}",
-    "parent_asin": "B0113BF8NI",
+    "store": "Betty Boop",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Photo Albums, Frames & Accessories",
+        "Photo Albums"
+    ],
+    "details": "{\"Brand\": \"Betty Boop\", \"Color\": \"Pink\", \"Material\": \"Plastic\", \"Theme\": \"Holiday\", \"Style\": \"Classic\", \"Shape\": \"Rectangular\", \"Item Dimensions LxWxH\": \"5 x 6.1 x 0.7 inches\", \"Product Dimensions\": \"5 x 6.1 x 0.7 inches\", \"Item Weight\": \"3.4 ounces\", \"Manufacturer\": \"Lantor, Ltd.\", \"Item model number\": \"BB-204-PA4X6\", \"Best Sellers Rank\": {\"Home & Kitchen\": 7408645, \"Photo Albums\": 8102}}",
+    "parent_asin": "B0009JM3GG",
     "bought_together": null,
     "subtitle": null,
     "author": null

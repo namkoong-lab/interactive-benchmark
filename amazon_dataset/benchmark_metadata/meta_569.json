@@ -1,20 +1,47 @@
 {
-    "main_category": "All Beauty",
-    "title": "SIQUK 10 Pieces Knot Headband Velvet Twist Knot Turban Headbands for Women and Girls, 10 Colors",
-    "average_rating": 3.7,
-    "rating_number": 36,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Staub Ceramic Garlic Keeper - Basil",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [
+        "Glass porcelain finish",
+        "Dishwasher safe",
+        "Highly impact and thermal shock resistant"
+    ],
+    "description": [
+        "The elegance and functionality of Staub ceramics goes from freezer to oven to table. The glass porcelain finish matches Staub's cast iron to mix perfectly on your table top. Oven and broiler safe up to 572F, ceramics can also be used in the microwave and are dishwasher safe. Highly scratch, impact, and thermal shock resistant."
+    ],
+    "price": "32.49",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61KynFZpKOL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41MYPuYlMsL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41MYPuYlMsL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "SIQUK",
-    "categories": [],
-    "details": "{\"Material\": \"Plastic\", \"Fabric Type\": \"velvet\", \"Brand\": \"SIQUK\", \"Item Form\": \"Ribbon\", \"Unit Count\": \"10.00 Count\", \"Package Dimensions\": \"11 x 6.8 x 2.1 inches; 9.88 Ounces\", \"UPC\": \"682604627526\"}",
-    "parent_asin": "B07RSJXHVW",
+    "store": "STAUB",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Storage & Organization",
+        "Food Storage",
+        "Food Containers",
+        "Containers"
+    ],
+    "details": "{\"Material\": \"Ceramic\", \"Brand\": \"STAUB\", \"Color\": \"Basil\", \"Finish Type\": \"Porcelain Finish,Porcelain\", \"Product Care Instructions\": \"Dishwasher Safe\", \"With Lid\": \"No\", \"Is Oven Safe\": \"Yes\", \"Is Dishwasher Safe\": \"Yes\", \"Product Dimensions\": \"5.2 x 6 x 5.7 inches\", \"Item Weight\": \"1.2 pounds\", \"Manufacturer\": \"Staub\", \"Item model number\": \"40511-582\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 1319707, \"Individual Household Food Containers\": 3218}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"May 22, 2015\"}",
+    "parent_asin": "B00Y35QHP0",
     "bought_together": null,
     "subtitle": null,
     "author": null

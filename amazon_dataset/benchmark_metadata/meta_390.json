@@ -1,26 +1,46 @@
 {
-    "main_category": "All Beauty",
-    "title": "100 Rapira Swedish Super Steel Razor Blades",
-    "average_rating": 4.5,
-    "rating_number": 59,
-    "features": [],
-    "description": [],
-    "price": "14.5",
-    "videos": {
-        "title": [
-            "Astra premium straight razor blades "
+    "main_category": "Amazon Home",
+    "title": "Rite Farm Products 4 Egg Capacity Rhea - EMU - SWAN Tray for Your Nurture Right 360 Incubator, White",
+    "average_rating": 2.5,
+    "rating_number": 3,
+    "features": [
+        "Holds 4 Emu Size Eggs",
+        "Hand Washable",
+        "Durable & Flexible",
+        "Fits Nurture Right 360 Incubators",
+        "Best Design"
+    ],
+    "description": [
+        "Rite Farm Products 4 egg capacity Emu, Rhea, and Swan egg tray. Our advanced design is made to maximize the number of eggs that will fit inside the Nurture Right 360. Will fit most Emu, Rhea and Swan eggs. Made to order in house in Saltillo Texas USA. Please note that this is for the egg tray only and an incubator is not included in this listing. Picture showing the tray inside the incubator is for display purposes only. Tray measures approximately 12 3/8 inches wide."
+    ],
+    "price": "32.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71tcua9BDHL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81Z0Nm+9TwL._AC_SL1500_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/0ac575642c28471492d0f2181dcb3d0d?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/415+XJ5IgEL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51sZvmqK+7L._AC_.jpg"
         ],
-        "user_id": [
-            "/shop/bigalsbarberchannel"
+        "thumb": [
+            "https://m.media-amazon.com/images/I/415+XJ5IgEL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51sZvmqK+7L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
         ]
     },
-    "store": "Rapira",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rite Farm Products",
     "categories": [],
-    "details": "{\"Brand\": \"Rapira\", \"Number of Blades\": \"100\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"100.00 Count\", \"Number of Items\": \"1\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"9.09 x 6.18 x 0.67 inches; 4.69 Ounces\"}",
-    "parent_asin": "B01M6WXMFM",
+    "details": "{\"Package Dimensions\": \"12 x 12 x 2 inches\", \"Item Weight\": \"8 ounces\", \"Manufacturer\": \"4 Front Inc.\", \"Country of Origin\": \"USA\", \"Item model number\": \"ET360\", \"Is Discontinued By Manufacturer\": \"No\"}",
+    "parent_asin": "B09X7FLMB1",
     "bought_together": null,
     "subtitle": null,
     "author": null

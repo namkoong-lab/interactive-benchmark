@@ -1,20 +1,45 @@
 {
-    "main_category": "All Beauty",
-    "title": "Lumineux Ageless Moisturizer",
-    "average_rating": 4.5,
-    "rating_number": 4,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Elegant Decor Colorado Log Cabin Cotton Patchwork Quilt Collection (Queen Quilt 90\" W x 90\" L)",
+    "average_rating": 4.2,
+    "rating_number": 7,
+    "features": [
+        "All Items sold Individually",
+        "Standard shams are sold separately",
+        "100% Cotton and machine washable"
+    ],
+    "description": [
+        "Give your room a rustic makeover with the Colorado Cabin Patchwork Quilt. This handcrafted cotton quilt features an intriguing pattern with printed florals, leaves, mini stars, and hearts along with solid color bands. Colors include shades of white, dark blue, light cream, dark beige, sage, russet, burgundy, khaki, and chocolate. Quilt has a vermicelli-quilted background. Back has a mini floral print on eggshell. Quilt fill is cotton. Machine washable. Imported."
+    ],
+    "price": "139.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81Up0VVr6CL._AC_SL1306_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/512vx84znXL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/512vx84znXL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Lumineux ARBrend",
-    "categories": [],
-    "details": "{\"Brand\": \"Lumineux ARBrend\", \"Item Form\": \"Cream\", \"Unit Count\": \"1.0 Ounce\", \"Number of Items\": \"1\", \"Age Range (Description)\": \"Adult\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"4 x 4 x 4 inches; 1 Ounces\", \"UPC\": \"795902400422\", \"Manufacturer\": \"ARBrend\"}",
-    "parent_asin": "B079SJ7ZNW",
+    "store": "Elegant Decor",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Quilts & Sets",
+        "Quilts"
+    ],
+    "details": "{\"Material\": \"Cotton\", \"Color\": \"Beige\", \"Brand\": \"Elegant Decor\", \"Style\": \"Rustic\", \"Blanket Form\": \"Quilt\", \"Age Range (Description)\": \"Adult\", \"Product Dimensions\": \"90\\\"L x 90\\\"W\", \"Theme\": \"Floral,Leaves\", \"Pattern\": \"Leaves, Stars, Floral, Solid\", \"Fill Material\": \"Cotton\", \"Product Care Instructions\": \"Machine Wash\", \"Size\": \"Queen Quilt 90\\\"W x 90\\\"L\", \"Fabric Type\": \"Cotton\", \"Sport\": \"Quilt\", \"Item Weight\": \"6.53 pounds\", \"Manufacturer\": \"Elegant Decor\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1252346, \"Quilts\": 379}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"September 11, 2018\"}",
+    "parent_asin": "B07H8QKQJS",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,26 +1,62 @@
 {
-    "main_category": "All Beauty",
-    "title": "[The Hair Mother Cellar] M-hair Loss Shampoo For Moisturizing, Dandruff-free, Nourishing hair For Men (10.14fl.oz./300ml)",
-    "average_rating": 4.5,
-    "rating_number": 7,
+    "main_category": "Office Products",
+    "title": "Michel Design Works Cocktail Napkins, Christmas Bouquet",
+    "average_rating": 5.0,
+    "rating_number": 19,
     "features": [
-        "Authorized sanitary aid drugs for preventing hair loss and promoting healthy hair.",
-        "Complex of 10 tea ingredients allows soothe sensitive skin and shiny silky hair.",
-        "All in one care for nourishing, emollient scalp and hair while treating strength of hair bulb.",
-        "Recomment to thin hair, lossing tightening, lossing hair, dehydrated hair for healthy silky hair.",
-        "For the best results, use \"HMC scalp and hair tonic\" together."
+        "Soft, triple-ply paper cocktail napkins coordinate with our luncheon or hostess napkins and our wooden trays. 20 napkins per pack",
+        "Folded size: 5 x 5-inches",
+        "Design: A stunning design to welcome the holidays! Celebrate the season with this spectacular Michel Design Works arrangement of winter florals and greenery",
+        "Group together with coordinating plates and trays",
+        "Look to Michel Design Works for luxurious, all-natural bath and body products and beautiful home and stationery items"
     ],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "description": [
+        "Soft, triple-ply paper cocktail napkins coordinate with our luncheon or hostess napkins and our wooden trays. 20 napkins per pack. Michel Design Works was created by Bruce & Deborah Michel in the early 1980s. The first product was an elaborate \"memory book\" called our country Diary. Still a favorite today, it is filled with vintage artwork, quirky quotes, notable dates and plenty of room to record all the events of the year. Our country Diary will become a beautiful record of your family life. When they first created their signature elephant logo, it signified a remembrance of all things special. Although Michel Design Works has greatly expanded into Bath & Body, home fragrance and decor, when Bruce & Deborah remember and celebrate all of their wonderful customers and the company's history, it is even more fitting today! Whether you are a new or a long-time friend, we welcome you to enjoy the art, lather up with our English soaps, set an elegant table with napkins, candles, plates, and serveware, and end your day with wonderfully fragrant bubble bath."
+    ],
+    "price": "5.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81mlT3E3hoL._AC_SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51EZABKjbiL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31DJBO8e-CL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51EZABKjbiL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31DJBO8e-CL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
     },
-    "store": "reskin",
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"2.4 x 2.4 x 6.89 inches; 13.62 Ounces\"}",
-    "parent_asin": "B01BGSYRD0",
+    "videos": {
+        "title": [
+            "Blossom Girl Floral Tea Party, Bridal Showers, Baby Showers",
+            "Michel Design Works Foaming Hand Soap"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/6a35385248954673aa62efa36ee628c6?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/037f0ec2a18b4a7c9d24ab886e4dabb1?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            ""
+        ]
+    },
+    "store": "Michel Design Works",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Bar Tools & Drinkware",
+        "Bar Tools",
+        "Cocktail Napkins"
+    ],
+    "details": "{\"Manufacturer\": \"Michel Design Works\", \"Brand\": \"Michel Design Works\", \"Item Weight\": \"2.08 ounces\", \"Package Dimensions\": \"5.08 x 5 x 1.14 inches\", \"Item model number\": \"NAP361\", \"Material Type\": \"Paper\", \"Size\": \"5 x 5 inches\", \"Manufacturer Part Number\": \"NAP361\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 162783, \"Cocktail Napkins\": 603}, \"Date First Available\": \"June 13, 2022\", \"Material\": \"Paper\", \"Ply Rating\": \"3-Ply\", \"Unit Count\": \"20.0 Count\"}",
+    "parent_asin": "B0B3YB155C",
     "bought_together": null,
     "subtitle": null,
     "author": null

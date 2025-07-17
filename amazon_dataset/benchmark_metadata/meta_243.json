@@ -1,20 +1,60 @@
 {
-    "main_category": "All Beauty",
-    "title": "Sofeiyan Clip in Bangs Hair Extensions Fringe Bangs off Black Clip on Bangs Synthetic Hair Natural Flat Bangs Hairpiece with Temple One Piece for Women Girls",
-    "average_rating": 2.7,
-    "rating_number": 8,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": null,
+    "title": "Sunsmiles Oil Painting Framed - 12x16 Inch Wall Canvas Prints Home Living Bedroom Art Decor, Hand Hang Abstract Modern Artwork Paintings, Woman with a Parasol, Turned to the Right by Monet, Claude",
+    "average_rating": 4.3,
+    "rating_number": 7,
+    "features": [
+        "Easy hang: There is a frame on the back of the canvas so that the framed paintings would arrive ready to hang on your wall with hanging hardware included.",
+        "High quality: It would be fine in the bathroom or living room, simple and elegant. The canvas is really good and sturdy. You would not be disappointed.",
+        "Widely use: Bedroom, office space and living room, I think these spaces can be matched, It will add a lot of color to your home space. Also applied for many places: coffee shop, bar, tea house, restaurant, etc.",
+        "Great gift: Heavy duty art painting is a big bonus for yourself. They are also a nice gift for Valentine's Day, Mother's Day, Father's Day, Graduation Day, Thanksgiving Day, and Christmas Day.",
+        "Satisfaction guaranteed: 30-Day money back and 2-year warranty applies to the canvas prints. If you ever have an issue or any questions, simply contact us and we promise to give you a satisfactory reply."
+    ],
+    "description": [
+        "Cute design: It's not wood, it's a canvas print on a wood frame. I do like that it is easy for you to hang it and it shows nice when hung. Many applicable: Bedroom, living room, kitchen, hotel, office, bathroom, coffee shop, restaurant, children's room, shop, bar, or any other indoor environment. Perfect gift: Our canvas is ideal and unique gifts on Father's or Mother's Day, birthday gifts, Christmas, Valentine's Day to express gratitude."
+    ],
+    "price": "11.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61W485esqwS._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/718dQTcCi3S._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51GPkdz-K6S._AC_SL1334_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/419WLAlwVKS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31f3jxtwluS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31TPiM9NpiS._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/419WLAlwVKS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31f3jxtwluS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31TPiM9NpiS._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
     },
-    "store": "SOFEIYAN",
-    "categories": [],
-    "details": "{\"Brand\": \"SOFEIYAN\", \"Material\": \"Synthetic\", \"Hair Type\": \"Straight\", \"Material Feature\": \"Natural\", \"Installation Type\": \"Clip-In\", \"Package Dimensions\": \"4.72 x 4.09 x 1.73 inches; 1.45 Ounces\", \"UPC\": \"779584398673\"}",
-    "parent_asin": "B08ND729SK",
+    "videos": {
+        "title": [
+            "Woman with Parasol Madame Monet and Her Son of Claude Monet"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/09c4ff2926ae461b98e317c3f3b6da5e?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Sunsmiles",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Posters & Prints"
+    ],
+    "details": "{\"Size\": \"12 x 16 Inch\", \"Product Dimensions\": \"16\\\"L x 12\\\"W\", \"Number of Items\": \"1\", \"Orientation\": \"Landscape\", \"Shape\": \"Rectangular\", \"Theme\": \"Abstract,Modern\", \"Frame Type\": \"Framed\", \"Wall Art Form\": \"Wall Hanging Decor\", \"Material\": \"Wood\", \"Color\": \"monet10\", \"Style\": \"\\u590d\\u53e4\", \"Brand\": \"Sunsmiles\", \"Frame Material\": \"Wood\", \"Mounting Type\": \"Wall Mount\", \"Is framed?\": \"No\", \"Item Weight\": \"8.6 ounces\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2303875, \"Posters & Prints\": 123019}, \"Date First Available\": \"May 18, 2021\"}",
+    "parent_asin": "B0BFWC6RC7",
     "bought_together": null,
     "subtitle": null,
     "author": null

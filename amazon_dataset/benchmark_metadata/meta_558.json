@@ -1,20 +1,65 @@
 {
-    "main_category": "All Beauty",
-    "title": "nugg Award-Winning Face Mask 6-Pack - Cleanse, Hydrate and Revitalize; 6 x 0.33 fl.oz.",
-    "average_rating": 3.9,
-    "rating_number": 9,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Italian Renaissance Artist Leonardo Da Vinci Figurine 9 1/8 Inch Bronze Resin Stone Bust Statue",
+    "average_rating": 4.9,
+    "rating_number": 29,
+    "features": [
+        "9.25 in tall, 5.5 in long, 3.5 in deep",
+        "Cold Cast Resin",
+        "Makes A Great Gift"
+    ],
+    "description": [
+        "Leonardo da Vinci was an Italian Renaissance polymath: painter, sculptor, architect, musician, scientist, mathematician, engineer, inventor, anatomist, geologist, cartographer, botanist, and writer whose genius, perhaps more than that of any other figure, epitomized the Renaissance humanist ideal. Leonardo has often been described as the archetype of the Renaissance Man, a man of `unquenchable curiosity` and `feverishly inventive imagination`. This cold-cast resin bust of da Vinci features a wonderful metallic bronze finish that gives it the look of metal and has hand-painted accents to show the incredible detail. The bust measures 9 1/4 inches tall, 5 1/2 inches wide, and 3 1/2 inches deep. It makes a great gift for any classical art lover."
+    ],
+    "price": "68.85",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71WX-9iCrAL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71TXLFxlWiL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71T69eDIFKL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71LxaH49slL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71T69eDIFKL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71LxaH49slL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41+9DkykLDL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41kWR2w3lwL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41KXBblKNeL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Ws9gRu5OL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41KXBblKNeL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Ws9gRu5OL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41+9DkykLDL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41kWR2w3lwL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41KXBblKNeL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41Ws9gRu5OL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41KXBblKNeL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41Ws9gRu5OL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "NUGG",
-    "categories": [],
-    "details": "{\"Brand\": \"NUGG\", \"Scent\": \"Hydrating\", \"Unit Count\": \"2.0 Fl Oz\", \"Number of Items\": \"6\", \"Package Dimensions\": \"5 x 2.1 x 2.1 inches; 4 Ounces\"}",
-    "parent_asin": "B00VINQMIC",
+    "store": "Veronese Design",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Collectible Figurines"
+    ],
+    "details": "{\"Color\": \"Bronze\", \"Brand\": \"Veronese Design\", \"Theme\": \"Home Decor\", \"Material\": \"Bronze\", \"Style\": \"Antique\", \"Occasion\": \"Father'S Day\", \"Product Dimensions\": \"3.5\\\"D x 5.5\\\"W x 9.25\\\"H\", \"Recommended Uses For Product\": \"Home\", \"Mounting Type\": \"Tabletop\", \"Finish Type\": \"Bronze\", \"Special Feature\": \"Decoration\", \"Seasons\": \"All Seasons\", \"Collection Name\": \"All\", \"Item Weight\": \"2.69 pounds\", \"Manufacturer\": \"Unicorn Studios\", \"Item model number\": \"WU75536V4\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1143214, \"Collectible Figurines\": 9001}, \"Is Discontinued By Manufacturer\": \"No\", \"Finish types\": \"Bronze\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B007N8341E",
     "bought_together": null,
     "subtitle": null,
     "author": null

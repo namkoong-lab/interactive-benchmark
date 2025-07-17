@@ -1,29 +1,60 @@
 {
-    "main_category": "All Beauty",
-    "title": "YUZHU Human Hair Bundles Loose Wave 18\" 20\" 22\" 100% Unprocessed 8A Peruvian Loose Wave Hair Bundles Remy Virgin Hair Extensions Natural Color 300g",
-    "average_rating": 3.7,
-    "rating_number": 7,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "Loose Wave Human Hair 10-26",
-            "Good hair"
+    "main_category": "Tools & Home Improvement",
+    "title": "HTGT Silicone Coffee Cup Carrier, Portable Drink Carrier, Takeout Cup Holder for Hot and Cold Beverages, Reusable Coffee Carrier with Handle Tie for Traveling and Take Out",
+    "average_rating": 4.0,
+    "rating_number": 3,
+    "features": [
+        "Carry Drinks Easily: The reusable cup holder is designed to provide you with a simple and convenient way to carry drinks with you anywhere you go. It’s suitable for use on most cups that have a 2.7 - 4 inch diameter making it the perfect choice for day to day use",
+        "Safe And Flexible Silicone: Our takeout cup carrier is made using only food grade silicone that’s durable, flexible, and comfortable to hold without relying on any plastics to make sure you can carry your drinks with you while helping support a clean environment",
+        "Keep Hands Empty: Whether you’re traveling or commuting to work, our silicone solo cup holder will help you carry your beverages while keeping your hands free. It’s designed with a straw holder as well and is suitable for cups with a circular rim around the top",
+        "Suitable For Most Cups: This silicone portable drink carrier provides a suitable fit for most tumblers, disposable coffee cups, plastic cups, steel cups, and more so you can carry them throughout the day with ease. The cup holder hand strap is 5.9 inches long for easy carrying",
+        "Make It A Gift: The travel cup holder and carrier is lightweight and can easily be carried in your purse, backpack, pockets, etc. It also makes a thoughtful gift for friends and family on Birthdays, Christmas, Holidays, Anniversaries, New Year’s, and any other occasion"
+    ],
+    "description": [
+        "Carry Your Coffee Cups With You Throughout The Day With Our Silicone Coffee Cup Carrier!  We designed this silicone cup carrier to let you carry your drinks while freeing up your hands making it the perfect companion for commuting, traveling, shopping, walking pets, or simply keeping them on your bike’s handlebar when cycling. Versatile & Made With Day To Day Use In Mind Our disposable cup carrier is reusable and provides just the right fit for most 2.7 - 4 inch diameter cups to maintain a secure and firm hold when carrying. It doesn’t rely on any plastics and can easily be carried in your pockets or bags to accompany you everywhere. Flexible, Lightweight & Durable Silicone Build  When it comes to quality, we make no exceptions. We only use durable silicone that’s both durable and lightweight as well as being gentle on the skin so you can carry the coffee cup carrier comfortably to keep it within arm’s reach when on the go. There’s More To Love: - Made using only safe and soft silicone for long-term use - Helps you carry cups as well as being safe for the environment - Designed with an integrated straw holder for convenient use - The 5.9-inch hand strap makes it a breeze to carry - Provides a secure and comfortable grip in your hands - Perfect for coffee cups, paper cups, bubble teacups, and more Free Your Hands & Carry Your Drinks The Simple Way With Our Reusable Silicone Cup Carrier!"
+    ],
+    "price": "12.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61E6QBfseeL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61PaoKNHiNL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71dU-lx7kdL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71mwJltG8qL._AC_SL1500_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/9764f9c97f9140fb829e448344091d27?ref=dp_vse_rvc_0",
-            "https://www.amazon.com/vdp/4efed884fc734fc7b36a528e1620f0e2?ref=dp_vse_rvc_1"
+        "large": [
+            "https://m.media-amazon.com/images/I/41duyZkij+L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41BUhqy-ImL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41GkskmFMAL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41KUoIQvMSL._AC_.jpg"
         ],
-        "user_id": [
-            "",
-            "AESQXPTAPRIDS2GJOI3BVNG4AEOA"
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41duyZkij+L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41BUhqy-ImL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41GkskmFMAL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41KUoIQvMSL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
         ]
     },
-    "store": "YU ZHU",
-    "categories": [],
-    "details": "{\"Brand\": \"YU ZHU\", \"Material\": \"Human Hair\", \"Extension Length\": \"18 Inches\", \"Style\": \"3 Bundle\", \"Hair Type\": \"Wavy\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"12.05 x 6.26 x 2.09 inches; 14.25 Ounces\", \"UPC\": \"767520473560\"}",
-    "parent_asin": "B075FMD915",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "HTGT",
+    "categories": [
+        "Home & Kitchen",
+        "Bath",
+        "Bathroom Accessories",
+        "Holders & Dispensers",
+        "Cup Holders"
+    ],
+    "details": "{\"Manufacturer\": \"HTGT\", \"Brand\": \"HTGT\", \"Item Weight\": \"1.13 ounces\", \"Package Dimensions\": \"5.83 x 4.13 x 0.39 inches\", \"Item model number\": \"4\", \"Manufacturer Part Number\": \"4\", \"Special Features\": \"Portable, Flexible, Reusable\", \"Best Sellers Rank\": {\"Home & Kitchen\": 252458, \"Bathroom Cup Holders\": 219}, \"Date First Available\": \"July 29, 2022\", \"Color\": \"Snail\", \"Material\": \"Silicone\"}",
+    "parent_asin": "B0B82HD6LX",
     "bought_together": null,
     "subtitle": null,
     "author": null

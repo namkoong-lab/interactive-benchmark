@@ -1,20 +1,57 @@
 {
-    "main_category": "All Beauty",
-    "title": "20 Sheets Temporary Tattoos Stickers Waterproof Fake Tattoo Stickers Black Mountain Tattoos Water Transfer Fake Tattoos for Women Men Kids Body Arm Art Makeup, Mixed Styles",
-    "average_rating": 4.6,
-    "rating_number": 8,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "YTC Weegyptians Bastet Egyptian Character Decorative Figurine Statue",
+    "average_rating": 4.0,
+    "rating_number": 18,
+    "features": [
+        "Perfect gift for those that love Egyptian",
+        "Great craftmanship.",
+        "Measurement: H: 3 x W: 2"
+    ],
+    "description": [
+        "This gorgeous Weegyptians Bastet Egyptian Character Decorative Figurine Statue has the finest details and highest quality you will find anywhere! Weegyptians Bastet Egyptian Character Decorative Figurine Statue is truly remarkable.Weegyptians Bastet Egyptian Character Decorative Figurine Statue Details: ; Condition: Brand New ; Item SKU: SS-Y-8611 ; Dimensions: H: 3 x W: 2 (Inches)"
+    ],
+    "price": "13.71",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/414LT78bq3L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/414LT78bq3L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "Zonon",
-    "categories": [],
-    "details": "{\"Brand\": \"Zonon\", \"Water Resistance Level\": \"Waterproof\", \"Pattern\": \"Floral\", \"Number of Pieces\": \"20\", \"Age Range (Description)\": \"Adult\", \"Package Dimensions\": \"5.8 x 4.05 x 0.35 inches; 1.13 Ounces\"}",
-    "parent_asin": "B08K8T4M29",
+    "videos": {
+        "title": [
+            "Egyptian Goddess Bastet Cat in Sensual Human Form Figurine",
+            "Miniature Egyptian Gods And Goddesses Figurine Set of 16",
+            "Egyptian Feline Goddess Bastet Cat With Slain Snake Statue"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/08ba69b4fec84e95afe8c9939d392332?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0f9814ce80ab4a28bb13a6a335be8e47?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/00d3d806299748c7bed5f83038a0ca85?ref=dp_vse_rvc_2"
+        ],
+        "user_id": [
+            "",
+            "",
+            ""
+        ]
+    },
+    "store": "YTC",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Collectible Figurines"
+    ],
+    "details": "{\"Product Dimensions\": \"2 x 2 x 3 inches\", \"Item Weight\": \"3.99 ounces\", \"Manufacturer\": \"YTC Summit\", \"Item model number\": \"YTC8611\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1110428, \"Collectible Figurines\": 8610}, \"Is Discontinued By Manufacturer\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B00V3RB3JG",
     "bought_together": null,
     "subtitle": null,
     "author": null

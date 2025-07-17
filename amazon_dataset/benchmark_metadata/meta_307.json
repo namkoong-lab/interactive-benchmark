@@ -1,20 +1,49 @@
 {
-    "main_category": "All Beauty",
-    "title": "Puddinghair Straight Brazilian hair 3 Bundles with Closure Natural Black Color 100% Unprocessed Human Hair Bundles (12\"14\"16\"+Closure12\",Free Part)",
-    "average_rating": 2.5,
-    "rating_number": 4,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "11 ounce Father Dad USS Long Beach CGN 9 Large Mug - Standard 12.95 \"",
+    "average_rating": 5.0,
+    "rating_number": 8,
+    "features": [
+        "11 ounce ceramic coffee mug",
+        "Made-to-order printing using high quality inks",
+        "Microwave safe",
+        "Makes a great gift for fathers, mothers, sons, sisters, brothers, daughters, parents, friends, family, holidays, birthdays, and more",
+        "Inspired artwork. For any inquiry regarding this disign please message us"
+    ],
+    "description": [
+        "11 ounce ceramic printed coffee mugs made-to-order. For art info or special request please message us"
+    ],
+    "price": "13.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61ZxVSjboSL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51KQBCj-cbL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51KQBCj-cbL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Puddinghair",
-    "categories": [],
-    "details": "{\"Brand\": \"Puddinghair\", \"Color\": \"black\", \"Material\": \"Human Hair\", \"Extension Length\": \"12 Inches\", \"Hair Type\": \"Straight\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.91 x 7.2 x 3.11 inches; 11.2 Ounces\", \"Item model number\": \"PDST-12-14-16+12\"}",
-    "parent_asin": "B07BFB8R8M",
+    "store": "Coffee Mug",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Novelty",
+        "Drinkware",
+        "Coffee Mugs"
+    ],
+    "details": "{\"Brand\": \"Coffee Mug\", \"Color\": \"White\", \"Special Feature\": \"Microwave Safe\", \"Style\": \"Modern\", \"Theme\": \"Holidays,Beach\", \"Included Components\": \"Handle\", \"Shape\": \"Round\", \"Product Care Instructions\": \"Machine Wash, Hand Wash Only\", \"Unit Count\": \"1 Count\", \"Number of Items\": \"1\", \"League\": \"Ncaa\", \"Product Dimensions\": \"4 x 3 x 4 inches\", \"Item Weight\": \"12 ounces\", \"Manufacturer\": \"coffee mug\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 879253, \"Sports Fan Cups & Glasses\": 39852, \"Novelty Coffee Mugs\": 63373, \"Glassware & Drinkware\": 165539}, \"Date First Available\": \"January 28, 2016\", \"Material Ceramic\": \"\", \"\": \"Item Weight 12 Ounces\", \"Occasion Birthday\": \"\"}",
+    "parent_asin": "B01B6M1NBK",
     "bought_together": null,
     "subtitle": null,
     "author": null

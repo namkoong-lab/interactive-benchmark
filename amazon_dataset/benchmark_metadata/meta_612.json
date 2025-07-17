@@ -1,20 +1,73 @@
 {
-    "main_category": "All Beauty",
-    "title": "Nu Faux Locs Crochet Hair Long Faux Locs Crochet 24 Inch 6 Packs Soft Locs Crochet Hair for black women 20 strands/pack (1B/Bug)",
-    "average_rating": 4.0,
-    "rating_number": 2,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "12 Pieces Bride Plastic Beaded Bridal Shot Glass Necklace Gold Foil for Bachelorette Party Bridal Party Necklaces (White and Rose Gold)",
+    "average_rating": 4.2,
+    "rating_number": 38,
+    "features": [
+        "Package includes: you will get 12 pieces plastic beaded bridal shot glass necklaces in a package ( 11 team shot glasses necklaces and 1 bride shot glass necklaces)",
+        "Size: necklace length: 30 inches; Cup diameter: 1.96 inch, cup bottom diameter: 1.37 inch, height: 2.2 inch; Standard size glasses can keep a drink just an arm's length away",
+        "Lightweight material: each shot glass is designed using polypropylene plastic, and is incredibly lightweight, meaning you can wear it round your neck the whole night, no bother at all",
+        "Application: wonderful party favors for bachelorette party supplies, bridal shower, hen party, bridal parties, girls night out, wedding celebration party",
+        "Party favors: the shot glasses are also great as photo decorations when taking a few selfies with the girls, fun photos for lasting memories with these must-have party supplies"
+    ],
+    "description": [
+        "Features:  Well made: Each shot glass is designed using polypropylene plastic, and is incredibly lightweight, meaning you can wear round your neck the whole night, no bother at all.  Wide applications: Great party favors for bachelorette party supplies, bridal shower, hen party, bridal parties, girls night out, wedding celebration party. The shot glasses are also great as photo decorations when taking a few selfies with the girls, fun photos for lasting memories with these must-have party supplies.  Standard size: Necklace length: 30 Inches. Cup diameter: 1.96 inch, cup bottom diameter: 1.37 inch, height: 2.2 inch  Specifications: Color: as picture shows Quantity: 12 pieces  Package quantity: 11 x Team shot glass necklaces 1 x Bride shot glass necklaces  Note: Words printed on our products are not as trademarks, only for decorating, and our trademark is Maitys."
+    ],
+    "price": "15.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71AC6HlYlmL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61WDCQYc5OL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71QD6CJZEtL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81te49qjPFL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81u2WEOryKL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71D2SGq48RL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51V0GwHyiNL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/417cRgb4ElL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41YaYdqwGeL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/5123Vc29niL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51uevR6DLuL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/512Np17qPrL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51V0GwHyiNL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/417cRgb4ElL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41YaYdqwGeL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/5123Vc29niL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51uevR6DLuL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/512Np17qPrL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
     },
-    "store": "Liang Dian",
-    "categories": [],
-    "details": "{\"Brand\": \"Liang Dian\", \"Extension Length\": \"24 Inches\", \"Hair Type\": \"Curly,wavy\", \"Package Dimensions\": \"11.69 x 9.8 x 3.46 inches; 1.54 Pounds\", \"UPC\": \"738631321064\"}",
-    "parent_asin": "B08F9XLRCK",
+    "videos": {
+        "title": [
+            "Bachelorette Party Favors, Decorations Set"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/066bade9a247494b9a36a84466e8ccc2?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Maitys",
+    "categories": [
+        "Home & Kitchen",
+        "Event & Party Supplies",
+        "Tableware",
+        "Cups"
+    ],
+    "details": "{\"Item Weight\": \"0.35 Kilograms\", \"Manufacturer\": \"Maitys\", \"Item model number\": \"MA-Maitys-3577\", \"Diameter\": \"1.37 Inches\", \"Care instructions\": \"Hand Wash Only\", \"Number of pieces\": \"12\", \"Batteries required\": \"No\", \"Units\": \"12 Count\"}",
+    "parent_asin": "B07VDHHV6X",
     "bought_together": null,
     "subtitle": null,
     "author": null

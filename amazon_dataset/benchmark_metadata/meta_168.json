@@ -1,20 +1,51 @@
 {
-    "main_category": "All Beauty",
-    "title": "Lioele Blooming Shimmer Pearl Base 35Ml",
+    "main_category": "Amazon Home",
+    "title": "Starotor Throw Pillow Covers 16\" x 16\" Latin Red Pattern Aqua Blue Orange Serape Mexican Nautical Coral Fiesta Ombre American Design Cushion Case Cotton Linen for Winter Home Decoration",
     "average_rating": 2.0,
     "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "features": [
+        "Size: 16 x 16 inches decor throw pillows cases cushion cover.",
+        "100% cotton linen material, skin-friendly to you and your family.",
+        "Hidden zipper closure, better looking and easier to fill your pillow insert.",
+        "Suitable for couch, sofa, bed, car, seat, living room, bed room, floor, bench, office, cafe ect.",
+        "Pillow covers only, pillow inserts are not included."
+    ],
+    "description": [
+        "Sometime Decor Throw Pillows Cases Cushion Cover Will Ship from CHINA Product Details Color: Multicolor Material: Linen and Linen Blend Size: 16 x 16 Inches Key Features: Printed One SideColorful"
+    ],
+    "price": "10.19",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71hzL5SZP2L._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/8182RxO3NdL._AC_SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51HRcTjpUDL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51--OcjW6UL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51HRcTjpUDL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51--OcjW6UL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"3.94 x 2.36 x 1.18 inches; 2.4 Ounces\", \"Item model number\": \"SG_B01HTO87X6_US\"}",
-    "parent_asin": "B01HTO87X6",
+    "store": "Starotor",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Decorative Pillows, Inserts & Covers",
+        "Throw Pillow Covers"
+    ],
+    "details": "{\"Pattern\": \"Striped\", \"Material\": \"Linen\", \"Color\": \"Pattern 8\", \"Product Dimensions\": \"16\\\"L x 16\\\"W\", \"Brand\": \"Starotor\", \"Shape\": \"Square\", \"Product Care Instructions\": \"Hand Wash\", \"Occasion\": \"Decoration\", \"Closure Type\": \"Zipper\", \"Manufacturer\": \"Starotor\", \"Best Sellers Rank\": {\"Home & Kitchen\": 8262524, \"Throw Pillow Covers\": 130930}}",
+    "parent_asin": "B07Z86SJTC",
     "bought_together": null,
     "subtitle": null,
     "author": null

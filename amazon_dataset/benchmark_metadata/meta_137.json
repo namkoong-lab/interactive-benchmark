@@ -1,20 +1,97 @@
 {
-    "main_category": "All Beauty",
-    "title": "Skully's Buck Shot Beard Balm 2 fl. oz (Orange, Tea Tree and Peppermint Scented) All Natural, Medium Hold Beard Balm for Men, Deep Conditioning, Tames Flyaways, Promotes Healthy Beard Growth",
-    "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "18.99",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "IRIS USA Small Spaces Wood, Bookshelf Storage Shelf, Bookcase, 3-Tier - Corner, Light Brown",
+    "average_rating": 4.2,
+    "rating_number": 26,
+    "features": [
+        "Space-saving design to fits into tight corners, saving space",
+        "Curved shelves provide a polished look",
+        "Easy to assemble. (Screwdriver required). Compliant with CARB Regulation 93120 – Phase 2",
+        "Mix and match colors and sizes to create personalized storage",
+        "Assembled Dimensions: 11.43 in L x 11.43 in W x 34.63 in H, Inner shelf dimensions: 10.75 in D x 10.75 in W x 10.83 in H"
+    ],
+    "description": [
+        "Stay ahead of the curve with the Iris 3-tier corner shelf. Three curved shelves are perfect for storage or display, making it a practical style statement in any room. Designed to fit in a corner so you can maximize your storage space. Assembly required. Weight tolerance 13 lbs per shelf, total 52 lbs. Inner shelf Dimensions: 10. 75\" d x 10. 75\" W x 10. 83\" h."
+    ],
+    "price": "39.59",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81W3bcdq0qL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91kqp3ec5SL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71xxWVjrYaL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91T+rpgBQ7L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91YFfBJSfzL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71RJG7DNX6L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/414QOLOrJIL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51oJ5QQPFIL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31QRPVK8u1L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51Wk8ZGbvzL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41yE38IjdLL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31uQm0i17bL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/414QOLOrJIL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51oJ5QQPFIL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31QRPVK8u1L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51Wk8ZGbvzL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41yE38IjdLL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31uQm0i17bL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT04",
+            "PT02",
+            "PT03",
+            "PT05"
+        ]
     },
-    "store": "Skully's Ctz Beard Oil",
-    "categories": [],
-    "details": "{\"Brand\": \"Skully's Ctz Beard Oil\", \"Item Form\": \"Liquid,Balm\", \"Material Feature\": \"Natural\", \"Hair Type\": \"Dry\", \"Age Range (Description)\": \"Adult\"}",
-    "parent_asin": "B06ZZMXS8W",
+    "videos": {
+        "title": [
+            "Space-Saving Techniques for Dorm Room Living",
+            "Furinno Luder Bookcase or Storage w/ 2,3, 4 & 5-Tier Options",
+            "Everything You Need To Know About This Bookcase",
+            "Furinno Luder Bookcase / Book / Storage , 11-Cube",
+            "Is This Bookshelf Worth the Cost?",
+            "Everything You Need To Know About Furinno Bookcase",
+            "My new book case",
+            "7-Cube And 11-Cube Comparison",
+            "Come With Me To Get My Life Together Part 5"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/065473be280c4ae0be0f0a6802939801?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/06c9197b4054464aae3ac2e65ffd0628?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/06b91ab83e264c2b9198dda523d1aed6?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/00bcee3b0871403f9dce7eca0f4fc9c0?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/05860531978d427781ff40931428491e?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/03d8fe78c2014f8abac76c290d767244?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/065bef87383241ddb5af70f835a3639f?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/08bec34cb3974966a96b71f9421faa18?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/09bbcaf1f487433e9d890334b2667a1d?ref=dp_vse_rvc_8"
+        ],
+        "user_id": [
+            "/shop/influencer-f419fd51",
+            "/shop/ontapsports",
+            "/shop/themathsorcerer",
+            "/shop/stephaniegeiger",
+            "/shop/hello.thalita",
+            "/shop/housetohomediy",
+            "/shop/shouldigetit",
+            "/shop/jonaspader",
+            "/shop/influencer-02ba0e8a"
+        ]
+    },
+    "store": "IRIS USA, Inc.",
+    "categories": [
+        "Home & Kitchen",
+        "Furniture",
+        "Home Office Furniture",
+        "Bookcases"
+    ],
+    "details": "{\"Material\": \"Wood\", \"Mounting Type\": \"Floor Mount\", \"Room Type\": \"Bedroom, Study Room\", \"Shelf Type\": \"Wood\", \"Number of Shelves\": \"3\", \"Special Feature\": \"Space Saving\", \"Product Dimensions\": \"11.43\\\"D x 11.43\\\"W x 34.63\\\"H\", \"Shape\": \"L-Shape\", \"Style\": \"No Door\", \"Age Range (Description)\": \"Adult\", \"Brand\": \"IRIS USA, Inc.\", \"Size\": \"Corner\", \"Assembly Required\": \"Yes\", \"Recommended Uses For Product\": \"Office, Dorm, Living Room, Bedroom\", \"Number of Items\": \"1\", \"Manufacturer\": \"IRIS USA, Inc.\", \"Included Components\": \"Shelf\", \"Model Name\": \"CX-3C\", \"Item Weight\": \"15 pounds\", \"Furniture Finish\": \"Wood\", \"Item model number\": \"596210\", \"Is Discontinued By Manufacturer\": \"No\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1757355, \"Bookcases\": 2939}, \"Date First Available\": \"March 31, 2017\"}",
+    "parent_asin": "B06XY3NSJD",
     "bought_together": null,
     "subtitle": null,
     "author": null

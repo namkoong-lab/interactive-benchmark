@@ -1,20 +1,60 @@
 {
-    "main_category": "All Beauty",
-    "title": "Travel Cylinder Makeup Bag Wash Toiletry Bag Case Pouch Bathroom Organizer with a Small Storage Bag",
-    "average_rating": 3.2,
-    "rating_number": 8,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Collections Etc Madeline Tufted Medallion Chenille Cotton Bedspread",
+    "average_rating": 4.3,
+    "rating_number": 22,
+    "features": [
+        "This soft and luxurious chenille bedspread features a lovely medallion design surrounded by tufted dots and scallops",
+        "It is finished with a fringed border",
+        "Matching shams sold separately",
+        "Machine wash| Cotton; imported| Choose: Blue or Grey"
+    ],
+    "description": [
+        "Madeline Tufted Medallion Chenille Cotton BedspreadDescriptionThis soft and luxurious chenille bedspread features a lovely medallion design surrounded by tufted dots and scallops. It is finished with a fringed border. Matching shams sold separately. Machine wash. Cotton; imported. Choose: Blue or Grey. Available in: Twin (108\" x 78\"), Full (108\" x 96\"), Queen (118\" x 102\") or King (118\" x 118\").Material TypeCotton"
+    ],
+    "price": "110.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/A1Kc7H5qEyL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1FiqExeJtL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61-OjK5XpmL._AC_SL1001_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61V7SwRHqLL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61QvRKdRWfL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51rTGOHCs3L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61V7SwRHqLL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61QvRKdRWfL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51rTGOHCs3L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT08"
+        ]
     },
-    "store": "BXT",
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"10.3 x 6.2 x 2.9 inches; 0.35 Ounces\"}",
-    "parent_asin": "B011954TM4",
+    "videos": {
+        "title": [
+            "Beatrice Home Fashions Medallion Chenille Bedding Collection"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0c0613ad3eb4460690ae74902230c1c1?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Collections Etc",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Bedspreads, Coverlets & Sets",
+        "Bedspreads & Coverlets"
+    ],
+    "details": "{\"Material\": \"Cotton\", \"Color\": \"Blue\", \"Brand\": \"Collections Etc\", \"Style\": \"Modern\", \"Age Range (Description)\": \"All Ages\", \"Product Dimensions\": \"108\\\"L x 78\\\"W\", \"Theme\": \"Grey\", \"Pattern\": \"Solid\", \"Product Care Instructions\": \"Machine Wash\", \"Size\": \"King\", \"Fabric Type\": \"Cotton\", \"Unit Count\": \"1.0 Count\", \"Item Weight\": \"5.65 pounds\", \"Included Components\": \"Bedspread\", \"Manufacturer\": \"Winston Brands\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1618697, \"Bedspreads & Coverlets\": 197}, \"Date First Available\": \"July 29, 2021\"}",
+    "parent_asin": "B09BFM4MHM",
     "bought_together": null,
     "subtitle": null,
     "author": null

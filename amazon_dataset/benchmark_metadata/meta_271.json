@@ -1,20 +1,92 @@
 {
-    "main_category": "All Beauty",
-    "title": "Genuine Czech, Etched, Crystal Glass, Classy Blue/purple,Manicure/pedicure Files-set of 3",
-    "average_rating": 3.6,
-    "rating_number": 37,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "The Unique Automatic Pan Stirrer - Longer Nylon Legs, Olive Green",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "Automatic Stirrer - green/grey",
+        "Self-rotating with three speed options",
+        "Ideal for stirring sauces, soups, porridge, gravy and other mixtures",
+        "Cordless and battery operated. 4 pieces AA batteries are required",
+        "Legs can be removed and placed in the dishwasher."
+    ],
+    "description": [
+        "This stirrer has moulded plastic legs for a smooth and glossy look. It has a one handed push button to turn it on/off with 3 speed options. Just place it in a pan or pot, turn it on, and it automatically rotates. Perfect for stirring sauces, soups, porridge, gravy and other mixtures. The stirrer is cordless and battery operated (4 pieces AA batteries are required). The legs can be removed, and are dishwasher safe.Stirring sauces and other mixtures properly. Now you will have a free hand to do other kitchen tasks!Size:14.5*12*4cm"
+    ],
+    "price": "37.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/41NHgfm+MuL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61WwZjhZvaL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51MAFT7y1SL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/41bvSaO44YL._AC_SL1320_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31Cr69F7h9L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51v2SbegxbL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41CtdOsIbUL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31GBeAtGevL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31Cr69F7h9L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51v2SbegxbL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41CtdOsIbUL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31GBeAtGevL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
     },
-    "store": "Mont Bleu",
-    "categories": [],
-    "details": "{\"Color\": \"Blue,purple\", \"Material\": \"Glass\", \"Brand\": \"Mont Bleu\", \"Unit Count\": \"1 count\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"9 x 3 x 0.75 inches; 1.66 Ounces\", \"Item model number\": \"Dark blue pp 3 pc file set\", \"Manufacturer\": \"Mont Bleu\"}",
-    "parent_asin": "B00F77LG8G",
+    "videos": {
+        "title": [
+            "\"Stirring The Pot\" Has Never Been Easier - Uutensil Stirr",
+            "Uutensil Stirr - Automatic Pan Stirrer ",
+            "Can This Automatic Stirrer Really Stir For Me? MY REVIEW!",
+            "Automatic Pan Stirrer with Timer #kitchen #home ",
+            "StirMATE® Smart Pot Stirrer",
+            "Uutensil StirrTime - The Unique Automatic Pan Stirrer",
+            "SAKI Automatic Stirrer for Cooking ",
+            "Uutensil Stirr - The Unique Automatic Pan Stirrer",
+            "Top 5 Kitchen Accessories You Didn't Know You Needed",
+            "Auto Stirrer for Cooking #founditonamazon"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0110efafe8f44b3296f5728136c23ca9?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0cef68465c934ecf97cf135f630840fa?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/079bf1cda48a46dc9c04637a492224f6?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/03daa104af9546f8ac91e21c157a0444?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/c7345b5eb13549c68cd6eba42003c4c1?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/0418823bfa3a4e3c83c203c94e38c527?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/b1de7091235a45feac145712f8aed1d4?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/068f8d6bdf42499aa2a283484b76e293?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/324a5cdd23854189b5598fca10b0da29?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/0b6d9b2fe0484101a20f69c772bc7ab0?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "/shop/influencer-38069d30",
+            "/shop/bettygotsnacks",
+            "/shop/influencer-33bec937",
+            "/shop/influencer-86200309",
+            "",
+            "",
+            "",
+            "",
+            "AFPDHBOXNHPJM23RJQBKGVRNLJ7Q",
+            "/shop/influencer-86200309"
+        ]
+    },
+    "store": "USB",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Coffee, Tea & Espresso",
+        "Drink Stirrers"
+    ],
+    "details": "{\"Product Dimensions\": \"5.71\\\"L x 4.72\\\"W\", \"Item Weight\": \"7 ounces\", \"Manufacturer\": \"USB\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1167198, \"Disposable Drink Stirrers\": 222}, \"Date First Available\": \"November 16, 2022\", \"Brand\": \"USB\", \"Material\": \"Nylon, Plastic\", \"Item Dimensions LxWxH\": \"5.71 x 4.72 x 0.01 inches\", \"Ultraviolet Light Protection\": \"False\"}",
+    "parent_asin": "B0BMGFDJG7",
     "bought_together": null,
     "subtitle": null,
     "author": null

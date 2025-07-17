@@ -1,32 +1,48 @@
 {
-    "main_category": "All Beauty",
-    "title": "Womens Paddle Hair Brush Comb Set for Women and Men 6 Pcs Wet Hair Brushes for long Hair No Tangle Hair Brush for Curly or Straight Hair (Gold)",
-    "average_rating": 4.1,
-    "rating_number": 28,
+    "main_category": "Amazon Home",
+    "title": "R&M Poodle 3\" Cookie Cutter in Durable, Economical, Tinplated Steel",
+    "average_rating": 4.6,
+    "rating_number": 14,
     "features": [
-        "❤ 【Removing Knots and Tangles】: Painless soft plastic bristles that massage the scalp and increase circulation, which may help increase hair growth. It also smooth the cuticle layer, making your hair shine! Best at removing knots and tangles for wet or dry hair.Work to separate the hair sideways instead of down, gently unraveling even the toughest tangles",
-        "❤ 【Protect Hair】: It takes out tangles without yanking or hurting and can easily be held in your palm.45% less breakage, 56% less effort, 100% happier hair. The ultra-soft bristles glide through tangles, knots, minimizes pain, split ends and breakage",
-        "❤ 【Gentle on Wet and Dry Hair】: Detangles hair in a quarter of the time compared to a regular hair brush. Makes mornings and bath time easier with no tears or screaming while brushing children's hair. Great for combing wet hair or dry hair",
-        "❤ 【Works on Various Hair Types】: Designed to be used on wet or dry hair, this brush easily removes every knot and tangle. Can be used on straight, curly, natural, thin, thick, kinky, frizzy, extensions and even wigs",
-        "❤ 【Perfect Gift Sets】: No matter what kind of hair style you are, there is always one for you. It is the perfect gift sets for yourself, or your girlfriends, wife, roommate, mother, sisters, etc."
+        "Durable, heavy duty tinplate steel",
+        "Cleanup with warm, soapy water, towel dry",
+        "Great for cutting cookie dough, craft clay, soft fruits",
+        "Not Dishwasher safe",
+        "Look for other CybrTrayd-R and M cookie cutters on Amazon"
     ],
     "description": [
-        "▶ Are you still worrying about the pain and detangles of combing your hair?",
-        "▶ Do you want a beautiful and comfortable that have no pain daily air brush?",
-        "Our air brush set not only have good looks but also best at removing knots and tangles for wet or dry hair.",
-        "Why You Choose Us?",
-        "✓ Perfect for daily combing hair that with no pain ✓ Best at removing knots and tangles for wet or dry hair ✓ Suitable for women, men and children ✓ Works on various hair types like straight, curly, natural, thin, thick hair and so on"
+        "CybrTrayd-R&M heavy-duty tinplate steel cookie cutters are strong and built to hold their shapes. However, they are not dishwasher-safe and should be hand washed in warm, soapy water and towel dried."
     ],
-    "price": "12.99",
+    "price": "1.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41cgYa5pj6L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41cgYa5pj6L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Cilusar",
-    "categories": [],
-    "details": "{\"Brand\": \"Cilusar\", \"Color\": \"Gold\", \"Shape\": \"Oblong\", \"Handle Material\": \"Plastic\", \"Product Benefits\": \"Smoothening,Detangle,Breakage\", \"Package Dimensions\": \"10.87 x 9.09 x 1.93 inches; 14.22 Ounces\", \"UPC\": \"780744187242\", \"Manufacturer\": \"Cilusar\"}",
-    "parent_asin": "B09WZPXQF8",
+    "store": "CybrTrayd",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Bakeware",
+        "Baking Tools & Accessories",
+        "Cookie Cutters"
+    ],
+    "details": "{\"Product Dimensions\": \"5 x 1 x 5 inches\", \"Item Weight\": \"0.353 ounces\", \"Manufacturer\": \"Cybrtrayd\", \"Item model number\": \"000RM-1201\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 1004602, \"Cookie Cutters\": 17105}, \"Date First Available\": \"November 30, 2011\", \"Brand\": \"CybrTrayd\", \"Material\": \"Steel\", \"Theme\": \"Shapes\", \"Age Range (Description)\": \"Adult\", \"Item Dimensions LxWxH\": \"5 x 1 x 5 inches\", \"Color\": \"Silver\"}",
+    "parent_asin": "B006GFQ32W",
     "bought_together": null,
     "subtitle": null,
     "author": null

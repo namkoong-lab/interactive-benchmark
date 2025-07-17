@@ -1,20 +1,72 @@
 {
-    "main_category": "All Beauty",
-    "title": "Tongcloud 12 pcs Multi-Purpose Cotton Canvas Zipper Bags Invoice Bill Bag Pen Pencil Cosmetic Makeup Bag Pouch Blank DIY Craft Bag (7.9x4 inches, Natural)",
-    "average_rating": 4.4,
-    "rating_number": 25,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Decko 48190 White 3 Arm Towel Rack",
+    "average_rating": 4.7,
+    "rating_number": 116,
+    "features": [
+        "Steel",
+        "finish_types: Chrome",
+        "Package Height is 5.0 inches",
+        "Package Length is 2.0 inches",
+        "Package Width is 14.0 inches"
+    ],
+    "description": [
+        "Ideal for towels, washcloths, belts, or ties. Arms are hinged to sturdy die-cast back plate. Easy-to-install. Includes mounting hardware. 10-1/2\" arm spread."
+    ],
+    "price": "7.85",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61Aj9dRHNBL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21Xc6L-Aw4L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/21Xc6L-Aw4L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "Tongcloud",
-    "categories": [],
-    "details": "{\"Package Dimensions\": \"9.3 x 7.7 x 1.7 inches; 8.8 Ounces\", \"UPC\": \"671072111019\"}",
-    "parent_asin": "B07X9L2XZT",
+    "videos": {
+        "title": [
+            "Stainless Steel Swivel Towel Rack Material Brushed Nickel",
+            "GERZWY Swivel Towel Bar SUS 304 Stainless Steel",
+            "Better Houseware: Stainless Steel Towel Bar",
+            "KES Kitchen Swivel Towel Bar ",
+            "Swivel Towel Bar Brushed Nickel,Two Arms Wall Mount ",
+            "SUS304 Stainless Steel 4-Arm Swivel Towel Bar Application",
+            "KES 2-Arm Swivel Towel Bar"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0d66cebb768f428297486034a678f612?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/045141c5492f4714b808a6ec3dc6afd5?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/050d96786be6455387ef3117fb6168cd?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0d6e9648f8bb4c3ebee03d7f03d8cfd7?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/02b58253acaf4f08988f130b6eac41e7?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/0292e983893948739f2c4bd3f4edfaf5?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/ec570319e9c04208b1d8d4283d7cf636?ref=dp_vse_rvc_6"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "store": "Decko",
+    "categories": [
+        "Home & Kitchen",
+        "Bath",
+        "Bathroom Accessories",
+        "Towel Holders",
+        "Towel Racks"
+    ],
+    "details": "{\"Color\": \"White\", \"Material\": \"Chrome\", \"Product Dimensions\": \"13\\\"L x 1\\\"W x 4\\\"H\", \"Finish Type\": \"Chrome\", \"Brand\": \"Decko\", \"Shape\": \"Straight\", \"Item Weight\": \"0.33 Pounds\", \"Manufacturer\": \"Decko\", \"Country of Origin\": \"USA\", \"Item model number\": \"48190\", \"Best Sellers Rank\": {\"Home & Kitchen\": 348604, \"Towel Racks\": 420}, \"Is Discontinued By Manufacturer\": \"No\", \"Fabric Type\": \"Steel\", \"Finish types\": \"Chrome\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B000KKX4BW",
     "bought_together": null,
     "subtitle": null,
     "author": null

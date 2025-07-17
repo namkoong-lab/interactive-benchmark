@@ -1,29 +1,50 @@
 {
-    "main_category": "All Beauty",
-    "title": "Empty Brown Glass Spray Bottles2-Pack, Refillable 16 oz Containers for Essential Oils, Cleaning Products, Aromatherapy, Misting Plants, or Cooking - Reliable Sprayer with Mist and Stream Settings",
-    "average_rating": 3.7,
-    "rating_number": 53,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "Good Quality for the Price",
-            "Nice large sized tinted sprayers"
+    "main_category": "Amazon Home",
+    "title": "Visit Huntington Beach - California - Newport-Balboa Line - Pacific Electric (Red Car) - Vintage Railroad Travel Poster by Kerne Erickson - Master Art Print 9in x 12in",
+    "average_rating": 5.0,
+    "rating_number": 15,
+    "features": [
+        "Beautiful Fine Art Print from Renowned Artist Kerne Erickson Greg Young Publishing - We use a Premium Eco-Friendly Paper - Forest Stewardship Council (FSC) certified by the Rainforest Alliance - Certified sourcing by Sustainable Forestry Initiative (SFI) - Made with Total Chlorine Free (TCF) and Elemental Chlorine Free (ECF) virgin fiber content - 10% post-consumer - Process Chlorine Free (PCF) and lignin-free fiber - Manufactured under alkaline (acid-free) conditions for increased longevity",
+        "Bright White Super Smooth Finish Coated Paper",
+        "Heavyweight Paper Stock - 9 mils thick (216 gsm)",
+        "Overall Print Size: 9in X 12in",
+        "Image also available as Fine Art Prints on Heavyweight Matte Paper | Premium Bamboo Fiber Paper | Satin Canvas | Premium Washi Rice Paper | and Natural Fabrics (Silk - Organic Canvas - and Hemp)"
+    ],
+    "description": [
+        "Enjoy a taste of Aloha with these beautiful Master Art Prints by Pacifica Island Art - printed in Maui, Hawaii. This print will look wonderful framed in the home, office or restaurant and is perfect for the Vintage Art Collector. - ABOUT THE ARTIST - Kerne Erickson - For over 30 years, award-winning artist Kerne Erickson’s retro-style travel posters have been taking viewers ‘on location’ to popular destinations around the globe. Inspired by vintage vacation photos, brochures and other graphics, his depictions are painstakingly researched and meticulously depicted for historical accuracy as well as irresistible nostalgia. At a time when sterile, computer-generated art has become popular, it’s refreshing to see an artist like Kerne who can work his way from a well composed pencil drawing, through transparent layers of under painting, building depth and tonality until finally adding the finishing touches that bring the work into focus. His work is a perfect blend of traditional technique and modern painting mediums. Erickson, a graduate of Los Angeles Art Center College, worked for years as a freelance graphic artist on client commissions which served to develop his distinctive style. He is now a freelance artist working at his home in Orange County, California where he lives with his family."
+    ],
+    "price": "12.98",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/61gg0j7Tt8L._AC_SL1000_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/fc77702fa4874a60b049ab9b2bbbdacd?ref=dp_vse_rvc_0",
-            "https://www.amazon.com/vdp/4e80c3d5442d483b9a4a81e5941a837e?ref=dp_vse_rvc_1"
+        "large": [
+            "https://m.media-amazon.com/images/I/51cYLrFq0RL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/418gl5UlEoL._AC_.jpg"
         ],
-        "user_id": [
-            "AF6QUIJPSDOOQCV6NMZNLJ2JEIMQ",
-            "AEYTUSUTYO3QUPOWNQQVCMKKDJ4Q"
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51cYLrFq0RL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/418gl5UlEoL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
         ]
     },
-    "store": "Cherry",
-    "categories": [],
-    "details": "{\"Brand\": \"Cherry\", \"Material\": \"Glass\", \"Capacity\": \"16 Ounces\", \"Number of Items\": \"2\", \"Product Care Instructions\": \"Hand Wash Only\", \"Package Dimensions\": \"9.09 x 6.46 x 3.35 inches; 4.94 Ounces\", \"UPC\": \"791523234187\"}",
-    "parent_asin": "B089CSF11Y",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Pacifica Island Art",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Posters & Prints"
+    ],
+    "details": "{\"Material\": \"Paper\", \"Color\": \"Multicolor\", \"Style\": \"Retro\", \"Theme\": \"Forest,Vintage,Beach,Car\", \"Room Type\": \"Office\", \"Product Dimensions\": \"12 x 9 x 0.01 inches\", \"Frame Type\": \"Unframed\", \"Number of Items\": \"1\", \"Brand\": \"Pacifica Island Art\", \"Shape\": \"Rectangular\", \"Item Weight\": \"0.6 ounces\", \"Orientation\": \"Landscape\", \"Frame Material\": \"Unframed\", \"Size\": \"9 x 12 in Poster Print\", \"Mounting Type\": \"Wall Mount\", \"Manufacturer\": \"Pacifica Island Art, Inc.\", \"Item model number\": \"B01IIYJ1RC_CA NARF\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2010489, \"Posters & Prints\": 102463}, \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B01M6A2JZX",
     "bought_together": null,
     "subtitle": null,
     "author": null

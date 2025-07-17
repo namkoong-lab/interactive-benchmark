@@ -1,20 +1,64 @@
 {
-    "main_category": "All Beauty",
-    "title": "Sew Me Gel Couture Nail Polish",
-    "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Red Vow Sports Decor Curtains, Old Brick Wall and Basketball Hoop Rim Indoor Training Exercising Stadium Picture Print, Curtain for Bedroom Living Room 2 Panel Set, 104\" W by 72\" L, Brown",
+    "average_rating": 3.9,
+    "rating_number": 7,
+    "features": [
+        "♥High Quality Curtain Fabric, Constructed with Solid Ring Top (1.6 inch Inner Diameter)",
+        "♥Measurements are the total of the 2 curtain panels together.",
+        "♥Gorgeous Patterned Custom Design",
+        "♥Come with 2 Look Semi Transparent Grommet Curtain Panels",
+        "♥Nice Decor, Make your space update, soft, fresh look"
+    ],
+    "description": [
+        "♥",
+        "Gorgeous Patterned Curtains",
+        "♥",
+        "Size Chat:",
+        "54\" W By 39\" L（180x100cm）80\" W By 63\" L（200x160cm）80\" W By 84\" L（200x215cm）104\" W By 52\" L（270x135cm）104\" W By 63\" L（270x160cm）104\" W By 72\" L（270x185cm）104\" W By 84\" L（270x215cm）104\" W By 90\" L（270x230cm）104\" W By 96\" L（270x245cm）♥Measurements are the total of the 2 curtain panels together.♥Come with 2 Curtain Panels.⦆Easy Care -Machine wash with cold delicate cycle, Hang dry only."
+    ],
+    "price": "61.72",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/811ihe9CrmL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51T4rvq5QML._AC_SL1300_.jpg",
+            "https://m.media-amazon.com/images/I/7110UkkQCwL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/516I0+OKThL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51TqAuhvreL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31IiCvJ1gtL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41ngp-UPo7L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/516I0+OKThL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51TqAuhvreL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31IiCvJ1gtL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41ngp-UPo7L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": null,
-    "categories": [],
-    "details": "{}",
-    "parent_asin": "B07GTQTKPY",
+    "store": "Red Vow",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Window Treatments",
+        "Curtains & Drapes",
+        "Panels"
+    ],
+    "details": "{\"Brand\": \"Red Vow\", \"Color\": \"Colo12\", \"Material\": \"Polyester, Polyester Blend\", \"Product Dimensions\": \"72\\\"L x 104\\\"W\", \"Special Feature\": \"Washable\", \"Room Type\": \"NO, Living Room, Bedroom\", \"Style\": \"Old Brick Wall\", \"Pattern\": \"Solid\", \"Theme\": \"Brick,Sports\", \"Top Style\": \"Grommet\", \"Size\": \"104\\\" W By 72\\\" L\", \"Included Components\": \"Grommet\", \"Age Range (Description)\": \"Adult\", \"Care instructions\": \"Machine Wash\", \"Package Weight\": \"0.66 Kilograms\", \"Item Weight\": \"1.46 pounds\", \"Manufacturer\": \"Red Vow\", \"Country of Origin\": \"China\", \"Item model number\": \"CURATINS/CJABS90118WSJ14625\", \"Number of pieces\": \"2\", \"Batteries required\": \"No\", \"Import\": \"Imported\"}",
+    "parent_asin": "B07MYWL1NZ",
     "bought_together": null,
     "subtitle": null,
     "author": null

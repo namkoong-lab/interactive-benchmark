@@ -1,20 +1,68 @@
 {
-    "main_category": "All Beauty",
-    "title": "CoverGirl Ready, Set Gorgeous Fresh Complexion Powder Foundation, Light [115/120] 0.37 oz (Pack of 2)",
-    "average_rating": 3.5,
-    "rating_number": 6,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "AJDSM Winter Snowman Shower Curtain Home Red Bird Black White Lattice Snow Bathroom Decoration Set Polyester Fabric 72x72 Inch with Hook",
+    "average_rating": 5.0,
+    "rating_number": 5,
+    "features": [
+        "Size - 72 INCHES LONG x 72 INCHES WIDE. Includes 12 free hooks. No need for lining.",
+        "Material - High quality 100% polyester Turkish fabric material .",
+        "Advantage - machine washable, clear image,diverse style.",
+        "Process - Bold graphics printed with state of the art digital printing technology.",
+        "Service- 100% refund policy, if you have any questions, please contact us in time, we will make you satisfied."
+    ],
+    "description": [
+        "A high quality bathroom shower curtains can be enough guarantee your family healthy. Our shower curtain not only can it effectively prevent water and durable, enough to keep your bathroom clean. This kind of high quality shower curtain match the excellent you. The Advantage of Choose Us: Our shower curtain use advanced printing technology, have vivid color and clear image, which will bright up space of your bathroom. The Shower curtain is made of high quality polyester fabric, It is soft, comfy, skin-friendly and durable, In particular, it also has a waterproof function, you will enjoy a good experience. We also give an extra 12 hooks so you can use it easily. If you are housewife, that avoid the troubles you cannot hanging it when you use it Packaged: 1 shower curtain and 12 hooks"
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81oYDL9+rZL._AC_SL1355_.jpg",
+            "https://m.media-amazon.com/images/I/71D6ra6ROzL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61BpBh+urSL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61WwpOSFJbL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61IJV7CklKL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71NY32FUD1L._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51poZ2p3ZcL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51mgtmJecVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51AlPLJh8cL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51rMxQVenKL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51XJunEZvvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51uhYOW+Y6L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51poZ2p3ZcL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51mgtmJecVL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51AlPLJh8cL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51rMxQVenKL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51XJunEZvvL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51uhYOW+Y6L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "COVERGIRL",
-    "categories": [],
-    "details": "{\"Item Form\": \"Powder\", \"Brand\": \"COVERGIRL\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"2.00 Count\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"4.9 x 4.8 x 2 inches; 5.12 Ounces\", \"UPC\": \"789756777748 046200011576 784179393827\"}",
-    "parent_asin": "B00UV80M8Q",
+    "store": "AJDSM",
+    "categories": [
+        "Home & Kitchen",
+        "Bath",
+        "Bathroom Accessories",
+        "Shower Curtains, Hooks & Liners",
+        "Shower Curtain Sets"
+    ],
+    "details": "{\"Brand\": \"AJDSM\", \"Color\": \"Black White Green\", \"Material\": \"Polyester\", \"Product Dimensions\": \"72\\\"L x 72\\\"W\", \"Special Feature\": \"Durable,Waterproof\", \"Room Type\": \"Bathroom\", \"Style\": \"Modern\", \"Top Style\": \"Grommet\", \"Size\": \"72'' x 72''\", \"Included Components\": \"Hook\", \"Age Range (Description)\": \"Adult\", \"Product Care Instructions\": \"Machine Wash\", \"Package Weight\": \"0.4 Kilograms\", \"Item Weight\": \"14 ounces\", \"Manufacturer\": \"AJDSM\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3100594, \"Shower Curtain Sets\": 22742}, \"Date First Available\": \"September 30, 2021\"}",
+    "parent_asin": "B09HKJNC27",
     "bought_together": null,
     "subtitle": null,
     "author": null

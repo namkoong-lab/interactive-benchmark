@@ -1,20 +1,40 @@
 {
-    "main_category": "All Beauty",
-    "title": "Eyebrow Stamp Stencil Kit - Brow Pomade Stamp Shaping Kit Eyebrow Definer with 10 Styles Stencil /2 Eyebrow Pen Brushes/ 1 Eyebrow Trimmer Makeup Tools for Women and Girl (Brown)",
-    "average_rating": 2.5,
+    "main_category": "Amazon Home",
+    "title": "Echo Retainer Pre-Filter #ECH-A227000050",
+    "average_rating": 5.0,
     "rating_number": 4,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "features": [
+        "Brand New Echo A227000050 Pre Filter Retainer PE2620 SRM2620 PB2620 SRM3020 HCA2620 OEM...",
+        "Genuine Echo Part # A227000050",
+        "Genuine OEM Echo Part"
+    ],
+    "description": [
+        "RETAINER, PRE-FILTER"
+    ],
+    "price": "8.49",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41sL4ulPWRL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41sL4ulPWRL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "LKAN",
+    "store": "Echo",
     "categories": [],
-    "details": "{\"Brand\": \"LKAN\", \"Item Form\": \"Cream\", \"Item Dimensions LxWxH\": \"3.5 x 5.2 x 1.2 inches\", \"Unit Count\": \"1.00 Count\", \"Product Dimensions\": \"3.5 x 5.2 x 1.2 inches; 1.45 Ounces\", \"UPC\": \"726962994514\"}",
-    "parent_asin": "B09C4JV3XD",
+    "details": "{\"Package Dimensions\": \"7 x 5 x 0.2 inches\", \"Item Weight\": \"10 pounds\", \"Manufacturer\": \"Echo\", \"Item model number\": \"A227000050\", \"Warranty Description\": \"1 year\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B073VR5G7D",
     "bought_together": null,
     "subtitle": null,
     "author": null

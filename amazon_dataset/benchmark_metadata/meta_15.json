@@ -1,22 +1,68 @@
 {
-    "main_category": "All Beauty",
-    "title": "Nomade By Chloe",
-    "average_rating": 4.2,
-    "rating_number": 8,
-    "features": [],
-    "description": [
-        "new"
+    "main_category": "Amazon Home",
+    "title": "College Covers Everything Comfy Boise State Broncos Curtain Panel Set, 2 Panels, 2 Matching Tie Backs, 42 inches Wide by 63 inches Long",
+    "average_rating": 4.3,
+    "rating_number": 28,
+    "features": [
+        "100% Cotton",
+        "Imported",
+        "Package will include 2 curtain panels. Each panel curtain has a 2 inch rod pocket and a 2 inch header and measures 63 inches long by 42 inches wide. 2 matching tiebacks are included in this set.",
+        "This printed color and logo curtain features a smooth and beautiful fabric with a nice touch and drape that bring team spirit and color into your home. It is suitable for any man cave, garage, bedroom, dorm room, living room, kids room or any place you want to show off your school pride.",
+        "These curtains are made for light filtering, these are not black out curtains. They will let some sun through and really make the logos and colors pop.",
+        "Machine washable. Wash in cold water with like colors. Tumble dry on low heat, remove promptly.",
+        "Look for our matching curtain valances, sold separately. Officially licensed by Everything Comfy. Imported."
     ],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "description": [
+        "These 63 inch curtain panels are College Covers brand and licensed by Everything Comfy. This curtain panel set includes two 42 inch x 63 inch curtain panels with two matching tiebacks, all you need to fully decorate 1 window. Curtain panels have a 2 inch rod pocket and 2 inch header, complete with all over printing done in officially licensed team colors and logos. These 63 inch long curtain panels match perfectly to our curtain valance, sold separately. These work great in any man cave or fan cave. These curtains are machine washable in cold water and tumble dry on low heat."
+    ],
+    "price": "30.06",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91P3dGOFtJL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91EOggGuAjL._AC_SL1500_.jpg",
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51EeTlEWAGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/511DOyCFGaL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41+fRu-KSAL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41aYRhhhB4L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51EeTlEWAGL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/511DOyCFGaL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41+fRu-KSAL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41aYRhhhB4L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "PT01",
+            "PT02"
+        ]
     },
-    "store": "Chloe",
-    "categories": [],
-    "details": "{\"Brand\": \"Chloe\", \"Item Volume\": \"100 Milliliters\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Item Weight\": \"0.2 Kilograms\", \"Product Dimensions\": \"4.72 x 5.12 x 4.33 inches; 7.05 Ounces\", \"Item model number\": \"BF-3614228956567_Vendor\"}",
-    "parent_asin": "B07ZJW55Z5",
+    "videos": {
+        "title": [
+            "Boys Men American Football Curtains "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0273597912084aeb98379b74a6308cbf?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "College Covers",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Window Treatments",
+        "Curtains & Drapes",
+        "Panels"
+    ],
+    "details": "{\"Brand\": \"College Covers\", \"Color\": \"Boise State Broncos\", \"Material\": \"Cotton\", \"Product Dimensions\": \"63\\\"L x 42\\\"W\", \"Opacity\": \"Light-filtering\", \"Special Feature\": \"Wrinkle Free, Lightweight, Washable\", \"Room Type\": \"Laundry Room, Bathroom, Bedroom, Home Office, Playroom\", \"Style\": \"Modern\", \"Pattern\": \"Solid\", \"Theme\": \"Sports\", \"Curtain Form\": \"Drapes\", \"Top Style\": \"Rod Pocket\", \"Size\": \"42 in x 63 in\", \"Included Components\": \"2 curtain panels, 2 tie backs\", \"Occasion\": \"Mother's Day, Christmas, Graduation, Father's Day, Birthday\", \"Age Range (Description)\": \"Adult\", \"Seasons\": \"Autumn, All Season, Summer, Spring\", \"Hanging Method\": \"Rod Pocket\", \"Item Weight\": \"1 pounds\", \"Number of Items\": \"2\", \"Product Care Instructions\": \"Tumble dry, low heat, Machine wash cold with like colors\", \"Lining Description\": \"Unlined\", \"Package Weight\": \"0.56 Kilograms\", \"Manufacturer\": \"College Covers\", \"Country of Origin\": \"China\", \"Item model number\": \"CC-CP\", \"Best Sellers Rank\": {\"Sports & Outdoors\": 489451, \"Sports Fan Home D\\u00e9cor\": 2287, \"Window Curtain Panels\": 9125}, \"Thickness\": \"0.25 Inches\", \"Fabric Type\": \"100% Cotton\", \"Assembly required\": \"No\", \"Number of pieces\": \"2\", \"Warranty Description\": \"30 day warranty.\", \"Batteries required\": \"No\", \"Import\": \"Imported\"}",
+    "parent_asin": "B08SWVCVFV",
     "bought_together": null,
     "subtitle": null,
     "author": null

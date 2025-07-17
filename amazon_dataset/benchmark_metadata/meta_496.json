@@ -1,20 +1,75 @@
 {
-    "main_category": "All Beauty",
-    "title": "PedEgg + 3 Replacement Blades Combo BONUS Miracle Foot Repair (Colors may vary)",
-    "average_rating": 2.0,
+    "main_category": "Amazon Home",
+    "title": "Selani™ Adjustable Floor Chair Folding Couch Sofa Six-Position Multiangle Lazy Man Chair Soft Cushion Tatami Foldable Recliner, Beige",
+    "average_rating": 5.0,
     "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "features": [
+        "Adjustable backrest folds to 6 positions from flat to 90 degrees for storage or comfort.",
+        "Removable coral fleece fabric cover for easy washing.",
+        "Relaxing comfort for dorm room, bedroom, anyplace you need a cozy seat.",
+        "Beautiful and various colors are available",
+        "Size: Approx 43.3\"L * 20.5\"W * 4.8\"Thick(110*52*12cm); Material: Coral fleece fabric normal sponge, steel tube shelf."
+    ],
+    "description": [
+        "The folding sofa is very functional for you and your families. Releasing the back fatigue, it is a great seating for floor activities like playing games, reading and watching TV.  Firstly, it can be adjusted to between 0 degree to 90 degree ,you can choose the angle you want for comfort.  Secondly, as it have the zipper on the surfact, you can take apart the coral fleece fabric surface to wash, and it allows you to keep the sofa clean and you do not need to worry about how to deal with the dirty on the surface of the folding sofa.  Thirdly, when lay it flat on the floor,the sofa can be used as a soft and comfy cushion, when adjust other angles,you can sit on it like a chair. it seems like that you buy two goods instand of one thing. So in this way it can be considered to have two types of use."
+    ],
+    "price": "87.38",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61VFi1SzWGL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/71NJHZwI6DL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/71zrnpDQqjL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/61wiHZRFeXL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/71LSpin40vL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/61CjREks2rL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/61NYGO9Xf1L._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/61hi8m6wADL._AC_SL1001_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/515wjSIH0AL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51Vy2XYOcDL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51QZoGOCBgL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51WSUqpQDvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51F5ZDP1WjL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51Xc7OpGeXL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51kzI8ISXOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51RfInEtR2L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/515wjSIH0AL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51Vy2XYOcDL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51QZoGOCBgL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51WSUqpQDvL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51F5ZDP1WjL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51Xc7OpGeXL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51kzI8ISXOL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51RfInEtR2L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Telebrands",
-    "categories": [],
-    "details": "{}",
-    "parent_asin": "B0754HZ1YZ",
+    "store": "selani",
+    "categories": [
+        "Home & Kitchen",
+        "Furniture",
+        "Living Room Furniture",
+        "Chairs"
+    ],
+    "details": "{\"Brand\": \"Selani\", \"Color\": \"Beige\", \"Product Dimensions\": \"43.3\\\"D x 20.5\\\"W x 4.8\\\"H\", \"Special Feature\": \"Adjustable,Removable\", \"Unit Count\": \"1.0 Count\", \"Recommended Uses For Product\": \"Relaxing\", \"Style\": \"Modern\", \"Room Type\": \"Office, Living Room\", \"Age Range (Description)\": \"Adult\", \"Item Weight\": \"8.58 pounds\", \"Package Dimensions\": \"44 x 20.5 x 3.5 inches\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"December 25, 2015\", \"Material Alloy Steel\": \"\", \"\": \"Frame Material Alloy Steel\"}",
+    "parent_asin": "B019T0Y1RE",
     "bought_together": null,
     "subtitle": null,
     "author": null

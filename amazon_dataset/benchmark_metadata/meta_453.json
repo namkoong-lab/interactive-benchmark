@@ -1,20 +1,82 @@
 {
-    "main_category": "All Beauty",
-    "title": "Body Wave 1 Bundle 9A 100% Unprocessed Body Wave Hair Bundle Brazilian Virgin Hair Weave Human Hair Extension (24 inch)",
-    "average_rating": 3.2,
-    "rating_number": 10,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Rachael Ray Dinnerware Round and Square 4-Piece Stoneware Salad Plate Set, Yellow",
+    "average_rating": 4.6,
+    "rating_number": 191,
+    "features": [
+        "4-piece salad plate set includes four 8-1/2-inch salad plates",
+        "Quality stoneware dinnerware in vibrantly colored, contemporary round & square lines for stylish entertaining and casual meals at home",
+        "Unique shaped pieces combine round traditional design with a modern and contemporary squared shape at the base",
+        "Beautiful and functional, pieces are microwave and dishwasher safe for convenience",
+        "Mix and match with colors that are designed to work with any tablescape"
+    ],
+    "description": [
+        "Get round and square shapes all in one collection! With Rachael Ray’s™ dinnerware collection, Round & Square, get a grip on table setting with these easy to hold and fun shapes. Each Salad Plate Set includes four 8-1/2-inch salad plates. The unique shape of these plates combine round traditional design with a modern and contemporary squared shape at the base – the best of both worlds! Deliciously hued, these vibrantly colored pieces add energy and flair to any kitchen. Stoneware dinnerware is non-reactive to foods, beautiful and functional with excellent ability in maintaining heat to keep foods warm. Pieces are microwave safe and dishwasher safe as an additional bonus.Check out the whole collection! With Round & Square, you can entertain friends in the complete collection for a pulled together look and table setting for style and function. Rachael Ray™ dinnerware collections are great for both casual meals and entertaining for special occasions. Mix and match for a uniquely you style combination or collect a single, vibrant color collection – either way you’ll look good doing it and delight your friends while you’re at it!"
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71Ufkw7zAOL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81+4xM2zy3L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/817vgMM3brL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81uBDgXjfVL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41G5CyJMWJL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51dB5jMD7HL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31wZHX6Av+L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31FafH1XuOL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41G5CyJMWJL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51dB5jMD7HL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31wZHX6Av+L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31FafH1XuOL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
     },
-    "store": "Fashow",
-    "categories": [],
-    "details": "{\"Brand\": \"Fashow\", \"Material\": \"Human Hair\", \"Extension Length\": \"24 Inches\", \"Hair Type\": \"Wavy\", \"Installation Type\": \"Weave\", \"Package Dimensions\": \"5.3 x 2.2 x 0.6 inches; 7.2 Ounces\", \"UPC\": \"783903383547\"}",
-    "parent_asin": "B08GC18YRV",
+    "videos": {
+        "title": [
+            "Rachael Ray Dinnerware Round and Square 4-Piece Stoneware Mug Set, Purple",
+            "AmazonBasics 12-Piece Melamine Dinnerware Set",
+            "Gibson Studio 12 Piece Mauna Melamine Dinnerware",
+            "Gibson Homes Dinnerware - Great for Picnic's",
+            "ONEMORE Artist Collection 8.5 inch Salad Plate",
+            "Breakfast Tacos 3 Ways"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/666597c917f0467ea2e756ca4179cd2f?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0d0aab9463fc49b9a831b90f18ec12bc?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/aeded8eb59d648ffa5e417190c3dbb06?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/003274362da542a8812de2a740157671?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0e310d81e3fd45329fb0b49ef837483b?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/0e4b0ad1f1f144cf9252904cb9ce3702?ref=dp_vse_rvc_5"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            "/shop/influencer-952d8d8f",
+            "",
+            "/shop/influencer-f419fd51"
+        ]
+    },
+    "store": "Rachael Ray",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Dinnerware & Serveware",
+        "Dinnerware",
+        "Dinnerware Sets"
+    ],
+    "details": "{\"Material\": \"Stoneware\", \"Brand\": \"Rachael Ray\", \"Color\": \"Yellow\", \"Special Feature\": \"Microwave Safe\", \"Occasion\": \"Party\", \"Shape\": \"Round\", \"Seasons\": \"All Seasons\", \"Product Dimensions\": \"8.9 x 3.3 x 9.4 inches\", \"Number of Pieces\": \"4\", \"Pattern\": \"Modern\", \"Product Care Instructions\": \"Machine Wash\", \"Size\": \"Salad\", \"Item Weight\": \"2.5 pounds\", \"Is Microwaveable\": \"No\", \"Item Firmness Description\": \"Hard\", \"Is Dishwasher Safe\": \"No\", \"Manufacturer\": \"Meyer\", \"Domestic Shipping\": \"Item can be shipped within U.S.\", \"International Shipping\": \"This item can be shipped to select countries outside of the U.S.  Learn More\", \"Country of Origin\": \"China\", \"Item model number\": \"58090\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 218287, \"Dinnerware Sets\": 953}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"October 3, 2011\"}",
+    "parent_asin": "B01KIA6FBO",
     "bought_together": null,
     "subtitle": null,
     "author": null

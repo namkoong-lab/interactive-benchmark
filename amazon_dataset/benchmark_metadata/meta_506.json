@@ -1,20 +1,53 @@
 {
-    "main_category": "All Beauty",
-    "title": "[the SAEM] ECO SOUL kiss button lips matte Bitter Chocolate (M06)",
-    "average_rating": 4.0,
-    "rating_number": 6,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Ambesonne Vintage Woman Kitchen Curtains, Retro Female Lady Holding an Old Fashion Blouse Doing Laundry Image, Window Drapes 2 Panel Set for Kitchen Cafe Decor, 55\" X 39\", Black and White",
+    "average_rating": 2.0,
+    "rating_number": 1,
+    "features": [
+        "Your purchase will help victims of recent major earthquakes in Turkey since we donate a percentage of our profits to local NGOs helping with quake relief efforts.",
+        "39 Inches long x 55 Inches wide - Measurements are the total of 2 curtain panels together. Made in Turkey",
+        "Set of 2 curtain panels - Suitable size for most living rooms and bedrooms, Unique. Genuine. Fun.",
+        "Machine washable - On cold delicate cycle, tumble dry on low. Features a 2.5-inch rod pocket.",
+        "Made from - High-quality silky satin polyester blend. Provides an elegant look and silky soft touch!",
+        "Adds great perspective - Bold graphics printed with state of the art digital printing technology."
+    ],
+    "description": [
+        "These one of a kind decorative curtains will help transform your room into your private sanctuary! Perfect decoration item for your living room, dining room, bedroom, and dorm rooms. Matches well with various color palettes of rugs, furniture and any other home decor accent accessories. Made from high quality 100% polyester tight woven, Turkish made, silky satin fabric. Environmentally friendly, no dye substance harming health of your family. With vibrant and colorful designs these modern curtains add a great perspective to the look of your room. High resolution pictures bring 3D like realistic experience to your life. It is not too thin or too thick. Quick and luxurious way to refresh and completely change the appearance of your home without a big expense. A perfect gift idea for your mom, dad, sister, brother, grandma, grandpa, wife, husband, and other beloved ones with thousands of designs. You can find a theme and style for everybody and any interest in our Amazon collection. Enter into a new world with our items. It can be at the seashore or mountain landscapes, anywhere! If you're a fan of sports or have a hobby, you will be spending time with it in your personal space. Customized, personalized products are very popular. As manufacturers of digital printed home textiles, we follow current trends and bring you the latest home fashion. Either a present to your family, friend, relative, boyfriend, girlfriend or to yourself, the item should be interesting, authentic. Men, women, everybody will love them! Anyone from any profession will be thrilled by the difference these curtains bring to their house decor. Due to manual measurement, please kindly allow 1-2 cm discrepancy. The digital images we display have the most accurate color possible, however due to differences in computer monitors, we cannot be responsible for variations in color between the actual product and your screen. No hardware is included."
+    ],
+    "price": "29.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71beVXPGyYL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/611spsk2jqL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51UBeq5afBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/413KYJw5zRL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51UBeq5afBL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/413KYJw5zRL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "THESAEM",
-    "categories": [],
-    "details": "{\"Brand\": \"THESAEM\", \"Skin Type\": \"All\", \"Finish Type\": \"Matte\", \"Age Range (Description)\": \"Adult\", \"Country/Region Of Origin\": \"Republic of Korea\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5 x 0.98 x 0.59 inches; 0.64 Ounces\", \"UPC\": \"889810125093\"}",
-    "parent_asin": "B01KK4FQOK",
+    "store": "Ambesonne",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Window Treatments",
+        "Curtains & Drapes",
+        "Panels"
+    ],
+    "details": "{\"Brand\": \"Ambesonne\", \"Color\": \"Black and White\", \"Material\": \"Fabric\", \"Product Dimensions\": \"39\\\"L x 55\\\"W\", \"Special Feature\": \"Washable\", \"Room Type\": \"Kitchen\", \"Style\": \"Modern\", \"Theme\": \"Fashion\", \"Curtain Form\": \"Drapes\", \"Top Style\": \"Rod Pocket\", \"Size\": \"55\\\" X 39\\\"\", \"Age Range (Description)\": \"Adult\", \"Item Weight\": \"10.7 ounces\", \"Product Care Instructions\": \"Machine Wash\", \"Package Weight\": \"0.67 Pounds\", \"Manufacturer\": \"Ambesonne\", \"Item model number\": \"kc_66613_55x39\", \"Best Sellers Rank\": {\"Home & Kitchen\": 8223179, \"Window Curtain Panels\": 65491}, \"Date First Available\": \"January 20, 2021\"}",
+    "parent_asin": "B08THJYWJX",
     "bought_together": null,
     "subtitle": null,
     "author": null

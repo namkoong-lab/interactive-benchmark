@@ -1,20 +1,51 @@
 {
-    "main_category": "All Beauty",
-    "title": "\"Cleopatra\" Fair Trade Wooden Hair Pins - Set of Four",
-    "average_rating": 4.0,
-    "rating_number": 2,
+    "main_category": "Amazon Home",
+    "title": "304 Stainless Steel Grapefruit Spoons, Rainbow Magic Mirror Finish Serrated Grapefruit Spoons,Dessert Spoon for Citrus Fruit (0.06)",
+    "average_rating": 4.8,
+    "rating_number": 9,
     "features": [],
-    "description": [],
-    "price": "None",
+    "description": [
+        "Thanks for choosing us."
+    ],
+    "price": "15.22",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/41ArrWFWS1L._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/51jF2UYlvQL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/41CHmcZdXVL._AC_SL1001_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/315-p2piXuL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31BdZumLxqL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31z6JG47ftL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/315-p2piXuL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31BdZumLxqL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31z6JG47ftL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Package Dimensions\": \"5.4 x 4 x 0.9 inches; 0.8 Ounces\", \"Item model number\": \"AEH220\"}",
-    "parent_asin": "B00915QNQU",
+    "store": "ShellSnail",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Flatware",
+        "Spoons",
+        "Dessert Spoons"
+    ],
+    "details": "{\"Product Dimensions\": \"6.1 x 1.1 x 0.7 inches\", \"Item Weight\": \"3.84 ounces\", \"Date First Available\": \"May 6, 2020\", \"Material\": \"Stainless Steel\", \"Brand\": \"ShellSnail\", \"Item Dimensions LxWxH\": \"6.1 x 1.1 x 0.7 inches\", \"Number of Pieces\": \"2\"}",
+    "parent_asin": "B093LJNPPL",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,20 +1,47 @@
 {
-    "main_category": "All Beauty",
-    "title": "Replacement Wire for Halo Hair Extensions 2 Pieces 9inch Stretched to 13-14inch Black JoYoung Halo Hair Extension Fish Line Wire",
-    "average_rating": 3.4,
-    "rating_number": 3,
+    "main_category": "Amazon Home",
+    "title": "Laguna Design Co. Nine and Wine Golf Wine Glass, 21 Oz, Golf Wine Glass, Golf Gift",
+    "average_rating": 5.0,
+    "rating_number": 1,
     "features": [],
-    "description": [],
-    "price": "None",
+    "description": [
+        "Nine and Wine 21oz Wine Stemless Wine Glass. Details: This is for one 21oz Wine glass with Nine and Wine Black and Red. All designs are made with high quality permanent vinyl. Care instructions will be included with your glass. Hand wash Recommended"
+    ],
+    "price": "21.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61ScRlRSilS._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61ScRlRSilS._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31KieNOyMpS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31KieNOyMpS._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31KieNOyMpS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31KieNOyMpS._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "JoYoung",
-    "categories": [],
-    "details": "{\"Brand\": \"JoYoung\", \"Extension Length\": \"9 Inches\", \"Hair Type\": \"Straight\", \"Installation Type\": \"Halo\", \"Package Dimensions\": \"5 x 3 x 0.2 inches; 0.63 Ounces\"}",
-    "parent_asin": "B086V16PX2",
+    "store": "Laguna Design Co.",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Glassware & Drinkware",
+        "Wine & Champagne Glasses",
+        "Wine Glasses"
+    ],
+    "details": "{\"Brand\": \"Laguna Design Co.\", \"Color\": \"Black and Red\", \"Style\": \"Modern\", \"Theme\": \"Golf\", \"Occasion\": \"Golf\", \"Shape\": \"stemles\", \"Pattern\": \"Letter Print\", \"Product Care Instructions\": \"Hand Wash Only\", \"Unit Count\": \"1.0 Count\", \"Number of Items\": \"1\", \"League\": \"ncaa\", \"Package Dimensions\": \"5 x 5 x 5 inches\", \"Item Weight\": \"10 ounces\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 1029963, \"Wine Glasses\": 20339, \"Sports Fan Cups & Glasses\": 50994}, \"Date First Available\": \"November 19, 2020\", \"Material Glass\": \"\", \"\": \"Capacity 1.3 Pounds\"}",
+    "parent_asin": "B093CL9SSD",
     "bought_together": null,
     "subtitle": null,
     "author": null

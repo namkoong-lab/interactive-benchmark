@@ -1,20 +1,43 @@
 {
-    "main_category": "All Beauty",
-    "title": "Floral Crown Green Headpiece Bridal Accessories Wedding Crown (Head-comb) (Purple)",
-    "average_rating": 4.7,
-    "rating_number": 2,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Cuisinart Coffee Measuring Scoop, EM-100SCOOP",
+    "average_rating": 4.6,
+    "rating_number": 8,
+    "features": [
+        "Genuine Cuisinart Item",
+        "Fits models: EM-100, EM-200."
+    ],
+    "description": [
+        "Brand new Cuisinart coffee measuring scoop, EM-100SCOOP."
+    ],
+    "price": "12.92",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71uhIEcqgtL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41nVkdacjRL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41nVkdacjRL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Easin",
-    "categories": [],
-    "details": "{\"Age Range (Description)\": \"Child\", \"Brand\": \"Easin\", \"Unit Count\": \"3.2 Ounce\", \"Package Dimensions\": \"4.88 x 2.83 x 2.76 inches; 2.4 Ounces\", \"UPC\": \"782912565616\"}",
-    "parent_asin": "B08J2LY93D",
+    "store": "Cuisinart",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Small Appliance Parts & Accessories"
+    ],
+    "details": "{\"Product Dimensions\": \"6 x 1 x 1 inches\", \"Item Weight\": \"2.4 ounces\", \"Manufacturer\": \"Cuisinart\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3444928, \"Small Appliance Parts & Accessories\": 29731}, \"Date First Available\": \"October 20, 2014\"}",
+    "parent_asin": "B06XHKW2DP",
     "bought_together": null,
     "subtitle": null,
     "author": null

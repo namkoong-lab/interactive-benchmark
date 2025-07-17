@@ -1,26 +1,46 @@
 {
-    "main_category": "All Beauty",
-    "title": "Pen Shape Electric Nail Art Drill KIT Manicure File Polish Buffing Pedicure Electric Tool",
-    "average_rating": 3.2,
-    "rating_number": 43,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "Pen Shape Electric Nail Art Drill KIT"
+    "main_category": "Amazon Home",
+    "title": "Buyartforless I Love Lucy Text Lucille Ball 36x24 Art Print Posterr Comedian Funny Woman 1950-s Icon Hollywood Movie TV Star All of her Best Quotes, Multicolor (AQ 241088)",
+    "average_rating": 4.7,
+    "rating_number": 13,
+    "features": [
+        "Printed on poster paper",
+        "Packed to arrive in perfect condition",
+        "Paper size: 36x24",
+        "Image size: 36x24",
+        "Also available framed"
+    ],
+    "description": [
+        "I Love Lucy TEXT Lucille Ball 36x24 Art Print Posterr Comedian Funny Woman 1950-s Icon Hollywood Movie TV Star All of her best Quotes"
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71tXhOki1NL._AC_SL1500_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/6fe488783ac54a1cac290156ee30f2f0?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/515NtrAKjLL._AC_.jpg"
         ],
-        "user_id": [
-            ""
+        "thumb": [
+            "https://m.media-amazon.com/images/I/515NtrAKjLL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
         ]
     },
-    "store": "Yimart",
-    "categories": [],
-    "details": "{\"Brand\": \"Yimart\", \"Material\": \"Metal\", \"Item Weight\": \"0.5 Pounds\", \"Voltage\": \"110 Volts\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"8.5 x 3.8 x 2.3 inches; 8.01 Ounces\", \"Item model number\": \"COMINE4013725\", \"UPC\": \"710882547776\", \"Manufacturer\": \"Yimart\\u00ae\"}",
-    "parent_asin": "B00UWWZ9Z2",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Buyartforless",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Posters & Prints"
+    ],
+    "details": "{\"Size\": \"24 x 36 Inch\", \"Product Dimensions\": \"36\\\"L x 24\\\"W\", \"Item Weight\": \"0.38 Pounds\", \"Number of Items\": \"1\", \"Orientation\": \"Portrait\", \"Shape\": \"Rectangular\", \"Theme\": \"People\", \"Frame Type\": \"Framed\", \"Wall Art Form\": \"Art Print\", \"Material\": \"Paper\", \"Color\": \"Multicolor\", \"Brand\": \"Buyartforless\", \"Frame Material\": \"Plastic\", \"Mounting Type\": \"Wall Mount\", \"Manufacturer\": \"buyartforless\", \"Item model number\": \"AQ 241088\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2441164, \"Posters & Prints\": 134615}, \"Is Discontinued By Manufacturer\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B073QZ9MKM",
     "bought_together": null,
     "subtitle": null,
     "author": null

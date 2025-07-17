@@ -1,20 +1,44 @@
 {
-    "main_category": "All Beauty",
-    "title": "17 Pcs Nail Art Brushes Palette Tools Kit Set, with Resin Palette and Spatula Tool Nail Art Brushes Kits for Home Salon DIY Makeup Display Board",
-    "average_rating": 3.7,
-    "rating_number": 7,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Harmony Kingdom Gleason-Goat",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "Collection: Treasured Jests",
+        "Retired"
+    ],
+    "description": [
+        "Harmony Kingdom 'Gleason'; TJRPGO is an original box figurine, meaning it doubles as both a figurine and a small keepsake/trinket box. Part of their Roly Poly series."
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41TD+Os2QyL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41TD+Os2QyL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "RuuKarm",
-    "categories": [],
-    "details": "{\"Brand\": \"RuuKarm\", \"Handle Material\": \"Stainless Steel\", \"Unit Count\": \"1.00 Count\", \"Package Dimensions\": \"8.15 x 3.46 x 0.98 inches; 4.16 Ounces\"}",
-    "parent_asin": "B0B2P2LJ7Q",
+    "store": "Harmony Kingdom",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Collectible Figurines"
+    ],
+    "details": "{\"Brand\": \"Harmony Kingdom\", \"Room Type\": \"Office, Living Room, Bedroom\", \"Number of Pieces\": \"1\", \"Number of Items\": \"1\", \"Collection Name\": \"Reptiles\", \"Pattern\": \"Marble\", \"Shape\": \"Novelty\", \"Unit Count\": \"1 Count\", \"Manufacturer\": \"Harmony Kingdom\", \"Package Dimensions\": \"2.2 x 2.2 x 2 inches\", \"Item Weight\": \"4.8 ounces\", \"Item model number\": \"6067719\", \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B004SAXLQ8",
     "bought_together": null,
     "subtitle": null,
     "author": null

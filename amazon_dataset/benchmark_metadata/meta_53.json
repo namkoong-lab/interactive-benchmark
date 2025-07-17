@@ -1,20 +1,54 @@
 {
-    "main_category": "All Beauty",
-    "title": "AVON WILD COUNTRY POWDER 2.65 oz EACH, LOT OF 3",
-    "average_rating": 4.7,
-    "rating_number": 11,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Personalized Penguin Igloo Family Christmas Ornament (Family of 3) Cute Penguin Parents Grands Sibling Children Kid Best Friend Ornament-Christmas Tree Ornament 2022-Free Customization",
+    "average_rating": 4.9,
+    "rating_number": 26,
+    "features": [
+        "Your ornament will be carefully personalized by talented hands with a permanent marker as per your instructions. Please review the photos to see an example of a personalized Christmas ornament.",
+        "Personalization: Click the \"Customize Now\" button to provide personalization instructions. Please double check the spelling of your personalization before placing your order, once your order is placed unfortunately we can't make any changes.",
+        "Customer satisfaction is our top priority. If for any reason you are unsatisfied with your order, please contact us and we will gladly assist you to resolve any issues.",
+        "Ornament is made out of high quality lightweight resin and comes with a ribbon loop for easy hanging."
+    ],
+    "description": [
+        "Christmas is the most wonderful time of the year. Our personalized ornaments are the most unique way to create lasting memories for you and your loved ones. Meet us Under the Mistletoe to make your Christmas unforgettable! This ornament is made of high quality lightweight resin and painted by hand. Each ornament comes with a ribbon loop to make it easy for hanging on the Christmas tree. FREE PERSONALIZATION is included with each ornament order. Your ornament will be carefully personalized by talented hands with a permanent marker as per your instructions. Please review the photos to see an example of a personalized Christmas ornament. **PLEASE NOTE** Your order will automatically be processed with your message. Please make sure the spelling of your personalization is correct before you place your order, once your order is placed, unfortunately we can't make changes. Customer satisfaction is our top priority. If for any reason you are unsatisfied with your order, please contact us and we will gladly assist you to resolve any issues."
+    ],
+    "price": "21.95",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/81fCN4SqcNL._AC_SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51NPoTyrJtL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51HWbuYwLdL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/512cmcSBzuL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51NPoTyrJtL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51HWbuYwLdL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/512cmcSBzuL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "AVON",
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"UPC\": \"764753405115\"}",
-    "parent_asin": "B0181ML7X2",
+    "store": "UTM Ornaments",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Hanging Ornaments"
+    ],
+    "details": "{\"Brand\": \"UTM Ornaments\", \"Occasion\": \"Christmas\", \"Material\": \"Resin\", \"Theme\": \"Christmas\", \"Included Components\": \"Cord And String\", \"Shape\": \"Irregular\", \"Mounting Type\": \"Hanging\", \"Item Package Quantity\": \"1\", \"Unit Count\": \"1 Count\", \"Batteries required\": \"No\", \"Item Weight\": \"3.04 ounces\", \"Scent\": \"Unscented\", \"Number of pieces\": \"1\", \"Manufacturer\": \"Under The Mistletoe (UTM) Ornaments\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2706220, \"Decorative Hanging Ornaments\": 49738}, \"Volume\": \"15 Cubic Inches\"}",
+    "parent_asin": "B07ZQDJ8TJ",
     "bought_together": null,
     "subtitle": null,
     "author": null

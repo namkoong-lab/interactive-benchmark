@@ -1,26 +1,55 @@
 {
-    "main_category": "All Beauty",
-    "title": "Vitamin C Serum for Face - C Booster With Hyaluronic Acid and Vitamin E - Anti Wrinkle - Anti Aging - Skin Repair For Age Spots and Sun Damage - For Men and Women",
-    "average_rating": 3.5,
-    "rating_number": 82,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "Best of Hyaluronic Acid and Vitamin C Serum"
+    "main_category": "Amazon Home",
+    "title": "EVOLIVE Ultra Soft Solid Premium Brushed Microfiber 4 Piece Sheet Sets Including 1 Flat Sheet, 1 Fitted Sheet, and 2 Pillow Cases (Black, Queen)",
+    "average_rating": 4.5,
+    "rating_number": 260,
+    "features": [
+        "100% soft 95GSM microfiber. Super Value, Big Savings Ultra soft microfiber for superior comfort, wrinkle and shrink resistant, various solid colors are available.",
+        "Easy care fabric is machine washable and dryer safe. Good quality microfiber fabric.",
+        "One full set includes one flat sheet 81\"x96\", one fitted sheet 54\"x76\"+14\"pocket and two pillow cases 20\"x30\".",
+        "One queen sheet includes one flat sheet 90\"x102\", one fitted sheet 60\"x80\" and two pillow cases 20\"x30\".",
+        "One king set includes one flat sheet 108\"x102\", one fitted sheet 78\"x80\" and two king pillow cases 20\"x40\"."
+    ],
+    "description": [
+        "One full set includes one flat sheet 81\"x96\", one fitted sheet 54\"x76\"+14\"pocket and two pillow cases 20\"x30\". One queen sheet includes one flat sheet 90\"x102\", one fitted sheet 60\"x80\" and two pillow cases 20\"x30\".  One king set includes one flat sheet 108\"x102\", one fitted sheet 78\"x80\" and two king pillow cases 20\"x40\". 100% soft 95GSM microfiber. Super Value, Big Savings Ultra soft microfiber for superior comfort, wrinkle and shrink resistant, various solid colors are available  Easy care fabric is machine washable and dryer safe."
+    ],
+    "price": "24.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91v+37I1SpL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/819Ekm8YV8L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81NXb0cjGKL._AC_SL1500_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/30fc5d8739ab4b5faa0b4a14cd16f107?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/41d8Drw8vYL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41RA1Uu+N0L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41XpsWQPwwL._AC_.jpg"
         ],
-        "user_id": [
-            "AHHPMFRVUHTY46GPSULJR4MKJS2Q"
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41d8Drw8vYL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41RA1Uu+N0L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41XpsWQPwwL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
         ]
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Item Form\": \"Oil\", \"Number of Items\": \"1\", \"Use for\": \"Face\", \"Skin Type\": \"All\", \"Item Volume\": \"30 Milliliters\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.04 x 1.97 x 1.73 inches; 4.23 Ounces\"}",
-    "parent_asin": "B016MNB4HQ",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "EVOLIVE",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Sheets & Pillowcases",
+        "Sheet & Pillowcase Sets"
+    ],
+    "details": "{\"Size\": \"Queen\", \"Material\": \"Microfiber\", \"Color\": \"Black\", \"Pattern\": \"Solid\", \"Brand\": \"EVOLIVE\", \"Number of pieces\": \"4\", \"Special Feature\": \"Shrink Resistant\", \"Style\": \"Modern\", \"Included Components\": \"Pillowcase, Flat Sheet\", \"Closure Type\": \"Zipper\", \"Care instructions\": \"Machine Wash\", \"Theme\": \"solid\", \"Package Dimensions\": \"11.5 x 10 x 4.3 inches\", \"Item Weight\": \"3.29 pounds\", \"Manufacturer\": \"Evolive\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1169585, \"Sheet & Pillowcase Sets\": 3252}, \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B07J437YQD",
     "bought_together": null,
     "subtitle": null,
     "author": null

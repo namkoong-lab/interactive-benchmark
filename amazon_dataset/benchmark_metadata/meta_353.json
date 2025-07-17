@@ -1,20 +1,64 @@
 {
-    "main_category": "All Beauty",
-    "title": "Sculpt & Tone - 8 oz.",
-    "average_rating": 4.1,
-    "rating_number": 3,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "100% Himalayan Salt Natural Rock Square Shape Candle Holders - Home Decor Handcrafted Pure Pink Himalayan Crystal Salt Rock Tea Light Candle Holder - Set of 2 (Square Shape)",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Himalayan candle holder; Himalayan Salt Candle Holders are unique; The holders are minded and chipped by hand in the Himalayan Mountains. Himalayan Salt are blocks of pure Himalayan salt. They come from Pakistan, known as top in the world in craftsmanship.",
+        "Home decor tea light Himalayan salt candle holders are perfect for the design-conscious home. It will fit right at the center of a coffee table, bedside table. And a beautiful accent holder for meditation and yoga spaces.",
+        "The product size is 3-3.5\" in length, width and height. The weight is 3.5-4.3 lbs. This is sold in a set of 2. Please note tealight candles not included and exact sizes may vary.",
+        "Great gift idea for mom gifts, dad gifts, Christmas gift , gifts for men , gifts for women , coworker gifts and even your roommate!",
+        "We strive to provide the best customer service. If you have any questions, please feel free to contact us, our customer service staff will reply you within 24 hours."
+    ],
+    "description": [
+        "Himalayan candle holder; Himalayan Salt Candle Holders are unique; The holders are minded and chipped by hand in the Himalayan Mountains. Himalayan Salt are blocks of pure Himalayan salt, they come from Pakistan, known as top in the world in craftsmanship.  The timeless natural shape of this votive candle holder will prove elegant in any room of your home; The warm glow given off by the votive flame within the salt crystal candle holder will provide a soothing, tranquil environment. The Himalayan natural crystal salt lamp also works as an air purifier. When lit, the lamp emits negative ions that fight against positively charged particles that cause you to feel stuffy and sluggish.  Salt candle holders are thoughtful gift for your loved one's for every special occasions Like Halloween, Thanksgiving Day, Cyber Monday, Black Friday, Christmas, and New Year Eve. It's the Perfect Choice for your Love One's with it's Superior Quality to Brighten up your Mood and Create a more Romantic Atmosphere for your Room!"
+    ],
+    "price": "18.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41QIp5q8kNL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31mq5uPP7VL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21xHTdsSYcL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41m5xigxZoL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/3140J7WQ09L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41QIp5q8kNL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31mq5uPP7VL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/21xHTdsSYcL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41m5xigxZoL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/3140J7WQ09L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"UPC\": \"077920999950\"}",
-    "parent_asin": "B004Q8ASRC",
+    "store": "Genetic Los Angeles",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Candles & Holders",
+        "Candleholders",
+        "Tea Light Holders"
+    ],
+    "details": "{\"Color\": \"Natural\", \"Material\": \"Crystal\", \"Brand\": \"Genetic Los Angeles\", \"Number of Pieces\": \"2\", \"Theme\": \"Wedding\", \"Mounting Type\": \"Tabletop\", \"Package Dimensions\": \"6.3 x 3.15 x 2.95 inches\", \"Item Weight\": \"4.4 pounds\", \"Manufacturer\": \"Bedding Town\", \"Country of Origin\": \"China\", \"Best Sellers Rank\": {\"Home & Kitchen\": 5211868, \"Tea Light Candle Holders\": 6245}, \"Date First Available\": \"March 4, 2021\"}",
+    "parent_asin": "B08Y4FCY7X",
     "bought_together": null,
     "subtitle": null,
     "author": null

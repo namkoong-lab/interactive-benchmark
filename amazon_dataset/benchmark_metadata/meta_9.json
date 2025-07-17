@@ -1,20 +1,45 @@
 {
-    "main_category": "All Beauty",
-    "title": "4 Pieces Satin Bonnet Adjustable Sleep Cap Double Layer Printed Hair Bonnet Large Reversible Sleeping Silk Night Hair Cap for Women Natural Curly Hair (Floral, Flamingo, Flower)",
-    "average_rating": 4.3,
-    "rating_number": 66,
+    "main_category": "Amazon Home",
+    "title": "KOECKRITZ 12'x4' - Rock-Brown-Multi - Indoor/Outdoor Area Rug Carpet, Runners & Stair Treads with a Light Weight Latex Backing",
+    "average_rating": 4.7,
+    "rating_number": 2,
     "features": [],
-    "description": [],
-    "price": "None",
+    "description": [
+        "Unsurpassed in quality and style without sacrificing affordability. In addition to their beauty and durability, Koeckritz area rugs are made from superior materials. Koeckritz area rugs are the premium choice when it comes to color and value as they provide unique interpretations for traditional and modern interiors. Decorate the office, den, living room, dining room, kitchen, or bedroom. Easy to clean. Please Note that size and color representation are subject to manufacturing variance and may not be exact. Due to flash photography and monitor settings colors may vary ever so slightly compared to the actual item of which you will receive. Photos are as accurate as possible. Each rug is manufactured with the same colors as pictured, however they can be manufactured from slightly different Dye Lots. Meaning when the material is dyed it can vary in shade ever so slightly. Shipping due to standard shipping size limitations some rugs will have to be folded to meet the shippers’ required dimensions. This may cause some minor creasing when you first receive your rug. Simply unfold and lay flat in your desired location and these creases will diminish in time."
+    ],
+    "price": "132.71",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71ykceUWUmL._AC_SL1024_.jpg",
+            "https://m.media-amazon.com/images/I/81-GtGYxE4L._AC_SL1024_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61QcbtZ0YtL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/618XDeCvVDL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61QcbtZ0YtL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/618XDeCvVDL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Geyoga",
-    "categories": [],
-    "details": "{\"Package Dimensions\": \"12.49 x 9.97 x 1.46 inches; 7.51 Ounces\"}",
-    "parent_asin": "B08P7LXKP7",
+    "store": "KOECKRITZ",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Rugs, Pads & Protectors",
+        "Area Rugs"
+    ],
+    "details": "{\"Pattern\": \"Solid\", \"Shape\": \"Rectangular\", \"Special Feature\": \"Lightweight\", \"Material\": \"Olefin\", \"Pile Height\": \"Low Pile\", \"Product Dimensions\": \"1\\\"L x 1\\\"W\", \"Rug Form Type\": \"Area Rug\", \"Style\": \"Modern\", \"Brand\": \"KOECKRITZ\", \"Theme\": \"modern\", \"Construction Type\": \"Machine Made\", \"Back Material Type\": \"Rubber\", \"Manufacturer\": \"Koeckritz Rugs\"}",
+    "parent_asin": "B007UAN7H6",
     "bought_together": null,
     "subtitle": null,
     "author": null

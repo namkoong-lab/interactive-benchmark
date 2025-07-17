@@ -1,22 +1,47 @@
 {
-    "main_category": "All Beauty",
-    "title": "Broadway Colors (1) Buttery Matte lip cream Summer Time - 0.2 fl oz",
-    "average_rating": 5.0,
+    "main_category": "Amazon Home",
+    "title": "Lemon Lavender",
+    "average_rating": 4.6,
     "rating_number": 5,
-    "features": [],
-    "description": [
-        "BROADWAY Buttery Matte Lip Cream is a pigmented, lightwight, creamy matte formula for long-lasting, smudge-proof wear."
+    "features": [
+        "Top Note: Tangerine, Lemon, Aromatic Lavender. Top is the initial impression of the fragrance.",
+        "Mid Note: Fruity Notes, Orange, Petitgrain, Eucalyptus. Middle is the main body of the scent.",
+        "Base Note: Vanilla, Hints of Spice . Base is its final impression.",
+        "Lead-free, 100% natural fibers, and hand straightened to ensure it is centered for the best burn possible.",
+        "Burn Time: Up to 15 hours"
     ],
-    "price": "7.99",
+    "description": [
+        "Soothing and sweet lavender comes together with tangy lemon citrus to create a powdery fresh blend that's clean and inviting. The combination of two classic fragrances offers lavender lovers the opportunity to enjoy the flower's coveted scent in a fresh, new way. The candle's soft purple color tones also offer up new opportunities for freshening up your home decor."
+    ],
+    "price": "8.5",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31-3T76UWOL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31-3T76UWOL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Broadway Colors",
-    "categories": [],
-    "details": "{\"Brand\": \"Broadway Colors\", \"Skin Type\": \"All\", \"Item Form\": \"Cream\", \"Finish Type\": \"Matte\", \"Coverage\": \"Full\", \"Package Dimensions\": \"2.01 x 1 x 1 inches; 1 Pounds\", \"UPC\": \"731509692075\"}",
-    "parent_asin": "B095NB5MF2",
+    "store": "Yankee Candle",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Candles & Holders",
+        "Candles"
+    ],
+    "details": "{\"Brand\": \"Yankee Candle\", \"Color\": \"Lavender\", \"Item Weight\": \"0.01 Ounces\", \"Number of Items\": \"1\", \"Scent\": \"Fresh\", \"Operating Time\": \"15 Hours\", \"Are Batteries Included\": \"No\", \"Specific Uses For Product\": \"Scent\", \"Occasion\": \"Home\", \"Special Feature\": \"Soft\", \"Style\": \"Classic\", \"Theme\": \"Floral\", \"Size\": \"Samplers Votive Candle\", \"Unit Count\": \"1.0 Count\", \"Package Dimensions\": \"4.72 x 4.57 x 2.28 inches\", \"Department\": \"Candle\", \"Manufacturer\": \"Yankee Candle Company\", \"Item model number\": \"11009\", \"Best Sellers Rank\": {\"Home & Kitchen\": 4842955, \"Candles\": 53689}, \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B000PTOP8Y",
     "bought_together": null,
     "subtitle": null,
     "author": null

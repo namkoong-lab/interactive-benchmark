@@ -1,20 +1,54 @@
 {
-    "main_category": "All Beauty",
-    "title": "Naked Nails Refills Replacement Parts Buffers, Files & Shines",
-    "average_rating": 4.5,
-    "rating_number": 113,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "I'M Not Yelling I Am Armenian Armenia Coffee Tea Colored Inside And Handle Mug White/Blue",
+    "average_rating": 5.0,
+    "rating_number": 5,
+    "features": [
+        "PREMIUM QUALITY: Our colorful coffee cups are made of high quality ceramic that will last for years. Don’t pour your delicious coffee into plastic cups anymore but use ceramic to preserve its real taste and to be environmentally friendly.",
+        "PERFECT CAPACITY: These 2 tones cute coffee mugs and tea cups allow you to pour 11oz. This is just the right amount for your coffee or tea to start your journey on the right foot and enjoy the day!",
+        "HOT & COLD BEVERAGES: These coffee mugs for women and men can easily handle cold or hot beverages. Whether you pour really hot tea, soup, or even iced coffee, our ceramic mugs will handle it better than glass or plastic.",
+        "EASY EVERYDAY CARE: This tea cup can be put in the microwave to warm up your beverage and is so easy to wash and to re-use over and over. Just wash it by hand or simply throw it in the dishwasher and call it a day!",
+        "UNIQUE DESIGNS: We put a lot of thought and time in the design of our funny coffee mug and tea cups. We offer you the best selection of funny coffee mugs, as well as the best variety of mesmerizing graphic designs."
+    ],
+    "description": [
+        "Color Handle Funny Coffee Mug & Tea Cup",
+        "Bright up your mornings with this perfect office mug for every tea or coffee enthusiasts. Drink your favorite beverage in the funniest way during meetings or simple gathering with friends and family. Use it at home or in the office as a pen holder, displaying the funny or cute design to everyone.",
+        "GREAT GIFT IDEA: Perfect for someone who is looking for cute mugs, gag gifts, tea mug, ceramic mug, ceramic coffee mug, cool mugs, coffee mugs for men, coffee mugs for women, coffee mug, coffee cup, funny mugs, hilarious coffee cups, Christmas gift, Hanukkah gift, white elephant gift, housewarming gifts, gifts for coworkers, friend birthday gifts, and wedding shower gifts.",
+        "Our designs are professionally printed on both sides of our funny mugs with state-of-the-art equipment guaranteed to last for years. We have more than 12 years of experience in the printing industry to offer you stunning detail and rich lifelike colors. All prints are carefully made in our lab in Tampa, Florida.",
+        "PERFECT DRINKWARE COMPANION AND COFFEE ACCESSORIES",
+        "** Made from high quality ceramic that will last forever ** Perfect 11oz capacity for your morning coffee or afternoon tea ** Hot and cold beverages ** Microwave and dishwasher safe for an easy care ** Design professionally printed on both sides ** Easy grip colorful handle makes it convenient to grab and to enjoy the delicious taste of your tea or coffee."
+    ],
+    "price": "20.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61x6Ne4ljRL._AC_SL1010_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/418KoMlCqAL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/418KoMlCqAL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Naked Nails",
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"9.37 x 4.65 x 1.34 inches; 1.45 Ounces\", \"UPC\": \"767131530010\", \"Manufacturer\": \"Naked Nails\"}",
-    "parent_asin": "B01CLV0KI2",
+    "store": "Style In Print",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Novelty",
+        "Drinkware",
+        "Coffee Mugs"
+    ],
+    "details": "{\"Brand\": \"Style In Print\", \"Material\": \"Ceramic\", \"Color\": \"White/Blue\", \"Capacity\": \"11 Ounces\", \"Special Feature\": \"Microwave Safe\", \"Style\": \"Casual\", \"Theme\": \"Colorful\", \"Occasion\": \"Everyday\", \"Included Components\": \"Handle\", \"Shape\": \"Round\", \"Pattern\": \"Letter Print\", \"Product Care Instructions\": \"Machine Wash, Hand Wash Only\", \"Unit Count\": \"1.0 Count\", \"Number of Items\": \"1\", \"Package Dimensions\": \"6.8 x 6.5 x 6.3 inches\", \"Item Weight\": \"14.4 ounces\", \"Manufacturer\": \"Style in Print\", \"Item model number\": \"CHMUGYELLCOF070_WBL\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3813425}, \"Date First Available\": \"October 31, 2017\"}",
+    "parent_asin": "B0771H78RW",
     "bought_together": null,
     "subtitle": null,
     "author": null

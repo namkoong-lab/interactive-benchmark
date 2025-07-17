@@ -1,20 +1,75 @@
 {
-    "main_category": "All Beauty",
-    "title": "Kicosy 4 Pack Makeup Sponge Holder Beauty Sponge Holder Drying Rack Egg Powder Puff Display Stand - Gold",
-    "average_rating": 4.4,
-    "rating_number": 4,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "SUPERIOR Cotton Duvet Cover Set 1500 Thread Count Egyptian, King/California King, Gold",
+    "average_rating": 3.1,
+    "rating_number": 8,
+    "features": [
+        "100% Egyptian Cotton",
+        "SUBTLE SOFTNESS. Our 100% Egyptian Cotton is specially combed to remove all but the finest and longest fibers, making these 1500 thread count duvet cover sets the ultimate in luxury",
+        "PERFECT FIT. This 3 Piece King/California King Duvet Cover Set Includes: One Duvet Cover 106\" x 92\", and Two Pillow Shams 20\" x 36\" each. The duvet cover is closed by clear and hidden buttons for a neat and tailored look",
+        "CLASSIC STYLE. The variety of vibrant colors are available in various sizes, featuring a lustrous sheen from the sateen weave. Complete your bedroom décor with the coordinating Pillowcases and Sheet Sets for a plush, put together look",
+        "EASE OF CARE. These beautiful duvet cover sets are colorfast and machine washable. For drying, tumble dry low and remove them promptly from dryer. Always follow care label instructions for best results"
+    ],
+    "description": [
+        "***Impressions is now Superior brand***",
+        "AFFORDABLE LUXURY LINENS.",
+        "Surpassing all expectations, this 1500 thread count duvet cover set woven from 100% Egyptian Cotton is the culmination of expert craftsmanship and tailoring. Coordinating sheet sets, as well as extra pillowcase sets, are available to pair with these duvet covers, giving bedrooms a more complete, tailored look. The indulgently soft 1500 thread count 100% Genuine Egyptian Cotton provides simple luxury and lasting durability at an affordable price.",
+        "HERITAGE.",
+        "We have been manufacturing fine linens for over 40 years. We are experts in manufacturing high quality textiles and pride ourselves on only producing the finest products."
+    ],
+    "price": "149.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61ZRoZpoBrL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61WLFR+gnbL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81cd5fgX6QL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81ZWSOGRfEL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81EUFte-NWL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/711EMhaF+iL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71hPIJSCiKL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31INQDlOHHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31Em8HAk9RL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31TL+z3SA-L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21qWa8UtUTL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41YLGIWblpL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41s5BjAPp0L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41G24rJyOQL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31INQDlOHHL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31Em8HAk9RL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31TL+z3SA-L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/21qWa8UtUTL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41YLGIWblpL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41s5BjAPp0L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41G24rJyOQL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "KICOSY",
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.39 x 4.37 x 2.17 inches; 8.5 Ounces\", \"UPC\": \"602310364362\"}",
-    "parent_asin": "B078KLDSXV",
+    "store": "SUPERIOR",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Duvet Covers & Sets",
+        "Duvet Cover Sets"
+    ],
+    "details": "{\"Size\": \"King/California King\", \"Material\": \"Cotton\", \"Color\": \"Gold\", \"Pattern\": \"Solid\", \"Brand\": \"SUPERIOR\", \"Number of Pieces\": \"3\", \"Special Feature\": \"Lightweight\", \"Style\": \"Modern & Contemporary\", \"Included Components\": \"One Duvet Cover, Two Pillowshams\", \"Closure Type\": \"Button\", \"Thread Count\": \"1500\", \"Age Range (Description)\": \"Adult\", \"Product Care Instructions\": \"Tumble Dry Low\", \"Item Dimensions LxWxH\": \"10.25 x 14.63 x 4.13 inches\", \"Item Display Dimensions\": \"14.63 x 4.13 inches\", \"Product Dimensions\": \"10.25 x 14.63 x 4.13 inches\", \"Item Weight\": \"9.3 pounds\", \"Manufacturer\": \"Home City Inc.\", \"Item model number\": \"1500KCDC SLGL\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1423790, \"Bedding Duvet Cover Sets\": 2760}, \"Is Discontinued By Manufacturer\": \"No\", \"Fabric Type\": \"100% Egyptian Cotton\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B01LAWET5I",
     "bought_together": null,
     "subtitle": null,
     "author": null

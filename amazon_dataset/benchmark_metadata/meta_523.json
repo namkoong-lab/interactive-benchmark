@@ -1,20 +1,91 @@
 {
-    "main_category": "All Beauty",
-    "title": "Prep U Foaming Body Wash for Teens - All Natural, Cold Process, Paraben Free - Citrus Mint Scent",
-    "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Christmas Curtains 52 x 84 Inch for Living Room - Grommet Snowflakes Decorations Printed Plaid Fabric Blackout Curtains - Window Drapes for Bedroom and Kid Room Indoor, 2 Panels",
+    "average_rating": 4.7,
+    "rating_number": 20,
+    "features": [
+        "2 Curtain Panels, Available Sizes: 52\"W x 84\"L, 52\"W x 95\"L, 52\"W x 108\"L, Measure your pole size before you choosing curtains. Each panel has 8 grommets with a 1.6-inch inner diameter (external diameter is 2.3 inch), universal fit for most of the curtain poles.",
+        "Elegant Curtains: These durable indoor curtains are made of soft polyester fabric with elegant folded edges and a luxurious look. The Christmas print design of snowflakes Christmas trees and elk makes this curtain add romance and warmth to your interior design in the snowy winter.",
+        "Enjoy Christmas with Family and Friends: A great way to spend time with your family and friends during the holiday season.Decorate your home with Xmas design highlights the holiday atmosphere. Life needs a sense of ritual. As a gift for romantic life, let's create the greatest value with this Christmas curtain.",
+        "Various Occasions: Our holiday decor curtains can easily dress up your living room, bedroom, balconies, front or back porch. Perfect for Christmas party use, holidays, dinner party, new year, Xmas, family activities, banquet, cafeteria, cafe, outdoor dinner, restaurant, club, potlucks, parties, special occasions etc.",
+        "Care Instructions: Machine wash in cold water, tumble dry low, and iron on low heat. Don’t bleach. Wrinkles will be disappeared after hanging for a few days. Quick ironing on low temperature or steam clean when needed."
+    ],
+    "description": [
+        "This decorative Christmas curtains have a fun pattern that is suited to party and entertaining throughout the holiday season. Easy to install allow you to spend more time enjoying the party. Full of Christmas elements will give you more festive atmosphere. Friends and family of all ages can relax and celebrate indoors or out, with no worries about its easy-care.",
+        "Features:",
+        "Available in 3 sizes: 52\"W x 84\"L, 52\"W x 95\"L, 52\"W x 108\"L. Please measure your windowssize before buying. These reusablecurtains are",
+        "made from high quality 100% polyester with elegant hemmed edges & seamless construction.  Perfect for living room, bedroom, balconies, front or back porch, and more use, party, holidays, dinner party, family activities, new year, Xmas, etc. The rust-proof loops are easy to install and give the curtain years of use without tearing up the edges.",
+        "Care Instructions:",
+        "Machine washable in cold water or hand washable. Iron at low settings if required. Do not bleach."
+    ],
+    "price": "39.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/919gpdjO5hL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91nKfsfj+3L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81wDEYIsAPL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91zFGs1xlFL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91ELCBO6NoL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/712ynLF4wQL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/514rtoATMFL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51R-U4LkliL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51F0DqEGNIL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61vGyhA44rL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51OJvdUY1qL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51L1iKC4WeL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/514rtoATMFL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51R-U4LkliL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51F0DqEGNIL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61vGyhA44rL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51OJvdUY1qL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51L1iKC4WeL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
     },
-    "store": "Prep U ;",
-    "categories": [],
-    "details": "{\"Item Form\": \"Foam\", \"Skin Type\": \"Sensitive\", \"Brand\": \"Prep U ;\", \"Scent\": \"Citrus, Mint\", \"Age Range (Description)\": \"Youth\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.2 x 3 x 2 inches; 1.76 Ounces\", \"UPC\": \"720260684962\"}",
-    "parent_asin": "B07BQZRMWL",
+    "videos": {
+        "title": [
+            "Christmas Curtains, add sparkle to your holiday decor! ",
+            "QUEMAS Christmas Curtains for Living Room",
+            "Christmas Curtains, create a soft touch to your home decor!",
+            "Buffalo Christmas Blackout Curtains Living Room Decoration",
+            "Christmas Tablecloth & Curtains, make your home sparkle!"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/04636ae965cd4c5fad47a54507db664c?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0cbb87a11c2741bbbf9ad66d78859a89?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0c4a66afb86c4ad599fc5818799008f5?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0447868932ef49479e60ae95574e35f0?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/06fcfdaa807d4d43bab12fc4b8e33562?ref=dp_vse_rvc_4"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "store": "Generic",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Window Treatments",
+        "Curtains & Drapes",
+        "Panels"
+    ],
+    "details": "{\"Brand\": \"Generic\", \"Color\": \"Red\", \"Material\": \"Fabric\", \"Product Dimensions\": \"84\\\"L x 52\\\"W\", \"Special Feature\": \"Durable\", \"Room Type\": \"NO, Playroom\", \"Style\": \"Elegant\", \"Pattern\": \"Geometric\", \"Curtain Form\": \"Drapes\", \"Top Style\": \"Grommet\", \"Size\": \"52 x 84 Inch\", \"Included Components\": \"Grommet, 2 Panels\", \"Age Range (Description)\": \"Adult\", \"Product Care Instructions\": \"Machine Wash, Hand Wash Only\", \"Package Weight\": \"1.3 Kilograms\", \"Item Weight\": \"2.86 pounds\", \"Item model number\": \"SDCL-5284\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1685290, \"Window Curtain Panels\": 10227}, \"Date First Available\": \"August 29, 2022\"}",
+    "parent_asin": "B0BC93MK45",
     "bought_together": null,
     "subtitle": null,
     "author": null

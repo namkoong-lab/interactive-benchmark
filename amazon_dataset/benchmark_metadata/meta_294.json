@@ -1,20 +1,74 @@
 {
-    "main_category": "All Beauty",
-    "title": "FANXITON 20 Pairs False Eyelashes 4 Styles Mixed Fluffy Long Lashes 3D Volume Faux Mink Fake Lashes Pack",
-    "average_rating": 4.3,
-    "rating_number": 53,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "NYMB Polyester Fabrics Bathroom Shower Curtain Black and White, Tartan Checkered Buffalo Plaid Lattice Shower Curtain Sets, Extra Long Fabric Shower Curtain for Bathroom",
+    "average_rating": 3.7,
+    "rating_number": 48,
+    "features": [
+        "Polyester",
+        "69 INCHES WIDE x 70 INCHES LONG: Fabric tablecloth, Waterproof, durable waterproof polyester fabric, preventing water from splashing out of the bathroom shower stall.",
+        "PACKAGE: Includes 12PCS shower curtain hooks,Easy to hang.",
+        "Very easy to care,3D Digital printing, Bright colors will bring you you a good mood.",
+        "USE: Our shower curtain can be used as window curtains, tapestry, wall decor, wallpapers,Can be used in bathroom,living room,home, party, hotel, restaurant, cafe, kitchen.",
+        "GUARANTEE: No matter what time you have any dissatisfaction,just feel freely to send me message,we will solve it for you as soon as possible."
+    ],
+    "description": [
+        "ABOUT US",
+        "NYMB is a long-established bathroom accessories brand. We have been producing and selling shower curtains, bath mats and tapestries for many years. Each pattern is carefully selected by the designer, in order to bring extra spark to our dear customer's bathroom and life.",
+        "FEATURE:",
+        "Made of 100-percent polyester fabric. Coordinates effortlessly with surrounding decors. Transform any bath into an elegant spa-like oasis with fabric shower curtain.Environment-Friendly: We use high quality eco-friendly ink for printing, there is no toxic or odors (better than the PVC, vinyl or plastic shower curtains).Providing a safe and healthy environment for you and your family.Our unique & modern designs match well with various color palettes of towels, rugs, bathroom mats and any other bathroom accessories",
+        "NOTICE:",
+        "1 Don’t bleach or tumble dry.2 Machine wash cold or wipe clean with a damp cloth.3 Due to differences in computer monitors display, there can be color variations between the actual product and your screen.4 Product sizes that measured by hand lead to the difference between about 1-2 Inch due to everyone’s measurement technique.",
+        "PACKAGE INCLUDE:",
+        "1 x Shower Curtain12PCSS Hooks",
+        "RETURN & EXCHANGE",
+        "If you are not satisfied with the item, please contact us in time, we will provide you with quality service 24 hours a day.Until your question ends satisfactorily"
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71RA3dhQuuL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/81A40v5ZRdL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81K7ioigQhL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/711p1zW4g3L._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61mcRgMjnBL._AC_SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61HuKEvqonL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51jaCT+sk-L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/612FP2Bs+uL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/618jXhGXJsL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41ULf9mCQsL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61HuKEvqonL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51jaCT+sk-L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/612FP2Bs+uL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/618jXhGXJsL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41ULf9mCQsL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "FANXITON",
-    "categories": [],
-    "details": "{\"Color\": \"Black\", \"Brand\": \"FANXITON\", \"Material\": \"Faux Mink\", \"Material Feature\": \"Cruelty Free\", \"Item Form\": \"Pair\", \"Package Dimensions\": \"8.5 x 8.07 x 0.67 inches; 1.45 Ounces\"}",
-    "parent_asin": "B08SGXFM81",
+    "store": "NYMB",
+    "categories": [
+        "Home & Kitchen",
+        "Bath",
+        "Bathroom Accessories",
+        "Shower Curtains, Hooks & Liners",
+        "Shower Curtains"
+    ],
+    "details": "{\"Brand\": \"NYMB\", \"Color\": \"Muiti\", \"Material\": \"Polyester, Polyester Blend\", \"Product Dimensions\": \"70\\\"L x 69\\\"W\", \"Special Feature\": \"Durable,Waterproof\", \"Room Type\": \"Bathroom\", \"Style\": \"Modern\", \"Pattern\": \"Tartan,Checkered,Plaid\", \"Theme\": \"Checkered,Plaid\", \"Top Style\": \"Grommet\", \"Size\": \"69''W X 70''L\", \"Included Components\": \"Hook\", \"Age Range (Description)\": \"Adult\", \"Product Care Instructions\": \"Machine Wash\", \"Package Weight\": \"0.39 Kilograms\", \"Item Weight\": \"13.7 ounces\", \"Manufacturer\": \"NYMB\", \"Country of Origin\": \"China\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2172632, \"Shower Curtains\": 3765}, \"Fabric Type\": \"Polyester\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B0865N6YYD",
     "bought_together": null,
     "subtitle": null,
     "author": null

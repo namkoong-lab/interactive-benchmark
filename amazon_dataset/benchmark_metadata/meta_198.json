@@ -1,20 +1,113 @@
 {
-    "main_category": "All Beauty",
-    "title": "Chameleon Mirror Nail Glitters Powder Auroras Effect Nail Art Chrome Pigment Decoration 8 Box",
-    "average_rating": 4.0,
-    "rating_number": 32,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "OREMAKE 8-INCH Kiritsuke Chef's Knife, Japanese Damascus T-CO Steel 69-Layer Forged Cooking Knife, Multi-Purpose Professional Kitchen Knife for cutting, slicing, paring, Ergonomic G10 Handle",
+    "average_rating": 4.2,
+    "rating_number": 15,
+    "features": [
+        "【New Japanese Damascus steel】Forged 69-layer construction with a T-CO steel core provides excellent toughness, strength, and durability. The core is flanked by 2 layers of nickel alloy for added corrosion resistance.",
+        "【Exceptional sharpness and edge retention】The T-CO core has a higher carbon content than AUS-10 or VG-10 and boasts a hardness of 60±2 HRC (Rockwell) achieved by a vacuum heat treatment, resulting in an extremely sharp blade that holds its edge well.",
+        "【Efficient slicer】The 1.9 mm thin blade has a cutting edge hand-sharpened to a 9-13 degree angle per side. It glides effortlessly through food with clean, precise cuts. The reverse tanto tip allows delicate precision work.",
+        "【Superb control and comfort】The knife is precision-engineered with a perfect balance between the blade and handle for optimal control. Its handle is ergonomically shaped to fit comfortably in your hand.",
+        "【Long-lasting G10 handle】The G10 handle is highly resistant to heat, cold, water penetration, as well as acids, and it will not deform, break, chip, or wear. It is well-polished for easy cleaning."
+    ],
+    "description": [
+        "The OreMake Sheepdog knife series strives to meet the needs of culinary enthusiasts. This series combines a look inspired by Sheepdog pocket knives with the latest Japanese Damascus steel (T-CO69). It boasts a forged 69-layer construction that creates an eye-pleasing Damascus pattern and protects and strengthens the core. With a higher carbon content than AUS-10 or VG-10, the T-CO steel core provides superior out-of-the-box sharpness and edge retention. The 2 flanking layers of nickel alloy improve the core’s corrosion resistance. Each knife is perfectly balanced with an ergonomic, brass-accented G10 handle for comfortable control and a high-end look. The Nakiri knife is a Japanese-style vegetable knife designed for chopping, slicing, and dicing vegetables and herbs. It is also excellent for cutting fruits. The Kiritsuke knife is a multipurpose Japanese-style knife with the main purpose of slicing fish. It can also be used to slice meat or cut vegetables, herbs, and fruits."
+    ],
+    "price": "85.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71tYg4xQPML._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81KIkuClWGL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/711+LW4gZSL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81FcK+rADVL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71zMFcr1nXL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81SWOmXDTLL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71GzEyROx3L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61NG+mYrjkL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71FKgM3Ov8L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41kNec1mAvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51kuJql+6pL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51O5VDZRZGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51iEYD+PigL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51U3wmq0kkL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/519sceb2AlL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/413Rm55Gw0L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41usKtRRHvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/412Ecs6M2uL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41kNec1mAvL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51kuJql+6pL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51O5VDZRZGL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51iEYD+PigL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51U3wmq0kkL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/519sceb2AlL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/413Rm55Gw0L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41usKtRRHvL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/412Ecs6M2uL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08"
+        ]
     },
-    "store": "SEISSO",
-    "categories": [],
-    "details": "{\"Product Dimensions\": \"1.3 x 5.9 x 7.8 inches; 3.21 Ounces\", \"UPC\": \"718879972105\"}",
-    "parent_asin": "B0828Y9FM1",
+    "videos": {
+        "title": [
+            "Chef's Knife-OREMAKE, Damascus Steel Forged, G10 Handle",
+            "8-INCH Kiritsuke Japanese Damascus Steel Chef's Knife",
+            "Nice and sharp, seems well-made!",
+            "Razab Professional Chef Knife 8 inch Unboxing",
+            "BRODARK Damascus Chef Ebony Handle-High Quality, Easy to Use",
+            "SHAN ZU 8-Inch Damascus Chef Knife",
+            "Sunnecko Damascus Chef Knife",
+            "KATSU Chef Knife - Damascus - Japanese Kitchen Knife ",
+            "aisyoko Super sharp Damascus steel 8-inch chef's knife",
+            "SANMUZUO 8inch Chef Knife damascus & resin"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0e97c98ca7e1463d96a41345e862ec83?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0df6d560eef64c4f88823b3a28ef4e22?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/02329074490f480c8f53aca42c90e4b4?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/051fbadef3d9483fb5271058c74663b7?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0f7b6431156140db937b5c779126296b?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/0cd6ada1f2534a70a0051d0df2548f5f?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/061e6cb7ed7a47d39496813e5fffb492?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/093f82421b824c2f9dfa9aa26cb8b0d7?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/0498d19976164cfebde51f52708957c5?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/086796ac67e94cc1b789b404b111569d?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "",
+            "",
+            "AGRSQA5AX76NZB2RHTPUFJXDZIRQ",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "store": "OREMAKE",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen Utensils & Gadgets",
+        "Kitchen Knives & Accessories",
+        "Chef's Knives"
+    ],
+    "details": "{\"Blade Material\": \"Carbon\", \"Brand\": \"OREMAKE\", \"Color\": \"Black\", \"Handle Material\": \"Alloy Steel\", \"Blade Edge\": \"Plain\", \"Blade Length\": \"7.01 Inches\", \"Construction Type\": \"Forged\", \"Item Weight\": \"1.23 pounds\", \"Blade Color\": \"Damascus pattern\", \"Is Dishwasher Safe\": \"No\", \"Number of Pieces\": \"8\", \"Item Length\": \"12.82 Inches\", \"Product Dimensions\": \"14.84 x 3.94 x 1.38 inches\", \"Item model number\": \"O-8-Inch Kiritsuke Knife#GD-US\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 602393, \"Paring Knives\": 850, \"Chef's Knives\": 3122}, \"Date First Available\": \"March 13, 2022\"}",
+    "parent_asin": "B09VFN2763",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,26 +1,72 @@
 {
-    "main_category": "All Beauty",
-    "title": "Body wave Lace Front Wigs Human Hair 4X4 Body Wave 150% Density Pre Plucked with Baby Hair Natural Black 100% Unprocessed Brazilian Virgin Human Hair Wigs 24 inch",
-    "average_rating": 3.4,
-    "rating_number": 15,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Funny Motivational Quotes Life Is Better At The Lake Shower Curtain, Lake Rules Relax Go Fishing Gather with Family Quote on Rustic Wooden for RV Camping Travel Bathroom Curtains Decor, (69\"WX70\"H)",
+    "average_rating": 4.0,
+    "rating_number": 8,
+    "features": [
+        "⭐FABRIC SHOWER CURTAIN - High quality polyester Funny Quotes Life Is Better At The Lake shower curtain, No shower curtain liner needed, Includes hooks",
+        "⭐ 3D PRINTING - Vibrant colors, Clear image, No fading, No dyes harming health of your family",
+        "⭐ WATERPROOF CURTAIN - Keeps water in the shower.Water glides off and the curtain dries quickly.",
+        "⭐ EASY TO USE - Can be machine washable in cold water.This lake house rules on vintage wood plank shower curtain will compliment any bathroom color.",
+        "⭐ PATTERN - This Go Jump In The Lake shower curtain can be used in bathroom, apartment, condo, hotel, camper, dorm, school shower, athletic club, gym and everywhere else. And for the matching bath rugs, tapestry,kitchen curtain,tablecloths, TV dust covers, wall blankets, sofa towels, bed covers, etc. Please search NYMB on Amazon."
+    ],
+    "description": [
+        "⭐ 3D Digital Printing Anchor Lighthouse Forest Shower Curtain:",
+        "Makeover your bathroom with fun with decorative shower curtains,Keep Water inside, your style outside.A perfect gift for your parents,relatives and friends with all colors and various designs or pictures like fields,forests,animals, plants and all that fantastic,popular,classic,crazy,symbolic paintings,famous landmark and all like that patterns.You can find any themes,styles or interests in our Amazon store.",
+        "⭐ Cool Shower Curtain:",
+        "Size: Approx 69\"X70\". maybe have 1-2cm error. We also can give other size choose,like long shower curtain (69\"X75\"),extra long shower curtain(69\"X84\")or other size you like.These unique designs match well with rugs,bathroom mats and any other bathroom accessories. The wooden palnk board pattern will bring a warm feeling to your lover, making your home comfortable.",
+        "⭐ Package Included:",
+        "Rustic Wooden Shower Curtain 12PC Hooks ⭐",
+        "Tips:",
+        "All the patterns are printed by digital equipment , So Sometimes the Color a litter difference from the objects,pls understand it ,thank u very much . And We need 2-3 workdays to product the cutain, Pls be Patient."
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71lDejZVpiL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71UWCNR7v5L._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71ozAOPU+GL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61Q6LYoZ6lL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61dXWVLFUTL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61BW3-9gvKL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61Q6LYoZ6lL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61dXWVLFUTL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61BW3-9gvKL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
     "videos": {
         "title": [
-            "I love YYgY hair"
+            "Lake Rules Shower Curtain Vintage Wooden Rustic Lodge Cabin",
+            "Rustic Lake Cabin Shower Curtain Relax Inspirational Quotes"
         ],
         "url": [
-            "https://www.amazon.com/vdp/11d5bb40dde345398fb143a647396917?ref=dp_vse_rvc_0"
+            "https://www.amazon.com/vdp/03a951930e4b4cebb2186b7181f5f23e?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0085ecb409434b07b79f6e26248d4225?ref=dp_vse_rvc_1"
         ],
         "user_id": [
+            "",
             ""
         ]
     },
-    "store": "YYgY",
-    "categories": [],
-    "details": "{\"Material\": \"Human Hair\", \"Hair Type\": \"Wavy\", \"Brand\": \"YYgY\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Package Dimensions\": \"12.76 x 10.51 x 3.46 inches; 10.3 Ounces\", \"UPC\": \"881516573338\"}",
-    "parent_asin": "B08LZ76QML",
+    "store": "NYMB",
+    "categories": [
+        "Home & Kitchen",
+        "Bath",
+        "Bathroom Accessories",
+        "Shower Curtains, Hooks & Liners",
+        "Shower Curtains"
+    ],
+    "details": "{\"Brand\": \"NYMB\", \"Color\": \"Multi\", \"Material\": \"Polyester, Polyester Blend\", \"Product Dimensions\": \"70\\\"L x 69\\\"W\", \"Special Feature\": \"Waterproof\", \"Room Type\": \"Kitchen\", \"Style\": \"Rustic\", \"Pattern\": \"print\", \"Theme\": \"Fishing,Funny,Rustic\", \"Top Style\": \"Rod Pocket\", \"Size\": \"69\\\"WX70\\\"H\", \"Included Components\": \"Hook, Liner\", \"Age Range (Description)\": \"Adult\", \"Product Care Instructions\": \"Machine Wash\", \"Package Weight\": \"0.4 Kilograms\", \"Item Weight\": \"14 ounces\", \"Manufacturer\": \"NYMB\", \"Country of Origin\": \"China\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3824890, \"Shower Curtains\": 7518}, \"Date First Available\": \"April 18, 2019\"}",
+    "parent_asin": "B088K5DD5B",
     "bought_together": null,
     "subtitle": null,
     "author": null

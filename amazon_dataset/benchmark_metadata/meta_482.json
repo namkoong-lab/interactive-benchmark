@@ -1,20 +1,59 @@
 {
-    "main_category": "All Beauty",
-    "title": "White Facial Massage Esthetician Bed with Stool",
-    "average_rating": 3.3,
-    "rating_number": 5,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "SARO LIFESTYLE Candy Cane Border Design Christmas Tablecloth",
+    "average_rating": 4.0,
+    "rating_number": 8,
+    "features": [
+        "Size: 65\" x 104\"",
+        "Tablecloth is unlined",
+        "Material: 100% polyester + care: delicate cool wash, hang dry, medium iron reverse side",
+        "Whimsical design, with candy cane edges.",
+        "Pair with matching napkins"
+    ],
+    "description": [
+        "Featuring a candy-cane inspired border, this whimsical Tablecloth is a perfect choice for the holiday season. Sure to catch the eye of your guests and impress your family, The candy cane Tablecloth adds a cheerful touch to the décor. It's easy to pair with other Christmas-inspired prints and patterns."
+    ],
+    "price": "73.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81FpxCdZiDL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91CUlUw-uvL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71EDLBeC0hL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1hxPxDDLEL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41QwhDfAL0L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51AzpSYoMUL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31Rqh8FxYcL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61aHNKTey+L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41QwhDfAL0L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51AzpSYoMUL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31Rqh8FxYcL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61aHNKTey+L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": null,
-    "categories": [],
-    "details": "{}",
-    "parent_asin": "B0062Q6K8C",
+    "store": "SARO LIFESTYLE",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen & Table Linens",
+        "Tablecloths"
+    ],
+    "details": "{\"Brand\": \"SARO LIFESTYLE\", \"Color\": \"Ivory\", \"Material\": \"Polyester\", \"Product Dimensions\": \"104\\\"L x 65\\\"W\", \"Shape\": \"Rectangular\", \"Occasion\": \"Christmas, Holiday\", \"Size\": \"65\\\" x 104\\\"\", \"Number of Sets\": \"1\", \"Product Care Instructions\": \"delicate cool wash, hang dry, medium iron reverse side\", \"Unit Count\": \"1.0 Count\", \"Fabric Type\": \"Polyester\", \"Corner Style\": \"Pleated\", \"Number of Items\": \"1\", \"Item Weight\": \"1.55 pounds\", \"Manufacturer\": \"Saro\", \"Country of Origin\": \"China\", \"Item model number\": \"1633.I65104B\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 239843, \"Tablecloths\": 5091}, \"Date First Available\": \"August 7, 2019\"}",
+    "parent_asin": "B07ZB2BSHK",
     "bought_together": null,
     "subtitle": null,
     "author": null

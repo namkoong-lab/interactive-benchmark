@@ -1,26 +1,61 @@
 {
-    "main_category": "All Beauty",
-    "title": "Mtmei hair 8Packs Pre-stretched Braiding Hair Easy Braid 24 Inch Hot Water Setting Synthetic Yaki Texture Professional Braiding Hair Extensions For Box Braids Twist Crochet Hair(#1B)",
-    "average_rating": 4.1,
-    "rating_number": 17,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "Perfection"
+    "main_category": "Amazon Home",
+    "title": "Victoria Rey Green for The Money 6 INCH Man & Woman Candle KIT * Kit Vela Dinero Verde",
+    "average_rating": 4.3,
+    "rating_number": 50,
+    "features": [
+        "Parafin",
+        "Includes herbs, powders, oil and instructions."
+    ],
+    "description": [
+        "Green for the Money Candle for rituals and spells. Use it for prosperity and all money related rituals for the couple or family. - Green 6\" Tall (15.24cm) ---*--- Vela Dinero Verde para rituales y hechizos. Usela para asuntos de dinero y prosperidad para la pareja. Green, 6 pulgadas de alto."
+    ],
+    "price": "25.95",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            "https://m.media-amazon.com/images/I/71aHXZiwtIL._AC_SL1500_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/ae973c0814ea4b668904f33698cf15a0?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/31ibFIdPEHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41YxF6h831L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41o3QnIk31L._AC_.jpg"
         ],
-        "user_id": [
-            "AGLNLDJK42GLIGG7F3UEW7E5XD3Q"
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31ibFIdPEHL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41YxF6h831L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41o3QnIk31L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
         ]
     },
-    "store": "Mtmei hair",
-    "categories": [],
-    "details": "{\"Brand\": \"Mtmei hair\", \"Material\": \"Human Hair\", \"Extension Length\": \"24 Inches\", \"Hair Type\": \"Straight\", \"Material Feature\": \"Natural\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"10 x 8.2 x 3.9 inches; 1.25 Pounds\", \"UPC\": \"765470972287\"}",
-    "parent_asin": "B07MMQPVSZ",
+    "videos": {
+        "title": [
+            "Hug Couple Candle First Propose Valentine Gift",
+            "How to cast a spell with our candles"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0bf16aa4baf3467c9b9b062abf0c855c?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0f2477b52b9c49aa95252b5d11e47dac?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            ""
+        ]
+    },
+    "store": "Victoria Rey",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Candles & Holders",
+        "Candles"
+    ],
+    "details": "{\"Brand\": \"Victoria Rey\", \"Color\": \"Green\", \"Product Dimensions\": \"1\\\"W x 7\\\"H\", \"Item Weight\": \"1.5 Pounds\", \"Scent\": \"Unscented\", \"Operating Time\": \"1 Days\", \"Are Batteries Included\": \"No\", \"Specific Uses For Product\": \"Money\", \"Shape\": \"Rectangular\", \"Material\": \"Paraffin Wax\", \"Occasion\": \"Money\", \"Special Feature\": \"Non Toxic\", \"Size\": \"6 inch\", \"Unit Count\": \"1.0 Count\", \"Manufacturer\": \"2GoodLuck\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2169003, \"Candles\": 25067}, \"Is Discontinued By Manufacturer\": \"No\", \"Fabric Type\": \"Parafin\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B01M5K69SS",
     "bought_together": null,
     "subtitle": null,
     "author": null

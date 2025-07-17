@@ -1,27 +1,52 @@
 {
-    "main_category": "All Beauty",
-    "title": "Tobacco Vanille 100ml by TRiBUTE8",
-    "average_rating": 3.8,
-    "rating_number": 32,
+    "main_category": "Health & Personal Care",
+    "title": "ARK Creation 50 Wedding Meal Stickers for Place Cards - Place Card Menu Choices - Wedding Meal Choice Stickers (Black, Pasta)",
+    "average_rating": 5.0,
+    "rating_number": 6,
     "features": [
-        "Smooth Oriental",
-        "Tobacco Leaf",
-        "Tonka Bean",
-        "Tobacco Flower"
+        "GREAT VALUE : Each sheet features 50 same color kiss-cut icon stickers with clear boarder, which made with superior quality pvc. It is waterproof !",
+        "DESIGN : We have the most design/Color and best quality for your place card. Perfect for the front or back of your place cards, name tags, escort cards, place mats or even on clothe.",
+        "PERFECT SIZE : Each meal sticker is about 0.5 inch, it is the perfect size for all standard sized place card, name tags, escort cards and gala escort card.",
+        "EASY TO USE: Simply lift the meal place sticker and apply on any flat and clean surfaces.",
+        "SAVE MORE: Get huge discount when you purchase 2 or more."
     ],
     "description": [
-        "A smooth Oriental, Tobacco Vanille opens immediately with opulent essences of Tobacco Leaf and aromatic spice notes. The heart unfolds with creamy Tonka Bean, Tobacco Flower, Vanilla and Cocoa, and finishes with a dry fruit accord, enriched with Sweet Wood Sap."
+        "Don't know how to indicate your meal choices? These stickers are perfect solution for you. You can add them to the top of your menu cards, escort cards, your servers will appreciate the extra effort."
     ],
-    "price": "19.9",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "price": "5.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/911rTGxZ-XL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Fqxsb2IgL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Fqxsb2IgL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "TRiBUTE8",
-    "categories": [],
-    "details": "{\"Brand\": \"TRiBUTE8\", \"Item Form\": \"leaf\", \"Item Volume\": \"100 Milliliters\", \"Scent\": \"Tobacco Vanille\", \"Age Range (Description)\": \"Adult\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.71 x 1.73 x 1.73 inches; 3.88 Ounces\", \"Item model number\": \"TF3\", \"UPC\": \"794168066113 755332567706\", \"Manufacturer\": \"TRiBUTE8\"}",
-    "parent_asin": "B00YE966A6",
+    "videos": {
+        "title": [
+            "Meal Choice Sticker With Wedding Place Card Party Supplies"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/03be5ad3107444b2927825a10675ac6e?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "ARK CREATION INC.",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen & Table Linens"
+    ],
+    "details": "{\"Brand\": \"ARK CREATION INC.\", \"Color\": \"Black\", \"Material\": \"Paper\", \"Special Feature\": \"Waterproof\", \"Style\": \"Meal Choice sticker\", \"Age Range (Description)\": \"Adult\", \"Reusability\": \"Single Use\", \"Pattern\": \"Solid\", \"Shape\": \"Irregular\", \"Unit Count\": \"1.00 Count\", \"Number of Items\": \"1\", \"Package Dimensions\": \"6.1 x 4.5 x 0.1 inches\", \"Item Weight\": \"3.2 ounces\", \"Department\": \"Womens\", \"Manufacturer\": \"ARK CREATION INC.\", \"Best Sellers Rank\": {\"Home & Kitchen\": 261984, \"Kitchen & Table Linens\": 6332}, \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\", \"Import\": \"Made in USA\"}",
+    "parent_asin": "B087BK766Y",
     "bought_together": null,
     "subtitle": null,
     "author": null

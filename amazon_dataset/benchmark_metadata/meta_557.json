@@ -1,20 +1,51 @@
 {
-    "main_category": "All Beauty",
-    "title": "Replenish Eye Treatment Cream 0.5oz by David Douglas",
-    "average_rating": 5.0,
-    "rating_number": 1,
+    "main_category": "Appliances",
+    "title": "Electrolux / Eureka EL4300A Secondary Filter 1 Pack # 1182122-01",
+    "average_rating": 3.9,
+    "rating_number": 11,
     "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "description": [
+        "Genuine Eureka Electrolux EL4300A Secondary Motor Filter. Fits Eureka Electrolux model EL4300, EL4305, EL4307, EL4325, and EL4326. Qty - 1 filter Part no # 1182122-01, E-1182122-01"
+    ],
+    "price": "9.15",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/41QRdDhY6XL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31KY+jASoeL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31KY+jASoeL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "David Douglas Skin Care",
-    "categories": [],
-    "details": "{\"Brand\": \"David Douglas Skin Care\", \"Item Form\": \"Cream\", \"Unit Count\": \"1.00 Count\", \"Skin Type\": \"Mature\", \"Item Volume\": \"0.5 Fluid Ounces\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"1.13 x 1.13 x 5 inches; 2.24 Ounces\", \"UPC\": \"794168365681 741725496883\"}",
-    "parent_asin": "B00V94Y21E",
+    "videos": {
+        "title": [
+            "EL012B Electro H12 Hepa Filter",
+            "Filter for Electrolux Harmony Oxygen Eureka Sanitaire"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/04611dcddf614913aaa6288a03a4ec91?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/07da6222a8704ea6a4aa0ef1c9203268?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            ""
+        ]
+    },
+    "store": "Electrolux",
+    "categories": [
+        "Home & Kitchen",
+        "Vacuums & Floor Care",
+        "Vacuum Parts & Accessories",
+        "Filters",
+        "Upright Filters"
+    ],
+    "details": "{\"Brand Name\": \"Electrolux\", \"Model Info\": \"EL4300, EL4305, EL4307, EL4325, and EL43\", \"Item Weight\": \"0.8 ounces\", \"Package Dimensions\": \"4 x 4 x 0.2 inches\", \"Item model number\": \"EL4300, EL4305, EL4307, EL4325, and EL43\", \"Is Discontinued By Manufacturer\": \"No\", \"Part Number\": \"1182122-01\", \"Batteries Included?\": \"No\", \"Batteries Required?\": \"No\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2055378, \"Replacement Upright Vacuum Filters\": 4495}, \"Date First Available\": \"May 15, 2015\"}",
+    "parent_asin": "B00XP3B8I2",
     "bought_together": null,
     "subtitle": null,
     "author": null

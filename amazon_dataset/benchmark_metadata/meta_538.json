@@ -1,20 +1,73 @@
 {
-    "main_category": "All Beauty",
-    "title": "Boho Headbands for Women, Knot Headbands, Turban Headbands for Women, Cross Hard Headbands Hair Accessories (12 Colors, 12 Styles)",
-    "average_rating": 3.4,
-    "rating_number": 9,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "4th of July Butterflies Fitted Square Tablecloth, Elastic Edged Table Cover,Patriotic Table Cloths Washable Polyester for Restaurants Indoor Outdoor Party Table Decor,Fit for 44” x 44\" Square Table",
+    "average_rating": 4.1,
+    "rating_number": 32,
+    "features": [
+        "🎨Size: Fit for 44” x 44\" square table",
+        "🎨Washable & Reusable: Square Table Cover Use Premium Polyester Material, Classic Colors Design Gives It A Simple And Elegant Appearance, It Feels Warm And Soft, And Can Be Washed And Reused",
+        "🎨Perfect Fit: Square table cloth with elastic, it's very easy to install. The elastic edges keep the tablecloth snug against the tabletop without sticking out of the edge of the table. So it doesn't move/fall off.",
+        "🎨Multi-Usage:Square Tablecloth Is Great For Buffet Dinners, Dining Table, Tea Table, Party, Birthday, Cafes, Banquet, Picnic, Bbq, Camping, Barbecue, Indoor, Outdoor And Daily Use.",
+        "🎨Easy Clean & Care: No more worrying about oil stains. just wipe with a damp cloth and please use mild detergent, no bleaching."
+    ],
+    "description": [
+        "Specification: Material: polyester Shape: Square 👀 Please spending a few seconds measuring your table's size： Fitted 24x24 inch Square Table(60x60 cm) Fitted 28x28 inch Square Table(70 x70 cm) Fitted 30x30 inch Square Table( 76 x76 cm) Fitted 32x32 inch Square Table( 80x 80 cm) Fitted 36x36 inch Square Table (90x90 cm) Fitted 40x40 inch Square Table( 100x100 cm) Fitted 42x42 inch Square Table( 106x106 cm) Fitted 44x44 inch Square Table (110x 110cm) Fitted 48x48 inch Square Table (120 x120 cm) Fitted 52x52 inch Square Table(130 x130 cm) Fitted 60x60 inch Square Table（152 x152 cm)  ▶Elastic Edge Design Fits Easily Around Any Square Table,Elastic edge sides fit tables easily without slipping or wrinkling.  ▶Dress up your outdoor dining table with style! These unique designs are perfect for casual gatherings in your garden, summer tables, backyard picnics, BBQ dinners, patio lunches, outdoor parties or picnic tables. Great for everyday use in indoor and outdoor ,They will brighten up your table and bring a refreshing touch. ▶Best Gifts-Square tablecloth is a very good gift for housewarming and new homes. It is a very warm holiday gift on Christmas day, Valentine's Day, St. Patrick Day, Mother Day, Easter Day.Thanksgiving, Easter day, and spring, summer, autumn and winter. Note: Due to manual measurement, please allow a difference of 1-3mm."
+    ],
+    "price": "19.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71NChylZiFL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81sAz53CN0L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71-9XUoQVOL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71EgrxYjJvL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71F8pU9l3zL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61YOjmfMI5L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51ZrMTLE4aL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51ckdru9J3L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51ot5TmNDYL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51wEgWAGoqL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51j6CxGw99L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41eMtnsblaL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51ZrMTLE4aL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51ckdru9J3L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51ot5TmNDYL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51wEgWAGoqL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51j6CxGw99L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41eMtnsblaL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT90"
+        ]
     },
-    "store": "ANBALA",
-    "categories": [],
-    "details": "{\"Material\": \"Plastic\", \"Brand\": \"ANBALA\", \"Size\": \"Medium\", \"Unit Count\": \"12.00 Count\", \"Package Dimensions\": \"10.6 x 6.2 x 1.6 inches; 10.41 Ounces\"}",
-    "parent_asin": "B07SDBYKCR",
+    "videos": {
+        "title": [
+            "Buffalo Plaid TableCloth"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/08b422892cf8459ea3dbb4197a0b0ea4?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "SongYi",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen & Table Linens",
+        "Tablecloths"
+    ],
+    "details": "{\"Brand\": \"SongYi\", \"Color\": \"4th of July Butterflies\", \"Material\": \"Polyester\", \"Product Dimensions\": \"44\\\"L x 44\\\"W\", \"Shape\": \"Square\", \"Pattern\": \"Animal Print\", \"Occasion\": \"Wedding, Baby Shower, Valentine's Day\", \"Special Feature\": \"Wipeable, Waterproof, Elastic Edged, Non Slip, Wrinkle Resistant\", \"Size\": \"Fit for 44\\u201d x 44\\\" square table\", \"Number of Sets\": \"1\", \"Product Care Instructions\": \"Machine Wash\", \"Unit Count\": \"1.0 Count\", \"Fabric Type\": \"Polyester\", \"Number of Items\": \"1\", \"Manufacturer\": \"Lucky Tablecloth Store\", \"Best Sellers Rank\": {\"Patio, Lawn & Garden\": 23623, \"Patio Table Covers\": 122}, \"Date First Available\": \"June 1, 2022\"}",
+    "parent_asin": "B0B2W8ZT41",
     "bought_together": null,
     "subtitle": null,
     "author": null

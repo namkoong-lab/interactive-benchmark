@@ -1,20 +1,50 @@
 {
-    "main_category": "All Beauty",
-    "title": "50 Pieces False Eyelash Packaging Box Empty Eyelash Box Plastic Eyelash Storage Case with Glitter Paper and Clear Tray for Women Girls Eyelash (Holographic)",
-    "average_rating": 3.8,
-    "rating_number": 32,
+    "main_category": "Amazon Home",
+    "title": "Godinger Round Hammered Nut Bowl",
+    "average_rating": 4.4,
+    "rating_number": 190,
     "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "description": [
+        "Godinger Round Hammered Nut Bowl"
+    ],
+    "price": "13.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61YCXBkbJpL._AC_SL1440_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41pVaEY+1ML._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41pVaEY+1ML._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "Maitys",
-    "categories": [],
-    "details": "{\"Package Dimensions\": \"14.49 x 11.26 x 2.36 inches; 2.65 Pounds\"}",
-    "parent_asin": "B08DNQTTQK",
+    "videos": {
+        "title": [
+            "Double Walled Salad Bowl"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/86f4df1f6c1445bbbde654ae0146ce1a?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Godinger",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Dinnerware & Serveware",
+        "Serveware",
+        "Serving Bowls & Tureens",
+        "Nut Bowls"
+    ],
+    "details": "{\"Bowl Material\": \"Stainless Steel\", \"Number of Pieces\": \"1\", \"Brand\": \"Godinger\", \"Shape\": \"Bowl,Round\", \"Pattern\": \"Solid\", \"Seasons\": \"All Seasons\", \"Is Dishwasher Safe\": \"No\", \"Is Microwaveable\": \"No\", \"Material\": \"Stainless Steel\", \"Package Dimensions\": \"6 x 6 x 3 inches\", \"Item Weight\": \"0.81 ounces\", \"Item model number\": \"SYNCHKG083408\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 165677, \"Nut Bowls\": 9, \"Serving Bowls\": 410}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"November 6, 2015\"}",
+    "parent_asin": "B017N9U3U2",
     "bought_together": null,
     "subtitle": null,
     "author": null

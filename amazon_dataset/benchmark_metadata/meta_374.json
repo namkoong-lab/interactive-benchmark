@@ -1,20 +1,66 @@
 {
-    "main_category": "All Beauty",
-    "title": "50pcs Clear Nail Art Fan-shaped Color Card, False Fake Nail Art Tips Sticks Design Polish Board Swatches Stick Salon Display Chart Practice Tool Decor Sets",
-    "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Costa Rican Beach, 22 by 32-Inch Canvas Wall Art",
+    "average_rating": 3.5,
+    "rating_number": 12,
+    "features": [
+        "Artist: Anonymous",
+        "Subject: Landscape",
+        "Style: Traditional",
+        "Product Type: Gallery-Wrapped Canvas Art",
+        "Made in USA"
+    ],
+    "description": [
+        "This ready to hang, gallery-wrapped art piece features a view of a beach over palm trees. Masters Fine Art is a company that travels the world to bring the best in fine art from different lands. They believe that art is the soul of the world and that it represents the human essence. MFA works mostly with Latin American art, which portrays a happy view of life, represented by bright, beautiful colors, music, dance, love, hope and happiness. Giclee (jee-clay) is an advanced printmaking process for creating high quality fine art reproductions. The attainable excellence that Giclee printmaking affords makes the reproduction virtually indistinguishable from the original piece. The result is wide acceptance of Giclee by galleries, museums and private collectors. Gallery wrap is a method of stretching an artist's canvas so that the canvas wraps around the sides and is secured a hidden, wooden frame. This method of stretching and preparing a canvas allows for a frameless presentation of the finished painting."
+    ],
+    "price": "51.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91parNAlI1L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81-OOt5zyeL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91vnBbNclOL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71btKdWyE8L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71llnpyQs5L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81+F4eo2XrL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Rt5nZk2rL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51+9Eln6yPL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/517PdauHOvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Gh+ozn2jL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51VKiDnILpL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/615LrHG+ceL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Rt5nZk2rL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51+9Eln6yPL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/517PdauHOvL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41Gh+ozn2jL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51VKiDnILpL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/615LrHG+ceL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT10",
+            "PT11",
+            "PT12"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Yotown",
-    "categories": [],
-    "details": "{\"Brand\": \"Yotown\", \"Number of Pieces\": \"50\", \"Unit Count\": \"1.00 Count\", \"Is Discontinued By Manufacturer\": \"No\", \"UPC\": \"715538027800\"}",
-    "parent_asin": "B07F39RP3T",
+    "store": "Trademark Fine Art",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Posters & Prints"
+    ],
+    "details": "{\"Size\": \"22 x 32 in\", \"Item Weight\": \"4 Pounds\", \"Number of Items\": \"1\", \"Orientation\": \"Portrait\", \"Shape\": \"Rectangular\", \"Theme\": \"Beach,Landscape,Trees\", \"Frame Type\": \"Unframed\", \"Wall Art Form\": \"Painting\", \"Material\": \"Wood\", \"Style\": \"Traditional\", \"Cartoon Character\": \"American\", \"Brand\": \"Trademark Fine Art\", \"Frame Material\": \"Wood\", \"Mounting Type\": \"Wall Mount\", \"Product Dimensions\": \"32\\\"L x 22\\\"W\", \"Manufacturer\": \"Trademark Fine Art\", \"Country of Origin\": \"USA\", \"Item model number\": \"MA0390-C2232GG\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3139766, \"Posters & Prints\": 194104}, \"Specifications\": \"certified frustration-free\", \"Assembly required\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B00H7RCQAQ",
     "bought_together": null,
     "subtitle": null,
     "author": null

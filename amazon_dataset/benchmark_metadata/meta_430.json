@@ -1,20 +1,78 @@
 {
-    "main_category": "All Beauty",
-    "title": "Morichy Hair Human Hair Wigs for Black Women 130% Density 100% Unprocessed Brazilian Virgin Hair Loose Body Wave Wig None Lace Front Wig L Part Hair Wig",
-    "average_rating": 3.6,
-    "rating_number": 8,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Northern Lights Candles Simplicity Taper Holder, 4\", Dark Bronze",
+    "average_rating": 4.6,
+    "rating_number": 27,
+    "features": [
+        "Holds all standard sized tapers",
+        "Fits any home decor",
+        "Perfectly simple table setting"
+    ],
+    "description": [
+        "Northern lights simplicity taper holders can be used with any standard size taper. Each holder is made of quality casted metal with a bronze or pewter finish."
+    ],
+    "price": "7.04",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71xbI0oyyDL._AC_SL1500_.jpg",
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31RtOajdqVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/310nT0tm0bL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/3145BSZB5eL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31RtOajdqVL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/310nT0tm0bL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/3145BSZB5eL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT12"
+        ]
     },
-    "store": "MORICHY",
-    "categories": [],
-    "details": "{\"Material\": \"Human\", \"Hair Type\": \"Wavy\", \"Brand\": \"MORICHY\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"12.24 x 7.28 x 2.68 inches; 9.84 Ounces\"}",
-    "parent_asin": "B07F3MWMG5",
+    "videos": {
+        "title": [
+            "DN DECONATION Candlestick Holders with Handle",
+            "Candle Stick Candle Holder Porcelain ",
+            "candlestick holders set",
+            "Why these are my favorite candle holders on Amazon!",
+            "Love this cute candle stick!",
+            "SUJUN Candle Holders Black for Taper Candle - Set of 2",
+            "Vixdonos Set of 3 Pink Glass Candle Holders"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/083623e0dd354d6589f9d5ce9c3aba99?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/040fccc2f305475c9830674074952fbf?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0b1624b6684b448c88f56b18e564e9bd?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0055c1dcbe3a4fceb81e0fdf5188913e?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/09b5ea6e38d344749387635a921dc7d8?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/581206ada3174afda8da27d7b4fa17ef?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/0871e5009da24b309624cb1c4ffa3ca5?ref=dp_vse_rvc_6"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            "/shop/marlodarescuepup",
+            "/shop/yourlifeiswhatyoumakeit",
+            "",
+            ""
+        ]
+    },
+    "store": "Northern Lights Candles",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Candles & Holders",
+        "Candleholders",
+        "Candlestick Holders"
+    ],
+    "details": "{\"Color\": \"Dark Bronze\", \"Material\": \"Metal\", \"Brand\": \"Northern Lights Candles\", \"Finish Type\": \"Bronze,Metal\", \"Number of pieces\": \"1\", \"Theme\": \"Wedding\", \"Diameter\": \"4 Inches\", \"Mounting Type\": \"Tabletop\", \"Item Weight\": \"4.8 ounces\", \"Manufacturer\": \"Northern Lights Candles\", \"Country of Origin\": \"USA\", \"Item model number\": \"64599\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1779809, \"Candlestick Holders\": 2246}, \"Finish types\": \"Bronze,Metal\", \"Assembly required\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B01HV2U860",
     "bought_together": null,
     "subtitle": null,
     "author": null

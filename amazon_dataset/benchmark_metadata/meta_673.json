@@ -1,29 +1,49 @@
 {
-    "main_category": "All Beauty",
-    "title": "BHL Blue Bob Wigs T Part Lace Front Wigs China Virgin Human Hair 13x1x4 Swiss Lace Pre Plucked Hairline 14 Inch Blue Straight Short Bob Wigs for Women Pre Plucked 150% Density(14 Inch, Sapphire Blue)",
-    "average_rating": 4.2,
-    "rating_number": 18,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "Blue 13X4X1 Lace Front Wigs Short Bob Pre Plucked Hairline",
-            "Love it!!!!!!!"
+    "main_category": "Office Products",
+    "title": "Creative Teaching Press Poster A Bad Attitude is. Inspire U Poster (0308)",
+    "average_rating": 3.7,
+    "rating_number": 6,
+    "features": [
+        "\"A bad attitude is like a flat tire. You can't go anywhere until you change it\"",
+        "Poster measures 13⅜\" x 19\"",
+        "Inspire your students",
+        "Package Dimensions: 1.587 L x 48.26 H x 33.985 W (centimeters)"
+    ],
+    "description": [
+        "Inspire U motivational posters are great for use in a school, Church, workplace, dormitory, Senior living residence, and anywhere a little inspiration is needed."
+    ],
+    "price": "3.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71uqmzJvlPL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61EdlhXCuNS._AC_SL1080_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/87a477254ea2435ab22278310d97b07f?ref=dp_vse_rvc_0",
-            "https://www.amazon.com/vdp/67b0bd4c34e74ab3a3c5797d7b82f1ad?ref=dp_vse_rvc_1"
+        "large": [
+            "https://m.media-amazon.com/images/I/51AMr2mbg4L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/516GNWQSiLS._AC_.jpg"
         ],
-        "user_id": [
-            "",
-            "AE34JJIQC4NLMPB7E66SM7WM46CA"
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51AMr2mbg4L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/516GNWQSiLS._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
         ]
     },
-    "store": "BHL",
-    "categories": [],
-    "details": "{\"Material\": \"Human Hair\", \"Hair Type\": \"Straight\", \"Brand\": \"BHL\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Straight\", \"Package Dimensions\": \"13.5 x 7.5 x 1.75 inches; 12.8 Ounces\"}",
-    "parent_asin": "B08BG1D1PB",
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Creative Teaching Press",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Posters & Prints"
+    ],
+    "details": "{\"Product Dimensions\": \"19\\\"L x 16.63\\\"W\", \"Item Weight\": \"0.08 Pounds\", \"Number of Items\": \"1\", \"Orientation\": \"Portrait\", \"Shape\": \"Rectangular\", \"Theme\": \"Inspirational\", \"Frame Type\": \"Framed\", \"Wall Art Form\": \"Poster\", \"Material\": \"Paper\", \"Style\": \"Flats\", \"Room Type\": \"Dormitory\", \"Brand\": \"Creative Teaching Press\", \"Mounting Type\": \"Wall Mount\", \"Manufacturer\": \"Creative Teaching Press\", \"Item model number\": \"0308\", \"Is Discontinued By Manufacturer\": \"No\", \"Material Type\": \"Paper\", \"Manufacturer Part Number\": \"0308\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1080701, \"Posters & Prints\": 47520}, \"Date First Available\": \"September 28, 2013\"}",
+    "parent_asin": "B00FI9KXQE",
     "bought_together": null,
     "subtitle": null,
     "author": null

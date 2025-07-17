@@ -1,20 +1,78 @@
 {
-    "main_category": "All Beauty",
-    "title": "31 Pieces Twist Plait Hair Braiding Kit French Centipede Braiders Ponytail Braiding Tool and Topsy Hair Braid for Women Girls",
-    "average_rating": 3.1,
-    "rating_number": 13,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": null,
+    "title": "AUII JO DESIGN Happier Than a Seagull with a French Fry Decor Sign, Hanging Printed Wall Plaque Wood Signs, Home Décor Gift, Rustic Farmhouse Decorations for The Home 10X7.8inch",
+    "average_rating": 4.8,
+    "rating_number": 6,
+    "features": [
+        "Material: Made of high quality MDF wood material with hemp lanyard, the decoration is odorless, not easy to fade, very durable and not easy to damage.",
+        "Size is 10 x 7.8 x 0.12 inch, 26 x 20 x 0.3 cm",
+        "Easy to use: The wooden wall sign is equipped with a hemp rope hanging strap, which is convenient and simple for you to quickly and easily do wall installation, perfect for your home, office, business, garage, dorm, game room, kitchen or anywhere you want to display this unique logo.",
+        "Beautifully Crafted: Our signs make a great gift, our wooden signs are beautifully printed and durable, we have hundreds of different designs to choose from to give your house a chic finish; suitable for indoor use, can also be used outdoors, as long as the environment is not humid.",
+        "BEST GIFT: Our wooden signs will look great in your home and friends' homes. This is a versatile gift for Christmas, Thanksgiving, outdoor or indoor parties, birthday parties, New Years decorations, and a great decorative gift for friends or family; hope it will give you encouragement and joy or remind"
+    ],
+    "description": [
+        "Size: 10 x 7.8 x 0.12 inch; Material: Made of MDF wood material; If you are looking for a unique gift for your home or friends who want to give them positive energy, this is the one for you."
+    ],
+    "price": "12.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61esQNpNvUL._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/51L4fVF-YNL._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/71K4NTLMu4L._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/614serS3+VL._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61PJP-3ZYlL._AC_SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41aLYR-lBHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41ydDBwQpsL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/512xukd1+wL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41tV7ZpDc0L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/516UmPUXDtL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41aLYR-lBHL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41ydDBwQpsL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/512xukd1+wL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41tV7ZpDc0L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/516UmPUXDtL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
     },
-    "store": "WILLBOND",
-    "categories": [],
-    "details": "{\"Product Dimensions\": \"7.87 x 3.94 x 0.63 inches; 3.99 Ounces\"}",
-    "parent_asin": "B086QW86VL",
+    "videos": {
+        "title": [
+            "Simply Said - About Us",
+            "Beach Sign Decor Hanging Sea Decorations",
+            "4 Pieces Wood Beach Wall Decor Plague Ocean Theme Decor ",
+            "Review & See How It Looks Hung Up! "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0e657c6e89ba4448801fbd1328c71452?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/060491fe1648429e8c55e6465001da4f?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0b89486fc5094b2eb51b60236834df22?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/047992054eb24dccb7003eb0466e37a3?ref=dp_vse_rvc_3"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            "/shop/influencer-7c50bc29"
+        ]
+    },
+    "store": "AUII JO DESIGN",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Wall Pediments"
+    ],
+    "details": "{\"Product Dimensions\": \"10 x 7.8 x 0.01 inches\", \"Item Weight\": \"4.2 ounces\", \"Manufacturer\": \"AUII JO DESIGN\", \"Country of Origin\": \"China\", \"Item model number\": \"1\", \"Best Sellers Rank\": {\"Home & Kitchen\": 737110, \"Wall Pediments\": 3819}, \"Date First Available\": \"June 29, 2022\", \"Color\": \"white\", \"Brand\": \"AUII JO DESIGN\", \"Material\": \"Engineered Wood, Wood\", \"Theme\": \"Farmhouse,Rustic\", \"Mounting Type\": \"Wall Mount\"}",
+    "parent_asin": "B0B5DVSV59",
     "bought_together": null,
     "subtitle": null,
     "author": null

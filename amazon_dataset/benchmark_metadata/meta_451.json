@@ -1,20 +1,58 @@
 {
-    "main_category": "All Beauty",
-    "title": "Nest Black Tulip Eau De Parfum ~ Travel Size Splash Top ~ 0.25 fl oz",
-    "average_rating": 4.1,
-    "rating_number": 23,
-    "features": [],
-    "description": [],
-    "price": "21.45",
+    "main_category": "Amazon Home",
+    "title": "Show Car Guys Fingertip Towels 100% Cotton - Terry-Velour - 4 Pack 11\" x 18\" Navy Blue",
+    "average_rating": 4.0,
+    "rating_number": 36,
+    "features": [
+        "These Fingertip Towels are premium, extra soft, heavy duty, and beautiful Blue.",
+        "Finger soft Deluxe sports collection, a favorite of embroiderers and crafters.",
+        "Smaller than a hand towel, fingertip towels are the perfect size for home or at work.",
+        "Fingertip towels may be used for your decoration or to just dry your hands.",
+        "These towels are made from the finest materials. This keeps them looking great and holding up wash after wash."
+    ],
+    "description": [
+        "Set of 4 Navy Blue Velour Fingertip Towels 100% Cotton!",
+        "These Fingertip towels are made for heavy usage. They are perfect for all household use.",
+        "Once washed these Fingertips fluff up thick and full. They are compressed somewhat when shipped. Towels are very absorbent and soft. Please wash to fluff before using.",
+        "Washing instructions: *For daily washing, wash towels in regular mode. *Wash every color separately. *Wash towels in cold water. *DO NOT use bleach. *To minimize lint, dry with dryer sheet. *For your first drying after purchase, clean your lent trap half way through your drying cycle."
+    ],
+    "price": "14.49",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71fOfwmubfL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71P2cLH8C5L._AC_SL1100_.jpg",
+            "https://m.media-amazon.com/images/I/71zaqi04dqL._AC_SL1300_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51GiWdrYd0L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51bAUYIYTnL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41POl2ZmGSL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51GiWdrYd0L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51bAUYIYTnL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41POl2ZmGSL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "NEST Fragrances",
-    "categories": [],
-    "details": "{\"Brand\": \"NEST Fragrances\", \"Item Volume\": \"7.5 Milliliters\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Package Dimensions\": \"2.2 x 1.5 x 1 inches; 1.59 Ounces\"}",
-    "parent_asin": "B07CH3JRGR",
+    "store": "Show Car Guys",
+    "categories": [
+        "Home & Kitchen",
+        "Bath",
+        "Towels",
+        "Fingertip Towels"
+    ],
+    "details": "{\"Color\": \"Navy Blue\", \"Brand\": \"Show Car Guys\", \"Towel form type\": \"Fingertip Towel\", \"Age Range (Description)\": \"All Ages\", \"Material\": \"Cotton\", \"Product Dimensions\": \"18 x 11 x 0.01 inches\", \"Number of Items\": \"4\", \"Pattern\": \"Solid\", \"Theme\": \"No Theme\", \"Product Care Instructions\": \"Machine Wash\", \"Size\": \"Medium\", \"Unit Count\": \"4.0 Count\", \"Fabric Type\": \"Cotton\", \"Item Weight\": \"3 ounces\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1850871, \"Fingertip Bath Towels\": 321}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"September 30, 2016\"}",
+    "parent_asin": "B073RY8Y8D",
     "bought_together": null,
     "subtitle": null,
     "author": null

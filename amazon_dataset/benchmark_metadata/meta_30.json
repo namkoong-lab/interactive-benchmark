@@ -1,20 +1,79 @@
 {
-    "main_category": "All Beauty",
-    "title": "BEWAVE Hair Brush Sponge Twist With Comb Hair Styling System Wave Barber Tool For Dreads Afro Locs Twist Curl Coil, 1 Pc",
-    "average_rating": 4.2,
-    "rating_number": 24,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Mixhug Decorative Linen Throw Pillow Covers, Farmhouse Cushion Covers for Couch and Bed, Red, 24 x 24 Inches, Set of 2",
+    "average_rating": 4.5,
+    "rating_number": 1989,
+    "features": [
+        "MATERIAL - Linen polyester blend in a slubbed weave.",
+        "PACKAGING - Pack of 2 pillow covers without inserts.",
+        "CLASSIC AND LIVEABLE - The textured throw pillow cases are detailed with smooth hidden zipper in a matching color for a stylish look. The delicate workmanship makes them more durable. Toss the solid pillow covers on the sofa, chair or bed to add instant luxury accent to your decor.",
+        "AESTHETIC DECORATION FOR HOME - Soft texture and vintage color suits rustic rooms as well as modern organic spaces. Our chic and comfortable pillow cover makes a fascinating addition to your living room and bedroom.",
+        "CARE INSTRACTIONS - Machine wash cold separately. Gentle Cycle. Do not bleach. Do not iron."
+    ],
+    "description": [
+        "Start with the basics, and build up your pillow mix. Our linen pillow cover brings a touch of richness and simple elegance to any room.",
+        "Care Instructions",
+        "Machine wash cold separatelyGentle CycleDo not bleachDo not iron",
+        "Note",
+        "Throw pillow covers without inserts"
+    ],
+    "price": "21.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/916YiPT7rAL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/913zWGxHLgL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91CSL4sCzbL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/916tT-GOLoL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91TS6JVXNWL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31oRwBZdPRL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51oewkG57xL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41vBKWoPwWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51XhDf8hxWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31W10H+sP4L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31oRwBZdPRL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51oewkG57xL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41vBKWoPwWL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51XhDf8hxWL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31W10H+sP4L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
     },
-    "store": "BEWAVE",
-    "categories": [],
-    "details": "{\"Brand\": \"BEWAVE\", \"Shape\": \"Oblong\", \"Unit Count\": \"1.00 Count\", \"Hair Type\": \"Curly\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"7.48 x 4.56 x 2.36 inches; 0.81 Ounces\", \"UPC\": \"606412981854\"}",
-    "parent_asin": "B071DY8Z4B",
+    "videos": {
+        "title": [
+            "Cushion Cover Feature - CC-001",
+            "Large sold pillows- what me get creative ",
+            "Bedding Essentials!! #interiordesign #bedding #bedroomdecor"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0dbc641fd60c46098326e873cb86e10a?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/08987e713efb46c9a9ba42b35a976c5a?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/095be173b71c42f49df0ac063447ff3c?ref=dp_vse_rvc_2"
+        ],
+        "user_id": [
+            "",
+            "/shop/breanna_donahue",
+            "/shop/influencer-7f8aa674"
+        ]
+    },
+    "store": "Mixhug",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Decorative Pillows, Inserts & Covers",
+        "Throw Pillow Covers"
+    ],
+    "details": "{\"Pattern\": \"Solid\", \"Material\": \"Linen\", \"Color\": \"Red\", \"Product Dimensions\": \"24\\\"L x 24\\\"W\", \"Brand\": \"Mixhug\", \"Shape\": \"Square\", \"Number of Items\": \"2\", \"Special Feature\": \"Durable\", \"Number of Pieces\": \"2\", \"Product Care Instructions\": \"Machine Wash\", \"Occasion\": \"Decoration\", \"Closure Type\": \"Zipper\", \"Recommended Uses For Product\": \"Home\", \"Package Dimensions\": \"14.02 x 9.92 x 1.89 inches\", \"Item Weight\": \"1.32 pounds\", \"Manufacturer\": \"Mixhug\", \"Best Sellers Rank\": {\"Home & Kitchen\": 106647, \"Throw Pillow Covers\": 906}, \"Batteries required\": \"No\"}",
+    "parent_asin": "B09CDXDJZD",
     "bought_together": null,
     "subtitle": null,
     "author": null

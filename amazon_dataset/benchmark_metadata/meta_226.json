@@ -1,20 +1,55 @@
 {
-    "main_category": "All Beauty",
-    "title": "16\" Straight Drawstring Ponytail Hair Extensions Human Hair Ponytail Extension Ribbon Clip in Ponytails Hairpiece 80g",
-    "average_rating": 3.7,
-    "rating_number": 12,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Ambesonne African Bedskirt, Oriental Djembe Drums Music Culture in Theme Geometric Chevrons Triangles, Bedroom Decor Wrap Around Elastic Bed Skirt Gathered Design, Queen, Multicolor",
+    "average_rating": 1.0,
+    "rating_number": 1,
+    "features": [
+        "Your purchase will help victims of recent major earthquakes in Turkey since we donate a percentage of our profits to local NGOs helping with quake relief efforts.",
+        "Measurements - Fits queen beds. 15 inches drop. All around wrap, gathered. Made in Turkey.",
+        "Made from - High quality 100% brushed soft microfiber fabric. Suitable for most types of beds.",
+        "Features - Install easily with elastic straps wrap under mattress. Stays in place. Split corners.",
+        "Machine washable - On cold cycle. Dryer safe and iron easy. No fading colors. For bedroom decor.",
+        "Printed - With state of the art digital printing technology. Long-lasting bold colors & clear image."
+    ],
+    "description": [
+        "Measurements - Fits queen beds. 15 inches drop. All around wrap, gathered. Made in Turkey. Made from - High quality 100% brushed soft microfiber fabric. Suitable for most types of beds. Features - Install easily with elastic straps wrap under mattress. Stays in place. Split corners. Machine washable - On cold cycle. Dryer safe and iron easy. No fading colors. For bedroom decor. Printed - With state of the art digital printing technology. Long-lasting bold colors & clear image. Change your bedroom's style with a simple touch of bedskirt! Our bedskirts are very easy to use; you can easily put around this elastic bed skirt and fasten up with straps under your mattress. Bring new energy to your master suite with colors and thousands of different patterns. You can easily match your bedding sets with our varied bed skirts. You can play safe and create vintage decor easily with these bed ruffles that belongs to retro-times. But you can ask for novelty and combine this piece with your modern choices. Our bed skirt is smartly designed with modern split corners. And you don't need to worry if it gets dusty or dirty. Just machine wash in the cold cycle and tumble dry on low. Thanks to new printing techniques the colors will not fade eaisly. Design a neat look for your bed with this gathered bed skirt. It is designed with slim/low style ruffle for catch a more contemporary line. You can give these bed skirts as a Christmas, birthday, wedding gift, mother's day or house warming gift. It can be a great present for your mother, father, newly married friends, grandmother, aunt, uncle. The digital images we display have the most accurate color possible, however due to differences in computer monitors, we cannot be responsible for variations in color between the actual product and your screen. Due to manual measurement, please kindly allow 1-2 cm discrepancy."
+    ],
+    "price": "24.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81q1bGELzPL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81uauK5f0KL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81a-TviU76L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/518HS1wRstL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/5127GYUMtYL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51+KV7DUY6L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/518HS1wRstL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/5127GYUMtYL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51+KV7DUY6L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "JFFX",
-    "categories": [],
-    "details": "{\"Brand\": \"JFFX\", \"Material\": \"Human Hair\", \"Extension Length\": \"16 Inches\", \"Hair Type\": \"Straight\", \"Installation Type\": \"Clip-In\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.91 x 7.76 x 0.55 inches; 4.16 Ounces\", \"UPC\": \"704619700305\"}",
-    "parent_asin": "B07LD62HVC",
+    "store": "Ambesonne",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Bed Skirts"
+    ],
+    "details": "{\"Product Dimensions\": \"60 x 80 x 15.3 inches\", \"Item Weight\": \"9.5 ounces\", \"Manufacturer\": \"Ambesonne\", \"Item model number\": \"yet_52489_queen\", \"Best Sellers Rank\": {\"Home & Kitchen\": 8252824, \"Bed Skirts\": 5957}, \"Care instructions\": \"Machine Wash\"}",
+    "parent_asin": "B081ZXJPQP",
     "bought_together": null,
     "subtitle": null,
     "author": null

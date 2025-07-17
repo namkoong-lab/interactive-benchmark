@@ -1,20 +1,59 @@
 {
-    "main_category": "All Beauty",
-    "title": "10 PCS Professional Hair Cutting Scissors 6.7inch Barber Thinning Scissors Hairdressing Shears Japanese Hair Cutting Shears Set with Cape Clips Comb for Barber Salon and Home 9010 Pink",
-    "average_rating": 4.3,
-    "rating_number": 128,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "St. Patrick's Day Irish Gnomes Holding 4 Leaf Clover and Horse Shoes on Green",
+    "average_rating": 4.2,
+    "rating_number": 32,
+    "features": [
+        "A Tasteful St. Patrick's Day Print for Adorable Gnomes Lovers",
+        "Perfect for any table!",
+        "100% Vinyl overlaying 100% Polyester Flannel Backing",
+        "Thin and Lightweight Seasonal Vinyl Tablecloth. Easy Care- Wipe Clean with Damp Cloth"
+    ],
+    "description": [
+        "St. Patrick's Day Irish Gnomes Holding 4 Leaf Clover and Horse Shoes on Gray Background Vinyl Flannel Back Tablecloth"
+    ],
+    "price": "17.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71SBdAvz5GL._AC_SL1256_.jpg",
+            "https://m.media-amazon.com/images/I/81lImOWwzOL._AC_SL1319_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41rmREnInEL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51mapwNckRL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41rmREnInEL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51mapwNckRL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
     },
-    "store": "Astraet",
-    "categories": [],
-    "details": "{\"Color\": \"Pink\", \"Material\": \"Rubber\", \"Brand\": \"Astraet\", \"Blade Material\": \"Stainless Steel\", \"Blade Edge\": \"Straight\", \"Package Dimensions\": \"9 x 6 x 2 inches; 9.59 Ounces\", \"Item model number\": \"HC9010\", \"Manufacturer\": \"Acgocea\"}",
-    "parent_asin": "B088ZB4DTH",
+    "videos": {
+        "title": [
+            "XtraLarge St. Patrick's Day Tablecloth ",
+            "St. Patrick's Day Tablecloths"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0f08900401e54a44822530694f921434?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/05a9904f44b34d069e84649a23686d49?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            ""
+        ]
+    },
+    "store": "Generic",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen & Table Linens",
+        "Tablecloths"
+    ],
+    "details": "{\"Brand\": \"Generic\", \"Color\": \"Green\", \"Material\": \"Polyester, Vinyl\", \"Product Dimensions\": \"90\\\"L x 52\\\"W\", \"Shape\": \"Rectangular\", \"Occasion\": \"St Patrick s Day\", \"Size\": \"52\\\" x 90\\\" Oblong\", \"Number of Sets\": \"1\", \"Product Care Instructions\": \"Hand Wash Only\", \"Unit Count\": \"1 Count\", \"Fabric Type\": \"Vinyl,flannel\", \"Number of Items\": \"1\", \"Package Dimensions\": \"13.9 x 8.82 x 1.1 inches\", \"Item Weight\": \"12.6 ounces\", \"Manufacturer\": \"Mainstream\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 431119, \"Tablecloths\": 9451}, \"Date First Available\": \"January 20, 2020\"}",
+    "parent_asin": "B09PMLVFQP",
     "bought_together": null,
     "subtitle": null,
     "author": null

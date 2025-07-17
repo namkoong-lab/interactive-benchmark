@@ -1,20 +1,96 @@
 {
-    "main_category": "All Beauty",
-    "title": "Stain Bonnet For Baby Bonnet Silk Sleep Cap For Toddler Child Shower Cap Teens Kids",
-    "average_rating": 4.1,
-    "rating_number": 50,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Santevia Water Systems Alkaline Water Pitcher (White)",
+    "average_rating": 4.4,
+    "rating_number": 944,
+    "features": [
+        "Comes with 1 filter included",
+        "Produces mineralized, alkaline water as recommended by the world Health Organization",
+        "Each filter produces 1, 250 8oz glasses - Double the amount of most pitcher filters.",
+        "Countdown clock reminds you when it's time to change the filter",
+        "Has an easy-to-fill lid"
+    ],
+    "description": [
+        "Alkaline Pitcher White 1 Container Santevia Alkaline Water Pitcher - Blue (includes 1 Filter)Enjoy mineralized, alkaline water at home with Santevia Alkaline Water Pitcher (Blue). It fits conveniently in your refrigerator & is easy-to-fill. Capacity9 (8oz) glasses Filter Life1250 glasses, 80 gallons/300 liters or every 2 months Dimensions Height 10 or 25. 5cmWidth 5. 3 or 13. 5cmLength 10. 8 or 27. 5cmMineralized water as recommended by the World Health Organization Alkaline Water Each filter produces 1, 250 8oz glasses DOUBLE the life of most pitchers4 vibrant colors (black, white, blue, green)Low ORP (Low ORP for water is like a high ORAC for food)Great filtration Countdown Clock Easy Fill Lid Recyclable Warnings: Keep out of reach of children. As with all dietary supplements, consult your healthcare professional before use. See product label for more information."
+    ],
+    "price": "49.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71TNEhEYX3L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71TNEhEYX3L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Jvj4MSRkL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81YmvJiZKDL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71gLcyFK3rL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Ve1-tx-oL.jpg",
+            "https://m.media-amazon.com/images/I/41Ve1-tx-oL.jpg",
+            "https://m.media-amazon.com/images/I/41kemYROABL.jpg",
+            "https://m.media-amazon.com/images/I/41xuD2T3HqL.jpg",
+            "https://m.media-amazon.com/images/I/41u3DfrmmCL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41Ve1-tx-oL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41Ve1-tx-oL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41kemYROABL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41xuD2T3HqL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41u3DfrmmCL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK",
+            "BOTT",
+            "LEFT",
+            "TOPP"
+        ]
     },
-    "store": "Edoneery",
-    "categories": [],
-    "details": "{\"Brand\": \"Edoneery\", \"Material\": \"Silk\", \"Number of Items\": \"1\", \"Size\": \"1 Count (Pack of 1)\", \"Inner Material\": \"100 Silk\", \"Package Dimensions\": \"10 x 5.79 x 0.75 inches; 0.63 Ounces\"}",
-    "parent_asin": "B08XZ97HFY",
+    "videos": {
+        "title": [
+            "The Importance of Water Filtration ",
+            "The Benefits of Drinking Mineralized Alkaline Water",
+            "What is Alkalinity and Acidity?",
+            "Sommelier Taste Tests Different Brands of Water",
+            "HONEST review of Santevia Gravity Water Filtration System",
+            "Watch this review before buying for all the best details",
+            "Water Filter Pitcher Range ",
+            "Waterdrop Alkaline Chubby 10 Cups Water Filter Pitcher",
+            "How to Use: EHM Ultra II Alkaline Water Pitcher",
+            "FEATURE WALK THROUGH of the MIMA Water Filter Pitcher."
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0228e08bf15545baad93a9c6ce82e553?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/024c6edbf2cf47f2bc78362cd47972d1?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0c12471114f44a649af898883025b83c?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/04c0c337bc9a426e9d7e1ae54a4bb3e3?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/057d9e577dd646ff9f7ab76228db89cf?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/0023dfbee5f04bb690663196361df3ab?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/f386d0a97d4140d0a780b0d182612814?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/00335cd8f5444d1c8235f13e415d210b?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/02ca5d768b9d4fd4a97718fcf75a18d0?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/08e2eea4e33e419bbb705990a0df51ab?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            "",
+            "/shop/preciouspetscdn",
+            "/shop/freedombycecilia",
+            "",
+            "",
+            "",
+            "/shop/markscottmakingmoneyonline"
+        ]
+    },
+    "store": "Santevia",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Water Coolers & Filters",
+        "Pitcher Water Filters"
+    ],
+    "details": "{\"Brand\": \"Santevia\", \"Color\": \"White\", \"Special Feature\": \"Change Filter Indicator\", \"Material\": \"Plastic\", \"Capacity\": \"80 Gallons\", \"Included Components\": \"Alkaline Water Pitcher^Alkaline Water Pitcher Filter^Water Pitcher Manual\", \"Package Information\": \"Pitcher\", \"Purification Method\": \"Alkaline\", \"Item Weight\": \"2.4 Pounds\", \"Model Name\": \"Santevia Water Systems Alkaline Water Pitcher (White)\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"10.9 x 6 x 10.9 inches; 2.4 Pounds\", \"Item model number\": \"P404\", \"Date First Available\": \"July 21, 2012\", \"Manufacturer\": \"Santevia\"}",
+    "parent_asin": "B06WW7BRTY",
     "bought_together": null,
     "subtitle": null,
     "author": null

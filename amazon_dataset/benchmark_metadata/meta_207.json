@@ -1,20 +1,50 @@
 {
-    "main_category": "All Beauty",
-    "title": "COKOHAPPY Large Temporary Tattoo, Keep Calm Word",
-    "average_rating": 4.1,
-    "rating_number": 2,
+    "main_category": "Tools & Home Improvement",
+    "title": "Kenmore KC28SBZTZ000 Vacuum Beater Bar Belt Genuine Original Equipment Manufacturer (OEM) Part",
+    "average_rating": 3.9,
+    "rating_number": 39,
     "features": [],
-    "description": [],
-    "price": "None",
+    "description": [
+        "Replaces Part # KC28SBZTZ000 Designed to fit many of the Sears Kenmore models including the following. 116.23612300, 116.23913300, 116.24614400, 116.25512500, 116.25513506, 116.25614504, 116.25614506, 116.25615500, 116.25812503, 116.25813508, 116.25914507, 116.25914505, C50XDHF0U003"
+    ],
+    "price": "9.43",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/410nFXX9I1L._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/41dQGmnTuWL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/91Fu20wwqSL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31ZpvCEpreL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31XMfuroP2L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51RDxWLzhML._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31ZpvCEpreL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31XMfuroP2L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51RDxWLzhML._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT06"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "COKOHAPPY",
-    "categories": [],
-    "details": "{\"Brand\": \"COKOHAPPY\", \"Water Resistance Level\": \"Water Resistant\", \"Number of Pieces\": \"1\", \"Product Dimensions\": \"8.27 x 5.91 x 0.04 inches; 0.35 Ounces\", \"UPC\": \"761710065498\"}",
-    "parent_asin": "B017A0PAFW",
+    "store": "Kenmore",
+    "categories": [
+        "Home & Kitchen",
+        "Vacuums & Floor Care",
+        "Vacuum Parts & Accessories",
+        "Replacement Batteries & Parts",
+        "Belts"
+    ],
+    "details": "{\"Manufacturer\": \"Kenmore\", \"Part Number\": \"KC28SBZTZ000\", \"Item Weight\": \"0.88 ounces\", \"Package Dimensions\": \"8.15 x 4.02 x 1.1 inches\", \"Item Package Quantity\": \"1\", \"Batteries Included?\": \"No\", \"Best Sellers Rank\": {\"Home & Kitchen\": 555326, \"Vacuum Belts\": 514}, \"Date First Available\": \"December 19, 2017\"}",
+    "parent_asin": "B078ZFJ88Z",
     "bought_together": null,
     "subtitle": null,
     "author": null

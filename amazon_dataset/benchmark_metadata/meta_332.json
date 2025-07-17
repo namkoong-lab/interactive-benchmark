@@ -1,22 +1,79 @@
 {
-    "main_category": "All Beauty",
-    "title": "BOBBI BROWN SKIN FOUNDATION STICK .31 OZ / 9 g - COOL NATURAL",
+    "main_category": "Amazon Home",
+    "title": "Christmas Elegance 90 Inch Thin Tinsel Center Loop Christmas Garland, Rose Gold/White Iridescent",
     "average_rating": 3.7,
-    "rating_number": 23,
-    "features": [],
-    "description": [
-        "Customize your level of coverage or use as a spot concealer on the go—this multitasker does it all."
+    "rating_number": 187,
+    "features": [
+        "90 Inch long x 3.5 Inch width",
+        "Classic Christmas Decorations",
+        "Suitable for indoor and outdoor",
+        "Tarnish-proof",
+        "NOT a toy."
     ],
-    "price": "24.99",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "description": [
+        "Christmas Elegance 90 Inch Thin Tinsel Center Loop Christmas Garland, Rose Gold/White Iridescent"
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91j04lw9J-L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91mj9eVAsPL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91IgEuKAZ8L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51-dQnSeTzL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61-mtzfLrrL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61vw94c7O2L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51-dQnSeTzL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61-mtzfLrrL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61vw94c7O2L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
     },
-    "store": "Bobbi Brown",
-    "categories": [],
-    "details": "{\"Item Form\": \"Stick\", \"Color\": \"Brown\", \"Skin Type\": \"All\", \"Finish Type\": \"Natural\", \"Brand\": \"Bobbi Brown\", \"Package Dimensions\": \"4.17 x 0.94 x 0.87 inches; 0.81 Ounces\", \"UPC\": \"716170226163\"}",
-    "parent_asin": "B07V8GH8D7",
+    "videos": {
+        "title": [
+            "Christmas Tinsel Garland ",
+            "CCINEE Assorted Tinsel Garlands for Christmas Decoration",
+            "Christmas Tinsel Garland",
+            "50 Feet Tinsel Garland Metallic Tinsel Twist Garland ",
+            "Christmas Prelit Garlands for Xmas Party Tree Decoration",
+            "26.2 Feet Holiday Tinsel Garlands ",
+            "How to Celebrate New Year's Eve at Home"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0e7374b69c1043aebb4a01047502cc24?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/428734f0aaf34461bedf64d47b145d87?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0b4824a8d1e348feaa87e3707247a73e?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0e589e41cfb44a99bf6841bacbda813c?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0f94d8af3f544da4a6a7e8a749d6a655?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/0842c6dedded4fbfb06b8da1421710e2?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/cec0951a1bf74399b91f22aeba13d392?ref=dp_vse_rvc_6"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "AGAKIN4QUMYHZMOCB45UUWCRMKQA"
+        ]
+    },
+    "store": "Christmas Elegance",
+    "categories": [
+        "Home & Kitchen",
+        "Seasonal Décor",
+        "Wreaths, Garlands & Swags",
+        "Garlands"
+    ],
+    "details": "{\"Package Dimensions\": \"6.8 x 5.6 x 2.8 inches\", \"Item Weight\": \"0.81 ounces\", \"Manufacturer\": \"Christmas Elegance\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1206683, \"Christmas Garlands\": 1703}, \"Batteries required\": \"No\", \"Brand\": \"Christmas Elegance\", \"Color\": \"6#\", \"Material\": \"Tinsel\", \"Item Length\": \"90 Inches\"}",
+    "parent_asin": "B07YGPJWJB",
     "bought_together": null,
     "subtitle": null,
     "author": null

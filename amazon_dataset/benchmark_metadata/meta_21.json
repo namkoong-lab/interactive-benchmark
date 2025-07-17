@@ -1,20 +1,78 @@
 {
-    "main_category": "All Beauty",
-    "title": "Wixar Natural Sea Moss Soap - (2 PACK) - Lavender & Honey - Wildcrafted Irish Sea Moss - Cold Process Bar Soap - Scented With Premium Essential Oils - For Men and Women - Face & Body",
-    "average_rating": 4.4,
-    "rating_number": 41,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "InterDesign Damask Fabric Shower Curtain, 72 x 72, Lime",
+    "average_rating": 3.4,
+    "rating_number": 25,
+    "features": [
+        "Damask",
+        "Imported",
+        "Machine washable, easy care",
+        "Use of liner recommended, check out InterDesign's extensive liner collection.",
+        "12 Rust resistant metal grommets with a reinforced top-header",
+        "Measures 72\" x 72\""
+    ],
+    "description": [
+        "French-inspired, the Damask Shower Curtain is a bold print with chic design. Dress up your bathroom with bold, bright hues or traditional neutrals."
+    ],
+    "price": "23.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71zqZX9OQCL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/717bE-+LKdL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51DhrYXSYBL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51fhvEKqatL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51QKwq2DszL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41+-zzHoHIL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51fhvEKqatL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51QKwq2DszL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41+-zzHoHIL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
     },
-    "store": "WIXAR NATURALS",
-    "categories": [],
-    "details": "{\"Item Form\": \"Bar\", \"Skin Type\": \"Oily,Sensitive,All Skin Types\", \"Brand\": \"WIXAR NATURALS\", \"Scent\": \"Lavender\", \"Material Feature\": \"Natural\", \"Package Dimensions\": \"4.21 x 2.52 x 1.89 inches; 7.05 Ounces\", \"UPC\": \"618149310265\"}",
-    "parent_asin": "B08BV6F6BC",
+    "videos": {
+        "title": [
+            "Morocco Peva Shower Curtain Teal",
+            "Madison Park Isla 100% Cotton Percale Shower Curtain, Floral Medallion Boho Printed Watercolor Cute",
+            "sage green shower curtain",
+            "Beautiful Green Plant Leaves Shower Curtain",
+            "EOBTAIN Sage Green Leaf Hummingbird Shower Curtain",
+            "Shower Curtain 72\" x 72\" PEVA Frosted Waterproof Magnets "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/02a9be4dff994805ac7127f73e83e4ba?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0235f58337234acda33be978774b6c90?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0c0200953fa742039a8e27db240d694a?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0c66f089f26945899a32d3fa31f23491?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0e9a1a2f65de4fc0a99535e268e09fc1?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/07a3f6887087462ea7dd10f392565a60?ref=dp_vse_rvc_5"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            "/shop/dee2102",
+            "",
+            ""
+        ]
+    },
+    "store": "InterDesign",
+    "categories": [
+        "Home & Kitchen",
+        "Bath",
+        "Bathroom Accessories",
+        "Shower Curtains, Hooks & Liners",
+        "Shower Curtains"
+    ],
+    "details": "{\"Brand\": \"InterDesign\", \"Color\": \"Lime\", \"Material\": \"Metal\", \"Product Dimensions\": \"72\\\"L x 72\\\"W\", \"Special Feature\": \"Resistant\", \"Room Type\": \"Bathroom\", \"Style\": \"Modern\", \"Pattern\": \"Checkered\", \"Theme\": \"Damask\", \"Top Style\": \"Grommet\", \"Size\": \"Standard\", \"Age Range (Description)\": \"Adult\", \"Product Care Instructions\": \"Machine Wash\", \"Package Weight\": \"0.84 Pounds\", \"Item Weight\": \"13.4 ounces\", \"Manufacturer\": \"Interdesign\", \"Item model number\": \"40421\", \"Best Sellers Rank\": {\"Home & Kitchen\": 4237950, \"Shower Curtains\": 8526}, \"Is Discontinued By Manufacturer\": \"No\", \"Fabric Type\": \"Damask\", \"Assembly required\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\", \"Import\": \"Imported\"}",
+    "parent_asin": "B00AF5S5R0",
     "bought_together": null,
     "subtitle": null,
     "author": null

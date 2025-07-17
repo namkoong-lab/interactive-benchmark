@@ -1,26 +1,54 @@
 {
-    "main_category": "All Beauty",
-    "title": "Colgate 360 Optic White Sonic Power Toothbrush, Full Head Medium (Pack of 12)",
-    "average_rating": 2.0,
-    "rating_number": 1,
+    "main_category": "Amazon Home",
+    "title": "Design Ideas GelGems Summertime Themed Gel Window Clings (at Sea, Small Bag)",
+    "average_rating": 4.7,
+    "rating_number": 34,
     "features": [
-        "The polishing bristles and stain erasing cups work their magic by polishing away surface stains for a white smile you'll want to flash",
-        "Delivers the cleaning power of 20,000 strokes per minute",
-        "Includes battery in toothbrush"
+        "Re-usable",
+        "Rinse Clean",
+        "Stick to windows, mirrors, and other glass surfaces",
+        "Great for classrooms, homes, children's room, etc.",
+        "Leaves no residue mark"
     ],
     "description": [
-        "Want results? Count on this powerful toothbrush for a beautiful, radiant, white smile! With its dual-action head, you can now get a brush that both polishes and shines your teeth, while getting the clean you expect from a vibrating toothbrush."
+        "GelGems are perfect for any window. They are a mechanically resistant, semi-solid, thermoplastic polymer that stick to windows, mirrors, glass dividers or any other glass surface. GelGems are washable and re-usable; they peel off easily and don’t leave any marks. Put them in your children's room, home for the holidays and seasons or office. The small pack is approximately 8\" x .1\"x 9.75\""
     ],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "price": "15.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/519tzW+CXWL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/519tzW+CXWL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "Colgate",
-    "categories": [],
-    "details": "{\"Package Dimensions\": \"9.1 x 2 x 0.7 inches; 1.26 Pounds\", \"Item model number\": \"168301\", \"Batteries\": \"12 AAA batteries required. (included)\", \"UPC\": \"035000683014\", \"Manufacturer\": \"Colgate\"}",
-    "parent_asin": "B00I8B2286",
+    "videos": {
+        "title": [
+            "Expand children's imagination"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0b28ac6d5d2a4e92b58e70fc04dda764?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Design Ideas",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Window Treatments",
+        "Window Stickers & Films",
+        "Window Stickers"
+    ],
+    "details": "{\"Brand\": \"Design Ideas\", \"Color\": \"At Sea\", \"Item Dimensions LxWxH\": \"8 x 0.1 x 9.75 inches\", \"Surface Recommendation\": \"Glass\", \"Room Type\": \"Classroom\", \"Theme\": \"Botanical\", \"Special Feature\": \"Reusable\", \"Age Range (Description)\": \"Kid\", \"Installation Type\": \"Stick\", \"Reusability\": \"Reusable\", \"Pattern\": \"Solid\", \"Shape\": \"Irregular\", \"Unit Count\": \"1.0 Count\", \"Product Dimensions\": \"8 x 0.1 x 9.75 inches\", \"Item Weight\": \"0.16 ounces\", \"Manufacturer\": \"Design Ideas\", \"Item model number\": \"2503003\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1801621, \"Window Stickers\": 3044}, \"Is Discontinued By Manufacturer\": \"No\", \"Assembly required\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B07FST86CP",
     "bought_together": null,
     "subtitle": null,
     "author": null

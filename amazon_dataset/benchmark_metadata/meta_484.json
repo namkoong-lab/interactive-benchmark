@@ -1,20 +1,62 @@
 {
-    "main_category": "All Beauty",
-    "title": "LOUISE MAELYS Womens Long Curly Wig Blonde Wavy Cosplay Wig Party Hair Extension",
-    "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Mauviel M'Passion Copper Egg White Beating Bowl With Ring, 2.6-qt, Made in France",
+    "average_rating": 4.8,
+    "rating_number": 31,
+    "features": [
+        "Perfect for beating egg whites or mixing ingredients for your favorite meal or dessert.",
+        "The copper reacts with the egg whites, allowing them to become more stable and ready for cooking or baking.",
+        "The utensils in the collection M’PASSION, beyond their efficiency, are aesthetic and embody the passion and culinary know how of Mauviel 1830, with a wide range of products. The utensils in the collection M’PASSION, beyond their efficiency, are aesthetic and embody the passion and culinary know how of Mauviel 1830, with a wide range of products.",
+        "Made in France. Mauviel is the leading cookware manufacturer for professional and household chefs throughout the world.",
+        "Dimensions: 2.6-qt Egg Beating Bowl. Diameter: 7.9-in; Height: 4.3-in"
+    ],
+    "description": [
+        "Mauviel, a French family business established in 1830 and located in the Normandy town of Villedieu-les-Poeles, is the foremost manufacturer of professional copper cookware in the world today. Highly regarded in the professional world, with over 170 years of experience, Mauviel offers several different lines of copper cookware to professional chefs and home cooks that appreciate the benefits of their high quality products. Professional cooks can attest that copper cookware is an essential part of every cookware collection as it is 2X more conductive than aluminum and 10X more conductive than stainless steel. This advantage makes copper the very best material for cooking, as it is unsurpassed in its ability to heat up evenly and rapidly and to cool down quickly, allowing for maximum control and great cooking results."
+    ],
+    "price": "139.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61MRpEpOsyL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31n4A4skiDL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31n4A4skiDL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "Louise Maelys",
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"13.3 x 8.6 x 1.7 inches; 14.08 Ounces\", \"UPC\": \"844498708112\"}",
-    "parent_asin": "B01DJZZ08Y",
+    "videos": {
+        "title": [
+            "Want to whip up perfectly lush and stable peaks of meringue?",
+            "Asian Collard Green Wrap",
+            "Brands which trust Alchemade to represent them",
+            "La Mere Poulard"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/1468f0d206444c58b7fc1f8107e1fac3?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/08ad340bd6124c1f89463767c9223e9a?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0515307270e54835886469eb7d13c6a8?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0359fb18a2f3491b975fecea90c4c2e6?ref=dp_vse_rvc_3"
+        ],
+        "user_id": [
+            "",
+            "/shop/influencer-f419fd51",
+            "",
+            "/shop/influencer-f419fd51"
+        ]
+    },
+    "store": "Mauviel",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Bakeware",
+        "Mixing Bowls"
+    ],
+    "details": "{\"Bowl Material\": \"Copper\", \"Number of Pieces\": \"1\", \"Brand\": \"Mauviel\", \"Color\": \"Copper\", \"Shape\": \"Bowl,Egg\", \"Capacity\": \"2.6 Quarts\", \"Specific Uses For Product\": \"Dessert\", \"Included Components\": \"Egg Beating Bowl\", \"Seasons\": \"All Seasons\", \"Is Dishwasher Safe\": \"No\", \"Is Microwaveable\": \"No\", \"Material\": \"Copper\", \"Product Dimensions\": \"8.8 x 8.8 x 5.2 inches\", \"Item Weight\": \"11.3 ounces\", \"Manufacturer\": \"Mauviel\", \"Country of Origin\": \"France\", \"Item model number\": \"2191.20\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 130007, \"Mixing Bowls\": 490}, \"Is Discontinued By Manufacturer\": \"No\", \"Warranty Description\": \"Limited lifetime warranty for household use only.\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B007YZ7AL6",
     "bought_together": null,
     "subtitle": null,
     "author": null

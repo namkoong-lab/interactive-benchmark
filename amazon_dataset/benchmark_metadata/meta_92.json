@@ -1,20 +1,55 @@
 {
-    "main_category": "All Beauty",
-    "title": "Suave for Men Body Wash, Sport Recharge - 12oz. (Pack of 4)",
-    "average_rating": 4.5,
-    "rating_number": 52,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Collections Etc Embroidered Hummingbird Floral Curtains - Pink & Purple Floral Cutout Borders - Machine Washable",
+    "average_rating": 4.8,
+    "rating_number": 11,
+    "features": [
+        "These charming embroidered curtains feature a lovely pink and purple floral border with beautiful hummingbirds flying above",
+        "The white curtains have an intricate cutout border and timeless style",
+        "Rod pocket tops make hanging easy",
+        "Tier set, swag sets and valance sold separately| Polyester; imported| Choose: Valance (14\"L x 58\"W), Swag Set of 2 (36\"L x 29\"W each), 24\" Tier Set of 2 (24\"L x 29\"W each) or 36\" Tier Set of 2 (36\"L x 29\"W each)"
+    ],
+    "description": [
+        "Embroidered Hummingbird Floral Curtains - Pink & Purple Floral Cutout Borders - Machine WashableDescriptionThese charming embroidered curtains feature a lovely pink and purple floral border with beautiful hummingbirds flying above. The white curtains have an intricate cutout border and timeless style. Rod pocket tops make hanging easy. Tier set, swag sets and valance sold separately. Polyester; imported. Choose: Valance (14\"L x 58\"W), Swag Set of 2 (36\"L x 29\"W each), 24\" Tier Set of 2 (24\"L x 29\"W each) or 36\" Tier Set of 2 (36\"L x 29\"W each).Material TypePolyester"
+    ],
+    "price": "16.96",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71yW74TP02L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/715KRdfy-hL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61-OjK5XpmL._AC_SL1001_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/413UGV-KnmL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41txk4+BeML._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51rTGOHCs3L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/413UGV-KnmL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41txk4+BeML._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51rTGOHCs3L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT08"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Suave",
-    "categories": [],
-    "details": "{\"Item Form\": \"Gel\", \"Skin Type\": \"Sensitive\", \"Brand\": \"Suave\", \"Scent\": \"Fresh\", \"Age Range (Description)\": \"Adult\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"3 x 8.3 x 5.5 inches; 1.32 Pounds\", \"Item model number\": \"SG_B01663ASGU_US\", \"UPC\": \"079400853202\", \"Manufacturer\": \"Suave\"}",
-    "parent_asin": "B01663ASGU",
+    "store": "Collections Etc",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Window Treatments",
+        "Curtains & Drapes",
+        "Tiers"
+    ],
+    "details": "{\"Brand\": \"Collections Etc\", \"Color\": \"White,pink,purple\", \"Material\": \"Polyester\", \"Product Dimensions\": \"14\\\"L x 58\\\"W\", \"Special Feature\": \"Embroidery\", \"Pattern\": \"Floral\", \"Theme\": \"Floral\", \"Curtain Form\": \"Valance\", \"Top Style\": \"Rod Pocket\", \"Size\": \"24\\\"L Tiers\", \"Included Components\": \"Valance\", \"Age Range (Description)\": \"Adult\", \"Item Weight\": \"2.4 ounces\", \"Product Care Instructions\": \"Machine Wash\", \"Package Weight\": \"0.75 Pounds\", \"Manufacturer\": \"Winston Brands\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2673035, \"Window Treatment Tiers\": 1719}, \"Date First Available\": \"December 20, 2019\"}",
+    "parent_asin": "B082XT1F9H",
     "bought_together": null,
     "subtitle": null,
     "author": null

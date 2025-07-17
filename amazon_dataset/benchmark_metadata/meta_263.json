@@ -1,20 +1,97 @@
 {
-    "main_category": "All Beauty",
-    "title": "Lace Front Wigs Human Hair 4x4 Short Bob Wigs Middle Part Water Wave Lace Closure Human Hair Wigs Pre Plucked Natural Color Lace Front Bob Wigs 10 Inch",
-    "average_rating": 3.8,
-    "rating_number": 10,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Paddywax Candles Haze Collection Incense Sticks in Glass Jar, 100-Piece, Cotton & Teak",
+    "average_rating": 4.1,
+    "rating_number": 203,
+    "features": [
+        "COTTON & TEAK: We work with perfumers to source nature's finest ingredients, creating high-quality incense that tells a special fragrance story to fit your mood",
+        "HAZE INCENSE & HOLDER: A hazy glass jar filled with fragranced incense sticks in your favorite scent; convenient glass lid functions as an incense holder",
+        "LONG LASTING: Includes 100 sticks of high-quality scented incense that will fill your home with an inviting fragrance",
+        "UPCYCLED BEAUTY: Repurpose the glass jar when finished; great for storing beauty items, or holding knick knacks",
+        "ARTFULLY CRAFTED: Paddywax is an artisan company specializing in candles and diffusers that that are made with quality materials, inspiring color palettes, and intriguing fragrances to set the tone in your home"
+    ],
+    "description": [
+        "A hazy glass jar filled with fragranced incense sticks in your favorite scent. Its convenient glass lid functions as an incense holder. Includes 100 sticks of high-quality scented incense that will fill your home with an inviting fragrance. Artfully Crafted - Paddywax is an artisan candle company in Nashville, TN, founded in 1996. Each Paddywax candle features a soy wax blend hand-poured into an easily repurposed vessel with U.S.A.-sourced cotton wicks. Specializing in candles and diffusers that compliment home decor trends, Paddywax candles are made with quality materials, inspiring color palettes, and intriguing fragrances to set the tone in your home."
+    ],
+    "price": "16.9",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61TkhkF-mmL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61SJviC0aIL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71jC8ms2OsL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61gki8nyjJL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/812QMtuZ++L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/311Zt88apsL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41-rXQ3kwuL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31DQDUdKFZL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/419D79z6maL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/3139HLDjTxL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/311Zt88apsL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41-rXQ3kwuL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31DQDUdKFZL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/419D79z6maL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/3139HLDjTxL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
     },
-    "store": "Coisini",
-    "categories": [],
-    "details": "{\"Material\": \"Human Hair\", \"Hair Type\": \"Straight\", \"Brand\": \"Coisini\", \"Age Range (Description)\": \"Adult\", \"Package Dimensions\": \"11.5 x 9.8 x 4.25 inches; 4.97 Ounces\"}",
-    "parent_asin": "B08CRL6H24",
+    "videos": {
+        "title": [
+            "Pf Candle Co ",
+            "Folkulture Incense Sticks, Insense Sticks ",
+            "About Original Products Botanica",
+            "Quick Review Of These Sandalwood Incense",
+            "Reviewing the Shoyeido Blossoms Incense",
+            "Folkulture Incense Sticks -120",
+            "Nag champa feedback ",
+            "Our Point of View on Paddywax Candles Reed Diffusers ",
+            "Paddywax Candles: Eco Collection",
+            "Folkulture Incense Sticks 120 sticks Set of 6"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0f09543d9e3345ebb891695fbd9d3a0e?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0f725255670540b28d8792ddfb8fa0c4?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/084061368b29451887397c168a8cf073?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0d4217ed7cf940b283e3627697190eb1?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/076c7104e6b147e9a2b13f7c08afeb64?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/09b6fff6988f42e2a50bdc574fbcf112?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/044daeb8b0e3420eb5c59a160321d2bb?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/00b081c767994235a041e28f3cc2c461?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/29cf42543b81428dbea290898eef039f?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/090cd330526643b4b46ca2d906bf6670?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "/shop/lashaunbiggs",
+            "",
+            "",
+            "/shop/2doods_eatinfoods",
+            "/shop/hayantooo",
+            "/shop/taketimetocreate",
+            "/shop/partywiththeplanet432",
+            "/shop/influencer-20a38664",
+            "",
+            ""
+        ]
+    },
+    "store": "Paddywax",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Fragrance",
+        "Incense & Incense Holders",
+        "Incense"
+    ],
+    "details": "{\"Product Dimensions\": \"2 x 2 x 5 inches\", \"Item Weight\": \"6.7 ounces\", \"Manufacturer\": \"Paddywax\", \"Item model number\": \"IN0001Z\", \"Best Sellers Rank\": {\"Home & Kitchen\": 194321, \"Incense\": 485}, \"Perfume\": \"Cedar\", \"Assembly required\": \"No\", \"Batteries required\": \"No\", \"Included Components\": \"Glass Jar (1), Incense Sticks (100)\", \"Brand\": \"Paddywax\", \"Item Form\": \"Sticks\", \"Material\": \"Glass\", \"Scent\": \"Cedar\", \"Product Benefits\": \"Long Lasting\", \"Item Length\": \"5 Inches\"}",
+    "parent_asin": "B08V29CXPW",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,20 +1,57 @@
 {
-    "main_category": "All Beauty",
-    "title": "Bodycology Sweet Love Gift Set With Warm and Cozy Socks",
-    "average_rating": 3.7,
+    "main_category": "Tools & Home Improvement",
+    "title": "Dragon Chewer 6ml No Neck Straight Sided Glass Concentrate Jars with Silicone Lids (20 pcs) (22-CLR)",
+    "average_rating": 3.6,
     "rating_number": 4,
-    "features": [],
-    "description": [],
-    "price": "7.77",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "features": [
+        "✔ [Material] - High quality glass and silicone cap or lid",
+        "✔ [Size] - 6 ML or .75\" x .75\"",
+        "✔ [Features] Non-Stick, easy to clean, can be used repeatedly and great for long term storage",
+        "✔ [Uses] Perfect solution for sticky materials such as lip balm, spices, wax, creams and more!"
+    ],
+    "description": [
+        "6ML Clear No Shoulder Glass Jar - The 6ML shoulder less straight walled clear glass concentrate jar with clear silicone cap is an affordable way to package oils, liquids, wax, spices and other sticky materials. The glass ID measures ~.75\"x.75\". Additionally, the the straight walls are great for labels. The base does have a small round edge, which helps removing the product from inside. The wholesale affordable glass concentrate jars or containers matched with a silicone cap is a premium solution for all your packaging needs. Clear Silicone Lid or Cap - The glass comes with a tight sealing silicone cap or lid. The silicone wraps around a glass lip and seals on both the outside and inside to secure the contents inside. Unlike other options that use a plastic cap, our silicone lid ensures the contents do not stick to any parts of the container."
+    ],
+    "price": "12.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/317OfrMa1aL._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/51BvUNFNQpL._AC_SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/117gk3l+c3L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31WGz2CwjuL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/117gk3l+c3L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31WGz2CwjuL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
     },
-    "store": "Bodycology",
-    "categories": [],
-    "details": "{\"Package Dimensions\": \"9 x 8 x 1 inches; 7.2 Ounces\", \"Item model number\": \"103285-6PK\", \"UPC\": \"885645032858\"}",
-    "parent_asin": "B01LZA8QP4",
+    "videos": {
+        "title": [
+            "Air Tight Concentrate Containers"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/053b7a3e58d94cdb950237106a2a53c2?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Dragon Chewer",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Cookware",
+        "Canning",
+        "Jars"
+    ],
+    "details": "{\"Manufacturer\": \"HL Packaging\", \"Part Number\": \"22-CLR\", \"Item Weight\": \"5.4 ounces\", \"Package Dimensions\": \"4.85 x 4.77 x 0.95 inches\", \"Country of Origin\": \"China\", \"Item model number\": \"22-CLR\", \"Color\": \"Clear\", \"Material\": \"Glass, Silicone\", \"Pattern\": \"Solid\", \"Shape\": \"Round\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 377134, \"Canning Jars\": 2462}, \"Date First Available\": \"October 23, 2021\", \"Brand\": \"Dragon Chewer\", \"Capacity\": \"6 Milliliters\", \"Number of Sets\": \"20\"}",
+    "parent_asin": "B09K5TDSGY",
     "bought_together": null,
     "subtitle": null,
     "author": null

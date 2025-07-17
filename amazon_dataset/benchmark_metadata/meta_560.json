@@ -1,20 +1,59 @@
 {
-    "main_category": "All Beauty",
-    "title": "Czech & Speake - Frankincense & Myrrh",
-    "average_rating": 3.0,
-    "rating_number": 2,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Vickerman Everyday 22\" Green Plastic Grass in a Hanging Pot - Faux Indoor Potted Plant - Greenery for Home Or Office Decor - Maintenance Free",
+    "average_rating": 3.8,
+    "rating_number": 5,
+    "features": [
+        "LUSH FOLIAGE that fits all decor. Faux hanging potted grasses will instantly add greenery to any room.",
+        "DECORATIVE HANGING PLANTER - This arrangement comes potted in a plastic hanging planter measuring 5\"Lx5\"Wx4\"H.",
+        "READY TO CUSTOMIZE, easily add a welcome feeling to any space in your home with the addition of this decorative faux plant.",
+        "EASY TO CARE FOR - MAINTENANCE FREE. An occasional light dusting is all that is needed."
+    ],
+    "description": [
+        "Vickerman 22\" Green Plastic Grass, comes in a Hanging Pot. Add a touch of natural beauty to your space with this beautiful Hanging Grass Plant. The pot measures 4\"H x 5\"W. From the kitchen to the dining room centerpiece, farmhouse to the modern home, this plant is sure to inspire. For additional complimentary accents see the many stems and bushes available from Vickerman. This durable plant is maintenance free and will suit any decor. When necessary simply wipe the plant with a dry cloth to remove dust. Vickerman has been an industry leader since 1940. Enjoy this expert designed decoration around your home."
+    ],
+    "price": "32.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71CA2JvSdTL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81U0-3ZAXuL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41yTXUXeToL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41JvmL6G84L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41yTXUXeToL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41JvmL6G84L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
     },
-    "store": null,
-    "categories": [],
-    "details": "{}",
-    "parent_asin": "B000S92RWM",
+    "videos": {
+        "title": [
+            "Review of the Artificial Hanging Plant",
+            "Artificial Hanging Plant HONEST Review"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/092a090f1c11427298b1dea13cad227f?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/07c954a065c2468eadd3bd94f178b637?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "/shop/andrew_pardine",
+            "/shop/jasenf"
+        ]
+    },
+    "store": "Vickerman",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Artificial Plants & Flowers",
+        "Artificial Plants & Greenery"
+    ],
+    "details": "{\"Brand\": \"Vickerman\", \"Plant or Animal Product Type\": \"grass\", \"Color\": \"Green\", \"Material\": \"Plastic/Wire\", \"Specific instructions for use\": \"Office Decor\", \"Indoor/Outdoor Usage\": \"Indoor\", \"Package Information\": \"Pot\", \"Occasion\": \"Office\", \"Number of Items\": \"1\", \"Item Weight\": \"1 pounds\", \"Item Package Quantity\": \"1\", \"Product Dimensions\": \"9 x 9 x 22 inches\", \"Manufacturer\": \"Vickerman\", \"Country of Origin\": \"China\", \"Item model number\": \"FE191422\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3724776, \"Artificial Plants & Greenery\": 9657}, \"Care instructions\": \"Hand Wash\", \"Number of pieces\": \"1\", \"Warranty Description\": \"1 year warranty against manufacturer defects.\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B07Q4FWBW2",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,20 +1,51 @@
 {
-    "main_category": "All Beauty",
-    "title": "Exttlliy Kid Haircut Salon Cape Waterproof Shampoo Capes Professional Hair Styling Smock With Clear Viewing Window",
-    "average_rating": 3.9,
-    "rating_number": 42,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Auto Supply Mall Hoffman Steam Air Vent 40, 1/8 Angle Steam Radiator Air Valve 401440-2 Pack, Model: 401440, Car & Vehicle Accessories/Parts",
+    "average_rating": 4.3,
+    "rating_number": 31,
+    "features": [
+        "Air Valve (non-vacuum) - Float-type Vent",
+        "Single Non-Adjustable Port",
+        "1/8 NPT Angle Connection",
+        "Maximum Operating Pressure 6 PSIG (0.4 bar)",
+        "Get Both Parts - Great Value Pack"
+    ],
+    "description": [
+        "11"
+    ],
+    "price": "79.22",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/7142BK43OVL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31aLGu4XJhL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31aLGu4XJhL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "Exttlliy",
+    "videos": {
+        "title": [
+            "Midline Valve 6J3I5 Steam Radiator Air Vent; Heat Regulator ",
+            "Midline Valve HBW-4B18 Steam Air Vent #4 Heat Regulator "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/008c415be73448c3beeb0299c9cf6c72?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/081a747c5c18437cbdf4636318cb9eae?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            ""
+        ]
+    },
+    "store": "Auto Supply Mall",
     "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"8.78 x 6.34 x 0.87 inches; 7.04 Ounces\", \"UPC\": \"721352763831\"}",
-    "parent_asin": "B07FVY4ZQQ",
+    "details": "{\"Package Dimensions\": \"5.4 x 3.3 x 1.7 inches\", \"Item Weight\": \"6.4 ounces\", \"Manufacturer\": \"Hoffman\", \"Item model number\": \"Hoffman\", \"Is Discontinued By Manufacturer\": \"No\"}",
+    "parent_asin": "B0B44C7VMM",
     "bought_together": null,
     "subtitle": null,
     "author": null

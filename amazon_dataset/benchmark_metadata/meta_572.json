@@ -1,20 +1,52 @@
 {
-    "main_category": "All Beauty",
-    "title": "Long Deep Wave Lace Front Wigs 32 Inch Synthetic Wig Curly lace front wig Middle Part Lace Wigs Loose Deep Wave Frontal Wig Wet and Wavy Natural Color Curly Wigs for Black Women(32''1B)",
+    "main_category": "Amazon Home",
+    "title": "Bissell Model 3574, 3575, 6594, 6579-2, 6579-3 Upright Vacuum Cleaner Hose",
     "average_rating": 3.9,
-    "rating_number": 18,
+    "rating_number": 9,
     "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "description": [
+        "Hose in good condition - will throw in Combination Upholstery / Dusting Brush"
+    ],
+    "price": "25.45",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61MHcF7RfCL._AC_SL1010_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41500ABUkUL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41500ABUkUL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "kossys",
-    "categories": [],
-    "details": "{\"Material\": \"Synthetic\", \"Hair Type\": \"Wavy\", \"Brand\": \"Kossys\", \"Age Range (Description)\": \"Adult\", \"Style\": \"Modern\", \"Package Dimensions\": \"10.94 x 9.09 x 2.99 inches; 15.2 Ounces\", \"UPC\": \"761426529192\"}",
-    "parent_asin": "B09TQK8GRH",
+    "videos": {
+        "title": [
+            "Bissell Replacement Belts",
+            "for Bissell Style 9 filter",
+            "How to Change a Vacuum Belt "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0e9a13c191f24f5c99138e7a514f0948?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0df3aa3792804307afe09c07659b6596?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/7d31e81ad0fd4b0a96963e62f0623e5c?ref=dp_vse_rvc_2"
+        ],
+        "user_id": [
+            "",
+            "",
+            "AFFSA4RGMNEJ3WMM4AN6XVERFGOA"
+        ]
+    },
+    "store": "Bissell",
+    "categories": [
+        "Home & Kitchen",
+        "Vacuums & Floor Care",
+        "Vacuum Parts & Accessories"
+    ],
+    "details": "{\"Package Dimensions\": \"12.72 x 10.98 x 1.3 inches\", \"Item Weight\": \"12.8 ounces\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2745343, \"Vacuum Parts & Accessories\": 25085}, \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B008MM7HC2",
     "bought_together": null,
     "subtitle": null,
     "author": null

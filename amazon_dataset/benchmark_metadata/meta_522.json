@@ -1,20 +1,81 @@
 {
-    "main_category": "All Beauty",
-    "title": "HD Lace Front Wigs Human Hair Deep Wave Lace Closure Wig 100% Unprocessed Virgin Deep Wave Human Hair Pre Plucked with Baby Hair 180% Density Remy Human Hair Wigs Natural Color (28 inch) …",
-    "average_rating": 1.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Copco Draw Organizer, Four Piece, White With Gray Liner",
+    "average_rating": 5.0,
+    "rating_number": 7,
+    "features": [
+        "Three compartments plus added accessories to customize drawer space",
+        "Cable keeper neatly holds phone chargers or head phones that tend to get tangled",
+        "Floating tray creates a second level great for storing smaller items like rubber bands thumbtacks and batteries",
+        "Easy access box holds small items like paper clips and bag clips smooth edges for easy grabbing",
+        "Soft non-skid liner keeps items in place while turning"
+    ],
+    "description": [
+        "Three compartments plus added accessories to customize drawer space"
+    ],
+    "price": "28.62",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71lkgjr57LL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61k8sgJ8s1S._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Q7sDZsypL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81U0ITd++FL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81+KVLv5rsL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81BtLDBQYsL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71fZTfDSX0L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61jC9317iML._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61e3accpIhL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31MAzGFZJUL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/3141QVTtrzS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41CuJJlIgNL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/5119TS64dgL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51o3zwMjABL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51H0ZHOngBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Lke1rW4ZL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21wt-e73MRL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21N4UaBm0gL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31MAzGFZJUL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/3141QVTtrzS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41CuJJlIgNL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/5119TS64dgL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51o3zwMjABL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51H0ZHOngBL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41Lke1rW4ZL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/21wt-e73MRL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/21N4UaBm0gL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Lemoda",
-    "categories": [],
-    "details": "{\"Material\": \"Human Hair\", \"Hair Type\": \"Curly\", \"Brand\": \"Lemoda\", \"Age Range (Description)\": \"Adult\"}",
-    "parent_asin": "B09BMWCYRF",
+    "store": "Copco",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Storage & Organization",
+        "Racks & Holders",
+        "Cabinet & Drawer Organization",
+        "Shelf Liners"
+    ],
+    "details": "{\"Material\": \"Plastic\", \"Color\": \"White With Gray Liner\", \"Brand\": \"Copco\", \"Product Dimensions\": \"13.4\\\"D x 2.56\\\"W x 11.4\\\"H\", \"Unit Count\": \"1.0 Count\", \"Package Type\": \"Standard Packaging\", \"Number of Items\": \"1\", \"Item Weight\": \"1.66 pounds\", \"Manufacturer\": \"Lifetime Brands Inc\", \"Country of Origin\": \"China\", \"Item model number\": \"5254098\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 609870, \"Shelf Liners\": 1976}, \"Date First Available\": \"January 27, 2020\"}",
+    "parent_asin": "B08487GGC4",
     "bought_together": null,
     "subtitle": null,
     "author": null

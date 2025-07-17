@@ -1,20 +1,48 @@
 {
-    "main_category": "All Beauty",
-    "title": "Benton Aloe Propolis Soothing Gel & Benton Cleansing Foam with 2 Benton Masks ( Bundle )",
-    "average_rating": 3.8,
-    "rating_number": 6,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Utah State Montage Wood Fridge Magnet 2",
+    "average_rating": 4.6,
+    "rating_number": 11,
+    "features": [
+        "This magnet is made of wood",
+        "Safe and non-toxic product",
+        "Brand new item, factory made and comes in plastic bag",
+        "May not stick to stainless steel appliances",
+        "Great souvenir for many occasions!"
+    ],
+    "description": [
+        "Here's a brand new, rare and a hard to find collector's item: Utah State Montage Fridge Magnet 2\" x 3\".These magnets are made of wood and are safe and non-toxic. They are also water resistant but not waterproof and it's not advisable to keep them in water for prolonged periods of time. These magnets are standard and not 3D (tri-dimensional). Please note : these magnets MAY NOT stick to stainless steel appliances. So please check in advance whether or not the surface you are planning to use is \"magnet friendly\". These are all very rare and would make a wonderful addition to anyone's collection or make a great gift! Items will be shipped by USPS or other major carriers and will be packed securely."
+    ],
+    "price": "6.25",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81NqwDyFN6L._AC_SL1404_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/619dS62MaxL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/619dS62MaxL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "MUDSHI",
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"6.85 x 3.94 x 2.2 inches; 11.22 Ounces\", \"UPC\": \"608119365302\"}",
-    "parent_asin": "B06XF82JVQ",
+    "store": "Souvenir Destiny",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen Utensils & Gadgets",
+        "Kitchen Accessories",
+        "Refrigerator Magnets"
+    ],
+    "details": "{\"Product Dimensions\": \"3 x 0.2 x 2 inches\", \"Item Weight\": \"0.352 ounces\", \"Manufacturer\": \"Souvenir Destiny\", \"Item model number\": \"utmontagemgnt\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 129456, \"Refrigerator Magnets\": 1542}, \"Date First Available\": \"June 10, 2015\", \"Size\": \"3wx2h\", \"Material\": \"Beechwood\", \"Brand\": \"Souvenir Destiny\", \"Shape\": \"Rectangular\"}",
+    "parent_asin": "B00ZBJM93G",
     "bought_together": null,
     "subtitle": null,
     "author": null

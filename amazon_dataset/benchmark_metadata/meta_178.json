@@ -1,20 +1,70 @@
 {
-    "main_category": "All Beauty",
-    "title": "Smartele New Fashion Cute Sexy High Length Knee Print Socks Sheer Pantyhose Tattoo Lady Tights Socks Leggings Stockings (Cat)",
-    "average_rating": 5.0,
-    "rating_number": 2,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Tanish Trading Stainless Steel Sev Sanch Maker,Pasta Maker, Stainless Steel Namkeen Bhujiya Sevaiya Sev Chakli Gathiya Sancha Murukku Grater Cookies Maker with 6 Jalis (silver)",
+    "average_rating": 3.5,
+    "rating_number": 65,
+    "features": [
+        "Multipurpose cookies and snakes maker gives you many options for shape and size with these 6 different types of jaalis.",
+        "It's a perfect match for the Snacks \"INDIANS\" who wants to make amazing snacks in different shapes; its ergonomically designed body gives you maximum efficiency. 100% stainless steel body with super lock system Come with 6 different types of Jalies (Discs) to suit all your requirements,It is made of stainless steel and used to make sev murkul etc with ease. Dimension: Length :2.6 x Width:2.6 x Height: 6 inches Material Stainless: Steel , Color - Silver",
+        "Dimension: Length :2.6 x Width:2.6 x Height: 6 inches,Package Content 1 pcs with 6 jalis(discs)",
+        "Material: Stainless Steel , Color - Silver",
+        "Item Weight : 480 Grams"
+    ],
+    "description": [
+        "TMT Eommerce It's a perfect match for the Snacks \"INDIANS\" who wants to make amazing snacks in different shapes; its ergonomically designed body gives you maximum efficiency. 100% stainless steel body with super lock system Come with 6 different types of Jalies (Discs) to suit all your requirements,It is made of stainless steel and used to make sev murkul etc with ease. Dimension: Length :2.6 x Width:2.6 x Height: 6 inches Material Stainless: Steel , Color - Silver"
+    ],
+    "price": "14.5",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41HyvDYVYjL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21f9XPQhNGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41XTpWuvh6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41MoHWIsbNL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41HyvDYVYjL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/21f9XPQhNGL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41XTpWuvh6L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41MoHWIsbNL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
     },
-    "store": null,
-    "categories": [],
-    "details": "{}",
-    "parent_asin": "B00F06EUFU",
+    "videos": {
+        "title": [
+            "Stainless Steel Noodle Maker",
+            "Noodles Press Machine Pasta Maker with 5 Noodle Mould"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0b6bc33569804c3f9889272579b9d03e?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0f87ea8a522847a29c18015ef739bbc0?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            ""
+        ]
+    },
+    "store": "Tanish Trading",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen Utensils & Gadgets",
+        "Pasta & Pizza Tools",
+        "Pasta Makers & Accessories",
+        "Manual Pasta Makers"
+    ],
+    "details": "{\"Brand\": \"Tanish Trading\", \"Color\": \"Silver\", \"Material\": \"Stainless Steel\", \"Item Dimensions LxWxH\": \"2.6 x 2.6 x 6 inches\", \"Blade Material\": \"Stainless Steel\", \"Included Components\": \"Included 6 jalis with pasta maker\", \"Number of settings\": \"6\", \"Operation Mode\": \"Manual\", \"Is Dishwasher Safe\": \"Yes\", \"Is Electric\": \"No\", \"Number Of Discs\": \"6\", \"Product Dimensions\": \"2.6 x 2.6 x 6 inches\", \"Item Weight\": \"1.21 pounds\", \"Manufacturer\": \"Tanish Trading\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 95064, \"Manual Pasta Makers\": 123}, \"Date First Available\": \"October 15, 2020\"}",
+    "parent_asin": "B08L887N59",
     "bought_together": null,
     "subtitle": null,
     "author": null

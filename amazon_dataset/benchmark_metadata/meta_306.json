@@ -1,20 +1,61 @@
 {
-    "main_category": "All Beauty",
-    "title": "Annie Hard Curved Bristles Wave Brush 2330 Blue",
-    "average_rating": 3.6,
-    "rating_number": 13,
-    "features": [],
-    "description": [],
-    "price": "6.99",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Oriental Furniture 6 ft. Tall Double Sided Bamboo Tree Canvas Room Divider",
+    "average_rating": 4.1,
+    "rating_number": 9,
+    "features": [
+        "Carefully constructed reinforced wood frames of hardy, kiln dried Spruce. Covered top to bottom, front and back, and on the edges, with stretched poly-cotton blend canvas",
+        "Printed with high saturation ink to create a beautiful, long lasting image",
+        "Almost entirely opaque. Very little light can pass through the layers of canvas, offering complete privacy. Very tough and durable, yet light and portable",
+        "Great for dividing space, providing privacy, hiding unsightly areas or equipment, as a background for plants or sculptures, or defining a cozy space",
+        "Available in 3 panels only. Natural, inviting, colorful accent for modern, eclectic interior design and decor. One of a kind decorative art, as well as practical, effective, folding floor screens"
+    ],
+    "description": [
+        "An extraordinary pair of photographs. Close cropped, sections of rich color saturated images of close ups of mature bamboo stalks awash in daylight in bold, amazing greens. Warm, attractive images printed onto portable, durable, 3 panel canvas room dividers."
+    ],
+    "price": "151.41",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/915zO2MIeVL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/811ojpO4L5L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/814i6A8uFiL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/514pbswlfmL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41nD8BtXloL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41IePPPyQcL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/514pbswlfmL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41nD8BtXloL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41IePPPyQcL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
     },
-    "store": "Annie",
-    "categories": [],
-    "details": "{\"Brand\": \"Annie\", \"Color\": \"Blue\", \"Shape\": \"Oblong\", \"Product Benefits\": \"Nourishing\", \"Unit Count\": \"1.00 Count\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"8.5 x 2.9 x 1.4 inches; 0.35 Ounces\", \"UPC\": \"705372023304 755332649327\"}",
-    "parent_asin": "B0147I957O",
+    "videos": {
+        "title": [
+            "Oriental Furniture - Fine Asian Decor"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/a8012082ab144e0c98bac90221c41894?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "ORIENTAL Furniture",
+    "categories": [
+        "Home & Kitchen",
+        "Furniture",
+        "Bedroom Furniture",
+        "Room Dividers"
+    ],
+    "details": "{\"Brand\": \"ORIENTAL Furniture\", \"Style\": \"Country\", \"Color\": \"Green\", \"Number Of Panels\": \"3\", \"Material\": \"Wood, Bamboo\", \"Recommended Uses For Product\": \"Privacy\", \"Special Feature\": \"Foldable\", \"Mounting Type\": \"Floor Mount\", \"Pattern\": \"Floral\", \"Room Type\": \"Living Room\", \"Indoor/Outdoor Usage\": \"Indoor\", \"Product Care Instructions\": \"Wipe with Dry Cloth\", \"Product Dimensions\": \"1 x 48 x 71 inches\", \"Item Weight\": \"10 pounds\", \"Department\": \"Accent\", \"Manufacturer\": \"Oriental Furniture\", \"Country of Origin\": \"China\", \"Item model number\": \"CAN-BAMB\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2793201, \"Room Dividers\": 1428}, \"Date First Available\": \"February 27, 2009\"}",
+    "parent_asin": "B07C36LM1G",
     "bought_together": null,
     "subtitle": null,
     "author": null

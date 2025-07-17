@@ -1,20 +1,55 @@
 {
-    "main_category": "All Beauty",
-    "title": "Messen 4 Pack Hair Clip Barrette Bridal Jewelry Accessory for Women Girls",
-    "average_rating": 4.6,
-    "rating_number": 19,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Abstract Sign Triumph Motorcycles: Triumph Scrambler 7.8\"x11.8\" Tin Poster Metal Plate Wall Decor",
+    "average_rating": 3.2,
+    "rating_number": 6,
+    "features": [
+        "Size: 20*30cm (7.8\"x11.8\")",
+        "High Quality 8-Colors Printed on Tin Sign, Outdoor Suitable, Waterproof",
+        "WYSWYG: It as a wonderful gift and good for energize your home, office, or garden",
+        "Rolled and hemmed edges, for safe handling",
+        "Shipping With 3-layer Cardboards"
+    ],
+    "description": [
+        "Triumph Motorcycles: Triumph Scrambler 7.8\"x11.8\" Tin Poster Metal Plate Wall Decor by Abstract Sign"
+    ],
+    "price": "16.93",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61U4d-CEh1L._AC_SL1024_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41ZBah6LDDL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41ZBah6LDDL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "Messen",
-    "categories": [],
-    "details": "{\"Package Dimensions\": \"8 x 5.5 x 1.25 inches; 3.21 Ounces\"}",
-    "parent_asin": "B07R9RNDV5",
+    "videos": {
+        "title": [
+            "Video of the item",
+            "Take a look at the product!"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0e6fc1941b4c40b6b249f9dd0b8ec42f?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/06cc2409f72a4e4ab64a312a848f8161?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            ""
+        ]
+    },
+    "store": "Abstract Sign",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Posters & Prints"
+    ],
+    "details": "{\"Wall Art Form\": \"Poster\", \"Material\": \"Tin\", \"Style\": \"Abstract\", \"Theme\": \"Abstract,Motorcycles\", \"Product Dimensions\": \"11.8\\\"L x 7.8\\\"W\", \"Frame Type\": \"Framed\", \"Number of Items\": \"1\", \"Brand\": \"Abstract Sign\", \"Shape\": \"Rectangular\", \"Item Weight\": \"5.3 ounces\", \"Orientation\": \"Landscape\", \"Frame Material\": \"Metal\", \"Mounting Type\": \"Wall Mount\", \"Is framed?\": \"No\", \"Manufacturer\": \"Abstract Sign\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1865538, \"Posters & Prints\": 92338}, \"Number of pieces\": \"1\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B00UVSAR0E",
     "bought_together": null,
     "subtitle": null,
     "author": null

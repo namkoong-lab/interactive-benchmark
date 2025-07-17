@@ -1,20 +1,53 @@
 {
-    "main_category": "All Beauty",
-    "title": "Oksale Plush Panda Zipper Pencil Case Office Stationery School Coin Purse Wallet Cosmetic Makeup Pen Bag (Panda)",
-    "average_rating": 2.7,
-    "rating_number": 5,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Century Home Signature Collection Woolmark Certified Pure Wool Fleece Pillow Protector, King",
+    "average_rating": 3.4,
+    "rating_number": 4,
+    "features": [
+        "100% Wool",
+        "Imported",
+        "Woolmer quality Certified",
+        "100Percent Australian wool",
+        "Easy care machine wash and dry",
+        "Durable and long lasting",
+        "Natural thermostat"
+    ],
+    "description": [
+        "Signature wool pillow protectors are wool mark quality certified as 100percent pure high pile Australian wool. Great for all weather as wool acts as a natural thermostat so no more chills or hot sweats. They protect your pillows as well. They come in 20x26 inch standard, 20x36 inch Queen and 20x36 inch King. They are durable and long lasting for years to come wash after wash. Easy care machine wash and dry"
+    ],
+    "price": "15.42",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81-w9GHYe6L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/7139UC5W7DL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41CvIwJvCPL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31cmR77V36L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41CvIwJvCPL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31cmR77V36L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Oksale",
-    "categories": [],
-    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Item Weight\": \"1.76 Ounces\", \"UPC\": \"646819412094\"}",
-    "parent_asin": "B01JP2GRKA",
+    "store": "Century Home",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Sheets & Pillowcases",
+        "Pillow Protectors"
+    ],
+    "details": "{\"Product Dimensions\": \"20 x 36 x 1 inches\", \"Item Weight\": \"0.75 Pounds\", \"Manufacturer\": \"Home Bedding Solutions\", \"Country of Origin\": \"China\", \"Item model number\": \"C601-147\", \"Best Sellers Rank\": {\"Home & Kitchen\": 4165442, \"Bed Pillow Protectors\": 461}, \"Is Discontinued By Manufacturer\": \"No\", \"Fabric Type\": \"100% Wool\", \"Care instructions\": \"Machine Wash\", \"Assembly required\": \"No\", \"Batteries required\": \"No\", \"Included Components\": \"Pillow Cover (1)\", \"Import\": \"Imported\", \"Size\": \"King\", \"Material\": \"Wool\", \"Brand\": \"Century Home\", \"Product Care Instructions\": \"Machine Wash\"}",
+    "parent_asin": "B00JRE5NDE",
     "bought_together": null,
     "subtitle": null,
     "author": null

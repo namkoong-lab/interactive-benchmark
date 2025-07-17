@@ -1,20 +1,109 @@
 {
-    "main_category": "All Beauty",
-    "title": "uxcell Metal Woman Hairdressing Hair Hoop Hairhoop Ornament 5Pcs Black",
-    "average_rating": 3.0,
-    "rating_number": 28,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Tools & Home Improvement",
+    "title": "Helping Hand 2-Step Folding Step Stool with Oversized Steps and 220 lb. Weight Capacity",
+    "average_rating": 4.7,
+    "rating_number": 638,
+    "features": [
+        "Foam",
+        "VERSATILE: Use this versatile folding step stool for all sorts of household projects including painting and reorganizing. Use it anywhere you need the added height, from the kitchen to the garage to the basement.",
+        "DURABLE CONSTRUCTION: This folding step stool with handle is constructed from strong steel for lasting use but is lightweight (less than 10 lb.) for easy transport from room to room.",
+        "COMFORT HANDLE: Move the 2-step step stool quickly and easily from place to place with the comfortable foam grip handle.",
+        "SAFE STEPS: The oversized, reinforced textured steps on this folding step up stool provide a secure foothold for safe and stable use.",
+        "NON-MARRING BASE: Keep your floors looking their best with the step stool's non-marring base. In addition to protecting against scuffs, the base also prevents sliding."
+    ],
+    "description": [
+        "Helping Hand, a Faucet Queen brand, offers hundreds of every-day items designed for convenience and ease of use. From hand tools and lint traps, to flash lights, clips, carts and the Original Faucet Queen Spray, the Helping Hand brand has you covered for all your home product needs, in over 15 categories including storage carts, sewing sundries, kitchen and bath, surface protection, hand tools, paint accessories, security hardware, carded hardware & fasteners, signs, rope & twine, closet & bath accessories, automotive, glue & adhesives, gloves & garden, and home electrical."
+    ],
+    "price": "35.36",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "https://m.media-amazon.com/images/I/91q-8DRw-0L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81jU+2P2ihL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71qm1eTuX-L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31d1R9d2DCS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41lgzYtnPgL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41JYc9am3oL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41LLlF6de2L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41JYc9am3oL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/414IDVdqb9L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41BkmHtDbNL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41QL+fw7KnL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31d1R9d2DCS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41lgzYtnPgL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41JYc9am3oL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41LLlF6de2L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41JYc9am3oL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/414IDVdqb9L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41BkmHtDbNL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41QL+fw7KnL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07"
+        ]
     },
-    "store": "uxcell",
-    "categories": [],
-    "details": "{\"Color\": \"Black\", \"Material\": \"Metal\", \"Brand\": \"Uxcell\", \"Unit Count\": \"5.0 Count\", \"Package Dimensions\": \"5.51 x 4.72 x 1.18 inches; 2.4 Ounces\"}",
-    "parent_asin": "B00QBZ7D9E",
+    "videos": {
+        "title": [
+            "Should You Buy? HBTower Folding 2 Step Ladder",
+            "Delxo Folding Step Stool- Steel Step Ladder with Anti-Slip Pedal, Hold Up to 330LBS Lightweight and",
+            "HBTower 2 Step - Excellent Build Quality & Function",
+            "2-Step Rubbermaid vs 3-Step HBTpower Tested",
+            "Delxo 2 Step Stool Stepladders Lightweight White Folding Step Ladder with Handgrip ",
+            "Cosco 2-Step Folding Step Stool - Full Review",
+            "Things to Know BEFORE Buying Cosco Step Ladder!",
+            "Step Ladder with Handle, Lightweight and Sturdy ",
+            "My Honest Review of the folding 2 Step Ladder",
+            "*HONEST* review and demo - how much weight does it hold??"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0727bdd70848453ca170d842229c0b08?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/fe0aecf2d8fd4e7db64fb207925bbb6c?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0260d702caaf48cc9c192113cc40bc0f?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0cde313cd7b24382bc2ad1fe3f746487?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/3cf5401f10c04880899b3129878b0454?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/062a4936ec1d46a88755b034c50bcd2f?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/0e6e528f596c499aa8908fdae9c8de66?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/051c7d4ec1534fb984cfac42c21d97b7?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/0a7db6095da64129b7205e6672b4b7c0?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/0274ccbfdf5d453e98fe643aa0a0a7d7?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "/shop/deliciousencounters",
+            "",
+            "/shop/influencer-5d9ad12c",
+            "/shop/fastunboxer",
+            "",
+            "/shop/themathsorcerer",
+            "/shop/jasonalex28",
+            "",
+            "/shop/the.real.nate",
+            "/shop/honestlybridget"
+        ]
+    },
+    "store": "Helping Hand",
+    "categories": [
+        "Home & Kitchen",
+        "Furniture",
+        "Kids' Furniture",
+        "Step Stools"
+    ],
+    "details": "{\"Product Dimensions\": \"23.6\\\"D x 18\\\"W x 3.4\\\"H\", \"Brand\": \"Helping Hand\", \"Material\": \"Aluminum\", \"Color\": \"Multicolor\", \"Special Feature\": \"Lightweight\", \"Room Type\": \"Garage,Kitchen\", \"Age Range (Description)\": \"Adult\", \"Weight Limit\": \"10 Pounds\", \"Model Name\": \"2-Step Stool W/ Foam Grip Hndl\", \"Item Weight\": \"10.33 pounds\", \"Style\": \"Modern\", \"Is Foldable\": \"No\", \"Assembly Required\": \"No\", \"Manufacturer\": \"Helping Hand\", \"Part Number\": \"FQ92000\", \"Country of Origin\": \"China\", \"Item model number\": \"FQ92000\", \"Shape\": \"Rectangle\", \"Item Package Quantity\": \"1\", \"Number Of Pieces\": \"1\", \"Maximum Weight Capacity\": \"10 Pounds\", \"Special Features\": \"Lightweight\", \"Included Components\": \"2-Step Stool W/ Foam Grip Hndl\", \"Batteries Included?\": \"No\", \"Batteries Required?\": \"No\", \"Warranty Description\": \"90 day warranty against manufacturer defects.\", \"Best Sellers Rank\": {\"Home & Kitchen\": 312605, \"Kids' Step Stools\": 249}, \"Date First Available\": \"May 28, 2019\"}",
+    "parent_asin": "B0B1849SB8",
     "bought_together": null,
     "subtitle": null,
     "author": null

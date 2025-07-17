@@ -1,20 +1,47 @@
 {
-    "main_category": "All Beauty",
-    "title": "Tweezers for Women, 4 Pcs Tweezer Set for Ingrown Hair Removal, Lash Tweezers, Hair Plucking Daily Beauty Tool with Leather Case",
-    "average_rating": 4.2,
-    "rating_number": 58,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Clarke Clean Track L18 Carpet Extractor",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Large capacities, small package",
+        "Very quiet - low sound level",
+        "Easy to drain hose directly into toilet",
+        "Dual functionality - features hard floor option",
+        "Green Certified Equipment by Clarke"
+    ],
+    "description": [
+        "Get cleaner carpets and enhance facility appearance with the Clarke Clean Track L18 self-contained portable extractor. A compact, easily-maneuverable design, combined with a 18 inch cleaning path, allows you to tackle cleaning challenges ranging from (commercial) office spaces, libraries, and hotel rooms, just to name a few. An optional hard floor kit extends the Clean Track’s application flexibility, quickly converting it to a hard surface cleaner for tiled and grouted floors. With simple tank filling, tools-free brush and vacuum shoe removal and intuitive controls, Clean Track extractors provide an unprecedented easy-to-use cleaning solution."
+    ],
+    "price": "7399.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71+MgeFb4KL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Hxh5InrJL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41Hxh5InrJL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "zYoung",
-    "categories": [],
-    "details": "{\"Package Dimensions\": \"11.26 x 5.63 x 0.63 inches; 2.89 Ounces\", \"UPC\": \"726673171457\", \"Manufacturer\": \"CHAOBANG\"}",
-    "parent_asin": "B08JVGGGZ7",
+    "store": "Clarke",
+    "categories": [
+        "Home & Kitchen",
+        "Vacuums & Floor Care",
+        "Carpet & Upholstery Cleaners & Accessories",
+        "Carpet Cleaning Machines"
+    ],
+    "details": "{\"Item Weight\": \"0.01 Ounces\", \"Manufacturer\": \"Nilfisk-Advance\", \"Item model number\": \"56382724\", \"Best Sellers Rank\": {\"Home & Kitchen\": 8627773, \"Carpet & Upholstery Cleaning Machines\": 428}, \"Date First Available\": \"May 6, 2013\", \"Brand\": \"Clarke\", \"Color\": \"Blues\", \"Style\": \"Modern\"}",
+    "parent_asin": "B00CO9MUM6",
     "bought_together": null,
     "subtitle": null,
     "author": null

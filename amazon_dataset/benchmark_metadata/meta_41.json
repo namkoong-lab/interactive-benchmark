@@ -1,20 +1,48 @@
 {
-    "main_category": "All Beauty",
-    "title": "Zoella Beauty Tutti Fruity Foam Sweet Foam Shower Gel 250ml",
-    "average_rating": 4.1,
-    "rating_number": 2,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Anchor Graphix Oliver Tractor Sign Add Custom Name New Look (10x14)",
+    "average_rating": 4.8,
+    "rating_number": 67,
+    "features": [
+        "Great sign for Tractor Lovers or Collectors",
+        "Aluminum Comes in small or large",
+        "Shop Sign",
+        "Oliver Tractor Sign",
+        "Garage Sign"
+    ],
+    "description": [
+        "Oliver Tractor Sign Add Custom Name"
+    ],
+    "price": "25.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71z6YtS1-WL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51qcWhVGVQL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51qcWhVGVQL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Item Form\": \"Foam, Gel\", \"Age Range (Description)\": \"Adult\", \"Number of Items\": \"1\", \"Unit Count\": \"8.5 Fl Oz\", \"Item Package Quantity\": \"1\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"2 x 2 x 7 inches; 10.4 Ounces\", \"UPC\": \"794168353688\"}",
-    "parent_asin": "B017JPCGSM",
+    "store": "Anchor Graphix",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Decorative Accessories",
+        "Decorative Signs & Plaques"
+    ],
+    "details": "{\"Item Weight\": \"10 pounds\", \"Manufacturer\": \"Anchor Graphix\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1829471, \"Decorative Signs & Plaques\": 26624}, \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B01N1KQUDO",
     "bought_together": null,
     "subtitle": null,
     "author": null

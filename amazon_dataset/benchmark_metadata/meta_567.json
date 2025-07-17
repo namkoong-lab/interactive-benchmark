@@ -1,26 +1,91 @@
 {
-    "main_category": "All Beauty",
-    "title": "Black Thang Beez Wax 4 oz.",
-    "average_rating": 4.6,
-    "rating_number": 8,
-    "features": [],
-    "description": [],
-    "price": "7.99",
-    "videos": {
-        "title": [
-            "Short Video Review of Murrays Beeswax"
+    "main_category": "Amazon Home",
+    "title": "Black+Decker FP2500B PowerPro Wide-Mouth 10-Cup Food Processor, Black",
+    "average_rating": 4.4,
+    "rating_number": 974,
+    "features": [
+        "10-cup capacity",
+        "Wide-mouth feed chute",
+        "Soft-touch Mylar buttons",
+        "2 speed settings, plus pulse"
+    ],
+    "description": [
+        "Life made simple — this food processor gives you the flexibility to slice, chop, shred, grate or puree as much or as little as you like and it does it in no time.  With a powerful, 500-watt motor working under its sleek and sturdy exterior, it performs as great as it looks. Included Components: Includes stainless-steel chopping blade and a slicing/shredding disk"
+    ],
+    "price": "66.99",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/619R8TCA20L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61w2lcfilJL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71gCWKhseuL._AC_SL1500_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/08481fa35d95487ca5ba9043aeaf483d?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/41+X9xqBPzL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31RWQD6IzQL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31jcpKkw+cL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31l7g9+QkZL._AC_.jpg"
         ],
-        "user_id": [
-            "/shop/marshallfamilyfarms"
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41+X9xqBPzL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31RWQD6IzQL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31jcpKkw+cL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31l7g9+QkZL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
         ]
     },
-    "store": "It's A Black Thang",
-    "categories": [],
-    "details": "{\"Item Form\": \"Wax\", \"Brand\": \"It's A Black Thang\", \"Product Benefits\": \"Frizz Control, High Gloss, Conditioning, Hydrating, Moisturizing\", \"Unit Count\": \"1.00 Count\", \"Use for\": \"Whole Body\", \"Is Discontinued By Manufacturer\": \"No\", \"Item Weight\": \"2 Pounds\", \"UPC\": \"096213200160\"}",
-    "parent_asin": "B006B6O55I",
+    "videos": {
+        "title": [
+            "Major Safety problem",
+            "BLACK+DECKER 8-Cup Food Processor, Black, FP1600B",
+            "BLACK+DECKER Easy Assembly 8-Cup Food Processor Review",
+            "Oster Oskar 2-in-1 Salad Prep & Food Processor, Black FPSTFP4050",
+            "1 Year Review: My First Food Processor",
+            "HONEST Demo & Review-Hamilton Beach Food Processor 70725A ",
+            "food processor size comparison ",
+            "10-Cup Food Processor & Vegetable Chopper",
+            "watch me make pasta dough!",
+            "The Best Food Processors"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/36981c67a95345c4937ae892cfe8d4be?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/a366a75baccf441e92b2125eb356cee7?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0fe6c382c3b7482391c79fd1a567b60f?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/01fc08128c99431db6b6b5c08f1283e7?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/00368013a8394c23a7af3d472bfa95e3?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/064f9dab82074080b9caf80387bd36e7?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/01d3046f17c84c99861c78f33c08ea62?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/66c523ef2d9748d58a54a8b84527f7a0?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/033215428aa8460baa516d190fcf9736?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/00ab6a0d90224a7195eb7931485f849d?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "AGXAQWFBAOEMBYO2LNSJLHMGICCA",
+            "",
+            "/shop/onlycutedogs.in",
+            "",
+            "/shop/grantharsch",
+            "/shop/themotivatedgrowth",
+            "/shop/influencer-3e77e84e",
+            "",
+            "/shop/intermittentfastingfoodie",
+            "AEB4PB4HS7TWIDHQLIDQEDQV2MFA"
+        ]
+    },
+    "store": "BLACK+DECKER",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Small Appliances",
+        "Food Processors"
+    ],
+    "details": "{\"Brand\": \"BLACK+DECKER\", \"Special Feature\": \"Interchangeable Blades\", \"Product Dimensions\": \"13.62\\\"D x 9.63\\\"W x 16.63\\\"H\", \"Color\": \"Black\", \"Wattage\": \"500 watts\", \"Bowl Capacity\": \"10 Cups\", \"Material\": \"Plastic\", \"Recommended Uses For Product\": \"Blend\", \"Item Weight\": \"8 pounds\", \"Number of Speeds\": \"2\", \"Included Components\": \"500 watt food processor\", \"Voltage\": \"240 Volts\", \"Model Name\": \"050875803299\", \"Is Dishwasher Safe\": \"Yes\", \"Blade Material\": \"Stainless Steel\", \"Manufacturer\": \"Spectrum Brands\", \"Item model number\": \"FP2500B\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 196388, \"Food Processors\": 248}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"August 11, 2009\"}",
+    "parent_asin": "B00F8UU2QE",
     "bought_together": null,
     "subtitle": null,
     "author": null

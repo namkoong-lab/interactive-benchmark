@@ -1,20 +1,106 @@
 {
-    "main_category": "All Beauty",
-    "title": "Nivea Lip Care Watermelon 0.17 Ounce Carded (6 Pieces)",
-    "average_rating": 4.1,
-    "rating_number": 27,
-    "features": [],
-    "description": [],
-    "price": "18.99",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Sleeplace 6 inch Memory Foam Mattress, Full",
+    "average_rating": 4.3,
+    "rating_number": 195,
+    "features": [
+        "General Note: Please allow 24 - 72 hours for your Mattress to regain its full shape. Any memory foam will expand faster in a warmer room. In cold temperature, at delivery, your mattress may take a bit longer to return to full sized from its compressed state.The expansion time of the mattress will vary as per the surrounding",
+        "1 inch high ILD had foam supports you backline strongly",
+        "4 inch convoluted layer structure provides better ventilation and disperses body pressure",
+        "The multi-layered combination of memory foam, duraflex foam, high density support foam creates sound sleep experience",
+        "5 years limited manufacturer",
+        "Please allow the mattress 72 hours for fully inflate to its Full size"
+    ],
+    "description": [
+        "Sleeplace is one of the leading Manufacturers of spring & foam mattresses, toppers, metal foundations, pillows, and accessories. We has strived to provide the most satisfying experience to our customers around the world by applying our 34 years of experience."
+    ],
+    "price": "172.21",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/812UrobnXEL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71XtuPiU+WL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81Ct8w1+hqL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/711o9cn5SIL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81ejWH5lvSL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81sZp6bVwwL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91LXwN+fylL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/414iKdSH9IL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21YdjOa8wHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41JYIrU1fEL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31FLQ3m-WiL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41x+ejOlJrL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/412fjHs3flL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51tB7YMmS+L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/414iKdSH9IL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/21YdjOa8wHL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41JYIrU1fEL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31FLQ3m-WiL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41x+ejOlJrL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/412fjHs3flL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51tB7YMmS+L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "DIMN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
     },
-    "store": "NIVEA",
-    "categories": [],
-    "details": "{\"Brand\": \"NIVEA\", \"Skin Type\": \"All\", \"Flavor\": \"watermelon\", \"Unit Count\": \"6.00 Count\", \"Package Dimensions\": \"4.61 x 2.91 x 0.87 inches; 0.63 Ounces\", \"Item model number\": \"22907\", \"UPC\": \"072140022907\"}",
-    "parent_asin": "B07JCDP7KV",
+    "videos": {
+        "title": [
+            "Sleeplace 6 inch Memory Foam Mattress, Full - Unpacking",
+            "Green Tea Memory Foam Mattress",
+            "memory foam mattress",
+            "ZINUS Foam Mattress Unboxing Video",
+            "Zinus 6 Inch Green Tea Memory Foam Mattress Review",
+            "NapQueen Bamboo Charcoal Memory Foam Mattress Video",
+            "Honest Review of This Olee Sleep Mattress After 2 Years",
+            "I bought every mattress on Amazon so you dont have to",
+            "Super Quality On This Bed Frame!",
+            "Best Price Mattress Memory Foam Mattress, Calming Green Tea Infusion, Pressure Relieving, Bed-in-..."
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/005906aa065d41b296e4d60e9f06241e?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/05e6a8eb493d44259a90bd7d3914d5d9?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/024dba341ed34e4a8be5f4d44566cca9?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/7fbdd81a8d5948909279657f17275950?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0c147cd9321c4f9380696c7950fd4f05?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/02b5132668ec44fe97be8bea5e9bab46?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/08c5e25fded04a358011b41a4378b7aa?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/00f2022ce1394b6d858808323c39d6dc?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/0d60486633fd4467b4c9fba2c6033ffc?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/0c6b7b0cc24a40b8ac55b4a89a7b93a8?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "/shop/aliexfolgueira",
+            "",
+            "",
+            "",
+            "/shop/davidloock",
+            "",
+            "/shop/jonnycutuli",
+            "/shop/influencer-7f7acabe",
+            "/shop/blake.allen22",
+            ""
+        ]
+    },
+    "store": "Sleeplace",
+    "categories": [
+        "Home & Kitchen",
+        "Furniture",
+        "Bedroom Furniture",
+        "Mattresses & Box Springs",
+        "Mattresses"
+    ],
+    "details": "{\"Item Weight\": \"29 pounds\", \"Product Dimensions\": \"75\\\"L x 54\\\"W x 6\\\"Th\", \"Country of Origin\": \"Indonesia\", \"Item model number\": \"SVC06FM01F-2\", \"Is Discontinued By Manufacturer\": \"No\", \"Assembled Height\": \"6 inches\", \"Assembled Width\": \"75 inches\", \"Assembled Length\": \"54 inches\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1048998, \"Mattresses\": 1117}, \"Date First Available\": \"June 5, 2016\", \"Size\": \"Full\", \"Item Firmness Description\": \"Plush\", \"Fill Material\": \"Memory Foam\", \"Brand\": \"Sleeplace\", \"Top Style\": \"Plush Top\", \"Color\": \"White\", \"Age Range (Description)\": \"Adult\", \"Model Name\": \"6 inch Memory Foam\", \"Construction Type\": \"Memory Foam\"}",
+    "parent_asin": "B08LW9JYS8",
     "bought_together": null,
     "subtitle": null,
     "author": null

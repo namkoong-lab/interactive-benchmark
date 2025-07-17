@@ -1,20 +1,48 @@
 {
-    "main_category": "All Beauty",
-    "title": "U Tip Dark Golden Blonde Highlight Platinum Blonde Fusion Extensions Human Hair 14inch 50g 1g/s",
-    "average_rating": 3.2,
-    "rating_number": 143,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": null,
+    "title": "8x10 Vintage Style Sign with Sunflower Saying,\"Welcome to MAWMAW'S PLACE Weekends, Weekdays, Whenever\" Decorative Fun Universal Household Family Signs for Grandma (8x10)",
+    "average_rating": 3.9,
+    "rating_number": 18,
+    "features": [
+        "A very welcoming sign featuring a popular nickname for Grandma! Mawmaw is going to adore it!",
+        "It features a faux vintage style design with a wonderful Sunflower. The pattern was made to look older than it actually is.",
+        "Easy to Hang: Simple black cord can hang anywhere in the house! Just need a nail or hook!",
+        "Mother’s Day Friendly! Also great for Birthdays, Christmas, National Grandparent's Day, and other Special Occasions!",
+        "Size: 8x10 Inches - A perfect addition to Grandma’s home decor!"
+    ],
+    "description": [
+        "Signs are made of tempered hardboard and have a vintage faux finished background which creates the illusion of an aged vintage sign. It is well made and displays beautifully."
+    ],
+    "price": "24.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81iMv57gt7L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51YIC7UzotL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51YIC7UzotL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Sunny Hair",
-    "categories": [],
-    "details": "{\"Brand\": \"Sunny Hair\", \"Material\": \"Human Hair\", \"Extension Length\": \"14 Inches\", \"Hair Type\": \"Straight\", \"Installation Type\": \"Fusion\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"18 x 1 x 1 inches; 1.76 Ounces\", \"UPC\": \"711301068834\"}",
-    "parent_asin": "B019EVRO7W",
+    "store": "Egbert's Treasures",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Decorative Accessories",
+        "Decorative Signs & Plaques"
+    ],
+    "details": "{\"Product Dimensions\": \"10 x 0.19 x 8 inches\", \"Item Weight\": \"5.9 ounces\", \"Manufacturer\": \"Egbert's Treasures\", \"Item model number\": \"7175-81\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1335775, \"Decorative Signs & Plaques\": 18684}, \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\", \"Brand\": \"Egbert's Treasures\", \"Material\": \"Wood\", \"Theme\": \"Vintage\", \"Mounting Type\": \"Wall Mount\", \"Item Dimensions LxWxH\": \"10 x 0.19 x 8 inches\"}",
+    "parent_asin": "B08F183RKM",
     "bought_together": null,
     "subtitle": null,
     "author": null

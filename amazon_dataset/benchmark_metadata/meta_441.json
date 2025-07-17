@@ -1,34 +1,91 @@
 {
-    "main_category": "All Beauty",
-    "title": "SSEN CLIPS (Large/ 8 clips) (Rainbow)",
-    "average_rating": 4.8,
-    "rating_number": 36,
+    "main_category": "Amazon Home",
+    "title": "Nourison Allur Floral Navy Multicolor 2'3\" x 7'6\" Area -Rug, Easy -Cleaning, Non Shedding, Bed Room, Living Room, Dining Room, Kitchen (2x8)",
+    "average_rating": 4.3,
+    "rating_number": 42,
     "features": [
-        "Sectioning Clips for Hair Stylists",
-        "No Stain and Discoloration",
-        "Able to use with Chemicals for Perm and Dye",
-        "Durable and long lasting",
-        "No Slip"
+        "100% Polypropylene",
+        "Oversized floral area rug design infuses vibrant energy to contemporary settings",
+        "Machine made of low profile, easy to clean polypropylene fibers",
+        "Durable design is ideal for living room, bedroom, or dining room",
+        "General Size: 2' x 8'",
+        "Rug pad recommended"
     ],
     "description": [
-        "Hair Clips for hairdressers"
+        "Fill your space with the warmth and comfort of the Allur Collection. With its eclectic mix of contemporary florals, Persian-inspired medallions, and tribal patterns in bright jewel tones, each Allur area rug exudes boho appeal. These vibrant rugs are Ideal for use in your living room, bedroom, or home office. Machine made of low shed, low profile polypropylene for easy cleaning. Invite a verdant jungle vibe to your living room, bedroom, or home office with this Allur Collection area rug. Oversized florals in red, green, ivory, and yellow multicolor on a navy-blue base infuse vibrant energy to contemporary settings. This colorful rug is machine made of easy-clean polypropylene fibers for worry-free upkeep."
     ],
-    "price": "35.99",
+    "price": "42.49",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91YJHOilUKL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1H6uKt9AlL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A156ngyzspL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1X6tNPwJaL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91Ha9Rx1bPL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51IutqDO-VL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61zq4Exp3mL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51v6wInJtkL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61jDU1yFyhL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/5162Ll6odXL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51IutqDO-VL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61zq4Exp3mL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51v6wInJtkL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61jDU1yFyhL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/5162Ll6odXL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
     "videos": {
         "title": [
-            "Professional Hair Clips Set"
+            "Nourison Allur ALR09 Navy Multicolor Area Rug",
+            "Nourison Allur ALR09 Turquoise Multicolor Area Rug",
+            "Nourison Allur ALR01 Orange Multicolor Area Rug",
+            "Nourison Juniper Charcoal Multi  Area Rug",
+            "Nourison Allur ALR02 Navy Multicolor Area Rug",
+            "Nourison Allur ALR03 Ivory Multicolor Area Rug",
+            "Nourison Allur ALR03 Navy Multicolor Area Rug",
+            "Nourison Allur ALR08 Ivory Multicolor Area Rug"
         ],
         "url": [
-            "https://www.amazon.com/vdp/0f5bc267ce6f44ff81380b94c8738470?ref=dp_vse_rvc_0"
+            "https://www.amazon.com/vdp/8ef87b39a4284c698d624d4347bd2327?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/67e13956186d4227b74c3010b292aaec?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/dbafbc8cd9184fe9802108fc0137080b?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/5bee1794b58d4bd993ff9a66702dbc25?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/5d435b1ed5554db389b325b11befc0c6?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/47346be79c09470f8e71da4fc8d66912?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/aaf21f720a954cd7933179f68d746838?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/730337ca74b94bb3886512f43d58399f?ref=dp_vse_rvc_7"
         ],
         "user_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
             ""
         ]
     },
-    "store": "SSEN CLIPS",
-    "categories": [],
-    "details": "{\"Brand\": \"SSEN CLIPS\", \"Hair Type\": \"All\", \"Color\": \"Rainbow\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"8.00 Count\", \"Manufacturer\": \"SSEN BEAUTY\"}",
-    "parent_asin": "B08378WVBJ",
+    "store": "Nourison",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Rugs, Pads & Protectors",
+        "Runners"
+    ],
+    "details": "{\"Brand\": \"Nourison\", \"Size\": \"2 ft 3 in x 7 ft 6 in\", \"Material\": \"Polypropylene\", \"Weave Type\": \"Flat Woven\", \"Item Weight\": \"5 Pounds\", \"Pile Height\": \"Low Pile\", \"Construction Type\": \"Machine Made\", \"Back Material Type\": \"Rubber\", \"Color\": \"Navy Multicolor\", \"Theme\": \"Geometric,Modern\", \"Is Stain Resistant\": \"Yes\", \"Pattern\": \"Floral\", \"Shape\": \"Runner\", \"Special Feature\": \"Durable\", \"Room Type\": \"Bedroom, Living Room, Dining Room, Kitchen, Kids, Nursery, Bathroom, Home Office\", \"Product Dimensions\": \"90\\\"L x 27\\\"W\", \"Rug Form Type\": \"Area Rug\", \"Style\": \"Contemporary\", \"Age Range (Description)\": \"Adult\", \"Number of pieces\": \"1\", \"Manufacturer\": \"Nourison\", \"Country of Origin\": \"Turkey\", \"Item model number\": \"ALR09\", \"Best Sellers Rank\": {\"Home & Kitchen\": 322291, \"Area Rugs\": 2252}, \"Diameter\": \"90 Inches\", \"Fabric Type\": \"100% Polypropylene\", \"Assembly required\": \"No\", \"Batteries required\": \"No\", \"Included Components\": \"Area Rug\"}",
+    "parent_asin": "B08Q1QM1YQ",
     "bought_together": null,
     "subtitle": null,
     "author": null

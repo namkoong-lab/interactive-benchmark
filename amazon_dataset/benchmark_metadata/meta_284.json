@@ -1,20 +1,95 @@
 {
-    "main_category": "All Beauty",
-    "title": "Vasaana Natural Beeswax Coconut Oil and Shea Body Butter for Skin",
-    "average_rating": 4.0,
-    "rating_number": 19,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "SKL Home Colorful Dot Fabric Shower Curtain, Pink",
+    "average_rating": 4.6,
+    "rating_number": 1311,
+    "features": [
+        "Polyester",
+        "Dimensional woven dots add interest and fun",
+        "12 eyelet holes for hanging",
+        "Use of a liner is recommended",
+        "100% Polyester",
+        "72\" L x 72\" W",
+        "Machine wash",
+        "Imported",
+        "SKL Home brought to you by Saturday Knight Ltd., a leader for 40+ years in the home décor industry"
+    ],
+    "description": [
+        "Fun and fresh, the Colorful Dot shower curtain adds color to the shower with large coral Swiss dots on a white background. The half pom poms woven in the shower curtain give a dimensional feel. The Colorful Dot shower curtain will brighten any bathroom and coordinate with a variety of decorating styles.",
+        "SKL Home by Saturday Knight Ltd. brings personality, fun and flair to the most intimate spaces in your home with products ranging from bath accessories and shower curtains, to towels, curtains and beyond. Whether your style is upbeat and modern, or classic and cozy, SKL Home provides a look to compliment almost any décor. Combining 40+ years’ experience, global design inspiration and premium fabrications, SKL Home continues to lead the way in home accessories."
+    ],
+    "price": "22.64",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81TeFZfyKRL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81qGCkoiX8L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71iDftSb1NL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71VH1eHZpML._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Vs50mphvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41JEnD+sjeL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31W7DBKcIXL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41uZQXXmFaL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Vs50mphvL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41JEnD+sjeL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31W7DBKcIXL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41uZQXXmFaL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
     },
-    "store": "Vasaana",
-    "categories": [],
-    "details": "{\"Brand\": \"Vasaana\", \"Scent\": \"Coconut\", \"Unit Count\": \"1.75 Ounce\", \"Number of Items\": \"1\", \"Skin Type\": \"All\", \"Product Dimensions\": \"2.17 x 2.17 x 0.39 inches; 1.59 Ounces\", \"Item model number\": \"VSNBodBud1\", \"UPC\": \"657472822366\"}",
-    "parent_asin": "B082WYQWGF",
+    "videos": {
+        "title": [
+            "SKL Home Bath",
+            "SKL Home Splatter Pink Shower Curtain",
+            "MP SHOWER CURTAIN_Sophie_v1.2 UNBRANDED_GENERIC NAME",
+            "Dots Fabric Shower Curtain",
+            "Shower Generic Video",
+            "Waterproof Shower Curtains - HONEST REVIEW!",
+            "SKL Home Splatter Fabric Shower Curtain",
+            "Lush Decor - What's Your Style",
+            "Alyvia Spring Waterproof Fabric Shower Curtain Liner"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0dcbe6bc504a429c9764bcd412b5cab5?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/06f10ec5b5be415f94ab1e5007d07e4f?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0b43c56242d1493e8795c07d5effe1f1?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0092335b938141d5b19783c981c17994?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/eec6db6fe37b424287f4041c8e7eb684?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/03b9c9f87deb454fa04fa9f1e33da15e?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/2de0b3b9c4a34d06961cd38efff5c936?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/0de1258708dc41a4a2f0600e8eee4e9d?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/0c7c7fa48cb347ed9a6fee94fc7b1036?ref=dp_vse_rvc_8"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "/shop/influencer-42a0718d",
+            "",
+            "",
+            "/shop/influencer-dcb4065c"
+        ]
+    },
+    "store": "SKL Home",
+    "categories": [
+        "Home & Kitchen",
+        "Bath",
+        "Bathroom Accessories",
+        "Shower Curtains, Hooks & Liners",
+        "Shower Curtains"
+    ],
+    "details": "{\"Brand\": \"SKL Home\", \"Color\": \"Pink\", \"Material\": \"Polyester\", \"Product Dimensions\": \"72\\\"L x 72\\\"W\", \"Special Feature\": \"Washable\", \"Room Type\": \"Bathroom\", \"Style\": \"Shower Curtain, Pink\", \"Pattern\": \"Dot\", \"Theme\": \"Romantic\", \"Curtain Form\": \"Shower Curtain\", \"Top Style\": \"Grommet\", \"Included Components\": \"Eyelet, Liner\", \"Item Weight\": \"1.13 pounds\", \"Number of Items\": \"1\", \"Product Care Instructions\": \"Do not iron PEVA header, Mild Detergent; Only non-chlorine bleach when needed, Tumble Dry, Use of a protective liner is recommended for all fabric curtains, Machine wash cold normal\", \"Lining Description\": \"Polyester\", \"Package Weight\": \"0.51 Kilograms\", \"Manufacturer\": \"SKL Home\", \"Country of Origin\": \"China\", \"Item model number\": \"S1751800200001\", \"Best Sellers Rank\": {\"Home & Kitchen\": 70881, \"Shower Curtains\": 92, \"Hand Bath Towels\": 101}, \"Is Discontinued By Manufacturer\": \"No\", \"Fabric Type\": \"Polyester\", \"Assembly required\": \"No\", \"Number of pieces\": \"1\", \"Warranty Description\": \"No warranty.\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B0B56TRNWT",
     "bought_together": null,
     "subtitle": null,
     "author": null

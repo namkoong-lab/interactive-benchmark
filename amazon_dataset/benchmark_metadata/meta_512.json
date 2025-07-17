@@ -1,20 +1,42 @@
 {
-    "main_category": "All Beauty",
-    "title": "Static 16 Hour Long Lasting Dual Ended Lip Color Lipstick - Eve",
-    "average_rating": 4.1,
-    "rating_number": 4,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "LiteSource 40317 - Gutter Hooks (500 pack)",
+    "average_rating": 4.7,
+    "rating_number": 5,
+    "features": [
+        "Color/Finish: White"
+    ],
+    "description": [
+        "Gutter Hooks - For C7, C9, Mini or Icicle Lights | LiteSource Christmas Light Gutter Hooks (500 pack)"
+    ],
+    "price": "30.59",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51o7xbJ3MVL._AC_SL1024_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31Khl+0AoUL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31Khl+0AoUL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Static",
-    "categories": [],
-    "details": "{\"Brand\": \"Static\", \"Skin Type\": \"All\", \"Item Form\": \"Pencil\", \"Finish Type\": \"Matte\", \"Product Benefits\": \"Long wearing\", \"UPC\": \"704981229886\"}",
-    "parent_asin": "B08ML2TRPK",
+    "store": "Lite Source",
+    "categories": [
+        "Home & Kitchen",
+        "Seasonal Décor",
+        "Seasonal Lighting"
+    ],
+    "details": "{\"Manufacturer\": \"LiteSource\", \"Best Sellers Rank\": {\"Home & Kitchen\": 4146276, \"Seasonal Lighting\": 14696}}",
+    "parent_asin": "B01K4OWGGM",
     "bought_together": null,
     "subtitle": null,
     "author": null

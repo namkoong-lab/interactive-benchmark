@@ -1,20 +1,55 @@
 {
-    "main_category": "All Beauty",
-    "title": "Aysekone 2 Pcs/Set Women's Hair Braiding Tools Black Magic Hair Twist Styling Clip Braider Roller Bun Maker DIY Hairstyle Styling Accessory",
-    "average_rating": 3.1,
-    "rating_number": 3,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Royal Hotel Stripe Beige 3pc Full/Queen Comforter Cover (Duvet Cover Set) 100-Percent Cotton, 600-Thread-Count, Sateen Striped",
+    "average_rating": 4.3,
+    "rating_number": 93,
+    "features": [
+        "{Material} 100% Natural Cotton 600 Thread count 3pc Duvet Cover set Stripes Pattern, Lightweight Breathable All Season Duvet Covers with Button Closure, Used to Protect Duvet Insert Comforters",
+        "{3PC SET} Full / Queen size set includes 1 Duvet Cover 90\"W X 92\"L with Button Closure, and 2 Standard size pillow shams 20\"W X 26\"L (Set of Duvet Cover and Pillow Shams, NO COMFORTER)",
+        "{Hotel Style Bedding} Soft and Smooth Duvet Cover Sets, Comforter Covers for a new Bedding look, Duvet Covers slip over and protect your existing Down comforter creating new Luxury Hotel Bedding look",
+        "{Made to Last with Easy Care Instruction} Machine washable in cold water on a gentle cycle, mild detergent and tumble dry on a low heat setting. Do not bleach.",
+        "{Returns & Refunds Made Easy} Our customer’s satisfaction is our top priority. Please see our return/refund policy for more information. All Bedding sets are encased in a clear, zippered packaging that provides the complete product labeling and description of the item."
+    ],
+    "description": [
+        "Package contains 1pc Duvet Cover 90x92\" and 2pc Pillow shams 20x26\" in a beautiful and luxury package, which could be a great gift for your loved ones. Super high quality bedding made of 100% Cotton for you to enjoy a good sleep. 600 Count bedding with a briliant colors that last long."
+    ],
+    "price": "74.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91T3u9D8bsL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/717g0iCQXwL._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/71UunBH9d8L._AC_SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51z5a20FHWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51ovQzv5DuL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51eus8O5ZCL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51z5a20FHWL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51ovQzv5DuL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51eus8O5ZCL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Aysekone",
-    "categories": [],
-    "details": "{\"Hair Type\": \"Curly\", \"Brand\": \"Aysekone\", \"Unit Count\": \"1.0 Count\", \"Package Dimensions\": \"5.2 x 5.2 x 0.3 inches; 4.8 Ounces\", \"UPC\": \"676422188253\"}",
-    "parent_asin": "B07SNPQMXB",
+    "store": "Royal Hotel Bedding",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Duvet Covers & Sets",
+        "Duvet Cover Sets"
+    ],
+    "details": "{\"Size\": \"Full/Queen\", \"Material\": \"Cotton\", \"Color\": \"Beige\", \"Pattern\": \"Striped\", \"Brand\": \"Royal Hotel Bedding\", \"Number of Pieces\": \"3\", \"Special Feature\": \"Lightweight, Breathable, Soft 600 TC 100% Cotton, All Season Bedding sets\", \"Style\": \"Traditional\", \"Included Components\": \"Pillow Sham, Duvet Cover\", \"Closure Type\": \"Button\", \"Thread Count\": \"600\", \"Age Range (Description)\": \"Adults\", \"Product Care Instructions\": \"Machine Wash, Warm Iron\", \"Theme\": \"Stripe\", \"Seasons\": \"All-Season\", \"Item Dimensions LxWxH\": \"14 x 10 x 3 inches\", \"Item Weight\": \"5 pounds\", \"Item Display Dimensions\": \"14 x 10 x 3 inches\", \"Product Dimensions\": \"14 x 10 x 3 inches\", \"Manufacturer\": \"Royal Hotel Bedding\", \"Item model number\": \"COMIN18JU015627\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2374635, \"Bedding Duvet Cover Sets\": 5070}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"February 2, 2013\"}",
+    "parent_asin": "B0184ZLLR8",
     "bought_together": null,
     "subtitle": null,
     "author": null

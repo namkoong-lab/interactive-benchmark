@@ -1,20 +1,55 @@
 {
-    "main_category": "All Beauty",
-    "title": "e.l.f. Studio Lock On Gel Eyeliner 81313 Want It Brown (1 Pack)",
-    "average_rating": 2.9,
-    "rating_number": 4,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Maple Personalized Cheese Board, Custom Paddle Board, Personalized Cheese Board Personalized Cutting Board, Wedding Gifts, Housewarming Gifts, Christmas",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "★Personalized Cutting Boards★ Our personalized cutting boards are engraved with precision on a premium, top quality Bamboo wood. These personalized cutting boards are also excellent gifts for weddings, anniversaries, and housewarmings.",
+        "★Specification★ 13 1/2\" x 7\" x 1/2\" Solid Walnut Wood",
+        "★Professionally Laser Engraved★ Etchey is a professional laser engraving company that has been in business for over 6 years. Our staff is dedicated in providing professionally laser engraved products at a great price.",
+        "★Customer Service★ Here at Etchey, we are proud to offer top quality material at affordable prices. We have a 100% satisfaction guarantee. Meaning if for any reason you are not satisfied with your order, we would be happy to assist you on replacing your item or fixing it for you."
+    ],
+    "description": [
+        "Our personalized cutting boards are engraved with precision on premium, top-quality Bamboo wood. Our custom cheese boards are the perfect gift for both family and friends. These personalized cutting boards are also excellent gifts for weddings, anniversaries, and housewarmings. Whether you’re displaying this one-of-a-kind piece as art in your kitchen or prepping the family dinner, this wood cutting board provides a unique and personal touch. CUTTING BOARD DIMENSIONS 13 1/2\" x 7\" x 5/8\""
+    ],
+    "price": "32.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81DRugBfGxL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71sGmC5uwLL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71C++IUWYhL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41HVIz-4ZcL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41+k3Xy9pLL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31xizTFFAyL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41HVIz-4ZcL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41+k3Xy9pLL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31xizTFFAyL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "e.l.f.",
-    "categories": [],
-    "details": "{\"Item Weight\": \"2.47 Ounces\", \"UPC\": \"789533529348 609332813137\"}",
-    "parent_asin": "B00WAJB7CY",
+    "store": "MYETCHEY",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen Utensils & Gadgets",
+        "Cutting Boards",
+        "Cutting Boards"
+    ],
+    "details": "{\"Product Dimensions\": \"7\\\"L x 13.5\\\"W x 0.5\\\"Th\", \"Item Weight\": \"1 pounds\", \"Manufacturer\": \"Etchey\", \"Country of Origin\": \"USA\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 1476687, \"Cutting Boards\": 13369}, \"Date First Available\": \"October 21, 2021\", \"Brand\": \"MYETCHEY\", \"Material\": \"Walnut Wood\", \"Shape\": \"Rectangular\", \"Product Care Instructions\": \"Not Dishwasher Safe, Hand Wash\", \"Number of Items\": \"1\"}",
+    "parent_asin": "B09K4TDCCD",
     "bought_together": null,
     "subtitle": null,
     "author": null

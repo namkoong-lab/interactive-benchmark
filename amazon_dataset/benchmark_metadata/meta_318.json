@@ -1,20 +1,87 @@
 {
-    "main_category": "All Beauty",
-    "title": "JORDANA Baked Eyeshadow - Bronze Gala",
-    "average_rating": 4.0,
-    "rating_number": 2,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Baby",
+    "title": "Sweet Jojo Designs White and Gray Hotel Modern Window Valance",
+    "average_rating": 4.5,
+    "rating_number": 53,
+    "features": [
+        "Cotton",
+        "Imported",
+        "Dimensions: 54 in. x 15 in.",
+        "Coordinates beautifully with the matching bedding sets by Sweet Jojo Designs",
+        "Tab Top style valance",
+        "This design has matching accessories such as hampers, lamp shades, window treatments and wall decor",
+        "coordinating sheets, border, wall decals, shower curtains, mobiles, changing pads and pillows cases"
+    ],
+    "description": [
+        "Sweet Jojo Designs makes this beautiful window valance to coordinate perfectly with the matching bedding sets. Designed to fit most standard windows."
+    ],
+    "price": "24.99",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/91X7EYk9dOL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41vNz4j4xnL.jpg",
+            "https://m.media-amazon.com/images/I/5157UAszPAL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41vNz4j4xnL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/5157UAszPAL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
     },
-    "store": "Jordana",
-    "categories": [],
-    "details": "{\"Brand\": \"Jordana\", \"Finish Type\": \"Metallic\", \"Special Feature\": \"Travel size\", \"Unit Count\": \"1.00 Count\", \"Skin Type\": \"All\", \"Package Dimensions\": \"3 x 3 x 1 inches; 0.64 Ounces\", \"UPC\": \"041065752053 796629789951\"}",
-    "parent_asin": "B00CZ4Z0XQ",
+    "videos": {
+        "title": [
+            "White and Gray Hotel Collection",
+            "Hotel Colorway Collections",
+            "Stripe Valance Sheer Curtain with Rod Pocket",
+            "Sweet Jojo Designs White Eyelet",
+            "Farmhouse Pinstripe Valance And Tiers - Video By Customer",
+            "VHC Brands Sheer Window Collections: Jasmine, Quinn, & Willow",
+            "July Joy Cotton Kitchen Curtains",
+            "Farmhouse Striped Sheer Curtains",
+            "Farmhouse Cafe Pinstriped Curtain Valance -Video By Customer",
+            "Farmhouse  Sheer Striped Curtains"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/87dbb9367f004130a92540e494bcdcd1?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/01908bbba90c47378201b561791408fb?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0be057af5e10416987dfdf498755c28c?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0db0a62f601c46858f881b8964550452?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0124401d69ce48f58bfa8993d5a0b8b3?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/055d5d316241415ab6f60e79e02cd0ba?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/0cf98060689543c4a53e2685debc4f2e?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/0af9c7f910ed4f0ebc501a131ba4acf0?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/0b446955010e4d699b1aa70e1a2404c8?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/0a1cd934236e40c68b5a966f58ca082b?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "store": "Sweet Jojo Designs",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Window Treatments",
+        "Curtains & Drapes",
+        "Valances"
+    ],
+    "details": "{\"Product Dimensions\": \"15 x 54 x 8 inches\", \"Item model number\": \"B007TA2RSW\", \"Is Discontinued By Manufacturer\": \"No\", \"Target gender\": \"Unisex\", \"Material Type\": \"Cotton\", \"Care instructions\": \"Machine Wash\", \"Additional product features\": \"Rod Pocket\", \"Number Of Items\": \"1\", \"Style\": \"Floral\", \"Best uses\": \"Nursery/Baby\", \"Batteries required\": \"No\", \"Item Weight\": \"3.2 ounces\", \"Best Sellers Rank\": {\"Baby\": 79078, \"Nursery Window Treatments\": 314, \"Window Treatment Valances\": 2690}}",
+    "parent_asin": "B007TA2RSW",
     "bought_together": null,
     "subtitle": null,
     "author": null

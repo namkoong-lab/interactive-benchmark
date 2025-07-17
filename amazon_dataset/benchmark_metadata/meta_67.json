@@ -1,32 +1,62 @@
 {
-    "main_category": "All Beauty",
-    "title": "Press on Nails Long with Rhinestone Designs, 24Pcs Coffin Long Fake Nails Full Cover Acrylic Press on Nails Delicate Glue on Nails Gradient Designer False Nails for Women Girls",
-    "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Baseball Award Decals Baseball Reward Stickers 100 Baseball Decals Baseball Awards (MVP) HDABB06",
+    "average_rating": 4.5,
+    "rating_number": 9,
+    "features": [
+        "See the complete selection in the STYLE NAME button!",
+        "20 mil thick, professional quality decals like the pros",
+        "Colorful award decals your players will work hard for",
+        "Put them on helmets, award boards, lockers, notebooks and more"
+    ],
+    "description": [
+        "Reward your players with these full-color Baseball Award Decals! A complete selection of winning traits that make your players great: Home Run, Steal, Hustle, Win, K, MVP, Single, Double, Triple, Double Play, Gold Glove, Sacrifice and RBI. Made with our 20 mil, professional quality vinyl decal material...the same decals the pros use!"
+    ],
+    "price": "20.97",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61pfdcxeuxL._AC_SL1025_.jpg",
+            "https://m.media-amazon.com/images/I/7100fRapAyL._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/71voPKgqWeL._AC_SL1157_.jpg",
+            "https://m.media-amazon.com/images/I/81CPWMvtTXL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51hMh4p77lL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51+0MaEgx5L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61zQsH0FhyL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61NPxvLc6KL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51hMh4p77lL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51+0MaEgx5L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61zQsH0FhyL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61NPxvLc6KL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
     "videos": {
         "title": [
-            "how to use the jofay fashion press on nails medium",
-            "How to use",
-            "how to use the jofay fashion press on nails  medium length"
+            "Award Decals for Football Lacrosse Baseball Softball Hockey",
+            "Best quality decals made in the USA!"
         ],
         "url": [
-            "https://www.amazon.com/vdp/09ca96dd704b4296a30b94db538514a5?ref=dp_vse_rvc_0",
-            "https://www.amazon.com/vdp/0c4417639283406d8f3c07383628bd91?ref=dp_vse_rvc_1",
-            "https://www.amazon.com/vdp/05f5393ff03649c2b72286494c9715ed?ref=dp_vse_rvc_2"
+            "https://www.amazon.com/vdp/75663d326d1f481b82632cf0cd80b676?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0c40337b2bd2454e9485d94dbb1f4f7e?ref=dp_vse_rvc_1"
         ],
         "user_id": [
-            "",
             "",
             ""
         ]
     },
-    "store": "Tuklye",
+    "store": "Pro-Tuff Decals",
     "categories": [],
-    "details": "{\"Color\": \"White\", \"Size\": \"Large\", \"Material\": \"Acrylic, Acrylonitrile Butadiene Styrene (ABS)\", \"Brand\": \"Tuklye\", \"Style\": \"Rhinestone\", \"Package Dimensions\": \"5.31 x 2.6 x 0.55 inches; 0.63 Ounces\"}",
-    "parent_asin": "B0B8D137G7",
+    "details": "{\"Brand\": \"Pro-Tuff Decals\", \"Item Dimensions LxWxH\": \"1.12 x 0.02 x 1.12 inches\", \"Surface Recommendation\": \"Wall\", \"Material\": \"Vinyl\", \"Theme\": \"Sport\", \"Style\": \"MVP\", \"Age Range (Description)\": \"Adult\", \"Reusability\": \"Single Use\", \"Shape\": \"Round\", \"Finish Type\": \"Powder Coated\", \"League\": \"Mlb\", \"Product Dimensions\": \"1.12 x 0.02 x 1.12 inches\", \"Manufacturer\": \"Pro-Tuff Decals\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"April 19, 2018\"}",
+    "parent_asin": "B07CHY1HCP",
     "bought_together": null,
     "subtitle": null,
     "author": null

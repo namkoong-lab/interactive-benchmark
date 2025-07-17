@@ -1,39 +1,101 @@
 {
-    "main_category": "All Beauty",
-    "title": "Gillette Mach 3-16 Count (2 x 8 Pack)",
-    "average_rating": 4.7,
-    "rating_number": 54,
+    "main_category": "Amazon Home",
+    "title": "Anova Culinary Precision Port Handheld Vacuum Sealer,BLACK",
+    "average_rating": 4.4,
+    "rating_number": 28,
     "features": [
-        "gillette 3"
+        "The NEW compact and cordless Anova Precision Port Handheld Vacuum Sealer is an ideal sealing solution for sous vide, food storage, or prepping meals. The integrated Precision Port suction valve works to easily and securely seal Anova brand vacuum bags and accessories with an Anova Precision Port airway.",
+        "KEEP IT FRESH: Along with sealing for sous vide cooking, vacuum sealing is a quick and easy way to extend the shelf life of most foods. Perishables like meats, vegetables, cheeses, grains, coffee, and even leftovers all stay fresher, for longer.",
+        "SMALL BUT MIGHTY: The USB rechargeable, long lasting lithium-ion battery allows for up to 150 seals off a single charge. Combine that with an ultra compact form factor and you’ve got the ability to vacuum seal at the touch of a single button, and easily stash your sealer away when not in use. With its sleek silhouette, you might even just want to leave it out on the counter for convenience.",
+        "EASY TO USE: The Precision Port airway system makes sealing easier than ever. Just line up the valve, apply pressure, and start sealing at the touch of a button. With the easy-zip top bags, you’ll be able to seal, open, and reseal that bag as many times as needed, for maximum freshness. We've even included a set of bags to get you started.",
+        "MARINADE FRIENDLY: This sealer has been specially designed to keep liquids from entering the pump while sealing moist foods. Should any unwanted liquids find their way inside the machine, the vacuum base is removable and easy to clean."
     ],
     "description": [
-        "The original MACH3 continues its legacy of close shaves. Its 3Blade technology offers a comfortable shave along with the longevity that comes only with exchangeable blades. Its comfort guard includes 5 microfins to bring you a close, comfortable shave, while the indicator lubrication strip fades to white to show when you are no longer getting an optimal shave from your razor blade. Still a trusted choice, the MACH3 continues to give men around the world a great start to their day."
+        "The NEW Anova Precision Port Handheld Vacuum Sealer is a compact and cordless sealing solution for sous vide, food storage, or prepping meals. The USB rechargeable, long lasting battery allows for up to 150 seals off a single charge, and the Precision Port airway makes sealing easier than ever. Just line up the valve, apply pressure, and start sealing at the touch of a button. With the easy-zip top, you’ll be able to seal, open, and reseal that bag as many times as needed, for maximum freshness. We’ve even included a set of Anova Precision Port Vacuum Bags to start you off. They’re durable, resealable, and even reusable when used for storing many mild, non messy, foods."
     ],
-    "price": "31.75",
-    "videos": {
-        "title": [
-            "Gillette Mach3 Mens Razor Blade Refills Review",
-            "Watch Before Buying! Reviewing Gillette Mach3 Razors!",
-            "The BEST Shave! Bald Heads Rejoice! Gillette Mach3 Razor!",
-            "My Gillette Razor, Cartridge Refill + Shaving Cream Review"
+    "price": "39.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51kBI3UeGKL._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61CjMMtSQfL._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/713NwS1sjsL._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61wiOEYV2RL._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/51FxBkWv4NL._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61xWm-mzUQL._AC_SL1200_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/0ff8c54fdcae46bf8ba51403280d286f?ref=dp_vse_rvc_0",
-            "https://www.amazon.com/vdp/0356e7f9354c4726a1a8b4a3121b62ac?ref=dp_vse_rvc_1",
-            "https://www.amazon.com/vdp/01627561e41f4399acb02b041374b014?ref=dp_vse_rvc_2",
-            "https://www.amazon.com/vdp/08814baa5fad452f873ab5ca35497027?ref=dp_vse_rvc_3"
+        "large": [
+            "https://m.media-amazon.com/images/I/317AHLZhkLL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41N9aQ1dBzL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51+GRb3x5pL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41bPgIFVX9L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31Vt7Yl2czL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41aX5AJo0RL._AC_.jpg"
         ],
-        "user_id": [
-            "/shop/billy_aiken",
-            "/shop/mymusicstands",
-            "/shop/beardenergygaming",
-            "/shop/greenindustrypodcast"
+        "thumb": [
+            "https://m.media-amazon.com/images/I/317AHLZhkLL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41N9aQ1dBzL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51+GRb3x5pL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41bPgIFVX9L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31Vt7Yl2czL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41aX5AJo0RL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
         ]
     },
-    "store": "Gillette",
-    "categories": [],
-    "details": "{\"Brand\": \"Gillette\", \"Number of Blades\": \"3\", \"Age Range (Description)\": \"Adult\", \"Skin Type\": \"All\", \"Unit Count\": \"16 Count\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.12 x 3.94 x 2.8 inches; 7.23 Ounces\", \"Item model number\": \"047400115057\", \"UPC\": \"047400115057\"}",
-    "parent_asin": "B07197537Q",
+    "videos": {
+        "title": [
+            "Should You Buy? Anova Culinary Precision Vacuum Sealer",
+            "FoodSaver FS2160 Multi-Use Handheld Vacuum Sealer",
+            "Testing The FoodSaver Cordless Food Vacuum Sealer",
+            "Anova Precision Vacuum Sealer Pro",
+            "Vesta Precision Handheld Vac 'n Seal Vacuum Sealer",
+            "Quality Review and How to",
+            "High Suction and Long Battery Life in this Vacuum Sealer",
+            "Real-time demo of vaccuum sealer",
+            "Electric Food Vacuum Sealer & Reusable Vacuum Food Storage ",
+            "Electrolux Food  Vacuum Sealer"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/04e1fef252b7403d83df5d95ef8bfd09?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0621c143e30b4f8590108f08ec8e387d?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0811f9400aa648b28a7eac9a324611db?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/9e6f47dfc474454cbb2911ea8bb4553d?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/041b976e34da468dab888513f1e1b09a?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/00b6f329c13f46f88358c2ad59fe1fa4?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/0a75f5b6418846e0bd67f15090e366d4?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/0204b7b4eae64bc09a8abbb743426cfb?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/018a7c072da14e3b9d948c6210384242?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/0f701ac404bf42549db298272de92a4a?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "/shop/deliciousencounters",
+            "",
+            "/shop/expertisland",
+            "",
+            "",
+            "/shop/quakecuban",
+            "/shop/influencer-fe3982a8",
+            "/shop/sunnyugccreator",
+            "",
+            "/shop/budgetfriendlycreations"
+        ]
+    },
+    "store": "Anova Culinary",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Small Appliances",
+        "Specialty Appliances",
+        "Vacuum Sealers"
+    ],
+    "details": "{\"Brand\": \"Anova Culinary\", \"Material\": \"Plastic\", \"Color\": \"BLACK\", \"Item Dimensions LxWxH\": \"3.03 x 3.03 x 3.7 inches\", \"Power Source\": \"Battery Powered\", \"Operation Mode\": \"Manual\", \"Wattage\": \"150 watts\", \"Product Dimensions\": \"3.03 x 3.03 x 3.7 inches\", \"Item Weight\": \"1.72 pounds\", \"Manufacturer\": \"Anova Culinary\", \"Item model number\": \"ANHV01-US00\", \"Batteries\": \"1 Lithium Ion batteries required. (included)\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 259164, \"Vacuum Sealers\": 974}, \"Date First Available\": \"March 1, 2022\"}",
+    "parent_asin": "B09R34V8P8",
     "bought_together": null,
     "subtitle": null,
     "author": null

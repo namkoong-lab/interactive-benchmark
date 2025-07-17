@@ -1,20 +1,56 @@
 {
-    "main_category": "All Beauty",
-    "title": "Moresoo Human Hair Tape in Extensions 12 Inch Tape in Extensions Highlighted #16 Golden Blonde Mixed #22 Blonde 30 Gram 20 Pieces Seamless Tape Hair Extension for Women Natural",
-    "average_rating": 3.9,
-    "rating_number": 6,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Lunarable Grey Fitted Sheet & Pillow Sham Set, Pastel Colored Repetitive Pattern of Irregular Dots Silhouettes Style, Decorative Printed 4 Piece Bedding Decor Set, Twin, Yellow White",
+    "average_rating": 4.4,
+    "rating_number": 169,
+    "features": [
+        "Your purchase will help victims of recent major earthquakes in Turkey since we donate a percentage of our profits to local NGOs helping with quake relief efforts.",
+        "Measurements - 2 twin size sheets 39\" wide X 75\" long & 2 pillow shams 30\" wide X 20\" long.",
+        "Made from - Super soft 100% brushed microfiber fabric. Sheet and sham set with modern prints.",
+        "Features - All-round elastic pocket, fits mattresses up to 16\". Sham has an envelope closure.",
+        "Machine washable - In cold cycle. Sturdy. Comfortable and decorative for bedrooms, hotels, dorms.",
+        "Printed - With state of the art digital printing technology. Items Printed on the front side only."
+    ],
+    "description": [
+        "Measurements - 2 twin size sheets 39\" wide X 75\" long & 2 pillow shams 30\" wide X 20\" long. Made from - Super soft 100% brushed microfiber fabric. Sheet and sham set with modern prints. Features - All-round elastic pocket, fits mattresses up to 16\". Sham has an envelope closure. Machine washable - In cold cycle. Sturdy. Comfortable and decorative for bedrooms, hotels, dorms. Printed - With state of the art digital printing technology. Items Printed on the front side only. Give yourself a great gift and refresh your bedroom every season by buying our sheet set with pillow sham and sheet. These pillow sham and sheet can greatly change the vibe of your bedroom while also allowing you to get more comfortable in your bed. 100% brushed microfiber fabric of these products allow you to experience the ultimate comfort with the softness. Envelope closures on the pillow shams make it easier for you to use them. Choose your favorite pattern out of 10's of thousands of different ones and decorate your bedroom as you please. You can make a difference by changing the look of your room, guest room and hotel room. The fabric is 100% recyclable and environmentally friendly. The colors of the set won't fade due to our digital printing methods. It's the perfect gift for your friend, mother, father, boyfriend, girlfriend, cousin, uncle, aunt, grandfather, and grandmother. Surprise them with our high quality set of shams and sheet. The digital images we display have the most accurate color possible, however, due to differences in computer monitors, we cannot be responsible for variations in color between the actual product and your screen. Due to manual measurement, please kindly allow a 1-2 cm discrepancy. The Sheet and Pillow Shams are printed on the Front side only, the back of them are plain white-colored."
+    ],
+    "price": "59.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/610T6PS-lJL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61DTWbaEsjL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61CMYOcRveL._AC_SL1427_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41dCYVlSPyL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41jKqKUqImL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41BjmE7NAXL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41dCYVlSPyL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41jKqKUqImL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41BjmE7NAXL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Moresoo",
-    "categories": [],
-    "details": "{\"Brand\": \"Moresoo\", \"Material\": \"Human Hair\", \"Extension Length\": \"12 Inches\", \"Hair Type\": \"Straight\", \"Material Feature\": \"Natural\", \"Package Dimensions\": \"8.19 x 4.49 x 1.65 inches; 1.06 Ounces\"}",
-    "parent_asin": "B07ZQ3RMV4",
+    "store": "Lunarable",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Sheets & Pillowcases",
+        "Sheet & Pillowcase Sets"
+    ],
+    "details": "{\"Size\": \"2 Pack - Twin\", \"Material\": \"Microfiber\", \"Color\": \"Yellow White\", \"Pattern\": \"Solid\", \"Brand\": \"Lunarable\", \"Number of Pieces\": \"4\", \"Special Feature\": \"Reversible\", \"Style\": \"Modern\", \"Included Components\": \"Fitted Sheet\", \"Closure Type\": \"Envelope\", \"Product Care Instructions\": \"Machine Wash\", \"Theme\": \"Modern\", \"Item Dimensions LxWxH\": \"75 x 39 x 0.01 inches\", \"Item Display Dimensions\": \"75 x 39 x 0.01 inches\", \"Product Dimensions\": \"75 x 39 x 0.01 inches\", \"Item Weight\": \"2.28 pounds\", \"Manufacturer\": \"Lunarable\", \"Item model number\": \"bswpil-2_13571_twin\", \"Best Sellers Rank\": {\"Home & Kitchen\": 170096, \"Sheet & Pillowcase Sets\": 676}, \"Perfume\": \"Unscented\"}",
+    "parent_asin": "B0BPCSG3T8",
     "bought_together": null,
     "subtitle": null,
     "author": null

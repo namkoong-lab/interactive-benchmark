@@ -1,20 +1,77 @@
 {
-    "main_category": "All Beauty",
-    "title": "Anself Hair Cutting Cape Shampoo Cloth Hairdressing Salon Apron Crepe Water Resistant",
-    "average_rating": 4.0,
-    "rating_number": 12,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Beach Retirement Party Decorations, Gold Glitter Happy Retirement Banner & Circle Dots Garland, Beach Theme Going Away Farewell Party Decorations, Summer Beach Theme Retired Banner for Men Women Retirement Party Decor",
+    "average_rating": 4.3,
+    "rating_number": 51,
+    "features": [
+        "🌴Package includes: 1pack Gold Glittery Happy Retirement with 2pcs Coconut Tree Banner, 1pack Gold Glitter Circle Dots Garland",
+        "🌴Gold Glittery Happy Retirement Banner Size: Each letter length approx is 6\". Perfect for retirement party.",
+        "🌴Gold Glittery Happy Retirement Banner is perfect for retirement party decorations,beach themed retirement party, birthday party decorations.",
+        "🌴Gold Glittery Happy Retirement Banner is suit for hang it on the mantle, window, wall, ceiling, room, cake dessert table, tree or on the entrance door to trigger the excitement as a party background. Each cards are cautiously made and can be moved to your ideal distance.",
+        "🌴Unique Retirement Decorations Design：The Gold Glittery Happy Retirement Banner with 2pcs Green Glitter Coconut Tree, glittery material adds a high-end feel to the retirement party, special and beautiful, which will attract your family’s attention immediately."
+    ],
+    "description": [
+        "🌴Package includes: 1pack Gold Glittery Happy Retirement with 2pcs Coconut Tree Banner, 1pack Gold Glitter Circle Dots Garland  🌴Gold Glittery Happy Retirement Banner Size: Each letter length approx is 6\". Perfect for retirement party.  🌴Gold Glittery Happy Retirement Banner is perfect for retirement party decorations,beach themed retirement party, birthday party decorations.  🌴Gold Glittery Happy Retirement Banner is suit for hang it on the mantle, window, wall, ceiling, room, cake dessert table, tree or on the entrance door to trigger the excitement as a party background. Each cards are cautiously made and can be moved to your ideal distance.  🌴Unique Retirement Decorations Design：The Gold Glittery Happy Retirement Banner with 2pcs Green Glitter Coconut Tree, glittery material adds a high-end feel to the retirement party, special and beautiful, which will attract your family’s attention immediately."
+    ],
+    "price": "8.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71cJ94VDIVL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81GLJmLRi4L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81JPJ41r7XL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81iHLp39CUL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41B8INo41DL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51xM6UrWkUL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51z0rW97GrL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61l0mwXbIIL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41B8INo41DL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51xM6UrWkUL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51z0rW97GrL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61l0mwXbIIL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
     },
-    "store": "Docooler",
-    "categories": [],
-    "details": "{\"Brand\": \"Docooler\", \"Item Form\": \"Liquid\", \"Unit Count\": \"1.0 Count\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"12.91 x 9.57 x 0.79 inches; 7.2 Ounces\"}",
-    "parent_asin": "B01GFROOJO",
+    "videos": {
+        "title": [
+            "Happy Retirement Party Decorations - Unboxing video",
+            "Happy Retirement Party",
+            "Retirement Party Banner",
+            "Graduation Party Decorations 2023",
+            "Happy retirement party banner 180cm X 110cm"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0e6c4d140b304f47b47c5eae3e4b6622?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/095acd5e1b0c44ee82d55c41eeac0a14?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/061fd37b3d644b75932615d29b416d98?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0dd967c596aa46b991708b22e12f5de9?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/09e5387b75e74606bc173caf40eaf554?ref=dp_vse_rvc_4"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            "",
+            "/shop/punjabibeautyonduty"
+        ]
+    },
+    "store": "Saliyaa",
+    "categories": [
+        "Home & Kitchen",
+        "Event & Party Supplies",
+        "Decorations",
+        "Banners"
+    ],
+    "details": "{\"Package Dimensions\": \"6.69 x 6.42 x 0.51 inches\", \"Item Weight\": \"2.08 ounces\", \"Manufacturer\": \"Saliyaa\", \"Country of Origin\": \"China\", \"Item model number\": \"Saliyaa\", \"Theme\": \"Tree\", \"Color\": \"Gold\", \"Brand\": \"Saliyaa\", \"Occasion\": \"Birthday, Retirement\", \"Product Care Instructions\": \"Hang It\"}",
+    "parent_asin": "B0BCGLQ32M",
     "bought_together": null,
     "subtitle": null,
     "author": null

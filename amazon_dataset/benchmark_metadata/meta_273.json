@@ -1,20 +1,47 @@
 {
-    "main_category": "All Beauty",
-    "title": "3D Mink Eyelashes Long Type 100% Siberian Mink Fur False Eyelashes Natural Layered Effect Hand Made Strips Eyelashes Reusable Make Up Real Fake Eyelashes 1 Pair (3D510)",
-    "average_rating": 3.7,
-    "rating_number": 25,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "LookHUMAN Crazy Cat Lady? I Prefer The Term Dedicated Feline Enthusiast White 11 Ounce Ceramic Coffee Mug",
+    "average_rating": 4.6,
+    "rating_number": 37,
+    "features": [
+        "Our 11-ounce Mug features large handles for easy gripping and a wrap-around print. These heavy-duty Mugs are both dishwasher and microwave safe. Printed in the USA.",
+        "Great gift idea for that special someone, a coworker or on your favorite holiday.",
+        "Designed and Printed in the USA"
+    ],
+    "description": [
+        "This cat lover design features the text \"Crazy Cat Lady? I Prefer The Term Dedicated Feline Enthusiast\" for the crazy cat lady that wants to admit it yet also articulate her specific love for cats! Perfect for a cat lover, cat gifts, cat love, cat quotes, cat lover gifts, and cat owner!"
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/611JMb7kHGL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41+dbGSpcDL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41+dbGSpcDL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "yellow girl",
-    "categories": [],
-    "details": "{\"Brand\": \"Yellow girl\", \"Material\": \"Mink Fur\", \"Material Feature\": \"Latex Free\", \"Item Form\": \"Pair\", \"Mounting Type\": \"Eyelash Glue\", \"Package Dimensions\": \"5.4 x 2 x 0.5 inches; 0.81 Ounces\", \"UPC\": \"697095590303\"}",
-    "parent_asin": "B082V9GSMD",
+    "store": "LookHUMAN",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Novelty",
+        "Drinkware",
+        "Coffee Mugs"
+    ],
+    "details": "{\"Brand\": \"LookHUMAN\", \"Material\": \"Ceramic\", \"Color\": \"White\", \"Capacity\": \"11 Ounces\", \"Special Feature\": \"Microwave Safe\", \"Style\": \"Modern\", \"Theme\": \"Cat\", \"Occasion\": \"Holiday\", \"Shape\": \"Round\", \"Pattern\": \"Letter Print\", \"Product Care Instructions\": \"Microwave Safe\", \"Unit Count\": \"1 Count\", \"Number of Items\": \"1\", \"League\": \"Ncaa\", \"Package Dimensions\": \"4.72 x 4.61 x 4.45 inches\", \"Item Weight\": \"13.8 ounces\", \"Item model number\": \"mug-161\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 278371, \"Sports Fan Cups & Glasses\": 5402, \"Novelty Coffee Mugs\": 12591, \"Glassware & Drinkware\": 42310}, \"Date First Available\": \"October 24, 2017\"}",
+    "parent_asin": "B076Q1X6MB",
     "bought_together": null,
     "subtitle": null,
     "author": null

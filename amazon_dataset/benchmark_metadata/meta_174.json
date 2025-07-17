@@ -1,22 +1,68 @@
 {
-    "main_category": "All Beauty",
-    "title": "Vanilla by Body Fantasies, 3 Pack 8 oz Fragrance Body Spray for Women",
-    "average_rating": 4.7,
-    "rating_number": 592,
-    "features": [],
-    "description": [
-        "Body Fantasies Signature Vanilla by Parfums de Coeur is a Floral Fruity Gourmand fragrance for women launched during the 2000's. The fragrance features vanilla, jasmine, apple and musk."
+    "main_category": "Amazon Home",
+    "title": "Deluxe and Super Soft Brushed Microfiber Attached Waterbed Sheet Set with Pole Attachment, 3 Piece Super Single Size, Gold",
+    "average_rating": 4.5,
+    "rating_number": 235,
+    "features": [
+        "100% Microfiber",
+        "Deluxe and Super Soft Brushed Microfiber Attached Waterbed Sheet set. The sheets are closely woven, keeping your comfort in mind and gets softer with each wash.",
+        "Fitted sheet pockets are made with POLE attachment for better hold. Fitted & flat sheets are attached at the footer so bed stays made. you can insert 12 inches long wooden or plastic pole that is 0.5 inches in thickness (any pole can be used as it’s NOT INCLUDED).",
+        "Breathable, durable and attractive. 4\" hemming, flats & pillowcases",
+        "Easy Care - Wrinkle and Fade resistant, machine wash in cold water. Tumble dry on low.",
+        "Super Single Size Set Includes One Flat Sheet 55X96\", One Fitted Sheet 48X84\" and One Standard Pillowcase 20X30\""
     ],
-    "price": "27.99",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "description": [
+        "Sleep in luxury on a beautiful soft solid sheet set made of high quality brushed microfiber. Designed for waterbed use, the fitted sheet and flat sheet are sewn together at the foot to avoid slippage. Fitted sheet pockets are made with POLE attachment for better hold. This set is conveniently machine washable. Manufactured with care"
+    ],
+    "price": "49.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61Nt3E5QJxL._AC_SL1100_.jpg",
+            "https://m.media-amazon.com/images/I/61y-8QUrcgL._AC_SL1200_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41rRJOy2B3L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41x9WSFIU+L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41J2Nv0j2cL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41rRJOy2B3L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41x9WSFIU+L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41J2Nv0j2cL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
     },
-    "store": "Parfums De Coeur",
-    "categories": [],
-    "details": "{\"Brand\": \"Parfums De Coeur\", \"Item Form\": \"Spray\", \"Item Volume\": \"8 Fluid Ounces\", \"Scent\": \"Vanilla\", \"Age Range (Description)\": \"Adult\", \"Package Dimensions\": \"8.15 x 6.5 x 2.76 inches; 8 Ounces\"}",
-    "parent_asin": "B072N95X6P",
+    "videos": {
+        "title": [
+            "Waterbed Sheets King Size 600 Thread Count 100% Cotton",
+            "SONORO KATE Bed Sheet Set 1800 Thread Count LUXURY EGYPTIAN!",
+            "SONORO KATE Bed Sheets: Review"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0e0d1814e2db4eb6a2785ef26927ca5d?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0f52639434f4405283e5eacbb59da0e0?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0808397f2902447ab48af6fc796e9498?ref=dp_vse_rvc_2"
+        ],
+        "user_id": [
+            "",
+            "/shop/influencer-c1e41dd8",
+            "/shop/professortirado"
+        ]
+    },
+    "store": "Deluxe Bedding",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Sheets & Pillowcases",
+        "Sheet & Pillowcase Sets"
+    ],
+    "details": "{\"Size\": \"Super Single\", \"Material\": \"Polyester & Polyester Blend\", \"Color\": \"Gold\", \"Pattern\": \"Solid\", \"Brand\": \"Deluxe Bedding\", \"Number of pieces\": \"3\", \"Special Feature\": \"Wrinkle Resistant\", \"Style\": \"Modern\", \"Included Components\": \"Bed Sheet\", \"Closure Type\": \"Zipper\", \"Care instructions\": \"Tumble Dry\", \"Theme\": \"Solid\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1138131, \"Sheet & Pillowcase Sets\": 3106}, \"Is Discontinued By Manufacturer\": \"No\", \"Fabric Type\": \"100% Microfiber\"}",
+    "parent_asin": "B01ACNFYY6",
     "bought_together": null,
     "subtitle": null,
     "author": null

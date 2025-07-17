@@ -1,20 +1,56 @@
 {
-    "main_category": "All Beauty",
-    "title": "Yes to Tomatoes Daily Clarifying Cleanser (Pack of 2) with Aloe Leaf Extract, Tomato Extract, and Watermelon Seed Oil, 3.38 oz.",
-    "average_rating": 5.0,
-    "rating_number": 8,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Lunarable Animal Print Fitted Sheet, Exotic Python Snake Skin Pattern Realistic Graphic Design, Soft Decorative Fabric Bedding All-Round Elastic Pocket, Twin Size, Brown Ivory",
+    "average_rating": 4.4,
+    "rating_number": 401,
+    "features": [
+        "Your purchase will help victims of recent major earthquakes in Turkey since we donate a percentage of our profits to local NGOs helping with quake relief efforts.",
+        "75 INCHES LONG x 39 INCHES WIDE - 100% Brushed microfiber fabric. Ultimate comfort and softness.",
+        "HOTEL QUALITY - Designed for a good night sleep with top of the line stitching and workmanship.",
+        "FEATURES - Elastic all around pocket is useful when covering the bed. Fits mattresses up to 16\".",
+        "MACHINE WASHABLE - Cold cycle, Dryer safe. Iron easy. With proper care NO FADING NO TEARING.",
+        "PRINTED - With state of art digital technology. Sheets are printed on the FRONT SIDE ONLY."
+    ],
+    "description": [
+        "MEASUREMENT - 75 INCHES LONG x 39 INCHES WIDE - 100% Brushed microfiber fabric. HOTEL QUALITY - Top of the line stitching and workmanship. FEATURES - All-round deep elastic pocket. Fits mattresses up to 16\". MACHINE WASHABLE - Cold cycle, Dryer safe. Iron easy. NO FADING NO TEARING. PRINTED - With state of art digital technology. The sheets are printed on the FRONT SIDE ONLY. Decorate your beds with some flair. Fitted sheets we provide have exceptional quality. The soft fabric lets you have a nice and comfortable and good night's sleep at nights. Since it has elastic qualities it does not move away at night. It also provides a fresh feeling throughout the night. The prints on the beddings are exceptional so the colors are vibrant and designs are flawless. There are no harmful substances for you or your pets. We are an eco-friendly company and the items we produce are too. Sheets with elastic qualities are easy to use and hassle-free. You can easily take care of it without much effort. If you want a quick and luxurious accent to your bedroom this is the product for you. High resolution pictures bring a 3D like realistic experience to your life. Colors won't fade thanks to new digital printing methods. It's not too thin or too thick. Adds real value and depth to your decor. Perfect gift idea for your mom, dad, sister, brother, grandma, grandpa, wife, husband, son, daughter and all other beloved ones with 10's of thousands of surprising designs. You can find a theme for everybody and every interest in our Lunarable Amazon Collection. The digital images we display have the most accurate color possible, however due to differences in computer monitors, we cannot be responsible for variations in color between the actual product and your screen. Care Instructions: Machine wash with cold water; Do not bleach. Tumble dry on low heat. The fitted sheet is printed on the FRONT SIDE ONLY, the back of them are plain white colored."
+    ],
+    "price": "24.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71lUeG3hXDL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81PT-5cBQNL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61vItQ1NJdL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Vz1zZtzrL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51VAb6pMvgL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41+576hxopL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41Vz1zZtzrL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51VAb6pMvgL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41+576hxopL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Yes to Tomatoes",
-    "categories": [],
-    "details": "{\"Item Form\": \"Oil\", \"Brand\": \"Yes to Tomatoes\", \"Scent\": \"tomatoes\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"6.65 Ounce\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.2 x 4.45 x 1.61 inches; 8.43 Ounces\", \"Item model number\": \"SG_B076WP4F1V_US\", \"UPC\": \"653801351170\", \"Manufacturer\": \"Yes to Tomatoes\"}",
-    "parent_asin": "B076WP4F1V",
+    "store": "Lunarable",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Sheets & Pillowcases",
+        "Fitted Sheets"
+    ],
+    "details": "{\"Color\": \"Brown Ivory\", \"Material\": \"Fabric\", \"Size\": \"Twin\", \"Fabric Type\": \"Microfiber\", \"Pattern\": \"Animal\", \"Product Dimensions\": \"75\\\"L x 39\\\"W\", \"Brand\": \"Lunarable\", \"Product Care Instructions\": \"Machine Wash\", \"Number of Pieces\": \"1\", \"Package Dimensions\": \"10.75 x 4.06 x 1.85 inches\", \"Item Weight\": \"14.7 ounces\", \"Manufacturer\": \"Lunarable\", \"Item model number\": \"bs_84905_twin\", \"Best Sellers Rank\": {\"Home & Kitchen\": 368580, \"Fitted Bed Sheets\": 274}, \"Date First Available\": \"August 27, 2019\"}",
+    "parent_asin": "B0BLYVF18C",
     "bought_together": null,
     "subtitle": null,
     "author": null

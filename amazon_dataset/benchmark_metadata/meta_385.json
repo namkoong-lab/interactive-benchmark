@@ -1,20 +1,51 @@
 {
-    "main_category": "All Beauty",
-    "title": "1 Kleancolor Nail Polish Lacquer #82 Pink Manicure + Free Earring Gift",
-    "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "8.5",
+    "main_category": "Amazon Home",
+    "title": "M. CORNELL IMPORTERS 6960 John Deere Trademark Drink Jar",
+    "average_rating": 4.7,
+    "rating_number": 39,
+    "features": [
+        "Package Dimensions: 5 L x 2.99 H x 2.99 W (inches)",
+        "Package Weight : 2.17 pounds",
+        "Country of Origin : China",
+        "Product Type: Hanging Ornament"
+    ],
+    "description": [
+        "This gorgeous John Deere trademark drink jar has the finest details and highest quality you will find anywhere! John Deere trademark drink jar is truly remarkable. John Deere trademark drink jar details: condition: brand new item Sku: ss-mci-6960 dimensions: H: 5 (inches)"
+    ],
+    "price": "14.21",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91migF0LLfL._AC_SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/510XHEiqBxL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31+h6VTnleL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/510XHEiqBxL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31+h6VTnleL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT12"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Kleancolor",
-    "categories": [],
-    "details": "{\"Brand\": \"Kleancolor\", \"Item Form\": \"Liquid\", \"Color\": \"Pink\", \"Special Feature\": \"Long-lasting\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"1.00 Count\", \"Liquid Volume\": \"0.5 Fluid Ounces\", \"UPC\": \"702811991019\"}",
-    "parent_asin": "B00BUI0FBU",
+    "store": "John Deere",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Cookware",
+        "Canning",
+        "Jars"
+    ],
+    "details": "{\"Brand\": \"John Deere\", \"Closure Type\": \"Twist Lug\", \"Pattern\": \"solid\", \"Capacity\": \"16 Fluid Ounces\", \"Is Dishwasher Safe\": \"No\", \"Unit Count\": \"1.0 Count\", \"Number of Items\": \"1\", \"Product Dimensions\": \"5 x 2.99 x 2.99 inches\", \"Item Weight\": \"1 pounds\", \"Manufacturer\": \"Cornell Gifts\", \"Item model number\": \"SS-MCI-6960\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 146360, \"Canning Jars\": 1215}, \"Is Discontinued By Manufacturer\": \"No\", \"Assembly required\": \"No\", \"Batteries required\": \"No\", \"Included Components\": \"SS-MCI-6960\"}",
+    "parent_asin": "B001QX7HY2",
     "bought_together": null,
     "subtitle": null,
     "author": null

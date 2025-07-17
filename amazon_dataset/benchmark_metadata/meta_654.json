@@ -1,20 +1,56 @@
 {
-    "main_category": "All Beauty",
-    "title": "EXCHIC Women Elegant Fascinator Pearl Peacock Feather Hair Clip (Black)",
-    "average_rating": 4.5,
-    "rating_number": 10,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Creative Co-Op Decorative Recycled Glass Bottle, Clear",
+    "average_rating": 4.4,
+    "rating_number": 23,
+    "features": [
+        "Recycled glass bottle is a one of a kind",
+        "Clear glass allows you to showcase items from within",
+        "Can hold any favorite stem",
+        "1-3/4 gallon bottle vase",
+        "10-1/2\" Round x 15\"H"
+    ],
+    "description": [
+        "A beautiful vase like this one deserves to be shown off. Place flower stems within to add a pop of color. Class glass also allows you to showcase items from within."
+    ],
+    "price": "45.06",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71B6uMNdviL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71PmuL-hKzL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71pxvkUhp0L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31zjHWNGt8L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31de32QxwJL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31FERYhybML._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31zjHWNGt8L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31de32QxwJL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31FERYhybML._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "EXCHIC",
-    "categories": [],
-    "details": "{\"Brand\": \"EXCHIC\", \"Hair Type\": \"All\", \"Age Range (Description)\": \"Adult\", \"Material\": \"Pearl\", \"Unit Count\": \"1 Count\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"10.5 x 9.5 x 0.5 inches; 1.59 Ounces\", \"UPC\": \"670924501930\"}",
-    "parent_asin": "B07G5Q4P1F",
+    "store": "Creative Co-Op",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Decorative Accessories",
+        "Decorative Bottles"
+    ],
+    "details": "{\"Brand\": \"Creative Co-Op\", \"Material\": \"Glass\", \"Color\": \"Clear\", \"Capacity\": \"4 Gallons\", \"Product Dimensions\": \"10.5\\\"W x 15\\\"H\", \"Model Name\": \"Creative Co-Op Decorative Recycled Glass Bottle\", \"Number of Items\": \"1\", \"Theme\": \"Floral\", \"Reusability\": \"Reusable\", \"Shape\": \"Round\", \"Unit Count\": \"1.0 Count\", \"Item Weight\": \"7.63 pounds\", \"Manufacturer\": \"Creative Co-Op\", \"Country of Origin\": \"Spain\", \"Item model number\": \"DF3867\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1595940, \"Decorative Bottles\": 1534}, \"Perfume\": \"Unscented\", \"Assembly required\": \"No\", \"Number of pieces\": \"1\", \"Warranty Description\": \"None.\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B08DPXDRBR",
     "bought_together": null,
     "subtitle": null,
     "author": null

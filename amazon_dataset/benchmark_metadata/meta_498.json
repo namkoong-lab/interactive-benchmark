@@ -1,20 +1,60 @@
 {
-    "main_category": "All Beauty",
-    "title": "【3-Pack】 Screen Protector Compatible for iPhone 8 Plus/7 Plus/6 Plus, [5.5\" inch], HD Tempered Glass,Anti-Scratches,Anti-Fingerprint, Case Friendly (iPhone plus-3pack) … (iphone5.5-3packs)",
-    "average_rating": 3.9,
-    "rating_number": 38,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Moslion Comfy Bath Towels Pink Purple Butterfly Shining Light Soft Bathing/Beach/Camping Towel for Women Men Girls Boys Large Size 64x32 Inches",
+    "average_rating": 4.5,
+    "rating_number": 2,
+    "features": [
+        "Microfiber,polyester",
+        "Material: 100% Soft Polyester Microfiber, free from harmful materials which is safe for you and family.",
+        "Measures 64Lx32W Inches. Large towel.",
+        "Suit for Home, Beach, Camping, swimming. Towels absorbs water quickly.",
+        "Brilliant intense vibrant colors, highly functional and durable.",
+        "Machine wash the towel in warm water. Hang dry, do not iron and dry cleaning."
+    ],
+    "description": [
+        "Step out of the shower, or bath, or the sea, and wrap yourself in ultra-soft Moslion Soft Bath Towel.Made with Soft Polyester Microfiber, the Moslion bath towel makes a great choice for anyone simply looking for a more natural approach to daily living."
+    ],
+    "price": "16.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61TiwrJs3ML._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61+obgdvxYL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61NQvhbAZKL._AC_SL1000_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41isG7BG1mL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51TNHPwa73L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51AWhjjGueL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41nI1fiJbSL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41isG7BG1mL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51TNHPwa73L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51AWhjjGueL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41nI1fiJbSL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "TangDirect",
-    "categories": [],
-    "details": "{\"Brand\": \"TangDirect\", \"Compatible Phone Models\": \"Apple iPhone 8 Plus\", \"Screen Size\": \"5.5 Inches\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7 x 3.5 x 0.3 inches; 1.59 Ounces\"}",
-    "parent_asin": "B07KZHR2V1",
+    "store": "Moslion",
+    "categories": [
+        "Home & Kitchen",
+        "Bath",
+        "Towels",
+        "Bath Towels"
+    ],
+    "details": "{\"Color\": \"Type10873\", \"Brand\": \"Moslion\", \"Towel form type\": \"Bath Towel\", \"Age Range (Description)\": \"All Ages\", \"Material\": \"Polyester, Polyester Blend\", \"Product Dimensions\": \"64\\\"L x 32\\\"W\", \"Number of Items\": \"1\", \"Pattern\": \"print\", \"Special Feature\": \"Durable\", \"Theme\": \"Insects\", \"Product Care Instructions\": \"Machine Wash\", \"Shape\": \"Rectangular\", \"Size\": \"64x32\", \"Unit Count\": \"1 Count\", \"Fabric Type\": \"Microfiber,polyester\", \"Manufacturer\": \"Moslion\", \"Country of Origin\": \"China\", \"Item model number\": \"MLTL-10O-201746\", \"Best Sellers Rank\": {\"Home & Kitchen\": 4744386, \"Bath Towels\": 5466}, \"Number of pieces\": \"1\"}",
+    "parent_asin": "B07NL3VPTB",
     "bought_together": null,
     "subtitle": null,
     "author": null

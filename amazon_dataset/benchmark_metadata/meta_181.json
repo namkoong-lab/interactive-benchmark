@@ -1,20 +1,52 @@
 {
-    "main_category": "All Beauty",
-    "title": "EVER FAITH Crystal Eleagnt Bridal Flower Cluster Headpiece Wedding Accessory Hair Barrette for Women Clear Silver-Tone",
-    "average_rating": 3.6,
-    "rating_number": 4,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Cuisinart SPB-7CH-LR Collar, Black",
+    "average_rating": 4.5,
+    "rating_number": 204,
+    "features": [
+        "This is an O.E.M. authorized part",
+        "Fits various Cuisinart models",
+        "OEM Part Number SPB-7CH-LR",
+        "Fits the following models: 3066 3067 3093 3094 3111 3112 KF140 KF246",
+        "Item is manufactured in United States"
+    ],
+    "description": [
+        "This is an O.E.M. authorized part. Fits various Cuisinart models. OEM Part Number SPB-7CH-LR. Fits the following models: 3066 3067 3093 3094 3111 3112 KF140 KF246. Item is manufactured in United States."
+    ],
+    "price": "15.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/813Sk6R5-fL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81VJsnIR0yL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/412NkatoEGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41scmCcDFLL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/412NkatoEGL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41scmCcDFLL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "EVER FAITH",
-    "categories": [],
-    "details": "{\"Brand\": \"EVER FAITH\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"1.00 Count\", \"Recommended Uses For Product\": \"Wedding\", \"Item Weight\": \"30 Grams\", \"Package Dimensions\": \"4.4 x 3.3 x 1.5 inches; 1.06 Ounces\", \"Item model number\": \"N00553-1B\"}",
-    "parent_asin": "B07X5V6QLB",
+    "store": "Cuisinart",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Small Appliance Parts & Accessories",
+        "Microwave Oven Parts & Accessories",
+        "Microwave Oven Replacement Parts"
+    ],
+    "details": "{\"Product Dimensions\": \"1 x 1 x 1 inches\", \"Item Weight\": \"0.01 Ounces\", \"Manufacturer\": \"Cuisinart\", \"Item model number\": \"SPB-7CH-LR\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1431819, \"Microwave Oven Replacement Parts\": 2164}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"May 16, 2009\", \"Brand\": \"Cuisinart\", \"Color\": \"Black\", \"Style\": \"Modern\", \"Is Dishwasher Safe\": \"No\"}",
+    "parent_asin": "B0006HL6A0",
     "bought_together": null,
     "subtitle": null,
     "author": null

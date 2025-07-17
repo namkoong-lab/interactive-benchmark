@@ -1,20 +1,65 @@
 {
-    "main_category": "All Beauty",
-    "title": "10A Brazilian Body Wave Bundles （24 26 28）100% Virgin Human Hair Bundles Unprocessed Weave Hair Human Bundles of Brazilian Hair Natural Black",
-    "average_rating": 2.8,
-    "rating_number": 23,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "CafePress Undertaker Vintage Style Mugs Ceramic Coffee Mug, Tea Cup 15 oz",
+    "average_rating": 4.5,
+    "rating_number": 20,
+    "features": [
+        "Large Size: Our generous 15 ounce mugs measure 4.58\" Tall x 3.37\" wide. Choose between multiple interior and handle colors.",
+        "Designed With You in Mind: We know that your time is valuable. This extra-large, 15 oz, high-fired ceramic mug, with easy-grip handle, will keep your morning dose of caffeine piping hot as you start your day with no immediate need for a re-fill.",
+        "Durable and High Quality: Our drinking mugs are printed using crisp graphics, detailed color contrast, and completed with a scratch resistant finish. Our vivid, one-of-a-kind designs make it easy for caffeine drinkers to show off this colorful mug to family, friends, and coworkers. Additionally, our mugs are dishwasher (top rack) and microwave safe.",
+        "Professionally Printed: Our mugs feature crisp images in striking color, guaranteed to last. You'll love this coffee mug with a unique design you won't find anywhere else!",
+        "Perfect For Many Occasions: Our mugs are a great daily functional accent piece for a coach, teacher, parent, or special person in your life."
+    ],
+    "description": [
+        "The smooth, white ceramic and easy-grip handle feels great in your hand as you sip your morning brew, afternoon tea or evening hot chocolate. Use our 15oz mug at home or in the office as a pen holder, displaying the funny or cute design. The design is professionally printed, making it the perfect novelty gift for both men and women, young or old. And taking care of this coffee mug is a cinch, as it can be used in the dishwasher or microwave. With CafePress, your satisfaction is always our promise...buy with confidence, as we offer easy returns and exchanges."
+    ],
+    "price": "22.99",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/517FWb-bDQL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31zhwwBTDtL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61UhX3xUdZL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51GqYCjQLvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51GqYCjQLvL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/517FWb-bDQL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31zhwwBTDtL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61UhX3xUdZL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51GqYCjQLvL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51GqYCjQLvL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT05"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "YOCYTU",
-    "categories": [],
-    "details": "{\"Brand\": \"YOCYTU\", \"Color\": \"Black\", \"Material\": \"Human Hair\", \"Hair Type\": \"Wavy\", \"Material Feature\": \"Natural\", \"Package Dimensions\": \"8.2 x 8 x 2.2 inches; 10.41 Ounces\", \"UPC\": \"718245175055\"}",
-    "parent_asin": "B08SLVT3TF",
+    "store": "CafePress",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Novelty",
+        "Drinkware",
+        "Coffee Mugs"
+    ],
+    "details": "{\"Brand\": \"CafePress\", \"Material\": \"Ceramic\", \"Color\": \"White/Black Inside - Undertaker Vintage Style Mugs\", \"Capacity\": \"15 Ounces\", \"Special Feature\": \"Durable,Resistant\", \"Style\": \"Modern\", \"Theme\": \"vintage\", \"Occasion\": \"Mother's Day, Christmas, Father's Day, Birthday, Valentine's Day\", \"Included Components\": \"Handle\", \"Specific Uses For Product\": \"Coffee\", \"Shape\": \"Round\", \"Product Care Instructions\": \"Microwave\\u00a0Safe, Hand Wash Only\", \"Unit Count\": \"1.0 Count\", \"Product Dimensions\": \"3.37\\\"W x 4.58\\\"H\", \"Number of Items\": \"1\", \"Department\": \"Home\", \"Manufacturer\": \"CafePress\", \"Country of Origin\": \"USA\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 539528, \"Mugs\": 7555, \"Novelty Coffee Mugs\": 31737}, \"Date First Available\": \"May 26, 2019\"}",
+    "parent_asin": "B0BCNY61HH",
     "bought_together": null,
     "subtitle": null,
     "author": null

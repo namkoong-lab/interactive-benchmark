@@ -1,20 +1,61 @@
 {
-    "main_category": "All Beauty",
-    "title": "DoDo Premium Easy Fan Volume Lashes Extensions| Rapid Blooming Eyelash Extension .03/.05/.07mm C/D/CC/DD Curl Self Fanning Lashes Tray Soft Matte Application-Friendly",
-    "average_rating": 3.7,
-    "rating_number": 3,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Nearly Natural 5952 52\" UV Resistant (Indoor/Outdoor) Ficus Tree with White Planter",
+    "average_rating": 4.3,
+    "rating_number": 12,
+    "features": [
+        "UV resistant ficus leaves",
+        "White River Rocks",
+        "Dimensions: 52H x 24W x 24D;",
+        "Perfect for indoor and outdoor use",
+        "White, square planter"
+    ],
+    "description": [
+        "At 52 inches, this faux Ficus tree is perfect for indoor or outdoor use. The UV resistant leaves spring out in every direction to show off their shiny green color. Textured branches and vines are crafted to mimic a true tree. Comes in a tall, square planter with white River rocks."
+    ],
+    "price": "102.17",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81FAba04GhL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81va82s9D3L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71BWohSrBiL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Hcu5lIyRL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51SWe1U+LgL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41AIXCZPA+L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41Hcu5lIyRL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51SWe1U+LgL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41AIXCZPA+L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
     },
-    "store": "Dodo",
-    "categories": [],
-    "details": "{\"Brand\": \"Dodo\", \"Material\": \"Polybutylene Terephthalate Fiber\", \"Material Feature\": \"Cruelty Free\", \"Item Form\": \"Individual\", \"Mounting Type\": \"Eyelash Glue\"}",
-    "parent_asin": "B09FDTDK3G",
+    "videos": {
+        "title": [
+            "Nearly Natural Brand Video"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/8e1b93004b84432687139f6b35bb603e?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Nearly Natural",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Artificial Plants & Flowers",
+        "Artificial Trees"
+    ],
+    "details": "{\"Brand\": \"Nearly Natural\", \"Product Dimensions\": \"24\\\"D x 24\\\"W x 52\\\"H\", \"Color\": \"Green\", \"Material\": \"Other\", \"Item Weight\": \"26.4 Pounds\", \"Item Package Quantity\": \"1\", \"Recommended Uses For Product\": \"Decor\", \"Package Information\": \"Planter\", \"Occasion\": \"All Occasion\", \"Special Feature\": \"UV Resistant\", \"Seasons\": \"All Seasons\", \"Assembly required\": \"No\", \"Tree Type\": \"Ficus\", \"Base Type\": \"Planter\", \"Plant or Animal Product Type\": \"Ficus\", \"Built-in Light\": \"No\", \"Light Color\": \"White, Green\", \"Included Components\": \"Plant\", \"Manufacturer\": \"Nearly Natural\", \"Country of Origin\": \"China\", \"Item model number\": \"5952\", \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B01MDUNE7O",
     "bought_together": null,
     "subtitle": null,
     "author": null

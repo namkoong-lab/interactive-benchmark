@@ -1,20 +1,73 @@
 {
-    "main_category": "All Beauty",
-    "title": "Skyvan 2 PCS (Big and Small) Imitation Pearls Hair Clip Claw Barrettes Accessories",
-    "average_rating": 3.6,
-    "rating_number": 11,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "Feierman Farmhouse Truck Flower Shower Curtain Vintage Red Car with Fresh Floral Sping Butterfly on Wooden Board Polyester Cloth Fabric for Bathroom Curtains Sets Hooks 70*70inch(180W*180H cm)",
+    "average_rating": 4.7,
+    "rating_number": 9,
+    "features": [
+        "Material: Polyester fabric",
+        "Size-70Wx70H Inch（180x180 cm）",
+        "Design: The shower curain use bright colors and patterns are rich in creativity and the unique design will illuminate your bathroom.",
+        "Maintenance：Easy to clean, it is recommended to wash gently or by hand, hanging to dry, do not iron at high temperature to avoid deformation.",
+        "Installation: The shower curtain has been perforated, and the hook is very convenient for you to hang it up!"
+    ],
+    "description": [
+        "Product description: This shower curtain use high-definition printing and interesting and vivid printing patterns add a touch of beautiful scenery to your bathroom and let you be on the scene. The shower curtain has many uses, suitable for families, apartments, hotels, camping, RVs, dormitories, school showers, The gym and other places perfectly decorate your living environment, make your life full of fun, and make your bathroom look new. Please note: Due to the difference of manual measurement tools, there may be an error of about 1-2 cm. Due to the difference in the display of the computer monitor, there may be a slight color difference between the actual product and your screen. Please understand! If you have any questions, please contact us in time, we will solve it for you!"
+    ],
+    "price": "16.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71l6CBQ7CaL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71A8Lp5KCyL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71gLT1HnUeL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61e6Vvps+FL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71njheD1fZL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51PSTvkUDRL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61MAGadIk1L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51+L8vlhDOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51JoeUb20jL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51ELJmDMoUL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51PSTvkUDRL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61MAGadIk1L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51+L8vlhDOL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51JoeUb20jL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51ELJmDMoUL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
     },
-    "store": "SKYVAN",
-    "categories": [],
-    "details": "{\"Brand\": \"SKYVAN\", \"Hair Type\": \"All\", \"Age Range (Description)\": \"Adult\", \"Embellishment\": \"Pearl\", \"Number of Pieces\": \"2\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"3.6 x 2.9 x 1.3 inches; 0.8 Ounces\", \"UPC\": \"794168119529\", \"Manufacturer\": \"Skyvan LLC\"}",
-    "parent_asin": "B01DJD4B7M",
+    "videos": {
+        "title": [
+            "Western Horse Shower Curtain",
+            "EOBTAIN Sunflower and Teal Truck Shower Curtain "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0bf42e79f1d24309842c444be481d8bf?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/04de12ce7bff4ed8bd817ece30918ef3?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            ""
+        ]
+    },
+    "store": "FEIERMAN",
+    "categories": [
+        "Home & Kitchen",
+        "Bath",
+        "Bathroom Accessories",
+        "Shower Curtains, Hooks & Liners",
+        "Shower Curtain Sets"
+    ],
+    "details": "{\"Brand\": \"FEIERMAN\", \"Color\": \"Red\", \"Material\": \"Polyester\", \"Product Dimensions\": \"70\\\"L x 70\\\"W\", \"Opacity\": \"\\u534a\\u900f\\u660e\", \"Special Feature\": \"\\u9632\\u6c34\", \"Room Type\": \"Bathroom\", \"Style\": \"\\u6751\\u820d\", \"Pattern\": \"Floral\", \"Theme\": \"Farmhouse,Floral,Vintage\", \"Curtain Form\": \"Shower Curtain\", \"Top Style\": \"Grommet\", \"Size\": \"70Wx70H Inch\", \"Included Components\": \"Hook\", \"Age Range (Description)\": \"Adult\", \"Product Care Instructions\": \"Hand Wash Only\", \"Package Weight\": \"0.41 Kilograms\", \"Item Weight\": \"14.4 ounces\", \"Manufacturer\": \"FEIERMAN\", \"Country of Origin\": \"China\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1760732, \"Shower Curtain Sets\": 10627}, \"Date First Available\": \"January 8, 2022\"}",
+    "parent_asin": "B0B98XHC7P",
     "bought_together": null,
     "subtitle": null,
     "author": null

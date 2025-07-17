@@ -1,20 +1,55 @@
 {
-    "main_category": "All Beauty",
-    "title": "EYE MAJIC INSTANT EYESHADOW – INSTANT BEAUTY PROFFESIONAL MAKEUP IN 10 SECOND (5 Pair Pack, Matte 107 - Romanesque)",
-    "average_rating": 4.0,
-    "rating_number": 130,
-    "features": [],
-    "description": [],
-    "price": "14.9",
+    "main_category": "Amazon Home",
+    "title": "2 Crystal Snowflake Star Baubles Ornaments Christmas Tree Hanging Sun Catcher X'Mas Decoration",
+    "average_rating": 3.3,
+    "rating_number": 8,
+    "features": [
+        "Your Christmas tree isn't complete until its dressed with its decorations and this bauble is sure to help it make your home look ultra festive. Give a unique and beautiful gift to any family members or friends for Christmas.",
+        "Size Approx:- 15cm x 5cm Crystal Snowflake Star X'mas Baubles",
+        "Quantity:- 2 Snowflake Baubles",
+        "Material:-High Quality Clear Glass Crystal with a Metal Hook to hang them, no extra hooks needed, It's Great for Christmas decorations",
+        "Style:- Crystallized with silver metal Snowflake Star Christmas Tree Baubles"
+    ],
+    "description": [
+        "Crystal Snowflake Christmas Baubles"
+    ],
+    "price": "13.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71T3k9trNIL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81pL+GmQvVL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61hbr4ROy-L._AC_SL1024_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41ED-aLw5xL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61PU-YH627L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41tgXVlti8L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41ED-aLw5xL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61PU-YH627L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41tgXVlti8L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "eyeMajic",
-    "categories": [],
-    "details": "{\"Brand\": \"EyeMajic\", \"Item Form\": \"Instant\", \"Finish Type\": \"Matte\", \"Special Feature\": \"Travel size, Matte\", \"Unit Count\": \"1.00 Count\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"0.79 x 2.95 x 2.36 inches; 0.35 Ounces\"}",
-    "parent_asin": "B07JVW6ZTF",
+    "store": "CrystalsRus",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Hanging Ornaments"
+    ],
+    "details": "{\"Color\": \"Silver\", \"Brand\": \"CrystalsRus\", \"Occasion\": \"Christmas\", \"Material\": \"Metal\", \"Theme\": \"Snowflake,Christmas\", \"Included Components\": \"Hook\", \"Shape\": \"Star\", \"Mounting Type\": \"Hanging\", \"Item Package Quantity\": \"1\", \"Unit Count\": \"1 Count\", \"Is Customizable\": \"No\", \"Batteries required\": \"No\", \"Scent\": \"Unscented\", \"Number of pieces\": \"2\", \"Package Dimensions\": \"5.2 x 2.5 x 0.7 inches\", \"Item Weight\": \"1.6 ounces\", \"Manufacturer\": \"Varsani\", \"Item model number\": \"No Model\", \"Best Sellers Rank\": {\"Home & Kitchen\": 4129464, \"Christmas Ornaments\": 40879, \"Decorative Hanging Ornaments\": 98442}, \"Is Discontinued By Manufacturer\": \"No\"}",
+    "parent_asin": "B01MF6WQOV",
     "bought_together": null,
     "subtitle": null,
     "author": null

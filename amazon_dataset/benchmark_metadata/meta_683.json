@@ -1,20 +1,58 @@
 {
-    "main_category": "All Beauty",
-    "title": "MARY KAY TIMEWISE REPAIR REVEALING RADIANCE FACIAL PEELPEELING FACIAL 1.7 FL. OZ GEL FACIAL EFECTO PEELING 48 G.",
-    "average_rating": 4.9,
-    "rating_number": 9,
-    "features": [],
-    "description": [],
-    "price": "53.0",
+    "main_category": "Amazon Home",
+    "title": "iCanvasART Money Rain by Octavian Mielu Canvas Print, 18 in x 12 in",
+    "average_rating": 2.1,
+    "rating_number": 3,
+    "features": [
+        "Made with 100Percent Cotton canvas",
+        "Proudly Made in the USA",
+        "100Percent hand-made and inspected in the U.S.A",
+        "Ready to be displayed right out of the box, Hanging kit included at no extra cost",
+        "Manufacturer Lifetime Warranty"
+    ],
+    "description": [
+        "The artwork is crafted with 100-percent cotton artist-grade canvas, Professionally hand-stretched and stapled over pine-wood bars in gallery wrap style - a method utilized by artists to present artwork in galleries. Fade-resistant archival inks guarantee perfect color reproduction that remains vibrant for decades even when exposed to strong light. Add brilliance in color and exceptional detail to your space with the contemporary and uncompromising style of iCanvas."
+    ],
+    "price": "75.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/514xlENc6jL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71AFShK8fYL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71dHApsewAL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71VuL6ehVlL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41ECh+8POOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51txhjScF5L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61nPmukuaUL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51OX78rqw5L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41ECh+8POOL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51txhjScF5L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61nPmukuaUL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51OX78rqw5L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "EV01",
+            "EV02",
+            "EV03"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Mary Kay",
-    "categories": [],
-    "details": "{\"Brand\": \"Mary Kay\", \"Item Form\": \"Gel\", \"Skin Type\": \"Dry\", \"Material Feature\": \"Natural\", \"Recommended Uses For Product\": \"Cleansing\", \"Package Dimensions\": \"6.77 x 3.7 x 2.68 inches; 4.66 Ounces\"}",
-    "parent_asin": "B08Q7QWYJH",
+    "store": "iCanvasART",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Posters & Prints"
+    ],
+    "details": "{\"Product Dimensions\": \"0.75 x 12 x 18 inches\", \"Item Weight\": \"2 pounds\", \"Manufacturer\": \"iCanvasART\", \"Item model number\": \"OMU115-1PC3-18x12\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3859181, \"Posters & Prints\": 267569}, \"Assembly required\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B07FSBL563",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,26 +1,100 @@
 {
-    "main_category": "All Beauty",
-    "title": "Body Scrub, Himalayan Salt Body Scrub with Lychee Oil Exfoliating Salt Scrub to Exfoliate Moisturize Skin, Deep Cleansing Moisturizing Body Scrub Exfoliating Salt Scrub",
+    "main_category": "Amazon Home",
+    "title": "DuraCasa 50 Foot Christmas Garland for Christmas Decorations, Green Non-Lit Soft Holiday Decor for Outdoor or Indoor Use (1)",
     "average_rating": 4.1,
-    "rating_number": 13,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [
-            "Salt Exfoliating Body Scrub Deep Cleansing Hydrating Skin"
+    "rating_number": 1102,
+    "features": [
+        "★ STRUCK OUT ON GARLAND HUNTING THUS FAR?: Never fear - DuraCasa will bring the Christmas cheer! Our Christmas garland is perfect for anywhere in your home: along your banister, staircase, mantle, and wherever else you want to spruce up with a green colorful garland!",
+        "★ 50 FEET OF CHRISTMAS TINSEL GARLAND? YOU HEARD RIGHT: That’s right - for one low price, you get 50 feet of holiday garland that you can use for ALL of your projects: whether that be Christmas decorations, party decor, wreaths, wedding splendors, or any other occasion you desire!",
+        "★ SOFT, DURABLE, NONLIT ARTIFICIAL GARLAND: This hanging garland is soft to the touch and non-wired to make for easy hanging and wrapping around banisters, pillars, or even trees! Additionally, this pack of Christmas tinsel comes non-lit so you can add your own personalized touch - white or rainbow lights, tinsel, mini ornaments, glitter, or anything you want to make this holiday season yours!",
+        "★ SUITABLE FOR INDOOR AND OUTDOOR USE: Our tree garland can be used both indoors as a Christmas tree decoration (or anywhere else you want!) and also as an outdoor Christmas garland around trees, bushes, pillars, your porch, or anywhere else you yearn to decorate or start a project!",
+        "★ SATISFACTION GUARANTEED: As always, if you remain unsatisfied with this Christmas tree garland, please contact us for your money back! We would love to hear and understand your questions and concerns. Customer happiness is our number one priority!"
+    ],
+    "description": [
+        "Picture this: you and your family are relaxing in your living room in December. There’s a Christmas tree in the corner, sprightly and maybe a couple feet taller than you; a pet, if you have one, snoozing in the patch of sunlight cast through a window; the heat kicking in every few minutes to combat the seemingly permanent frost settling in for the winter. What could possibly be missing from this picture?",
+        "You suddenly sit up, setting your eggnog on the coffee table. You realize that you’ve forgotten Christmas garlands to add to the magical holiday flair wafting throughout your home. But where to start?",
+        "DuraCasa’s Christmas decor - particularly these winter garlands - are the perfect addition to your home if you are in search of an artificial garland! Whether you want an indoor Christmas garland or outdoor garland, something to wrap around your banister or chairs, or an addition outside to your bare trees or porch pillars, this tinsel garland can satisfy all of your big ideas! You can even add your own touch with lights, ornaments, glitter, and sparkly tinsel!",
+        "Don’t wait - try DuraCasa’s garlands for decor TODAY and sprinkle Christmas spirit this holiday season!"
+    ],
+    "price": "19.97",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81XbPtf8MVL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/719yxPNzT5L._AC_SL1321_.jpg",
+            "https://m.media-amazon.com/images/I/818JeIb0PvL._AC_SL1321_.jpg",
+            "https://m.media-amazon.com/images/I/71At3Ty7xFL._AC_SL1321_.jpg",
+            "https://m.media-amazon.com/images/I/91fKmPZgnHL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81jtW8o1PSL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71SOXxgpZDL._AC_SL1321_.jpg",
+            "https://m.media-amazon.com/images/I/61TiYOfkQsL._AC_SL1321_.jpg",
+            "https://m.media-amazon.com/images/I/81-kZUBQpOL._AC_SL1500_.jpg"
         ],
-        "url": [
-            "https://www.amazon.com/vdp/0a3b6963d6cb4f7e8ce92bc1d7aa6ecb?ref=dp_vse_rvc_0"
+        "large": [
+            "https://m.media-amazon.com/images/I/51caJnS-EFL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51GAsiYIhWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51BrivKUPOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51j4cyR13uL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51dPrFv6rVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51twyyyUb-L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51ku2TSehbL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51dxPZGlhyL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/613NDGaM03L._AC_.jpg"
         ],
-        "user_id": [
-            ""
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51caJnS-EFL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51GAsiYIhWL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51BrivKUPOL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51j4cyR13uL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51dPrFv6rVL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51twyyyUb-L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51ku2TSehbL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51dxPZGlhyL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/613NDGaM03L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08"
         ]
     },
-    "store": "Dreamore",
-    "categories": [],
-    "details": "{\"Brand\": \"Dreamore\", \"Skin Type\": \"Dry\", \"Product Benefits\": \"Exfoliating\", \"Material Feature\": \"Natural\", \"Scent\": \"Himalayan Salt\", \"Package Dimensions\": \"2.95 x 2.91 x 2.83 inches; 10.55 Ounces\", \"UPC\": \"679290971859\"}",
-    "parent_asin": "B09CYT7W58",
+    "videos": {
+        "title": [
+            "CCINEE Green Tinsel Garland for Christmas Decoration",
+            "Garland that we have used for the past 3 years is so merry!",
+            "Soft Christmas Garland",
+            "CCINEE Assorted Tinsel Garlands for Christmas Decoration",
+            "Vintage Christmas garland - Review"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/48c4e85660ad4902aa3d655ac0b2aa6a?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/029b43d8656846b4a83bb45219282752?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/085f4570357141ca801d08e0ce62df44?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/428734f0aaf34461bedf64d47b145d87?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/04cf09905c6b4e158df187b17b8dcc41?ref=dp_vse_rvc_4"
+        ],
+        "user_id": [
+            "",
+            "/shop/influencer-7c39c0d0",
+            "",
+            "",
+            "/shop/anadventurewithnickrachel"
+        ]
+    },
+    "store": "DuraCasa",
+    "categories": [
+        "Home & Kitchen",
+        "Seasonal Décor",
+        "Wreaths, Garlands & Swags",
+        "Garlands"
+    ],
+    "details": "{\"Package Dimensions\": \"11.22 x 11.02 x 2.36 inches\", \"Item Weight\": \"11.3 ounces\", \"Manufacturer\": \"DuraCasa\", \"Best Sellers Rank\": {\"Home & Kitchen\": 539133, \"Christmas Garlands\": 378}, \"Date First Available\": \"February 24, 2020\", \"Brand\": \"DuraCasa\", \"Color\": \"Green\", \"Material\": \"Tinsel\", \"Shape\": \"Runner\", \"Item Length\": \"50 Feet\"}",
+    "parent_asin": "B0852Z893R",
     "bought_together": null,
     "subtitle": null,
     "author": null

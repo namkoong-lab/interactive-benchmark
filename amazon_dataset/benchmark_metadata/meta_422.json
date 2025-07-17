@@ -1,20 +1,48 @@
 {
-    "main_category": "All Beauty",
-    "title": "VGTE Mascara Voluminous Original Volume Building Mascara No Clump Long-Lasting and Smudge-Proof Lash Mascara 0.40 fl.oz,Pack of 2",
-    "average_rating": 2.7,
-    "rating_number": 25,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Amazon Home",
+    "title": "TOMATO ROT STOP",
+    "average_rating": 4.2,
+    "rating_number": 18,
+    "features": [
+        "Sold on Amazon"
+    ],
+    "description": [
+        "Corrects the calcium deficiency that leads to blossom end rot in tomatoes, cucumbers, melons, and peppers. Spray foliage thoroughly during periods of rapid growth. (Complete instructions on the package.) Make your visions of lush, beautiful fruits a reali"
+    ],
+    "price": "32.06",
+    "images": {
+        "hi_res": [
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21k9gCUa+HL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21pPNmt0rML._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/21k9gCUa+HL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/21pPNmt0rML._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
     },
-    "store": "VGTE",
+    "videos": {
+        "title": [
+            "Stop Tomato Blossom End Rot"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0d5db327c0ac4d7090577be2b1c29941?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "/shop/influencer-dcb4065c"
+        ]
+    },
+    "store": "A.M. Leonard",
     "categories": [],
-    "details": "{\"Package Dimensions\": \"6 x 1.7 x 0.76 inches; 2.4 Ounces\", \"UPC\": \"637195445950\"}",
-    "parent_asin": "B07P7FFHGY",
+    "details": "{\"Manufacturer\": \"A.M. Leonard\"}",
+    "parent_asin": "B003403KH8",
     "bought_together": null,
     "subtitle": null,
     "author": null

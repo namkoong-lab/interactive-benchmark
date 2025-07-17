@@ -1,24 +1,58 @@
 {
-    "main_category": "All Beauty",
-    "title": "Soap & Glory The Big Pink Collection Gift Set",
-    "average_rating": 5.0,
-    "rating_number": 5,
+    "main_category": "Amazon Home",
+    "title": "Simplicity 2 Pack Genuine 1705897SM Sealed Ball Bearing Replaces 1666292SM",
+    "average_rating": 4.8,
+    "rating_number": 8,
     "features": [
-        "Includes 6 items"
+        "· Sealed Ball Bearing (2) Pack",
+        "· Genuine Simplicity Part # 1705897SM",
+        "· Supercedes/Replaces Old Part #’s 1666292, 1666292SM & 1705897",
+        "· Fits Specific Simplicity Models",
+        "· Genuine OEM Simplicity Part"
     ],
     "description": [
-        "Includes 6 items"
+        "Brand New (2) Pack of Genuine Simplicity Sealed Ball Bearings…"
     ],
-    "price": "None",
+    "price": "17.65",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71ZgFFo3SCL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61sYzTT6nkL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71MHyp6P5WL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/511ccneztLL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/511ccneztLL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/311NCcQq6nL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/218ouBOJ0-L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/319g-HTF8lL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/313CDsEiLJL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/313CDsEiLJL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/311NCcQq6nL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/218ouBOJ0-L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/319g-HTF8lL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/313CDsEiLJL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/313CDsEiLJL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Generic",
+    "store": "Simplicity",
     "categories": [],
-    "details": "{\"Brand\": \"Generic\", \"Skin Type\": \"All\", \"Package Information\": \"Bottle\", \"Package Dimensions\": \"16.14 x 12.24 x 6.85 inches; 5.91 Pounds\"}",
-    "parent_asin": "B09NVN6WTC",
+    "details": "{\"Manufacturer\": \"Simplicity\", \"Batteries required\": \"No\", \"Brand\": \"Simplicity\", \"Bearing Number\": \"1705897SM\", \"Bearing Type\": \"Ball Bearing\", \"Compatible Lubricant\": \"Grease\"}",
+    "parent_asin": "B07KWF8TWQ",
     "bought_together": null,
     "subtitle": null,
     "author": null

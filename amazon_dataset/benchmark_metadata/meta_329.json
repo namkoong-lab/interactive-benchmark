@@ -1,22 +1,52 @@
 {
-    "main_category": "All Beauty",
-    "title": "Chance by Chanel",
-    "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [
-        "Launched by the design house of Chanel in 2002, CHANEL CHANCE by Chanel is classified as a flowery fragrance. This feminine scent posesses a blend of: a refined blend of jasmine and citrus. It is recommended for daytime wear."
+    "main_category": "Tools & Home Improvement",
+    "title": "Replacement Part For Fit All Central Vacuum Cleaner Black Hose Hanger Assembly # compare to part 06-1014-63",
+    "average_rating": 4.9,
+    "rating_number": 13,
+    "features": [
+        "compare to part number 06-1014-63",
+        "Fits In Models # Fit Various Fit All Models",
+        "Made from quality material to keep you vacuum safe and in working condition all the time.",
+        "100% satisfaction guarantee with your purchase. We offer a 30-day money back guarantee. Buyer is responsible for return shipping."
     ],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "description": [
+        "Fits In Models # Fit Various Fit All Models"
+    ],
+    "price": "12.51",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31+MMs83a6L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31+MMs83a6L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": "CHANEL",
-    "categories": [],
-    "details": "{\"Brand\": \"CHANEL\", \"Age Range (Description)\": \"Adult\", \"Item Weight\": \"0.57 Ounces\", \"UPC\": \"885892520498\", \"Manufacturer\": \"Chanel\"}",
-    "parent_asin": "B003YKWXM6",
+    "videos": {
+        "title": [
+            "How to Choose the Right Electric Hose for your Central Vac"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/04d405630dc74a53b1841871294adc7a?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "TVP",
+    "categories": [
+        "Home & Kitchen",
+        "Vacuums & Floor Care",
+        "Vacuum Parts & Accessories",
+        "Hoses"
+    ],
+    "details": "{\"Manufacturer\": \"Top Vacuum Parts\", \"Part Number\": \"TVP06-1014-63\", \"Item Weight\": \"7 Ounces\", \"Product Dimensions\": \"6 x 6 x 6 inches\", \"Item model number\": \"Fit Various Fit All Models\", \"Color\": \"Black\", \"Item Package Quantity\": \"1\", \"Best Sellers Rank\": {\"Home & Kitchen\": 849156, \"Vacuum Hoses\": 402}, \"Date First Available\": \"March 4, 2020\", \"Brand\": \"TVP\", \"Item Dimensions LxWxH\": \"6 x 6 x 6 inches\"}",
+    "parent_asin": "B085H7XT1L",
     "bought_together": null,
     "subtitle": null,
     "author": null

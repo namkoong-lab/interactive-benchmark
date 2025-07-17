@@ -1,22 +1,46 @@
 {
-    "main_category": "All Beauty",
-    "title": "Magic Collection 3 in 1 Edge Brush (3 Pack)",
-    "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [
-        "A 3 in 1 Edge Brush (3 Pack). Perfect for any edge control gel application, Two types of end for versatile use. Enough to help smooth the edges, clean the hair, fits for baby hairs, temples and hairs. It can refine the appearance of your hair, arrange the messy edges and make hairs smooth. Smooth yet firm when brushing, the bristles don't tug or scratch your skin. Use it to help sculpt short, unruly baby hairs and tame flyaways near your hairline for a neat and polished look."
+    "main_category": "Amazon Home",
+    "title": "NewBrightBase Song of The Sea Fabric Cloth Rolled Wall Poster Print - Size: (36\" x 24\" / 20\" x 13\")",
+    "average_rating": 4.5,
+    "rating_number": 7,
+    "features": [
+        "Accurate Size: 50cm x 33cm, Approx Size: 20\" x 13\"",
+        "Poster printed on High quality FABRIC CLOTH",
+        "Nicer than Paper Poster, can preserve in a long period",
+        "Rolled and Shipped in Steady Tube",
+        "Easy to frame, Great wall decor"
     ],
-    "price": "None",
+    "description": [
+        "Poster printed on High quality FABRIC CLOTH. Nicer than Paper Poster, can preserve in a long period. Rolled and Shipped in Steady Tube. Easy to frame, Great wall decor!"
+    ],
+    "price": "12.9",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/713SA3++IAL._AC_SL1039_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51wDMid0zlL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51wDMid0zlL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Magic Collection",
-    "categories": [],
-    "details": "{\"Brand\": \"Magic Collection\", \"Unit Count\": \"3.00 Count\", \"Material\": \"Boar\", \"Package Dimensions\": \"10.08 x 2.64 x 1.69 inches; 2.43 Ounces\", \"UPC\": \"636227888888\"}",
-    "parent_asin": "B092396HPQ",
+    "store": "NewBrightBase",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Posters & Prints"
+    ],
+    "details": "{\"Size\": \"20\\\"x13\\\"(50cmx33cm)\", \"Product Dimensions\": \"36\\\"L x 24\\\"W\", \"Item Weight\": \"0.13 Pounds\", \"Number of Items\": \"1\", \"Orientation\": \"Landscape\", \"Shape\": \"Rectangular\", \"Theme\": \"Religious\", \"Frame Type\": \"Unframed\", \"Wall Art Form\": \"Poster\", \"Material\": \"Paper\", \"Style\": \"Tube\", \"Brand\": \"NewBrightBase\", \"Frame Material\": \"Cloth\", \"Mounting Type\": \"Wall Mount\", \"Is framed?\": \"No\", \"Manufacturer\": \"NewBrightBase\", \"Date First Available\": \"April 1, 2015\"}",
+    "parent_asin": "B00ZKZAMY4",
     "bought_together": null,
     "subtitle": null,
     "author": null

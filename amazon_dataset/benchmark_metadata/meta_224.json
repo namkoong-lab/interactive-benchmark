@@ -1,20 +1,87 @@
 {
-    "main_category": "All Beauty",
-    "title": "Womens 100% Merino Wool Ponytail Headband 320g Ear Warmer for Winter Snowing Running",
-    "average_rating": 2.8,
-    "rating_number": 5,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Industrial & Scientific",
+    "title": "American Metalcraft HATP14-14” Heavy-Weight Wide Rim Pizza Pan",
+    "average_rating": 4.5,
+    "rating_number": 14,
+    "features": [
+        "For maximum life, clean your aluminium pizza pans with a mild detergent or a detergent made specifically for aluminium products. Over time, strong detergents can cause corrosion and thinning of the metal",
+        "Item shape: Round",
+        "Package Dimensions: 35.56 H x 2.54 L x 35.56 W (centimetres)",
+        "Package Weight: 0.499 kilograms"
+    ],
+    "description": [
+        "Pizza Pan, wide rim, 14\" OD, 12\" ID, solid, 14 gauge aluminum, non-returnable made to order item, Made in USA (hand wash only)"
+    ],
+    "price": "12.09",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51hvf-5-IGL._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/41qVZv7Ua9L._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/41qVZv7Ua9L._SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/410QuYSTtNL.jpg",
+            "https://m.media-amazon.com/images/I/31CHLQ7p4ZL.jpg",
+            "https://m.media-amazon.com/images/I/31CHLQ7p4ZL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/410QuYSTtNL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31CHLQ7p4ZL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31CHLQ7p4ZL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
     },
-    "store": "Eizniz",
-    "categories": [],
-    "details": "{\"Material\": \"Wool\", \"Fabric Type\": \"Merino,Merino Wool\", \"Brand\": \"Eizniz\", \"Item Form\": \"Wrap\", \"Unit Count\": \"1.7637 Ounce\", \"Package Dimensions\": \"12.99 x 9.37 x 0.59 inches; 1.41 Ounces\"}",
-    "parent_asin": "B08FYZ9VJY",
+    "videos": {
+        "title": [
+            "Lets cook a Pizza and test this out? (How did it turn out?)",
+            "14 inch pizza pan",
+            "Amazing Pizza Pan",
+            "Best Circular Metal Serving Tray? | Wide-Rim Pan",
+            "Red Wine Poached Pear Cheesecake",
+            "Top-Notch Pizza Tools",
+            "16 inch Pizza Pans - Why I Bought Them...",
+            "Pizza Pan Unboxing and Review",
+            "USA Pan Bakeware Aluminized Steel Pizza Pan, 14 Inch",
+            "Slice & Dice: Cuisinart's Crispy Perfection!"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0b699dbc744f40d5bda5152f6f47ff57?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0f29f4572d0048c3b97905189f7e1849?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0c40a24186b84d36b2e005aa20f8b340?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0d06d6dd8f534dfd8392eedfbcb06c90?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0354ecf818f34b10a681e47fafe347ba?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/0a186b8e82284511941c47c969f491fe?ref=dp_vse_rvc_5",
+            "https://www.amazon.com/vdp/05313e5540514bc1a9cd59f933f4108f?ref=dp_vse_rvc_6",
+            "https://www.amazon.com/vdp/07e10935948a484ea3584f614bfbda08?ref=dp_vse_rvc_7",
+            "https://www.amazon.com/vdp/03cb4261eeb94f58b05accd75ea16651?ref=dp_vse_rvc_8",
+            "https://www.amazon.com/vdp/0df9e35faf474a15869f67dcd2d50789?ref=dp_vse_rvc_9"
+        ],
+        "user_id": [
+            "/shop/2ppd",
+            "/shop/stephanieskitchen",
+            "/shop/livestreamlabs",
+            "/shop/dadreviews",
+            "/shop/influencer-f419fd51",
+            "",
+            "/shop/dombavaro",
+            "/shop/queendommindset",
+            "",
+            "/shop/thetravelninjaz"
+        ]
+    },
+    "store": "American METALCRAFT, Inc.",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Bakeware",
+        "Pizza Pans & Stones"
+    ],
+    "details": "{\"Product Dimensions\": \"14 x 12 x 0.25 inches; 1 Pounds\", \"Item model number\": \"HATP14\", \"Date First Available\": \"February 4, 2011\", \"Manufacturer\": \"American Metalcraft\", \"Domestic Shipping\": \"Item can be shipped within U.S.\", \"International Shipping\": \"This item can be shipped to select countries outside of the U.S.  Learn More\"}",
+    "parent_asin": "B00BUTQ0X6",
     "bought_together": null,
     "subtitle": null,
     "author": null

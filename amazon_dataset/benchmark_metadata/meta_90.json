@@ -1,20 +1,67 @@
 {
-    "main_category": "All Beauty",
-    "title": "Sydney Girls Stretch Headband (Brown)",
-    "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Tools & Home Improvement",
+    "title": "Squire Boone's Wooden Wick Fireside Scented Soy Candle (11.5, Apple Cider)",
+    "average_rating": 3.7,
+    "rating_number": 7,
+    "features": [
+        "Wood Wicks recreate the comforting sound of a cozy wood fire.",
+        "100% soy bean wax means support for our American Farmers!",
+        "100% soy bean wax means no toxic chemicals released when burning!",
+        "100% soy bean wax means decreasing dependence of foreign oil, over 160 million barrels of crude oil are used annually to supply the demand for candle wax in the U.S. alone!",
+        "100% soy bean wax means up to a 50% increase in burn time over wax refined from crude oil."
+    ],
+    "description": [
+        "Over the last three decades our team of candle artisans has worked to create high quality candles for people to enjoy in their own homes. We now are very excited to present our newest line of candles made with 100% soybean wax. It has taken two full years to develop the formulations that enable us to pour container jars using 100% soybean wax combined with aromatic oils so the wax and fragrance do not separate. We do not use a soybean wax \"blend\" as most other \"soy candle\" manufacturers do. If a candle doesn't say \"made with 100% soybean wax,\" chances are the candle is made with a blend of 25% soybean wax and 75% petroleum wax. Squire Boone Village started making candles in 1979 to show visitors how the early pioneer settlers of our country made their own candles. Squire Boone Caverns and Village is a real place located in Southern Indiana and is a real place celebrating the life of Squire Boone, younger brother of Daniel. Visitors can step back in time to the late 1700s and see Squire's Grist Mill grind corn, watch soap being made from rendered hog fat, and marvel at how hard it was for the early pioneers to make their own candles. Visitors can also step back in time another million years at the Village and go underground through the caverns that once saved Squire Boone's life from a small tribe of Indians that were in his pursuit."
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/716+-ENIqGL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71rNUZCbCmL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61v7ROY6BqL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71d4Lgnf0HL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71P0D7AcUJL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81mMZpH4gyL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41APmr1+K9L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/413qqNP8JLL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41otaKQj1OL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41lqgHkJg5L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Ml66O4DdL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/416sh08W5TL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41APmr1+K9L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/413qqNP8JLL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41otaKQj1OL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41lqgHkJg5L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41Ml66O4DdL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/416sh08W5TL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Funny Girl Designs",
-    "categories": [],
-    "details": "{\"Material\": \"Silk flower, Cotton\", \"Brand\": \"Funny Girl Designs\", \"Unit Count\": \"1.00 Count\", \"Department\": \"Girls\"}",
-    "parent_asin": "B002CJI2BG",
+    "store": "Squire Boone Village",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Candles & Holders",
+        "Candles"
+    ],
+    "details": "{\"Brand\": \"Squire Boone Village\", \"Color\": \"Apple Cider\", \"Operating Time\": \"4 Hours\", \"Material\": \"Glass\", \"Scent\": \"Apple Cider\", \"Specific Uses For Product\": \"Scented\", \"Special Feature\": \"Scented\", \"Package Information\": \"Can\", \"Are Batteries Included\": \"No\", \"Material Type Free\": \"No Toxic\", \"Size\": \"11.5\", \"Unit Count\": \"1.0 Count\", \"Manufacturer\": \"Squire Boone Village\", \"Item Weight\": \"2.59 pounds\", \"Package Dimensions\": \"8.4 x 6.7 x 6.7 inches; 2.6 Pounds\", \"Is Discontinued By Manufacturer\": \"No\", \"Special Features\": \"Scented\", \"Batteries Included?\": \"No\", \"Batteries Required?\": \"No\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1233481, \"Candles\": 14621}, \"Date First Available\": \"October 6, 2016\"}",
+    "parent_asin": "B01LWSXF5D",
     "bought_together": null,
     "subtitle": null,
     "author": null

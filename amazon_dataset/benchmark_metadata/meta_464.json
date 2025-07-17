@@ -1,20 +1,58 @@
 {
-    "main_category": "All Beauty",
-    "title": "No-Ad Spf#04 Dark Tan Lotion 16oz (6 Pack) by No-Ad Suntan",
-    "average_rating": 5.0,
-    "rating_number": 2,
-    "features": [],
-    "description": [],
-    "price": "None",
-    "videos": {
-        "title": [],
-        "url": [],
-        "user_id": []
+    "main_category": "Tools & Home Improvement",
+    "title": "Thermos Cafe Compact Bottle 17oz",
+    "average_rating": 3.6,
+    "rating_number": 73,
+    "features": [
+        "17 oz, Thermos Cafe stainless steel compact bottle, double wall vacuum insulation, retains hot or cold temperatures, unbreakable stainless steel interior & exterior",
+        "Adds Extra shine to your product",
+        "Manufactured in China"
+    ],
+    "description": [
+        "THERMOS CAFE COMPACT BOTTLE 17OZ Double wall vacuum insulation retains hot or cold temperatures Unbreakable stainless steel interior and exterior Cool to the touch with hot liquids Fits most automotive cup holders Insulated stainless steel cup Cap Ozs.=17 Twist and pour stopper lets you pour without removing the stopper"
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/41R6p5RMTpL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/315gmBEkqSL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/315gmBEkqSL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
     },
-    "store": null,
-    "categories": [],
-    "details": "{\"Item Weight\": \"16 Ounces\", \"Unit Count\": \"96.0 Fl Oz\", \"Item Volume\": \"16 Fluid Ounces\", \"Water Resistance Level\": \"Water Resistant\", \"Package Dimensions\": \"8.5 x 7.8 x 5 inches; 1 Pounds\", \"UPC\": \"787734172486\"}",
-    "parent_asin": "B00OQIGH2M",
+    "videos": {
+        "title": [
+            "Our Point of View on THERMOS Insulated Beverage Bottles",
+            "This Thermos Insulated Bottle Is Good For Hot & Cold Drinks",
+            "Watch before you buy, great for park, work or school ",
+            "THERMOS Stainless Insulated  Bottle REVIEW"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0dab3669a97e46c8949c4589a76f3f98?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/01a12fb0d5f0432cbae276848ef53c95?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0bb819e0f3514072b6cf09da7d6fb8a3?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/06dc1d07d7c54099afb02d4393fe664e?ref=dp_vse_rvc_3"
+        ],
+        "user_id": [
+            "/shop/influencer-20a38664",
+            "/shop/eddieharvey",
+            "/shop/nadinesdealsanddiscountcodes",
+            "/shop/drasticg"
+        ]
+    },
+    "store": "THERMOS",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining"
+    ],
+    "details": "{\"Brand\": \"THERMOS\", \"Capacity\": \"1.1 Pounds\", \"Color\": \"Black\", \"Item Weight\": \"0.83 Pounds\", \"Material\": \"Stainless Steel\", \"Number of Items\": \"1\", \"Product Care Instructions\": \"Hand Wash Only\", \"Cap Type\": \"Screw Cap\", \"Manufacturer\": \"Thermos Llc\", \"Part Number\": \"DF2150TRI6\", \"Product Dimensions\": \"3 x 3 x 10 inches\", \"Item model number\": \"DF2150\", \"Is Discontinued By Manufacturer\": \"No\", \"Size\": \"0.9\", \"Item Package Quantity\": \"1\", \"Batteries Included?\": \"No\", \"Batteries Required?\": \"No\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2436785}, \"Date First Available\": \"December 7, 2003\"}",
+    "parent_asin": "B000Q9YU7Y",
     "bought_together": null,
     "subtitle": null,
     "author": null

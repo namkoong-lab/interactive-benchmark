@@ -1,20 +1,67 @@
 {
-    "main_category": "All Beauty",
-    "title": "Back Scrubber for Shower,Lengthen Silicone Body Scrubber for Men & Women,Dual Side Silicone Bath Body Brush for Cleansing,Exfoliating and Back Acne-Gray…",
-    "average_rating": 3.8,
-    "rating_number": 4,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Handmade",
+    "title": "Rosemary Sage Candle | Scented Candle for Home | Highly Scented & Long Lasting Coconut Wax Luxury Candle | Medium",
+    "average_rating": 4.2,
+    "rating_number": 13,
+    "features": [
+        "HIGHLY SCENTED: Customers rave about how well the scent fills their home with a delightful aroma that’s not overpowering.",
+        "LONG LASTING: The medium size burns for 25+ hours. The large size burns for 35+ hours. The dreamy scent lingers long after the candle is blown out.",
+        "PREMIUM FRAGRANCE BLEND: Top notes of pine & eucalyptus. Middle notes of rosemary & green floral. Base notes of sage & cedar.",
+        "CLEAN SCENTS: The safest, highest quality & most thoroughly tested fragrances in the industry. These scents exclude potentially hazardous chemicals that are present in other candle fragrances, producing safer candles you can enjoy with confidence.",
+        "ECO-FRIENDLY COCONUT WAX BLEND: Made primarily of coconut wax, a sustainable resource. Burns slowly, cleanly & evenly, with a bright white finish."
+    ],
+    "description": [
+        "Liven up your home with this earthy yet bright fragrance full of fresh botanical aromas. Infused with natural essential oils, including fir needle, eucalyptus, orange & cedar leaf. The matte white glass with natural wood lid provides an elegant look that matches any decor. Available in medium (6-oz. jar, 4.5 oz. net wt.) and large (10-oz. jar, 6.8 oz. net wt)."
+    ],
+    "price": "16.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71zmBHxNQCL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/713CgUgXyML._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91UZCVyfUoL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61ggfYfh0pL._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61m74tVsFIL._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61A3VwDdGZL._SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41tvUNMOpAL.jpg",
+            "https://m.media-amazon.com/images/I/51OlxkIcmwL.jpg",
+            "https://m.media-amazon.com/images/I/51xUUz0H2HL.jpg",
+            "https://m.media-amazon.com/images/I/51U9XYNlPzL.jpg",
+            "https://m.media-amazon.com/images/I/51w5eWxGoZL.jpg",
+            "https://m.media-amazon.com/images/I/51y5kfFwIwL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41tvUNMOpAL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51OlxkIcmwL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51xUUz0H2HL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51U9XYNlPzL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51w5eWxGoZL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51y5kfFwIwL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Aleath",
-    "categories": [],
-    "details": "{\"Product Dimensions\": \"31 x 4 x 0.4 inches; 5.61 Ounces\", \"UPC\": \"738627368547\"}",
-    "parent_asin": "B08FZZ1TWD",
+    "store": "At Home with Jamie",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Candles & Holders",
+        "Candles"
+    ],
+    "details": "{\"Date First Available\": \"February 6, 2021\"}",
+    "parent_asin": "B09Q5QSZH5",
     "bought_together": null,
     "subtitle": null,
     "author": null

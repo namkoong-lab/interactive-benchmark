@@ -1,20 +1,62 @@
 {
-    "main_category": "All Beauty",
-    "title": "NYX Butter Lipstick LITTLE SUSIE",
+    "main_category": "Amazon Home",
+    "title": "Colorful Hand Etched Horse Hair Decorative Navajo Wedding Vase",
     "average_rating": 5.0,
-    "rating_number": 1,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "rating_number": 2,
+    "features": [
+        "Genuine Native American Made in the USA",
+        "Made by Sylvia Johnson of the Navajo Tribe in New Mexico",
+        "Approximately 8 1/2 inches tall and 6 inches at its widest point",
+        "Painted and Etched by hand",
+        "Signed by the Artist"
+    ],
+    "description": [
+        "The wedding vase is a symbol of unity between a bride and groom. The first step to creating this piece is to cover the bowl in horse hair. As it is being fired, the hair melts into the pot to create each unique pattern. Then the piece is hand painted and etched. A beautiful accent to your home or a thoughtful gift. This purchase allows Native Americans to continue to be employed in their trade. Due to the nature of handmade items, colors and designs may vary slightly. A card explaining the story of the Wedding Vase is included with purchase."
+    ],
+    "price": "125.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81aMbU9mXIL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81V6pdh43eL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/812MqNEw-GL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81BBPfB2tqL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81nT4XZ+LvL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41X+JeIkw7L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/4171fFTuHnL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41g43tOtv3L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41iCcEEwpwL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41yOAMBNq5L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41X+JeIkw7L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/4171fFTuHnL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41g43tOtv3L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41iCcEEwpwL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41yOAMBNq5L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Mad Max",
-    "categories": [],
-    "details": "{\"Manufacturer\": \"Mad Max\"}",
-    "parent_asin": "B00UXT3GIG",
+    "store": "Kachina Country USA",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Vases"
+    ],
+    "details": "{\"Package Dimensions\": \"12 x 12 x 12 inches\", \"Item Weight\": \"3 pounds\", \"Manufacturer\": \"Navajo\", \"Best Sellers Rank\": {\"Home & Kitchen\": 4591134, \"Vases\": 18310}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"October 26, 2020\", \"Color\": \"Earthtones\", \"Brand\": \"Kachina Country USA\", \"Number of Pieces\": \"1\", \"Occasion\": \"Women, Wedding, Graduation, Mother s Day\", \"Installation Type\": \"Decorative\"}",
+    "parent_asin": "B08LYL149P",
     "bought_together": null,
     "subtitle": null,
     "author": null

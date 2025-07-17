@@ -1,20 +1,68 @@
 {
-    "main_category": "All Beauty",
-    "title": "fani Dreadlock Curly Synthetic Wig Short Braided Twist Wig with Adjustable Elastic Band for African American Women (6 Inch, Black)",
-    "average_rating": 3.1,
-    "rating_number": 17,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Winter View of Frozen Stream Painting Dishwasher Door Cover Home Kitchen Decorative Panel Decal 23\" W x 26\" H",
+    "average_rating": 4.8,
+    "rating_number": 8,
+    "features": [
+        "Material - This frozen stream painting magnetic panel decal is made of PET vinyl film applied to industrial grade.Water and heat resistant as well as easy to clean and maintain",
+        "23 W x 26 H inches magnetic sticker.Easily trimmable to fit your dishwashers",
+        "This magnetic dishwasher covers hide scratches, dents or other unsightly marks on your dishwasher.",
+        "Hassle free to install and remove; simply stick/remove",
+        "It's a great gift to your mother girlfriends sisters chef on Birthday Christmas Holiday"
+    ],
+    "description": [
+        "This beautiful magnet affixes instantly to the front of your metal dishwasher giving it a custom decorator look. Wipes clean with a dry cloth. Not for use on stainless steel. Paper and magnet.",
+        "Heat resistant",
+        "Heat resistant",
+        "Waterproof",
+        "Waterproof",
+        "With a smooth surface that is environmentally safe",
+        "Size",
+        "23\"W x 17\"H;58.5cm W x 43cm H.",
+        "23\"W x 26\"H;58.5cm W x 66cm H."
+    ],
+    "price": "34.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/711uDPI3tjS._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61bCZvonQSS._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61bVPamFV-S._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/612w8jVnc8S._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51D4EbrSzqS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/514PuQmK7fS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51r7lVB45ES._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51MxH4wyM4S._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51D4EbrSzqS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/514PuQmK7fS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51r7lVB45ES._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51MxH4wyM4S._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "fani",
-    "categories": [],
-    "details": "{\"Hair Type\": \"Curly\", \"Brand\": \"Fani\", \"Age Range (Description)\": \"Adult\", \"Style\": \"African\", \"Package Dimensions\": \"12.8 x 8.5 x 3.9 inches; 11.99 Ounces\"}",
-    "parent_asin": "B086SK8KF1",
+    "store": "Tup",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen Utensils & Gadgets",
+        "Kitchen Accessories",
+        "Refrigerator Magnets"
+    ],
+    "details": "{\"Brand\": \"Tup\", \"Color\": \"Multicolor\", \"Surface Recommendation\": \"Door\", \"Room Type\": \"Kitchen\", \"Material\": \"Magnet\", \"Theme\": \"Christmas\", \"Special Feature\": \"Waterproof\", \"Number of Pieces\": \"1\", \"Age Range (Description)\": \"Adult\", \"Installation Type\": \"Stick\", \"Reusability\": \"Single Use\", \"Pattern\": \"Cartoon\", \"Shape\": \"Rectangular\", \"Unit Count\": \"1 Count\", \"Finish Type\": \"Polished\", \"Package Dimensions\": \"23.58 x 1.69 x 1.65 inches\", \"Item Weight\": \"1.4 pounds\", \"Manufacturer\": \"Sbend\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 752449, \"Refrigerator Magnets\": 21437}, \"Date First Available\": \"April 22, 2021\"}",
+    "parent_asin": "B093765D7B",
     "bought_together": null,
     "subtitle": null,
     "author": null

@@ -1,20 +1,67 @@
 {
-    "main_category": "All Beauty",
-    "title": "Morovan Acrylic Nail Kit with Drill - Glitter Acrylic Powder Nail Flowers Monomer Nail Kit Set Professional Acrylic with Everything Professional For Beginners Acrylic Nails Set",
-    "average_rating": 3.9,
-    "rating_number": 10,
-    "features": [],
-    "description": [],
-    "price": "None",
+    "main_category": "Amazon Home",
+    "title": "Talos Artifacts Leonidas Helmet King Spartan Hero Alabaster Small Sculpture with Bronze Effect",
+    "average_rating": 4.5,
+    "rating_number": 185,
+    "features": [
+        "Leonidas \"son of the lion\" (died 11 August 480 BC), was a warrior king of the Greek city-state of Sparta. He was the husband of Gorgo, the daughter of Anaxandridas II of Sparta and the 17th of the Agiad line; a dynasty which claimed descent from the mythological demigod Heracles. Leonidas led the allied Greek forces to the last stand at the Battle of Thermopylae.",
+        "Material: Alabaster with bronze effect",
+        "Height: 25cm - 9.8 inches - Width: 16cm - 6.3 inches - Weight: 1kg",
+        "Handmade in Greece"
+    ],
+    "description": [
+        "Leonidas \"son of the lion\" (died 11 August 480 BC), was a warrior king of the Greek city-state of Sparta. He was the husband of Gorgo, the daughter of Anaxandridas II of Sparta and the 17th of the Agiad line; a dynasty which claimed descent from the mythological demigod Heracles. Leonidas led the allied Greek forces to the last stand at the Battle of Thermopylae. (k6 61) Details: Condition: New, reproduction handmade in Greece. Approximately Height: 25cm - 9.8 inches Width: 16cm - 6.3 inches Weight: 1kg Material: Alabaster Bronze effect"
+    ],
+    "price": "69.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71gU+atf45L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81LGYsAzkCL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71jWv8M2pkL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71KNG+a0ymL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81ZIjoKc--L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71I1keQ-KRL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41iCX5QPwYL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41gPUcpqf+L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31BFV0BTY1L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41OJrLfBFHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/417JUJAjfoL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/4182rLdJUfL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41iCX5QPwYL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41gPUcpqf+L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31BFV0BTY1L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41OJrLfBFHL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/417JUJAjfoL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/4182rLdJUfL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
     "videos": {
         "title": [],
         "url": [],
         "user_id": []
     },
-    "store": "Morovan",
-    "categories": [],
-    "details": "{\"Material\": \"Acrylic\", \"Brand\": \"Morovan\", \"Included Components\": \"Glitter\", \"Package Dimensions\": \"8.19 x 6.02 x 3.86 inches; 1.9 Pounds\"}",
-    "parent_asin": "B09V4VC7BN",
+    "store": "Talos Artifacts",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Sculptures",
+        "Busts"
+    ],
+    "details": "{\"Color\": \"Gold\", \"Brand\": \"Talos Artifacts\", \"Theme\": \"Fairy\", \"Material\": \"Alabaster\", \"Mounting Type\": \"Tabletop\", \"Seasons\": \"All Seasons\", \"Item Weight\": \"2.2 pounds\", \"Collection Name\": \"All\", \"Manufacturer\": \"Talos Artifacts\", \"Country of Origin\": \"Greece\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1827797, \"Bust Sculptures\": 85}, \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B07NCDBYZD",
     "bought_together": null,
     "subtitle": null,
     "author": null
