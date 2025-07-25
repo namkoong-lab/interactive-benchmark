@@ -3,9 +3,7 @@ import json
 from glob import glob
 from huggingface_hub import HfApi
 
-# Set your repo ID
 repo_id = "gilberty005/amazon_20k"
-# Always resolve the folder path relative to this script's location
 base_dir = os.path.dirname(__file__)
 folder_path = os.path.join(base_dir, "benchmark_metadata")
 jsonl_path = os.path.join(base_dir, "benchmark_metadata.jsonl")

@@ -3,9 +3,7 @@ import json
 import subprocess
 from huggingface_hub import HfApi
 
-# Directory containing the categorized products
 DATASET_DIR = os.path.join(os.path.dirname(__file__), "categorized_products")
-# The Hugging Face dataset repo name
 HF_REPO = "gilberty005/categorized_6k"
 COMBINED_FILE = os.path.join(DATASET_DIR, "all_products_combined.jsonl")
 CATEGORIES_FILE = os.path.join(DATASET_DIR, "product_categories.json")
