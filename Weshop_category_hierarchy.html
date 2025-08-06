@@ -1,0 +1,1313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webshop product_categpry Hierarchy</title>
+    <style>
+        h1 {
+            text-align: center;
+        }
+        body {
+            font-family: sans-serif;
+            padding: 20px; 
+        }
+        #controls {
+            text-align: center; 
+        }
+
+        #controls button {
+            padding: 5px 10px;
+            margin: 0 5px; 
+            cursor: pointer;
+        }
+
+        #outputContainer {
+            width: 80%; 
+            border: 1px solid #ccc;
+            padding: 15px;
+            text-align: left;
+            min-height: 50px;
+            margin: 0 auto; 
+        }
+
+        #outputContainer ul {
+            list-style-type: none;
+            padding-left: 20px;
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+
+        #outputContainer li {
+            margin-bottom: 3px;
+        }
+
+        #outputContainer li > span {
+            display: inline-block;
+            padding: 2px 5px;
+            cursor: default;
+            border-radius: 3px;
+        }
+
+        #outputContainer li.has-children > span {
+            cursor: pointer;
+        }
+
+        .level-1 > span { background-color: #e0f7fa; color: #00796b; font-weight: bold; }
+        .level-2 > span { background-color: #e8f5e9; color: #388e3c; }
+        .level-3 > span { background-color: #fff3e0; color: #f57c00; }
+        .level-4 > span { background-color: #fce4ec; color: #d81b60; }
+        .level-5 > span { background-color: #ede7f6; color: #5e35b1; }
+        .level-6 > span { background-color: #e1f5fe; color: #0277bd; }
+        .level-7 > span { background-color: #f1f8e9; color: #558b2f; }
+
+        #outputContainer li.has-children > span::before {
+            content: '- ';
+            display: inline-block;
+            width: 1em;
+            font-weight: bold;
+        }
+
+        #outputContainer li.has-children.collapsed > span::before {
+            content: '+ ';
+        }
+
+        #outputContainer li.has-children.collapsed > ul {
+            display: none;
+        }
+
+        #outputContainer li.has-children > span:hover {
+            filter: brightness(95%);
+        }
+        #legend {
+            border: 1px solid #eee;
+            padding: 10px 15px; 
+            background-color: #f9f9f9;
+            text-align: center; 
+        }
+        #legend h2 {
+            margin-top: 0;
+            margin-bottom: 10px;
+            text-align: left; 
+        }
+
+        .legend-item {
+            display: inline-block; 
+            margin: 5px 10px; 
+            font-size: 0.8em; 
+            vertical-align: middle; 
+        }
+
+        .legend-color-sample {
+            display: inline-block;
+            width: 18px;  
+            height: 18px; 
+            margin-right: 5px;
+            border: 1px solid #ccc;
+            vertical-align: middle; 
+        }
+
+        .legend-color-1 { background-color: #e0f7fa; }
+        .legend-color-2 { background-color: #e8f5e9; }
+        .legend-color-3 { background-color: #fff3e0; }
+        .legend-color-4 { background-color: #fce4ec; }
+        .legend-color-5 { background-color: #ede7f6; }
+        .legend-color-6 { background-color: #e1f5fe; }
+        .legend-color-7 { background-color: #f1f8e9; }
+
+    </style>
+</head>
+<body>
+
+    <h1>Webshop product_category Hierarchy</h1> 
+        <div id="legend">
+        <!-- <h2>Legend</h2> -->
+        <span class="legend-item">
+            <span class="legend-color-sample legend-color-1"></span> Level 1
+        </span>
+        <span class="legend-item">
+            <span class="legend-color-sample legend-color-2"></span> Level 2
+        </span>
+        <span class="legend-item">
+            <span class="legend-color-sample legend-color-3"></span> Level 3
+        </span>
+        <span class="legend-item">
+            <span class="legend-color-sample legend-color-4"></span> Level 4
+        </span>
+        <span class="legend-item">
+            <span class="legend-color-sample legend-color-5"></span> Level 5
+        </span>
+        <span class="legend-item">
+            <span class="legend-color-sample legend-color-6"></span> Level 6
+        </span>
+        <span class="legend-item">
+            <span class="legend-color-sample legend-color-7"></span> Level 7
+        </span>
+    </div>
+
+    <div id="controls">
+        <button onclick="expandAll()">Expand All</button>
+        <button onclick="collapseAll()">Collapse All</button>
+    </div>
+    <div id="outputContainer">
+        </div>
+    <script>
+        const myMarkdownContent = `
+# Home & Kitchen (246)
+## Furniture (142)
+### Bedroom Furniture (35)
+#### Beds, Frames & Bases (24)
+##### Beds (19)
+##### Bed Frames (3)
+##### Bases & Foundations (2)
+###### Adjustable Bases (2)
+#### Nightstands (5)
+#### Mattresses & Box Springs (4)
+##### Mattresses (2)
+##### Mattress & Box Spring Sets (2)
+#### Dressers (1)
+#### Vanities & Vanity Benches (1)
+### Accent Furniture (18)
+#### Ottomans (12)
+#### Storage Cabinets (3)
+#### Room Dividers (1)
+#### Storage Chests (1)
+#### Ladder Shelves (1)
+### Living Room Furniture (43)
+#### Sofas & Couches (10)
+#### Chairs (7)
+#### Tables (16)
+##### End Tables (7)
+##### Coffee Tables (6)
+##### Sofa & Console Tables (3)
+#### Living Room Sets (4)
+#### TV & Media Furniture (3)
+##### Television Stands & Entertainment Centers (3)
+#### Chaise Lounges (2)
+#### Futons (1)
+##### Futon Mattresses (1)
+### Home Office Furniture (14)
+#### Bookcases (6)
+#### Home Office Chairs (5)
+##### Home Office Desk Chairs (5)
+#### Home Office Desks (3)
+### Game & Recreation Room Furniture (9)
+#### Home Bar Furniture (5)
+##### Barstools (5)
+#### Gaming Chairs (3)
+##### Video Game Chairs (2)
+##### Computer Gaming Chairs (1)
+#### Directors Chairs (1)
+### Dining Room Furniture (12)
+#### Chairs (4)
+#### Buffets & Sideboards (3)
+#### Table & Chair Sets (3)
+#### Tables (2)
+### Entryway Furniture (5)
+#### Storage Benches (3)
+#### Coat Racks (2)
+### Kids' Furniture (5)
+#### Tables & Chairs (2)
+##### Table & Chair Sets (2)
+#### Desks & Desk Sets (2)
+##### Desks (1)
+##### Sets (1)
+#### Chairs & Seats (1)
+##### Desk Chairs (1)
+### Kitchen Furniture (1)
+#### Baker's Racks (1)
+##### Standing Baker's Racks (1)
+## Bedding (35)
+### Blankets & Throws (13)
+#### Throws (13)
+### Decorative Pillows, Inserts & Covers (13)
+#### Throw Pillow Covers (12)
+#### Pillow Inserts (1)
+### Comforters & Sets (2)
+#### Comforter Sets (2)
+### Kids' Bedding (4)
+#### Blankets & Throws (2)
+##### Throws (1)
+##### Bed Blankets (1)
+#### Duvet Covers & Sets (1)
+##### Duvet Cover Sets (1)
+#### Comforters & Sets (1)
+##### Comforter Sets (1)
+### Sheets & Pillowcases (2)
+#### Flat Sheets (1)
+#### Pillow Shams (1)
+### Quilts & Sets (1)
+#### Quilt Sets (1)
+## Wall Art (12)
+### Posters & Prints (12)
+## Home Décor Products (42)
+### Window Treatments (16)
+#### Curtains & Drapes (10)
+##### Panels (10)
+#### Window Stickers & Films (3)
+##### Window Films (3)
+#### Blinds & Shades (3)
+##### Roller Shades (2)
+##### Cellular Shades (1)
+### Candles & Holders (12)
+#### Candles (12)
+##### Jar Candles (9)
+##### Specialty Candles (3)
+###### Birthday Candles (2)
+###### Seasonal Celebration Candles (1)
+### Rugs, Pads & Protectors (8)
+#### Area Rugs (8)
+### Mirrors (2)
+#### Wall-Mounted Mirrors (2)
+### Kids' Room Décor (1)
+#### Window Treatments (1)
+##### Curtain Panels (1)
+### Home Décor Accents (1)
+#### Corner Shelves (1)
+### Slipcovers (1)
+#### Stool Covers (1)
+### Artificial Plants & Flowers (1)
+#### Artificial Plants & Greenery (1)
+## Kitchen & Dining (8)
+### Kitchen & Table Linens (5)
+#### Table Runners (2)
+#### Kitchen Rugs (1)
+#### Chair Pads (1)
+#### Place Mats (1)
+### Storage & Organization (1)
+#### Racks & Holders (1)
+##### Wine Racks & Cabinets (1)
+###### Wall-Mounted Wine Racks (1)
+### Dining & Entertaining (1)
+#### Bar Tools & Drinkware (1)
+##### Bar Tools (1)
+###### Coasters (1)
+### Kitchen Utensils & Gadgets (1)
+#### Seasoning & Spice Tools (1)
+##### Spice Racks (1)
+## Storage & Organization (5)
+### Baskets, Bins & Containers (3)
+#### Shelf Baskets (2)
+#### Open Storage Bins (1)
+### Clothing & Closet Storage (2)
+#### Garment Racks (1)
+#### Shoe Organizers (1)
+##### Free Standing Shoe Racks (1)
+## Bath (2)
+### Bathroom Accessories (2)
+#### Shower Curtains, Hooks & Liners (1)
+##### Shower Curtain Rods (1)
+#### Bathroom Mirrors (1)
+##### Wall-Mounted Vanity Mirrors (1)
+# Grocery & Gourmet Food (240)
+## Pantry Staples (88)
+### Cooking & Baking (57)
+#### Frosting, Icing & Decorations (33)
+##### Cupcake Toppers (18)
+##### Cake Toppers (13)
+##### Glitter (2)
+#### Baking Mixes (4)
+##### Cakes (3)
+##### Muffins (1)
+#### Coconut Milk & Cream (2)
+#### Syrups, Sugars & Sweeteners (3)
+##### Maple Syrup (2)
+##### Sugar Substitutes (1)
+###### Stevia (1)
+#### Extracts (2)
+##### Imitation (2)
+#### Nuts & Seeds (6)
+##### Sesame Seeds (2)
+##### Cashews (1)
+##### Almonds (1)
+##### Mixed Nuts (1)
+##### Pecans (1)
+#### Dessert Syrups & Sauces (1)
+##### Chocolate (1)
+#### Lard & Shortening (1)
+##### Ghee (1)
+#### Cooking Oils, Vinegars & Sprays (1)
+##### Oils (1)
+###### Olive (1)
+#### Powdered Cheese (1)
+#### Flours & Meals (1)
+##### Wheat Flours & Meals (1)
+#### Baking Chocolates, Carob & Cocoa (1)
+##### Cocoa (1)
+#### Breadcrumbs & Seasoned Coatings (1)
+##### Breadcrumbs (1)
+### Sauces, Gravies & Marinades (4)
+#### Sauces (3)
+##### Barbecue (3)
+#### Hot Sauce (1)
+### Herbs, Spices & Seasonings (12)
+#### Salt & Salt Substitutes (6)
+##### Popcorn Salt (3)
+##### Sea Salt (3)
+#### Mixed Spices & Seasonings (4)
+##### Indian Seasoning (2)
+##### Meat Seasoning (1)
+##### Gourmet Rubs (1)
+#### Single Herbs & Spices (2)
+##### Bay Leaf (1)
+##### Caraway Seed (1)
+### Canned, Jarred & Packaged Foods (9)
+#### Meat, Poultry & Seafood (7)
+##### Chicken (2)
+##### Seafood (4)
+###### Tuna Fish (2)
+###### Sardines (1)
+###### Salmon (1)
+##### Spiced Meat (1)
+#### Packaged Meals & Side Dishes (2)
+##### Macaroni & Cheese (1)
+##### Potatoes & Stuffings (1)
+###### Potato Side Dishes (1)
+### Jams, Jellies & Sweet Spreads (2)
+#### Jams, Jellies & Preserves (2)
+### Dried Beans, Lentils & Peas (1)
+#### Beans (1)
+### Nut & Seed Butters (1)
+#### Almond Butter (1)
+### Condiments & Salad Dressings (2)
+#### Salad Toppings (1)
+#### Salad Dressings (1)
+##### Caesar (1)
+## Beverages (36)
+### Bottled Beverages, Water & Drink Mixes (24)
+#### Flavor Syrups (6)
+#### Cocktail Mixers (6)
+##### Margarita (4)
+##### Bitters (2)
+#### Juices (3)
+##### Fruit Juice (3)
+#### Energy Drinks (3)
+#### Meal Replacement & Protein Drinks (2)
+##### Protein Drinks (2)
+#### Powdered Drink Mixes & Flavorings (1)
+##### Instant Breakfast Drinks (1)
+#### Water (3)
+##### Flavored Water (1)
+##### Sparkling Water (1)
+##### Seltzer Water (1)
+### Coffee, Tea & Cocoa (12)
+#### Tea (7)
+##### Herbal (3)
+##### Tea Samplers (2)
+##### Oolong (1)
+##### Chai (1)
+#### Non-Dairy Coffee Creamers (2)
+#### Coffee (2)
+##### Roasted Coffee Beans (1)
+##### Single-Serve Capsules & Pods (1)
+#### Coffee Substitutes (1)
+## Snacks & Sweets (70)
+### Chocolate (12)
+#### Candy & Chocolate Bars (6)
+#### Candy & Chocolate Assortments (3)
+#### Chocolate Truffles (1)
+#### Nut Clusters (1)
+#### Nuts (1)
+### Candy & Chocolate (10)
+#### Candy & Chocolate Gifts (5)
+#### Hard Candy (2)
+#### Caramels (1)
+#### Suckers & Lollipops (1)
+#### Taffy (1)
+### Snack Foods (48)
+#### Chips & Crisps (6)
+##### Vegetable (5)
+##### Corn (1)
+#### Fruit Snacks (5)
+#### Meat Snacks (5)
+##### Jerky (5)
+#### Crackers (4)
+##### Assortments & Samplers (3)
+##### Flatbread (1)
+#### Popcorn (4)
+##### Popped (3)
+##### Unpopped (1)
+#### Bars (9)
+##### Fruit Bars (3)
+##### High Protein (2)
+##### Fruit & Nut (2)
+##### Granola (1)
+##### Nut Bars (1)
+#### Rice Cakes, Chips & Crackers (4)
+##### Cakes (2)
+##### Chips (1)
+##### Crackers (1)
+#### Snack Cakes & Pastries (2)
+##### Snack Cakes (2)
+#### Pretzels (2)
+#### Puffed Snacks (2)
+#### Applesauce & Fruit Cups (2)
+##### Applesauce (2)
+#### Snack & Trail Mixes (1)
+#### Fruit Leather (1)
+#### Party Mix (1)
+## Breakfast Foods (10)
+### Cereals (9)
+#### Granola (4)
+#### Cold Cereals (3)
+#### Oatmeal (2)
+### Breakfast & Cereal Bars (1)
+## Food & Beverage Gifts (8)
+### Herb, Spice & Seasoning Gifts (2)
+### Snack Gifts (1)
+### Assortments & Variety Gifts (1)
+### Cheese & Charcuterie Gifts (1)
+### Meat & Seafood Gifts (1)
+### Bakery & Dessert Gifts (1)
+### Fruit & Nut Gifts (1)
+## Breads & Bakery (7)
+### Cookies (3)
+#### Sandwich (1)
+#### Macaroons (1)
+#### Cookie Assortments (1)
+### Breads (1)
+#### Rolls & Buns (1)
+##### Hot Dog Buns (1)
+### Cakes (1)
+#### Liquor Cakes (1)
+### Pastries & Bakery (2)
+#### Bagels (1)
+#### English Muffins (1)
+## Produce (9)
+### Dried Fruits & Vegetables (8)
+#### Dried Fruits (6)
+##### Dried Banana Chips (2)
+##### Dried Cherries (1)
+##### Dried Berries (1)
+##### Dried Mixed Fruits (1)
+##### Dried Coconut (1)
+#### Dried Vegetables (2)
+##### Sundried Tomatoes (2)
+### Vegetarian Proteins (1)
+#### Tofu (1)
+## Frozen (5)
+### Appetizers & Snacks (2)
+#### Hors d'Oeuvres (2)
+### Ice Cream & Novelties (2)
+#### Gelato (1)
+#### Popsicles & Juice Bars (1)
+### Meats (1)
+#### Sausage & Bacon (1)
+## Dairy, Cheese & Eggs (2)
+### Cheese (1)
+#### Parmesan (1)
+### Non-Dairy Milks (1)
+#### Almond Milk (1)
+## Meat & Seafood (3)
+### Sausages (1)
+#### Summer (1)
+### Beef (1)
+#### Ground Beef & Patties (1)
+##### Burger Patties (1)
+### Seafood (1)
+#### Fresh Seafood (1)
+##### Fresh Shellfish (1)
+###### Crab (1)
+## Deli & Prepared Foods (2)
+### Fresh Pasta & Sauces (1)
+#### Sauces (1)
+### Entrees (1)
+# Electronics (205)
+## Accessories & Supplies (40)
+### Audio & Video Accessories (39)
+#### Cables & Interconnects (28)
+##### Video Cables (22)
+###### HDMI Cables (18)
+###### F-Pin-Coaxial Tip (4)
+##### Audio Cables (5)
+###### RCA Cables (2)
+###### Speaker Cables (1)
+###### Digital Coaxial Cables (1)
+###### Fiber Optic Cables (1)
+##### Power Cables (1)
+#### Remote Controls & Accessories (4)
+##### Remote Controls (4)
+#### Headphone Accessories (3)
+##### Cases (2)
+##### Earpads (1)
+#### Connectors & Adapters (2)
+#### Satellite TV Equipment (1)
+##### Splitters (1)
+#### Antennas (1)
+##### TV Antennas (1)
+### Power Strips & Surge Protectors (1)
+#### Surge Protectors (1)
+## Headphones (15)
+### Earbud Headphones (12)
+### Over-Ear Headphones (3)
+## Portable Audio & Video (13)
+### Portable Speakers & Docks (12)
+#### Portable Bluetooth Speakers (12)
+### Portable CD Players (1)
+## Power Accessories (10)
+### AC Adapters (10)
+## Camera & Photo (34)
+### Lighting & Studio (9)
+#### Photo Studio (9)
+##### Backgrounds (9)
+### Video Surveillance (7)
+#### Surveillance Cameras (7)
+##### Dome Cameras (5)
+##### Bullet Cameras (1)
+##### Hidden Cameras (1)
+### Binoculars & Scopes (6)
+#### Monoculars (3)
+#### Telescopes (2)
+#### Binoculars (1)
+### Tripods & Monopods (4)
+#### Complete Tripods (3)
+#### Tripod Heads (1)
+### Digital Cameras (4)
+#### Point & Shoot Digital Cameras (3)
+#### Instant Cameras (1)
+### Bags & Cases (1)
+#### Camcorder Cases (1)
+### Underwater Photography (1)
+#### Underwater Lighting (1)
+##### Continuous Lights (1)
+### Accessories (2)
+#### Tripod & Monopod Accessories (1)
+##### Camera Mounts & Clamps (1)
+#### Digital Camera Accessories (1)
+##### Accessory Kits (1)
+## Computers & Accessories (52)
+### Computers & Tablets (25)
+#### Desktops (17)
+##### Minis (9)
+##### Towers (7)
+##### All-in-Ones (1)
+#### Tablets (7)
+#### Laptops (1)
+##### Traditional Laptops (1)
+### Computer Accessories & Peripherals (17)
+#### Cables & Accessories (6)
+##### Cables & Interconnects (6)
+###### USB Cables (4)
+###### Ethernet Cables (1)
+####### Cat 7 Cables (1)
+###### Lightning Cables (1)
+#### Audio & Video Accessories (4)
+##### Computer Speakers (3)
+##### Computer Headsets (1)
+#### Computer Cable Adapters (4)
+##### HDMI-to-VGA Adapters (2)
+##### USB-to-USB Adapters (1)
+##### DVI-HDMI Adapters (1)
+#### USB Hubs (1)
+#### Memory Cards (1)
+##### SD Cards (1)
+#### Keyboards, Mice & Accessories (1)
+##### Mice (1)
+### Laptop Accessories (4)
+#### Bags, Cases & Sleeves (3)
+##### Hard Shell Cases (3)
+#### Chargers & Adapters (1)
+### Data Storage (3)
+#### USB Flash Drives (2)
+#### External Hard Drives (1)
+### Tablet Accessories (1)
+#### Bags, Cases & Sleeves (1)
+##### Cases (1)
+### Computer Components (1)
+#### Internal Components (1)
+##### Memory (1)
+### Networking Products (1)
+#### Routers (1)
+## Home Audio (13)
+### Home Theater (5)
+#### Receivers & Amplifiers (5)
+##### Amplifiers (5)
+### Compact Radios & Stereos (4)
+#### Clock Radios (4)
+### Speakers (3)
+#### Sound Bars (2)
+#### Floorstanding Speakers (1)
+### Turntables & Accessories (1)
+#### Turntables (1)
+## Television & Video (11)
+### Projection Screens (5)
+### Streaming Media Players (5)
+### Televisions (1)
+#### LED & LCD TVs (1)
+## Video Projectors (5)
+## Wearable Technology (3)
+### Arm & Wristband Accessories (3)
+## Car & Vehicle Electronics (7)
+### Car Electronics (6)
+#### Car Audio (5)
+##### Speakers (3)
+###### Coaxial Speakers (3)
+##### Subwoofers (2)
+###### Component Subwoofers (2)
+#### Car Video (1)
+##### In-Dash Navigation (1)
+### Marine Electronics (1)
+#### Marine Speakers (1)
+## Security & Surveillance (2)
+### Surveillance Video Equipment (1)
+#### Surveillance DVR Kits (1)
+### Accessories (1)
+#### Surveillance Camera Cables (1)
+# Beauty & Personal Care (329)
+## Oral Care (47)
+### Toothpaste (16)
+### Toothbrushes & Accessories (12)
+#### Manual Toothbrushes (11)
+#### Toothbrush Travel Containers (1)
+### Tongue Cleaners (5)
+### Mouthwash (3)
+### Dental Floss & Picks (3)
+#### Dental Floss (2)
+#### Power Dental Flossers (1)
+### Children's Dental Care (2)
+#### Electric Toothbrushes (2)
+### Teeth Whitening (2)
+### Orthodontic Supplies (2)
+### Oral Pain Relief (1)
+### Breath Fresheners (1)
+## Hair Care (99)
+### Hair Coloring Products (20)
+#### Hair Color (16)
+#### Hair Mascaras & Root Touch Ups (2)
+#### Coloring & Highlighting Tools (1)
+##### Hair Color Mixing Bowls (1)
+#### Hennas (1)
+### Hair Extensions, Wigs & Accessories (28)
+#### Hair Extensions (12)
+#### Hairpieces (12)
+#### Wigs (4)
+### Shampoo & Conditioner (15)
+#### Conditioners (8)
+#### Shampoos (5)
+#### Dry Shampoos (1)
+#### Deep Conditioners (1)
+### Styling Tools & Appliances (11)
+#### Hair Brushes (6)
+#### Hair Combs (2)
+#### Hair Rollers (2)
+#### Irons (1)
+##### Curling Wands (1)
+### Hair Loss Products (9)
+#### Hair Regrowth Treatments (5)
+#### Hair Building Fibers (3)
+#### Hair Regrowth Shampoos (1)
+### Hair Accessories (9)
+#### Hair Drying Towels (2)
+#### Elastics & Ties (2)
+#### Hair Pins (2)
+#### Clips & Barrettes (2)
+##### Clips (2)
+#### Bun & Crown Shapers (1)
+### Hair Cutting Tools (3)
+#### Hair Cutting Kits (1)
+#### Hair Clippers & Accessories (1)
+#### Shears (1)
+### Styling Products (2)
+#### Hair Fragrances (1)
+#### Gels (1)
+### Hair Treatment Oils (1)
+### Hair Masks (1)
+## Personal Care (32)
+### Deodorants & Antiperspirants (17)
+#### Antiperspirant Deodorant (14)
+#### Deodorant (3)
+### Bath & Bathing Accessories (15)
+#### Bathing Accessories (14)
+##### Bath & Body Brushes (10)
+##### Shower Caps (3)
+##### Bath Sponges (1)
+#### Bath (1)
+##### Minerals & Salts (1)
+## Tools & Accessories (28)
+### Bags & Cases (10)
+#### Cosmetic Bags (8)
+#### Train Cases (1)
+#### Toiletry Bags (1)
+### Makeup Brushes & Tools (11)
+#### Brush Sets (6)
+#### Eye (4)
+##### False Eyelashes & Adhesives (4)
+###### False Lashes (2)
+###### Eyelash Adhesives (1)
+###### Kits (1)
+#### Face (1)
+##### Blenders & Sponges (1)
+### Skin Care Tools (4)
+#### Blackhead & Blemish Removers (1)
+#### Facial Cleansing Brushes (2)
+##### Manual Facial Cleansing Brushes (1)
+##### Powered Facial Cleansing Brushes & Devices (1)
+#### Facial Rollers (1)
+### Refillable Containers (2)
+#### Jars (1)
+#### Spray Bottles (1)
+### Cotton Balls & Swabs (1)
+#### Cotton Swabs (1)
+## Makeup (40)
+### Lips (13)
+#### Lip Glosses (7)
+#### Lipstick (5)
+#### Lip Liners (1)
+### Face (14)
+#### Foundation (7)
+#### Concealers & Neutralizers (4)
+#### Tinted Moisturizers (1)
+#### Blush (1)
+#### Foundation Primers (1)
+### Eyes (6)
+#### Eyeshadow (6)
+### Body (5)
+#### Body Glitter (3)
+#### Temporary Tattoos (2)
+### Makeup Remover (1)
+#### Makeup Cleansing Water (1)
+### Makeup Palettes (1)
+## Fragrance (12)
+### Women's (9)
+#### Eau de Parfum (6)
+#### Sets (2)
+#### Body Sprays (1)
+### Men's (3)
+#### Eau de Toilette (2)
+#### Eau de Parfum (1)
+## Salon & Spa Equipment (8)
+### Professional Massage Equipment (7)
+#### Salon & Spa Chairs (5)
+#### Linens (1)
+#### Salon & Spa Stools (1)
+### Spa Beds & Tables (1)
+## Skin Care (43)
+### Face (23)
+#### Sets & Kits (5)
+#### Creams & Moisturizers (10)
+##### Face Moisturizers (4)
+##### Face Oil (3)
+##### Face Mists (2)
+##### Night Creams (1)
+#### Treatments & Masks (5)
+##### Masks (3)
+##### Serums (2)
+#### Cleansers (3)
+##### Cloths & Towelettes (1)
+##### Washes (1)
+##### Gels (1)
+### Body (9)
+#### Body Scrubs (3)
+#### Cleansers (4)
+##### Body Washes (3)
+##### Soaps (1)
+#### Moisturizers (2)
+##### Creams (1)
+##### Body Butters (1)
+### Lip Care (3)
+#### Balms & Moisturizers (3)
+### Eyes (4)
+#### Creams (3)
+#### Serums (1)
+### Maternity (1)
+### Sunscreens & Tanning Products (2)
+#### Self-Tanners (1)
+#### After Sun (1)
+### Sets & Kits (1)
+## Foot, Hand & Nail Care (13)
+### Tools & Accessories (4)
+#### Foot Files (2)
+#### Nail Tools (1)
+##### Nail Clippers (1)
+#### Spa Slippers (1)
+### Nail Art & Polish (6)
+#### False Nails & Accessories (2)
+##### Press On Nails (2)
+#### Nail Art Accessories (3)
+##### Stickers & Decals (1)
+##### Glitters (1)
+##### Nail Art Equipment (1)
+#### Nail Polish (1)
+### Nail Care (1)
+#### Nail Repair (1)
+### Foot & Hand Care (2)
+#### Foot Masks (1)
+#### Salts & Soaks (1)
+## Shave & Hair Removal (7)
+### Women's (3)
+#### Laser, Light & Electrolysis Hair Removal (1)
+##### Light Hair Removal (1)
+#### Waxing (2)
+##### Spatulas (1)
+##### Waxing Kits (1)
+### Men's (4)
+#### Beard & Mustache Care (1)
+##### Mustache Waxes (1)
+#### Nose & Ear Hair Trimmers (1)
+#### Shaving & Grooming Sets (1)
+#### Electric Shavers (1)
+##### Rotary Shavers (1)
+# Tools & Home Improvement (56)
+## Lighting & Ceiling Fans (52)
+### Wall Lights (30)
+#### Vanity Lights (16)
+#### Wall Lamps & Sconces (14)
+### Ceiling Lights (14)
+#### Chandeliers (6)
+#### Pendant Lights (4)
+#### Island Lights (2)
+#### Track Lighting (2)
+##### Pendants (2)
+### Lamps & Shades (7)
+#### Floor Lamps (4)
+#### Table Lamps (3)
+### Lighting Accessories (1)
+#### Fixture Replacement Globes & Shades (1)
+## Electrical (3)
+### Wall Plates & Accessories (3)
+#### Wall Plates (3)
+## Hardware (1)
+### Cabinet Hardware (1)
+#### Hinges (1)
+# Clothing, Shoes & Jewelry (264)
+## Men (92)
+### Clothing (59)
+#### Jeans (13)
+#### Shirts (14)
+##### Casual Button-Down Shirts (10)
+##### T-Shirts (2)
+##### Dress Shirts (1)
+##### Polos (1)
+#### Underwear (11)
+##### Boxer Briefs (5)
+##### Briefs (4)
+##### Undershirts (2)
+#### Pants (2)
+##### Casual (2)
+#### Active (10)
+##### Active Shirts & Tees (4)
+###### Polos (2)
+###### Button-Down Shirts (1)
+###### Tank Tops (1)
+##### Active Shorts (1)
+##### Active Base Layers (1)
+##### Active Pants (2)
+###### Sweatpants (1)
+###### Track Pants (1)
+##### Active Hoodies (1)
+##### Active Sweatshirts (1)
+#### Jackets & Coats (3)
+##### Lightweight Jackets (2)
+###### Windbreakers (1)
+###### Cotton (1)
+##### Vests (1)
+#### Fashion Hoodies & Sweatshirts (1)
+#### Sleep & Lounge (3)
+##### Robes (1)
+##### Sleep Sets (1)
+##### Sleep Bottoms (1)
+#### Suits & Sport Coats (1)
+##### Sport Coats & Blazers (1)
+#### Shorts (1)
+##### Cargo (1)
+### Shoes (28)
+#### Fashion Sneakers (5)
+#### Loafers & Slip-Ons (4)
+#### Sandals (3)
+#### Athletic (9)
+##### Walking (2)
+##### Running (3)
+###### Trail Running (2)
+###### Road Running (1)
+##### Water Shoes (1)
+##### Golf (1)
+##### Team Sports (1)
+###### Basketball (1)
+##### Tennis & Racquet Sports (1)
+#### Oxfords (2)
+#### Outdoor (2)
+##### Snow Boots (1)
+##### Hiking & Trekking (1)
+###### Hiking Boots (1)
+#### Mules & Clogs (1)
+#### Slippers (1)
+#### Boots (1)
+##### Chukka (1)
+### Uniforms, Work & Safety (4)
+#### Shoes (3)
+##### Work & Utility (2)
+###### Shoes (2)
+##### Military & Tactical (1)
+#### Clothing (1)
+##### Military (1)
+###### Pants (1)
+### Accessories (1)
+#### Handkerchiefs (1)
+## Novelty & More (30)
+### Clothing (30)
+#### Novelty (30)
+##### Women (16)
+###### Tops & Tees (14)
+####### T-Shirts (10)
+####### Tanks & Camis (4)
+###### Shorts (1)
+###### Pants & Capris (1)
+##### Men (13)
+###### Shirts (9)
+####### T-Shirts (7)
+####### Tanks Tops (2)
+###### Hoodies (3)
+###### Sleep & Lounge (1)
+####### Sets (1)
+##### Girls (1)
+###### Tops & Tees (1)
+####### T-Shirts (1)
+## Women (136)
+### Shoes (47)
+#### Mules & Clogs (7)
+#### Sandals (10)
+##### Flats (7)
+##### Heeled Sandals (2)
+##### Platforms & Wedges (1)
+#### Flats (6)
+#### Athletic (5)
+##### Walking (5)
+#### Pumps (5)
+#### Loafers & Slip-Ons (3)
+#### Fashion Sneakers (3)
+#### Boots (3)
+##### Ankle & Bootie (3)
+#### Slippers (2)
+#### Outdoor (2)
+##### Snow Boots (2)
+#### Oxfords (1)
+### Accessories (8)
+#### Wallets, Card Cases & Money Organizers (8)
+##### Wallets (8)
+### Clothing (78)
+#### Tops, Tees & Blouses (15)
+##### T-Shirts (6)
+##### Tunics (4)
+##### Blouses & Button-Down Shirts (4)
+##### Tanks & Camis (1)
+#### Pants (5)
+##### Casual (5)
+#### Fashion Hoodies & Sweatshirts (5)
+#### Active (11)
+##### Active Shorts (4)
+##### Leggings (3)
+##### Active Base Layers (1)
+##### Base Layers & Compression (1)
+###### Shirts (1)
+##### Active Pants (1)
+###### Sweatpants (1)
+##### Active Sweatshirts (1)
+#### Jumpsuits, Rompers & Overalls (5)
+##### Jumpsuits (4)
+##### Overalls (1)
+#### Lingerie, Sleep & Lounge (8)
+##### Sleep & Lounge (6)
+###### Sets (4)
+###### Bottoms (2)
+##### Lingerie (2)
+###### Panties (1)
+####### Boy Shorts (1)
+###### Baby Dolls & Chemises (1)
+#### Jeans (3)
+#### Coats, Jackets & Vests (9)
+##### Active & Performance (3)
+###### Fleece (3)
+##### Vests (2)
+##### Casual Jackets (2)
+##### Leather & Faux Leather (1)
+##### Denim Jackets (1)
+#### Leggings (2)
+#### Swimsuits & Cover Ups (6)
+##### Bikinis (4)
+###### Sets (2)
+###### Bottoms (1)
+###### Tops (1)
+##### Cover-Ups (1)
+##### One-Pieces (1)
+#### Sweaters (3)
+##### Cardigans (2)
+##### Pullovers (1)
+#### Shorts (2)
+##### Denim (2)
+#### Dresses (3)
+##### Formal (1)
+##### Wedding Dresses (1)
+##### Casual (1)
+#### Suiting & Blazers (1)
+##### Blazers (1)
+### Maternity (1)
+#### Nursing (1)
+##### Tops & Tees (1)
+###### Knits & Tees (1)
+### Uniforms, Work & Safety (2)
+#### Clothing (1)
+#### Shoes (1)
+##### Work & Utility (1)
+###### Shoes (1)
+## Shoe, Jewelry & Watch Accessories (1)
+### Jewelry Accessories (1)
+#### Jewelry Boxes & Organizers (1)
+##### Jewelry Boxes (1)
+## Sport Specific Clothing (4)
+### Dance (1)
+#### Women (1)
+##### Tops (1)
+### Running (1)
+#### Women (1)
+##### Pants (1)
+### Competitive Swimwear (1)
+#### Women (1)
+##### Two-Piece Suits (1)
+### Yoga (1)
+#### Women (1)
+##### Leggings (1)
+## Girls (1)
+### Shoes (1)
+#### Clogs & Mules (1)
+# Cell Phones & Accessories (42)
+## Cases, Holsters & Sleeves (11)
+### Basic Cases (8)
+### Flip Cases (2)
+### Bumpers (1)
+## Accessories (26)
+### Smartwatch Accessories (12)
+#### Smartwatch Bands (6)
+#### Smartwatch Cases (5)
+#### Smartwatch Screen Protectors (1)
+### Maintenance, Upkeep & Repairs (5)
+#### Screen Protectors (5)
+### Chargers & Power Adapters (4)
+#### Wall Chargers (3)
+#### Automobile Chargers (1)
+### Stands (2)
+### Virtual Reality (VR) Headsets (1)
+### Automobile Accessories (1)
+#### Cradles (1)
+### Signal Boosters (1)
+## Cell Phones (5)
+# Baby Products (8)
+## Baby Care (3)
+### Health (3)
+#### Toothbrushes (3)
+## Feeding (4)
+### Baby Foods (4)
+#### Meals (3)
+#### Snack Foods (1)
+## Gifts (1)
+### Gift Sets (1)
+# Sports & Outdoors (16)
+## Sports (6)
+### Water Sports (5)
+#### Swimming (2)
+##### Swimwear (2)
+#### Clothing (1)
+##### Women (1)
+###### Impact Vests (1)
+#### Surfing (1)
+##### Water Booties & Socks (1)
+#### Diving & Snorkeling (1)
+##### Rash Guards (1)
+###### Women (1)
+### Team Sports (1)
+#### Other Team Sports (1)
+##### Cheerleading (1)
+###### Mascot Costumes (1)
+## Sports & Outdoor Recreation Accessories (1)
+### Ball Storage (1)
+## Fan Shop (5)
+### Clothing (4)
+#### Pants (1)
+#### T-Shirts (1)
+#### Tank Tops (1)
+#### Sweatshirts & Hoodies (1)
+### Footwear (1)
+#### Slippers (1)
+## Outdoor Recreation (1)
+### Paintball (1)
+#### Paintballs (1)
+## Exercise & Fitness (1)
+### Clothing (1)
+## Hunting & Fishing (1)
+### Shooting (1)
+#### Optics (1)
+##### Spotting Scopes (1)
+## Clothing (1)
+### Men (1)
+#### Shorts & Pants (1)
+##### Shorts (1)
+# Health & Household (5)
+## Health Care (2)
+### Alternative Medicine (2)
+#### Aromatherapy (2)
+##### Candles (2)
+## Diet & Sports Nutrition (1)
+### Nutrition Bars & Drinks (1)
+#### Nutrition Bars (1)
+##### Protein Bars (1)
+## Household Supplies (2)
+### Household Batteries (2)
+#### 3V (1)
+#### AAA (1)
+# Office Products (3)
+## Office Electronics (2)
+### Scanners & Accessories (1)
+#### Scanners (1)
+##### Slide & Negative Scanners (1)
+### Other Office Equipment (1)
+#### Typewriters (1)
+## Office Furniture & Lighting (1)
+### Cabinets, Racks & Shelves (1)
+#### File Cabinets (1)
+##### Vertical File Cabinets (1)
+# Video Games (4)
+## Legacy Systems (1)
+### PlayStation Systems (1)
+#### PlayStation (1)
+##### Accessories (1)
+## PlayStation 4 (2)
+### Accessories (2)
+#### Faceplates, Protectors & Skins (1)
+#### Accessory Kits (1)
+## PC (1)
+### Accessories (1)
+#### Gaming Keyboards (1)
+# Industrial & Scientific (2)
+## Material Handling Products (1)
+### Pulling & Lifting (1)
+#### Hoists & Accessories (1)
+##### Hoist Accessories (1)
+## Industrial Electrical (1)
+### Semiconductor Products (1)
+#### Signal Components (1)
+##### Signal Converters (1)
+# Automotive (1)
+## Motorcycle & Powersports (1)
+### Accessories (1)
+#### Electronics (1)
+##### Speaker Systems (1)
+# Toys & Games (1)
+## Party Supplies (1)
+### Decorations (1)
+#### Cake & Cupcake Toppers (1)
+##### Cake Toppers (1)
+# Musical Instruments (1)
+## Microphones & Accessories (1)
+### Microphones (1)
+#### Condenser Microphones (1)
+##### Multipurpose (1)
+# Patio, Lawn & Garden (1)
+## Patio Furniture & Accessories (1)
+### Patio Furniture Sets (1)
+#### Conversation Sets (1)
+`;
+
+        function renderMarkdown(markdownText) { 
+            const outputContainer = document.getElementById('outputContainer');
+            outputContainer.innerHTML = ''; 
+
+            if (!markdownText || !markdownText.trim()) {
+                outputContainer.innerHTML = '<p>No Markdown content provided to render.</p>';
+                return;
+            }
+
+            const lines = markdownText.split('\n').filter(line => line.trim() !== '');
+            if (lines.length === 0) {
+                outputContainer.innerHTML = '<p>Markdown content is empty or contains only whitespace.</p>';
+                return;
+            }
+
+            const rootUl = document.createElement('ul');
+            outputContainer.appendChild(rootUl);
+
+            const parentUlStack = [rootUl];
+            let lastLiAdded = null;
+
+            lines.forEach(line => {
+                const match = line.match(/^(#+)\s+(.*)/);
+                if (!match) return;
+
+                let currentLevel = match[1].length;
+                const content = match[2].trim();
+
+                const li = document.createElement('li');
+                const span = document.createElement('span');
+                span.textContent = content;
+                li.appendChild(span);
+                
+
+                if (currentLevel > parentUlStack.length + 1 && parentUlStack.length === 1 && parentUlStack[0] === rootUl) {
+                    console.warn(`Interpreting line as Level 1 due to large level jump from root: "${line}"`);
+                    currentLevel = 1;
+                } else if (currentLevel > parentUlStack.length && lastLiAdded === null) {
+                     console.warn(`Interpreting line as Level 1, as no parent L${currentLevel-1} was found: "${line}"`);
+                     currentLevel = 1; 
+                }
+
+
+                li.classList.add(`level-${currentLevel}`); 
+
+
+                if (currentLevel > parentUlStack.length) {
+                    if (!lastLiAdded) {
+                        console.error("Markdown structure error or logic gap: Trying to create a deeper level (" + currentLevel + ") without a valid parent LI for line:", line);
+                        if (currentLevel === 1 && parentUlStack[0] === rootUl) {
+                        } else {
+                            return; 
+                        }
+                    }
+                    const newUl = document.createElement('ul');
+                    lastLiAdded.appendChild(newUl);
+                    lastLiAdded.classList.add('has-children');
+                    lastLiAdded.classList.add('collapsed');
+                    parentUlStack.push(newUl);
+                } else {
+                    while (currentLevel < parentUlStack.length) {
+                        parentUlStack.pop();
+                    }
+                }
+
+                const parentUl = parentUlStack[parentUlStack.length - 1];
+                if (!parentUl) {
+                    console.error("Error finding parent UL for level " + currentLevel + " for line:", line);
+                    return;
+                }
+                parentUl.appendChild(li);
+                lastLiAdded = li;
+            });
+
+            if (rootUl.children.length === 0) {
+                 outputContainer.innerHTML = '<p>Could not parse any valid hierarchy items from the provided Markdown.</p>';
+            }
+
+            outputContainer.addEventListener('click', function(event) {
+                if (event.target.tagName === 'SPAN' && event.target.parentElement.classList.contains('has-children')) {
+                    const liParent = event.target.parentElement;
+                    liParent.classList.toggle('collapsed');
+                }
+            });
+        }
+        function expandAll() {
+            const itemsToExpand = document.querySelectorAll('#outputContainer li.has-children');
+            itemsToExpand.forEach(item => {
+                item.classList.remove('collapsed');
+            });
+        }
+
+        function collapseAll() {
+            const itemsToCollapse = document.querySelectorAll('#outputContainer li.has-children');
+            itemsToCollapse.forEach(item => {
+                item.classList.add('collapsed');
+            });
+        }
+
+        renderMarkdown(myMarkdownContent);
+
+    </script>
+
+</body>
+</html>
