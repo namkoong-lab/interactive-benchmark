@@ -4,3 +4,4 @@ __pycache__
 .DS_Store
 amazon_dataset/categorized_products
 amazon_dataset/benchmark_metadata
+database/benchmark_metadata_assigned.jsonl
