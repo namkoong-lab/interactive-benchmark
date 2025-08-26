@@ -2,6 +2,7 @@
 .venv
 __pycache__
 .DS_Store
+*.db
 amazon_dataset/categorized_products
 amazon_dataset/benchmark_metadata
 database/benchmark_metadata_assigned.jsonl
