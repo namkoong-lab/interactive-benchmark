@@ -1,71 +1,119 @@
 import sys
 import os
-import json
-from datasets import load_dataset
-from personas import generate_benchmark_entry
-from simulate_interaction import ai_recommender_interact
+import random
+from personas import get_persona_description
+from simulate_interaction import (
+    list_categories,
+    get_products_by_category,
+    score_products_for_persona,
+    ai_recommender_interact,
+)
 
 def main():
-    if len(sys.argv) < 2 or len(sys.argv) > 4:
-        print("Usage: python simulation.py <persona_index> [ai_recommender_model] [num_questions]\n")
-        sys.exit(1)
-
-    # Persona index to use
-    idx = sys.argv[1]
-
-    # AI Recommender model to use
-    if len(sys.argv) >= 3 and sys.argv[2].strip():
-        ai_recommender_model = sys.argv[2]
-    else:
-        ai_recommender_model = "gpt-4o"
-
-    # Number of questions to ask the user
-    if len(sys.argv) >= 4 and sys.argv[3].strip():
+    # Interactive usage: python simulation.py (prompts for inputs)
+    # Backwards-compat: allow old CLI but prefer interactive when no args.
+    if len(sys.argv) == 1:
+        # Persona index prompt
+        persona_index_str = input("Enter persona index (integer): ").strip()
         try:
-            num_questions = int(sys.argv[3])
+            persona_index = int(persona_index_str)
         except ValueError:
-            print("Invalid num_questions; it must be an integer.")
+            print("Invalid persona index; please enter an integer.")
             sys.exit(1)
+
+        # Model selection
+        available_models = [
+            "gpt-4o",
+            "gpt-4o-mini",
+            "o4-mini",
+        ]
+        print("\nAvailable AI recommender models:")
+        for i, m in enumerate(available_models, start=1):
+            print(f"  {i}. {m}")
+        model_choice = input("Choose a model by number (or enter a custom model id): ").strip()
+        ai_recommender_model = None
+        if model_choice.isdigit():
+            idx = int(model_choice)
+            if 1 <= idx <= len(available_models):
+                ai_recommender_model = available_models[idx - 1]
+        if not ai_recommender_model:
+            ai_recommender_model = model_choice if model_choice else "gpt-4o"
+
+        # Categories
+        categories = list_categories()
+        if not categories:
+            print("No categories found in database.")
+            sys.exit(1)
+        print("\nAvailable categories:")
+        for i, c in enumerate(categories, start=1):
+            print(f"  {i}. {c}")
+        cat_choice = input("Enter category number, or press Enter for random: ").strip()
+        if cat_choice == "":
+            category_name = random.choice(categories)
+            print(f"Randomly selected category: {category_name}")
+        else:
+            if not cat_choice.isdigit():
+                print("Invalid category selection.")
+                sys.exit(1)
+            cat_idx = int(cat_choice)
+            if not (1 <= cat_idx <= len(categories)):
+                print("Category number out of range.")
+                sys.exit(1)
+            category_name = categories[cat_idx - 1]
     else:
-        num_questions = 5
+        # Legacy CLI: python simulation.py <persona_index> [category_name] [ai_recommender_model]
+        if len(sys.argv) < 2 or len(sys.argv) > 4:
+            print("Usage: python simulation.py <persona_index> [category_name] [ai_recommender_model]\n")
+            sys.exit(1)
+        persona_index = int(sys.argv[1])
+        category_name = None
+        if len(sys.argv) >= 3 and sys.argv[2].strip():
+            category_name = sys.argv[2].strip()
+        if len(sys.argv) >= 4 and sys.argv[3].strip():
+            ai_recommender_model = sys.argv[3].strip()
+        else:
+            ai_recommender_model = "gpt-4o"
 
-    file_path = os.path.join("benchmark_entries", f"persona_{idx}.json")
-    if not os.path.exists(file_path):
-        print(f"Benchmark entry file {file_path} not found. Generating benchmark entry.")
-        os.makedirs("benchmark_entries", exist_ok=True)
-        if __name__ == "__main__":
-            dataset = load_dataset("Tianyi-Lab/Personas", split="train")
-            persona = dataset[int(idx)]
-            user_description = persona["Llama-3.1-70B-Instruct_descriptive_persona"]
-            result = generate_benchmark_entry(user_description)
-            with open(file_path, "w") as f:
-                json.dump(result, f, indent=2)
-            print(f"Saved generated benchmark entry to {file_path}")
+    # Load persona description
+    persona_description = get_persona_description(persona_index)
+    print("\n=== Persona Description Selected ===")
+    print(persona_description)
+    print("=== End Persona Description ===\n")
 
-    with open(file_path, "r") as f:
-        data = json.load(f)
-
-    user_attributes = data.get("user_attributes", [])
-    products = data.get("products", [])
-    category = data.get("category")
-
-    for product in products:
-        if 'user_preference' in product:
-            del product['user_preference']
-
-    if not user_attributes or not products:
-        print("Invalid benchmark entry format: missing 'user_attributes' or 'products'.")
+    # Category validation (in case of legacy CLI provided name)
+    categories = list_categories()
+    if not categories:
+        print("No categories found in database.")
+        sys.exit(1)
+    if category_name not in categories:
+        print(f"Category '{category_name}' not found. Available examples: {', '.join(categories[:20])}...")
         sys.exit(1)
 
-    recommendation = ai_recommender_interact(products, user_attributes, category, ai_recommender_model, num_questions)
-    print("\nAI Recommender: " + recommendation)
+    # Fetch products
+    products = get_products_by_category(category_name)
+    if not products:
+        print(f"No products found for category '{category_name}'.")
+        sys.exit(1)
 
-    correct = data.get("correct_product", {})
-    correct_name = correct.get("name")
-    if correct_name and correct_name in recommendation:
+    # Persona scores products to form a hidden ground truth ranking
+    persona_scores = score_products_for_persona(persona_description, category_name, products)
+    if not persona_scores:
+        print("Failed to obtain persona scores.")
+        sys.exit(1)
+    best_persona_product_id = persona_scores[0][0]
+
+    # Recommender interacts with persona to infer best product (agent decides number of questions)
+    rec_id, rationale = ai_recommender_interact(category_name, products, persona_description, ai_recommender_model)
+
+    # Report results
+    print("\nPersona top choice product id:", best_persona_product_id)
+    print("Recommender prediction product id:", rec_id)
+    print("Rationale:", rationale)
+
+    if rec_id == best_persona_product_id:
         print("Simulation result: Correct recommendation.")
     else:
-        print(f"Simulation result: Incorrect. Expected recommendation: {correct_name}")
+        print("Simulation result: Incorrect.")
 
 if __name__ == "__main__":
     main()
