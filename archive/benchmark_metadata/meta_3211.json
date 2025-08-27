@@ -1,0 +1,59 @@
+{
+    "main_category": "Grocery",
+    "title": "New Orleans Roast Chocolate Beignet 12 oz Ground Coffee",
+    "average_rating": 4.4,
+    "rating_number": 38,
+    "features": [
+        "Experience an iconic New Orleans dessert flavor profile with chocolate notes in your coffee.",
+        "100% Specialty Arabica Coffee Beans (Ground)",
+        "Small Batch Roasted",
+        "The New Orleans Roast team proudly shares the passion and commitment to excellence as PJ’s Coffee."
+    ],
+    "description": [
+        "Did you know beignets were declared the official state doughnut of Louisiana in 1986?! Now you can experience an iconic New Orleans dessert flavor profile in your coffee. The New Orleans Roast team, led by Roastmaster Felton Jones, encompasses over 70 years of combined experience in coffee roasting. We adhere closely to our tradition of quality, freshness, and character only found in New Orleans. New Orleans Roast is affiliated with, and is proud to share a part of our local culture with PJ's Coffee of New Orleans."
+    ],
+    "price": "16.99",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/51aSYGMv3DL._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51UePdwFWoL._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/41TRpNRBjJL._SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41ppRxZqV1L.jpg",
+            "https://m.media-amazon.com/images/I/41z1DkzfxgL.jpg",
+            "https://m.media-amazon.com/images/I/41I+aJHNQsL.jpg",
+            "https://m.media-amazon.com/images/I/3107vBY5W-L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41ppRxZqV1L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41z1DkzfxgL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41I+aJHNQsL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/3107vBY5W-L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "New Orleans Roast Coffee & Tea",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Beverages",
+        "Coffee",
+        "Ground Coffee"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"9 x 5.5 x 2.1 inches; 8.78 Ounces\", \"Item model number\": \"65002000\", \"UPC\": \"094198650024\", \"Manufacturer\": \"New Orleans Roast Coffee & Tea\"}",
+    "parent_asin": "B074H4WRTQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

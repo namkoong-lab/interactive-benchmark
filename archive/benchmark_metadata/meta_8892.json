@@ -1,0 +1,45 @@
+{
+    "main_category": "Books",
+    "title": "Savant",
+    "average_rating": 3.8,
+    "rating_number": 28,
+    "features": [
+        "His mind could save the world... if she can save him from the human race.",
+        "The Shield is Earth’s only defence. Rendering the planet invisible from space, it keeps humanity safe – and hidden. The exceptional minds of the Actives maintain the Shield; without them it cannot function.When an Active called Tobe finds himself caught up in a probability loop, the Shield is compromised. Soon, Tobe’s malady spreads among the Actives and Earth becomes vulnerable for the first time in a generation.Tobe’s assistant, Metoo, is only interested in his wellbeing. Earth security’s paramount concern is the preservation of the Shield. As Metoo strives to prevent Tobe’s masters from undermining his fragile equilibrium, humanity is left dangerously exposed..."
+    ],
+    "description": [
+        "About the Author",
+        "Nik Abnett has published work in a number of mediums, including advertising, training manuals, comics and short stories. She has worked as a ghost writer, and regularly collaborates with her partner, novelist and comic author Dan Abnett. In 2012 she was runner-up for the inaugural Mslexia novel-writing competition. Savant is her first solo, independent full-length work of fiction and publishes summer 2016. Nik was educated at Stirling University, and lives and works in Maidstone, Kent."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/518NcCao3tL._SX324_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nik Abnett (Author)",
+    "categories": [
+        "Books",
+        "Science Fiction & Fantasy",
+        "Science Fiction"
+    ],
+    "details": "{\"Publisher\": \"Solaris (October 4, 2016)\", \"Language\": \"English\", \"Paperback\": \"354 pages\", \"ISBN 10\": \"1781084572\", \"ISBN 13\": \"978-1781084571\", \"Item Weight\": \"7.1 ounces\", \"Dimensions\": \"5.25 x 0.8 x 7.81 inches\"}",
+    "parent_asin": "1781084572",
+    "bought_together": null,
+    "subtitle": "Paperback – October 4, 2016",
+    "author": null
+}

@@ -1,0 +1,53 @@
+{
+  "item_id": 3063,
+  "metadata": {
+    "main_category": "Gift Cards",
+    "title": "Tractor Supply Company Gift Card",
+    "average_rating": 4.9,
+    "rating_number": 2708,
+    "features": [
+      "Tractor Supply Company is the largest operator of rural lifestyle retail stores in the United States, operating over 1,500 stores in 49 states.",
+      "No returns and no refunds on gift cards."
+    ],
+    "description": [
+      "Tractor Supply Company is the largest operator of rural lifestyle retail stores in the United States, operating over 1,500 stores in 49 states. Stores supply the unique products to support their customers' rural lifestyle, from welders and generators to animal care products and men and women's workwear. You can also find pet supplies, animal feed, power tools, riding mowers, lawn and garden products and more. Each store team includes welders, farmers and horse owners who collectively provide an exceptional depth of knowledge and resources."
+    ],
+    "price": "50.0",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51Nu3xiHuUL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51Nu3xiHuUL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Tractor Supply Company",
+    "categories": [
+      "Gift Cards",
+      "Gift Card Categories",
+      "Home Improvement"
+    ],
+    "details": "{\"Package Dimensions\": \"5.2 x 4 x 0.01 inches; 0.18 Ounces\", \"Item model number\": \"SVQQPE\", \"Date First Available\": \"December 31, 2015\", \"Domestic Shipping\": \"Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.\", \"International Shipping\": \"This item is not eligible for international shipping.  Learn More\"}",
+    "parent_asin": "B01GKWEISG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Gift Cards"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "item_id": 1408,
+  "metadata": {
+    "main_category": "Pet Supplies",
+    "title": "Petco Brand - Good2Go Red No Pull Dog Harness, Small",
+    "average_rating": 4.8,
+    "rating_number": 26,
+    "features": [],
+    "description": [
+      "Good2Go Red No Pull Dog Harness, Large"
+    ],
+    "price": "10.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71p0Rq2yreL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81vkBveTFvS._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41mB3IuqkFL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51C49mzdVDS._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41mB3IuqkFL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51C49mzdVDS._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "GOOD2GO",
+    "categories": [
+      "Pet Supplies",
+      "Dogs",
+      "Collars, Harnesses & Leashes",
+      "Harnesses",
+      "Vest Harnesses"
+    ],
+    "details": "{\"Size\": \"s\", \"Pattern\": \"Dog\", \"Brand\": \"GOOD2GO\", \"Material\": \"Mesh\", \"Closure Type\": \"Buckle\", \"Package Dimensions\": \"6.9 x 4.4 x 0.6 inches; 0.35 Ounces\", \"Date First Available\": \"November 8, 2015\", \"Manufacturer\": \"Good2Go\"}",
+    "parent_asin": "B01AEQR728",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Pet Supplies",
+      "Dog Harnesses"
+    ],
+    "confidence": 0.95
+  }
+}

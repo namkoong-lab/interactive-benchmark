@@ -1,0 +1,79 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "TOMS Womens Serra Suede Textile Boots",
+    "average_rating": 3.9,
+    "rating_number": 11,
+    "features": [
+        "100% Suede",
+        "Boots",
+        "Suede"
+    ],
+    "description": [
+        "Toms Womens Serra Suede Textile Boots"
+    ],
+    "price": "149.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71B-j91lZ+L._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71FE8h07THL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61u8svryycL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61-E3GqW-AL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71kAKC5m8eL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71Bw6uMx+TL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61+9XSZDDuL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61Yrc-v6TnL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71Q8172sHoL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51M0s6nA6dL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51YupmyiyiL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51xx2s8BL4L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/515qL8+0IrL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61JenGjsZ4L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51nb4W-6yPL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41lMlwbi5OL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51ASf0hxmSL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61PiHR5ffYL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51M0s6nA6dL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51YupmyiyiL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51xx2s8BL4L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/515qL8+0IrL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/61JenGjsZ4L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51nb4W-6yPL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41lMlwbi5OL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51ASf0hxmSL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/61PiHR5ffYL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "TOMS",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Boots",
+        "Mid-Calf"
+    ],
+    "details": "{\"Item model number\": \"Serra Boot\", \"Department\": \"Womens\", \"Date First Available\": \"September 3, 2015\"}",
+    "parent_asin": "B07BQPG1RK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

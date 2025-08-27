@@ -1,0 +1,57 @@
+{
+  "item_id": 122,
+  "metadata": {
+    "main_category": "Arts, Crafts & Sewing",
+    "title": "Alpine WQA308ABB Alpine-15 Butterfly Stake, Multi 24",
+    "average_rating": 1.0,
+    "rating_number": 1,
+    "features": [
+      "15 inch high, glass butterfly planter stake",
+      "The thin metal stakes are easy to conceal giving the illusion of real butterflies",
+      "By a spring to the stake, butterfly playfully bounces back & forth when touched or blown by the wind"
+    ],
+    "description": [
+      "15 inch high, glass butterfly planter stake"
+    ],
+    "price": "9.26",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61pE9iIr2AL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31vcoLXQaJL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31vcoLXQaJL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Alpine",
+    "categories": [
+      "Patio, Lawn & Garden",
+      "Gardening & Lawn Care",
+      "Plant Support Structures",
+      "Garden Stakes"
+    ],
+    "details": "{\"Product Dimensions\": \"5.12 x 1.18 x 14.57 inches\", \"Item model number\": \"WQA308ABB\", \"Item Weight\": \"3.36 ounces\", \"Manufacturer\": \"Alpine Corporation\", \"Country of Origin\": \"USA\", \"Date First Available\": \"July 20, 2015\"}",
+    "parent_asin": "B01MQI2YYM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Outdoor Living",
+      "Garden Decor"
+    ],
+    "confidence": 0.9
+  }
+}

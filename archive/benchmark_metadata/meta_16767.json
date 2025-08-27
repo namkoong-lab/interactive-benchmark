@@ -1,0 +1,64 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Reebok X Melody Ehsani Women Freestyle Hi Int Wedge",
+    "average_rating": 3.7,
+    "rating_number": 7,
+    "features": [
+        "Rubber",
+        "Rubber sole",
+        "Brand New",
+        "100% Authentic",
+        "Original Packaging"
+    ],
+    "description": [
+        "Reebok Classic x Melody Ehsani Constellation Pack Hi Int Women's Wedge Yellow/Silver/White M47470"
+    ],
+    "price": "49.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61AFlUbEsnL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61UTSJmoN5L._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61s916D0nLL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/513OYzse7bL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61nRObv5MtL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/516bIFLcxNL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41lXVPXrHOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51RrbGxqRdL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41AGVp4AZCL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51+5pbp9zXL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/516bIFLcxNL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41lXVPXrHOL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51RrbGxqRdL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41AGVp4AZCL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51+5pbp9zXL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Reebok",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Fashion Sneakers"
+    ],
+    "details": "{\"Item model number\": \"M47470\", \"Department\": \"Womens\", \"Date First Available\": \"September 18, 2014\"}",
+    "parent_asin": "B07BL5KQ15",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,56 @@
+{
+    "main_category": "Grocery",
+    "title": "Iguana Hot Sauce, Radioactive Atomic Pepper, 5 fl oz",
+    "average_rating": 4.6,
+    "rating_number": 256,
+    "features": [
+        "The package length of the product is 8.6 inches",
+        "The package width of the product is 3.2 inches",
+        "The package height of the product is 2.5 inches",
+        "Specialty: Organic"
+    ],
+    "description": [
+        "We took Iggy on a road trip out west in an old Caddie convertible. As we were passing the Alamogordo Testing Grounds, Iggy got antsy and bailed. we now have a highly-classified, top secret pepper and Iggy glows a little at night. So you like it hot, do you? A full 50% hotter than our Iguana XXX, this blistering blend of 'top secret' hot peppers, with a total pepper content of 65%, is definitely not for the faint of heart. In fact, this sauce is pretty much as hot as we think can be tolerated by any sort of reasonably sane person. And as for those artificial pepper-extract sauces, we say 'Stop the insanity!' They have crafted Iguana Radioactive from fresh, natural ingredients in a kitchen, not a laboratory. It's a great sauce for a natural pepper high when you just feel like cutting loose and experimenting with spontaneous combustion. It's actually very tasty as well, with a bright lime, carrot, onion and garlic base. Super-naturally hot and all-natural, too."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61HNvUIXRsL._SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41cglVEQ0yL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41cglVEQ0yL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Elijah's Xtreme - We make REAL hot sauce",
+            "Melinda's Mini Liquid Spice Rack"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/07355acec3634f17a507aac19bdf9f46?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0de2899fbe684f75b2dbd868aebe2d56?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            ""
+        ]
+    },
+    "store": "Iguana",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Sauces, Gravies & Marinades",
+        "Hot Sauce"
+    ],
+    "details": "{\"UPC\": \"751059900109\", \"Manufacturer\": \"IGUANA\"}",
+    "parent_asin": "B0014KZM7G",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

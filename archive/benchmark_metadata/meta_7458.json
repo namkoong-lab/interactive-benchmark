@@ -1,0 +1,47 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "Cecil Rhodes Man and Empire-Maker",
+    "average_rating": 3.1,
+    "rating_number": 24,
+    "features": [
+        "This book was converted from its physical edition to the digital format by a community of volunteers. You may find it for free on the web. Purchase of the Kindle edition includes wireless delivery."
+    ],
+    "description": [
+        "About the Author",
+        "Princess Catherine Radziwi?? (1858-1941) was a Polish princess from the Polish-Lithuanian aristocratic Radziwi?? family. She was born as Countess Ekaterina Adamovna Rzewuska. She married Prince Wilhelm Radziwi?? at age 15 and moved to Berlin to live with his family. It was speculated that she was the author of a book gossiping about the German Emperor William II and Berlin society in 1884 under the pen name Paul Vasili. She stalked the English-born South African politician Cecil Rhodes and asked him to marry her, but he refused. She then got revenge by forging his name on a promissory note. She was convicted of forging Rhodes' signature and spent time in a South African jail for her crimes.",
+        "--This text refers to an alternate",
+        "kindle_edition",
+        "edition."
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51IE3ZkmmPL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Princess Radziwill, Catherine (Author)   Format: Kindle Edition",
+    "categories": [
+        "Books",
+        "Biographies & Memoirs",
+        "Professionals & Academics"
+    ],
+    "details": "{\"Publication date\": \"May 17, 2012\", \"Language\": \"English\", \"File size\": \"295 KB\", \"Simultaneous device usage\": \"Unlimited\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"154 pages\", \"Page numbers source ISBN\": \"1978086431\"}",
+    "parent_asin": "B00849JTEM",
+    "bought_together": null,
+    "subtitle": "Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Princess Catherine Radziwill', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

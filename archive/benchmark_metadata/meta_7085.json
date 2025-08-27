@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Standards",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "(Big Note Songbook). The second edition of this songbook features 15 great songs arranged for Big-Note Piano. Includes: All the Way * Georgia on My Mind * Moon River * Strangers in the Night * The Way You Look Tonight * and more."
+    ],
+    "description": [
+        "About the Author",
+        "Founded in 1947, Hal Leonard LLC has become the worlds largest print music publisher, representing some of the greatest songwriters and artists of all time. We are proud to publish titles of interest to all musicians as well as music lovers, from songbooks and instructional titles to artist biographies and instrument price guides to books about the music industry and all the performing arts."
+    ],
+    "price": "28.24",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51XFRY8936L._SX373_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Hal Leonard Corp. (Creator)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "Music"
+    ],
+    "details": "{\"Publisher\": \"Hal Leonard; 2nd edition (October 1, 1986)\", \"Language\": \"English\", \"Paperback\": \"48 pages\", \"ISBN 10\": \"1423406931\", \"ISBN 13\": \"978-1423406938\", \"Item Weight\": \"7.4 ounces\", \"Dimensions\": \"9 x 0.13 x 12 inches\"}",
+    "parent_asin": "1423406931",
+    "bought_together": null,
+    "subtitle": "Paperback – October 1, 1986",
+    "author": null
+}

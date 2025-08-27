@@ -1,0 +1,45 @@
+{
+    "main_category": "Books",
+    "title": "Here We Go Round the Mulberry Bush (Classic Books With Holes)",
+    "average_rating": 4.6,
+    "rating_number": 41,
+    "features": [
+        "In this version of the traditional nursery rhyme, illustrations and lyrics depict a child's busy day."
+    ],
+    "description": [
+        "About the Author",
+        "Annie Kubler",
+        "was born in 1960, in the north east of France, in a mountainous area called the Vosges, where she spent her childhood. After gaining a National Diploma in Visual Communication at the School of Decorative Arts in Strasbourg, with a specialisation in children's illustration, she moved to England in 1985."
+    ],
+    "price": "13.52",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61f3J+p8e2L._SY498_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Pam Adams (Author),  Annie Kubler (Illustrator)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Literature & Fiction"
+    ],
+    "details": "{\"Publisher\": \"Childs Play Intl Ltd; First American Edition - 1965 (January 1, 1965)\", \"Language\": \"English\", \"Board book\": \"16 pages\", \"ISBN 10\": \"0859537951\", \"ISBN 13\": \"978-0859537957\", \"Reading age\": \"2 - 4 years\", \"Item Weight\": \"7.1 ounces\", \"Dimensions\": \"6.5 x 0.5 x 6.5 inches\"}",
+    "parent_asin": "0859537951",
+    "bought_together": null,
+    "subtitle": "Board book – Picture Book, January 1, 1965",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Pam Adams', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

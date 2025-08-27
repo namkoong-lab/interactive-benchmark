@@ -1,0 +1,54 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Acrylic Wine Glasses",
+    "average_rating": 3.3,
+    "rating_number": 2,
+    "features": [
+        "Lightweight and Easy to Use",
+        "No Worry About Shattering Glass",
+        "Great For Camping and Around the Pool",
+        "Money Back Guarantee",
+        "Sold in Sets of Two! Each 14oz glass is 8\" tall"
+    ],
+    "description": [
+        "Price is for a set of two glasses."
+    ],
+    "price": "21.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/6123qe-U+GL._AC_SL1171_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Z7IB1IAgL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41xqcLNKRjL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41Z7IB1IAgL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41xqcLNKRjL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Acrylic Wine Glasses",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Glassware & Drinkware",
+        "Wine & Champagne Glasses",
+        "Wine Glasses"
+    ],
+    "details": "{\"Brand\": \"Acrylic Wine Glasses\", \"Color\": \"Clear\", \"Special Feature\": \"Lightweight\", \"Style\": \"Modern\", \"Shape\": \"Round\", \"Pattern\": \"Solid\", \"Product Care Instructions\": \"Hand Wash Only\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"2\", \"Item Weight\": \"6.7 ounces\", \"Number of Items\": \"2\", \"League\": \"Ncaa\", \"Package Dimensions\": \"8.2 x 5.6 x 2.8 inches\", \"Manufacturer\": \"Greenbrier International, INC.\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 1277954, \"Wine Glasses\": 24055, \"Sports Fan Cups & Glasses\": 67839}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"August 16, 2015\", \"Material Fabric\": \"\", \"\": \"Capacity 14 Fluid Ounces\"}",
+    "parent_asin": "B01405SQ6A",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

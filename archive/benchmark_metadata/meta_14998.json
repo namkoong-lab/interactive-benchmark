@@ -1,0 +1,69 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Isaac Mizrahi Boys' Slim Fit 3 Piece Velvet Suit",
+    "average_rating": 4.4,
+    "rating_number": 70,
+    "features": [
+        "80% Cotton, 20% Polyester",
+        "Imported",
+        "Button closure",
+        "Machine Wash",
+        "Jacket features notch lapel and two-button closure",
+        "Slim fit pant featuring front slant pockets",
+        "Pant features adjustable waistband for a tight, custom fit",
+        "Ready to wear with hemmed bottom",
+        "Soft velvet exterior for ultimate comfort"
+    ],
+    "description": [
+        "This velvet suit is perfect for that special occasion. It features a matching jacket, pant, and vest made of rich, soft velvet. Your little one is sure to turn heads with this outfit."
+    ],
+    "price": "121.31",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71nG+N4FGDL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51MQ+VxsLIL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61BrC3yIB-L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91+xhySDoLL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71l3C+KQNxL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31+Vq94nC6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21-TnJgZUNL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31SZSLY+-6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/515vqd+SCbL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21cU7S448kL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31+Vq94nC6L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/21-TnJgZUNL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31SZSLY+-6L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/515vqd+SCbL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/21cU7S448kL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Isaac Mizrahi",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Boys",
+        "Clothing",
+        "Suits & Sport Coats",
+        "Suits"
+    ],
+    "details": "{\"Item model number\": \"ST2060\", \"Department\": \"boys\", \"Date First Available\": \"October 16, 2020\", \"Manufacturer\": \"Isaac Mizrahi\"}",
+    "parent_asin": "B08LBCT6QS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

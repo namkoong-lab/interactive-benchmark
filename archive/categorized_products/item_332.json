@@ -1,0 +1,62 @@
+{
+  "item_id": 332,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Beat Surf Fun",
+    "average_rating": 2.4,
+    "rating_number": 5,
+    "features": [],
+    "description": [
+      "Amazon.com",
+      "Formed in the mid-'90s by members of Crayon and Wimp Factor 14, Tullycraft continues to proudly carry the banner of the \"cuddlecore\" movement that swept the nation, or rather, the nation's sensitive geeks in the early '90s. The band's influences actually go further back, as its giddy, fast-strummed melodies and thin drumming hark back to",
+      "C86",
+      ", the classic",
+      "NME",
+      "-curated compilation that launched an era of British indie pop, from the",
+      "Pastels",
+      "to",
+      "Heavenly",
+      ". Led by bassist-singer Sean Tollefson, Tullycraft happily crowds its insular world with an abundance of references that will captivate pop scenesters. For instance, their third album's opener, \"Twee,\" mentions a Sarah Records compilation tape in the first line, before rallying around a scornfully proud cry of \"Fuck me, I'm twee!\" And Tullycraft isn't afraid to scratch their peers, as they show on \"Orange Cake Mix Song\": \"The rhythms are weak and you can't sing along/ Does the world really need another Orange Cake Mix song?/ I don't think so.\" OK, so this isn't Ja Rule vs. DMX, but in indie rock circles, it's pretty hardcore.",
+      "--Elisabeth Vincentelli"
+    ],
+    "price": "96.67",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/512d75je8oL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/512d75je8oL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Tullycraft   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Indie & Alternative",
+      "Indie & Lo-Fi",
+      "Indie Rock"
+    ],
+    "details": "{\"Package Dimensions\": \"5.6 x 5 x 0.4 inches; 3.2 Ounces\", \"Manufacturer\": \"Magic Marker\", \"Date First Available\": \"December 22, 2006\", \"Label\": \"Magic Marker\", \"Country of Origin\": \"France\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000062YBE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs"
+    ],
+    "confidence": 0.9
+  }
+}

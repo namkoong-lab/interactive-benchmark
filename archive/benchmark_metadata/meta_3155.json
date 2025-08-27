@@ -1,0 +1,44 @@
+{
+    "main_category": "Grocery",
+    "title": "Luv Box, Bai Boost, Watama Strawberry Watermelon, Buka Black Raspberry, Togo Tangerine Citrus, 18 oz , 12 Units (4 of each Flavor)",
+    "average_rating": 4.6,
+    "rating_number": 125,
+    "features": [
+        "Luv Box, Bai Boost, Watama Strawberry Watermelon, Buka Black Raspberry, Togo Tangerine Citrus, 18 oz , 12 Units (4 of each Flavor)"
+    ],
+    "description": [
+        "Luv Box, Bai Boost, Watama Strawberry Watermelon, Buka Black Raspberry, Togo Tangerine Citrus, 18 oz , 12 Units (4 of each Flavor)"
+    ],
+    "price": "32.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91W93NTLZvS._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Xtm7T9hrS.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Xtm7T9hrS._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Bai Brands",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Beverages",
+        "Bottled Beverages, Water & Drink Mixes",
+        "Sports Drinks"
+    ],
+    "details": "{\"Item Form\": \"Liquid\", \"Flavor\": \"Strawberry\", \"Number of Items\": \"12\", \"Package Information\": \"Box\", \"Item Volume\": \"18 Fluid Ounces\", \"Package Dimensions\": \"12 x 12 x 12 inches; 18 Pounds\", \"UPC\": \"650075992801\", \"Manufacturer\": \"Bai Brands\"}",
+    "parent_asin": "B092PPV64V",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

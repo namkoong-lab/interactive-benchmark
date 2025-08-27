@@ -1,0 +1,62 @@
+{
+  "item_id": 13,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "TRANSFILM 2 1/2 GAL ANTI-TRANSPIRANT",
+    "average_rating": 4.7,
+    "rating_number": 7,
+    "features": [],
+    "description": [
+      "Winter can suck the moisture right out of turf and plants. But you can provide winter protection for plants with TransFilm Anti-Transpirant. An emulsion of polyethylenes-polyterpenes, TransFilm coats leaf surfaces with a clear, glossy film that provides a water-impermeable layer to protect the plant and decrease the rate of transpiration."
+    ],
+    "price": "169.95",
+    "images": {
+      "hi_res": [
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41XuTV27RJL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41XuTV27RJL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41XuTV27RJL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/41XuTV27RJL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Bonide - Trusted Since 1926"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/04e73353db4649cab79105121697d3b2?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "PBI Gordon",
+    "categories": [
+      "Patio, Lawn & Garden",
+      "Gardening & Lawn Care",
+      "Soils, Mulches & Planting Media",
+      "Fertilizers & Plant Food"
+    ],
+    "details": "{\"Package Dimensions\": \"16 x 11 x 11 inches\", \"Item Weight\": \"22.5 pounds\", \"Manufacturer\": \"PBI Gordon\", \"Best Sellers Rank\": {\"Patio, Lawn & Garden\": 207348, \"Garden Fertilizers\": 3812}}",
+    "parent_asin": "B0007LTSD2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Outdoor Living"
+    ],
+    "confidence": 0.9
+  }
+}

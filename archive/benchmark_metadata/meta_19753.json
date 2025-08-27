@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Lady Ninja Kasumi Collection 1",
+    "average_rating": 4.1,
+    "rating_number": 30,
+    "features": [],
+    "description": [
+        "When both parents of Kasumi and her little brother arekilled, a powerful warlord adopts the children. Soon after,Kasumi joins the Kuniochi (lady ninja) in order to protecther brother and defend her new family."
+    ],
+    "price": "29.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51y+SdS1LwL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51y+SdS1LwL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Akiho Yoshizawa  (Actor),     n/a  (Director)    Rated:    Unrated    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Boxed Sets",
+        "Art House & International"
+    ],
+    "details": "{\"MPAA rating\": \"Unrated (Not Rated)\", \"Product Dimensions\": \"7.5 x 5.25 x 0.5 inches; 5.6 Ounces\", \"Media Format\": \"Multiple Formats, Box set, Color, NTSC, Subtitled\", \"Run time\": \"3 hours and 37 minutes\", \"Release date\": \"September 25, 2012\", \"Actors\": \"Akiho Yoshizawa\", \"Subtitles\": \"English\", \"Studio\": \"Tokyo Shock\", \"Number of discs\": \"3\"}",
+    "parent_asin": "B007I1TFXM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,45 @@
+{
+    "main_category": "Prime Video",
+    "title": "The Slime People",
+    "average_rating": 3.6,
+    "rating_number": 16,
+    "features": [
+        "IMDb 2.8",
+        "1 h 16 min",
+        "1963",
+        "13+"
+    ],
+    "description": [
+        "\"Golden Turkey\" fans, attention! It's a veritable voyage to the bottom of the sci-fi barrel as prehistoric \"Slime People\" emerge from the sewers of Los Angeles! The atom-age U.S. army is no match for this small band of spear-toting boogeymen and the city is evacuated."
+    ],
+    "price": "12.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Horror",
+        "Science Fiction"
+    ],
+    "details": "{\"Content advisory\": [\"Violence\", \"frightening scenes\", \"alcohol use\", \"smoking\", \"foul language\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Robert Hutton\"], \"Producers\": [\"Edward Finch Abrams\", \"Donald J. Hansen\", \"Joseph F. Robertson\"]}",
+    "parent_asin": "B09GDSKFQY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

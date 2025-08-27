@@ -1,0 +1,93 @@
+{
+  "item_id": 2500,
+  "metadata": {
+    "main_category": "Computers",
+    "title": "ASUS LGA1151 DDR4 DisplayPort HDMI SATA 6Gb/s USB 3.1 H170 ATX Motherboards H170 PRO Gaming",
+    "average_rating": 4.4,
+    "rating_number": 213,
+    "features": [
+      "LGA1151 socket for 6th Gen Intel Core Desktop Processors",
+      "Dual DDR4 2133 support",
+      "Intel Gigabit Ethernet, LANGuard: Top-speed protected networking",
+      "USB 3.1 Type-A/C and M.2",
+      "Gamer's Guardian: Highly-durable components and smart DIY features",
+      "Sonic Radar II"
+    ],
+    "description": [
+      "Supporting 6th Gen Intel Processors with a host of features including DDR4, USB 3.1 and SATA Express, H170 PRO GAMING embraces new technology. This board is truly built for gamers and includes renowned SupremeFX Audio and Gamers Guardian for long-lasting immersive gameplay. H170 PRO GAMING proudly exemplifies ASUS BEST: Breakthrough, Easy Setup, Stable, Trusted."
+    ],
+    "price": "179.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71vrJGUmQoL._AC_SL1024_.jpg",
+        null,
+        null,
+        null,
+        null,
+        "https://m.media-amazon.com/images/I/71dLXTkxwBL._AC_SL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51mnYR2yPSL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41IjEevjuvL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/516wCuouARL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31t+4uGZQ1L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51qu1XpyfOL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/514J4AUiB8L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51mnYR2yPSL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41IjEevjuvL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/516wCuouARL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31t+4uGZQ1L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51qu1XpyfOL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/514J4AUiB8L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "AW01"
+      ]
+    },
+    "videos": {
+      "title": [
+        "ASUS LGA1151 DDR4 DisplayPort HDMI SATA 6Gb/s USB 3.1 H170 ATX Motherboards H170 PRO Gaming",
+        "B550 AORUS Pro",
+        "AsRock automatic BIOS update - SUPER EASY!"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/76f09a8efc8a48fc8b78276121a83da7?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/0644091be1244a61815be34619b6f850?ref=dp_vse_rvc_1",
+        "https://www.amazon.com/vdp/06eb832a15664e029246fb43be626bd0?ref=dp_vse_rvc_2"
+      ],
+      "user_id": [
+        "",
+        "",
+        "/shop/careyholzman"
+      ]
+    },
+    "store": "ASUS",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Computer Components",
+      "Internal Components",
+      "Motherboards"
+    ],
+    "details": "{\"Standing screen display size\": \"6.9 Centimeters\", \"Processor\": \"core_i5\", \"RAM\": \"DDR4\", \"Memory Speed\": \"2133 MHz\", \"Number of USB 3.0 Ports\": \"2\", \"Brand\": \"ASUS\", \"Item model number\": \"H170 PRO GAMING\", \"Item Weight\": \"3 pounds\", \"Product Dimensions\": \"10.4 x 2.7 x 12.9 inches\", \"Item Dimensions  LxWxH\": \"10.4 x 2.7 x 12.9 inches\", \"Computer Memory Type\": \"DIMM\", \"Batteries\": \"1 Lithium Metal batteries required.\", \"Manufacturer\": \"ASUS Computer International Direct\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"August 24, 2015\", \"Best Sellers Rank\": {\"Computer Motherboards\": 1791}, \"CPU Socket\": \"LGA 1151\", \"Compatible Devices\": \"Personal Computer\", \"RAM Memory Technology\": \"DDR4\", \"Compatible Processors\": \"6th Generation Intel Core\", \"Chipset Type\": \"Intel H170\", \"Memory Clock Speed\": \"2133 MHz\", \"Platform\": \"Not Machine Specific\", \"CPU Model\": \"Core i5\", \"Memory Storage Capacity\": \"32 GB\"}",
+    "parent_asin": "B014F7BQUG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Computers",
+      "Computer Accessories",
+      "Desktop Motherboards"
+    ],
+    "confidence": 0.95
+  }
+}

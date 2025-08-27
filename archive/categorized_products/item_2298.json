@@ -1,0 +1,68 @@
+{
+  "item_id": 2298,
+  "metadata": {
+    "main_category": "Computers",
+    "title": "Rosewill RCDC-14014 6 ft. 28AWG DisplayPort to VGA Cable",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+      "Connector Type: Male Displayport to Male VGA",
+      "Connector Finish: Gold Plated",
+      "Conductor: Tinned copper",
+      "Gauge: 28AWG",
+      "Shielding Level: Triple"
+    ],
+    "description": [
+      "Specifications",
+      "Type: Displayport to VGA     Color: White     Length: 6 ft.     Connector Number: 2     Connector Detail: Displayport to VGA     Terminal Gender: Male to Male     Connector Finish: Gold Plated     Conductor: Tinned Copper     Gauge: 28AWG     Shielding Level: Triple     OD: 6.0mm     Fire Flame: VW-1"
+    ],
+    "price": "8.98",
+    "images": {
+      "hi_res": [
+        null,
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/419UU4J5ylL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31XSCFymr8L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/4122nVXf8KL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/419UU4J5ylL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31XSCFymr8L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/4122nVXf8KL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Rosewill",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Computer Accessories & Peripherals",
+      "Cables & Accessories",
+      "Cables & Interconnects"
+    ],
+    "details": "{\"Brand\": \"Rosewill\", \"Connector Type\": \"VGA\", \"Cable Type\": \"VGA\", \"Color\": \"White\", \"Connector Gender\": \"Male-to-Male\", \"Shape\": \"Round\", \"Unit Count\": \"1 Count\", \"Gauge\": \"28.0\", \"Indoor/Outdoor Usage\": \"Outdoor, Indoor\", \"Package Type\": \"Standard Packaging\", \"Item model number\": \"RCDC-14014\", \"Item Weight\": \"3.98 ounces\", \"Package Dimensions\": \"9.21 x 6.42 x 1.5 inches\", \"Manufacturer\": \"Rosewill\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"October 2, 2014\", \"Best Sellers Rank\": {\"Computer Cable Adapters\": 12469, \"Computer Cables & Interconnects\": 103654}}",
+    "parent_asin": "B00O4JZG0C",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Electronics",
+      "Adapters & Connectors"
+    ],
+    "confidence": 0.95
+  }
+}

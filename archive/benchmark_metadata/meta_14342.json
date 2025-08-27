@@ -1,0 +1,67 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Steve Madden Women's KORRAL Western Boot, black leather, 7.5 M US",
+    "average_rating": 3.8,
+    "rating_number": 5,
+    "features": [
+        "100% Leather",
+        "Imported",
+        "Man Made sole"
+    ],
+    "description": [
+        "What began as a modest $1100 investment in 1990 has developed into one of the most iconic brands in footwear. From a factory in Queens, NY, Steve Madden has revolutionized the shoe industry, merging years of experience with unique and creative designs. Inspired by rock and roll and his New York roots, his vision to provide on-trend women and men with an outlet to express their individuality is innovative, daring, and inspiring. Steve’s innate understanding of trends and unparalleled willpower have resulted in millions of customers worldwide and propelled his designs to the forefront of fashion. He has expanded the Steve Madden brand into a true lifestyle and destination for footwear, handbags and accessories, sold in over 80 countries worldwide. It’s about authenticity. It’s about embracing individuality. It’s Steve Madden."
+    ],
+    "price": "49.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/615z8DWlymL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61ESB4J0U7L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61BifmfsfrL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/511Z5ju2FiL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61pm0Xat1NL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61nfMMEaSxL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31Etp-kz4eL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31pLLZRxs4L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/319JvshTqoL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21nwuNzSDpL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31GAu9Jz4XL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31CkZR1DzyL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31Etp-kz4eL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31pLLZRxs4L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/319JvshTqoL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/21nwuNzSDpL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31GAu9Jz4XL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31CkZR1DzyL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Steve Madden",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Boot Shop",
+        "Women",
+        "Fashion",
+        "Chelsea"
+    ],
+    "details": "{\"Product Dimensions\": \"5 x 5 x 0.7 inches; 12 Ounces\", \"Item model number\": \"KORR02S1\", \"Department\": \"womens\", \"Date First Available\": \"September 12, 2018\"}",
+    "parent_asin": "B07CF97VS9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

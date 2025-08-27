@@ -1,0 +1,62 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Outerstuff boys Athletic",
+    "average_rating": 4.4,
+    "rating_number": 11,
+    "features": [
+        "Polyester,Cotton,Fleece",
+        "Elastic closure",
+        "Hoodie and Pants: 60% cotton 40% polyester",
+        "Kangaroo pouch pocket",
+        "Screen printed graphics",
+        "Pants have elastic waistband and drawcord. 2 pockets",
+        "Officially licensed by the NFL"
+    ],
+    "description": [
+        "Your little one is showing a great interest in your team, so dress them up in this Play Action set. It features the team logo hoodie, so they'll be able to show off his new favorite squad."
+    ],
+    "price": "54.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51PB0q1JgBL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61PEpnZ3qxL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61se6z8C+5L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61YoFr1oNzL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31Mwd-PcvWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31LE-qz+00L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31G9d-owuML._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41S7VFpuTjL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31Mwd-PcvWL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31LE-qz+00L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31G9d-owuML._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41S7VFpuTjL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Outerstuff",
+    "categories": [
+        "Sports & Outdoors",
+        "Fan Shop",
+        "Clothing",
+        "Sweatshirts & Hoodies"
+    ],
+    "details": "{\"Department\": \"Boys\", \"Date First Available\": \"February 20, 2022\"}",
+    "parent_asin": "B09SXJV77D",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

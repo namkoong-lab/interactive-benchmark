@@ -1,0 +1,63 @@
+{
+  "item_id": 3718,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Charles River Apparel Men's Boston Flight Jacket",
+    "average_rating": 4.1,
+    "rating_number": 95,
+    "features": [
+      "100% Nylon",
+      "Imported",
+      "Zipper closure",
+      "Machine Wash",
+      "Snap closure pockets to secure valuables",
+      "Modern silhouette with rib knit detailing on hem, collar and cuffs",
+      "Full zip jacket with 100 percent nylon lining"
+    ],
+    "description": [
+      "The men's Boston flight jacket is a fresh take on the classic bomber jacket. This fashion-forward product is wind and water-resistant, and made of soft river Tec nylon taffeta. It is fully lined with lightweight nylon. It is available in several colors and sizes, and it will look great no matter the season. Customize with an imprint of your brand logo to maximize corporate exposure on a cool jacket."
+    ],
+    "price": "50.4",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51WUrrseYML._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/51FOn99IjaL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41dSoA8xHUL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41FG0XNFqLL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41dSoA8xHUL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41FG0XNFqLL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Charles River Apparel",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men"
+    ],
+    "details": "{\"Item model number\": \"9824\", \"Department\": \"Mens\", \"Date First Available\": \"June 28, 2017\", \"Manufacturer\": \"Charles River Apparel Men's Outerwear\"}",
+    "parent_asin": "B07KMXMT5Q",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Jackets & Coats"
+    ],
+    "confidence": 0.95
+  }
+}

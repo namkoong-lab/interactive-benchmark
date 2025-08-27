@@ -1,0 +1,44 @@
+{
+    "main_category": "Digital Music",
+    "title": "Solace",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [],
+    "description": [
+        "Product Description",
+        "Jack Rinke, a pianist and composer working and living in Lincoln, Nebraska, holds degrees in Piano Performance and Composition, and has been the Composer-In-Residence at First-Plymouth Church since 1996. 'Solace' is Jack's self-produced debut CD. Jack really shines as a live performer and collaborative artist, but when you hear this disc, you will understand what we mean when we say that Jack Rinke has 'Given America the Music Their Hearts Have Been Asking For.'",
+        "About the Artist",
+        "Jack Rinke, a pianist and composer working and living in Lincoln, Nebraska, holds degrees in Piano Performance and Composition, and has been the Composer-In-Residence at First-Plymouth Church since 1996. \"Solace\" is Jack's self-produced debut CD. Jack really shines as a live performer and collaborative artist, but when you hear this disc, you will understand what we mean when we say that Jack Rinke has \"Given America the Music Their Hearts Have Been Asking For.\""
+    ],
+    "price": "9.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61s9nzZkOfL._SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/515Ty0QoiQL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/515Ty0QoiQL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jack Rinke   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "New Age",
+        "Meditation"
+    ],
+    "details": "{\"Product Dimensions\": \"5.5 x 5.5 x 0.25 inches; 2.5 Ounces\", \"Manufacturer\": \"CD Baby\", \"Original Release Date\": \"2002\", \"Date First Available\": \"December 7, 2006\", \"Label\": \"CD Baby\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000063W3Z",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

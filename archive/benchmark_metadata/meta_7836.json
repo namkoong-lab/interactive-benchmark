@@ -1,0 +1,51 @@
+{
+    "main_category": "Books",
+    "title": "Wedding Flowers",
+    "average_rating": 4.4,
+    "rating_number": 57,
+    "features": [
+        "The author of SImple Flowers presents a fresh approach to selecting the right wedding flowers to suit any taste, replacing complex arrangements with simplicity and presenting ideas that should fit any wedding ceremony, from the traditional to the contemporary, and including tips on decorative, cermonial, and reception flowers; the bridal bouquet, and floral accessories. 12,000 first printing."
+    ],
+    "description": [
+        "About the Author",
+        "Paula Pryke",
+        "has over fifteen years of experience at creating beautiful weddings. Her work is featured regularly in all the leading magazines.",
+        "Wedding Flowers",
+        "builds on the success of her five previous titles:",
+        "Simple Flowers; Festive Flowers; Flowers, Flowers; Flair with Flowers",
+        "; and",
+        "Living Color",
+        ". She works as a floral consultant and has her own school for floral arrangement and design in London. Always a trendsetter, Paula Pryke continues to innovate with this latest title."
+    ],
+    "price": "21.21",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51NGVIP-u0L._SX456_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Paula Pryke (Author)",
+    "categories": [
+        "Books",
+        "Crafts, Hobbies & Home",
+        "Crafts & Hobbies"
+    ],
+    "details": "{\"Publisher\": \"Rizzoli (February 7, 2004)\", \"Language\": \"English\", \"Hardcover\": \"160 pages\", \"ISBN 10\": \"0847825817\", \"ISBN 13\": \"978-0847825813\", \"Item Weight\": \"2.15 pounds\", \"Dimensions\": \"9.37 x 0.83 x 10.12 inches\"}",
+    "parent_asin": "0847825817",
+    "bought_together": null,
+    "subtitle": "Hardcover – February 7, 2004",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Paula Pryke', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

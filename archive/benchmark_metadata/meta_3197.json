@@ -1,0 +1,52 @@
+{
+    "main_category": "Grocery",
+    "title": "Albert's Fruit Chews - Grape Flavor (240 Candies)",
+    "average_rating": 4.5,
+    "rating_number": 389,
+    "features": [
+        "240 count bag",
+        "Grape flavor",
+        "Each candy individually wrapped"
+    ],
+    "description": [
+        "240 Count Bag of Wrapped Grape Candies"
+    ],
+    "price": "9.93",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31H4fv199uL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31H4fv199uL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "TASTY BUT OLD"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/5aaf3e9959e84736addb1aa943e20cb9?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "AF7FB4EGRBDC3Y5T7SHBYDFAYZRQ"
+        ]
+    },
+    "store": "Albert's",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Candy & Chocolate",
+        "Taffy"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"10.51 x 8.27 x 2.28 inches; 1.63 Pounds\", \"UPC\": \"072084018219\", \"Manufacturer\": \"Albert's & Son, Inc\"}",
+    "parent_asin": "B006YDDM7U",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

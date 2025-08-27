@@ -1,0 +1,47 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "A History of Witchcraft in England from 1558 to 1718",
+    "average_rating": 4.1,
+    "rating_number": 201,
+    "features": [
+        "This book was converted from its physical edition to the digital format by a community of volunteers. You may find it for free on the web. Purchase of the Kindle edition includes wireless delivery."
+    ],
+    "description": [
+        "About the Author",
+        "Wallace Notestein was an American historian and Sterling Professor of English History at Yale University from 1928 to 1947. (Wikipedia)",
+        "--This text refers to an alternate",
+        "kindle_edition",
+        "edition."
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51pfRk8pAFL._SY346_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Wallace Notestein (Author)   Format: Kindle Edition",
+    "categories": [
+        "Books",
+        "History",
+        "Europe"
+    ],
+    "details": "{\"Publication date\": \"March 24, 2011\", \"Language\": \"English\", \"File size\": \"699 KB\", \"Simultaneous device usage\": \"Unlimited\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"405 pages\"}",
+    "parent_asin": "B004TP5PU2",
+    "bought_together": null,
+    "subtitle": "Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Wallace Notestein', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

@@ -1,0 +1,57 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Plus Divine Feline",
+    "average_rating": 4.2,
+    "rating_number": 14,
+    "features": [
+        "Wet look catsuit",
+        "Latex collar",
+        "Aunk accent",
+        "What's Included - Catsuit, Headpiece, Wrist cuffs & Tail",
+        "Not Included - Staff"
+    ],
+    "description": [
+        "Feel the power in your purr in this plus size Divine Feline costume featuring a long sleeved black wet look catsuit with gold Egyptian detailing, a gold latex collar, matching bejeweled arm and wrist cuffs, a prominent cat mask, and attached tail. (Staff and shoes not included.)"
+    ],
+    "price": "60.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61c-LscpZdL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61gQgl2gDkL._AC_UL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31Fgb-rWY1L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/317TG2xNQ-L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/511ICCqlhmL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31Fgb-rWY1L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/317TG2xNQ-L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/511ICCqlhmL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Starline",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Costumes & Accessories",
+        "Women",
+        "Costumes & Cosplay Apparel",
+        "Costumes"
+    ],
+    "details": "{\"Package Dimensions\": \"15 x 11 x 2.49 inches\", \"Department\": \"womens\", \"Date First Available\": \"January 24, 2020\", \"Manufacturer\": \"Starline Costumes\"}",
+    "parent_asin": "B0845VD4N8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

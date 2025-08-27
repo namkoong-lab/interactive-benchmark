@@ -1,0 +1,37 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Pokemon Earring Set 3 Pairs ( Bulbasaur, Poke Ball and Green Plant Bulb)",
+    "average_rating": 5.0,
+    "rating_number": 12,
+    "features": [],
+    "description": [
+        "Brand new Pokemon earrings. 3 total pairs. Green jewelry bag is NOT included."
+    ],
+    "price": "17.98",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31IKoyAELNL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31IKoyAELNL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Pokemon",
+    "categories": [],
+    "details": "{\"Product Dimensions\": \"4 x 4 x 0.25 inches; 0.8 Ounces\", \"Item model number\": \"PMBLUBER02-BP\", \"Date First Available\": \"April 25, 2017\"}",
+    "parent_asin": "B01M6ZMTXT",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

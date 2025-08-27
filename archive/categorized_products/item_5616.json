@@ -1,0 +1,65 @@
+{
+  "item_id": 5616,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Large Daily Poly Zippered Tote Bag",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "Polyester",
+      "Large, Spacious, and Lightweight",
+      "Shoulder Length Strap",
+      "Full Top Zipper Closure",
+      "Front Outside Pocket",
+      "Bag Dimensions: 19” W x 12” H x 4-1/2” D"
+    ],
+    "description": [
+      "This Large Poly Zipper Shoulder Tote is perfect for toting around everything you need for an outing! Equipped with a shoulder length strap so its easy to carry, full zipper closure on top, zipper pocket inside, and a pocket infront with velcro closure. Bag Dimensions: 20” W x 16” H x 6” D"
+    ],
+    "price": "9.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81hfcFoPx4L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71eevGMfP9L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41kiwqEeqQL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31zy2jHu50L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41kiwqEeqQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31zy2jHu50L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Ensign Peak",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Handbags & Wallets",
+      "Top-Handle Bags"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"womens\", \"Date First Available\": \"January 7, 2015\"}",
+    "parent_asin": "B00RY3YBSS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Handbags",
+      "Tote Bags"
+    ],
+    "confidence": 0.95
+  }
+}

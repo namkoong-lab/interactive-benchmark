@@ -1,0 +1,57 @@
+{
+  "item_id": 593,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Posterazzi DAP18514 Veronica Lake-1940, George Hurrell Photo Print, 8 x 10, Multi",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+      "Title=Veronica Lake - 1940, Photo by George Hurrell",
+      "Artist=N/A",
+      "Product Type=Photo Print",
+      "Publisher=Dark Art Portal"
+    ],
+    "description": [
+      "Veronica Lake - 1940, Photo by George Hurrell was printed on Premium Heavy Stock Paper and is approximately 8 x 10 inches in size. Perfect for any room."
+    ],
+    "price": "14.25",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61tHYoKT4KL._AC_SL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51ZMZCsJYcL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51ZMZCsJYcL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Posterazzi",
+    "categories": [
+      "Home & Kitchen",
+      "Wall Art",
+      "Posters & Prints"
+    ],
+    "details": "{\"Size\": \"8x10\", \"Product Dimensions\": \"10\\\"L x 8\\\"W\", \"Item Weight\": \"1 Pounds\", \"Number of Items\": \"1\", \"Orientation\": \"Portrait\", \"Shape\": \"Rectangular\", \"Theme\": \"Art\", \"Frame Type\": \"Framed\", \"Material\": \"Paper\", \"Color\": \"Multicolor\", \"Brand\": \"Posterazzi\", \"Frame Material\": \"Unframed\", \"Mounting Type\": \"Wall Mount\", \"Is framed?\": \"No\", \"Manufacturer\": \"Posterazzi\", \"Country of Origin\": \"USA\", \"Item model number\": \"DAP18514\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B08216M3HW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Home Decor",
+      "Wall Decor"
+    ],
+    "confidence": 0.95
+  }
+}

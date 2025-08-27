@@ -1,0 +1,65 @@
+{
+  "item_id": 3233,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Columbia Sportswear Womens Silver Ridge Plaid Long Sleeve Shirt",
+    "average_rating": 3.9,
+    "rating_number": 64,
+    "features": [
+      "62% polyester/38% supplex nylon Silver Ridge plain weave. 53% nylon/47% Tactel nylon Silver Ridge ripstop",
+      "Imported",
+      "Pull On closure",
+      "Machine Wash",
+      "Roll-Up Sleeves",
+      "Omni-Wick Advanced Evaporation",
+      "Omni-Shade UPF 30 Sun Protection",
+      "Pockets with Hook and Loop Closure",
+      "Sun Protection Cuff"
+    ],
+    "description": [
+      "Designed to keep you dry, protected and comfortable during long active days in the sun, this Columbia classic features quick-wicking material, strategic venting, stretch construction and built-in UPF 50 blocking power."
+    ],
+    "price": "55.0",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41sosSHYjmL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41sosSHYjmL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Columbia",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Active",
+      "Active Shirts & Tees",
+      "Button-Down Shirts"
+    ],
+    "details": "{\"Package Dimensions\": \"9 x 6.2 x 2.5 inches; 6.38 Ounces\", \"Department\": \"womens\", \"Date First Available\": \"June 6, 2014\", \"Manufacturer\": \"Columbia (Sporting Goods)\"}",
+    "parent_asin": "B00KTETCO2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops",
+      "Women's Sun Protection Clothing"
+    ],
+    "confidence": 0.95
+  }
+}

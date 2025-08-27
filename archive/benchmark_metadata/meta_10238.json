@@ -1,0 +1,43 @@
+{
+    "main_category": "Digital Music",
+    "title": "Refugee",
+    "average_rating": 4.8,
+    "rating_number": 4,
+    "features": [],
+    "description": [
+        "Danish progressive 70's rockers."
+    ],
+    "price": "35.97",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/517Q2VJDHGL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/517Q2VJDHGL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Savage Rose  (Artist)    Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "International Music",
+        "Europe",
+        "Continental Europe",
+        "Denmark"
+    ],
+    "details": "{\"Product Dimensions\": \"4.75 x 5.25 x 0.5 inches; 3.52 Ounces\", \"Manufacturer\": \"Universal\", \"Date First Available\": \"February 3, 2007\", \"Label\": \"Universal\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000AV901E",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

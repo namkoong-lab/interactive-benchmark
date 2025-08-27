@@ -1,0 +1,63 @@
+{
+    "main_category": "Books",
+    "title": "Victory",
+    "average_rating": 4.1,
+    "rating_number": 333,
+    "features": [
+        "Baron Axel Heyst and his lover, Lena, a woman he has saved from a sordid life, share an idyllic existence on the island of Samburan until three intruders from Lena's past threaten to destroy their happiness"
+    ],
+    "description": [
+        "About the Author",
+        "Joseph Conrad",
+        "(originally Józef Teodor Konrad Nalecz Korzeniowski) was born in the Ukraine in 1857 and grew up under Tsarist autocracy. His parents, ardent Polish patriots, died when he was a child, following their exile for anti-Russian activities, and he came under the protection of his tradition-conscious uncle, Thaddeus Bobrowski, who watched over him for the next twenty-five years. In 1874 Bobrowski conceded to his nephew's passionate desire to go to sea, and Conrad travelled to Marseilles, where he served in French merchant vessels before joining a British ship in 1878 as an apprentice. In 1886 he obtained British nationality and his Master's certificate in the British Merchant Service. Eight years later he left the sea to devote himself to writing, publishing his first novel,",
+        "Almayer's Folly",
+        ", in 1895. The following year he married Jessie George and eventually settled in Kent, where he produced within fifteen years such modern classics as",
+        "Youth",
+        ",",
+        "Heart of Darkness",
+        ",",
+        "Lord Jim",
+        ",",
+        "Typhoon",
+        ",",
+        "Nostromo",
+        ",",
+        "The Secret Agent",
+        "and",
+        "Under Western Eyes",
+        ". He continued to write until his death in 1924. Today Conrad is generally regarded as one of the greatest writers of fiction in English—his third language. He once described himself as being concerned 'with the ideal value of things, events and people'; in the Preface to",
+        "The Nigger of the 'Narcissus'",
+        "he defined his task as 'by the power of the written word ... before all, to make you see'."
+    ],
+    "price": "4.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/517B8Q6YF3L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Joseph Conrad (Author),  Frederick R. Karl (Introduction)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Classics"
+    ],
+    "details": "{\"Publisher\": \"Signet Classics (February 5, 1991)\", \"Language\": \"English\", \"Mass Market Paperback\": \"336 pages\", \"ISBN 10\": \"0451525310\", \"ISBN 13\": \"978-0451525314\", \"Item Weight\": \"6.1 ounces\", \"Dimensions\": \"7 x 1 x 5 inches\"}",
+    "parent_asin": "0451525310",
+    "bought_together": null,
+    "subtitle": "Mass Market Paperback – February 5, 1991",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/31j5pe+dWYL._SY600_.jpg', 'name': 'Joseph Conrad', 'about': ['Polish author Joseph Conrad is considered to be one of the greatest English-language novelists, a remarkable achievement considering English was not his first language. Conrad s literary works often featured a nautical setting, reflecting the influences of his early career in the Merchant Navy, and his depictions of the struggles of the human spirit in a cold, indifferent world are best exemplified in such seminal works as Heart of Darkness, Lord JimM, The Secret Agent, Nostromo, and Typhoon. Regarded as a forerunner of modernist literature, Conrad s writing style and characters have influenced such distinguished writers as F. Scott Fitzgerald, Ernest Hemingway, William S. Burroughs, Hunter S. Thompson, and George Orwell, among many others. Many of Conrad s novels have been adapted for film, most notably Heart of Darkness, which served as the inspiration and foundation for Francis Ford Coppola s 1979 film Apocalypse Now.', \"Conrad Fischer, M.D., is one of the most experienced educators in medicine today. His breadth of teaching extends from medical students to USMLE prep to Specialty Board exams. In addition, Dr. Fischer is the Associate Chief of Medicine for Educational and Academic Activities at SUNY Downstate School of Medicine, and is an Attending Physician at King's County Hospital in Brooklyn, NY. Dr. Fischer has been Chairman of Medicine for Kaplan Medical since 1999, and has held Residency Program Director positions at both Maimonides Medical Center and Flushing Hospital in New York City.\", 'Sonia Reichert, MD., is the Director of Medical Curriculum for Kaplan Medical.']}"
+}

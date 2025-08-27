@@ -1,0 +1,84 @@
+{
+  "item_id": 5388,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Joe's Jeans Men's Kenny Derby Shoe",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+      "100% Leather",
+      "Imported",
+      "Rubber sole"
+    ],
+    "description": [
+      "Lightly burnished oxford with allover perforations, laced vamp, grommet eyelets"
+    ],
+    "price": "195.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81Db+Vc5TWL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/718QKCh70XL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71yqKa0i9JL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71UrNlrpm3L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81EewW7bb7L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81egthPokrL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/818cLEnF0xL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81I2mvemrhL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41HDv-8PjOL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51skbobWklL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51Dw6DOoEcL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31nAa6NHhoL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41bezFjoB4L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/418Fzw7ON2L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41jx9+69AVL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41RXDCid+fL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41HDv-8PjOL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51skbobWklL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Dw6DOoEcL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31nAa6NHhoL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41bezFjoB4L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/418Fzw7ON2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jx9+69AVL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41RXDCid+fL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Joe's Jeans",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Shoes",
+      "Oxfords"
+    ],
+    "details": "{\"Item Weight\": \"1.5 Pounds\", \"Item model number\": \"Kenny\", \"Department\": \"mens\", \"Date First Available\": \"August 31, 2015\", \"Manufacturer\": \"Joe's\"}",
+    "parent_asin": "B00W5R6FX2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

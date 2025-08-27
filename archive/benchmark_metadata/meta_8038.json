@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Van Sickle's Modern Airmanship",
+    "average_rating": 3.9,
+    "rating_number": 8,
+    "features": [
+        "The ultimate and standard aviation encyclopedia for 43 years. Modern Airmanship covers every subject from aerodynamics, to emergency and survival techniques, to airplane and aerospace structures. It is also the preeminent \"how-to\" source for all aviation professionals. The Eight Edition, lavishly illustrated, includes the latest information on federal regulations and technical advances. From the theory of flight, airplane and aerospace structures to high performance aircraft and weather, this book covers every topic related to the aviation industry."
+    ],
+    "description": [
+        "About the Author",
+        "McGraw-Hill authors represent the leading experts in their fields and are dedicated to improving the lives, careers, and interests of readers worldwide"
+    ],
+    "price": "42.81",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Y6AoMJncL._SX310_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "John F. Welch (Author),  Lewis Bjork (Author),  Linda Bjork (Author)",
+    "categories": [
+        "Books",
+        "Engineering & Transportation",
+        "Transportation"
+    ],
+    "details": "{\"Publisher\": \"McGraw-Hill Professional; 8th edition (July 13, 1999)\", \"Language\": \"English\", \"Hardcover\": \"926 pages\", \"ISBN 10\": \"0070696330\", \"ISBN 13\": \"978-0070696334\", \"Item Weight\": \"2.9 pounds\", \"Dimensions\": \"6.25 x 1.75 x 9.5 inches\"}",
+    "parent_asin": "0070696330",
+    "bought_together": null,
+    "subtitle": "8th Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Neil D. Van Sickle', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

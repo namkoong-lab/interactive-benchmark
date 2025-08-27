@@ -1,0 +1,65 @@
+{
+  "item_id": 3144,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Charles River Apparel mens Navigator Jacket (Regular & Big-tall Sizes)",
+    "average_rating": 4.2,
+    "rating_number": 323,
+    "features": [
+      "100% Nylon",
+      "Imported",
+      "Zipper closure",
+      "Machine Wash",
+      "Quilted nylon (3.50 cover./yd2) heavy-duty needle-punch insulation liner in sleeves provides easy on/off",
+      "Durable, wind and water resistant and weather rated to 16 degree during moderate activity",
+      "3-season versatility",
+      "Zippered pockets and inside valuables pocket",
+      "Stand-up collar with wind flap provides enhanced weather protection"
+    ],
+    "description": [
+      "Wind & water-resistant river bank taslan nylon with anti-pill summit fleece lining (16.22 oz./lyd/330 gsm). Quilted nylon & heavy duty needle-punched insulation in sleeves provides extra warmth. Stand-up collar with wind flap provides enhanced weather protection. Zippered pockets & inside valuables pocket. Elasticized cuffs with hook & loop closure & elasticized hem. Weather rated to 16 degree (during moderate activity)."
+    ],
+    "price": "39.24",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/517cMMOXIzL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/51uAdziHmGL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41P3-Y5zxkL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31KvuYZgThL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41P3-Y5zxkL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31KvuYZgThL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Charles River Apparel",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men"
+    ],
+    "details": "{\"Item model number\": \"9934\", \"Department\": \"mens\", \"Date First Available\": \"August 15, 2017\", \"Manufacturer\": \"Charles River Apparel Men's Outerwear\"}",
+    "parent_asin": "B07KMWX18L",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Jackets & Coats"
+    ],
+    "confidence": 0.95
+  }
+}

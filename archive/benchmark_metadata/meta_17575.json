@@ -1,0 +1,63 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Define the word : Vocabulary Builder",
+    "average_rating": 3.1,
+    "rating_number": 13,
+    "features": [
+        "great learning tool",
+        "over 1300+ words",
+        "simple and user friendly user interface"
+    ],
+    "description": [
+        "Fun and addictive.Given a definition, find the correct word.A great way to build your vocabulary while having fun at the same time.Define the word is aimed at building your vocabulary in a fun way.this game has lots of common SAT and GRE words for you to learn. There are over 1300+ words and definition to learn and have fun withEnjoy!"
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/71BwVTo03PL.png",
+            "https://m.media-amazon.com/images/I/514QqhM3fIL.png",
+            "https://m.media-amazon.com/images/I/51TCCU+bjhL.png",
+            "https://m.media-amazon.com/images/I/51kRl+HuC3L.png",
+            "https://m.media-amazon.com/images/I/51y3CbHsx8L.jpg"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "maxime mbabele",
+    "categories": [],
+    "details": "{\"Release Date\": \"2015\", \"Date first listed on Amazon\": \"February 7, 2015\", \"Developed By\": \"maxime mbabele\", \"Size\": \"1.9MB\", \"Version\": \"2.2\", \"Application Permissions\": [\"Access information about networks\", \"Open network sockets\", \"Read from external storage\", \"Access the vibration feature\", \"Write to external storage\"], \"Minimum Operating System\": \"Android 4.0\", \"Approximate Download Time\": \"Less than 30 seconds\"}",
+    "parent_asin": "B00TASNF28",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

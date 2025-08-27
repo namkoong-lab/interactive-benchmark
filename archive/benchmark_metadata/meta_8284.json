@@ -1,0 +1,43 @@
+{
+    "main_category": "Books",
+    "title": "Twilight Never Sleeps",
+    "average_rating": 4.9,
+    "rating_number": 17,
+    "features": [
+        "Twilight Never Sleeps is a story of deception, corruption, and ways that small-town life has changed due to the influence of drugs and the money it brings to rural America."
+    ],
+    "description": [
+        "About the Author",
+        "Betty was born and raised in North Little Rock, Arkansas, and is a mother of four wonderful sons. She is a retiree from the state of Arkansas and now continues to be interested in local events."
+    ],
+    "price": "16.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/411YxM3HsNL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Betty Hamilton (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction"
+    ],
+    "details": "{\"Publisher\": \"Newman Springs (April 5, 2018)\", \"Language\": \"English\", \"Paperback\": \"274 pages\", \"ISBN 10\": \"1640960309\", \"ISBN 13\": \"978-1640960305\", \"Item Weight\": \"14.3 ounces\", \"Dimensions\": \"6 x 0.62 x 9 inches\"}",
+    "parent_asin": "1640960309",
+    "bought_together": null,
+    "subtitle": "Paperback – April 5, 2018",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/sal9rvovg23blvb94hgb9e2ilh._SY600_.jpg', 'name': 'Betty Hamilton', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

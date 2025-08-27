@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "Fluyan mis lágrimas, dijo el policía",
+    "average_rating": 4.5,
+    "rating_number": 112,
+    "features": [
+        "Jason Taverner es un seis, un súperhumano mejorado genéticamente. Pero también es un ídolo televisivo adorado por treinta millones de personas. O lo era hasta que una mañana, al despertar, descubre que sus documentos de identidad han desaparecido, que no hay ningún registro sobre él en las extensas bases de datos de la policía ni el gobierno, y que ni sus amigos ni sus seguidores tienen el menor recuerdo de él. Jason Taverner es un completo desconocido en unos Estados Unidos convertidos en un estado policial, en el que una persona sin identificación está condenada a terminar en un campo de trabajo."
+    ],
+    "description": [
+        "Book Description",
+        "Una magnífica obra ganadora del premio John W. Campbell a la mejor novela.",
+        "About the Author",
+        "Philip K. Dick (1928-1982) es autor de 36 novelas de ciencia ficción y 121 relatos breves en los que exploró la esencia de lo que hace al hombre humano, así como los peligros del poder centralizado. Hacia el final de su vida enfocó su trabajo hacia cuestiones metafísicas profundamente personales relacionadas con la naturaleza de Dios. Muchas de sus novelas y cuentos cortos han sido llevados al cine y la televisión, entre los que destacan Blade Runner (basada en ¿Sueñan los androides con ovejas eléctricas?), Desafío total, Minority Report y El hombre en el castillo. A lo largo de su carrera, que abarcó tres décadas, recibió el reconocimiento de la crítica y numerosos premios. En 2005 fue incluido en el Salón de la Fama de la Ciencia Ficción.Domingo Santos es considerado el patriarca de la ciencia ficción española. Autor de una veintena de libros y más de un centenar de relatos, ha sido traducido a otras lenguas, y un premio anual de cuentos de ciencia ficción lleva su nombre. Sus últimas obras publicadas son El día del dragón, una visión políticamente incorrecta de un futuro no muy lejano, y El extraño lugar, una novela de terror kinguiano."
+    ],
+    "price": "237.73",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51vQdKX8ihL._SX327_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Spanish Edition                        Philip K. Dick (Author),  Domingo Santos (Translator)",
+    "categories": [
+        "Books",
+        "Science Fiction & Fantasy",
+        "Fantasy"
+    ],
+    "details": "{\"Publisher\": \"Booket (March 17, 2015)\", \"Language\": \"Spanish\", \"Mass Market Paperback\": \"272 pages\", \"ISBN 10\": \"8445002384\", \"ISBN 13\": \"978-8445002384\", \"Item Weight\": \"5.6 ounces\", \"Dimensions\": \"4.92 x 0.55 x 7.48 inches\"}",
+    "parent_asin": "8445002384",
+    "bought_together": null,
+    "subtitle": "Mass Market Paperback – March 17, 2015",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/71Ml-t-wqNL._SY600_.jpg', 'name': 'Philip K. Dick', 'about': ['Over a writing career that spanned three decades, Philip K. Dick (1928-1982) published 36 science fiction novels and 121 short stories in which he explored the essence of what makes man human and the dangers of centralized power. Toward the end of his life, his work turned toward deeply personal, metaphysical questions concerning the nature of God. Eleven novels and short stories have been adapted to film; notably: Blade Runner (based on Do Androids Dream of Electric Sheep?), Total Recall, Minority Report, and A Scanner Darkly. The recipient of critical acclaim and numerous awards throughout his career, Dick was inducted into the Science Fiction Hall of Fame in 2005, and in 2007 the Library of America published a selection of his novels in three volumes. His work has been translated into more than twenty-five languages.']}"
+}

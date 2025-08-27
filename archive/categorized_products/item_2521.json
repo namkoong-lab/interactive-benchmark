@@ -1,0 +1,53 @@
+{
+  "item_id": 2521,
+  "metadata": {
+    "main_category": "Computers",
+    "title": "NANYA 2GB PC3-10600U NON ECC MEMORY MODULE NT2GC64B8HC0NF-CG",
+    "average_rating": 3.1,
+    "rating_number": 4,
+    "features": [],
+    "description": [
+      "2GB PC3-10600 1333MHz 2RX8"
+    ],
+    "price": "21.79",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91bz-eULv8L._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51ZwNs080iL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51ZwNs080iL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "NANYA",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Computer Components",
+      "Internal Components",
+      "Memory"
+    ],
+    "details": "{\"Package Dimensions\": \"7.8 x 6 x 0.4 inches\", \"Item Weight\": \"1.6 ounces\", \"Manufacturer\": \"NANYA\", \"Item model number\": \"NT2GC64B8HC0NF-CG\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"April 11, 2013\", \"Brand\": \"NANYA\", \"Computer Memory Size\": \"2 GB\", \"Memory Speed\": \"1333 MHz\", \"Special Feature\": \"Lightweight\"}",
+    "parent_asin": "B00CBJQ318",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Computers",
+      "Computer Accessories"
+    ],
+    "confidence": 0.95
+  }
+}

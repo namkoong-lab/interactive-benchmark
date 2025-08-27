@@ -1,0 +1,41 @@
+{
+    "main_category": "Digital Music",
+    "title": "Hookfoot - Roaring + Bonus",
+    "average_rating": 3.6,
+    "rating_number": 6,
+    "features": [],
+    "description": [
+        "British hard rock from 1973. Includes 5 bonus tracks taken from Good Times A' Comin'."
+    ],
+    "price": "23.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81egoIDrJ5L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91LGZQA06FL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51NnqcyL5JL.jpg",
+            "https://m.media-amazon.com/images/I/51bNsiXS7NL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51NnqcyL5JL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51bNsiXS7NL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Hookfoot   Format: Audio CD",
+    "categories": [],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.35 x 4.96 x 0.39 inches; 0.01 Ounces\", \"Manufacturer\": \"Red Fox Records\", \"Date First Available\": \"May 4, 2012\", \"Label\": \"Red Fox Records\", \"Country of Origin\": \"France\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B001JAZ3IE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,68 @@
+{
+  "item_id": 4142,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "PAGE and TUTTLE Mens Free Swing Peached Short Sleeve Half-Zip Windbreaker Casual Outerwear Casual - Red",
+    "average_rating": 3.9,
+    "rating_number": 26,
+    "features": [
+      "100% Polyester",
+      "Made in USA or Imported",
+      "Zipper closure",
+      "Machine Wash",
+      "100% Micro-polyester Peached Twill With Teflon Finish For Ultimate Stain Resistance / Unlined",
+      "Stand Up Collar / Contrast Piping Detail On Body And Sleeves / Hemmed Half Sleeve",
+      "Stain Release / Water-resistant / Machine Wash And Dry",
+      "Free Swing Technology / Quarter-zip Placket With Inside Storm Flap And Zipper Garage"
+    ],
+    "description": [
+      "Free Swing Windshirts Give You Complete Freedom Of Movement By Eliminating Cuff And Underarm Pulling, Bunching And Ride-Up."
+    ],
+    "price": "9.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/41td4mCgGrL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/411xi89FQiL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41XpPrjG8eL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41w15qFzGmL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41XpPrjG8eL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41w15qFzGmL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "PAGE & TUTTLE",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Jackets & Coats",
+      "Lightweight Jackets",
+      "Windbreakers"
+    ],
+    "details": "{\"Item Weight\": \"2 Pounds\", \"Item model number\": \"P1986-CLR\", \"Department\": \"Men\", \"Date First Available\": \"November 7, 2017\", \"Manufacturer\": \"Page & Tuttle\"}",
+    "parent_asin": "B08FF3DF1P",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Jackets & Coats"
+    ],
+    "confidence": 0.95
+  }
+}

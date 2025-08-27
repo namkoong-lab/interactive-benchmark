@@ -1,0 +1,53 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Farberware Fresh Apple Wedger, Red",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "Cores and evenly slices fruit with one maneuver",
+        "Stainless steel blades glide easily through fruit and tough skins",
+        "Handles absorb pressure putting less tension on hands",
+        "Limited lifetime warranty",
+        "Dishwasher safe"
+    ],
+    "description": [
+        "This Farberware Fresh Red Apple Wedge easily and efficiently cores apples and pears for everyday consumption or for use in pies and desserts. The stainless steel blades glide easily through fruit and tough skins, and the plastic handles absorb pressure, putting less tension on hands. Easy to clean, dishwasher safe."
+    ],
+    "price": "15.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71nqyGVMWdL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81+eqMO-3pL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41vamHGG5NL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/414DpqqNzHL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41vamHGG5NL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/414DpqqNzHL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Farberware",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen Utensils & Gadgets",
+        "Graters, Peelers & Slicers",
+        "Peelers"
+    ],
+    "details": "{\"Product Dimensions\": \"5.12 x 7.48 x 1.77 inches\", \"Item Weight\": \"4.3 ounces\", \"Manufacturer\": \"Farberware\", \"Item model number\": \"5106848\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 1364354, \"Peelers\": 4532}, \"Date First Available\": \"August 25, 2016\"}",
+    "parent_asin": "B01KZN4FVQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

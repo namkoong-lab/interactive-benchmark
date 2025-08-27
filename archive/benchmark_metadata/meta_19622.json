@@ -1,0 +1,45 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Cavalli - La Calisto",
+    "average_rating": 3.9,
+    "rating_number": 12,
+    "features": [],
+    "description": [
+        "Calisto (La) (2 Dvd)"
+    ],
+    "price": "54.63",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71HCOYIJGSL._SL1212_.jpg",
+            "https://m.media-amazon.com/images/I/716JvpaAFzL._SL1227_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51uanCcGHWL.jpg",
+            "https://m.media-amazon.com/images/I/51Y16czhjjL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51uanCcGHWL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51Y16czhjjL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Maria Bayo  (Actor),     Marcello Lippi  (Actor),     Herbert Wernicke  (Director)    &                   0                  more   Rated:    NR    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Musicals & Performing Arts",
+        "Classical"
+    ],
+    "details": "{\"Format\": \"Multiple Formats, Color, Import, NTSC, Classical\", \"Contributor\": \"Louise Winter, Hans Peter Kammerer, Marcello Lippi, Rene Jacobs, Barry Banks, Sonia Theodoridou, Graham Pushee, Maria Bayo, Herbert WernickeLouise Winter, Hans Peter Kammerer, Marcello Lippi, Rene Jacobs, Barry Banks, Sonia Theodoridou, Graham Pushee, Maria Bayo, Herbert Wernicke  See more\", \"Language\": \"Italian (DTS 5.0), Italian (PCM2 .0)\", \"Number Of Discs\": \"2\", \"Runtime\": \"3 hours and 52 minutes\", \"Aspect Ratio\": \"1.33:1\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"NR (Not Rated)\", \"Package Dimensions\": \"7.1 x 5.42 x 0.58 inches; 2.93 Ounces\", \"Director\": \"Herbert Wernicke\", \"Media Format\": \"Multiple Formats, Color, Import, NTSC, Classical\", \"Run time\": \"3 hours and 52 minutes\", \"Release date\": \"November 14, 2006\", \"Actors\": \"Maria Bayo, Marcello Lippi, Rene Jacobs, Barry Banks, Louise Winter\", \"Subtitles\": \"French\", \"Studio\": \"Harmonia Mundi Fr.\", \"Number of discs\": \"2\"}",
+    "parent_asin": "B000JBWWTM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

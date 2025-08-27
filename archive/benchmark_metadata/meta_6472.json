@@ -1,0 +1,39 @@
+{
+    "main_category": null,
+    "title": "Teekanne Rooibos-Cream-Caramel",
+    "average_rating": 4.3,
+    "rating_number": 83,
+    "features": [
+        "Teekanne Redbush Tea Caramel Cream"
+    ],
+    "description": [
+        "Please visit our online shop for further information."
+    ],
+    "price": "8.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71e-+RPIgiL._AC_SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51FMY7PsfGL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51FMY7PsfGL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Teakanne",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"5.51 x 2.99 x 2.48 inches\", \"Item Weight\": \"2.39 ounces\", \"Date First Available\": \"October 19, 2013\"}",
+    "parent_asin": "B0035TU1LG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

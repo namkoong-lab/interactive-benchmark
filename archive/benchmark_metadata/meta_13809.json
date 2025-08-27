@@ -1,0 +1,78 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "OshKosh B'Gosh Ava Girl's Loafer",
+    "average_rating": 4.5,
+    "rating_number": 32,
+    "features": [
+        "100% Cvs",
+        "Rubber sole",
+        "A playful flamingo and pops of pink are perfect for summer",
+        "Glitter accents on the insole add some hidden fun",
+        "Classic loafer design",
+        "Easy on and off",
+        "Non-toxic materials"
+    ],
+    "description": [
+        "This loafer's slip on design makes a casual statement, while mini glitter hearts offer a hint of dressy glitz."
+    ],
+    "price": "28.79",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/7176OVZ-gqL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71pOEqb+jsL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71dQE1QPKXL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71r5dXc4F7L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81Gw+kykoBL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71J6vKTPlBL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71wy1sj2tDL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71foFCHYoUL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41ly0WpQLIL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51YKto4e+4L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41j5YEVW2gL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41947AFjPmL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41GdFjmcBaL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31Drfb6P84L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41TBiKB5sxL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31CvkX3UTZL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41ly0WpQLIL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51YKto4e+4L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41j5YEVW2gL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41947AFjPmL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41GdFjmcBaL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31Drfb6P84L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41TBiKB5sxL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31CvkX3UTZL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR",
+            "LEFT"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "OshKosh B'Gosh",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Girls",
+        "Shoes",
+        "Loafers"
+    ],
+    "details": "{\"Item model number\": \"AVA-G\", \"Department\": \"unisex-child\", \"Date First Available\": \"January 27, 2017\", \"Manufacturer\": \"OshKosh B'Gosh\"}",
+    "parent_asin": "B01N6VH6JR",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

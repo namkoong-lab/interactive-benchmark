@@ -1,0 +1,55 @@
+{
+    "main_category": "Automotive",
+    "title": "ACDelco 213-4254 Heated Oxygen Sensor",
+    "average_rating": 4.4,
+    "rating_number": 17,
+    "features": [
+        "Detect oxygen content in the exhaust gases to optimize emissions and fuel economy",
+        "GM-recommended replacement part for your GM vehicle’s original factory component",
+        "Offering the quality, reliability, and durability of GM OE",
+        "Manufactured to GM OE specification for fit, form, and function"
+    ],
+    "description": [
+        "An ACDelco GM Original Equipment Oxygen (O2) Sensor is a GM-recommended replacement for your vehicle’s original component, and is a special feedback sensor on your vehicle’s exhaust system. This sensor measures the proportion of oxygen in the exhaust gases. Using this measurement, the engine management computer can adjust the air/fuel ratio near the optimum value of 14.7:1. At this ratio, engine performance, emissions, and fuel economy are all optimized. This original equipment oxygen sensor has been manufactured to fit your GM vehicle, providing the same performance, durability, and service life you expect from General Motors."
+    ],
+    "price": "47.4",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/41iQ136fHLL._AC_SL1000_.jpg",
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31KSG5Z11eL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21EE+hR7j4L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31uYHx7xY8L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31KSG5Z11eL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/21EE+hR7j4L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31uYHx7xY8L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "General Motors",
+    "categories": [
+        "Automotive",
+        "Replacement Parts",
+        "Sensors",
+        "Oxygen"
+    ],
+    "details": "{\"Brand\": \"General Motors\", \"Item Dimensions LxWxH\": \"8.2 x 3.2 x 3.2 inches\", \"Item Weight\": \"0.25 Pounds\", \"Style\": \"Modern\", \"Mounting Type\": \"Flange Mount\", \"Specific Uses For Product\": \"Oxygen Sensor\", \"Manufacturer\": \"ACDelco\", \"Product Dimensions\": \"8.2 x 3.2 x 3.2 inches\", \"Country of Origin\": \"USA\", \"Item model number\": \"213-4254\", \"Manufacturer Part Number\": \"213-4254\", \"OEM Part Number\": \"12616506\", \"Best Sellers Rank\": {\"Automotive\": 791322, \"Automotive Replacement Oxygen Sensors\": 3575}, \"Domestic Shipping\": \"Item can be shipped within U.S.\", \"International Shipping\": \"This item can be shipped to select countries outside of the U.S.  Learn More\", \"Date First Available\": \"August 6, 2008\"}",
+    "parent_asin": "B0010GH5QU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

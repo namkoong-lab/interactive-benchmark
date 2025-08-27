@@ -1,0 +1,75 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "To Boot New York Men's Bergen Oxford",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "100% Suede Leather",
+        "Imported",
+        "Synthetic sole",
+        "Flexible crepe sole"
+    ],
+    "description": [
+        "Suede wingtips with crepe sole",
+        "To Boot New York footwear and accessories is made exclusively in Italy in the finest small-production factories. Each and every item is made of the finest Italian and French leathers and goes through over 200 hand-steps from design to the final hand finishing. The quality of To Boot New York shoes and accessories are just right for today's fast lifestyle."
+    ],
+    "price": "299.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91aP6A8nO+L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81eoKpQTjbL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81DA7iJj0ZL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81SVf1YinqL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81zL0pLpmrL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81OZhMr9wHL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91pL4R2YbHL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81wOyt1nlKL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/4195E+xek6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/515YqbTpRxL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51CPpQeXuVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41g6fmr0EEL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41ow98A26yL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41CnP16T13L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41WiEZRrfQL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/4172EqmnBIL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/4195E+xek6L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/515YqbTpRxL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51CPpQeXuVL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41g6fmr0EEL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41ow98A26yL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41CnP16T13L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41WiEZRrfQL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/4172EqmnBIL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR",
+            "LEFT"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "To Boot New York",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Shoes"
+    ],
+    "details": "{\"Item Weight\": \"1.3 Pounds\", \"Item model number\": \"Bergen\", \"Department\": \"Mens\", \"Date First Available\": \"February 12, 2016\", \"Manufacturer\": \"To Boot New York\"}",
+    "parent_asin": "B015J0UJCE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

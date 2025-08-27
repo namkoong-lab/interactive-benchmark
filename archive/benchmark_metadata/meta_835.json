@@ -1,0 +1,41 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Shadows",
+    "average_rating": 4.2,
+    "rating_number": 5,
+    "features": [],
+    "description": [
+        "This season’s bold boy-meets-girl chic makes a playful nod towards a light androgyny. The result, sharp silhouettes, masculine lines and tomboy tailoring, while addressing the balance are body hugging cables and supple ribs which both caress and celebrate feminine curves. The book includes 21 designs."
+    ],
+    "price": "18.39",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91BcjQ9LGmL._AC_SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41FWp8ChtWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/318BO4HfRRL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41FWp8ChtWL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/318BO4HfRRL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT12"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rowan",
+    "categories": [],
+    "details": "{\"Product Dimensions\": \"8.46 x 0.28 x 10.98 inches\", \"Item Weight\": \"1 pounds\", \"Manufacturer\": \"'Kim Hargreaves\", \"Language\": \"English\", \"Item model number\": \"012\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\", \"Orientation\": \"Portrait\", \"Shape\": \"Rectangular\", \"Contributor\": \"Kim Hargreaves\", \"Style\": \"Glam\", \"Brand\": \"Rowan\"}",
+    "parent_asin": "1906487111",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

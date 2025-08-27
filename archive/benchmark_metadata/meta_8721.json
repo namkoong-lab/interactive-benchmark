@@ -1,0 +1,36 @@
+{
+    "main_category": "Books",
+    "title": "A Cartography of Peace",
+    "average_rating": 4.7,
+    "rating_number": 4,
+    "features": [
+        "The poems in A CARTOGRAPHY OF PEACE, written between poet Jean L. Connor's 75th and 85th year, honor the \"width of time\" that comes at this stage of life, and reflect the clarity of vision developed through her lifelong meditative practice."
+    ],
+    "description": [
+        "About the Author",
+        "Jean L. Connor began writing poems at the age of 60, after retiring from a long career as a librarian in New York State. She lives and writes at Wake Robin retirement community in Shelburne, Vermont. United States Poet Laureate Ted Kooser selected one of Connor's poems for inclusion in his 2005 series, American Life in Poetry."
+    ],
+    "price": "4.95",
+    "images": {
+        "hi_res": [],
+        "large": [],
+        "thumb": [],
+        "variant": []
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jean L. Connor (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Earth Sciences"
+    ],
+    "details": "{\"Publisher\": \"Passager Books; First Edition (June 24, 2005)\", \"Language\": \"English\", \"Paperback\": \"96 pages\", \"ISBN 10\": \"0963138502\", \"ISBN 13\": \"978-0963138507\", \"Item Weight\": \"8 ounces\", \"Dimensions\": \"5.25 x 0.5 x 9 inches\"}",
+    "parent_asin": "0963138502",
+    "bought_together": null,
+    "subtitle": "Paperback – June 24, 2005",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Jean L. Connor', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

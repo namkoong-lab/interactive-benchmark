@@ -1,0 +1,43 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Bowling Balls Look Big? Gray T Shirt",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "A GREAT GIFT FOR ANYONE WHO ENJOYS UNUSUALLY ORIGINAL DESIGNS!",
+        "NO GUTS NO GLORY!"
+    ],
+    "description": [
+        "GILDAN 5.3 oz, 100% cotton preshrunk jersey knit Quarter-turned to eliminate center crease Sizes: S - 5X SMALL - 18\" CHEST X 28\" LENGTH MEDIUM - 20\" CHEST X 29\" LENGTH LARGE - 22\" CHEST X 30\" LENGTH XL - 24\" CHEST X 31\" LENGTH 2XL - 26\" CHEST X 32\" LENGTH 3XL - 28\" CHEST X 33\" LENGTH 4XL - 30\" CHEST X 34\" LENGTH 5XL - 32\" CHEST X 35\" LENGTH"
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61VM1mgVCqL._AC_UL1057_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41KlKGBBUbL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41KlKGBBUbL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "STUFF WITH ATTITUDE",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Westlake"
+    ],
+    "details": "{\"Department\": \"Unisex-adult\", \"Date First Available\": \"April 4, 2014\"}",
+    "parent_asin": "B00JH17T52",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

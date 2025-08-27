@@ -1,0 +1,62 @@
+{
+    "main_category": "Books",
+    "title": "The Funhouse",
+    "average_rating": 4.2,
+    "rating_number": 1020,
+    "features": [
+        "Evil comes in frightening and familiar forms in this terrifying novel from #1",
+        "New York Times",
+        "bestselling author Dean Koontz.",
+        "Once there was a girl who ran away and joined a traveling carnival. She married a man she grew to hate—and gave birth to a child she could never love. A child so monstrous that she killed it with her own hands...Twenty-five years later, Ellen Harper has a new life, a new husband, and two normal children—Joey loves monster movies and Amy is about to graduate from high school. But their mother drowns her secret guilt in alcohol and prayer. The time has come for Amy and Joey to pay for her sins, because the carnival is coming back to town..."
+    ],
+    "description": [
+        "Review",
+        "Praise for Dean Koontz",
+        "“Dean Koontz is a prose stylist whose lyricism heightens malevolence and tension. [He creates] characters of unusual richness and depth.”—",
+        "The Seattle Times",
+        "“Tumbling, hallucinogenic prose....‘Serious’ writers...might do well to examine his technique.”—",
+        "The New York Times Book Review",
+        "“Lyrical writing and compelling characters...Koontz stands alone.”—Associated Press“In every industry there exist ‘artists’ that are not only unforgettable, but know their craft better than the rest. Dean Koontz...is among these artisans.”—",
+        "Suspense Magazine",
+        "“[Koontz] has always had near-Dickensian powers of description, and an ability to yank us from one page to the next that few novelists can match.”—",
+        "Los Angeles Times",
+        "“Perhaps more than any other author, Koontz writes fiction perfectly suited to the mood of America...novels that acknowledge the reality and tenacity of evil but also the power of good...[and that] entertain vastly as they uplift.”—",
+        "Publishers Weekly",
+        "About the Author",
+        "Dean Koontz",
+        ", the author of many #1",
+        "New York Times",
+        "bestsellers, lives in Southern California with his wife, Gerda, their golden retriever, Elsa, and the enduring spirit of their goldens, Trixie and Anna."
+    ],
+    "price": "7.26",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/5138GlcGEdL._SX310_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Dean Koontz (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Genre Fiction"
+    ],
+    "details": "{\"Publisher\": \"Berkley; Reissue edition (June 1, 1994)\", \"Language\": \"English\", \"Mass Market Paperback\": \"352 pages\", \"ISBN 10\": \"0425142485\", \"ISBN 13\": \"978-0425142486\", \"Item Weight\": \"7 ounces\", \"Dimensions\": \"4.25 x 1 x 6.75 inches\"}",
+    "parent_asin": "0425142485",
+    "bought_together": null,
+    "subtitle": "Mass Market Paperback – June 1, 1994",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/afr8hsu6i08ohksl46j5vph1pn._SY600_.jpg', 'name': 'Dean Koontz', 'about': ['Dean Koontz, the author of many #1 New York Times bestsellers, lives in Southern California with his wife, Gerda, their golden retriever, Elsa, and the enduring spirits of their goldens, Trixie and Anna.']}"
+}

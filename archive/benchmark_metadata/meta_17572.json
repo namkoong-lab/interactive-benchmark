@@ -1,0 +1,90 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Breath Companion",
+    "average_rating": 4.4,
+    "rating_number": 45,
+    "features": [
+        "Sheikah Towers",
+        "Shrines",
+        "Korok Seeds",
+        "Memories",
+        "Main and Side Quests (including DLC 1 and 2 Quests)",
+        "Shrine Quests",
+        "Towns",
+        "Treasures (including DLC 1 and 2 Treasures)",
+        "Mini Bosses",
+        "Books and Diaries"
+    ],
+    "description": [
+        "Unofficial offline map for The Legend of Zelda: Breath of the Wild. The map features the locations of:- Sheikah Towers- Shrines- Korok Seeds- Memories- Main and Side Quests (including DLC 1 and 2 Quests)- Shrine Quests- Towns- Fairies- Treasures (including DLC 1 and 2 Treasures)- Mini Bosses- Stables- Shops- Dragons- Guardians- Minigames- Dog rewards- Cooking Pots- Rafts- Blupees- Books and Diaries- Enemies- Enemy Camps- Wizzrobes- Cracked Walls- Locations- Region BordersIf there is additional information available, just tap the icon in the map to get a detailed description in a popup.A short description of each Shrine, Side Quest, Shrine Quest and Korok Seed is included. Shrines, Side Quests, Shrine Quests, Minibosses, Treasures and Korok Seeds can also be tracked with a check list. You can check or uncheck your checklist entries even from the icon shown on the map.The shown icons on the map can be filtered e.g. for their type, location and status.Also you get even more information regarding The Legend of Zelda: Breath of the Wild:- Recipes: List of all recipes with status effects, healing and necessary ingredients- Compendium: All entries of the Breath of the Wild Compendium- Armor: List of all available armors and the needed materials to upgrade them- Dragons: Detailed guide on how to get and use dragon materials in Breath of the Wild- Weapon Details: List of all weapons, bows and shields (including amiibo unlocks) with the specific attack ower, durability and their possible bonus attributes- Materials: List of all materials in Breath of the Wild with their effects and their sell value. Additionally you get a list of all important items in the game.- Monsters: List of all monsters in Breath of the Wild with their HP, rank, location and drops as well as guides on how to defeat them.About the game:The Legend of Zelda: Breath of the Wild is an action-adventure video game developed and published by Nintendo for the Nintendo Switch and Wii U video game consoles. The game is a part of The Legend of Zelda series, and follows amnesiac protagonist Link, who awakens from a hundred-year slumber to a mysterious voice that guides him to defeat Calamity Ganon before he can destroy the kingdom of Hyrule.The title's gameplay and mechanics constitute a departure from the series' usual conventions, featuring an open-world environment, a detailed physics engine, high-definition visuals, and voice acting. Announced in 2013, the game was initially planned for release as a Wii U exclusive in 2015, but was delayed twice prior to its release on March 3, 2017. Breath of the Wild was a launch title for the Switch, as well as the final Nintendo-produced game for the Wii U.Breath of the Wild received universal acclaim from critics, who deemed it to be one of the greatest video games of all time. Critics praised the game's open-ended, physics-driven gameplay that encourages player experimentation and exploration, with many calling it a landmark title in open-world game design, although minor criticism was directed at the game's technical performance at launch.Disclaimer:Breath Companion is a third party App. The developer of this software is not affiliated with Nintendo Co. Ltd. in any way. However, the creation and maintenance is permitted until withdrawal from Nintendo."
+    ],
+    "price": "4.99",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/91LrRmNzNfL.png",
+            "https://m.media-amazon.com/images/I/81k9w4VFqTL.png",
+            "https://m.media-amazon.com/images/I/71fJoOVIzKL.png",
+            "https://m.media-amazon.com/images/I/71FkEBkmxiL.png",
+            "https://m.media-amazon.com/images/I/61HF4e7oX1L.png",
+            "https://m.media-amazon.com/images/I/71MpOCAjbHL.png",
+            "https://m.media-amazon.com/images/I/61d7VZv3LRL.png",
+            "https://m.media-amazon.com/images/I/71I0kn3VySL.png",
+            "https://m.media-amazon.com/images/I/61zxfrp0NvL.png",
+            "https://m.media-amazon.com/images/I/71xHrPioigL.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08",
+            "PT09"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Sebastian Kruse",
+    "categories": [],
+    "details": "{\"Release Date\": \"2018\", \"Date first listed on Amazon\": \"March 7, 2018\", \"Developed By\": \"Sebastian Kruse\", \"Size\": \"68.5MB\", \"Version\": \"3.10.1\", \"Application Permissions\": [\"Access information about networks\", \"FOREGROUND_SERVICE\", \"Open network sockets\", \"Read from external storage\", \"Get notified that the operating system has finished booting\", \"Access the vibration feature\", \"PowerManager WakeLocks to keep processor from sleeping or screen from dimming\", \"Write to external storage\", \"Allows  sending in-app billing requests and managing in-app billing transactions\", \"Allows an application to receive messages via Google Cloud Messaging\"], \"Minimum Operating System\": \"Android 5.0\", \"Approximate Download Time\": \"More than 5 minutes\"}",
+    "parent_asin": "B07B9N3XVC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

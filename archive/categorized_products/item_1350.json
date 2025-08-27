@@ -1,0 +1,58 @@
+{
+  "item_id": 1350,
+  "metadata": {
+    "main_category": "Pet Supplies",
+    "title": "Parisian Pet Medieval Stones Dog Collar, Medium",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "Adjusts To 11-14\"",
+      "Item Size: M",
+      "The Package Weight Of The Product Is 0.2 Pounds",
+      "Package Dimensions: 16.0\" L X 1.0\" W X 1.0\" H"
+    ],
+    "description": [
+      "Show off to your friends with a lovely bling dog collar which will enhance the appearance of your pooch and make him or her look like a star!."
+    ],
+    "price": "15.24",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71fF1VHaBJL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41NCCfBvtPL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41NCCfBvtPL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Parisian Pet",
+    "categories": [
+      "Pet Supplies",
+      "Dogs",
+      "Collars, Harnesses & Leashes",
+      "Collars",
+      "Basic Collars"
+    ],
+    "details": "{\"Pattern\": \"Dog\", \"Brand\": \"Parisian Pet\", \"Item Dimensions LxWxH\": \"16 x 1 x 1 inches\", \"Target Species\": \"Dog\", \"Unit Count\": \"1.0 Count\", \"Product Dimensions\": \"16 x 1 x 1 inches; 3.2 Ounces\", \"Item model number\": \"C-114SM\", \"Date First Available\": \"November 8, 2013\", \"Manufacturer\": \"Parisian Pet\", \"Country of Origin\": \"China\", \"Domestic Shipping\": \"Item can be shipped within U.S.\", \"International Shipping\": \"This item can be shipped to select countries outside of the U.S.  Learn More\"}",
+    "parent_asin": "B00GSLN83Q",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Pet Supplies",
+      "Pet Collar Accessories"
+    ],
+    "confidence": 0.95
+  }
+}

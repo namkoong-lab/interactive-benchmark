@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "The Last Temptation of Christ",
+    "average_rating": 4.4,
+    "rating_number": 1607,
+    "features": [],
+    "description": [
+        "THE LAST TEMPTATION OF CHRIST WS"
+    ],
+    "price": "24.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Igij6mPDL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Igij6mPDL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rated:    PG    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Action & Adventure"
+    ],
+    "details": "{\"Item Weight\": \"68 Grams\", \"Number of Items\": \"1\", \"Orientation\": \"Portrait\", \"Shape\": \"Rectangular\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"PG (Parental Guidance Suggested)\", \"Product Dimensions\": \"7.1 x 5.42 x 0.58 inches; 2.4 Ounces\", \"Media Format\": \"NTSC\", \"Subtitles\": \"French, Spanish\", \"Language\": \"Unqualified (DTS ES 6.1)\", \"Studio\": \"ALL\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000S0GYDY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

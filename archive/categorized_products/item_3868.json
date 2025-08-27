@@ -1,0 +1,72 @@
+{
+  "item_id": 3868,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "JUST MY SIZE Women's Plus-Size EcoSmart Sweatpants-Petite Length",
+    "average_rating": 4.2,
+    "rating_number": 6817,
+    "features": [
+      "100% Cotton",
+      "Imported",
+      "Drawstring closure",
+      "Machine Wash",
+      "8-oz. Cotton-blend fleece keeps you warm without weighing you down",
+      "Wider cord-free waistband allows freedom at every turn",
+      "Brushed for added warmth and softness",
+      "28.5-inch inseam, with hemmed (non-elastic) cuffs"
+    ],
+    "description": [
+      "Just My Size petite length women's fleece sweatpants are cut for your curves. Brushed inside for incredible softness, the 7.9-oz. Cotton-blend fleece is warm but not at all heavy. The cord-free, ribbed waistband on these pants lets you move the way you were meant to move. You'll want to wear these comfortable sweats every chance you get. After all, they come in plush, midweight cotton-blend fleece that’s low-pill, super-soft, and made with up to 5% polyester from recycled plastic bottles."
+    ],
+    "price": "14.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61o4kPMYAZL._AC_UL1000_.jpg",
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41JQ2FYAnlL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41GxZu0llAL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31C5Y-tuHEL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41JQ2FYAnlL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41GxZu0llAL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31C5Y-tuHEL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "JUST MY SIZE",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Active",
+      "Active Pants",
+      "Sweatpants"
+    ],
+    "details": "{\"Item model number\": \"OJ104\", \"Department\": \"womens\", \"Date First Available\": \"July 13, 2016\", \"Manufacturer\": \"Just My Size Activewear\"}",
+    "parent_asin": "B096L3BWL2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Pants",
+      "Women's Sweatpants"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "Historical Linguistics (Oxford Introduction to Language Study Series)",
+    "average_rating": 4.5,
+    "rating_number": 12,
+    "features": [
+        "This book outlines the major issues and terminology used in the field of historical linguistics. Central issues of historical linguistics are addressed, including change, reconstruction of older languages, language birth and death, and relationships among languages."
+    ],
+    "description": [
+        "Review",
+        "'... accessible, and full of specific examples for added clarity.' - EL Gazette",
+        "About the Author",
+        "Professor Henry Widdowson is Emeritus Professor of Education, University of London, and has also been Professor of Applied Linguistics at Essex University and Professor of English Linguistics at the University of Vienna."
+    ],
+    "price": "13.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Srg9aZhkL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Herbert Schendl (Author),  H. G. Widdowson (Series Editor)",
+    "categories": [
+        "Books",
+        "New, Used & Rental Textbooks",
+        "Humanities"
+    ],
+    "details": "{\"Publisher\": \"Oxford University Press; 1st edition (May 3, 2001)\", \"Language\": \"English\", \"Paperback\": \"144 pages\", \"ISBN 10\": \"0194372383\", \"ISBN 13\": \"978-0194372381\", \"Item Weight\": \"5.6 ounces\", \"Dimensions\": \"5.25 x 0.5 x 7.5 inches\"}",
+    "parent_asin": "0194372383",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Herbert Schendl', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

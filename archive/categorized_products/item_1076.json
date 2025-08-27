@@ -1,0 +1,66 @@
+{
+  "item_id": 1076,
+  "metadata": {
+    "main_category": "Health & Personal Care",
+    "title": "The Vitamin Shoppe Beta 1,3 Glucans 200MG, Immune Support (120 Tablets)",
+    "average_rating": 4.1,
+    "rating_number": 16,
+    "features": [],
+    "description": [
+      "Promotes natural immunity",
+      "Promotes natural immunity",
+      "Suitable for everyday wellness seekers",
+      "Suitable for everyday wellness seekers",
+      "Free of gluten, dairy, soy, and nuts",
+      "Free of gluten, dairy, soy, and nuts",
+      "Beta glucans are a type of soluble fiber derived from the cell walls of yeasts, plants, cereal grains, fungi, and bacteria. They're known to promote natural immunity by stimulating your immune system.The Vitamin Shoppe brand Beta Glucan features 200mg of beta 1 and 3 glucans, which come from the cell walls of yeast."
+    ],
+    "price": "19.99",
+    "images": {
+      "hi_res": [
+        null,
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31zIz2v505L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51-7t-vf1uL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/416EM6cfCQS._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31zIz2v505L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51-7t-vf1uL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/416EM6cfCQS._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "The Vitamin Shoppe",
+    "categories": [
+      "Health & Household",
+      "Vitamins, Minerals & Supplements",
+      "Blended Vitamin & Mineral Supplements"
+    ],
+    "details": "{\"Brand\": \"The Vitamin Shoppe\", \"Item Form\": \"Tablet\", \"Flavor\": \"Unflavored\", \"Product Benefits\": \"Immune Support\", \"Age Range (Description)\": \"Adult\", \"Product Dimensions\": \"2.4 x 2.4 x 4.2 inches; 8.48 Ounces\", \"Date First Available\": \"January 8, 2009\", \"Manufacturer\": \"The Vitamin Shoppe\"}",
+    "parent_asin": "B00013Z0GA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Health & Personal Care",
+      "Dietary Supplements",
+      "Immune Support Supplements"
+    ],
+    "confidence": 0.95
+  }
+}

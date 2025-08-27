@@ -1,0 +1,58 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "NINE WEST Women's Zadie Heeled Sandal",
+    "average_rating": 3.8,
+    "rating_number": 2,
+    "features": [
+        "Made in USA or Imported",
+        "Rubber sole"
+    ],
+    "description": [
+        "A high stiletto heel and a gentle platform lift our Zadie open-toe sandal featuring an updated square toe and an ankle strap with adjustable buckle closure."
+    ],
+    "price": "79.47",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61SMFlWju2L._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/51eAalFg7-L._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61za2p2ZCqL._AC_UL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/414zFL7uCfL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31RITmHfE8L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41dWLLwxyPL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/414zFL7uCfL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31RITmHfE8L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41dWLLwxyPL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Watch before you buy the Ezbelle Dress! -Full Outfit"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0b288c2b677a482e9299c6dd7213e3d2?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "/shop/isadilaura"
+        ]
+    },
+    "store": "NINE WEST",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes"
+    ],
+    "details": "{\"Item model number\": \"wnZADIE\", \"Department\": \"Womens\", \"Date First Available\": \"April 2, 2020\", \"Manufacturer\": \"Nine West\"}",
+    "parent_asin": "B08RBB9XMD",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

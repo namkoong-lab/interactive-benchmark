@@ -1,0 +1,72 @@
+{
+  "item_id": 3829,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "FitFlop Womens Lulu Cross Glitz Slide Sandal Shoes",
+    "average_rating": 4.3,
+    "rating_number": 631,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Rubber sole",
+      "Heel measures approximately 1.75 inches\"",
+      "Soft Polyester Upper With Metallic Finish",
+      "Softly Padded Microfiber-Lined Uppers",
+      "Slip Resistant Rubber Outsole",
+      "Supercushioned, Pressure Diffusing Microwobbleboard Midsoles",
+      "American Podiatric Medical Association Seal Of Acceptance, For Footwear Found To Promote Good Foot Health"
+    ],
+    "description": [
+      "Lulu cross slide sandals - leather."
+    ],
+    "price": "58.49",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71KrGC06D2L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71g2VZIiYxL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71RsAxDM5ZL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31ZkuVG5nhL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31VOY6l-sJL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31YBOIk1p3L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31ZkuVG5nhL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31VOY6l-sJL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31YBOIk1p3L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "FitFlop",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Sandals",
+      "Slides"
+    ],
+    "details": "{\"Product Dimensions\": \"11.5 x 8.5 x 4.5 inches; 2 Pounds\", \"Department\": \"womens\", \"Date First Available\": \"June 25, 2019\", \"Manufacturer\": \"FitFlop\"}",
+    "parent_asin": "B0816ZK893",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Sandals"
+    ],
+    "confidence": 0.95
+  }
+}

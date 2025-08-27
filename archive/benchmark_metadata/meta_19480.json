@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Thinky Pain",
+    "average_rating": 4.2,
+    "rating_number": 30,
+    "features": [],
+    "description": [
+        "Marc Maron returns to his old stomping grounds for an intimate special in which he takes stock of himself. More than ever, Maron is raw and hilariously honest as he dissects his own neuroses and self-loathing while providing outrageous anecdotes from his personal life, in which he starts to realize the hurt isn't real, it's just \"Thinky Pain.\""
+    ],
+    "price": "12.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71dU2QElgyL._SL1260_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51okA5aXO7L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51okA5aXO7L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Independently Distributed",
+        "Comedy"
+    ],
+    "details": "{\"Format\": \"Multiple Formats, Color, NTSC\", \"Contributor\": \"Marc Maron\", \"Language\": \"English\", \"Runtime\": \"1 hour and 34 minutes\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.4 x 0.58 x 7.5 inches; 2.4 Ounces\", \"Item model number\": \"12455335\", \"Media Format\": \"Multiple Formats, NTSC, Color\", \"Run time\": \"1 hour and 34 minutes\", \"Release date\": \"January 21, 2014\", \"Actors\": \"Marc Maron\", \"Studio\": \"Comedy Dynamics\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00GOYC3OM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,54 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Park Designs Lemon Pepper Placemat Set",
+    "average_rating": 4.2,
+    "rating_number": 16,
+    "features": [
+        "100% Cotton",
+        "Imported",
+        "Comes as a set of four",
+        "Persimmon, moss green, and soft mustard plaid",
+        "Machine wash cold, delicate cycle, line dry",
+        "Measures 13\" x 19\"",
+        "Made from 100% Cotton"
+    ],
+    "description": [
+        "Lemon Pepper country kitchen cloth napkins from Park Designs. Persimmon, moss green, and soft mustard plaid. Made from 100% cotton and measures 18\"x18\"."
+    ],
+    "price": "23.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91Hc7djIcHL._AC_SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/618PCyCM3wL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51xkrLqr8UL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/618PCyCM3wL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51xkrLqr8UL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Park Designs",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen & Table Linens",
+        "Place Mats"
+    ],
+    "details": "{\"Color\": \"Multicolor\", \"Material\": \"Cotton\", \"Size\": \"13x19\", \"Brand\": \"Park Designs\", \"Occasion\": \"Kitchen\", \"Shape\": \"Rectangle\", \"Number of Pieces\": \"4\", \"Product Care Instructions\": \"Machine Wash\", \"Product Dimensions\": \"19\\\"L x 13\\\"W\", \"Item Weight\": \"1.6 ounces\", \"Manufacturer\": \"Park Designs\", \"Item model number\": \"619-68\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 157301, \"Place Mats\": 1616}, \"Is Discontinued By Manufacturer\": \"No\", \"Fabric Type\": \"100% Cotton\", \"Assembly required\": \"No\", \"Batteries required\": \"No\", \"Import\": \"Imported\"}",
+    "parent_asin": "B008D23AWM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

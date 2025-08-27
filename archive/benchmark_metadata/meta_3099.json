@@ -1,0 +1,54 @@
+{
+    "main_category": "Grocery",
+    "title": "12 Pack Gluten Free, Pumpkin Spices Macaron",
+    "average_rating": 3.5,
+    "rating_number": 4,
+    "features": [
+        "This is 12 pack pumpkin spices macarons are handmade and gluten free.",
+        "Ingredients: almond flour, sugar, egg white, pumpkin spice, pumpkin sauce, white chocolate ganache, unsalted butter.",
+        "Perfect for birthday party, bridal shower, celebratory events.",
+        "Made with the highest quality gluten free almond flour and other ingredients. Our macarons are truly a delight for the senses."
+    ],
+    "description": [
+        "Pumpkin spices macaron is handmade and gluten free. Ingredients: almond flour, egg whites, sugar, cream of tartar, unsalted butter, white chocolate sauce, pumpkin spices, pumpkin sauce. Made with the highest quality gluten free almond flour and other ingredients. Our macarons are truly a delight for the senses. So, bite into the crisp smooth shell with a moist chewy interior and enjoy!"
+    ],
+    "price": "17.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61DVzb8ePrL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/619sS2VaB6L._SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41VdJ2RXUdL.jpg",
+            "https://m.media-amazon.com/images/I/41SF-dbjYsL.jpg",
+            "https://m.media-amazon.com/images/I/41lRjQzo0JL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41VdJ2RXUdL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41SF-dbjYsL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41lRjQzo0JL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Macaron Centrale",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Food & Beverage Gifts",
+        "Bakery & Dessert Gifts"
+    ],
+    "details": "{\"Manufacturer\": \"Macaron Centrale\"}",
+    "parent_asin": "B08GK3L14L",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

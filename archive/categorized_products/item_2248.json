@@ -1,0 +1,102 @@
+{
+  "item_id": 2248,
+  "metadata": {
+    "main_category": "Computers",
+    "title": "Ubiquiti UniFi Switch 48 Port US-48-750W Managed PoE+ Gigabit Switch with SFP 750W",
+    "average_rating": 4.3,
+    "rating_number": 35,
+    "features": [
+      "The UniFi Switch delivers the forwarding capacity to simultaneously process traffic on all ports at line rate without any packet loss | Up to 3 fan levels",
+      "Product dimensions – 19.09” L x 14.75” W x 1.72” H | Ports quantity – 48 | Background noise level – 27.5 dB | Power method – 100-240VAC/50-60 Hz | Weight – 14.3 lbs. | Max power consumption – 750W | Operating temperature – 23 to 104° F",
+      "The UniFi Switch features auto-sensing IEEE 802.3af/at PoE to power multiple devices on the network | Switching Capacity – 52 Gbps",
+      "Two SFP ports support uplinks of up to 1 Gbps | For high-capacity uplinks, each 48-port model includes two SFP+ ports for uplinks of up to 10 Gbps",
+      "Each switch port offers custom settings: port name, PoE, network/VLAN configuration, and operation mode (switching, mirroring, or aggregate) - as well as 802.1X Authentication and Radius VLAN support"
+    ],
+    "description": [
+      "Build and expand your network with the UniFi Switch, part of the Ubiquiti Networks UniFi Enterprise System. The UniFi Switch US-48-750W is a fully managed, high performance PoE+ Gigabit switch with two SFP+ and two SFP ports, providing up to 10 Gbps uplinks and fiber connectivity options for your enterprise networks. The UniFi Switch US-48-750W offers 48 ports of auto-sensing IEEE 802.3af/at or configurable 24V PoE to simplify your infrastructure, and with a total power of 750W, you have the flexibility to power more devices on your network. Managed and configured by the UniFi Controller, the UniFi Switch offers an extensive suite of advanced Layer-2 switching features and protocols, including operation mode (switching, mirroring, or aggregate) per port. The UniFi Controller UI allows admins to configure and monitor virtually all of the switch features in a graphical user interface.",
+      "What's in the box :",
+      "UniFi Switch US-48-750W",
+      "UniFi Switch US-48-750W",
+      "Power Cord",
+      "Power Cord",
+      "(4) Mounting Screws",
+      "(4) Mounting Screws",
+      "(4) Cage Nuts",
+      "(4) Cage Nuts",
+      "Quick Start Guide",
+      "Quick Start Guide"
+    ],
+    "price": "768.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/41+bl6-BlJL._AC_SL1056_.jpg",
+        "https://m.media-amazon.com/images/I/41b6ArnvdgL._AC_SL1001_.jpg",
+        "https://m.media-amazon.com/images/I/71FQURCwRlL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61E+-aHEqwL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81knO9E+h5L._AC_SL1500_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/21kIYNxw9BL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31bwk8BEAVL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/314qQsHom1L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21T1z2CHTgL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51fqw2cGcXL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51sni8DHxBL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/21kIYNxw9BL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31bwk8BEAVL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/314qQsHom1L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21T1z2CHTgL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51fqw2cGcXL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51sni8DHxBL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Serial HUB from DriverGenius for Console Management 4XRS232",
+        "A brief of different models of switch Unifi, from small to smart professionals",
+        "Unifi Cloud Key Gen2 Plus - NVR and Network Controller"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/09451b5db6ee4ac3ba64b2a426d23b31?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/0024355c1548488eb9b65b2ebecbd644?ref=dp_vse_rvc_1",
+        "https://www.amazon.com/vdp/8561e95562104a9f972bea4feeca6f6d?ref=dp_vse_rvc_2"
+      ],
+      "user_id": [
+        "/shop/momentosdetecnologia",
+        "",
+        "/shop/momentosdetecnologia"
+      ]
+    },
+    "store": "Ubiquiti Networks",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Networking Products",
+      "Switches"
+    ],
+    "details": "{\"Brand\": \"Ubiquiti Networks\", \"Item model number\": \"UAP-AC-LR-US\", \"Item Weight\": \"14.3 pounds\", \"Product Dimensions\": \"19.09 x 14.75 x 1.72 inches\", \"Item Dimensions  LxWxH\": \"19.09 x 14.75 x 1.72 inches\", \"Voltage\": \"24 Volts\", \"Batteries\": \"1 Lithium Ion batteries required.\", \"Manufacturer\": \"Ubiquiti\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"October 16, 2014\", \"Best Sellers Rank\": {\"Computer Networking Switches\": 1418}, \"Number of Ports\": \"48\", \"Compatible Devices\": \"Desktop\", \"Switch Type\": \"Temperature Switch\", \"Item Dimensions LxWxH\": \"19.09 x 14.75 x 1.72 inches\"}",
+    "parent_asin": "B00OJZVENY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Electronics",
+      "WiFi Antennas",
+      "Routers & Switches"
+    ],
+    "confidence": 0.95
+  }
+}

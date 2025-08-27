@@ -1,0 +1,44 @@
+{
+    "main_category": "Prime Video",
+    "title": "Bloodfist VIII: Hard Way Out",
+    "average_rating": 3.9,
+    "rating_number": 18,
+    "features": [
+        "IMDb 4.3",
+        "1 h 23 min",
+        "1996",
+        "R"
+    ],
+    "description": [
+        "Don \"The Dragon\" Wilson stars as Mack, a retired CIA agent. But when a crack squad of assassins targets him for termination, class is dismissed. In a furious blaze of fists and bullets, Mack (along with his wisecracking son) crosses the globe to get the bad guys before they get him and in so doing, uncovers a conspiracy that threatens to shake the CIA to its very core."
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Action"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Rick Jacobson\"], \"Producers\": [\"Mary Ann Fisher\", \"Roger Corman\"], \"Starring\": [\"Don Wilson\", \"Jillian McWhirter\"]}",
+    "parent_asin": "B07DWH5PXX",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

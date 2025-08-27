@@ -1,0 +1,51 @@
+{
+    "main_category": "Industrial & Scientific",
+    "title": "DFRobot SEN0114 Soil Moisture Sensor, Arduino Compatible",
+    "average_rating": 3.5,
+    "rating_number": 7,
+    "features": [
+        "Power supply: 3.3V or 5V",
+        "Output voltage signal: 0 4.2V",
+        "Current: 35Ma"
+    ],
+    "description": [
+        "This moisture sensor can read the amount of moisture present in the soil surrounding it. It's a low tech sensor, but ideal for monitoring an urban garden, or your pet plant's water level. This is a must have tool for a connected garden."
+    ],
+    "price": "15.99",
+    "images": {
+        "hi_res": [
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41qabls6MiL.jpg",
+            "https://m.media-amazon.com/images/I/41qabls6MiL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41qabls6MiL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41qabls6MiL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "DFROBOT",
+    "categories": [
+        "Industrial & Scientific",
+        "Industrial Electrical",
+        "Semiconductor Products",
+        "Interfaces",
+        "Prototyping Boards & Accessories"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"3.23 x 2.68 x 1.1 inches; 0.19 Ounces\", \"Item model number\": \"SEN0114\", \"Date First Available\": \"January 30, 2013\", \"Manufacturer\": \"DFRobot\"}",
+    "parent_asin": "B00B886H7S",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

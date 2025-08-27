@@ -1,0 +1,60 @@
+{
+  "item_id": 483,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Serenades for Flute & Strings",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [],
+    "description": [
+      "The rediscovery of the three Serenades for flute and strings by the Franco-German Romantic Gouvy (1819-98), 2 of them commissioned by the Philharmonic Club of NY brings a welcome expansion to the repertoire of 19th century chamber music for flute. Gouvy's expert craftsmanship has not had the attention his warm-hearted music deserves."
+    ],
+    "price": "16.3",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71wlHk5oyAL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71CuSR+4fkL._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/81ZJsO-dPpL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/61LrM+htIfL.jpg",
+        "https://m.media-amazon.com/images/I/51u9ECY3s9L.jpg",
+        "https://m.media-amazon.com/images/I/61R8LUyAMGL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/61LrM+htIfL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51u9ECY3s9L._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/61R8LUyAMGL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "GOUVY,THEODORE  (Artist)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Classical",
+      "Forms & Genres",
+      "Serenades & Divertimentos"
+    ],
+    "details": "{\"Product Dimensions\": \"5.28 x 4.45 x 0.39 inches; 3.6 Ounces\", \"Manufacturer\": \"Toccata\", \"Original Release Date\": \"2013\", \"Date First Available\": \"April 25, 2013\", \"Label\": \"Toccata\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00C30ZBWM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Classical Albums"
+    ],
+    "confidence": 0.95
+  }
+}

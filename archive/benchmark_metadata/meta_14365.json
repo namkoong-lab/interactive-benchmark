@@ -1,0 +1,57 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Reebok Men's Bucket HAT",
+    "average_rating": 4.4,
+    "rating_number": 4,
+    "features": [
+        "Compound",
+        "Pull-On closure",
+        "Machine Wash",
+        "Main layer: 100 Percent nylon",
+        "inside: 100 Percent polyester mesh",
+        "strap: double knit 100 Percent recycled polyester",
+        "Eyelets for breathability",
+        "Item colour: black",
+        "Item number: GC8590"
+    ],
+    "description": [
+        "Worn by fishermen and farmers since the 1900s, the bucket hat never goes out of style. Wear this low-key look rain or shine to top off your easygoing wardrobe. A contrast Vector logo on the band keeps it sporty."
+    ],
+    "price": "44.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/716YnrtT0OL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71A3pSndEbL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31wMMl0KDiL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31N1wYCm3UL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31wMMl0KDiL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31N1wYCm3UL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Reebok",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Accessories",
+        "Hats & Caps",
+        "Bucket Hats"
+    ],
+    "details": "{\"Item model number\": \"GC8590\", \"Department\": \"mens\", \"Date First Available\": \"July 9, 2020\", \"Manufacturer\": \"Reebok\"}",
+    "parent_asin": "B08CLJMTNV",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

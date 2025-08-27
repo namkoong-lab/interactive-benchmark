@@ -1,0 +1,66 @@
+{
+  "item_id": 3435,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Smartwool womens Cable Crew",
+    "average_rating": 4.5,
+    "rating_number": 314,
+    "features": [
+      "100% Wool",
+      "Made in the USA",
+      "Machine Wash",
+      "Indestructawool technology with extended durability zones",
+      "Activity specific mesh zones",
+      "Cushioning on the entire bottom of the foot."
+    ],
+    "description": [
+      "Top sock technologies and the natural benefits of responsibly sourced Merino wool provide a great fit and greater comfort—so you can keep exploring."
+    ],
+    "price": "32.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51ILa2KSN7L._AC_UL1183_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41C5sFcrs1L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41C5sFcrs1L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Smartwool | Do What Feels Natural"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/055aee886efb43fa9e9193a007d7ddcc?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "Smartwool",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Active",
+      "Athletic Socks"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"4 x 2 x 2 inches; 4 Pounds\", \"Item model number\": \"SW005005\", \"Department\": \"Womens\", \"Date First Available\": \"December 15, 2020\", \"Manufacturer\": \"Smartwool\"}",
+    "parent_asin": "B0B194NR5V",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Socks"
+    ],
+    "confidence": 0.95
+  }
+}

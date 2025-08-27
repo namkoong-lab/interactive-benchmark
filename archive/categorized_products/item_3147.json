@@ -1,0 +1,75 @@
+{
+  "item_id": 3147,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Flying Tomato Women's Chiffon Smocked Boho Long Sleeve Dress",
+    "average_rating": 4.5,
+    "rating_number": 3,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Tie closure",
+      "Hand Wash Only",
+      "Stunning, bohemian midi dress with a smocked top with a round neckline and long, billowy sleeves. A-line silhouette with a self-tie belt at the waist. Skirt lining underneath.",
+      "48\"/122 cm Shoulder to Hem - Measured on size Small (Model is 5'8/ wearing a size S)"
+    ],
+    "description": [
+      "Stunning, bohemian midi dress with a smocked top with a round neckline and long, billowy sleeves. A-line silhouette with a self-tie belt at the waist. Skirt lining underneath."
+    ],
+    "price": "59.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/818CjivYwGL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81phQt01DjL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Xw9eH0uGL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Jc+sYMyUL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81edHnjfALL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41yOca3f8CL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41O--DXqFFL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41OsBZaAUJL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41it1STiCYL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51UhdH9eqZL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41yOca3f8CL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41O--DXqFFL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41OsBZaAUJL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41it1STiCYL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51UhdH9eqZL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Flying Tomato",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Dresses"
+    ],
+    "details": "{\"Date First Available\": \"December 15, 2021\"}",
+    "parent_asin": "B09NMXMC3W",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Dresses"
+    ],
+    "confidence": 0.95
+  }
+}

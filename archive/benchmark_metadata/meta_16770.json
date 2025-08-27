@@ -1,0 +1,56 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "bebe Keyra Womens Slip On",
+    "average_rating": 4.0,
+    "rating_number": 21,
+    "features": [
+        "100% Synthetic",
+        "Made in USA or Imported",
+        "Leather sole",
+        "Synthetic and fabric upper",
+        "Bungee lace-up closure",
+        "Lightly cushioned footbed"
+    ],
+    "description": [
+        "*Synthetic and fabric upper *Bungee lace-up closure *Lightly cushioned footbed"
+    ],
+    "price": "38.97",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51+mLiKeMqL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/51OQ8RdXPEL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/51qK-RqRdSL._AC_UL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/310iXuXFNYL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41V0Fn+0bgL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41hzGQ8zF1L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/310iXuXFNYL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41V0Fn+0bgL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41hzGQ8zF1L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "bebe",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes"
+    ],
+    "details": "{\"Product Dimensions\": \"11.9 x 7.2 x 4.1 inches; 1.7 Pounds\", \"Date First Available\": \"June 10, 2021\"}",
+    "parent_asin": "B0971PZF74",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

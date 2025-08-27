@@ -1,0 +1,41 @@
+{
+    "main_category": "Digital Music",
+    "title": "Born in the U.S.A",
+    "average_rating": 4.7,
+    "rating_number": 981,
+    "features": [],
+    "description": [
+        "Japanese Limited Edition Issue in a Deluxe LP Sleeve Replica of the Original Album Artwork."
+    ],
+    "price": "49.98",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61rTQbeNN9L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61rTQbeNN9L._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Bruce Springsteen   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Classic Rock",
+        "Album-Oriented Rock (AOR)"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5 x 5.75 x 0.25 inches; 1.8 Ounces\", \"Manufacturer\": \"Sony Japan\", \"Date First Available\": \"July 27, 2006\", \"Label\": \"Sony Japan\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0009J8GXK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

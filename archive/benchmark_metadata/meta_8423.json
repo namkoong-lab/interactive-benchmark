@@ -1,0 +1,71 @@
+{
+    "main_category": "Books",
+    "title": "Programming PHP",
+    "average_rating": 3.2,
+    "rating_number": 34,
+    "features": [
+        "PHP is a simple yet powerful open-source scripting language for creating dynamic web content. The millions of web sites powered by PHP are testament to its popularity and ease of use. PHP is used by both programmers, who appreciate its flexibility and speed, and web designers, who value its accessibility and convenience.",
+        "Programming PHP",
+        "is an authoritative guide to PHP 4 and is filled with the unique knowledge of the creator of PHP, Rasmus Lerdorf. This book explains PHP language syntax and programming techniques in a clear and concise manner, with numerous examples that illustrate both correct usage and common idioms. The book also includes style tips and practical programming advice that will help you become not just a PHP programmer, but a good PHP programmer.",
+        "Programming PHP",
+        "covers everything you need to know to create effective web applications with PHP. Contents include:",
+        "Detailed information on the basics of the PHP language, including data types, variables, operators, and flow control statements",
+        "Detailed information on the basics of the PHP language, including data types, variables, operators, and flow control statements",
+        "Separate chapters on the fundamental topics of functions, strings, arrays, and objects",
+        "Separate chapters on the fundamental topics of functions, strings, arrays, and objects",
+        "Coverage of common PHP web application techniques, such as form processing and validation, session tracking, and cookies",
+        "Coverage of common PHP web application techniques, such as form processing and validation, session tracking, and cookies",
+        "Material on interacting with relational databases, such as MySQL and Oracle, using the database-independent PEAR DB library",
+        "Material on interacting with relational databases, such as MySQL and Oracle, using the database-independent PEAR DB library",
+        "Chapters on generating dynamic images, creating PDF files, and parsing XML files with PHP",
+        "Chapters on generating dynamic images, creating PDF files, and parsing XML files with PHP",
+        "Advanced topics, like creating secure script, error handling, performance tuning, and writing your own C language extensions to PHP",
+        "Advanced topics, like creating secure script, error handling, performance tuning, and writing your own C language extensions to PHP",
+        "A handy quick reference to all the core functions in PHP and all the standard extensions that ship with PHP",
+        "A handy quick reference to all the core functions in PHP and all the standard extensions that ship with PHP"
+    ],
+    "description": [
+        "Amazon.com Review",
+        "PHP is far more than a cult language or open-source icon. It's a remarkably capable language that's well integrated with lots of technologies--notably mSQL and MySQL database servers--and quite easy to learn.",
+        "Programming PHP",
+        "helps you up the PHP learning curve, very nearly guaranteeing that you'll find in its pages an example that illustrates every fundamental aspect of the language and its most important extension modules. Plus, there's some cool advanced stuff, like recipes for manipulating images, working with Extensible Markup Language (XML) content, and generating Adobe Acrobat (PDF) files. Rasmus Lerdorf invented PHP and quarterbacks its ongoing evolution, so there's little question of the content's authority.",
+        "The authors use a Talmudic style to explore PHP's capabilities and explain them to their readers, meaning that they like to present code and commentary in close formation, with each enhancing the other. Typically, they'll present a capability generically and show the relevant code. Then they'll dig into variations on the theme, calling attention to required code alterations as they go. This is a book about PHP itself, so practically no attention is paid to PHP Builder or other development tools. Regardless, this book will help you solve programming challenges with PHP, and enable you to write efficient, attractive code.",
+        "--David Wall",
+        "Topics covered:",
+        "The PHP programming language, for people who are coming to PHP with a bit of programming experience in other languages or who want to expand their existing PHP knowledge beyond the basics. Sections deal with the core language, as well as HTTP session management, database connectivity (to MySQL and Oracle, as well as with PHP Extension and Application Repository--PEAR), graphics file manipulation, XML parsing, and PDF creation. There are instructions for building a PHP extension library in C, as well as a function reference and guide to existing extensions.",
+        "About the Author",
+        "started the PHP Project back in 1995 and has been actively involved in PHP development ever since. Also involved in a number of other Open Source projects, Rasmus is a longtime Apache contributor and foundation member. He is the author of the first edition of the PHP Pocket Reference, and the co-author of Programming PHP.",
+        "Kevin Tatroe has been a Macintosh and Unix programmer for ten years. Being lazy, he's attracted to languages and frameworks that do much of the work for you, such as the AppleScript, Perl, and PHP languages and the WebObjects and Cocoa programming environments. Kevin, his wife Jenn, his son Hadden, and two cats live on the edge of the rural plains of Colorado, just far away enough from the mountains to avoid the worst snowfall, and just close enough to avoid tornadoes. The house is filled with LEGO creations, action figures, and other toys."
+    ],
+    "price": "2.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41iGizKV4UL._SX379_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rasmus Lerdorf (Author),  Kevin Tatroe (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Programming"
+    ],
+    "details": "{\"Publisher\": \"O'Reilly Media; 1st edition (April 4, 2002)\", \"Language\": \"English\", \"Paperback\": \"528 pages\", \"ISBN 10\": \"9781565926103\", \"ISBN 13\": \"978-1565926103\", \"Item Weight\": \"1.62 pounds\", \"Dimensions\": \"7 x 0.95 x 9.19 inches\"}",
+    "parent_asin": "1565926102",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": null
+}

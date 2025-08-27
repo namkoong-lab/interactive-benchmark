@@ -1,0 +1,69 @@
+{
+    "main_category": "Grocery",
+    "title": "ENTENMANNS COFFEE GRND HZLNUT 10OZ",
+    "average_rating": 4.3,
+    "rating_number": 41,
+    "features": [
+        "Hazelnut - The perfect, classic hazelnut flavored coffee",
+        "10 Ounce Bag",
+        "Ground Arabica Coffee"
+    ],
+    "description": [
+        "Entenmann's Chocolate Donut Flavored Ground Coffee is a medium-bodied coffee rich with the chocolaty flavors of Entenmann's classic donut. For over 100 years, the Entenmann's name has stood for the finest quality in baked goods. That same commitment now extends to Entenmann's coffee selections. Working with the finest coffee growers around the world, Entenmann's selects only 100% Arabica beans and roasts them in small batches to ensure consistent quality coffee with every roast. Packaged immediately after roasting to lock in freshness, this coffee was created to be the perfect complement to Entenmann's baked goods or savored on its own any time of day."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/713A7qFk7yL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61DxbdUYCSL._SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41K6NoDTBiL.jpg",
+            "https://m.media-amazon.com/images/I/41oPE-ryVSL.jpg",
+            "https://m.media-amazon.com/images/I/3107oI+fmKL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41K6NoDTBiL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41oPE-ryVSL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/3107oI+fmKL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT12"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Enjoy the Great Taste of Dunkin' at Home!",
+            "Toasted Southern Pecan Ground Coffee Bag",
+            "Hazelnut Ground Coffee - My Honest Review",
+            "NEC - Hazelnut Cream Ground Coffee "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/ebec4f250f1f463e9c88564bc6c7691e?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/fccd3175c3b141079e522ebfcadbef78?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/01b889686df44d59a129a33ed9bc73c7?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0b0baf849b15489fa96212400c8f0abf?ref=dp_vse_rvc_3"
+        ],
+        "user_id": [
+            "",
+            "",
+            "/shop/apolloscorgilife",
+            ""
+        ]
+    },
+    "store": "Entenmann's",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Beverages",
+        "Coffee",
+        "Ground Coffee"
+    ],
+    "details": "{\"Brand\": \"Entenmann's\", \"Item Form\": \"Ground\", \"Flavor\": \"Chocolate Hazelnut\", \"Caffeine Content\": \"Caffeinated\", \"Roast Level\": \"Medium_roast\", \"Product Dimensions\": \"1 x 1 x 1 inches; 10 Ounces\", \"Item model number\": \"KTS-1110\", \"UPC\": \"024515120350\", \"Manufacturer\": \"Entenmann's\", \"Domestic Shipping\": \"Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.\", \"International Shipping\": \"This item is not eligible for international shipping.  Learn More\"}",
+    "parent_asin": "B00CNV17VA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

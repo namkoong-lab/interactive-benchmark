@@ -1,0 +1,51 @@
+{
+    "main_category": "Grocery",
+    "title": "Amoretti Extract, Oatmeal Cookie, 2 Ounce",
+    "average_rating": 3.0,
+    "rating_number": 3,
+    "features": [
+        "Highly concentrated extractions and essential oils",
+        "Flavor chocolate, cheesecake, mousse, cake batter, ice cream, gelato, etc.",
+        "Cold pressed and virtually alcohol free",
+        "Kosher",
+        "Bake-proof and freeze-thaw-stable"
+    ],
+    "description": [
+        "Amoretti Natural Oatmeal Cookie Extract captures the flavor and aroma of an oatmeal cookie, including the raisins, the brown sugar, and a touch of cinnamon, and delivers a bakery fresh Natural Oatmeal Cookie flavor that is great for adding to any dessert. Amoretti Natural Oatmeal Cookie Extract is the one chosen by professional pastry chefs because it provides the comfort of a warm oatmeal cookie, without the addition of alcohol, chemicals or artificial flavors or colors, and delivers this fantastic flavor and aroma wherever it is added. Now Amoretti is making this unique extract available to home cooks and bakers. Amoretti Natural Oatmeal Cookie Extract definitely offers you the opportunity to add this wonderful flavor to confections and baked goods of all kinds. Of course Amoretti Natural Oatmeal Cookie Extract will add the flavor of an oatmeal cookie to a wide variety of baked goods, but it can also be added to ice cream or gelato, your favorite fudge recipe, frostings, ganaches, glazes and fillings. Simply replace the amount of whatever extract is specified in your usual recipe with Amoretti Natural Oatmeal Cookie Extract. Amoretti guarantees customer satisfaction, so if you are disappointed with Amoretti Natural Oatmeal Cookie Extract for any reason, just let us know and we will do whatever we can to make it right."
+    ],
+    "price": "29.73",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61SDMFYa1dL._SL1400_.jpg",
+            "https://m.media-amazon.com/images/I/61eYku6o2hL._SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41+hvdk2b2L.jpg",
+            "https://m.media-amazon.com/images/I/51M9BTePj6L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41+hvdk2b2L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51M9BTePj6L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Amoretti",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Cooking & Baking"
+    ],
+    "details": "{\"Package Dimensions\": \"4 x 1.3 x 1.3 inches; 2 Ounces\", \"UPC\": \"719416220833\", \"Manufacturer\": \"Amoretti\"}",
+    "parent_asin": "B00L28VL3E",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

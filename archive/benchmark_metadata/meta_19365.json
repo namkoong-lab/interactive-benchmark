@@ -1,0 +1,45 @@
+{
+    "main_category": "Prime Video",
+    "title": "Paradise Lost 2: Revelations",
+    "average_rating": 4.6,
+    "rating_number": 668,
+    "features": [
+        "IMDb 7.5",
+        "2 h 13 min",
+        "2001",
+        "7+"
+    ],
+    "description": [
+        "[HBO] HD. This documentary sequel follows up on the case in which three little boys were viciously killed and three teens were charged."
+    ],
+    "price": "7.69",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Documentary",
+        "Serious"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"---\"], \"Producers\": [\"Joe Berlinger\", \"Bruce Sinofsky\", \"Nancy Abraham\", \"Michael Bonfiglio\", \"Sheila Nevins\"], \"Starring\": [\"Damien Wayne Echols\", \"Melissa Byers\", \"Norris Deajon\"]}",
+    "parent_asin": "B00B15OH20",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

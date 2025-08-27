@@ -1,0 +1,60 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "InCharacter Teen Robin Hood Girl's Costume",
+    "average_rating": 3.0,
+    "rating_number": 1,
+    "features": [
+        "Lace",
+        "Size-M",
+        "Includes: a dress, capelet and hat.",
+        "Boots not included."
+    ],
+    "description": [
+        "Robin Hood was a legend to many and a hero to all. The Teen Robin Hood Costume comes complete with a pea green dress, matching capelet, and hat. The red lace trim on the dress, cape, and hat provide an eye catching touch."
+    ],
+    "price": "29.9",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31Es1PUSwfL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41KgcNr2XJL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31gHDnEG4KL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/314Kyu5HSTL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31Es1PUSwfL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41KgcNr2XJL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31gHDnEG4KL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/314Kyu5HSTL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT08"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "InCharacter",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Costumes & Accessories",
+        "Women",
+        "Costumes & Cosplay Apparel",
+        "Costumes"
+    ],
+    "details": "{\"Department\": \"girls\", \"Date First Available\": \"June 30, 2010\", \"Manufacturer\": \"Incharacter Costumes\"}",
+    "parent_asin": "B008EXPEXI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

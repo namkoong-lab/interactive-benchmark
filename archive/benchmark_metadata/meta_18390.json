@@ -1,0 +1,51 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "NCAA Texas Tech Red Raiders Colossus Short Sleeved T-Shirt",
+    "average_rating": 4.2,
+    "rating_number": 6,
+    "features": [
+        "100% Cotton",
+        "Pull On closure",
+        "Machine Wash",
+        "100% Cotton",
+        "Preshrunk",
+        "Tubular Jersey T-Shirt",
+        "Machine Wash Warm, Do Not Bleach, Tumble Dry Low, Do Not Iron If Decorated",
+        "Mexico"
+    ],
+    "description": [
+        "6 Oz. 100% Cotton, Double Needle Bottom Hem And Sleeve, Shoulder To Shoulder Tape"
+    ],
+    "price": "16.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/714NYbStl6L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41z0TZm9CjL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41z0TZm9CjL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "CI Sport",
+    "categories": [
+        "Sports & Outdoors",
+        "Fan Shop",
+        "Clothing",
+        "T-Shirts"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"1301-Colossus-TexTech\", \"Department\": \"mens\", \"Date First Available\": \"August 7, 2012\", \"Manufacturer\": \"CI Sport\"}",
+    "parent_asin": "B008U5RL18",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

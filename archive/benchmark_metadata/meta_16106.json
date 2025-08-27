@@ -1,0 +1,52 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Under Armour Men's Team's Armour Polo Golf Shirt, 1246240 (Royal, S)",
+    "average_rating": 3.8,
+    "rating_number": 7,
+    "features": [
+        "95% Polyester - 5% Elastane",
+        "Button closure",
+        "Machine Wash",
+        "Lightweight, textured fabric for durability and style.",
+        "Moisture Transport System wicks sweat away from the body.",
+        "technology.",
+        "95% Polyester - 5% Elastane",
+        "UPF 50+ sun protection"
+    ],
+    "description": [
+        "HeatGear moisture transport ensures lightweight performance and long lasting comfort with 50+ UPF that protects your skin from the sun's harmful rays and inhibits premature aging. ArmourStretch improves mobility and accelerates dry time with lightweight fabrics built in a 4-way stretch. Technology prevents the growth of odor causing substances. Ribbed collar and custom Under Armour three-button placket. Textured fabric is durable and light and that makes the Under Armour Every Team's Armour Men's Polo a great choice."
+    ],
+    "price": "39.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51mGptS65IL._AC_UL1143_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31nAG+ZxsLL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31nAG+ZxsLL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Under Armour",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Shirts",
+        "Polos"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"6 x 6 x 3 inches; 0.01 Ounces\", \"Item model number\": \"1246240-400-SM\", \"Department\": \"mens\", \"Date First Available\": \"June 19, 2014\", \"Manufacturer\": \"Under Armour\"}",
+    "parent_asin": "B00L4ITCSS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

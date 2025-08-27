@@ -1,0 +1,48 @@
+{
+    "main_category": "Books",
+    "title": "Laser Engineering",
+    "average_rating": 4.1,
+    "rating_number": 6,
+    "features": [
+        "Presents fundamental principles of lasers immediately relevant to lasers in practice. Balancing theory with engineering examples from well-established laser companies, the book provides an important and practical design resource.",
+        "KEY TOPICS:",
+        "Using actual laser systems from major companies as examples, the book provides an opportunity to apply skills. The book also introduces non-linear optics and covers important support technologies. It also incorporates material on basic laser safety and summarizes basic optics commonly used in laser engineering.",
+        "MARKET:",
+        "A valuable reference book for practicing electrical engineers working with lasers."
+    ],
+    "description": [
+        "From the Back Cover",
+        "Presents fundamental principles of lasers immediately relevant to lasers in practice. Balancing theory with engineering examples from well-established laser companies, the book provides an important and practical design resource. Using actual laser systems from major companies as examples, the book provides an opportunity to apply skills. The book also introduces non-linear optics and covers important support technologies. It also incorporates material on basic laser safety and summarizes basic optics commonly used in laser engineering. A valuable reference book for practicing electrical engineers working with lasers."
+    ],
+    "price": "7.5",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/417RRA58PGL._SX367_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kelin Kuhn (Author)",
+    "categories": [
+        "Books",
+        "Engineering & Transportation",
+        "Engineering"
+    ],
+    "details": "{\"Publisher\": \"Pearson; 1st edition (December 4, 1997)\", \"Language\": \"English\", \"Paperback\": \"512 pages\", \"ISBN 10\": \"0023669217\", \"ISBN 13\": \"978-0023669217\", \"Item Weight\": \"1.81 pounds\", \"Dimensions\": \"7 x 1.2 x 9 inches\"}",
+    "parent_asin": "0023669217",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Kelin J. Kuhn', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

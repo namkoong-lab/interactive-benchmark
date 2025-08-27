@@ -1,0 +1,67 @@
+{
+  "item_id": 4996,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "GEEK TEEZ This is The Way Men's T-Shirt",
+    "average_rating": 4.7,
+    "rating_number": 203,
+    "features": [
+      "Polyester,Cotton",
+      "Pull On closure",
+      "Machine Wash",
+      "Printed in the USA .",
+      "High quality, super-soft cotton screenprinted in-house using water-based, environmentally friendly inks.",
+      "Most colors are 100% cotton; Heather Grey is 90% cotton/10% polyester."
+    ],
+    "description": [
+      "Don't take that helmet off...this is the way. This product is made in America with high quality, eco-friendly materials. The fabric is refreshingly soft and carries the quality of a high-end department store. Our designs are screen printed, which requires an artistic touch and makes every print an original. Our premium ink contains small amounts of titanium to enhance its pigmentation and vibrance. The size is a true form shirt, meaning that it fits the traditional American cut in every size. Please do not hesitate to ask should you have any questions - we want you to love what you order and our promise is that we will make this a 1st class experience from purchase to delivery."
+    ],
+    "price": "25.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51MSOOKPiuL._AC_UL1001_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41jOcn+yokL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51P61-M5DBL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41jOcn+yokL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51P61-M5DBL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "GEEK TEEZ",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Men",
+      "Shirts",
+      "T-Shirts"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"January 16, 2020\"}",
+    "parent_asin": "B083XN9716",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's T-Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

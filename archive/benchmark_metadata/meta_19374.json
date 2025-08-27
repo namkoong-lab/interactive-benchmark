@@ -1,0 +1,47 @@
+{
+    "main_category": "Prime Video",
+    "title": "Wind Chill",
+    "average_rating": 4.2,
+    "rating_number": 747,
+    "features": [
+        "1 h 30 min",
+        "2007",
+        "X-Ray",
+        "R"
+    ],
+    "description": [
+        "Two college students sharing a ride home during the winter holidays find their car broken down on a lonely snowy road - the tension rises when they realize that they may not be alone in this claustrophobic thriller!"
+    ],
+    "price": "12.09",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Suspense",
+        "Horror",
+        "Cerebral",
+        "Eerie"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Gregory Jacobs\"], \"Producers\": [\"Graham Broadbent\", \"Ben Cosgrove\", \"Peter Czernin\"], \"Starring\": [\"Emily Blunt\", \"Ashton Holmes\", \"Martin C. Donovan\"]}",
+    "parent_asin": "B008Y7CIFG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

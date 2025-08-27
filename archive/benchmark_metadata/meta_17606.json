@@ -1,0 +1,94 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "My Emergency Info",
+    "average_rating": 3.1,
+    "rating_number": 52,
+    "features": [
+        "+ Login Screen",
+        "+ Settings Screen to Enable/Disable functionalities",
+        "+ Enable/Disable Emergency Info from Phone Lock Screen",
+        "+ Enable/Disable App Password Protected",
+        "+ Custom Lock Screen",
+        "+ General Information & Medical Condition Note",
+        "+ Insurance, Allergies, Medications, Doctors, and Emergency Contacts Information",
+        "+ Medication Reminders",
+        "+ Summary/Share your Emergency Info using one of the following:",
+        "(Bluetooth, Email, Gmail, SMS, Google+, WIFI, My tag, Social Hub)"
+    ],
+    "description": [
+        "LIMITED TIME OFFER:Download for Free now before deal ends.This stand along Android app is your number one source that will store all of your pertinent important information for first responders and hospital staff in case of a sudden emergency (ICE). This app will store all of your vital information such as your emergency contacts, a listing of your medications, doctors, allergies and much more."
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61R36goABjL.jpg",
+            "https://m.media-amazon.com/images/I/510fh2G3xYL.jpg",
+            "https://m.media-amazon.com/images/I/61sWQjQJNzL.jpg",
+            "https://m.media-amazon.com/images/I/615WWjfnI2L.jpg",
+            "https://m.media-amazon.com/images/I/615PVzoq7fL.jpg",
+            "https://m.media-amazon.com/images/I/61dGo8rfz2L.jpg",
+            "https://m.media-amazon.com/images/I/61BjTEJYSLL.jpg",
+            "https://m.media-amazon.com/images/I/61xHmeunejL.jpg",
+            "https://m.media-amazon.com/images/I/61IMuOQTKfL.jpg",
+            "https://m.media-amazon.com/images/I/61BDAg7YfWL.jpg",
+            "https://m.media-amazon.com/images/I/815a0MLyR4L.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08",
+            "PT09",
+            "PT010"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            "https://images-na.ssl-images-amazon.com/images/I/D1smQBsux-S.mp4"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Konviere Corporation",
+    "categories": [],
+    "details": "{\"Release Date\": \"2013\", \"Date first listed on Amazon\": \"November 13, 2013\", \"Developed By\": \"Konviere Corporation\", \"Size\": \"3.3MB\", \"Version\": \"3.0.8\", \"Application Permissions\": [\"BIND_NOTIFICATION_LISTENER_SERVICE\", \"Required to be able to access the camera device\", \"Disable the keyguard\", \"Open network sockets\", \"MEDIA_CONTENT_CONTROL\", \"MODIFY_AUDIO_SETTINS\", \"Read from external storage\", \"Read only access to device state\", \"READ_TASKS\", \"Get notified that the operating system has finished booting\", \"Broadcast an Intent to set an alarm for the user\", \"Open windows using the type TYPE_SYSTEM_ALERT, shown on top of all other applications\", \"USES_POLICY_FORCE_LOCK\", \"PowerManager WakeLocks to keep processor from sleeping or screen from dimming\", \"Write to external storage\", \"Read or write the system settings\", \"WRITE_TASKS\"], \"Minimum Operating System\": \"Android 2.1\", \"Approximate Download Time\": \"Less than 30 seconds\"}",
+    "parent_asin": "B00GMX58XS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,83 @@
+{
+  "item_id": 4123,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "PUMA Men's Football Boots",
+    "average_rating": 3.9,
+    "rating_number": 78,
+    "features": [
+      "fabric-and-synthetic",
+      "Imported",
+      "Rubber sole",
+      "Shaft measures approximately low-top from arch",
+      "Soccer Performance",
+      "365 concrete"
+    ],
+    "description": [
+      "-Cool and colourful, with bold branding and a classic, long-lined silhouette, the 365 concrete 2's are turf ready. Engineered for street and cage football, with slip-on construction for a sock-like feel, grippy cylindrical studs and a breathable textured upper, you'll be running circles around the competition.-Slip-on construction-low boot silhouette-soft mesh upper with synthetic skin-non-marking rubber outsole-lace closure for a snug fit-puma branding at tongue-puma form strip at medial and lateral sides-."
+    ],
+    "price": "52.39",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71CkcUfcKLL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71+hAGZZNFL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61wT2VaqTIL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/6157T-ltsWL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/718cy6AwcsL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71VwRznmlfL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71bAVcbq9ZL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31sKimeqIbL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41+LCp0nYZL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/312WNDlNpnL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31bIW-h0iiL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31ab9uRzXQL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31H5Q2Ls6AL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31kZFHvmgJL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31sKimeqIbL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41+LCp0nYZL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/312WNDlNpnL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31bIW-h0iiL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31ab9uRzXQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31H5Q2Ls6AL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31kZFHvmgJL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "PUMA",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Shoes",
+      "Fashion Sneakers"
+    ],
+    "details": "{\"Item model number\": \"105991\", \"Department\": \"mens\", \"Date First Available\": \"November 22, 2019\", \"Manufacturer\": \"Puma\"}",
+    "parent_asin": "B084PNQCL9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

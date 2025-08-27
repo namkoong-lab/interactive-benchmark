@@ -1,0 +1,87 @@
+{
+  "item_id": 3299,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "CHARLES BY CHARLES DAVID Women's Lagoon Platform",
+    "average_rating": 4.1,
+    "rating_number": 18,
+    "features": [
+      "Imported",
+      "Faux Leather sole",
+      "Heel measures approximately 4\"",
+      "Padded footbed"
+    ],
+    "description": [
+      "High heel cork covered wedge is wrapped with wide straps with a cushioned footbed"
+    ],
+    "price": "27.83",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71TRrLr0dyL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61mfm0qWofL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61WWvP-b7-L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61k36VfgLqL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71LaMX1-uOL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71JvTvUAolL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71JAuXFo9XL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71O9bLyfKYL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41q0eSiLQiL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/315Z-oTCFXL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31DX2DI6PPL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31okmTKCxSL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/317fvRuZu8L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41RH0k9IJaL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/4146Y0EQ3pL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/417gz9BgY2L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41q0eSiLQiL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/315Z-oTCFXL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31DX2DI6PPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31okmTKCxSL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/317fvRuZu8L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41RH0k9IJaL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/4146Y0EQ3pL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/417gz9BgY2L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Charles by Charles David",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Sandals",
+      "Platforms & Wedges"
+    ],
+    "details": "{\"Item model number\": \"2D21S085\", \"Department\": \"womens\", \"Date First Available\": \"March 9, 2021\", \"Manufacturer\": \"CHARLES BY CHARLES DAVID\"}",
+    "parent_asin": "B091K4SW6M",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Heels"
+    ],
+    "confidence": 0.95
+  }
+}

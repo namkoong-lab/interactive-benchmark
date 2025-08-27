@@ -1,0 +1,67 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "Supermarket",
+    "average_rating": 4.6,
+    "rating_number": 5503,
+    "features": [
+        "#1",
+        "NEW YORK",
+        "TIMES",
+        "BESTSELLER",
+        "The stunning debut novel from one of the most creative artists of our generation, Bobby Hall, a.k.a. Logic.",
+        "“Bobby Hall has crafted a mind-bending first novel, with prose that is just as fierce and moving as his lyrics.",
+        "Supermarket",
+        "is like",
+        "Naked Lunch",
+        "meets",
+        "One Flew Over the Cuckoo's Nest",
+        "—if they met at",
+        "Fight Club",
+        ".”—Ernest Cline, #1",
+        "New York Times",
+        "bestselling author of",
+        "Ready Player One",
+        "Flynn is stuck—depressed, recently dumped, and living at his mom’s house. The supermarket was supposed to change all that. An ordinary job and a steady check. Work isn’t work when it’s saving you from yourself. But things aren’t quite as they seem in these aisles. Arriving to work one day to a crime scene, Flynn’s world collapses as the secrets of his tortured mind are revealed. And Flynn doesn’t want to go looking for answers at the supermarket. Because something there seems to be looking for him. A darkly funny psychological thriller,",
+        "Supermarket",
+        "is a gripping exploration into madness and creativity. Who knew you could find sex, drugs, and murder all in aisle nine?"
+    ],
+    "description": [
+        "About the Author",
+        "Bobby Hall, a.k.a. Logic, is a Grammy-nominated, platinum-selling recording artist, author, actor, streamer, and film producer. In addition to his three number-one albums, ten platinum singles, and billions of streams, Hall’s debut book,",
+        "Supermarket",
+        ", made him the first hip-hop artist to have a #1",
+        "New York Times",
+        "bestselling novel."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21e0uSHjleL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Bob Hall (Author)   Format: Kindle Edition",
+    "categories": [
+        "Books",
+        "Mystery, Thriller & Suspense",
+        "Thrillers & Suspense"
+    ],
+    "details": "{\"Publisher\": \"Simon & Schuster (March 26, 2019)\", \"Publication date\": \"March 26, 2019\", \"Language\": \"English\", \"File size\": \"2145 KB\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Enabled\", \"Word Wise\": \"Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"290 pages\"}",
+    "parent_asin": "B07MFMQQ53",
+    "bought_together": null,
+    "subtitle": "Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Bobby Hall', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

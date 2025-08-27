@@ -1,0 +1,65 @@
+{
+    "main_category": "Grocery",
+    "title": "M&M's Dark Chocolate, 19.2 oz",
+    "average_rating": 4.6,
+    "rating_number": 454,
+    "features": [
+        "210 calories (11% DV) per serving"
+    ],
+    "description": [
+        "Chocolate candies."
+    ],
+    "price": "22.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91YIqRrUcRL._SL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/71FxACNmv6L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/615gsdJZatL._SL1322_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51NHbWO8VbL.jpg",
+            "https://m.media-amazon.com/images/I/41LySQU6LXL.jpg",
+            "https://m.media-amazon.com/images/I/41VmF+bm5IL.jpg",
+            "https://m.media-amazon.com/images/I/419gK8bVb6L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51NHbWO8VbL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41LySQU6LXL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41VmF+bm5IL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/419gK8bVb6L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT12",
+            "FACT",
+            "INGR"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Small Peanuts Covered in Chocolate! OMG",
+            "M&M's Minis Milk Chocolate Candy"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0d2d049b1b2348619ab885bf656f9945?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0c0436fe7398435ea9ef72dcb9b19511?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "/shop/influencer-4da014bc",
+            "/shop/mralanc"
+        ]
+    },
+    "store": "M&M'S",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Chocolate",
+        "Candy & Chocolate Bars"
+    ],
+    "details": "{\"Brand\": \"M&M'S\", \"Item Form\": \"Beans\", \"Chocolate Type\": \"Dark\", \"Flavor\": \"Dark Chocolate\", \"Unit Count\": \"19.2 Ounce\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"15.4 x 9.3 x 6.1 inches; 1.2 Pounds\", \"Item model number\": \"4827929\", \"UPC\": \"040000249153\", \"Manufacturer\": \"M&M'S\"}",
+    "parent_asin": "B01LWSLMKZ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

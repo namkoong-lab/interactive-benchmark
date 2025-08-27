@@ -1,0 +1,67 @@
+{
+  "item_id": 3267,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Maidenform womens Full Coverage",
+    "average_rating": 4.2,
+    "rating_number": 6,
+    "features": [
+      "Nylon,Elastane",
+      "Hand Wash Only",
+      "Smooth and sleek under clothes, for no bra lines. Smooths back.",
+      "With convertible straps for multiple ways to wear.",
+      "Brushed inner wing and cup liners for extra comfort.",
+      "Stretch foam seamless underwire cups support and shape."
+    ],
+    "description": [
+      "Gorgeous liquid-satin fabric in an extra coverage strapless bra."
+    ],
+    "price": "30.48",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61Yi7WQjWbL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Yi7WQjWbL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41r3ipt3S7L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41r3ipt3S7L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41r3ipt3S7L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41r3ipt3S7L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT08"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Maidenform",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Lingerie, Sleep & Lounge",
+      "Lingerie",
+      "Bras",
+      "Everyday Bras"
+    ],
+    "details": "{\"Item model number\": \"9472\", \"Department\": \"Womens\", \"Date First Available\": \"April 7, 2021\"}",
+    "parent_asin": "B0921TNTL3",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Underwear",
+      "Bras"
+    ],
+    "confidence": 0.95
+  }
+}

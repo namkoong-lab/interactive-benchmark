@@ -1,0 +1,45 @@
+{
+    "main_category": "Digital Music",
+    "title": "Celestial Classics",
+    "average_rating": 4.7,
+    "rating_number": 9,
+    "features": [],
+    "description": [
+        "Peaceful largos arranged with soft, celestial sounds capturing the essence of the Old Masters in the spirit of the 'Classical Healing Effect'. The compositions have been arranged at a slow and relaxed tempo of 60 beats per minute, which has a most calming effect on the listener."
+    ],
+    "price": "17.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71XpUGrJJSL._SL1050_.jpg",
+            "https://m.media-amazon.com/images/I/71vzwP82AaL._SL1050_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/514Bbp2-csL.jpg",
+            "https://m.media-amazon.com/images/I/51QVqfhG-IL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/514Bbp2-csL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51QVqfhG-IL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Anugama   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Dance & Electronic",
+        "Ambient"
+    ],
+    "details": "{\"Product Dimensions\": \"4.88 x 0.39 x 5.67 inches; 3.25 Ounces\", \"Manufacturer\": \"Open Sky Music\", \"Date First Available\": \"July 27, 2006\", \"Label\": \"Open Sky Music\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00005TZOD",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Road Atlas: United States and Canada, RV & Camping Edition",
+    "average_rating": 4.0,
+    "rating_number": 31,
+    "features": [
+        "Our new Road Atlas - RV & Camping Edition is ideal for the millions of active RV and car camping enthusiasts throughout the US and Canada. This essential guide is the most comprehensive atlas of its kind, featuring 3700 state-by-state RV park and campground listings from the National Association of RV Parks & Campgrounds (ARVC). Each listing includes contact information, and each of the campgrounds is shown with a colored icon on the map. Also highlighted are 36 popular scenic drives from across the country, 22 National Park profiles, and State Park listings.Approximately 11\" x 15\" spiral bound with plastic protective cover242 pages"
+    ],
+    "description": [
+        "About the Author",
+        "Founded in 1915 as the Cartographic Group, the first division of the National Geographic Society, National Geographic Maps has been responsible for illustrating the world around us through the art and science of mapmaking.Today, National Geographic Maps continues this mission by creating the world s best wall maps, recreation maps, atlases, and globes which inspire people to care about and explore their world. All proceeds from the sale of National Geographic maps go to support the Society s non-profit mission to increase global understanding and promote conservation of our planet through exploration, research, and education."
+    ],
+    "price": "400.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61szjRuKX6L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "National Geographic Maps (Author, Editor, Illustrator)",
+    "categories": [
+        "Books",
+        "Reference",
+        "Atlases & Maps"
+    ],
+    "details": "{\"Publisher\": \"National Geographic Society Maps (May 1, 2005)\", \"Language\": \"English\", \"Spiral bound\": \"272 pages\", \"ISBN 10\": \"159775000X\", \"ISBN 13\": \"978-1597750004\", \"Item Weight\": \"2.8 pounds\", \"Dimensions\": \"11.25 x 1 x 14.5 inches\"}",
+    "parent_asin": "159775000X",
+    "bought_together": null,
+    "subtitle": "Spiral-bound – May 1, 2005",
+    "author": null
+}

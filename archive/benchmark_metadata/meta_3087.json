@@ -1,0 +1,57 @@
+{
+    "main_category": "Grocery",
+    "title": "Flor de Manita Hierba/Tea (1oz)(1pack)",
+    "average_rating": 4.0,
+    "rating_number": 81,
+    "features": [
+        "Flor de manita",
+        "Hierba/Tea",
+        "100% natural"
+    ],
+    "description": [
+        "la flor de la manita es usada como planta medicinal para tratar afecciones del corazón y para otros aspectos afines como regular la presión."
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81+W6dIxq2L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81xPO3+TuxL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41iyHH7-lWL.jpg",
+            "https://m.media-amazon.com/images/I/41ZiFf8l8lL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41iyHH7-lWL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41ZiFf8l8lL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Naturejam Takes Pride In Our Products To Deliver Quality."
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/06e0ff2f71fb446cad12f9ef0921b0d0?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "N&H",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Beverages",
+        "Tea",
+        "Fruit & Herbal Tea",
+        "Herbal"
+    ],
+    "details": "{\"Brand\": \"N&H\", \"Item Form\": \"Flake\", \"Unit Count\": \"1 Ounce\", \"Number of Items\": \"1\", \"Package Information\": \"Jar\", \"Package Dimensions\": \"6.57 x 4.21 x 1.42 inches; 1 Ounces\", \"UPC\": \"025093370625\", \"Manufacturer\": \"N&H\"}",
+    "parent_asin": "B07P9VR8N9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Spirit Lost",
+    "average_rating": 4.5,
+    "rating_number": 80,
+    "features": [],
+    "description": [
+        "200-year-old ghost has lustful designs upon a man and murderous intentions for his wife."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51BYigWlvwL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51BYigWlvwL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "James Avery  (Actor),     Yvonne Brisendine  (Actor),     Neema Barnette  (Director)    &                   0                  more   Rated:    R    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Drama"
+    ],
+    "details": "{\"Genre\": \"Drama\", \"Format\": \"Multiple Formats, Closed-captioned, Color, NTSC, Subtitled\", \"Contributor\": \"Regina Taylor, Alan Sader, Juanita Jennings, James Avery, Catherine Shaffner, Deacon Dawson, Nancy Thayer, Christopher Northup, J. Michael Hunter, Neema Barnette, Yvonne Brisendine, Reed R. McCants, Frank Hoyt Taylor, Joyce Renee Lewis, LeonRegina Taylor, Alan Sader, Juanita Jennings, James Avery, Catherine Shaffner, Deacon Dawson, Nancy Thayer, Christopher Northup, J. Michael Hunter, Neema Barnette, Yvonne Brisendine, Reed R. McCants, Frank Hoyt Taylor, Joyce Renee Lewis, Leon  See more\", \"Language\": \"Unqualified\", \"Runtime\": \"1 hour and 30 minutes\", \"Aspect Ratio\": \"1.33:1\", \"MPAA rating\": \"R (Restricted)\", \"Product Dimensions\": \"0.7 x 7.5 x 5.4 inches; 2.05 Ounces\", \"Audio Description\": \"English\", \"Item model number\": \"LGT12540DVD\", \"Director\": \"Neema Barnette\", \"Media Format\": \"Multiple Formats, Closed-captioned, Color, NTSC, Subtitled\", \"Run time\": \"1 hour and 30 minutes\", \"Release date\": \"May 21, 2002\", \"Actors\": \"James Avery, Yvonne Brisendine, Deacon Dawson, J. Michael Hunter, Juanita Jennings\", \"Dubbed\": \"French\", \"Subtitles\": \"Spanish\", \"Studio\": \"Lionsgate\", \"Writers\": \"Joyce Renee Lewis, Nancy Thayer\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0000640S0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,47 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "Daphne's Book",
+    "average_rating": 4.6,
+    "rating_number": 79,
+    "features": [
+        "Daphne is the last person Jessica wants to work with on the Write-a-Book project, but her feelings change when she gets to know Daphne and stumbles on her terrible secret."
+    ],
+    "description": [
+        "Review",
+        "\"Readers can hardly help rooting for the two girls and hoping that these two appealing characters do remain best friends for a long time.\" School Library Journal, Starred",
+        "About the Author",
+        "Mary Downing Hahn, a former children's librarian, is the award-winning author of many popular ghost stories, including Deep and Dark and Dangerous and The Old Willis Place. An avid reader, traveler, and all-around arts lover, Ms. Hahn lives in Columbia, Maryland, with her two cats, Oscar and Rufus.",
+        "--This text refers to an out of print or unavailable edition of this title."
+    ],
+    "price": "4.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41LjczwxafL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mary Downing Hahn (Author)   Format: Kindle Edition",
+    "categories": [
+        "Kindle Store",
+        "Kindle eBooks",
+        "Children's eBooks"
+    ],
+    "details": "{\"Publisher\": \"Clarion Books (October 24, 1983)\", \"Publication date\": \"October 24, 1983\", \"Language\": \"English\", \"File size\": \"510 KB\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"193 pages\", \"Page numbers source ISBN\": \"0547016417\"}",
+    "parent_asin": "B003T0GAE8",
+    "bought_together": null,
+    "subtitle": "Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/ccdhvkb7qi2jldo4bob0gil2d3._SY600_.jpg', 'name': 'Mary Downing Hahn', 'about': [\"Mary Downing Hahn, a former children's librarian, is the award-winning author of many popular ghost stories, including Deep and Dark and Dangerous and The Old Willis Place. An avid reader, traveler, and all-around arts lover, Ms. Hahn lives in Columbia, Maryland, with her two cats, Oscar and Rufus.\"]}"
+}

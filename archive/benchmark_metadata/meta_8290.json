@@ -1,0 +1,48 @@
+{
+    "main_category": "Books",
+    "title": "Austin: A Photographic Journey",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [
+        "Photographers Rogers and Greebon capture the beauty and unique culture of Texas' capital city, also known as \"The Live Music Capital of the World.\" This photographic tribute showcases the city's striking skyline, bridges, lakes, parks and nature trails-a city famous for Longhorns of both the university and bovine varieties, and its beloved weird side with vibrant festivals, a passion for music, and hipster art scene."
+    ],
+    "description": [
+        "About the Author",
+        "Rob Greebon is a 4th generation Texan who resides just outside of Austin in the Texas Hill Country with his wife and two daughters. As a self-taught photographer, Rob has successfully transitioned his love of the outdoors into an award-winning photography business. His work has been published internationally and appears regularly in local and national publications, television, and in many corporate and private collections. As an admitted morning person, he enjoys the solitude and beauty that comes with a quiet sunrise, whether it's from a highrise in Austin or from a remote spot in the Texas Hill Country.",
+        "Since growing up in Austin and graduating from UT, John Rogers has been involved with professional photography and television production for over thirty years. After working for a national advertising agency producing and directing hundreds of corporate video productions, he opened his own business as a commercial photographer. His work has appeared internationally in magazines, textbooks, fine art galleries, and is displayed as large art pieces decorating spaces for companies including Google, Intuit, and Expedia. He says, \"I love trying to capture and reveal the natural beauty of the person, place, or thing I am photographing. Very often I enhance my photographs to try and bring back to the viewer what they would experience if they were there.\"",
+        "An elected member of the Texas Institute of Letters since 1993, Mike Cox is the author of twenty-seven non-fiction books. Over a freelance career of more than forty-five years, and as a former award-winning reporter, he also has written hundreds of articles and essays for a wide variety of publications. His best-selling work has been a two-volume history of the Texas Rangers published by Forge Books in New York. Another recent book,",
+        "Cowboy Stuntman: From Olympic Gold to the Silver Screen",
+        ", the story of Dean Smith, won three prestigious national awards, including a Will Rogers medallion in October 2014. As a long-time Austin resident, Cox left the 8-to-5 world for good in February 2015 to write full time, and when not working, spends as much time as he can fishing and hunting."
+    ],
+    "price": "12.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61U495hac4L._SY443_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mike Cox (Author),  photography  John R. Rogers (Illustrator),  photography  Rob Greebon (Illustrator)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "Photography & Video"
+    ],
+    "details": "{\"Publisher\": \"Farcountry Press; Illustrated edition (May 10, 2016)\", \"Language\": \"English\", \"Paperback\": \"90 pages\", \"ISBN 10\": \"1560376635\", \"ISBN 13\": \"978-1560376637\", \"Item Weight\": \"12 ounces\", \"Dimensions\": \"8.9 x 0.3 x 8 inches\"}",
+    "parent_asin": "1560376635",
+    "bought_together": null,
+    "subtitle": "Paperback – Illustrated, May 10, 2016",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Mike Cox', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

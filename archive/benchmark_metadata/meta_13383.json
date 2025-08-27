@@ -1,0 +1,54 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Maddie Girls' Big Ruffle Jewel Shirt",
+    "average_rating": 4.2,
+    "rating_number": 2,
+    "features": [
+        "60% Cotton, 40% Polyester",
+        "Imported",
+        "Hook and Loop closure",
+        "Machine Wash",
+        "Boxy fit",
+        "Shirring detail at bodice, sleeves and shoulder"
+    ],
+    "description": [
+        "white ruffle t-shirt with embellished details at chest"
+    ],
+    "price": "20.69",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61PqdLPMmdL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61nDmIax9yL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41dcm2m+LVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41+lmXMnpXL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41dcm2m+LVL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41+lmXMnpXL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Maddie",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Girls",
+        "Clothing",
+        "Tops, Tees & Blouses",
+        "Tees"
+    ],
+    "details": "{\"Item model number\": \"1186919-53\", \"Department\": \"Girls\", \"Date First Available\": \"March 26, 2018\", \"Manufacturer\": \"Maddie\"}",
+    "parent_asin": "B07B42CBX6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

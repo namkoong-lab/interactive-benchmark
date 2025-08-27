@@ -1,0 +1,49 @@
+{
+    "main_category": "Books",
+    "title": "Forensic Biology: Identification and DNA Analysis of Biological Evidence",
+    "average_rating": 4.9,
+    "rating_number": 13,
+    "features": [
+        "Designed as an accessible introduction to basic scientific principles and their application in professional practice,",
+        "Forensic Biology",
+        "provides a concise overview of the field. Focusing solely on the science behind the forensic analysis of biological evidence, this book highlights the principles, methods, and techniques used in forensic serologic and forensic DNA analysis.  Divided into two areas, the first addresses the identification of biological fluids including blood, semen, and saliva. Chapters instruct on the identification techniques involved in presumptive and confirmatory tests. The second area covers the individualization of biological evidence using forensic DNA techniques. The book demonstrates extraction methods, quantization methods, DNA profiling analysis, and interpretation of results. Each technique introduced in this text is preceded by a brief background of its development and the basic principles that support the technique and its applications. All methods are discussed in detail and accompanied by schematic illustrations where appropriate. Each chapter presents study questions, and references. Instructors have access to a CD containing PowerPoint lecture slides.  Emphasizing the fundamentals of basic science and its application to forensic biology, this book provides a solid scientific grounding and familiarity with not just the principles of biological and biochemical processes that occur in forensic analysis, but also the language and vocabulary of forensic biology. The explanations are accessible and straightforward, and informative to facilitate effective learning."
+    ],
+    "description": [
+        "Review",
+        "I feel this book gives very good insight and coverage of a range of topics from forensic serology (which is still being done in some labs) to current forensic biology applications with STR, mitochondrial, and Y-STR analysis.―Pamela Dixon, writing in",
+        "Canadian Society of Forensic Science Journal",
+        "Educators in this area will find the content succinct enough to be accomplished within a semester while introducing undergraduate students to the tools and vocabulary required to undertake more challenging material. … The reader need not have a background in biology to understand the basis for the procedures and techniques as each are described in detail with ample visual aids. Indeed, there are figures or photographs on most pages to guide the reader.―Lori E. Baker, Ph.D., Baylor University, Waco, Texas, writing in",
+        "Journal of Forensic Sciences"
+    ],
+    "price": "3.2",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51E46YsYP7L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Richard Li (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Biological Sciences"
+    ],
+    "details": "{\"Publisher\": \"CRC Press; 1st edition (April 24, 2008)\", \"Language\": \"English\", \"Hardcover\": \"448 pages\", \"ISBN 10\": \"9781420043433\", \"ISBN 13\": \"978-1420043433\", \"Item Weight\": \"1.7 pounds\", \"Dimensions\": \"6.5 x 1.25 x 9.25 inches\"}",
+    "parent_asin": "1420043439",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Richard Li', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

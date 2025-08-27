@@ -1,0 +1,64 @@
+{
+  "item_id": 3786,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Tommy Hilfiger Women's High Rise Performance Legging",
+    "average_rating": 4.8,
+    "rating_number": 15,
+    "features": [
+      "74% Polyester, 26% Spandex",
+      "Imported",
+      "Drawstring closure",
+      "Machine Wash",
+      "Tommy Hilfiger Full Length Legging",
+      "White stripe down sides with embroidered logo"
+    ],
+    "description": [
+      "This Tommy Hilfiger Women's Performance Legging is a high rise full length compression pant with side panel pockets and printed reflective logo"
+    ],
+    "price": "33.94",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/7119uBqYWnL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61lodCs85ML._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31fBBNE2gFL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31SAc85-oDL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31fBBNE2gFL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31SAc85-oDL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Tommy Hilfiger",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Leggings"
+    ],
+    "details": "{\"Item model number\": \"TP09093P\", \"Department\": \"Womens\", \"Date First Available\": \"January 25, 2022\", \"Manufacturer\": \"Tommy Hilfiger\"}",
+    "parent_asin": "B09R3MF3ZZ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Pants",
+      "Women's Leggings"
+    ],
+    "confidence": 0.95
+  }
+}

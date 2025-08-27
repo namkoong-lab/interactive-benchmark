@@ -1,0 +1,48 @@
+{
+    "main_category": "Books",
+    "title": "Sams Teach Yourself ColdFusion in 21 Days",
+    "average_rating": 3.8,
+    "rating_number": 20,
+    "features": [
+        "While most other ColdFusion books - as well as Macromedia's product documentation - play largely to those who've honed their programming concepts elsewhere,",
+        "Sams Teach Yourself ColdFusion in 21 Days",
+        "taps the vast market of static-page designers who are ready to take their sites to the next level. Drawing on the success of his popular ColdFusion tutorial on Wired's Webmonkey site, author Charles Mohnike provides readers with a fundamental understanding of how ColdFusion works, and then guides them through the use of ColdFusion to create their own applications quickly and easily. ColdFusion's upcoming release capitalizes on the macromedia partnership by adding direct support for Flash, allowing developers to add dynamic content and database interactivity to their animations. In addition, the new version of ColdFusion anticipates the growing demand for Web services by increasing its integration with technologies such as XML and SOAP."
+    ],
+    "description": [
+        "From the Back Cover",
+        "While most other ColdFusion books - as well as Macromedia's product documentation - play largely to those who've honed their programming concepts elsewhere, Sams Teach Yourself ColdFusion in 21 Days taps the vast market of static-page designers who are ready to take their sites to the next level. Drawing on the success of his popular ColdFusion tutorial on Wired's Webmonkey site, author Charles Mohnike provides readers with a fundamental understanding of how ColdFusion works, and then guides them through the use of ColdFusion to create their own applications quickly and easily. ColdFusion's upcoming release capitalizes on the macromedia partnership by adding direct support for Flash, allowing developers to add dynamic content and database interactivity to their animations. In addition, the new version of ColdFusion anticipates the growing demand for Web services by increasing its integration with technologies such as XML and SOAP.",
+        "About the Author",
+        "Charles Mohnike is an experienced Web designer and ColdFusion developer who has built dynamically generated, award-winning sites for several companies, including international travel publisher Moon Travel Handbooks, scholastic CD-ROM publisher Cyber-Ed, and technology magazine Videomaker. He is the co-founder of Zapt Digiatl Media, a Web consulting firm specializing in print-to-online conversions for publishing houses and bisnesses that wish to port large amounts of data to the Net. He has written on ColdFusion and other Web-related topics for publications including Wired, and was major contributor to the 1996-1998 Microsoft Bookshelf CD series."
+    ],
+    "price": "8.77",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51FXWK6VM5L._SX383_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Charles Mohnike (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Web Development & Design"
+    ],
+    "details": "{\"Publisher\": \"Sams; Subsequent edition (September 20, 2002)\", \"Language\": \"English\", \"Paperback\": \"800 pages\", \"ISBN 10\": \"0672324326\", \"ISBN 13\": \"978-0672324321\", \"Item Weight\": \"2.83 pounds\", \"Dimensions\": \"7.25 x 2 x 9 inches\"}",
+    "parent_asin": "0672324326",
+    "bought_together": null,
+    "subtitle": "Subsequent Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Charles Mohnike', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

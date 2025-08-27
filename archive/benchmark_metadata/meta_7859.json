@@ -1,0 +1,52 @@
+{
+    "main_category": "Books",
+    "title": "Shark Nate-O",
+    "average_rating": 4.9,
+    "rating_number": 64,
+    "features": [
+        "Nate loves sharks. He reads shark books every day, watches sharks on TV, and talks about them nonstop. He even likes to",
+        "pretend",
+        "he's a shark wherever he goes! However, there is one small problem. . . .",
+        "Nate can't swim.When his older brother points this out, Nate works hard to overcome his fears and learn how to blow bubbles, use a kickboard, and finally swim without help, as quickly and as gracefully as a shark. Will he be able to beat his brother in a swim tryout and get his bite back? Kids will love this jawsome book complete with vibrant and whimsical art and a list of shark facts in the back!"
+    ],
+    "description": [
+        "About the Author",
+        "Tara Luebbe",
+        "and",
+        "Becky Cattie",
+        "are sisters who like sharks, but don't ever want to meet one. They grew up in Atlanta, and never made it onto any swim teams. Tara is a former children's bookstore owner and lives in Fort Mill, South Carolina, with her three boys and husband. In her free time, she can be found reading and discussing all things Star Wars with her kids. Becky is a creative recruiter with a background in reality TV casting. She currently lives in Chicago, where she spends her free time bowling and eating sushi. You can learn more about their books at beckytarabooks.com.",
+        "Daniel Duncan",
+        "is a freelance illustrator who creates most of his work in an old stable that's been converted into a studio on the outskirts of London. He likes to illustrate narratives, vibrant characters, and environments. Inspired by stories, films, old photos, and sports, Daniel was among the Finalists for the Macmillan Prize for Illustration in 2013, as well as being shortlisted for the 2014 AOI Award for New Talent. Find out more about Daniel at dunksillustration.co.uk."
+    ],
+    "price": "12.54",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61HuWtcKc3L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Tara Luebbe (Author),  Becky Cattie (Author),  Daniel Duncan (Illustrator)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Growing Up & Facts of Life"
+    ],
+    "details": "{\"Publisher\": \"little bee books; Illustrated edition (April 3, 2018)\", \"Language\": \"English\", \"Hardcover\": \"40 pages\", \"ISBN 10\": \"1499804962\", \"ISBN 13\": \"978-1499804966\", \"Reading age\": \"4 - 8 years\", \"Grade level\": \"Preschool - 3\", \"Item Weight\": \"14.4 ounces\", \"Dimensions\": \"9.75 x 0.5 x 8.25 inches\"}",
+    "parent_asin": "1499804962",
+    "bought_together": null,
+    "subtitle": "Hardcover – Picture Book, April 3, 2018",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/sl0f21hnk4lcui7am54q9to2jv._SY600_.jpg', 'name': 'Daniel Duncan', 'about': [\"Daniel Duncan is a children's book illustrator who likes to create vibrant characters within detailed environments, using earth colours and textures.\", 'He studied illustration at Middlesex University and now works from his home in leafy Amersham on the outskirts of London.']}"
+}

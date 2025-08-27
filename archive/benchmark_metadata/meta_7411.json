@@ -1,0 +1,51 @@
+{
+    "main_category": "Books",
+    "title": "An Amish Year",
+    "average_rating": 4.5,
+    "rating_number": 5,
+    "features": [
+        "From autumn harvesting and Christmas celebrations to spring cleaning and a special birthday party in the summer, a year in the life of a young Amish girl is captured in a colorfully illustrated, nonfiction picture book. Reprint."
+    ],
+    "description": [
+        "About the Author",
+        "Richard Ammon",
+        "can trace his ancestry to northwest Switzerland, where Jakob Ammann, founder of the Amish,was born. Though probably not a descendant of Ammann, Ammon enjoys driving his Old Order Amish friends to horse sales. A professor of children's literature at Penn State University, Mr. Ammon lives in Middletown, Pennsylvania.",
+        "Pamela Patrick",
+        "has painted professionally as an illustrator and fine artist since 1983. She has created covers and picture books for most major U.S. publishers. Historic painting, portrait work, and corporate commissions fill most of her time now. Ms. Patrick lives in Pennsylvania.",
+        "Richard Ammon",
+        "can trace his ancestry to northwest Switzerland, where Jakob Ammann, founder of the Amish,was born. Though probably not a descendant of Ammann, Ammon enjoys driving his Old Order Amish friends to horse sales. A professor of children's literature at Penn State University, Mr. Ammon lives in Middletown, Pennsylvania.",
+        "Pamela Patrick",
+        "has painted professionally as an illustrator and fine artist since 1983. She has created covers and picture books for most major U.S. publishers. Historic painting, portrait work, and corporate commissions fill most of her time now. Ms. Patrick lives in Pennsylvania."
+    ],
+    "price": "5.23",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51-epytODOL._SX493_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Richard Ammon (Author),  Pamela Patrick (Illustrator)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Geography & Cultures"
+    ],
+    "details": "{\"Publisher\": \"Boyds Mills Press (August 1, 2007)\", \"Language\": \"English\", \"Paperback\": \"36 pages\", \"ISBN 10\": \"1590784650\", \"ISBN 13\": \"978-1590784655\", \"Reading age\": \"2 - 5 years\", \"Grade level\": \"1 - Kindergarten\", \"Item Weight\": \"6.4 ounces\", \"Dimensions\": \"9.5 x 0.25 x 9.5 inches\"}",
+    "parent_asin": "1590784650",
+    "bought_together": null,
+    "subtitle": "Paperback – August 1, 2007",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Richard Ammon', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

@@ -1,0 +1,50 @@
+{
+    "main_category": "Books",
+    "title": "Dostoevsky, Kierkegard, Nietzsche and Kafka",
+    "average_rating": 4.2,
+    "rating_number": 81,
+    "features": [
+        "How four of Europe’s most mysterious and fascinating writers shaped the modern mind.",
+        "Dostoevsky, Kierkegaard, Nietzsche, and Kafka were all outsiders in their societies, unable to fit into the accepted nineteenth-century categories of theology, philosophy, or belles lettres. Instead, they saw themselves both as the end products of a dying civilization and as prophets of the coming chaos of the twentieth century. In this brilliant combination of biography and lucid exposition, their apocalyptic visions of the future are woven together into a provocative portrait of modernity. “This small book has a depth of insight and a comprehensiveness of treatment beyond what its modesty of size and tone indicates. William Hubben…sees the spiritual destiny of Europe as one of transcending these masters. But to be transcended, their message must first be absorbed, and that is why the study of them is so important to us now.” —William Barrett,",
+        "The New York Times"
+    ],
+    "description": [
+        "About the Author",
+        "William Hubben was the editor of the",
+        "Friends Journal",
+        "and is the author of",
+        "Exiled Pilgrim",
+        ", an account of his own life and time."
+    ],
+    "price": "12.79",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41tDeokGNGL._SX283_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "William Hubben (Author)",
+    "categories": [
+        "Books",
+        "Politics & Social Sciences",
+        "Philosophy"
+    ],
+    "details": "{\"Publisher\": \"Scribner; Reprint edition (May 13, 1997)\", \"Language\": \"English\", \"Paperback\": \"192 pages\", \"ISBN 10\": \"9780684825892\", \"ISBN 13\": \"978-0684825892\", \"Item Weight\": \"4.2 ounces\", \"Dimensions\": \"4.19 x 0.6 x 7 inches\"}",
+    "parent_asin": "0684825899",
+    "bought_together": null,
+    "subtitle": "Paperback – Special Edition, May 13, 1997",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'William Hubben', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

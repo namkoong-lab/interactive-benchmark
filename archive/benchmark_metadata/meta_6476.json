@@ -1,0 +1,37 @@
+{
+    "main_category": null,
+    "title": "Air Of Mystique",
+    "average_rating": 4.6,
+    "rating_number": 24,
+    "features": [],
+    "description": [
+        "Dark Teal Shimmer vegan. cruelty-free. 12 free."
+    ],
+    "price": "8.9",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71J1eVu1LuL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41rzhugQzQL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41rzhugQzQL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Orly",
+    "categories": [],
+    "details": "{\"Product Dimensions\": \"1.97 x 1.97 x 1.97 inches; 0.01 Ounces\", \"Item model number\": \"OR2000029\", \"UPC\": \"096200010949\", \"Manufacturer\": \"OR2000029\"}",
+    "parent_asin": "B07WJXB4DV",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

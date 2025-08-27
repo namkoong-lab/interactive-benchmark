@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The Mystery of the Desert Giant (Hardy Boys, Book 40)",
+    "average_rating": 4.7,
+    "rating_number": 179,
+    "features": [
+        "In a search for the missing Willard Grafton, Frank Hardy and younger brother Joe, encounter a gang of criminals intent on defrauding the US government, and are lead across California and even into Mexico."
+    ],
+    "description": [
+        "About the Author",
+        "Franklin W. Dixon is a pen name used by a variety of authors writing for the classic series, The Hardy Boys. The first and most well-known \"Franklin W. Dixon\" was Leslie McFarlane, a Canadian author who contributed 19 of the first 25 books in the series. Other writers who have adopted the pseudonym include Christopher Lampton, John Button, Amy McFarlane, and Harriet Stratemeyer Adams."
+    ],
+    "price": "8.18",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/513YUJxOd9L._SX310_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Franklin W. Dixon (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Growing Up & Facts of Life"
+    ],
+    "details": "{\"Publisher\": \"Grosset & Dunlap; Illustrated edition (December 1, 1960)\", \"Language\": \"English\", \"Hardcover\": \"192 pages\", \"ISBN 10\": \"9780448089409\", \"ISBN 13\": \"978-0448089409\", \"Reading age\": \"8 - 12 years\", \"Lexile measure\": \"700L\", \"Grade level\": \"3 - 7\", \"Item Weight\": \"8.4 ounces\", \"Dimensions\": \"8.5 x 5.43 x 0.46 inches\"}",
+    "parent_asin": "0448089408",
+    "bought_together": null,
+    "subtitle": "Hardcover – December 1, 1960",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/31OhrDgn5sL._SY600_.jpg', 'name': 'Franklin W. Dixon', 'about': ['Franklin W. Dixon is the pen name used by a variety of different authors (Leslie McFarlane, a Canadian author being the first) who wrote The Hardy Boys novels.']}"
+}

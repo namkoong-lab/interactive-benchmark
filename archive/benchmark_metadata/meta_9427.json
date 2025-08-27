@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "The Network Architecture Design Handbook: Data, Voice, Multimedia Intranet and Hybrid Networks (Taylor Networking Series)",
+    "average_rating": 3.5,
+    "rating_number": 2,
+    "features": [
+        "The advent of new multimedia, video-conferencing, and Intranet architecturesÑand the need to meld them with data and voice into a single hybrid network that exploits the strengths of each architecture, while allowing them all to coexist and share the same transmission mediumÑhas vastly increased the complexity and difficulty of the network administrator's job. This definitive, single-volume reference to advanced network architectures is an easy-to-use handbook that can help any networking professional cope with the challenges posed by hybrid networks."
+    ],
+    "description": [
+        "From the Back Cover",
+        "Here's the one book tht can show you how to integrate all of your diverse network architectures into a single hybrid network! Keeping up with daily changes to traditional data and voice networks has always been one of the toughest IS jobs around. But in today's dynamic business environment, the network administrator's job is even more complex. How can you meld the new multimedia, video-conferencing, and Intranet architectures into a single hybrid network--and get them all to coexist effectively? This unique, easy-to-use handbook can greatly simplify the design and implementation of hybrid networks. Its authoritative, straight-to-the-point technical discussions--and over 150 illustrations-combine to completely demystify the hybrid network design process. topics convered include: Network fundamentals, from basic terminology to architectural building blocks; all types of network architectures, including data, Intranet, voice, multimedia, and hybrid networks; Security considerations in the implementation of multimedia networks; Merging multiple network architectures onto the same physical network. Written by one of the foremost network architects in the industry, this comprehensive and illuminating book is an indispensable resource for every network administrator, architect, engineer and systems programmer--your single-volume reference to network architectures and every aspect of contemporary network computing. a volume in the Taylor Networking Series.",
+        "About the Author",
+        "Ed Taylor is the Founder of Information World Inc. He is a former Network Architect for IBM. Mr. Taylor is responsible for contributions in the Taylor Networking Series from McGraw-Hill. He authored: Multiplatform Network Management as well as The McGraw-Hill Internetworking Command Reference. Mr. TaylorÕs book, The McGraw-Hill Internetworking Handbook, has been published in Japanese by Fuji Technosystems in Tokyo, Japan. He has other work soon to be published in Traditional Character Long Form Chinese in Taiwan. Some of Mr. TaylorÕs consulting experience includes work for: NEC, Orange County, CA, BASF, Chrysler, Hewlett-Packard, Dow Jones, Ore-Ida Foods, Mutual of New York (MONY), and IBM Education."
+    ],
+    "price": "10.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/511EEMMB4ZL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ed Taylor (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Networking & Cloud Computing"
+    ],
+    "details": "{\"Publisher\": \"McGraw-Hill (January 30, 1998)\", \"Language\": \"English\", \"Hardcover\": \"464 pages\", \"ISBN 10\": \"0070633339\", \"ISBN 13\": \"978-0070633339\", \"Item Weight\": \"2.65 pounds\", \"Dimensions\": \"6.5 x 2.25 x 9.5 inches\"}",
+    "parent_asin": "0070633339",
+    "bought_together": null,
+    "subtitle": null,
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Ed Taylor', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

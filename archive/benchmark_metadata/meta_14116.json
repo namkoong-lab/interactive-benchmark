@@ -1,0 +1,72 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Castañer Women's Carina Sneaker",
+    "average_rating": 4.3,
+    "rating_number": 2,
+    "features": [
+        "100% Cotton",
+        "Rubber sole",
+        "Shaft measures approximately Tobillo from arch",
+        "Platform measures approximately 1",
+        "Women's Wedge Espadrilles",
+        "Composition: Canvas",
+        "Cotton heel",
+        "Tie with string",
+        "Jude sole"
+    ],
+    "description": [
+        "Espadrille with wedge made of canvas"
+    ],
+    "price": "124.13",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71No0+beNZL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81+errvgG7L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71rjnb2xulL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81vq4GzkUuL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81ITi2gILAL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Dlzvm7FrL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51jtmHN09uL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51vYh5UbzwL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31V8h4j64ML._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41UQFleag6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/416laZf-1OL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51BCaHExT4L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51jtmHN09uL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51vYh5UbzwL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31V8h4j64ML._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41UQFleag6L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/416laZf-1OL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51BCaHExT4L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Castañer",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Slippers"
+    ],
+    "details": "{\"Item model number\": \"21669\", \"Department\": \"womens\", \"Date First Available\": \"July 29, 2020\", \"Manufacturer\": \"Casta\\u00f1er\"}",
+    "parent_asin": "B09ZJRND9Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

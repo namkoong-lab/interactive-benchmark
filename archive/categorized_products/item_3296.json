@@ -1,0 +1,64 @@
+{
+  "item_id": 3296,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Bailey's Point Men's Fashion Bootcut or Straight Jeans Relaxed Fit",
+    "average_rating": 4.4,
+    "rating_number": 482,
+    "features": [
+      "Zipper closure",
+      "Machine Wash",
+      "ALL DAY COMFORT - The jeans are made from 64% cotton and 36% polyester fabric of durability and breath-ability. Easy care and machine washable",
+      "QUALITY HARDWARE - The jeans use reputable YKK zipper. Hardware like rivets and buttons is reinforced with additional sewing.",
+      "DETAILED HANDCRAFT WORK- The jeans are built with durable thread and with reinforced multiple needle stitching in major stress points.",
+      "TESTED FIT - The size messurement has been tested in real U.S customers for each season to ensure a comfortable fit and trending look.",
+      "TAILORED BOOTCUT - The jeans are Bailey's Point original Bootcut with relaxed waist, mid rise, relaxed through leg, and bootcut leg opening"
+    ],
+    "description": [
+      "The styles are your must-have basic styles suitable for every day wear and can last long. Our jeans are reinforced in mutliple stress points to ensure the durability for years. The spec is carefully messured and tested to fit in real US customers. Everything is crafted and designed for long lasting wear and trending look."
+    ],
+    "price": "24.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81kMZCRJCbL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81UvasoXeaL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31xyudJz9EL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31VN06vICuL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31xyudJz9EL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31VN06vICuL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Bailey's Point",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Jeans"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"October 30, 2019\", \"Manufacturer\": \"Flypaper\"}",
+    "parent_asin": "B07ZS298W6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing"
+    ],
+    "confidence": 0.95
+  }
+}

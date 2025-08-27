@@ -1,0 +1,60 @@
+{
+  "item_id": 5796,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "adidas Boys' Active Logo Shorts",
+    "average_rating": 4.0,
+    "rating_number": 17,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Elastic closure",
+      "Machine Wash",
+      "Elastic waist short featuring heat-set performance logo on left leg and horizontal applied stripes on right leg",
+      "Elastic waist short featuring heat-set performance logo on left leg and horizontal applied stripes on right leg."
+    ],
+    "description": [
+      "Elastic waist short featuring heat-set performance logon left leg and horizontal applied stripes on right leg."
+    ],
+    "price": "15.16",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71e2QEi2JaL._AC_UL1287_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51wkzvSVImL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51wkzvSVImL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "adidas",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Boys",
+      "Clothing",
+      "Active",
+      "Active Shorts"
+    ],
+    "details": "{\"Department\": \"Boys\", \"Date First Available\": \"January 1, 2017\", \"Manufacturer\": \"Adidas Boys 2-7\"}",
+    "parent_asin": "B06VV475PG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Boys' Clothing"
+    ],
+    "confidence": 0.95
+  }
+}

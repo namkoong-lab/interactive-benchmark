@@ -1,0 +1,41 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Disney Mickey Mouse Allover T-Shirt for Men - Plus Size",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "An array of classic Mickey poses are patterned all across this happy heathered tee, and around the backside, too! Join the crowd for total comfort and style."
+    ],
+    "price": "24.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71C4AUo36jL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61vQVeuZlZL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61vQVeuZlZL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Disney",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Girls",
+        "Clothing"
+    ],
+    "details": "{\"Package Dimensions\": \"13 x 9.5 x 1 inches; 4.8 Ounces\", \"Item model number\": \"5620045532756900\", \"Department\": \"mens\", \"Date First Available\": \"March 12, 2018\"}",
+    "parent_asin": "B079SXRBZJ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

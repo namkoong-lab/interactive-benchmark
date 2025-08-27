@@ -1,0 +1,75 @@
+{
+    "main_category": "Books",
+    "title": "ABAP Development for SAP NetWeaver BW: Exits, BAdIs, and Enhancements",
+    "average_rating": 3.6,
+    "rating_number": 4,
+    "features": [
+        "Steer your BW-specific programming and push your implementation beyond standard BI business requirements! This book is your trusted guide to the most often-used and helpful custom enhancements in SAP NetWeaver BW. Dive into user exits and BAdls for data extracting, importing, reporting, and planning. You'll develop an understanding of why these custom enhancements are necessary, when to apply them, and how to perform them. Up to date for SAP NetWeaver BW 7.3, this edition will kick your implementation up a notch.",
+        "1 System Performance",
+        "Understand the impact that well-chosen ABAP developments can have on the performance of the SAP NetWeaver BW system.",
+        "2 Data Record Modification",
+        "Differentiate between user exits and BAdIs and learn when to apply each technique in your own custom development.",
+        "3 Customer Exits",
+        "A completely new appendix highlights important customer exits in administrator workbench, extraction, reporting, and planning.",
+        "4 New Transformation Options",
+        "Understand how the updated transformation options have been extended and which new features they provide, such as graphical display of rules.",
+        "5 Practical Application",
+        "Helpful icons flag tips that will make your work easier, caution you about frequent errors made by developers, and offer practical examples.",
+        "Highlights Include:",
+        "Data staging",
+        "Data staging",
+        "Reporting",
+        "Reporting",
+        "Extraction process",
+        "Extraction process",
+        "Data import process",
+        "Data import process",
+        "Transformation",
+        "Transformation",
+        "Extension options",
+        "Extension options",
+        "SAP Business Planning and Simulation (SAP BW-BPS)",
+        "SAP Business Planning and Simulation (SAP BW-BPS)",
+        "ABAP Dictionary naming conventions",
+        "ABAP Dictionary naming conventions",
+        "VirtualProvider",
+        "VirtualProvider",
+        "Generated tables and objects",
+        "Generated tables and objects"
+    ],
+    "description": [
+        "About the Author",
+        "After graduating with a degree in business mathematics from Technische Universität Berlin, Germany, Dirk Herzog started his career in 1996 in the CO-OM development department at SAP in Walldorf, Germany. His work focused on cost-center planning and the CO planning processor. Four years later, he moved back to Berlin to join the BW consulting team at SAP Deutschland. Since then, he has led numerous national and international implementations of Business Intelligence (BI) and Strategic Enterprise Management (SEM). These included the world's first SAP BW 3.0 project, one of the first cube-based SEM-BCS implementations, and a large International Accounting Standards (IAS) project in the banking sector. Dirk also has developed solutions and solution concepts for complex modeling and implementation. He is co-author of the PDEBWB course on \"User Exits in SAP BW,\" and has taught the course several times. Whenever he has the time, Dirk writes Web logs in the SAP Developer Network (SDN) and answers forum questions."
+    ],
+    "price": "69.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51GB5sdIXbL._SY413_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Dirk Herzog (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Software"
+    ],
+    "details": "{\"Publisher\": \"SAP Press; 3rd edition (August 28, 2012)\", \"Language\": \"English\", \"Hardcover\": \"278 pages\", \"ISBN 10\": \"1592294243\", \"ISBN 13\": \"978-1592294244\", \"Item Weight\": \"1.45 pounds\", \"Dimensions\": \"7.25 x 1 x 9.5 inches\"}",
+    "parent_asin": "1592294243",
+    "bought_together": null,
+    "subtitle": "Hardcover – August 28, 2012",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Dirk Herzog', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

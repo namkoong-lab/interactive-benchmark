@@ -1,0 +1,67 @@
+{
+  "item_id": 547,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Noël",
+    "average_rating": 4.5,
+    "rating_number": 58,
+    "features": [],
+    "description": [
+      "No Description AvailableNo Track Information Available",
+      "Media Type:",
+      "CD",
+      "Artist:",
+      "BAEZ,JOAN",
+      "Title:",
+      "NOEL",
+      "Street Release Date:",
+      "08/05/2001Domestic",
+      "Genre:",
+      "XMAS VOCAL"
+    ],
+    "price": "19.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71Ngmf-IrgL._SL1276_.jpg",
+        "https://m.media-amazon.com/images/I/81r6sYeY4LL._SL1275_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41ldKbHUoOL.jpg",
+        "https://m.media-amazon.com/images/I/51LO8ZoiTHL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41ldKbHUoOL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51LO8ZoiTHL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Joan Baez   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Opera & Classical Vocal",
+      "Vocal Non-Opera",
+      "Noels"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Language\": \"English\", \"Product Dimensions\": \"5.57 x 0.43 x 5.03 inches; 3.84 Ounces\", \"Manufacturer\": \"Vanguard Records\", \"Item model number\": \"2569230\", \"Date First Available\": \"December 7, 2006\", \"Label\": \"Vanguard Records\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00005NF1E",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Christmas Music"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "Empirical Processes in M-Estimation (Cambridge Series in Statistical and Probabilistic Mathematics, Series Number 6)",
+    "average_rating": 4.5,
+    "rating_number": 8,
+    "features": [
+        "The theory of empirical processes provides valuable tools for the development of asymptotic theory in (nonparametric) statistical models, and makes it possible to give a unified treatment of various models. This book reveals the relation between the asymptotic behavior of M-estimators and the complexity of parameter space, using entropy as a measure of complexity, presenting tools and methods to analyze nonparametric, and in some cases, semiparametric methods. Graduate students and professionals in statistics, as well as those interested in applications, e.g. to econometrics, medical statistics, etc., will welcome this treatment."
+    ],
+    "description": [
+        "Review",
+        "'… well written and provides a modern contribution to a very important class of nonparametric estimators.' N. D. C. Veraverbeke, Publication of the International Statistical Institute'… this excellent book will be extremely useful for graduate students and researchers in the general area of nonparametric estimation. It is a welcome addition to the existing literature and certainly recommended.' Niew Archief voor Wiskunde",
+        "Book Description",
+        "Advanced text; estimation methods in statistics, e.g. least squares; lots of examples; minimal abstraction."
+    ],
+    "price": "50.53",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41SjTi4HCsL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Sara A. van de Geer (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Mathematics"
+    ],
+    "details": "{\"Publisher\": \"Cambridge University Press; Illustrated edition (November 19, 2009)\", \"Language\": \"English\", \"Paperback\": \"300 pages\", \"ISBN 10\": \"0521123259\", \"ISBN 13\": \"978-0521123259\", \"Item Weight\": \"1.17 pounds\", \"Dimensions\": \"7 x 0.68 x 10 inches\"}",
+    "parent_asin": "0521123259",
+    "bought_together": null,
+    "subtitle": "Illustrated Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'S. A. van de Geer', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Meet me in Paris",
+    "average_rating": 3.2,
+    "rating_number": 6,
+    "features": [
+        "Meet me in Paris is a transnational romantic drama by a newcomer to women’s fiction, LuAnn Marshall. In this engaging debut, the author captures the timeless essence of love and loss spread across a variety of cultures. Refreshingly original, this novel is ultimately a story of love told through three very different relationships. Fate deals Gisela a cruel hand when she loses her husband during the World Trade Center terrorist attacks. Forced to make sense of this random tragedy, she endures the pain with the help of two friends, each who struggle with their own troubles of the heart. As Gisela recovers, one of her friends is driven to the breaking point, while the other must remain strong as Gisela’s support. At once triumphant and bold, Meet me in Paris features strong women that will inspire readers of all ages and cultures."
+    ],
+    "description": [
+        "About the Author",
+        "LuAnn Marshall retired from an extensive fashion career, including multi-store retail management and fashion buyer. Along with her husband, a pilot, she has been able to travel extensively, both domestically and internationally. The proud mother of three children and grandmother to five, she and her husband make their home in Orlando, Florida. This is her first novel."
+    ],
+    "price": "12.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51bLM6uEZJL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "LuAnn Marshall (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Dramas & Plays"
+    ],
+    "details": "{\"Publisher\": \"BookSurge Publishing (July 24, 2007)\", \"Language\": \"English\", \"Paperback\": \"216 pages\", \"ISBN 10\": \"1419654330\", \"ISBN 13\": \"978-1419654336\", \"Item Weight\": \"10.4 ounces\", \"Dimensions\": \"6 x 0.49 x 9 inches\"}",
+    "parent_asin": "1419654330",
+    "bought_together": null,
+    "subtitle": "Paperback – July 24, 2007",
+    "author": null
+}

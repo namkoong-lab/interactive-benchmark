@@ -1,0 +1,60 @@
+{
+  "item_id": 393,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Tupperware Set of 6 Measuring Cups in Pink",
+    "average_rating": 4.0,
+    "rating_number": 9,
+    "features": [],
+    "description": [
+      "Tupperware 6 piece measuring cup set, light pink"
+    ],
+    "price": "28.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51m1QMKI8JL._AC_SL1010_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41xGX2IUywL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41xGX2IUywL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [
+        "TUPPERWARE Brand Measuring Mates Set - Any Good?"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0f0b2d47c90e4cd0bcb817f20f8bbf6a?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        "/shop/ella_converse"
+      ]
+    },
+    "store": "Tupperware",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Measuring Tools & Scales",
+      "Cups"
+    ],
+    "details": "{\"Best Sellers Rank\": {\"Kitchen & Dining\": 392275, \"Measuring Cups\": 1284}, \"Date First Available\": \"December 21, 2019\"}",
+    "parent_asin": "B082GMVWS9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Kitchenware",
+      "Utensils"
+    ],
+    "confidence": 0.95
+  }
+}

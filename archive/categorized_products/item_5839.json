@@ -1,0 +1,72 @@
+{
+  "item_id": 5839,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "King Ma The Horde Cotton Fleece Zip-up Hoodie Sweatshirt",
+    "average_rating": 4.1,
+    "rating_number": 26,
+    "features": [
+      "Polyester,Fleece",
+      "Imported",
+      "Zipper closure",
+      "Hand Wash Only",
+      "Fabric: 80%cotton，20%Polyester",
+      "Knitted fleece: 32sX32sX16s，Thick fleece is gentle and breathable, soft texture, this winter makes you more warm.",
+      "Spray painted Horde crest from World of Warcraft video game",
+      "Product Details: 2x2 rib at the cuff and hem",
+      "Washing requirements: machine wash, hand wash can be, washing temperature below 30 degrees Celsius, low temperature ironing"
+    ],
+    "description": [
+      "suitable for young people sports, leisure, entertainment, let him take you into World of Warcraft."
+    ],
+    "price": "29.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51Y7jYRd6PL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/51v525X9lLL._AC_UL1136_.jpg",
+        "https://m.media-amazon.com/images/I/61ThvKmgWpL._AC_UL1202_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31JlksFQMaL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41t3e2ZXeoL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51eowBJ+qwL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31JlksFQMaL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41t3e2ZXeoL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51eowBJ+qwL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "King Ma",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Men",
+      "Hoodies"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"Mens\", \"Date First Available\": \"February 3, 2015\"}",
+    "parent_asin": "B07BLM9KGK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Hoodies & Sweatshirts"
+    ],
+    "confidence": 0.95
+  }
+}

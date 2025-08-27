@@ -1,0 +1,59 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Benny's Mens Parrots and Margaritas Parrothead Hawaiian Shirt",
+    "average_rating": 4.4,
+    "rating_number": 70,
+    "features": [
+        "Cotton,Poplin",
+        "Made in USA",
+        "Button closure",
+        "Machine Wash",
+        "100% cotton poplin",
+        "Matched pocket, Coconut buttons",
+        "Made in California, USA"
+    ],
+    "description": [
+        "Benny's ultimate mens parrothead hawaiian shirt features festively dressed parrot people partying on tropical island beaches with margaritas in choice of color. Matching style also available in womens sizes. Designed and produced in California, USA by Benny's Aloha Shirts."
+    ],
+    "price": "39.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81nGH50yL8L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61oZ8TWf8cL._AC_UL1001_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51QVFOs-+jL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51qDLBImitL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41K+mCl8NhL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51QVFOs-+jL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51qDLBImitL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41K+mCl8NhL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Benny's",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Shirts",
+        "Casual Button-Down Shirts"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"June 17, 2014\"}",
+    "parent_asin": "B07BZVKN6C",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,50 @@
+{
+    "main_category": "Books",
+    "title": "Electrical Engineering: Concepts and Applications (Masteringengineering)",
+    "average_rating": 3.8,
+    "rating_number": 19,
+    "features": [
+        "¿",
+        "For non-electrical engineering majors taking the introduction to electrical engineering course.",
+        "¿",
+        "Electrical Engineering: Concepts and Applications",
+        "is the result of a multi-disciplinary effort at Michigan Technological University to create a new curriculum that is attractive, motivational, and relevant to students by creating many application-based problems; and provide the optimal level of both range and depth of coverage of EE topics in a curriculum package."
+    ],
+    "description": [
+        "About the Author",
+        "S. A. (Reza) Zekavat",
+        "received his PhD from Colorado State University in 2002. He has co-authored two books, “Multi-Carrier Technologies for Wireless Communications,” published by Kluwer, and “High Dimensional Data Analysis,” published by VDM Verlag; and four book chapters in the areas of adaptive antennas, localization, and spectrum sharing. Zekavat is also editor of the book “Position Location–Theory, Practice and Advances: A Handbook for Engineers and Academics,” which will be published in the near future. He also holds a patent on an active Wireless Remote Positioning System.",
+        "Zekavat is the founder of the wireless positioning lab at Michigan Tech. The lab equipment and research has been supported by the National Science Foundation, the Army Research Labs, and National Instruments. Zekavat’s research interests are in wireless communications, positioning systems, software defined radio design, dynamic spectrum allocation methods, Radar theory, blind signal separation and MIMO and beam forming techniques, feature extraction, and neural networking. He is active on the technical program committees for several IEEE international conferences, serving as a committee chair or member. He served on the editorial board of IET Communications between 2008 and 2010, and he is currently with the IET Wireless Sensor System editorial board."
+    ],
+    "price": "87.09",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51lDiD0PDHL._SX398_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "S.A. Zekavat (Author)",
+    "categories": [
+        "Books",
+        "Engineering & Transportation",
+        "Engineering"
+    ],
+    "details": "{\"Publisher\": \"Pearson (January 23, 2012)\", \"Language\": \"English\", \"Hardcover\": \"720 pages\", \"ISBN 10\": \"0132539187\", \"ISBN 13\": \"978-0132539180\", \"Item Weight\": \"2.87 pounds\", \"Dimensions\": \"8.35 x 1.35 x 10.25 inches\"}",
+    "parent_asin": "0132539187",
+    "bought_together": null,
+    "subtitle": null,
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Seyed A. Zekavat', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

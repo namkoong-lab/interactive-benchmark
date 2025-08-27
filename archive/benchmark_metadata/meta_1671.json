@@ -1,0 +1,54 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Chicago Flag Coffee Mug 2-Sided",
+    "average_rating": 1.0,
+    "rating_number": 1,
+    "features": [
+        "Chicago",
+        "Flag",
+        "Windy City",
+        "2-Sided",
+        "Coffee Mug"
+    ],
+    "description": [
+        "Chicago Flag Coffee Mug 2-Sided"
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51gWZyF81VL._AC_SL1051_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/314y5fuIEVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31-3bHkMdTL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/314y5fuIEVL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31-3bHkMdTL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Peerless Embroidery Company",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Novelty",
+        "Drinkware",
+        "Coffee Mugs"
+    ],
+    "details": "{\"Brand\": \"Peerless Embroidery Company\", \"Material\": \"Ceramic\", \"Color\": \"White\", \"Special Feature\": \"Microwave Safe\", \"Style\": \"Modern\", \"Theme\": \"City,Flag\", \"Shape\": \"Round\", \"Pattern\": \"Solid\", \"Product Care Instructions\": \"Hand Wash Only\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"1.0 Count\", \"Number of Items\": \"2\", \"Package Dimensions\": \"10 x 8 x 4 inches\", \"Manufacturer\": \"Peerless Embroidery Company\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 1246584, \"Novelty Coffee Mugs\": 107317, \"Glassware & Drinkware\": 255323}, \"Date First Available\": \"April 17, 2020\"}",
+    "parent_asin": "B087779M2K",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

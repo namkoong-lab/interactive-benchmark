@@ -1,0 +1,72 @@
+{
+    "main_category": "Grocery",
+    "title": "Buffalo Bob's Hickory Smoked OSTRICH Jerky 3 Pack",
+    "average_rating": 3.5,
+    "rating_number": 12,
+    "features": [
+        "USDA Approved",
+        "Farm Raised",
+        "Gluten Free",
+        "MSG Free",
+        "High Protein- Low Calorie - Low Carb"
+    ],
+    "description": [
+        "This delicous Ostrich jerky is hickory smoked for up to 7 hours and blended with beef to meet USDA Standards."
+    ],
+    "price": "9.97",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71PlNRkk9rL._SL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/71kk1zswhjL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51LF-qjJMxL.jpg",
+            "https://m.media-amazon.com/images/I/1126pjvv8-L.jpg",
+            "https://m.media-amazon.com/images/I/41X1vLGlHbL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51LF-qjJMxL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/1126pjvv8-L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41X1vLGlHbL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [
+            "What's inside The Jerky Gift Basket for Men and Women!",
+            "Buffalo Bob's 10 Piece Gourmet Exotic Jerky Assortment",
+            "This is the absolute perfect gift for any guy and occasion. ",
+            "Watch before you buy Buffalo Bob's Exotic Jerky "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/024412796ac742f4ae34df3f87e7e719?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0fd38c155d7047caa1e111d55f6e09ac?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/047057ecf66646e9b1975de29f0793e7?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/021d1bfda892411abb1754204821557d?ref=dp_vse_rvc_3"
+        ],
+        "user_id": [
+            "/shop/freerangefisherman",
+            "/shop/midwestgardener",
+            "",
+            "/shop/freerangefisherman"
+        ]
+    },
+    "store": "Buffalo Bob's",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Snack Foods",
+        "Meat Snacks",
+        "Jerky"
+    ],
+    "details": "{\"Package Dimensions\": \"11.65 x 2.09 x 0.59 inches; 2.89 Ounces\", \"Manufacturer\": \"zick's\"}",
+    "parent_asin": "B004DJJDAW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

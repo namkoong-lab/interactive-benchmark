@@ -1,0 +1,59 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Taylor and Sage Women's Floral Wrap Dress",
+    "average_rating": 3.6,
+    "rating_number": 3,
+    "features": [
+        "100% Polyester",
+        "Imported",
+        "Pull On closure",
+        "Hand Wash Only",
+        "Corset waist trim",
+        "Bell sleeve"
+    ],
+    "description": [
+        "Long sleeve floral print dress with lace up corset detail"
+    ],
+    "price": "35.92",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71g4hVT-5yL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71KoCQuwdtL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Nh6ZO4rPL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41CSnXSyGaL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41Nh6ZO4rPL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41CSnXSyGaL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Taylor and Sage Women's Floral Wrap Dress, Black Light, Small"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/87d2dfdbd7154ed498f6d4aa6f8d70e3?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Taylor & Sage",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Dresses"
+    ],
+    "details": "{\"Package Dimensions\": \"0.39 x 0.39 x 0.39 inches; 1 Pounds\", \"Item model number\": \"TD1708-85N\", \"Department\": \"Womens\", \"Date First Available\": \"September 29, 2017\", \"Manufacturer\": \"Taylor and Sage\"}",
+    "parent_asin": "B07475Y785",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

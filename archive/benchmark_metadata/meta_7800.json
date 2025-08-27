@@ -1,0 +1,55 @@
+{
+    "main_category": "Books",
+    "title": "The Lupus Book: A Guide for Patients and Their Families",
+    "average_rating": 4.6,
+    "rating_number": 124,
+    "features": [
+        "Lupus, a disease of the immune system, can be quite deadly, claiming the lives of thousands of patients yearly. Dr. Daniel J. Wallace is one of the world's leading authorities on this disorder, an eminent clinician who has treated over 2000 lupus patients, the largest such practice in America.His",
+        "The Lupus Book",
+        ", originally published in 1995, immediately established itself as the most readable and helpful book on the disease. Now Dr. Wallace has once again completely revised",
+        "The Lupus Book",
+        ", incorporating a wealth of new information. This Fourth Edition discusses the newest clinical trials and emerging therapies--all laid out in user-friendly language that any patient could understand. Readers will also discoverfully updated sections on the science of lupus and breakthroughs in research. And as in past editions, the book provides absolutely lucid answers to such questions as: What causes lupus? How and where is the body affected? Can a woman with lupus have a baby? And how can one manage this disease?Indeed, Dr. Wallace has distilled his extensive experience, providing the most up-to-date information on causes, prevention, cure, exercise, diet, and many other important topics. There is also a glossary of terms and an appendix of lupus resource materials compiled by the Lupus Foundation ofAmerica. Over a million Americans have lupus. The Fourth Edition of",
+        "The Lupus Book",
+        "offers these patients and their families a wealth of reliable, up-to-date information that will help them manage the disease and live a happier life."
+    ],
+    "description": [
+        "About the Author",
+        "Daniel J. Wallace",
+        ", M.D. is a Clinical Professor of Medicine at the David Geffen School of Medicine at UCLA based at Cedars-Sinai Medical Center in Los Angeles. His many books include",
+        "All About Fibromyalgia",
+        "and",
+        "All About Osteoarthritis",
+        "(with Nancy Lane)."
+    ],
+    "price": "1.3",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41FI4Ft5pBL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Daniel J Wallace (Author)",
+    "categories": [
+        "Books",
+        "Health, Fitness & Dieting",
+        "Diseases & Physical Ailments"
+    ],
+    "details": "{\"Publisher\": \"Oxford University Press; 4th edition (December 2, 2008)\", \"Language\": \"English\", \"Hardcover\": \"304 pages\", \"ISBN 10\": \"019537309X\", \"ISBN 13\": \"978-0195373097\", \"Item Weight\": \"1.15 pounds\", \"Dimensions\": \"6.25 x 1 x 9.25 inches\"}",
+    "parent_asin": "019537309X",
+    "bought_together": null,
+    "subtitle": "4th Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Daniel J. Wallace', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

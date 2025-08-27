@@ -1,0 +1,51 @@
+{
+  "item_id": 347,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Ultimate Collection",
+    "average_rating": 4.1,
+    "rating_number": 12,
+    "features": [],
+    "description": [
+      "Two CD collection in a digipak of Barry, Robin and Maurice's earliest '60s recordings when they were still a young, fresh-faced band trying to make it big in their Australian homeland. Worldwide fame came when they moved to the UK and signed with manager Robert Stigwood, but these early recordings show a young band with songwriting skills far beyond their years. 27 tracks including 'Spicks & Specks', 'Monday's Rain', 'Everyday I Have To Cry', 'In The Morning' and more. 2006."
+    ],
+    "price": "11.28",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51QPZRGCSTL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51QPZRGCSTL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Bee Gees   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Pop"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5 x 5.75 x 0.5 inches; 3.86 Ounces\", \"Manufacturer\": \"Edge J26181\", \"Date First Available\": \"October 22, 2006\", \"Label\": \"Edge J26181\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000GIXMOM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Music Collections"
+    ],
+    "confidence": 0.95
+  }
+}

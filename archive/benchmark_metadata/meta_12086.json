@@ -1,0 +1,98 @@
+{
+    "main_category": "Computers",
+    "title": "MACH3 Motion Card 4 Axis USB CNC Motion Controller Card Breakout Board for Engraving 100 KHz",
+    "average_rating": 4.1,
+    "rating_number": 46,
+    "features": [
+        "100 KHZ---The maximum step-pulse frequency is of Mach3 motion card is 100KHz, which is suitable for the servo or stepping motor. Support for 4-axis linkage, you can connect four stepper motor drives or servo drives",
+        "SUPPORT---The Mach3 motion card supports automatic probe tool, emergency input, limit switch, connecting electronic handwheel. It also need an external 24V DC power supply to isolate USB and external port, making the system more stable",
+        "0-10 V OUTPUT PORT---Having 0-10V output port, the mach3 software can be used to control the spindle motor speed. With 1 status LED, the connection status could be indicated on the board clearly",
+        "4 GENERAL-PURPOSE INPUTS---With 4 general-purpose inputs, you can connect the limit switch, estop switch, probe switch, back to zero and other device",
+        "4 GENERAL-PURPOSE OUTPUT---With 4 general-purpose isolated relay drive output interface, can drive four relays for controlling the spindle starts, forward rotating and reverse rotating, pumps and other device"
+    ],
+    "description": [
+        "This USB motion control card has the below advantages: small volume, easy to use, has a strong anti-interference ability, No need to install any USB drivers,it can be used after plugging in the computer. ,suitable for all versions of Windows. Fully supporting all Mach3 versions.   Specification:  Product name: MACH3 motion control card  Support Axis:4  Support drive type: stepper/servo driver  Maximum step-pulse frequency:100KHz  Weight: Approx.128g/4.5oz  Package list:  1 × Mach3 Motion Card  1 × cable"
+    ],
+    "price": "27.6",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61IjkQP6wtL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/617Fo4FTjeL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/51Nvc2eRUCL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/61MZUaPcj7L._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/71rG4fSKnrL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/71ZSmi5LX1L._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/719lUTS+fZL._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/61Uj7Ilq47L._AC_SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/61IjkQP6wtL._AC_SL1001_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/512v-aEg+zL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51FMmeR7ikL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/319eSMzJSFL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41puymozMyL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51-XoczyLQL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51Hcnf8aNnL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51IefGdsAPL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51gyfr59tbL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/512v-aEg+zL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/512v-aEg+zL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51FMmeR7ikL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/319eSMzJSFL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41puymozMyL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51-XoczyLQL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51Hcnf8aNnL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51IefGdsAPL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51gyfr59tbL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/512v-aEg+zL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08"
+        ]
+    },
+    "videos": {
+        "title": [
+            "MACH3 Motion Card",
+            "DDCSV3.1 homing function display",
+            "Upgraded GRBL Control Board",
+            "USB Interface Motion Control Card Breakout Board Controller",
+            "DDCSV limit signal function display"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/015f63100c414e9782763f9fc207f3a0?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0d83111b38184db281d31179015da592?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0902838d8d3247f69c2be5f87fa97026?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0ca4eaf0d9b845449e5774b13e51f799?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0310a7da95504ea396486dfd02028208?ref=dp_vse_rvc_4"
+        ],
+        "user_id": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "store": "Walfront",
+    "categories": [
+        "Electronics",
+        "Computers & Accessories",
+        "Computer Components",
+        "Desktop Barebones"
+    ],
+    "details": "{\"Product Dimensions\": \"3.54 x 3.54 x 1.18 inches\", \"Item Weight\": \"4.6 ounces\", \"Manufacturer\": \"Wal front\", \"Item model number\": \"Wal front3q19wexfyb\", \"Best Sellers Rank\": {\"Desktop Barebones\": 60}, \"Date First Available\": \"November 29, 2018\", \"Compatible Devices\": \"Personal Computer\", \"Brand\": \"Wal front\", \"Hardware Interface\": \"USB\", \"Platform\": \"Windows\", \"Model Name\": \"MACH3\"}",
+    "parent_asin": "B07KYM15PC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

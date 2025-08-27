@@ -1,0 +1,42 @@
+{
+    "main_category": "Books",
+    "title": "Vincennes University Writers Handbook",
+    "average_rating": 4.1,
+    "rating_number": 12,
+    "features": [],
+    "description": [
+        "About the Author",
+        "Laurie G. Kirszner is a best-selling author who is well known nationally. Kirszner, together with coauthor Stephen R. Mandell, has written best sellers for nearly every English market. They have the deepest publishing record of any literature anthology author team and have successfully published up and down the curriculum from developmental to literature.Stephen R. Mandell is a best-selling author who is well known nationally. Mandell, together with coauthor Laurie G. Kirszner, has written best sellers for nearly every English market. They have the deepest publishing record of any literature anthology author team and have successfully published up and down the curriculum from developmental to literature."
+    ],
+    "price": "81.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51kV0EDDD7L._SX347_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Author (Author)",
+    "categories": [
+        "Books",
+        "Education & Teaching",
+        "Schools & Teaching"
+    ],
+    "details": "{\"Publisher\": \"Wadsworth Publishing; 4th edition (January 1, 2012)\", \"Language\": \"English\", \"ISBN 10\": \"1285551141\", \"ISBN 13\": \"978-1285551142\", \"Item Weight\": \"1.7 pounds\", \"Dimensions\": \"7.5 x 1 x 8.4 inches\"}",
+    "parent_asin": "1285551141",
+    "bought_together": null,
+    "subtitle": "Spiral-bound – January 1, 2012",
+    "author": null
+}

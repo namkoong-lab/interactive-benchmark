@@ -1,0 +1,50 @@
+{
+  "item_id": 536,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Kickin' and Screamin'",
+    "average_rating": 4.7,
+    "rating_number": 7,
+    "features": [],
+    "description": [
+      "Kickin' and Screamin' by SaraBeth"
+    ],
+    "price": "46.01",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71FLQLS5uOL._SL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51mdHmh4LoL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51mdHmh4LoL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "SaraBeth  (Artist)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Country"
+    ],
+    "details": "{\"Product Dimensions\": \"5.5 x 5.5 x 0.25 inches; 2.5 Ounces\", \"Manufacturer\": \"Circle S Records\", \"Run time\": \"18 minutes\", \"Date First Available\": \"October 25, 2012\", \"Label\": \"Circle S Records\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B009WBP1GQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Singles & EPs"
+    ],
+    "confidence": 0.95
+  }
+}

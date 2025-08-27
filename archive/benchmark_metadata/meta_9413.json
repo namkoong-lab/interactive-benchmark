@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Point Pleasant (Postcard History)",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "Point Pleasant is a fascinating look at the New Jersey shore communities of Point Pleasant and Point Pleasant Beach during the heyday of the picture postcard. Rare and historical postcards illustrate the region's early grand hotels and majestic summer cottages that helped make Point Pleasant one of New Jersey's top seaside resorts. Explore neighborhoods and downtown shops, the Manasquan River, and, of course, the beach and boardwalk that made Point Pleasant Beach famous."
+    ],
+    "description": [
+        "About the Author",
+        "Jerry A. Woolley is a lifelong resident of Point Pleasant Beach and its official borough historian. He is the author of three other books about the Point Pleasant area. For Point Pleasant, he has selected images from his vast postcard collection that not only show the rich history of Point Pleasant but also the evolution of the picture postcard and its wild popularity during the first half of the 20th century."
+    ],
+    "price": "14.62",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51anMrSzCXL._SX344_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jerry A. Woolley (Author)",
+    "categories": [
+        "Books",
+        "History",
+        "Americas"
+    ],
+    "details": "{\"Publisher\": \"Arcadia Publishing; Illustrated edition (July 15, 2009)\", \"Language\": \"English\", \"Paperback\": \"128 pages\", \"ISBN 10\": \"0738565857\", \"ISBN 13\": \"978-0738565859\", \"Item Weight\": \"11.2 ounces\", \"Dimensions\": \"6.5 x 0.31 x 9.25 inches\"}",
+    "parent_asin": "0738565857",
+    "bought_together": null,
+    "subtitle": "Paperback – July 15, 2009",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Jerry A. Woolley', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

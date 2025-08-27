@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Prometheus Comes: Prometheus Saga Book 1",
+    "average_rating": 4.6,
+    "rating_number": 6,
+    "features": [
+        "The year is 2142 and the world is divided economically, socially, and politically between the Northern Confederation, which is a loose union of the nation states of the Northern Hemisphere, and the South, which consists of poor, disorganized states that have unsuccessfully struggled to obtain economic and political equality with the Northern Confederation. By 2142, Earth’s resources are nearing depletion and the climate change wrought by the advancement of technological progress will soon create shortages of the most basic of resources, including food and water. However, Confederation scientists have discovered a planet that could save the Confederation and its people from a new dark age. There’s only one problem: it’s already inhabited. Captain Jonathan Marcus and his crew embark to Nede to establish first contact. While tensions between the Confederation and the South erupt into violent war and acts of terror, Captain Marcus meets the Velathra, a pre-industrial, yet socially sophisticated society. The fate of the Velathra is also in the hands of Lathra Xantria, the chancellor of the city-state of Lexthra. She must ultimately decide whether to cooperate with the humans or risk a conflict that could destroy her civilization."
+    ],
+    "description": [
+        "About the Author",
+        "Shawn Grimsley is a recovering lawyer who now happily fills his days writing, teaching and spending time with his wife, kids, and dog. He resides in Rochester, Minnesota, where he is finishing the second book in the Prometheus Saga among other writing projects."
+    ],
+    "price": "—",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51RlU+K0HYL._SX322_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Shawn Grimsley (Author)",
+    "categories": [
+        "Books",
+        "Science Fiction & Fantasy",
+        "Science Fiction"
+    ],
+    "details": "{\"Publisher\": \"Jaxas Publishing Company (July 11, 2012)\", \"Language\": \"English\", \"Paperback\": \"382 pages\", \"ISBN 10\": \"0615632777\", \"ISBN 13\": \"978-0615632773\", \"Item Weight\": \"15.5 ounces\", \"Dimensions\": \"5.5 x 0.87 x 8.5 inches\"}",
+    "parent_asin": "0615632777",
+    "bought_together": null,
+    "subtitle": "Paperback – July 11, 2012",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/51+a1QDROsL._SY600_.jpg', 'name': 'Shawn Grimsley', 'about': ['Shawn Grimsley is a recovering lawyer who now happily fills his days writing, teaching and spending time with his wife, kids, and dog. He resides in Rochester, Minnesota, where he is finishing the second book in the Prometheus Saga among other writing projects.']}"
+}

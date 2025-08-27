@@ -1,0 +1,49 @@
+{
+    "main_category": "Industrial & Scientific",
+    "title": "Fairchild Semiconductor TIP120(FSC) Darlington NPN Transistor, 60V, 5 Amp, 3-Pin, 3+ Tab TO-220 Bulk, 9.2 mm H x 9.9 mm L x 4.5 mm W (Pack of 10)",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [
+        "Family: Tip120",
+        "Mounting: through hole",
+        "Type: npn",
+        "Maximum collector emitter saturation voltage: 2v@12ma@3a|4v@20ma@5a",
+        "Maximum collector base voltage: 60V"
+    ],
+    "description": [
+        "The product type is Fairchild Semiconductor TIP120(FSC) Darlington NPN Transistor, 60V, 5 Amp, 3-Pin, 3+ Tab TO-220 Bulk, 9.2 mm H x 9.9 mm L x 4.5 mm W. Made in Taiwan and manufactured by Fairchild Semiconductor."
+    ],
+    "price": "8.34",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31XH4DhXLWL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31XH4DhXLWL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "FAIRCHILD SEMICONDUCTOR",
+    "categories": [
+        "Industrial & Scientific",
+        "Industrial Electrical",
+        "Semiconductor Products",
+        "Transistors",
+        "Darlington"
+    ],
+    "details": "{\"Package Dimensions\": \"2.64 x 1.97 x 0.47 inches; 0.71 Ounces\", \"Item model number\": \"TIP120(FSC)\", \"National Stock Number\": \"5961-01-057-1482\", \"Date First Available\": \"April 23, 2013\", \"Manufacturer\": \"Fairchild Semiconductor\", \"Country of Origin\": \"Taiwan\"}",
+    "parent_asin": "B00LQR3N50",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

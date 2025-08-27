@@ -1,0 +1,72 @@
+{
+  "item_id": 4635,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Anne Klein Women's Belted Cropped Trouser",
+    "average_rating": 3.7,
+    "rating_number": 13,
+    "features": [
+      "96% Polyester, 4% Spandex",
+      "Imported",
+      "Belt closure",
+      "Dry Clean Only",
+      "Solid",
+      "Cropped"
+    ],
+    "description": [
+      "Cropped trousers featuring a sash belt and side pockets"
+    ],
+    "price": "59.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/7126gBQMCIL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/716G7iO+9TL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/716G7iO+9TL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/716G7iO+9TL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31+D3LpUpoL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31xm2SDqsxL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31xm2SDqsxL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31xm2SDqsxL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31+D3LpUpoL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31xm2SDqsxL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31xm2SDqsxL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31xm2SDqsxL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Anne Klein",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Pants",
+      "Casual"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"February 21, 2018\", \"Manufacturer\": \"Anne Klein\"}",
+    "parent_asin": "B0781YXGCK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Pants"
+    ],
+    "confidence": 0.95
+  }
+}

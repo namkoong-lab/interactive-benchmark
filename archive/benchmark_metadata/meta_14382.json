@@ -1,0 +1,74 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Nike Men's Football Boots",
+    "average_rating": 4.1,
+    "rating_number": 112,
+    "features": [
+        "Imported",
+        "Rubber sole",
+        "Size 10.5 for men",
+        "Regular fit",
+        "Officially licensed"
+    ],
+    "description": [
+        "Designed for explosive play on the short-grass field, the Nike mercurial victory v firm-ground men’s soccer cleat incorporates contoured lines with direct-inject blades that dig and release quickly to keep you flying across the field."
+    ],
+    "price": "79.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/716xfljL4pL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/719O36eecDL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/6115EFUifUL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71NbERu1EWL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71pI5wXjAFL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Uk558Ps3L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71hcjV-xs3L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/316TwZN7NRL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31pcll-t4nL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21mq6LOXnTL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31kkpN3CtnL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31VQbSzyMQL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31nJIfffnWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31OMStue6KL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/316TwZN7NRL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31pcll-t4nL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/21mq6LOXnTL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31kkpN3CtnL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31VQbSzyMQL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31nJIfffnWL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31OMStue6KL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nike",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Shoes",
+        "Athletic",
+        "Team Sports",
+        "Soccer"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"6 x 13 x 4 inches\", \"Item model number\": \"651632 803\", \"Department\": \"mens\", \"Date First Available\": \"December 8, 2006\", \"Manufacturer\": \"Nike\"}",
+    "parent_asin": "B01DA7OKTQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

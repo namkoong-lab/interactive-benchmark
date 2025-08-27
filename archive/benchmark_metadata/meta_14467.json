@@ -1,0 +1,57 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "The Children's Place Girls' Ruffle Cardigan",
+    "average_rating": 4.7,
+    "rating_number": 146,
+    "features": [
+        "100% Cotton",
+        "Imported",
+        "Button closure",
+        "Machine Wash",
+        "They’ll love this style – you’ll Love This Place"
+    ],
+    "description": [
+        "Value-priced clothes and apparel that is fun & easy to put together"
+    ],
+    "price": "23.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71yRiRboPSL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81N-PwrpASL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81al1hsLsWL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31wI5redJ3L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/419-ioRsY4L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41qXGPUIzyL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31wI5redJ3L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/419-ioRsY4L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41qXGPUIzyL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "The Children's Place",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Girls",
+        "Clothing",
+        "Sweaters",
+        "Cardigan"
+    ],
+    "details": "{\"Item model number\": \"2095523\", \"Department\": \"girls\", \"Date First Available\": \"March 15, 2023\", \"Manufacturer\": \"The Children's Place\"}",
+    "parent_asin": "B0BYKGBMVY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

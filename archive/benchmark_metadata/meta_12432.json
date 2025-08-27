@@ -1,0 +1,44 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Armed Forces Gear Navy Arch Anchor Hooded Sweatshirt",
+    "average_rating": 4.9,
+    "rating_number": 29,
+    "features": [
+        "50% Cotton, 50% Polyester",
+        "Lace Up closure",
+        "50% Cotton 50% Polyester",
+        "Highest Quality Screenprinted Graphic",
+        "Printed in The USA",
+        "Officially licensed by the United States Navy"
+    ],
+    "description": [
+        "This high quality hooded sweatshirt with screenprinted design make its easy to show your Pride. Anchors Aweigh!"
+    ],
+    "price": "39.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61sW7kVuntL._AC_UL1001_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41pcRFOymjL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41pcRFOymjL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Armed Forces Gear",
+    "categories": [],
+    "details": "{\"Item model number\": \"NARCHHOODG-AFG\", \"Department\": \"mens\", \"Date First Available\": \"October 3, 2019\", \"Manufacturer\": \"Armed Forces Gear\"}",
+    "parent_asin": "B07YNYSQKS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

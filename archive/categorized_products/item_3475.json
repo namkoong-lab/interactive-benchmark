@@ -1,0 +1,65 @@
+{
+  "item_id": 3475,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Rocky T-Shirt Vintage Creed and Balboa Cream Tee",
+    "average_rating": 4.7,
+    "rating_number": 8,
+    "features": [
+      "100% Cotton",
+      "Pull On closure",
+      "Machine Wash",
+      "A Rocky T-shirt featuring a vintage photo of Apollo Creed and Rocky Balboa",
+      "100% cotton",
+      "Officially Licensed",
+      "Perfect for every fan of the movie",
+      "Machine wash cold with similar colors. Dry low heat"
+    ],
+    "description": [
+      "An officially licensed Rocky mens shirt. Made from comfortable 100% cotton. This is the perfect tshirt for any fan of the movie."
+    ],
+    "price": "23.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61DayDgTiKL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41+pBx-zKWL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41+pBx-zKWL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "A&E Designs",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Men",
+      "Shirts",
+      "T-Shirts"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"June 11, 2019\", \"Manufacturer\": \"A&E Designs\"}",
+    "parent_asin": "B07SYCV568",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's T-Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

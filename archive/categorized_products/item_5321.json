@@ -1,0 +1,86 @@
+{
+  "item_id": 5321,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Pearl Izumi Women's All-Road III Cycling Shoe",
+    "average_rating": 4.1,
+    "rating_number": 288,
+    "features": [
+      "58% Synthetic Leather/42% Nylon Mesh",
+      "Imported",
+      "Synthetic sole",
+      "Low-profile cycling shoe featuring three adjustable hook-and-loop straps",
+      "Padded collar"
+    ],
+    "description": [
+      "FEATURES of the Pearl Izumi Women's All Road III Shoe 1: 1 Anatomic Closure: follows the natural anatomic shape of the foot to eliminate hot spots and remove pressure from your instep Select 1: 1 Power Plate: Select Grade Nylon and Composite Fiber plate for lightweight stiffness and durability Concave shaping for enhanced plate stiffness and anatomic support Low-profile bottom for an indoor/outdoor look and feel Select Insole: provides excellent Longitudinal and Transverse Arch Support SPD-compatible"
+    ],
+    "price": "58.82",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71-vsluoTkL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71J1KIMia7L._AC_UL1322_.jpg",
+        "https://m.media-amazon.com/images/I/71-x5qFF04L._AC_UL1401_.jpg",
+        "https://m.media-amazon.com/images/I/71tAMw-7cWL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Zi7gKbK5L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81zBwiBHwRL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81i669jSJOL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81NCcntqcpL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/415J9tDTMSL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/419LdS-6W+L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/510iU6s+SDL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31iEHQEDK7L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/418VXzsZGrL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41XybU5tmCL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41UWm4GSMBL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/4168kiMGgSL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/415J9tDTMSL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/419LdS-6W+L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/510iU6s+SDL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31iEHQEDK7L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/418VXzsZGrL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41XybU5tmCL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41UWm4GSMBL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/4168kiMGgSL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Pearl iZUMi",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Athletic"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Item Weight\": \"9.7 ounces\", \"Item model number\": \"W ALL-ROAD III B/B-W\", \"Department\": \"Womens\", \"Date First Available\": \"November 17, 2009\", \"Manufacturer\": \"Pearl Izumi\"}",
+    "parent_asin": "B00RENC9J6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,50 @@
+{
+    "main_category": "Movies & TV",
+    "title": "42 Up [DVD]",
+    "average_rating": 4.2,
+    "rating_number": 15,
+    "features": [],
+    "description": [
+        "Product Description",
+        "In 1964, director Michael Apted interviewed fourteen children from diverse backgrounds from all over England, asking them about their lives and their dreams for the future. Every seven years, Apted has been back to talk to the same subjects, examining the progression of their lives. Now they are 42.",
+        "Review",
+        "One of the towering achievements in the history of documentary film. Endlessly rewarding. --Philadelphia Inquirer"
+    ],
+    "price": "17.37",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/5149H2Z8M2L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/5149H2Z8M2L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "42 Up Video"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/4626e67a55d947488b22f6c54cd77ed3?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Balden, Bruce  (Actor),     Bassett, Jacqueline  (Actor)    Rated:    Unrated    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Independently Distributed",
+        "Documentary"
+    ],
+    "details": "{\"Genre\": \"Kids & Family\", \"Format\": \"Color, DVD, NTSC\", \"Contributor\": \"Sullivan (II), Susan, Basterfield, Symon, Dewey, Suzanne, Furneaux, Charles, Davies, Peter, Kligerman, Paul, Walker, Tony, Brisby, John, Brackfield, Andrew, Johnson (IV), Lynn, Balden, Bruce, Hitchon, Nicholas, Hughes, Neil, Bassett, JacquelineSullivan (II), Susan, Basterfield, Symon, Dewey, Suzanne, Furneaux, Charles, Davies, Peter, Kligerman, Paul, Walker, Tony, Brisby, John, Brackfield, Andrew, Johnson (IV), Lynn, Balden, Bruce, Hitchon, Nicholas, Hughes, Neil, Bassett, Jacqueline  See more\", \"Language\": \"English, Unqualified\", \"Number Of Discs\": \"1\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"Unrated (Not Rated)\", \"Product Dimensions\": \"0.7 x 7.5 x 5.4 inches; 4 Ounces\", \"Media Format\": \"Color, DVD, NTSC\", \"Run time\": \"2 hours and 14 minutes\", \"Release date\": \"August 31, 2001\", \"Actors\": \"Balden, Bruce, Bassett, Jacqueline, Basterfield, Symon, Brackfield, Andrew, Brisby, John\", \"Studio\": \"First Run Features\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00005LDCB",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

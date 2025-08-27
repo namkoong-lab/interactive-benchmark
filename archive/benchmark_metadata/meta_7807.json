@@ -1,0 +1,53 @@
+{
+    "main_category": "Books",
+    "title": "Nietzsche, Vol. 1: The Will to Power as Art, Vol. 2: The Eternal Recurrance of the Same",
+    "average_rating": 4.8,
+    "rating_number": 50,
+    "features": [
+        "A landmark discussion between two great thinkers, vital to an understanding of twentieth-century philosophy and intellectual history."
+    ],
+    "description": [
+        "Review",
+        "\"It is a rare privilege to be able to discover a great book twice, once originally in the author's language and then again, more richly, more accessibly, in one's own....The English text \"is \"the text of the original...no less than what Heidegger made in the German.\"--Harold Alderman on Volume I, \"Southwestern Journal of Philosophy\"\"A major contribution to our understanding of each of these thinkers.\"--\"Booklist\"",
+        "From the Publisher",
+        "A landmark discussion between two great thinkers, vital to an understanding of twentieth-century philosophy and intellectual history.",
+        "From the Back Cover",
+        "Heidegger's resistance to the crude biologism, racism, and anti-Semitism of the Nazi Party cannot, I believe, be doubted. Yet his ardent nationalism and anti-liberalism, his intransigent conservatism in matters economic, social, and political, along with his passion for historic decisions at the national level, made him an easy prey to hopes of resurgence.",
+        "About the Author",
+        "Martin Heidegger (1889-1976) was born in Baden-Württemberg, Germany. He studied at the University of Freiburg and became a professor at the University of Marburg in 1932. After publishing his his magnum opus,",
+        "Being and Time",
+        "(1927), he returned to Freiburg to assume the chair of philosophy upon Husserl's retirement.",
+        "Read more"
+    ],
+    "price": "26.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41f0ZQAHunL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Martin Heidegger (Author),  David Farrrell Krell (Translator)",
+    "categories": [
+        "Books",
+        "Politics & Social Sciences",
+        "Philosophy"
+    ],
+    "details": "{\"Publisher\": \"HarperOne; Reprint edition (March 1, 1991)\", \"Language\": \"English\", \"Paperback\": \"608 pages\", \"ISBN 10\": \"0060638419\", \"ISBN 13\": \"978-0060638412\", \"Item Weight\": \"1.53 pounds\", \"Dimensions\": \"8.49 x 5.31 x 1.55 inches\"}",
+    "parent_asin": "0060638419",
+    "bought_together": null,
+    "subtitle": "Paperback – Box set, March 1, 1991",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/41JBgKIxWQL._SY600_.jpg', 'name': 'Martin Heidegger', 'about': ['Born in southern Germany, Martin Heidegger (1889–1976) taught philosophy at the University of Freiburg and the University of Marburg. His published works include: Kant and the Problem of Metaphysics (1929); An Introduction to Metaphysics (1935); Discourse on Thinking (1959); On the Way to Language (1959); Poetry, Language, Thought (1971). His best-known work is Being and Time (1927).']}"
+}

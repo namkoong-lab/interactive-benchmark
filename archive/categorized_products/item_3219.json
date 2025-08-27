@@ -1,0 +1,61 @@
+{
+  "item_id": 3219,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Next Level womens N1510",
+    "average_rating": 4.1,
+    "rating_number": 54,
+    "features": [
+      "Ringspun,Jersey,Polyester,Cotton",
+      "Machine Wash",
+      "60% combed ringspun cotton/40% polyester lightweight jersey",
+      "4 oz.",
+      "30 singles",
+      "fabric laundered for reduced shrinkage",
+      "Front coverstitched 1x1 baby rib-knit set-in collar"
+    ],
+    "description": [
+      "60% combed ringspun cotton/40% polyester lightweight jersey; 4 oz.; 30 singles; fabric laundered for reduced shrinkage; Front coverstitched 1x1 baby rib-knit set-in collar; Tear-away label"
+    ],
+    "price": "9.05",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71Jp6zKQKOL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41OGTaMAUkL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41OGTaMAUkL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Next Level",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Tops, Tees & Blouses",
+      "Polos"
+    ],
+    "details": "{\"Item model number\": \"N1510\", \"Department\": \"Womens\", \"Date First Available\": \"November 21, 2021\", \"Manufacturer\": \"Next Level\"}",
+    "parent_asin": "B09MBQH95S",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops"
+    ],
+    "confidence": 0.95
+  }
+}

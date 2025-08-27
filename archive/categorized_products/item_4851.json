@@ -1,0 +1,69 @@
+{
+  "item_id": 4851,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Billabong Men's Carter Stretch Shorts",
+    "average_rating": 4.3,
+    "rating_number": 24,
+    "features": [
+      "60% Cotton, 39% Polyester, 1% Elastane",
+      "Imported",
+      "Button closure",
+      "Machine Wash",
+      "Stretch work wear twill chino walk short",
+      "21 inch"
+    ],
+    "description": [
+      "Work wear style walk short featured in a comfort stretch."
+    ],
+    "price": "44.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71CjOmNm33L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81K1FYSyUgL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71GSR4ISMxL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41F6nBYiI9L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41ZVwBNxzwL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41rXKm9v2TL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41F6nBYiI9L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41ZVwBNxzwL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41rXKm9v2TL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Billabong",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Shorts",
+      "Flat Front"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"M250GCAS\", \"Department\": \"Mens\", \"Date First Available\": \"January 20, 2016\", \"Manufacturer\": \"Billabong Young Mens\"}",
+    "parent_asin": "B01EN960KC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Shorts"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,47 @@
+{
+    "main_category": "Industrial & Scientific",
+    "title": "Supco LPT LOGiT Pressure and Temperature Data Logger, 3\" Length x 2-1/2\" Width x 1-3/32\" Height",
+    "average_rating": 3.4,
+    "rating_number": 12,
+    "features": [
+        "Pressure range: 0 to 500 psi",
+        "Over/under alarm threshold settings",
+        "1 Second to 18 hour sample rate, temperature range -40 to 150 degree F (-40 to 65 degree C)",
+        "Visual alarm indication, Tamper proof, PC software operates with all LOGiT loggers"
+    ],
+    "description": [
+        "The LPT data logger is a precision instrument for recording pressure and temperature. The logger can store up to 21, 500 data points, when it is setup to record either pressure or temperature (but not both). The logger can store up to 10, 750 points, when it is setup to record both pressure and temperature. The external temperature probe is interchangeable and replacement probes are available. The pressure sensor is not interchangeable. Each logger is individually calibrated to the pressure sensor at the factory. Sample point capacity: 10750 data points when pressure and temperature are recorded together. 21500 points when recording only pressure or only temperature. Over and under alarms for pressure and temperature probes. Calibration: factory calibrated for the pressure sensor. user single point offset calibration is available through software for both pressure and temperature. Logger operating temperature: 32 to 140 degree F (0 to 60 degree C) using alkaline battery. -40 to 150 degree F (-40 to 65 degree C) using lithium battery. Pressure sensor: media compatible stainless steel sensor 6' cable. Pressure sensor operating temperature: 32 to 130 degree F (0 to 54 degree C). Time accuracy: +/- 100ppm at 75 degree F. Pressure range: 0 to 500 psi. Pressure accuracy: +/- 3 psi. Pressure resolution: 0. 15 psi. External temperature probe: -40 to 50 degree F (-40 to 65 degree C), 15' standard. Can be extended to 300'. Temperature accuracy: +/- 1 degree (0. 5 degree C). Temperature resolution: 0. 1 degree F (0. 05 degree C). Power source: 9V alkaline or lithium battery. Battery life (average use) 20 months using alkaline battery. 40 months using lithium battery. Measures 3\" length by 2-1/2\" width by 1-3/32\" height. Weight: 2. 5 oz (71g)."
+    ],
+    "price": "226.36",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/715DlDOIAZL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/415NqOAUcIL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/415NqOAUcIL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Supco",
+    "categories": [
+        "Industrial & Scientific",
+        "Test, Measure & Inspect",
+        "Recorders & Data Acquisition",
+        "Data Loggers"
+    ],
+    "details": "{\"Brand\": \"Supco\", \"Material\": \"Stainless Steel, Polycarbonate (PC)\", \"Item Weight\": \"2.5 Ounces\", \"Package Dimensions\": \"10.2 x 6.34 x 3.23 inches; 2.5 Ounces\", \"Item model number\": \"LPT\", \"Date First Available\": \"October 3, 2011\", \"Manufacturer\": \"Supco\", \"Country of Origin\": \"China\", \"Domestic Shipping\": \"Item can be shipped within U.S.\", \"International Shipping\": \"This item can be shipped to select countries outside of the U.S.  Learn More\"}",
+    "parent_asin": "B004XS2NLE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

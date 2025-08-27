@@ -1,0 +1,45 @@
+{
+    "main_category": "Books",
+    "title": "Hidden Big Island of Hawaii (Hidden Travel)",
+    "average_rating": 3.9,
+    "rating_number": 7,
+    "features": [
+        "Rare book"
+    ],
+    "description": [
+        "About the Author",
+        "Ray Riegert",
+        "lives in Berkeley, CA."
+    ],
+    "price": "1.5",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/510ds52dyNL._SX316_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ray Riegert (Author)",
+    "categories": [
+        "Books",
+        "Travel",
+        "United States"
+    ],
+    "details": "{\"Publisher\": \"Ulysses Press; 3rd edition (September 28, 2008)\", \"Language\": \"English\", \"Paperback\": \"232 pages\", \"ISBN 10\": \"1569756422\", \"ISBN 13\": \"978-1569756423\", \"Item Weight\": \"6.4 ounces\", \"Dimensions\": \"4.75 x 0.5 x 7.75 inches\"}",
+    "parent_asin": "1569756422",
+    "bought_together": null,
+    "subtitle": "Paperback – September 28, 2008",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Ray Riegert', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

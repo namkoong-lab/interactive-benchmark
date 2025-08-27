@@ -1,0 +1,55 @@
+{
+  "item_id": 561,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Strauss: Tone Poems",
+    "average_rating": 3.8,
+    "rating_number": 4,
+    "features": [],
+    "description": [
+      "EMI Classics relaunches the popular EMI Masters Series: The definitive series of great classical music from a trove of the most notable and revered classical recordings ever made. Available on CD and for digital download, this newly repackaged installment of 30 masters celebrates EMI Classics' greatest artists, including Itzhak Perlman, Yehudi Menuhin and Angela Gheorghiu. All performances in this series were recorded, mastered, or re-mastered at the internationally renowned Abbey Road Studios in London."
+    ],
+    "price": "30.98",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81MnIW3z+aL._SL1417_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51I7qKrvUML.jpg",
+        "https://m.media-amazon.com/images/I/51toehVKQAL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51I7qKrvUML._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51toehVKQAL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Richard Strauss  (Artist),     Rudolf Kempe  (Artist)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Classical",
+      "Chamber Music"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.55 x 5.28 x 0.39 inches; 4.02 Ounces\", \"Manufacturer\": \"Warner Classics\", \"Item model number\": \"1\", \"SPARS Code\": \"ADD\", \"Date First Available\": \"January 22, 2012\", \"Label\": \"Warner Classics\", \"Number of discs\": \"2\"}",
+    "parent_asin": "B006LL02DM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Classical Albums"
+    ],
+    "confidence": 0.95
+  }
+}

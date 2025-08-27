@@ -1,0 +1,69 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "White Mountain Shoes Fame Women's Slide Sandal",
+    "average_rating": 3.4,
+    "rating_number": 54,
+    "features": [
+        "Made in the USA or Imported",
+        "Polyurethane sole",
+        "Cushioned insole",
+        "Adjustable velcro strap",
+        "Lightweight cork mini wedge heel"
+    ],
+    "description": [
+        "Slip them on and go! The comfortable Fame slide sandal by White Mountain Shoes offers cool comfort and uncompromising support. This versatile sandal features adjustable Velcro straps for a custom fit. The Fame sandal will be known for being the most worn sandal of the summer."
+    ],
+    "price": "32.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71QcpPFqiRL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71MqofJDzUL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71jouNQSTIL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81m+mzpOoFL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71YbjE-RyqL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/716FfuMC1EL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/317jb7kOO6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31s+XToIbRL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31sHrZURjFL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31ifEt54ojL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Bke3lHFyL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31dip5x2WYL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/317jb7kOO6L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31s+XToIbRL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31sHrZURjFL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31ifEt54ojL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41Bke3lHFyL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31dip5x2WYL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "WHITE MOUNTAIN",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Sandals",
+        "Slides"
+    ],
+    "details": "{\"Item model number\": \"W33025\", \"Department\": \"womens\", \"Date First Available\": \"February 16, 2022\", \"Manufacturer\": \"White Mountain\"}",
+    "parent_asin": "B09Z3HPJ2K",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

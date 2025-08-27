@@ -1,0 +1,90 @@
+{
+    "main_category": "Books",
+    "title": "Mathematical Analysis I (Universitext)",
+    "average_rating": 4.4,
+    "rating_number": 9,
+    "features": [
+        "This softcover edition of a very popular two-volume work presents a thorough first course in analysis, leading from real numbers to such advanced topics as differential forms on manifolds, asymptotic methods, Fourier, Laplace, and Legendre transforms, elliptic functions and distributions. Especially notable in this course is the clearly expressed orientation toward the natural sciences and its informal exploration of the essence and the roots of the basic concepts and theorems of calculus. Clarity of exposition is matched by a wealth of instructive exercises, problems and fresh applications to areas seldom touched on in real analysis books.",
+        "The first volume constitutes a complete course on one-variable calculus along with the multivariable differential calculus elucidated in an up-to-day, clear manner, with a pleasant geometric flavor."
+    ],
+    "description": [
+        "Review",
+        "From the reviews:",
+        "\"... The treatment is indeed rigorous and comprehensive with introductory chapters containing an initial section on logical symbolism (used thoughout the text), through sections on sets and functions with an entire chapter on the real numbers. [...] The formalism and rigour of the presentation will appeal to mathematicians and to those non-specialists who seek a rigorous basis for the mathematics that they use in their daily work. For such, these books are a valuable and welcome addition to existing English-language texts.\"",
+        "D.Herbert, University of London, Contemporary Physics 2004, Vol. 45, Issue 6",
+        "\"The book under consideration is aimed primarily at university students and teachers specializing in mathematics and natural sciences, and at all those who wish to see both the mathematical theory with carefully formulated theorems and rigorous proofs on the one hand, and examples of its effective use in the solution of practical problems on the other hand. The last fact differs this book positively from many traditional expositions and is of great importance especially in connection with the applied character of the future activity of the majority of students. [...].",
+        "This two-volume work presents a well thought-out and thoroughly written first course in analysis, leading from real numbers to such advanced topics as differential forms on manifolds, asymptotic methods, Fourier, Laplace, and Legendre transforms, elliptic functions and distributions. Clarity of exposition, instructive exercises, problems and fresh applications to areas seldom touched on in real analysis books belong also to the distinguished key features of the book. [...]",
+        "The first volume presents a complete course on one-variable calculus along with the multivariable differential calculus elucidated in an up-to-day, clear manner, with a pleasant geometric flavor. [...]",
+        "The basic material of the Part 2 consists on the one hand of multiple integrals and line and surface integrals, leading to the generalized Stokes formula and some examples of its application, and on the other hand the machinery of series and integrals depending on a parameter, including Fourier series, the Fourier transform, and the presentation of asymptotic expansions. The presentation of the material is also here very geometric. The second volume is especially unusual for textbooks of modern analysis and such a way of structuring the course can be considered as innovative. [...]",
+        "Both parts are supplemented by prefaces, problems from the midterm examinations, examination topics,references and subject as well as name Indexes. The book is written excellently, with rigorous proofs, and geometrical explanations. The main text is supplemented with a large collection of examples, and nearly every section ends with a set of problems and exercises that significantly complement the main text (unfortunately there are not solutions to the problems and exercises for the self-control). Each volume ends with a list of topics, questions or problems for midterm examinations and with a list of examination topics. The subject index, name index and index of basic notation round up the book and made it very convenient for use.",
+        "The book can serve as a foundation for a four semester course for students or can be useful as support for all who are studying or teaching mathematical analysis. The reader will be able to follow the presentation with a minimum previous knowledge. The researcher can find interesting references, in particulary giving access to classical as well as to modern results.\"",
+        "I. P. Gavrilyuk, Zeitschrift für Analysis und ihre Anwendungen Volume 23, Issue 4, 2004, p. 861-863",
+        "\"This is a very nice textbook on mathematical analysis, which will be useful to both the students and the lecturers. [...] About style of explanation one can say that the definitions are motivated and precisely formulated. The proofs of theorems are in appropriate generality, presented in detail and without logical gaps. This is illustrated in many examples (many of them arise in applications) and each section ends with a list of problems and exercises, which extend and supplement the basic text. [...]\"",
+        "European Mathematical Society Newsletter, Sept. 2004, p. 47",
+        "\"This is the translation of the fourth edition of a well known course on mathematical analysis, taught for several years by the author at the Moscow State University (MSU) and at other universities. Together with V.I.Arnold and S.P.Novkov, the author is one of the organizers of advanced experimental courses at MSU, this experience being reflected in the book too. Written in the good tradition of Russian mathematical textbooks, the present one combines intuition and accessibility with modern mathematical rigor. ...",
+        "There are a lot of exercises and problems, of varying difficulty, spread through the book, needed for a better understanding of the subject, as well as historical notes about the great names who contributed along the centuries to the building of the edifice of mathematical analysis.",
+        "This comprehensive course on mathematical analysis provides the readers, first of all students specializing in mathematics, with rigorous proofs of the fundamental theorems, but also with its applications in mathematics itself and outside it. It is correlated with subsequent disciplines relying on its methods and results, as differential equations, differential geometry, functions of a complex variable and functional analysis.\"",
+        "T.Trif, Studia Universitatis Babes. Bolyai Mathematica, Vol. XLIX, Issue 3, 2004",
+        "\"These two big volumes of the well-known advanced course of Calculus written by Professor Vladimier A. Zorich on the base of his lectures to students of Moscow State University. There are four editions of the textbook in Russian: the first of them was printed in 1980 and thus this book has withstood severe test of time; to my mind, the book is one of the best (possibly best) modern textbooks in Analysis. The words of A.N. Kolmogorov \"… An entirely logical rigor of discussion … is combined with simplicity and completeness as well as with the development of the habit to work with real problems from natural sciences\" are complete and clear characterization of this book. …",
+        "The author writes: \"This book has been aimed primarily at mathematicians desiring to obtain thorough proofs of the fundamental theorems, but who are at the same time interested in the life of these theorems outside of mathematics itself\". However, I think that this book will be useful to all beginning mathematicians (students and postgraduate students in mathematics, natural sciences, engineering and technology) who want seriously to study analysis and also all specialists (first and foremost, lecturers and teachers) in analysis and interdisciplinary sciences. Undoubtedly, any mathematical library must have this textbook.\"",
+        "Peter Zabreiko, Minsk, Zentralblatt MATH Database pre02011960",
+        "\"Yet another book on Mathematical Analysis? By no means! If you learned to love Fichtenholz's monumental three volume treatise on classical differential and integral calculus in the past then the two volumes by Vladimir Zorich will occur to you as the legitimate modern successor within the Russian analysis school. Vladimir Zorich is a well-known university professor in Moscow who has many years of teaching experience and this can be observed in every single section of the two volumes. The presentation is always rigorous and thorough - a journey through analysis at its best. But there is much more additional material! Zorich succeeds in lively presenting a wealth of real-life examples within nearly each section in order to illuminate the abstract results and to show typical applications in which these results are used. These applications are also carefully worked out and presented so that it is a pleasure to follow the author. ... I can only recommend the volumes to everyone interested in an introductory analysis course and to every university teacher giving courses on mathematical analysis. The material which can be found in these books is far more than what is digestible in introductory lecture courses but selections can be made which will result in interesting ways and paths through the beautiful landscape of mathematical analysis.\"",
+        "Thomas Sonar, ZAMM, Zeitschrift für Angewandte Mathematik und Mechanik 84, No. 9, 656 (2004)",
+        "\"Let's get one thing straight from the very beginning. I like this two-volume set. It will make an excellent reference for students and provides a vast reservoir of interesting exercises and exam questions for analysis teachers. Get your library order a copy as soon as possible. [...]",
+        "What special features, beside enormous breadth, distinguish these volumes from other introductory analysis texts? [...]",
+        "1. The Foundations Are Carefully Laid. [...]",
+        "2. It Is Comprehensive and Encyclopedic. [...]",
+        "3. Material Is Carefully Motivated by Practical Considerations. [...]",
+        "4. Important Ideas Are Introduced More Than Once. [...]",
+        "5. The Pace Accelerates as the Text Progresses. [...]",
+        "6. This Two-Volume Set Contains Plenty of Good Examples. [...]",
+        "7. It Also Contains Plenty of Exercises. [...]",
+        "8. Unusual Touches. [...]",
+        "[...]",
+        "William R. Wade, University of Tennessee, SIAM Book Reviews, Vol. 46, No. 4",
+        "\"This is a very nice textbook on mathematical analysis, which will be useful to both the students and the lecturers. … About style of explanation one can say that the definitions are motivated and precisely formulated. The proofs of theorems are in appropriate generality, presented in detail and without logical gaps. This is illustrated in many examples (many of them arise in applications) and each section ends with a list of problems and exercises, which extend and supplement the basic text.\" (EMS-European Mathematical Society Newsletter, September, 2004)",
+        "\"Vladimir Zorich is a well-known university professor in Moscow who has many years of teaching experience … . The presentation is always rigorous and thorough … . Zorich succeeds in lively presenting a wealth of real-life examples within nearly each section in order to illuminate the abstract results and to show typical applications … . These applications are also carefully worked out … . The material … will result in interesting ways and paths through the beautiful landscape of mathematical analysis.\" (Thomas Sonar, Monatshefte für Mathematik, Issue 4, 2004)",
+        "\"This is the translation of the fourth edition of a well known course on mathematical analysis, taught for several years by the author … . There are a lot of exercises and problems, of varying difficulty, spread through the book, needed for a better understanding of the subject … . This comprehensive course on mathematical analysis provides the readers, first of all students specializing in mathematics, with rigorous proofs of the fundamental theorems, but also with its applications in mathematics itself and outside it.\" (T. Trif, Studia Universitatis Babes-Bolyai Mathematica, Vol. XLIX (3), 2004)",
+        "\"The textbook is ‘aimed primarily at university students and teachers specializing in mathematics and natural sciences and at all those who wish to see both the rigorous mathematical theory and examples of its effective use in the solution of real problems of natural science.’ … Throughout the text, there are numerous worked examples with lists of problems … . The formalism and rigour of the presentation will appeal to mathematicians and to those non-specialists who seek a rigorous basis … .\" (Dr. D. Herbert, Contemporary Physics, Vol. 45 (6), 2004)",
+        "\"This work is complete and absolutely rigorous. It is Comprehensive and Encyclopedic. … Every definition is followed by nearly a dozen examples … . These examples are often carefully laid out so that there is a gradual revelation of the nuances of the concept being illustrated. … Nearly every section is followed by a massive set of exercises. … The text is further enhanced by the historic notes that are sprinkled throughout. These add both a human and an international dimension to the text.\"",
+        "William R. Wade, SIAM Review, Vol. 46 (4), 2004",
+        "Diese profunde Einführung [Math.Analysis I und II] in die Analysis sollte in keiner mathematischen Bibliothek fehlen, selbst bei budgetären Restriktionen, trotz der Überfülle an Einführungsbüchern. Eine genaue, bewußte Lektüre dieses profunden Werks könnte mögliche künftige Autoren mittelmäßiger Analysisbücher vielleicht abschrecken.",
+        "[...]Meisterhaft wird hier intuitives Verstehen gefördert, vermittelt durch anschauliche geometrische Denkweisen, heuristische Ideen und induktive Vorgangsweisen, ohne Exaktheitsansprüche hintanzustellen oder konkrete Details oder Anwendungen auch nur ansatzweise zu vernachlässigen. Der Aufbau ist in vieler Hinsicht ungewöhnlich, eröffnet frühe Einblicke und Weitblicke und regt zum Denken an [...], ist auch der historischen Entwicklung angemessen und bietet eine wichtige Alternative zu den vielen \"eleganten\" Zugängen, bei denen die Vermittlung wichtiger nötiger Entwicklungsschritte für ein aktives Verständnis zu kurz kommt.",
+        "Der umfassende, Nachbardisziplinen laufend berührende Zugang trägt reiche Früchte, ebenso die facettenreiche Fülle an Erklärungen der Wurzeln und Essenz der grundlegenden Konzepte und Resultate, die Beschreibungen von Zusammenhängen und Ausblicke auf weitere Entwicklungen mit vielen in Einführungsbüchern leider eher unüblichen Anwendungen und Querbezügen [...]. Man erwirbt mit diesem Werk zusätzlich ein vollständiges, umfangreiches und wertvolles \"Problem-Buch\". Bei aller reichhaltiger Fülle stellt sich die Mathematik hier aber immer als eine Einheit dar, in ihrer auf den heutigen Stellenwert Bezug nehmenden historischen und philosophischen Entwicklung, geprägt durch, an passender Stelle kompetent gewürdigte, bedeutende große schöpferische Persönlichkeiten. [...] Dieses vorzügliche Werk atmet den Geist einer bewunderungswürdigen, vielschichtigen Forscher- und Lehrerpersönlichkeit.\"",
+        "H.Rindler, Monatshefte für Mathematik 146, Issue 4, 2005",
+        "\"Die vorliegenden zwei Bände sind die englische Übersetzung eines russischen Werkes, das bereits Anfang der achtziger Jahre erschienen ist und inzwischen bereits zum vierten Mal aufgelegt wurde. Die Bücher beinhalten auf über 1200 Seiten die klassische Analysis in einer zeitgemäßen Darstellung sowie Querverbindungen zu Algebra, Differenzailgleichungen, Differenzialgeometrie, komplexe Analysis und Funktionalanlaysis. Addressaten sind Studenten (und Lehrende), die neben einer strengen mathematischen Theorie auch konkrete Anwendungen suchen...",
+        "Dieses ausgezeichnete Werk kann Studienanfängern und fortgeschrittenen Studierenden uneingeschränkt empfohlen werden, aber auch Lehrende werden viele Anregungen darin finden.\"",
+        "M.Kronfellner (Wien), IMN - Internationale Mathematische Nachrichten 59, Issue 198, 2005, S. 36-37"
+    ],
+    "price": "49.84",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41BjNNU9njL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "V. A. Zorich (Author),  Roger Cooke (Translator)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Mathematics"
+    ],
+    "details": "{\"Publisher\": \"Springer; 1st ed. 2004. 2nd printing 2008 edition (November 21, 2008)\", \"Language\": \"English\", \"Paperback\": \"592 pages\", \"ISBN 10\": \"3540874518\", \"ISBN 13\": \"978-3540874515\", \"Item Weight\": \"1.99 pounds\", \"Dimensions\": \"6.1 x 1.35 x 9.25 inches\"}",
+    "parent_asin": "3540874518",
+    "bought_together": null,
+    "subtitle": "1st ed. 2004. 2nd printing 2008 Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Roger Cooke', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

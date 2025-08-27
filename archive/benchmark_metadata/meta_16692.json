@@ -1,0 +1,53 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Rebecca Taylor Women's Suzanne Fluer Short Sleeve Poplin Blouse",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "100% Cotton",
+        "Imported",
+        "Pull On closure",
+        "Hand Wash Only",
+        "Floral cotton blouse."
+    ],
+    "description": [
+        "Gentle gathers and smocked detailing add romance to this floral cotton poplin blouse. Tuck it into skirts or trousers, or use it to dress up your favorite denim."
+    ],
+    "price": "90.75",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91F83LpDzZL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91bq24KbmbL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41nSkOuji2L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41GGTacpN1L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41nSkOuji2L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41GGTacpN1L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rebecca Taylor",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Tops, Tees & Blouses",
+        "Blouses & Button-Down Shirts"
+    ],
+    "details": "{\"Item model number\": \"122901B714\", \"Department\": \"Womens\", \"Manufacturer\": \"Rebecca Taylor\"}",
+    "parent_asin": "B09J22L4M7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

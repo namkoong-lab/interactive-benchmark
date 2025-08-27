@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Johnnie",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Johnnie, Cary’s phenomenal first foray into literature, is the coming of age story of a young writer and scholar. As a genuine 21st century künstlerroman, Johnnie allows for the reader to witness the actual development of a young writer through its lucid revelation of the actual process of writing a novel along with the accompanying thoughts and anguishes of an angst-ridden, analytic mind all while delivering a poignant critique of life in the 21st century for an aspiring young intellectual."
+    ],
+    "description": [
+        "About the Author",
+        "0"
+    ],
+    "price": "10.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/313IK3FfzUL._SX311_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Michael Cary (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Genre Fiction"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform (July 8, 2014)\", \"Language\": \"English\", \"Paperback\": \"270 pages\", \"ISBN 10\": \"1500475130\", \"ISBN 13\": \"978-1500475130\", \"Item Weight\": \"10.6 ounces\", \"Dimensions\": \"5 x 0.61 x 7.99 inches\"}",
+    "parent_asin": "1500475130",
+    "bought_together": null,
+    "subtitle": "Paperback – July 8, 2014",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/ogklqqht6u5bs4nfbbf6q07snk._SY600_.jpg', 'name': 'Michael Cary', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

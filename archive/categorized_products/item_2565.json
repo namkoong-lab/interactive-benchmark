@@ -1,0 +1,49 @@
+{
+  "item_id": 2565,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Dominique Women's Y Soft",
+    "average_rating": 4.0,
+    "rating_number": 6,
+    "features": [
+      "Hand Wash Only"
+    ],
+    "description": [
+      "Work out at maximum intensity by having a secure hold wearing the Dominique(r) Elodie Wire Free Low Impact Sports Bra. Wireless bra with wide comfort straps. Stretchable U-back."
+    ],
+    "price": "57.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61159bQKmKL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41IOU17EDML._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41IOU17EDML._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Dominique",
+    "categories": [],
+    "details": "{\"Item model number\": \"6000\", \"Department\": \"womens\", \"Date First Available\": \"June 26, 2018\", \"Manufacturer\": \"Dominique\"}",
+    "parent_asin": "B09Z78SVDB",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Underwear"
+    ],
+    "confidence": 0.95
+  }
+}

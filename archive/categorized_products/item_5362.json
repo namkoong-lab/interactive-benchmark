@@ -1,0 +1,59 @@
+{
+  "item_id": 5362,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Stackable Ring Mother of Pearl Sterling Silver Textured",
+    "average_rating": 4.1,
+    "rating_number": 4,
+    "features": [
+      ".925 sterling silver",
+      "Genuine mother of pearl",
+      "Polished textured finish",
+      "Jewelry gift box included"
+    ],
+    "description": [
+      "Textured sterling silver ring with soft square Mother of Pearl. The Mother of Pearl is approximately 7.5mm. This ring is available in whole sizes 6-9. .925 sterling silver."
+    ],
+    "price": "26.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51p5ANU0MSL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/317a2gjuMXL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/317a2gjuMXL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "AzureBella Jewelry",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Jewelry",
+      "Rings",
+      "Stacking"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"September 26, 2012\"}",
+    "parent_asin": "B078SZW71S",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Women's Rings"
+    ],
+    "confidence": 0.95
+  }
+}

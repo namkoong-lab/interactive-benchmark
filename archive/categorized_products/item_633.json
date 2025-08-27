@@ -1,0 +1,50 @@
+{
+  "item_id": 633,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "In-akustik Soundcheck",
+    "average_rating": 4.5,
+    "rating_number": 108,
+    "features": [],
+    "description": [
+      "Which cable is suitable for your requirements? This CD helps you to choose the right one. Because the cable has a huge impact on the sound of your hi-fi system. This CD contains a collection of superior recordings from the in-akustik sales repertoire representing all the different sound characteristics. You can enjoy exquisite music and the superior sound of your hi-fi system, once you have found the right cable. Includes tracks from Friedemann, Monty Alexander, Blues Company, Schenker Barden Acoustic Project, Sara K and more."
+    ],
+    "price": "13.99",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41fwJJRCAkL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41fwJJRCAkL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Various  (Artist)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Pop"
+    ],
+    "details": "{\"Product Dimensions\": \"5.61 x 0.47 x 5.02 inches; 3.68 Ounces\", \"Manufacturer\": \"inakustik Label Group\", \"Original Release Date\": \"2012\", \"Date First Available\": \"March 8, 2012\", \"Label\": \"inakustik Label Group\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0051SUT20",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs"
+    ],
+    "confidence": 0.9
+  }
+}

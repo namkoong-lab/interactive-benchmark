@@ -1,0 +1,68 @@
+{
+  "item_id": 3805,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Caterpillar Men's Arctic Zone Vest",
+    "average_rating": 4.6,
+    "rating_number": 743,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Zipper closure",
+      "Machine Wash",
+      "Insulated stand up collar",
+      "Front pockets with zip closure",
+      "Inside chest pockets with zip closure and lower mesh pockets",
+      "Logo label on chest and back yoke",
+      "Adjustable draw cord, locks at bottom sides"
+    ],
+    "description": [
+      "Keep your core warm with our classic quilted insulated vest, made of micro peached polyester with water repellenct and heavy weight insulation"
+    ],
+    "price": "61.82",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91ZID92S+aL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/818iL-PmdcL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/413lbXueAEL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41u3yCqBuzL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/413lbXueAEL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41u3yCqBuzL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Caterpillar",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Jackets & Coats",
+      "Vests"
+    ],
+    "details": "{\"Item model number\": \"W12430\", \"Department\": \"mens\", \"Date First Available\": \"April 25, 2023\", \"Manufacturer\": \"CAT - Summit Resource Imports LLC\"}",
+    "parent_asin": "B0C3RVBQ19",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Jackets & Coats"
+    ],
+    "confidence": 0.95
+  }
+}

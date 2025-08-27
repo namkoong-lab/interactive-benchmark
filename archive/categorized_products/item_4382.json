@@ -1,0 +1,63 @@
+{
+  "item_id": 4382,
+  "metadata": {
+    "main_category": "Toys & Games",
+    "title": "Aurora Prestige Disney Princess Sleeping Beauty Costume, One Color, Medium/7-8",
+    "average_rating": 4.0,
+    "rating_number": 20,
+    "features": [
+      "Product Includes: Dress with character cameo",
+      "Disney Princess - Sleeping Beauty",
+      "Officially Licensed Product",
+      "Refer specification sheet for sizing details"
+    ],
+    "description": [
+      "Sleeping Beauty, also known as Princess Aurora, is cursed by the evil witch Maleficent who declares that before Aurora reaches her 16th birthday she will die by a poisoned spindle. Only a prince can break the curse."
+    ],
+    "price": "72.3",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61ttXu4cQPL._AC_SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61PP2CmfxDL._AC_SL1080_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41RC2vXoo3L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41DYnUKJcIL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41RC2vXoo3L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41DYnUKJcIL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Disguise",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Costumes & Accessories",
+      "Kids & Baby",
+      "Girls",
+      "Costumes"
+    ],
+    "details": "{\"Product Dimensions\": \"39 x 14 x 1.5 inches\", \"Item Weight\": \"9.8 ounces\", \"Item model number\": \"98421K\", \"Manufacturer recommended age\": \"7 - 8 years\", \"Best Sellers Rank\": {\"Toys & Games\": 758721, \"Girls' Costumes\": 11175, \"Kids' Costumes\": 15516}, \"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"Girls\", \"Manufacturer\": \"Disguise Costumes - Toys Division\", \"Age Range Description\": \"Big Kid\"}",
+    "parent_asin": "B019O1LXOM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Toys & Games",
+      "Traditional Costumes",
+      "Children's Costumes"
+    ],
+    "confidence": 0.95
+  }
+}

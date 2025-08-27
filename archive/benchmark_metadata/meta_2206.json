@@ -1,0 +1,47 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "The Sheriff's Son",
+    "average_rating": 4.2,
+    "rating_number": 486,
+    "features": [
+        "This book was converted from its physical edition to the digital format by a community of volunteers. You may find it for free on the web. Purchase of the Kindle edition includes wireless delivery."
+    ],
+    "description": [
+        "About the Author",
+        "William MacLeod Raine (1871–1954) was a prolific writer of Western novels, some of which were adapted for the screen. In 1959, four years after his death, he was inducted into the Hall of Great Westerners of the National Cowboy and Western Heritage Museum.",
+        "--This text refers to an alternate",
+        "kindle_edition",
+        "edition."
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51MZC1uHyBL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "William MacLeod Raine (Author),  Harold James Cue (Illustrator)   Format: Kindle Edition",
+    "categories": [
+        "Kindle Store",
+        "Kindle eBooks",
+        "Reference"
+    ],
+    "details": "{\"Publication date\": \"March 30, 2011\", \"Language\": \"English\", \"File size\": \"358 KB\", \"Simultaneous device usage\": \"Unlimited\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Not Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"157 pages\"}",
+    "parent_asin": "B004UJMDIE",
+    "bought_together": null,
+    "subtitle": "Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'William MacLeod Raine', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

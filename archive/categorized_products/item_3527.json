@@ -1,0 +1,64 @@
+{
+  "item_id": 3527,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Forever Mens Long Full Sleeve Polo Collar T-Shirt Hi Viz Reflective Workwear Top",
+    "average_rating": 4.2,
+    "rating_number": 31,
+    "features": [
+      "Pull On closure",
+      "Machine Wash",
+      "Mens Long Full Sleeve Polo Collar T-Shirt Hi Viz Reflective Workwear Safety Top",
+      "3 Button Placket Grey Trim On Collar And Sleeve Cuffs",
+      "Made In UK"
+    ],
+    "description": [
+      "New Mens Long Full Sleeve Polo Navy Collar T-Shirt Hi Viz Reflective Workwear Safety Top,High Quality Polo T-Shirt British Standards,Ce Marked For European Safety Standards,Double Hi Viz Band With Brace Reflective Strips,3 Button Placket,Grey Trim On Collar And Sleeve Cuffs,Reflective Material"
+    ],
+    "price": "19.54",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61GBqbGfSoL._AC_UL1170_.jpg",
+        "https://m.media-amazon.com/images/I/51pHh2F8dyL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41Xf4DE72nL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41vk7+azh0L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41Xf4DE72nL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41vk7+azh0L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Forever",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Shirts",
+      "Polos"
+    ],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"October 13, 2014\"}",
+    "parent_asin": "B00OFOXD92",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Polo Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

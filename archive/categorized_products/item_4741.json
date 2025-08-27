@@ -1,0 +1,60 @@
+{
+  "item_id": 4741,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Pearl Izumi - Ride Men's Elite Thermal Bib Tights",
+    "average_rating": 3.9,
+    "rating_number": 14,
+    "features": [
+      "56% Nylon, 30% Polyester, 14% Elastane",
+      "Imported",
+      "Machine Wash",
+      "Mesh bib upper provides stability and support"
+    ],
+    "description": [
+      "This mid weight bib tight uses ELITE Thermal fabric for insulation and warmth, with just enough breathability to keep you comfortable and dry in cool temperatures. Constructed leg articulation means you'll have full protection without sacrificing range of motion, and the mesh bib upper provides security and support."
+    ],
+    "price": "130.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51PRZL-0XPL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/310iLiS0U5L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/310iLiS0U5L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "PEARL IZUMI",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Underwear",
+      "Thermal Underwear",
+      "Bottoms"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"11111539021\", \"Department\": \"mens\", \"Date First Available\": \"November 17, 2009\", \"Manufacturer\": \"Pearl iZUMi Ride\"}",
+    "parent_asin": "B00SOMB1PY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Activewear"
+    ],
+    "confidence": 0.95
+  }
+}

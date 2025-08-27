@@ -1,0 +1,48 @@
+{
+    "main_category": "Prime Video",
+    "title": "The Ledge",
+    "average_rating": 4.4,
+    "rating_number": 450,
+    "features": [
+        "IMDb 6.5",
+        "1 h 40 min",
+        "2011",
+        "X-Ray",
+        "18+"
+    ],
+    "description": [
+        "In this race-against-time thriller, the opposing philosophies of two men embroiled in a complicated love triangle with a beautiful woman escalate into a lethal battle of wills."
+    ],
+    "price": "12.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Suspense",
+        "Drama",
+        "Emotional",
+        "Tense"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Matthew Chapman\"], \"Producers\": [\"Faisal S. Al-Saud\", \"Christian Arnold-Beutel\", \"Tamara Birkemoe\", \"Taylor Clyne\", \"Mark Damon\", \"Moshe Diamant\", \"Ortwin Freyermuth\", \"Terrence Howard\", \"Katherine MacLean\"], \"Starring\": [\"Patrick Wilson\", \"Liv Tyler\", \"Charlie Hunnam\"]}",
+    "parent_asin": "B005DD7DZ4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

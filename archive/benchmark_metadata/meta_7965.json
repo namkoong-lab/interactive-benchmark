@@ -1,0 +1,104 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "Developing Multi-Platform Apps with Visual Studio Code: Get up and running with VS Code by building multi-platform, cloud-native, and microservices-based apps",
+    "average_rating": 4.5,
+    "rating_number": 15,
+    "features": [
+        "Redefine your software development experience by understanding the extensive features and rich functionalities offered by Visual Studio Code",
+        "Key Features",
+        "Leverage the power of the free, cross-platform, and highly customizable code editor to build modern web and cloud applications",
+        "Leverage the power of the free, cross-platform, and highly customizable code editor to build modern web and cloud applications",
+        "Edit, debug and deploy on Microsoft Azure with Visual Studio Code",
+        "Edit, debug and deploy on Microsoft Azure with Visual Studio Code",
+        "Learn how to customize features and install a wide variety of third-party extensions",
+        "Learn how to customize features and install a wide variety of third-party extensions",
+        "Book Description",
+        "Microsoft Visual Studio Code is a powerful, lightweight code editor for modern web and cloud development. It is a source code editor that can be used with a variety of programming languages, which works on multiple platforms such as Linux, Windows, and macOS. This book provides extensive coverage of the tools, functionalities, and extensions available within the VS Code environment that will help you build multi-platform apps with ease.",
+        "You’ll start with the installation of VS Code and learn about various tools and features that are essential for development. Progressing through the chapters, you'll explore the user interface while understanding tips and tricks for increasing productivity. Next, you’ll delve into VS Code extensions and discover how they can make life easier for developers. Later, the book shows you how to develop a sample application with different programming languages, tools, and runtimes to display how VS code can be used effectively for development, before helping you get to grips with source code version management and deployment on Azure with VS Code. Finally, you’ll build on your skills by focusing on remote development with VS Code.",
+        "By the end of this book, you’ll have the knowledge you need to use Visual Studio Code as your primary tool for software development.",
+        "What you will learn",
+        "Explore various editing, formatting, and navigational features of VS Code",
+        "Explore various editing, formatting, and navigational features of VS Code",
+        "Understand how to add, delete, and configure extensions in VS Code",
+        "Understand how to add, delete, and configure extensions in VS Code",
+        "Develop web APIs using Node.js, Java, and Python in VS Code",
+        "Develop web APIs using Node.js, Java, and Python in VS Code",
+        "Develop background service in .NET Core and explore Dapr",
+        "Develop background service in .NET Core and explore Dapr",
+        "Delve into debugging techniques such as breakpoints, log points, and data inspection",
+        "Delve into debugging techniques such as breakpoints, log points, and data inspection",
+        "Use Git with Azure DevOps to share and synchronize code with VS Code",
+        "Use Git with Azure DevOps to share and synchronize code with VS Code",
+        "Create custom extensions in VS Code to increase developer productivity",
+        "Create custom extensions in VS Code to increase developer productivity",
+        "Understand the concepts of remote development using VS Code",
+        "Understand the concepts of remote development using VS Code",
+        "Who this book is for",
+        "This book is for software developers, web developers and polyglot programmers, who are working with any language or framework such as Python, Java, Node.js, or .NET and are looking to learn how they can create multi-platform, microservices based, cloud-native applications while effectively using Visual Studio Code for editing, debugging, version management and deployment. Basic software development skills are a must to grasp the concepts covered in this book.",
+        "Table of Contents",
+        "Getting Started with Visual Studio Code",
+        "Getting Started with Visual Studio Code",
+        "Extensions in Visual Studio Code",
+        "Extensions in Visual Studio Code",
+        "Building a Multi-Platform Backend Using Visual Studio Code",
+        "Building a Multi-Platform Backend Using Visual Studio Code",
+        "Building a Service in .NET Core and Exploring Dapr",
+        "Building a Service in .NET Core and Exploring Dapr",
+        "Building a Web-Based Frontend Application with Angular",
+        "Building a Web-Based Frontend Application with Angular",
+        "Debugging Techniques",
+        "Debugging Techniques",
+        "Deploying Applications on Azure",
+        "Deploying Applications on Azure",
+        "Git and Azure DevOps",
+        "Git and Azure DevOps",
+        "Creating Custom Extensions in Visual Studio Code",
+        "Creating Custom Extensions in Visual Studio Code",
+        "Remote Development in Visual Studio Code",
+        "Remote Development in Visual Studio Code"
+    ],
+    "description": [
+        "Review",
+        "\"One of the best new Microservices books\" - BookAuthority",
+        "About the Author",
+        "Ovais Mehboob Ahmed Khan",
+        "is a seasoned programmer and solution architect with nearly 20 years of experience in software development, consultancy and solution architecture. He has worked with various clients across the United States, Europe, Middle East and Africa. Currently he is working as a Sr. Customer Engineer at Microsoft, based in Dubai. He specializes mainly in Application development using .NET and other OSS technologies, Microsoft Azure and DevOps.",
+        "He is a prolific writer and has published few books on Enterprise Application Architecture, .NET Core and JavaScript, and written numerous technical articles on various sites. He likes to talk about technology and has delivered various technical sessions around the world.",
+        "Khusro Habib",
+        "has been working in the IT industry for almost 20 years. He is a veteran programmer and delivered several enterprise grade solutions in the capacity of a consultant and solution architect. He is a certified Enterprise Architect Practitioner with the experience to design change for an enterprise. His current focus is on Cloud Computing, Web and Mobile development, Data and Process Integration, Analytics and Machine Learning. With knowledge on various technology domains, he can place technology in the right context and address complex problems with workable IT solutions. He has a unique way of explaining things by breaking them down and then gradually building them up to create a better understanding.",
+        "--This text refers to the",
+        "paperback",
+        "edition."
+    ],
+    "price": "22.39",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51OWphVtUoL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ovais Mehboob Ahmed Khan (Author),  Khusro Habib (Author),  Chris Dias (Foreword)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Programming"
+    ],
+    "details": "{\"Publisher\": \"Packt Publishing; 1st edition (September 18, 2020)\", \"Publication date\": \"September 18, 2020\", \"Language\": \"English\", \"File size\": \"22218 KB\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Not Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"334 pages\"}",
+    "parent_asin": "B08FBHTSJ2",
+    "bought_together": null,
+    "subtitle": "1st Edition, Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/cibke90628tqsm28gsur7afcf8._SY600_.jpg', 'name': 'Ovais Mehboob Ahmed Khan', 'about': ['Ovais Mehboob Ahmed Khan is a seasoned programmer and solution architect with nearly 20 years of experience in software development, consultancy, and solution architecture. He has worked with various clients across the United States, Europe, the Middle East, and Africa and currently working as a Sr. Customer Engineer at Microsoft. He specializes mainly in Application development using .NET and other OSS technologies, Microsoft Azure and DevOps.', 'He is a prolific writer and has published few books on Enterprise Application Architecture, .NET Core and JavaScript, and written numerous technical articles on various sites. He likes to talk about technology and delivered various technical sessions around the world.']}"
+}

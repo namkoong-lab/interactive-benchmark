@@ -1,0 +1,77 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Studio Pollini Women's Side Zip Ankle Boot",
+    "average_rating": 4.0,
+    "rating_number": 2,
+    "features": [
+        "100% Leather",
+        "Rubber sole",
+        "Shaft measures approximately 5\" from arch",
+        "Heel measures approximately 2\"",
+        "Boot opening measures approximately 10\" around"
+    ],
+    "description": [
+        "Pollini is an Italian luxury brand that is rooted in the traditional artisanal production of leather goods and footwear. Using great attention to detail and skilled craftsmanship, they deliver high-quality shoes and handbags to suit your contemporary style."
+    ],
+    "price": "189.38",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91LKaN+Q53L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/817uwbBw44L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81tRx9V-7HL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71f5qx8bv4L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71kiPdOWLeL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81nx-7VEhGL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91zAy3GzT2L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81uZ3n4mLfL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41m-yLpVzvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41rNxX5vrlL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41YrbOsHllL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41MaZwY1epL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31HXgQDCtBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/412WK5KHe8L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51FrSb1oIeL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/413cdKaK+wL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41m-yLpVzvL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41rNxX5vrlL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41YrbOsHllL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41MaZwY1epL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31HXgQDCtBL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/412WK5KHe8L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51FrSb1oIeL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/413cdKaK+wL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR",
+            "LEFT"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Studio Pollini",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Boots",
+        "Ankle & Bootie"
+    ],
+    "details": "{\"Package Dimensions\": \"12 x 8 x 4 inches; 14 Ounces\", \"Item model number\": \"Side Zip Ankle\", \"Department\": \"womens\", \"Date First Available\": \"August 22, 2014\", \"Manufacturer\": \"Studio Pollini\"}",
+    "parent_asin": "B00M2P5AQK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

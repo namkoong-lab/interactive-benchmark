@@ -1,0 +1,92 @@
+{
+  "item_id": 4272,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Jessica Simpson Women's Haize dress Sandal",
+    "average_rating": 3.9,
+    "rating_number": 49,
+    "features": [
+      "100% Suede Leather",
+      "Imported",
+      "Wood sole",
+      "Shaft measures approximately 5\" from arch",
+      "Heel measures approximately 2.5\"",
+      "Metal buckle",
+      "Faux wood heel",
+      "Memory midsole"
+    ],
+    "description": [
+      "Dressy laced up ghillies",
+      "Jessica Simpson is famous for her fun, sexy style, and now her signature line of footwear, handbags, and sunglasses brings that same style home to you. From fun western boots to the latest dressy and casual looks, Jessica Simpson shoes, handbags, and sunglasses are where it's at for fun, flirty and fabulous fashion!"
+    ],
+    "price": "60.28",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81vJ8cbykRL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71NorRKsS5L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Gk7apyu8L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71XWzPB++iL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81A1MOorBfL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/811c--hrfwL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/915XVRIgDVL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81MnHw+LevL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51gJYsbIuSL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41wN7LXkBTL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Ux+Wl55QL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/318WRYKa6HL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/416E6HrnH+L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Ed-mrUYQL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51xhSyOI4RL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41MwQaFVJ9L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51gJYsbIuSL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41wN7LXkBTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Ux+Wl55QL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/318WRYKa6HL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/416E6HrnH+L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Ed-mrUYQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51xhSyOI4RL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41MwQaFVJ9L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Jessica Simpson",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Sandals",
+      "Heeled Sandals"
+    ],
+    "details": "{\"Item Weight\": \"12 Ounces\", \"Item model number\": \"Haize\", \"Department\": \"womens\", \"Date First Available\": \"July 7, 2016\", \"Manufacturer\": \"Jessica Simpson\"}",
+    "parent_asin": "B01GH8PHRE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Sandals"
+    ],
+    "confidence": 0.95
+  }
+}

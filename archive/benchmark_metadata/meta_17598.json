@@ -1,0 +1,61 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Bleep Fitness Test",
+    "average_rating": 3.2,
+    "rating_number": 39,
+    "features": [
+        "Single user profile",
+        "Configurable audio cues indicating the start of each shuttle and level",
+        "Tabular display of users results",
+        "Easy-to-read user interface",
+        "Free version contains advertisements"
+    ],
+    "description": [
+        "Perform the mutli-stage Bleep Fitness Test to determine your true level of fitness. It is designed to push your stamina and endurance to the limit.The test is often regarded as one of the key entry requirements for most police and military service entry across the globe is available on your Android phone. The Bleep Fitness Test is a handy component for anyone serious about their fitness regime.Free Key Features:* Single user profile* Configurable audio cues indicating the start of each shuttle and level* Calculates users VO2Max performance with rating* Tablular display of users results* Share your results via email, SMS, Twitter, Facebook, etc.* Easy to read and use UI* Contains advertsAdditional Paid Features:* Multiple users profiles and results history* No advertsThis app uses text to speech (TTS) so requires an approiate text to speech app (see https://market.android.com/developer?pub=Android+TextToSpeech)Request new features, we get many requests from users and are always keen to hear feedback. Requested so far are:* Creates a colour coded rating for your performance* Include a GPS measuring tool to assist in setting out a 20m shuttle runThe Bleep Test is also known as Beep Test, Shuttle Run, Pacer Test or Multistage Fitness Test."
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/4143-nyl1aL.jpg",
+            "https://m.media-amazon.com/images/I/41qaCtsB+gL.jpg",
+            "https://m.media-amazon.com/images/I/41YJDnqQFzL.jpg",
+            "https://m.media-amazon.com/images/I/31R+mdZaN+L.jpg"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Aspectica Limited",
+    "categories": [],
+    "details": "{\"Release Date\": \"2011\", \"Date first listed on Amazon\": \"December 13, 2011\", \"Developed By\": \"Aspectica Limited\", \"Size\": \"273.7KB\", \"Version\": \"1.10\", \"Application Permissions\": [\"Open network sockets\", \"PowerManager WakeLocks to keep processor from sleeping or screen from dimming\"], \"Minimum Operating System\": \"Android 2.0\", \"Approximate Download Time\": \"Less than 30 seconds\"}",
+    "parent_asin": "B006LNBULS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

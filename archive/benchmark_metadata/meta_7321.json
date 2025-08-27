@@ -1,0 +1,54 @@
+{
+    "main_category": "Books",
+    "title": "Color Image Scale",
+    "average_rating": 4.8,
+    "rating_number": 29,
+    "features": [
+        "Using and combining colors is now easy with the revolutionary new",
+        "Color Image Scale",
+        "developed by Japan's leading color psychologist, Shigenobu Kobayashi, the author of the best-selling",
+        "A Book of Colors",
+        ". After three years of intensive research, Kobayashi and his team at the Nippon Color & Design Research Institute have matched 130 basic colors and over 1,000 color combinations to 180 key image words, allowing you the expression of any mood, lifestyle, or taste through the creative use of colorcombinations. If you want to make an interior or an outfit \"elegant\", \"romantic\", or even \"provocative\", just look up -the word in the key image word index, and choose any one of the dozens of color combinations listed under the entry. Conversely, if you would like to know what mood certain colors or colorcombinations suggest, refer to the color index. Used by thousands of major designers and manufacturers in Japan, the",
+        "Color Image Scale",
+        "is a unique color resource for both professionals and amateurs alike."
+    ],
+    "description": [
+        "About the Author",
+        "SHIGENOBU KOBAYASHI (b.1925) is the founder and director of the Nippon Color & Design Research Institute. He is a graduate of the electronics department of the Hiroshima College of Technology and received a master's degree from Waseda University in Tokyo for his work in the field of colorpsychology. Since founding the institute in 1966, he has been a leader in research on color psychology, publishing numerous books on the subject, including a color image dictionary and others exploring color in relation to design, architecture, and the environment. A detailed discussion of his theories isavailable in English in the publication",
+        "Color Research and Application",
+        "(volume 6, no. 2, Summer 1981) in an article titled \"The Aim and Method of the Color Image Scale.\"He is also an active participant in meetings of the International Color Association and a lecturer at the Musashi Institute of Technology in Tokyo. THE NIPPON COLOR & DESIGN RESEARCH INSTITUTE founded in 1966, the institute is a leader in its field, acting as a color and design consultant to over 300 major Japanese corporations in fields as diverse as automobiles, home electronics, cosmetics, food, department stores, and home construction. The institute's patented",
+        "Color Image Scale",
+        "is the centerpiece of its theories on the psychology of color. In addition, the institute has developed computer software based on the Image Scale and a large information data base for use in its research and consulting projects."
+    ],
+    "price": "16.28",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51mnsESo9cL._SX334_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Shigenobu Kobayashi (Author)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "Graphic Design"
+    ],
+    "details": "{\"Publisher\": \"Kodansha USA; First Edition (April 15, 1992)\", \"Language\": \"English\", \"Paperback\": \"164 pages\", \"ISBN 10\": \"477001564X\", \"ISBN 13\": \"978-4770015648\", \"Item Weight\": \"8.8 ounces\", \"Dimensions\": \"6.9 x 0.5 x 4.8 inches\"}",
+    "parent_asin": "477001564X",
+    "bought_together": null,
+    "subtitle": "Paperback – April 15, 1992",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Shigenobu Kobayashi', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

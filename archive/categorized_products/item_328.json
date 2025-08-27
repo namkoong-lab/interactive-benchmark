@@ -1,0 +1,50 @@
+{
+  "item_id": 328,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "American Heartache",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+      "Sacramento based The Lonely Kings American Heartache is the follow-up to the group's critically acclaimed album 'Crowning Glory', which was released on legendary punk label Fearless Records. The Lonely Kings 'American Heartache' was produced and engineered with Grammy winning producer/engineer Michael Rosen (Rancid, Papa Roach, The Donnas), and features a guest appearance by Papa Roach front man Jacoby Shaddix."
+    ],
+    "price": "18.66",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91fs6ALwXNL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51eUCDqSpPL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51eUCDqSpPL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Lonely Kings  (Artist)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Pop"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.55 x 4.97 x 0.54 inches; 3.62 Ounces\", \"Manufacturer\": \"Fof\", \"Date First Available\": \"May 24, 2013\", \"Label\": \"Fof\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00CZAYNRE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs"
+    ],
+    "confidence": 0.9
+  }
+}

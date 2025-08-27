@@ -1,0 +1,73 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Dunham Unisex-Adult Loafers",
+    "average_rating": 3.6,
+    "rating_number": 14,
+    "features": [
+        "Leather sole",
+        "Removable foam insert with cushioning EVA heel cup"
+    ],
+    "description": [
+        "The Blair Twin Gore Slip On meets the challenge of your busy, demanding lifestyle. Full-grain leather upper offers lasting appeal. Twin side goring assures flexibility and easy on and off. Soft textile linings keep feet comfy all day long"
+    ],
+    "price": "34.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71eLQqxEKLL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71S6BcGbvKL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/715xogl4pML._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71lc1KB0eNL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71hX-1-aEuL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71WCqS6OdzL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71rrAbZTqlL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71uGHls3XZL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31Wcz0iXs8L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41nKTGInu0L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41jmWeJZM5L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31OBGtB87oL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31fM83PUHyL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/316jGqXiMkL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31iT9qC5abL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31jKWJPVWEL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31Wcz0iXs8L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41nKTGInu0L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41jmWeJZM5L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31OBGtB87oL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31fM83PUHyL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/316jGqXiMkL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31iT9qC5abL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31jKWJPVWEL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR",
+            "LEFT"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Dunham",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Shoes",
+        "Loafers & Slip-Ons"
+    ],
+    "details": "{\"Department\": \"unisex-adult\", \"Date First Available\": \"April 16, 2019\", \"Manufacturer\": \"Dunham\"}",
+    "parent_asin": "B07QS736ZY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

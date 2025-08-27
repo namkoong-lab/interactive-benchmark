@@ -1,0 +1,57 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "A. Byer Women's Banded Bottom Side-tie Knit Top",
+    "average_rating": 2.7,
+    "rating_number": 8,
+    "features": [
+        "100% Polyester",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "This banded bottom side-tie knit top from A. Byer is the perfect addition to your wardrobe. On-trend Styling at a great price, A. Byer is your go-to brand.",
+        "Short sleeve",
+        "Solid",
+        "Blouse",
+        "Knit"
+    ],
+    "description": [
+        "This banded bottom side-tie knit top from A. Byer is the perfect addition to your wardrobe. On-trend styling at a great price, A. Byer is your go-to brand."
+    ],
+    "price": "19.16",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91x5ENkxEYS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91oCydsxWCS._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41LrOAqD6FS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41RvaCX-euS._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41LrOAqD6FS._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41RvaCX-euS._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "A. Byer",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Tops, Tees & Blouses",
+        "T-Shirts"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"May 9, 2019\", \"Manufacturer\": \"A. Byer\"}",
+    "parent_asin": "B07NSWBWMC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

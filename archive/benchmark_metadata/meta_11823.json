@@ -1,0 +1,47 @@
+{
+    "main_category": "All Electronics",
+    "title": "Crucial 4GB Upgrade for a Dell Latitude E4300 System (DDR3 PC3-12800, Non-ECC,)",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "204-pin SODIMM",
+        "DDR3-1600",
+        "Laptop/Notebook"
+    ],
+    "description": [
+        "Bad memory can cause anything from annoying error messages to complete system failures. Why risk it with cheap \"mystery\" memory? When you buy memory from Crucial, you're buying the same high-quality memory that leading computer manufacturers install in the systems they sell. In fact, because Crucial is a division of Micron, one of the world's largest DRAM manufacturers, chances are good that you have their memory in your system right now. While the \"other guys\" might claim to manufacture memory, they really just assemble modules out of chips made by someone else. Some don't have first-class assembly procedures, and some even use chips that failed to meet computer manufacturer's stringent testing requirements. Crucial memory goes through much more rigorous testing procedures than many other brands of memory. Some memory assemblers choose to accept a certain \"defect rate\" because it's cheaper to deal with returns than to test every part they sell. That may help their bottom line, but it's sure a pain in the neck if you're one of the customers who ends up with a bad module. That's why Crucial thoroughly tests EVERY module they sell and put their name only on the ones that meet their strict standards. You might expect memory this good to cost a lot more, but you'd be wrong. As an online memory upgrade provider selling directly from the manufacturer, Crucial memory is often available at lower prices than lower-quality modules."
+    ],
+    "price": "29.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51pQ-39sn-L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51pQ-39sn-L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Crucial",
+    "categories": [
+        "Electronics",
+        "Computers & Accessories",
+        "Computer Components",
+        "Internal Components",
+        "Memory"
+    ],
+    "details": "{\"Date First Available\": \"April 3, 2014\", \"Manufacturer\": \"Crucial Technology\"}",
+    "parent_asin": "B00JFVMV2U",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

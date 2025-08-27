@@ -1,0 +1,69 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Boulevard Womens/Ladies Extra Wide EEE Fitting Mary Jane Shoes",
+    "average_rating": 3.9,
+    "rating_number": 464,
+    "features": [
+        "Polyurethane sole",
+        "Mary jane style XXX wide touch fastening bar shoe.",
+        "XXX wide EEE fitting.",
+        "Leather lining and sock.",
+        "PU sole.",
+        "Upper: Other, Lining: Leather, Sole: Other."
+    ],
+    "description": [
+        "Mary jane style XXX wide touch fastening bar shoe. XXX wide EEE fitting. Leather lining and sock. PU sole. Upper: Other, Lining: Leather, Sole: Other."
+    ],
+    "price": "35.2",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71j7yfaNsQL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51wB88NyCdL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/5195R4vnPgL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51g83L773xL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51Cg0JGchFL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/513vRNoCWgL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41LATGASgBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41+cWGxghbL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31YgpVoONpL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31OZIWWfVrL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31E0+I-cnOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31ZmGrZq6lL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41LATGASgBL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41+cWGxghbL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31YgpVoONpL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31OZIWWfVrL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31E0+I-cnOL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31ZmGrZq6lL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Boulevard",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Flats"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"September 6, 2014\", \"Manufacturer\": \"Boulevard\"}",
+    "parent_asin": "B00ND45WHQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

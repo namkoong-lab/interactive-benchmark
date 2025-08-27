@@ -1,0 +1,51 @@
+{
+  "item_id": 650,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "What's in Your Mouth",
+    "average_rating": 4.0,
+    "rating_number": 7,
+    "features": [],
+    "description": [
+      "Strip Mind ~ What's In Your Mouth"
+    ],
+    "price": "23.32",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51uw+bowAzL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51uw+bowAzL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Strip Mind   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Indie & Alternative",
+      "Alternative Rock"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.6 x 4.8 x 0.5 inches; 4 Ounces\", \"Manufacturer\": \"Sire\", \"Date First Available\": \"January 26, 2007\", \"Label\": \"Sire\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000008L7X",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Singles & EPs"
+    ],
+    "confidence": 0.95
+  }
+}

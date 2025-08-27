@@ -1,0 +1,65 @@
+{
+    "main_category": "All Beauty",
+    "title": "Le Petit Marseillais Olive Liquid Soap REFILL",
+    "average_rating": 4.8,
+    "rating_number": 51,
+    "features": [
+        "Olive liquid hand soap refill",
+        "250 ml",
+        "Made in France",
+        "Gently washes hands without drying skin",
+        "Lovely olive scent"
+    ],
+    "description": [
+        "Hydrolyzed from vegetable oils and then cooked in a cauldron, this liquid soap is prepared by the expertise of a master soap maker. Natural glycerin, preserves smooth balance of the most sensitive skins."
+    ],
+    "price": "5.88",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71ZJFEi-CZL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81IUBNQ6NXL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71IeL674GbL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91LUaJfITkL._SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31MLQWh8knL.jpg",
+            "https://m.media-amazon.com/images/I/419z7nRMRsL.jpg",
+            "https://m.media-amazon.com/images/I/41-R6nKbE9L.jpg",
+            "https://m.media-amazon.com/images/I/51d1w1YNkSL.jpg",
+            "https://m.media-amazon.com/images/I/211-xTRpFiL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31MLQWh8knL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/419z7nRMRsL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41-R6nKbE9L._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51d1w1YNkSL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/211-xTRpFiL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT12"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Le Petit Marseillais",
+    "categories": [
+        "Beauty & Personal Care",
+        "Skin Care",
+        "Body",
+        "Cleansers",
+        "Hand Wash"
+    ],
+    "details": "{\"Item Form\": \"Liquid\", \"Skin Type\": \"Sensitive\", \"Brand\": \"Le Petit Marseillais\", \"Material Feature\": \"Natural\", \"Age Range (Description)\": \"Adult\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"0.02 x 0.02 x 0.08 inches; 8.82 Ounces\", \"Item model number\": \"700542\", \"UPC\": \"737003699459 776578151412 790295039310\", \"Manufacturer\": \"Le Petit Marseillais\"}",
+    "parent_asin": "B005F5MK80",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

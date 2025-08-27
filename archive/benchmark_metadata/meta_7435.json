@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "My Very Own Octopus",
+    "average_rating": 4.8,
+    "rating_number": 17,
+    "features": [
+        "Bursting with fun and imaginative details, this is a story of a little boy who fantasizes about the amusing and practical possibilities of owning a pet octopus."
+    ],
+    "description": [
+        "About the Author",
+        "BERNARD MOST has written and illustrated many popular children's books, including The Cow That Went OINK, If the Dinosaurs Came Back, How Big Were the Dinosaurs?, Whatever Happened to the Dinosaurs?, and Where to Look for a Dinosaur. He lives in New York."
+    ],
+    "price": "5.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51vL8VpPZoL._SY373_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Bernard Most (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Animals"
+    ],
+    "details": "{\"Publisher\": \"Voyager Books (February 21, 1991)\", \"Language\": \"English\", \"Paperback\": \"40 pages\", \"ISBN 10\": \"0152563458\", \"ISBN 13\": \"978-0152563455\", \"Reading age\": \"4 - 8 years\", \"Grade level\": \"Preschool - 3\", \"Item Weight\": \"6.4 ounces\", \"Dimensions\": \"8.5 x 0.25 x 11 inches\"}",
+    "parent_asin": "0152563458",
+    "bought_together": null,
+    "subtitle": "Paperback – February 21, 1991",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Bernard Most', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

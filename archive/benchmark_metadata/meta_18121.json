@@ -1,0 +1,61 @@
+{
+    "main_category": "Tools & Home Improvement",
+    "title": "Murray MP120ST 120-Volt type MP-T 20-Amp Circuit Breaker with 120-Volt Shunt Trip Single pole",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "UL Listed breaker",
+        "Shunt trip allows for externally activated tripping",
+        "Single pole, 120-Volt, takes up space of 2 poles",
+        "UL Type MP-T breaker"
+    ],
+    "description": [
+        "Shunt trip breakers operate with the same functionality of a standard type breaker providing over current and short circuit protection, as well as switching capability. The shunt trip breakers provide an additional function in that it can be tripped remotely through the use of a built in magnetic coil that can be energized to trip the breaker. Each shunt trip breaker will have an additional 1-Inch pole attached to it to house the magnetic coil. The additional pole does not plug onto and is not energized by the bus bar. Siemens strongly recommends against the use of \"used\" breakers.  The installation of used breakers in a Siemens panel will void the warranty on the panel.  Siemens does not sell used breakers and has not approved any 3rd party sellers to do so."
+    ],
+    "price": "149.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71VE1TgpdiL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71HfScSL8+L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71I98vmvzGL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71xjnwcsX-L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31SWW9aRIuL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31qWYMcsdHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31rX0H5sntL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41D2SV-8uUL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31SWW9aRIuL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31qWYMcsdHL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31rX0H5sntL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41D2SV-8uUL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Murray",
+    "categories": [
+        "Sports & Outdoors",
+        "Sports",
+        "Boating & Sailing",
+        "Boating",
+        "Electrical Equipment",
+        "Rocker Switches"
+    ],
+    "details": "{\"Brand\": \"Murray\", \"Current Rating\": \"20 Amps\", \"Voltage\": \"120 Volts\", \"Item Dimensions LxWxH\": \"4 x 5 x 5 inches\", \"Circuit Breaker Type\": \"Standard\", \"Mounting Type\": \"Plug-In Mount\", \"Number Of Poles\": \"1\", \"Manufacturer\": \"Siemens -HI\", \"Part Number\": \"CECOMINOD070462\", \"Item Weight\": \"1.8 pounds\", \"Product Dimensions\": \"4 x 5 x 5 inches\", \"Item model number\": \"MP120ST\", \"Is Discontinued By Manufacturer\": \"No\", \"Item Package Quantity\": \"1\", \"Certification\": \"Ul\", \"Batteries Included?\": \"No\", \"Batteries Required?\": \"No\", \"Best Sellers Rank\": {\"Sports & Outdoors\": 1728542, \"Boat Rocker Switches\": 886}, \"Date First Available\": \"June 2, 2012\"}",
+    "parent_asin": "B0088BEAY0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

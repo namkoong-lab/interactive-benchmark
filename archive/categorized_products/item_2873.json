@@ -1,0 +1,65 @@
+{
+  "item_id": 2873,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "BARCO One 5107 4PKT Printed V-Neck Princess Top",
+    "average_rating": 4.5,
+    "rating_number": 658,
+    "features": [
+      "50% Poly 43% Rec Poly 7% Spandex",
+      "Made in USA and Imported",
+      "Pull On closure",
+      "For all colors including white: Wash before wear. Machine wash cold with like colors. Use non-chlorine bleach if necessary. Tumble dry low. Iron low.",
+      "V-Neck, 4-way stretch fabric wicks moisture, 4 pockets, Anti-static, quick shed technology, Stylish princess seams in front and back, Eco-friendly fabric made with recycled bottles"
+    ],
+    "description": [
+      "4-pocket v-neck princess seaming front and back with modern Fit, eco-friendly, 4-way stretch, soil release, moisture wicking, wrinkle resistance."
+    ],
+    "price": "30.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71jweMSlDVL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71uWachQjKL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71jDvRX7JML._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71tP7p6Uw-L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41Xl8Ar8hYL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/418ioDFNQVL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51DASFEbwCL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51trsS3qJ9L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41Xl8Ar8hYL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/418ioDFNQVL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51DASFEbwCL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51trsS3qJ9L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "BARCO",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"11 x 7 x 1 inches; 6.4 Ounces\", \"Item model number\": \"5107\", \"Department\": \"Womens\", \"Date First Available\": \"June 1, 2016\", \"Manufacturer\": \"Barco\"}",
+    "parent_asin": "B01K0NK858",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,74 @@
+{
+    "main_category": "Grocery",
+    "title": "Caribou Hideaway, Caramel, 24 Count",
+    "average_rating": 4.6,
+    "rating_number": 269,
+    "features": [
+        "Caffeinated",
+        "Flavored Medium Roast",
+        "Orthodox Union Kosher",
+        "Rainforest Alliance Certified",
+        "Keurig 2.0 Brewer Compliant"
+    ],
+    "description": [
+        "Sometimes life is like a game of hide-n-seek. Some say that not all who wander are lost, but once in a while getting lost is rather rewarding. So venture forth and locate that figurative fork in the road, put on a blindfold, whirl around a few times and start reconnoitering. Maybe you will discover it is where you should have been all along. We hope that from the first cup to the last that Caramel Hideaway inspires you to do explore all life offers? If you get that feeling too, then we have done our job. Caramel Hideaway is crafted to bring flavors of artisanal caramel notes of whipped cream and smooth coffee flavor together in a 100% Rainforest Alliance Certified, Kosher cup of single serve coffee."
+    ],
+    "price": "18.49",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71foVLZrfPL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61deE-1RKOL._SL1080_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/513s3t2AneL.jpg",
+            "https://m.media-amazon.com/images/I/41IAHPGEsRL.jpg",
+            "https://m.media-amazon.com/images/I/311z9dzEeLL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/513s3t2AneL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41IAHPGEsRL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/311z9dzEeLL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT12"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Caribou Coffee Thoughts and Insights ",
+            "The smell is everything! Buttery, nutty, smooth!",
+            "Caribou Coffee - Life is Short, Stay Awake for it",
+            "Afternoon coffee routine electric kettle and French Press",
+            "Whole Bean Favorite Caribou Coffee"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/086e7f3a8cf94c23adbb2a2600dacbec?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/068b683c80a042e2b26821e48b920c7c?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/01ad5634ae10454fbc42cfd546b67db1?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0d8fd34b7a2045ee8699a7f3b9b34d3c?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0932545f33b343898a9e9de79342dea9?ref=dp_vse_rvc_4"
+        ],
+        "user_id": [
+            "/shop/jerseysrantsreviews",
+            "/shop/satori727",
+            "",
+            "/shop/thestephaniejoseph",
+            "/shop/kaitlinkoelzer"
+        ]
+    },
+    "store": "Caribou Coffee",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Beverages",
+        "Coffee",
+        "Single-Serve Capsules & Pods"
+    ],
+    "details": "{\"Product Dimensions\": \"7.5 x 3.75 x 5.6 inches; 14.39 Ounces\", \"Item model number\": \"GMT6996\", \"UPC\": \"611247366851\", \"Manufacturer\": \"Pacific Perks (KMDisney & Co.)\"}",
+    "parent_asin": "B0756FPR72",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

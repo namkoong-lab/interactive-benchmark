@@ -1,0 +1,49 @@
+{
+    "main_category": "Books",
+    "title": "Modern Architectural Theory: A Historical Survey, 1673–1968",
+    "average_rating": 4.4,
+    "rating_number": 9,
+    "features": [
+        "Harry Mallgrave's comprehensive survey of architectural theory, primarily in Europe and the United States, contextualizes architectural discourse within its social and political atmosphere over three centuries of development. He explores the philosophical and conceptual evolution of its ideas, the relation of theory to the practice of building, and, most importantly, the words of the architects themselves as they contentiously shaped their particular niche of Western civilization over time."
+    ],
+    "description": [
+        "Review",
+        "\"readers of this book will find that the journey Mallgrave invites us on is not only well considered and informative, but one well worth taking.\" - John V. Maciuika, City University of New York, Baruch College",
+        "Book Description",
+        "Modern Architectural Theory is the first book to provide a comprehensive survey of architectural theory, primarily in Europe and the United States, during three centuries of development.",
+        "About the Author",
+        "Harry Mallgrave is Associate Professor of History and Theory at the Illinois Institute of Technology in Chicago. His 1996 book Gottfried Semper: Architect of the Nineteenth Century was awarded the Alice Davis Hitchcock Award by the Society of Architectural Historians.",
+        "Read more"
+    ],
+    "price": "26.96",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51ZmW15HojL._SX384_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Harry Francis Mallgrave (Author)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "Architecture"
+    ],
+    "details": "{\"Publisher\": \"Cambridge University Press; 1st edition (July 13, 2009)\", \"Language\": \"English\", \"Paperback\": \"522 pages\", \"ISBN 10\": \"0521130484\", \"ISBN 13\": \"978-0521130486\", \"Item Weight\": \"3.75 pounds\", \"Dimensions\": \"8.5 x 1.18 x 11 inches\"}",
+    "parent_asin": "0521130484",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Harry Francis Mallgrave', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

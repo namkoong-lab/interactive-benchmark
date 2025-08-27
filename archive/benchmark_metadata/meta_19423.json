@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Dead of Night VHS",
+    "average_rating": 4.5,
+    "rating_number": 793,
+    "features": [],
+    "description": [
+        "Dead of Night [VHS]"
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/413KEENQH0L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/413KEENQH0L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mervyn Johns  (Actor),     Michael Redgrave  (Actor),     Alberto Cavalcanti  (Director),     Basil Dearden  (Director)    &                   1                  more   Rated:    Unrated    Format: VHS Tape",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Horror"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.32 x 4.19 x 1.12 inches; 6.13 Ounces\", \"Director\": \"Alberto Cavalcanti, Basil Dearden, Charles Crichton, Robert Hamer\", \"Run time\": \"1 hour and 17 minutes\", \"Release date\": \"January 1, 1998\", \"Date First Available\": \"January 29, 2007\", \"Actors\": \"Mervyn Johns, Michael Redgrave, Roland Culver, Mary Merrall, Googie Withers\", \"Studio\": \"Republic Pictures\", \"Writers\": \"Angus MacPhail, E.F. Benson, H.G. Wells, John Baines\"}",
+    "parent_asin": "6303002773",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

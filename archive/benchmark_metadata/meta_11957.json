@@ -1,0 +1,48 @@
+{
+    "main_category": "All Electronics",
+    "title": "Netgear CM212 Broadband Cable Modem",
+    "average_rating": 3.0,
+    "rating_number": 13,
+    "features": [
+        "Always ON, high-speed Internet access",
+        "No more dropped connections",
+        "No need for a dedicated telephone line",
+        "USB and Ethernet interface options",
+        "Included stand for vertical positioning"
+    ],
+    "description": [
+        "This Indoor CyberData SIP-enabled VoIP Intercom with Keypad is a Power-over-Ethernet (PoE 802.3af) and Voice-over-IP (VoIP) two-way communications device that easily connects into existing local area networks (LANs) with a single cable connection. The intercom is compatible with most SIP-based IP PBX servers that comply with SIP RFC 3261. Product Features PoE 802.3af enabled (Powered-over-Ethernet) 12-key keypad Programmable speed dial SIP compliant Adaptive full-duplex voice operation Network web management Network adjustable speaker volume and microphone sensitivity Network downloadable firmware Concurrent SIP and multicast paging Dry relay contact for auxiliary control (controls external power) Peer-to-peer capable Door closure and tamper alert signal User downloadable alert, rings tones and call out messages. Specifications Ethernet: I/F 10/100 Mbps Protocol: SIP RFC 3261 Compatible Power Input: PoE 802.3af compliantor 8 to 12 VDC at 1000 mA Operating Temperature: -10°C to 50°C (14°F to 122°F) Payload Types: G711, A-law and µ-law Regulatory Compliance: FCC Class A, UL 60950"
+    ],
+    "price": "78.09",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/313625E3TXL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/313625E3TXL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "NETGEAR",
+    "categories": [
+        "Electronics",
+        "Computers & Accessories",
+        "Networking Products",
+        "Modems"
+    ],
+    "details": "{\"Product Dimensions\": \"1.5 x 4.49 x 6.5 inches\", \"Item Weight\": \"3 pounds\", \"Item model number\": \"CM212NA\", \"Date First Available\": \"September 14, 2002\", \"Manufacturer\": \"Netgear Inc\"}",
+    "parent_asin": "B00006LHM7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

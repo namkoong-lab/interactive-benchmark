@@ -1,0 +1,65 @@
+{
+  "item_id": 3672,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "zephz Youth Tumble Cheerleading Shoe",
+    "average_rating": 4.6,
+    "rating_number": 60,
+    "features": [
+      "100% Leather",
+      "Imported",
+      "Ethylene Vinyl Acetate sole",
+      "Lightweight synthetic upper with embroidered logo",
+      "Red, yellow, green, blue and black laces included",
+      "Foam cushioned EVA midsole and rubber outsole with stunt heelTM"
+    ],
+    "description": [
+      "The zephz Tumble Cheerleading Shoe features a lightweight synthetic leather upper with embroidered logo for a clean, sleek look. Includes 5 additional lace colors (red, blue, green, yellow, black) so you can show your team pride. The thermoplastic heel counter, rubber outsole with stunt heel and an EVA midsole offer the necessary support to carry you through the season."
+    ],
+    "price": "35.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71dQipU3LCL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81bbL6tmRrL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31u+-1gjl-L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51AZcGRd7pL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31u+-1gjl-L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51AZcGRd7pL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "zephz",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Girls",
+      "Shoes",
+      "Athletic",
+      "Cheerleading"
+    ],
+    "details": "{\"Item model number\": \"CH0031\", \"Department\": \"girls\", \"Date First Available\": \"August 17, 2018\"}",
+    "parent_asin": "B07GKZXJSC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Girls' Clothing",
+      "Children's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,57 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Night Shade T-Shirt",
+    "average_rating": 4.6,
+    "rating_number": 19,
+    "features": [
+        "100% Cotton",
+        "Pull On closure",
+        "Machine Wash",
+        "XXX Large",
+        "5.4oz 100% Cotton",
+        "Machine Wash Cold Tumble Dry Medium Do not Bleach",
+        "Made in USA Assembled in Mexico/Honduras"
+    ],
+    "description": [
+        "The Mountain T-Shirts are premium, hand-dyed shirts screenprinted using environmentally safe, water based inks."
+    ],
+    "price": "39.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71f8X+tW3YL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61jRT1OJOkL._AC_UL1001_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/5155sxQyoHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/5137IPwjQUL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/5155sxQyoHL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/5137IPwjQUL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT07"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "The Mountain",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Men",
+        "Shirts",
+        "T-Shirts"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"March 21, 2011\"}",
+    "parent_asin": "B07CKRPMP7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

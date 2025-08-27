@@ -1,0 +1,77 @@
+{
+  "item_id": 5840,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Dakine Unisex Ninja Balaclava",
+    "average_rating": 4.9,
+    "rating_number": 28,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "The Ninja is our thinnest and lightest-weight balaclava; made out of breathable quick dry polyester",
+      "The Ninja easily slips in under hats, hoods, goggles, and helmets",
+      "The hinged design gives you options on how to wear it",
+      "SIZING: S/M, L/XL",
+      "2 Year Limited Warranty"
+    ],
+    "description": [
+      "The Ninja is our thinnest and lightest-weight balaclava. Made of breathable quick-dry polyester, it performs more like a baselayer than outerwear. The Ninja easily slips in under hats, hoods, goggles, and helmets, and the hinged design gives you options on how to wear it. Go full-ninja with the solid black option, or keep things light with one of three novelty prints."
+    ],
+    "price": "34.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/714aRwjaNsL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81OkwCKuW+L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31ZpT+FM3lL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31s1P0HjnVL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31ZpT+FM3lL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31s1P0HjnVL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Quantum Balaclava Face Mask Hood Neck Warmer - Rosewood",
+        "Balaclava winter face mask perfect for cold weather!",
+        "Is This Ski Mask Worth it?!?"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0fbbf3abc01b49fea9535766ed5d9555?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/048e3696be3d4f81abe8a980d4149f2b?ref=dp_vse_rvc_1",
+        "https://www.amazon.com/vdp/0cbc7e5449dc4063a4e18f64349e42e0?ref=dp_vse_rvc_2"
+      ],
+      "user_id": [
+        "",
+        "",
+        "/shop/austinboardgames"
+      ]
+    },
+    "store": "Dakine",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Accessories",
+      "Hats & Caps",
+      "Balaclavas"
+    ],
+    "details": "{\"Item Weight\": \"14.11 Ounces\", \"Item model number\": \"10002950\", \"Department\": \"mens\", \"Date First Available\": \"September 18, 2019\", \"Manufacturer\": \"Dakine\"}",
+    "parent_asin": "B08HB27HCQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Hats & Beanies"
+    ],
+    "confidence": 0.95
+  }
+}

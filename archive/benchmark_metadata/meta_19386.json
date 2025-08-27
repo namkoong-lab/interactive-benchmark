@@ -1,0 +1,47 @@
+{
+    "main_category": "Prime Video",
+    "title": "Midnight Traveler",
+    "average_rating": 4.2,
+    "rating_number": 44,
+    "features": [
+        "IMDb 7.6",
+        "1 h 28 min",
+        "2019",
+        "16+"
+    ],
+    "description": [
+        "When the Taliban puts a bounty on Afghan director Hassan Fazili's head, he's forced to flee the country with his wife and young daughters. Capturing the family's uncertain journey firsthand, Fazili documents their harrowing trek across numerous borders revealing the danger and uncertainty facing refugees seeking asylum juxtaposed with the unbreakable love shared amongst the family on the run."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Documentary",
+        "Military and War",
+        "Compelling",
+        "Harrowing"
+    ],
+    "details": "{\"Audio languages\": [\"\\u0627\\u0644\\u0639\\u0631\\u0628\\u064a\\u0629\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Hassan Fazili\"], \"Producers\": [\"Emelie Mahdavian\", \"Su Kim\"]}",
+    "parent_asin": "B0811B6YH5",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

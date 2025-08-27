@@ -1,0 +1,58 @@
+{
+    "main_category": "Books",
+    "title": "The Windows Serial Port Programming Handbook",
+    "average_rating": 3.6,
+    "rating_number": 6,
+    "features": [
+        "The popularity of serial communications demands that additional serial port interfaces be developed to meet the expanding requirements of users. The Windows Serial Port Programming Handbook illustrates the principles and methods of developing various serial port interfaces using multiple languages. This comprehensive, hands-on, and practical guide to serial interface programming enables you to develop sophisticated interfaces and apply them in real-world applications.Each chapter addresses a language and how it can be applied in the development of serial port interfaces. The seven languages discussed are:",
+        "ANSI C",
+        "ANSI C",
+        "Visual C++",
+        "Visual C++",
+        "Visual Basic",
+        "Visual Basic",
+        "LabVIEW",
+        "LabVIEW",
+        "MATLAB",
+        "MATLAB",
+        "Smalltalk",
+        "Smalltalk",
+        "JavaStep by step and line by line, the Handbook clearly explains the interfacing techniques used for each different language in the serial port communication. Examples from actual systems have been compiled and debugged, with detailed source code for each included on an accompanying CD-ROM.",
+        "JavaStep by step and line by line, the Handbook clearly explains the interfacing techniques used for each different language in the serial port communication. Examples from actual systems have been compiled and debugged, with detailed source code for each included on an accompanying CD-ROM."
+    ],
+    "description": [
+        "About the Author",
+        "Bai, Ying"
+    ],
+    "price": "43.98",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41cNaFB2wAL._SX385_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ying Bai (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Hardware & DIY"
+    ],
+    "details": "{\"Publisher\": \"Auerbach Publications (November 20, 2004)\", \"Language\": \"English\", \"Hardcover\": \"822 pages\", \"ISBN 10\": \"0849322138\", \"ISBN 13\": \"978-0849322136\", \"Item Weight\": \"3.55 pounds\", \"Dimensions\": \"7.24 x 1.9 x 10.2 inches\"}",
+    "parent_asin": "0849322138",
+    "bought_together": null,
+    "subtitle": null,
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Ying Bai', 'about': ['Dr. Ying Bai is a Professor in the Department of Computer Science and Engineering at Johnson C. Smith University located at Charlotte, North Carolina in USA. His special interests include: Computer architecture, software engineering, mix-language programming, serial port programming, soft computing and intelligent controls, database programming, fuzzy multi-criteria decision making, fuzzy logic controls and robot calibrations. His industry experience includes positions as software and senior software engineers at companies such as Motorola MMS, Schlumberger ATE Technology, Immix TeleCom and Lam Research.', 'Since 2003, Dr. Bai has published more than 30 research papers in IEEE Trans. journals and international conferences. He also published 11 books with publishers such as Prentice Hall, CRC Press LLC, Springer, Cambridge University Press and Wiley IEEE Press. His first book titled: Applications Interface Programming Using Multiple Languags was translated to Russian by Prentice Hall in 2005. His eighth book entitled: Practical Database Programming with Visual C#.NET was translated to Chinese by Tsinghua University Press in December, 2011. Most books are about multi-language programming, serial port programming, database programming and fuzzy logic control technologies in industrial applications.']}"
+}

@@ -1,0 +1,49 @@
+{
+    "main_category": "Grocery",
+    "title": "Thick-It Purees Sweet Corn, 15 oz Can (Pack of 1)",
+    "average_rating": 4.2,
+    "rating_number": 13,
+    "features": [
+        "ONE CAN; 15 oz can",
+        "CONVENIENT: Thick-It Purées make it possible for those with dysphagia to enjoy healthy meals at home without the hassle of cooking and preparing foods to the correct consistency.",
+        "FULL FLAVOR: made with real corn",
+        "RELIABLE: consistent texture meets dysphagia diet guidelines for IDDSI Level 4 Puréed",
+        "VERSATILE: combine with other purées to create unique new flavors"
+    ],
+    "description": [
+        "A dysphagia diagnosis needn’t keep you from enjoying the delicious taste of real sweet corn. Just heat and serve this tasty vegetable side dish. For variety, combine with our Carrot and Pea Purée or our Seasoned Green Bean Purée to make old-fashioned mixed vegetables."
+    ],
+    "price": "14.26",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/816jKTnhRSL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51rVLqU4onL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51rVLqU4onL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Thick-It",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Frozen",
+        "Breakfast Foods",
+        "Pancakes & French Toast",
+        "French Toast"
+    ],
+    "details": "{\"Package Dimensions\": \"5 x 5 x 4 inches; 15 Ounces\", \"UPC\": \"072058601362\", \"Manufacturer\": \"Precision Foods\"}",
+    "parent_asin": "B074MJ9TB3",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

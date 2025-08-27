@@ -1,0 +1,72 @@
+{
+  "item_id": 1326,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Textrade USA 3 Piece Chester Duvet Set with Standard Shams, Queen",
+    "average_rating": 4.0,
+    "rating_number": 4,
+    "features": [
+      "100% Cotton",
+      "Imported",
+      "Includes one 92\"x96\" duvet cover and two 20\"x26\" shams",
+      "2\" Self Flange",
+      "100% cotton",
+      "Machine Wash Cold"
+    ],
+    "description": [
+      "This chic all white Chester Duvet with classic pleats frame adds a distinctive style to modern bedrooms."
+    ],
+    "price": "52.63",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/810jIoe3TNL._AC_SL1500_.jpg",
+        null,
+        "https://m.media-amazon.com/images/I/61j1cjUWT1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/718EUxO4ieL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41WL9CNUCtL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41+RK+1wsmL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41cGMoXoG5L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/415vuk-QoqL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41WL9CNUCtL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/41+RK+1wsmL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/41cGMoXoG5L._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/415vuk-QoqL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Melody House",
+    "categories": [
+      "Home & Kitchen",
+      "Bedding",
+      "Duvet Covers & Sets",
+      "Duvet Cover Sets"
+    ],
+    "details": "{\"Size\": \"Queen\", \"Material\": \"Cotton\", \"Color\": \"White/Eggshell\", \"Pattern\": \"Solid\", \"Brand\": \"Melody House\", \"Number of Pieces\": \"3\", \"Style\": \"Modern\", \"Included Components\": \"Duvet Cover^Standard Sham(2)\", \"Closure Type\": \"Zipper\", \"Age Range (Description)\": \"Adult\", \"Product Care Instructions\": \"Machine Wash\", \"Theme\": \"Modern\", \"Seasons\": \"All\", \"Item Dimensions LxWxH\": \"96 x 92 x 0.5 inches\", \"Item Weight\": \"3 pounds\", \"Item Display Dimensions\": \"14 x 13 x 3 inches\", \"Product Dimensions\": \"96 x 92 x 0.5 inches\", \"Manufacturer\": \"Textrade USA\", \"Item model number\": \"CHESTERQ\", \"Best Sellers Rank\": {\"Home & Kitchen\": 4526879, \"Bedding Duvet Cover Sets\": 11593}, \"Fabric Type\": \"100% Cotton\", \"Assembly required\": \"No\", \"Batteries required\": \"No\", \"Import\": \"Imported\"}",
+    "parent_asin": "B0194YYAVM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Home Decor",
+      "Bedding Sets"
+    ],
+    "confidence": 0.95
+  }
+}

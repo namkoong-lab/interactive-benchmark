@@ -1,0 +1,77 @@
+{
+  "item_id": 5206,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Champion Women's Slim Track Pant",
+    "average_rating": 4.0,
+    "rating_number": 149,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "No Closure closure",
+      "Machine Wash",
+      "Off-seam pockets",
+      "Back pocket",
+      "2 x 1 striped rib waistband",
+      "Metal gold-tipped draw cord",
+      "25\" Inseam"
+    ],
+    "description": [
+      "Think outside the gym! Champion authentic originals are athletic wear classics updated with the latest in fabric and fashion."
+    ],
+    "price": "33.79",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61W48OswCQL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61-eJWEb++L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61uSLd05CiL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/7116DpJcGqL._AC_UL1049_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41U+wqdOx8L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/419FJ7tzRJL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41DfaZL0Y2L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51yaqzHok2L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41U+wqdOx8L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/419FJ7tzRJL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41DfaZL0Y2L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51yaqzHok2L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Champion",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Active",
+      "Active Pants",
+      "Track Pants"
+    ],
+    "details": "{\"Item model number\": \"ML497P\", \"Department\": \"Womens\", \"Date First Available\": \"November 9, 2018\", \"Manufacturer\": \"Champion\"}",
+    "parent_asin": "B07KD6S54S",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Pants",
+      "Women's Sweatpants"
+    ],
+    "confidence": 0.95
+  }
+}

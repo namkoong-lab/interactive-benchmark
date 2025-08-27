@@ -1,0 +1,58 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Rockport Mens Umbwe II Chukka Boot",
+    "average_rating": 4.3,
+    "rating_number": 80,
+    "features": [
+        "100% Leather",
+        "Rubber sole"
+    ],
+    "description": [
+        "Stake your claim of tough durability and timeless style with the Umbwe II Chukka. With the all-day cushion and support of EVA footbeds, truTECH, and Hydro-Shield waterproof construction, this leather chukka will keep going as long as you do, no matter the terrain."
+    ],
+    "price": "119.9",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/516JpHSKGxL._AC_UL1001_.jpg",
+            "https://m.media-amazon.com/images/I/51WzZIjJ0JL._AC_UL1001_.jpg",
+            "https://m.media-amazon.com/images/I/51RayZtBw+L._AC_UL1001_.jpg",
+            "https://m.media-amazon.com/images/I/51FVhAbuo0L._AC_UL1001_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41-+k+CLuuL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/412-I-uN7zL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Fexh3J+LL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41xyWD+2S3L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41-+k+CLuuL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/412-I-uN7zL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41Fexh3J+LL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41xyWD+2S3L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rockport",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Boot Shop",
+        "Men",
+        "Outdoor & Work",
+        "Hiking & Trekking"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"15 x 10 x 5 inches; 3 Pounds\", \"Item model number\": \"CH2439\", \"Department\": \"mens\", \"Date First Available\": \"August 27, 2018\", \"Manufacturer\": \"Rockport\"}",
+    "parent_asin": "B07GVPC3HD",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,54 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Augusta Sportswear Ag5507",
+    "average_rating": 4.1,
+    "rating_number": 18,
+    "features": [
+        "100% polyester performance wicking fleece",
+        "Imported",
+        "Zipper closure",
+        "100% polyester performance wicking fleece * Wicks moisture away from the body * Tear away label * Quarter zip pullover style",
+        "* Set-in sleeves * Open bottom * Double-needle hemmed sleeves and bottom."
+    ],
+    "description": [
+        "5. 9 ounce 100% polyester performance wicking fleece * Wicks moisture * Tear away label * Quarter zip pullover style * Set-in sleeves * Open bottom"
+    ],
+    "price": "27.44",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51CnySiyqjL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61BrnLj5vHL._AC_UL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41DXMWDdJzL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41JGSZRTQKL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41DXMWDdJzL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41JGSZRTQKL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Augusta Sportswear",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Coats, Jackets & Vests",
+        "Active & Performance",
+        "Fleece"
+    ],
+    "details": "{\"Item model number\": \"AG5507\", \"Department\": \"Unisex-adult\", \"Date First Available\": \"January 16, 2020\", \"Manufacturer\": \"Augusta Sportswear\"}",
+    "parent_asin": "B083YZ759L",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

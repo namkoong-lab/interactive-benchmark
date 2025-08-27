@@ -1,0 +1,50 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Alexanders Costumes Deluxe Nun Head Sock",
+    "average_rating": 3.6,
+    "rating_number": 19,
+    "features": [
+        "100% Polyester",
+        "Made in US",
+        "Pull On closure",
+        "Machine Wash",
+        "Pull over head sock",
+        "Great nun accessory"
+    ],
+    "description": [
+        "Black drape with white band and Velcro attachment."
+    ],
+    "price": "11.75",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/617pNwA-DKL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31HO8YDJ+xL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31HO8YDJ+xL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Alexanders Costumes",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Costumes & Accessories",
+        "Women",
+        "Accessories",
+        "Headwear"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Department\": \"womens\", \"Date First Available\": \"September 26, 2013\", \"Manufacturer\": \"Alexanders Costumes\"}",
+    "parent_asin": "B00EZO5CM8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

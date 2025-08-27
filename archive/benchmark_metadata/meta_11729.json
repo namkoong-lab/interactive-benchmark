@@ -1,0 +1,66 @@
+{
+    "main_category": "Computers",
+    "title": "USB Rj45 for Cisco Console Cable Huawei Juniper Console Cable 6Ft with Ftdi Support for Windows 8, 7, Vista MAC Linux Rs232 Serial",
+    "average_rating": 3.9,
+    "rating_number": 4,
+    "features": [
+        "100% Geniue FTDI chipset",
+        "Supports hardware flow control used to implement the CISCO break sequence",
+        "UART interface support for 7 or 8 data bits, 1 or 2 stop bits and odd",
+        "Cable length is 1.80m (6 feet)",
+        "USB 2.0 Full Speed compatible Supported Operating System"
+    ],
+    "description": [
+        "1 Full support for Windows, MAC and Linux, see the detailed list below. 2 Microsoft (HCL) certified to be compatible with Windows, no CD needed because the drivers are part of the OS distribution 3 Supports hardware flow control used to implement the CISCO break sequence 4 FTDI FT232R chip + RS232 Level Shifter 5 RJ-45 DTE Pinouts RTS(1), DTR(2), TXD (3), GND(4), GND(5), RXD (6), DSR (7), CTS(8) 6 UART interface support for 7 or 8 data bits, 1 or 2 stop bits and odd / even / mark / space / no parity 7 Cable length is 1.80m (6 feet) 8 USB 2.0 Full Speed compatible Supported Operating System Drivers are available which allow USB FTDI devices to work with the following operating systems: · Windows 8 x32 · Windows 8 x64 · Windows Server 2008 R2 x64 · Windows 7 x32 · Windows 7 x64 · Windows Server 2008 · Windows Server 2008 x64 · Windows Vista x32 · Windows Vista x64 · Windows Server 2003 x32 · Windows Server 2003 x64 · Windows XP x32 · Windows XP x64 · Windows ME · Windows 98 · Linux · Mac OS X · Mac OS 9 · Mac OS 8 · Windows CE.NET (Version 4.2 and greater) · Android Packaging: 1X FTDI USB to RJ45 cable"
+    ],
+    "price": "15.0",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/71iFXdsvcJL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71KUQfZ1DKL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51bKW8S0axL._AC_SL1337_.jpg",
+            "https://m.media-amazon.com/images/I/51Ttih1n8qL._AC_SL1104_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/416W8LsvebL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41pP421-hRL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41XesglsSIL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/312dGZUbtOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41vTOF6kLaL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/416W8LsvebL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41pP421-hRL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41XesglsSIL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/312dGZUbtOL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41vTOF6kLaL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Green-utech",
+    "categories": [
+        "Electronics",
+        "Computers & Accessories",
+        "Computer Accessories & Peripherals",
+        "Cables & Accessories",
+        "Cables & Interconnects",
+        "USB Cables"
+    ],
+    "details": "{\"Brand\": \"Green-utech\", \"Connector Type\": \"USB Type A\", \"Cable Type\": \"USB\", \"Compatible Devices\": \"Server\", \"Special Feature\": \"Full Speed\", \"Color\": \"BLUE\", \"Connector Gender\": \"Male-to-Male\", \"Data Transfer Rate\": \"6 Gigabits Per Second\", \"Unit Count\": \"1 Count\", \"Item Weight\": \"3.2 ounces\", \"Specification Met\": \"CE\", \"Package Type\": \"Standard Packaging\", \"Package Dimensions\": \"5.63 x 4.84 x 0.87 inches\", \"Manufacturer\": \"Green utech\", \"Country of Origin\": \"China\", \"Item model number\": \"USB-RJ45-RS232\", \"Best Sellers Rank\": {\"USB Cables\": 37190}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"May 15, 2015\"}",
+    "parent_asin": "B00XPR42CC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,41 @@
+{
+    "main_category": "Digital Music",
+    "title": "The Dave Clark Five The Hits",
+    "average_rating": 4.7,
+    "rating_number": 128,
+    "features": [],
+    "description": [
+        "THIS CDR COPY OF THE LONG OUT OF PRINT ORIGINAL WAS IMPORTED FROM EUROPE."
+    ],
+    "price": "49.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71-jBhdEHEL._SL1429_.jpg",
+            "https://m.media-amazon.com/images/I/71URjJlDczL._SL1446_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51d0lloIKLL.jpg",
+            "https://m.media-amazon.com/images/I/511AEgP2kzL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51d0lloIKLL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/511AEgP2kzL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Dave Clark Five   Format: Audio CD",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"5.4 x 5 x 0.5 inches; 4 Ounces\", \"Manufacturer\": \"UMTV\", \"Date First Available\": \"February 6, 2010\", \"Label\": \"UMTV\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0037FCVW0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

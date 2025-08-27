@@ -1,0 +1,50 @@
+{
+    "main_category": "Handmade",
+    "title": "Circuit Board Necklace (Yellow/Olive green)",
+    "average_rating": 4.7,
+    "rating_number": 54,
+    "features": [],
+    "description": [
+        "The necklace is made with a piece of real circuit board in a metal frame. The board piece is 3/8\" x 2\" (10 x 50 mm). The necklace comes with silver-toned ball chain 26 inches long, and you may cut it to any length you want."
+    ],
+    "price": "20.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61qX4Y9y7jL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61TNqHcGd9L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71QDc+gjjbL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41qjhyDG0rL.jpg",
+            "https://m.media-amazon.com/images/I/31PPF4iuCwL.jpg",
+            "https://m.media-amazon.com/images/I/41Di9JesENL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41qjhyDG0rL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/31PPF4iuCwL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41Di9JesENL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "ReComputing",
+    "categories": [
+        "Handmade Products",
+        "Jewelry",
+        "Necklaces",
+        "Pendant"
+    ],
+    "details": "{\"Package Dimensions\": \"3.46 x 2.4 x 0.28 inches; 0.53 Ounces\", \"Department\": \"unisex-adult\", \"Date First Available\": \"May 10, 2017\"}",
+    "parent_asin": "B096L5ZND2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

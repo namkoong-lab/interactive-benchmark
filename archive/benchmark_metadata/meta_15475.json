@@ -1,0 +1,66 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Champion Men's Urban Pusuits Pant",
+    "average_rating": 4.8,
+    "rating_number": 17,
+    "features": [
+        "53% Cotton, 47% Recycled Polyester",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Warm and comfortable blended cotton-poly eco fleece",
+        "A percentage of recycled fibers used in making the fabric",
+        "Cargo pockets with a double pocket construction",
+        "Woven piecing for durability and style",
+        "29-inch inseam"
+    ],
+    "description": [
+        "Since 1919 Champion has inspired athletes on and off the field with its authentic, American athletic apparel. From iconic Champion active wear to the latest in performance workout clothes for men, women and kids, you'll find quality sportswear for every level of play."
+    ],
+    "price": "16.73",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71sHBjP+-OS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71NYv4q8qiS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/7154aZqc9QS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61htepHXgXL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31a216KsAoS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31YTzWHguGS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/317phpYbC1S._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31dABjn8EML._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31a216KsAoS._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31YTzWHguGS._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/317phpYbC1S._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31dABjn8EML._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT99"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Champion",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Active",
+        "Active Pants",
+        "Sweatpants"
+    ],
+    "details": "{\"Product Dimensions\": \"8.2 x 12.2 x 1.2 inches; 12.8 Ounces\", \"Item model number\": \"P59420\", \"Department\": \"Mens\", \"Date First Available\": \"December 1, 2020\", \"Manufacturer\": \"Champion\"}",
+    "parent_asin": "B08PFVZQTG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

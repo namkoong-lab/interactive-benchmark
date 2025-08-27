@@ -1,0 +1,60 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "adidas Men's Red Line Ultimate S/S Tee",
+    "average_rating": 4.4,
+    "rating_number": 37,
+    "features": [
+        "100% Polyester",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "100% single jersey polyester Tee",
+        "Moisture-wicking Climalite fabric",
+        "Part of the adidas performance label",
+        "Officially licensed by the NHL",
+        "By adidas, the official outfitter of the NHL"
+    ],
+    "description": [
+        "Show your team some respect in this officially licensed performance tee by adidas. This top is features Climalite fabric that wicks away moisture away from the body to promote cooling and a bold graphic across the chest. GAME day or everyday, this tee is sure to become one of your favorites."
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71lN1EsKQeL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81CeJH--LoL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71g-oHi+IML._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41TlSOZdX5L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41kglBqbdmL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31W6TeXdqWL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41TlSOZdX5L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41kglBqbdmL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31W6TeXdqWL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "adidas",
+    "categories": [
+        "Sports & Outdoors",
+        "Fan Shop",
+        "Clothing",
+        "T-Shirts"
+    ],
+    "details": "{\"Item model number\": \"4897AH 7WTL\", \"Department\": \"mens\", \"Date First Available\": \"November 3, 2017\", \"Manufacturer\": \"SLD Of The Adidas Group\"}",
+    "parent_asin": "B0774WGGLK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

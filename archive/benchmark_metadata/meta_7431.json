@@ -1,0 +1,47 @@
+{
+    "main_category": "Books",
+    "title": "Technical Diving in Depth",
+    "average_rating": 4.1,
+    "rating_number": 15,
+    "features": [
+        "A long-awaited and much-needed title has just been released by BPC. \"Technical Diving in Depth\" by Bruce R. Wienke is the most complete and comprehensive reference work published to date on technical diving.",
+        "It contains a mixture of technical topics, with each one self-contained and developed in relationship to diving. The topics span many disciplines and focus on a number of technical arenas.",
+        "Topics Include: Thermodynamics, pressure and density, mechanics, gas kinetics, free and dissolved phase transfer, energy and matter interactions, nucleation and cavitation, bubbles and surfactants, oxygen dose, gas mixtures, buoyancy, gauges and tanks, compressors and regulators, maladies and drugs, statistics, risk and probability, binomial distributions, waves, transport, currents, geology, oceanography, geophysics, solar energy and radiation. References and Appendix are also included.",
+        "Targeted Audience: Technical diver, commercial diver, diving instructor, underwater researcher, doctors, hyperbaric technicians, physiologist, physicist, chemist, mathematician, engineer or biologist."
+    ],
+    "description": [
+        "About the Author",
+        "Bruce Wienke is an Instructor Trainer/Technical Instructor with the National Association of Underwater Instructors, has served on the Board of Directors (Vice Chairman for Technical Diving, Technical and Decompression Review Board Member), is a Master Instructor with the Professional Association of Diving Instructors (PADI), and Institute Director with the YMCA, and is an Instructor Trainer/Technical Instructor with Scuba Diving International (SDI/TDI)."
+    ],
+    "price": "48.45",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41LUCi-janL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Bruce R. Wienke (Author)",
+    "categories": [
+        "Books",
+        "Sports & Outdoors",
+        "Water Sports"
+    ],
+    "details": "{\"Publisher\": \"Best Pub Co; First American Edition (January 4, 2002)\", \"Language\": \"English\", \"Hardcover\": \"428 pages\", \"ISBN 10\": \"0941332977\", \"ISBN 13\": \"978-0941332972\", \"Item Weight\": \"1.96 pounds\", \"Dimensions\": \"6.25 x 1.25 x 9.25 inches\"}",
+    "parent_asin": "0941332977",
+    "bought_together": null,
+    "subtitle": "Hardcover – January 4, 2002",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'B. R. Wienke', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

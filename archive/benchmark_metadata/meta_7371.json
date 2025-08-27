@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Automotive Engines",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "A comprehensive introduction to the technology of engine repair is provided in this practical book. Engine repair techniques universal to all engines are discussed, and ASE-style practice tests are included in each section to help prepare students for the ASE certification exam."
+    ],
+    "description": [
+        "About the Author",
+        "Tim Gilles has authored or co-authored several textbooks and has been active in professional associations for many years. He was president and a board member of the California Automotive Teachers (CAT), a board member and election committee chair of the North American Council of Automotive Teachers (NACAT), a member of the California Community College Chancellor's Trade and Industry Advisory Committee, and education committee chair for the Santa Barbara Chapter of the Independent Automotive Professionals Association. Mr. Gilles has also served several terms as a board member of the Santa Barbara Automotive Service Council and is active in industry associations such as AERA, The Automotive Repair Coalition, and IATN, including delivering presentations at numerous conferences. He was an automotive teacher for 38 years and is professor emeritus in the Automotive Technology Department at Santa Barbara City College. Mr. Gilles holds the industry certifications of ASE Master Automotive Technician and ASE Master Engine Machinst."
+    ],
+    "price": "22.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51W4VGTAZPL._SX365_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Tim Gilles (Author)",
+    "categories": [
+        "Books",
+        "Engineering & Transportation",
+        "Automotive"
+    ],
+    "details": "{\"Publisher\": \"Delmar Cengage Learning; 3rd edition (January 3, 1996)\", \"Language\": \"English\", \"Paperback\": \"512 pages\", \"ISBN 10\": \"0827368178\", \"ISBN 13\": \"978-0827368170\", \"Item Weight\": \"2.45 pounds\", \"Dimensions\": \"0.75 x 8.75 x 11 inches\"}",
+    "parent_asin": "0827368178",
+    "bought_together": null,
+    "subtitle": "3rd Edition",
+    "author": null
+}

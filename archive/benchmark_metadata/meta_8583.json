@@ -1,0 +1,36 @@
+{
+    "main_category": "Books",
+    "title": "500 Games for Smart Kids",
+    "average_rating": 4.6,
+    "rating_number": 3,
+    "features": [
+        "Collects five hundred games and activities designed to challenge a child's logical and creative thinking abilities."
+    ],
+    "description": [
+        "About the Author",
+        "Teora is a children's books publisher."
+    ],
+    "price": "6.95",
+    "images": {
+        "hi_res": [],
+        "large": [],
+        "thumb": [],
+        "variant": []
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Teora USA (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Activities, Crafts & Games"
+    ],
+    "details": "{\"Publisher\": \"Teora USA Llc (July 30, 2005)\", \"Language\": \"English\", \"Paperback\": \"112 pages\", \"ISBN 10\": \"1594960062\", \"ISBN 13\": \"978-1594960062\", \"Reading age\": \"8 - 10 years\", \"Grade level\": \"3 - 4\", \"Item Weight\": \"12.3 ounces\", \"Dimensions\": \"8.5 x 0.25 x 11 inches\"}",
+    "parent_asin": "1594960062",
+    "bought_together": null,
+    "subtitle": "Paperback – July 30, 2005",
+    "author": null
+}

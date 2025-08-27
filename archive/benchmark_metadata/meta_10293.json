@@ -1,0 +1,46 @@
+{
+    "main_category": "Digital Music",
+    "title": "Collection",
+    "average_rating": 4.5,
+    "rating_number": 144,
+    "features": [],
+    "description": [
+        "'The Collection' features Five of Jackson's UK Singles, Including the Top Ten Hits 'It's Different for Girls' & 'Steppin Out.' Other Tracks Include 'Nocturne,' 'Is She Really Going Out with Him,' 'Happy Loving Couples,' 'Fools in Love,' 'Friday,' 'Be My Number Two' & 'Another World.'"
+    ],
+    "price": "9.61",
+    "images": {
+        "hi_res": [
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41tprem5TrL.jpg",
+            "https://m.media-amazon.com/images/I/51OjOXibRkL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41tprem5TrL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51OjOXibRkL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Joe Jackson   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Indie & Alternative",
+        "New Wave & Post-Punk",
+        "New Wave"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Language\": \"English\", \"Product Dimensions\": \"5.59 x 5 x 0.43 inches; 2.89 Ounces\", \"Manufacturer\": \"Universal\", \"Item model number\": \"194790\", \"Original Release Date\": \"2006\", \"SPARS Code\": \"DDD\", \"Date First Available\": \"February 6, 2007\", \"Label\": \"Universal\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000059RLI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

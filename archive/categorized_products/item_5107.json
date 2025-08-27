@@ -1,0 +1,63 @@
+{
+  "item_id": 5107,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "prAna Women's Jordi Jacket",
+    "average_rating": 3.3,
+    "rating_number": 14,
+    "features": [
+      "100% Polyester Water Repellent",
+      "Imported",
+      "Snap closure",
+      "Hand Wash Only",
+      "prAna Living Women's Jordi Jacket, Raisin, Medium",
+      "Waterproof breathable laminate",
+      "Outdoor wear",
+      "Raisin"
+    ],
+    "description": [
+      "The Jordi Jacket adds a feminine touch to rainwear with a longer length and ruffled hem that create a faintly dress like appearance. Water resistance and a breathable finish ensure that you will stay comfortably dry in the next shower. Outer snap pockets and an interior zip pocket with a media port provide space for your necessaries."
+    ],
+    "price": "179.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71gbL68Mo8L._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51Fc+DhUkbL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51Fc+DhUkbL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "prAna",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Coats, Jackets & Vests",
+      "Trench, Rain & Anoraks",
+      "Raincoats"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Department\": \"Womens\", \"Date First Available\": \"November 1, 2013\", \"Manufacturer\": \"Prana\"}",
+    "parent_asin": "B00GD8P3DW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Coats & Jackets"
+    ],
+    "confidence": 0.95
+  }
+}

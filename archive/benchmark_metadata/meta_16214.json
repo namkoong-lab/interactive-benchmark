@@ -1,0 +1,50 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "TOP HEADWEAR New Solid Winter Long Beanie - Neon Pink 1pc",
+    "average_rating": 4.5,
+    "rating_number": 2,
+    "features": [
+        "100% Acrylic",
+        "Imported",
+        "Machine Wash",
+        "One Size Fits Most",
+        "Durable and Machine Washable",
+        "100% Acrylic"
+    ],
+    "description": [
+        "New Solid Winter Long Beanie. Capable of being cuffed. Keep yourself warm and snug during harsh winters that sting your face. Or casually rock it during warmer temperatures."
+    ],
+    "price": "9.45",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81eM+QwB3xL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51voaEUK+ML._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51voaEUK+ML._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "TOP HEADWEAR",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Accessories",
+        "Hats & Caps",
+        "Skullies & Beanies"
+    ],
+    "details": "{\"Product Dimensions\": \"8 x 1 x 9 inches; 3.53 Ounces\", \"Department\": \"mens\", \"Date First Available\": \"October 22, 2013\", \"Manufacturer\": \"TOP HEADWEAR\", \"Country of Origin\": \"China\"}",
+    "parent_asin": "B00G2S1GIE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

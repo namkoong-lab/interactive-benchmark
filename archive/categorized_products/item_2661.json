@@ -1,0 +1,51 @@
+{
+  "item_id": 2661,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Port Authority - Extra Long Fleece Scarf. FS03 - Black_OSFA",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "100% Polyester",
+      "Made in the USA or Imported",
+      "Hand Wash Only"
+    ],
+    "description": [
+      "This soft and warm scarf offers extra coverage,100% polyester fleece,Anti-pill finish for lasting wear,Dyed-to-match overlock stitch,Dimensions: 80' x 10'"
+    ],
+    "price": "11.13",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61FnpywtCAL._AC_UL1201_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/316uuJm5hIL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/316uuJm5hIL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Port Authority",
+    "categories": [],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"July 14, 2014\"}",
+    "parent_asin": "B008LME8RU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Scarves & Shawls"
+    ],
+    "confidence": 0.95
+  }
+}

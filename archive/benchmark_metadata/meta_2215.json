@@ -1,0 +1,107 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "Haskell Cookbook: Build functional applications using Monads, Applicatives, and Functors",
+    "average_rating": 4.4,
+    "rating_number": 4,
+    "features": [
+        "Key Features",
+        "Comprehensive guide for establishing a strong foundation in Haskell and developing pragmatic code",
+        "Comprehensive guide for establishing a strong foundation in Haskell and developing pragmatic code",
+        "Create a full fledged web application using Haskell",
+        "Create a full fledged web application using Haskell",
+        "Work with Lens, Haskell Extensions, and write code for concurrent and distributed applications",
+        "Work with Lens, Haskell Extensions, and write code for concurrent and distributed applications",
+        "Book Description",
+        "Haskell is a purely functional language that has the great ability to develop large and difficult, but easily maintainable software.",
+        "Haskell Cookbook provides recipes that start by illustrating the principles of functional programming in Haskell, and then gradually build up your expertise in creating industrial-strength programs to accomplish any goal. The book covers topics such as Functors, Applicatives, Monads, and Transformers. You will learn various ways to handle state in your application and explore advanced topics such as Generalized Algebraic Data Types, higher kind types, existential types, and type families. The book will discuss the association of lenses with type classes such as Functor, Foldable, and Traversable to help you manage deep data structures.",
+        "With the help of the wide selection of examples in this book, you will be able to upgrade your Haskell programming skills and develop scalable software idiomatically.",
+        "What you will learn",
+        "Use functional data structures and algorithms to solve problems",
+        "Use functional data structures and algorithms to solve problems",
+        "Understand the intricacies of the type system",
+        "Understand the intricacies of the type system",
+        "Create a simple parser for integer expressions with additions",
+        "Create a simple parser for integer expressions with additions",
+        "Build high-performance web services with Haskell",
+        "Build high-performance web services with Haskell",
+        "Master mechanisms for concurrency and parallelism in Haskell",
+        "Master mechanisms for concurrency and parallelism in Haskell",
+        "Perform parsing and handle scarce resources such as filesystem handles",
+        "Perform parsing and handle scarce resources such as filesystem handles",
+        "Organize your programs by creating your own types and type classes",
+        "Organize your programs by creating your own types and type classes",
+        "About the Author",
+        "Yogesh Sajanikar",
+        "has received his bachelor's degree in Mechanical Engineering from Shivaji University, India, along with a gold medal and a master's degree in Production Engineering from the Indian Institute of Technology, Bombay, India.",
+        "Yogesh has an experience of more than 20 years, and he has extensively worked with Product Lifecycle Management (PLM) and Computer Aided Design (CAD) software development firms, and architected solutions for domains such as Construction and Shipping Domain.",
+        "Having hooked on to functional programming, he moved into the Finance domain and worked as an enterprise architect; he has also worked with Scala/F# and Haskell. Currently, he is working as a CTO for a startup. He has also started local Haskell meetups and has been an active participant in meetups and functional conferences.",
+        "Yogesh believes in the open source movement, and believes in giving back to the open source community.",
+        "Table of Contents",
+        "Foundation of Haskell",
+        "Foundation of Haskell",
+        "Getting Functional",
+        "Getting Functional",
+        "Defining Data",
+        "Defining Data",
+        "Functors, Applicative, and Transformers",
+        "Functors, Applicative, and Transformers",
+        "More about Monads",
+        "More about Monads",
+        "Common containers and strings",
+        "Common containers and strings",
+        "Working with relational and NoSQL Databases",
+        "Working with relational and NoSQL Databases",
+        "Working with HTML and Templates",
+        "Working with HTML and Templates",
+        "The Snap Framework",
+        "The Snap Framework",
+        "Working with Advanced Haskell",
+        "Working with Advanced Haskell",
+        "Lenses and Prisms",
+        "Lenses and Prisms",
+        "Concurrent and Distributed Programming",
+        "Concurrent and Distributed Programming"
+    ],
+    "description": [
+        "About the Author",
+        "Yogesh Sajanikar",
+        "has received his bachelor's degree in Mechanical Engineering from Shivaji University, India, along with a gold medal and a master's degree in Production Engineering from the Indian Institute of Technology, Bombay, India.",
+        "Yogesh has an experience of more than 20 years, and he has extensively worked with Product Lifecycle Management (PLM) and Computer Aided Design (CAD) software development firms, and architected solutions for domains such as Construction and Shipping Domain.",
+        "Having hooked on to functional programming, he moved into the Finance domain and worked as an enterprise architect; he has also worked with Scala/F# and Haskell. Currently, he is working as a CTO for a startup. He has also started local Haskell meetups and has been an active participant in meetups and functional conferences.",
+        "Yogesh believes in the open source movement, and believes in giving back to the open source community.",
+        "--This text refers to the",
+        "paperback",
+        "edition."
+    ],
+    "price": "31.72",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41FaM7GDczL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Yogesh Sajanikar (Author)   Format: Kindle Edition",
+    "categories": [
+        "Kindle Store",
+        "Kindle eBooks",
+        "Computers & Technology"
+    ],
+    "details": "{\"Publisher\": \"Packt Publishing; 1st edition (September 25, 2017)\", \"Publication date\": \"September 25, 2017\", \"Language\": \"English\", \"File size\": \"22594 KB\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Not Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"756 pages\"}",
+    "parent_asin": "B073QW9LS3",
+    "bought_together": null,
+    "subtitle": "1st Edition, Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Yogesh Sajanikar', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

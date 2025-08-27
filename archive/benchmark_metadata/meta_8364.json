@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "A Brief History of the Crimean War: History's Most Unnecessary Struggle",
+    "average_rating": 3.3,
+    "rating_number": 8,
+    "features": [
+        "In September 1854, the armies of Britain, France and Turkey invaded Russia in what was to become the Crimean War. In the months that followed over half a million soldiers fell. They died from bullet wounds and shrapnel, cholera and disease, starvation and freezing in a medieval conflict fought in a modern age. But what is rarely appreciated is that this extraordinary struggle was fought not only in the Crimea, but also along the Danube, but in the Arctic Ocean, in the Baltic and Pacific. Few wars in history reveal more confusion of purpose or have had greater unintended consequences. Alexis Troubezkoy's new history traces the causes of this most senseless of wars and sketches a vivid picture of the age which made it possible, interweaving descriptions of the Russian, Turkish and British armies with the principals of the drama — Napoleon III, Marshal St. Arnaud, Lord Raglan, the great Russian engineer Todleban, Florence Nightingale, Nicholas I, and his magnificently terrible Russian empire."
+    ],
+    "description": [
+        "About the Author",
+        "Alexis S. Troubezkoy was born in Paris in 1934 into a Russian princely family. At an early age he emigrated to the United States. He is the author of Imperial Legend: The Mysterious Disappearance of Tsar Alexander I and The Road to Balaklava. He lives in Canada."
+    ],
+    "price": "from 35.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/511JT9E1VDL._SX325_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Alexis Troubetzkoy (Author)",
+    "categories": [
+        "Books",
+        "History",
+        "Europe"
+    ],
+    "details": "{\"Publisher\": \"Running Press (November 21, 2006)\", \"Language\": \"English\", \"Paperback\": \"320 pages\", \"Item Weight\": \"8 ounces\", \"Dimensions\": \"7.75 x 5.05 x 0.87 inches\"}",
+    "parent_asin": "B002U0KP2G",
+    "bought_together": null,
+    "subtitle": "Paperback – Bargain Price, November 21, 2006",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Alexis S. Troubetzkoy', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

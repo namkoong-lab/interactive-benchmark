@@ -1,0 +1,96 @@
+{
+  "item_id": 3215,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "ASICS Men's Gel-Sonoma 6 Running Shoes",
+    "average_rating": 4.5,
+    "rating_number": 518,
+    "features": [
+      "Synthetic-and-mesh",
+      "Made in the USA or Imported",
+      "Rubber sole",
+      "AmpliFoam Midsole: Engineered to maintain durability at softer densities, providing better flexibility, comfort, and platform adaptability ideal for natural running.",
+      "GEL Technology: Cushioning provides excellent shock absorption",
+      "Solid Rubber Outsole: Provides enhanced durability and traction.",
+      "Ortholite Sockliner: Moisture management (Ortholite is a registered trademark of O2 Partners LLC).",
+      "Sustainable sockliner dye:"
+    ],
+    "description": [
+      "The GEL-SONOMA 6 running shoe is designed for the great outdoors. Taking inspiration from the ASICS trail running family, this shoe is a versatile offering that's functional for trail runs, light hiking, and other outdoor adventures. We also used fewer resources to color the sockliner for a more sustainable design approach. The focus this season was to improve the fit of the upper, so we implemented a new last design that provides a more secure midfoot and heel fit, while the wider toe box allows the toes to spread out. The synthetic stitching on the overlays is designed to improve durability while also helping feet stay secure and reduce slipping. Underfoot comfort stems from a full-length AMPLIFOAM midsole and GEL technology cushioning unit that's placed where runners need the most impact absorption. To increase the softness with every step, we've included an ORTHOLITE sockliner for excellent comfort. Additionally, the multi-directional grip outsole improves traction on a variety of surfaces. All of these comfort components are complemented by durable properties, such as the solid rubber outsole-making this shoe a versatile choice for the trails."
+    ],
+    "price": "49.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61ZKlMY8MIL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/614D8lCVdTL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61jva+Wc-rL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61D4EAt9OSL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61uONuWTMBL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61DfrfircrS._AC_UL1024_.jpg",
+        "https://m.media-amazon.com/images/I/61Ze51mwb1L._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61raFzJoidL._AC_UL1130_.jpg",
+        "https://m.media-amazon.com/images/I/61XEp0uuTwL._AC_UL1130_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41H+k067pQL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/417e25s36BL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/4125bMN7juL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/417KLzCDKqL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41FZbnaYuNL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41zQK59VoXS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41wc8rvH44L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/512vj6ePxNL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/412ItQdZJbL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41H+k067pQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/417e25s36BL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/4125bMN7juL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/417KLzCDKqL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41FZbnaYuNL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41zQK59VoXS._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41wc8rvH44L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/512vj6ePxNL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/412ItQdZJbL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05",
+        "PT06",
+        "PT07",
+        "PT08"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "ASICS",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Shoes",
+      "Athletic",
+      "Running",
+      "Road Running"
+    ],
+    "details": "{\"Product Dimensions\": \"12.7 x 7.9 x 4.5 inches; 2.1 Pounds\", \"Department\": \"Mens\", \"Date First Available\": \"December 5, 2020\", \"Manufacturer\": \"Asics\"}",
+    "parent_asin": "B08PSLG1P7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Footwear",
+      "Men's Running Shoes"
+    ],
+    "confidence": 0.95
+  }
+}

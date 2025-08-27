@@ -1,0 +1,56 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "adidas Men's Standard Length Graphic Swim Shorts",
+    "average_rating": 4.2,
+    "rating_number": 26,
+    "features": [
+        "100% Polyester",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Men's graphic swim shorts made with recycled materials",
+        "REGULAR FIT: Strikes a comfortable balance between loose and snug",
+        "EASY STORAGE: Mesh side pockets hold small items",
+        "MADE WITH RECYCLED CONTENT: Made with 100% recycled materials, this product represents just one of our solutions to help end plastic waste"
+    ],
+    "description": [
+        "Stand out from the crowd in these men's swim shorts. They're made with an allover geometric print that incorporates the adidas Badge of Sport to create a bold design. Soft, lightweight and chlorine-resistant, they're equally at home in the water as at the volleyball net."
+    ],
+    "price": "24.48",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71FI67YLesL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71e-ZAjG06L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41xo6ryswHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41bIRLxTgXL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41xo6ryswHL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41bIRLxTgXL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "adidas",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Swim",
+        "Trunks"
+    ],
+    "details": "{\"Item model number\": \"TF896\", \"Department\": \"mens\", \"Date First Available\": \"August 22, 2018\", \"Manufacturer\": \"adidas\"}",
+    "parent_asin": "B091MYTJHB",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

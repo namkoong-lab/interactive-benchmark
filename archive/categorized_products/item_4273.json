@@ -1,0 +1,67 @@
+{
+  "item_id": 4273,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Hanes Men's Cotton ComfortSoft Printed Knit Pants",
+    "average_rating": 4.1,
+    "rating_number": 20,
+    "features": [
+      "55% Cotton, 45% Polyester",
+      "Imported",
+      "Drawstring,Button closure",
+      "Classic prints",
+      "Side seam pockets",
+      "ComfortSoft waistband",
+      "Self fabric draw string",
+      "Soft material for comfort"
+    ],
+    "description": [
+      "Soft cotton knit is warm while remaining lightweight. Great for year around lounging and sleeping. Two pockets are featured for convenience, as is a drawstring for a great fit. The waistband is made of the same material for comfortable wear, and a button fly is for convenience. A great classic with modern style. New Black color variation is 60% Cotton, 40% Polyester"
+    ],
+    "price": "20.94",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71g251x73kL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/714EYxHiZ9L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41fv02w5sSL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51cgW2X2N3L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41fv02w5sSL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51cgW2X2N3L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT06"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Hanes",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Sleep & Lounge",
+      "Sleep Bottoms"
+    ],
+    "details": "{\"Package Dimensions\": \"12 x 9 x 1.7 inches; 10.4 Ounces\", \"Department\": \"Mens\", \"Date First Available\": \"November 1, 2012\", \"Manufacturer\": \"Hanes\"}",
+    "parent_asin": "B07BXLGJZG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Pajamas"
+    ],
+    "confidence": 0.95
+  }
+}

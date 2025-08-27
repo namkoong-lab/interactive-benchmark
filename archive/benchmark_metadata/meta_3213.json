@@ -1,0 +1,48 @@
+{
+    "main_category": "Grocery",
+    "title": "Burry Foods Small Oyster Crackers, 0.5-Ounce Packages (Pack of 150)",
+    "average_rating": 4.0,
+    "rating_number": 17,
+    "features": [
+        "Pack of one hundred and fifty, 0.5-Ounce (total of 75-Ounces)",
+        "Made with 100% vegetable oil",
+        "Enriched wheat flavor",
+        "Its based on 2000 Calorie reference diet; your daily values may be higher or lower depending on your calorie needs"
+    ],
+    "description": [
+        "Burry Foods Oyster crackers are small, salted, buttery crackers. It contains enriched Wheat flavor and vegetable oil. Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs."
+    ],
+    "price": "41.85",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91GCL4fnuPL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51TyK+PVZ9L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51TyK+PVZ9L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Burry Foods",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Snack Foods",
+        "Crackers",
+        "Oyster"
+    ],
+    "details": "{\"Package Dimensions\": \"14.7 x 11.3 x 8.1 inches; 6.9 Pounds\", \"UPC\": \"823056438012\", \"Manufacturer\": \"Burry Foods\"}",
+    "parent_asin": "B00CF5EV4Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

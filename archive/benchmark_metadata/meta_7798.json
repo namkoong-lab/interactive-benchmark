@@ -1,0 +1,49 @@
+{
+    "main_category": "Books",
+    "title": "The nervous generation: American thought, 1917-1930",
+    "average_rating": 4.0,
+    "rating_number": 6,
+    "features": [
+        "A major reinterpretation of American thought from 1917 to 1930, with a lively foray into the popular culture of the supposedly roaring twenties."
+    ],
+    "description": [
+        "About the Author",
+        "Roderick Nash is Professor of History and Environmental Studies at the University of California, Santa Barbara. His other books include",
+        "Wilderness and the American Mind",
+        ", a pioneering book which has become a small classic in American history.",
+        "--This text refers to an alternate",
+        "paperback",
+        "edition."
+    ],
+    "price": "6.73",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/419-jnNIqFL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Roderick NASH (Author)",
+    "categories": [
+        "Books",
+        "Politics & Social Sciences",
+        "Philosophy"
+    ],
+    "details": "{\"Publisher\": \"Rand McNally & Co ,U.S. (January 1, 1971)\", \"Language\": \"English\", \"ISBN 10\": \"0528665596\", \"ISBN 13\": \"978-0528665592\", \"Item Weight\": \"1 pounds\"}",
+    "parent_asin": "0528665596",
+    "bought_together": null,
+    "subtitle": "Paperback – January 1, 1971",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Roderick Nash', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

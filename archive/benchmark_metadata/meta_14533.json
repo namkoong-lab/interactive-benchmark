@@ -1,0 +1,52 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Stance Boys' Guano",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "71% Cotton, 15% Spandex, 8% Nylon, 6% Elastane",
+        "Imported",
+        "Machine Wash",
+        "Anatomically correct fit",
+        "Seamless toe closure",
+        "Elastic arch support",
+        "Deep heel pocket and dry low-gore seam",
+        "Toe venting"
+    ],
+    "description": [
+        "You don't have to crawl through a Cave to step in Stance guano. For a smooth ride and plenty of durability, this kid's athletic sock features premium combed cotton and a reinforced heel and toe. Mesh vents keep feet cool and dry. And to better match your moves, the guano features an elastic arch and self-adjusting cuff. Don't be fooled by its name--stance's guano is the perfect home for your feet."
+    ],
+    "price": "9.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71bjnDwqMdL._AC_UL1472_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Vsrq+-IJL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41Vsrq+-IJL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Stance",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Boys",
+        "Clothing",
+        "Socks & Hosiery",
+        "Socks"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"B310D15GUA\", \"Department\": \"Boys\", \"Date First Available\": \"December 21, 2015\", \"Manufacturer\": \"Stance Socks Boys 2-7\"}",
+    "parent_asin": "B01863DZAO",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

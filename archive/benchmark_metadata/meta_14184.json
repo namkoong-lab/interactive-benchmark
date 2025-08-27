@@ -1,0 +1,54 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Oxford Diamond Co Champagne Cz Heart & Cz Crown .925 Sterling Silver Ring Sizes 4-11",
+    "average_rating": 4.4,
+    "rating_number": 9,
+    "features": [
+        "9mm",
+        ".925 Solid Sterling Silver"
+    ],
+    "description": [
+        "We use the finest quality of .925 Sterling Silver. Each piece is crafted to exceed your expectations! The perfect Gift for a loved one!"
+    ],
+    "price": "16.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61uZYbZdzJL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61k5Cs7dpdL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/614LdYZCYGL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51LsUhVb83L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51-z95i62bL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51UsnNXqpnL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51LsUhVb83L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51-z95i62bL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51UsnNXqpnL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Oxford Diamond Co",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Jewelry",
+        "Rings",
+        "Statement"
+    ],
+    "details": "{\"Item model number\": \"ODC-R-15770-CP\", \"Department\": \"womens\", \"Date First Available\": \"June 24, 2015\", \"Manufacturer\": \"Oxford Diamond Co\"}",
+    "parent_asin": "B010CD1V0M",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

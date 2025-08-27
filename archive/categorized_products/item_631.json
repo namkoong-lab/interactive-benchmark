@@ -1,0 +1,54 @@
+{
+  "item_id": 631,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Music For Installations",
+    "average_rating": 4.8,
+    "rating_number": 264,
+    "features": [],
+    "description": [
+      "Musician, artist, thinker, activist Brian Eno first came to international prominence in the early '70s as a founding member of Roxy Music, and immediately followed by a series of highly acclaimed solo albums. His visionary production work includes albums with U2, David Bowie, Talking Heads, Coldplay and many others. Clam-shell box set w/6 die-cut wallets and 64 page Plexiglas bound book."
+    ],
+    "price": "59.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61BCVffd9pL._SL1200_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41fK4SDbybL.jpg",
+        "https://m.media-amazon.com/images/I/61+Eah2KUHL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41fK4SDbybL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/61+Eah2KUHL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Brian Eno   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Pop"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.24 x 5.2 x 1.18 inches; 8.75 Ounces\", \"Manufacturer\": \"Astralwerks\", \"Item model number\": \"WA-36020874\", \"Original Release Date\": \"2018\", \"Date First Available\": \"March 13, 2018\", \"Label\": \"Astralwerks\", \"Number of discs\": \"6\"}",
+    "parent_asin": "B07BF854N4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "CD Box Sets"
+    ],
+    "confidence": 0.95
+  }
+}

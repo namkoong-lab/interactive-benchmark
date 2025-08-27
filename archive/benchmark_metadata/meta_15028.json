@@ -1,0 +1,68 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Jag Jeans Women's Viola High Rise Skinny Jeans",
+    "average_rating": 3.9,
+    "rating_number": 33,
+    "features": [
+        "68% Cotton, 21% Polyester, 9% Viscose, 2% Elastane",
+        "Imported",
+        "Button closure",
+        "Machine Wash",
+        "Black ankle skinny jeans",
+        "Sustainable Forever Black high stretch denim designed with never-fade technology and amazing recovery for zero bagging",
+        "11\" high rise",
+        "5-pocket styling with a zip fly",
+        "10.5\" leg opening and 26\" Inseam"
+    ],
+    "description": [
+        "JAG Women's Viola High Rise Skinny Jeans - Everyone’s favorite Viola is now designed with Best Kept Secret Technology. It has the same high rise and skinny fit with added interior elastic at the waist. This acts as an invisible belt to help it sit in place and stay there, too. Finished with smoothing front pockets and back pockets that lift."
+    ],
+    "price": "29.85",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61fe3En0v1L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/614C2ScGoaL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61g7ziB4kRL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51rzePw5kEL._AC_UL1012_.jpg",
+            "https://m.media-amazon.com/images/I/51-+0sKZ8SL._AC_UL1012_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31GQ9alBrAL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/317WoNpqZbL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31hc5tvVAUL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/417dsCePbBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41yOQr1w4EL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31GQ9alBrAL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/317WoNpqZbL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31hc5tvVAUL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/417dsCePbBL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41yOQr1w4EL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "SIDE",
+            "BACK",
+            "PT10",
+            "PT11"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jag Jeans",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Jeans"
+    ],
+    "details": "{\"Item model number\": \"J2699601TRIB\", \"Department\": \"Womens\", \"Date First Available\": \"January 31, 2020\", \"Manufacturer\": \"JAG Jeans\"}",
+    "parent_asin": "B084DJPXB1",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

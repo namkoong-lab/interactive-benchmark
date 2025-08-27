@@ -1,0 +1,41 @@
+{
+    "main_category": "Digital Music",
+    "title": "Summer Breezes",
+    "average_rating": 1.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "Guitar sounds played with an E-Bow. Music by A. Hughes. 59 minutes."
+    ],
+    "price": "7.12",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/717VVAfjKlL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/8127CPGBhwL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51JjIEI9IVL.jpg",
+            "https://m.media-amazon.com/images/I/511xF+vjQuL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51JjIEI9IVL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/511xF+vjQuL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Relaxation Music Collection  (Author)    Format: Audio CD",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"5.55 x 4.96 x 0.55 inches; 2.82 Ounces\", \"Date First Available\": \"April 8, 2008\"}",
+    "parent_asin": "B0017JUX3C",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

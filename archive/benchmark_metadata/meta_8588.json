@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Perfect: Anorexia & Me",
+    "average_rating": 3.9,
+    "rating_number": 50,
+    "features": [
+        "Emily Halban developed anorexia in her final year of high school. She went on to college at an Ivy League school where her disease took on a powerful dimension. By her final year she was so debilitated that she had to take her exams in a separate room where she could be fed continuously. With heartbreaking candor and poignant intimacy, Emily vividly chronicles the complexities and inner struggles of living with anorexia. She traces her disease from its elusive origins, through its darkest moments of deprivation, guilt, and self-loathing. As she recounts her journey towards recovery, Emily draws us into her raw experience of anorexia, exposing its secrets and dispelling some of the myths that shroud it. Beautifully written and alive with self-awareness, but never self-pity, this inspiring read will offer those battling with this all-consuming disease a glimpse of perspective and hope, and help those on the outside to understand more."
+    ],
+    "description": [
+        "About the Author",
+        "Emily Halban graduated from Oxford University in 2004."
+    ],
+    "price": "4.6",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41U40AudarL._SX302_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Emily Halban (Author)",
+    "categories": [
+        "Books",
+        "Self-Help",
+        "Eating Disorders & Body Image"
+    ],
+    "details": "{\"Publisher\": \"Random House UK (June 3, 2008)\", \"Language\": \"English\", \"Hardcover\": \"336 pages\", \"ISBN 10\": \"9780091917272\", \"ISBN 13\": \"978-0091917272\", \"Item Weight\": \"1.04 pounds\", \"Dimensions\": \"5.5 x 1.2 x 8.5 inches\"}",
+    "parent_asin": "0091917271",
+    "bought_together": null,
+    "subtitle": "Hardcover – June 3, 2008",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Emily Halban', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

@@ -1,0 +1,68 @@
+{
+  "item_id": 4077,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "CASUAL MOMENTS womens Casual",
+    "average_rating": 5.0,
+    "rating_number": 10,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Zipper closure",
+      "Machine Wash",
+      "52\" Robe falls above the ankles",
+      "Plush polyseter fabrication",
+      "Front zip closure is easy to put on and take off",
+      "Long sleeves with turn-back cuffs",
+      "Side seam pockets"
+    ],
+    "description": [
+      "It's time to unwind in the velvety soft 52\" Breakaway zip front robe from Casual Moments. Made from a plush polyester fabrication, this robe features long sleeves with turn-back cuffs and side seam pockets for convenience. 100% Polyester. Machine wash cold, gentle cycle, tumble dry low."
+    ],
+    "price": "47.5",
+    "images": {
+      "hi_res": [
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31KYb+yFZkL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31PVALckkAL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31KYb+yFZkL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31PVALckkAL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "CASUAL MOMENTS",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Lingerie, Sleep & Lounge",
+      "Sleep & Lounge",
+      "Robes"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"April 22, 2023\", \"Manufacturer\": \"Casual Moments\"}",
+    "parent_asin": "B0C38FKH5P",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Pajamas"
+    ],
+    "confidence": 0.95
+  }
+}

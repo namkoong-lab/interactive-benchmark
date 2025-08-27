@@ -1,0 +1,42 @@
+{
+    "main_category": "Pet Supplies",
+    "title": "New Life Spectrum Float Medium 120g (Naturox Series)",
+    "average_rating": 4.4,
+    "rating_number": 67,
+    "features": [],
+    "description": [
+        "Our newest products with all-natural preservatives! Spectrum Nutrition Formula with squid & bentonite clay. 120g 2mm pellet."
+    ],
+    "price": "11.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51tPpyfl09L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51tPpyfl09L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "New Life Spectrum",
+    "categories": [
+        "Pet Supplies",
+        "Fish & Aquatic Pets",
+        "Food",
+        "Aquarium Fish"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"2.75 x 2.75 x 3 inches; 3.17 Ounces\", \"Item model number\": \"702414\", \"Date First Available\": \"December 1, 2017\", \"Manufacturer\": \"New Life International\"}",
+    "parent_asin": "B077NQ7XK4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

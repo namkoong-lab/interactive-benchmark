@@ -1,0 +1,68 @@
+{
+  "item_id": 3290,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "P&B The Brides Maid of Honor Women's V-Neck",
+    "average_rating": 4.6,
+    "rating_number": 105,
+    "features": [
+      "Ringspun Cotton",
+      "Pull On closure",
+      "line dry",
+      "100% Ringspun Cotton",
+      "Ladies' Fitted Women Sizing Fitted V-neck Shirt.",
+      "Cold water wash and Line drying",
+      "Printed in USA",
+      "Exclusively from Promotion & Beyond Brand"
+    ],
+    "description": [
+      "4.5 oz. 100% ringspun cotton Ladies V-neck shirt. We recommend cold water wash and line drying."
+    ],
+    "price": "12.98",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61hMK5mYb+L._AC_UL1024_.jpg",
+        "https://m.media-amazon.com/images/I/61iOoR8IZgL._AC_UL1024_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51aj9o8jVwL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/514JJK8QngL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51aj9o8jVwL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/514JJK8QngL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Promotion & Beyond",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Women",
+      "Tops & Tees",
+      "T-Shirts"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"November 9, 2015\"}",
+    "parent_asin": "B072PZQNJN",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops"
+    ],
+    "confidence": 0.95
+  }
+}

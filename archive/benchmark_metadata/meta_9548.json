@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "Grey Mask",
+    "average_rating": 4.1,
+    "rating_number": 2302,
+    "features": [
+        "After Charles was jilted at the altar by Margaret, he discovers that she is mixed up in a vicious kidnapping plot masterminded by a sinister figure in a grey mask. Charles turns to Miss Silver to uncover the strange truth behind Margaret's complicity, and the identity of the terrifying and mysterious individual behind the grey mask."
+    ],
+    "description": [
+        "Review",
+        "'Miss Silver has her place in detective fiction as surely as Lord Peter Wimsey or Hercule Poirot' --Manchester Evening News'Miss Wentworth is a first-rate storyteller' --Daily Telegraph'Miss Wentworth's plot is ingenious, her characterization acute, her solution satisfying' --Scotsman",
+        "About the Author",
+        "Patricia Wentworth was born in India and after writing several romances turned her hand to crime. She wrote dozens of bestselling mysteries before her death in the late Sixties, and was recognised as one of the mistresses of classic crime."
+    ],
+    "price": "32.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41GBu8aHpKL._SX302_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Patricia Wentworth (Author)",
+    "categories": [
+        "Books",
+        "Mystery, Thriller & Suspense",
+        "Mystery"
+    ],
+    "details": "{\"Publisher\": \"Amereon Ltd (November 24, 1997)\", \"Language\": \"English\", \"Hardcover\": \"320 pages\", \"ISBN 10\": \"088411726X\", \"ISBN 13\": \"978-0884117261\", \"Item Weight\": \"15.7 ounces\", \"Dimensions\": \"5.85 x 0.89 x 8.82 inches\"}",
+    "parent_asin": "088411726X",
+    "bought_together": null,
+    "subtitle": "Hardcover – November 24, 1997",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/51z+WKx-6yL._SY600_.jpg', 'name': 'Patricia Wentworth', 'about': [\"Patricia Wentworth (1878–1961) was one of the masters of English mystery writing. She published her first novel in 1910 and, in the 1920s, introduced the character who would make her famous: Miss Maud Silver. Along with Agatha Christie's Miss Marple, Miss Silver is the definitive embodiment of the English style of cozy mysteries.\"]}"
+}

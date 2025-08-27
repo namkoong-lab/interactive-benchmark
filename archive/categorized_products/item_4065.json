@@ -1,0 +1,65 @@
+{
+  "item_id": 4065,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Roamers Mens Real Suede D Ring Leisure Boots",
+    "average_rating": 3.5,
+    "rating_number": 3,
+    "features": [
+      "Polyvinyl Chloride sole",
+      "D ring leisure boot.",
+      "Padded ankle.",
+      "Real suede.",
+      "PVC tread sole.",
+      "Upper: Leather, Lining: Textile, Sole: Other."
+    ],
+    "description": [
+      "D ring leisure boot. Padded ankle. Real suede. PVC tread sole. Upper: Leather, Lining: Textile, Sole: Other."
+    ],
+    "price": "58.7",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81ZKXlh5O3L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ZKXlh5O3L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51qiocNtlvL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51qiocNtlvL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51qiocNtlvL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51qiocNtlvL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Roamers",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Boot Shop",
+      "Men",
+      "Outdoor & Work",
+      "Hiking & Trekking"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"November 14, 2014\", \"Manufacturer\": \"Roamers\"}",
+    "parent_asin": "B00PL20A5W",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Footwear",
+      "Men's Boots"
+    ],
+    "confidence": 0.95
+  }
+}

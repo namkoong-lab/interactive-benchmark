@@ -1,0 +1,72 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "AG Adriano Goldschmied Men's Graduate Jeans",
+    "average_rating": 4.4,
+    "rating_number": 98,
+    "features": [
+        "98% Cotton, 2% Other Fibers",
+        "Made in the USA and Imported",
+        "Button closure",
+        "Machine Wash",
+        "Classic 5-pocket design",
+        "Zip fly",
+        "Single-button closure",
+        "Tailored leg",
+        "98 percentage cotton, 2 percentage polyurethane"
+    ],
+    "description": [
+        "The graduate, a relaxed waistline, anchored by a tailored leg. A clean, unbroken wash of deep blue lends a classic look."
+    ],
+    "price": "178.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/A1gZAGsUsZL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1irC6VL5+L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A18onCaNICL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1yv9FbJG9L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1pwIxwl7FL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/B1YuFFYF21S._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31X84+XupuL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31L5KlUzOHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31O8Gaf+61L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31gZDwlMxAL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/313JpLQsJQL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51skT0XkT6L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31X84+XupuL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31L5KlUzOHL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31O8Gaf+61L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31gZDwlMxAL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/313JpLQsJQL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51skT0XkT6L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "AG Adriano Goldschmied",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Jeans"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"1174UDK JAK\", \"Department\": \"mens\", \"Date First Available\": \"July 16, 2013\", \"Manufacturer\": \"AG Adriano Goldschmied Men's Collection\"}",
+    "parent_asin": "B00CZ5CK6A",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,59 @@
+{
+  "item_id": 5347,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Mens Gold Tone 30\" 9mm Herringbone Chain Necklace",
+    "average_rating": 4.1,
+    "rating_number": 6,
+    "features": [
+      "Chain Length:30 Inches",
+      "Chain Width:9mm",
+      "Chain Type: Herringbone",
+      "Chain Clasp Lobster",
+      "Attention: Please keep in mind that this item is NOT real gold."
+    ],
+    "description": [
+      "Attention: Please keep in mind that this item is NOT real gold."
+    ],
+    "price": "20.0",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41IpqCDw6-L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41IpqCDw6-L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "L & L Nation",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Jewelry",
+      "Necklaces"
+    ],
+    "details": "{\"Item Weight\": \"0.01 Ounces\", \"Department\": \"mens\", \"Date First Available\": \"August 23, 2013\"}",
+    "parent_asin": "B00EQDDEP0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Necklaces"
+    ],
+    "confidence": 0.95
+  }
+}

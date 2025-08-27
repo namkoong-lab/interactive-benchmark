@@ -1,0 +1,88 @@
+{
+  "item_id": 3755,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Mark Nason Men's Bryson Fashion Sneaker",
+    "average_rating": 4.6,
+    "rating_number": 778,
+    "features": [
+      "100% Synthetic",
+      "Imported",
+      "Synthetic sole",
+      "Lightweight breathable knitted upper",
+      "Flexible sole",
+      "Air-cooled memory foam lux"
+    ],
+    "description": [
+      "Sport knit lace-up casual sneaker"
+    ],
+    "price": "79.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71HzRnVCeQL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81z1sviUZ6L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71d1pOunwjL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/815bxUrrAsL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81yCZwvchrL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81mseEXRbhL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/814jOJOudgL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81bRimfXjDL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41BwvbkWYvL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51Jijv-bfbL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51eTuM+FkGL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41U8ovZWJDL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41sMETOTcbL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41CZPOdSXLL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41gIzJixkwL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41wVvLsX7kL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41BwvbkWYvL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Jijv-bfbL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51eTuM+FkGL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41U8ovZWJDL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41sMETOTcbL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41CZPOdSXLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41gIzJixkwL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41wVvLsX7kL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Mark Nason",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Shoes",
+      "Fashion Sneakers"
+    ],
+    "details": "{\"Product Dimensions\": \"10 x 15 x 6 inches; 2 Pounds\", \"Item model number\": \"68581\", \"Department\": \"Mens\", \"Date First Available\": \"June 23, 2017\", \"Manufacturer\": \"Mark Nason Los Angeles\"}",
+    "parent_asin": "B09BKN73V6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Footwear",
+      "Men's Sneakers"
+    ],
+    "confidence": 0.95
+  }
+}

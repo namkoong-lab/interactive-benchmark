@@ -1,0 +1,35 @@
+{
+    "main_category": "Books",
+    "title": "BPMN 2.0",
+    "average_rating": 4.5,
+    "rating_number": 13,
+    "features": [
+        "BPMN (Business Process Model and Notation) is the new standard for business process modeling. Within a short period, it has gained widespread adoption in practice. All important modeling tools support BPMN diagramming. It is possible to create business-oriented diagrams, but also technical models for process execution in workflow or business process management systems (BPMS). The new BPMN version 2.0 contains several additional elements and new types of diagrams, especially for improved modeling of processes that span several independent organizations. This book provides a stepwise introduction to BPMN, using many examples close to practice. Starting with the basic elements for modeling sequence flow, all BPMN 2.0 diagrams are presented and discussed in detail. You will gain a profound understanding of the complete notation, and you will be able to use the different language elements correctly."
+    ],
+    "description": [
+        "About the Author",
+        "Thomas Allweyer ist Professor für Unternehmensmodellierung an der Fachhochschule Kaiserslautern. Neben seiner Hochschultätigkeit ist er beratend tätig. Außerdem hält er regelmäßig Seminare und Schulungen für namhafte Firmen, u. a. zum Thema Geschäftsprozessmanagement und IT - und natürlich BPMN."
+    ],
+    "price": "20.99",
+    "images": {
+        "hi_res": [],
+        "large": [],
+        "thumb": [],
+        "variant": []
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Thomas Allweyer (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology"
+    ],
+    "details": "{\"Publisher\": \"BoD (February 9, 2010)\", \"Language\": \"English\", \"Paperback\": \"156 pages\", \"ISBN 10\": \"3839149851\", \"ISBN 13\": \"978-3839149850\", \"Item Weight\": \"9.9 ounces\", \"Dimensions\": \"7.01 x 0.33 x 10 inches\"}",
+    "parent_asin": "3839149851",
+    "bought_together": null,
+    "subtitle": "Paperback – February 9, 2010",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Thomas Allweyer', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

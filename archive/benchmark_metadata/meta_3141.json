@@ -1,0 +1,44 @@
+{
+    "main_category": "Grocery",
+    "title": "Barcelona Sunflower Kernals",
+    "average_rating": 4.7,
+    "rating_number": 8,
+    "features": [],
+    "description": [
+        "Prepriced Shelled Sunflower Seeds 1.5 oz. bags are out of the shell and ready to pop in your mouth. These Sunflower Seeds are a winner and will fast become on of your favorite snacks.",
+        "Kosher Certified"
+    ],
+    "price": "9.73",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51DsVhAF9dL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51DsVhAF9dL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "I.M. Good",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Cooking & Baking",
+        "Nuts & Seeds",
+        "Sunflower Seeds"
+    ],
+    "details": "{\"Item Weight\": \"1.5 Ounces\"}",
+    "parent_asin": "B0757YNZGH",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,66 @@
+{
+  "item_id": 4320,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Madewell Quilted Reversible Bucket Hat",
+    "average_rating": 3.0,
+    "rating_number": 1,
+    "features": [
+      "100% Cotton",
+      "Made in the USA or Imported",
+      "Drawstring closure",
+      "Adult"
+    ],
+    "description": [
+      "Accessorize your outfit and protect your face from the sun with the Madewell Quilted Reversible Bucket Hat. Pull-on style. Wide brim. Quilted design. Shell: 100% cotton;Lining: 100% cotton. Spot clean."
+    ],
+    "price": "23.4",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81hHX7PDoaL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81X9ZKazwSL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81-N6f1e+RL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31O8mreVkfL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31Whnu-LP8L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31xJDptJ9zL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31O8mreVkfL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31Whnu-LP8L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31xJDptJ9zL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Madewell",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Accessories",
+      "Hats & Caps",
+      "Bucket Hats"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"February 20, 2022\"}",
+    "parent_asin": "B0B6D3G1YT",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Hats & Beanies"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,46 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Jake Gyllenhaal Triple Feature",
+    "average_rating": 4.5,
+    "rating_number": 19,
+    "features": [],
+    "description": [
+        "The versatile Jake Gyllenhaal does everything from mainstream spectacle to off-the-charts bizarre. There's no better proof of that than this triple feature of Gyllenhaal flicks, which include the thrilling big-budget disaster movie THE DAY AFTER TOMORROW, the quietly droll dramedy THE GOOD GIRL, and the polarizing cult classic DONNIE DARKO."
+    ],
+    "price": "29.63",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81FJrE0I0WL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/817iTSK+vLL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51BaO+UW0iL.jpg",
+            "https://m.media-amazon.com/images/I/616rcfUZJhL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51BaO+UW0iL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/616rcfUZJhL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Studio Specials",
+        "20th Century Fox Home Entertainment",
+        "All Fox Titles"
+    ],
+    "details": "{\"Format\": \"NTSC\", \"Language\": \"English, Spanish, French\", \"Runtime\": \"5 hours and 30 minutes\", \"Aspect Ratio\": \"2.35:1, 1.85:1\", \"Package Dimensions\": \"7.4 x 5.4 x 0.5 inches; 4.8 Ounces\", \"Media Format\": \"NTSC\", \"Run time\": \"5 hours and 30 minutes\", \"Studio\": \"20th Century Fox\"}",
+    "parent_asin": "B001C8EQ9U",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

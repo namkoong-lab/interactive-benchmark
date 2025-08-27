@@ -1,0 +1,55 @@
+{
+    "main_category": "Grocery",
+    "title": "Chupa Chups Mini Bag 20 per pack",
+    "average_rating": 4.0,
+    "rating_number": 37,
+    "features": [
+        "Chupa Chups",
+        "8 - 12 Days Delivery",
+        "*Please not Best Before/Expiration UK is DD/MM/YYYY"
+    ],
+    "description": [
+        "Mini Lollipops with great Chupa Chups taste (Cola, strawberry, apple, orange & cherry)"
+    ],
+    "price": "9.49",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51E2Am8iKpL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51E2Am8iKpL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Chupa Chups XXL Lollipops - Layers of fun!",
+            "Chupa Chups Mini Lollipops"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0a32bb3b97634e5cb9e04048c03c35a1?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/78d415bba99c41f38562501a0c2dafca?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            ""
+        ]
+    },
+    "store": "Chupa Chups",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Candy & Chocolate",
+        "Suckers & Lollipops"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"UPC\": \"721866587848\", \"Manufacturer\": \"Chupa Chups\"}",
+    "parent_asin": "B01D6CXPIW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

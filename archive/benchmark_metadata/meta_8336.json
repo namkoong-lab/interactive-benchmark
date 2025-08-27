@@ -1,0 +1,48 @@
+{
+    "main_category": "Books",
+    "title": "Art of War, The",
+    "average_rating": 4.5,
+    "rating_number": 5174,
+    "features": [
+        "This is the complete text of",
+        "The Art of War",
+        ", one of the oldest and most successful books on military strategy in the world. It has also been applied to business and managerial strategies. The translation, by Lionel Giles, is considered one of the best available. This unabridged edition of",
+        "The Art of War",
+        "includes only the most essential translator's notes so that the words and thoughts of Sun Tzu may be easily understood."
+    ],
+    "description": [
+        "About the Author",
+        "Sun Tzu (c.500–320. B.C.) is the name used by the unknown Chinese authors of The Art of War and related commentaries."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41GMBTBncAL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Sun Tzu (Author),  Jim Roberts (Reader)",
+    "categories": [
+        "Books",
+        "Business & Money",
+        "Business Culture"
+    ],
+    "details": "{\"Publisher\": \"Golden Words; Unabridged edition (February 1, 2016)\", \"Language\": \"English\", \"ISBN 10\": \"1511370610\", \"ISBN 13\": \"978-1511370615\", \"Item Weight\": \"2.4 ounces\", \"Dimensions\": \"6.5 x 0.63 x 5.5 inches\"}",
+    "parent_asin": "1511370610",
+    "bought_together": null,
+    "subtitle": "MP3 CD – MP3 Audio, February 1, 2016",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/51bDqL9HJiL._SY600_.jpg', 'name': 'Sun Tzu', 'about': [\"Sun Tzu is thought to have been a military general and adviser to the king of the southern Chinese state of Wu during the sixth century BCE. Although some modern scholars have called his authorship into doubt, the world's most influential and enduring treatise on military strategy, The Art of War, bears his name.\", 'Sun Tzu fue un general, estratega militar y filósofo de la antigua China. El nombre por el que lo conocemos es en realidad un título honorífico que significa «Maestro Sun». Su nombre de nacimiento era Sun Wu y fuera de su familia era conocido por su nombre de cortesía, Changqing. Tradicionalmente se le considera el autor de El arte de la guerra, un influyente tratado sobre estrategia militar. Sun Tzu ha tenido un impacto significativo en la historia y culturas china y asiática, tanto por escribir El arte de la guerra como por ser una figura histórica legendaria.', 'Históricamente se le sitúa en el período de las Primaveras y Otoños de China (722-481 a. C.) como general militar al servicio del rey Helü de Wu, que vivió c. 544-496 a. C. Los estudiosos modernos aceptan su lugar histórico al situar la creación de El arte de la guerra en el período de los Reinos Combatientes (476-221 a. C.) con base en las descripciones militares del texto y a la similitud de su prosa con la de otros trabajos creados a comienzos de la etapa de los Reinos Combatientes.', 'La Editorial Alvi Books le dedicó, como tributo y reconocimiento, este espacio en Amazon en 2017.']}"
+}

@@ -1,0 +1,52 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "isotoner Cabanas Women's Memory Foam Resort Indoor/Outdoor Slippers",
+    "average_rating": 3.4,
+    "rating_number": 21,
+    "features": [
+        "Foam sole"
+    ],
+    "description": [
+        "Experience the luscious style and plush comfort of Isotoner Cabanas, perfect for travel or home. Surround your feet in the ultimate comfort of quality materials and a custom fit."
+    ],
+    "price": "24.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71hFQ1pRB7L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71aaeiTe9dL._AC_UL1300_.jpg",
+            "https://m.media-amazon.com/images/I/712PJ9ZGBrL._AC_UL1250_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41mqercBYJL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/414Zi4pxMmL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/415i27G4uhL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41mqercBYJL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/414Zi4pxMmL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/415i27G4uhL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "isotoner",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Slippers"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"9 x 6 x 2 inches; 6 Ounces\", \"Department\": \"Womens\", \"Date First Available\": \"May 17, 2018\"}",
+    "parent_asin": "B07D4NMWXC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

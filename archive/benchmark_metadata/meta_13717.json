@@ -1,0 +1,60 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "DKNY Girls' T-Shirt",
+    "average_rating": 4.7,
+    "rating_number": 682,
+    "features": [
+        "60% Cotton, 40% Polyester",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Short sleeve",
+        "Click on color named for a variety of styles",
+        "Perfect everyday wear",
+        "Iconic branding"
+    ],
+    "description": [
+        "DKNY knows best. Sophisticated chic style that gives any fashionista the downtown new York feel."
+    ],
+    "price": "10.02",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71TcWJcLa6L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71C9hDLMTSL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Ioidk7T-L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31poYFHzsHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41nTRQ+hXCL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41mlci1v+5L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31poYFHzsHL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41nTRQ+hXCL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41mlci1v+5L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT13",
+            "PT14"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "DKNY",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Girls",
+        "Clothing",
+        "Tops, Tees & Blouses",
+        "Tees"
+    ],
+    "details": "{\"Item Weight\": \"8 Ounces\", \"Department\": \"girls\", \"Date First Available\": \"August 15, 2014\", \"Manufacturer\": \"DKNY\"}",
+    "parent_asin": "B07YQPX14Z",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

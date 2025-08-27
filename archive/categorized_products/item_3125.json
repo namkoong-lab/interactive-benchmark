@@ -1,0 +1,89 @@
+{
+  "item_id": 3125,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "MakeMeChic Women's 3packs Triangle Bikini Swimsuit & Beach Skirt",
+    "average_rating": 4.0,
+    "rating_number": 598,
+    "features": [
+      "Polyester,Spandex",
+      "Imported",
+      "Elasticity,Tie,Wrap closure",
+      "Material: 82% Polyester, 18% Spandex. Fabric is very stretchy",
+      "Feature: Halter Top, Tie Side, Triangle Thong, Wrap Skirt, 3 Piece",
+      "Soft with Good Elasticity, Comfy to Wear.",
+      "Occasion:Perfect for wearing at beach, swimming pool, poolside tanning salon, water park and club.",
+      "Size:Please do check our size in the product description or picture."
+    ],
+    "description": [
+      "Size Chart",
+      "S: Bust:34.6\",Waist Size:26.8\",Top Length:7.1\",Bottoms Length:8.1\"M: Bust:36.2\",Waist Size:28.3\",Top Length:7.5\",Bottoms Length:8.5\"L: Bust:37.8\",Waist Size:29.9\",Top Length:7.9\",Bottoms Length:8.9\""
+    ],
+    "price": "31.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61TlHR9h4sS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/614uHf97pGS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61AmhSl8gcS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61r6PVbgjeS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71-vsJr-oIS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/517ssXQb8PS._AC_UL1258_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/411BUHtL6aS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41+4dlvbYQS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41qj2n6zbuS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31uxEXafQNS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51d7b6iK9SS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31vuRp3Ys-S._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/411BUHtL6aS._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41+4dlvbYQS._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41qj2n6zbuS._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31uxEXafQNS._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51d7b6iK9SS._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31vuRp3Ys-S._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05"
+      ]
+    },
+    "videos": {
+      "title": [
+        "3packs Triangle Bikini Swimsuit & Beach Skirt"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0fd5f275f8be4a7eb423a405fa7eb876?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "MakeMeChic",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Swimsuits & Cover Ups",
+      "Bikinis",
+      "Sets"
+    ],
+    "details": "{\"Package Dimensions\": \"14 x 10.5 x 0.5 inches; 3.53 Ounces\", \"Department\": \"womens\", \"Date First Available\": \"November 11, 2020\"}",
+    "parent_asin": "B08M3B2LP7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,45 @@
+{
+    "main_category": "Amazon Home",
+    "title": "South Africa Flag 2x3ft Poly",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "1 pc Polyester Flag",
+        "Reinforced Hemming",
+        "2 Metal Grommets"
+    ],
+    "description": [
+        "2x3 feet polyester flag with 2 metal grommets with reinforced hemming for heavy duty durability."
+    ],
+    "price": "2.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21WQ1kkqfdL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/21WQ1kkqfdL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "TallFlags",
+    "categories": [
+        "Patio, Lawn & Garden",
+        "Outdoor Décor",
+        "Flags"
+    ],
+    "details": "{\"Package Dimensions\": \"14 x 9 x 1 inches\", \"Item Weight\": \"1 pounds\", \"Manufacturer\": \"TallFlags\", \"Material\": \"Fabric\", \"Special Feature\": \"Reinforced\", \"Product Dimensions\": \"24\\\"L x 36\\\"W\", \"Fabric Type\": \"Polyester\"}",
+    "parent_asin": "B0083W0TE4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

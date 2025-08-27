@@ -1,0 +1,42 @@
+{
+    "main_category": "Digital Music",
+    "title": "J-Pop",
+    "average_rating": 4.2,
+    "rating_number": 13,
+    "features": [],
+    "description": [
+        "CD ALBUM"
+    ],
+    "price": "43.59",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51QsXoyvcHL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51QsXoyvcHL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Denki Groove   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "International Music",
+        "Far East & Asia",
+        "Japan"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.55 x 4.97 x 0.54 inches; 3.47 Ounces\", \"Manufacturer\": \"Sony Bmg\", \"Run time\": \"51 minutes\", \"Date First Available\": \"February 8, 2008\", \"Label\": \"Sony Bmg\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0013FCOUA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

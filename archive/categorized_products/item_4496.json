@@ -1,0 +1,89 @@
+{
+  "item_id": 4496,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Tundra Women's Tatiana-W",
+    "average_rating": 4.2,
+    "rating_number": 20,
+    "features": [
+      "100% Micro Suede",
+      "Imported",
+      "Synthetic sole",
+      "Shaft measures approximately 12.5\" from arch",
+      "Heel measures approximately 1 inches\"",
+      "Boot opening measures approximately 12.5\" around"
+    ],
+    "description": [
+      "Tundra boots have been an established name for more than 30 years. They are produced with strong and durable materials to protect you from the winter elements. They all come with 100% waterproof bottoms and a number of colors and outstanding styles."
+    ],
+    "price": "64.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81PE5kzy3qL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81xfria7F3L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/7195iG0yicL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71sxME9GJJL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71js7CGNYbL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/8118pfHFRyL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81byg-KF6mL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81x1ZM8so1L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41yWFcBUTPL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31GP1mt5gfL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31qoYIXRigL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31xqoS4DyJL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41vEUwIKOVL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41tDpn+O3yL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41gt+8lk6QL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41uHlj4Wa1L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41yWFcBUTPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31GP1mt5gfL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31qoYIXRigL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31xqoS4DyJL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41vEUwIKOVL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41tDpn+O3yL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41gt+8lk6QL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41uHlj4Wa1L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Tundra",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Boot Shop",
+      "Women",
+      "Outdoor & Work",
+      "Snow & Cold Weather"
+    ],
+    "details": "{\"Item model number\": \"TATIANA-W\", \"Department\": \"Womens\", \"Date First Available\": \"November 21, 2015\", \"Manufacturer\": \"Tundra\"}",
+    "parent_asin": "B00UW3GNHO",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Boots"
+    ],
+    "confidence": 0.95
+  }
+}

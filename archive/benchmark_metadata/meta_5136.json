@@ -1,0 +1,60 @@
+{
+    "main_category": "Toys & Games",
+    "title": "Star Wars 2001 Power of the Jedi - Zutton Snaggletooth",
+    "average_rating": 4.5,
+    "rating_number": 28,
+    "features": [
+        "Snaggletooth Zutton Action Figure",
+        "Includes Acessories"
+    ],
+    "description": [
+        "Star Wars Power of the Jedi Zutton Snaggletooth Action Figure"
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91btcWXHe0L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91dTtk0oGkL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81mC5Au4nlL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71dv6VFBaxL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81W7oT3MM7L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81B9bQVQcgL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51X+9VnsoGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/517QQPCcNAL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/412pvFvuGQL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41oJAsjaw-L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41J9LL+v42L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41XF5dd6a7L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51X+9VnsoGL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/517QQPCcNAL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/412pvFvuGQL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41oJAsjaw-L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41J9LL+v42L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41XF5dd6a7L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Hasbro",
+    "categories": [],
+    "details": "{\"Product Dimensions\": \"4 x 1 x 3 inches\", \"Item Weight\": \"1.38 ounces\", \"Item model number\": \"84661\", \"Manufacturer recommended age\": \"12 years and up\", \"Is Discontinued By Manufacturer\": \"No\", \"Manufacturer\": \"Hasbro\"}",
+    "parent_asin": "B00078ZD84",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

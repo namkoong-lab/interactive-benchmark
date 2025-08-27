@@ -1,0 +1,49 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Leopard Stone Coaster",
+    "average_rating": 2.0,
+    "rating_number": 1,
+    "features": [
+        "Animal Inspired Clothing",
+        "Animal-Themed Gift",
+        "Clothing Accessories",
+        "Wild and Domestic Animal"
+    ],
+    "description": [
+        "A functional and decorative accent for your home, this set of 4 stone coasters each have a leopard print design on them. The absorbent coasters with a protective cork bottom can be easily cleaned with a mild detergent to keep them looking new for years to come."
+    ],
+    "price": "12.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71YPA-rS9WL._AC_SL1001_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61F1+KI1JiL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61F1+KI1JiL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "animalworld",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Bar Tools & Drinkware",
+        "Bar Tools",
+        "Coasters"
+    ],
+    "details": "{\"Date First Available\": \"June 24, 2014\", \"Color\": \"Multicoloured\", \"Material\": \"Stone\", \"Brand\": \"Animalworld\"}",
+    "parent_asin": "B00L9I254G",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

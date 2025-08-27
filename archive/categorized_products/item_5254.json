@@ -1,0 +1,81 @@
+{
+  "item_id": 5254,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Capezio womens Ultra Soft Footed Tight",
+    "average_rating": 4.4,
+    "rating_number": 25,
+    "features": [
+      "86% Tactel® Nylon, 14% Spandex",
+      "Imported",
+      "Hand Wash Only",
+      "Try out our best-selling Ultra Soft Footed Tight and you'll see that it's worth the hype. The self knit waistband holds the tight securely in place without the discomfort of elastic. Made of moisture wicking fabric to keep you dry while dancing for hours on end. Available in different shades to match every style.",
+      "Footed tight",
+      "Semi-opaque fabric",
+      "Self knit, elastic-free waistband",
+      "Seamless"
+    ],
+    "description": [
+      "Try out our best-selling Ultra Soft™ Footed Tight and you'll see that it's worth the hype. The self knit waistband holds the tight securely in place without the discomfort of elastic. Made of moisture wicking fabric to keep you dry while dancing for hours on end. Available in different shades to match every style."
+    ],
+    "price": "16.8",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/619-E1Ep6lL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61H4MJuzImL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61EfylusJSL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71EgnkfmUvL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/21LDWcPfv7L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21atYIIuVQL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21epCf+ucIL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21l+3nshj2L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/21LDWcPfv7L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/21atYIIuVQL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/21epCf+ucIL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/21l+3nshj2L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [
+        "1816C/X SBV Video- TEST"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/6522fe412a7c4e5bb0757bcd4f538405?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "Capezio",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Socks & Hosiery",
+      "Tights"
+    ],
+    "details": "{\"Item model number\": \"1915\", \"Department\": \"womens\", \"Date First Available\": \"March 4, 2014\", \"Manufacturer\": \"Capezio\"}",
+    "parent_asin": "B08MQCCMKT",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Socks",
+      "Women's Tights"
+    ],
+    "confidence": 0.95
+  }
+}

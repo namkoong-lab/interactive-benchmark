@@ -1,0 +1,47 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "Charlie and the Viaduct",
+    "average_rating": 4.8,
+    "rating_number": 6,
+    "features": [
+        "Historical fiction about true events from the viewpoint of the horse who lived it"
+    ],
+    "description": [
+        "About the Author",
+        "Valerie White has loved horses for as long as she can remember and has owned horses for many years. She lives in Sharon, Massachusetts, not far from the Canton viaduct.",
+        "--This text refers to the",
+        "paperback",
+        "edition."
+    ],
+    "price": "2.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41YVAtGlOdL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Valerie White (Author),  A. J. Liuba (Illustrator)   Format: Kindle Edition",
+    "categories": [
+        "Kindle Store",
+        "Kindle eBooks",
+        "Children's eBooks"
+    ],
+    "details": "{\"Publication date\": \"September 7, 2018\", \"Language\": \"English\", \"File size\": \"13358 KB\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"33 pages\"}",
+    "parent_asin": "B07H6KX9DF",
+    "bought_together": null,
+    "subtitle": "Kindle Edition",
+    "author": null
+}

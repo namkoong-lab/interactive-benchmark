@@ -1,0 +1,58 @@
+{
+    "main_category": "Books",
+    "title": "Art: A Brief History",
+    "average_rating": 4.5,
+    "rating_number": 71,
+    "features": [
+        "For courses in Art History, World Art, Art Appreciation.",
+        "Art: A Brief History",
+        "provides students with the most student-friendly, contextual, and inclusive art history survey text on the market. The most popular choice for the one-semester survey market,",
+        "Art: A Brief History",
+        "is a condensation of the best-seller,",
+        "Art History.",
+        "This new edition of",
+        "Art: A Brief History",
+        "is the result of a happy and productive collaboration between two scholar-teachers (Marilyn Stokstad and Michael Cothren) who share a common vision that survey courses on the history of art should be filled with as much enjoyment as erudition, and that they should foster an enthusiastic, as well as an educated, public for the visual arts.",
+        "Like its predecessors, this new edition seeks to balance formal and iconographic analysis with contextual art history in order to craft interpretations that will engage a diverse student population. A such, throughout the text, the visual arts are treated as part of a larger world, in which geography, politics, religion, economics, philosophy, social life, and the other fine arts are related components of a vibrant and cultural landscape."
+    ],
+    "description": [
+        "About the Author",
+        "Marilyn Stokstad",
+        ", teacher, art historian, and museum curator, has been a leader in her field for decades and has served as president of the College Art Association and the International Center of Medieval Art. In 2002, she was awarded the lifetime achievement award from the National Womens Caucus for Art. In 1997, she was awarded the Governors Arts Award as Kansas Art Educator of the Year and an honorary degree of doctor of humane letters by Carleton College. She is Judith Harris Murphy Distinguished Professor Emerita at the University of Kansas, Lawrence. She has also served in various leadership capacities at the Universitys Spencer Museum of Art and is Consultative Curator of Medieval Art at the Nelson-Atkins Museum of Art in Kansas City, Missouri",
+        "Michael W. Cothren",
+        "is Professor of Art History at Swarthmore College, where he has also served as Art Department Chair, Coordinator of Medieval Studies, and Divisional Chair of the Humanities. Since arriving at Swarthmore in 1978, he has taught specialized courses on Medieval, Roman, and Islamic art and architecture, as well as seminars on theory and method, but he most enjoys teaching the survey to Swarthmore beginners. His research and publications focus on French Gothic art and architecture, most recently in a book on the stained glass of Beauvais Cathedral entitled",
+        "Picturing the Celestial City",
+        ". Michael is consultative curator of medieval stained glass at the Glencairn Museum in Bryn Athyn, Pennsylvania. He has served on the board of the International Center of Medieval Art and as President both of the American Committee of the International Corpus Vitrearum and of his local school board. When not teaching or engaged in art historical research, you can finding him hiking in the red rocks around Sedona, Arizona."
+    ],
+    "price": "18.1",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51QGlUbVXKL._SX359_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Marilyn Stokstad (Author),  Michael W. Cothren (Author)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "History & Criticism"
+    ],
+    "details": "{\"Publisher\": \"Pearson College Div; 4th edition (January 1, 2009)\", \"Language\": \"English\", \"Paperback\": \"634 pages\", \"ISBN 10\": \"0136059090\", \"ISBN 13\": \"978-0136059097\", \"Item Weight\": \"4.15 pounds\", \"Dimensions\": \"8.75 x 1.25 x 10.75 inches\"}",
+    "parent_asin": "0136059090",
+    "bought_together": null,
+    "subtitle": "4th Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Marilyn Stokstad', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

@@ -1,0 +1,47 @@
+{
+    "main_category": "Books",
+    "title": "Quantitative Analysis for Management",
+    "average_rating": 4.3,
+    "rating_number": 104,
+    "features": [
+        "A solid foundation in quantitative methods and management science.",
+        "Render/Stair/Hanna puts an emphasis on model building and computer applications to show readers how the techniques presented in the text are used in business. This texts use of software also allows readers to focus on the managerial problem, while spending less time on the mathematical details of the algorithms.",
+        "In the eleventh edition, Excel 2010 has been incorporated throughout the text and an even greater emphasis on modeling is provided."
+    ],
+    "description": [
+        "From the Back Cover",
+        "Render/Stair/Hanna puts an emphasis on model building and computer applications to show readers how the techniques presented in the text are used in business. This texts use of software also allows readers to focus on the managerial problem, while spending less time on the mathematical details of the algorithms.",
+        "In the eleventh edition, Excel 2010 has been incorporated throughout the text and an even greater emphasis on modeling is provided."
+    ],
+    "price": "11.11",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51T2pXFG4uL._SX391_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Barry Render (Author),  Jr. Ralph M. Stair (Author),  Michael E. Hanna (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Mathematics"
+    ],
+    "details": "{\"Publisher\": \"Pearson College Div; 11th edition (January 1, 2011)\", \"Language\": \"English\", \"Hardcover\": \"647 pages\", \"ISBN 10\": \"0132149117\", \"ISBN 13\": \"978-0132149112\", \"Item Weight\": \"3.09 pounds\", \"Dimensions\": \"8.75 x 1.25 x 11.25 inches\"}",
+    "parent_asin": "0132149117",
+    "bought_together": null,
+    "subtitle": "11th Edition",
+    "author": null
+}

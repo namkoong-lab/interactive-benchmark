@@ -1,0 +1,47 @@
+{
+    "main_category": "Amazon Home",
+    "title": "New 8x10 Photo: American Writer Edgar Allan Poe",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Title - American Writer Edgar Allan Poe",
+        "Description - Edgar Allan Poe, a poet, short-story writer, editor and literary critic considered part of the American Romantic Movement. Best known for his tales of mystery and the macabre, Poe was one of the earliest American practitioners of the short story and is considered the inventor of the detective-fiction genre. He is further credited with contributing to the emerging genre of science fiction. He was the first well-known American writer to try to earn a living through writing alone, resulting in a financially difficult life and career.",
+        "Description Source - Library of Congress",
+        "Year - Unknown",
+        "SKU - FF-0027"
+    ],
+    "description": [
+        "New borderless print measures 8\" x 10\" (approximate). Our prints are custom made-to-order using a gloss finish on heavy-weight photographic paper. Print is also coated for water-resistance and acid free to prevent yellowing. Includes a protective sleeve to keep your photo looking beautiful for years to come. A Note on Image Quality: The quality of historic images are subject to the wearing of time, the capabilities of the original photographer, and limitations of period technology. History affords us no re-takes; we must content ourselves with what has been left to us. Please note that we do not attempt to fix, enhance or disturb the original image in any way, as we feel these eccentricities add to its historic charm. Thank you for taking this into consideration before making your purchase."
+    ],
+    "price": "3.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41qosyk7xUL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41qosyk7xUL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "victoria",
+    "categories": [
+        "Home & Kitchen",
+        "Wall Art",
+        "Photographs"
+    ],
+    "details": "{\"Size\": \"8 x 10 Inch\", \"Product Dimensions\": \"10\\\"L x 8\\\"W\", \"Number of Items\": \"1\", \"Orientation\": \"Portrait\", \"Shape\": \"Rectangular\", \"Theme\": \"Science Fiction\", \"Material\": \"Paper\", \"Brand\": \"Victoria\", \"Mounting Type\": \"Wall Mount\", \"Is framed?\": \"No\"}",
+    "parent_asin": "B00D1CIO7K",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

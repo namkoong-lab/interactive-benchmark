@@ -1,0 +1,62 @@
+{
+  "item_id": 2144,
+  "metadata": {
+    "main_category": "Computers",
+    "title": "AMD Phenom II X6 1055T 95W CPU Processor 2.8GHz AM3 938 Processor Six-Core 6M Desktop CPU 95W",
+    "average_rating": 3.1,
+    "rating_number": 3,
+    "features": [],
+    "description": [
+      "AMD Phenom II X6 1055T 95W CPU Processor 2.8GHz AM3 938 Processor Six-Core 6M Desktop CPU 95W"
+    ],
+    "price": "49.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/617tsEMzw9L._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61i-nFSjtyL._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71wKaDKKqiL._AC_SL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41JW73Mw9UL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/511Du9NSkRL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/618OGLP3PxL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41JW73Mw9UL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/511Du9NSkRL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/618OGLP3PxL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "AMD",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Computer Components",
+      "Internal Components",
+      "CPU Processors"
+    ],
+    "details": "{\"Manufacturer\": \"Dopam Do\", \"Best Sellers Rank\": {\"Computer CPU Processors\": 1959}, \"Date First Available\": \"February 10, 2020\", \"Brand\": \"AMD\", \"CPU Manufacturer\": \"AMD\", \"CPU Speed\": \"2.8 GHz\", \"CPU Socket\": \"Socket AM3\", \"Wattage\": \"95 watts\"}",
+    "parent_asin": "B081YC8XBP",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Computers",
+      "Computer Accessories",
+      "Processors"
+    ],
+    "confidence": 0.95
+  }
+}

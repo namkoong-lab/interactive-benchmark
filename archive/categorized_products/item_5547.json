@@ -1,0 +1,70 @@
+{
+  "item_id": 5547,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Disney Blade Sketchbook Christmas Ornament - Planes: Fire and Rescue 2014",
+    "average_rating": 4.8,
+    "rating_number": 11,
+    "features": [
+      "Resin",
+      "Imported",
+      "Disney Sketchbook Ornament Collection",
+      "Satin ribbon for hanging",
+      "Fully sculptured ornament",
+      "Hand painted, Resin",
+      "Propellers spin manually"
+    ],
+    "description": [
+      "Put a damper on holiday hotspots while fanning high spirits with Blade and this fully sculptured ornament inspired by Planes: Fire & Rescue, featuring propellers you can really spin!"
+    ],
+    "price": "40.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51eYuJBvluL._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61L9PrO4E7L._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/6105eRZBmIL._AC_SL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41sYpyfw0WL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41scqoRlzAL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51NTFDrkLeL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41sYpyfw0WL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41scqoRlzAL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51NTFDrkLeL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Disney",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Home Décor Accents",
+      "Hanging Ornaments"
+    ],
+    "details": "{\"Product Dimensions\": \"5.5 x 3 x 3 inches\", \"Item Weight\": \"3.2 ounces\", \"Manufacturer\": \"Disney\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3254947, \"Decorative Hanging Ornaments\": 65369}, \"Is Discontinued By Manufacturer\": \"No\", \"Fabric Type\": \"Resin\", \"Perfume\": \"Unscented\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\", \"Included Components\": \"Cord And String\", \"Import\": \"Imported\"}",
+    "parent_asin": "B00PVFTXNY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Home Decor",
+      "Ornaments",
+      "Christmas Ornaments"
+    ],
+    "confidence": 0.95
+  }
+}

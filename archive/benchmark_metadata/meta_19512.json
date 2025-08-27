@@ -1,0 +1,45 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Topper Returns",
+    "average_rating": 4.5,
+    "rating_number": 532,
+    "features": [],
+    "description": [
+        "Topper is once again tormented by a fun-loving spirit. This time, it's a beautiful young woman who was accidently murdered while vacationing at the home of her wealthy friend, the intended victim. With Topper's help, she sets out to find her killer with the expected zany results."
+    ],
+    "price": "4.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81vJwYnQk5L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81jlVd+y51L._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51KZoRzot9L.jpg",
+            "https://m.media-amazon.com/images/I/51k5qoJWEcL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51KZoRzot9L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51k5qoJWEcL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Joan Blondell  (Actor),     Carole Landie  (Actor),     Roy Dei Ruth  (Director)    &                   0                  more   Rated:    Unrated    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Kids & Family"
+    ],
+    "details": "{\"Format\": \"Multiple Formats, Black & White, NTSC\", \"Contributor\": \"Carole Landie, Roy Dei Ruth, Joan Blondell, Dennis O'Keefe\", \"Language\": \"Unqualified (Dolby Digital 2.0 Mono)\", \"Runtime\": \"1 hour and 27 minutes\", \"Aspect Ratio\": \"1.33:1\", \"Is Discontinued By Manufacturer\": \"Yes\", \"MPAA rating\": \"Unrated (Not Rated)\", \"Product Dimensions\": \"7.75 x 5.5 x 0.5 inches; 3.2 Ounces\", \"Director\": \"Roy Dei Ruth\", \"Media Format\": \"Black & White, Multiple Formats, NTSC\", \"Run time\": \"1 hour and 27 minutes\", \"Release date\": \"September 28, 2004\", \"Actors\": \"Joan Blondell, Carole Landie, Dennis O'Keefe\", \"Studio\": \"Vidtape\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0002Y186E",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

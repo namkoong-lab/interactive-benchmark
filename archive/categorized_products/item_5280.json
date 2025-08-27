@@ -1,0 +1,58 @@
+{
+  "item_id": 5280,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "WOCACHI Mens Blazer PU Leather Casual Single Button Suit Coat Fit Lapel Jackets (Khaki, 4X-Large)",
+    "average_rating": 3.0,
+    "rating_number": 1,
+    "features": [
+      "Cotton,Leather,Polyester,Spandex",
+      "Cotton,Leather,Polyester lining",
+      "Hand Wash Only"
+    ],
+    "description": [
+      "Hi! We've waited so long for youWelcome to WOCACHI Store. Gender: Mens / Teen Boys Season: Spring / Summer / Winter Occasion: Daily, Sports, Workout, Holiday Vacation, Beach, Office, Casual, Party, Gym, Street Material: Polyester, Cotton, Spandex Style: Cool, Causal, Fashion, Outdoor LifeStyle, Stylish Features: Material: 90% Polyester, 10% Cotton, super comfy, soft and skin friendly. Fashion Tops:These trendy shirts tee tops are prefect with sports pants, shorts, jeans, sandals, sneakers for a trendy look; Occasions:Fashion Spring Casual Shirts/Workout Athletic T-Shirt/Slim Fit Sports Zipper Tee Tops, bring you men's athletic performance shirts that deliver more flexibility and a wider range of motions. Suitable for daily wear, Running, cycling,gym,training or yoga,boxing, casual, street. Perfect gifts for your boyfriend, son, husband."
+    ],
+    "price": "36.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61+BDUGGOYL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41cSyLLam+L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41cSyLLam+L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "WOCACHI",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Suits & Sport Coats",
+      "Sport Coats & Blazers"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"January 13, 2022\"}",
+    "parent_asin": "B09QBSW74Z",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Jackets & Coats"
+    ],
+    "confidence": 0.95
+  }
+}

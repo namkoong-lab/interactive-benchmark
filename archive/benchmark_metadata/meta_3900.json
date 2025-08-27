@@ -1,0 +1,41 @@
+{
+    "main_category": "All Beauty",
+    "title": "Murray's Hair Loss Products, 200 ml",
+    "average_rating": 4.1,
+    "rating_number": 11,
+    "features": [
+        "Enhanced with Lanolin and Olive Oil",
+        "Deep conditioning helps fight split ends, dandruff flakes and frizzy hair.",
+        "Excellent Protection From Hot Rollers"
+    ],
+    "description": [
+        "Helps fight split-ends and dry skin dandruff flakes."
+    ],
+    "price": "16.42",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51F6gY5BNTL._SL1353_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41fRiH12reL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41fRiH12reL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Murray's",
+    "categories": [],
+    "details": "{\"Hair Type\": \"Frizzy\", \"Liquid Volume\": \"200 Milliliters\", \"Item Form\": \"Cream\", \"Brand\": \"Murray's\", \"Number of Items\": \"1\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"3.15 x 8.66 x 2.36 inches; 3.53 Ounces\", \"Item model number\": \"0074704500005\", \"Batteries\": \"1 A batteries required.\", \"UPC\": \"783327073598 074704500005\", \"Manufacturer\": \"Murray's\"}",
+    "parent_asin": "B002L6M0DQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

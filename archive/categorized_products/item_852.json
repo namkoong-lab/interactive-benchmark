@@ -1,0 +1,64 @@
+{
+  "item_id": 852,
+  "metadata": {
+    "main_category": "Grocery",
+    "title": "Stevia Extract Packets by Now Foods 100 Packets",
+    "average_rating": 4.4,
+    "rating_number": 23,
+    "features": [],
+    "description": [
+      "BetterStevia utilizes a whole leaf extract that retains the pure sweetness of real stevia, as opposed to other products that have only isolated fractions, such as Rebaudiana A (Reb A). This stevia is processed using a special enzymatic treatment that results in a clean, superior tasting stevia extract. Their focus is on quality and freshness gives BetterStevia a well-rounded, sweet taste thats very close to that of pure sugar, without the calories or the guilt. This is why we call it BetterStevia. Try it today and see how sweet it is."
+    ],
+    "price": "11.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91CU7sJPGfL._SL1500_.jpg",
+        null,
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51iPSL3PydL.jpg",
+        "https://m.media-amazon.com/images/I/41XXjdcbO6L.jpg",
+        "https://m.media-amazon.com/images/I/51MlDWWOldL.jpg",
+        "https://m.media-amazon.com/images/I/31w4dm5GBJL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51iPSL3PydL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41XXjdcbO6L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51MlDWWOldL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31w4dm5GBJL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT12",
+        "FACT",
+        "INGR"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Now Foods",
+    "categories": [
+      "Health & Household",
+      "Vitamins, Minerals & Supplements",
+      "Herbal Supplements",
+      "Stevia"
+    ],
+    "details": "{\"Brand\": \"Now Foods\", \"Item Weight\": \"0.44 Pounds\", \"Package Weight\": \"0.35 Pounds\", \"Package Information\": \"Packet\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.9 x 3.9 x 2.1 inches; 7.04 Ounces\", \"UPC\": \"733739069573\", \"Manufacturer\": \"Now Foods\"}",
+    "parent_asin": "B00IM4UYSY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Grocery",
+      "Herbs & Spices"
+    ],
+    "confidence": 0.9
+  }
+}

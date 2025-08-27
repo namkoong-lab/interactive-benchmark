@@ -1,0 +1,57 @@
+{
+  "item_id": 3653,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Sterling Silver I Love Tennis Word Pendant, 1 inch Wide",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "Solid Sterling Silver",
+      "Nice Detail & Workmanship"
+    ],
+    "description": [
+      "This beautiful pendant is made of solid Sterling Silver, antique finished to show the nice detail, NO Chain Included"
+    ],
+    "price": "24.33",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51zuBR-5qoL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41m0o8wMeTL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41m0o8wMeTL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Sabrina Silver",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Jewelry",
+      "Pendants & Coins",
+      "Pendants Only"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"December 8, 2010\", \"Country of Origin\": \"USA\"}",
+    "parent_asin": "B004FNPLHU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Silver Jewelry"
+    ],
+    "confidence": 0.95
+  }
+}

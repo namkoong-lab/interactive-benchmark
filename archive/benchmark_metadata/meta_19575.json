@@ -1,0 +1,45 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Strauss, R.: Die Frau ohne Schatten",
+    "average_rating": 4.2,
+    "rating_number": 32,
+    "features": [],
+    "description": [
+        "The Mariinsky label presents a stunning reading of Strauss' most Wagnerian of operas, Die Frau ohne Schatten. Filmed in the historic Mariinsky Theatre in 2011 and conducted by maestro Valery Gergiev, it stars Russian tenor Avgust Amonov as the Emperor, Mlada Khudoley as the Empress and Olga Savova as the Nurse. This epic production, premiered in 2009, is a collaboration between two British artists, director Jonathan Kent and designer Paul Brown, and has become a regular fixture in the opera company's schedule. The three-act opera, with libretto by Hugo von Hofmannsthal, is an exotic fairytale with a strong moral dimension, focusing on themes of the unborn and the supernatural."
+    ],
+    "price": "13.33",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/71XzRYAtJBL._SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41ACuwIM5RL.jpg",
+            "https://m.media-amazon.com/images/I/51QCXHqU8nL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41ACuwIM5RL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51QCXHqU8nL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rated:    G    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Musicals & Performing Arts",
+        "Classical"
+    ],
+    "details": "{\"Genre\": \"Valery Gergiev Strauss, R.: Die Frau ohne Schatten, Classical\", \"Format\": \"Multiple Formats, Classical, Color, NTSC, Widescreen\", \"Contributor\": \"Valery Gergiev\", \"Language\": \"French, Spanish, German, English, Russian\", \"Number Of Discs\": \"2\", \"Aspect Ratio\": \"1.78:1\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"G (General Audience)\", \"Product Dimensions\": \"7.41 x 5.37 x 0.59 inches; 2.93 Ounces\", \"Media Format\": \"Multiple Formats, Classical, Color, NTSC, Widescreen\", \"Run time\": \"3 hours and 30 minutes\", \"Release date\": \"January 22, 2018\", \"Actors\": \"Valery Gergiev\", \"Subtitles\": \"Russian, English, Spanish, German, French\", \"Studio\": \"MARIINSKY\", \"Number of discs\": \"2\"}",
+    "parent_asin": "B00F65N48O",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

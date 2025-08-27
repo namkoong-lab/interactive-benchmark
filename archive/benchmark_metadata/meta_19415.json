@@ -1,0 +1,43 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Little Nemo: Adventures In Slumberland",
+    "average_rating": 4.8,
+    "rating_number": 1251,
+    "features": [],
+    "description": [
+        "Welcome to the fantasy world of",
+        "Little Nemo",
+        ", where dreams of enchanted lands and new friends take young Nemo into an exciting, fun-filled adventure through Slumberland. On one unforgettable night, Nemo falls asleep. Soon, with the help of his flying pet"
+    ],
+    "price": "14.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81zkNQQPgOL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51p2oUPyBZL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51p2oUPyBZL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mickey Rooney  (Actor),     Rene Auberjonois  (Actor),     Masami Hata  (Director),     William T. Hurtz  (Director)    &                   1                  more   Rated:    G    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Anime & Manga"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"G (General Audience)\", \"Product Dimensions\": \"0.7 x 7.5 x 5.4 inches; 2.72 Ounces\", \"Item model number\": \"19550596\", \"Director\": \"Masami Hata, William T. Hurtz\", \"Media Format\": \"Multiple Formats, Dolby, NTSC, Color, Widescreen\", \"Run time\": \"1 hour and 35 minutes\", \"Release date\": \"September 20, 2011\", \"Actors\": \"Mickey Rooney, Rene Auberjonois, Gabriel Damon, Danny Damon, Nancy Cartwright\", \"Studio\": \"Eastern Star\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0055HK792",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

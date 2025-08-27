@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Eastern Forests (Audubon Society Nature Guides)",
+    "average_rating": 4.6,
+    "rating_number": 40,
+    "features": [
+        "A comprehensive field guide, fully illustrated with color photographs, to the trees, wildflowers, insects, birds, and other natural wonders of North America's eastern forests and woodlands, from Hudson Bay to Florida."
+    ],
+    "description": [
+        "From the Inside Flap",
+        "ive field guide, fully illustrated with color photographs, to the trees, wildflowers, insects, birds, and other natural wonders of North America's eastern forests and woodlands, from Hudson Bay to Florida."
+    ],
+    "price": "26.59",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51NDS446BNL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ann Sutton (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Nature & Ecology"
+    ],
+    "details": "{\"Publisher\": \"Knopf (May 12, 1985)\", \"Language\": \"English\", \"Paperback\": \"638 pages\", \"ISBN 10\": \"0394731263\", \"ISBN 13\": \"978-0394731261\", \"Item Weight\": \"1.55 pounds\", \"Dimensions\": \"5.5 x 1 x 8.5 inches\"}",
+    "parent_asin": "0394731263",
+    "bought_together": null,
+    "subtitle": "Paperback – May 12, 1985",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Ann Sutton', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

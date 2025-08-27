@@ -1,0 +1,72 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Miz Mooz Women's Skye",
+    "average_rating": 4.0,
+    "rating_number": 3,
+    "features": [
+        "100% Leather",
+        "Imported",
+        "Rubber sole",
+        "Heel measures approximately 3 1/4\""
+    ],
+    "description": [
+        "The Miz Mooz Skye boot allows you to look sharp with minimal effort. Pintuck detailing and a sumptuous knot add remarkable flavor, while a side zipper allows for quick dressing. Wear this shoe with anything from a cropped legging to a frilly frock for a fashionably fresh ensemble.",
+        "Edgy. Eclectic. Fashionable. Comfortable. Conceived out of SoHo NY, Miz Mooz footwear has left these impressions amongst all of its customers. To distinguish itself from the crowd, Miz Mooz is constantly challenging itself to create the most unique and innovative styles. A team of European designers seeks out only the highest quality imported leathers, while incorporating design elements aimed at achieving the utmost comfort throughout the collection. So when choosing your next pair of shoes, make a statement with Miz Mooz."
+    ],
+    "price": "85.01",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91-63CqomrL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81xuSiZw2tL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81+4I61ILuL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81y7PRcheIL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71iyUYBxOUL._AC_UL1291_.jpg",
+            "https://m.media-amazon.com/images/I/91vTs5QlfhL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91L8hl9PimL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51OH+YRwrfL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41avVrtqE+L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41rDu4nUyML._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41oSmQ+Q+8L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51KL9rn68ML._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41sr-YHAFgL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/412gv+MzIFL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51OH+YRwrfL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41avVrtqE+L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41rDu4nUyML._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41oSmQ+Q+8L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51KL9rn68ML._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41sr-YHAFgL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/412gv+MzIFL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "LEFT"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Miz Mooz",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Pumps"
+    ],
+    "details": "{\"Package Dimensions\": \"12 x 8 x 4 inches; 2 Pounds\", \"Item model number\": \"Skye\", \"Department\": \"womens\", \"Date First Available\": \"August 26, 2010\", \"Manufacturer\": \"Miz Mooz\"}",
+    "parent_asin": "B003EFL8FO",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

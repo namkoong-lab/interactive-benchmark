@@ -1,0 +1,55 @@
+{
+  "item_id": 3922,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Nike Renew Retaliation TR Men's Running Shoe",
+    "average_rating": 4.5,
+    "rating_number": 354,
+    "features": [
+      "Rubber sole"
+    ],
+    "description": [
+      "The Nike Renew Retaliation TR is perfect for athletes who include plenty of running into their high-impact, multiple-activity training routines."
+    ],
+    "price": "127.71",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71vKXPJ-UCL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41fe+kQf27L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41fe+kQf27L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Nike",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Shoes",
+      "Athletic"
+    ],
+    "details": "{\"Item model number\": \"AT1238-600\", \"Department\": \"Mens\", \"Date First Available\": \"July 26, 2019\", \"Manufacturer\": \"Nike\"}",
+    "parent_asin": "B07VNTNYJD",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Footwear",
+      "Men's Running Shoes"
+    ],
+    "confidence": 0.95
+  }
+}

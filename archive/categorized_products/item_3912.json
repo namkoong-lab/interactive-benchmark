@@ -1,0 +1,66 @@
+{
+  "item_id": 3912,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Champion Men's Color Block Full Zip Hoodie",
+    "average_rating": 3.7,
+    "rating_number": 14,
+    "features": [
+      "Zipper closure",
+      "Machine Wash",
+      "Body - 75% Cotton 25% Polyester, Hood/Hood sleeve lining - 72% Cotton 28% Polyester",
+      "Color Block - Contrast Hood & Sleeves",
+      "Full zip front - Front hand pockets",
+      "Champion logo located above sleeve cuff",
+      "Champion logo located above sleeve cuff"
+    ],
+    "description": [
+      "This Champion brand Color Block Hoodie is perfect for just about anything. Perfect for warming up for exercise and a great wardrobe staple to throw on when it's cool outside. The Contrast Hood & Sleeves make you stand out while the Full zip front and Front hand pockets keep you warm throughout the seasons. Hooded with drawstrings so you can wear it how you like it. Machine wash cold, tumble dry low."
+    ],
+    "price": "50.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61kBm8h4WnL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/6197pQ1rz2L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41ysqlkaDLL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/417Pg3WHDQL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41ysqlkaDLL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/417Pg3WHDQL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Champion",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Active",
+      "Active Hoodies"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"12 x 12 x 1 inches; 1 Pounds\", \"Department\": \"Mens\", \"Date First Available\": \"January 10, 2017\", \"Manufacturer\": \"Masked Brand\"}",
+    "parent_asin": "B01NARW1ON",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Hoodies"
+    ],
+    "confidence": 0.95
+  }
+}

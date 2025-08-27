@@ -1,0 +1,71 @@
+{
+  "item_id": 3887,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "3D Mens Shirts Graphic Plus Size T-Shirt Print Short Sleeve Tops Basic Exaggerated Crew Neck",
+    "average_rating": 3.7,
+    "rating_number": 155,
+    "features": [
+      "Polyster",
+      "Pull On closure",
+      "Machine Wash",
+      "Material:Polyester. The material feels soft, smooth, cool, comfortable and highly absorbent.",
+      "Patterns:High Quality 3D print, unique and realistic patterns to choose.Not fade, shrink or out of shape after washing",
+      "Size:M-5XL,Please check the size chart before order.According to feedback from many buyers, the size is smaller than the normal size. Please order one size up if your child is taller, stronger, or grows faster.",
+      "Occasion :Suitable for daily casual wear, office, school, party, club, street, taking photo,running,sports,vacation, holiday date, Christmas, Fantastic Gift.",
+      "Attention: Machine wash or hand wash, recommend with cold water, do not use bleach"
+    ],
+    "description": [
+      "Gender: Men'sStyle: Exaggerated, BasicOccasion: Weekend, DailyTops Type: T-shirtNeckline: Round NeckFabric: PolyesterDesign: PrintDetails: Without Lining Sleeve Length: Short Sleeve Elasticity: Micro-elastic Pattern: Graphic Special Size: Plus Size Fit Type: Regular Fit"
+    ],
+    "price": "11.99",
+    "images": {
+      "hi_res": [
+        null,
+        null,
+        "https://m.media-amazon.com/images/I/41qF0xO5EyL._AC_UL1069_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41tmwkEo2HL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41JfBupZ6PL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21U9EN3JFLL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41tmwkEo2HL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41JfBupZ6PL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/21U9EN3JFLL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "21Grams",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Shirts",
+      "T-Shirts"
+    ],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"November 9, 2020\"}",
+    "parent_asin": "B09BFBW5DN",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's T-Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

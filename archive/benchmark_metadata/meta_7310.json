@@ -1,0 +1,51 @@
+{
+    "main_category": "Books",
+    "title": "Deep Dish",
+    "average_rating": 4.3,
+    "rating_number": 12,
+    "features": [
+        "DEEP DISH turns back the clock to 1975 - that groovy yesteryear of The Hustle, Mary Richards, mood rings and pet rocks - as it tells the swinging saga of the Davenport and Haze families, who fall in and out of love and lust in one cliffhanging chapter after another."
+    ],
+    "description": [
+        "Review",
+        "Sit down, relax and laugh your head off . . .",
+        "Deep Dish",
+        "is a great read that is loads of fun . . . --",
+        "Literary Pride, Amos Lassen, August 15, 2007",
+        "About the Author",
+        "Marc Harshbarger lives in Chicago with his partner and two spoiled cats, Shubert and Mr. Grant. His favorite",
+        "Mary Tyler Moore Show",
+        "episodes are: \"Edie Gets Married\", \"Happy Birthday, Lou\", \"The Dinner Party\", \"Put On a Happy Face\" and, of course, \"Chuckles Bites The Dust\"."
+    ],
+    "price": "45.33",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Trsl-XxuL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Marc Harshbarger (Author)",
+    "categories": [
+        "Books",
+        "LGBTQ+ Books",
+        "Literature & Fiction"
+    ],
+    "details": "{\"Publisher\": \"Marc Harshbarger Publishing (January 1, 2007)\", \"Language\": \"English\", \"Paperback\": \"266 pages\", \"ISBN 10\": \"0615149332\", \"ISBN 13\": \"978-0615149332\", \"Item Weight\": \"14.5 ounces\", \"Dimensions\": \"6 x 0.75 x 8.75 inches\"}",
+    "parent_asin": "0615149332",
+    "bought_together": null,
+    "subtitle": "Paperback – January 1, 2007",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/31BZtHkD-qL._SY600_.jpg', 'name': 'Marc Harshbarger', 'about': ['Marc lives in Chicago with his partner and two spoiled cats, Shubert and Mr. Grant. He enjoys watching old television shows (\"Mary Tyler Moore\", \"Peyton Place\", \"Knots Landing\") and writing a groovy gay pop culture blog as well as his sordid soap opera novels.']}"
+}

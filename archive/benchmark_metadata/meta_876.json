@@ -1,0 +1,71 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Jonathan Adler Glitter Canister",
+    "average_rating": 4.6,
+    "rating_number": 39,
+    "features": [
+        "Imported",
+        "Hand Wash Only",
+        "Holds 17oz",
+        "Length: 4in / 10cm",
+        "Height: 6in / 15cm"
+    ],
+    "description": [
+        "A striped ceramic Jonathan Adler canister with a 'Glitter' label on the front. The lid has a rubber ring on the inside for a secure fit. Glossy finish."
+    ],
+    "price": "88.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81gYFS1Ab2L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91mngt7bb8L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91jhr0pUKBL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91trYvT7QiL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91YATY+HSdL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31ozCCB9hlL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31Av9SGZHvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31+OyAwtLbL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31YybO9kSML._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31W3-QmSDBL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31ozCCB9hlL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31Av9SGZHvL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31+OyAwtLbL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31YybO9kSML._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31W3-QmSDBL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Our opinion and review of these canisters!"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0be6c1586abf40389d7b539d12e64b64?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "/shop/influencer-40a46afa"
+        ]
+    },
+    "store": "Jonathan Adler",
+    "categories": [
+        "Home & Kitchen",
+        "Bath",
+        "Bathroom Accessories",
+        "Holders & Dispensers",
+        "Canisters"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"July 10, 2014\", \"Manufacturer\": \"Jonathan Adler\"}",
+    "parent_asin": "B00LODZPU2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,67 @@
+{
+  "item_id": 5801,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Nautica Men's Big Wool Toggle Coat",
+    "average_rating": 4.5,
+    "rating_number": 19,
+    "features": [
+      "52% Wool, 48% Other Fibers",
+      "Imported",
+      "Button closure",
+      "Dry Clean Only",
+      "Wool-blend coat featuring attached hood and concealed zip placket with trio of toggle closures",
+      "Angled welt pockets",
+      "Button-flap pockets at lower front",
+      "Diamond-quilted lining"
+    ],
+    "description": [
+      "Wool blend toggle coat with zip front and toggle closures"
+    ],
+    "price": "259.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/911cCCCFewL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91rIo+WekUL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51OB2-w01AL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51BP6ce8tjL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51OB2-w01AL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51BP6ce8tjL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Nautica",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Jackets & Coats",
+      "Wool & Blends"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"GV032298\", \"Department\": \"Mens\", \"Date First Available\": \"November 4, 2015\", \"Manufacturer\": \"Nautica Men's Outerwear\"}",
+    "parent_asin": "B015RIU7NE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Jackets & Coats"
+    ],
+    "confidence": 0.95
+  }
+}

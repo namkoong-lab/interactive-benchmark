@@ -1,0 +1,64 @@
+{
+  "item_id": 875,
+  "metadata": {
+    "main_category": "Health & Personal Care",
+    "title": "Nutri-West - Core Level Bone Matrix 60 Tablets",
+    "average_rating": 4.2,
+    "rating_number": 38,
+    "features": [
+      "Nutritional support of bone health. Contains essential",
+      "Vitamins, minerals and other nutrients involved in bone",
+      "Metabolism"
+    ],
+    "description": [
+      "Nutri-West - Core Level Bone Matrix 60 Tablets"
+    ],
+    "price": "35.09",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61KKZgx9ClL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71GAtFn0GLL._AC_SL1500_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/419M4o2QkaL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41wKzHOn1oL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/219CNDrn9LL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/419M4o2QkaL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41wKzHOn1oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/219CNDrn9LL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT12"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Nutri-West",
+    "categories": [
+      "Health & Household",
+      "Vitamins, Minerals & Supplements",
+      "Vitamins",
+      "Multivitamins"
+    ],
+    "details": "{\"Package Dimensions\": \"4 x 3 x 1.4 inches; 2.4 Ounces\", \"Item model number\": \"1634\", \"Date First Available\": \"October 2, 2001\", \"Manufacturer\": \"Nutri-West\", \"Country of Origin\": \"USA\"}",
+    "parent_asin": "B000FGZH3Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Health & Personal Care",
+      "Vitamins & Dietary Supplements"
+    ],
+    "confidence": 0.95
+  }
+}

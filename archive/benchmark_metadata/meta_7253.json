@@ -1,0 +1,55 @@
+{
+    "main_category": "Books",
+    "title": "1001 Things You Always Wanted to Know About Visual FoxPro",
+    "average_rating": 4.3,
+    "rating_number": 9,
+    "features": [
+        "1001 Things You Wanted to Know About Visual FoxPro"
+    ],
+    "description": [
+        "About the Author",
+        "Andy Kramek",
+        "is an independent consultant and long-standing FoxPro developer. He is the author of",
+        "The Revolutionary Guide to Visual FoxPro OOP",
+        "and coauthor of the monthly “Kitbox” column in",
+        "FoxTalk",
+        ".",
+        "Marcia Akins",
+        "is an experienced developer in several languages who has been working mainly in Visual FoxPro for the past eight years. She is an independent consultant and contributor to",
+        "FoxPro Advisor",
+        ".",
+        "Rick Schummer",
+        "is the director of development for Kirtland Associates, Inc. in Troy, Michigan. Kirtland Associates writes custom database applications for a rapidly expanding customer base."
+    ],
+    "price": "29.48",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51q0ry7ESKL._SX381_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Andy Kramek (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Databases & Big Data"
+    ],
+    "details": "{\"Publisher\": \"Hentzenwerke Publishing (June 1, 2000)\", \"Language\": \"English\", \"Paperback\": \"600 pages\", \"ISBN 10\": \"0965509338\", \"ISBN 13\": \"978-0965509336\", \"Item Weight\": \"2.1 pounds\", \"Dimensions\": \"6.75 x 1.5 x 8.75 inches\"}",
+    "parent_asin": "0965509338",
+    "bought_together": null,
+    "subtitle": "Paperback – June 1, 2000",
+    "author": null
+}

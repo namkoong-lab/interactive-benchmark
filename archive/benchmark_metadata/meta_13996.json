@@ -1,0 +1,76 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Reebok Boy's Zig Elusion Energy Cross Trainer",
+    "average_rating": 3.9,
+    "rating_number": 19,
+    "features": [
+        "60% Textile, 20% Rubber, 20% Synthetic",
+        "Rubber sole",
+        "Platform measures approximately 1 inches inches inches inches",
+        "Mesh upper"
+    ],
+    "description": [
+        "Experiment with your look in these women's running-inspired shoes. Contrast lines of 3D color create a fierce vibe on the midsole. They feel springy and responsive to propel you forward."
+    ],
+    "price": "31.7",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81f2inx7WpL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71qy6yqnfyL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71geDUCwU1L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81bex9ktWFL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/714bnGTiKGL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81pVexDQI1L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81fzHQmP+jL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81x3lngY1wL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41325mHNAvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/410PFZvtPuL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41W3fi5tQVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41T7CqeipqL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31wxQtKxsCL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41j4UwUrwKL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41HIrHkAccL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41lf+HjGJxL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41325mHNAvL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/410PFZvtPuL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41W3fi5tQVL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41T7CqeipqL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31wxQtKxsCL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41j4UwUrwKL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41HIrHkAccL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41lf+HjGJxL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR",
+            "LEFT"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Reebok",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Boys",
+        "Shoes",
+        "Athletic",
+        "Running"
+    ],
+    "details": "{\"Item Weight\": \"14 Ounces\", \"Department\": \"Mens\", \"Date First Available\": \"October 23, 2019\", \"Manufacturer\": \"Reebok\"}",
+    "parent_asin": "B07ZHYGHC8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

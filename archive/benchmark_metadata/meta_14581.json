@@ -1,0 +1,70 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Earthies Roma",
+    "average_rating": 3.8,
+    "rating_number": 21,
+    "features": [
+        "100% Suede",
+        "Rubber sole",
+        "Heel measures approximately 1 inches\"",
+        "solid",
+        "open-toe",
+        "cushioning"
+    ],
+    "description": [
+        "Bringing flats to new places, this fabulous gladiator surrounds you in our most premium suede, with a spaghetti-strap lace that lets you dial in the perfect fit."
+    ],
+    "price": "150.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61Tz4jLHtvL._AC_UL1024_.jpg",
+            "https://m.media-amazon.com/images/I/61a88H3b9EL._AC_UL1024_.jpg",
+            "https://m.media-amazon.com/images/I/61Eh2W3v0GL._AC_UL1024_.jpg",
+            "https://m.media-amazon.com/images/I/61061ANXIlL._AC_UL1024_.jpg",
+            "https://m.media-amazon.com/images/I/61Wq1hfaqHL._AC_UL1024_.jpg",
+            "https://m.media-amazon.com/images/I/51C8RfbedDL._AC_UL1024_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41GnqkqqkXL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41QcR7hL7rL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51G0doX98VL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51XiWTyCE6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41eiNXNxGsL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41SCoxkwQNL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41GnqkqqkXL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41QcR7hL7rL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51G0doX98VL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51XiWTyCE6L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41eiNXNxGsL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41SCoxkwQNL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Earthies",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Sandals",
+        "Flats"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Item model number\": \"801733WSDE\", \"Department\": \"womens\", \"Date First Available\": \"April 15, 2011\", \"Manufacturer\": \"Earthies\"}",
+    "parent_asin": "B09M7GH58P",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

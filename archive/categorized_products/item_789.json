@@ -1,0 +1,77 @@
+{
+  "item_id": 789,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Quickie Automatic Roller Mop",
+    "average_rating": 4.1,
+    "rating_number": 20,
+    "features": [
+      "Replaceable scrubbing pad feature",
+      "48-inch steel handle length",
+      "Swivel hang-up feature for off the floor storage",
+      "Easy-to-use cam shaft wringer",
+      "5-year limited warranty"
+    ],
+    "description": [
+      "The Quickie Automatic Roller Mop is the poly sponge mop you need for your heavy-duty clean-up jobs. This professional quality mop comes with an extra-wide, extra-absorbent sponge for cleaning large rooms. A patented built-in scrubber removes caked-on dirt and scuffmarks. And when you're done, you'll love how this sponge rinses clean and wrings dry with its patented, easy-to-use cam action wringer. Quickie designs, manufactures and distributes over 300 cleaning products for traditional in-home use as well as contractor and DIY grade applications. The product line includes mops, brooms, dusters, dustpans, brushes, buckets and other supplies."
+    ],
+    "price": "34.69",
+    "images": {
+      "hi_res": [
+        null,
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41OGmO25+fL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/311x23Cpa2L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31EogDjoq7L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41OGmO25+fL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/311x23Cpa2L._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/31EogDjoq7L._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [
+        "HONEST Review of the Quickie Roller Sponge Mop w/12\" Head",
+        "Great Mop for floor cleaning self squeeze sponge. Love it!!!"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0174cc8e3b5d4eed9e308c780cd580e4?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/05119b685fa24eb19da9f27cb174de10?ref=dp_vse_rvc_1"
+      ],
+      "user_id": [
+        "/shop/grillbuff",
+        "/shop/officialflore"
+      ]
+    },
+    "store": "Quickie",
+    "categories": [
+      "Health & Household",
+      "Household Supplies",
+      "Cleaning Tools",
+      "Mopping",
+      "Accessories",
+      "Mop Handles"
+    ],
+    "details": "{\"Product Dimensions\": \"3.38 x 8.94 x 51 inches\", \"Item Weight\": \"2.8 Pounds\", \"Manufacturer\": \"Quickie\", \"Item model number\": \"574\", \"Best Sellers Rank\": {\"Health & Household\": 509818, \"Mop Handles\": 421}, \"Is Discontinued By Manufacturer\": \"No\", \"Finish types\": \"Brushed\", \"Number of pieces\": \"6\", \"Warranty Description\": \"5-year limited warranty.\", \"Batteries required\": \"No\", \"Brand\": \"Quickie\", \"Item Dimensions LxWxH\": \"3.38 x 8.94 x 51 inches\", \"Surface Recommendation\": \"Floor\", \"Handle Material\": \"Alloy Steel\"}",
+    "parent_asin": "B002KDQGXA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Cleaning Supplies"
+    ],
+    "confidence": 0.95
+  }
+}

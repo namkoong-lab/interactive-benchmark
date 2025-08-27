@@ -1,0 +1,40 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Stetson Wool Felt Derby Hat",
+    "average_rating": 4.2,
+    "rating_number": 4,
+    "features": [
+        "100% Wool",
+        "Drawstring closure"
+    ],
+    "description": [
+        "The Stetson Wool Felt Derby Hat is made from the highest quality wool felt for a smooth, soft feel. A classic derby crown meets a 2 inch rolled edge brim for a traditional look, with a bound ribbon edge that matches the simple hat band. Satin lined with a leather interior sweatband, this hat is finished with a subtle Stetson medallion pin and removable feather for a bit of extra flair. Made in the USA"
+    ],
+    "price": "95.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51RKe9Ie6HL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31VNYvOf+ZL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31VNYvOf+ZL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Stetson",
+    "categories": [],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"February 19, 2019\"}",
+    "parent_asin": "B00QAQO56S",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

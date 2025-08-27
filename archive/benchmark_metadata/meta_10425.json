@@ -1,0 +1,40 @@
+{
+    "main_category": "Digital Music",
+    "title": "The Golden Collection - Bhupinder",
+    "average_rating": 1.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "The Golden Collection - Bhupinder by Bhupinder"
+    ],
+    "price": "18.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51gR2c42kvL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51gR2c42kvL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Bhupinder  (Artist)    Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "CD Rarities"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.5 x 5.5 x 0.25 inches; 2.5 Ounces\", \"Manufacturer\": \"Saregama\", \"Run time\": \"1 hour and 14 minutes\", \"Date First Available\": \"December 15, 2009\", \"Label\": \"Saregama\", \"Number of discs\": \"2\"}",
+    "parent_asin": "B0030T1PS4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

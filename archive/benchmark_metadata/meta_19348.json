@@ -1,0 +1,47 @@
+{
+    "main_category": "Prime Video",
+    "title": "Ruby's Dream",
+    "average_rating": 3.4,
+    "rating_number": 17,
+    "features": [
+        "IMDb 4.4",
+        "1 h 27 min",
+        "1983",
+        "ALL"
+    ],
+    "description": [
+        "A small town man looking for a big break, owner of a bowling alley and nightclub in Jersey, Ruby Dennis sets his sites on making it big in Vegas. After broken dreams and lost hope, he learns to accept what is truly important in his life."
+    ],
+    "price": "4.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Comedy",
+        "Drama",
+        "Emotional",
+        "Understated"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Peter Lilienthal\"], \"Producers\": [\"Joachim Von Vietinghoff\"], \"Starring\": [\"Joe Pesci\", \"Ed O'Ross\", \"Ivy Ray Browning\"]}",
+    "parent_asin": "B0032UDEW6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

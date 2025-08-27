@@ -1,0 +1,50 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Nike Swim TESS0047 Mens Core Team Block Jammer",
+    "average_rating": 4.2,
+    "rating_number": 12,
+    "features": [
+        "Drawstring closure",
+        "- Drawstring waist.",
+        "- Jammers hit above knee.",
+        "- Color blocking on left thigh.",
+        "- Comfortable for long periods of use.",
+        "- Nike logo on left leg."
+    ],
+    "description": [
+        "Drawstring waist. Jammers hit above knee. Color blocking on left thigh. Comfortable for long periods of use. Nike logo on left leg."
+    ],
+    "price": "24.7",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61w9jhtDaYL._AC_UL1176_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41beOpaB2NL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41beOpaB2NL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nike",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Sport Specific Clothing",
+        "Competitive Swimwear",
+        "Men",
+        "Jammers"
+    ],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"August 21, 2012\", \"Manufacturer\": \"Nike\"}",
+    "parent_asin": "B0090GZHUI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

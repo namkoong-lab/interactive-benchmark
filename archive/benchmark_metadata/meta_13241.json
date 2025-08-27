@@ -1,0 +1,76 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Sam Edelman Women's Michaela Mary Jane Flat",
+    "average_rating": 4.0,
+    "rating_number": 17,
+    "features": [
+        "Imported",
+        "Leather sole",
+        "Heel measures approximately 0.5\"",
+        "Sam Edelman Michaela",
+        "For a timeless look that never gets old, step into the MICHAELA. A classic silhouette that fits seamlessly into any wardrobe."
+    ],
+    "description": [
+        "For a timeless look that never gets old, step into the MICHAELA. A classic silhouette that fits seamlessly into any wardrobe."
+    ],
+    "price": "130.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61rSZukRmgL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51TdYF4NZML._AC_UL1444_.jpg",
+            "https://m.media-amazon.com/images/I/61aV0gT1IJL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61MMMDMrYVL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61f5c1WPNdL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/614OhNyEu9L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71GtGXqtAxL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Xjd9GvKNL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31wGfQjYkVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41vqCIuml0L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41WsuMQKwYL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21aOwMIp-nL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31wXRGJXDRL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31uiYaSQSWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/316UXnQgp9L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31sBU4VUuhL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31wGfQjYkVL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41vqCIuml0L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41WsuMQKwYL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/21aOwMIp-nL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31wXRGJXDRL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31uiYaSQSWL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/316UXnQgp9L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31sBU4VUuhL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR",
+            "LEFT"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Sam Edelman",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Flats"
+    ],
+    "details": "{\"Item model number\": \"H8665S1002\", \"Department\": \"womens\", \"Date First Available\": \"July 31, 2021\", \"Manufacturer\": \"Sam Edelman\"}",
+    "parent_asin": "B09TS2R82S",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

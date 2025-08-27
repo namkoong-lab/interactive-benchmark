@@ -1,0 +1,52 @@
+{
+    "main_category": "Sports & Outdoors",
+    "title": "Nathan Light Spur",
+    "average_rating": 4.1,
+    "rating_number": 206,
+    "features": [
+        "Quickly and securely attaches to heel of your shoe",
+        "Super lightweight so you don't feel a thing",
+        "Multi-settings for high visibility and added safety",
+        "Waterproof so you can run longer in any weather",
+        "Easily replaceable watch battery offers 100+ hours of illumination",
+        "Usage Instructions: Press and hold power button for 2-3 seconds to turn on. Press again to switch between steady and strobe modes. Press and hold power button for 2-3 seconds to turn off."
+    ],
+    "description": [
+        "Our run longer light series allows us to effortlessly extend our day to spend more time outside, with smart, compact, easily-configurable, high-visibility clip-on lighting."
+    ],
+    "price": "11.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81hvN8XdcNL._AC_SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41hOmhg1mDL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51-T7DayvuL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41hOmhg1mDL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51-T7DayvuL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nathan",
+    "categories": [
+        "Sports & Outdoors",
+        "Outdoor Recreation",
+        "Accessories"
+    ],
+    "details": "{\"Item Package Dimensions L x W x H\": \"6.69 x 3.94 x 1.97 inches\", \"Package Weight\": \"0.06 Kilograms\", \"Item Dimensions  LxWxH\": \"6.7 x 4 x 1.5 inches\", \"Item Weight\": \"0.13 Pounds\", \"Brand Name\": \"Nathan\", \"Color\": \"Grey\", \"Suggested Users\": \"unisex-adult\", \"Number of Items\": \"1\", \"Manufacturer\": \"Nathan\", \"Part Number\": \"5072NB\", \"Model Year\": \"2018\", \"Size\": \"One Size\", \"Best Sellers Rank\": {\"Sports & Outdoors\": 479787, \"Habitat Science Kits\": 185, \"Educational Science Kits\": 3977, \"Outdoor Recreation Accessories\": 32223}, \"Date First Available\": \"September 10, 2012\"}",
+    "parent_asin": "B0099LRY2S",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

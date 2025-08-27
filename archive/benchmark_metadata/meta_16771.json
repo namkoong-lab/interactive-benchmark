@@ -1,0 +1,56 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "All Things Apparel POW/MIA Front and Back Men's T-Shirt",
+    "average_rating": 4.5,
+    "rating_number": 44,
+    "features": [
+        "Jersey Knit,Cotton",
+        "Pull On closure",
+        "Machine Wash",
+        "Preshrunk 100% Cotton Jersey Knit",
+        "5.3 oz. Gildan",
+        "Taped Neck and Shoulder"
+    ],
+    "description": [
+        "This image was designed and screen printed by All Things Apparel and is an authentic All Things Apparel product."
+    ],
+    "price": "12.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61aaFfInI1L._AC_UL1250_.jpg",
+            "https://m.media-amazon.com/images/I/61XI5chdH5L._AC_UL1250_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41js7UiBaXL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/415ZImhpXFL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41js7UiBaXL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/415ZImhpXFL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "All Things Apparel",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Men",
+        "Shirts",
+        "T-Shirts"
+    ],
+    "details": "{\"Item model number\": \"11679-$P\", \"Department\": \"mens\", \"Date First Available\": \"December 18, 2016\"}",
+    "parent_asin": "B07CPBSFH2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

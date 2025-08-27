@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "Outside Kitty",
+    "average_rating": 3.5,
+    "rating_number": 9,
+    "features": [
+        "What inside cat hasn't looked out the window with a wonder in their eyes at what the outside world might offer? The cat in this story finds out whether the grass really is greener on the other side of the window."
+    ],
+    "description": [
+        "From the Author",
+        "I wrote this story over 10 years ago but just never could pair up with the right illustrator, then was lucky enough to find a fellow feline enthusiast and the rest is history.  This is my first bestseller.  Thanks so much for all the support.",
+        "About the Author",
+        "A native of East Tennessee, JS Moore also writes a nonfiction book series called The Understanding Apples Series. He resides in Kingsport, Tennessee with his cat Harley and dog Elvis."
+    ],
+    "price": "9.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41rNz7AF24L._SX398_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "JS Moore (Author),  Aaron Kent Warder (Illustrator)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Growing Up & Facts of Life"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform; Large Print edition (November 4, 2011)\", \"Language\": \"English\", \"Paperback\": \"34 pages\", \"ISBN 10\": \"1463775849\", \"ISBN 13\": \"978-1463775841\", \"Reading age\": \"5 - 6 years\", \"Item Weight\": \"3.2 ounces\", \"Dimensions\": \"8 x 0.08 x 10 inches\"}",
+    "parent_asin": "1463775849",
+    "bought_together": null,
+    "subtitle": "Paperback – Large Print, November 4, 2011",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/b368d82lku6d4gmqcumj18rnnt._SY600_.jpg', 'name': 'JS Moore', 'about': ['JS Moore was born in Kingsport, Tennessee but grew up all over the northeastern Tennessee region. While serving in the United States Army as a military police officer in Puerto Rico Moore was first introduced to Hunter S. Thompson and says it was almost like looking into a mirror.', 'After military service Moore returned to Tennessee where he attended Northeast State Community College and then studied English and history at East Tennessee State University.', 'His first book, Understanding Apples, was an assortment of true anecdotes about the Long Island Community of Kingsport, Tennessee and first released in October of 2006 to positive reviews.', 'Other nonfiction books followed, including the biography of criminal defense attorney Burkett C. McInturff and works about street character and local prophet Harry Bowyer.', \"Outside Kitty was Moore's first children's book. It would debut #1 on the bestseller lists and is now available in several other languages. Other children's books followed, including Wee Willard Tremble and Under the Sun: The Miyamoto Musashi Story.\", 'JS Moore now resides in east Tennessee after living in Japan in 2014. He recently released a fourth collection of poetry. This was his 24th published book.', 'His website is: www.understandingapples.com']}"
+}

@@ -1,0 +1,50 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Free People Womens Button-Down Bishop Sleeve Cardigan Sweater",
+    "average_rating": 3.0,
+    "rating_number": 19,
+    "features": [
+        "15% polyester",
+        "Button closure",
+        "Hand Wash Only",
+        "Front button closure",
+        "Front welt pockets",
+        "52% cotton, 17% nylon, 15% polyester, 14% wool, 1% alpaca, 1% elastane"
+    ],
+    "description": [
+        "Boasting tortoiseshell buttons, this cardigan by Free People features bishop sleeves and tonal trim to add a stylish layer to your outfit."
+    ],
+    "price": "74.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51PdNdulmGL._AC_UL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31C9SKHE8fL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31C9SKHE8fL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Free People",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Sweaters",
+        "Cardigans"
+    ],
+    "details": "{\"Product Dimensions\": \"14 x 10 x 2 inches; 1 Pounds\", \"Item model number\": \"OB1043824\", \"Department\": \"womens\", \"Date First Available\": \"October 29, 2019\", \"Manufacturer\": \"Free People\"}",
+    "parent_asin": "B07ZQTHDN5",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

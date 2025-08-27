@@ -1,0 +1,54 @@
+{
+  "item_id": 2986,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Yongyong One Direction Infinity Necklace Directioner",
+    "average_rating": 3.9,
+    "rating_number": 101,
+    "features": [
+      "Metal: Alloy",
+      "Color：Silver",
+      "Quantity:1pcs",
+      "Simple and light design",
+      "Hot sell in our store.can be used as a gift for a colleague,friends,family"
+    ],
+    "description": [
+      "Quantity:1pcs Simple and light design Hot sell in our store.can be used as a gift for a colleague,friends,family Style: Necklace & Pendant"
+    ],
+    "price": "7.5",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51ouTcDjT5L._AC_UL1001_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41rcUW3LpDL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41rcUW3LpDL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Yongyong",
+    "categories": [],
+    "details": "{\"Product Dimensions\": \"9.5 x 7.5 x 2.2 inches; 3.2 Ounces\", \"Item model number\": \"702\", \"Date First Available\": \"April 14, 2014\", \"Manufacturer\": \"Yongyong\"}",
+    "parent_asin": "B00JO26GDU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Necklaces"
+    ],
+    "confidence": 0.95
+  }
+}

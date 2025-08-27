@@ -1,0 +1,45 @@
+{
+    "main_category": "Books",
+    "title": "Guts",
+    "average_rating": 4.6,
+    "rating_number": 421,
+    "features": [
+        "In this nonfiction companion to the Brian books, Gary Paulsen tells the real stories behind the Brian books, the stories of the adventures that inspired him to write Brian Robeson's story."
+    ],
+    "description": [
+        "From the Back Cover",
+        "Guess what -- Gary Paulsen was being kind to Brian. In \"Guts, Gary tells the real stories behind the Brian books, the stories of the adventures that inspired him to write Brian Robeson's story: working as an emergency volunteer; the death that inspired the pilot's death in \"Hatchet; plane crashes he has seen and near-misses of his own. He describes how he made his own bows and arrows, and takes readers on his first hunting trips, showing the wonder and solace of nature along with his hilarious mishaps and mistakes. He shares special memories, such as the night he attracted every mosquito in the county, or how he met the moose with a sense of humor, and the moose who made it personal. There's a handy chapter on \"Eating Eyeballs and Guts or Starving: The Fine Art of Wilderness Nutrition.\" Recipes included. Readers may wonder how Gary Paulsen survived to write all of his books -- well, it took guts.",
+        "\"From the Hardcover edition."
+    ],
+    "price": "19.25",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51E5sZSOM6L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Gary Paulsen (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Literature & Fiction"
+    ],
+    "details": "{\"Publisher\": \"Turtleback Books (January 1, 2001)\", \"Language\": \"English\", \"Hardcover\": \"148 pages\", \"ISBN 10\": \"0756911524\", \"ISBN 13\": \"978-0756911522\", \"Reading age\": \"10 - 13 years\", \"Lexile measure\": \"NC1230L\", \"Item Weight\": \"4.8 ounces\", \"Dimensions\": \"4 x 0.6 x 6.8 inches\"}",
+    "parent_asin": "0756911524",
+    "bought_together": null,
+    "subtitle": "Hardcover – January 1, 2001",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/313l0DRU9VL._SY600_.jpg', 'name': 'Gary Paulsen', 'about': ['Gary Paulsen is one of the most honored writers of contemporary literature for young readers. He has written more than one hundred book for adults and young readers, and is the author of three Newberry Honor titles: Dogsong, Hatchet, and The Winter Room. He divides his time among Alaska, New Mexico, Minnesota, and the Pacific.']}"
+}

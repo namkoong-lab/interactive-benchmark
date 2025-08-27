@@ -1,0 +1,83 @@
+{
+  "item_id": 3209,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Nike Women's Zoom Fit",
+    "average_rating": 4.1,
+    "rating_number": 20,
+    "features": [
+      "Imported",
+      "Rubber sole",
+      "Clothing",
+      "female"
+    ],
+    "description": [
+      "Enjoy lightweight support and responsive cushioning with the Nike Zoom Fit. This training shoe was constructed with a breathable mesh upper, Zoom technology, internal bootie, and a herringbone pattern on the outsole for multidirectional traction."
+    ],
+    "price": "85.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71WR1CNXYbL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71hw08HX61L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71j8GxPX13L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71D92XorA3L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71+auyASyTL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71wCazUDR4L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61IgJTEC3nL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51tbv9ds0WL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41cGTSBjraL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51AgKceVMuL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41cQDgAFIIL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51h2KuvJ9kL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41bg0y7pISL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41O8R59Tg2L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51tbv9ds0WL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41cGTSBjraL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51AgKceVMuL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41cQDgAFIIL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51h2KuvJ9kL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41bg0y7pISL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41O8R59Tg2L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05",
+        "PT06"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Nike",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Athletic",
+      "Running",
+      "Road Running"
+    ],
+    "details": "{\"Item model number\": \"Zoom Fit\", \"Department\": \"womens\", \"Date First Available\": \"August 4, 2015\", \"Manufacturer\": \"Nike\"}",
+    "parent_asin": "B018N0QV3S",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

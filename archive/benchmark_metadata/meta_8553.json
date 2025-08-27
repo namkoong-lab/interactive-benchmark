@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Topsfield (Images of America: Massachusetts)",
+    "average_rating": 4.0,
+    "rating_number": 5,
+    "features": [
+        "This unique collection of photographs and postcards presents the first pictorial history of Topsfield, Massachusetts. Topsfield is a collection of beautiful old photographs and postcards documentingthe history of the town from its earliest days to the late 1950s. Quickly approaching its 350th anniversary, the town is known for its beautiful summer estates and the acclaimed Parson Capen House, one of the world's-finest preserved examples of Elizabethan architecture. About 35 years after the purchase of the land by John Winthrop in 1616 from Masconomet, chief of the Agawam tribe, there was enough of a thriving agricultural community to establish a village. The Parson Capen House was built in 1683 by Reverend Joseph Capen and is now beautifully restored and maintained by the Topsfield Historical Society, drawing visitors from around the world. At the beginning of the twentieth century, Topsfield transformed from a primarily agricultural community into a rural suburban town with many lovelyestates such as the Bradley Palmer Estate. Early images, including those from the Otto Lake glass-plate photograph collection, show early town events such as the Topsfield Fair, which is the country'soldest town fair. These fascinating images give us a wonderful view of life in early Topsfield and document the rich history of local landmarks and beautiful countryside."
+    ],
+    "description": [
+        "About the Author",
+        "Elizabeth Dinan and her father, John Dinan, are longtime residents of Topsfield and are both published authors. Some of John Dinan's works include Sports in the Pulp Magazines and The Pulp Western. Elizabeth Dinan is a reporter for North Shore Sunday, and the winner of 17 New England Press Association Awards. Many of the images seen in Topsfield are from the authors' private collection."
+    ],
+    "price": "21.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51mPNQhITFL._SX347_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "John Dinan (Author)",
+    "categories": [
+        "Books",
+        "History",
+        "Americas"
+    ],
+    "details": "{\"Publisher\": \"Arcadia Publishing; Illustrated edition (November 20, 1999)\", \"Language\": \"English\", \"Paperback\": \"128 pages\", \"ISBN 10\": \"0738503282\", \"ISBN 13\": \"978-0738503288\", \"Item Weight\": \"11.2 ounces\", \"Dimensions\": \"6.5 x 0.31 x 9.25 inches\"}",
+    "parent_asin": "0738503282",
+    "bought_together": null,
+    "subtitle": "Paperback – November 20, 1999",
+    "author": null
+}

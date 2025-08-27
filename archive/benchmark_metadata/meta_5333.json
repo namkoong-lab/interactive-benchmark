@@ -1,0 +1,59 @@
+{
+    "main_category": "Automotive",
+    "title": "Window Sunshade",
+    "average_rating": 4.1,
+    "rating_number": 6,
+    "features": [
+        "Made in USA",
+        "Reflects up to 95 percent of incoming solar light",
+        "Reduce Interior Tempature and protects car upholstery from harmful UV radiation",
+        "Custom Fit your vehicle for maximum reflection, use only when vehicle is parked",
+        "Featuring press fit design, suction cup is not required, easy to install and remove.",
+        "Compatible with vehicle type: Passenger Car",
+        "Fit type: Vehicle Specific",
+        "Part number: F_SIDE x2 2009 Dodge Challenger"
+    ],
+    "description": [
+        "UV radiation can deteriorate and damaged your car interior upholstery. Autofit pro sunshade features a 95% reflectivity yet weights only up to 7 ounces. It is custom made to fit each car model' and it is easy to store inside your vehicle. The sunshade is made of polyetheylene and is handcrafted to perfection, then the edge is sewn with nylon binding for maximum endurance."
+    ],
+    "price": "28.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81ygkiQphlL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81Lv5WK3JML._AC_SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/417t7E+xKLL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Dyq0YdHGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31LM3M1BMFL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/417t7E+xKLL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41Dyq0YdHGL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31LM3M1BMFL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "AutofitPro",
+    "categories": [
+        "Automotive",
+        "Interior Accessories",
+        "Sun Protection",
+        "Sunshades"
+    ],
+    "details": "{\"Manufacturer\": \"AutofitPro\", \"Brand\": \"AutofitPro\", \"Manufacturer Part Number\": \"F_SIDE x2 2009 Dodge Challenger\", \"Best Sellers Rank\": {\"Automotive\": 2047880, \"Automotive Window Sunshades\": 14371}, \"Date First Available\": \"April 26, 2021\", \"Vehicle Service Type\": \"Passenger Car\", \"Material\": \"Nylon\", \"Closure Type\": \"Press Fit\"}",
+    "parent_asin": "B093HHPY6Q",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

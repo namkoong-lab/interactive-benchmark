@@ -1,0 +1,47 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Hurley Women's Coastal Leopard Romper",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [
+        "Machine Wash"
+    ],
+    "description": [
+        "The Hurley Coastal Romper is a beach-ready look made of quick-drying fabric and convertible straps for custom comfort. Benefits Quick-drying, stretchy fabric is light and comfortable. Convertible straps provide 3 unique looks. Product Details Classic fit Elastic waistband 21\" HPS 1.75\" inseam Fabric: 91% polyester/9% spandex Machine wash"
+    ],
+    "price": "31.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61NhhPg1qqL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61GioQ8GtlL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71MhYFRlQWL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41LzmsmDj0L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41c4S9GVjqL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51N5G0sVFyL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41LzmsmDj0L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41c4S9GVjqL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51N5G0sVFyL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Hurley",
+    "categories": [],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"April 5, 2019\", \"Manufacturer\": \"Hurley\"}",
+    "parent_asin": "B07QHFK9G4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

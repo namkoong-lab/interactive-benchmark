@@ -1,0 +1,54 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Hatley baby-girls Organic Cotton Footed Coverall",
+    "average_rating": 4.8,
+    "rating_number": 18,
+    "features": [
+        "100% Cotton",
+        "Imported",
+        "Zipper closure",
+        "Machine Wash",
+        "Made to be snug fitting",
+        "Full-length zipper closure with inside zipper guard",
+        "Snap tab at neckline",
+        "Contrast neckband and cuffs",
+        "Non-skid soles"
+    ],
+    "description": [
+        "Your little one will be warm and snug all night long in this adorable footed coverall! Crafted from breathable organic cotton, it's eco-friendly and soft on their delicate skin. You'll love the full-length zipper that makes for easy changing!"
+    ],
+    "price": "17.01",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/718-NM1ulTL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41uUpH6t+EL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41uUpH6t+EL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Hatley",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Baby",
+        "Baby Girls",
+        "Clothing",
+        "Sleepwear & Robes",
+        "Blanket Sleepers"
+    ],
+    "details": "{\"Department\": \"baby-girls\", \"Date First Available\": \"August 31, 2021\", \"Manufacturer\": \"Hatley\"}",
+    "parent_asin": "B09F4X3396",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

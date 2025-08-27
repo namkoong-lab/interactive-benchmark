@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "A Pet for Tommy",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "Tommy wants a pet. At the zoo, he meets lots of animals. He is sure that he will get to bring one home with him. Which one should he choose?"
+    ],
+    "description": [
+        "About the Author",
+        "Jennifer Royal lives in Missouri with her husband and two sweet parakeets. She wishes there was enough space for a llama in their back yard."
+    ],
+    "price": "9.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41r29siXUkL._SY498_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jennifer Anne Royal (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Animals"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform; 1st edition (August 3, 2017)\", \"Language\": \"English\", \"Paperback\": \"26 pages\", \"ISBN 10\": \"1548826057\", \"ISBN 13\": \"978-1548826055\", \"Reading age\": \"5 - 6 years\", \"Item Weight\": \"3.04 ounces\", \"Dimensions\": \"8.5 x 0.07 x 8.5 inches\"}",
+    "parent_asin": "1548826057",
+    "bought_together": null,
+    "subtitle": "Paperback – August 3, 2017",
+    "author": null
+}

@@ -1,0 +1,64 @@
+{
+  "item_id": 4664,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "PUMA Classics Boxy Tee",
+    "average_rating": 4.2,
+    "rating_number": 3,
+    "features": [
+      "100% Cotton",
+      "Made in the USA or Imported",
+      "Pull On closure",
+      "Machine Wash",
+      "Ribbed Crew Neck",
+      "Short Sleeve",
+      "Cotton"
+    ],
+    "description": [
+      "This Boxy Tee, With Its Relaxed Fit And Ribbed Crew Neck, Is Something Everyone Should Have In Their Wardrobe. It Goes With Just About Everything. But It's Also A Garment That Is Doing Some Good In The World. It Uses Cotton From The Better Cotton Initiative, Which Helps Support More Sustainable Cotton Farming."
+    ],
+    "price": "9.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61rhKd9ZEgL._AC_UL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61lCmaZZV-L._AC_UL1080_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41bPSb9+CzL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41skg9785lL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41bPSb9+CzL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41skg9785lL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "PUMA",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Shirts"
+    ],
+    "details": "{\"Item Weight\": \"8 Ounces\", \"Item model number\": \"532135-01\", \"Department\": \"mens\", \"Date First Available\": \"May 15, 2021\", \"Manufacturer\": \"Puma\"}",
+    "parent_asin": "B094ZYCH41",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops"
+    ],
+    "confidence": 0.95
+  }
+}

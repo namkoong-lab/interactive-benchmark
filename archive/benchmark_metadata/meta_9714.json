@@ -1,0 +1,37 @@
+{
+    "main_category": "Digital Music",
+    "title": "Increasing Efficiency",
+    "average_rating": 3.0,
+    "rating_number": 2,
+    "features": [],
+    "description": [
+        "This is the cd format recording + transcript of the Marcy 2nd, 1955 presentation by L. Ron Hubbard."
+    ],
+    "price": "17.14",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41NMJsy0c+L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41NMJsy0c+L._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "L. Ron Hubbard  (Author)    Format: Audio CD",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"5.55 x 4.97 x 0.54 inches; 5.6 Ounces\", \"Date First Available\": \"November 11, 2010\"}",
+    "parent_asin": "B004BV6EG8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

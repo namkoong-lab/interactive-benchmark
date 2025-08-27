@@ -1,0 +1,60 @@
+{
+  "item_id": 2828,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Mossy Oak Fishing Men's Screen Printed Performance Shirt",
+    "average_rating": 4.7,
+    "rating_number": 5,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Pull On closure",
+      "Machine Wash",
+      "Polyester main body fabric for cool comfort",
+      "Ideal for inshore, offshore, saltwater, and freshwater anglers; from wade fishing creeks and flats to all day boat fishing in hot weather, each shirt is designed to keep you cool, dry and comfortable",
+      "Authentic Mossy Oak Elements camo print with a screen printed front logo and black back to personalize with your team logo and/or sponsors"
+    ],
+    "description": [
+      "The Mossy Oak Elements Fishing Brand Tee features a lightweight stretch material that promotes moisture wicking to keep you comfortable, cool, and dry throughout the day. This is the ideal shirt for helping anglers reach their maximum level of comfort and performance for all types fishing - inshore, offshore, saltwater, and freshwater."
+    ],
+    "price": "13.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81gvMHvuhUL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91PrRcLPzML._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51Mo2WF2uZL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51NdH3J8QwL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51Mo2WF2uZL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51NdH3J8QwL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Mossy Oak",
+    "categories": [],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"April 24, 2021\"}",
+    "parent_asin": "B093DSL2ZN",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Activewear"
+    ],
+    "confidence": 0.95
+  }
+}

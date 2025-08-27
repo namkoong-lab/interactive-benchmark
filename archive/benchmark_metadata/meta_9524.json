@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Edible Grace",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "A chapbook collection of 16 lyrical micro-prose (prose poems, micro-fictions, micro-memoir), with both humor and pathos. Includes seven photographs by the author and a pen-and-ink drawing by Tula Biederman."
+    ],
+    "description": [
+        "About the Author",
+        "Guy Biederman teaches low fat fiction and is the author of three collections of short prose: Soundings and Fathoms: Stories (Finishing Line Press, 2018), House Samurai (Iota Press, 2006), and Parts & Labor (Thumbprint Press, 1992). His stories have appeared in dozens of venues including Carve, daCunha, Flashback Fiction, KYSO Flash, Sea Letter, Third Wednesday, and Exposition Review, where he was twice a Flash 405 winner. In 2018, his flash was nominated for the Best of the Net anthology. Born in the Chihuahua desert near the Mexican border, Guy grew up on a stingray in Ventura, learned to write in the Peace Corps during a civil war in Guatemala, honed his craft pulling weeds and planting flowers as a gardener in San Francisco, and later received his M.A. from San Francisco State University, where his teaching career began. He's been a creative-writing instructor since 1991, and he's also worked as a bookstore clerk, gardener, ad sales rep, sports writer, and publisher. For 12 years he published the literary magazine Bust Out Stories and a handful of books by Bay Area writers. Guy hosts The Floating Word on Radio Sausalito, lives on a houseboat with his wife and two salty cats, and walks the planks daily."
+    ],
+    "price": "12.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41BsT+29sOL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Guy Biederman (Author)",
+    "categories": [
+        "Books",
+        "Reference",
+        "Writing, Research & Publishing Guides"
+    ],
+    "details": "{\"Publisher\": \"KYSO Flash (September 14, 2019)\", \"Language\": \"English\", \"Paperback\": \"38 pages\", \"ISBN 10\": \"0998037540\", \"ISBN 13\": \"978-0998037547\", \"Item Weight\": \"2.88 ounces\", \"Dimensions\": \"6 x 0.1 x 9 inches\"}",
+    "parent_asin": "0998037540",
+    "bought_together": null,
+    "subtitle": "Paperback – September 14, 2019",
+    "author": null
+}

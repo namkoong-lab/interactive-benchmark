@@ -1,0 +1,71 @@
+{
+    "main_category": "All Beauty",
+    "title": "Logona Mann Shaving Cream, 2.5 Fluid Ounce",
+    "average_rating": 4.4,
+    "rating_number": 123,
+    "features": [
+        "Soothing and revitalizing",
+        "Spicy masculine woodsy scents",
+        "Calming and soothing to the skin"
+    ],
+    "description": [
+        "Spicy masculine notes of fine woods, thanks to its pH value this gentle rich creamy formula prepares facial hair for smooth and gentle shave."
+    ],
+    "price": "77.7",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71KBUr6lwHL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71w8HoS7OkL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81g7DjJOClL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71kdFLz7AsL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51aSrCJ14TL._SL1299_.jpg",
+            "https://m.media-amazon.com/images/I/71hP-3riq7L._SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/318ULRrg0qL.jpg",
+            "https://m.media-amazon.com/images/I/31sGaIURPTL.jpg",
+            "https://m.media-amazon.com/images/I/410nXGIbDfL.jpg",
+            "https://m.media-amazon.com/images/I/510+mmlpgYL.jpg",
+            "https://m.media-amazon.com/images/I/41yUNuDXctL.jpg",
+            "https://m.media-amazon.com/images/I/51ozI2YEonL.jpg",
+            "https://m.media-amazon.com/images/I/61hUDem5ySL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/318ULRrg0qL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/31sGaIURPTL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/410nXGIbDfL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/510+mmlpgYL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41yUNuDXctL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51ozI2YEonL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/61hUDem5ySL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT05",
+            "PT11",
+            "AW01",
+            "AW02",
+            "AW06"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Logona",
+    "categories": [
+        "Beauty & Personal Care",
+        "Shave & Hair Removal",
+        "Men's",
+        "Shaving Creams, Lotions & Gels",
+        "Shaving Creams"
+    ],
+    "details": "{\"Brand\": \"Logona\", \"Item Form\": \"Cream\", \"Skin Type\": \"All\", \"Age Range (Description)\": \"Adult\", \"Item Weight\": \"0.07 Kilograms\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.12 x 1.57 x 1.57 inches; 2.47 Ounces\", \"Item model number\": \"2172.0\", \"Department\": \"Men\", \"Manufacturer\": \"Logona\"}",
+    "parent_asin": "B007LXCL6K",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

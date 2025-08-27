@@ -1,0 +1,57 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "adidas Men's Essentials Fleece Regular Tapered Pants",
+    "average_rating": 4.5,
+    "rating_number": 99,
+    "features": [
+        "70% Cotton, 30% Polyester",
+        "Imported",
+        "Drawstring closure",
+        "Machine Wash",
+        "Soft pants with subtle details for the win, made in part with recycled content.",
+        "Drawcord on elastic waist",
+        "Side pockets",
+        "Back pocket"
+    ],
+    "description": [
+        "Athletes agree — get the fundamentals right, and everything else follows. These adidas sweat pants are a promising place to start. Made from fleece, they're soft and comfy all the way from the elasticated, mid-rise waist to the cuffed hems. With side pockets and a back pocket, they'll hold more than just your phone. That leaves your hands free for your coffee. Made in part with recycled content generated from production waste, eg. cutting scraps, and post-consumer household waste to avoid the larger environmental impact of producing virgin content."
+    ],
+    "price": "34.88",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/714wkkxCjgL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71BqczdPj-L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31cSX-wPmGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/313d4oCPeYL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31cSX-wPmGL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/313d4oCPeYL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "adidas",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Active",
+        "Active Pants",
+        "Sweatpants"
+    ],
+    "details": "{\"Package Dimensions\": \"12 x 8 x 0.5 inches; 1.4 Pounds\", \"Item model number\": \"O7865\", \"Department\": \"Mens\", \"Date First Available\": \"October 29, 2021\", \"Manufacturer\": \"adidas\"}",
+    "parent_asin": "B09KN3T1FQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

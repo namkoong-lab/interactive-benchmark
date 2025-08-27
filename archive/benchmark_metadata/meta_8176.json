@@ -1,0 +1,48 @@
+{
+    "main_category": "Books",
+    "title": "A Measured Thread",
+    "average_rating": 4.5,
+    "rating_number": 48,
+    "features": [
+        "Fifty years is a long time to keep a secret",
+        "Looking back on her life, Maggie O’Connor is rightfully pleased. Fifty years ago she left Ireland with a single suitcase and a dream. After a long and satisfying career, she is enjoying retirement on her farm in rural Wisconsin — until she falls.",
+        "Determined to regain her independence, she hires Isobel, a young woman who is  also an emigrant. Helping Maggie clean house, Isobel finds a cache of letters that Maggie wrote to her parents those many years ago and begins to read them aloud to Maggie",
+        "But the letters contain a secret, one that Maggie has kept for fifty years. A secret that threatens to destroy her life and that of the people around her. With little time left, she must make a choice — give up, or face her past.",
+        "A Measured Thread is a powerful story that explores questions of guilt, abandonment, redemption, and the consequences of the choices we make."
+    ],
+    "description": [
+        "About the Author",
+        "8. MARY BEHAN was formerly a professor of neuroscience. Now retired from the University of Wisconsin, Madison, she devotes her time to writing fiction, memoir and short stories. Her first book, Abby Girls, is a memoir she wrote with her sister, Valarie Behan, about their childhood in Ireland. She lives with her husband in the Driftless Area of Wisconsin in a log cabin overlooking a tall grass prairie. Visit her at mvbehan.com."
+    ],
+    "price": "15.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/416jMbl1H8L._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mary Behan (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Genre Fiction"
+    ],
+    "details": "{\"Publisher\": \"Laurence Gate Press (April 14, 2020)\", \"Language\": \"English\", \"Paperback\": \"240 pages\", \"ISBN 10\": \"1734494301\", \"ISBN 13\": \"978-1734494303\", \"Item Weight\": \"12.6 ounces\", \"Dimensions\": \"6 x 0.6 x 9 inches\"}",
+    "parent_asin": "1734494301",
+    "bought_together": null,
+    "subtitle": "Paperback – April 14, 2020",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/s5apcbulm5jqbl5vm9bm0svf8o._SY600_.jpg', 'name': 'Mary Behan', 'about': ['Mary Behan grew up in Ireland and emigrated to the United States of America in 1976. For thirty years she was a professor of neuroscience at the University of Wisconsin-Madison. Abbey Girls, a memoir written with her sister about their childhood in Ireland was published in 2015. Now retired, she devotes her time to writing, reading and travel. She lives with her husband in a historic log cabin overlooking a tallgrass prairie in the Driftless Area of southwestern Wisconsin. A Measured Thread is her first novel and an award winner in the 2020 Shelf Unbound Best Indie Book Competition and the eLit Awards.']}"
+}

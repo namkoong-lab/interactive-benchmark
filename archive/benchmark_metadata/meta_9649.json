@@ -1,0 +1,50 @@
+{
+    "main_category": "Video Games",
+    "title": "Riddle Of The Sphinx",
+    "average_rating": 4.4,
+    "rating_number": 6,
+    "features": [
+        "Find the missing scroll using an archaeologists' notes and your own wits, to learn the secret that has been hidden for so long",
+        "Solve complex puzzles and find clues that will lead through secret chambers and corridors within the Sphinx",
+        "Unearth sacred artifacts as you journey through eerie labyrinths",
+        "Once you find the secret scroll, use your old friend's notes to decipher it, and uncover a 5000-year old mystery!"
+    ],
+    "description": [
+        "Solve the mystery of the Sphinx and undo the curse that threatens your life! / Rated E: Everyone"
+    ],
+    "price": "5.99",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/51WzbguWjjL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/212954H4NJL.jpg",
+            "https://m.media-amazon.com/images/I/31BDm2VqflL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/212954H4NJL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31BDm2VqflL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "GLMR"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Dreamcatcher",
+    "categories": [
+        "Video Games",
+        "PC",
+        "Games"
+    ],
+    "details": "{\"Release date\": \"August 1, 2004\", \"Best Sellers Rank\": {\"Video Games\": 159167, \"PC-compatible Games\": 9506}, \"Pricing\": \"The strikethrough price is the List Price. Savings represents a discount off the List Price.\", \"Package Dimensions\": \"8 x 5 x 1 inches; 1 Pounds\", \"Type of item\": \"Video Game\", \"Rated\": \"Everyone\", \"Is Discontinued By Manufacturer\": \"Yes\", \"Item Weight\": \"1 pounds\", \"Manufacturer\": \"Dreamcatcher\", \"Date First Available\": \"April 7, 2003\"}",
+    "parent_asin": "B00007E7N6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

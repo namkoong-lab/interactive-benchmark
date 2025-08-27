@@ -1,0 +1,65 @@
+{
+  "item_id": 2006,
+  "metadata": {
+    "main_category": "All Electronics",
+    "title": "Altronix AL125ULP 2 PTC Outputs Power Supply / Charger. 12VDC or 24VDC, Class 2, Grey Enclosure & Plug-in Xfmr.",
+    "average_rating": 4.2,
+    "rating_number": 7,
+    "features": [
+      "AL125ULP is a Two (2) Output Switching Power Supply/Charger that converts a 24VAC @ 40VA input, into two (2) individually PTC protected 12VDC or 24VDC outputs.",
+      "Access control trigger input.",
+      "Built-in charger for sealed lead acid or gel type batteries. Automatic switch over to stand-by battery when AC fails.Maximum charge current 0.4 amp.",
+      "AC fail supervision (form \"C\" contacts).Supervised Fire Alarm Disconnect (Latching w/reset or Non-Latching)",
+      "Includes power supply, plug-in transformer, enclosure and battery leads."
+    ],
+    "description": [
+      "Power Supply 2Out 12Dc Or 24Dc @ 1A Transformer, Type Power Supply/Charger Fire Disconnect, Material Steel, Finish Gray, Enclosure Depth 3.50 In, Enclosure Width 7.50 In, Enclosure Height 8.50 In, Input Voltage 115VAC, Voltage OUTPut 12VDC or 24VDC, OUTPut Current 1A Amps, Input Frequency 60 Hz, Standards UL294, CUL, Includes Battery leads, Cam Lock"
+    ],
+    "price": "176.53",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41GbsN9f4nL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41GbsN9f4nL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Wiring of Wiegand Access Control System"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/f9f1f63ac6504c17bd4d32cb46b88468?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "Altronix",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Computer Components",
+      "Internal Components",
+      "Internal Power Supplies"
+    ],
+    "details": "{\"Product Dimensions\": \"3.5 x 7.5 x 8.5 inches\", \"Item Weight\": \"2177 Grams\", \"Item model number\": \"AL125ULP\", \"Best Sellers Rank\": {\"Computer Power Supplies\": 1970}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"July 18, 2009\", \"Manufacturer\": \"ALTRONIX\", \"Brand\": \"Altronix\", \"Connector Type\": \"Plug in\", \"Item Dimensions LxWxH\": \"3.5 x 7.5 x 8.5 inches\", \"Output Wattage\": \"40 Watts\"}",
+    "parent_asin": "B002I11KRQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Electronics",
+      "Batteries"
+    ],
+    "confidence": 0.85
+  }
+}

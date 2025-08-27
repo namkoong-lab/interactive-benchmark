@@ -1,0 +1,49 @@
+{
+    "main_category": "Books",
+    "title": "The Indisputable Existence of Santa Claus: The Mathematics of Christmas",
+    "average_rating": 4.4,
+    "rating_number": 516,
+    "features": [
+        "How do you apply game theory to select who should be on your Christmas shopping list? What equations should you use to decorate the Christmas tree? Will calculations show Santa is getting steadily thinner―shimmying up and down chimneys for a whole night―or fatter―as he munches on cookies and milk in billions of houses across the world?In The Indisputable Existence of Santa Claus, distinguished mathematicians Hannah Fry and Thomas Oléron Evans demonstrate, with eminently readable clarity, how applied mathematics are so thoroughly interwoven throughout our everyday lives by explaining mathematical concepts through one very merry motif: Christmas.In their quest to provide mathematical proof for the existence of Santa, the authors take readers on a festive journey through a traditional holiday season, wherein every activity, from wrapping presents to playing board games to cooking the perfect turkey, is painstakingly and hilariously analyzed. Because who hasn’t always wondered how to set up a mathematically perfect Secret Santa?  Lighthearted and diverting with Christmasy diagrams, sketches and graphs, equations, Markov chains, and matrices, The Indisputable Existence of Santa Claus brightens up the bleak midwinter with stockingsful of mathematical marvels."
+    ],
+    "description": [
+        "About the Author",
+        "Thomas Oléron Evans, PhD",
+        "is a Teaching Fellow for the Smart Cities and Spatial Data Courses at the University College London.",
+        "Hannah Fry, PhD",
+        "is a broadcaster and lecturer of the Mathematics of Cities at the University College London. She is the author of",
+        "The Mathematics of Love",
+        ", and her TED talk on the subject has been viewed over five million times. She regularly appears on BBC television and radio."
+    ],
+    "price": "17.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41S8CRDVhML._SY331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Thomas Oléron Evans (Author),  Hannah Fry (Author)",
+    "categories": [
+        "Books",
+        "Christian Books & Bibles",
+        "Christian Living"
+    ],
+    "details": "{\"Publisher\": \"Harry N. Abrams; 1st edition (October 24, 2017)\", \"Language\": \"English\", \"Hardcover\": \"160 pages\", \"ISBN 10\": \"1468316125\", \"ISBN 13\": \"978-1468316124\", \"Item Weight\": \"8 ounces\", \"Dimensions\": \"5.2 x 0.7 x 8.05 inches\"}",
+    "parent_asin": "1468316125",
+    "bought_together": null,
+    "subtitle": "Hardcover – October 24, 2017",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Thomas Oleron Evans', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

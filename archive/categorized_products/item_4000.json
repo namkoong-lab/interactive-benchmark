@@ -1,0 +1,58 @@
+{
+  "item_id": 4000,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Nike Women's Jersey 100% Polyester Football/Soccer 894099 Black/White Striped (Small)",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "Polyester lining",
+      "Drawstring closure",
+      "Machine Wash"
+    ],
+    "description": [
+      "Nike Women's Jersey 100% Polyester Football/Soccer 894099 Black/White Striped (Small)"
+    ],
+    "price": "29.93",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/517WkmVgLlL._AC_UL1189_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/418qiOstubL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/418qiOstubL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Nike",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Athletic",
+      "Running"
+    ],
+    "details": "{\"Package Dimensions\": \"8.39 x 7.24 x 2.05 inches; 3.53 Ounces\", \"Department\": \"womens\", \"Date First Available\": \"January 22, 2021\", \"Manufacturer\": \"Nike\"}",
+    "parent_asin": "B00285K7IU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops",
+      "Women's Sports Jerseys"
+    ],
+    "confidence": 0.95
+  }
+}

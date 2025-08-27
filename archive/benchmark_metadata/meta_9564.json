@@ -1,0 +1,53 @@
+{
+    "main_category": "Books",
+    "title": "Murach's MySQL, 2nd Edition",
+    "average_rating": 4.6,
+    "rating_number": 416,
+    "features": [
+        "\"If you ever wanted to learn to use MySQL, write SQL queries, create database elements, then this is the book to pick up.\"",
+        "(JavaRanch.com)",
+        "\"I was amazed at how much information was packed into this book.\"",
+        "\"As a developer with almost 10 years of MySQL experience, I still picked up a lot of new detail on things I thought I knew.\"",
+        "\"I found this to be a great introductory book to MySQL.\"",
+        "\"Has already proven to be helpful in solving several challenges I've encountered on my current MySQL project.\"",
+        "That's a sampling of what developers said about the 1st Edition of Murach's MySQL.",
+        "Now, this 2nd Edition has been updated and improved throughout. As a result, it's easier than ever to use for learning MySQL from scratch, for switching to MySQL from another flavor of SQL (like MS SQL Server or Oracle), or for quickly looking up the forgotten details that are so essential as you develop database applications.",
+        "Section 1 introduces you to relational databases and SQL, shows you how to use the graphical MySQL Workbench to work with a MySQL database, and teaches you to code SQL queries to retrieve, add, update, and delete data in a MySQL database. Section 2 goes deeper into querying, showing you how to work with summary queries, subqueries, data types, and functions. Section 3 shows you how to design a MySQL database using an EER model, implement the design, and create views. Section 4 shows how to create stored procedures that provide functionality similar to procedural programming languages like PHP, Java, C++, C#, and VB. And Section 5 introduces you to database administration tasks like securing and backing up database data.",
+        "Whether you start from the beginning or jump in anywhere, it's a great guide for MySQL users at any level."
+    ],
+    "description": [
+        "About the Author",
+        "Joel Murach has been writing and editing books about computer programming for over 10 years. During that time, he has written extensively on a wide range of Java, .NET, web, and database technologies. When he's not programming or writing books about programming, he can be found surfing or writing music."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51QEIPmobcL._SX398_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Joel Murach (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Databases & Big Data"
+    ],
+    "details": "{\"Publisher\": \"Mike Murach & Associates; 2nd edition (March 2, 2015)\", \"Language\": \"English\", \"Paperback\": \"612 pages\", \"ISBN 10\": \"1890774820\", \"ISBN 13\": \"978-1890774820\", \"Item Weight\": \"2.95 pounds\", \"Dimensions\": \"8 x 1.5 x 10 inches\"}",
+    "parent_asin": "1890774820",
+    "bought_together": null,
+    "subtitle": "2nd Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Joel Murach', 'about': ['Joel Murach is the oldest son of technical publishing pioneer Mike Murach. Joel has been writing and editing books about computer programming for over 20 years now. During that time, he has written extensively on a wide range of Java, .NET, web, and database technologies. In his books, you can see Joel’s clear approach to teaching any subject.', 'Besides being a successful author, Joel also writes songs and performs with his band, the Low Rollers.']}"
+}

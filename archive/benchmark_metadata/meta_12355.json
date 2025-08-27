@@ -1,0 +1,50 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Billabong Men's Walled Trucker",
+    "average_rating": 3.6,
+    "rating_number": 10,
+    "features": [
+        "Snap closure",
+        "Hand Wash Only",
+        "57% Polyester 43% Cotton",
+        "Add shade without cutting crucial airflow. Step up your surf check enjoyment with this essential trucker hat, featuring a custom Billabong logo art patch at the front panel"
+    ],
+    "description": [
+        "Add shade without cutting crucial airflow. Step up your surf check enjoyment with this essential trucker hat, featuring a custom Billabong logo art patch at the front panel"
+    ],
+    "price": "25.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71oW3zecHoL._AC_UL1396_.jpg",
+            "https://m.media-amazon.com/images/I/71vFGA8NFCL._AC_UL1396_.jpg",
+            "https://m.media-amazon.com/images/I/713Dhr7yBrL._AC_UL1396_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Ni6IMX0JL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Obi7usmVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51BhylpZuHL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41Ni6IMX0JL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41Obi7usmVL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51BhylpZuHL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Billabong",
+    "categories": [],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"November 20, 2019\", \"Manufacturer\": \"Billabong\"}",
+    "parent_asin": "B081RGY2ZW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

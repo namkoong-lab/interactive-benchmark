@@ -1,0 +1,51 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Kissy Kissy - Garden Roses Bubble",
+    "average_rating": 4.8,
+    "rating_number": 35,
+    "features": [
+        "100% Cotton",
+        "Snap closure",
+        "Machine Wash",
+        "100% Pima Cotton",
+        "Imported, Made in Peru",
+        "Machine Wash",
+        "Snap closure at legs for easy changing",
+        "Snap-shoulder opening"
+    ],
+    "description": [
+        "Tiny rosebuds pattern this ruffled bubble romper outfit for a baby girl. Made from 100% Pima cotton for a soft and comfortable fit."
+    ],
+    "price": "37.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71ICLtFs9zL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41PitbNenDL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41PitbNenDL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kissy Kissy",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Baby",
+        "Baby Girls",
+        "Clothing"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"baby-girls\", \"Date First Available\": \"June 24, 2013\"}",
+    "parent_asin": "B00DL8X6CM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

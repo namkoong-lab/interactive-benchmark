@@ -1,0 +1,64 @@
+{
+  "item_id": 4700,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Florida State University Seminoles Newborn Striped Polo Bodysuit",
+    "average_rating": 4.7,
+    "rating_number": 54,
+    "features": [
+      "100% Cotton",
+      "Snap closure",
+      "Hand Wash Only",
+      "100% Cotton",
+      "Embroidered College Logo",
+      "Offical NCAA License",
+      "3 Snap Leg Closures",
+      "Pointed, soft collar"
+    ],
+    "description": [
+      "Supporting your favorite team has never been easier. This stylish, officially licensed, striped polo baby creeper created by Creative Knitwear comes with a three snap bottom for easy diaper changes and a fully embroidered logo."
+    ],
+    "price": "37.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/815Fa55S1TL._AC_UL1429_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51wSzwNY03L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51wSzwNY03L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Creative Knitwear",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Baby",
+      "Baby Boys",
+      "Clothing",
+      "Bodysuits"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"baby-boys\", \"Date First Available\": \"February 3, 2017\"}",
+    "parent_asin": "B01N4VAXG0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Girls' Clothing",
+      "Baby Clothing",
+      "Baby Bodysuits"
+    ],
+    "confidence": 0.95
+  }
+}

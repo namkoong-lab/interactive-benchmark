@@ -1,0 +1,60 @@
+{
+    "main_category": "Grocery",
+    "title": "Taste The Wilderness,Wild Huckleberry Gummy Grizzlies, 7Oz",
+    "average_rating": 4.3,
+    "rating_number": 123,
+    "features": [
+        "Real Gummy Bears with that perfect chewy Gummy texture.",
+        "A favorite for kids of all ages.",
+        "We've infused the yummy flavor of WILD Huckleberries into this delicious candy treat.",
+        "Great for stocking stuffers or keep em' for yourself as a gourmet treat.",
+        "A Gourmet's Delight!"
+    ],
+    "description": [
+        "Being from Montana where we still see Grizzly Bears regularly, we thought calling these \"Gummy Grizzlies\" instead of just Gummy Bears was very appropriate. Not to mention just plain cute."
+    ],
+    "price": "11.9",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81WgfvtGmuL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81uUDzHGgCL._SL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/61E3A0WbwNL._SL1215_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/510YSMkCIyL.jpg",
+            "https://m.media-amazon.com/images/I/51-0CfFaliL.jpg",
+            "https://m.media-amazon.com/images/I/31AShFDHMKL.jpg",
+            "https://m.media-amazon.com/images/I/51EU+RB6N-L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/510YSMkCIyL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51-0CfFaliL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31AShFDHMKL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51EU+RB6N-L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT12",
+            "INGR"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Taste the Wilderness",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Candy & Chocolate",
+        "Gummy Candy"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"4 x 3.4 x 1.9 inches; 6.99 Ounces\", \"UPC\": \"725901304018\", \"Manufacturer\": \"Huckleberry Haven, Inc.\"}",
+    "parent_asin": "B017749PPM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

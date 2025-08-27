@@ -1,0 +1,62 @@
+{
+  "item_id": 5307,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Ladies Black Socks With Green Shamrock Print, White Trim & Green Ribbon",
+    "average_rating": 4.6,
+    "rating_number": 8,
+    "features": [
+      "Polyamide,Cotton,Silk,Elastane",
+      "Hand Wash Only",
+      "traditional craft ltd",
+      "fit size 4-7",
+      "machine wash",
+      "sock",
+      "t9314.jacquard design.Fabric type: 75%Cotton，20%Polyester，5%Elastane.Special size type: Standard.Rise style: Ankle Length"
+    ],
+    "description": [
+      "These fun and cozy black socks and a cute addition to any lover of Ireland's sock drawer. Covered in green shamrocks with a green outside bow, these warm and comfortable socks are the best. The green trim features tiny black shamrocks for an added touch of Irish detail."
+    ],
+    "price": "15.9",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81HpWzu4NWL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41cZkk-FbhL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41cZkk-FbhL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Traditional Craft",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Socks & Hosiery",
+      "Socks",
+      "Calf Socks"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"4.8 x 4.09 x 1.3 inches; 0.35 Ounces\", \"Item model number\": \"T9314\", \"Department\": \"womens\", \"Date First Available\": \"July 24, 2015\"}",
+    "parent_asin": "B0108E86XU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Socks"
+    ],
+    "confidence": 0.95
+  }
+}

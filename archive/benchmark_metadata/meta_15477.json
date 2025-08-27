@@ -1,0 +1,52 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Glacier Heavyweight Boot Height Merino Wool Sock",
+    "average_rating": 4.8,
+    "rating_number": 86,
+    "features": [
+        "33% Merino Wool, 33% Polypropylene, 26% Nylon, 5% Elastic, 3% Lycra",
+        "Made in the USA or Imported",
+        "Machine Wash",
+        "Medium, \"Boot Height\" style sock",
+        "Incredibly comfortable and itch-free",
+        "Reinforced toes and heel pads increase durability and reduce foot fatigue",
+        "Merino wool insulates even when damp",
+        "Made in the USA"
+    ],
+    "description": [
+        "If you had to have only one pair of socks, look no further. Quick drying and durable, these socks act as thermostats by cooling or heating when needed. The reinforced heel and toes increase comfort and durability, while the arch support increases circulation and decreases foot fatigue. Designed to avoid blisters, these socks will take you from a snowy mountain hunt to a Death Valley hike. Fits: Mens shoe sizes: Medium(5-8), Large(9-12), X-Large(13-15) Womens shoe sizes: Small(4-7), Medium(8-9), Large(10-11)"
+    ],
+    "price": "24.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61RhFvspb5L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/413ScNnVX4L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/413ScNnVX4L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kenetrek",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Active",
+        "Athletic Socks"
+    ],
+    "details": "{\"Item model number\": \"KE-1225\", \"Department\": \"Unisex\", \"Date First Available\": \"August 10, 2015\", \"Manufacturer\": \"Kenetrek\"}",
+    "parent_asin": "B08SN62CTT",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

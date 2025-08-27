@@ -1,0 +1,61 @@
+{
+  "item_id": 3010,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Yair Emanuel Blue Flower Design Embroidered Blue Kippah",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [
+      "Hand Wash Only",
+      "Soft and elegant!",
+      "Measures approximately 6 1/2\" in diameter",
+      "Made in Israel"
+    ],
+    "description": [
+      "This soft, elegant kippah is a beautiful way to express your Judaism as well as your style. This beautiful blue kippa is embroidered with classic date-palm floral trim."
+    ],
+    "price": "18.54",
+    "images": {
+      "hi_res": [
+        null,
+        null,
+        "https://m.media-amazon.com/images/I/81TnnRZ4dcL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/514hDdksnhL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51sekgvWgPL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51jth5fw+iL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/514hDdksnhL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51sekgvWgPL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51jth5fw+iL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Yair Emanuel",
+    "categories": [],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Item Weight\": \"1 Pounds\", \"Item model number\": \"EMYME9B\", \"Department\": \"Mens\", \"Date First Available\": \"January 18, 2013\"}",
+    "parent_asin": "B00B2MB5A4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Hats & Beanies",
+      "Religious Hats"
+    ],
+    "confidence": 0.95
+  }
+}

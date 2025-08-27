@@ -1,0 +1,64 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "adidas NMD_R2 PK - BA7198",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Textile",
+        "Rubber sole",
+        "Vendor Name: ADIDAS",
+        "Style No: BA7198",
+        "Material : Textile",
+        "Descr : NMD_R2 PK",
+        "Color : TRACAR BLACK"
+    ],
+    "description": [
+        "NMD_R2 PK."
+    ],
+    "price": "199.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71q0wRtZ3KL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71DfFlRvfXL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71P3iltwclL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71fBIDpQIYL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41aqcxA3zVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41POg+lDLUL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Rsh0QY9WL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41uJT4cZROL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41aqcxA3zVL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41POg+lDLUL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41Rsh0QY9WL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41uJT4cZROL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "adidas Originals",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Shoes",
+        "Athletic",
+        "Running",
+        "Road Running"
+    ],
+    "details": "{\"Package Dimensions\": \"13.4 x 9.3 x 5.1 inches; 3 Pounds\", \"Item model number\": \"BA7198660 SZ 10.5\", \"Department\": \"Mens\", \"Date First Available\": \"January 23, 2017\", \"Manufacturer\": \"Adidas\"}",
+    "parent_asin": "B01MZCVX4Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

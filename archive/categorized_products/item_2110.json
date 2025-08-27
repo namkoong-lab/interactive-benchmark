@@ -1,0 +1,56 @@
+{
+  "item_id": 2110,
+  "metadata": {
+    "main_category": "Computers",
+    "title": "464762-001 - Hp Multimedia Graphics Card 256mb",
+    "average_rating": 2.0,
+    "rating_number": 3,
+    "features": [
+      "NVIDIA GeForce 8400 GS 256MB PCIe x16 graphics card - Low profile with ATX FH bracket, with DMS59 and TV (S-video) outputs"
+    ],
+    "description": [
+      "464762-001 - Hp Multimedia Graphics Card 256mb"
+    ],
+    "price": "45.0",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31E8KvZnkyL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31E8KvZnkyL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "hp",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Computer Components",
+      "Internal Components",
+      "Graphics Cards"
+    ],
+    "details": "{\"Package Dimensions\": \"18 x 18 x 12 inches\", \"Manufacturer\": \"hp\", \"Date First Available\": \"August 6, 2012\", \"Graphics Coprocessor\": \"nvidia_geforce_8\", \"Graphics Ram Size\": \"256 MB\", \"Video Output Interface\": \"HDMI\", \"Graphics Processor Manufacturer\": \"NVIDIA\", \"Compatible Devices\": \"Desktop\"}",
+    "parent_asin": "B002OTVLFI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Electronics",
+      "Computers",
+      "Computer Accessories"
+    ],
+    "confidence": 0.95
+  }
+}

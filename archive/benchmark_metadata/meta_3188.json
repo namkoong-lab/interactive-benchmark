@@ -1,0 +1,59 @@
+{
+    "main_category": "Grocery",
+    "title": "Trader Joe's Mini Dark Chocolate Peanut Butter Cups (Pack of 3)",
+    "average_rating": 4.3,
+    "rating_number": 29,
+    "features": [
+        "Fresh!",
+        "Mini Dark Chocolate Peanut Butter Cups",
+        "Delicious!"
+    ],
+    "description": [
+        "3.5 OZ BAG OF TRADER JOE'S DARK CHOCOLATE PEANUT BUTTER CUPS. 9 count. FRESH! Inside the simple packet are eight miniature sized dark chocolate peanut butter cups in foil. Each weighs about 12 grams (.42 ounces) and has 60 calories. The ingredients are decent, no partially hydrogenated fats in there. But there are milk products. Delicious!"
+    ],
+    "price": "14.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41x5yZFssSL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41x5yZFssSL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Trader Joe's Dark Chocolate Covered Almonds Tub",
+            "Toss the Powder Peanut Butter Ones, Real Creamy Centers! ",
+            "Take A Look Inside Trader Joe's Dark Chocolate & PB Cups"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0ed0218d733045d3afde8669ec5bc428?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0830c86c521548c892869d3010c5f91c?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/02f75d80e0454e4eb65b68ff6e4c12e3?ref=dp_vse_rvc_2"
+        ],
+        "user_id": [
+            "/shop/influencer-7900716e",
+            "/shop/amena.kay",
+            "/shop/nancybirdsell"
+        ]
+    },
+    "store": "Trader Joe's",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Chocolate Candy",
+        "Chocolate Covered Foods",
+        "Nuts"
+    ],
+    "details": "{\"Brand\": \"Trader Joe's\", \"Chocolate Type\": \"Dark\", \"Flavor\": \"Peanut,Dark Chocolate\", \"Unit Count\": \"10.5 Ounce\", \"Number of Pieces\": \"9\", \"Package Dimensions\": \"6 x 3.5 x 3 inches; 3.5 Ounces\"}",
+    "parent_asin": "B00UK1FY4G",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

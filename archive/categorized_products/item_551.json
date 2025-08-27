@@ -1,0 +1,53 @@
+{
+  "item_id": 551,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "King of the Road",
+    "average_rating": 4.6,
+    "rating_number": 122,
+    "features": [],
+    "description": [
+      "Here's the ultimate Roger Miller collection. It includes the ultra-rare and unjustly neglected RCA recordings and the best of the Smash recordings. In all 29 recordings, such as It Happened Just That Way, Little Green Apples, Burma Shave, If You Don't Want My Love, Sorry Willie, When Two Worlds Collide, Lock Stock And Teardrop, Dang Me, King Of The Road, Chug-A-Lug, Kansas City Star, England Swings, Do-Wacka-Do and One A Dyin'And A Buryin."
+    ],
+    "price": "16.71",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41-rgRF8DHL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41-rgRF8DHL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Roger Miller   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Country",
+      "Classic Country",
+      "Nashville Sound"
+    ],
+    "details": "{\"Language\": \"English\", \"Product Dimensions\": \"4.88 x 5.59 x 0.51 inches; 4.23 Ounces\", \"Manufacturer\": \"Bear Family\", \"Item model number\": \"15477\", \"Original Release Date\": \"1994\", \"Date First Available\": \"January 23, 2007\", \"Label\": \"Bear Family\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0000282YQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Oldies Albums"
+    ],
+    "confidence": 0.95
+  }
+}

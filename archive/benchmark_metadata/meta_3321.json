@@ -1,0 +1,44 @@
+{
+    "main_category": "Grocery",
+    "title": "Yoki Sagu 500 grams",
+    "average_rating": 4.6,
+    "rating_number": 81,
+    "features": [
+        "New"
+    ],
+    "description": [
+        "Sagu Yoki 500 grams<br> Sagu is a dehydrated little ball that is used to cook cold and refreshing deserts. You hydrate them in the juice that you like and it will incorporate the taste, and the consistence will be gooey and firm at the same time as you bite the little balls. One of the childhood favorites."
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61WpO+pss1L._SL1080_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41NyjOXuPpL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41NyjOXuPpL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Yoki",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Cooking & Baking",
+        "Leaveners & Yeasts"
+    ],
+    "details": "{\"Brand\": \"Yoki\", \"Item Weight\": \"500 Grams\", \"Unit Count\": \"17.637 Ounce\", \"Number of Items\": \"1\", \"Package Weight\": \"0.52 Kilograms\", \"Is Discontinued By Manufacturer\": \"No\", \"Manufacturer\": \"Yoki\"}",
+    "parent_asin": "B00H2ZTDXQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

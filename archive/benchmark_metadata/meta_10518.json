@@ -1,0 +1,40 @@
+{
+    "main_category": "Digital Music",
+    "title": "Laid Back",
+    "average_rating": 4.6,
+    "rating_number": 41,
+    "features": [],
+    "description": [
+        "CD: Doc Powell,Laid Back"
+    ],
+    "price": "7.6",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/419V3T9TJHL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/419V3T9TJHL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Doc Powell   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Blues"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.5 x 4.94 x 0.45 inches; 3.68 Ounces\", \"Manufacturer\": \"Discovery / Wea\", \"Item model number\": \"77037\", \"Date First Available\": \"January 24, 2007\", \"Label\": \"Discovery / Wea\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000003MWJ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

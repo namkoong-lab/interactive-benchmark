@@ -1,0 +1,56 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Drake Waterfowl Big Easy S/S Plaid Shirt",
+    "average_rating": 4.7,
+    "rating_number": 6,
+    "features": [
+        "Cotton,Polyester",
+        "Button closure",
+        "Machine Wash",
+        "60% cotton / 40% polyester blended StayCool fabric",
+        "Quick-drying, moisture-wicking and breathable",
+        "Left chest pocket",
+        "Button down collar",
+        "Locker loop"
+    ],
+    "description": [
+        "Easily transition from the office to the camp with the Big Easy Plaid Shirt. The simplistic button down design paired with our StayCool fabric construction offers both style and comfort."
+    ],
+    "price": "49.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71hPNsmlwML._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/611hJ7dD6BL._AC_UL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41+2cyGWz2L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41mWuIGCa2L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41+2cyGWz2L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41mWuIGCa2L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Drake Waterfowl",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Shirts",
+        "Casual Button-Down Shirts"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"Mens\", \"Date First Available\": \"September 14, 2018\"}",
+    "parent_asin": "B07HCVTKDY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,47 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Mitchell & Ness Chicago Bulls Black Pinstripe Swingman Shorts (XX-Large)",
+    "average_rating": 4.1,
+    "rating_number": 2,
+    "features": [
+        "Drawstring closure"
+    ],
+    "description": [
+        "Mitchell & Ness Chicago Bulls Black Pinstripe Swingman Shorts (XX-Large)"
+    ],
+    "price": "109.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71Ruug2x1bL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71FAdR4FFhL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71pRLgSZ8oL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51UEBl2rR5L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51XcUMmZf5L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51BqbMAWv2L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51UEBl2rR5L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51XcUMmZf5L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51BqbMAWv2L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mitchell & Ness",
+    "categories": [],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"17 x 10 x 1 inches; 15.2 Ounces\", \"Date First Available\": \"April 24, 2020\"}",
+    "parent_asin": "B07BK8NJ1H",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

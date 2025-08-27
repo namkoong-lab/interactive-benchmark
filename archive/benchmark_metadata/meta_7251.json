@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "The Space Shuttle (True Books: Space)",
+    "average_rating": 2.5,
+    "rating_number": 2,
+    "features": [
+        "Describes the beginnings of the space shuttle progam, the layout of a shuttle, a day's activities in space, the Challenger disaster, and the role of a shuttle in building a space station."
+    ],
+    "description": [
+        "From",
+        "Booklist",
+        "REVWR",
+        "Copyright © American Library Association. All rights reserved"
+    ],
+    "price": "25.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/410Z2FDMPZL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Allison Lassieur (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Science, Nature & How It Works"
+    ],
+    "details": "{\"Publisher\": \"Childrens Pr (January 1, 2006)\", \"Language\": \"English\", \"Library Binding\": \"47 pages\", \"ISBN 10\": \"0516220039\", \"ISBN 13\": \"978-0516220031\", \"Reading age\": \"8 - 10 years\", \"Grade level\": \"3 - 4\", \"Item Weight\": \"9.3 ounces\", \"Dimensions\": \"7.5 x 0.25 x 8.75 inches\"}",
+    "parent_asin": "0516220039",
+    "bought_together": null,
+    "subtitle": "Library Binding – January 1, 2006",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Allison Lassieur', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

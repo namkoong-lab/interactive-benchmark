@@ -1,0 +1,59 @@
+{
+  "item_id": 4095,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Vietguild New Battle Axe Silver Pewter Charm Necklace Pendant Jewelry",
+    "average_rating": 3.9,
+    "rating_number": 3,
+    "features": [
+      "Style: Battle Axe",
+      "Pendant Size: 2.7 x 4.7 x 0.3 cm",
+      "Material: Pewter",
+      "Weight: 9 gram",
+      "Color: Silver"
+    ],
+    "description": [
+      "New Battle Axe Silver Pewter Charm Necklace Pendant Jewelry"
+    ],
+    "price": "7.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71SjYoV2cgL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31+y3OgDxCL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31+y3OgDxCL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Vietguild",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Jewelry",
+      "Necklaces"
+    ],
+    "details": "{\"Item model number\": \"Ax-1\", \"Department\": \"mens\", \"Date First Available\": \"August 29, 2017\", \"Manufacturer\": \"VietsWay\"}",
+    "parent_asin": "B0756RFDTV",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Necklaces"
+    ],
+    "confidence": 0.95
+  }
+}

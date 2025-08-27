@@ -1,0 +1,50 @@
+{
+    "main_category": "Grocery",
+    "title": "Maynards Wine Gums 52 g (Pack of 40)",
+    "average_rating": 3.8,
+    "rating_number": 23,
+    "features": [],
+    "description": [
+        "Fruit flavour gums. Made with natural colours"
+    ],
+    "price": "55.23",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/513Wg-QGeXL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51160IpgL0L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71zcSprRQ-L._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/310aeokrM7L.jpg",
+            "https://m.media-amazon.com/images/I/31By+FrGTiL.jpg",
+            "https://m.media-amazon.com/images/I/31tRfdgAxmL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/310aeokrM7L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31By+FrGTiL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31tRfdgAxmL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "FACT"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Maynards",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Candy & Chocolate",
+        "Gummy Candy"
+    ],
+    "details": "{\"Flavor\": \"Fruit\", \"Brand\": \"Maynards\", \"Item Weight\": \"52 Grams\", \"Unit Count\": \"2080 gram\", \"Item Form\": \"Gummy\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"6.8 x 3.7 x 2.5 inches; 1.83 Ounces\", \"Item model number\": \"2884\", \"Manufacturer\": \"GroceryLand\"}",
+    "parent_asin": "B006522H0S",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

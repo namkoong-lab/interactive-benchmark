@@ -1,0 +1,40 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Flash Gordon",
+    "average_rating": 3.0,
+    "rating_number": 2,
+    "features": [],
+    "description": [
+        "Operating System: MOVIE"
+    ],
+    "price": "6.54",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61W-7QiTYIL._SL1080_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/514MxR-DsrL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/514MxR-DsrL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Steve Holland  (Actor),     Multi  (Director)    Rated:    Unrated    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Miniseries"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"Unrated (Not Rated)\", \"Package Dimensions\": \"7.1 x 5.42 x 0.58 inches; 4 Ounces\", \"Director\": \"Multi\", \"Media Format\": \"Multiple Formats, Full Screen, NTSC\", \"Run time\": \"1 hour and 15 minutes\", \"Release date\": \"April 4, 2004\", \"Actors\": \"Steve Holland\", \"Studio\": \"Digiview\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0009P92CS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

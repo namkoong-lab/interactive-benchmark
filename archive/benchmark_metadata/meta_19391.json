@@ -1,0 +1,41 @@
+{
+    "main_category": "Prime Video",
+    "title": "Haunted Death Valley",
+    "average_rating": 4.0,
+    "rating_number": 9,
+    "features": [
+        "2019",
+        "6 episodes",
+        "16+"
+    ],
+    "description": [
+        "The place where Helter Skelter was born, a place with death and despair running though its veins due to the suffering of countless miners who came to strike it rich only to cling to dear life during the brutal winter of 1849. Death Valley is definitely haunted, but it's not just spirits that patrol the area, it's also interdimensional beings, skin walkers, Injun Devils and more."
+    ],
+    "price": "0.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"WWMM\"], \"Producers\": [\"WWMM\"]}",
+    "parent_asin": "B07ZS3Q48Z",
+    "bought_together": null,
+    "subtitle": "Season 1",
+    "author": null
+}

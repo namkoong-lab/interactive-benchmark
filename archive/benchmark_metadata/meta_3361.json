@@ -1,0 +1,62 @@
+{
+    "main_category": "Grocery",
+    "title": "Keto snack mix (1 bag)",
+    "average_rating": 3.7,
+    "rating_number": 36,
+    "features": [
+        "Keto Snack mix"
+    ],
+    "description": [
+        "Includes Pecans , Hazelnuts, Cheese bites , Brazil nuts ,Macadamia Nuts Allergen information:processed on equipment that also package products that may contain peanut , other tree nuts ,sesame ,soy , wheat Customer with food allergies and food sensitivities . PLEASE READ BEFORE BUY The products may contain small shell pieces"
+    ],
+    "price": "24.65",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91CZvQDoq8L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91QdaeyNGML._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81vuPAtdHvL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/513RGV1hzkL.jpg",
+            "https://m.media-amazon.com/images/I/51GN9lJJ1nL.jpg",
+            "https://m.media-amazon.com/images/I/41kyaHCN3HL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/513RGV1hzkL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51GN9lJJ1nL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41kyaHCN3HL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Pumpkin Pie Spiced Nuts",
+            "Second Nature Snack Offers "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/080cebecd5a64667963fb6276f1286c0?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/93a1817c71b04a2ab4f46886b2ce3cef?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            ""
+        ]
+    },
+    "store": "Kirkland Signature",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Cooking & Baking",
+        "Nuts & Seeds",
+        "Mixed Nuts"
+    ],
+    "details": "{\"Product Dimensions\": \"11 x 6 x 6 inches; 1.5 Pounds\", \"UPC\": \"096619016242\", \"Manufacturer\": \"Costco wholesale corporation\"}",
+    "parent_asin": "B0B984JW7W",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

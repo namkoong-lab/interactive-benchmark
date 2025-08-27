@@ -1,0 +1,40 @@
+{
+    "main_category": "Grocery",
+    "title": "Faygo Cotton Candy, 24 oz",
+    "average_rating": 4.3,
+    "rating_number": 496,
+    "features": [],
+    "description": [
+        "Faygo cotton candy soda"
+    ],
+    "price": "14.4",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/313hoVX2xaL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/313hoVX2xaL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Faygo",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Beverages"
+    ],
+    "details": "{\"Brand\": \"Faygo\", \"Flavor\": \"Cotton Candy\", \"Item Form\": \"Stick\", \"Unit Count\": \"24 Ounce\", \"Number of Items\": \"1\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"9.21 x 5.2 x 3.62 inches; 1.5 Pounds\", \"UPC\": \"073800009092 786173812519\"}",
+    "parent_asin": "B0B73X8Q5W",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

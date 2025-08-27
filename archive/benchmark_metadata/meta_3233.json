@@ -1,0 +1,46 @@
+{
+    "main_category": "Grocery",
+    "title": "French's Sloppy Joe Seasoning Mix, 1.5-Ounce Packets (Pack of 12)",
+    "average_rating": 4.6,
+    "rating_number": 22,
+    "features": [
+        "Quick & Easy",
+        "Pack of 12 packages",
+        "Family Favorite"
+    ],
+    "description": [
+        "This family favorite has never been easier to make! Our perfectly flavored Sloppy Joe seasoning means a delicious meal is only 20 minutes away."
+    ],
+    "price": "28.87",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61AwREWuc2L._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41D2-1LM8dL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41D2-1LM8dL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "French's",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Canned, Jarred & Packaged Foods",
+        "Sloppy Joe Mix"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"6.06 x 4.41 x 3.03 inches; 1.5 Ounces\", \"UPC\": \"041500058481\", \"Manufacturer\": \"French's\"}",
+    "parent_asin": "B01DCNOEOO",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

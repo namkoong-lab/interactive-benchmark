@@ -1,0 +1,40 @@
+{
+    "main_category": "Books",
+    "title": "Beside the Bay",
+    "average_rating": 4.6,
+    "rating_number": 2,
+    "features": [
+        "A little girl's walk along the shore becomes the occasion for an introduction to color as she meets black birds, orange cat, a pink snail, leaping yellow lizards, and flying purple fish"
+    ],
+    "description": [
+        "From Publishers Weekly",
+        "In simple rhythmic verse, Samton (The World from My Window) has created a vibrant, visually exhilarating excursion into the world of color. Walking along the bay, a child observes a succession of brightly colored creatures and objects: a yellow lizard family, a pink snail, red sailboats, blackbirds nesting among white stones, and so on. One by one, they become part of the scene, which grows in richness, color and complexity as the child's walk progresses. Bold, skillfully composed graphics and a singsong text turn the naming of colors into a provocative experience. A Junior Literary Guild selection. Ages 2-6. Copyright 1987 Reed Business Information, Inc."
+    ],
+    "price": "6.68",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/417ZQQh0NPL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Sheila White Samton (Author)",
+    "categories": [],
+    "details": "{\"Publisher\": \"Philomel (September 21, 1987)\", \"Language\": \"English\", \"Hardcover\": \"29 pages\", \"ISBN 10\": \"0399214208\", \"ISBN 13\": \"978-0399214202\", \"Reading age\": \"6 - 8 years\", \"Grade level\": \"1 - 2\", \"Item Weight\": \"0.01 ounces\", \"Dimensions\": \"20 x 20 x 20 inches\"}",
+    "parent_asin": "0399214208",
+    "bought_together": null,
+    "subtitle": "Hardcover – September 21, 1987",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Sheila White Samton', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

@@ -1,0 +1,68 @@
+{
+  "item_id": 4855,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Norma Kamali Women's Skirt",
+    "average_rating": 3.0,
+    "rating_number": 3,
+    "features": [
+      "95% Cotton, 5% Spandex",
+      "Imported",
+      "Pull On closure",
+      "Hand Wash Only",
+      "Terry",
+      "Pull on",
+      "Ankle length",
+      "Slim fit",
+      "Flared fishtail skirt"
+    ],
+    "description": [
+      "A short cut to fashion! Our Cropped Fishtail Skirt takes our Fishtail Skirt and makes it just a little shorter to create just as much elegance."
+    ],
+    "price": "33.74",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81DR5LAUx-L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81HkdTFqn8L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41JNhWSLbDL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41ehVeLUHgL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41JNhWSLbDL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41ehVeLUHgL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Norma Kamali",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Skirts",
+      "Casual"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"August 5, 2020\", \"Manufacturer\": \"Norma Kamali\"}",
+    "parent_asin": "B08FBVXKN3",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Pants",
+      "Women's Skirts"
+    ],
+    "confidence": 0.95
+  }
+}

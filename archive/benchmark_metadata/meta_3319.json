@@ -1,0 +1,53 @@
+{
+    "main_category": "Grocery",
+    "title": "Koikeya Karamucho Potato Chips, Rich Cut, 2.01 Ounce",
+    "average_rating": 4.2,
+    "rating_number": 7,
+    "features": [
+        "Product of Japan",
+        "Potato Chips with Hot Chilli",
+        "Rich cut"
+    ],
+    "description": [
+        "Koi Keya Karamu Cho Potato Chips Rich Cut."
+    ],
+    "price": "6.29",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/910CyInBzUL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61omkpl4b2L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61omkpl4b2L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Corn Snack from JAPAN with a slightly spicy (Mentai) taste!"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0c6325fb16d349fcab549f055c04f2af?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "/shop/influencer-e461d3cb"
+        ]
+    },
+    "store": "Koikeya",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Snack Foods",
+        "Chips & Crisps",
+        "Potato"
+    ],
+    "details": "{\"Brand\": \"Koikeya\", \"Flavor\": \"Chili\", \"Unit Count\": \"2.01 Ounce\", \"Number of Items\": \"1\", \"Type\": \"Potato Chip\", \"Product Dimensions\": \"8.5 x 7 x 2 inches; 2.01 Ounces\", \"Item model number\": \"FD05J00274\", \"Manufacturer\": \"Koikeya\"}",
+    "parent_asin": "B00L3R41CM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

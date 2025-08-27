@@ -1,0 +1,68 @@
+{
+  "item_id": 4956,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Hanes Silk Reflections Women's Lasting Sheer Tights with Control Top",
+    "average_rating": 3.8,
+    "rating_number": 47,
+    "features": [
+      "tights closure",
+      "Lasting sheer with the confidence of run-resistant technology.",
+      "Features classic boxer control top panty with non-binding comfort waistband.",
+      "So soft and luxurious, it feels like your second skin.",
+      "Graduated compression gently sculpts and invigorates your legs."
+    ],
+    "description": [
+      "Hanes"
+    ],
+    "price": "5.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/515K1g3e5UL._AC_UL1000_.jpg",
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41RsVTO7iKL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31D4+9e6gSL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/216KmW7Bs-L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41RsVTO7iKL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31D4+9e6gSL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/216KmW7Bs-L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Hanes",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Socks & Hosiery",
+      "Sheers"
+    ],
+    "details": "{\"Package Dimensions\": \"10 x 7 x 1.5 inches; 2.4 Ounces\", \"Item model number\": \"0B171\", \"Department\": \"Womens\", \"Date First Available\": \"August 19, 2010\", \"Manufacturer\": \"Hanes Silk Reflections\"}",
+    "parent_asin": "B004GKMT4K",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Socks",
+      "Women's Tights"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,50 @@
+{
+    "main_category": "Books",
+    "title": "The Laurel & Hardy Encyclopedia",
+    "average_rating": 4.5,
+    "rating_number": 9,
+    "features": [
+        "Reissued in a more accessible format, this thorough reference includes synopses and critiques of all Laurel & Hardy films as well as comprehensive biographical information on both funny men. It also covers their influences, from Valentino to music hall; details of the duo's solo film careers; stage, radio, and television appearances; and the co-stars, directors, and gagmen behind the partnership. Illustrated with stills and promotional artwork, more than 600 entries provide the opportunity for endless browsing and the chance to discover a new slant on cinema's best-loved comedy duo."
+    ],
+    "description": [
+        "About the Author",
+        "Glenn Mitchell is a historian of silent cinema and the early talkies, and the author of",
+        "A?Z of Silent Film Comedy",
+        ",",
+        "The Chaplin Encyclopedia",
+        ", and",
+        "The Marx Brothers Encyclopedia",
+        "."
+    ],
+    "price": "26.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/517tAq-pUPL._SX326_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Glenn Mitchell (Author),  John McCabe (Foreword)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "Performing Arts"
+    ],
+    "details": "{\"Publisher\": \"Reynolds & Hearn; 2nd edition (January 1, 2008)\", \"Language\": \"English\", \"Paperback\": \"336 pages\", \"ISBN 10\": \"1905287712\", \"ISBN 13\": \"978-1905287710\", \"Item Weight\": \"14.1 ounces\", \"Dimensions\": \"5 x 1 x 7.75 inches\"}",
+    "parent_asin": "1905287712",
+    "bought_together": null,
+    "subtitle": "Paperback – January 1, 2008",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Glenn Mitchell', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

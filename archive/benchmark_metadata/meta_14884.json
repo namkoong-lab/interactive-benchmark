@@ -1,0 +1,65 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "PUMA Women's Power Cargo Pants",
+    "average_rating": 4.0,
+    "rating_number": 33,
+    "features": [
+        "66% Cotton, 34% Polyester",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Relaxed Fit",
+        "Made with Cotton from BCI: By buying cotton products from PUMA, you're supporting more sustainable cotton farming through the Better Cotton Initiative",
+        "Elasticated cuffs and waistband",
+        "Cargo pocket on side"
+    ],
+    "description": [
+        "Pump up your athletic style with the PUMA Power Cargo Pants."
+    ],
+    "price": "29.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71BD5WeBGkL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71UOFc4iGsL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51jJBvPXSPL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51X0Q+ggFkL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31NkRMEP5lL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31qCqOpzreL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/315A8nsyhGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31nL4n+PtOL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31NkRMEP5lL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31qCqOpzreL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/315A8nsyhGL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31nL4n+PtOL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT88",
+            "PT99"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "PUMA",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Active",
+        "Active Pants",
+        "Sweatpants"
+    ],
+    "details": "{\"Product Dimensions\": \"8.2 x 12.2 x 1.2 inches; 12.8 Ounces\", \"Item model number\": \"855934-42\", \"Department\": \"womens\", \"Date First Available\": \"March 2, 2021\", \"Manufacturer\": \"PUMA\"}",
+    "parent_asin": "B08XXSJQ4H",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

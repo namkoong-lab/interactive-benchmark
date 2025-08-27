@@ -1,0 +1,51 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Ikea Nereby Rail Birch 15 ¾ 004.673.00",
+    "average_rating": 2.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "Organizing rail to be wall-mounted to clear up counter space. Can be used with other Nereby Containers or hanging items in the kitchen, garage, office or other rooms. . . the possibilities are endless."
+    ],
+    "price": "12.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/4112qMhpHjS._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/710YogGIGNS._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51GhPDoFZLS._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21qUptzw0IS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41+DToOt1SS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31gn3s6J7HS._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/21qUptzw0IS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41+DToOt1SS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31gn3s6J7HS._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Honest Review of the IKEA Wall Shelf Birch"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/00cc6f567d3f48df96980b8e7ad95933?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "/shop/socialai"
+        ]
+    },
+    "store": "IKEA",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"16.34 x 1.89 x 1.38 inches\", \"Item Weight\": \"7.8 ounces\", \"Date First Available\": \"July 2, 2021\", \"Brand\": \"IKEA\", \"Style\": \"Classic\", \"Product Care Instructions\": \"Wipe With Dry Cloth\", \"Adjustable Length\": \"Yes\", \"Maximum Weight Recommendation\": \"35 Pounds\"}",
+    "parent_asin": "B098JXQRWV",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

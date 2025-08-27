@@ -1,0 +1,48 @@
+{
+    "main_category": "Prime Video",
+    "title": "Battlestar Galactica: Blood & Chrome",
+    "average_rating": 4.6,
+    "rating_number": 3711,
+    "features": [
+        "IMDb 6.9",
+        "1 h 30 min",
+        "2012",
+        "X-Ray",
+        "R"
+    ],
+    "description": [
+        "Young, talented fighter pilot William Adama's first mission aboard the Galactica becomes a pivotal one for the desperate fleet in this all-new chapter in the Battlestar Galactica saga."
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Science Fiction",
+        "Drama",
+        "Ambitious",
+        "Futuristic"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Jonas Pate\"], \"Producers\": [\"David Eick\", \"Michael Taylor\", \"Jonas Pate\"], \"Starring\": [\"Luke Pasqualino\", \"Ben Cotton\", \"Lili Bordan\"]}",
+    "parent_asin": "B00BHU9EXG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

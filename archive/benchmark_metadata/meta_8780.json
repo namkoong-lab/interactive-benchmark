@@ -1,0 +1,36 @@
+{
+    "main_category": "Books",
+    "title": "The Manipulation of Air-Sensitive Compounds, 2nd Edition",
+    "average_rating": 5.0,
+    "rating_number": 5,
+    "features": [
+        "Revised to reflect the continuing and growing importance of research and development within this field, The Manipulation of Air-Sensitive Compounds, 2nd Edition offers state-of-the-art methods used in handling air-sensitive compounds, including gases. Part One covers inert atmosphere techniques, while Part Two treats vacuum line techniques. Appendixes provide safety data, information on materials used to construct apparatus, and a table of vapor pressures of common volatile substances."
+    ],
+    "description": [
+        "About the Author",
+        "Duward F. Shriver is the author of The Manipulation of Air-Sensitive Compounds, 2nd Edition, published by Wiley. M. A. Drezdzon is the author of The Manipulation of Air-Sensitive Compounds, 2nd Edition, published by Wiley."
+    ],
+    "price": "59.4",
+    "images": {
+        "hi_res": [],
+        "large": [],
+        "thumb": [],
+        "variant": []
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Duward F. Shriver (Author),  M. A. Drezdzon (Author)",
+    "categories": [
+        "Books",
+        "Medical Books",
+        "Medicine"
+    ],
+    "details": "{\"Publisher\": \"Wiley-Interscience; 2nd edition (October 22, 1986)\", \"Language\": \"English\", \"Hardcover\": \"336 pages\", \"ISBN 10\": \"047186773X\", \"ISBN 13\": \"978-0471867739\", \"Item Weight\": \"1.49 pounds\", \"Dimensions\": \"6.38 x 1.11 x 9.7 inches\"}",
+    "parent_asin": "047186773X",
+    "bought_together": null,
+    "subtitle": "2nd Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'D. F. Shriver', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

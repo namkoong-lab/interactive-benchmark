@@ -1,0 +1,65 @@
+{
+  "item_id": 4696,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Sandbaggers Galia Women's Golf Sandals",
+    "average_rating": 4.4,
+    "rating_number": 165,
+    "features": [
+      "fabric-and-leather",
+      "Rubber sole",
+      "Molded orthotic footbed with 2 adjustable zig-zag straps.",
+      "Padded leather heel with narrow and flexible woven straps.",
+      "Plastic shank provides torsion control and our StepSaver orthotic helps to reduce foot fatigue.",
+      "Thermal rubber (TR) sole ensures soft-flex traction with a cleated spike-less design."
+    ],
+    "description": [
+      "Introducing Galia, Sandbaggers' new skinny-strap golf sandal. These comfortable sandals have a molded orthotic footbed with spike-less soles, and are now available in four colors, allowing you to put together the perfect outfit for both on and off the course."
+    ],
+    "price": "135.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71PgvyjcftL._AC_UL1080_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51QYdEX1NoL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51ZUHOiUeBL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51QYdEX1NoL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZUHOiUeBL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Sandbaggers",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Athletic",
+      "Golf"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"womens\", \"Date First Available\": \"August 28, 2017\"}",
+    "parent_asin": "B0756L8D2D",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Sandals"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Horse of a Different Color",
+    "average_rating": 4.8,
+    "rating_number": 10,
+    "features": [
+        "The purpose of this book is to help explain diversity and individuality on a level that a child can understand."
+    ],
+    "description": [
+        "About the Author",
+        "Toshia Stelivan was born in Springfield, Illinois August 26, 1977. She has always been an avid reader. She earned a Bachelor of Science in Telecommunications Management and a Masters in Business Administration. Toshia has always wanted to be a writer. She has two daughters who love books. Toshia has a strong love for horses and she volunteers at a local ranch. Toshia has lived in Texas over 28 years. She has also written a poetry book, \"When Your Heart Aches and Your Soul Cries\"."
+    ],
+    "price": "3.22",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41P3ci-8UIL._SX348_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Toshia Stelivan (Author),  Dan Rebegea (Illustrator)",
+    "categories": [
+        "Books",
+        "Parenting & Relationships",
+        "Reference"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform; Csm edition (July 29, 2015)\", \"Language\": \"English\", \"Paperback\": \"25 pages\", \"ISBN 10\": \"150025651X\", \"ISBN 13\": \"978-1500256517\", \"Item Weight\": \"2.88 ounces\", \"Dimensions\": \"7 x 0.06 x 10 inches\"}",
+    "parent_asin": "150025651X",
+    "bought_together": null,
+    "subtitle": "Paperback – July 29, 2015",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/k727pg8o3md2g17d72pj646kja._SY600_.jpg', 'name': 'Toshia Stelivan', 'about': ['Toshia Stelivan has lived in Texas for over 30 years. She has always been an avid reader. Toshia began writing short stories in elementary school. Her daughters Madison and Morgan also love books. Toshia has a strong love for horses, and she volunteers at a local ranch helping children with disabilities. Toshia enjoys writing children’s books that a child can have a learning experience.']}"
+}

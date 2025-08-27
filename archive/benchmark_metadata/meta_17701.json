@@ -1,0 +1,48 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Men's Sunday Hoody Team Color",
+    "average_rating": 4.0,
+    "rating_number": 152,
+    "features": [
+        "80% Cotton, 20% Polyester",
+        "Imported",
+        "Classic Hood style",
+        "Bold front graphic",
+        "Comfortable fit"
+    ],
+    "description": [
+        "NFL licensed sweatshirt re-created by Junk Food Clothing, specializing in vintage, retro marks. Has a soft hand and feel."
+    ],
+    "price": "72.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81D2-5tHlmL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41UwX7o9LRL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41UwX7o9LRL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Junk Food",
+    "categories": [
+        "Sports & Outdoors",
+        "Fan Shop",
+        "Clothing",
+        "Sweatshirts & Hoodies"
+    ],
+    "details": "{\"Package Dimensions\": \"14.69 x 10.91 x 3.31 inches; 1 Pounds\", \"Item model number\": \"N10103-99200\", \"Department\": \"mens\", \"Date First Available\": \"July 8, 2015\", \"Manufacturer\": \"Junk Food Clothing (Sports Licensed)\", \"Country of Origin\": \"USA\"}",
+    "parent_asin": "B016ISTZ7G",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

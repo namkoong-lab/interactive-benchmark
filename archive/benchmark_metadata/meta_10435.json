@@ -1,0 +1,44 @@
+{
+    "main_category": "Digital Music",
+    "title": "Valentine",
+    "average_rating": 4.6,
+    "rating_number": 374,
+    "features": [],
+    "description": [
+        "The debut recording of guitarist BILL FRISELL'S trio with bassist THOMAS MORGAN & drummer RUDY ROYSTON is a wide-ranging 13-song set that mixes Frisell originals new & old, jazz standards, traditional songs, and covers. Valentine explores the creative freedom of the trio format and the profound musical relationship between these three musicians after years of touring."
+    ],
+    "price": "13.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61didFpsqiL._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61RccFUuf3L._SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41UmzANqQEL.jpg",
+            "https://m.media-amazon.com/images/I/51fR3c+lhtL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41UmzANqQEL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51fR3c+lhtL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Bill Frisell   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Blue Note Records"
+    ],
+    "details": "{\"Language\": \"English\", \"Product Dimensions\": \"4.84 x 5.59 x 0.39 inches; 3.03 Ounces\", \"Manufacturer\": \"Blue Note\", \"Original Release Date\": \"2020\", \"Date First Available\": \"June 19, 2020\", \"Label\": \"Blue Note\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B088SQNH5M",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "We",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Fiction. WE portrays the havoc that the threat of an immigration raid wreaks upon a surprisingly wide diversity of the residents of a suburban American community. Told in a series of vignettes that dip in and out of the lives of not only those in danger of deportation, but also of the American citizen neighbors with whom their lives are intertwined, it ultimately reveals how rapidly labels and categories and \"us vs. them\" divisions pale in comparison to all that even the most seemingly dissimilar amongst them have in common in the universes sealed within their skin."
+    ],
+    "description": [
+        "About the Author",
+        "Laura S. Distelheim's work has received awards from numerous literary journals and has twice been noted for Special Mention in both",
+        "Best American Essays",
+        "and The Pushcart Prize. In addition, it has received the William Faulkner William Wisdom Medal, the Mary Roberts Rinehart Award, the Press 53 Open Award, the Bruce P. Rossley Literary Award, the Richard J. Margolis Award, an Illinois Arts Council Artist's Fellowship Award and a grant from the Barbara Deming Memorial Fund. She received her J.D. from Harvard Law School and served for twenty years as director of Neighbor to Neighbor, an organization she created to combat hunger among and procure scholarship opportunities for the children of low income families in her community."
+    ],
+    "price": "10.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Tl5vLlLuL._SX368_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Laura S. Distelheim (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "United States"
+    ],
+    "details": "{\"Publisher\": \"Gold Line Press (June 15, 2017)\", \"Language\": \"English\", \"Paperback\": \"58 pages\", \"ISBN 10\": \"1938900235\", \"ISBN 13\": \"978-1938900235\", \"Item Weight\": \"3.2 ounces\", \"Dimensions\": \"5.3 x 0.2 x 6.9 inches\"}",
+    "parent_asin": "1938900235",
+    "bought_together": null,
+    "subtitle": "Paperback – June 15, 2017",
+    "author": null
+}

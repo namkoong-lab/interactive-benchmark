@@ -1,0 +1,51 @@
+{
+  "item_id": 611,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Raga Bhairavi",
+    "average_rating": 4.4,
+    "rating_number": 17,
+    "features": [],
+    "description": [
+      "Legendary sitarist offers an extraordinary performance of \"Raga Bhairavi\", exploring this raga's more serious side in an extended \"Alap & Jor\""
+    ],
+    "price": "139.0",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51QZlJHBjcL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51QZlJHBjcL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Ustad Vilayat Khan   Vilayat Khan   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "International Music",
+      "Far East & Asia"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Language\": \"Hindi\", \"Product Dimensions\": \"5.49 x 0.41 x 5.01 inches; 3.68 Ounces\", \"Manufacturer\": \"India Archives\", \"Original Release Date\": \"1996\", \"SPARS Code\": \"DDD\", \"Date First Available\": \"July 27, 2006\", \"Label\": \"India Archives\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00000164O",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Cultural & World Music"
+    ],
+    "confidence": 0.9
+  }
+}

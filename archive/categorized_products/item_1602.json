@@ -1,0 +1,56 @@
+{
+  "item_id": 1602,
+  "metadata": {
+    "main_category": "Computers",
+    "title": "HP Z420 Desktop Workstation E5-1620 500G 6GB RAM",
+    "average_rating": 2.3,
+    "rating_number": 4,
+    "features": [
+      "HP Z420 Workstation HP Z420 600W 90 Efficient Chassis Windows 7 Professional 64bit OS US 6GB DDR3-1600 ECC 6GB (3 x 2 GB) RAM No Integrated GFX 1TB 7200 RPM SATA 1st HDD HP USB Standard Keyboard US HP USB Optical Scroll Mouse 16X SuperMulti DVDRW SATA",
+      "Monitor is not included"
+    ],
+    "description": [
+      "The HP Z420 gives you professional expandability in an accessible tool-free mini-tower form factor - all at a great price. With up to 8 discrete processing cores, the latest processing and I/O power from Intel, and the latest graphics technology from leading graphics providers, the HP Z420 has the power you need to get the job done.  Enjoy the control that comes with being able to swap out parts or make upgrades on your own. The HP Z420 Workstation features a smart chassis that offers tool-less access to the inside, easy configurability and an optional optical bay handle for seamless deployment. And with optional liquid cooling designed to deliver whisper-quiet performance, the HP Z420 is built to make your work flow more smoothly.",
+      "Specifications"
+    ],
+    "price": "160.0",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31FsaaX05AL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31FsaaX05AL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "HP",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Computers & Tablets",
+      "Desktops",
+      "Towers"
+    ],
+    "details": "{\"Standing screen display size\": \"1 Millimeters\", \"Processor\": \"3.6 GHz pentium\", \"RAM\": \"6 MB 6 GB (3 x 2 GB) DDR3-1333 ECC Unbuffered\", \"Memory Speed\": \"1600 MHz\", \"Hard Drive\": \"500 GB HDD\", \"Graphics Coprocessor\": \"No applicable\", \"Chipset Brand\": \"Intel\", \"Card Description\": \"Dedicated\", \"Graphics Card Ram Size\": \"6 GB\", \"Number of USB 2.0 Ports\": \"5\", \"Brand\": \"HP\", \"Series\": \"XEON\", \"Item model number\": \"B2B95UT\", \"Hardware Platform\": \"PC\", \"Operating System\": \"Windows 7 Professional\", \"Item Weight\": \"27.6 pounds\", \"Product Dimensions\": \"7 x 17.53 x 17.62 inches\", \"Item Dimensions  LxWxH\": \"7 x 17.53 x 17.62 inches\", \"Processor Brand\": \"Intel\", \"Number of Processors\": \"4\", \"Computer Memory Type\": \"DDR3 SDRAM\", \"Hard Drive Interface\": \"Serial ATA\", \"Voltage\": \"220 Volts\", \"Best Sellers Rank\": {\"Computers & Accessories\": 241494, \"Tower Computers\": 11179}, \"Date First Available\": \"April 12, 2012\", \"Specific Uses For Product\": \"Personal\", \"Personal computer design type\": \"Computer Tower\", \"Memory Storage Capacity\": \"6 GB\", \"Screen Size\": \"1 Millimeters\", \"Ram Memory Installed Size\": \"6 GB\", \"Included Components\": \"Monitor\", \"CPU Model\": \"Pentium\"}",
+    "parent_asin": "B007TG5E86",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Computers"
+    ],
+    "confidence": 0.95
+  }
+}

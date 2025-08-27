@@ -1,0 +1,74 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Skechers Girl's Multisport Outdoor Shoes",
+    "average_rating": 4.2,
+    "rating_number": 49,
+    "features": [
+        "Synthetic sole",
+        "Agion odor-fighting technology keeps feet feeling cooler and drier",
+        "Removable foam insole",
+        "Quick Fit feature for easy accessibility on and off",
+        "Quick Fit feature for easy accessibility on and off"
+    ],
+    "description": [
+        "Go knit lightweight running shoe"
+    ],
+    "price": "129.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81RpqlqAZyL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81GrypHY1fL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71xkSoK+wOL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71FztzxwHBL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81QAlkUzkBL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81r04se4yIL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/810wJca0jRL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/415kw7H+gYL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51c+CruGI6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51x145jGbAL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41EWjV26IML._AC_.jpg",
+            "https://m.media-amazon.com/images/I/414AsYre+7L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41nMxM32ERL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51S2CQ5oWtL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/415kw7H+gYL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51c+CruGI6L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51x145jGbAL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41EWjV26IML._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/414AsYre+7L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41nMxM32ERL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51S2CQ5oWtL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Skechers",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Athletic",
+        "Running",
+        "Road Running"
+    ],
+    "details": "{\"Item Weight\": \"2.05 Pounds\", \"Item model number\": \"14118\", \"Department\": \"womens\", \"Date First Available\": \"September 21, 2015\", \"Manufacturer\": \"Skechers\"}",
+    "parent_asin": "B07HKVP33K",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

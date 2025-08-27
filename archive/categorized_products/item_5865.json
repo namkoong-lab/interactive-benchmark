@@ -1,0 +1,77 @@
+{
+  "item_id": 5865,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Masculinity 3 Wooden Box",
+    "average_rating": 4.5,
+    "rating_number": 220,
+    "features": [
+      "Functional Lock and Key",
+      "Handmade in Poland with Aged Linden Wood",
+      "Outer Dimensions: 10.25 inches x 7.25\" x 4.25\" Inner Dimensions: 9.25\" x 6.25\" x 2.75\"",
+      "Lined with Red Velvet"
+    ],
+    "description": [
+      "This Wood box is large enough to hold all your jewelry and keepsakes!"
+    ],
+    "price": "57.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/618b8O7XY1L._AC_SL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51X0Tp8bO8L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51X0Tp8bO8L._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Old World Wooden Keepsake Box",
+        "Bazaardi Hand Carved Wooden Box",
+        "Perfect Keepsake Box!",
+        "Wooden Storage Memory Box with Hinged Lid and Locking Key",
+        "Store your memories in style and through generations"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/db0c45ac9ea34021b96734935dc95443?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/e0a5aa5a3c3342ac8a00bbf8775f3e7f?ref=dp_vse_rvc_1",
+        "https://www.amazon.com/vdp/086ba12cf5d24f79a37a4130115102c5?ref=dp_vse_rvc_2",
+        "https://www.amazon.com/vdp/08eb24ba3f07493ca4c4971f23ab24e7?ref=dp_vse_rvc_3",
+        "https://www.amazon.com/vdp/05480229acf147a6aa212df766ce3a6b?ref=dp_vse_rvc_4"
+      ],
+      "user_id": [
+        "",
+        "",
+        "/shop/mattsbenson",
+        "",
+        ""
+      ]
+    },
+    "store": "Enchanted World of Boxes",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Shoe, Jewelry & Watch Accessories",
+      "Jewelry Accessories",
+      "Jewelry Boxes & Organizers",
+      "Jewelry Boxes"
+    ],
+    "details": "{\"Color\": \"Wood\", \"Brand\": \"Enchanted World of Boxes\", \"Material\": \"Wood\", \"Product Dimensions\": \"7.25\\\"D x 10.25\\\"W x 4.25\\\"H\", \"Shape\": \"Rectangular\", \"Occasion\": \"Housewarming\", \"Finish Type\": \"Handmade\", \"Inner Material\": \"Wood\", \"Closure Type\": \"Key Lock\", \"Item Weight\": \"2 Pounds\", \"Number of Compartments\": \"1\", \"Number of Items\": \"1\", \"Manufacturer\": \"Enchanted World of Boxes\", \"Item model number\": \"MM-30\", \"Best Sellers Rank\": {\"Clothing, Shoes & Jewelry\": 228890, \"Jewelry Boxes\": 889}, \"Is Discontinued By Manufacturer\": \"No\", \"Finish types\": \"Handmade\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B005FOB5E6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Amazon Home",
+      "Home Decor",
+      "Jewelry Display & Storage"
+    ],
+    "confidence": 0.95
+  }
+}

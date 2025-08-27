@@ -1,0 +1,67 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Minesweeper",
+    "average_rating": 3.3,
+    "rating_number": 3,
+    "features": [
+        "User friendly interface",
+        "Different levels of difficulty with its time factor",
+        "Additional embedded Heyzap & Scoreloop features"
+    ],
+    "description": [
+        "The all new Minesweeper is here with its classic idea of clearing the mine field. The user is to locate the mine-concealing blocks & not step on them, he has to clear all the mine-free blocks by clicking on them so as to win the game. Undoubtedly now the Minesweeper has become more challenging & interesting to play with its ability to set time within which the field has to be cleared by the player, providing him with the level of difficulty he chooses to play with. The game is built with the most efficient graphics and brilliantly chosen sounds enhancing it to give users the most outstanding experience playing it. Also Heyzap and Scoreloop let you compete against friends!Features:User friendly interface,Different levels of difficulty with its time factor,Additional embedded Heyzap & Scoreloop features."
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/71S-81adPNL.png",
+            "https://m.media-amazon.com/images/I/81lXRUHqMiL.png",
+            "https://m.media-amazon.com/images/I/81HlbqPOqEL.png",
+            "https://m.media-amazon.com/images/I/71csnjtAz8L.png",
+            "https://m.media-amazon.com/images/I/8197m34UjEL.png",
+            "https://m.media-amazon.com/images/I/91ilZGr3wdL.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "appbulous",
+    "categories": [],
+    "details": "{\"Release Date\": \"2013\", \"Date first listed on Amazon\": \"May 8, 2013\", \"Developed By\": \"appbulous\", \"Size\": \"11.9MB\", \"Version\": \"1.4\", \"Application Permissions\": [\"Access coarse (e.g., Cell-ID, Wi-Fi) location\", \"Access fine (e.g., GPS) location\", \"Access information about networks\", \"Open network sockets\", \"Read the user's contacts data\", \"Read only access to device state\"], \"Minimum Operating System\": \"Android 2.3\", \"Approximate Download Time\": \"Less than 90 seconds\"}",
+    "parent_asin": "B00COLST9M",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

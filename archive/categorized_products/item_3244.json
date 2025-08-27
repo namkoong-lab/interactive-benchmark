@@ -1,0 +1,62 @@
+{
+  "item_id": 3244,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Vanity Fair Women's Body Caress Full Coverage Underwire Bra 75335",
+    "average_rating": 4.6,
+    "rating_number": 326,
+    "features": [
+      "78% Nylon, 22% Spandex",
+      "Hand Wash Only",
+      "Full-coverage bra in matte finish featuring contouring cups with underwire and silky trims",
+      "Microfiber wings wrap around and smooth back",
+      "Convertible/adjustable back straps"
+    ],
+    "description": [
+      "The body caress full coverage underwire bra provides all-day comfort and confidence. This bra is versatile with 2-way convertible straps that allows you to wear it regularly or crisscross. The straps are adjustable for a custom fit. This bra is also ultra-soft against your skin and provides a smooth look under clothes. The body caress full coverage underwire bra features a decorative satin trim outlining the top of the cups and straps."
+    ],
+    "price": "40.98",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61NV03ERYuL._AC_UL1001_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41EBbCEJ6rL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41EBbCEJ6rL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Vanity Fair",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Lingerie, Sleep & Lounge",
+      "Lingerie",
+      "Bras",
+      "Everyday Bras"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"75335\", \"Department\": \"Womens\", \"Date First Available\": \"December 14, 2002\", \"Manufacturer\": \"Vanity Fair Women's Bras\"}",
+    "parent_asin": "B004N3BHZ2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Underwear",
+      "Bras"
+    ],
+    "confidence": 0.95
+  }
+}

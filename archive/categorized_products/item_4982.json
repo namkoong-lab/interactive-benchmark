@@ -1,0 +1,59 @@
+{
+  "item_id": 4982,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "City Classified Tacomas Jute Crochet Flatform Wedge Heel with Ankle Buckle Straps,Natural,6",
+    "average_rating": 4.0,
+    "rating_number": 16,
+    "features": [
+      "100% Synthetic",
+      "Made in USA or Imported",
+      "Rubber sole",
+      "Heel measures approximately 1.25 inches\""
+    ],
+    "description": [
+      "City Classified is a California based fashion shoe brand. From young to young at heart, their shoes are on the feet of the fashion conscious consumer. Season after season, they have provided customers around the globe with the latest in fashion footwear."
+    ],
+    "price": "32.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71gHcF+NnoL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41+bGiVg-YL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41+bGiVg-YL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "City Classified",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Sandals",
+      "Platforms & Wedges"
+    ],
+    "details": "{\"Package Dimensions\": \"10.8 x 7.8 x 4.2 inches; 3 Pounds\", \"Department\": \"womens\", \"Date First Available\": \"February 16, 2019\", \"Manufacturer\": \"Soda\"}",
+    "parent_asin": "B07NSL5NYY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Sandals"
+    ],
+    "confidence": 0.95
+  }
+}

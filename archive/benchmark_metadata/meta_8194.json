@@ -1,0 +1,53 @@
+{
+    "main_category": "Books",
+    "title": "The Other Wife",
+    "average_rating": 4.2,
+    "rating_number": 40455,
+    "features": [
+        "An Amazon Charts bestseller.",
+        "She’s a total stranger. But she knows who you are…",
+        "Suzi did a bad thing. She’s paying for it now, pregnant, scared, and living in an isolated cottage with her jealous husband, Nick.",
+        "When Nora moves into the only house nearby, Suzi is delighted to have a friend. So much so that she’s almost tempted to tell Nora her terrible secret. But there’s more to Nora than meets the eye. It’s impossible―does she already know what Suzi did?",
+        "Meanwhile, Elle spends her days in her perfect home, fixated on keeping up appearances. But when her husband betrays her, it unravels a secret going all the way back to her childhood. She’ll do whatever it takes to hold on to him, even if that means murder. After all, she’s done it before…",
+        "Caught up in their own secrets and lies, these strangers will soon realise they have more in common than they could ever have imagined. When a shocking event brings them together, their lives will never be the same again."
+    ],
+    "description": [
+        "About the Author",
+        "Claire McGowan was born in 1981 in a small Irish village where the most exciting thing that ever happened was some cows getting loose on the road. She is the author of",
+        "The Fall",
+        ",",
+        "What You Did",
+        "and the acclaimed Paula Maguire crime series. She also writes women’s fiction under the name Eva Woods."
+    ],
+    "price": "7.89",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51cjSplF4yL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Claire McGowan (Author)",
+    "categories": [
+        "Books",
+        "Mystery, Thriller & Suspense",
+        "Thrillers & Suspense"
+    ],
+    "details": "{\"Publisher\": \"Thomas & Mercer (October 24, 2019)\", \"Language\": \"English\", \"Paperback\": \"331 pages\", \"ISBN 10\": \"1542093155\", \"ISBN 13\": \"978-1542093156\", \"Item Weight\": \"8.8 ounces\", \"Dimensions\": \"5.08 x 1 x 7.8 inches\"}",
+    "parent_asin": "1542093155",
+    "bought_together": null,
+    "subtitle": "Paperback – October 24, 2019",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/m5alnqhqhaqhngq5dj5r7d4lt0._SY600_.jpg', 'name': 'Claire McGowan', 'about': [\"Claire McGowan grew up in a small village in Northern Ireland, and now lives in London. She also writes women's fiction under the name Eva Woods, as well as radio and TV scripts.\", 'You can find out more about Claire and her books at https://www.clairemcgowan.co.uk/']}"
+}

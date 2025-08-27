@@ -1,0 +1,55 @@
+{
+    "main_category": "Automotive",
+    "title": "Biokleen M00209 Amazing Armor Gallon",
+    "average_rating": 4.7,
+    "rating_number": 47,
+    "features": [
+        "Amazing armour gallon",
+        "Package Dimensions: 33.02 H x 5.08 L x 15.24 W (centimetres)",
+        "Package Weight: 3.81 kilograms",
+        "Country of Origin : United States"
+    ],
+    "description": [
+        "Our environmentally Friendly Cleaning products are formulated using high grade ingredients that outperform the competition yet giving you that desired professional detail Look. To ensure we leave as little carbon footprint, our products are shipped in biodegradable packaging so you’ll feel better knowing you’re doing your part too."
+    ],
+    "price": "65.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71B+iUq7ucL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81H-haubxdL._AC_SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41CEozBdjVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Zk3qKgmGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31fIUmdNe9L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41CEozBdjVL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41Zk3qKgmGL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31fIUmdNe9L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT12"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Biokleen",
+    "categories": [
+        "Automotive",
+        "Car Care",
+        "Fillers, Adhesives & Sealants",
+        "Putty"
+    ],
+    "details": "{\"Manufacturer\": \"Bio-Kleen Products\", \"Brand\": \"Biokleen\", \"Model\": \"M00209\", \"Item Weight\": \"8.49 pounds\", \"Product Dimensions\": \"12 x 12 x 12 inches\", \"Item model number\": \"1220.1503\", \"Manufacturer Part Number\": \"M00209\", \"Best Sellers Rank\": {\"Automotive\": 482694, \"Body Repair Putty\": 233}, \"Date First Available\": \"March 5, 2012\"}",
+    "parent_asin": "B007H2RGK6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

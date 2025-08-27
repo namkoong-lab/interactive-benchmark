@@ -1,0 +1,69 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Tundra Women's Magog Fashion Boot",
+    "average_rating": 3.5,
+    "rating_number": 7,
+    "features": [
+        "Made in the USA or Imported",
+        "Rubber sole",
+        "Shaft measures approximately Ankle from arch",
+        "Boot opening measures approximately 7\" around",
+        "Rubber outsole"
+    ],
+    "description": [
+        "Leather ankle boot with belt buckle décor on side of shaft, rubber outsole"
+    ],
+    "price": "43.91",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71uMQ77dMJL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61Fs4Q-lp8L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61x1-7ZNd3L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/612C1kOJXoL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61L01CI-eYL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71l+6ETKbDL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31DT6d55kWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21m2EMTDIJL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31+nSNUcTeL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31quJYfFDPL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31Wb2JC3F6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41KzYTUYxGL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31DT6d55kWL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/21m2EMTDIJL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31+nSNUcTeL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31quJYfFDPL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31Wb2JC3F6L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41KzYTUYxGL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT06"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Tundra",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Boot Shop",
+        "Women",
+        "Outdoor & Work",
+        "Snow & Cold Weather"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"April 22, 2022\", \"Manufacturer\": \"Tundra\"}",
+    "parent_asin": "B09YN3MD9C",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

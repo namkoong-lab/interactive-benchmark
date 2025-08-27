@@ -1,0 +1,79 @@
+{
+  "item_id": 4865,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "The Children's Place girls Overalls",
+    "average_rating": 4.6,
+    "rating_number": 79,
+    "features": [
+      "100% Cotton",
+      "Imported",
+      "Snap closure",
+      "Machine Wash",
+      "OVERALLS — The perfect layering piece over her favorite tops",
+      "FABRIC — Made of 100% cotton denim",
+      "CLOSURE — Adjustable snap closures at shoulders for a custom fit for sizes 4-6X/7. Excess strap length lays inside the body. Adjustable shank closures at shoulders for a custom fit for sizes 8-16. Excess strap length lays outside the body.",
+      "DESIGN — Features handsanding and whiskering for a lived-in look, five-pocket styling, patch pocket at chest and belt loops",
+      "THE CHILDREN'S PLACE — We offer a huge selection of kid's clothing! Shop us for jeans, shorts, leggings, chinos, polo shirts, dresses, pajamas, and accessories."
+    ],
+    "description": [
+      "The Children’s Place offers a huge selection of kid's clothing! Shop us for jeans, shorts, leggings, chinos, polo shirts, dresses, uniforms, pajamas, and accessories. Made with premium quality materials at a great value. Kids clothing made simple."
+    ],
+    "price": "27.98",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/815UblCmrcL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91kc492RmnL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91BKDK3-kiL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71aJFAsUQ1L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Nd2TeazEL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31cJPMCNTfL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51-apOYLQpL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51j-kbmWzyL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31pgKj+lQcL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41HUOYOiPIL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31cJPMCNTfL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51-apOYLQpL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51j-kbmWzyL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31pgKj+lQcL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41HUOYOiPIL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT11"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "The Children's Place",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Girls",
+      "Clothing",
+      "Overalls"
+    ],
+    "details": "{\"Item model number\": \"3033852\", \"Department\": \"girls\", \"Date First Available\": \"April 8, 2022\", \"Manufacturer\": \"The Children's Place\"}",
+    "parent_asin": "B09XJHR3MP",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Girls' Clothing",
+      "Girls' Overalls & Jumpsuits"
+    ],
+    "confidence": 0.95
+  }
+}

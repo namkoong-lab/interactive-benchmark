@@ -1,0 +1,50 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Oreck Polishing Pad, Orbitor White",
+    "average_rating": 4.5,
+    "rating_number": 530,
+    "features": [
+        "This is an O.E.M. authorized part",
+        "Fits various Oreck models",
+        "OEM Part Number 437-051",
+        "This is a Bissell replacement part",
+        "Part Number 437-051",
+        "This is an O.E.M. part"
+    ],
+    "description": [
+        "This is an O.E.M. authorized part. Fits various Oreck models. OEM Part Number 437-051. Made in United States."
+    ],
+    "price": "10.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91DoqGFG+nL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41tCk3nxvxL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41tCk3nxvxL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Oreck",
+    "categories": [
+        "Home & Kitchen",
+        "Vacuums & Floor Care",
+        "Vacuum Parts & Accessories",
+        "Filters",
+        "Upright Filters"
+    ],
+    "details": "{\"Manufacturer\": \"Oreck\", \"Part Number\": \"437-051\", \"Item Weight\": \"2.4 ounces\", \"Product Dimensions\": \"1 x 1 x 1 inches\", \"Item model number\": \"437-051\", \"Is Discontinued By Manufacturer\": \"No\", \"Size\": \"1 Pack\", \"Color\": \"White\", \"Item Package Quantity\": \"1\", \"Batteries Included?\": \"No\", \"Batteries Required?\": \"No\", \"Best Sellers Rank\": {\"Home & Kitchen\": 139070, \"Replacement Upright Vacuum Filters\": 417}, \"Date First Available\": \"May 20, 2015\"}",
+    "parent_asin": "B07SKCN35G",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

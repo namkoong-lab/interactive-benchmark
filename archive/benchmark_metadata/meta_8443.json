@@ -1,0 +1,50 @@
+{
+    "main_category": "Books",
+    "title": "In Defense of Self: How the Immune System Really Works",
+    "average_rating": 4.7,
+    "rating_number": 66,
+    "features": [
+        "We live in a sea of seething microbial predators, an infinity of invisible and invasive microorganisms capable of setting up shop inside us and sending us to an early grave. The only thing keeping them out? The immune system. William Clark's",
+        "In Defense of Self",
+        "offers a refreshingly accessible tour of the immune system, putting in layman's terms essential information that has been for too long the exclusive province of trained specialists. Clark explains how the immune system works by using powerful genetic, chemical, and cellular weapons to protect us from the vast majority of disease-causing microbes-bacteria, viruses, molds, and parasites. Only those microbes our bodies need to help us digest food and process vitamins are admitted. But this same system can endanger us by rejecting potentially life-saving organ transplants, or by overreacting and turning too much force against foreign invaders, causing serious--occasionally lethal--collateral damage to our tissues and resulting in autoimmune disease.",
+        "In Defense of Self",
+        "covers everything from how antibodies work and the strategies the body uses to distinguish self from not self to the nature of immunological memory, the latest approaches to vaccination,and how the immune system will react should we ever be subjected to a bioterrorist attack. Clark also offers important insights on the vital role that the immune system plays in cancer, AIDS, autoimmunity, rheumatoid arthritis, allergies and asthma, and other diseases. Of special interest to all those suffering from diseases related to the immune system, as well as their families,",
+        "In Defense of Self",
+        "lucidly explains a system none of us could live without."
+    ],
+    "description": [
+        "About the Author",
+        "Dr. William Clark is Professor and Chair Emeritus of Immunology at the University of California, Los Angeles. He is an internationally recognized authority on the killer T lymphocytes involved in organ transplant rejection and in viral immunity. He has written extensively on topics in science and medicine for the general public."
+    ],
+    "price": "15.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41HijE66POL._SX322_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "William R. Clark (Author)",
+    "categories": [
+        "Books",
+        "New, Used & Rental Textbooks",
+        "Medicine & Health Sciences"
+    ],
+    "details": "{\"Publisher\": \"Oxford University Press; Illustrated edition (February 4, 2008)\", \"Language\": \"English\", \"Paperback\": \"265 pages\", \"ISBN 10\": \"0195335554\", \"ISBN 13\": \"978-0195335552\", \"Item Weight\": \"11.4 ounces\", \"Dimensions\": \"8.39 x 5.97 x 0.6 inches\"}",
+    "parent_asin": "0195335554",
+    "bought_together": null,
+    "subtitle": "Illustrated Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'William R. Clark', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

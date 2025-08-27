@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The Ocicat (Learning about Cats)",
+    "average_rating": 4.4,
+    "rating_number": 4,
+    "features": [
+        "Discusses the history, development, habits, and care of the Ocicat, a domestic cat breed known for its wild appearance and pleasant personality. Includes photo diagram and general facts about cats."
+    ],
+    "description": [
+        "About the Author",
+        "After working as an editor for several major children's book publishers, Joanne Mattern became the author of numerous nonfiction books for kids. She especially loves writing about animals, sports, and interesting people and places."
+    ],
+    "price": "7.85",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/512TAKERTFL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Joanne Mattern (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Animals"
+    ],
+    "details": "{\"Publisher\": \"Capstone Press (September 1, 2002)\", \"Language\": \"English\", \"Library Binding\": \"48 pages\", \"ISBN 10\": \"0736813020\", \"ISBN 13\": \"978-0736813020\", \"Reading age\": \"8 - 14 years\", \"Grade level\": \"4 - 9\", \"Item Weight\": \"9.6 ounces\", \"Dimensions\": \"6 x 0.31 x 8.5 inches\"}",
+    "parent_asin": "0736813020",
+    "bought_together": null,
+    "subtitle": "Library Binding – September 1, 2002",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Joanne Mattern', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

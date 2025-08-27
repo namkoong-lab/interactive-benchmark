@@ -1,0 +1,60 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Socksmith Lobster Socks Black Size 10-13, 1 EA",
+    "average_rating": 4.7,
+    "rating_number": 5,
+    "features": [
+        "Nylon",
+        "Pull On closure",
+        "Machine Wash",
+        "Sizing: Sock size 10-13 will fit a men's shoe size 8-13",
+        "Fiber Content: 66% Bamboo from Rayon, 32% Nylon, 2% Spandex"
+    ],
+    "description": [
+        "These bright red lobsters may pinch your foot off… but we promise it’s not dangerous! Available in black, these lobster socks are perfect for your next trip to Maine."
+    ],
+    "price": "13.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61ubs-UfsxL._AC_UL1339_.jpg",
+            "https://m.media-amazon.com/images/I/712IY3TDAKL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51h5uMjchdL._AC_UL1000_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31Vpo0k--GL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41BcQjVAPAL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41QRNk6+3OL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41kn-D7gJSL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31Vpo0k--GL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41BcQjVAPAL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41QRNk6+3OL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41kn-D7gJSL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Socksmith",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"10.63 x 0.39 x 3.54 inches; 2.08 Ounces\", \"Item model number\": \"MBN845-BLK\", \"Department\": \"Men\", \"Date First Available\": \"April 4, 2017\", \"Manufacturer\": \"Socksmith\"}",
+    "parent_asin": "B06VWXBFW2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

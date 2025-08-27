@@ -1,0 +1,51 @@
+{
+    "main_category": "Books",
+    "title": "Statistical Applications for the Behavioral Sciences",
+    "average_rating": 3.3,
+    "rating_number": 9,
+    "features": [
+        "Thisexciting applications-oriented text features a meticulousstep-by-step presentation of statistical theories andformulas. An entire chapter on research design providesstudents with an overall context for all of the statisticaltheories and formulas which follow and each chapter opens byestablishing the specific research context for one of thestatistical analyses presented."
+    ],
+    "description": [
+        "Review",
+        "Instructor's Manual, Test Bank, Transparencies and Student Workbook available. --",
+        "The publisher, John Wiley & Sons",
+        "From the Publisher",
+        "Explains the conceptual foundations of statistical analyses (particularly inferential statistics), emphasizing the research context. Teaches students how to ``work the formulas'' by presenting cleary defined steps for dealing with statistical problems. Covers chi-square and other nonparametric tests, one/two-way and repeated-measures ANOVA, data analytic procedures such as linear correlation and regression. Boxed features highlight the topics under discussion using published and unpublished research and contain biographical sketches of luminaries in the field of statistics. Each chapter concludes with an extended summary, the relevant formulas and numerous work problems.",
+        "About the Author",
+        "Laurence G. Grimm",
+        ", PhD, - deceased - was a clinical psychologist and Emeritus Associate Professor, University of Illinois at Chicago.",
+        "Read more"
+    ],
+    "price": "6.87",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51UTB3uK1xL._SX377_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Laurence G. Grimm (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Mathematics"
+    ],
+    "details": "{\"Publisher\": \"Wiley; 1st edition (February 1, 1993)\", \"Language\": \"English\", \"Hardcover\": \"608 pages\", \"ISBN 10\": \"9780471509820\", \"ISBN 13\": \"978-0471509820\", \"Item Weight\": \"2.31 pounds\", \"Dimensions\": \"7.5 x 1 x 9.5 inches\"}",
+    "parent_asin": "0471509825",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Laurence G. Grimm', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

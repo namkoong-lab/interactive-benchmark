@@ -1,0 +1,73 @@
+{
+  "item_id": 3567,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "NYDJ Women's Ami Skinny Legging Jeans",
+    "average_rating": 4.3,
+    "rating_number": 216,
+    "features": [
+      "53% Viscose, 26% Cotton, 20% Polyester, 1% Elastane",
+      "Made in the USA or Imported",
+      "Button closure",
+      "Machine Wash",
+      "SKINNY JEANS FOR WOMEN: Get the jean you need for a second-skin fit with stretch and comfort that’s second to none. The Ami Skinny Women’s Jeans flatter every inch of you, giving you sculpted legs, a tucked tummy, and lifted curves you will love.",
+      "EXCLUSIVE LIFT TUCK TECHNOLOGY: This unique technology uses a proprietary slimming panel with a patented crisscross design to shape and support your curves for an always-sleek silhouette. It will lift, slim, and flatten in the front for a flattering fit.",
+      "MEASUREMENTS: Inseam runs 29 inches, front rise is 9.75 inches, with a leg opening of 10.5 inches. Due to the Lift Tuck Technology, select one size down from what you normally wear for the best fit.",
+      "CLASSIC DESIGN: Finished with five-pocket styling, a zip fly, and a button closure, these skinny legging jeans for women are versatile and timeless with a comfortable slimming fit you can wear from season to season.",
+      "EASY TO CLEAN: Keep your slimming skinny jeans in their best condition by machine washing in cold water and line drying. 64% Cotton, 23% Polyester, 11% Viscose, 2% Elastane."
+    ],
+    "description": [
+      "NYDJ's Ami Skinny Legging in Future Fit Denim is made from our cutting-edge and innovative new denim blend that provides all-over compression for a perfect, second-skin fit. And, like all NYDJ bottoms, this iteration features our incredible Lift Tuck Technology, which works to slim from within so you look and feel one full size smaller. With classic five-pocket styling, a zip fly with button closure, and an 11 inch leg opening."
+    ],
+    "price": "53.28",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71J0qwenLkS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Kxb0x-XTS._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31p3PS7B2OS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31wsNjx2-uS._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31p3PS7B2OS._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31wsNjx2-uS._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Lead From Behind"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/b8f755dffe34415cbd88cd42bfa6824e?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "NYDJ",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Jeans"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"March 27, 2016\", \"Manufacturer\": \"NYDJ Women's Collection\"}",
+    "parent_asin": "B09QZHYLYR",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Pants",
+      "Women's Jeans"
+    ],
+    "confidence": 0.95
+  }
+}

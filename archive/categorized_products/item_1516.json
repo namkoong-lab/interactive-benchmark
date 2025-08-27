@@ -1,0 +1,73 @@
+{
+  "item_id": 1516,
+  "metadata": {
+    "main_category": "Pet Supplies",
+    "title": "AquaClear Impeller Assembly, 50 Powerhead, A16830",
+    "average_rating": 4.3,
+    "rating_number": 16,
+    "features": [
+      "Replacement Impeller for the AquaClear 50 Powerhead",
+      "Powerhead improves water circulation and filtration",
+      "Durable and easy to replace"
+    ],
+    "description": [
+      "The AquaClear Impeller Assembly is a replacement part for the AquaClear 50 Powerhead. Adding an AquaClear Powerhead to an under gravel system increases water flow through a gravel substrate and improves its filtering efficiency."
+    ],
+    "price": "29.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51YQfjt905L._AC_SL1149_.jpg",
+        "https://m.media-amazon.com/images/I/51UlsYO7McL._AC_SL1000_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31jh70ezGoL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/419n8G-7CDL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/215JvREINGL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31jh70ezGoL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/419n8G-7CDL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/215JvREINGL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT12"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Fluval C3 Power Aquarium Filter | Clean Water = Healthy Fish",
+        "Cleaning my fish tank and propping my aquatic #indoorplants"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/04a1a1593c1444ae84115468c53d7915?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/02b275782dd84f03b360cad7c884974b?ref=dp_vse_rvc_1"
+      ],
+      "user_id": [
+        "/shop/jayrule",
+        "/shop/influencer-1fb0ba06"
+      ]
+    },
+    "store": "AquaClear",
+    "categories": [
+      "Pet Supplies",
+      "Fish & Aquatic Pets",
+      "Aquarium Pumps & Filters",
+      "Filter Accessories"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"1.5 x 3.5 x 5 inches; 1.44 Ounces\", \"Item model number\": \"A16830\", \"Date First Available\": \"April 8, 2008\", \"Manufacturer\": \"Rolf C. Hagen (USA) Corp.\"}",
+    "parent_asin": "B0002DIE08",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Pet Supplies",
+      "Aquarium Accessories"
+    ],
+    "confidence": 0.95
+  }
+}

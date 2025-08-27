@@ -1,0 +1,68 @@
+{
+  "item_id": 3439,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Levi's Men's Nulll",
+    "average_rating": 4.4,
+    "rating_number": 134,
+    "features": [
+      "55% Linen, 45% Cotton",
+      "Imported",
+      "Zipper closure",
+      "Machine Wash",
+      "ORIGINAL LEVI'S JEANS: For over 150 years, Levi's has created products for those who value craftsmanship, quality, utility and style",
+      "LEVI'S 502: These shorts feature a regular fit that taper just above the knee for a comfortable everyday short",
+      "SIZE & FIT: The 502 short sits below the waist that falls right above the knee featuring a regular fit through the thigh",
+      "MATERIAL & FABRIC: Levi's 502 shorts made from 55% Linen and 45% Cotton",
+      "CARE INSTRUCTIONS: Machine wash shorts inside out with like colors using liquid detergent"
+    ],
+    "description": [
+      "Details to come before going live, as these are not available now."
+    ],
+    "price": "36.85",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81uWwyWSc5L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81zAsHfXDnL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41JlrPzCdLL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Ikn2B8hSL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41JlrPzCdLL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41Ikn2B8hSL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Levi's",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Shorts",
+      "Flat Front"
+    ],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"April 6, 2017\", \"Manufacturer\": \"Levi's\"}",
+    "parent_asin": "B0C64FCPS9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Shorts"
+    ],
+    "confidence": 0.95
+  }
+}

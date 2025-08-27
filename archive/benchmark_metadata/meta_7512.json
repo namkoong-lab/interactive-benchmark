@@ -1,0 +1,71 @@
+{
+    "main_category": "Books",
+    "title": "Security Operations Center: Building, Operating, and Maintaining your SOC",
+    "average_rating": 4.6,
+    "rating_number": 49,
+    "features": [
+        "Security Operations Center",
+        "Building, Operating, and Maintaining Your SOC",
+        "The complete, practical guide to planning, building, and operating an effective Security Operations Center (SOC)",
+        "Security Operations Center",
+        "is the complete guide to building, operating, and managing Security Operations Centers in any environment. Drawing on experience with hundreds of customers ranging from Fortune 500 enterprises to large military organizations, three leading experts thoroughly review each SOC model, including virtual SOCs. You’ll learn how to select the right strategic option for your organization, and then plan and execute the strategy you’ve chosen.",
+        "Security Operations Center",
+        "walks you through every phase required to establish and run an effective SOC, including all significant people, process, and technology capabilities. The authors assess SOC technologies, strategy, infrastructure, governance, planning, implementation, and more. They take a holistic approach considering various commercial and open-source tools found in modern SOCs.",
+        "This best-practice guide is written for anybody interested in learning how to develop, manage, or improve a SOC. A background in network security, management, and operations will be helpful but is not required. It is also an indispensable resource for anyone preparing for the Cisco SCYBER exam.",
+        "·         Review high-level issues, such as vulnerability and risk management, threat intelligence, digital investigation, and data collection/analysis",
+        "·         Understand the technical components of a modern SOC",
+        "·         Assess the current state of your SOC and identify areas of improvement",
+        "·         Plan SOC strategy, mission, functions, and services",
+        "·         Design and build out SOC infrastructure, from facilities and networks to systems, storage, and physical security",
+        "·         Collect and successfully analyze security data",
+        "·         Establish an effective vulnerability management practice",
+        "·         Organize incident response teams and measure their performance",
+        "·         Define an optimal governance and staffing model",
+        "·         Develop a practical SOC handbook that people can actually use",
+        "·         Prepare SOC to go live, with comprehensive transition plans",
+        "·         React quickly and collaboratively to security incidents",
+        "·         Implement best practice security operations, including continuous enhancement and improvement"
+    ],
+    "description": [
+        "About the Author",
+        "Joseph Muniz",
+        "is a consultant at Cisco Systems and security researcher. Joseph started his career in software development and later managed networks as a contracted technical resource. Joseph moved into consulting and found a passion for security while meeting with a variety of customers. He has been involved with the design and implementation of multiple projects, ranging from Fortune 500 corporations to large federal networks. Joseph is the author of and contributor to several books and is a speaker for popular security conferences. Check out his blog, http://www.thesecurityblogger.com, which showcases the latest security events, research, and technologies.",
+        "Gary McIntyre",
+        "is a seasoned information security professional focusing on the development and operation of large-scale information security programs. As an architect, manager, and consultant, he has worked with a wide range of public and private sector organizations around the world to design, build, and maintain small to large security operations teams. He currently holds a Masters degree from the University of Toronto and has also been a long-time (ISC)",
+        "2",
+        "instructor.",
+        "Dr. Nadhem AlFardan",
+        "has more than 15 years of experience in the area of information security and holds a Ph.D. in Information Security from Royal Holloway, University of London. Nadhem is a senior security solution architect working for Cisco Systems. Before joining Cisco, he worked for Schlumbeger and HSBC. Nadhem is CISSP certified and is an ISO 27001 lead auditor. He is also CCIE Security certified. In his Ph.D. research, Nadhem published a number of papers in prestige conferences, such as IEEE S&P and USENIX Security, mainly around cryptoanalysis topics. His work involved him working with organizations such as Google, Microsoft, Cisco, Mozilla, OpenSSL, and many others, mainly to help them assess and fix major findings in the Transport Layer Security/Secure Sockets Layer (TLS/SSL) protocol. His work is referenced in a number of IETF standards."
+    ],
+    "price": "32.59",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51zrKTDvteL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Joseph Muniz (Author),  Gary McIntyre (Author),  Nadhem AlFardan (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Networking & Cloud Computing"
+    ],
+    "details": "{\"Publisher\": \"Cisco Press; 1st edition (October 29, 2015)\", \"Language\": \"English\", \"Paperback\": \"448 pages\", \"ISBN 10\": \"0134052013\", \"ISBN 13\": \"978-0134052014\", \"Item Weight\": \"1.67 pounds\", \"Dimensions\": \"7.3 x 1.1 x 8.9 inches\"}",
+    "parent_asin": "0134052013",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/3ir4puocjb36llatufv1r3ftev._SY600_.jpg', 'name': 'Joseph Muniz', 'about': ['Joseph Muniz is a renowned security expert and the Director of Business Development for Security Solutions at Microsoft. With a passion for making the world a safer place, he is dedicated to promoting education and research on adversary tactics.', 'Joseph has over two decades of experience designing security solutions and architectures for Fortune 500 companies and the US Government, serving as a trusted advisor. He is a researcher and thought leader in the industry, regularly speaking at international conferences and contributing to technical magazines. Joseph also develops training for various industry certifications, and has invented the fictitious character of Emily Williams to raise awareness of social engineering.', 'As the founder of thesecurityblogger.com, Joseph has created a valuable resource for security and product implementation. He is the author and contributor of several publications, ranging from security best practices to exploitation tactics. His latest title, The Modern Security Operations Center, was released in 2021 and is his tenth publication.', \"When not working with technology, Joseph can be found on the soccer field or raising the next generation of hackers - his children. Follow Joseph's work at www.thesecurityblogger.com and on Twitter at @SecureBlogger.\"]}"
+}

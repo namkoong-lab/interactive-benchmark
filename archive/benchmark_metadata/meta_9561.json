@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Shattered Ashen Heart: Poetry For Loves Victims",
+    "average_rating": 4.8,
+    "rating_number": 6,
+    "features": [
+        "Poetry grown in the ashes of a shattered heart and the redemption it found with new love."
+    ],
+    "description": [
+        "About the Author",
+        "Kender MacGowan, a reluctant romantic, sarcastic cynic and victim of love writes poetry as a cheap alternative to therapy, hoping that somewhere karma will pile up in his favor. He lives in Southern California where he spends his time living the lifestyle of other curmudgeonly and famous writers in hopes of emulating them, mainly by drinking, writing and being anti-social."
+    ],
+    "price": "3.33",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41c73N3kScL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kender MacGowan (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Poetry"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform (February 21, 2009)\", \"Language\": \"English\", \"Paperback\": \"66 pages\", \"ISBN 10\": \"1441455035\", \"ISBN 13\": \"978-1441455031\", \"Item Weight\": \"3.68 ounces\", \"Dimensions\": \"5.98 x 0.14 x 9.02 inches\"}",
+    "parent_asin": "1441455035",
+    "bought_together": null,
+    "subtitle": "Paperback – February 21, 2009",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Kender MacGowan', 'about': ['Kender MacGowan, a reluctant romantic, sarcastic cynic and victim of love writes poetry as a cheap alternative to therapy, hoping that somewhere karma will pile up in his favor. He lives in Southern California where he spends his time living the lifestyle of other curmudgeonly and famous writers in hopes of emulating them- mainly by drinking, writing and being anti-social.']}"
+}

@@ -1,0 +1,58 @@
+{
+    "main_category": "Books",
+    "title": "Making Spatial Decisions Using ArcGIS Pro: A Workbook (Making Spatial Decisions, 4)",
+    "average_rating": 3.8,
+    "rating_number": 20,
+    "features": [
+        "\"How can we protect...?\" \"Where do we allocate...?\" \"What's the extent and pattern of...?\" You have questions in a spatial context;",
+        "Making Spatial Decisions Using ArcGIS Pro",
+        "has answers based in The Science of Where™.",
+        "Making Spatial Decisions Using ArcGIS Pro",
+        "is a textbook that provides the user with a broad overview of the capabilities of using ArcGIS Pro to use geospatial tools to solve real-world problems. This book takes full advantage of the integrative nature of ArcGIS Pro and its advanced capabilities to seamlessly unite cloud-based and desktop GIS. The lessons included in this book have been adapted and updated from lessons from Keranen and Kolvoord's popular first three Esri Press books:",
+        "Making Spatial Decisions Using GIS",
+        ",",
+        "Making Spatial Decisions Using GIS and Remote Sensing",
+        ", and",
+        "Making Spatial Decisions Using GIS and Lidar",
+        ".",
+        "The print book includes access to a 180-day trial of ArcGIS® Pro software."
+    ],
+    "description": [
+        "About the Author",
+        "Kathryn Keranen",
+        "is a retired teacher. She was instrumental in introducing GPS, GIS, and remote sensing into the geosystems curriculum in Fairfax County, Virginia. After retiring she became a private consultant and an authorized K-12 Esri instructor. She has consulted for various universities and is an adjunct instructor at James Madison University and Towson University.",
+        "Robert Kolvoord",
+        "is a professor of integrated science and technology at James Madison University (JMU). His main research interests are in the use of geospatial technologies in K-12 classrooms. He has administered a variety of professional and curriculum development grants and workshops to help teachers bring these technologies to their classrooms. Prior to coming to JMU, Dr. Kolvoord worked at the University of Arizona where he was a founder of the nonprofit Center for Image Processing in Education."
+    ],
+    "price": "63.12",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61sKjpNhuNL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kathryn Keranen (Author),  Robert Kolvoord (Author)",
+    "categories": [
+        "Books",
+        "Engineering & Transportation",
+        "Engineering"
+    ],
+    "details": "{\"Publisher\": \"Esri Press; Workbook edition (August 11, 2017)\", \"Language\": \"English\", \"Paperback\": \"376 pages\", \"ISBN 10\": \"1589484843\", \"ISBN 13\": \"978-1589484849\", \"Item Weight\": \"2.64 pounds\", \"Dimensions\": \"8 x 1 x 10 inches\"}",
+    "parent_asin": "1589484843",
+    "bought_together": null,
+    "subtitle": "Workbook Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/61Ls6Suo0OL._SY600_.jpg', 'name': 'Kathryn Keranen', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

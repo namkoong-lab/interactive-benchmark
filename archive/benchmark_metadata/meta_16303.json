@@ -1,0 +1,53 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Kasper Women's Sleeveless Ponte V-Neck Sheath Dress",
+    "average_rating": 4.2,
+    "rating_number": 22,
+    "features": [
+        "77% Polyester, 19% Viscose, 4% Elastane",
+        "Imported",
+        "Zipper closure",
+        "Dry Clean Only",
+        "Color block",
+        "Sheath dress"
+    ],
+    "description": [
+        "Sleeveless color block v-neck sheath dress in ponte fabrication"
+    ],
+    "price": "64.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71i0sR7Y3TL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71+lRVioWyL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31UfRgx6IUL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31OwUvFywgL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31UfRgx6IUL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31OwUvFywgL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kasper",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Dresses"
+    ],
+    "details": "{\"Product Dimensions\": \"14 x 10 x 2 inches; 12 Ounces\", \"Item model number\": \"10750900\", \"Department\": \"Womens\", \"Date First Available\": \"August 8, 2019\", \"Manufacturer\": \"Kasper\"}",
+    "parent_asin": "B07W95GZZH",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

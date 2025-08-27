@@ -1,0 +1,57 @@
+{
+  "item_id": 4588,
+  "metadata": {
+    "main_category": "Sports & Outdoors",
+    "title": "Nike mens Modern",
+    "average_rating": 4.5,
+    "rating_number": 129,
+    "features": [
+      "Polyester,Cotton,Spandex,Nylon,Terry",
+      "Pull On closure",
+      "Machine Wash"
+    ],
+    "description": [
+      "NIKE EVERYDAY CUSHIONED TRAINING CREW SOCKS (6 PAIRS) 22H..."
+    ],
+    "price": "23.23",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/61Migd4jZVL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/61Migd4jZVL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Nike",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Active",
+      "Athletic Socks"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"May 11, 2023\", \"Manufacturer\": \"Nike\"}",
+    "parent_asin": "B0C4XQLZWR",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Socks"
+    ],
+    "confidence": 0.95
+  }
+}

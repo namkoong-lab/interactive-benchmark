@@ -1,0 +1,59 @@
+{
+    "main_category": "Sports & Outdoors",
+    "title": "SouthBend SBHR2",
+    "average_rating": 3.7,
+    "rating_number": 5,
+    "features": [
+        "Helps Remove Hooks Quickly and Safely",
+        "Stainless Steel Construction",
+        "Self Locking Grip"
+    ],
+    "description": [
+        "Precision design helps remove hooks quickly and safely from deeply hooked fish. Stainless steel construction with three-position self-locking grip holds any hook securely."
+    ],
+    "price": "8.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91D47MSpTpL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91dfnx6oa7L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81K6VuKdUyL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81ULVMX9FZL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41RgwYTsLGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41nfpdxMEqL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41zTCem1+DL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41aWP-SdqhL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41RgwYTsLGL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41nfpdxMEqL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41zTCem1+DL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41aWP-SdqhL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "SouthBend",
+    "categories": [
+        "Sports & Outdoors",
+        "Hunting & Fishing",
+        "Fishing",
+        "Terminal Tackle & Accessories",
+        "Hooks"
+    ],
+    "details": "{\"Item Package Dimensions L x W x H\": \"8.2 x 3.8 x 3.8 inches\", \"Package Weight\": \"0.05 Pounds\", \"Item Dimensions  LxWxH\": \"0.54 x 3.48 x 9.48 inches\", \"Brand Name\": \"SouthBend\", \"Warranty Description\": \"One Year Warranty\", \"Material\": \"Stainless Steel\", \"Suggested Users\": \"Mens\", \"Number of Items\": \"1\", \"Manufacturer\": \"South Bend\", \"Part Number\": \"HR2\", \"Style\": \"Modern\", \"Date First Available\": \"August 17, 2005\", \"Brand\": \"SouthBend\", \"Item Dimensions LxWxH\": \"0.54 x 3.48 x 9.48 inches\", \"Number of Pieces\": \"1\"}",
+    "parent_asin": "B000LNQKJG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

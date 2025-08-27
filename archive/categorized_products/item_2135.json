@@ -1,0 +1,62 @@
+{
+  "item_id": 2135,
+  "metadata": {
+    "main_category": "Computers",
+    "title": "[50pcs] RJ-45 Color Coded Strain Relief Boots - GRAY",
+    "average_rating": 2.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+      "[50pcs] RJ-45 Color Coded Strain Relief Boots - GRAY"
+    ],
+    "price": "7.95",
+    "images": {
+      "hi_res": [
+        null,
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31sDOhtg1dL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41TlzI-6MjL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41b9w2jbMPL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31sDOhtg1dL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41TlzI-6MjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41b9w2jbMPL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Monoprice",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Computer Accessories & Peripherals",
+      "Cables & Accessories",
+      "Cables & Interconnects",
+      "Ethernet Cables"
+    ],
+    "details": "{\"Brand\": \"Monoprice\", \"Connector Type\": \"RJ45\", \"Compatible Devices\": \"Personal Computer\", \"Color\": \"Gray\", \"Unit Count\": \"50.0 Count\", \"Item Weight\": \"1 pounds\", \"Department\": \"RJ-45 Color Coded Strain Relief Boots\", \"Manufacturer\": \"Monoprice\", \"Item model number\": \"8541693026\", \"Date First Available\": \"February 23, 2009\"}",
+    "parent_asin": "B001TPKVCW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Computers",
+      "Computer Accessories"
+    ],
+    "confidence": 0.95
+  }
+}

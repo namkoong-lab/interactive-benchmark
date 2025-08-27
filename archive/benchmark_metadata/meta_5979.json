@@ -1,0 +1,59 @@
+{
+    "main_category": "Automotive",
+    "title": "Remy 92547 New Alternator",
+    "average_rating": 1.0,
+    "rating_number": 1,
+    "features": [
+        "Product Type: Auto Part",
+        "Package Quantity: 1",
+        "Country of Origin: United States"
+    ],
+    "description": [
+        "Transfer Case"
+    ],
+    "price": "159.88",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/614sDuYVv5L._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61k9hrCUoHL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61GFzn4IQhL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61xIFqyy6LL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41ZJPjwMbjL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/418m2Gik9vL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/516wsnkYBVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51jIDVQ26FL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41ZJPjwMbjL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/418m2Gik9vL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/516wsnkYBVL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51jIDVQ26FL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Remy",
+    "categories": [
+        "Automotive",
+        "Replacement Parts",
+        "Starters & Alternators",
+        "Alternators & Generators",
+        "Alternators"
+    ],
+    "details": "{\"Manufacturer\": \"Remy\", \"Brand\": \"Remy\", \"Item Weight\": \"14 pounds\", \"Product Dimensions\": \"9.36 x 7.72 x 7.04 inches\", \"Item model number\": \"92547\", \"Manufacturer Part Number\": \"92547\", \"Date First Available\": \"October 10, 2007\"}",
+    "parent_asin": "B001FJQ64O",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

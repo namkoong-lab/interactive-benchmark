@@ -1,0 +1,83 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "Statistics Done Wrong: The Woefully Complete Guide",
+    "average_rating": 4.4,
+    "rating_number": 474,
+    "features": [
+        "Scientific progress depends on good research, and good research needs good statistics. But statistical analysis is tricky to get right, even for the best and brightest of us. You'd be surprised how many scientists are doing it wrong.",
+        "Statistics Done Wrong",
+        "is a pithy, essential guide to statistical blunders in modern science that will show you how to keep your research blunder-free. You'll examine embarrassing errors and omissions in recent research, learn about the misconceptions and scientific politics that allow these mistakes to happen, and begin your quest to reform the way you and your peers do statistics.You'll find advice on:–Asking the right question, designing the right experiment, choosing the right statistical analysis, and sticking to the plan–How to think about",
+        "p",
+        "values, significance, insignificance, confidence intervals, and regression–Choosing the right sample size and avoiding false positives–Reporting your analysis and publishing your data and source code–Procedures to follow, precautions to take, and analytical software that can helpScientists: Read this concise, powerful guide to help you produce statistically sound research. Statisticians: Give this book to everyone you know.The first step toward statistics done right is",
+        "Statistics Done Wrong",
+        "."
+    ],
+    "description": [
+        "Review",
+        "\"If you analyze data with any regularity but aren't sure if you're doing it correctly, get this book.\" -- Nathan Yau,",
+        "FlowingData",
+        "\"Of all the books that tackle these issues, Reinhart's is the most succinct, accessible and accurate.\" -- Tom Siegfried,",
+        "Science News",
+        "\"A spotter's guide to arrant nonsense cloaked in mathematical respectability.\" -- Gord Doctorow,",
+        "BoingBoing",
+        "--This text refers to the",
+        "paperback",
+        "edition.",
+        "About the Author",
+        "Alex Reinhart",
+        "is a statistics instructor and PhD student at Carnegie Mellon University. He received his BS in physics at the University of Texas at Austin and does research on locating radioactive devices using statistics and physics.",
+        "--This text refers to the",
+        "paperback",
+        "edition.",
+        "From the Author",
+        "What goes wrong most often in scientific research and data science? Statistics.",
+        "Statistical analysis is tricky to get right, even for the best and brightest. You'd be surprised how many pitfalls there are, and how many published papers succumb to them. Here's a sample:",
+        "Statistical power. Many researchers use sample sizes that are too small to detect any noteworthy effects and, failing to detect them, declare they must not exist. Even medical trials often don't have the sample size needed to detect a 50% difference in symptoms. And right turns at red lights are legal only because safety trials had inadequate sample sizes.",
+        "Statistical power.",
+        "Many researchers use sample sizes that are too small to detect any noteworthy effects and, failing to detect them, declare they must not exist. Even medical trials often don't have the sample size needed to detect a 50% difference in symptoms. And right turns at red lights are legal only because safety trials had inadequate sample sizes.",
+        "Truth inflation. If your sample size is too small, the only way you'll get a statistically significant result is if you get lucky and overestimate the effect you're looking for. Ever wonder why exciting new wonder drugs never work as well as first promised? Truth inflation.",
+        "Truth inflation.",
+        "If your sample size is too small, the only way you'll get a statistically significant result is if you get lucky and overestimate the effect you're looking for. Ever wonder why exciting new wonder drugs never work as well as first promised? Truth inflation.",
+        "The base rate fallacy. If you're screening for a rare event, there are many more opportunities for false positives than false negatives, and so most of your positive results will be false positives. That's important for cancer screening and medical tests, but it's also why surveys on the use of guns for self-defense produce exaggerated results.",
+        "The base rate fallacy.",
+        "If you're screening for a rare event, there are many more opportunities for false positives than false negatives, and so most of your positive results will be false positives. That's important for cancer screening and medical tests, but it's also why surveys on the use of guns for self-defense produce exaggerated results.",
+        "Stopping rules. Why not start with a smaller sample size and increase it as necessary? This is quite common but, unless you're careful, it vastly increases the chances of exaggeration and false positives. Medical trials that stop early exaggerate their results by 30% on average.",
+        "Stopping rules.",
+        "Why not start with a smaller sample size and increase it as necessary? This is quite common but, unless you're careful, it vastly increases the chances of exaggeration and false positives. Medical trials that stop early exaggerate their results by 30% on average.",
+        "--This text refers to the",
+        "paperback",
+        "edition.",
+        "Read more"
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51MkvyfedHL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Alex Reinhart (Author)   Format: Kindle Edition",
+    "categories": [
+        "Kindle Store",
+        "Kindle eBooks",
+        "Science & Math"
+    ],
+    "details": "{\"Publisher\": \"No Starch Press; 1st edition (March 1, 2015)\", \"Publication date\": \"March 1, 2015\", \"Language\": \"English\", \"File size\": \"2758 KB\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"227 pages\"}",
+    "parent_asin": "B00UMA61RE",
+    "bought_together": null,
+    "subtitle": "1st Edition, Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Alex Reinhart', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

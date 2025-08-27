@@ -1,0 +1,59 @@
+{
+    "main_category": "Books",
+    "title": "Wolf Hall",
+    "average_rating": 4.2,
+    "rating_number": 19978,
+    "features": [
+        "England in the 1520s is a heartbeat from disaster. If the king dies without a male heir, the country could be destroyed by civil war. Henry VIII wants to annul his marriage of twenty years, and marry Anne Boleyn. The pope and most of Europe oppose him. The quest for the king’s freedom destroys his adviser, the brilliant Cardinal Wolsey, and leaves a power vacuum and a deadlock.",
+        "Into this impasse steps Thomas Cromwell. The son of a brutal blacksmith, a political genius, a briber, a bully and a charmer, Cromwell has broken all the rules of a rigid society in his rise to power, and is preparing to break some more. Rising from personal disaster – the loss of his young family and of Wolsey, his beloved patron – he picks his way deftly through a court where -man is wolf to man.’ Pitting himself against parliament, the political establishment and the papacy, he is prepared to reshape England to his own and Henry’s desires.",
+        "In inimitable style, Hilary Mantel presents a picture of a half-made society on the cusp of change, where individuals fight or embrace their fate with passion and courage. With a vast array of characters, overflowing with incident, Wolf Hall re-creates an era when the personal and political are separated by a hairbreadth, where success brings unlimited power but a single failure means death."
+    ],
+    "description": [
+        "About the Author",
+        "HILARY MANTEL",
+        "is the author of fourteen books, including",
+        "A Place of Greater Safety",
+        ",",
+        "Beyond Black",
+        ", the memoir",
+        "Giving Up the Ghost",
+        "and the short-story collection",
+        "The Assassination of Margaret Thatcher",
+        ". Her two most recent novels,",
+        "Wolf Hall",
+        "and its sequel,",
+        "Bring Up the Bodies",
+        ", have both been awarded the Man Booker Prize—an unprecedented achievement."
+    ],
+    "price": "1.35",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51gqChIO36L._SX323_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Hilary Mantel (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Genre Fiction"
+    ],
+    "details": "{\"Publisher\": \"Harpercollins; First CDN Edition (January 1, 2009)\", \"Language\": \"English\", \"Paperback\": \"672 pages\", \"ISBN 10\": \"1554687780\", \"ISBN 13\": \"978-1554687787\", \"Item Weight\": \"1.1 pounds\", \"Dimensions\": \"5.31 x 1.51 x 8 inches\"}",
+    "parent_asin": "1554687780",
+    "bought_together": null,
+    "subtitle": "Paperback – International Edition, January 1, 2009",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/t9sfqfcj4lt18dv915qj8cn9q9._SY600_.jpg', 'name': 'Hilary Mantel', 'about': ['Hilary Mantel is one of Britain’s most accomplished, acclaimed and garlanded writers. She is the author of fifteen books, including A Place of Greater Safety, Beyond Black, and the memoir Giving Up the Ghost. Wolf Hall and Bring Up the Bodies have both been awarded The Man Booker Prize. The conclusion to The Wolf Hall Trilogy, The Mirror & the Light, was published in 2020.']}"
+}

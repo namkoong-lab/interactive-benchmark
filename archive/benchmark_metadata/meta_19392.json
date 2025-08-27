@@ -1,0 +1,45 @@
+{
+    "main_category": "Prime Video",
+    "title": "Nick Knight",
+    "average_rating": 4.4,
+    "rating_number": 261,
+    "features": [
+        "IMDb 6.1",
+        "1 h 31 min",
+        "1989",
+        "18+"
+    ],
+    "description": [
+        "When a dead body drained of blood shows up at the museum and an ancient Mayan goblet is missing, Nick Knight knows that his former master and nemesis, Lacroix, is to blame."
+    ],
+    "price": "4.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Horror",
+        "Drama"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Farhad Mann\"], \"Producers\": [\"S. Michael Formica\", \"Benjamin A. Weissman\", \"Barry J. Weitz\", \"Roberta Becker Ziegel\"], \"Starring\": [\"Rick Springfield\", \"John Kapelos\", \"Robert Harper\"]}",
+    "parent_asin": "B006VRCYOQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

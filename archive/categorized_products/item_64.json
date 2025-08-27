@@ -1,0 +1,77 @@
+{
+  "item_id": 64,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Pentair 355618 Diffuser Replacement Pool and Spa Inground Pump",
+    "average_rating": 5.0,
+    "rating_number": 7,
+    "features": [
+      "Diffuser replacement",
+      "Fits Pentair SuperFlo, SuperMax, pool and spa inground pump",
+      "Also fits Pentair Pinnacle high flow inground pump",
+      "Available in 1-horsepower full rated pumps and the 1-1/2-horsepower uprated pumps"
+    ],
+    "description": [
+      "This diffuser is designed to use with 1-horsepower full rated pumps and the 1-1/2-horsepower uprated pumps. Fits Pentair SuperFlo, SuperMax, and Pinnacle high flow pool and spa inground pumps."
+    ],
+    "price": "88.04",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81eLK5fD9LL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81SNuThvQjL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41FyZYTDIHL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/411bJTMtUaL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41FyZYTDIHL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/411bJTMtUaL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Review of Pentair SuperFlo VS Variable Speed Pool Pump",
+        "Watch Before You Buy! Pentair Superflo High Performance Pump",
+        "This pump works great!",
+        "Pentair Superflo Pool Pump "
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0c918b6f2ad04bb58fbd470b1aa0d21e?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/0373f5cce88d4ccd96d14eed4cb62fd5?ref=dp_vse_rvc_1",
+        "https://www.amazon.com/vdp/01c11393ebd24dc5a421df8bfbf01a2f?ref=dp_vse_rvc_2",
+        "https://www.amazon.com/vdp/0fb15f05abd34349bae7a9517bfc1b77?ref=dp_vse_rvc_3"
+      ],
+      "user_id": [
+        "/shop/udezieniwodaniel",
+        "/shop/ericmuathe",
+        "/shop/brettgoodyear",
+        "/shop/timb_rv"
+      ]
+    },
+    "store": "Pentair",
+    "categories": [
+      "Patio, Lawn & Garden",
+      "Pools, Hot Tubs & Supplies",
+      "Parts & Accessories",
+      "Pool & Spa Replacement Parts"
+    ],
+    "details": "{\"Item Weight\": \"0.16 ounces\", \"Manufacturer\": \"Pentair\", \"Item model number\": \"355618\", \"Best Sellers Rank\": {\"Patio, Lawn & Garden\": 304539, \"Pool Pump Replacement Parts & Accessories\": 444, \"Pool & Spa Replacement Parts\": 6516}}",
+    "parent_asin": "B004VTGA8C",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Home Improvement",
+      "Pool & Spa"
+    ],
+    "confidence": 0.95
+  }
+}

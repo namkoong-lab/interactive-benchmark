@@ -1,0 +1,50 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "kensie Women's Soft Fuzzy Knit Striped Turtleneck Sweater",
+    "average_rating": 5.0,
+    "rating_number": 7,
+    "features": [
+        "60% Cotton, 35% Polyester, 5% Spandex",
+        "Imported",
+        "Pull On closure",
+        "Hand Wash Only",
+        "Super soft fuzzy knit",
+        "Black with white stripes"
+    ],
+    "description": [
+        "Soft fuzzy knit striped turtleneck sweater with thin white stripes on black ground."
+    ],
+    "price": "34.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/611z9tRC9GL._AC_UL1002_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41vTkWir2wL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41vTkWir2wL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "kensie",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Sweaters",
+        "Pullovers"
+    ],
+    "details": "{\"Item model number\": \"KSDK5957\", \"Department\": \"Womens\", \"Date First Available\": \"May 17, 2019\", \"Manufacturer\": \"Kensie\"}",
+    "parent_asin": "B07RYBK4C1",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

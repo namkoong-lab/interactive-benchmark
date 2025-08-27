@@ -1,0 +1,40 @@
+{
+    "main_category": null,
+    "title": "Panda Bear Mood Necklace",
+    "average_rating": 3.8,
+    "rating_number": 3,
+    "features": [
+        "Panda Bear Mood Necklace.",
+        "Mood necklace changes color depending on your mood"
+    ],
+    "description": [
+        "Panda Bear Mood Necklace on Assorted Cord. changes color depending on your mood"
+    ],
+    "price": "2.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41pgdbbeInL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41pgdbbeInL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "KW Products",
+    "categories": [],
+    "details": "{\"Date First Available\": \"November 9, 2011\"}",
+    "parent_asin": "B00B0GJZRC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

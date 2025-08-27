@@ -1,0 +1,58 @@
+{
+  "item_id": 1760,
+  "metadata": {
+    "main_category": "Industrial & Scientific",
+    "title": "Velleman CA047G Phono (RCA) Plug, 1 Grade to 12 Grade, Green",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "Boot color: green",
+      "Boot in molded plastic",
+      "Solder connections",
+      "For cable: 0.16\""
+    ],
+    "description": [
+      "Velleman creates products for educational needs and hobbyists and is the leader in do-it-yourself kits and components. Velleman offers a wide range of do-it-yourself electronic kits ranging from solderless education starter kit to solar energy experiment kits."
+    ],
+    "price": "3.99",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/21lcfsqOiNL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/21lcfsqOiNL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Velleman",
+    "categories": [
+      "Electronics",
+      "Television & Video",
+      "Accessories",
+      "Cables",
+      "RCA"
+    ],
+    "details": "{\"Package Dimensions\": \"1.85 x 0.2 x 0.2 inches; 1 Pounds\", \"Item model number\": \"CA047G\", \"Date First Available\": \"December 12, 2014\", \"Manufacturer\": \"Velleman, Inc\"}",
+    "parent_asin": "B00CRNNHNU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Industrial & Scientific",
+      "Industrial Hardware"
+    ],
+    "confidence": 0.95
+  }
+}

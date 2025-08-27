@@ -1,0 +1,50 @@
+{
+  "item_id": 348,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "True Moon",
+    "average_rating": 5.0,
+    "rating_number": 10,
+    "features": [],
+    "description": [
+      "True Moon's self titled debut album contains ten tracks of Scandinavian dark wave. An all around feeling of despair and melancholy is mixed with a small glimpse of hope. Karolina Engdahls voice is providing light and closeness in an otherwise all out dark, raw and minimalistic collection of songs. As the Swedish songwriting creeps up on the listener and the melodies get stuck, songs as \"Sugar\", \"Voodoo\" and \"Run Run Run\" gives instant pleasure while \"In the dead of the night\" and \"Our own darkness\" is working more like an ever growing darkness within. True Moon finds it's darkness closer to Joy Division than contemporary Swedish acts like Nicole Saboune and Invsn"
+    ],
+    "price": "31.75",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/517FV2-J2QL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/517FV2-J2QL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "TRUE MOON  (Artist)    Format: Vinyl",
+    "categories": [
+      "CDs & Vinyl",
+      "Pop"
+    ],
+    "details": "{\"Product Dimensions\": \"12 x 12.6 x 1 inches; 8 Ounces\", \"Manufacturer\": \"Lovely Records\", \"Original Release Date\": \"2016\", \"Date First Available\": \"August 16, 2016\", \"Label\": \"Lovely Records\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B01KI263DW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs"
+    ],
+    "confidence": 0.95
+  }
+}

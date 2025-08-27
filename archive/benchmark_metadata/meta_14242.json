@@ -1,0 +1,54 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Columbia Women's Outerspaced Ii Dress",
+    "average_rating": 3.7,
+    "rating_number": 13,
+    "features": [
+        "80% Cotton, 20% Polyester",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Hand pockets",
+        "37 inch center back"
+    ],
+    "description": [
+        "Hand pockets. 37 inch center back. Which is very comfortable to wear"
+    ],
+    "price": "32.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61FbYjvQ+BL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61DBeevPasL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41K6Z2TS25L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31KCxRKZtaL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41K6Z2TS25L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31KCxRKZtaL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Columbia",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Dresses",
+        "Casual"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 9.6 Ounces\", \"Item model number\": \"1716471\", \"Department\": \"womens\", \"Date First Available\": \"November 29, 2016\", \"Manufacturer\": \"Columbia Women's Activewear\"}",
+    "parent_asin": "B01HGII5NC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

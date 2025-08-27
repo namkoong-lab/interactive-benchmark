@@ -1,0 +1,52 @@
+{
+    "main_category": "Baby",
+    "title": "Sugarbooger Sippy Cup, Hedgehog",
+    "average_rating": 3.6,
+    "rating_number": 17,
+    "features": [
+        "Durable sippy cup made just for little hands",
+        "Easy to remove BPA-free lid",
+        "Holds 6 ounces of liquid",
+        "Also great for holding snack food",
+        "Makes a perfect gift"
+    ],
+    "description": [
+        "Oré Originals has been creating a legacy of Happy Products for Good People and Pets since 1989. It all began in a small garage in Southern California... Lisa Lowe founded Oré Originals with a love for design and a passion for color, print, pattern and creating useful things. The SugarBooger brand for babies, kids and the people who love them was inspired by the birth of Lisa's little boy. Her enthusiasm to create draws from a desire to design and improve upon safe, unique products for babies and kids that every family can use. Celebrating nearly 10 years of successful and safe children's products, our fans championed this brand into a collection of inspired, functional items that people love to buy for their own use - or for gifting to a new (or not so new!) parent or child."
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61Yn2gKwHdL._SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41eFd42wk4L.jpg",
+            "https://m.media-amazon.com/images/I/31Mdlkyg69L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41eFd42wk4L._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/31Mdlkyg69L._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT12"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "SUGARBOOGER",
+    "categories": [
+        "Baby Products",
+        "Feeding",
+        "Solid Feeding",
+        "Cups"
+    ],
+    "details": "{\"Product Dimensions\": \"4.9 x 4.9 x 3.1 inches\", \"Item model number\": \"A1023\", \"Is Discontinued By Manufacturer\": \"No\", \"Care instructions\": \"Machine Wash, Hand Wash Only\", \"Number Of Items\": \"1\", \"Style\": \"Modern\", \"Batteries required\": \"No\", \"Item Weight\": \"0.32 ounces\", \"Best Sellers Rank\": {\"Baby\": 95626, \"Toddler Cups\": 2150}}",
+    "parent_asin": "B00I8H8FG8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

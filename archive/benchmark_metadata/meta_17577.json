@@ -1,0 +1,53 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Free telephon",
+    "average_rating": 3.6,
+    "rating_number": 8,
+    "features": [
+        "تطبيق يمكنك من اجراء مكالمات مجانية"
+    ],
+    "description": [
+        "تطبيق يمكنك من اجراء مكالمات مجانية"
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/81TZIxN+HtL.png",
+            "https://m.media-amazon.com/images/I/81DJJraFCFL.png",
+            "https://m.media-amazon.com/images/I/8130qKzbrzL.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "App android",
+    "categories": [],
+    "details": "{\"Release Date\": \"2018\", \"Date first listed on Amazon\": \"January 19, 2018\", \"Developed By\": \"App android\", \"Size\": \"6.3MB\", \"Version\": \"2.2.0\", \"Application Permissions\": [\"Access information about networks\", \"Access information about Wi-Fi networks\", \"Open network sockets\", \"Read from external storage\"], \"Minimum Operating System\": \"Android 3.2\", \"Approximate Download Time\": \"Less than 1 minute\"}",
+    "parent_asin": "B0794YDRNG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

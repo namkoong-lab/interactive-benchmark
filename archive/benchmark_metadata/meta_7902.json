@@ -1,0 +1,45 @@
+{
+    "main_category": "Books",
+    "title": "RAAW: Rediscovering African American Wisdom",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [
+        "Who is addressing the African American condition? In RAAW: Rediscovering African American Wisdom, author Joseph W. Shorter III attempts to explore American life from the unique perspective of a thirty-something black male.Shorter approaches common issues found in most American families, but he specifically focuses on African Americans and how they have contributed to society at large. He does not intend his questions to cause an explosion of rebirth, but rather to begin a process of self-reflection and understanding by peeling back the layers of the everyday humdrum. Shorter also addresses the feelings of victimization in the African American community, pointing out that remaining a victim to circumstances is a choice and that black society has the power within to do something about it. Because many African Americans blame their state of existence on every outside force possible, Shorter believes that it is imperative for them to take responsibility to facilitate awareness.Through the use of anecdotes, poems, quotes, and quizzes, Shorter creates a highly readable discussion on the African American experience. RAAW presents a compelling argument for change within the black community."
+    ],
+    "description": [
+        "About the Author",
+        "Joseph William Shorter III",
+        "is a successful software developer. He served in the U.S. Marines for nine years. Shorter lives in Tampa, Florida, and owns a construction company."
+    ],
+    "price": "10.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41UgLU21JKL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Joseph W Shorter iii (Author)",
+    "categories": [
+        "Books",
+        "Self-Help",
+        "Relationships"
+    ],
+    "details": "{\"Publisher\": \"iUniverse; 0 edition (July 30, 2007)\", \"Language\": \"English\", \"Paperback\": \"86 pages\", \"ISBN 10\": \"0595407021\", \"ISBN 13\": \"978-0595407026\", \"Item Weight\": \"5 ounces\", \"Dimensions\": \"6 x 0.22 x 9 inches\"}",
+    "parent_asin": "0595407021",
+    "bought_together": null,
+    "subtitle": "Paperback – July 30, 2007",
+    "author": null
+}

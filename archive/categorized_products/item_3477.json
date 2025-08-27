@@ -1,0 +1,66 @@
+{
+  "item_id": 3477,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "CarefreeTees Cats Meow Cat Lovers (Unisex Baby Bodysuit or Tee-Shirt)",
+    "average_rating": 4.9,
+    "rating_number": 17,
+    "features": [
+      "100% Cotton",
+      "Made in the USA or Imported",
+      "Snap closure",
+      "Machine Wash",
+      "CarefreeTees Registered Brand - Thick Super Soft 100% Interlock Cotton",
+      "Design Printed From Vector Art Using Commercial Inks For a Sharp and Clear Image",
+      "Machine wash warm inside out, tumble dry",
+      "Standard fit - not too fitted, not too loose",
+      "3 Snap Closure For Quick Diaper Changes"
+    ],
+    "description": [
+      "Cats Meow - Cat Lovers Baby Onesie or Infant Shirt",
+      "No need to worry about quality, our Gift Quality baby onesies are made from very soft, thick, 100% cotton that will not overstretch and lose its shape after washing.",
+      "At CarefreeTees we love babies and funny baby sayings! Our cute Baby Onesie Cat Lover shirt would make a unique babyshower gift that is guaranteed to be a hit at the baby shower. For a Baby Boy or a Baby Girl."
+    ],
+    "price": "14.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61kJnhtWZ+L._AC_UL1001_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41f1styD+ML._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41f1styD+ML._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "CarefreeTees",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Baby",
+      "Baby Girls",
+      "Clothing",
+      "Bodysuits"
+    ],
+    "details": "{\"Package Dimensions\": \"9 x 6 x 0.5 inches; 2 Ounces\", \"Department\": \"unisex-baby\", \"Date First Available\": \"May 11, 2014\"}",
+    "parent_asin": "B00K9EYI82",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Girls' Clothing",
+      "Baby Clothing"
+    ],
+    "confidence": 0.95
+  }
+}

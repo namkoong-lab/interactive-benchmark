@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Tropical Fish (Golden Field Guide Series)",
+    "average_rating": 4.4,
+    "rating_number": 9,
+    "features": [
+        "A lavishly illustrated guide to setting up, maintaining, understanding, and enjoying an aquarium for tropical fish and other animals. Including:-Selecting the aquarium-Lights, temperature, and decorations-Feeding your fish and keeping them healthyThe fish and other organisms described and illustrated have been selected on the basis of their availability, beauty, and general interest."
+    ],
+    "description": [
+        "About the Author",
+        "Golden Guides first appeared in 1949 and quickly established themselves as authorities on subjects from Natural History to Science. Relaunched in 2000, Golden Guides from St. Martin's Press feature modern, new covers as part of a multi-year, million-dollar program to revise, update, and expand the complete line of guides for a new generation of students."
+    ],
+    "price": "15.23",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51HMTXVJ3AL._SX306_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Bruce W. Halstead (Author),  Bonnie L. Landa (Author),  George Sandström (Illustrator)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Biological Sciences"
+    ],
+    "details": "{\"Publisher\": \"Golden Guides from St. Martin's Press; First Edition (April 14, 2001)\", \"Language\": \"English\", \"Paperback\": \"160 pages\", \"ISBN 10\": \"1582381585\", \"ISBN 13\": \"978-1582381589\", \"Item Weight\": \"4 ounces\", \"Dimensions\": \"6.5 x 0.31 x 6.02 inches\"}",
+    "parent_asin": "1582381585",
+    "bought_together": null,
+    "subtitle": "Paperback – April 14, 2001",
+    "author": null
+}

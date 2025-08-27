@@ -1,0 +1,46 @@
+{
+    "main_category": "Prime Video",
+    "title": "Trancers",
+    "average_rating": 4.3,
+    "rating_number": 587,
+    "features": [
+        "IMDb 6.0",
+        "1 h 17 min",
+        "1985",
+        "X-Ray",
+        "R"
+    ],
+    "description": [
+        "Jack Deth is a cop from the bleak Los Angeles of the future in 2247. He's become obssessed with chasing Whistler - an evil criminal who uses powerful hypnotic powers to convert people into zombie like creatures known as Trancers. Whistler has managed to escape through time travel and is loose in 1980s L.A. but Deth is on his trail."
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Science Fiction",
+        "Action"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Charles Band\"], \"Producers\": [\"Charles Band\", \"Debra Dion\"], \"Starring\": [\"Michael Stefani\", \"Anne Seymour\", \"Art La Fleur\"]}",
+    "parent_asin": "B003Y51V8I",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

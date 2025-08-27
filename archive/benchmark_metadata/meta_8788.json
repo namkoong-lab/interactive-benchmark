@@ -1,0 +1,57 @@
+{
+    "main_category": "Books",
+    "title": "Dungeons and Desktops: The History of Computer Role-Playing Games 2e",
+    "average_rating": 4.7,
+    "rating_number": 34,
+    "features": [
+        "Computer role-playing games (CRPGs) are a special genre of computer games that bring the tabletop role-playing experience of games such as Dungeons & Dragons to the computer screen. Thisnew edition inlcudes two new chapters: The Modern Age, and a chapter on Indies and Mobile CRPGs. The new modern age chapter will cover, among other topics, Kickstarter/FIG crowdfunded projects such as Torment: Tides of Numenera and Pillars of Eternity. It'll also bring the book up to date with major games such as Dragon Age, Witcher, Skyrim. Expanded info in first chapter about educational potential of CRPGs. Color figures will be introduced for the first time.",
+        "Key Features",
+        "gives reviews of hundreds of games across many platforms.",
+        "gives reviews of hundreds of games across many platforms.",
+        "comprehensive book covering the history of computer RPGs.",
+        "comprehensive book covering the history of computer RPGs.",
+        "comprehensive index at the back, letting you quickly look up your favourite titles",
+        "comprehensive index at the back, letting you quickly look up your favourite titles"
+    ],
+    "description": [
+        "About the Author",
+        "Dr. Matt Barton",
+        "is a professor of English at St. Cloud State University in St. Cloud, Minnesota, where he specializes in writing studies and digital humanities. He’s authored several books on the history of videogames and produces",
+        "Matt Chat",
+        ", a popular YouTube series featuring developer interviews and reviews of new and classic video games.",
+        "Shane \"Shane Plays\" Stacks is a talk radio host, podcaster, YouTuber, blogger and recovering elected official exploring the many interests and fandoms of geek culture (of which he considers CRPGs a very important part). You can listen to his weekly",
+        "Shane Plays Geek Talk",
+        "radio show live over the air in Little Rock or catch the podcast edition online."
+    ],
+    "price": "50.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51pH8-iXkjL._SX322_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Matt Barton (Author),  Shane Stacks (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Programming"
+    ],
+    "details": "{\"Publisher\": \"A K Peters/CRC Press; 2nd edition (May 1, 2019)\", \"Language\": \"English\", \"Paperback\": \"618 pages\", \"ISBN 10\": \"1138574643\", \"ISBN 13\": \"978-1138574649\", \"Item Weight\": \"1.81 pounds\", \"Dimensions\": \"6.25 x 1.25 x 9 inches\"}",
+    "parent_asin": "1138574643",
+    "bought_together": null,
+    "subtitle": "2nd Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/315vxoSiFBL._SY600_.jpg', 'name': 'Matt Barton', 'about': ['Matt Barton is a professor of English at St. Cloud State University in St. Cloud, Minnesota, where he specializes in writing and new media. He is a co-founder of the award-winning website Armchair Arcade and the author of scholarly and popular articles on games and writing. He also produces a weekly series of YouTube videos called \"Matt Chat,\" which focus on classic games and vintage hardware.', 'Matt is a laidback and easy-going guy with a keen interest in computers, videogames, and gadgets. A native of Louisiana, Matt loves spicy food, Belgian ales, and exotic hot sauce. He lives in St. Cloud with his wife Elizabeth.']}"
+}

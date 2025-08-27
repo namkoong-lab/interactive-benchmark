@@ -1,0 +1,70 @@
+{
+  "item_id": 5385,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Orage Girl's Pixie Jacet",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Zipper closure",
+      "Hand Wash Only",
+      "Waterproof fabric",
+      "Breathable fabric",
+      "Strategically seam sealed"
+    ],
+    "description": [
+      "Awesome prints, Prime 10 twill 2 ply exterior for maximum water repellency, 150 grams of insulation in the body, 120 grams in the sleeves for maximum warmth and loads of additional features."
+    ],
+    "price": "89.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/A12YF87-nYL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/A14dCd+2qfL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91cxR925VEL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51HHajEwpUL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51gIgjNFeBL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51WaRpUfnRL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51HHajEwpUL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51gIgjNFeBL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51WaRpUfnRL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Orage",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Sport Specific Clothing",
+      "Skiing",
+      "Girls",
+      "Jackets"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Department\": \"Girls\", \"Date First Available\": \"July 1, 2014\", \"Manufacturer\": \"Orage_Mtn Dewds Distribution\"}",
+    "parent_asin": "B00LFUH0UW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Girls' Clothing",
+      "Girls' Jackets & Coats"
+    ],
+    "confidence": 0.95
+  }
+}

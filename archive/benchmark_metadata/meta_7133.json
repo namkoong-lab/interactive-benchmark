@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The Secret Life Of Math: Discover How (And Why) Numbers Have Survived From the Cave Dwellers to Us! (A Williamson's Kids Can! Book)",
+    "average_rating": 5.0,
+    "rating_number": 8,
+    "features": [
+        "Examines the evolution of mathematics, discussing its impact on the world and the vast changes that resulted from its constant development."
+    ],
+    "description": [
+        "About the Author",
+        "Ann McCallum"
+    ],
+    "price": "6.31",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51hhiI+8P3L._SY386_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "ideals (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Education & Reference"
+    ],
+    "details": "{\"Publisher\": \"WorthyKids (January 30, 2000)\", \"Language\": \"English\", \"Hardcover\": \"128 pages\", \"ISBN 10\": \"0824967798\", \"ISBN 13\": \"978-0824967796\", \"Reading age\": \"9 - 12 years\", \"Grade level\": \"4 - 6\", \"Item Weight\": \"1.69 pounds\", \"Dimensions\": \"10.75 x 0.5 x 8.5 inches\"}",
+    "parent_asin": "0824967798",
+    "bought_together": null,
+    "subtitle": "Hardcover – January 30, 2000",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/b58ugsfpqtbrafj2s2ps2pd1ar._SY600_.jpg', 'name': 'Ann McCallum Staats', 'about': ['Ann McCallum Staats is the award-winning author of several children\\'s books. Her newest, \"High Flyers: 15 Inspiring Women Aviators and Astronauts,\" is based on in-depth research and exclusive interviews with a senator, jet and commercial pilots, and astronauts. This is her second book in the Women of Power series. She is also author or the \"Eat Your Homework\" books. When she\\'s not writing, Ann travels, cooks, and walks through leaves. Find out more at: www.annmccallumbooks.com or on Twitter @McCallumBooks']}"
+}

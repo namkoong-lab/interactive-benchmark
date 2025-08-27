@@ -1,0 +1,64 @@
+{
+  "item_id": 2188,
+  "metadata": {
+    "main_category": "Computers",
+    "title": "CMS 16GB (4X4GB) DDR2 3200 400MHZ ECC Registered DIMM Memory Ram Upgrade Compatible with Dell® Precision Workstation 670 Dual Rank for Server Only - B48",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [
+      "Computer Memory Solutions guarantees compatibility with models provided in description.",
+      "Memory Type: Non-ECC DIMM, 240-Pin",
+      "Speed: DDR2-3200, 400 MHz",
+      "4 Piece Kit",
+      "Product appearance may vary. Picture for reference only. limited lifetime warranty when bought directly from computer memory solutions"
+    ],
+    "description": [
+      "16GB Total memory using 4pc of 4GB PC2-3200 DDR2-400 Dual-Rank Registered ECC DIMM. CMS brand, CMS is one of the most trusted names in the Computer Memory industry and this product carries a Lifetime Warranty from CMS. IF YOU NEED ECC REG SINGLE RANK PLEASE EMAIL US Features Compatible with Dell Precision Workstation 670 This chipset supports a maximum of 8 ranks. Per Dell, Dual Rank modules are only supported in the first two banks, sockets DIMM_1 through DIMM_4. Sockets DIMM_5 and DIMM_6 do not support Dual Rank modules. If Dual Rank modules are installed in sockets DIMM_3 and DIMM_4, sockets DIMM_5 and DIMM_6 are disabled. If 4GB is installed, the recognized memory may be reduced to 3.5GB or less (depending on system configuration and memory allocation). A 64-bit operating system is required to utilize more than 4GB of memory. If you install more than 4GB of memory, Dell requires an additional cooling fan. Kingston supports Chipkill (SDDC) technology on this system with our 1GB, 2GB, and 4GB modules only. Our 512MB module is not Chipkill (SDDC) compatible."
+    ],
+    "price": "30.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71HGIEIzjAL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/713tOsphiUL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41yXvI1lo5L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51pCYTO-9KL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41yXvI1lo5L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51pCYTO-9KL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Computer Memory Solutions",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Computer Components",
+      "Internal Components",
+      "Memory"
+    ],
+    "details": "{\"Product Dimensions\": \"5.25 x 0.15 x 1.18 inches\", \"Item Weight\": \"2 ounces\", \"Manufacturer\": \"Computer Memory Solutions\", \"Country of Origin\": \"USA\", \"Item model number\": \"CM512723200ECCREGX4\", \"Best Sellers Rank\": {\"Computer Memory\": 11705}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"August 14, 2013\", \"Brand\": \"Computer Memory Solutions\", \"Computer Memory Size\": \"16 GB\", \"RAM Memory Technology\": \"SDRAM DDR2\", \"Memory Speed\": \"400 MHz\", \"Compatible Devices\": \"Server\"}",
+    "parent_asin": "B00EJS8GG4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Electronics",
+      "Computers",
+      "Computer Accessories"
+    ],
+    "confidence": 0.95
+  }
+}

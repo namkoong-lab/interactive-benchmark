@@ -1,0 +1,59 @@
+{
+    "main_category": "All Beauty",
+    "title": "Aveda Cuticle Control, 0.5 Ounce",
+    "average_rating": 3.7,
+    "rating_number": 8,
+    "features": [
+        "Organic ingredients",
+        "Reduces painful hangnails",
+        "Reduces cracking"
+    ],
+    "description": [
+        "Benefits: even problem cuticles look healthy and well-groomed after using our powerful, cuticle-minimizing gel. Mineral-based ingredients help break down protein bonds. Plant-based humectants and conditioning agents soften cuticles, so they are easy to push back. Softens and soothes cuticles, rinse-off gel."
+    ],
+    "price": "59.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71KqOg-EawL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71TppSJU7wL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71ec2ho-A4L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/617cF9URqmL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41IsBuRna5L.jpg",
+            "https://m.media-amazon.com/images/I/31xpwZfdxAL.jpg",
+            "https://m.media-amazon.com/images/I/41zlIguKBJL.jpg",
+            "https://m.media-amazon.com/images/I/31+iZ7szXmL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41IsBuRna5L._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/31xpwZfdxAL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41zlIguKBJL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/31+iZ7szXmL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Aveda",
+    "categories": [
+        "Beauty & Personal Care",
+        "Foot, Hand & Nail Care",
+        "Nail Care",
+        "Cuticle Care",
+        "Cuticle Oils"
+    ],
+    "details": "{\"Brand\": \"Aveda\", \"Item Form\": \"Gel\", \"Active Ingredients\": \"glycerin\", \"Unit Count\": \"6.0 Ounce\", \"Number of Items\": \"12\", \"Product Dimensions\": \"2.3 x 2.2 x 1.2 inches; 0.02 Ounces\", \"Item model number\": \"018084511626\", \"UPC\": \"018084511626\", \"Manufacturer\": \"Buy Smart LLC\"}",
+    "parent_asin": "B000BYSKQQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

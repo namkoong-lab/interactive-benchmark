@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Charlie Tractor and Pickles",
+    "average_rating": 4.8,
+    "rating_number": 10,
+    "features": [
+        "Charlie always wanted a dog of his own. Now he has to think of the perfect name for his new friend."
+    ],
+    "description": [
+        "About the Author",
+        "Sisters Katie and Carrie Weyler grew up in Ohio. Katie is the oldest of five children, while Carrie is the youngest. They had a fun and adventurous upbringing, which inspired the stories of Charlie Tractor™. Now, with families of their own, they have set out to retell the stories they imagined and experienced as children. These stories, based on actual events, share the adventures of Charlie Tractor™ and his family. They hope that these stories bring enjoyment and laughter to you and your family as much as they did to Katie and Carrie."
+    ],
+    "price": "from 13.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51+mf3n8YwL._SX403_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Carrie",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Growing Up & Facts of Life"
+    ],
+    "details": "{\"Publisher\": \"Mascot Books (May 1, 2018)\", \"Language\": \"English\", \"Hardcover\": \"38 pages\", \"ISBN 10\": \"1684014352\", \"ISBN 13\": \"978-1684014354\", \"Item Weight\": \"12.8 ounces\", \"Dimensions\": \"8.4 x 0.3 x 10 inches\"}",
+    "parent_asin": "1684014352",
+    "bought_together": null,
+    "subtitle": "Hardcover – May 1, 2018",
+    "author": null
+}

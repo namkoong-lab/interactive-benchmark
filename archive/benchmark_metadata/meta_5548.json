@@ -1,0 +1,44 @@
+{
+    "main_category": "Automotive",
+    "title": "Febi Clutch Pushrod",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Clutch Push Rod"
+    ],
+    "description": [
+        "Febi-Bilstein Clutch Pushrod; 1985-1987 Volkswagen Cabriolet; 1985-1986 Volkswagen Golf; 1987 Volkswagen Golf GL; 1987 Volkswagen Golf GTI; 1987 Volkswagen Golf GT; 1981 Volkswagen Jetta; 1981 Volkswagen Jetta Special Edition, L4 1.6L; 1981 Volkswagen Jet"
+    ],
+    "price": "29.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21ItgJlLLdL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/21ItgJlLLdL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Bilstein",
+    "categories": [
+        "Automotive",
+        "Replacement Parts",
+        "Transmission & Drive Train",
+        "Clutches & Parts"
+    ],
+    "details": "{\"Manufacturer\": \"Febi\", \"Brand\": \"Bilstein\", \"Item Weight\": \"3.2 ounces\", \"Package Dimensions\": \"13.5 x 0.5 x 0.5 inches\", \"Item model number\": \"W0133-1733311-FEB\", \"Manufacturer Part Number\": \"W01331733311FEB\", \"Date First Available\": \"September 5, 2008\"}",
+    "parent_asin": "B001G5SHN0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

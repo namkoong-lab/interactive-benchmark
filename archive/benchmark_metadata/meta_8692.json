@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Zombie Apocalypse! Washington Deceased",
+    "average_rating": 4.7,
+    "rating_number": 28,
+    "features": [
+        "In this spin-off novel set within the Zombie Apocalypse, the zombies' intelligence has increased and they have formed themselves into a society and an army. While New York and Los Angeles have fallen to the walking dead, Washington D.C. is still holding out, but time is running out for the battalions defending Capitol Hill!"
+    ],
+    "description": [
+        "About the Author",
+        "Stephen Jones",
+        "is one of Britain's most acclaimed horror anthologists. His other collections include Zombie Apocalypse! and The Zombie Apocalypse! Fightback. He lives in London.",
+        "Lisa Morton",
+        "is a screenwriter, novelist, acclaimed Halloween expert, and four-time winner of the Brian Stoker award. She lives in North Hollywood, California.",
+        "--This text refers to an out of print or unavailable edition of this title."
+    ],
+    "price": "19.05",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61CoR67NpdL._SX498_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Stephen Jones (Author)",
+    "categories": [],
+    "details": "{\"Language\": \"English\", \"ISBN 10\": \"1472110676\", \"ISBN 13\": \"978-1472110671\", \"Item Weight\": \"9.8 ounces\", \"Dimensions\": \"5.12 x 0.83 x 7.76 inches\"}",
+    "parent_asin": "1472110676",
+    "bought_together": null,
+    "subtitle": "Paperback",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Stephen Jones', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

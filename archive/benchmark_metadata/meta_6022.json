@@ -1,0 +1,69 @@
+{
+    "main_category": "Automotive",
+    "title": "Firestone All Season Touring Tire 235/65R18 106 T",
+    "average_rating": 4.7,
+    "rating_number": 38,
+    "features": [
+        "A Tire You Can Count On",
+        "All-Season Performance",
+        "Built to Last With a 65,000 Mile Limited Treadwear Warranty",
+        "Deep sipes retain wet and all-season performance",
+        "Specially engineered to provide performance in wet, dry, and snowy conditions with traction and handling all year long"
+    ],
+    "description": [
+        "The Firestone All Season is a quality tire at a great value from a brand you can trust."
+    ],
+    "price": "168.97",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81cjrQ+3guL._AC_SL1500_.jpg",
+            null,
+            null,
+            "https://m.media-amazon.com/images/I/91JgZeQFhaL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81-mV5P+P0L._AC_SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51kTeyYFx6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Jck-1WtYL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51C4+0W7LNL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51h61EmZWmL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/413C-vJAZML._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51MmylIOTjL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51kTeyYFx6L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41Jck-1WtYL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51C4+0W7LNL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51h61EmZWmL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/413C-vJAZML._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51MmylIOTjL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "SIDE",
+            "PT01",
+            "PT02",
+            "TOPP"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Firestone",
+    "categories": [
+        "Automotive",
+        "Tires & Wheels",
+        "Tires",
+        "Passenger Car",
+        "Touring"
+    ],
+    "details": "{\"Brand\": \"Firestone\", \"Seasons\": \"Year Round\", \"Size\": \"235/65R18\", \"Rim Size\": \"18 Inches\", \"Section Width\": \"235 Millimeters\", \"Tire Aspect Ratio\": \"65.0\", \"Load Index\": \"106.0\", \"Speed Rating\": \"T\", \"Load Capacity\": \"2094 Pounds\", \"Tread Depth\": \"10 32nds\", \"Tread Type\": \"Symmetrical\", \"Rim Width\": \"7 Inches\", \"Tire Diameter\": \"30\", \"Item Diameter\": \"18 Inches\", \"Item Weight\": \"27 pounds\", \"Manufacturer\": \"Bridgestone\", \"Model\": \"All Season\", \"Item model number\": \"003068\", \"Is Discontinued By Manufacturer\": \"No\", \"Manufacturer Part Number\": \"3068\", \"OEM Part Number\": \"003068\", \"Construction\": \"Radial\", \"UTQG\": \"480AB\", \"Bolt Pattern (Pitch Circle Diameter)\": \"4 Inches\", \"Best Sellers Rank\": {\"Automotive\": 581598, \"Passenger Car Touring Tires\": 600}, \"Date First Available\": \"August 4, 2017\"}",
+    "parent_asin": "B074KRVSB8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,58 @@
+{
+    "main_category": "Musical Instruments",
+    "title": "Larsen Cello Rosin",
+    "average_rating": 4.8,
+    "rating_number": 15,
+    "features": [
+        "Larsen rosins are specially formulated to eliminate allergens normally found in most rosins"
+    ],
+    "description": [
+        "Professional quality Larsen rosins are specially formulated to eliminate allergens normally found in most rosins. Available for violin, viola, or cel"
+    ],
+    "price": "23.4",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71bl1KKaeYL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61hydAwoBBL._AC_SL1152_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41-iHdZ6FCL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41yewqCeGVL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41-iHdZ6FCL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41yewqCeGVL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Bernadel Rosin: Quality Rosin for Violin and Cello!",
+            "Fansjoy 2 Pack Natural Rosin for Violin Viola and Cello Bow"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0698248897684119863af88e972a5fef?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0ca5ff251568492eb76921ab348cba8e?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "/shop/beautifulday",
+            ""
+        ]
+    },
+    "store": "Larsen",
+    "categories": [
+        "Musical Instruments",
+        "Instrument Accessories",
+        "Orchestral Strings Accessories & Parts",
+        "Rosin",
+        "Cello"
+    ],
+    "details": "{\"Item Weight\": \"0.64 ounces\", \"Product Dimensions\": \"4 x 2 x 1.7 inches\", \"Item model number\": \"BHBU0503A514\", \"Best Sellers Rank\": {\"Musical Instruments\": 80259, \"Cello Rosin\": 19}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"March 6, 2007\", \"Color Name\": \"Violin\"}",
+    "parent_asin": "B07C3MB7CK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,64 @@
+{
+  "item_id": 4425,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Salvaged, by BCI Crafts Antique Fork Hook",
+    "average_rating": 4.5,
+    "rating_number": 2,
+    "features": [
+      "Our Antique Fork Hook is the perfect embellishment to your next craft project",
+      "This is replica from an antique fork hook",
+      "This item comes ready to mount on your favorite shelf, coat rack, etc",
+      "Helps in Organizing the spoons",
+      "Made in China"
+    ],
+    "description": [
+      "Our Antique Fork Hook is the perfect embellishment to your next craft project! This is replica from an antique fork hook. This item comes ready to mount on your favorite shelf, coat rack, etc."
+    ],
+    "price": "20.13",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71LXzBg4j0L._AC_SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61L7t4cWc3L._AC_SL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/411m4F+IaIL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51UKbRZVWuL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/411m4F+IaIL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/51UKbRZVWuL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Salvaged, by BCI Crafts",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Flatware",
+      "Chopstick & Cutlery Rests"
+    ],
+    "details": "{\"Product Dimensions\": \"3.5 x 1 x 2 inches\", \"Item Weight\": \"0.352 ounces\", \"Manufacturer\": \"Bottle Cap Crafts\", \"Item model number\": \"SFHANG-10\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"April 4, 2004\"}",
+    "parent_asin": "B00UTFQ654",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Home Decor",
+      "Hooks & Hangers"
+    ],
+    "confidence": 0.95
+  }
+}

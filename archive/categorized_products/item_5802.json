@@ -1,0 +1,61 @@
+{
+  "item_id": 5802,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "YueLian Women's Large Brim Flamingo Embroidery Outdoor Summer Sun Straw Hats Visor for Adults",
+    "average_rating": 3.3,
+    "rating_number": 8,
+    "features": [
+      "Straw"
+    ],
+    "description": [
+      "Note:1. Due to limitations in photography and the inevitable differences in monitor settings,the physical color might be a little different from pictures.2.All sizes are measured by hands,please allow 1-2cm error/deviations."
+    ],
+    "price": "11.96",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61Fj3p2DKwL._AC_UL1100_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41vLsOo9OrL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41vLsOo9OrL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Malabar Sun Hats "
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/3c20515ee7e940c1a4fdd73025e2a7fc?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "YueLian",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Accessories",
+      "Hats & Caps",
+      "Sun Hats"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"Womens\", \"Date First Available\": \"July 11, 2018\"}",
+    "parent_asin": "B07FFNTGL8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Hats & Beanies"
+    ],
+    "confidence": 0.95
+  }
+}

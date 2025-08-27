@@ -1,0 +1,44 @@
+{
+    "main_category": "Grocery",
+    "title": "Dark Chocolate Keto Clusters",
+    "average_rating": 4.0,
+    "rating_number": 93,
+    "features": [
+        "gluten free",
+        "nut clusters",
+        "nuts and seeds"
+    ],
+    "description": [
+        "Dark Cholate Keto Clusters With Quinoa, Pumpkin & Sunflower Seeds, Pecans & Almonds-GLUTEN FREE"
+    ],
+    "price": "20.81",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41ZewRnEghL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41ZewRnEghL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Inno foods Inc",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Canned, Packaged & Baking"
+    ],
+    "details": "{\"Package Dimensions\": \"11.1 x 8.82 x 3.07 inches; 1.04 Pounds\", \"UPC\": \"677210092127\", \"Manufacturer\": \"Inno foods Inc\"}",
+    "parent_asin": "B0B86PVBRJ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

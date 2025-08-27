@@ -1,0 +1,64 @@
+{
+  "item_id": 2067,
+  "metadata": {
+    "main_category": "Camera & Photo",
+    "title": "Pentax Wireless Remote Control C",
+    "average_rating": 3.8,
+    "rating_number": 20,
+    "features": [
+      "Wireless remote control",
+      "3-second shutter release",
+      "Works up to 15 feet",
+      "For Pentax cameras with remote capabilities",
+      "Includes case"
+    ],
+    "description": [
+      "Product description",
+      "Will zoom and release shutter after 3 seconds on select cameras with remote capability. (Works up to 15 feet in front of the camera.)",
+      "Amazon.com",
+      "The Pentax Wireless Remote Control C will zoom and release the shutter after three seconds on select cameras. It works up to 15 feet in front of the camera and is made for all IQ Zoom and Efina advanced photo system cameras with remote capability. This remote comes with a case."
+    ],
+    "price": "33.0",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41XPH8JBTKL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41XPH8JBTKL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Pentax",
+    "categories": [
+      "Electronics",
+      "Camera & Photo",
+      "Accessories",
+      "Telescope & Microscope Accessories",
+      "Telescope Accessories",
+      "Remote Controls"
+    ],
+    "details": "{\"Product Dimensions\": \"2.8 x 1 x 0.55 inches\", \"Item Weight\": \"0.64 ounces\", \"Item model number\": \"37376\", \"Best Sellers Rank\": {\"Telescope Remote Controls\": 9}, \"Is Discontinued By Manufacturer\": \"Yes\", \"Date First Available\": \"September 4, 1999\", \"Manufacturer\": \"Pentax\", \"Country of Origin\": \"Japan\", \"Brand\": \"Pentax\", \"Special Feature\": \"Ergonomic\", \"Compatible Devices\": \"Camera\", \"Connectivity Technology\": \"Infrared\", \"Number of Buttons\": \"2\"}",
+    "parent_asin": "B00004U5VM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Electronics",
+      "Camera & Photo",
+      "Camera Accessories"
+    ],
+    "confidence": 0.95
+  }
+}

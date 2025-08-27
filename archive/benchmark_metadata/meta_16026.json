@@ -1,0 +1,65 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Marlow",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [
+        "Rubber sole",
+        "Heel measures approximately 2.5 inches\"",
+        "Limited Edition",
+        "Raffia upper",
+        "2\" Comfort heel height",
+        "Memory foam padded insole"
+    ],
+    "description": [
+        "ONYX Our favorite everyday chelsea bootie returns in unlined synthetic raffia. Leather piping trims the top line. Inset stacked leather heel and rubber platform for extra comfort. Elastic stretch panels. 2.5\" leather stacked heel. Signature 5mm memory foam insole. Leather outsole."
+    ],
+    "price": "95.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71LRDPG2TyL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61UwwsW1v2L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71JwqXbWwxL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71AeTznOZ6L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61H3EgWkalL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31uK7ly7K9L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31HWJZFCS6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41gI9jMYefL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41HuVoH7mkL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/317fS+ASEEL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31uK7ly7K9L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31HWJZFCS6L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41gI9jMYefL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41HuVoH7mkL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/317fS+ASEEL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Matt Bernson",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Boots"
+    ],
+    "details": "{\"Date First Available\": \"March 20, 2018\"}",
+    "parent_asin": "B07C8Q7FY4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

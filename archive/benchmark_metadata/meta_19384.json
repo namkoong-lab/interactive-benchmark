@@ -1,0 +1,44 @@
+{
+    "main_category": "Prime Video",
+    "title": "Resurrection",
+    "average_rating": 4.5,
+    "rating_number": 600,
+    "features": [
+        "IMDb 7.3",
+        "2014",
+        "8 episodes",
+        "7+"
+    ],
+    "description": [
+        "The people of Arcadia, Missouri are forever changed when deceased loved ones suddenly start to return."
+    ],
+    "price": "19.59",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Drama"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Daniel Attias\", \"Christopher Misiano\", \"Kevin Dowling\", \"Ron Underwood\", \"Charles McDougall\", \"Colin Bucksey\", \"Stephen Cragg\", \"Dan Lerner\", \"Constantine Makris\", \"John Scott\"]}",
+    "parent_asin": "B00JWXMQ58",
+    "bought_together": null,
+    "subtitle": "UnentitledUnentitled",
+    "author": null
+}

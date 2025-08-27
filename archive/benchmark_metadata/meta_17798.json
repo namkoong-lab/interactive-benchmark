@@ -1,0 +1,53 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Helly-Hansen Men's Sou'wester Waterproof Rain Hat",
+    "average_rating": 4.4,
+    "rating_number": 262,
+    "features": [
+        "Polyster",
+        "Made in the USA",
+        "Drawstring closure",
+        "Machine Wash",
+        "100% Polyester"
+    ],
+    "description": [
+        "Our new industrial line for workers seeking durability and comfort. The poly cotton blend offers the strength needed on any worksite for tradespeople. Carpenters, builders, fishermen, longshoremen and construction workers will find the garment they need to complete their workday in style. Helly Hansen style and quality workmanship in a product line that anyone can wear."
+    ],
+    "price": "24.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51ImyWXxyrL._AC_UL1493_.jpg",
+            "https://m.media-amazon.com/images/I/61692QZvIYL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/314xVeTCEfL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41bCO+WwxNL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/314xVeTCEfL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41bCO+WwxNL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Helly-Hansen",
+    "categories": [
+        "Sports & Outdoors",
+        "Hunting & Fishing",
+        "Fishing",
+        "Accessories",
+        "Fishing Hats"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"79816\", \"Department\": \"mens\", \"Date First Available\": \"September 1, 2016\", \"Manufacturer\": \"Helly Hansen Men's Workwear\"}",
+    "parent_asin": "B01ISMXJIQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

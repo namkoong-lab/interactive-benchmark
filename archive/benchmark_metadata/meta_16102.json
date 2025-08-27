@@ -1,0 +1,73 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "adidas NMD_R1 - BY2775",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [
+        "Synthetic/Textile",
+        "Rubber sole",
+        "NMD_R1 BY2775",
+        "NMD_R1",
+        "Style Number: BY2775",
+        "Materials: Fabric-And-Synthetic"
+    ],
+    "description": [
+        "NMD_R1."
+    ],
+    "price": "135.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81LLwatoHVL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71UTb9vp8xL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71S-ai2ZxQL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71e2XJBsUaL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81a0gj5EGrL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71m6x+hcwVL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71U+nPbksmL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/519kKTXAEoL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41b1kfvykmL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41nbKOmpkKL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41zpKE68hfL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51BvpGIEsiL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41nsVL8ZNiL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/415VooemivL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/519kKTXAEoL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41b1kfvykmL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41nbKOmpkKL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41zpKE68hfL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51BvpGIEsiL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41nsVL8ZNiL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/415VooemivL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "adidas",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Shoes",
+        "Fashion Sneakers"
+    ],
+    "details": "{\"Item Weight\": \"2 Pounds\", \"Item model number\": \"BY2775\", \"Department\": \"mens\", \"Date First Available\": \"May 12, 2017\", \"Manufacturer\": \"ADIDAS\"}",
+    "parent_asin": "B071NXHHL3",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

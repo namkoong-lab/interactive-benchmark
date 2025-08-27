@@ -1,0 +1,45 @@
+{
+    "main_category": "Books",
+    "title": "An Open Heart: A Story about Moritz",
+    "average_rating": 5.0,
+    "rating_number": 5,
+    "features": [
+        "A story about kindness that I learned from Moritz."
+    ],
+    "description": [
+        "Review",
+        "\"This\"fresh\" heartfelt story is the reminder that every child and adult needs in their library as a way to remember that sharing kindnesses with one another can change the world.\" --Ann D. Looby, Trauma Psychologist & President of Funding African Children's Education",
+        "About the Author",
+        "Barry J. Schieber is a graduate of the University of California - Berkeley. \"Nose to Nose\" and \"A Gift to Share\" are also about Moritz his Bernese mountain dog. Moritz is a well known therapy dog. They live in Bigfork, Montana."
+    ],
+    "price": "1.55",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51fvatAt4lL._SX363_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Barry J. Schieber (Author),  Hedvig Rappe-Flowers (Illustrator)",
+    "categories": [
+        "Books",
+        "Children's Books"
+    ],
+    "details": "{\"Publisher\": \"Silent Moon Books; First Edition (December 14, 2006)\", \"Language\": \"English\", \"Hardcover\": \"32 pages\", \"ISBN 10\": \"0972145729\", \"ISBN 13\": \"978-0972145725\", \"Item Weight\": \"1 pounds\"}",
+    "parent_asin": "0972145729",
+    "bought_together": null,
+    "subtitle": "Hardcover – December 14, 2006",
+    "author": null
+}

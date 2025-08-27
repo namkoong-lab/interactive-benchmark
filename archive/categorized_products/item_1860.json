@@ -1,0 +1,72 @@
+{
+  "item_id": 1860,
+  "metadata": {
+    "main_category": "Computers",
+    "title": "Evercool 40X40X10mm Ball Bearing Fan 5V DC - 3 PIN EC4010M05CA.",
+    "average_rating": 4.2,
+    "rating_number": 30,
+    "features": [
+      "5000 rpm",
+      "5v with 3pin connector",
+      "6.24 CFM / <30 dBA"
+    ],
+    "description": [
+      "Product Specifications:  Dimension: 40X40X10 mm Speed: 5000 rpm Air Flow: 6.24 CFM Noise Level: <30 dBA Voltage: 5 V Connector: 3 pin Bearing Type: ball bearing"
+    ],
+    "price": "3.38",
+    "images": {
+      "hi_res": [
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41yK47riy9L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31y0yTIiY-L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41yK47riy9L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31y0yTIiY-L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Noctua NF A4X10 Fan Review",
+        "Use this premium quiet fan to reduce your 3d printer noise"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0b056d7064da4e009480c370c35d7d2b?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/07e97bb0c1334cdb929a56babf926425?ref=dp_vse_rvc_1"
+      ],
+      "user_id": [
+        "/shop/drasticg",
+        "/shop/udoit2"
+      ]
+    },
+    "store": "Evercool",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Computer Components",
+      "Internal Components",
+      "Fans & Cooling",
+      "Case Fans"
+    ],
+    "details": "{\"Item Dimensions LxWxH\": \"5.3 x 2.9 x 1.1 inches\", \"Brand\": \"Evercool\", \"Power Connector Type\": \"3-Pin\", \"Voltage\": \"5 Volts\", \"Cooling Method\": \"Air\", \"Compatible Devices\": \"Desktop\", \"Noise Level\": \"30 dB\", \"Material\": \"Impeller and Frame: Plastic(UL 94V-0)\", \"Maximum Rotational Speed\": \"5000 RPM\", \"Product Dimensions\": \"5.3 x 2.9 x 1.1 inches\", \"Item Weight\": \"1.6 ounces\", \"Manufacturer\": \"Evercool\", \"Item model number\": \"8541603137\", \"Best Sellers Rank\": {\"Computer Case Fans\": 6598}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"August 15, 2008\"}",
+    "parent_asin": "B07F71NQTG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Computers",
+      "Computer Accessories",
+      "Cooling Components"
+    ],
+    "confidence": 0.95
+  }
+}

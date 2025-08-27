@@ -1,0 +1,63 @@
+{
+  "item_id": 1959,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Thompson's Candle Co Super Scented Crumbles/Wax Melts 32 oz Gingerbread",
+    "average_rating": 4.5,
+    "rating_number": 6,
+    "features": [
+      "Gingerbread - Ginger, brown sugar, and molasses cookies",
+      "Super Scented Crumbles Made in the USA",
+      "For use in tart warmers",
+      "Room filling aroma that is safe, easy, and convenient",
+      "32 Ounce cellophane bag tied with homespun ribbon"
+    ],
+    "description": [
+      "Gingerbread - Ginger, brown sugar, and molasses cookies Super Scented Crumbles Made in the USA For use in tart warmers Room filling aroma that is safe, easy, and convenient 32 Ounce cellophane bag tied with homespun ribbon"
+    ],
+    "price": "35.53",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71u5BhVGLpL._AC_SL1389_.jpg",
+        "https://m.media-amazon.com/images/I/71u5BhVGLpL._AC_SL1389_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51fgui9LFiL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51fgui9LFiL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51fgui9LFiL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/51fgui9LFiL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Thompson's Candle Co.",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Candles & Holders",
+      "Candles"
+    ],
+    "details": "{\"Brand\": \"Thompson's Candle Co.\", \"Color\": \"Brown\", \"Scent\": \"brown sugar, scented, ginger\", \"Are Batteries Included\": \"No\", \"Specific Uses For Product\": \"Scented\", \"Shape\": \"Round\", \"Material\": \"Wax\", \"Seasons\": \"All Season\", \"Special Feature\": \"Scented\", \"Style\": \"Modern\", \"Package Information\": \"Bag\", \"Size\": \"32 ounce\", \"Unit Count\": \"32.0 Ounce\", \"Embellishment\": \"Ribbon\", \"Package Dimensions\": \"8.75 x 6 x 4 inches\", \"Item Weight\": \"1.95 pounds\", \"Manufacturer\": \"Thompson's Candle Co\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2889638, \"Candles\": 33061}, \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B01MQGKP3V",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Home Decor",
+      "Candles"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,75 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Propét Women's Kate Sneaker",
+    "average_rating": 3.3,
+    "rating_number": 4,
+    "features": [
+        "patent-leather",
+        "Made in the USA or Imported",
+        "Rubber sole",
+        "Removable footbed, DuroCloud, A5500 pending"
+    ],
+    "description": [
+        "Perforated leather with side zip and tassle make this sneaker light and breezy. Breathable open cell PU with added heel cushion moves moisture from foot for a cooler, healthier footbed. Rubber cup outsole with our shock absorbing DuroCloud™ foam embedded midsole for responsive cushion."
+    ],
+    "price": "52.44",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71xxEGYUldL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61YhSnkaSOL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51WhJ3rblrL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71IZ+kcYvVL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61bEVh1RifL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/719nX9mhVSL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71PLgqWJ6uL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/7126tqP00WL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41MHIFgRFPL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41hN3OvA9rL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41DjNZeg0sL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41AQHKgAa-L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31+rgUvSJNL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31H++GgfhdL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41GnpkWfejL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31LfIv0wl4L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41MHIFgRFPL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41hN3OvA9rL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41DjNZeg0sL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41AQHKgAa-L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31+rgUvSJNL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31H++GgfhdL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41GnpkWfejL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31LfIv0wl4L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR",
+            "LEFT"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Propét",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Fashion Sneakers"
+    ],
+    "details": "{\"Item model number\": \"WCX015L\", \"Department\": \"Womens\", \"Date First Available\": \"September 17, 2014\", \"Manufacturer\": \"Propet\"}",
+    "parent_asin": "B0BLQLBZJV",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

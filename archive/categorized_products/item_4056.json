@@ -1,0 +1,87 @@
+{
+  "item_id": 4056,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "BareTraps Yadier Women's Flats & Oxfords",
+    "average_rating": 4.4,
+    "rating_number": 15,
+    "features": [
+      "100% Synthetic",
+      "Rubber sole",
+      "1 1/8 in. heel height",
+      "Mesh & elastic upper",
+      "Rebound Technology. Slip on entry"
+    ],
+    "description": [
+      "Slip on comfort with the Baretraps Yadier. This sneaker-style slip on features a lightweight mesh upper with elastic side panel for fit and patent-pending Rebound Technology. The layered comfort technology feels like stepping on clouds with dreamy arch support and an antimicrobial shield for a fresh feeling all day!"
+    ],
+    "price": "29.97",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61SdUzYOGjL._AC_UL1280_.jpg",
+        "https://m.media-amazon.com/images/I/614YmBzRcYL._AC_UL1280_.jpg",
+        "https://m.media-amazon.com/images/I/61jwf03PGwL._AC_UL1280_.jpg",
+        "https://m.media-amazon.com/images/I/71qZoTCPXpL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61s00fOXUVL._AC_UL1280_.jpg",
+        "https://m.media-amazon.com/images/I/71qZoTCPXpL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/610zoW96CdL._AC_UL1280_.jpg",
+        "https://m.media-amazon.com/images/I/71VkSJWQG8L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41B9Fe0VptL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41pJY1qcXbL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41eFU8LqhSL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41QSifaG3DL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41eJGeQ7y3L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41QSifaG3DL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41T9TK55WtL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41aaBefyx6L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41B9Fe0VptL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41pJY1qcXbL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41eFU8LqhSL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41QSifaG3DL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41eJGeQ7y3L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41QSifaG3DL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41T9TK55WtL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41aaBefyx6L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05",
+        "PT06",
+        "PT07"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "BareTraps",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Oxfords"
+    ],
+    "details": "{\"Product Dimensions\": \"11.9 x 7.2 x 4.1 inches; 2 Pounds\", \"Item model number\": \"BT27138\", \"Department\": \"womens\", \"Date First Available\": \"January 17, 2020\"}",
+    "parent_asin": "B083Z35DVS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Flats"
+    ],
+    "confidence": 0.95
+  }
+}

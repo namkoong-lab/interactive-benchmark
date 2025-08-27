@@ -1,0 +1,47 @@
+{
+    "main_category": "Books",
+    "title": "Precalculus Mathematics (5th Edition)",
+    "average_rating": 4.2,
+    "rating_number": 3,
+    "features": [
+        "Appropriate for introductory courses in College Algebra and Precalculus.",
+        "Sobel and Lerner provide teachers with a teachable text and students with a readable text that will properly prepare them for future courses, particularly calculus. The text is designed specifically to ease the transition to calculus and directly involve the graphing calculator."
+    ],
+    "description": [
+        "From the Publisher",
+        "Sobel and Lerner provide teachers with a teachable text and students with a readable text that will properly prepare them for future courses, particularly calculus. The text is designed specifically to ease the transition to calculus and directly involve the graphing calculator.",
+        "From the Back Cover",
+        "This fifth edition of Precalculus Mathematics has been written to provide the essential concepts and skills of algebra, trigonometry, and the study of functions that are needed for further study in mathematics."
+    ],
+    "price": "43.98",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41H3588Y32L._SX357_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Max A. Sobel (Author),  Norbert Lerner (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Mathematics"
+    ],
+    "details": "{\"Publisher\": \"Pearson; 5th edition (May 1, 1995)\", \"Language\": \"English\", \"Paperback\": \"952 pages\", \"ISBN 10\": \"0131120956\", \"ISBN 13\": \"978-0131120952\", \"Item Weight\": \"4.05 pounds\", \"Dimensions\": \"8 x 2 x 9.9 inches\"}",
+    "parent_asin": "0131120956",
+    "bought_together": null,
+    "subtitle": "5th Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Max A. Sobel', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

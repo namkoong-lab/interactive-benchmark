@@ -1,0 +1,45 @@
+{
+    "main_category": "Prime Video",
+    "title": "The Roman Spring of Mrs. Stone",
+    "average_rating": 4.4,
+    "rating_number": 377,
+    "features": [
+        "IMDb 6.4",
+        "1 h 43 min",
+        "1961",
+        "NR"
+    ],
+    "description": [
+        "Warren Beatty and Vivien Leigh star in this story about an aging actress who moves to Rome to revive her career, but instead becomes involved with an intriguing young gigolo."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Drama",
+        "Romance"
+    ],
+    "details": "{\"Content advisory\": [\"Nudity\", \"substance use\", \"alcohol use\", \"smoking\", \"sexual content\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Jose Quintero\"], \"Producers\": [\"Louis de Rochemont\"], \"Starring\": [\"Vivien Leigh\", \"Warren Beatty\", \"Lotte Lenya\"]}",
+    "parent_asin": "B075KNHRZZ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

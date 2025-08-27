@@ -1,0 +1,49 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Fifth Sun Kids' Hoodie",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "50% Cotton, 50% Polyester",
+        "Made in the USA or Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Printed in the U.S.A."
+    ],
+    "description": [
+        "Paramount Top Gun Flag Aviators Youth Pullover Hoodie"
+    ],
+    "price": "31.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61gHcnt+sdL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51O-Z6lCf9L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51O-Z6lCf9L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Fifth Sun",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Boys",
+        "Clothing",
+        "Active",
+        "Active Hoodies"
+    ],
+    "details": "{\"Package Dimensions\": \"15 x 12 x 1.5 inches; 8 Ounces\", \"Item model number\": \"PMTG0026-40042101\", \"Department\": \"unisex-child\", \"Date First Available\": \"May 6, 2022\", \"Manufacturer\": \"Fifth Sun Top Gun\"}",
+    "parent_asin": "B09ZQ76NV5",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

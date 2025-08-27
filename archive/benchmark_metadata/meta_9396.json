@@ -1,0 +1,62 @@
+{
+    "main_category": "Books",
+    "title": "Stormy Weather",
+    "average_rating": 4.4,
+    "rating_number": 2824,
+    "features": [
+        "NEW YORK TIMES",
+        "BESTSELLER\"Hysterically funny...Hiaasen at his satirical best.\" -",
+        "USA Today",
+        "Two honeymooners wake up early, make love twice, and brace themselves for a spectacle they won't be watching from the sidelines. A seductive con artiste stumbles into a scam that promises more cool cash than the lottery. A shotgun-toting mobile home salesman is about to close a deal with disaster. A law school dropout will be chasing one Gaboon viper, a troop of storm-shocked monkeys, and a newfound love life, while tourists by the thousands bail from the Florida Keys. We're now entering the hurricane zone, where hell and hilarity rule. And in the hands of the masterful, merciless Carl Hiaasen, we're going to have some weather."
+    ],
+    "description": [
+        "Review",
+        "\"A delight cover to cover.\"―",
+        "New York Daily News",
+        "\"A hilarious, black humor thriller.\"―",
+        "Wall Street Journal",
+        "\"Hysterically funny... Hiaasen at his satirical best.\"―",
+        "USA Today",
+        "About the Author",
+        "Carl Hiaasen was born and raised in Florida. He is the author of nineteen novels, including",
+        "Razor Girl, Skinny Dip, Sick Puppy, Stormy Weather, Basket Case,",
+        "and, for young readers,",
+        "Flush",
+        "and",
+        "Hoot",
+        ". He also writes a regular column for",
+        "The Miami Herald",
+        "."
+    ],
+    "price": "8.51",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41h0Rib6J8L._SX326_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Carl Hiaasen (Author)",
+    "categories": [
+        "Books",
+        "Humor & Entertainment",
+        "Humor"
+    ],
+    "details": "{\"Publisher\": \"Grand Central Publishing; Reprint edition (March 1, 2001)\", \"Language\": \"English\", \"Paperback\": \"416 pages\", \"ISBN 10\": \"0446677167\", \"ISBN 13\": \"978-0446677165\", \"Item Weight\": \"13.6 ounces\", \"Dimensions\": \"5.5 x 1 x 8 inches\"}",
+    "parent_asin": "0446677167",
+    "bought_together": null,
+    "subtitle": "Paperback – March 1, 2001",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/71bj-YZifLL._SY600_.jpg', 'name': 'Carl Hiaasen', 'about': [\"Carl Hiaasen was born and raised in Florida, where he still lives. He is a prize-winning journalist with a regular column in the Miami Herald and many articles in varied magazines. He started writing crime fiction in the early 1980s and has recently branched out into children's books; he has also had several works of non-fiction published.\"]}"
+}

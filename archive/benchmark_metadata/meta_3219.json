@@ -1,0 +1,54 @@
+{
+    "main_category": "Grocery",
+    "title": "Ocho Rios Tamarind Ball 2.5 oz 2 pk",
+    "average_rating": 4.3,
+    "rating_number": 23,
+    "features": [
+        "Classic Tamind Ball Candy",
+        "2 pk",
+        "gluten Free"
+    ],
+    "description": [
+        "Classic Tamarind Ball Candy. A taste of Jamaica! Dulce de Tamarindo Bocaditos"
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/616J7Z-AYYL._SL1080_.jpg",
+            "https://m.media-amazon.com/images/I/61l1k7WWomL._SL1080_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41mTYRgqkmL.jpg",
+            "https://m.media-amazon.com/images/I/41Kwm4vjTxL.jpg",
+            "https://m.media-amazon.com/images/I/51L-5T-9g4L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41mTYRgqkmL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41Kwm4vjTxL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51L-5T-9g4L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ocho Rios",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Candy & Chocolate",
+        "Sour Candy"
+    ],
+    "details": "{\"Brand\": \"Ocho Rios\", \"Flavor\": \"Tamarind\", \"Item Form\": \"Ball\", \"Unit Count\": \"2.0 Ounce\", \"Number of Items\": \"2\", \"Package Dimensions\": \"3.5 x 2.9 x 1.7 inches; 2.5 Ounces\", \"UPC\": \"763598501082\"}",
+    "parent_asin": "B00S8QLUY8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

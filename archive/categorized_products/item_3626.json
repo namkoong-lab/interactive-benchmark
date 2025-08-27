@@ -1,0 +1,63 @@
+{
+  "item_id": 3626,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Newcastle Brown Ale Cotton Bar Towel (pp) by signs-unique",
+    "average_rating": 4.6,
+    "rating_number": 120,
+    "features": [
+      "Cotton",
+      "525mm x 250mm (21\" x 10\")",
+      "100% cotton bar towel to protect your bar surface from wet glasses",
+      "Primarily made for promotional use so not brilliant quality but fit for purpose"
+    ],
+    "description": [
+      "100% cotton bar towel just like they have down the pub! 525mm x 250mm (21\" x 10\") Licensed"
+    ],
+    "price": "16.99",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41ysJDGemiL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41ysJDGemiL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Dishtowels by DII"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/d109e3e91a884fa3a158630b9b00a87f?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "signs-unique",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen & Table Linens",
+      "Dish Cloths & Dish Towels"
+    ],
+    "details": "{\"Color\": \"Brown\", \"Brand\": \"signs-unique\", \"Age Range (Description)\": \"All Ages\", \"Material\": \"Cotton\", \"Product Dimensions\": \"21\\\"L x 10\\\"W\", \"Number of Items\": \"1\", \"Pattern\": \"Letter Print\", \"Product Care Instructions\": \"Machine Wash\", \"Shape\": \"Rectangular\", \"Unit Count\": \"1.0 Count\", \"Fabric Type\": \"Cotton\", \"Package Type\": \"Standard Packaging\", \"Item Weight\": \"0.32 ounces\", \"Manufacturer\": \"signs-unique\", \"Item model number\": \"COMINHKPR13220\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 232071, \"Dish Cloths & Dish Towels\": 2632}, \"Is Discontinued By Manufacturer\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B003N83PJE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Towels"
+    ],
+    "confidence": 0.95
+  }
+}

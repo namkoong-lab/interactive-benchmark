@@ -1,0 +1,75 @@
+{
+  "item_id": 3903,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Jockey Men's Undershirt 100% Cotton A-Shirt Tank - 4 Pack",
+    "average_rating": 4.4,
+    "rating_number": 617,
+    "features": [
+      "100% Cotton",
+      "Pull On closure",
+      "Machine Wash",
+      "Style 9226",
+      "StayNew technology helps keep it looking and feeling new",
+      "Staycool technology helps keep you cool and dry",
+      "100% cotton",
+      "Machine wash and dry"
+    ],
+    "description": [
+      "The Jockey 100% Cotton A-Shirt Tank is an essential first layer under sweaters, flannels and dress shirts. Or, wear it alone for cool, comfortable sleeping. Pure cotton rib knit features StayNew technology that fights pilling and fading to help keep it looking new, wash after wash, and moisture-wicking Staycool technology that helps you feel cooler and drier."
+    ],
+    "price": "40.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71+4A5gm89L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71VyNAo-VfL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/710EDTpVGQL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71+4A5gm89L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31Us45AqkQL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41hbTB-GlnL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31NufA9uvfL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31Us45AqkQL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31Us45AqkQL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41hbTB-GlnL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31NufA9uvfL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31Us45AqkQL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Jockey",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Underwear",
+      "Undershirts"
+    ],
+    "details": "{\"Package Dimensions\": \"5 x 4 x 2 inches\", \"Department\": \"mens\", \"Date First Available\": \"January 1, 2012\", \"Manufacturer\": \"Jockey\"}",
+    "parent_asin": "B08YRL1M17",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Underwear"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,45 @@
+{
+    "main_category": "Books",
+    "title": "Marine Chemistry",
+    "average_rating": 4.5,
+    "rating_number": 20,
+    "features": [
+        "The single most important contributor to success with a marine aquarium is maintaining appropriate water chemistry parameters. However, many hobbyists find the concept of water chemistry to be very daunting. This book starts by addressing basic topics like the definition of \"good\" water quality and why water quality is so important. It then moves on to more complex subjects, such as how exactly to obtain and maintain good water quality, what fourteen water tests can be performed by the hobbyist, and how to troubleshoot particular water chemistry problems. All of these topics are addressed in great detail, with an emphasis on making the information both clear and comprehensive.",
+        "Discover the key to aquarium success by reading Marine Chemistry and following its complete and comprehensible advice."
+    ],
+    "description": [
+        "About the Author",
+        "CHRISTOPHER BRIGHTWELL has been an aquarium hobbyist for more than 25 years and has set up and maintained all manner of aquaria. In 1999, he earned a degree in Marine Science from Coastal Carolina University. Chris and his wife lives in Keansburg, New Jersey, with their 180-gallon planted aquarium and 75-gallon reef aquarium."
+    ],
+    "price": "36.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51TQvO9fsXL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Chris R. Brightwell (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Biological Sciences"
+    ],
+    "details": "{\"Publisher\": \"Tfh Pubns Inc (June 1, 2007)\", \"Language\": \"English\", \"Hardcover\": \"272 pages\", \"ISBN 10\": \"0793805740\", \"ISBN 13\": \"978-0793805747\", \"Item Weight\": \"2.15 pounds\", \"Dimensions\": \"8.5 x 0.75 x 9.25 inches\"}",
+    "parent_asin": "0793805740",
+    "bought_together": null,
+    "subtitle": "Hardcover – June 1, 2007",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Chris Brightwell', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

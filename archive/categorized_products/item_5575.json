@@ -1,0 +1,57 @@
+{
+  "item_id": 5575,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "J/Slides Women's Heidi Sneaker",
+    "average_rating": 4.0,
+    "rating_number": 37,
+    "features": [
+      "haircalf",
+      "Made in USA or Imported",
+      "Rubber sole",
+      "Heel measures approximately 1.5 inches\""
+    ],
+    "description": [
+      "The lace-less sneaker continues to be a fan favorite. HEIDI comes in three great finishes and the most up-to-date colors."
+    ],
+    "price": "69.9",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81Wy8f15LqL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41Yu0Vp3D-L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41Yu0Vp3D-L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "J/Slides",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes"
+    ],
+    "details": "{\"Package Dimensions\": \"12.1 x 7.9 x 4.25 inches; 3 Pounds\", \"Item model number\": \"HEIDI\", \"Department\": \"Womens\", \"Date First Available\": \"March 13, 2019\", \"Manufacturer\": \"JSlides\"}",
+    "parent_asin": "B07ZR3BTT3",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Sneakers"
+    ],
+    "confidence": 0.95
+  }
+}

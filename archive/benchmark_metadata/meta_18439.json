@@ -1,0 +1,45 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Blowfish Malibu womens Luva Rope",
+    "average_rating": 3.9,
+    "rating_number": 12,
+    "features": [
+        "Made in the USA or Imported"
+    ],
+    "description": [
+        "This shoe by Blowfish is a fun sandal that can add to any outfit"
+    ],
+    "price": "34.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61X+cUROB5L._AC_UL1357_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41+-9XaQXwL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41+-9XaQXwL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Blowfish Malibu",
+    "categories": [
+        "Sports & Outdoors",
+        "Outdoor Recreation",
+        "Climbing",
+        "Rope, Cord & Webbing",
+        "Rope"
+    ],
+    "details": "{\"Item model number\": \"BF-9468R\", \"Department\": \"Womens\", \"Date First Available\": \"April 16, 2022\", \"Manufacturer\": \"BLOWFISH\"}",
+    "parent_asin": "B09Y3RDFFC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The Guard: Brazilian Jiu-Jitsu Details and Techniques (Second Edition)",
+    "average_rating": 4.8,
+    "rating_number": 13,
+    "features": [
+        "The guard is the quintessential Brazilian Jiu-Jitsu fighting position. Other martial arts assume that once someone is on their back that the fight is over. But that assumption is unfounded. Fights don't end just because they hit the ground; for the jiu-jitsu man the fight has only just begun. The Guard is a detailed analysis of core concepts, details, and techniques, key to success for ground fighting from the guard position."
+    ],
+    "description": [
+        "About the Author",
+        "Ed Beneville has been a student of Brazilian Jiu-Jitsu since 1996 and studied under Joe Moreira (seventh degree black belt) for the past eight years. Ed has authored and coauthored several books on Brazilian Jiu Jitsu, including: Passing The Guard 9780972109758, The Guard 9780972109710 & Strategic Guard 9780972109734. Ed resides in Costa Mesa, CA."
+    ],
+    "price": "168.78",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51eC8rK36HL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Joe Moreira (Author),  Ed Beneville (Author)",
+    "categories": [
+        "Books",
+        "Sports & Outdoors",
+        "Individual Sports"
+    ],
+    "details": "{\"Publisher\": \"Cardinal Publisher's Group; 2nd edition (April 1, 2009)\", \"Language\": \"English\", \"Paperback\": \"261 pages\", \"ISBN 10\": \"0972109749\", \"ISBN 13\": \"978-0972109741\", \"Item Weight\": \"2.4 pounds\", \"Dimensions\": \"8.5 x 0.75 x 10.75 inches\"}",
+    "parent_asin": "0972109749",
+    "bought_together": null,
+    "subtitle": "Paperback – April 1, 2009",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Ed Beneville', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

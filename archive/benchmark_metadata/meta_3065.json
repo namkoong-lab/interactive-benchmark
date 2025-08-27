@@ -1,0 +1,61 @@
+{
+    "main_category": "Grocery",
+    "title": "Butterball Smoked Turkey Sticks 4.2 Ounce Box (3 count)",
+    "average_rating": 4.6,
+    "rating_number": 194,
+    "features": [
+        "Three 12-ct boxes of 3\" wrapped Butterball Smoked Turkey Snack Sticks",
+        "From the \"We Know Turkey\" company - a handy great-tasting snack",
+        "A tasty alternative to traditional beef - Only 60 Calories in a 3 stick serving",
+        "Proudly made in the USA - USDA inspected and approved",
+        "Keto friendly with 7 grams of protein per serving - No MSG - Gluten Free"
+    ],
+    "description": [
+        "Packed in 3 small 4.2oz boxes (with each box having 12 individually wrapped 3\" sticks), Butterball Smoked Turkey Snack Sticks are a healthy (and tasty) alternative to traditional beef sticks. These moist and flavorful sticks have only 1 carb and 60 calories serving (serving size is 3 sticks). Butterball Smoked Turkey Snack Sticks are gluten free, contain no MSG, and are proudly made in the USA."
+    ],
+    "price": "24.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81-tUCSYcQL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81iHx+cE-GL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51xUfAaYbbL._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71bPtMLB0bL._SL1065_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51WZnP+Q4zL.jpg",
+            "https://m.media-amazon.com/images/I/413R6b5v74L.jpg",
+            "https://m.media-amazon.com/images/I/31bloxF-eeL.jpg",
+            "https://m.media-amazon.com/images/I/51kRtKGr3ZL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51WZnP+Q4zL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/413R6b5v74L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31bloxF-eeL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51kRtKGr3ZL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Butterball",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Snack Foods",
+        "Meat Snacks",
+        "Jerky"
+    ],
+    "details": "{\"Product Dimensions\": \"9 x 9 x 6 inches; 12.6 Ounces\", \"UPC\": \"015855107590\", \"Manufacturer\": \"Monogram Snacks\"}",
+    "parent_asin": "B081271M2H",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

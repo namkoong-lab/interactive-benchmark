@@ -1,0 +1,52 @@
+{
+    "main_category": "Books",
+    "title": "Applied Calculus, Hybrid",
+    "average_rating": 3.7,
+    "rating_number": 8,
+    "features": [
+        "Reflecting Cengage Learning's commitment to offering flexible teaching solutions and value for students and instructors, this new hybrid edition features the instructional presentation found in the printed text while delivering end-of-section exercises online in WebAssign. The result�a briefer printed text that engages students online! Full of relevant, diverse, and current real-world applications, Stefan Waner and Steven Costenoble's APPLIED CALCULUS, Sixth Edition helps you relate to mathematics. A large number of the applications are based on real, referenced data from business, economics, the life sciences, and the social sciences. Thorough, clearly delineated spreadsheet and TI Graphing Calculator instruction appears throughout the book. Acclaimed for its readability and supported by the authors' popular website, this book will help you grasp and understand applied calculus--whatever your learning style may be."
+    ],
+    "description": [
+        "Review",
+        "\"This is an ideal textbook for a business calculus class, especially one that serves students interested in economics or finance and thus is not a terminal course in mathematics. More than with any other text I use, I find myself referring students to examples or supplemental sections in the textbook to answer their questions.\"\"The real applications presented in this book really make it shine. Waner and Costenoble do a phenomenal job of grounding calculus in the day-to-day world of a student. It's obvious that a lot of work has been done researching genuine applications.\"\"I'd describe it as 'student friendly' and easy to read. The book is also current on the issues and applications with excellent technology resources.\"",
+        "About the Author",
+        "Stefan Waner and Steven R. Costenoble both received their Ph.D. from the University of Chicago, having studied several years apart with the same advisor, J. Peter May. Their paths merged when Steven joined Stefan at Hofstra University in 1987; since then they have coauthored 18 research papers as well as a research-level monograph in algebraic topology. By the early 1990s they had become dissatisfied with many of the Finite Mathematics and Applied Calculus textbooks. They wanted textbooks that were more readable and relevant to students' interests, containing examples and exercises that were interesting, and reflected the interactive approaches and techniques they found worked well with their own students. It therefore seemed natural to extend their research collaboration to a joint textbook writing project that expressed these ideals. To this day, they continue to work together on their textbook projects, their research in algebraic topology, and their teaching."
+    ],
+    "price": "7.85",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51sFkO9GT0L._SX398_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Save with Cengage Unlimited"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/b74c5d32ea744a08bf0d321e31fdf657?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Stefan Waner (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Mathematics"
+    ],
+    "details": "{\"Publisher\": \"Cengage Learning; 6th edition (January 1, 2013)\", \"Language\": \"English\", \"Paperback\": \"544 pages\", \"ISBN 10\": \"128505640X\", \"ISBN 13\": \"978-1285056401\", \"Item Weight\": \"1.95 pounds\", \"Dimensions\": \"8.25 x 0.75 x 10.25 inches\"}",
+    "parent_asin": "128505640X",
+    "bought_together": null,
+    "subtitle": "6th Edition",
+    "author": null
+}

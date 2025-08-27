@@ -1,0 +1,48 @@
+{
+    "main_category": "Amazon Home",
+    "title": "40pcs Tie Dye Napkins",
+    "average_rating": 4.6,
+    "rating_number": 19,
+    "features": [],
+    "description": [
+        "40pcs Tie Dye Napkins"
+    ],
+    "price": "13.99",
+    "images": {
+        "hi_res": [
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Wxvg-TqFS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51Wxvg-TqFS._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Wxvg-TqFS._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51Wxvg-TqFS._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Darneidra Display",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Bar Tools & Drinkware",
+        "Bar Tools",
+        "Cocktail Napkins"
+    ],
+    "details": "{\"Package Dimensions\": \"7.56 x 6.85 x 1.06 inches\", \"Item Weight\": \"5.6 ounces\", \"Manufacturer\": \"Darneidra Display\", \"Country of Origin\": \"China\", \"Item model number\": \"13\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 240953, \"Cocktail Napkins\": 853}, \"Date First Available\": \"April 23, 2021\"}",
+    "parent_asin": "B09DPQGPP5",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

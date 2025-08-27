@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Guitar Concert Collection: 40 Easy to Intermediate Pieces from 3 Centuries",
+    "average_rating": 5.0,
+    "rating_number": 16,
+    "features": [
+        "(Guitar). Includes works by Aguado, Carcassi, Carulli, Coste, Esteve, Fortea, Giuliani, Iparraguirre, Llobet, Marschner, Meissonnier, Pernambuco, Sor, and Tarrega."
+    ],
+    "description": [
+        "About the Author",
+        "Founded in 1947, Hal Leonard LLC has become the worlds largest source of music performance and instructional materials, with a catalog of over a million products in both physical and digital form. They represent many of the greatest songwriters and artists of all time and publish and distribute works from all genres of music for all styles of musicians and ensembles."
+    ],
+    "price": "21.65",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51oUSGMV0PL._SX379_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Konrad Ragossnig (Editor)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "Music"
+    ],
+    "details": "{\"Publisher\": \"Schott; Multilingual edition (August 1, 2009)\", \"Language\": \"English\", \"Paperback\": \"80 pages\", \"ISBN 10\": \"3795759099\", \"ISBN 13\": \"978-3795759094\", \"Item Weight\": \"10.9 ounces\", \"Dimensions\": \"9 x 0.27 x 12 inches\"}",
+    "parent_asin": "3795759099",
+    "bought_together": null,
+    "subtitle": "Paperback – August 1, 2009",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Konrad Ragossnig', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

@@ -1,0 +1,60 @@
+{
+  "item_id": 5188,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Flexon Autoflex 53 Eyeglasses 215 Tortoise/Bronze Demo 52 19 145",
+    "average_rating": 5.0,
+    "rating_number": 9,
+    "features": [
+      "Composite",
+      "Metal frame",
+      "Polycarbonate lens",
+      "Polarized",
+      "Lens width: 52 millimeters",
+      "Full retail package with all accessories."
+    ],
+    "description": [
+      "Brand FLEXON has always remained true to its original philosophy—even while experiencing significant growth in recent years. FLEXON has made the ascent from humble beginnings to its present position: a worldwide leader in affordable luxury eyewear. FLEXON uses state-of-the-art materials to craft their signature eyewear frames: premium cellulose acetate, ultra-lightweight titanium, and color-rich stainless steel."
+    ],
+    "price": "102.35",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/516U9ZecZrL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31i9ymhf4dL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31i9ymhf4dL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Flexon",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Accessories",
+      "Sunglasses & Eyewear Accessories",
+      "Eyewear Frames"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"6 x 2 x 2 inches; 3.53 Ounces\", \"Item model number\": \"AUTOFLEX 53\", \"Department\": \"Mens\", \"Date First Available\": \"July 13, 2010\", \"Manufacturer\": \"Frame Depot\"}",
+    "parent_asin": "B003VNR93E",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Eyewear"
+    ],
+    "confidence": 0.95
+  }
+}

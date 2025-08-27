@@ -1,0 +1,50 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "STAR WARS Men's Beanie",
+    "average_rating": 4.5,
+    "rating_number": 55,
+    "features": [],
+    "description": [
+        "Star Wars ECSW6084 Star Wars Boba Fett Face Pom Beanie"
+    ],
+    "price": "19.88",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71gBpa0lZPL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/719XTDHqu2L._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51pxIAQciUL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51MfseXpHdL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51pxIAQciUL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51MfseXpHdL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "STAR WARS",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Men",
+        "Accessories",
+        "Hats & Caps",
+        "Beanies & Knit Hats"
+    ],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"November 17, 2022\", \"Manufacturer\": \"Star Wars\"}",
+    "parent_asin": "B0BMNSHYM9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

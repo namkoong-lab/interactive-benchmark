@@ -1,0 +1,55 @@
+{
+    "main_category": "Amazon Home",
+    "title": "SWEN Products Train Weathervane",
+    "average_rating": 3.6,
+    "rating_number": 9,
+    "features": [
+        "Complete Roof Mount Weathervane",
+        "Powder Coat Baked On Finish",
+        "Constructed out of 16 Gauge Steel",
+        "Stainless Steel Sealed Ballbearing in the Windcup",
+        "Interchangable Tops"
+    ],
+    "description": [
+        "This is a real working weathervane. They are all made with pride by a small family business located in the US."
+    ],
+    "price": "47.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71By0C0TlpL._AC_SL1364_.jpg",
+            "https://m.media-amazon.com/images/I/71igO2ZH0lL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/619eAuI-BRL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41RIgLl611L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31gBkYV1jeL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51rwbOXmvWL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41RIgLl611L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31gBkYV1jeL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51rwbOXmvWL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "SWEN Products",
+    "categories": [
+        "Patio, Lawn & Garden",
+        "Outdoor Décor",
+        "Weathervanes"
+    ],
+    "details": "{\"Manufacturer\": \"SWEN Products\", \"Best Sellers Rank\": {\"Patio, Lawn & Garden\": 882619, \"Weathervanes\": 923}, \"Brand\": \"SWEN Products\", \"Material\": \"Steel\", \"Power Source\": \"Wind Powered\"}",
+    "parent_asin": "B0015PJRVC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,56 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "FBI Female Body Inspector T-Shirt",
+    "average_rating": 3.2,
+    "rating_number": 12,
+    "features": [
+        "100% Cotton",
+        "Pull On closure",
+        "Machine Wash",
+        "Brand New",
+        "100% Pre-Shrunk Cotton",
+        "Adult T-shirt"
+    ],
+    "description": [
+        "This design is professionally screen printed on a short sleeve t-shirt. Please choose your size from the drop down menu above."
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41kadagX7LL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41wCK9xb3wL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41kadagX7LL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41wCK9xb3wL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Shirt O' Fun",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Men",
+        "Shirts",
+        "T-Shirts"
+    ],
+    "details": "{\"Item model number\": \"1V-ZX10-TDQ4_Parent\", \"Department\": \"Mens\", \"Date First Available\": \"May 25, 2014\"}",
+    "parent_asin": "B07C2JZ3NV",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

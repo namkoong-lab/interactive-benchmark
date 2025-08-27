@@ -1,0 +1,51 @@
+{
+    "main_category": "Toys & Games",
+    "title": "ELLIE-105-SADDLE-BKPK-7M-FBA",
+    "average_rating": 4.0,
+    "rating_number": 11,
+    "features": [
+        "manmade",
+        "Shoe",
+        "Fashion",
+        "Most sizes to 12"
+    ],
+    "description": [
+        "This product includes one pair of black and pink saddle shoes."
+    ],
+    "price": "42.46",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51EZj8YyOzL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61lRF+39R-L._AC_SL1414_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41KBUhX+biL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41YSaVqlVrL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41KBUhX+biL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41YSaVqlVrL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ellie Shoes",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Shoes",
+        "Oxfords"
+    ],
+    "details": "{\"Product Dimensions\": \"1 x 1 x 1 inches\", \"Item Weight\": \"1.65 pounds\", \"Item model number\": \"ELLIE-105-SADDLE\", \"Best Sellers Rank\": {\"Clothing, Shoes & Jewelry\": 2849062, \"Men's Oxfords\": 4443}, \"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"mens\", \"Manufacturer\": \"1031 Shoes by Ellie\"}",
+    "parent_asin": "B007SIG3J4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

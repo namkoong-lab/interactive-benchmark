@@ -1,0 +1,56 @@
+{
+  "item_id": 2891,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Ray Allen Milwaukee Bucks Mitchell and Ness Men's Green Throwback Jesey",
+    "average_rating": 3.8,
+    "rating_number": 6,
+    "features": [
+      "Jersey,Polyester,Mesh",
+      "Size medium. Runs true to size, not loose",
+      "Heat seal graphics",
+      "Officially licensed"
+    ],
+    "description": [
+      "Represent your team and a legend at the same time by purchasing this hardwood classic jersey made by Mitchell & Ness. Former first round pick, 10 time all-star, and 2 time champion Ray Allen started his 19 year career with the Milwaukee Bucks making this a must have jersey!"
+    ],
+    "price": "112.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71Bkve56P2L._AC_SL1400_.jpg",
+        "https://m.media-amazon.com/images/I/71uKEo2g88L._AC_SL1400_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41WFpHscGlL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/417TFO5+21L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41WFpHscGlL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/417TFO5+21L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Mitchell & Ness",
+    "categories": [],
+    "details": "{\"Item Package Dimensions L x W x H\": \"10.98 x 7.28 x 2.01 inches\", \"Package Weight\": \"0.34 Kilograms\", \"Brand Name\": \"Mitchell & Ness\", \"Color\": \"Green\", \"Material\": \"Polyester\", \"Suggested Users\": \"mens\", \"Part Number\": \"353JA-315-FGYRAL-RA96_Medium\", \"Style\": \"Classic\", \"Size\": \"Medium\", \"Date First Available\": \"August 21, 2017\"}",
+    "parent_asin": "B075BRDF95",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing"
+    ],
+    "confidence": 0.95
+  }
+}

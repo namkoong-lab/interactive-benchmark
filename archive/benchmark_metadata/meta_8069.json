@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Financial Accounting",
+    "average_rating": 3.7,
+    "rating_number": 18,
+    "features": [
+        "This strong text introduces students to basic accounting concepts, excites them by using lots of real world examples (both U.S. and international), provides them with some basic accounting knowledge, and then shows them how accounting is used and analyzed in actual case situations. This book does not take an encyclopedic approach to every possible nuance of financial statement preparation or alternative way to perform accounting functions since students who desire that level of detail will find it in more advanced classes."
+    ],
+    "description": [
+        "About the Author",
+        "W. Steve Albrecht is the Andersen Alumni Professor of Accountancy in the Marriott School of Management at Brigham Young University. He received a bachelor's degree in accounting from BYU and MBA and PhD degrees from the University of Wisconsin. He is a Certified Public Accountant, Certified Internal Auditor, and Certified Fraud Examiner.James D. Stice is the Distinguished Teaching Professor in the Marriott School of Management at Brigham Young University. He is currently Associate Dean of the Marriott School. Dr. Stice served for eight years as the director of BYU's MBA Program. He holds bachelor's and master's degrees in accounting from BYU and a PhD in accounting from the University of Washington.Earl K. Stice is the PricewaterhouseCoopers Professor of Accounting in the School of Accountancy at Brigham Young University, where he has been on the faculty since 1998. He holds bachelor's and master's degrees from Brigham Young University and a PhD from Cornell University.K. Fred Skousen is Advanced Vice President at Brigham Young University. Previously, he was the Dean of the Marriott School of Management and Director of the School of Accountancy at BYU. He earned a bachelor's degree from BYU and master's and Ph.D. degrees from the University of Illinois. Dr. Skousen taught at the University of Illinois and the University of Minnesota prior to joining the faculty at Brigham Young University. In 1983 Dr. Skousen was awarded the Peat Marwick Professorship at BYU. In 1984 Dr. Skousen was elected to the AICPA Council, and in 1985 he received the UACPA Outstanding Faculty Award."
+    ],
+    "price": "4.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21VED7R5EWL._BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "W. Steve Albrecht (Author),  James D. Stice (Author),  Earl K. Stice (Author),  K. Fred Skousen (Author)",
+    "categories": [
+        "Books",
+        "Business & Money",
+        "Accounting"
+    ],
+    "details": "{\"Publisher\": \"Cengage Learning; 8th edition (March 16, 2001)\", \"Language\": \"English\", \"Hardcover\": \"768 pages\", \"ISBN 10\": \"0324066708\", \"ISBN 13\": \"978-0324066708\", \"Item Weight\": \"0.01 ounces\", \"Dimensions\": \"1.25 x 8.5 x 10.75 inches\"}",
+    "parent_asin": "0324066708",
+    "bought_together": null,
+    "subtitle": "8th Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Carl S. Warren', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

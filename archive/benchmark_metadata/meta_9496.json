@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Songs of the 1890's: The Decade Series",
+    "average_rating": 4.6,
+    "rating_number": 10,
+    "features": [
+        "(Piano/Vocal/Guitar Songbook). 55 songs, including: Asleep in the Deep * The Band Played On * Hello! Ma Baby * Maple Leaf Rag * My Wild Irish Rose * 'O Sole Mio * The Sidewalks of New York * Stars and Stripes Forever * Ta Ra Ra Boom De Ay * When You Were Sweet Sixteen * and more."
+    ],
+    "description": [
+        "About the Author",
+        "Founded in 1947, Hal Leonard LLC has become the worlds largest source of music performance and instructional materials, with a catalog of over a million products in both physical and digital form. They represent many of the greatest songwriters and artists of all time and publish and distribute works from all genres of music for all styles of musicians and ensembles."
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61YT0QGGPHL._SX375_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Hal Leonard Corp. (Creator)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "Music"
+    ],
+    "details": "{\"Publisher\": \"Hal Leonard (September 1, 1994)\", \"Language\": \"English\", \"Sheet music\": \"200 pages\", \"ISBN 10\": \"079353125X\", \"ISBN 13\": \"978-0793531257\", \"Item Weight\": \"1.55 pounds\", \"Dimensions\": \"9 x 0.5 x 12 inches\"}",
+    "parent_asin": "079353125X",
+    "bought_together": null,
+    "subtitle": "Sheet music – September 1, 1994",
+    "author": null
+}

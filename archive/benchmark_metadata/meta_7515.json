@@ -1,0 +1,41 @@
+{
+    "main_category": "Books",
+    "title": "A Serious Character: The Life of Ezra Pound",
+    "average_rating": 4.0,
+    "rating_number": 14,
+    "features": [],
+    "description": [
+        "From Publishers Weekly",
+        "Here in massive, perhaps excessive, detail is a comprehensive biography of a man variously regarded as crackpot, ass and major poet with an incomparable ear for language. \"Carpenter's approach is fair, his prose cool, crisp and lively, and his narrative laced with shrewd comment on Pound's work,\" wrote PW. Photos. Copyright 1990 Reed Business Information, Inc."
+    ],
+    "price": "10.76",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51hi5zfjQTL._SX329_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Humphrey Carpenter (Author)",
+    "categories": [
+        "Books",
+        "Biographies & Memoirs"
+    ],
+    "details": "{\"Publisher\": \"Delta (September 1, 1990)\", \"Language\": \"English\", \"Paperback\": \"973 pages\", \"ISBN 10\": \"0385299966\", \"ISBN 13\": \"978-0385299961\", \"Item Weight\": \"3.1 pounds\"}",
+    "parent_asin": "0385299966",
+    "bought_together": null,
+    "subtitle": "Paperback – September 1, 1990",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Humphrey Carpenter', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

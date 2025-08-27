@@ -1,0 +1,86 @@
+{
+  "item_id": 3214,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Kaiser Loaf Pan, Stainless Steel, Black, 30 cm",
+    "average_rating": 3.4,
+    "rating_number": 11,
+    "features": [
+      "Diameter: 30cm",
+      "Safe leak protection",
+      "Even heat distribution"
+    ],
+    "description": [
+      "Good baking results are not just a matter of skill – but also the right baking pans. With KAISER INSPIRATION, you are in control. Good non-stick properties, leak-proof Spring form pan bases."
+    ],
+    "price": "19.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71I4Cx1X2LL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71lNlPCc-3L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71PyMtW9XyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61q9Ipg1FoL._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71OK-X2azfL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51VLmj-kCUL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41fzuZ7ZRoL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41xYOPubEzL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41hLiXelFSL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41UCYvuW0bL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41ga1Q5KsCL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31cfdiDOcnL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41fzuZ7ZRoL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/41xYOPubEzL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/41hLiXelFSL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/41UCYvuW0bL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/41ga1Q5KsCL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/31cfdiDOcnL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT20",
+        "PT21",
+        "AW01"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Wilton Recipe Right Non-Stick Bakeware",
+        "Mandoline Made Cake"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/66bc233e060a4acb8be643fb5fc494f6?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/06acaa02f2fb42ab828066e4fac2ffd9?ref=dp_vse_rvc_1"
+      ],
+      "user_id": [
+        "",
+        "/shop/influencer-f419fd51"
+      ]
+    },
+    "store": "Kaiser",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Bakeware",
+      "Bakeware Sets"
+    ],
+    "details": "{\"Material\": \"Steel\", \"Brand\": \"Kaiser\", \"Color\": \"Black\", \"Shape\": \"Round\", \"Special Feature\": \"Nonstick\", \"Capacity\": \"2.1 Liters\", \"Occasion\": \"Wedding, Christmas, Birthday, Valentine's Day\", \"Included Components\": \"Cake Pan\", \"Product Care Instructions\": \"Hand Wash\", \"Number of Pieces\": \"1\", \"Item Weight\": \"8.9 ounces\", \"Upper Temperature Rating\": \"230 Degrees Celsius\", \"Is Dishwasher Safe\": \"No\", \"Product Dimensions\": \"12.56 x 4.72 x 3.07 inches\", \"Manufacturer\": \"WMF Group GmbH\", \"Item model number\": \"2300659688\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 474146, \"Bakeware Sets\": 508}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"May 31, 2019\"}",
+    "parent_asin": "B0786SQN9B",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Kitchenware",
+      "Baking Accessories"
+    ],
+    "confidence": 0.95
+  }
+}

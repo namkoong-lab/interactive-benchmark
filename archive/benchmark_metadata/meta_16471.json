@@ -1,0 +1,53 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "FTD Apparel Men's Savage Macho Man T Shirt",
+    "average_rating": 4.8,
+    "rating_number": 13,
+    "features": [
+        "100% Cotton",
+        "Pull On closure",
+        "Machine Wash",
+        "Brand New",
+        "Item sold by the original U.S. Brand/Seller"
+    ],
+    "description": [
+        "Short Sleeve T Shirt. 100% Cotton. Pre-shrunk by Manufacturer (but will still shrink slightly after the first wash). Standard Adult Sizing (normal fit): SIze Small to XL available (XXL available, but at an additional cost +$2). Warning: During check out, purchase only from seller name: FTD Apparel (Original U.S. brand/seller and sole distributor of this product)- all other sellers are counterfeit and are likely shipping from China."
+    ],
+    "price": "17.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61krmdy28WL._AC_UL1024_.jpg",
+            "https://m.media-amazon.com/images/I/61KOIP-uWkL._AC_UL1024_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/5133K2PBLjL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41ZIKP1iGSL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/5133K2PBLjL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41ZIKP1iGSL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "FTD Apparel",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Shirts",
+        "T-Shirts"
+    ],
+    "details": "{\"Item model number\": \"MMSAVAGE-PARENT\", \"Department\": \"Mens\", \"Date First Available\": \"August 10, 2016\"}",
+    "parent_asin": "B01K3VXAPM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

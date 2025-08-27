@@ -1,0 +1,45 @@
+{
+    "main_category": "All Beauty",
+    "title": "Victoria Secret Rich Indulgence Body Lotion 8.4 oz",
+    "average_rating": 5.0,
+    "rating_number": 10,
+    "features": [
+        "Victoria Secret Rich Indulgence Body Lotion 8.4 oz"
+    ],
+    "description": [
+        "High-end Body Lotion with Shea butter in large size"
+    ],
+    "price": "59.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61ufPOVKzxL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/411VbQkFWVL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/411VbQkFWVL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "FACDEM",
+    "categories": [
+        "Beauty & Personal Care",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+    ],
+    "details": "{\"Brand\": \"FACDEM\", \"Item Form\": \"Lotion\", \"Unit Count\": \"8.4 Fl Oz\", \"Number of Items\": \"1\", \"Item Volume\": \"8.4 Fluid Ounces\", \"Package Dimensions\": \"7.6 x 2.3 x 1.2 inches; 8.4 Ounces\", \"UPC\": \"885201814010 667530678316\", \"Manufacturer\": \"genius.nn\"}",
+    "parent_asin": "B00ATK51DC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

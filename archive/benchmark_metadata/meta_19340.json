@@ -1,0 +1,45 @@
+{
+    "main_category": "Prime Video",
+    "title": "The White Queen",
+    "average_rating": 4.7,
+    "rating_number": 17473,
+    "features": [
+        "IMDb 7.7",
+        "2013",
+        "10 episodes",
+        "X-Ray",
+        "TV-MA"
+    ],
+    "description": [
+        "THE WHITE QUEEN is a riveting tale of three different, yet equally relentless women who will scheme, manipulate and seduce their way onto the English throne."
+    ],
+    "price": "12.69",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Drama"
+    ],
+    "details": "{\"Content advisory\": [\"Nudity\", \"violence\", \"alcohol use\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Jamie Payne\", \"James Kent\", \"Colin Teague\"], \"Producers\": [\"John Griffin\", \"Colin Callender\", \"George Faber\", \"Charles Pattinson\", \"Philippa Gregory\", \"Eurydice Gysel\", \"Jan Vrints\"], \"Starring\": [\"Rebecca Ferguson\", \"James Frain\", \"Amanda Hale\"]}",
+    "parent_asin": "B00HY7YYGS",
+    "bought_together": null,
+    "subtitle": "Season 1",
+    "author": null
+}

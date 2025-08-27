@@ -1,0 +1,62 @@
+{
+  "item_id": 3601,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "CANARI Women's Bella Long Sleeve Cycling/Biking Jersey",
+    "average_rating": 4.4,
+    "rating_number": 8,
+    "features": [
+      "100% Polyester",
+      "Made in the USA or Imported",
+      "Zipper closure",
+      "Machine Wash",
+      "9 inch front zipper",
+      "Triple back pocket",
+      "Reflective accents for increased visibility",
+      "100% polyester Dry core fabric for breathability & moisture control - UPF 30+"
+    ],
+    "description": [
+      "The Bella Long Sleeve Jersey has brushed-fleece interior for comfort during fall and cool weather rides. The full front zipper and triple back pockets gives you everything you'll need in a cycling jersey."
+    ],
+    "price": "29.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/614S+zT7kFL._AC_UL1200_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41ceLsIbtcL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41ceLsIbtcL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "CANARI",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Sport Specific Clothing",
+      "Cycling",
+      "Women",
+      "Jerseys"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Department\": \"Womens\", \"Date First Available\": \"November 17, 2009\", \"Manufacturer\": \"Canari\"}",
+    "parent_asin": "B07D3VCXX5",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops"
+    ],
+    "confidence": 0.95
+  }
+}

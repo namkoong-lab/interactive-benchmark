@@ -1,0 +1,68 @@
+{
+  "item_id": 3258,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Anita Compression Bra Style 1094",
+    "average_rating": 3.9,
+    "rating_number": 35,
+    "features": [
+      "85% Cotton, 15% Elastane.",
+      "Zipper closure",
+      "Seamless moulded cups are made of a double layer of stretch cotton. A side breast support exerts a controlled compression on the side underbust area.",
+      "The straps are provided with an optional adjustment Velcro type fastening (1). Practical zip (2) with underlying hook fastening. Wide stretch bottom band with cotton in contact with skin (3).",
+      "Inmobilises and stabilises the newly operated breast during the healing phase. Secures dressings.",
+      "Highly air permeable (85% cotton). No pressure when the patient lies down due to optionally adjustable straps on the front of shoulder.",
+      "Material Contents: 85% Cotton, 15% Spandex."
+    ],
+    "description": [
+      "Application: After breast reduction and reconstruction operations. Caution: Before washing close all Velcro type fastenings."
+    ],
+    "price": "160.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61TfTdcopKL._AC_UL1500_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31P3abNE+LL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41mVcckLoxL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31P3abNE+LL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41mVcckLoxL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Anita",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Lingerie, Sleep & Lounge",
+      "Lingerie",
+      "Bras",
+      "Everyday Bras"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"February 28, 2006\"}",
+    "parent_asin": "B006B81658",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Underwear",
+      "Bras"
+    ],
+    "confidence": 0.95
+  }
+}

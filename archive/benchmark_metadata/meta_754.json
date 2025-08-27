@@ -1,0 +1,49 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Bachelorette Light UP Beer Mug",
+    "average_rating": 1.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "Flashing barware is the best and this one even says \"Bride to Be\" on it. Easy to turn on and off with a button on the bottom of the tankard. Tankard is 5\" tall and 3 1/2\" wide at the top."
+    ],
+    "price": "20.69",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71-RY1a29RL._AC_SL1477_.jpg",
+            "https://m.media-amazon.com/images/I/8179E5GQsUL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61QAInWwGeL._AC_SL1050_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51CLLH0rTGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51naLO5SjGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41lhdQLyYmL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51CLLH0rTGL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51naLO5SjGL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41lhdQLyYmL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "amscan",
+    "categories": [
+        "Home & Kitchen",
+        "Event & Party Supplies",
+        "Adult Novelty"
+    ],
+    "details": "{\"Product Dimensions\": \"3.5 x 3.5 x 5 inches\", \"Item Weight\": \"7.2 ounces\", \"Manufacturer\": \"Amscan\", \"Date First Available\": \"May 2, 2011\"}",
+    "parent_asin": "B006G98G32",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

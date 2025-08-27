@@ -1,0 +1,72 @@
+{
+  "item_id": 124,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "BlackBerry Ripple Cactus Dahlia - 2 Bulbs",
+    "average_rating": 4.1,
+    "rating_number": 15,
+    "features": [
+      "The flowers are purple with a darker splash and the petals are spiky.",
+      "Can also be grown in containers.",
+      "Bloom summer to fall.",
+      "Bee friendly and attract butterflies",
+      "Hardiness Zones 8 - 10. Receive 2 Bulbs in your order."
+    ],
+    "description": [
+      "Planting Instructions: Select a planting location with full sun. Dahlias prefer the morning sun and thrive with 6-8 hours of direct sunlight. Plant after the danger of spring frost has passed. They prefer warmer soil that is rich and well-drained. Dig a hole 6-8 inches deep and plant them 9-12 inches apart. Dahlias grow tall so, select a location protected from the wind. Insert stakes when you plant the tubers, it makes it easier to have them there from the start."
+    ],
+    "price": "15.25",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71xXgNC539L._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71GY4uy6gYL._AC_SL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/61vpUD+sRLL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/61BqGoThL0L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/61vpUD+sRLL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/61BqGoThL0L._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [
+        "About Holland Bulb Farms & Our Family-Owned Business",
+        "Willard & May - Outdoor Living, Flower Bulbs & Gifts"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0a27d030927f42b495941e10df997590?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/08e65420e3fa4dc1a277c58a9497f0c3?ref=dp_vse_rvc_1"
+      ],
+      "user_id": [
+        "",
+        ""
+      ]
+    },
+    "store": "Netherland Bulb",
+    "categories": [
+      "Patio, Lawn & Garden",
+      "Gardening & Lawn Care",
+      "Plants, Seeds & Bulbs",
+      "Flowers"
+    ],
+    "details": "{\"Plant or Animal Product Type\": \"Cactus\", \"Brand\": \"Netherland Bulb\", \"Expected Blooming Period\": \"Spring,summer to fall\", \"Sunlight Exposure\": \"Full Sun\", \"Unit Count\": \"2 Count\", \"Expected Planting Period\": \"Spring\", \"Product Care Instructions\": \"Well-drained\", \"Soil Type\": \"Sandy Soil\", \"Moisture Needs\": \"Moderate Watering\", \"Product Dimensions\": \"8 x 5.5 x 4 inches\", \"Item Weight\": \"8.8 ounces\", \"Manufacturer\": \"Netherland Bulb\", \"Best Sellers Rank\": {\"Patio, Lawn & Garden\": 523345, \"Flower Plants & Seeds\": 17447}}",
+    "parent_asin": "B07QFG4T1K",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Outdoor Living",
+      "Seeds & Plants"
+    ],
+    "confidence": 0.95
+  }
+}

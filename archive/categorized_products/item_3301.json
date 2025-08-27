@@ -1,0 +1,93 @@
+{
+  "item_id": 3301,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "adidas Men's Must Haves 3-Stripes Crew",
+    "average_rating": 4.1,
+    "rating_number": 23,
+    "features": [
+      "67% Cotton, 33% Recycled Polyester Doubleknit",
+      "Imported",
+      "Pull On closure",
+      "A sporty sweatshirt for cool-weather comfort.",
+      "Regular fit strikes a comfortable balance between loose and snug",
+      "Ribbed hem"
+    ],
+    "description": [
+      "Whether you need a layer after your workout or for an afternoon out with friends, pull on this comfortable sweatshirt. The regular fit has a relaxed vibe and gives you plenty of room to move. The cotton blend is soft and cozy."
+    ],
+    "price": "33.22",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81LcReg7V6L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/818egkXlGoL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81a5NDS2TnL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81bSFbVEGnL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81HJEneXRWL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91AUT1JkoUL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91k7SV9PMNL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91d+pPHdSUL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91ntMaa7N6L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41eGfV8TmnL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41N1eSCiejL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41wYexPgkfL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41cMk3iYX4L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41PdC-75BuL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41FFhAPJ5wL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41o00GmAumL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51SKrxi24CL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41eBLF3TnRL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41eGfV8TmnL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41N1eSCiejL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41wYexPgkfL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41cMk3iYX4L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41PdC-75BuL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41FFhAPJ5wL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41o00GmAumL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51SKrxi24CL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41eBLF3TnRL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05",
+        "PT06",
+        "PT07",
+        "PT08"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "adidas",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Active",
+      "Active Sweatshirts"
+    ],
+    "details": "{\"Item model number\": \"F1954MMH361\", \"Department\": \"mens\", \"Date First Available\": \"August 3, 2020\", \"Manufacturer\": \"adidas Inline Apparel Child Code (Sports Apparel\"}",
+    "parent_asin": "B08F631CCC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Activewear"
+    ],
+    "confidence": 0.95
+  }
+}

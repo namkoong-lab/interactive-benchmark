@@ -1,0 +1,51 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Go All Out Adult Hold The Door T-Shirt",
+    "average_rating": 5.0,
+    "rating_number": 11,
+    "features": [
+        "100% Cotton",
+        "Pull On closure",
+        "QUALITY FABRIC & PRINT - 5.6-ounce, 100% cotton. Taped neck and shoulders. Double needle sleeve and bottom hem. Double needle cover seamed neck. Proudly designed and decorated in the USA with high quality inks and fabrics so your item will last wash after wash."
+    ],
+    "description": [
+        "5.6-ounce, 100% cotton. Taped neck and shoulders. Double needle sleeve and bottom hem. Double needle cover seamed neck."
+    ],
+    "price": "16.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51r3AOmyvqL._AC_UL1278_.jpg",
+            "https://m.media-amazon.com/images/I/61+JYlTefKL._AC_UL1284_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41gudnSLXHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41gm3puICmL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41gudnSLXHL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41gm3puICmL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Go All Out",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Women"
+    ],
+    "details": "{\"Department\": \"unisex-adult\", \"Date First Available\": \"June 9, 2016\"}",
+    "parent_asin": "B01GUCBBVI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

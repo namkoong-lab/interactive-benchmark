@@ -1,0 +1,56 @@
+{
+  "item_id": 2637,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Trends Frozen, Anna and Snow Queen Elsa Poster, 24-Inch by 36-Inch",
+    "average_rating": 4.6,
+    "rating_number": 171,
+    "features": [
+      "High quality graphic",
+      "Low cost artwork alternative",
+      "Suitable for framing"
+    ],
+    "description": [
+      "24\" X 36\" high quality paper posters provide a low cost alternative to more expensive forms of wall art. Posters once mounted are suitable for framing and add are a great addition to any wall decor."
+    ],
+    "price": "16.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61JC0601G1L._AC_SL1001_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51Vn4HW3fbL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51Vn4HW3fbL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Trends International",
+    "categories": [
+      "Home & Kitchen",
+      "Wall Art",
+      "Posters & Prints"
+    ],
+    "details": "{\"Item Weight\": \"3.2 ounces\", \"Manufacturer\": \"Trends Intl.\", \"Item model number\": \"RP6039\", \"Best Sellers Rank\": {\"Home & Kitchen\": 808824, \"Posters & Prints\": 28947}, \"Is Discontinued By Manufacturer\": \"No\", \"Assembly required\": \"No\", \"Batteries required\": \"No\", \"Import\": \"Imported\"}",
+    "parent_asin": "B00EHL0076",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Home Decor",
+      "Wall Decor"
+    ],
+    "confidence": 0.95
+  }
+}

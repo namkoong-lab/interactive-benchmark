@@ -1,0 +1,75 @@
+{
+  "item_id": 3889,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Golden Retriever Mom Printed Ladies Bella + Canvas Premium Sleeveless Muscle Tank Tee Shirt",
+    "average_rating": 3.5,
+    "rating_number": 4,
+    "features": [
+      "Canvas,Ringspun Cotton",
+      "Pull On closure",
+      "Machine Wash",
+      "Bella + Canvas Brand Stylish Muscle Rocker Tee",
+      "100 % Airlume Combed And Ringspun Cotton",
+      "Fashion Letter/Graphic Design, Machine Washable, Professionally Printed in the USA"
+    ],
+    "description": [
+      "This Ladies Premium Muscle Shirt Features \" Golden Retriever \" Custom Printed Across The Chest."
+    ],
+    "price": "16.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71AaTt3BF5L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61fAxbq6KCL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61sUAEE9kIL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71bpBiOXLrL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41wPYI1VeTL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41bdS7tzL9L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41p9wy-V7uL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/410SkkpeRaL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41wPYI1VeTL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41bdS7tzL9L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41p9wy-V7uL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/410SkkpeRaL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "TeesMe Imprints",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Women",
+      "Tops & Tees",
+      "Tanks & Camis"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"November 8, 2019\"}",
+    "parent_asin": "B08174JDVK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops",
+      "Women's Tank Tops"
+    ],
+    "confidence": 0.95
+  }
+}

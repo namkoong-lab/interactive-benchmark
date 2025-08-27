@@ -1,0 +1,59 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Levi's® 541 Athletic Taper",
+    "average_rating": 3.9,
+    "rating_number": 14,
+    "features": [
+        "Made in the USA or Imported",
+        "Button closure",
+        "Machine Wash",
+        "Levi's Premium 541 Athletic Taper jeans is sure to keep you at utmost comfort all day long.",
+        "Relaxed fit.",
+        "Zip-fly and button closure.",
+        "Classic-five pocket.",
+        "100% cotton constrution."
+    ],
+    "description": [
+        "Levi's Premium 541 Athletic Taper jeans is sure to keep you at utmost comfort all day long. Relaxed fit. Zip-fly and button closure. Classic-five pocket. 100% cotton constrution. Machine wash, tumble dry."
+    ],
+    "price": "89.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81ELErJOxgL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71CIV7mtcML._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91D0XSwTrKL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31ryypRNzVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/318XxWwC5FL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41qGs7HW81L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31ryypRNzVL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/318XxWwC5FL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41qGs7HW81L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Levi's",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Jeans"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"November 13, 2021\"}",
+    "parent_asin": "B09XJFK6HH",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

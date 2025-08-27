@@ -1,0 +1,81 @@
+{
+    "main_category": "Grocery",
+    "title": "Amazon Brand - Aplenty, Salted Caramel Chocolate Crisps, 4.4 oz",
+    "average_rating": 4.5,
+    "rating_number": 462,
+    "features": [
+        "Belgian chocolate thins filled with crispy, puffed rice bits and elegantly curved to pop right into your mouth. Perfect for an after-dinner sweet treat, ice cream garnish or coffee companion.",
+        "Made with Belgian milk chocolate",
+        "No artificial flavors, synthetic colors or high fructose corn syrup",
+        "Contains soy and milk; may contain tree nuts and wheat",
+        "An Amazon brand"
+    ],
+    "description": [
+        "These Belgian chocolate thins are filled with puffed rice bits and elegantly curved to pop right into your mouth. A wispy, yet decadent delight that's perfect for an after-dinner sweet treat, ice cream garnish or coffee companion."
+    ],
+    "price": "3.09",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71Iy7WWhYHL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71-J6E7A48L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Ljlmml2tL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Hb+bvTkTL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91pxPyhp77L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/619PeH5CbiL._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/6120XGgiGKL._SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41+FZsTr4PL.jpg",
+            "https://m.media-amazon.com/images/I/411S8IkuMXL.jpg",
+            "https://m.media-amazon.com/images/I/41p1bKtIbxL.jpg",
+            "https://m.media-amazon.com/images/I/412t8uzWlPL.jpg",
+            "https://m.media-amazon.com/images/I/51M8xngpS+L.jpg",
+            "https://m.media-amazon.com/images/I/51FkV4-ZIQL.jpg",
+            "https://m.media-amazon.com/images/I/51qt1W5-b+L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41+FZsTr4PL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/411S8IkuMXL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41p1bKtIbxL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/412t8uzWlPL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51M8xngpS+L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51FkV4-ZIQL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51qt1W5-b+L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT16",
+            "FACT",
+            "INGR"
+        ]
+    },
+    "videos": {
+        "title": [
+            "How do they taste, watch before you buy ",
+            "Lily's Chocolate Baking Chips Review"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0503b30379a74faa8dc9cb6e0d141580?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0da97843712c434eac085894c8a69a24?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "/shop/nadinesdealsanddiscountcodes",
+            "/shop/influencer-e0b55db2"
+        ]
+    },
+    "store": "Aplenty",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Chocolate Candy",
+        "Candy & Chocolate Bars"
+    ],
+    "details": "{\"Product Dimensions\": \"2.86 x 2.36 x 8.7 inches; 4.4 Ounces\", \"UPC\": \"842379196720\", \"Manufacturer\": \"Amazon.com Services, Inc.\", \"Country of Origin\": \"USA\"}",
+    "parent_asin": "B08NDRHSPK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

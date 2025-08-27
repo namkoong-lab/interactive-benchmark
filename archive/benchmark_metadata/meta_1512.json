@@ -1,0 +1,60 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Old Hickory 7-10\" Butcher",
+    "average_rating": 4.2,
+    "rating_number": 50,
+    "features": [
+        "Butcher Knife - 15\" overall. 10\" high carbon steel blade"
+    ],
+    "description": [
+        "15\" overall. 10\" high carbon steel blade. Full tang. Hardwood handles. Bulk packed."
+    ],
+    "price": "25.07",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21XnxpEgW6L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/21XnxpEgW6L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Old hickory knife review",
+            "Culinary Mastery: Cutco 1725 Chef Knife Slice with Precision",
+            "Made in USA since 1889!",
+            "Grilling without a BBQ and almost no mess!"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/09005ae630d94ef3849cdca9afe817ad?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/002cab366dd8466a86090b1f960a35aa?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/047e198af3fd483b82871bbfc4fdf4a1?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/02ddd21a417a4e24a2e0a8532657011e?ref=dp_vse_rvc_3"
+        ],
+        "user_id": [
+            "/shop/ziggyroll",
+            "/shop/fancinanci112",
+            "",
+            "/shop/wordpresstutorials-wplearninglab"
+        ]
+    },
+    "store": "Ontario Knife Company",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen Utensils & Gadgets",
+        "Kitchen Knives & Accessories",
+        "Chef's Knives"
+    ],
+    "details": "{\"Blade Material\": \"High Carbon Steel\", \"Brand\": \"Ontario Knife Company\", \"Handle Material\": \"Alloy Steel\", \"Blade Edge\": \"Plain\", \"Is Dishwasher Safe\": \"No\", \"Item Length\": \"15 Inches\", \"Item Weight\": \"8.8 ounces\", \"Item model number\": \"8541906564\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 204304, \"Chef's Knives\": 1195}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"October 21, 2013\"}",
+    "parent_asin": "B00AQ66TNU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

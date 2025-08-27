@@ -1,0 +1,59 @@
+{
+  "item_id": 3657,
+  "metadata": {
+    "main_category": "Sports & Outdoors",
+    "title": "Nike Unisex's Fitness Shoes",
+    "average_rating": 4.4,
+    "rating_number": 6,
+    "features": [
+      "Imported",
+      "Rubber sole",
+      "Size 8 for men",
+      "Regular fit",
+      "Officially licensed"
+    ],
+    "description": [
+      "Trainers Unisex Nike PHANTOM VSN ACADEMY DF IC AO3267-060"
+    ],
+    "price": "69.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71eUy6eSKVL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41wgTpLeFkL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41wgTpLeFkL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Nike",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Shoes",
+      "Athletic",
+      "Team Sports",
+      "Soccer"
+    ],
+    "details": "{\"Item model number\": \"AO3267\", \"Department\": \"mens\", \"Date First Available\": \"September 17, 2018\", \"Manufacturer\": \"Nike\"}",
+    "parent_asin": "B07G8PQKB7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Sports & Outdoors"
+    ],
+    "confidence": 0.95
+  }
+}

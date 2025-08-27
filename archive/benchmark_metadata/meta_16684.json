@@ -1,0 +1,55 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Calvin Klein Women's V-Neck Dress with Tie Belt",
+    "average_rating": 4.6,
+    "rating_number": 11,
+    "features": [
+        "100% Polyester",
+        "Imported",
+        "Zipper closure",
+        "Machine Wash",
+        "V-neckline",
+        "Tie belt",
+        "Calvin Klein Sportswear"
+    ],
+    "description": [
+        "Calvin Klein woven dress with-neckline and tie belt at waist"
+    ],
+    "price": "99.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81xot5Y0UtL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81tGYPW1x8L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41V15NikV1L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41cgWFz-G1L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41V15NikV1L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41cgWFz-G1L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Calvin Klein",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Dresses",
+        "Casual"
+    ],
+    "details": "{\"Item model number\": \"M9GBZ971\", \"Department\": \"womens\", \"Date First Available\": \"August 14, 2019\", \"Manufacturer\": \"Calvin Klein\"}",
+    "parent_asin": "B07WDM1DJ5",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

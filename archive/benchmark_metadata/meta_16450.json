@@ -1,0 +1,65 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Kate Spade New York Posh Loafer",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "Made in the USA or Imported",
+        "Rubber sole"
+    ],
+    "description": [
+        "Wear best like the Kate Spade New York Posh Loafer. Leather upper. Leather lining and insole. Slip-on closure type. Stylish buckle. Branded rubber outsole."
+    ],
+    "price": "199.84",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71-34749cPL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71eIwvlO9ML._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51FHJX0w9aL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71GXMV16FsL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71THK3axSPL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71N6amwhOkL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Y6yQOkO9L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41f8Qqp3IgL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31C04uaAYrL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Z7mwXSeqL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41qGBYHBk5L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41caQ3GIvUL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41Y6yQOkO9L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41f8Qqp3IgL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31C04uaAYrL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41Z7mwXSeqL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41qGBYHBk5L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41caQ3GIvUL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT06"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kate Spade New York",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Loafers & Slip-Ons"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"July 24, 2022\"}",
+    "parent_asin": "B0B7GG3NVY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

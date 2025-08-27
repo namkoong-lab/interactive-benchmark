@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Dreamweaver 4 f/x and Design",
+    "average_rating": 2.7,
+    "rating_number": 5,
+    "features": [
+        "Dreamweaver 4 f/x and Design improves, enriches, and builds upon the reader's current Dreamweaver skills. Emphasis is made on use of text, graphics, color and special effects including sound, animated gif files, and Flash movies in the book's chapters. Quick tips are given to format and position web page content through HTML. With real-world applications, this book will strengthen Dreamweaver skills and improve web"
+    ],
+    "description": [
+        "About the Author",
+        "Laurie Ulrich has spent over 10 years teaching, writing, and consulting on computers and technology. She has written over 100 training manuals for colleges, universities, and corporate training centers and over 13 computer books, including Dreamweaver 4 f/x & Design. In 1992, Laurie established her own design firm, which has expanded to offer Web design and Web site hosting. Today, Laurie is one of the principal designers and consultants of Limehat & Company, Inc. and its Web division High Strung Productions."
+    ],
+    "price": "10.94",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/5185YHZXFAL._SX378_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Laurie Ann Ulrich (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Web Development & Design"
+    ],
+    "details": "{\"Publisher\": \"Coriolis Group (April 19, 2001)\", \"Language\": \"English\", \"Paperback\": \"352 pages\", \"ISBN 10\": \"1576107892\", \"ISBN 13\": \"978-1576107898\", \"Item Weight\": \"2.25 pounds\", \"Dimensions\": \"8 x 0.5 x 10 inches\"}",
+    "parent_asin": "1576107892",
+    "bought_together": null,
+    "subtitle": null,
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/31E1yg-+1XL._SY600_.jpg', 'name': 'Laurie Ulrich', 'about': [\"Wow. After several attemtps to sum up my life in less than 4000 characters, I've given up on anything witty or terribly revealing. Suffice to say, I was born in Texas, have spent virtually all of my life in Pennsylvania, and I've been blessed by having a loving family, good friends, and a wonderful husband, Robert. We have 3 cats (Calvin, Daisy, and Willow), and I'm pretty bossy, which is why teaching and writing books that tell people how to do things are very appealing pursuits.\"]}"
+}

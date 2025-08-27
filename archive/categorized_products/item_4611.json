@@ -1,0 +1,68 @@
+{
+  "item_id": 4611,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Spiffy Custom Embroidered Caps unisex-adult mens Baseball",
+    "average_rating": 4.6,
+    "rating_number": 11,
+    "features": [
+      "100% Cotton",
+      "Hook and Loop closure",
+      "Cap Color: Black 100% Cotton Twill Fabric",
+      "Profile: 3\" Mid-Crown, Six Panel Construction",
+      "Structure: Constructed, Soft Fused Buckram Backing",
+      "Back Strap: Fabric-Covered Velcro Closure",
+      "Pre-curved Bill with Matching Undervisor"
+    ],
+    "description": [
+      "Sporty Embroidered Design highlights this handsome 6-Panel Twill Baseball Cap. Popular cap style is a favorite of hat fans & collectors. One Size Fits Most - Easy to Adjust Velcro Back Strap"
+    ],
+    "price": "17.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61txL4HszWL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/51G8-NBUDcL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41b3k02S+zL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/412Uq19xg6L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41b3k02S+zL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/412Uq19xg6L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Spiffy Custom Embroidered Caps",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Men",
+      "Accessories",
+      "Hats & Caps",
+      "Baseball Caps"
+    ],
+    "details": "{\"Department\": \"Unisex-adult\", \"Date First Available\": \"April 17, 2022\", \"Manufacturer\": \"Spiffy Custom Gifts\"}",
+    "parent_asin": "B09Y4FFF3X",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Hats & Beanies"
+    ],
+    "confidence": 0.95
+  }
+}

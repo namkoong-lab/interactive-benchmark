@@ -1,0 +1,56 @@
+{
+  "item_id": 797,
+  "metadata": {
+    "main_category": "Health & Personal Care",
+    "title": "Tena Washcloths - 7.9\" x 12.4\" - Ultra - Case of 576",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "TENA",
+      "768703000000",
+      "ESSITY"
+    ],
+    "description": [
+      "Tena Washcloths Easy-to-use, one handed dispensing with unfolded washcloths in a new soft pack design which helps to promote infection control. Wipes are alcohol-free and include Dimethicone, Chamomile, Aloe and Vitamin E to help maintain soft, vibrant and healthy skin. Ultra premium washcloths are slightly textured for more effective cleansing. Each cloth measures 7.9\" x 12.4\". Case = 12 Pks of 48 Washcloths per Pk"
+    ],
+    "price": "77.45",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41nvPYkeVOL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41nvPYkeVOL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "SCA",
+    "categories": [
+      "Health & Household",
+      "Health Care",
+      "Incontinence & Ostomy",
+      "Cleansers, Cloths & Creams"
+    ],
+    "details": "{\"Brand\": \"SCA\", \"Unit Count\": \"576 576\", \"Age Range (Description)\": \"Adult\", \"Item Form\": \"Wipes\", \"Scent\": \"Chamomile\", \"Is Discontinued By Manufacturer\": \"No\", \"Item Weight\": \"1 Pounds\", \"Date First Available\": \"January 30, 2007\", \"Manufacturer\": \"ESSITY\"}",
+    "parent_asin": "B0030FLXQC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Health & Personal Care",
+      "Skin Care Products"
+    ],
+    "confidence": 0.9
+  }
+}

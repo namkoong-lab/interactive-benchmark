@@ -1,0 +1,73 @@
+{
+    "main_category": "Grocery",
+    "title": "365 by Whole Foods Market, Turkey Oven Roasted Sliced Organic, 6 Ounce",
+    "average_rating": 4.4,
+    "rating_number": 6201,
+    "features": [
+        "365 by Whole Foods Market products give you that dance-down-the-aisles feeling, virtual aisles too! Our huge range of choices with premium ingredients at prices you can get down with makes grocery shopping so much more than tossing the basics in your cart."
+    ],
+    "description": [
+        "Turkey used is fed an all vegetarian diet, is raised without antibiotics, contains no nitrates or nitrites (except for those naturally occurring in sea salt)"
+    ],
+    "price": "6.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71iUxPfzIDL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71C8K0Wo9CL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51+rR57PBoL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51CJzRCcdnL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51Bck60Vo9L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51+rR57PBoL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51CJzRCcdnL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51XgAvZ0-3L._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31HHTjxKLGL.jpg",
+            "https://m.media-amazon.com/images/I/41s25plu8aL.jpg",
+            "https://m.media-amazon.com/images/I/11bYskd-nYL.jpg",
+            "https://m.media-amazon.com/images/I/115mFEvSqzL.jpg",
+            "https://m.media-amazon.com/images/I/21WB72dwVHL.jpg",
+            "https://m.media-amazon.com/images/I/11bYskd-nYL.jpg",
+            "https://m.media-amazon.com/images/I/115mFEvSqzL.jpg",
+            "https://m.media-amazon.com/images/I/21LNZcuwuNL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31HHTjxKLGL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41s25plu8aL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/11bYskd-nYL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/115mFEvSqzL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/21WB72dwVHL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/11bYskd-nYL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/115mFEvSqzL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/21LNZcuwuNL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "365 by Whole Foods Market",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Deli & Prepared Foods",
+        "Deli Meats & Cheeses",
+        "Deli-Sliced Meats",
+        "Turkey"
+    ],
+    "details": "{\"Product Dimensions\": \"9 x 5.43 x 0.75 inches; 6.08 Ounces\", \"UPC\": \"099482452643\", \"Manufacturer\": \"365 by Whole Foods Market\"}",
+    "parent_asin": "B074H5GVS9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

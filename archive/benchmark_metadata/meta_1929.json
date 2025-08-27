@@ -1,0 +1,42 @@
+{
+    "main_category": "Amazon Home",
+    "title": "All Aboard! 2008 Hallmark Keepsake Ornament",
+    "average_rating": 4.5,
+    "rating_number": 2,
+    "features": [],
+    "description": [
+        "By Warner Brothers. Hanging ornament. 3 1/2\" tall x 3\" wide x 2\" deep. Blue and gray with train, snowflakes and snowman."
+    ],
+    "price": "25.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41KJemW7XWL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41KJemW7XWL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Hallmark",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Hanging Ornaments"
+    ],
+    "details": "{\"Package Dimensions\": \"5.4 x 4.1 x 3 inches\", \"Item Weight\": \"1.6 ounces\", \"Is Discontinued By Manufacturer\": \"No\", \"Perfume\": \"Unscented\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B001CJHZYM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

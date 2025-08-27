@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "Transylvania",
+    "average_rating": 4.8,
+    "rating_number": 10,
+    "features": [
+        "Transylvania is the birthplace of Dracula, where the Pied Piper carried the children of Hamelin, and home to",
+        "Harry Potter’s",
+        "dragons. It’s a place where truth is often stranger than fiction: streams run with silver, the mountains are full of gold, and haystacks can be found in trees. Newly awakened from its communist years, Transylvania is changing rapidly. In splendid photographs and sparkling text, this handsome large-format book captures a land both steeped in tradition and embracing the future."
+    ],
+    "description": [
+        "Review",
+        "Bronwen Riley's words and Dinescu's pictures should inspire more travelers to explore this repository of Romanticism while it lasts. --Daily TelegraphBronwen Riley's words and Dinescu's pictures should inspire more travelers to explore this repository of Romanticism while it lasts. --Daily Telegraph"
+    ],
+    "price": "75.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41PbtGakxaL._SY345_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Bronwen Riley (Author),  Dan Dinescu (Photographer)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "Photography & Video"
+    ],
+    "details": "{\"Publisher\": \"Frances Lincoln; First Edition (July 28, 2008)\", \"Language\": \"English\", \"Hardcover\": \"208 pages\", \"ISBN 10\": \"0711227810\", \"ISBN 13\": \"978-0711227811\", \"Item Weight\": \"2.6 pounds\", \"Dimensions\": \"11.75 x 1 x 8.5 inches\"}",
+    "parent_asin": "0711227810",
+    "bought_together": null,
+    "subtitle": "Hardcover – July 28, 2008",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/o46n1n1ktptu2vqvquu4tsjj0m._SY600_.jpg', 'name': 'Bronwen Riley', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

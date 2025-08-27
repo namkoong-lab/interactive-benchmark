@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Archie 1000 Page Comics Jubilee (Archie 1000 Page Digests)",
+    "average_rating": 4.7,
+    "rating_number": 350,
+    "features": [
+        "This volume collects 1000 pages of iconic Archie comic stories, featuring the same mix of wild humor, awkward charm and genuine relatability that has kept Archie and the gang popular with kids and families for over 75+ years."
+    ],
+    "description": [
+        "About the Author",
+        "THE ARCHIE SUPERSTARS are the impressive line-up of talented writers and artists who have brought Archie, his friends and his world to life for more than 75 years, from legends such as Dan DeCarlo, Frank Doyle, Harry Lucey, and Bob Montana to recent greats like Dan Parent and many more!"
+    ],
+    "price": "24.31",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61e5G9HUscL._SX369_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Archie Superstars (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Comics & Graphic Novels"
+    ],
+    "details": "{\"Publisher\": \"Archie Comics; Illustrated edition (September 3, 2019)\", \"Language\": \"English\", \"Paperback\": \"1000 pages\", \"ISBN 10\": \"1682557812\", \"ISBN 13\": \"978-1682557815\", \"Reading age\": \"9 - 12 years\", \"Grade level\": \"4 - 7\", \"Item Weight\": \"1.54 pounds\", \"Dimensions\": \"4.87 x 1.94 x 6.51 inches\"}",
+    "parent_asin": "1682557812",
+    "bought_together": null,
+    "subtitle": "Paperback – September 3, 2019",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Archie Superstars', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

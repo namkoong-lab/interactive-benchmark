@@ -1,0 +1,75 @@
+{
+  "item_id": 1066,
+  "metadata": {
+    "main_category": "Grocery",
+    "title": "Snickers Protein Bars 47g (Case of 18)",
+    "average_rating": 4.1,
+    "rating_number": 78,
+    "features": [
+      "Suitable for vegetarians. More protein 30% less sugar* *30% less sugar and 140% more protein per 100g than the standard snickers bar"
+    ],
+    "description": [
+      "18 Grams of Protein in a Bar with a Caramel Layer Peanuts and Coated in Milk Chocolate."
+    ],
+    "price": "64.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61yKMdvP9uL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51MeMLW3TxL._SL1280_.jpg",
+        "https://m.media-amazon.com/images/I/51j5GektH3L._SL1000_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41rxE7nXOCL.jpg",
+        "https://m.media-amazon.com/images/I/31HTURN-QZL.jpg",
+        "https://m.media-amazon.com/images/I/31XXiHRmGoL.jpg",
+        "https://m.media-amazon.com/images/I/6170v38QC4L.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41rxE7nXOCL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31HTURN-QZL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31XXiHRmGoL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/6170v38QC4L._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Taste Test: Snickers Chocolate Candy Bar",
+        "Snickers, Full Review + Taste Test"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/03c4e742f65447f19b61281abaf52d95?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/08a967e37aef413396fb90bb93faecdf?ref=dp_vse_rvc_1"
+      ],
+      "user_id": [
+        "/shop/dadreviews",
+        "/shop/themathsorcerer"
+      ]
+    },
+    "store": "Snickers",
+    "categories": [
+      "Health & Household",
+      "Diet & Sports Nutrition",
+      "Nutrition Bars & Drinks",
+      "Nutrition Bars",
+      "Protein Bars"
+    ],
+    "details": "{\"Product Dimensions\": \"4.45 x 0.67 x 1.73 inches; 1.41 Ounces\", \"Item model number\": \"301356\", \"Manufacturer\": \"Mars Wrigley Confectionery UK Ltd\"}",
+    "parent_asin": "B07PXFW5XB",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Grocery"
+    ],
+    "confidence": 0.9
+  }
+}

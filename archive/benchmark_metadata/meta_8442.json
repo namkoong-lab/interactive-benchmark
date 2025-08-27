@@ -1,0 +1,43 @@
+{
+    "main_category": "Books",
+    "title": "Yellow (Colors Books)",
+    "average_rating": 4.8,
+    "rating_number": 32,
+    "features": [
+        "Introduces some common objects that are yellow in color including mustard, lemons and hard hats."
+    ],
+    "description": [
+        "About the Author",
+        "Sarah Schuette has written nearly 80 nonfiction children's books with themes relating to character values, cooking, family relationships, and the popular Spot It seek and find titles. Sarah began her career as an editor and eventually moved into photo shoot styling. She loves finding props, cooking, and styling the food that appears in the photographs in her books."
+    ],
+    "price": "8.1",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41CHYsRgFNL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Sarah L. Schuette (Author)",
+    "categories": [
+        "Books",
+        "Children's Books"
+    ],
+    "details": "{\"Publisher\": \"Capstone Press; Illustrated edition (September 1, 2002)\", \"Language\": \"English\", \"Paperback\": \"32 pages\", \"ISBN 10\": \"0736850694\", \"ISBN 13\": \"978-0736850698\", \"Reading age\": \"4 - 8 years\", \"Lexile measure\": \"AD490L\", \"Grade level\": \"Kindergarten - 2\", \"Item Weight\": \"5.1 ounces\", \"Dimensions\": \"9.25 x 0.13 x 10.25 inches\"}",
+    "parent_asin": "0736850694",
+    "bought_together": null,
+    "subtitle": "Paperback – September 1, 2002",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Sarah L. Schuette', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

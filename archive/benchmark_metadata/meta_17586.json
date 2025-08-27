@@ -1,0 +1,66 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Table Tennis Fever",
+    "average_rating": 2.2,
+    "rating_number": 4,
+    "features": [
+        "Fun table tennis game",
+        "Realistic 3d real time graphics",
+        "Stunning game physics",
+        "Replays",
+        "Available in English, French and Chinese",
+        "Free!"
+    ],
+    "description": [
+        "Table Tennis Fever is a table tennis simulation game for Android. It features realistic 3D real time graphics coupled with a stunning physics engine. It is entirely free for everyone.We hope you will enjoy it!"
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/81+g8Ck9jML.png",
+            "https://m.media-amazon.com/images/I/81-5CG-4nHL.png",
+            "https://m.media-amazon.com/images/I/81tRS+Zub6L.png",
+            "https://m.media-amazon.com/images/I/81ktDbOW2UL.png",
+            "https://m.media-amazon.com/images/I/81eyaX1sHbL.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            "https://images-na.ssl-images-amazon.com/images/I/D1c5e6b-+UL.mp4"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Envol Studios",
+    "categories": [],
+    "details": "{\"Release Date\": \"2013\", \"Date first listed on Amazon\": \"January 29, 2013\", \"Developed By\": \"Envol Studios\", \"Size\": \"6.5MB\", \"Version\": \"1.0\", \"Application Permissions\": [\"Access information about networks\", \"Open network sockets\"], \"Minimum Operating System\": \"Android 2.3.3\", \"Approximate Download Time\": \"Less than 1 minute\"}",
+    "parent_asin": "B00B6B32ZC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

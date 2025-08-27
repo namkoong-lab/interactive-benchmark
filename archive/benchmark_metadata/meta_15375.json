@@ -1,0 +1,61 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Brixton Women's Joanna Knit Packable Hat",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "100% WHEAT STRAW",
+        "Imported",
+        "Pull-On closure",
+        "Hand Wash Only",
+        "10cm/4\" Brim",
+        "Packable knit polyester",
+        "Grosgrain Band",
+        "Metal headwear plaque",
+        "Adjustable Velcro strap under sweatband"
+    ],
+    "description": [
+        "An elegant wide-brim knit packable hat with a simple grosgrain band. Our Joanna Knit Packable is subtle and minimal in design, while still making a defined statement. It's one of those hats you throw on to finish your outfit ready to receive countless compliments all day long."
+    ],
+    "price": "24.48",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71cZeWaIUDL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/716ZQ18vaeL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81+JTbS-LxL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41fwkBqYcjL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41GodZ3v8gL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51ppmVakSCL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41fwkBqYcjL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41GodZ3v8gL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51ppmVakSCL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Brixton",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Accessories",
+        "Hats & Caps",
+        "Sun Hats"
+    ],
+    "details": "{\"Item model number\": \"10838\", \"Department\": \"Womens\", \"Date First Available\": \"October 7, 2020\", \"Manufacturer\": \"Brixton\"}",
+    "parent_asin": "B08KVK8KKB",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,56 @@
+{
+  "item_id": 639,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Paganini: Concerto Per Violino No. 3",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+      "Title: Paganini: Concerto Per Violino N. 3 / Henryk Szeryng, London Symphony Orchestra, Alexander Gibson Contributor: Henryk Szeryng Role: Performer Contributor: London Symphony Orchestra Role: Orchestra Contributor: Alexander Gibson Role: Conductor Contributor: Paganini Role: Composer Label: Philips 6500 175 Number of Discs: 1"
+    ],
+    "price": "203.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/A1xLvX3XevL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91XHP3qn8cL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/61hIqKPS2DL.jpg",
+        "https://m.media-amazon.com/images/I/510zxzouhXL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/61hIqKPS2DL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/510zxzouhXL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Henryk Szeryng  (Performer),     London Symphony Orchestra  (Orchestra),     Alexander Gibson  (Conductor),     Paganini  (Composer)    &                   1                  more",
+    "categories": [
+      "CDs & Vinyl",
+      "Classical",
+      "Forms & Genres",
+      "Concertos"
+    ],
+    "details": "{\"Package Dimensions\": \"14.9 x 12.5 x 1.1 inches; 1 Pounds\", \"Manufacturer\": \"Philips 6500 175\", \"Date First Available\": \"November 16, 2010\", \"Label\": \"Philips 6500 175\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B004CJWPGM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Classical Albums"
+    ],
+    "confidence": 0.95
+  }
+}

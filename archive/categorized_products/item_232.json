@@ -1,0 +1,51 @@
+{
+  "item_id": 232,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Chain of Grace",
+    "average_rating": 4.6,
+    "rating_number": 11,
+    "features": [],
+    "description": [
+      "1. In My Father's House, 2. One More Soul, 3. Chain of Grace, 4. Love Has Come Over Me, 5. Nothing Satisfies Me Like Jesus, 6. Something To Believe In, 7. It's Time, 8. The Long Ride, 9. I Know The Lord, 10. Next Time It Will Be Forever"
+    ],
+    "price": "2.96",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/61D-zKq5skL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/61D-zKq5skL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Dallas Holm   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Christian & Gospel",
+      "Pop & Contemporary"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.5 x 4.9 x 0.4 inches; 4 Ounces\", \"Manufacturer\": \"Benson Records\", \"Date First Available\": \"February 11, 2007\", \"Label\": \"Benson Records\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00000DPJN",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Singles & EPs"
+    ],
+    "confidence": 0.95
+  }
+}

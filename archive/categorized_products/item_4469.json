@@ -1,0 +1,67 @@
+{
+  "item_id": 4469,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "THE NORTH FACE Boys' Boundary Triclimate Jacket",
+    "average_rating": 5.0,
+    "rating_number": 6,
+    "features": [
+      "Hand Wash Only",
+      "B BOUNDARY TRICLIMATE JKT-GRAPHITE GREY-M",
+      "B BOUNDARY TRICLIMATE JKT-GRAPHITE GREY-M",
+      "The North Face",
+      "Boys Boundary Triclimate Jacket"
+    ],
+    "description": [
+      "NF0A34Q3 The North Face Boys' Boundary Triclimate Jacket While this jacket is always ready to hit the slopes, it also makes for a great day to day option."
+    ],
+    "price": "179.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71iS4IJCbyL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71KA-6EoNqL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71y3NCkMSLL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31u+pAwH6EL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31aCez9nXeL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/413meeNWfqL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31u+pAwH6EL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31aCez9nXeL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/413meeNWfqL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK",
+        "PT06"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "THE NORTH FACE",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Sport Specific Clothing",
+      "Skiing",
+      "Boys",
+      "Jackets"
+    ],
+    "details": "{\"Department\": \"Unisex Child\", \"Date First Available\": \"April 17, 2018\"}",
+    "parent_asin": "B07FZNFCY5",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Boys' Clothing"
+    ],
+    "confidence": 0.95
+  }
+}

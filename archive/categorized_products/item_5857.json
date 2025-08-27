@@ -1,0 +1,77 @@
+{
+  "item_id": 5857,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Eevee Women's Camo Patterned Leggings",
+    "average_rating": 4.3,
+    "rating_number": 20,
+    "features": [
+      "92% Polyester, 8% Spandex",
+      "Imported",
+      "Pull On closure",
+      "Machine Wash",
+      "PREMIUM HIGH QUALITY LEGGINGS! Full Length / Buttery Soft / Super Stretch leggings! Many Patterns for you to choose from!",
+      "AVAILABLE IN 2 SIZES! One Size (fits Small to Large Size 4-10) / Plus Size (fits X-Large Size 10-14)",
+      "LONG LASTING, DURABLE LEGGINGS! Machine-washable, recommended cold hand wash, hang dry",
+      "ULTRA COMFORTABLE STRETCHY LEGGINGS! Made from 92% Polyester 8% Spandex",
+      "FULL LENGTH & FORM FITTING! Fitted, Tapered leggings that hit between calf and ankle; Great layer piece"
+    ],
+    "description": [
+      "The softest and most comfortable leggings at a great price!",
+      "One Size: S-M-L (Size 4 – 10)",
+      "Waist:",
+      "12\" (Unworn)",
+      "24\" - 30\" (When Worn)",
+      "Inseam:",
+      "26.5\"",
+      "Plus Size: XL – 1X (Size 10 – 14)",
+      "Waist",
+      "14\" (Unworn)",
+      "30\" - 34\" (When Worn)",
+      "Inseam:",
+      "27\""
+    ],
+    "price": "9.48",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71BovtafjYL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51mppGV+OWL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51mppGV+OWL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Eevee",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Women",
+      "Leggings"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"June 7, 2019\", \"Manufacturer\": \"Eevee\"}",
+    "parent_asin": "B07SSJYMKK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Pants",
+      "Women's Leggings"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,55 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "adidas Men's Running Response Hoodie",
+    "average_rating": 4.4,
+    "rating_number": 90,
+    "features": [
+        "70% Cotton, 30% Polyester",
+        "Lace Up closure",
+        "Drawstring hood",
+        "Long sleeves",
+        "3-stripe sleeve details",
+        "Large front pocket",
+        "Material: 70% Cotton, 30% Polyester"
+    ],
+    "description": [
+        "You get out there before the day has a chance to warm up, and this men's running hoodie provides the full coverage and breathability you need to run through the sunrise. Built in lightweight climalite fabric, the long-sleeve t-shirt draws moisture away from your skin as you build up a sweat. A near-seamless construction creates a smooth fit that moves easily as you run. A hood offers maximum protection from the wind, while thumb holes add extra coverage."
+    ],
+    "price": "49.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51n7QNNWlqL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51cOZA6YYBL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31d1tDZFtWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41PwnDH6mPL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31d1tDZFtWL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41PwnDH6mPL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "adidas",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Active",
+        "Active Sweatshirts"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"S17080613A-P\", \"Department\": \"mens\", \"Date First Available\": \"January 1, 2014\", \"Manufacturer\": \"adidas Inline Apparel Child Code (Sports Apparel\"}",
+    "parent_asin": "B01HGQ5OTC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

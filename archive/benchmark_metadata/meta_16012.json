@@ -1,0 +1,58 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "DivaDesigns Womens's Trendy Military Cadet Hat",
+    "average_rating": 4.1,
+    "rating_number": 5,
+    "features": [
+        "100% Cotton",
+        "Hook and Loop closure",
+        "Hand Wash Only",
+        "100% cotton",
+        "One size fits most",
+        "Adjustable velcro"
+    ],
+    "description": [
+        "Trendy urban military cadet hat. Comfortable and breathing 100% cotton. One size fits most with adjustable Velcro."
+    ],
+    "price": "7.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61hcwHKqTtL._AC_UL1001_.jpg",
+            "https://m.media-amazon.com/images/I/51SQ+8QdDcL._AC_UL1001_.jpg",
+            "https://m.media-amazon.com/images/I/41InlyVAPhL._AC_UL1001_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31ynD5oWp7L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31YlmIiWs7L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21XtScArWJL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31ynD5oWp7L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31YlmIiWs7L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/21XtScArWJL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "DivaDesigns",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Accessories",
+        "Hats & Caps",
+        "Baseball Caps"
+    ],
+    "details": "{\"Item model number\": \"HT-9999A-54RE-$P\", \"Department\": \"Womens\", \"Date First Available\": \"June 28, 2014\"}",
+    "parent_asin": "B00LDE5958",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

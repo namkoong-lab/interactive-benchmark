@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Verne the Sperm",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Verne the sperm was born in the mind of an aspiring, young-at-heart research scientist in the midst of performing experiments in the area of reproductive biology. This book is intended to communicate a complex physiological process in a fun, entertaining and creative way. Here the complex subjects of spermatogenesis and the male reproductive system are written in the delightful rhyming format reminiscent of our childhood. This book was written to teach, delight and to shed some light on how fun and exciting learning science can be!"
+    ],
+    "description": [
+        "About the Author",
+        "Cynthia Anderson Sanchez, M.S. is a researcher and an educator in the biological sciences. She has earned a Bachelor of Science Degree in Neuroscience, a Master of Arts Degree in Secondary Education and a Master of Science Degree in Biological Sciences. Cynthia strives to make learning fun and exciting and brings her quirky sense of humor to life in this very unique book on spermatogenesis and the male reproductive tract. Here she blends youthful humor with hard science in a truly novel and entertaining way."
+    ],
+    "price": "15.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41tBTPjm9uL._SX322_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Cynthia Anderson Sanchez M.S. (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Biological Sciences"
+    ],
+    "details": "{\"Publisher\": \"Cynthia Anderson Sanchez (May 2, 2016)\", \"Language\": \"English\", \"Paperback\": \"64 pages\", \"ISBN 10\": \"0692723706\", \"ISBN 13\": \"978-0692723708\", \"Item Weight\": \"4 ounces\", \"Dimensions\": \"5.5 x 0.16 x 8.5 inches\"}",
+    "parent_asin": "0692723706",
+    "bought_together": null,
+    "subtitle": "Paperback – May 2, 2016",
+    "author": null
+}

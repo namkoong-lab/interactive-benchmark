@@ -1,0 +1,51 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "One Direction 'Liam Signature' Heart Necklace",
+    "average_rating": 4.0,
+    "rating_number": 21,
+    "features": [
+        "Official One Direction Merchandise",
+        "Black enamel 'Liam' signature on front",
+        "Embossed 1D logo on back"
+    ],
+    "description": [
+        "Silver plated One Direction necklace with Liam's signature in black enamel on the front and the '1D' logo embossed on the back."
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51gBQocuE8L._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51AR1tBe4eL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31fEStQBkoL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/311h0bAODAL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31fEStQBkoL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/311h0bAODAL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "One Direction",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Jewelry",
+        "Necklaces",
+        "Pendant Necklaces"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"4.4 x 4.3 x 1.2 inches; 0.64 Ounces\", \"Item model number\": \"OD107-LIAM\", \"Department\": \"womens\", \"Date First Available\": \"August 3, 2012\", \"Manufacturer\": \"GIOIA\"}",
+    "parent_asin": "B008S9EQIM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

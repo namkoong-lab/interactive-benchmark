@@ -1,0 +1,51 @@
+{
+    "main_category": "Musical Instruments",
+    "title": "Schubert: String Quartets - Volume 1",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "Includes Quartet in D Major, D. 94; Overture in c minor, Op. 8a; Quartet in C Major, D. 46; Minuet in D, D. 86; Five German Dances and Five Minuets, D. 89"
+    ],
+    "price": "47.47",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51sePsTLmPL._AC_SL1232_.jpg",
+            "https://m.media-amazon.com/images/I/71AT-ugBDWL._AC_SL1316_.jpg",
+            "https://m.media-amazon.com/images/I/71FFxE618pL._AC_SL1309_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31N1Zo19FIL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51SYE6sVa3L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41vHgSvivRL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31N1Zo19FIL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51SYE6sVa3L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41vHgSvivRL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Bärenreiter",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "Music",
+        "Songbooks",
+        "Strings"
+    ],
+    "details": "{\"Item Weight\": \"12 ounces\", \"Product Dimensions\": \"12.2 x 9.57 x 0.44 inches\", \"Item model number\": \"BA5625\", \"Best Sellers Rank\": {\"Strings Songbooks\": 7560}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"March 14, 2016\"}",
+    "parent_asin": "B000ZG6L2K",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

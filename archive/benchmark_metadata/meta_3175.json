@@ -1,0 +1,61 @@
+{
+    "main_category": "Grocery",
+    "title": "Hawaiian Pa'Akai Inc, Alaea Sea Salt Medium Grains, 16 oz",
+    "average_rating": 4.7,
+    "rating_number": 2256,
+    "features": [
+        "Traditional Hawaiian Red Salt",
+        "Medium Grains",
+        "Perfect for seasoning meats, fish, and chicken",
+        "Great addition to your favorite Poke recipe",
+        "16 oz bag"
+    ],
+    "description": [
+        "Baked red clay sea salt"
+    ],
+    "price": "11.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81L7hSpc51L._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41W73HVBXdL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41W73HVBXdL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "How my order arrived. ",
+            "Garbage Amazon delivery",
+            "Hawaiian Sea Salt Selection by MARKY'S"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/3f3358ae95634ec3a3097ef9b8905cad?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0b60501110e3400280db510b94695f73?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0e5d8ebabdec4e2da0f4ccb1256da04f?ref=dp_vse_rvc_2"
+        ],
+        "user_id": [
+            "AGNPTRYZ2ZF66BX4WIDPOXPJEC3Q",
+            "AE3NHWLTPQDK53EVFE6GT5MJWXJA",
+            ""
+        ]
+    },
+    "store": "Hawaiian Pa’akai",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Herbs, Spices & Seasonings",
+        "Salt & Salt Substitutes",
+        "Sea Salt"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"4.76 x 3.31 x 1.77 inches; 15.27 Ounces\", \"UPC\": \"088718101004 767563508496\"}",
+    "parent_asin": "B09G21C51W",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

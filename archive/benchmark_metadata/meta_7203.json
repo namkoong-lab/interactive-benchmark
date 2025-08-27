@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The Marble Game",
+    "average_rating": 4.7,
+    "rating_number": 5,
+    "features": [
+        "Eleanor Tweedy, an eccentric inventor killed in a tragic accident in 1938, leaves her inventions behind in her childhood home. They are in the form of marbles, and were inspired by a mysterious marble game given to Eleanor as a child. Now, an anxious raven and a grouchy, grey cat lead another child living in Eleanor’s home to two translating marbles, and from there to the Marble Board with it jar of marbles, large and small. The child's name is Katie, and she and her friends realize the Board and its marbles represent the solar system on the left and the Jupiter system of moons on the right. When the marbles are in place, the board has the power to take its players both very near and very, very far. The Marble Game is a combination of mystery, adventure, and whimsy with an underlying interest in real science. The second book in the series, The Peetles of Ganymede, is due to be published in 2013."
+    ],
+    "description": [
+        "About the Author",
+        "Sarah Sloane has repaired fishing nets in Oregon, Alaska, and Rhode Island. She is a graduate of the Rhode Island school of Design and was a freelance illustrator for twelve years. She also taught swing dancing for fifteen years. She is currently living on the coast of Washington with two dogs and Zooey, who is not as dumb as he looks. Sadly, Marley is no longer with us."
+    ],
+    "price": "8.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41DfBUCELOL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Sarah Sloane (Author)",
+    "categories": [
+        "Books",
+        "Teen & Young Adult",
+        "Science Fiction & Fantasy"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform; 2nd edition (December 31, 2012)\", \"Language\": \"English\", \"Paperback\": \"222 pages\", \"ISBN 10\": \"1481825585\", \"ISBN 13\": \"978-1481825580\", \"Grade level\": \"4 - 6\", \"Item Weight\": \"10.7 ounces\", \"Dimensions\": \"6 x 0.47 x 9 inches\"}",
+    "parent_asin": "1481825585",
+    "bought_together": null,
+    "subtitle": "Paperback – December 31, 2012",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/51TC1+yc1dL._SY600_.jpg', 'name': 'Sarah E Sloane', 'about': [\"Sarah Sloane ran out of books to read so she wrote one for herself. It includes many of her favorite things: Marbles, animals, planets, moons, mysteries, plants, cemeteries, crazy people, oceans, instantaneous travel, and a whole other world connected to our world. The characters became real and started going off in all different directions to tell their own stories. Sideways, backward, and forward. This is why the stories can't all be labeled neatly, one, two, and three. Nevertheless, they all come from the world of the Marble Game.\"]}"
+}

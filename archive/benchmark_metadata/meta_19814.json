@@ -1,0 +1,47 @@
+{
+    "main_category": "Musical Instruments",
+    "title": "Antari SL-H Super Dry/High Volume Snow Fluid (SL-4H)",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "Super Dry Snow Fluid",
+        "Creates a High Volume of Snowflakes",
+        "Snowflakes Dissipate Fast",
+        "Leaves Minimum Residue"
+    ],
+    "description": [
+        "Antari SL-H is a Super Dry Snow Fluid that creates a high volume of artificial snow-flakes that dissipate fast and leave minimum residue."
+    ],
+    "price": "27.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81osboGQ2mL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41npuTXk6WL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41npuTXk6WL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Antari",
+    "categories": [
+        "Musical Instruments",
+        "Live Sound & Stage",
+        "Special Effects",
+        "Fog Machines"
+    ],
+    "details": "{\"Item Weight\": \"11 pounds\", \"Package Dimensions\": \"13 x 10 x 8 inches\", \"Best Sellers Rank\": {\"Musical Instruments\": 57769, \"Stage Fog Machines & Accessories\": 388, \"Stage Lighting Equipment & Accessories\": 1746, \"Music Recording Equipment\": 15751}, \"Date First Available\": \"November 17, 2020\", \"Size\": \"SL-4H\"}",
+    "parent_asin": "B08NNJK6MV",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

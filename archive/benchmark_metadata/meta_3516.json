@@ -1,0 +1,46 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Fransican Bronze Pendant",
+    "average_rating": 4.6,
+    "rating_number": 3,
+    "features": [
+        "1 7/16\"",
+        "Polished Bronze",
+        "24\" Chain",
+        "Poly Bag Packaging"
+    ],
+    "description": [
+        "Tau Cross with the Image of the Crucified Lord in polished bronze, 1 7/16\" on 24\" chain, poly bag packaging."
+    ],
+    "price": "9.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61kGrfvgTQL._AC_SL1001_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41bL53wzZRL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41bL53wzZRL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Terra Sancta Guild",
+    "categories": [
+        "Arts, Crafts & Sewing",
+        "Needlework",
+        "Cross-Stitch"
+    ],
+    "details": "{\"Manufacturer\": \"Terra Sancta Guild\", \"Item model number\": \"917-B\", \"Best Sellers Rank\": {\"Arts, Crafts & Sewing\": 1165946, \"Cross-Stitch Supplies\": 22431}, \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B00BW70RE4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

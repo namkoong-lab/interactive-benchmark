@@ -1,0 +1,46 @@
+{
+    "main_category": "Grocery",
+    "title": "Trader Joe's Dark Chocolate Cookie Sticks Dipped in Belgian Chocolate - Pack of 3 - 2.65oz Each",
+    "average_rating": 3.0,
+    "rating_number": 12,
+    "features": [
+        "Pack of 3",
+        "Dipped in Belgian Chocolate",
+        "Each Pack 2.65oz (75g)"
+    ],
+    "description": [
+        "Trader Joe's Dark Chocolate Cookie Sticks Dipped in Belgian Chocolate Pack of 3"
+    ],
+    "price": "16.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81iOwfZ-9QL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/518CZ-Ny7mL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/518CZ-Ny7mL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "TJ's",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Breads & Bakery",
+        "Cookies",
+        "Chocolate"
+    ],
+    "details": "{\"Flavor\": \"Dark Chocolate\", \"Number of Items\": \"3\", \"Unit Count\": \"3.00 Count\", \"Brand\": \"TJ's\", \"Number of Pieces\": \"3\", \"Package Dimensions\": \"17.52 x 9.57 x 3.27 inches; 2.09 Pounds\"}",
+    "parent_asin": "B08S6WR764",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

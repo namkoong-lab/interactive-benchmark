@@ -1,0 +1,54 @@
+{
+    "main_category": "Grocery",
+    "title": "Lazy Day Foods Dark Chocolate Ginger Cookies, 4.4-Ounce Packages (Pack of 4)",
+    "average_rating": 3.5,
+    "rating_number": 36,
+    "features": [
+        "Each Pack contains 8 cookies",
+        "2008 gold - great taste award; gluten free; wheat free; dairy free; egg free; vegan; no hydrogenated fats",
+        "Handmade in Lanarkshire, Scotland; Produced in a dedicated gluten?free production facility"
+    ],
+    "description": [
+        "Crisp ginger cookies with Belgian dark chocolate, for a sophisticated chocolate treat. Free from (Gluten, wheat, dairy and egg free) but full of taste."
+    ],
+    "price": "57.24",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81kBWvpmbfL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81lizhg-P0L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91hjdg5x-CL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41FDSEPHpXL.jpg",
+            "https://m.media-amazon.com/images/I/51V8Q8-HjvL.jpg",
+            "https://m.media-amazon.com/images/I/51ogWGFN-+L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41FDSEPHpXL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51V8Q8-HjvL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51ogWGFN-+L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "FACT"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Lazy Day Foods",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Breads & Bakery",
+        "Cookies",
+        "Ginger Snaps"
+    ],
+    "details": "{\"Package Dimensions\": \"8.1 x 6 x 3.9 inches; 4.4 Ounces\", \"Item model number\": \"64239\", \"Manufacturer\": \"Lazy Day\"}",
+    "parent_asin": "B004DOXI9O",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

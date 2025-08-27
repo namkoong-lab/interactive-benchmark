@@ -1,0 +1,60 @@
+{
+  "item_id": 4259,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Oreck White Bb Floor Tool #7206901431",
+    "average_rating": 4.6,
+    "rating_number": 17,
+    "features": [],
+    "description": [
+      "Usually ships Same Day / Next Day. Fits these vacuum cleaner models: 7264,"
+    ],
+    "price": "18.99",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/11eBbICyZAL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/11eBbICyZAL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Tough Built with Soft Bristles, Perfect for your Wood & Tile"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0e38024527564aecb8947641e4fd9b84?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "Oreck",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuum Parts & Accessories",
+      "Attachments & Brushes",
+      "Attachments"
+    ],
+    "details": "{\"Item Weight\": \"4 ounces\", \"Manufacturer\": \"Oreck\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2743458, \"Vacuum Attachments\": 5828}, \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B005M4GC8S",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Appliance Accessories",
+      "Vacuum Cleaner Parts"
+    ],
+    "confidence": 0.95
+  }
+}

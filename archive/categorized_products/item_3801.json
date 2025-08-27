@@ -1,0 +1,88 @@
+{
+  "item_id": 3801,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Skechers Women's Flip-Flop",
+    "average_rating": 4.5,
+    "rating_number": 297,
+    "features": [
+      "Made in USA or Imported",
+      "Ethylene Vinyl Acetate sole",
+      "Lightweight and responsive 5Gen cushioning technology",
+      "Skechers Goga Mat footbed energizes every step",
+      "Multi-colored knit upper",
+      "Machine washable, air dry"
+    ],
+    "description": [
+      "Space dye mesh 3 point sandal with molded footbed"
+    ],
+    "price": "39.88",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71DFnBmqJLL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/619nz2AZipL._AC_UL1208_.jpg",
+        "https://m.media-amazon.com/images/I/51P2XNJcfQL._AC_UL1330_.jpg",
+        "https://m.media-amazon.com/images/I/61Kxx0nE47L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71dIhLG-8UL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71TyjbomDTL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71WCRrNlfnL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Zb3SWVvXL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31HkC5WtonL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41pgjbLD6mL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41cRFZGu5GL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31vk2mtLagL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31B-SHDFzbL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31JviSeg8xL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31rpXgQah2L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31Aq2cTlMsL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31HkC5WtonL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41pgjbLD6mL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41cRFZGu5GL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31vk2mtLagL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31B-SHDFzbL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31JviSeg8xL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31rpXgQah2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31Aq2cTlMsL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Skechers",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Sandals",
+      "Flip-Flops"
+    ],
+    "details": "{\"Product Dimensions\": \"10 x 15 x 6 inches; 2 Pounds\", \"Item model number\": \"P000638193\", \"Department\": \"Womens\", \"Date First Available\": \"September 9, 2020\", \"Manufacturer\": \"Skechers\"}",
+    "parent_asin": "B08HRX8V85",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

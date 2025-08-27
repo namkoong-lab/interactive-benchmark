@@ -1,0 +1,69 @@
+{
+  "item_id": 2846,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Nike Dri-FIT Academy W CV2649-100 Shorts Womens",
+    "average_rating": 4.4,
+    "rating_number": 2,
+    "features": [
+      "Drawstring closure",
+      "Hand Wash Only"
+    ],
+    "description": [
+      "Don't let perspiration slow you down with the Nike Dri-FIT Academy shorts. The slightly stretchy fabric wicks away perspiration so you can stay focused on your performance. This product is made entirely from recycled polyester fibers."
+    ],
+    "price": "30.05",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/41Gpkli6PlL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/51irIuu4CNL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/51QYdQAiuAL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/51Qbw-HY8sL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/41F7+7AzVAL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/41GGGKSQ18L._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/311eYS9WznL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41tkMOE7tHL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41osIvh1wWL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31gwo548ICL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31d2a-2VSkL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31+UUhneERL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/311eYS9WznL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41tkMOE7tHL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41osIvh1wWL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31gwo548ICL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31d2a-2VSkL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31+UUhneERL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Nike",
+    "categories": [],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"January 13, 2022\"}",
+    "parent_asin": "B09QD52ZTN",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION"
+    ],
+    "confidence": 0.95
+  }
+}

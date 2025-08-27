@@ -1,0 +1,44 @@
+{
+    "main_category": "Amazon Home",
+    "title": "20 oz Jumbo Wine Glass French Bulldog",
+    "average_rating": 3.6,
+    "rating_number": 5,
+    "features": [],
+    "description": [
+        "20 oz Jumbo Wine Glass French Bulldog"
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31NYuq6bpWL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31NYuq6bpWL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "MIP",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Novelty",
+        "Drinkware",
+        "Glassware"
+    ],
+    "details": "{\"Brand\": \"MIP\", \"Capacity\": \"1.3 Pounds\", \"Style\": \"Modern\", \"Shape\": \"Round\", \"Pattern\": \"Solid\", \"Product Care Instructions\": \"Machine Wash, Hand Wash Only\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"20.0 Ounce\", \"League\": \"Ncaa\", \"Package Dimensions\": \"10.87 x 5.71 x 5.63 inches\", \"Item Weight\": \"13 ounces\", \"Date First Available\": \"February 3, 2020\"}",
+    "parent_asin": "B01BPGEX3W",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

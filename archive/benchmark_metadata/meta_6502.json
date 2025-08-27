@@ -1,0 +1,37 @@
+{
+    "main_category": null,
+    "title": "Playboy Magazine, November 1997",
+    "average_rating": 4.6,
+    "rating_number": 9,
+    "features": [],
+    "description": [
+        "Playboy 1997 November"
+    ],
+    "price": "14.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71KifqqhM2L._AC_SL1304_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51w3OjUBi0L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51w3OjUBi0L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Playboy",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"10.8 x 8.3 x 0.4 inches\", \"Item Weight\": \"13.6 ounces\", \"Manufacturer\": \"Playboy Press\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"March 13, 2006\"}",
+    "parent_asin": "B000EZP03I",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

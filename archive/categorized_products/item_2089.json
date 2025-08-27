@@ -1,0 +1,53 @@
+{
+  "item_id": 2089,
+  "metadata": {
+    "main_category": "Camera & Photo",
+    "title": "B & W Slip on lens cap for lenses with outside diameters of 51mm",
+    "average_rating": 4.5,
+    "rating_number": 3,
+    "features": [],
+    "description": [
+      "These lens caps, made of black plastic, are available in the following slip-on diameters: 27, 30, 32, 34, 37, 42,51,54.57,60,65,70mm."
+    ],
+    "price": "19.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/513fQO+g+5L._AC_SL1200_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31XvxIJ+5FL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31XvxIJ+5FL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "B&W",
+    "categories": [
+      "Electronics",
+      "Camera & Photo",
+      "Accessories",
+      "Lens Accessories",
+      "Lens Caps"
+    ],
+    "details": "{\"Product Dimensions\": \"3.74 x 3.74 x 0.87 inches\", \"Item Weight\": \"0.704 ounces\", \"Item model number\": \"30051MM\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"August 5, 2003\", \"Manufacturer\": \"B + W\"}",
+    "parent_asin": "B0000BZLCN",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Camera & Photo",
+      "Camera Accessories"
+    ],
+    "confidence": 0.95
+  }
+}

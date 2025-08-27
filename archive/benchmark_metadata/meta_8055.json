@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Apples Should Be Red",
+    "average_rating": 4.2,
+    "rating_number": 228,
+    "features": [
+        "Recipe for Thanksgiving Dinner:Start with 62-year old politically incorrect, chain-smoking, hard-cussing curmudgeon.Add 59-year old sexually-repressed know-it-all in pearls.Throw in a beer can-turkey, a battle for horticultural supremacy, and nudist next-door neighbor.Serve on paper plates, garnished with garden gnome.Tastes like happily ever after.Penny Watson presents an over-fifty romantic comedy novella. 21,000 words. Story includes copious profanity and botanical references."
+    ],
+    "description": [
+        "About the Author",
+        "PENNY WATSON is a dachshund-lover, botanist, and award-winning author of quirky fiction. Titles include THE KLAUS BROTHERS SERIES, LUMBERJACK IN LOVE, APPLES SHOULD BE RED (finalist for the CoRWA Award of Excellence), and A TASTE OF HEAVEN (winner of 2016 National Excellence in Romance Fiction Award).She lives with her Filipino-American family outside of Boston.See updates at pennyromance.com."
+    ],
+    "price": "5.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41PYXKaVoQL._SX311_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Penny Watson (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Humor & Satire"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform (March 25, 2014)\", \"Language\": \"English\", \"Paperback\": \"120 pages\", \"ISBN 10\": \"1495962881\", \"ISBN 13\": \"978-1495962882\", \"Item Weight\": \"4.8 ounces\", \"Dimensions\": \"5 x 0.28 x 8 inches\"}",
+    "parent_asin": "1495962881",
+    "bought_together": null,
+    "subtitle": "Paperback – March 25, 2014",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/s07qkpsaudlmj0mg4bdibe3jo1._SY600_.jpg', 'name': 'Penny Watson', 'about': ['PENNY WATSON is a dachshund-lover, botanist, and award-winning author of quirky fiction. Titles include THE KLAUS BROTHERS SERIES, LUMBERJACK IN LOVE, APPLES SHOULD BE RED (finalist for the CoRWA Award of Excellence), and A TASTE OF HEAVEN (winner of 2016 National Excellence in Romance Fiction Award).', 'She lives in Rhode Island with her Filipino-American family.', 'See updates at www.pennyromance.com.']}"
+}

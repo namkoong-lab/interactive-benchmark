@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Diggers and Dozers",
+    "average_rating": 4.6,
+    "rating_number": 307,
+    "features": [],
+    "description": [
+        "Building, blasting and crushing! It's all in a day's work for front-end loaders, diggers and dozers! Huge shovels dig foundations, a towering crane builds a skyscraper, dynamite sends a smokestack crumbling to the ground, and a colossal crusher grinds up rock. So grab your hard hat, and let's get rollin' !"
+    ],
+    "price": "7.97",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51NEaHxvwKL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51NEaHxvwKL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mighty Machines  (Actor),     unknown  (Director)    Rated:    Unrated    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Kids & Family"
+    ],
+    "details": "{\"Genre\": \"Feature\", \"Format\": \"Multiple Formats, Color, NTSC\", \"Contributor\": \"Unknown, Mighty Machines\", \"Language\": \"Unqualified\", \"Number Of Discs\": \"1\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"Unrated (Not Rated)\", \"Product Dimensions\": \"0.6 x 5.4 x 7.5 inches; 2.72 Ounces\", \"Item model number\": \"1950501\", \"Director\": \"unknown\", \"Media Format\": \"Multiple Formats, Color, NTSC\", \"Run time\": \"1 hour and 30 minutes\", \"Release date\": \"May 15, 2007\", \"Actors\": \"Mighty Machines\", \"Studio\": \"Mighty Machines\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000NJMJYI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

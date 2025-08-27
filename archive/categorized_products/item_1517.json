@@ -1,0 +1,73 @@
+{
+  "item_id": 1517,
+  "metadata": {
+    "main_category": "Pet Supplies",
+    "title": "Majestic Pet Fusion Navy Large Round Pet Bed",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [
+      "7 oz Cotton Twill fabric zippered slipcover",
+      "Stuffed with plush polyester fiberfill",
+      "Made in USA of US and imported materials",
+      "Package Dimensions: 23.0\" L x 18.0\" W x 16.0\" H"
+    ],
+    "description": [
+      "Give your furry friend a comfy place to curl up indoors. The Majestic Pet Round Pet Bed is the perfect combination of style, function and comfort. It features a removable zippered slipcover that is woven from Cotton Twill. The base of the bed is made of heavy duty waterproof 300/600 Denier fabric, which protects against spills or accidents. Each bed is filled with a super plush fiberfill that provides ample amounts of comfort. To wash: Spot clean the slipcover with a mild detergent and hang dry. Dimensions (in Inch): Small - 30 x 30 x 4; Medium - 36 x 36 x 5; Large - 42 x 42 x 5."
+    ],
+    "price": "58.41",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91WjNgCiJYL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81JRRjR5KoL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ZPGt4mNdL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81DIf5YmXUL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81KCyKgGvOL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51v83zC5JGL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51i2ND5PJgL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41tLAC8wbDL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51qEtsBdMBL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51FBQDrjsQL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51v83zC5JGL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51i2ND5PJgL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41tLAC8wbDL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51qEtsBdMBL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51FBQDrjsQL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Majestic Pet",
+    "categories": [
+      "Pet Supplies",
+      "Cats",
+      "Beds & Furniture",
+      "Beds"
+    ],
+    "details": "{\"Product Dimensions\": \"42 x 42 x 5 inches; 8 Pounds\", \"Item model number\": \"78899551064\", \"Date First Available\": \"February 24, 2016\", \"Manufacturer\": \"Majestic Pet Products, Inc. - DROPSHIP\", \"Country of Origin\": \"USA\"}",
+    "parent_asin": "B01C6R70RA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Pet Supplies",
+      "Pet Beds"
+    ],
+    "confidence": 0.95
+  }
+}

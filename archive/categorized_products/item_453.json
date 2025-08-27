@@ -1,0 +1,56 @@
+{
+  "item_id": 453,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Lightning Strikes Twice",
+    "average_rating": 4.6,
+    "rating_number": 70,
+    "features": [],
+    "description": [
+      "NELSON LIGHTNING STRIKES TWICE"
+    ],
+    "price": "11.9",
+    "images": {
+      "hi_res": [
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41fSl0HB-nL.jpg",
+        "https://m.media-amazon.com/images/I/51m6UgT-tmL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41fSl0HB-nL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51m6UgT-tmL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Nelson   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Rap & Hip-Hop",
+      "Pop Rap"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Language\": \"English\", \"Package Dimensions\": \"5.43 x 4.88 x 0.31 inches; 2.52 Ounces\", \"Manufacturer\": \"Frontiers Music Srl\", \"SPARS Code\": \"DDD\", \"Date First Available\": \"September 30, 2010\", \"Label\": \"Frontiers Music Srl\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0043BNYKA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Albums"
+    ],
+    "confidence": 0.95
+  }
+}

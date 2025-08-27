@@ -1,0 +1,71 @@
+{
+  "item_id": 4265,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Yummie (Pants Gloria Skimmer Cotton Stretch Shapewear Legging",
+    "average_rating": 4.2,
+    "rating_number": 152,
+    "features": [
+      "88% Cotton, 12% Spandex",
+      "Imported",
+      "Snap closure",
+      "Machine Wash",
+      "360° of shaping from waist to ankle",
+      "Inseam: 22 1/4\"",
+      "Hourglass shaped 2-ply signature waistband",
+      "Front waistband curves down to hold in your tummy and back of waistband curves up to allow for a lift in the rear",
+      "Breathable cotton fabric has great stretch and recovery"
+    ],
+    "description": [
+      "Your favorite Gloria ankle legging now comes in a new print! It comfortably slims your hips and legs while our Yummie Hug smooths your tummy."
+    ],
+    "price": "11.03",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51dh+0SlI5S._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51-MizQ3jES._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51gFzVw5osS._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31hafiwCXTS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31OC1e0bIiS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31CNAImYf9S._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31hafiwCXTS._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31OC1e0bIiS._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31CNAImYf9S._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Yummie",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Leggings"
+    ],
+    "details": "{\"Item model number\": \"YT2-528\", \"Department\": \"Leggings (Pants)\", \"Date First Available\": \"December 15, 2020\", \"Manufacturer\": \"Yummie\"}",
+    "parent_asin": "B09YGG24DD",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Underwear",
+      "Shapewear"
+    ],
+    "confidence": 0.95
+  }
+}

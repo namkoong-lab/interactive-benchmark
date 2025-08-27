@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Smoking Salmon & Steelhead",
+    "average_rating": 4.4,
+    "rating_number": 39,
+    "features": [
+        "6 x 9 inches, 96 pages, all color"
+    ],
+    "description": [
+        "About the Author",
+        "Authors, chefs"
+    ],
+    "price": "19.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51F8AtSSNKL._SX332_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Scott Haugen (Author),  Tiffany Haugen (Author)",
+    "categories": [
+        "Books",
+        "Cookbooks, Food & Wine",
+        "Outdoor Cooking"
+    ],
+    "details": "{\"Publisher\": \"Frank Amato Pubns (June 30, 2005)\", \"Language\": \"English\", \"Spiral bound\": \"96 pages\", \"ISBN 10\": \"1571882901\", \"ISBN 13\": \"978-1571882905\", \"Item Weight\": \"9.3 ounces\", \"Dimensions\": \"6.75 x 0.5 x 9.25 inches\"}",
+    "parent_asin": "1571882901",
+    "bought_together": null,
+    "subtitle": "Spiral-bound – June 30, 2005",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Scott Haugen', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

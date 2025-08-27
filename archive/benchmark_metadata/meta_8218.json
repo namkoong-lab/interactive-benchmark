@@ -1,0 +1,53 @@
+{
+    "main_category": "Books",
+    "title": "Pearls",
+    "average_rating": 4.5,
+    "rating_number": 49,
+    "features": [
+        "For millennia pearls have been associated with royalty, glamour, and status, and treasured for their exquisite beauty.",
+        "Pearls",
+        "traces the history of these coveted gems over the centuries and across cultures from East to West, from the Roman Empire right up to the present day. Historical portraits and contextual material explain the social and cultural significance of pearls, exploring the changing fashions in how pearls were worn, whether as signs of luxury and status or as attributes of the Virgin Mary, representing purity and chastity.",
+        "Pearls",
+        "brings together an impressive range of jewelry, from Renaissance-era pearl necklaces that made history with their intricate stories and intrigues, to the pearl drop worn by England’s Charles I when he went to the scaffold and a brooch given by Prince Albert to Queen Victoria on their third wedding anniversary. From the late 19th century, luxury brands such as Chaumet, Garrard, Cartier, Tiffany, and Bulgari came to the fore, and with the introduction of cultured pearls in the early 20th century, pearls, formerly a symbol of privilege, became a more popular and affordable adornment."
+    ],
+    "description": [
+        "About the Author",
+        "Beatriz Chadour",
+        "-",
+        "Sampson",
+        "is a jewelry historian and scholarly author who has published extensively on subjects from antiquity to the present day.",
+        "Hubert Bari",
+        "is curator at the Qatar Museum Authority."
+    ],
+    "price": "14.07",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51ciGqUbn7L._SX422_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Beatriz Chadour-Sampson (Author),  Hubert Bari (Author)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "Graphic Design"
+    ],
+    "details": "{\"Publisher\": \"Victoria & Albert Museum (October 29, 2013)\", \"Language\": \"English\", \"Hardcover\": \"160 pages\", \"ISBN 10\": \"1851777555\", \"ISBN 13\": \"978-1851777556\", \"Item Weight\": \"2.05 pounds\", \"Dimensions\": \"8.25 x 0.5 x 9.63 inches\"}",
+    "parent_asin": "1851777555",
+    "bought_together": null,
+    "subtitle": "Hardcover – October 29, 2013",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Hubert Bari', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Elements of Mind",
+    "average_rating": 4.4,
+    "rating_number": 18,
+    "features": [
+        "In Victorian India, a Scottish doctor, Dr. James Esdaile, finds a way to use the power of mesmerism to aid him in performing surgeries, using a remarkable artifact that enhances his abilities. The revocation of the promise to bring the artifact to Rev. William Davey, the head of the secret Committee of English mesmerists leads him to commit suicide in the center of the Crystal Palace...but that is only the beginning of the story.Davey's pursuit of the object leads him across two continents, unfolding the story that has its origins two decades before - and reveals the secret world of the -chthonoi-, the elemental spirits that were banished from human lands in antiquity, and now want to find a way to open the Glass Door and reassert themselves in the world of men."
+    ],
+    "description": [
+        "About the Author",
+        "Walter H. Hunt has been writing all of his life, and has been a full-time writer since 2001. His writing draws on his knowledge and study of history in one form or another; truth is often far stranger--and more interesting--than fiction, and research is a touchstone for his work.He grew up in Andover, MA and received a B.A. in History and German from Bowdoin College in Maine. He now lives in Eastern Massachusetts with her and their teenage daughter. He is an active Freemason and baseball fan."
+    ],
+    "price": "7.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51FqWCCxaeL._SX312_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Walter Hunt (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Genre Fiction"
+    ],
+    "details": "{\"Publisher\": \"Spence City (July 8, 2014)\", \"Language\": \"English\", \"Paperback\": \"496 pages\", \"ISBN 10\": \"193939208X\", \"ISBN 13\": \"978-1939392084\", \"Item Weight\": \"10.4 ounces\", \"Dimensions\": \"4.1 x 0.9 x 6.7 inches\"}",
+    "parent_asin": "193939208X",
+    "bought_together": null,
+    "subtitle": "Paperback – July 8, 2014",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/41FO0zDdR2L._SY600_.jpg', 'name': 'Walter H. Hunt', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

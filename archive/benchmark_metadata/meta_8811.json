@@ -1,0 +1,36 @@
+{
+    "main_category": "Books",
+    "title": "Let Us C (Computer Science)",
+    "average_rating": 3.7,
+    "rating_number": 6,
+    "features": [
+        "Considered to be one of the best-selling programming books ever written, the Eighth Edition has now been edited, revised, and updated. Simplicity and an easy narration style are the hallmarks of the book, which have made its previous seven editions immensely successful. Today’s C programmer (still the language of choice in science, engineering, game programming and for handheld devices) has to master the complexities of the language and contend with its usage in environments like Windows, Linux, and for the Internet. Let Us C, Eighth Edition covers these three aspects of C programming and doesn’t assume any programming background. It begins with the basics and steadily builds the pace, so the reader finds it easy to handle more complicated topics later. This popular author has crafted hundreds of excellent programming examples and exercises for every aspect of C programming."
+    ],
+    "description": [
+        "About the Author",
+        "Yashavant P. Kanetkar is a popular author and world-renowned instructor who has written several books and software programs in C and C++."
+    ],
+    "price": "14.98",
+    "images": {
+        "hi_res": [],
+        "large": [],
+        "thumb": [],
+        "variant": []
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Yashavant P. Kanetkar (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Programming Languages"
+    ],
+    "details": "{\"Publisher\": \"Jones & Bartlett Learning; 8th edition (April 4, 2008)\", \"Language\": \"English\", \"Paperback\": \"593 pages\", \"ISBN 10\": \"1934015253\", \"ISBN 13\": \"978-1934015254\", \"Item Weight\": \"2.81 pounds\", \"Dimensions\": \"7.52 x 1.24 x 9.25 inches\"}",
+    "parent_asin": "1934015253",
+    "bought_together": null,
+    "subtitle": "8th Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Yashavant P. Kanetkar', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

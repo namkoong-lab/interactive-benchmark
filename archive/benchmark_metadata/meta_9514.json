@@ -1,0 +1,45 @@
+{
+    "main_category": "Books",
+    "title": "The Bad Luck Chair",
+    "average_rating": 5.0,
+    "rating_number": 6,
+    "features": [
+        "When she walks into class and finds the notorious Bad Luck Chair placed before her desk, Addy fears the rumors that abound at Brookside Elementary and turns to her classmate, Katie, for guidance on how to rid herself of the bad luck that she is certain will come her way."
+    ],
+    "description": [
+        "About the Author",
+        "Sue Wilkowski lives on Long Island, New York.",
+        "CB Decker lives in Modesto, California."
+    ],
+    "price": "17.98",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51vPVmV7a0L._SX318_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Sue Wilkowski (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Growing Up & Facts of Life"
+    ],
+    "details": "{\"Publisher\": \"Dutton Juvenile (July 5, 2007)\", \"Language\": \"English\", \"Hardcover\": \"96 pages\", \"ISBN 10\": \"0525477942\", \"ISBN 13\": \"978-0525477945\", \"Reading age\": \"8 - 10 years\", \"Lexile measure\": \"580L\", \"Grade level\": \"3 - 4\", \"Item Weight\": \"8.6 ounces\", \"Dimensions\": \"5.88 x 0.62 x 8.6 inches\"}",
+    "parent_asin": "0525477942",
+    "bought_together": null,
+    "subtitle": "Hardcover – July 5, 2007",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Susan Wilkowski', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

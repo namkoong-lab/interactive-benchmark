@@ -1,0 +1,77 @@
+{
+  "item_id": 3483,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Marucci Adult Dugout Tee",
+    "average_rating": 4.5,
+    "rating_number": 178,
+    "features": [
+      "100% Polyester",
+      "Pull On closure",
+      "Machine Wash",
+      "100% polyester",
+      "Moisture management material",
+      "Soft, lightweight material",
+      "Mariucci screen printed across chest",
+      "Twill taped neck for comfort"
+    ],
+    "description": [
+      "Train like a Big Leaguer in our Mariucci Dugout Tee. Our soft, lightweight shirt has Mariucci screen-printed across the chest and is ideal for practice or just to Honor the Game."
+    ],
+    "price": "23.49",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/813lxPqWNRL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Jvm5kbcoL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71dBaFf+1xL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61s7Wq6x0dL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41r65nt9ZBL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41CyPaKC-lL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31AZ0bSWOTL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31xCWqH9gFL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41r65nt9ZBL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41CyPaKC-lL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31AZ0bSWOTL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31xCWqH9gFL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT09"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Marucci",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Men",
+      "Shirts",
+      "T-Shirts"
+    ],
+    "details": "{\"Item model number\": \"MADUGT-PR-AS-P\", \"Department\": \"Mens\", \"Date First Available\": \"January 9, 2015\", \"Manufacturer\": \"Marucci\"}",
+    "parent_asin": "B00S1ALHU8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's T-Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

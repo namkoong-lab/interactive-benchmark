@@ -1,0 +1,48 @@
+{
+    "main_category": "Grocery",
+    "title": "Giant Jellies bulk candy giant jelly gum drops 2 pounds",
+    "average_rating": 4.4,
+    "rating_number": 7,
+    "features": [
+        "Fresh and Delicious"
+    ],
+    "description": [
+        "Giant Jelly Gum Drops. Fresh, Soft, and Delicious Assorted-Flavor jelly candy. Flavors include cherry, orange, anise, lime, lemon, and pineapple. This listing is for a bulk 2 pound bag of assorted giant jelly gum drops."
+    ],
+    "price": "18.35",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/81N7IJyxWnL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51GULELfcGL.jpg",
+            "https://m.media-amazon.com/images/I/41MUgIwCl9L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51GULELfcGL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41MUgIwCl9L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Beulah's Candyland",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Candy & Chocolate",
+        "Gummy Candy"
+    ],
+    "details": "{\"Brand\": \"Beulah's Candyland\", \"Flavor\": \"Cherry, Pineapple, Orange, Lemon\", \"Item Form\": \"Jelly\", \"Unit Count\": \"32.0 Ounce\", \"Number of Items\": \"1\", \"Item Weight\": \"2.1 Pounds\", \"UPC\": \"709257489629\"}",
+    "parent_asin": "B01N4THG4Z",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

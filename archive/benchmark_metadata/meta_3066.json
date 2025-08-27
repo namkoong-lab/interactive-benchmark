@@ -1,0 +1,57 @@
+{
+    "main_category": "Grocery",
+    "title": "Amazon Brand - Happy Belly Pork Gravy Mix, 0.87 Oz",
+    "average_rating": 4.5,
+    "rating_number": 373,
+    "features": [
+        "One 0.87-ounce packet of Happy Belly Pork Gravy Mix",
+        "Great on pork roasts, ribs or chops, casseroles",
+        "Just add water to make rich, delicious, lump free pork gravy in minutes",
+        "Easily prepared in minutes",
+        "An Amazon Brand"
+    ],
+    "description": [
+        "Amazon Brand - Happy Belly Pork Gravy Mix, 0.87 Oz"
+    ],
+    "price": "1.85",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91WX0xaTrfL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81mNFVZYt9L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91p7r-8JXdL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/4152tW4xHVL.jpg",
+            "https://m.media-amazon.com/images/I/51C8QhcknQL.jpg",
+            "https://m.media-amazon.com/images/I/51ZT+-MBDEL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/4152tW4xHVL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51C8QhcknQL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51ZT+-MBDEL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT02",
+            "FACT"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Happy Belly",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Sauces, Gravies & Marinades",
+        "Gravies",
+        "Pork"
+    ],
+    "details": "{\"Product Dimensions\": \"4 x 0.5 x 5.5 inches; 0.87 Ounces\", \"UPC\": \"842379193521\", \"Manufacturer\": \"Happy Belly\"}",
+    "parent_asin": "B0BN5CZG7Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

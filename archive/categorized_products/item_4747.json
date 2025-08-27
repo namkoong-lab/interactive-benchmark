@@ -1,0 +1,65 @@
+{
+  "item_id": 4747,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Felina Women's City Terry Cowl Hoodie",
+    "average_rating": 2.0,
+    "rating_number": 1,
+    "features": [
+      "61% Polyester, 34% Rayon, 5% Spandex",
+      "Imported",
+      "Pull On closure",
+      "Machine Wash",
+      "Wear as a cowl neck or hoodie, you choose",
+      "Comfortable, every day wear"
+    ],
+    "description": [
+      "Perfect layering cowl hoodie made with luxurious and soft French terry fabric"
+    ],
+    "price": "9.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61Fec0-fb8L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61aXSSM+8fL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31QAcsWE2QL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/310LzmJTUcL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31QAcsWE2QL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/310LzmJTUcL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Felina",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Lingerie, Sleep & Lounge",
+      "Sleep & Lounge",
+      "Tops"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"970074\", \"Department\": \"womens\", \"Date First Available\": \"September 15, 2016\", \"Manufacturer\": \"Felina Women's IA\"}",
+    "parent_asin": "B01GXU504G",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Hoodies & Sweatshirts"
+    ],
+    "confidence": 0.95
+  }
+}

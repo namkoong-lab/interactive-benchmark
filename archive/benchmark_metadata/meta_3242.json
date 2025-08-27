@@ -1,0 +1,56 @@
+{
+    "main_category": "Grocery",
+    "title": "Glass Bell-View Hoagie Spread, Hot Chopped, 16 Ounce",
+    "average_rating": 4.5,
+    "rating_number": 8,
+    "features": [
+        "Hot peppers chopped and crushed into a delightful topping for hoagies and subs"
+    ],
+    "description": [
+        "Bell-View was one of the first companies to commercially produce a fresh pack pepper. Our company has prided itself on item selection to differentiate ourselves from the competition. We have extended that spirit of differentiation to the present day product packaging, item selection, product pack and delivery system."
+    ],
+    "price": "14.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61CI6yK9W4L._SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51X+gtlKN6L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51X+gtlKN6L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Great sandwich spread with a spicy kick that's not too spicy",
+            "Wickedly delicious Spicy Red Sandwich Spread",
+            "What you need on your sandwich that you are missing,  check it out!"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/07d339cc9aaf4280b7887097d2ae9aa4?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/04bb592273d1493c9579da6d5d31bc86?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/079038bae6df4302ad2de535d59bd9a8?ref=dp_vse_rvc_2"
+        ],
+        "user_id": [
+            "/shop/influencer-d2020e2e",
+            "",
+            "/shop/jaimecopen"
+        ]
+    },
+    "store": "Bell-View",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Condiments & Salad Dressings",
+        "Sandwich Spreads"
+    ],
+    "details": "{\"Package Dimensions\": \"9.76 x 4.65 x 3.35 inches; 1 Pounds\", \"UPC\": \"073405109036\", \"Manufacturer\": \"Bell-View\"}",
+    "parent_asin": "B00HLT9BGM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,58 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "Natural Language Processing with Transformers, Revised Edition",
+    "average_rating": 4.5,
+    "rating_number": 93,
+    "features": [
+        "Since their introduction in 2017, transformers have quickly become the dominant architecture for achieving state-of-the-art results on a variety of natural language processing tasks. If you're a data scientist or coder, this practical book -now revised in full color- shows you how to train and scale these large models using Hugging Face Transformers, a Python-based deep learning library.",
+        "Transformers have been used to write realistic news stories, improve Google Search queries, and even create chatbots that tell corny jokes. In this guide, authors Lewis Tunstall, Leandro von Werra, and Thomas Wolf, among the creators of Hugging Face Transformers, use a hands-on approach to teach you how transformers work and how to integrate them in your applications. You'll quickly learn a variety of tasks they can help you solve.",
+        "Build, debug, and optimize transformer models for core NLP tasks, such as text classification, named entity recognition, and question answering",
+        "Build, debug, and optimize transformer models for core NLP tasks, such as text classification, named entity recognition, and question answering",
+        "Learn how transformers can be used for cross-lingual transfer learning",
+        "Learn how transformers can be used for cross-lingual transfer learning",
+        "Apply transformers in real-world scenarios where labeled data is scarce",
+        "Apply transformers in real-world scenarios where labeled data is scarce",
+        "Make transformer models efficient for deployment using techniques such as distillation, pruning, and quantization",
+        "Make transformer models efficient for deployment using techniques such as distillation, pruning, and quantization",
+        "Train transformers from scratch and learn how to scale to multiple GPUs and distributed environments",
+        "Train transformers from scratch and learn how to scale to multiple GPUs and distributed environments"
+    ],
+    "description": [
+        "About the Author",
+        "Lewis Tunstall is a data scientist at Swisscom, focused on building machine learning powered applications in the domains of natural language processing and time series. A former theoretical physicist, he has over 10 years experience translating complex subject matter to lay audiences and has taught machine learning to university students at both the graduate and undergraduate levels.Leandro von Werra is a data scientist at Swiss Mobiliar where he leads the company's natural language processing efforts to streamline and simplify processes for customers and employees. He has experience working across the whole machine learning stack, and is the creator of a popular Python library that combines Transformers with reinforcement learning. He also teaches data science and visualisation at the Bern University of Applied Sciences.Thomas Wolf is Chief Science Officer and co-founder of HuggingFace. His team is on a mission to catalyze and democratize NLP research. Prior to HuggingFace, Thomas gained a Ph.D. in physics, and later a law degree. He worked as a physics researcher and a European Patent Attorney.",
+        "--This text refers to the",
+        "paperback",
+        "edition."
+    ],
+    "price": "14.75",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51PD9EobDlL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Lewis Tunstall (Author),  Leandro von Werra (Author),  Thomas Wolf (Author)",
+    "categories": [
+        "Kindle Store",
+        "Kindle eBooks",
+        "Computers & Technology"
+    ],
+    "details": "{\"Publisher\": \"O'Reilly Media; 1st edition (May 26, 2022)\", \"Publication date\": \"May 26, 2022\", \"Language\": \"English\", \"File size\": \"12871 KB\", \"Simultaneous device usage\": \"Unlimited\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Not Enabled\", \"Sticky notes\": \"Not Enabled\", \"Print length\": \"691 pages\"}",
+    "parent_asin": "B0B2FKYVNL",
+    "bought_together": null,
+    "subtitle": "1st Edition, Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/93hacdb0rrkueo3hphdt84aegt._SY600_.jpg', 'name': 'Leandro von Werra', 'about': ['Leandro von Werra is a machine learning engineer in the open source team at Hugging Face. He has several years of industry experience bringing NLP projects to production by working across the whole machine learning stack, and is the creator of a popular Python library called TRL that combines transformers with reinforcement learning.']}"
+}

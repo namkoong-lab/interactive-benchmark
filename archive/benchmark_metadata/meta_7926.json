@@ -1,0 +1,50 @@
+{
+    "main_category": "Books",
+    "title": "Design Basics (with CourseMate Printed Access Card)",
+    "average_rating": 4.4,
+    "rating_number": 188,
+    "features": [
+        "Filled with hundreds of stunning examples of successful two dimensional design, this how-to book explains design theory and gives you the tools necessary so you can create successful designs yourself. DESIGN BASICS presents art fundamentals concepts in full two- to four-page spreads, making the text practical and easy for you to refer to while you work."
+    ],
+    "description": [
+        "About the Author",
+        "David A. Lauer is Emeritus Professor of Art at the College of Alameda.Stephen Pentak received his BA from Union College in New York, and his MFA from Tyler School of Art at Temple University. He is Professor Emeritus of Art, and a past Associate Dean of the College of the Arts at Ohio State University. He has been the recipient of four Ohio Arts Council Fellowships and he has been a visiting resident artist at Delfina Studios in London, and Glasgow School of Art. Mr. Pentak's recent solo exhibitions include shows at Kathryn Markel Fine Arts in New York and Susan Street in San Diego. He is co-author of COLOR BASICS as well as DESIGN BASICS. www.stephenpentak.com."
+    ],
+    "price": "14.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61EX+NTYtRL._SX411_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Cengage Unlimited Video"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/b1057566f379457da3d190d0a706cc6b?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "David A. Lauer (Author),  Stephen Pentak (Author)",
+    "categories": [
+        "Books",
+        "Reference",
+        "Encyclopedias & Subject Guides"
+    ],
+    "details": "{\"Publisher\": \"Cengage Learning; 8th edition (January 1, 2011)\", \"Language\": \"English\", \"Paperback\": \"320 pages\", \"ISBN 10\": \"0495915777\", \"ISBN 13\": \"978-0495915775\", \"Item Weight\": \"2.03 pounds\", \"Dimensions\": \"8.75 x 0.5 x 10.5 inches\"}",
+    "parent_asin": "0495915777",
+    "bought_together": null,
+    "subtitle": "8th Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'David A. Lauer', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

@@ -1,0 +1,59 @@
+{
+    "main_category": "Books",
+    "title": "Learning React Native: Building Native Mobile Apps with JavaScript",
+    "average_rating": 4.0,
+    "rating_number": 61,
+    "features": [
+        "Get a practical introduction to React Native, the JavaScript framework for writing and deploying fully featured mobile apps that look and feel native. With this hands-on guide, you’ll learn how to build applications that target iOS, Android, and other mobile platforms instead of browsers. You’ll also discover how to access platform features such as the camera, user location, and local storage.",
+        "With code examples and step-by-step instructions, author Bonnie Eisenman shows web developers and frontend engineers how to build and style interfaces, use mobile components, and debug and deploy apps. Along the way, you’ll build several increasingly sophisticated sample apps with React Native before putting everything together at the end.",
+        "Learn how React Native provides an interface to native UI components",
+        "Learn how React Native provides an interface to native UI components",
+        "Examine how the framework uses native components analogous to HTML elements",
+        "Examine how the framework uses native components analogous to HTML elements",
+        "Create and style your own React Native components and applications",
+        "Create and style your own React Native components and applications",
+        "Install modules for APIs and features not supported by the framework",
+        "Install modules for APIs and features not supported by the framework",
+        "Get tools for debugging your code, and for handling issues outside of JavaScript",
+        "Get tools for debugging your code, and for handling issues outside of JavaScript",
+        "Put it all together with the Zebreto effective-memorization flashcard app",
+        "Put it all together with the Zebreto effective-memorization flashcard app",
+        "Deploy apps to the iOS App Store and Google’s Play Store",
+        "Deploy apps to the iOS App Store and Google’s Play Store"
+    ],
+    "description": [
+        "About the Author",
+        "Bonnie Eisenman is a software engineer at Codecademy, with previous experience at Fog Creek Software and Google. She has spoken at several conferences on topics ranging from ReactJS to musical programming and Arduinos. In her spare time, she enjoys building electronic musical instruments, tinkering with hardware projects, and laser-cutting chocolate. Find her on Twitter as @brindelle."
+    ],
+    "price": "15.36",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51nVfYng1gL._SX379_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Bonnie Eisenman (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Programming"
+    ],
+    "details": "{\"Publisher\": \"O'Reilly Media; 1st edition (January 19, 2016)\", \"Language\": \"English\", \"Paperback\": \"272 pages\", \"ISBN 10\": \"1491929006\", \"ISBN 13\": \"978-1491929001\", \"Item Weight\": \"1.02 pounds\", \"Dimensions\": \"7.01 x 0.57 x 9.17 inches\"}",
+    "parent_asin": "1491929006",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/71ZclqQnU5L._SY600_.jpg', 'name': 'Bonnie Eisenman', 'about': ['Bonnie Eisenman is a software engineer at Twitter with previous experience at Codecademy, Google, and Fog Creek Software. She has spoken at several conferences on topics ranging from React to musical programming and Arduinos. She is a member of the hackerspace NYC Resistor, and in her spare time, she enjoys building electronic musical instruments, laser-cutting chocolate, and learning languages.', 'You can follow her on Twitter as @brindelle.']}"
+}

@@ -1,0 +1,61 @@
+{
+  "item_id": 35,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Husqvarna Part Number 532106735 Rod Hinge",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+      "This is an O.E.M. authorized part",
+      "Fits various Husqvarna models",
+      "OEM Part Number 532106735",
+      "This is a Husqvarna replacement part",
+      "Part Number 532106735",
+      "This is an O.E.M. part"
+    ],
+    "description": [
+      "This is an O.E.M. authorized part. Fits various Husqvarna models. OEM Part Number 532106735. Made In United states."
+    ],
+    "price": "11.54",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61+VlRSYxlL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/21AM8AGD+8L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/21AM8AGD+8L._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Husqvarna",
+    "categories": [
+      "Patio, Lawn & Garden",
+      "Outdoor Power Tools",
+      "Replacement Parts & Accessories",
+      "Lawn Mower Parts & Accessories",
+      "Lawn Mower Replacement Parts"
+    ],
+    "details": "{\"Product Dimensions\": \"10 x 10 x 0.5 inches\", \"Item Weight\": \"3.68 ounces\", \"Manufacturer\": \"Husqvarna\", \"Item model number\": \"532106735\", \"Best Sellers Rank\": {\"Patio, Lawn & Garden\": 1093392, \"Lawn Mower Parts\": 113071}, \"Is Discontinued By Manufacturer\": \"No\", \"Brand\": \"Husqvarna\", \"Item Dimensions LxWxH\": \"10 x 10 x 0.5 inches\", \"Finish Type\": \"Unfinished\", \"Unit Count\": \"1 Count\"}",
+    "parent_asin": "B013TE6DZO",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Industrial & Scientific",
+      "Industrial Hardware",
+      "Agricultural Machinery Parts"
+    ],
+    "confidence": 0.95
+  }
+}

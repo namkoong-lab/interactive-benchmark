@@ -1,0 +1,68 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Nautica Men's Short Sleeve Solid Oxford Shirt",
+    "average_rating": 4.6,
+    "rating_number": 19,
+    "features": [
+        "98% Cotton, 2% Spandex",
+        "Imported",
+        "Button closure",
+        "Machine Wash",
+        "Buttoned collar; button front closures",
+        "Short sleeves",
+        "J-class logo at chest",
+        "Classic-fit cotton-blend V-neck sweater"
+    ],
+    "description": [
+        "Made from soft stretch cotton, this classic-fit oxford shirt is made to move with you throughout your busy day. Layer under a denim jacket for a cool off-duty look."
+    ],
+    "price": "33.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/716krFR0AZL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71dxf9aRF0L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71QkC0I1XtL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71lwpPB2tmL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91IDoCraiWL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41n5OpftqIL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31Fcj2X-TvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31J9pnCPM3L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31Gnp66k2sL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41MBlm6XH-L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41n5OpftqIL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31Fcj2X-TvL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31J9pnCPM3L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31Gnp66k2sL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41MBlm6XH-L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "SIDE",
+            "BACK",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nautica",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Shirts",
+        "Casual Button-Down Shirts"
+    ],
+    "details": "{\"Item model number\": \"W81155\", \"Department\": \"Mens\", \"Date First Available\": \"October 5, 2020\", \"Manufacturer\": \"Nautica\"}",
+    "parent_asin": "B08KR642H3",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

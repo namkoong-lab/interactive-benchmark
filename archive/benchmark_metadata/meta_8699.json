@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Remington:: The History of a Baltimore Neighborhood (Brief History)",
+    "average_rating": 4.3,
+    "rating_number": 7,
+    "features": [
+        "The North Baltimore neighborhood of Remington has a proud and industrious history. Stone from its quarries built the foundations of homes in the city, and the Jones Falls turned its mills to feed hungry immigrants who found a home in the neighborhood. By the end of World War II, the population of the area began to decline, yet through floods, depressions and even a mosquito plague, generations of residents remained in the neighborhood to help build a tightknit community. Drawing on interviews with locals and her own meticulous research, historian and neighborhood resident Kathleen C. Ambrose chronicles the history of Remington. Join Ambrose as she journeys from Remington's earliest days through the twentieth century--and even as she takes a glimpse at the future of this vibrant community."
+    ],
+    "description": [
+        "About the Author",
+        "Kathleen C. Ambrose is a Baltimore native, and has lived in Remington for more than 15 years. She received an MA from Johns Hopkins in 2011. She is a member of the Maryland, Baltimore County, and Baltimore City Historical Societies as well as the Remington Neighborhood Alliance and Greater Remington Improvement Associations."
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51JH0O54YuL._SX326_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kathleen C. Ambrose (Author)",
+    "categories": [
+        "Books",
+        "History",
+        "Americas"
+    ],
+    "details": "{\"Publisher\": \"The History Press; First Edition (July 2, 2013)\", \"Language\": \"English\", \"Paperback\": \"128 pages\", \"ISBN 10\": \"1626191255\", \"ISBN 13\": \"978-1626191259\", \"Item Weight\": \"8 ounces\", \"Dimensions\": \"6 x 0.31 x 9 inches\"}",
+    "parent_asin": "1626191255",
+    "bought_together": null,
+    "subtitle": "Paperback – July 2, 2013",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Kathleen C. Ambrose', 'about': ['Kathleen C. Ambrose is a native of Baltimore with long ties to the Remington neighborhood. She purchased a home there while attaining her Masters of Liberal Arts from the Johns Hopkins University and has been a \"Remmie\" for the past twenty-five years.']}"
+}

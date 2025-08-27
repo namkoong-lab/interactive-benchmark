@@ -1,0 +1,57 @@
+{
+  "item_id": 1026,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Rusch Inc. Seashells Shells Wall Clock",
+    "average_rating": 3.1,
+    "rating_number": 10,
+    "features": [
+      "Seashells Theme",
+      "White Frame",
+      "10\" in diameter"
+    ],
+    "description": [
+      "10\" Seashells theme wall clock The clock has a plastic,bright, white frame and clear, plastic cover. Requires 1 AA battery(not included) Comes ready to hang ."
+    ],
+    "price": "22.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71kWNAlQNOL._AC_SL1295_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51IadachLyL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51IadachLyL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Rusch Inc.",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Clocks",
+      "Wall Clocks"
+    ],
+    "details": "{\"Brand\": \"Rusch Inc.\", \"Display Type\": \"Analog\", \"Style\": \"Modern\", \"Product Dimensions\": \"10\\\"W x 10\\\"H\", \"Power Source\": \"Battery Powered\", \"Age Range (Description)\": \"Adult\", \"Shape\": \"Round\", \"Material\": \"Plastic\", \"Frame Material\": \"Plastic\", \"Are Batteries Included\": \"false\", \"Mounting Type\": \"Wall Mount\", \"Alarm Clock\": \"No\", \"Operation Mode\": \"Electrical\", \"Is Discontinued By Manufacturer\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B00KKNSXQK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Home Decor",
+      "Clocks"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,45 @@
+{
+    "main_category": "Books",
+    "title": "Le Cordon Bleu Home Collection: Chicken",
+    "average_rating": 4.4,
+    "rating_number": 11,
+    "features": [
+        "From the world's most famous cooking school comes a collection of cookbooks featuring fresh, modern dishes for the home cook. Simple, elegant recipes for all occasions are illustrated with color photos and step-by-step techniques. 30 full-page color photos."
+    ],
+    "description": [
+        "Review",
+        "\"A series that has gone to great lengths to keep ingredients and techniques required within the reach of anyone\" --",
+        "Orlando Sentinel"
+    ],
+    "price": "14.62",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/512CV8KS6VL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kay Halsey (Editor)",
+    "categories": [
+        "Books",
+        "Cookbooks, Food & Wine",
+        "Cooking by Ingredient"
+    ],
+    "details": "{\"Publisher\": \"Periplus Editions (January 1, 1998)\", \"Language\": \"English\", \"Hardcover\": \"64 pages\", \"ISBN 10\": \"9625934359\", \"ISBN 13\": \"978-9625934358\", \"Item Weight\": \"3.2 ounces\", \"Dimensions\": \"8.25 x 0.5 x 9.75 inches\"}",
+    "parent_asin": "9625934359",
+    "bought_together": null,
+    "subtitle": "Hardcover – January 1, 1998",
+    "author": null
+}

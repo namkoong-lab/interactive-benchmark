@@ -1,0 +1,50 @@
+{
+    "main_category": "Grocery",
+    "title": "Stash Tea Tea Wild Rspbry Hbscs",
+    "average_rating": 4.0,
+    "rating_number": 2,
+    "features": [],
+    "description": [
+        "Premium Tea. Natural Flavor."
+    ],
+    "price": "8.15",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81g3XlV7GIL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71BGD33yeoL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/814Af2f-lqL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51rmE7TMtWL.jpg",
+            "https://m.media-amazon.com/images/I/41R8yPUGUGL.jpg",
+            "https://m.media-amazon.com/images/I/41PIb89kMEL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51rmE7TMtWL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41R8yPUGUGL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41PIb89kMEL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Stash",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Beverages",
+        "Tea",
+        "Tea Samplers"
+    ],
+    "details": "{\"Brand\": \"Stash\", \"Item Form\": \"Loose Leaves\", \"Flavor\": \"Raspberry, Hibiscus\", \"Unit Count\": \"1.00 Count\", \"Number of Items\": \"1\", \"Package Dimensions\": \"8.03 x 6.54 x 2.99 inches; 5.64 Ounces\", \"UPC\": \"077652082463\"}",
+    "parent_asin": "B002HFNDVY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

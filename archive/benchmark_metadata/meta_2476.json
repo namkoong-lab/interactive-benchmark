@@ -1,0 +1,63 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "JavaScript: A Beginner's Guide, Fifth Edition",
+    "average_rating": 3.8,
+    "rating_number": 20,
+    "features": [
+        "Get up and running on the latest JavaScript standard using this fully updated beginner’s guide",
+        "This hands-on, fast-paced guide shows, from start to finish, how to create dynamic Web pages complete with special effects using JavaScript. This edition contains updates for all major new features and the latest Web development techniques and practices. You will discover how to extend JavaScript’s capabilities to the server side using Node.js.",
+        "JavaScript: A Beginner's Guide, Fifth Edition",
+        "begins by clearly explaining the fundamentals, including variables, functions, operators, event handlers, objects, arrays, strings, and forms. From there, the book moves on to more advanced techniques, such as debugging, accessibility, and security. Throughout, “Ask the Expert,” “Try This,” notes, tips, and self tests highlight salient points and aid in learning.",
+        "Teaches, step by step, how to get started developing Web applications",
+        "Teaches, step by step, how to get started developing Web applications",
+        "Features detailed examples and downloadable project files",
+        "Features detailed examples and downloadable project files",
+        "Written by an experienced Web developer and JavaScript expert",
+        "Written by an experienced Web developer and JavaScript expert"
+    ],
+    "description": [
+        "From the Publisher",
+        "John Pollock",
+        "is a front-end UX developer who has been working on Web sites since 1995. He has previously operated Web development-related sites which were known for their easy-to-follow HTML and JavaScript tutorials. Pollock has over 20 years of practical experience with JavaScript and the Web.",
+        "--This text refers to the",
+        "paperback",
+        "edition.",
+        "About the Author",
+        "John Pollock",
+        "is a front-end UX developer who has been working on Web sites since 1995. He has previously operated Web development-related sites which were known for their easy-to-follow HTML and JavaScript tutorials. Pollock has over 20 years of practical experience with JavaScript and the Web.",
+        "--This text refers to the",
+        "paperback",
+        "edition."
+    ],
+    "price": "26.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41J9wq82j4L.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "John Pollock (Author)   Format: Kindle Edition",
+    "categories": [
+        "Kindle Store",
+        "Kindle eBooks",
+        "Computers & Technology"
+    ],
+    "details": "{\"Publisher\": \"McGraw Hill; 5th edition (November 8, 2019)\", \"Publication date\": \"November 8, 2019\", \"Language\": \"English\", \"File size\": \"144337 KB\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Not Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"560 pages\", \"Page numbers source ISBN\": \"1260457680\"}",
+    "parent_asin": "B07ZBQJ2YQ",
+    "bought_together": null,
+    "subtitle": "5th Edition, Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/pjugeic6qvsfracnj196ua3r94._SY600_.jpg', 'name': 'John Pollock', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

@@ -1,0 +1,36 @@
+{
+    "main_category": "Books",
+    "title": "Story of Surfing",
+    "average_rating": 3.2,
+    "rating_number": 4,
+    "features": [
+        "A young girl learning to surf dreams that she is part of the great span of surfing history that includes ancient kings and queens of Hawai'i and more modern surfing greats like Duke Kahanamoku and Rell Sunn. In a palette that reflects the rich colors of Hawai'i's skies and sea, Carla Golembe paints and tells a story whose rhythm and rhyme capture the feel of riding a board on Waikiki's fabled waves. The accompanying read-along CD further adds the sounds of Hawai'i. Carla Golembe is the author of numerous books for children, including The Story of Hula, which in 2004 won the Benjamin Franklin Award, presented by the Pubishers Marketing Association."
+    ],
+    "description": [
+        "About the Author",
+        "Carla Golembe is the illustrator of numerous books for children, including The Story of Hula,which in 2004 was a Publisher's Marketing Association Benjamin Franklin Awards Finalist."
+    ],
+    "price": "16.95",
+    "images": {
+        "hi_res": [],
+        "large": [],
+        "thumb": [],
+        "variant": []
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Carla Golembe (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Sports & Outdoors"
+    ],
+    "details": "{\"Publisher\": \"Bess Press (June 1, 2006)\", \"Language\": \"English\", \"Hardcover\": \"32 pages\", \"ISBN 10\": \"157306243X\", \"ISBN 13\": \"978-1573062435\", \"Reading age\": \"6 - 8 years\", \"Grade level\": \"1 - 2\", \"Item Weight\": \"13.6 ounces\", \"Dimensions\": \"8.75 x 0.5 x 11.25 inches\"}",
+    "parent_asin": "157306243X",
+    "bought_together": null,
+    "subtitle": "Hardcover – June 1, 2006",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/91Sj+tenAyL._SY600_.jpg', 'name': 'Carla Golembe', 'about': ['Carla Golembe is a painter illustrator author and teacher. Athough she grew up in Massachusetts she always felt like a tropical soul. She went to graduate school in Mexico and fell in love with the culture climate and natural beauty. When not painting illustrating writing or teaching Carlas favorite things to do are travel to warm places with quiet beaches snorkel and dance.']}"
+}

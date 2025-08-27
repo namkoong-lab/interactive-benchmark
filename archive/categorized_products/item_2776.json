@@ -1,0 +1,51 @@
+{
+  "item_id": 2776,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Spiral - Metal Streetwear - Sleeveless Stone Washed Worker Black",
+    "average_rating": 4.3,
+    "rating_number": 211,
+    "features": [
+      "Denim,Cotton",
+      "Imported",
+      "Pull On closure"
+    ],
+    "description": [
+      "Metal street cred, Spiral style.. Sleeveless Stone Washed Worker Black is made of Stone Washed 100% Cotton, Denim using skin friendly, Azo-free, Reactive dyes."
+    ],
+    "price": "31.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51670a8+fSL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41Q-tYZNv-L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41Q-tYZNv-L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Spiral",
+    "categories": [],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"May 11, 2014\", \"Manufacturer\": \"Spiral Direct Ltd\"}",
+    "parent_asin": "B01DSKKJCW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing"
+    ],
+    "confidence": 0.95
+  }
+}

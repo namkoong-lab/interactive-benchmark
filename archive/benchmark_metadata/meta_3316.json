@@ -1,0 +1,49 @@
+{
+    "main_category": "Grocery",
+    "title": "Fresh Curry Leaves 2 oz. NO STEAMS",
+    "average_rating": 4.2,
+    "rating_number": 214,
+    "features": [],
+    "description": [
+        "NO Stems | Fresh Curry Leaves 2 oz."
+    ],
+    "price": "9.9",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51GPLsqdkEL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51GPLsqdkEL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Dried curry leaves from Ceylon Flavors "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0f3e26a80ac1426f804eece2a2866db9?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "TastePadThai",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Herbs, Spices & Seasonings",
+        "Mixed Spices & Seasonings",
+        "Curry Powder"
+    ],
+    "details": "{\"Item Weight\": \"2 Ounces\", \"Manufacturer\": \"TastePadThai\"}",
+    "parent_asin": "B08B86W9H4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

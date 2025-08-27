@@ -1,0 +1,54 @@
+{
+    "main_category": "Books",
+    "title": "New Mexico Artists at Work",
+    "average_rating": 3.9,
+    "rating_number": 3,
+    "features": [
+        "Through photos and interviews, this book offers an intimate glimpse into the creative spaces and minds of fifty-two New Mexico artists. Among those represented are contemporary painters, sculptors, printmakers, ceramic and textile artists, and video and conceptual artists living in the art capitals of Taos and Santa Fe, and in many remote locales throughout New Mexico."
+    ],
+    "description": [
+        "About the Author",
+        "Dana Newmann",
+        "is a writer, author, and artist whose collages have been exhibited in the United States, Mexico, and South America. She lives with her husband, painter Eugene Newmann, in Ribera, New Mexico.",
+        "Jack Parsons",
+        "is a photographer with a long career of documenting the cultures and landscapes of the Southwest. His photographs are included in numerous publications including",
+        "El Rancho de las Golondrinas: Living History in New Mexico's La Cienega Valley",
+        ",",
+        "Low 'n Slow: Lowriding in New Mexico",
+        ",",
+        "and",
+        "Spanish New Mexico: The Spanish Colonial Arts Society Collection",
+        "(all published by Museum of New Mexico Press)."
+    ],
+    "price": "11.65",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61GMNXDGHCL._SX449_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Dana Newmann (Author),  Parsons Jack (Photographer),  Jack Parsons (Photographer)",
+    "categories": [
+        "Books",
+        "Travel",
+        "United States"
+    ],
+    "details": "{\"Publisher\": \"Museum of New Mexico Press; Illustrated edition (March 13, 2005)\", \"Language\": \"English\", \"Hardcover\": \"176 pages\", \"ISBN 10\": \"0890134391\", \"ISBN 13\": \"978-0890134399\", \"Item Weight\": \"2.68 pounds\", \"Dimensions\": \"9.5 x 1.2 x 10.5 inches\"}",
+    "parent_asin": "0890134391",
+    "bought_together": null,
+    "subtitle": "Hardcover – Illustrated, March 13, 2005",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Dana Newmann', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

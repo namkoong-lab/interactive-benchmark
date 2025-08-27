@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Must Kill TV",
+    "average_rating": 4.2,
+    "rating_number": 130,
+    "features": [
+        "Emmy-winning CHEERS writer Ken Levine presents a brutally honest and hilarious satire on the television industry In order to keep his once-proud TV network afloat, beleaguered president Charles Muncie must keep his number one star happy. By killing his ex-girlfriend. What’s more important? Human life or the Tuesday night line-up? Network television gets royally skewered in this fun, surprising, suspenseful romp. And there are no commercials!"
+    ],
+    "description": [
+        "About the Author",
+        "KEN LEVINE ...is an Emmy winning writer/director/producer/major league baseball announcer. Books include: The Me Generation...By Me (Growing Up in the '60s) (2012),It's Gone...No, Wait a Minute! (Villard 1993) and Where The Hell Am I?: Trips I Have Survived (2011). In a career that has spanned over 30 years Ken has worked on MASH, Cheers, Frasier, The Simpsons, Wings, Everybody Loves Raymond, Becker, Dharma & Greg, and has co-created his own series including Almost Perfect starring Nancy Travis. He and his partner wrote the feature Volunteers starring Tom Hanks. He's the author of the produced play Upfronts & Personal and co-writer of the produced musical The 60s Project. He writes a popular blog, ByKenLevine.com. TIME magazine has named it one of the Top 25 blogs on the internet. Ken has also been the radio/TV play-by-play voice of the Baltimore Orioles, Seattle Mariners, San Diego Padres."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51ZDC+fQxIL._SX322_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ken Levine (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Humor & Satire"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform (November 8, 2013)\", \"Language\": \"English\", \"Paperback\": \"166 pages\", \"ISBN 10\": \"1493674978\", \"ISBN 13\": \"978-1493674978\", \"Item Weight\": \"7 ounces\", \"Dimensions\": \"5.5 x 0.35 x 8.5 inches\"}",
+    "parent_asin": "1493674978",
+    "bought_together": null,
+    "subtitle": "Paperback – November 8, 2013",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/61+AiPBnbPL._SY600_.jpg', 'name': 'Ken Levine', 'about': ['KEN LEVINE', '...is an Emmy winning writer/director/producer/major league baseball announcer. Books include: It’s Gone…No, Wait a Minute! (Villard 1993) and Where The Hell Am I?: Trips I Have Survived (2011).', 'In a career that has spanned over 30 years Ken has worked on MASH, Cheers, Frasier, The Simpsons, Wings, Everybody Loves Raymond, Becker, Dharma & Greg, and has co-created his own series including Almost Perfect starring Nancy Travis. He and his partner wrote the feature Volunteers starring Tom Hanks. He’s the author of the produced play Upfronts & Personal and co-writer of the produced musical The 60s Project.', 'He writes a popular blog, ByKenLevine.com, and is a regular contributor to the Huffington Post.', 'Ken has also been the radio/TV play-by-play voice of the Baltimore Orioles, Seattle Mariners, San Diego Padres']}"
+}

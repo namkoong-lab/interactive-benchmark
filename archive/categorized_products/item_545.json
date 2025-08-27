@@ -1,0 +1,54 @@
+{
+  "item_id": 545,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Widow's Weeds",
+    "average_rating": 4.6,
+    "rating_number": 53,
+    "features": [],
+    "description": [
+      "TRISTANIA WIDOWS WEED"
+    ],
+    "price": "12.95",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/418D0Ra3AaL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/418D0Ra3AaL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Tristania   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "International Music",
+      "Europe",
+      "Scandinavia",
+      "Norway"
+    ],
+    "details": "{\"Language\": \"English\", \"Product Dimensions\": \"5.59 x 0.39 x 4.92 inches; 3.53 Ounces\", \"Manufacturer\": \"NAPAL\", \"Item model number\": \"82 3 00000052\", \"SPARS Code\": \"DDD\", \"Date First Available\": \"January 12, 2007\", \"Label\": \"NAPAL\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00000JCYH",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Albums"
+    ],
+    "confidence": 0.95
+  }
+}

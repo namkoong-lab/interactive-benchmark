@@ -1,0 +1,77 @@
+{
+    "main_category": "Books",
+    "title": "Entanglement",
+    "average_rating": 4.5,
+    "rating_number": 89,
+    "features": [
+        "Can two particles become inextricably linked, so that a change in one is instantly reflected in its counterpart, even if a universe separates them?  Albert Einstein's work suggested it was possible, but it was too bizarre, and too contrary to how we then understood space and time, for him to prove. No one could. Until now.",
+        "Entanglement",
+        "tells the astounding story of the scientists who set out to complete Einstein's work. With accesible language and a highly entertaining tone, Amir Aczel shows us a world where the improbable—from unbreakable codes to teleportation—becomes possible."
+    ],
+    "description": [
+        "Review",
+        "An elegant and simple account of scientific creativity in action. --",
+        "Columbia Daily Spectator",
+        "[",
+        "Entanglement",
+        "is] perhaps the best lay description of the evolution and current state of quantum physics available today. --",
+        "Focus",
+        "About the Author",
+        "Amir D. Aczel, Ph.D.",
+        ", is the author of 17 books on mathematics and science, some of which have been international bestsellers. Aczel has taught mathematics, statistics, and history of science at various universities, and was a visiting scholar at Harvard in 2005-2007. In 2004, Aczel was awarded a Guggenheim Fellowship. He is also the recipient of several teaching awards, and a grant from the American Institute of Physics to support the writing of two of his books. Aczel is currently a research fellow in the history of science at Boston University. The photo shows Amir D. Aczel inside the CMS detector of the Large Hadron Collider (LHC) at CERN, the international laboratory near Geneva, Switzerland, while there to research his new book, \"Present at the Creation: The Story of CERN and the Large Hadron Collider\"--which is about the search for the mysterious Higgs boson, the so-called \"God particle,\" dark matter, dark energy, the mystery of antimatter, Supersymmetry, and hidden dimensions of spacetime.",
+        "Excerpt. © Reprinted by permission. All rights reserved.",
+        "A Mysterious Force of Harmony",
+        "\"Alas, to wear the mantle of Galileo it is not enough that you be persecuted by an unkind establishment, you must also be right.\"",
+        "—Robert Park",
+        "Is it possible that something that happens here will",
+        "instantaneously",
+        "make something happen at a far away location? If we measure something in a lab, is it possible that at the same moment, a similar event takes place ten miles away, on the other side of the world, or on the other side of the universe? Surprisingly, and against every intuition we may possess about the workings of the universe, the answer is",
+        "yes",
+        ". This book tells the story of",
+        "entanglement",
+        ", a phenomenon in which two entities are inexorably linked no matter how far away from each other they may be. It is the story of the people who have spent lifetimes seeking evidence that such a bizarre effect-predicted by the quantum theory and brought to wide scientific attention by Einstein-is indeed an integral part of nature.",
+        "As these scientists studied such effects, and produced definitive evidence that entanglement is a reality, they have also discovered other, equally perplexing, aspects of the phenomenon. Imagine Alice and Bob, two happily married people. WhileAlice is away on a business trip, Bob meets Carol, who is married to Dave. Dave is also away at that time, on the other side of the world and nowhere near any of the other three. Bob and Carol become entangled with each other; they forget their respective spouses and now strongly feel that they are meant to stay a couple forever. Mysteriously, Alice and Dave-who have never met-are now also entangled with each other. They suddenly share things that married people do, without ever having met. If you substitute for the people in this story particles labeled A, B, C, and D, then the bizarre outcome above actually occurs. If particles A and B are entangled, and so are C with D, then we can entangle the separated particles A and D by passing B and C through an apparatus that entangles them together.",
+        "Using entanglement, the state of a particle can also be",
+        "teleported",
+        "to a faraway destination, as happens to Captain Kirk on the television series \"Star Trek\" when he asks to be beamed back up to the",
+        "Enterprise",
+        ". To be sure, no one has yet been able to teleport a person. But the state of a quantum system has been teleported in the laboratory. Furthermore, such incredible phenomena can now be used in cryptography and computing.",
+        "In such futuristic applications of technology, the entanglement is often extended to more than two particles. It is possible to create triples of particles, for example, such that all three are 100% correlated with each other-whatever happens to one particle causes a similar instantaneous change in the other two. The three entities are thus inexorably interlinked, wherever they may be.",
+        "One day in 1968, physicist Abner Shimony was sitting in his office at Boston University. His attention was pulled, as if by a mysterious force, to a paper that had appeared two years earlier in a little-known physics journal. Its author was John Bell, an Irish physicist working in Geneva. Shimony was one of very few people who had both the ability and the desire to truly understand Bell's ideas. He knew that Bell's theorem, as explained and proved in the paper, allowed for the possibility of testing whether two particles, located far apart from each other, could act in concert. Shimony had just been asked by a fellow professor at Boston University, Charles Willis, if he would be willing to direct a new doctoral student, Michael Horne, in a thesis on statistical mechanics. Shimony agreed to see the student, but was not eager to take on a Ph.D. student in his first year of teaching at Boston University. In any case, he said, he had no good problem to suggest in statistical mechanics. But, thinking that Horne might find a problem in the foundations of quantum mechanics interesting, he handed him Bell's paper. As Shimony put it, \"Horne was bright enough to see quickly that Bell's problem was interesting.\" Michael Horne took Bell's paper home to study, and began work on the design of an experiment that would use Bell's theorem.",
+        "Unbeknownst to the two physicists in Boston, at Columbia University in New York, John F. Clauser was reading the same paper by Bell. He, too, was mysteriously drawn to the problem suggested by Bell, and recognized the opportunity for an actual experiment. Clauser had read the paper by Einstein, Podolsky, and Rosen, and thought that their suggestion was very plausible. Bell's theorem showed a discrepancy between quantum mechanics and the \"local hidden variables\" interpretation of quantum mechanics offered by Einstein and his colleagues as an alternative to the \"incomplete\" quantum theory, and Clauser was excited about the possibility of an experiment exploiting this discrepancy. Clauser was skeptical, but he couldn't resist testing Bell's predictions. He was a graduate student, and everyone he talked to told him to leave it alone, to get his Ph.D., and not to dabble in science fiction. But Clauser knew better. The key to quantum mechanics was hidden within Bell's paper, and Clauser was determined to find it.",
+        "Across the Atlantic, a few years later, Alain Aspect was feverishly working in his lab in the basement of the Center for Research on Optics of the University of Paris in Orsay. He was racing to construct an ingenious experiment: one that would prove that two photons, at two opposite sides of his lab, could instantaneously affect each other. Aspect was led to his ideas by the same abstruse paper by John Bell.",
+        "In Geneva, Nicholas Gisin met John Bell, read his papers and was also thinking about Bell's ideas. He, too, was in the race to find an answer to the same crucial question: a question that had deep implications about the very nature of reality. But we are getting ahead of ourselves. The story of Bell's ideas, which goes back to a suggestion made thirty-five years earlier by Albert Einstein, has its origins in humanity's quest for knowledge of the physical world. And in order to truly understand these deep ideas, we must return to the past.",
+        "Read more"
+    ],
+    "price": "9.25",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41ecynWb0fL._SX290_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Amir Aczel (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Physics"
+    ],
+    "details": "{\"Publisher\": \"Plume; Reissue edition (September 30, 2003)\", \"Language\": \"English\", \"Paperback\": \"304 pages\", \"ISBN 10\": \"0452284570\", \"ISBN 13\": \"978-0452284579\", \"Reading age\": \"18 years and up\", \"Item Weight\": \"9.3 ounces\", \"Dimensions\": \"8.25 x 0.75 x 5 inches\"}",
+    "parent_asin": "0452284570",
+    "bought_together": null,
+    "subtitle": "Paperback – September 30, 2003",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/51JNlBwGUuL._SY600_.jpg', 'name': 'Amir D. Aczel', 'about': ['Amir D. Aczel, Ph.D., is the author of 17 books on mathematics and science, some of which have been international bestsellers. Aczel has taught mathematics, statistics, and history of science at various universities, and was a visiting scholar at Harvard in 2005-2007. In 2004, Aczel was awarded a Guggenheim Fellowship. He is also the recipient of several teaching awards, and a grant from the American Institute of Physics to support the writing of two of his books. Aczel is currently a research fellow in the history of science at Boston University. The photo shows Amir D. Aczel inside the CMS detector of the Large Hadron Collider (LHC) at CERN, the international laboratory near Geneva, Switzerland, while there to research his new book, \"Present at the Creation: The Story of CERN and the Large Hadron Collider\"--which is about the search for the mysterious Higgs boson, the so-called \"God particle,\" dark matter, dark energy, the mystery of antimatter, Supersymmetry, and hidden dimensions of spacetime.', \"See Amir D. Aczel's webpage: http://amirdaczel.com\", 'Video on CERN and the Large Hadron Collider: http://www.youtube.com/watch?v=-Ncx8TE2JMo']}"
+}

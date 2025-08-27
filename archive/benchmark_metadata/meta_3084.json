@@ -1,0 +1,79 @@
+{
+    "main_category": "Grocery",
+    "title": "Gefen Solid White Tuna in Oil, 9 Ounce, 3 Count",
+    "average_rating": 4.7,
+    "rating_number": 2,
+    "features": [
+        "Gluten free",
+        "Kosher for Passover and all year"
+    ],
+    "description": [
+        "Gefen foods is your leading wholesale food distributor in the kosher market today. We are devoted to providing great tasting qualitative and health-conscious foods to our consumers across the globe. Gluten free. Kosher for Passover and all year."
+    ],
+    "price": "16.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71jq7DkaLVL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71z+teX4l-L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71NuoRW5ERL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71qsJOm+mJL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81LZLPCecbL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81w6GU31QVL._SL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/71yc5tbE+oL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51lXy7M5RTL._SL1050_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31yoOEqHFWL.jpg",
+            "https://m.media-amazon.com/images/I/51Ly9JyjQ0L.jpg",
+            "https://m.media-amazon.com/images/I/31LjA5H+rwL.jpg",
+            "https://m.media-amazon.com/images/I/51s77jT6H2L.jpg",
+            "https://m.media-amazon.com/images/I/419sbRB24nL.jpg",
+            "https://m.media-amazon.com/images/I/41fYlv4+rFL.jpg",
+            "https://m.media-amazon.com/images/I/31lT6+GEhML.jpg",
+            "https://m.media-amazon.com/images/I/51-82XNyBWL.jpg",
+            "https://m.media-amazon.com/images/I/41wavJZ6TEL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31yoOEqHFWL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51Ly9JyjQ0L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31LjA5H+rwL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51s77jT6H2L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/419sbRB24nL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41fYlv4+rFL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31lT6+GEhML._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51-82XNyBWL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41wavJZ6TEL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT12",
+            "FACT",
+            "INGR"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Gefen",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Meat & Seafood",
+        "Seafood",
+        "Fresh Seafood",
+        "Fresh Fish",
+        "Tuna"
+    ],
+    "details": "{\"Package Dimensions\": \"7.8 x 2.9 x 1.7 inches; 9 Ounces\", \"UPC\": \"710069121911\", \"Manufacturer\": \"Gefen\"}",
+    "parent_asin": "B005A7SUGE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

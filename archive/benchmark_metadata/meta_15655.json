@@ -1,0 +1,57 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "New Republic Men's Barclay Suede Driver",
+    "average_rating": 4.4,
+    "rating_number": 36,
+    "features": [
+        "Imported",
+        "Rubber sole",
+        "CLASSIC STYLE: Timeless driver construction with rubber pebble outsole inserts",
+        "DETAILED CRAFTSMANSHIP: Classic penny loafer band detail with side hand stitchings",
+        "UNMATCHED QUALITY: Upper made with high quality, hand-sewn cowhide suede leather",
+        "ALL-DAY COMFORT: Padded insole for extra comfort and 100% leather lining and footbed for breathability"
+    ],
+    "description": [
+        "Real suede classic driver in a versatile dirty buck color. Rubber pebble outsole with a padded insole for extra comfort. Because on the weekend the last thing you want to do is put on another damn dress shoe. Get this real suede driver into your wardrobe ASAP so you can look sharp off duty too."
+    ],
+    "price": "75.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71ijX6KkhBL._AC_UL1385_.jpg",
+            "https://m.media-amazon.com/images/I/71nfS4mkyBL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71MOBkL3d6L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41XU4FMmDYL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/318jlFvipWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Z+V75NhKL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41XU4FMmDYL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/318jlFvipWL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41Z+V75NhKL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "New Republic",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Shoes",
+        "Loafers & Slip-Ons"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"January 13, 2019\"}",
+    "parent_asin": "B07TLP8735",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

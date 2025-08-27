@@ -1,0 +1,48 @@
+{
+    "main_category": "Books",
+    "title": "Frida Kahlo/Frida Kahlo",
+    "average_rating": 4.7,
+    "rating_number": 2,
+    "features": [
+        "Book by Kenneth Kuenster"
+    ],
+    "description": [
+        "Review",
+        "The book is pure fiction, sometimes touching lightly on fantasy but always returning to earth with a ripe pungency. --",
+        "Mendocino Beacon, March 2, 2000",
+        "This episodic novel conjure[s] Kahlo as a mutable entity living through three artists as they navigate life, love and art. --",
+        "Publisher's Weekly, August 16, 1999",
+        "From the Publisher",
+        "Derivitive of Michael Cunningham's acclaimed re-envisioning of the famous persona of Mrs. Dalloway in The Hours, FRIDA KAHLO/FRIDA KAHLO is still charming readers with its three generations of Frida Kahlos."
+    ],
+    "price": "8.88",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41J3T50R6SL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kenneth Kuenster (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction"
+    ],
+    "details": "{\"Publisher\": \"Creative Arts Book Co (December 1, 1999)\", \"Language\": \"English\", \"Paperback\": \"126 pages\", \"ISBN 10\": \"0887391990\", \"ISBN 13\": \"978-0887391996\", \"Item Weight\": \"7.2 ounces\", \"Dimensions\": \"6 x 0.25 x 9 inches\"}",
+    "parent_asin": "0887391990",
+    "bought_together": null,
+    "subtitle": "Paperback – December 1, 1999",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/51H0ZzXZ0nL._SY600_.jpg', 'name': 'Kenneth Kuenster', 'about': [\"Kenneth Kuenster is the author of Frida Kahlo / Frida Kahlo as well as God's Kettledrum and The Annunciationist. He has been writing for 15 years and has also been a painter and a photographer. He has a MFA from Yale.\"]}"
+}

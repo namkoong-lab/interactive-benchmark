@@ -1,0 +1,50 @@
+{
+    "main_category": "Books",
+    "title": "Total Business 2 (Total Business: Providing a complete package for the world of work)",
+    "average_rating": 4.7,
+    "rating_number": 21,
+    "features": [
+        "Each Student's Book contains twelve modules divided into the core lessons of Business topic, Business skills and Learning strategies. This module division of material makes it flexible to the needs and requirements of each class. The class CD is packaged in the back of the book."
+    ],
+    "description": [
+        "About the Author",
+        "John Hughes has worked in ELT for twenty years as a teacher, teacher trainer and director of studies. Currently, he runs training courses, both face-to-face and online. He is also an author with over 20 ELT books. His books for Cengage Learning and National Geographic Learning include Spotlight on FCE, Practical Grammar, Total Business and the new six-level National Geographic course for adult learners called Life."
+    ],
+    "price": "50.92",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41M4e2YPEpL._SX350_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Save with Cengage Unlimited"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/36c14a36439f4e5cb1f69857f5aedc32?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "John Hughes (Author)",
+    "categories": [
+        "Books",
+        "New, Used & Rental Textbooks",
+        "Humanities"
+    ],
+    "details": "{\"Publisher\": \"MC/Summertown ELT; 1st edition (April 1, 2009)\", \"Language\": \"English\", \"ISBN 10\": \"0462098656\", \"ISBN 13\": \"978-0462098654\", \"Item Weight\": \"15.9 ounces\", \"Dimensions\": \"8.27 x 0.28 x 11.69 inches\"}",
+    "parent_asin": "0462098656",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": null
+}

@@ -1,0 +1,48 @@
+{
+    "main_category": "Books",
+    "title": "Kissed by the Moon",
+    "average_rating": 4.8,
+    "rating_number": 92,
+    "features": [
+        "May you, my baby, sleep softly at night, and when dawn lights the world, may you wake up to birdsong.",
+        "Part poem, part lullaby, this gentle story celebrates a baby's wonder at our beautiful world. From Australia's favorite picture-book creator, Alison Lester, comes a timeless book to share and to treasure."
+    ],
+    "description": [
+        "About the Author",
+        "Alison Lester",
+        "is a children's book author. She has won numerous prestigious awards, including the Children's Book Council of Australia (CBCA) Picture Book of the Year Award for",
+        "Are We There Yet?",
+        "Alison Lester became Australia's first Children's Book Laureate in 2012, and in 2016, was awarded the Dromkeen Medal for her outstanding achievement in the creation of Australian children's and young adult literature."
+    ],
+    "price": "from 8.73",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51rQGUFSJlL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Alison Lester (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Growing Up & Facts of Life"
+    ],
+    "details": "{\"Publisher\": \"Puffin AU; Illustrated edition (June 1, 2019)\", \"Language\": \"English\", \"Board book\": \"32 pages\", \"ISBN 10\": \"0143789759\", \"ISBN 13\": \"978-0143789758\", \"Reading age\": \"Baby - 5 years\", \"Grade level\": \"2 - Kindergarten\", \"Item Weight\": \"12 ounces\", \"Dimensions\": \"8.25 x 0.6 x 6.5 inches\"}",
+    "parent_asin": "0143789759",
+    "bought_together": null,
+    "subtitle": "Board book – June 1, 2019",
+    "author": null
+}

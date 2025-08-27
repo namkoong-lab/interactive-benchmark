@@ -1,0 +1,52 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Carter's Just One Baby Boys' Long-Sleeve Footed Blanket Sleeper",
+    "average_rating": 4.2,
+    "rating_number": 10,
+    "features": [
+        "100% Polyester",
+        "Zipper front with snap tab at neckline closure",
+        "Zips from ankle to chin",
+        "No-slip gripper footies",
+        "Ribbed neck and cuffs",
+        "100% polyester microfleece",
+        "Machine washable"
+    ],
+    "description": [
+        "Crafted in snuggly fleece, this 1-piece takes him from playtime to bedtime in no time! Zip-up design makes for quick changes and easy dressing. Chemically treated? No way! Carter's polyester is flame resistant... Phew!"
+    ],
+    "price": "14.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81DjmK5jioL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Vca4Gtu0L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Vca4Gtu0L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Carter's",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Baby",
+        "Baby Boys",
+        "Clothing",
+        "Sleepwear & Robes",
+        "Blanket Sleepers"
+    ],
+    "details": "{\"Department\": \"baby-boys\", \"Date First Available\": \"November 29, 2021\"}",
+    "parent_asin": "B09MQJ1Y6P",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

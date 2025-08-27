@@ -1,0 +1,62 @@
+{
+    "main_category": "Books",
+    "title": "Windows 8: Out of the Box",
+    "average_rating": 3.8,
+    "rating_number": 110,
+    "features": [
+        "Get a real feel for Windows 8 with a wealth of tips in this step-by-step guide. After using Windows 7 or XP, learning Microsoft’s latest operating system takes some adjustment. Never fear. Windows expert Mike Halsey starts with the basics and then takes you through the trickier parts of Microsoft’s latest operating system. You’ll quickly learn how to make the most of Windows 8 for work and entertainment, whether you use a touchscreen tablet, a laptop, or a PC with a keyboard and mouse.",
+        "Easily navigate the intuitive Windows 8 interface",
+        "Easily navigate the intuitive Windows 8 interface",
+        "Use email and the Internet—and keep your family safe",
+        "Use email and the Internet—and keep your family safe",
+        "Share files online or with other devices in your home",
+        "Share files online or with other devices in your home",
+        "Download and use all kinds of of apps and programs",
+        "Download and use all kinds of of apps and programs",
+        "Watch movies and listen to music",
+        "Watch movies and listen to music",
+        "Import, view, and edit your own photos and videos",
+        "Import, view, and edit your own photos and videos",
+        "Learn how to use extra hardware and older software",
+        "Learn how to use extra hardware and older software",
+        "Use expert tips to keep your computer running smoothly",
+        "Use expert tips to keep your computer running smoothly",
+        "Discover cool stuff that makes computer use really easy",
+        "Discover cool stuff that makes computer use really easy"
+    ],
+    "description": [
+        "About the Author",
+        "Mike Halsey is the author of several Windows books including Troubleshooting Windows 7 Inside Out and the Windows 8 Power Users Guide. He is a Microsoft MVP (Most Valuable Professional) awardee and a recognized Windows expert.He regularly makes help, how-to and troubleshooting videos and holds live webcasts on the first Thursday of every month for O'Reilly.Other previous roles have included spending several years as a club-singer and working as a photographer.Mike has an open mailbag and always welcomes questions and comments from readers. He sincerely hopes you have enjoyed this book and that you will consider reviewing it online.He lives in an eco-home in Sheffield (Yorkshire, UK) with his rescue border collie, Jed."
+    ],
+    "price": "3.36",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51+LP3NlE-L._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mike Halsey (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Operating Systems"
+    ],
+    "details": "{\"Publisher\": \"O'Reilly Media, Inc.; First Edition (October 18, 2012)\", \"Language\": \"English\", \"Paperback\": \"124 pages\", \"ISBN 10\": \"1449326641\", \"ISBN 13\": \"978-1449326647\", \"Item Weight\": \"6.9 ounces\", \"Dimensions\": \"6 x 0.3 x 9 inches\"}",
+    "parent_asin": "1449326641",
+    "bought_together": null,
+    "subtitle": "First Edition",
+    "author": null
+}

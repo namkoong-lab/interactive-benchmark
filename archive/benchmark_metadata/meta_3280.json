@@ -1,0 +1,43 @@
+{
+    "main_category": "Grocery",
+    "title": "Paradise Red Pineapple Wedges Candied Fruit Glaze 1 pound",
+    "average_rating": 4.9,
+    "rating_number": 29,
+    "features": [
+        "Fresh and Delicious",
+        "Free Shipping"
+    ],
+    "description": [
+        "Candied Red Pineapple Wedges. A delicious, sweet glazed fruit for your Fruit Cake or baked goods recipes. This listing is for a 1 pound container of Paradise Candied Red Pineapple Wedges."
+    ],
+    "price": "22.75",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/817mc-6d9kL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51YOWN51TmL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51YOWN51TmL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Paradise",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Canned, Packaged & Baking"
+    ],
+    "details": "{\"Item Weight\": \"1.1 Pounds\", \"UPC\": \"709257481234\", \"Manufacturer\": \"Paradise, Inc. - Plant City, Florida\"}",
+    "parent_asin": "B01LZDEQYQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

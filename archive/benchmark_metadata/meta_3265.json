@@ -1,0 +1,53 @@
+{
+    "main_category": "Grocery",
+    "title": "Good Sense Whole Almonds, No Salt, 20 Pound",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Delicious whole roasted and no Salt almonds",
+        "Good source of protein",
+        "All Natural",
+        "Great for snacking",
+        "Excellent topper for salads and baked goods"
+    ],
+    "description": [
+        "Our whole roasted and no Salt almonds are the perfect snack for a healthy lifestyle and great source of protein."
+    ],
+    "price": "218.63",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/31z6W32l73L._SL1282_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51cEYsbw-wL.jpg",
+            "https://m.media-amazon.com/images/I/11sCaTH+U0L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51cEYsbw-wL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/11sCaTH+U0L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "INGR"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Good Sense",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Cooking & Baking",
+        "Nuts & Seeds",
+        "Almonds"
+    ],
+    "details": "{\"Flavor\": \"Roasted\", \"Brand\": \"Good Sense\", \"Item Weight\": \"20 Pounds\", \"Item Form\": \"Whole\", \"Package Weight\": \"20.9 Pounds\", \"Package Dimensions\": \"14.1 x 11.5 x 7.9 inches; 20 Pounds\", \"Manufacturer\": \"Good Sense\", \"Domestic Shipping\": \"Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.\", \"International Shipping\": \"This item is not eligible for international shipping.  Learn More\"}",
+    "parent_asin": "B0C7HLKL26",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

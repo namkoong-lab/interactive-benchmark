@@ -1,0 +1,56 @@
+{
+    "main_category": "Industrial & Scientific",
+    "title": "uxcell A15060900ux0983 5 Piece 5D-15 NTC MOV Varistor Voltage Dependent Resistors",
+    "average_rating": 4.4,
+    "rating_number": 105,
+    "features": [
+        "Product Name : Voltage Dependent Resistor;Model : NTC 5D-15",
+        "Color : Black;Material : Metal, Plastic",
+        "Body Size : 15x 6.5mm/ 0.6\"x 0.26\"(D x H);Lead Size : 20mm x 1mm / 0.79\" x 0.04\" (L x D)",
+        "Lead Spacing : 8mm/ 0.3\";Weight : 13g",
+        "Package Content : 5 x Voltage Dependent Resistors"
+    ],
+    "description": [
+        "1. The voltage dependent resistor is small size and it is easy to install. 2. The Voltage Dependent Resistor is designed to protect equipments against transient voltage spikes. 3. Connected directly across the power supply rail, when a voltage spike is encounter, the varistor rapidly changes impedance from its normal high impedance state while in standby mode, to a very low level, permitting absorption of the unwanted high voltage and protecting voltage sensitive components and circuits from damage."
+    ],
+    "price": "6.49",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51WNjOP37mL._SL1100_.jpg",
+            "https://m.media-amazon.com/images/I/51WNjOP37mL._SL1100_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41zw9Cne09L.jpg",
+            "https://m.media-amazon.com/images/I/41zw9Cne09L.jpg",
+            "https://m.media-amazon.com/images/I/31QRujoKuzL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41zw9Cne09L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41zw9Cne09L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31QRujoKuzL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "uxcell",
+    "categories": [
+        "Industrial & Scientific",
+        "Industrial Electrical",
+        "Circuit Protection Products",
+        "Varistors"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"1.57 x 0.59 x 0.26 inches; 0.35 Ounces\", \"Item model number\": \"a15060900ux0983\", \"Date First Available\": \"October 8, 2015\", \"Manufacturer\": \"Uxcell\", \"Country of Origin\": \"China\"}",
+    "parent_asin": "B015AUEXBQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,61 @@
+{
+  "item_id": 1022,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Egyptian Musk Body Oil [Regular Cap - Gold - 8 oz.]",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+      "Bottle Material: Clear Glass",
+      "Style: Regular Cap",
+      "Size: 8 oz.",
+      "Color: Gold"
+    ],
+    "description": [
+      "Egyptian Musk Body Oil Regular Cap - Gold - 8 oz. Our Eyes of Horus Collection of Body Oils are 100% pure, uncut, and alcohol free."
+    ],
+    "price": "47.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61yI4fikBUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51qOFQWJIIL._SL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31mG8AU+zpL.jpg",
+        "https://m.media-amazon.com/images/I/31kItPHFQpL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31mG8AU+zpL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/31kItPHFQpL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Cultural Exchange",
+    "categories": [
+      "Health & Household",
+      "Health Care",
+      "Alternative Medicine",
+      "Aromatherapy"
+    ],
+    "details": "{\"Brand\": \"Cultural Exchange\", \"Item Form\": \"Oil\", \"Unit Count\": \"8.0 Ounce\", \"Number of Items\": \"1\", \"Item Volume\": \"8 Fluid Ounces\", \"Manufacturer recommended age\": \"1 month and up\", \"Item model number\": \"1058\", \"Manufacturer\": \"Cultural Exchange\"}",
+    "parent_asin": "B07GXBJWCW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Beauty",
+      "Fragrances"
+    ],
+    "confidence": 0.95
+  }
+}

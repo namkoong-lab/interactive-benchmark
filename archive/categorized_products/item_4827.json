@@ -1,0 +1,75 @@
+{
+  "item_id": 4827,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Reebok Women's Z Dual Ride Running Shoes",
+    "average_rating": 3.9,
+    "rating_number": 8,
+    "features": [],
+    "description": [
+      "Lightweight mesh upper for breathable comfortLow-cut design for added mobility and freedom of movementInspired by sports car tires, the Z-rated midsole geometry is designed for improved handling and tractionMedial and lateral synthetic overlays for added structure and supportDual density bottom for responsive cushioning"
+    ],
+    "price": "79.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61CgaQeRNNL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61yM4aWjFLL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/615FlQOekqL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/51zRIwSXauL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61lrpXwAneL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61hneNvg7CL._AC_UL1200_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41tx4KADdRL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41ugWttCsLL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41oujPiYjFL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/312KthApC6L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41alLhlfG+L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41lOW8ISB2L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41tx4KADdRL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41ugWttCsLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41oujPiYjFL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/312KthApC6L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41alLhlfG+L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41lOW8ISB2L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Reebok",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Athletic",
+      "Running",
+      "Road Running"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"April 1, 2016\", \"Manufacturer\": \"REEBOK\"}",
+    "parent_asin": "B07C7QZPNJ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Running Shoes"
+    ],
+    "confidence": 0.95
+  }
+}

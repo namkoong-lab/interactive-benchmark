@@ -1,0 +1,88 @@
+{
+  "item_id": 741,
+  "metadata": {
+    "main_category": "Grocery",
+    "title": "Lipton Herbal Supplement, Bedtime Bliss, 15 ct",
+    "average_rating": 4.5,
+    "rating_number": 260,
+    "features": [
+      "Lipton Bedtime Bliss Herbal Supplement sings you to sleep*, like a lullaby in a cup *This statement has not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease",
+      "Lipton Bedtime Bliss Herbal Supplement has a light taste with hints of mint and chamomile, and aroma of orange peel",
+      "Naturally caffeine free, carefully selected botanicals are blended with chamomile essential oils to make every cup delicious.",
+      "Enjoy a nightly cup of Lipton Bedtime Bliss to supplement your varied, balanced diet",
+      "Makes 15 servings of Lipton Bedtime Bliss caffeine free herbal supplement per carton"
+    ],
+    "description": [
+      "Embrace your sweetest dreams and brightest mornings with the Lipton Bedtime Bliss Caffeine-Free Herbal Supplement, containing chamomile, mint, and orange peel. Bedtime Bliss is an herbal infusion that sings you to sleep, like a lullaby in a cup*. Carefully selected botanicals are blended with chamomile essential oils to make every cup delicious. Enjoy a nightly cup of Lipton Bedtime Bliss to supplement your varied, balanced diet. Wellbeing by Lipton. Feel Happy & Healthy. The New Lipton Wellness range - made with carefully selected botanicals and blended with essential oils, helps make wellbeing a part of your everyday routine – in just 4-6 minutes of brew time. Each item in the Lipton Wellness Range is crafted for those moments in life when you need some extra self-care. The new Lipton Wellness range comes in five varieties: - Stress Less: A comforting, cozy Herbal infusion to help you unwind* - Detox: This Herbal and Green infusion is the perfect companion to clean eating* - Soothe Your Tummy: An Herbal infusion for those times your tummy feels less than its best* - Bedtime Bliss: An Herbal infusion that sings you to sleep, like a lullaby in a cup* - Daily Support: An excellent source of Vitamin C, this Herbal infusion helps support your body’s natural defenses* *This statement has not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease"
+    ],
+    "price": "6.55",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81dlbd1W19S._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91+TQCKjf4L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71kngpox0ES._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61r7KOsgLwS._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91VPQXeREwL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71r4loBBb7S._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51M3r3HcIeS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51SxwdGejzL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41klYfvTWsS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31xVV0EthLS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51ISbR+z5hL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31MirnXHNoS._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51M3r3HcIeS._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51SxwdGejzL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41klYfvTWsS._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31xVV0EthLS._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ISbR+z5hL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31MirnXHNoS._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK",
+        "FACT",
+        "INGR",
+        "LEFT",
+        "RGHT"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Our Point of View on Lipton Soothe Your Tummy  Herbal Tea ",
+        "The science behind our products",
+        "Lipton Herbal Supplement Soothe Your Tummy"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0ba29298ed0b4821bb68f3fa8ab2b7ab?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/025d8ee611e04cc99beeca77c66c27c9?ref=dp_vse_rvc_1",
+        "https://www.amazon.com/vdp/d53dcc9739b448b38551f27eef7852ed?ref=dp_vse_rvc_2"
+      ],
+      "user_id": [
+        "/shop/influencer-20a38664",
+        "",
+        ""
+      ]
+    },
+    "store": "Lipton",
+    "categories": [
+      "Health & Household",
+      "Vitamins, Minerals & Supplements",
+      "Blended Vitamin & Mineral Supplements"
+    ],
+    "details": "{\"Item Form\": \"Bag\", \"Brand\": \"Lipton\", \"Age Range (Description)\": \"Adult\", \"Diet Type\": \"Kosher\", \"Material Feature\": \"Caffeine Free\", \"Product Dimensions\": \"3.63 x 3.63 x 4.38 inches; 1.76 Ounces\", \"Date First Available\": \"September 4, 2017\", \"Manufacturer\": \"Unilever\", \"Country of Origin\": \"USA\"}",
+    "parent_asin": "B0C522KFS6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Grocery"
+    ],
+    "confidence": 0.9
+  }
+}

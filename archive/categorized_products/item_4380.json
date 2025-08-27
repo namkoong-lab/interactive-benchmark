@@ -1,0 +1,59 @@
+{
+  "item_id": 4380,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "AzureBella Jewelry Solid Copper Hammered 8mm Band Ring Made in The USA",
+    "average_rating": 4.1,
+    "rating_number": 255,
+    "features": [
+      "If the SOLD BY is anyone other than AzureBella Jewelry, you will not receive an AzureBella product",
+      "Width of 8mm",
+      "Made in the USA",
+      "Hammered solid copper"
+    ],
+    "description": [
+      "Solid copper ring with 8mm hammered band. Made in the USA!"
+    ],
+    "price": "14.75",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51HJ-AxiAGL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41420hmlNkL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41420hmlNkL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "AzureBella Jewelry",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Jewelry",
+      "Rings",
+      "Bands"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"June 10, 2016\"}",
+    "parent_asin": "B01GVQJBLU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Women's Rings"
+    ],
+    "confidence": 0.95
+  }
+}

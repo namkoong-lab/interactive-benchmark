@@ -1,0 +1,46 @@
+{
+    "main_category": "Amazon Home",
+    "title": "One Large Plastic Easter Egg - Fill with Candy",
+    "average_rating": 2.5,
+    "rating_number": 7,
+    "features": [
+        "This is for ONE egg per sale",
+        "Large plastic fillable egg",
+        "Two halves snap together to make a large plastic egg with a transparent top",
+        "Measures 7 inches long x 5 inches wide",
+        "Colors vary"
+    ],
+    "description": [
+        "Large plastic fillable egg"
+    ],
+    "price": "10.29",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41rg-1ZAKAL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41rg-1ZAKAL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Montery Limited",
+    "categories": [
+        "Home & Kitchen",
+        "Furniture"
+    ],
+    "details": "{\"Package Dimensions\": \"7.7 x 5.2 x 2.7 inches\", \"Item Weight\": \"4 ounces\", \"Department\": \"unisex-child\", \"Manufacturer\": \"Montery Limited\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3659201, \"Furniture\": 236926}, \"Is Discontinued By Manufacturer\": \"No\"}",
+    "parent_asin": "B004RWIO4Q",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

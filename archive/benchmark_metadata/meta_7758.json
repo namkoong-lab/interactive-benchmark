@@ -1,0 +1,58 @@
+{
+    "main_category": "Books",
+    "title": "The Candymakers",
+    "average_rating": 4.6,
+    "rating_number": 2026,
+    "features": [
+        "Four children have been chosen to compete in a national competition to find the tastiest confection in the country. Who will invent a candy more delicious than the Oozing Crunchorama or the Neon Lightning Chew?",
+        "Logan, the Candymaker's son, who can detect the color of chocolate by touch alone? Miles, the boy who is allergic to merry-go-rounds and the color pink?  Daisy, the cheerful girl who can lift a fifty-pound lump of taffy like it's a feather?  Or Philip, the suit-and-tie wearing boy who's always scribbling in a secret notebook? This sweet, charming, and cleverly crafted story, told from each contestant's perspective, is filled with mystery, friendship, and juicy revelations."
+    ],
+    "description": [
+        "About the Author",
+        "Wendy Mass",
+        "is the",
+        "New York Times",
+        "bestselling author of",
+        "The Candymakers",
+        ",",
+        "Pi in the Sky, Every Soul a Star",
+        ",",
+        "Jeremy Fink and the Meaning of Life",
+        ", and",
+        "A Mango-Shaped Space",
+        ".",
+        "Michael Brawer",
+        "spent 15 years as a teacher in New Jersey. An avid reader of science fiction, he has written curricula for courses on the subject. Wendy and Michael live with their family in New Jersey."
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61xcsTF0QxL._SX509_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Wendy Mass (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Growing Up & Facts of Life"
+    ],
+    "details": "{\"Publisher\": \"Little, Brown Books for Young Readers; Reprint edition (October 3, 2011)\", \"Language\": \"English\", \"Paperback\": \"480 pages\", \"ISBN 10\": \"0316002593\", \"ISBN 13\": \"978-0316002592\", \"Reading age\": \"8 - 12 years, from customers\", \"Lexile measure\": \"740L\", \"Grade level\": \"3 - 7\", \"Item Weight\": \"14.4 ounces\", \"Dimensions\": \"5.25 x 1.55 x 7.65 inches\"}",
+    "parent_asin": "0316002593",
+    "bought_together": null,
+    "subtitle": "Paperback – October 3, 2011",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/712o3qqd7pnbrtsdu9inr5romu._SY600_.jpg', 'name': 'Wendy Mass', 'about': ['Wendy Mass is the author of 29 books for young readers including A Mango-Shaped Space; Jeremy Fink and the Meaning of Life; the Willow Falls and Space Taxi series; and \"Bob\" co-written with Rebecca Stead (author of When you Reach Me).']}"
+}

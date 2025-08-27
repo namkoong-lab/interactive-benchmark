@@ -1,0 +1,67 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "White Mountain Shoes Women's Uplifting Slip-on Sneaker",
+    "average_rating": 4.5,
+    "rating_number": 49,
+    "features": [
+        "Rubber sole",
+        "Cushioned insole",
+        "Stretch knit upper fabric",
+        "Sporty outsole"
+    ],
+    "description": [
+        "The Uplifting high-top sneaker by White Mountain Shoes, has so much to offer! A minimalist approach to the athleisure trend, this breathable mesh style is lightweight and flexible. A pull tab at the back makes it easy to slip these on and go."
+    ],
+    "price": "49.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81Sj5wVI0lS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81Hd2hRxImS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71NJdvOmRdS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/714II0-XEIS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81cJLY6eW6S._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51SYPUaCLkS._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31cww5K6HuS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31Q2koJ1A1S._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31Ey364fOjS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31q7BY7f0sS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31UFFs0496S._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21oDbIPIqMS._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31cww5K6HuS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31Q2koJ1A1S._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31Ey364fOjS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31q7BY7f0sS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31UFFs0496S._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/21oDbIPIqMS._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "WHITE MOUNTAIN",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Fashion Sneakers"
+    ],
+    "details": "{\"Product Dimensions\": \"14.9 x 12.4 x 5 inches; 2.5 Pounds\", \"Item model number\": \"W31905\", \"Department\": \"Womens\", \"Date First Available\": \"May 20, 2021\", \"Manufacturer\": \"White Mountain\"}",
+    "parent_asin": "B097FGZBF6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

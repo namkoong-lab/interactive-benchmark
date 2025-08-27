@@ -1,0 +1,55 @@
+{
+  "item_id": 285,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Eagle's Nest Devil's Cave",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+      "Product Description",
+      "Metal/prog/gypsy/syncopated insanity. Violin, Bass, Drums. Bob Pycior (violin) is also in O'Death, Tris Palozzolo (drums) is also in Rad Rocket and Grandchildren. Skeletonbreath is always on tour.",
+      "Review",
+      "Skeletonbreath is truly one of the most original bands not only in the instrumental scene, but in the music scene in general. --Punknews.orgNot the raging metal band you might expect from the name, Skeletonbreath is an innovative violin-bass-drums trio whose highly intricate instrumentals find the common ground between chamber music, klezmer and hard hitting art-rock. --Time Out New YorkThe East Coast instrumental trio combines bass, violin and drums to create dark and melodic, yet oddly catchy songs that'd make a sweet soundtrack for a haunted house in a rural Eastern Euro village. --Detroit Metro Times"
+    ],
+    "price": "12.83",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/61GYb03r9FL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/61GYb03r9FL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Skeletonbreath   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Indie & Alternative",
+      "Indie & Lo-Fi",
+      "Indie Rock"
+    ],
+    "details": "{\"Package Dimensions\": \"5.55 x 4.97 x 0.54 inches; 3.28 Ounces\", \"Manufacturer\": \"Ernest Jenning\", \"Date First Available\": \"April 2, 2009\", \"Label\": \"Ernest Jenning\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0024CJYQI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Cultural & World Music"
+    ],
+    "confidence": 0.85
+  }
+}

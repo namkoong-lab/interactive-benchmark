@@ -1,0 +1,68 @@
+{
+  "item_id": 4517,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Dublin Airflow CDT Long Sleeve Tech Competition Top",
+    "average_rating": 4.6,
+    "rating_number": 4,
+    "features": [
+      "Mesh",
+      "Comfort Dry Technology Fabric",
+      "Advanced Moisture Control",
+      "Mesh Underarm Panels",
+      "1/4 Zip-Through Placket",
+      "Self-Fabric Stand Up Collar"
+    ],
+    "description": [
+      "Features Comfort Dry Technology fabric that will perform for you no matter what the weather, providing moisture control for all-day comfort. A great everyday layering option that will keep you warm, dry, and comfortable. Mesh underarm panels for ventilation."
+    ],
+    "price": "28.82",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71DTqjhHb0L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71J3L0z8LGL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71rxovLJR0L._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31DybR9x5TL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31v1tsAz7RL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41y7AU2s1LL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31DybR9x5TL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31v1tsAz7RL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41y7AU2s1LL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Dublin",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Sport Specific Clothing",
+      "Equestrian Sports",
+      "Women",
+      "Shirts"
+    ],
+    "details": "{\"Item Package Dimensions L x W x H\": \"11.5 x 6.97 x 1.73 inches\", \"Package Weight\": \"0.21 Kilograms\", \"Brand Name\": \"Dublin\", \"Color\": \"White/Aqua\", \"Material\": \"Polyester, Rayon\", \"Suggested Users\": \"womens\", \"Manufacturer\": \"WeatherBeeta\", \"Part Number\": \"1001261020\", \"Style\": \"Top\", \"Size\": \"X-Large\", \"Sport Type\": \"Riding\", \"Best Sellers Rank\": {\"Clothing, Shoes & Jewelry\": 8063199, \"Women's Equestrian Tournament Blouses\": 928}, \"Date First Available\": \"January 28, 2020\"}",
+    "parent_asin": "B089B3K6NN",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,45 @@
+{
+    "main_category": "Computers",
+    "title": "RiteAV - Coax Coupler",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "Female to Female",
+        "Used for joining two coaxial cable tv wires."
+    ],
+    "description": [
+        "RiteAV - Coax Coupler Female to Female"
+    ],
+    "price": "6.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41AA3GBeqCL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41AA3GBeqCL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "RiteAV",
+    "categories": [
+        "Electronics",
+        "Computers & Accessories",
+        "Computer Accessories & Peripherals",
+        "Computer Cable Adapters"
+    ],
+    "details": "{\"Brand\": \"RiteAV\", \"Item model number\": \"Amazon 84-1-N\", \"Item Weight\": \"1 pounds\", \"Manufacturer\": \"RiteAV\", \"Date First Available\": \"August 23, 2007\"}",
+    "parent_asin": "B000V1PB4S",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

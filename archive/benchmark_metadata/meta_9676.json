@@ -1,0 +1,37 @@
+{
+    "main_category": "Digital Music",
+    "title": "TRIO +1",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "CD ALBUM"
+    ],
+    "price": "57.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31948GD8JFL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31948GD8JFL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rob Wasserman   Format: Audio CD",
+    "categories": [],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.55 x 4.97 x 0.54 inches; 2.83 Ounces\", \"Manufacturer\": \"UNIVERSAL VICTOR\", \"Date First Available\": \"December 28, 2012\", \"Label\": \"UNIVERSAL VICTOR\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00005GT12",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,46 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Nike Men's Competition Running Shoes",
+    "average_rating": 4.5,
+    "rating_number": 320,
+    "features": [
+        "Rubber sole",
+        "Nike MEN'S SIZE 10 Air Zoom Pegasus 36 Shield Running Shoes"
+    ],
+    "description": [
+        "An icon, bad weather proof The Nike Air Zoom Pegasus 36 Shield is updated for wet days. The water-repellent upper combines with a sole designed for maximum grip on wet surfaces to run safely even in bad weather. The lightweight material has a waterproof finish to keep your foot dry even in wet conditions. Sealed seams insulate from water. The grooved sole design drains water quickly for effective traction. Soft rubber provides an ideal fit."
+    ],
+    "price": "89.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71lH4JRmP0L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/415AZ02dB7L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/415AZ02dB7L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nike",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Baby",
+        "Baby Girls",
+        "Shoes",
+        "Sneakers"
+    ],
+    "details": "{\"Item model number\": \"AQ8005\", \"Department\": \"baby-boys\", \"Date First Available\": \"November 6, 2017\", \"Manufacturer\": \"Nike\"}",
+    "parent_asin": "B07VRFNVDN",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

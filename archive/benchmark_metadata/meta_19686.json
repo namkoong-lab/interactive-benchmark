@@ -1,0 +1,42 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Space Dogs",
+    "average_rating": 4.3,
+    "rating_number": 120,
+    "features": [],
+    "description": [
+        "The exciting, animated tale based on the true story of Belka and Strelka; two Russian dogs sent to space in 1960. A circus dog and a stray dog embark on an out-of-this-world adventure to become the world's most famous canine cosmonauts!"
+    ],
+    "price": "12.49",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71Oaa0YwX5L._SL1297_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51q4ocn-FCL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51q4ocn-FCL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Inna Evlannikova  (Director),     Ushakov Svyatoslav  (Director)    Rated:    G    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Studio Specials",
+        "Sony Pictures Home Entertainment",
+        "All Sony Pictures Titles"
+    ],
+    "details": "{\"Genre\": \"Family\", \"Format\": \"AC-3, Dolby, NTSC, DTS Surround Sound, Widescreen\", \"Contributor\": \"Ushakov Svyatoslav, Inna Evlannikova\", \"Language\": \"English\", \"Runtime\": \"1 hour and 40 minutes\", \"MPAA rating\": \"G (General Audience)\", \"Product Dimensions\": \"7.5 x 0.7 x 5.4 inches; 2.72 Ounces\", \"Item model number\": \"25128932\", \"Director\": \"Inna Evlannikova, Ushakov Svyatoslav\", \"Media Format\": \"AC-3, Dolby, NTSC, DTS Surround Sound, Widescreen\", \"Run time\": \"1 hour and 40 minutes\", \"Release date\": \"July 1, 2016\", \"Studio\": \"Sony Pictures Home Entertainment\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B006QWC33S",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

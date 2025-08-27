@@ -1,0 +1,69 @@
+{
+  "item_id": 4074,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Ali & Jay Women's Head in The Clouds Mini",
+    "average_rating": 4.7,
+    "rating_number": 6,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Pull On closure",
+      "Dry Clean Only",
+      "Contemporary fit",
+      "Off the shoulder"
+    ],
+    "description": [
+      "There are two sides to every woman, Ali & Jay allows every customer to capture their sophisticated side as well as edgier side all in one line. Ali & Jay collaborated their different personalities to create this line that is perfect for the woman who is always on-trend and fashion forward, always aware of what's going on and looks to fill her closet with styles that can bring her from her desk to dinner."
+    ],
+    "price": "32.94",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71emwjwj-kS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/715jwMn+KdS._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31Dq4glPRlS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31Y4b6qX-uS._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31Dq4glPRlS._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31Y4b6qX-uS._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Ali & Jay Women's Head in The Clouds Mini"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/208ab1d522ff4ec38dced6adb5935ee7?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "Ali & Jay",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Dresses"
+    ],
+    "details": "{\"Item model number\": \"706-0487\", \"Department\": \"womens\", \"Date First Available\": \"March 26, 2019\", \"Manufacturer\": \"Ali & Jay\"}",
+    "parent_asin": "B07Q1F7Y28",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Dresses"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,41 @@
+{
+    "main_category": "Digital Music",
+    "title": "Beethoven: Fidelio",
+    "average_rating": 4.4,
+    "rating_number": 18,
+    "features": [],
+    "description": [
+        "DGG 4531062; DEUTSCHE GRAMMOPHON - Germania; Classica Lirica"
+    ],
+    "price": "32.65",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51OAFe8hHYL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51OAFe8hHYL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ludwig van Beethoven  (Composer),     Ferenc Fricsay  (Conductor),     Bavarian State Orchestra  (Orchestra),     Leonie Rysanek  (Performer),     Irmgard Seefried  (Performer),     Ernst Haefliger  (Performer),     Kieth Engen  (Performer),     Dietrich Fischer-Dieskau  (Performer),     Gottlob Frick  (Performer),     Friedrich Lenz  (Performer)    &                   7                  more   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Classical",
+        "Chamber Music"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"4.92 x 5.59 x 0.51 inches; 4.16 Ounces\", \"Manufacturer\": \"Deutsche Grammophon\", \"Item model number\": \"028945310626\", \"SPARS Code\": \"ADD\", \"Date First Available\": \"July 27, 2006\", \"Label\": \"Deutsche Grammophon\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000024ZB2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

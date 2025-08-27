@@ -1,0 +1,66 @@
+{
+  "item_id": 1815,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Occasion Gallery Gold Napkin Ring, Sparkling Square Design, 4 Piece Set",
+    "average_rating": 4.0,
+    "rating_number": 5,
+    "features": [
+      "4 Piece Napkin Ring Set",
+      "Home Décor, Table Accessories",
+      "Special Occasions, Events, Holidays"
+    ],
+    "description": [
+      "Gold Napkin Ring, Sparkling Square Design , 4 Piece Set"
+    ],
+    "price": "26.4",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71+i8Bmp3SL._AC_SL1001_.jpg",
+        "https://m.media-amazon.com/images/I/71zut+9hJGL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61LRkEgnfDL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/618lHESkJvL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/515YwBUBbwL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31ofAFE3ZtL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/618lHESkJvL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/515YwBUBbwL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/31ofAFE3ZtL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Occasion Gallery",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen & Table Linens",
+      "Accessories",
+      "Napkin Rings"
+    ],
+    "details": "{\"Manufacturer\": \"TCC\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 1431876, \"Napkin Rings\": 5670}, \"Is Discontinued By Manufacturer\": \"No\", \"Number of pieces\": \"4\", \"Batteries required\": \"No\", \"Import\": \"Imported\", \"Color\": \"Sparkling Gold\", \"Brand\": \"Occasion Gallery\", \"Style\": \"Modern\", \"Shape\": \"Square\"}",
+    "parent_asin": "B00SDW811W",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Kitchenware",
+      "Tableware"
+    ],
+    "confidence": 0.9
+  }
+}

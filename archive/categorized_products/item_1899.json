@@ -1,0 +1,59 @@
+{
+  "item_id": 1899,
+  "metadata": {
+    "main_category": "All Electronics",
+    "title": "Targus PA075U Mobile Docking Station (USB 2.0)",
+    "average_rating": 2.7,
+    "rating_number": 5,
+    "features": [
+      "Device Type - Docking Station",
+      "Compliance - FCC , CE",
+      "Exterior Dimensions - 5.75 x 2.25 x 0.66 inches",
+      "Includes - 3-foot USB cable B type to A type connector , AC adapter---5.0V, 2.0 Amp , Driver CD"
+    ],
+    "description": [
+      "The new USB 2.0 high-speed Mobile Docking Station is a portable, low-cost alternative to traditional bulky desktop docking stations. It provides support for both legacy (serial, parallel and PS/2) and USB 2.0 devices. Ideal for home, office or on the road, the Mobile Docking Station is small, lightweight and designed for the mobile lifestyle."
+    ],
+    "price": "26.99",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31W1BD3HP8L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31W1BD3HP8L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Targus",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Computer Accessories & Peripherals",
+      "Cables & Accessories",
+      "Cables & Interconnects",
+      "USB Cables"
+    ],
+    "details": "{\"Product Dimensions\": \"7.75 x 3.75 x 11.39 inches\", \"Item Weight\": \"0.87 Pounds\", \"Item model number\": \"PA075U\", \"Is Discontinued By Manufacturer\": \"Yes\", \"Date First Available\": \"March 8, 2005\", \"Manufacturer\": \"Targus\", \"Language\": \"English\", \"Brand\": \"Targus\", \"Color\": \"Black\", \"Hardware Interface\": \"USB\", \"Compatible Devices\": \"PC\", \"Item Dimensions LxWxH\": \"7.75 x 3.75 x 11.39 inches\", \"Number of Ports\": \"2\"}",
+    "parent_asin": "B0002U3RV2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Electronics",
+      "Computer Accessories"
+    ],
+    "confidence": 0.95
+  }
+}

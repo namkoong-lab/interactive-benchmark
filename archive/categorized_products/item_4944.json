@@ -1,0 +1,89 @@
+{
+  "item_id": 4944,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Koolaburra by UGG Women's Yosha Sneaker",
+    "average_rating": 4.5,
+    "rating_number": 66,
+    "features": [
+      "Made in USA or Imported",
+      "Ethylene Vinyl Acetate sole",
+      "Engineered knit upper",
+      "Ortholite comfort foam insoles",
+      "Knit jersey sockliner",
+      "EVA midsole",
+      "EVA outsole"
+    ],
+    "description": [
+      "Giving meaning to when the rubber meets the road. A sleek slip-on trainer that is as functional as it is stylish. This sporty knit upper with Ortholite comfort foam insoles and built-in sockliners will surely become a steady sidekick."
+    ],
+    "price": "74.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71LjO7I-ujL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71gvEgy7MpL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61+n1grJjwL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/614mO6wrBEL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71HLxnxS1nL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71d0gy3dbOL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71+U31jMKfL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71pm7DfJD+L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31AoVLq3C6L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/411-tozOHKL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31LNDS7dr4L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21WiI1G-9+L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31i63K1d1EL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31zqrjX73qL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31Sgjgbd2EL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31OtUQBIuqL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31AoVLq3C6L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/411-tozOHKL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31LNDS7dr4L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21WiI1G-9+L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31i63K1d1EL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31zqrjX73qL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31Sgjgbd2EL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31OtUQBIuqL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Koolaburra by UGG",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Fashion Sneakers"
+    ],
+    "details": "{\"Item model number\": \"1120475\", \"Department\": \"womens\", \"Date First Available\": \"September 29, 2020\", \"Manufacturer\": \"Koolaburra by UGG\"}",
+    "parent_asin": "B08KG6QYY7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Sneakers"
+    ],
+    "confidence": 0.95
+  }
+}

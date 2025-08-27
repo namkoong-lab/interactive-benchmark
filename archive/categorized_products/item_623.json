@@ -1,0 +1,62 @@
+{
+  "item_id": 623,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Primal Young",
+    "average_rating": 4.5,
+    "rating_number": 17,
+    "features": [],
+    "description": [
+      "Amazon.com",
+      "After a seven-year absence from the studio, country-rock \"outlaw\" Steve Young (writer of",
+      "Waylon Jennings",
+      "'s \"Lonesome, On'ry and Mean\") has scored a spectacular return to form with this gorgeously sung, intriguingly varied collection. Young moves from knockout to knockout here, nailing his primordial mountain-music rant \"East Virginia,\" the exclamatory protest \"Worker's Song (A Handful of Earth),\" and even an unearthly, slow take of",
+      "Lloyd Price",
+      "'s classic R&B tune, \"Lawdy Miss Clawdy,\" before turning down the flame for a heart-wrenching stroll through",
+      "Merle Haggard",
+      "'s \"Sometimes I Dream.\" He even gets in a little honky-tonkin' on",
+      "Tom T. Hall",
+      "'s \"The Year Clayton Delaney Died.\" His own ballad, \"No Longer Will My Heart Be Truly Breaking,\" displays not only his voice--which has never sounded better--but also the eclectic, blues-folk-country songwriting style that's made him impossible to categorize but nearly puts him in a class by himself.",
+      "--Robert Baird"
+    ],
+    "price": "5.19",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31CTP6oiIBL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31CTP6oiIBL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Steve Young   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Country",
+      "Today's Country"
+    ],
+    "details": "{\"Language\": \"English\", \"Product Dimensions\": \"5.64 x 0.38 x 5 inches; 3.35 Ounces\", \"Manufacturer\": \"Appleseed Records\", \"Date First Available\": \"December 10, 2006\", \"Label\": \"Appleseed Records\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0000488TO",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Albums"
+    ],
+    "confidence": 0.95
+  }
+}

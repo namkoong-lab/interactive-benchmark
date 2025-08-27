@@ -1,0 +1,69 @@
+{
+    "main_category": null,
+    "title": "LEA Networks Wall Plug 802.3at 30W Gigabit Power Over Ethernet (PoE) UL Listed Midspan Injector",
+    "average_rating": 4.0,
+    "rating_number": 2,
+    "features": [
+        "True 30 watt 802.3af/at power delivery, fully compliant to IEEE standards.",
+        "Combines gigabit ethernet and 52Vdc power over one ethernet cable to supply data and power to remote equipment.",
+        "Simple and functional direct plug-in design eliminates power cord, making installations cleaner.",
+        "Unit can be secured to the outlet or wall to prevent inadvertent unplugging.",
+        "The BoxPower30 has carrier grade performance and reliability, and is UL Listed to UL60950-1. Compliant to UL985, UL1023, and UL1637 (Fire, Security, Medical systems)."
+    ],
+    "description": [
+        "LEA Network’s BoxPower30 PoE unit can save time and money by utilizing existing ethernet cabling to delivery data and power to network equipment compliant to 802.3af (PoE) or 802.3at (PoE+). To power non-PoE equipment, utilize an off-the-shelf PoE power splitter.",
+        "Make difficult to power remote equipment installations simple, using one Cat5e ethernet cable to delivery data and power.",
+        "High quality, carrier grade PoE injector simply and safely powers network equipment such as IP cameras, wireless access points, LED connected lighting, IP phones, or LTE/WiFi antennas.",
+        "Easy plug and play installation, with wall or outlet mount security fastener, and ethernet cord cable tie points. Secures the unit and cabling to prevent accidental disconnection.",
+        "Connects to any existing router port or remote jack to power remote network equipment. Avoid investing in multi-port solutions requiring long cable runs, wasting DC power. Plugging the injector close to the remote equipment maximizes power delivery.",
+        "Auto-detection handshake protects accidental connection to non-PoE equipment, preventing any equipment damage.",
+        "Part of LEA Networks whole home and business networking solutions system. Designed and developed in France and the USA. UL Listed for safety and performance assurance."
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61ftcuTpBhL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61VJ0ieH+zL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61fu8ZYiq5L._SL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/61JatzErrVL._SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31jH-E9z2BL.jpg",
+            "https://m.media-amazon.com/images/I/313cJNPwD4L.jpg",
+            "https://m.media-amazon.com/images/I/31If-s6M9tL.jpg",
+            "https://m.media-amazon.com/images/I/41fSa+xgHEL.jpg",
+            "https://m.media-amazon.com/images/I/41nXy4W4qdL.jpg",
+            "https://m.media-amazon.com/images/I/21s3m1pgsSL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31jH-E9z2BL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/313cJNPwD4L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31If-s6M9tL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41fSa+xgHEL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41nXy4W4qdL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/21s3m1pgsSL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "LEA Networks",
+    "categories": [],
+    "details": "{\"Brand\": \"LEA Networks\", \"Connector Type\": \"RJ45\", \"Cable Type\": \"Ethernet\", \"Compatible Devices\": \"Router\", \"Color\": \"White\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"1.69 x 2.91 x 4.6 inches; 8.8 Ounces\", \"Item model number\": \"BoxPower0030NEMA-A\", \"Date First Available\": \"May 15, 2015\", \"Manufacturer\": \"LEA Networks\", \"Country of Origin\": \"China\"}",
+    "parent_asin": "B01NC1QFEU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

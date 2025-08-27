@@ -1,0 +1,66 @@
+{
+  "item_id": 5764,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Columbia Creek to Peak Short",
+    "average_rating": 4.4,
+    "rating_number": 51,
+    "features": [
+      "100% Other Fibers",
+      "Imported",
+      "Elastic closure",
+      "Machine Wash",
+      "27.5\" center back.",
+      "MTR filament fleece.",
+      "Quick drying. Security pocket. Integrated removable belt. Partial elastic at waist."
+    ],
+    "description": [
+      "Being an industry leader in outdoor apparel and products takes passion, and an understanding of people who love the outdoors as much as we do. That's why, from cutting edge technology, to our innovative heritage in Bugaboo, our jackets, pants, fleece, boots, and shoes are all tested tough so you can enjoy the outdoors longer."
+    ],
+    "price": "45.04",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61cOE0bFIwL._AC_UL1002_.jpg",
+        "https://m.media-amazon.com/images/I/61hIxmy0TfL._AC_UL1002_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41aNrsXlMAL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Fw0Wjku8L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41aNrsXlMAL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41Fw0Wjku8L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Columbia",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Active",
+      "Active Shorts"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Department\": \"mens\", \"Date First Available\": \"June 25, 2016\", \"Manufacturer\": \"Columbia (Sporting Goods)\"}",
+    "parent_asin": "B01HJNZ8S4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Shorts"
+    ],
+    "confidence": 0.95
+  }
+}

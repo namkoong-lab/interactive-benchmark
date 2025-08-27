@@ -1,0 +1,89 @@
+{
+  "item_id": 5050,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Five Ten Men's Canyoneer 3 Water Shoe",
+    "average_rating": 3.4,
+    "rating_number": 19,
+    "features": [
+      "Neoprene/Polyester Mesh",
+      "Rubber sole",
+      "Stealth S1 rubber outsole",
+      "Increased lug height",
+      "Welded rubber rands",
+      "Tuck-away lace pouch",
+      "Molded poly-urethane (PU) svelte heel cage"
+    ],
+    "description": [
+      "Five Ten, the Brand of the Brave, is a leader in performance, high-friction footwear. From downhill mountain bike racing to rock climbing, from wing suit flying to kayaking, Five Ten makes footwear for the world's most dangerous sports. The Redlands, California-based company has been producing cutting-edge designs and proprietary Stealth rubber soles for nearly 30 years. With the help of top national and international athletes and guides, combined with a world-class rubber-testing and R&D facility, Five Ten is the shoe brand of choice for the world's most exciting athletes."
+    ],
+    "price": "143.29",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81Wp5iWEQkL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71vzk2QyGML._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71B6j4koo2L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71W+cUzaUFL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/710ddWEQNrL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81o6oVhqHiL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81aigUvKg1L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81dg2MG3H+L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41ncIy63ppL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41-2DAbi4hL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41AJoNhG3mL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41mc6Ie5VLL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41n+utkVNqL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41VLyj9pQVL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51uaT2IxC0L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41rcZ7QCbvL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41ncIy63ppL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41-2DAbi4hL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41AJoNhG3mL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41mc6Ie5VLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41n+utkVNqL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41VLyj9pQVL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51uaT2IxC0L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41rcZ7QCbvL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Five Ten",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Shoes",
+      "Athletic",
+      "Water Shoes"
+    ],
+    "details": "{\"Package Dimensions\": \"12 x 8 x 4 inches; 1.1 Pounds\", \"Item model number\": \"Canyoneer 3-M\", \"Department\": \"mens\", \"Date First Available\": \"March 28, 2015\", \"Manufacturer\": \"Five Ten\"}",
+    "parent_asin": "B00O61W3V8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

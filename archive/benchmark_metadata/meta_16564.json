@@ -1,0 +1,56 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Zumba Fitness LLC Stellar Sheer Jacket",
+    "average_rating": 4.1,
+    "rating_number": 5,
+    "features": [
+        "100% Nylon",
+        "Imported",
+        "Hand Wash Only",
+        "Signature ZUMBA logo print on back"
+    ],
+    "description": [
+        "Rock the Stellar Sheer Jacket for a spotlight stealing look. Wear it over any of the great Zumba tops to your next class."
+    ],
+    "price": "36.63",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81gfoYEiRsL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71a6QTz6WvL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71axfRJG37L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41sy3DAHfJL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31PolbfgafL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41kcwEcYVUL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41sy3DAHfJL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31PolbfgafL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41kcwEcYVUL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Zumba Fitness LLC",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Women"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"Z1T00345-P\", \"Department\": \"Womens\", \"Date First Available\": \"July 21, 2012\", \"Manufacturer\": \"Zumba Fitness LLC\"}",
+    "parent_asin": "B008NJYRO0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

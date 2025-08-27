@@ -1,0 +1,72 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Star Citizen Navigator",
+    "average_rating": 3.3,
+    "rating_number": 7,
+    "features": [
+        "Star Citizen",
+        "Star Citizen Database",
+        "Star Map",
+        "Starship pledge"
+    ],
+    "description": [
+        "All the information from the promising game of Chris Roberts, Star Citizen. Keep your plannings on while you are offline. Too much cargo, too many systems, too much to explore? No problem...just.... don't get alone into the void. Star Citizen Navigator, fan-developed app. The application will allow the player to view all the basic info related to the game: Maps, Systems, Starships, Equipment, News... This app is far from finished and your suggestions are valuable for the future development. The Copyright of the designs and content is: Cloud Imperium Games Corporation and Roberts Space Industries Corp. Feedback, coments and suggestions in the Star Citizen forum: https://forums.robertsspaceindustries.com/discussion/155564/star-citizen-navigator-android-app-version-0-0-3-beta So many thanks to all Beer/Coffee donors!!! v.0.1 (v.0.0.7): Navigation menu reworked and simplified. Tabs improved, icons instead of text (Bottom page). Swipe gestures (Side menu). M50 Stats Updated. New starship images (M50, Freelancer, 300Series...). New background (Dashboard). Dashboard rebuilt. Rihlah System updated."
+    ],
+    "price": "0.99",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/81DBFA0LnWL.jpg",
+            "https://m.media-amazon.com/images/I/81OvJckiUhL.jpg",
+            "https://m.media-amazon.com/images/I/91G13QrIgzL.jpg",
+            "https://m.media-amazon.com/images/I/91Mr21UYxjL.jpg",
+            "https://m.media-amazon.com/images/I/81TEXz1735L.jpg",
+            "https://m.media-amazon.com/images/I/91Bag1cLPlL.jpg",
+            "https://m.media-amazon.com/images/I/61zyrs+I2BL.jpg"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Diga Desarrollos",
+    "categories": [],
+    "details": "{\"Release Date\": \"2014\", \"Date first listed on Amazon\": \"August 30, 2014\", \"Developed By\": \"Diga Desarrollos\", \"Size\": \"14.5MB\", \"Version\": \"0.30\", \"Application Permissions\": [\"Access information about networks\", \"Open network sockets\"], \"Minimum Operating System\": \"Android 2.3.3\", \"Approximate Download Time\": \"Less than 2 minutes\"}",
+    "parent_asin": "B00N4OCHVE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

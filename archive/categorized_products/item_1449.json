@@ -1,0 +1,59 @@
+{
+  "item_id": 1449,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Beistle Happy Birthday Foil Streamer-1 Pc, Multicolored",
+    "average_rating": 3.3,
+    "rating_number": 6,
+    "features": [
+      "This item is a great value!",
+      "1 per package",
+      "Birthday party item",
+      "Jointed Streamers for festive occasions",
+      "High Quality"
+    ],
+    "description": [
+      "Beistle 55234 Foil Happy Birthday Streamer. This birthday streamer measures 8.25\" x 8 foot. Great way to let others know it is someone's birthday."
+    ],
+    "price": "7.03",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71LbuPFSPsL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/3134sZHELdL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/3134sZHELdL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Beistle",
+    "categories": [
+      "Home & Kitchen",
+      "Event & Party Supplies",
+      "Decorations",
+      "Streamers"
+    ],
+    "details": "{\"Product Dimensions\": \"11.5 x 9.75 x 0.25 inches\", \"Item Weight\": \"1.6 ounces\", \"Manufacturer\": \"The Beistle Company\", \"Item model number\": \"55234\", \"Best Sellers Rank\": {\"Toys & Games\": 946156, \"Party Streamers\": 4162}, \"Date First Available\": \"July 3, 2013\"}",
+    "parent_asin": "B079B7GTNH",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Toys & Games",
+      "Party Supplies",
+      "Decorations"
+    ],
+    "confidence": 0.95
+  }
+}

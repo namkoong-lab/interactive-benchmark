@@ -1,0 +1,57 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Jessica Howard Women's Belted Jersey",
+    "average_rating": 3.0,
+    "rating_number": 5,
+    "features": [
+        "96% Polyester, 4% Spandex",
+        "Pull On closure",
+        "Dry Clean Only",
+        "Removable belt",
+        "Cap sleeve"
+    ],
+    "description": [
+        "One piece short sleeve scoop nk belted column dress"
+    ],
+    "price": "39.53",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71XGkLqOKZL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71ypPjb7BPL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91XBP0fUqpL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/416xdJ5NAuL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41XY3CiJc7L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51KAMRvaM1L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/416xdJ5NAuL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41XY3CiJc7L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51KAMRvaM1L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jessica Howard",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Dresses",
+        "Casual"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"JH2M6581\", \"Department\": \"womens\", \"Date First Available\": \"June 8, 2012\", \"Manufacturer\": \"Jessica Howard Dresses\"}",
+    "parent_asin": "B007IS25F0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

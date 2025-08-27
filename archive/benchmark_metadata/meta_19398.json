@@ -1,0 +1,46 @@
+{
+    "main_category": "Prime Video",
+    "title": "Christmas Joy",
+    "average_rating": 4.6,
+    "rating_number": 23,
+    "features": [
+        "IMDb 6.4",
+        "1 h 24 min",
+        "2018",
+        "7+"
+    ],
+    "description": [
+        "A Hallmark Channel original movie. Joy (Danielle Panabaker) returns home to help her Aunt Ruby pull off a winning Cookie Crawl. Childhood friend Ben Andrews (Matt Long) helps Joy open her heart to the magic of the season."
+    ],
+    "price": "9.59",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Drama",
+        "Kids",
+        "Romance"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Monika Mitchell\"], \"Producers\": [\"Greg Malcolm\", \"Simon Richardson\", \"Vicki Sotheran\"], \"Starring\": [\"Danielle Panabaker\", \"Matt Long\"]}",
+    "parent_asin": "B0B6Q46R2G",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

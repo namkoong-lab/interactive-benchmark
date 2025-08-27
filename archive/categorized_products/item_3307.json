@@ -1,0 +1,57 @@
+{
+  "item_id": 3307,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Kate Spade New York 'Leroy Street' Stacy Leather Continental Wallet, Black",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+      "Kate Spade New York"
+    ],
+    "description": [
+      "Kate Spade New York 'Leroy Street' Stacy Leather Continental Wallet, Black"
+    ],
+    "price": "127.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51uU+J28PcL._AC_UL1001_.jpg",
+        "https://m.media-amazon.com/images/I/61egnqI+LXL._AC_UL1001_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41YJUVjOSPL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Gpj4KlTLL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41YJUVjOSPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Gpj4KlTLL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Kate Spade New York",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Designer Shoes & Handbags"
+    ],
+    "details": "{\"Brand\": \"Kate Spade New York\", \"Material\": \"Leather\", \"Pattern\": \"Solid\", \"Age Range (Description)\": \"Kid\", \"Lining Description\": \"Leather\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.2 x 4.3 x 1.3 inches; 4.8 Ounces\", \"Item model number\": \"Style # wlru1894\", \"Date First Available\": \"February 11, 2014\"}",
+    "parent_asin": "B00MNIWLOA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Wallets"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "item_id": 3620,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Merrell Kids' Bare Steps H20 Water Shoe",
+    "average_rating": 4.7,
+    "rating_number": 336,
+    "features": [
+      "Made in the USA or Imported",
+      "Rubber sole",
+      "Water friendly upper and linings plus alternative closure for easy on/off",
+      "Extra-wide toe box and outsole with rounded edges allow for proper foot development",
+      "Footbed is 10% recycled EVA while the outsole is made of 20% recycled rubber",
+      "Multi-directional flex grooves in outsole for maximum flexibility",
+      "Flexible, non-marking outsole with extra grip"
+    ],
+    "description": [
+      "Merrell’s BARE STEPS H2O is the superhero of water shoes — innovative design featuring an extra wide toe box, flexible, barefoot feel, alternative closure for easy on/off, and superior durability and traction. Bring on summer!"
+    ],
+    "price": "39.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71y9oqnNloL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/715U-Ib3l2L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71kiSGz3NTL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71AENs6nnyL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/717Dd2ZpTZL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/717H3-Xy81L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41ciOvfVBbL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/416Pjpwgi+L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41NOQkWu3FL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41U6W9zyaML._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41mTj8FZUIL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41wG6JBaPVL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41ciOvfVBbL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/416Pjpwgi+L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41NOQkWu3FL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41U6W9zyaML._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41mTj8FZUIL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41wG6JBaPVL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT06"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Merrell Kids' Bare Steps H20 Water Shoe 360 Video"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0b70a03b585a498ab5d10ecbcaefe3ef?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "Merrell",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Boys",
+      "Shoes",
+      "Athletic",
+      "Water Shoes"
+    ],
+    "details": "{\"Item Weight\": \"3.6 Ounces\", \"Item model number\": \"ML262612\", \"Department\": \"Unisex-child\", \"Date First Available\": \"February 6, 2019\", \"Manufacturer\": \"Merrell\"}",
+    "parent_asin": "B07F3P69X2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Girls' Clothing",
+      "Children's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

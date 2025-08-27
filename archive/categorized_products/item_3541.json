@@ -1,0 +1,65 @@
+{
+  "item_id": 3541,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Joe's USA Mens Long Sleeve Polo Shirts in 9 Colors. Regular and Tall Sizes: XS-6XL",
+    "average_rating": 4.2,
+    "rating_number": 807,
+    "features": [
+      "65% Polyester, 35% Cotton",
+      "Pull On closure",
+      "Machine Wash",
+      "Joe's USA Men's Classic Long Sleeve Polo Shirts in 9 Colors",
+      "An enduring favorite, our comfortable classic polo is anything but ordinary. With superior wrinkle and shrink resistance, a silky soft hand and an incredible range of styles, sizes and colors, it's a first-rate choice for uniforming just about any group. Printed with Joe's USA Logo Inside.",
+      "5-ounce, 65/35 poly/cotton pique",
+      "Flat knit collar and cuffs",
+      "Metal buttons with dyed-to-match plastic rims",
+      "Double-needle armhole seams and hem. Side vents",
+      "In Sizes: X-Small (32-34), Small (35-37), Medium (38-40), Large (41-43), X-Large (44-46), 2X-Large (47-49), 3X-Large (50-53), In Sizes: 4X-Large (54-57), 5X-Large (58-60), 6X-Large (61-63)"
+    ],
+    "description": [
+      "Joe's USA - Mens Classic Long Sleeve Polo Shirts in 9 colors and Sizes: XS-6XL and Talls. Printed with Joe's USA Logo Inside."
+    ],
+    "price": "31.99",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41uGK57QwiL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41uGK57QwiL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Joe's USA",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Shirts",
+      "Polos"
+    ],
+    "details": "{\"Item model number\": \"USAL02112015527\", \"Department\": \"mens\", \"Date First Available\": \"February 12, 2015\"}",
+    "parent_asin": "B00TI08QCW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Polo Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

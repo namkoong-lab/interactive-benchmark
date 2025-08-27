@@ -1,0 +1,45 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Bad Santa Blu-ray DVD",
+    "average_rating": 4.6,
+    "rating_number": 13751,
+    "features": [],
+    "description": [
+        "Bad Santa Blu-ray DVD"
+    ],
+    "price": "29.83",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81HpZd55XNL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91h6l22z-1L._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/519HPwl2MvL.jpg",
+            "https://m.media-amazon.com/images/I/51kJ5Z0kY9L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/519HPwl2MvL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51kJ5Z0kY9L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Format: Blu-ray",
+    "categories": [
+        "Movies & TV",
+        "Blu-ray",
+        "Movies"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"6.7 x 5.3 x 0.5 inches; 1.6 Ounces\", \"Media Format\": \"Blu-ray, DVD\"}",
+    "parent_asin": "B005WKI9IS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

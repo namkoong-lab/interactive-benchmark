@@ -1,0 +1,35 @@
+{
+    "main_category": "Books",
+    "title": "A Cup of Light: All About the Flaming Chalice",
+    "average_rating": 4.2,
+    "rating_number": 5,
+    "features": [
+        "The flaming chalice is the symbol of Unitarian Universalism. Where did the symbol originate? Why did Unitarian Universalists adopt it as the emblem of their faith? A Cup of Light looks at the separate symbols of fire and cup, and at their significance when combined as the flaming chalice. Written for young children, the simple, direct language helps bring meaning to this rich symbol."
+    ],
+    "description": [
+        "About the Author",
+        "Pamela Baxter is the director of religious education at the Unitarian Fellowship of West Chester, in West Chester, Pennsylvania."
+    ],
+    "price": "11.75",
+    "images": {
+        "hi_res": [],
+        "large": [],
+        "thumb": [],
+        "variant": []
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Pamela Baxter (Author),  Terry Stafford (Illustrator)",
+    "categories": [
+        "Books",
+        "Children's Books"
+    ],
+    "details": "{\"Publisher\": \"Skinner House Books; First Edition (December 9, 2010)\", \"Language\": \"English\", \"Paperback\": \"28 pages\", \"ISBN 10\": \"1558965750\", \"ISBN 13\": \"978-1558965751\", \"Item Weight\": \"4 ounces\"}",
+    "parent_asin": "1558965750",
+    "bought_together": null,
+    "subtitle": "Paperback – December 9, 2010",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Pam Baxter', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

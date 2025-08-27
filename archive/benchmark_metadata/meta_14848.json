@@ -1,0 +1,47 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Naturalizer Women's Phebe Espadrilles Pump",
+    "average_rating": 4.4,
+    "rating_number": 204,
+    "features": [
+        "Imported",
+        "Synthetic sole",
+        "Heel measures approximately 3.75\"",
+        "Strap type: Ankle Strap"
+    ],
+    "description": [
+        "Prepare to make an entrance. This wedge knows how to turn heads."
+    ],
+    "price": "109.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81Q4buY94EL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/515JQ8-lLUL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/515JQ8-lLUL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Naturalizer",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Pumps"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"October 29, 2019\", \"Manufacturer\": \"Naturalizer\"}",
+    "parent_asin": "B092CHRHKQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

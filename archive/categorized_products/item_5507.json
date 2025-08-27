@@ -1,0 +1,63 @@
+{
+  "item_id": 5507,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Maggy London Women's Mystic Crepe Faux Wrap Sheath with Sheer Sleeve Detail",
+    "average_rating": 3.2,
+    "rating_number": 10,
+    "features": [
+      "96% Polyester, 4% Spandex",
+      "Imported",
+      "Zipper closure",
+      "Dry Clean Only",
+      "Bodice Framed In Polyester Stretch Lining; Skirt And Sleeves Unlined",
+      "Center Back Invisible Zipper",
+      "Shirring",
+      "Pleats",
+      "Center Back Slit"
+    ],
+    "description": [
+      "This updated, new take on a classic cocktail silhouette is both cutting edge and flattering. It features on trend neturals and a sheer, illusion sleeve."
+    ],
+    "price": "94.7",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61LFIeJIWTL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31Y6S8yxreL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31Y6S8yxreL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Maggy London",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Dresses",
+      "Work"
+    ],
+    "details": "{\"Item model number\": \"G4611M\", \"Department\": \"womens\", \"Date First Available\": \"April 16, 2020\", \"Manufacturer\": \"Maggy London\"}",
+    "parent_asin": "B0876XR1L6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Dresses"
+    ],
+    "confidence": 0.95
+  }
+}

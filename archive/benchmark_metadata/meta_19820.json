@@ -1,0 +1,51 @@
+{
+    "main_category": "Musical Instruments",
+    "title": "Coconut drum",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Cocos drum with a wooden plate and a small felt stick",
+        "There is a hole in the coconut, which causes the change of tone when it s open or closed."
+    ],
+    "description": [
+        "Cocos drum with a wooden plate and a small felt stick. There is a hole in the coconut, which causes the change of tone when it s open or closed."
+    ],
+    "price": "11.2",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51hq8CIc0ZL._AC_SL1024_.jpg",
+            "https://m.media-amazon.com/images/I/61In3CNnz1L._AC_SL1024_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/311T7XMDhVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41tlcKdFoNL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/311T7XMDhVL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41tlcKdFoNL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Terre",
+    "categories": [
+        "Musical Instruments",
+        "Drums & Percussion",
+        "Hand Percussion",
+        "Folk & World",
+        "Maracas & Shakers",
+        "Rattles"
+    ],
+    "details": "{\"Best Sellers Rank\": {\"Musical Instruments\": 159425, \"Hand Percussion Rattles\": 123}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"April 1, 2017\", \"Body Material\": \"Wood\", \"Material Type\": \"Wooden\", \"Brand\": \"Terre\", \"Material\": \"Wooden\"}",
+    "parent_asin": "B06XZH1JGP",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

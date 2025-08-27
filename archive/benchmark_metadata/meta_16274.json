@@ -1,0 +1,62 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Hanes womens Sheer",
+    "average_rating": 4.4,
+    "rating_number": 36,
+    "features": [
+        "Nylon",
+        "Our knee highs are silky sheer and provide a sleek fit and sensuous feel.",
+        "Wide top band stays up without binding for all day comfort.",
+        "Perfect for open toe shoes.",
+        "One size fits most.",
+        "Units Per Pack: 2."
+    ],
+    "description": [
+        "Are you partial to pants? Or do you prefer to live in long skirts? Either way we have your legwear solution.Our knee highs are silky sheer and provide a sleek fit and sensuous feel.Wide top band stays up without binding for all day comfort.Perfect for open toe shoes.One size fits most."
+    ],
+    "price": "11.81",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51gTnO44ENL._AC_UL1020_.jpg",
+            "https://m.media-amazon.com/images/I/51B4fhJX8VL._AC_UL1020_.jpg",
+            "https://m.media-amazon.com/images/I/41IjA0tLmXL._AC_UL1020_.jpg",
+            "https://m.media-amazon.com/images/I/41VRs06OYzL._AC_UL1020_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/311Rh42ZKrL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/317cXIzXnxL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21S8kAVRIYL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31KYe-vxldL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/311Rh42ZKrL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/317cXIzXnxL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/21S8kAVRIYL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31KYe-vxldL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Hanes",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Socks & Hosiery",
+        "Sheers"
+    ],
+    "details": "{\"Item model number\": \"00725\", \"Department\": \"womens\", \"Date First Available\": \"March 20, 2022\"}",
+    "parent_asin": "B09W15G77D",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

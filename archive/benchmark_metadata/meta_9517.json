@@ -1,0 +1,48 @@
+{
+    "main_category": "Books",
+    "title": "Love is Bubblegum",
+    "average_rating": 4.3,
+    "rating_number": 92,
+    "features": [
+        "An exploration of love through a joyful chorus of children's voices.",
+        "From the moment our children come into this world, we begin telling them that we love them. But what does love mean to a child? When bestselling author and reality TV star Kailyn Lowry, heard her young son, Isaac, say the word “love” for the very first time she began to wonder what it looked like through his eyes. Isaac’s charming and unexpected response to the simple question, “What is love?” became the inspiration for",
+        "Love is Bubblegum",
+        ", a heartwarming and hilarious collection of quotes from children ages four to nine on what love means to them. Breakout illustrator Fuuji Takashi brings each unique perspective to life through vibrant and playful illustrations in this joyful exploration of the most universal human emotion."
+    ],
+    "description": [
+        "About the Author",
+        "New York Times",
+        "bestselling author Kailyn Lowry is the feisty, unapologetic, tattooed beauty whose determination to raise her son on her own terms has been documented across five seasons on MTV’s critically acclaimed, hit series Teen Mom 2. In 2014 Kailyn published the bestselling memoir, Pride Over Pity. She is currently attending Delaware State University, where she is working toward a B.A. in Mass Communications and a minor in business. She lives in Dover, DE with her husband, Javi, and two sons, Lincoln and Isaac."
+    ],
+    "price": "24.49",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61nhGXbG8YL._SY498_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kailyn Lowry (Author),  Fuuji Takashi (Illustrator)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Growing Up & Facts of Life"
+    ],
+    "details": "{\"Publisher\": \"Post Hill Press (November 17, 2015)\", \"Language\": \"English\", \"Hardcover\": \"32 pages\", \"ISBN 10\": \"161868860X\", \"ISBN 13\": \"978-1618688606\", \"Reading age\": \"4 years and up\", \"Item Weight\": \"12.8 ounces\", \"Dimensions\": \"10 x 0.3 x 10 inches\"}",
+    "parent_asin": "161868860X",
+    "bought_together": null,
+    "subtitle": "Hardcover – November 17, 2015",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Kailyn Lowry', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

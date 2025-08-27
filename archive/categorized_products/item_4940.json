@@ -1,0 +1,72 @@
+{
+  "item_id": 4940,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Armycrew 3M Thinsulate Insulation Fleece Lined Long Cuff Ribbed Beanie",
+    "average_rating": 4.7,
+    "rating_number": 31,
+    "features": [
+      "100% Acrylic",
+      "3M Thinsulate Insulation beanie hat perfect for winter outdoor activities",
+      "Fleece lined inside for extra warmth",
+      "Ensures a comfortable fit",
+      "Thick, warm, soft and stretchable material",
+      "One Size Fits Most"
+    ],
+    "description": [
+      "Our Armycrew 3M Thinsulate Insulation Fleece Lined Long Cuff Ribbed Beanie is a perfect winter outdoor beanie hat tat will keep your head in warmth from cold elements. Great for snowboarding, skiing, snow trips, camping and others. Made of 100% Acrylic. 3M Thinsulate Insulation. Fleece lined inside for extra warmth. Thick, warm and soft material. Easily stretchable. Ensures a comfortable fit for most head types. One size fits most."
+    ],
+    "price": "16.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81FXoDoFk6L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81eXDQ4K-4L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81PA3Cw11mL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/815kS3tJXrL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51iEs+-qwpL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/514cJd6nnPL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51mbeu5MPnL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/5133Bp5EQaL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51iEs+-qwpL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/514cJd6nnPL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51mbeu5MPnL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/5133Bp5EQaL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Armycrew",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Accessories",
+      "Hats & Caps"
+    ],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"February 16, 2018\"}",
+    "parent_asin": "B079VSTJN5",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Hats & Beanies",
+      "Winter Accessories"
+    ],
+    "confidence": 0.95
+  }
+}

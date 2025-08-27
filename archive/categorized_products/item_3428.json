@@ -1,0 +1,88 @@
+{
+  "item_id": 3428,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Marugo Tabi boots Ninja Shoes Jikatabi (Outdoor tabi) MATSURI JOG 6",
+    "average_rating": 4.4,
+    "rating_number": 346,
+    "features": [
+      "Rubber sole",
+      "Size: 27.0 cm (US size 9)",
+      "Color : Black",
+      "Specification Upper material: 100% Cotton Surface and Lining",
+      "Soles: Rubber"
+    ],
+    "description": [
+      "The streamlined design of these JIKATABI SHOES disposes with unnecessary elements to create simple, efficient footwear. The soles are designed for flexibility, allowing the toes to move freely. The uppers offer a fine fit that feels as if your feet are wrapped in a single layer of cloth. The tabi are useful for heightened control of your posture and movements and increased proprioception.These JIKATABI SHOES are produced by Marugo Company Inc. (Est. 1919) The big toe is separated from the others, allowing more dexterous movements like gripping a surface with the toes while walking. This traditional Japanese footwear has a rich history and has great practical working functionality."
+    ],
+    "price": "47.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81BqjxMM-4L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71BjcRLT3qL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/717y8h-5IEL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71heKty96dL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/716AkWdh+fL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71j2SKA97UL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81vriMVgN4L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51QFww2dqPL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41OIpLs2T8L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41q4SPuOhqL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41bWFnTQt-L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41I4DVzwNLL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41lcSs6LouL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51cOnLAMwfL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51QFww2dqPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41OIpLs2T8L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41q4SPuOhqL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41bWFnTQt-L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41I4DVzwNLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41lcSs6LouL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51cOnLAMwfL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05",
+        "PT06"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Tabi x feature"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/45ae3abcee7e47569a6ffa26b1a5bf3e?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "Marugo",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Shoes",
+      "Boots"
+    ],
+    "details": "{\"Item model number\": \"MATJOG6\", \"Department\": \"Mens\", \"Date First Available\": \"February 28, 2018\"}",
+    "parent_asin": "B07B4D58HL",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Footwear"
+    ],
+    "confidence": 0.9
+  }
+}

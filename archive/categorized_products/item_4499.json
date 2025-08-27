@@ -1,0 +1,60 @@
+{
+  "item_id": 4499,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Hot Sox Men's Fun Dogs Crew 1 Pair Pack-Cool & Funny Pets Novelty Fashion Socks",
+    "average_rating": 4.7,
+    "rating_number": 335,
+    "features": [
+      "49% Cotton 27% Polyester 21% Nylon 3% Spandex",
+      "Imported",
+      "Pull On closure",
+      "Machine Wash",
+      "Fits men's shoe size 6-12.5",
+      "1 pair per pack"
+    ],
+    "description": [
+      "Fun and fashionable socks while also providing comfort"
+    ],
+    "price": "11.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81We104qNmL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31D1jf2cPmL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31D1jf2cPmL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Hot Sox",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Active",
+      "Athletic Socks"
+    ],
+    "details": "{\"Product Dimensions\": \"13 x 8 x 1 inches\", \"Item model number\": \"HM100536\", \"Department\": \"mens\", \"Date First Available\": \"February 13, 2019\", \"Manufacturer\": \"Hot Sox\"}",
+    "parent_asin": "B0C4V5KCV1",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Socks"
+    ],
+    "confidence": 0.95
+  }
+}

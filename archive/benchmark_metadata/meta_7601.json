@@ -1,0 +1,45 @@
+{
+    "main_category": "Books",
+    "title": "The Hole",
+    "average_rating": 3.7,
+    "rating_number": 4,
+    "features": [],
+    "description": [
+        "From",
+        "Booklist",
+        "This first work is a surprising and unlikely treasure from an author using a surprising and unlikely pseudonym. The citizens of Cowopolis are up in arms: Theo Usurper, the owner of the Bovines football franchise, is going to move the team to another city if he can't acquire a tract of land controlled by Jerry Wrigdd. Jerry is a dreamer and a poet who has recently lost his one true love, and he has no intention of selling the land for what he considers to be an ignoble distraction. Usurper, frustrated by Jerry's failure to confront reality, has a charge of treason brought against the poet, for what can be more un-American than denying fans a few hours of diversion with their favorite team? The trial begins, and Jerry has his dark night, but he emerges finding both love and a new sense of purpose that will transform not only him, but the rest of the city as well. Highly recommended.",
+        "Eric Robbins",
+        "Copyright © American Library Association. All rights reserved"
+    ],
+    "price": "5.43",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51V690PC39L._SX302_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Marco Polio (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Genre Fiction"
+    ],
+    "details": "{\"Publisher\": \"Sugar Loaf Press; 1st ed edition (October 16, 2000)\", \"Language\": \"English\", \"Hardcover\": \"250 pages\", \"ISBN 10\": \"097007025X\", \"ISBN 13\": \"978-0970070258\", \"Item Weight\": \"1.15 pounds\", \"Dimensions\": \"5.5 x 0.75 x 8.5 inches\"}",
+    "parent_asin": "097007025X",
+    "bought_together": null,
+    "subtitle": "Hardcover – October 16, 2000",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/41IDpjoHuGL._SY600_.jpg', 'name': 'Marco Polio', 'about': ['William Zink is a writer of \"social realist\" fiction, as Andrei Codrescu describes, and poet. His novels include The Hole, Ballad of the Confessor, and Ohio River Dialogues. Praised by Booklist, Donald Ray Pollock, Dagoberto Gilb, David Giffels, The Main Street Rag and others, he is as diverse as he is forthright. With his latest novel, Pieta, Zink establishes himself as one of the truly important independent voices to emerge on the American literary scene in recent years.']}"
+}

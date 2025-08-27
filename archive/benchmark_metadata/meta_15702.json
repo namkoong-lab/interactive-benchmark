@@ -1,0 +1,63 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "FerociTees Taylor Unisex Adult Hoodie",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "50% Polyester, 50% Cotton",
+        "Pull On closure",
+        "Machine Wash",
+        "Printed and designed in the U.S.A. Comfortable and stylish. Our state of the art equipment to ensures crisp color and maximum durability on every piece of clothing apparel sold",
+        "Air jet yarn = softer feel and reduced pilling * Double-lined hood with color-matched drawcord * Double needle stitching at shoulder, armhole, neck, waistband and cuffs * Pouch pocket * 1 x 1 rib with spandex * Quarter-turned to eliminate center crease",
+        "Recommended Care Instructions - Machine wash cold, inside out, with like colors. Only non-chlorine bleach. Tumble dry medium. Do not iron. Do not dry clean. Makes a great gift for Christmas, Birthdays or any Holiday or special event"
+    ],
+    "description": [
+        "Designed and printed in the U.S. on high quality garments."
+    ],
+    "price": "41.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81XE1EHW6rL._AC_UL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/81Amvt3DlXL._AC_UL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51u6JOKxd0L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41EDs4LGrDL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41-GrKJ1KML._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51VUvbD6uVL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51u6JOKxd0L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41EDs4LGrDL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41-GrKJ1KML._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51VUvbD6uVL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "FerociTees",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Men",
+        "Hoodies"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"March 26, 2022\", \"Manufacturer\": \"FerociTees\"}",
+    "parent_asin": "B09WKTDW2S",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Smart Workshop Solutions: Buiding Workstations, Jigs, and Accessories to Improve your Shop",
+    "average_rating": 4.5,
+    "rating_number": 38,
+    "features": [
+        "What's the best way to get a workshop to work well--no matter its size or how much equipment is in it? This book tells all. It shows woodworkers who want to do more how to do it better with functional shops that meet their needs. Featuring a great selection of well-designed projects, this step-by-step book guarantees that every workshop will be a more efficient, productive--and enjoyable--place to be."
+    ],
+    "description": [
+        "About the Author",
+        "Paul Anthony has been a professional woodworker since 1974 and is a past president of the Sonoma County Woodworkers Association. He has built hundreds of projects, ranging from furniture to turnings and musical instruments. He was an editor for American Woodworker Magazine from 1994 until its sale to Reader's Digest in 1998. He has done a wonderful job editing books for Taunton. He lives in Reigelsville, Pennsylvania."
+    ],
+    "price": "33.29",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/615pqZdOrmL._SX389_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Paul Anthony (Author)",
+    "categories": [
+        "Books",
+        "Crafts, Hobbies & Home",
+        "Home Improvement & Design"
+    ],
+    "details": "{\"Publisher\": \"Taunton Press (September 15, 2003)\", \"Language\": \"English\", \"Paperback\": \"176 pages\", \"ISBN 10\": \"1561585785\", \"ISBN 13\": \"978-1561585786\", \"Item Weight\": \"1.28 pounds\", \"Dimensions\": \"8.5 x 0.45 x 10.88 inches\"}",
+    "parent_asin": "1561585785",
+    "bought_together": null,
+    "subtitle": "Paperback – Illustrated, September 15, 2003",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Paul Anthony', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

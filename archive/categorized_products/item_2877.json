@@ -1,0 +1,71 @@
+{
+  "item_id": 2877,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Kush Matte Plastic Rectangular Plastic Biker Style Sport Sunglasses",
+    "average_rating": 3.6,
+    "rating_number": 10,
+    "features": [
+      "Imported",
+      "Plastic frame",
+      "Plastic lens",
+      "Non-Polarized",
+      "UV Protection Coating coating",
+      "Lens width: 2.25 inches"
+    ],
+    "description": [
+      "Mens Kush marijuana logo sporty oversized flat top sunglasses. (ss6315ksh)"
+    ],
+    "price": "9.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61gGQCTX+-L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Te8DY--yL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/619JjY03dqL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61mSvvRwS0L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61nb1hKvyOL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/318QimhCk6L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/310I4j9Nq9L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31F5dGCikcL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31So66Q82HL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41SQcXC5DSL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/318QimhCk6L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/310I4j9Nq9L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31F5dGCikcL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31So66Q82HL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41SQcXC5DSL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Kush",
+    "categories": [],
+    "details": "{\"Item model number\": \"ss6315ksh\", \"Department\": \"Men\", \"Date First Available\": \"April 1, 2015\"}",
+    "parent_asin": "B09Y2NLCY9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Eyewear",
+      "Sunglasses"
+    ],
+    "confidence": 0.95
+  }
+}

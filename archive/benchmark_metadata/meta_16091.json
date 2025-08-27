@@ -1,0 +1,54 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Gore Running Wear Men's Flash Shirt (White/Red/Black, XX-Large)",
+    "average_rating": 2.0,
+    "rating_number": 3,
+    "features": [
+        "100% POLYESTER,MESH:100% POLYESTER,",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Reflective piping on sleeves"
+    ],
+    "description": [
+        "'Classic, slim, yet loose fitting T-shirt with strategic venting design made to make the most of your summer running.'"
+    ],
+    "price": "35.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71OpWTTyNtL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81xQrE9Dn4L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41vVxrrLraL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41pQVxjXunL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41vVxrrLraL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41pQVxjXunL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "GORE WEAR",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Active",
+        "Active Shirts & Tees",
+        "T-Shirts"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"SFLASB-P\", \"Department\": \"Mens\", \"Date First Available\": \"January 10, 2012\", \"Manufacturer\": \"Gore Bike Wear\"}",
+    "parent_asin": "B005EVIK2A",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

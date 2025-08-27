@@ -1,0 +1,88 @@
+{
+  "item_id": 5646,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Easy Spirit Men's Chad Sneaker",
+    "average_rating": 4.6,
+    "rating_number": 16,
+    "features": [
+      "100% Suede",
+      "Rubber sole",
+      "No pain, just gain. The Easy Spirit Mens footwear collection brings you all-day comfort, uncomplicated. The ES Chad slip-on sneaker is an everyday essential with an ultra lightweight and breathable design, while still providing the cushioning and arch support he needs. Comfort that goes the distance.",
+      "Closed Toe",
+      "Slip on Closure",
+      "Imported"
+    ],
+    "description": [
+      "No pain, just gain. The Easy Spirit Mens footwear collection brings you all-day comfort, uncomplicated. The ES Chad slip-on sneaker is an everyday essential with an ultra lightweight and breathable design, while still providing the cushioning and arch support he needs. Comfort that goes the distance."
+    ],
+    "price": "42.65",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71zcoM9QsaL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Detc6zlhL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61pq1uQJuHL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61I1OMYiYWL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81NapOw-T1L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71NgxYVhK0L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/713JPb7LraL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/718ZlPcGP-L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41d8rYwZ0mL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/515VFy+M+6L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31wB8ldNMQL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21mdk-B50RL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/413wlSGzdWL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/319K7n6aNtL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41td13MV2aL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31oqv96WDSL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41d8rYwZ0mL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/515VFy+M+6L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31wB8ldNMQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21mdk-B50RL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/413wlSGzdWL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/319K7n6aNtL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41td13MV2aL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31oqv96WDSL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Easy Spirit",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Shoes",
+      "Fashion Sneakers"
+    ],
+    "details": "{\"Item model number\": \"emCHAD\", \"Department\": \"Mens\", \"Date First Available\": \"May 23, 2023\", \"Manufacturer\": \"Easy Spirit\"}",
+    "parent_asin": "B0C63LBD37",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Footwear",
+      "Men's Sneakers"
+    ],
+    "confidence": 0.95
+  }
+}

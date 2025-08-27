@@ -1,0 +1,72 @@
+{
+  "item_id": 2736,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "e4Hats.com Banded Fleece Winter Cap",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "100% Polyester",
+      "Drawstring closure",
+      "Hand Wash Only",
+      "Made of 100% polyester fleece.",
+      "ONE SIZE fits most, fitting up to 7 1/4.",
+      "Crown measures 4 inches high,",
+      "Hatband measures 11 inches laying flat,",
+      "Band cuff measures 1 1/2 inches wide."
+    ],
+    "description": [
+      "Planning on going skiing this winter or just looking for a casual hat for around town? Look no further. You'll be sure to stay dray and warm this cold season, bundled in our light blue banded fleece cap. Made from 100% polyester this thick and extremely soft hat features a 4 inch deep crown with a 1 1/2 inch wide cuff, with a shiny accenting hat band. With its flexible construction this hat is great on the go, and works well for both men and women alike. Toss it in your bag, and put it on to keep your head and ears warm during all your winter frolicking."
+    ],
+    "price": "11.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61uLdcwTK+L._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/614zGDUmW8L._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61ZeOjKvBuL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61S7dSwgrBL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/710+191vV8L._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51J01HNietL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51He+QCJLDL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51YIAYdQQ2L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51a1BnuQeqL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51UKugAV1ML._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51J01HNietL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51He+QCJLDL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51YIAYdQQ2L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51a1BnuQeqL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51UKugAV1ML._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "e4Hats.com",
+    "categories": [],
+    "details": "{\"Item model number\": \"bf000wh\", \"Department\": \"mens\", \"Date First Available\": \"May 22, 2019\"}",
+    "parent_asin": "B07S4G8FGD",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Hats & Beanies"
+    ],
+    "confidence": 0.95
+  }
+}

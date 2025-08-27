@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Adobe Photoshop CS4 Revealed",
+    "average_rating": 4.3,
+    "rating_number": 18,
+    "features": [
+        "Discover all that Adobe Photoshop CS4 has to offer! With detailed attention to artistic and technical features alike, Adobe Photoshop CS4 Revealed provides a solid foundation for those looking to learn this industry-standard program. Real-world, practical examples and step-by-step instruction throughout offer well-rounded, comprehensive coverage. With extensive four-color artwork and screenshots that support and clarify key concepts, Adobe Photoshop CS4 Revealed is a valuable resource that will give readers the confidence they need to edit images with skill and ease using Photoshop CS4."
+    ],
+    "description": [
+        "About the Author",
+        "Elizabeth Eisner Reding has authored many books for Course Technology on a variety of software programs, including Adobe Photoshop, Microsoft Office, and Microsoft Publisher. Living in New Mexico with her husband, she spends her free time designing and creating stained-glass decorative pieces, water gardening, mountain biking, and collecting Southwestern art."
+    ],
+    "price": "6.42",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41ZgVRraBBL._SY402_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Elizabeth Eisner Reding (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Graphics & Design"
+    ],
+    "details": "{\"Publisher\": \"Course Technology; 1st edition (March 23, 2009)\", \"Language\": \"English\", \"Hardcover\": \"1 pages\", \"ISBN 10\": \"1435482778\", \"ISBN 13\": \"978-1435482777\", \"Item Weight\": \"3.15 pounds\", \"Dimensions\": \"7.5 x 1.3 x 9.1 inches\"}",
+    "parent_asin": "1435482778",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/21-GxzfFZVL._SY600_.jpg', 'name': 'Elizabeth Eisner Reding', 'about': ['Elizabeth Eisner Reding has authored many books for Course Technology on a variety of software programs, including Adobe Photoshop, Microsoft Office, and Microsoft Publisher. Living in New Mexico with her husband, she spends her free time designing and creating stained-glass decorative pieces, water gardening, mountain biking, and collecting Southwestern art.']}"
+}

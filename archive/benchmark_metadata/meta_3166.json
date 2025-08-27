@@ -1,0 +1,73 @@
+{
+    "main_category": "Grocery",
+    "title": "Zipfizz Fruit Punch Flavored Drink Packets, 20 Count",
+    "average_rating": 4.8,
+    "rating_number": 17,
+    "features": [
+        "Only 10 calories and ZERO sugar with 4-6 hours of energy",
+        "This is a package of 20 tubes",
+        "Gluten Free Contains 100mg of caffeine",
+        "natural sources Limit 3 tubes per day",
+        "Most people tell us that about 15 minutes after trying Zipfizz"
+    ],
+    "description": [
+        "Zip fizz is an all-natural, great tasting energy drink-mix powder that delivers a powerful charge of micronutrients to the body's fuel system. It contains no ephedra or other artificial stimulants."
+    ],
+    "price": "35.89",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71L3pJhWlIL._SL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/A11NUnBfBHL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71hdEQp1AIL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71AxWX47q5L._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31xQFSvCCfL.jpg",
+            "https://m.media-amazon.com/images/I/21MsiUSYbPL.jpg",
+            "https://m.media-amazon.com/images/I/61WKXfEzbML.jpg",
+            "https://m.media-amazon.com/images/I/41ZXS6AQzKL.jpg",
+            "https://m.media-amazon.com/images/I/41WgtjSX+-L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31xQFSvCCfL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/21MsiUSYbPL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/61WKXfEzbML._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41ZXS6AQzKL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41WgtjSX+-L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT12",
+            "DTLS",
+            "FACT",
+            "INGR"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Zipfizz Healthy Energy Drink Mix - Sports Drink on the Go ",
+            "Try a new flavor of Zipfizz for energy and vitamins!"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0a03a2d9c64b4b5ba225d611e0042123?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/02f2725bec0a466388a7880eaf7fa3d3?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "/shop/adventuresindirt",
+            "/shop/influencer-ce4cc72b"
+        ]
+    },
+    "store": "Zipfizz",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Beverages",
+        "Bottled Beverages, Water & Drink Mixes",
+        "Energy Drinks"
+    ],
+    "details": "{\"Brand\": \"Zipfizz\", \"Item Form\": \"Tubes\", \"Flavor\": \"Fruit Punch\", \"Number of Items\": \"1\", \"Package Information\": \"Box\", \"Package Dimensions\": \"10.47 x 4.02 x 3.86 inches; 15.2 Ounces\", \"UPC\": \"853385003650\", \"Manufacturer\": \"Silk Yard Inc\"}",
+    "parent_asin": "B015OBY5N2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

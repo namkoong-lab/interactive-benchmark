@@ -1,0 +1,71 @@
+{
+  "item_id": 1452,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Mirage Pet Products Pink Ribbon Rhinestone Hoodies Grey XXL (18)",
+    "average_rating": 2.0,
+    "rating_number": 1,
+    "features": [
+      "New"
+    ],
+    "description": [
+      "A poly/cotton sleeved hoodie for cold weather days, double stitched in all the right places for comfort and durability!"
+    ],
+    "price": "19.05",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71HS4NMCNYL._AC_SL1169_.jpg",
+        "https://m.media-amazon.com/images/I/61IZ7F6dxdL._AC_SL1169_.jpg",
+        "https://m.media-amazon.com/images/I/61sivbJX8EL._AC_SL1169_.jpg",
+        "https://m.media-amazon.com/images/I/71HS4NMCNYL._AC_SL1169_.jpg",
+        "https://m.media-amazon.com/images/I/61wq6xWtSaL._AC_SL1169_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41dpA87VHGL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/414IGpaY95L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41vgWj1pMSL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41dpA87VHGL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41sZXPXldiL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41dpA87VHGL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/414IGpaY95L._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/41vgWj1pMSL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/41dpA87VHGL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/41sZXPXldiL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Mirage Pet Products",
+    "categories": [
+      "Pet Supplies",
+      "Dogs",
+      "Apparel & Accessories",
+      "Hoodies"
+    ],
+    "details": "{\"Item Weight\": \"2 pounds\", \"Item model number\": \"54-64 XXLGY\", \"Is Discontinued By Manufacturer\": \"No\", \"Weight\": \"1 Pounds\", \"Date First Available\": \"May 19, 2012\", \"Size\": \"xl\", \"Chest Size\": \"18 Inches\", \"Occasion\": \"New year, Birthday, Thanksgiving\", \"Brand\": \"Mirage Pet Products\", \"Material\": \"Cotton\"}",
+    "parent_asin": "B0085FH79Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Pet Supplies",
+      "Pet Costumes",
+      "Dog Apparel"
+    ],
+    "confidence": 0.95
+  }
+}

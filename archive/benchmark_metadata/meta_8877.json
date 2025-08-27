@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "It Takes Two",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "Amanda Lemmon and Alyssa Callaway don't know each other, but when they meet, they are in for the weirdest surprise. They look exactly alike. And each girl has a really big wish. Orphaned Amanda wishes she had a mom and a dad. Alyssa wishes her rich and busy dad had more time for her. Can the two girls come up with the perfect plan to make their wishes come true?."
+    ],
+    "description": [
+        "About the Author",
+        "For NANCY KRULIK, middle school was just a long series of mess-ups and mishaps waiting to happen. As an adult, she has written more than 150 books for children and young adults, including three New York Times bestsellers and the popular Katie Kazoo Switcheroo series. Nancy lives in Manhattan with her husband, composer Daniel Burwasser; their two children, Ian and Amanda; and a crazy cocker spaniel named Pepper."
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/619SMWXCTTL._SX471_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nancy Krlik (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Literature & Fiction"
+    ],
+    "details": "{\"Publisher\": \"Scholastic; First Edition (January 1, 1995)\", \"Language\": \"English\", \"ISBN 10\": \"0590853112\", \"ISBN 13\": \"978-0590853118\", \"Reading age\": \"9 years and up\", \"Item Weight\": \"2.4 ounces\", \"Dimensions\": \"8.25 x 0.25 x 8.25 inches\"}",
+    "parent_asin": "0590853112",
+    "bought_together": null,
+    "subtitle": "Paperback – January 1, 1995",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/jljrmlu386mecr11v4dha7pope._SY600_.jpg', 'name': 'Nancy Krulik', 'about': [\"Nancy Krulik is the author of more than 200 books for children and young adults, including three New York Times bestsellers. She is best known, however, for being the author and creator of the Katie Kazoo Switcheroo, Princess Pulverizer, George Brown Class Clown, How I Survived Middle School and Magic Bone book series. Upcoming books series include Ms. Frogbottom's Field Trips and The Great Mathemachicken. Nancy currently lives in Manhattan with her husband, composer Daniel Burwasser, their two children, Amanda and Ian, and a wacky beagle mix named Josie. LEARN MORE ABOUT NANCY AT HER WEBSITE: http://www.realnancykrulik.com\"]}"
+}

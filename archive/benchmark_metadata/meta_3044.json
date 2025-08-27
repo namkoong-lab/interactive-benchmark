@@ -1,0 +1,56 @@
+{
+    "main_category": "Grocery",
+    "title": "PICARAS Galletas Peruanas Bañadas en Chocolate 6 units x 40 gr. ( 2 Pack )",
+    "average_rating": 4.5,
+    "rating_number": 12,
+    "features": [
+        "2 Bags of PICARAS Galletas Bañadas en Chocolate 240 g each",
+        "6 units (small bags) of 40 g in each bag | each small bag contains 24 cookies",
+        "48 cookies in total",
+        "Imported from Peru",
+        "Imported from Peru"
+    ],
+    "description": [
+        "2 Bags of PICARAS Galletas Bañadas en Chocolate 240 gr. (6 units of 40 gr.). Total cookies in each pack 24. Imported from Peru."
+    ],
+    "price": "15.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81-wr7u+igL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/714-VQfiOFL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71tK4dgE2aL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51gGkM7b1YL.jpg",
+            "https://m.media-amazon.com/images/I/51jPwY41rDL.jpg",
+            "https://m.media-amazon.com/images/I/51XUAptDotL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51gGkM7b1YL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51jPwY41rDL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51XUAptDotL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Winters",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Breads & Bakery",
+        "Cookies",
+        "Chocolate"
+    ],
+    "details": "{\"Flavor\": \"chocolate\", \"Unit Count\": \"12.00 Count\", \"Brand\": \"Winters\", \"Country/Region Of Origin\": \"Peru\", \"Item Dimensions LxWxH\": \"6 x 4 x 4 inches\", \"Product Dimensions\": \"6 x 4 x 4 inches; 1.13 Pounds\", \"Manufacturer\": \"Winter's\", \"Country of Origin\": \"Peru\"}",
+    "parent_asin": "B084Q13Q5Q",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

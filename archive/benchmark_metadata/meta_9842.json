@@ -1,0 +1,60 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Toro Blade - 20In",
+    "average_rating": 4.3,
+    "rating_number": 10,
+    "features": [
+        "Toro Parts- Blade 20\" Fits eCycler"
+    ],
+    "description": [
+        "Blade-20 InchBlade-20 Inch"
+    ],
+    "price": "32.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/31n63lyQCeL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/31n63lyQCeL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/31n63lyQCeL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21vRqQ5j5ZL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21vRqQ5j5ZL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21vRqQ5j5ZL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/21vRqQ5j5ZL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/21vRqQ5j5ZL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/21vRqQ5j5ZL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [
+            "MaxPower Mower Blades"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/ef9c49cac987453596971c6ce5a1b68a?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Toro",
+    "categories": [
+        "Patio, Lawn & Garden",
+        "Outdoor Power Tools",
+        "Replacement Parts & Accessories",
+        "Lawn Mower Parts & Accessories",
+        "Lawn Mower Replacement Parts",
+        "Deck Parts"
+    ],
+    "details": "{\"Product Dimensions\": \"24 x 2 x 2 inches\", \"Item Weight\": \"5 pounds\", \"Best Sellers Rank\": {\"Patio, Lawn & Garden\": 242680, \"Lawn Mower Deck Parts\": 3598}}",
+    "parent_asin": "B00TD948WU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

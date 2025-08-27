@@ -1,0 +1,58 @@
+{
+  "item_id": 447,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Gaudi",
+    "average_rating": 4.4,
+    "rating_number": 128,
+    "features": [],
+    "description": [
+      "2008 digitally re-mastered edition of the Alan Parsons classic album that was originally released in 1987. Parsons himself digital re-mastered all his catalog albums reissued in 2007 using the original master tapes. The difference in sound quality is amazing-each sounds absolutely fantastic! The packaging includes revamped booklets with fresh, elaborated liner notes based on interviews with Parsons and Woolfson as well as rare photos and memorabilia."
+    ],
+    "price": "2.89",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81LLHZQQ+tL._SL1500_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51F5SImoTTL.jpg",
+        "https://m.media-amazon.com/images/I/51bV9KPfn4L.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51F5SImoTTL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51bV9KPfn4L._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Chris Rainbow   Eric Woolfson   Alan Parsons Project   Alan Parsons Symphonic Project   &                   1                  more   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Today's Deals in Music",
+      "Pop",
+      "Pop General",
+      "CDs $7 - $10"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Language\": \"English\", \"Product Dimensions\": \"5.62 x 4.92 x 0.4 inches; 3.84 Ounces\", \"Manufacturer\": \"Sony Legacy\", \"Item model number\": \"ARISTA828768386323\", \"Original Release Date\": \"2009\", \"Run time\": \"1 hour and 5 minutes\", \"Date First Available\": \"February 19, 2007\", \"Label\": \"Sony Legacy\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000NJVWTQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Rock Albums"
+    ],
+    "confidence": 0.95
+  }
+}

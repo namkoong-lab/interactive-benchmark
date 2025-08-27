@@ -1,0 +1,57 @@
+{
+  "item_id": 2938,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Silver AUNT Heart Floating Charm",
+    "average_rating": 3.8,
+    "rating_number": 15,
+    "features": [
+      "Bonus 2 mm pearl - one per shipment",
+      "Fits in any floating lockets",
+      "~7 mm",
+      "*Flat rate shipping no matter how many different charms are purchased"
+    ],
+    "description": [
+      "Silver aunt heart charm that fits in any standard floating locket. Also please visit my store as there are many other charms and shipping is a combined flat rate."
+    ],
+    "price": "5.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51ZKMyGRS-L._AC_UL1263_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31CHqmRFCpL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51i+Gx2zV6L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31CHqmRFCpL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51i+Gx2zV6L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "LoveByLucy",
+    "categories": [],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"December 13, 2013\", \"Manufacturer\": \"LoveByLucy\"}",
+    "parent_asin": "B00H9UBUS0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Charms & Beads"
+    ],
+    "confidence": 0.95
+  }
+}

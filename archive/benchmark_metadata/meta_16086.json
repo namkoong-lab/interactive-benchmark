@@ -1,0 +1,66 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "adidas Girls' Long Sleeve Side Slit Tee T-Shirt",
+    "average_rating": 4.8,
+    "rating_number": 147,
+    "features": [
+        "60% Cotton, 40% Polyester",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "The Long Sleeve Slit Tee Features Long Sleeves, Drop Shoulder, Side Slits, And Curved Hem. Screen Printed Embellishments Have Specialty Inks And Incorporate The Adidas Brand Mark.",
+        "Pull On Closure",
+        "Imported",
+        "60% Cotton, 40% Polyester",
+        "Machine Wash"
+    ],
+    "description": [
+        "The long sleeve slit tee features long sleeves, drop shoulder, side slits, and curved hem. Screen printed embellishments have specialty inks and incorporate the adidas brand mark."
+    ],
+    "price": "10.89",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61deDVWIm8L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61piGJY2jkL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71vWRM8J+dL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/719J-yvEjPL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/3175F30Z51L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31m65S8FDIL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21Yb+4wfWkL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41fUQ36pUuL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/3175F30Z51L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31m65S8FDIL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/21Yb+4wfWkL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41fUQ36pUuL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "adidas",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Girls",
+        "Clothing",
+        "Active",
+        "Active Shirts & Tees",
+        "T-Shirts"
+    ],
+    "details": "{\"Department\": \"Girls\", \"Date First Available\": \"November 29, 2019\", \"Manufacturer\": \"adidas\"}",
+    "parent_asin": "B0825RXL59",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

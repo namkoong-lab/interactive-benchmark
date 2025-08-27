@@ -1,0 +1,50 @@
+{
+  "item_id": 589,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Trusting the Silence",
+    "average_rating": 4.2,
+    "rating_number": 7,
+    "features": [],
+    "description": [
+      "International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions."
+    ],
+    "price": "15.98",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51eakesH9GL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51eakesH9GL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Miten & Premal   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "New Age",
+      "Meditation"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Language\": \"English\", \"Product Dimensions\": \"5.69 x 0.4 x 4.99 inches; 3.04 Ounces\", \"Manufacturer\": \"White Swan\", \"Original Release Date\": \"2007\", \"Date First Available\": \"February 12, 2007\", \"Label\": \"White Swan\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000BTJCQ8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music"
+    ],
+    "confidence": 0.9
+  }
+}

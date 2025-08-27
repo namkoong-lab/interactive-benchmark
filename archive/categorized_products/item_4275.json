@@ -1,0 +1,77 @@
+{
+  "item_id": 4275,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "commando Women's Butter Hipsters",
+    "average_rating": 4.3,
+    "rating_number": 100,
+    "features": [
+      "Shell: 79% micromodal, 21% spandex",
+      "Made in USA or Imported",
+      "Hand Wash Only",
+      "Fabric: Super-soft modal jersey",
+      "Seamless sides and raw edges, 4-way stretch fabric with high recovery"
+    ],
+    "description": [
+      "Made from an ultra-soft, high-gauge Austrian modal, these hipster underwear have incredible stretch and recovery, raw-cut edges, and stay beautiful after wash and wear."
+    ],
+    "price": "32.38",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/719kBLSBu6L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71So0tvxTEL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71BjLahUCZL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71hAp7VQgyL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81HcWv0mlKL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31uC5760OLL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31Fm5hUR6uL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31OKMHII7dL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41wIa5JXNVL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41ZX6BoCjpL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31uC5760OLL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31Fm5hUR6uL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31OKMHII7dL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41wIa5JXNVL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41ZX6BoCjpL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "commando",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Lingerie, Sleep & Lounge",
+      "Lingerie",
+      "Panties",
+      "Hipsters"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"1 x 1 x 1 inches; 2 Ounces\", \"Item model number\": \"BS05\", \"Department\": \"womens\", \"Date First Available\": \"September 8, 2016\", \"Manufacturer\": \"Commando\"}",
+    "parent_asin": "B01LW6Q5XX",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Underwear"
+    ],
+    "confidence": 0.95
+  }
+}

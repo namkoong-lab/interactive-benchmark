@@ -1,0 +1,68 @@
+{
+  "item_id": 4805,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Tommy Hilfiger Men's South Beach Short Sleeve Button Down Shirt in Custom Fit",
+    "average_rating": 4.3,
+    "rating_number": 42,
+    "features": [
+      "100% Cotton",
+      "Imported",
+      "Button closure",
+      "Machine Wash",
+      "Highlight your timeless style with this short sleeve shirt from Tommy Hilfiger .",
+      "Men's button down shirt with a button-down collar .",
+      "Tommy Hilfiger shirt for men with a button front closure .",
+      "Custom fit Shirt with a front pocket and embroidered logo flag .",
+      "This Short sleeve button-down shirt from Tommy Hilfiger will be perfect for any occasion"
+    ],
+    "description": [
+      "Highlight your timeless style with this short sleeve shirt from Tommy Hilfiger . Men's button down shirt with a button-down collar . Tommy Hilfiger shirt for men with a button front closure . Custom fit Shirt with a front pocket and embroidered logo flag . This Short sleeve button-down shirt from Tommy Hilfiger will be perfect for any occasion"
+    ],
+    "price": "49.97",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91gXUs+1koS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91PFwwopJgS._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41gMFx2jZUS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41EdK-Pe65S._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41gMFx2jZUS._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41EdK-Pe65S._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Tommy Hilfiger",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Shirts",
+      "Casual Button-Down Shirts"
+    ],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"January 8, 2021\", \"Manufacturer\": \"Tommy Hilfiger\"}",
+    "parent_asin": "B08YM4SG91",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Casual Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

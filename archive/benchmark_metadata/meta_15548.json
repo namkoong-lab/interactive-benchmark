@@ -1,0 +1,49 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "SOCIETY NEW YORK Women's Trapeze Dress",
+    "average_rating": 3.8,
+    "rating_number": 7,
+    "features": [
+        "95% Polyester, 5% Spandex",
+        "Imported",
+        "Button closure",
+        "Machine Wash",
+        "An Amazon brand"
+    ],
+    "description": [
+        "Sleeveless stripe dress with stretch knit construction, crew neck and contrast bottom panel."
+    ],
+    "price": "36.58",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/717FF7q4mTL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31rHc0a2yZL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31rHc0a2yZL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "SOCIETY NEW YORK",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Dresses",
+        "Work"
+    ],
+    "details": "{\"Item model number\": \"88474\", \"Department\": \"womens\", \"Date First Available\": \"March 1, 2016\", \"Manufacturer\": \"SOCIETY NEW YORK\"}",
+    "parent_asin": "B019ZE2YEG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

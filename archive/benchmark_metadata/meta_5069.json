@@ -1,0 +1,59 @@
+{
+    "main_category": "Toys & Games",
+    "title": "Magic The Gathering - Spellstutter Sprite - Lorwyn",
+    "average_rating": 4.9,
+    "rating_number": 19,
+    "features": [
+        "A single individual card from the Magic: the Gathering (MTG) trading and collectible card game (TCG/CCG).",
+        "This is of Common rarity.",
+        "From the Lorwyn set."
+    ],
+    "description": [
+        "Magic: the Gathering is a collectible card game created by Richard Garfield. In Magic, you play the role of a planeswalker who fights other planeswalkers for glory, knowledge, and conquest. Your deck of cards represents all the weapons in your arsenal. It contains the spells you know and the creatures you can summon to fight for you.",
+        "Card Name",
+        ": Spellstutter Sprite",
+        "Cost",
+        ": 1U",
+        "Color",
+        ": Blue",
+        "Card Type",
+        ": Creature - Faerie Wizard",
+        "Power/Toughness",
+        ": 1/1",
+        "Card Text",
+        ": Flash Flying When Spellstutter Sprite comes into play, counter target spell with converted mana cost X or less, where X is the number of Faeries you control."
+    ],
+    "price": "3.49",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51tMjkozVrL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51tMjkozVrL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Magic The Gathering",
+    "categories": [
+        "Toys & Games",
+        "Games & Accessories",
+        "Card Games",
+        "Collectible Card Games",
+        "Singles"
+    ],
+    "details": "{\"Item Weight\": \"0.06 ounces\", \"Manufacturer recommended age\": \"16 years and up\", \"Best Sellers Rank\": {\"Toys & Games\": 589877, \"Collectible Card Game Singles\": 18885}, \"Is Discontinued By Manufacturer\": \"No\", \"Manufacturer\": \"Wizards of the Coast\", \"Brand\": \"Magic The Gathering\", \"Grade Rating\": \"Ungraded\", \"Sport\": \"Magic The Gathering\", \"Graded By\": \"Certified Collectibles Group\", \"Theme\": \"Anime\"}",
+    "parent_asin": "B0039VDGDK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

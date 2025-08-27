@@ -1,0 +1,58 @@
+{
+    "main_category": "Grocery",
+    "title": "Podravka Chicken Pate, Spresd and Liver Pate Mix 3 different tastes",
+    "average_rating": 3.9,
+    "rating_number": 37,
+    "features": [
+        "Podravka Chicken Pate, Spresd and Liver Pate Mix 3 different tastes",
+        "1 pc Argeta Chicken Spread",
+        "1 pc Kokosja Chicken Pate",
+        "1 pc Podravka Liver Pate Pork"
+    ],
+    "description": [
+        "Podravka Chicken Pate, Spresd and Liver Pate Mix 3 different tastes"
+    ],
+    "price": "13.58",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71Opa8oPfFL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71-NEkBVVEL._SL1428_.jpg",
+            "https://m.media-amazon.com/images/I/614PPQS+6UL._SL1200_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41jPVEjgnvL.jpg",
+            "https://m.media-amazon.com/images/I/517Ze0E4eHL.jpg",
+            "https://m.media-amazon.com/images/I/51a6pe6oc9L.jpg",
+            "https://m.media-amazon.com/images/I/51Ro3iw5uML.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41jPVEjgnvL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/517Ze0E4eHL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51a6pe6oc9L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51Ro3iw5uML._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Argeta",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Meat & Seafood",
+        "Foie Gras & Pâtés"
+    ],
+    "details": "{\"Brand\": \"Argeta\", \"Number of Items\": \"3\", \"Size\": \"3 Piece Assortment\", \"Number of Pieces\": \"3\", \"Unit Count\": \"3.00 Count\", \"Package Dimensions\": \"3.62 x 2.99 x 2.8 inches; 12.63 Ounces\", \"Manufacturer\": \"Argeta\"}",
+    "parent_asin": "B08GKZ3TRQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

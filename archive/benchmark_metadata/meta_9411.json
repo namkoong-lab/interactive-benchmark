@@ -1,0 +1,42 @@
+{
+    "main_category": "Books",
+    "title": "Foundations Reading Library 7: Collection",
+    "average_rating": 4.8,
+    "rating_number": 5,
+    "features": [],
+    "description": [
+        "About the Author",
+        "Dr. Rob Waring is an Associate Professor at Notre Dame Seishin Women's University in Okayama, Japan. His research interests extend to reading and the acquisition of vocabulary. He is a founding member of the Extensive Reading Foundation and a well-known expert on Extensive Reading. He has published many articles on Extensive Reading and is program advisor to many educational institutions throughout Asia. He maintains an Extensive Reading website, and is owner and moderator of the Extensive Reading discussion list. He was co-conference chair of JALT 2005 in Shizuoka, Japan.Maurice Jamall is an Associate Professor of English at Seikei University in Tokyo. He has been involved in ELT instruction, teacher training, and materials development for 18 years."
+    ],
+    "price": "11.4",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51ddVuy4h7L._SX347_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rob Waring (Author),  Maurice Jamall (Author)",
+    "categories": [
+        "Books",
+        "Education & Teaching",
+        "Schools & Teaching"
+    ],
+    "details": "{\"Publisher\": \"Heinle ELT; 1st edition (May 3, 2007)\", \"Language\": \"English\", \"Paperback\": \"192 pages\", \"ISBN 10\": \"1424006937\", \"ISBN 13\": \"978-1424006939\", \"Item Weight\": \"11.4 ounces\", \"Dimensions\": \"6 x 0.25 x 8.5 inches\"}",
+    "parent_asin": "1424006937",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/21U1-2T30aL._SY600_.jpg', 'name': 'Rob Waring', 'about': [\"Dr. Rob Waring is an Associate professor at Notre Dame Seishin Women's University in Okayama, japan. His research interests include Extensive Reading and Listening, vocabulary acquisition and reading. He is co-author of the Foundations Reading Library and series editor of Page Turners Reading Library and Footprint Reading library all by Heinle Cengage.\"]}"
+}

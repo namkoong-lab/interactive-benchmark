@@ -1,0 +1,66 @@
+{
+  "item_id": 5721,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "PUMA Women's Essentials Fleece Hoodie",
+    "average_rating": 4.4,
+    "rating_number": 429,
+    "features": [
+      "65% Polyester, 35% Cotton",
+      "Imported",
+      "Pull On closure",
+      "Machine Wash",
+      "Regular fit",
+      "Jersey lined hood with drawcord for an adjustable fit",
+      "Kangaroo pocket for a convenient storage solution",
+      "Rib cuffs and hem"
+    ],
+    "description": [
+      "Sport your PUMA pride in our Essentials Fleece Hoodie featuring a lined hood and regular fit for the reliable comfort you know and trust from PUMA"
+    ],
+    "price": "27.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61Gz10trGFL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61La1V-DLXL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31JlnHn7ltL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/310K-WSYYWL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31JlnHn7ltL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/310K-WSYYWL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "PUMA",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Active",
+      "Active Hoodies"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"September 26, 2020\", \"Manufacturer\": \"PUMA\"}",
+    "parent_asin": "B0BBCNFL1B",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Hoodies & Sweatshirts"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "item_id": 491,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Fired Up",
+    "average_rating": 4.8,
+    "rating_number": 129,
+    "features": [],
+    "description": [
+      "2016 release, the fourth album country singer/songwriter Randy Houser. The album is the follow-up to his 2013 album How Country Feels. Includes the single 'We Went'. \"I'm very excited to finally get some new music out there,\" Houser says. \"Three years is a bit longer than I expected in between How Country Feels and this record, and so much has happened in that time. I wrote a handful of songs on Fired Up, but there are songs like 'A Little Bit Older' that I knew I had to record the moment I heard them.\""
+    ],
+    "price": "7.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81TWtdpuytL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51Ru7+cmF5L.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51Ru7+cmF5L._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Randy Houser   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Country",
+      "Today's Country"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Language\": \"English\", \"Product Dimensions\": \"5.57 x 4.94 x 0.42 inches; 3.36 Ounces\", \"Manufacturer\": \"STONEY CREEK RECORDS\", \"Item model number\": \"CDSC16767\", \"Original Release Date\": \"2016\", \"Date First Available\": \"01M 28, 2016\", \"Label\": \"STONEY CREEK RECORDS\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B01AUYH210",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Albums"
+    ],
+    "confidence": 0.95
+  }
+}

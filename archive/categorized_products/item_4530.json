@@ -1,0 +1,55 @@
+{
+  "item_id": 4530,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Clarks womens Sneaker",
+    "average_rating": 4.1,
+    "rating_number": 39,
+    "features": [
+      "Rubber sole"
+    ],
+    "description": [
+      "Slide into these sporty CLOUDSTEPPERSTTM sneakers for look you'll become tied to without any laces. From Clarks Footwear."
+    ],
+    "price": "49.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71EKTSPRT-L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41SwU7jE79L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41SwU7jE79L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Clarks",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Fashion Sneakers"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"July 10, 2021\"}",
+    "parent_asin": "B09942H5YD",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Sneakers"
+    ],
+    "confidence": 0.95
+  }
+}

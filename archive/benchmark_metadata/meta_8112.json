@@ -1,0 +1,41 @@
+{
+    "main_category": "Books",
+    "title": "Souvenirs: Gifts from the Garden",
+    "average_rating": 3.9,
+    "rating_number": 4,
+    "features": [
+        "Hardcover with dust jacket. 1994 159p. 10.00X10.00X0.80 PROSE AND POETRY WITH BEAUTIFUL COLOR PICTURES"
+    ],
+    "description": [
+        "From the Publisher",
+        "Souvenirs is a stunning celebration of the untold treasures that can be gathered from the garden. Easy-to-follow instructions and professional tips encourage cultivating your own garden and exploring flowers and greenery in a variety of compositions.",
+        "--This text refers to an out of print or unavailable edition of this title."
+    ],
+    "price": "15.6",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51cdr3g1vlL._SX403_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kathryn Kleinman (Author),  Michaele Thunen (Author)",
+    "categories": [],
+    "details": "{\"Publisher\": \"Collins Pub San Francisco; First Edition (January 1, 1994)\", \"Language\": \"English\", \"Hardcover\": \"159 pages\", \"ISBN 10\": \"0002553473\", \"ISBN 13\": \"978-0002553476\", \"Item Weight\": \"2.25 pounds\", \"Dimensions\": \"10.25 x 0.75 x 10.25 inches\"}",
+    "parent_asin": "0002553473",
+    "bought_together": null,
+    "subtitle": "Hardcover – January 1, 1994",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Kathryn Kleinman', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

@@ -1,0 +1,56 @@
+{
+    "main_category": "Books",
+    "title": "Charles Bukowski",
+    "average_rating": 4.3,
+    "rating_number": 36,
+    "features": [
+        "Fear makes me a writer, fear and a lack of confidence",
+        ". A major new biography on an increasingly important American literary icon, by the most acclaimed writer on the Beat Generation, Barry Miles. Miles knew all the key players in the Beat era, including William Burroughs and Allen Ginsberg, and also recorded with Bukowski. Having spoken with people close to Bukowski, and with a full examination of Bukowski's extensive writings, Miles has written the definitive story of the laureate of American low-life."
+    ],
+    "description": [
+        "About the Author",
+        "Barry Miles",
+        "is the author of",
+        "The Beat Hotel",
+        ",",
+        "The British Invasion",
+        ",",
+        "Hippie",
+        ",",
+        "Paul McCartney",
+        ",",
+        "Zappa",
+        ", and many more popular culture titles."
+    ],
+    "price": "24.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41MOtZDWtVL._SY498_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Barry Miles (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Poetry"
+    ],
+    "details": "{\"Publisher\": \"Virgin Books; First Edition (July 1, 2005)\", \"Language\": \"English\", \"Hardcover\": \"314 pages\", \"ISBN 10\": \"1852272716\", \"ISBN 13\": \"978-1852272715\", \"Item Weight\": \"1.38 pounds\", \"Dimensions\": \"6.5 x 1.25 x 9.75 inches\"}",
+    "parent_asin": "1852272716",
+    "bought_together": null,
+    "subtitle": "Hardcover – July 1, 2005",
+    "author": null
+}

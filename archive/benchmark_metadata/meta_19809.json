@@ -1,0 +1,51 @@
+{
+    "main_category": "Musical Instruments",
+    "title": "Yamaha Instructional Guitar Video",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Guitar Basics for Electric and Acoustic Models. A 30-minute video that will teach you everything you need to know to keep your quitar in great playing condition! Includes a pamphlet featurning chords and easy songs to help you start playing today! A step-by-step:",
+        "* The parts of the elctric and acoustic quitar",
+        "* how to hold the guitar and the pick",
+        "* how to turn with an electric tuner, with a keyboard, and by ear",
+        "* how to change the strings * common chords * strumming patterns"
+    ],
+    "description": [
+        "Guitar Basics for Electric and Acoustic Models. This essential 30-minute video will teach you everything you need to know to keep your new guitar in great playing condition! Video shows: * The parts of the electric and acoustic guitar. * How to hold the guitar and the pick * How to tune with an electric tuner, with a keyboard, and by ear * How to change the strings * Common chords * Strumming patters Includes a pamphlet featuring chords and easy songs to help you start playing today."
+    ],
+    "price": "11.74",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51Cm-K0F4kL._AC_SL1000_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/414VNEkNn5L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51V9Y5E4BVL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/414VNEkNn5L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51V9Y5E4BVL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "YAMAHA",
+    "categories": [
+        "Musical Instruments",
+        "Guitars",
+        "Acoustic Guitars"
+    ],
+    "details": "{\"Item Weight\": \"5.6 ounces\", \"Package Dimensions\": \"7.5 x 4.2 x 1.2 inches\", \"Item model number\": \"HL00320094\", \"Date First Available\": \"September 4, 1973\", \"Number of Strings\": \"6\", \"Brand\": \"Yamaha\", \"Hand Orientation\": \"Ambidextrous\"}",
+    "parent_asin": "B00005RD7C",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

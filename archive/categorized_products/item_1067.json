@@ -1,0 +1,64 @@
+{
+  "item_id": 1067,
+  "metadata": {
+    "main_category": "Health & Personal Care",
+    "title": "Vegan Astaxanthin Deva Vegan 30 Softgel",
+    "average_rating": 4.5,
+    "rating_number": 5,
+    "features": [
+      "Astaxanthin is one of a group of natural pigments known as carotenoids",
+      "Deva"
+    ],
+    "description": [
+      "Deva Vegan"
+    ],
+    "price": "10.98",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71ho4saU2AL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61nys4bS9xL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61nys4bS9xL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/416ok6BKVRL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41YlaQUoS4L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41YlaQUoS4L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/416ok6BKVRL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41YlaQUoS4L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41YlaQUoS4L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Deva Vegan",
+    "categories": [
+      "Health & Household",
+      "Vitamins, Minerals & Supplements",
+      "Essential Fatty Acids",
+      "Omega Oils",
+      "Omega-3"
+    ],
+    "details": "{\"Brand\": \"Deva Vegan\", \"Unit Count\": \"1.00 Count\", \"Item Form\": \"Softgel\", \"Item Weight\": \"0.05 Pounds\", \"Item Dimensions LxWxH\": \"2.12 x 2.12 x 3.75 inches\", \"Diet Type\": \"Vegan\", \"Age Range (Description)\": \"Adult\", \"Package Information\": \"Bottle\", \"Number of Items\": \"1\", \"Dosage Form\": \"Softgel\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"2.12 x 2.12 x 3.75 inches; 0.8 Ounces\", \"Item model number\": \"B005P0U4YW\", \"Date First Available\": \"May 7, 2005\", \"Manufacturer\": \"Deva Vegan\"}",
+    "parent_asin": "B005P0U4YW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Health & Personal Care",
+      "Dietary Supplements"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Murder In Hawaii",
+    "average_rating": 4.3,
+    "rating_number": 6,
+    "features": [
+        "Excited to be guest-starring on the detective series Hawaiian Wave with their friend, actor Billy Markham, Steve Allen and Jayne Meadows arrive in Hawaii only to discover that someone is permanently eliminating the competition, and Billy and the dynamic sleuthing duo are next on the list."
+    ],
+    "description": [
+        "From Publishers Weekly",
+        "In addition to his talents as a writer, talk-show host and composer, Allen, as we've learned from previous entries in this seriocomic series (Die Laughing, 1997, etc.), is no mean sleuth. This time, Allen, who narrates, and his (real-life) wife, Jayne Meadows, visit Honolulu to help Billy Markham, the hot young star of a new TV detective drama, Hawaiian Wave. Ostensibly guest-starring as villains in the show, Allen and Meadows must nab a mysterious red-headed, Volvo-driving stalker who has made Billy afraid to venture out of his heavily fortified beach house. On location, Allen finds a drowned man who resembles Billy. Soon the episode's quirky scriptwriter also drowns under mysterious circumstances. Our latter-day Nick and Nora investigate the usual showbiz suspects: jealous co-stars, the self-important director, a rich couple whose money may be running out. While detecting, Allen plugs previous books, his old movies and TV show and even a modern piano roll that plays his compositions. Devoted Allen fans may warm to the comic and self-styled renaissance man as private eye, but others may find this talky Hawaiian travelogue to be largely an ego trip. Copyright 1998 Reed Business Information, Inc."
+    ],
+    "price": "59.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/513A9GXX7ML._SX315_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Steve Allen (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "United States"
+    ],
+    "details": "{\"Publisher\": \"Kensington; First Edition (January 1, 1999)\", \"Language\": \"English\", \"Hardcover\": \"316 pages\", \"ISBN 10\": \"1575663759\", \"ISBN 13\": \"978-1575663753\", \"Item Weight\": \"1.25 pounds\", \"Dimensions\": \"6.25 x 1.25 x 9.75 inches\"}",
+    "parent_asin": "1575663759",
+    "bought_together": null,
+    "subtitle": "Hardcover – January 1, 1999",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Steve Allen', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

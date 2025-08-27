@@ -1,0 +1,61 @@
+{
+  "item_id": 5629,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Calvin Klein Women's Plus Size Tie Dye Rib Paneled Drop Shoulder Tee",
+    "average_rating": 4.1,
+    "rating_number": 14,
+    "features": [
+      "58% Cotton, 38% Modal, 4% Spandex",
+      "Imported",
+      "Pull On closure",
+      "Collection: Performance - Style PF7X2778",
+      "MSRP - $59.00 / T-Shirt (Plus Size Sizing)",
+      "Basic Tee",
+      "Light Weight"
+    ],
+    "description": [
+      "Calvin Klein Performance creates active clothing for women that can be worn to the gym or for casual everyday wear. A special focus for Calvin Klein Performance is capturing fun, fashion trends and using easy-to-care fabrics to keep you looking stylish and comfortable for your workouts and all your casual activities. Calvin Klein Performance makes something for every woman, no matter what your size or lifestyle demands."
+    ],
+    "price": "35.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61EfDs3Q4AL._AC_UL1200_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41+JI1ng4cL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41+JI1ng4cL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Calvin Klein",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Tops, Tees & Blouses",
+      "T-Shirts"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"PF7X2778\", \"Department\": \"Womens\", \"Date First Available\": \"August 3, 2017\", \"Manufacturer\": \"Calvin Klein Performance Women's Activewear\"}",
+    "parent_asin": "B072VZ9BMH",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops"
+    ],
+    "confidence": 0.95
+  }
+}

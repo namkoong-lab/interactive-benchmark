@@ -1,0 +1,48 @@
+{
+    "main_category": "Prime Video",
+    "title": "Dorfman in Love",
+    "average_rating": 4.4,
+    "rating_number": 337,
+    "features": [
+        "IMDb 6.0",
+        "1 h 31 min",
+        "2013",
+        "X-Ray",
+        "PG-13"
+    ],
+    "description": [
+        "When Deb Dorfman volunteers to cat sit at her unrequited love's new downtown LA loft, her world changes forever.  Over seven days, she embarks on a journey of self-discovery that leads her to find her true love."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Comedy",
+        "Passionate",
+        "Sweet",
+        "Ambitious"
+    ],
+    "details": "{\"Content advisory\": [\"Nudity\", \"violence\", \"alcohol use\", \"smoking\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Brad Leong\"], \"Producers\": [\"Leonard Hill\"], \"Starring\": [\"Sara Rue\", \"Elliott Gould\", \"Haaz Sleiman\"]}",
+    "parent_asin": "B00CRP6KOQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

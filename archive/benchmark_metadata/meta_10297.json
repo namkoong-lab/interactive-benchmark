@@ -1,0 +1,40 @@
+{
+    "main_category": "Digital Music",
+    "title": "Chaser",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "Tracks: 1. On My Way Home 2. Clear 3. Gino's Suitcase 4. Not At All 5. On Your Own 6. Dear Old London Town 7. If I Was An Angel 8. This Town 9. The Bedsheets Of Lili Marlene 10. Pick Up 11. Detour 12. Almost Forgotten 13. The Ghost Of Her Husband To Be 14. Behind My Back 15. The Last Picture Show"
+    ],
+    "price": "9.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61vyEj8sI4L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61vyEj8sI4L._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Sudden Impact  (Artist)    Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Special Interest"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.55 x 4.97 x 0.54 inches; 2.83 Ounces\", \"Manufacturer\": \"Arbaon Records\", \"Item model number\": \"roguesmarch\", \"Date First Available\": \"December 7, 2006\", \"Label\": \"Arbaon Records\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0002007CO",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

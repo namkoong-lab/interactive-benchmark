@@ -1,0 +1,46 @@
+{
+    "main_category": "Digital Music",
+    "title": "Beelzebubba",
+    "average_rating": 4.7,
+    "rating_number": 78,
+    "features": [],
+    "description": [
+        "NEW Combo BLUWAVS CD and FLAC FILE"
+    ],
+    "price": "13.77",
+    "images": {
+        "hi_res": [
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/513AAKHugPL.jpg",
+            "https://m.media-amazon.com/images/I/51pk2rklD+L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/513AAKHugPL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51pk2rklD+L._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Dead Milkmen   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Indie & Alternative",
+        "Hardcore & Punk",
+        "American Punk"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Language\": \"English\", \"Product Dimensions\": \"5.64 x 0.34 x 5 inches; 3.36 Ounces\", \"Manufacturer\": \"Restless Records\", \"Date First Available\": \"July 26, 2006\", \"Label\": \"Restless Records\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000003BHO",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

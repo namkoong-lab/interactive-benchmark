@@ -1,0 +1,48 @@
+{
+    "main_category": "Books",
+    "title": "The Writer Says: Quotes, Quips, and Words of Wisdom",
+    "average_rating": 4.1,
+    "rating_number": 13,
+    "features": [
+        "The seventh in our popular Words of Wisdom series, The Writer Says summons readers to an intimate gathering of novelists, essayists, grammarians, academics, and journalists—a glittering cocktail party, where the guests may be self identified introverts (like Patti Smith, who writes \"to set herself apart cocooned, rapt in solitude\") but share their sparkling insights in this volume. Among the celebrated international guest list: Henry James and Mark Twain, squaring off about modifiers (James: pro and Twain: con); Charles Bukowski and Beverly Cleary, at odds about revision; Zadie Smith and Chinua Achebe, discussing the moral responsibilities of a writer; and Jonathan Ames and Jackie Collins, united in their desire to give readers pleasure. The Writer Says reveals the formative experiences, processes, preferences, and work habits of our most beloved writers, and will inspire readers, writers, and closet scribblers alike to follow Rick Bass's dictum: \"Write every day. Don't ever stop.\""
+    ],
+    "description": [
+        "About the Author",
+        "Kevin Lippert is founder and publisher of Princeton Architectural Press, author of",
+        "War Plan Red",
+        ", and editor of",
+        "The Inventor Says",
+        "."
+    ],
+    "price": "11.06",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/418FFo9v6EL._SX360_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kevin Lippert (Compiler)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Literary"
+    ],
+    "details": "{\"Publisher\": \"Princeton Architectural Press (October 2, 2018)\", \"Language\": \"English\", \"Hardcover\": \"160 pages\", \"ISBN 10\": \"161689721X\", \"ISBN 13\": \"978-1616897215\", \"Item Weight\": \"10.6 ounces\", \"Dimensions\": \"5.38 x 0.63 x 7.38 inches\"}",
+    "parent_asin": "161689721X",
+    "bought_together": null,
+    "subtitle": "Hardcover – October 2, 2018",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Kevin C. Lippert', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

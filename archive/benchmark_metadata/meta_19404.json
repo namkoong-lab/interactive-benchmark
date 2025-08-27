@@ -1,0 +1,48 @@
+{
+    "main_category": "Prime Video",
+    "title": "Death Ship",
+    "average_rating": 4.0,
+    "rating_number": 359,
+    "features": [
+        "IMDb 4.8",
+        "1 h 30 min",
+        "1980",
+        "X-Ray",
+        "R"
+    ],
+    "description": [
+        "A mysterious ghostly freighter rams and sinks a modern day cruise ship whose survivors climb aboard the freighter and discover that it is a World War II Nazi torture vessel."
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Suspense",
+        "Horror",
+        "Eerie",
+        "Ominous"
+    ],
+    "details": "{\"Content advisory\": [\"Nudity\", \"violence\", \"alcohol use\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Alvin Rakoff\"], \"Producers\": [\"Derek Gibson\", \"Harold Greenberg\", \"Larry Nesis\"], \"Starring\": [\"George Kennedy\", \"Richard Crenna\"]}",
+    "parent_asin": "B08MQN2ZJP",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

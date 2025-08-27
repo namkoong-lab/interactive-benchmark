@@ -1,0 +1,68 @@
+{
+  "item_id": 1195,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Daily Care Lemon Lime 2 Ounce Pwdr",
+    "average_rating": 4.1,
+    "rating_number": 10,
+    "features": [
+      "Naturally effervescent baking soda toothpowder",
+      "Lemon-Lime",
+      "Mint free",
+      "Vegan, Vegetarian, Cruelty Free"
+    ],
+    "description": [
+      "Eco-Dent Daily Care Baking Soda Toothpowder Lemon-Lime is a mint-free naturally effervescent baking soda toothpowder. It works to create healthier-looking teeth and gums, and neutralizes mouth acids. With a lower abrasivity, it cleans teeth and freshens breath without fluoride."
+    ],
+    "price": "11.91",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71SmANVub1L._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41SrkX8ZC2L.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41SrkX8ZC2L._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [
+        "ECO-DENT Premium Oral Care - Baking Soda Toothpowder",
+        "ECO-DENT ExtraBrite and TartarGuard SpecialCare Toothpowders",
+        "ECO-DENT Toothpowder Polishes Teeth & Freshens Breath"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/65d44392d7b74321a92521d53db20025?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/5c4b11d2be124b5bb214cceb1dec8a59?ref=dp_vse_rvc_1",
+        "https://www.amazon.com/vdp/9439719c87da43a3b19d99120e9ae3c4?ref=dp_vse_rvc_2"
+      ],
+      "user_id": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "store": "ECO-DENT",
+    "categories": [
+      "Health & Household",
+      "Oral Care",
+      "Toothpaste"
+    ],
+    "details": "{\"Brand\": \"ECO-DENT\", \"Flavor\": \"Lemon-Lime\", \"Age Range (Description)\": \"Adult\", \"Item Form\": \"Powder\", \"Item Weight\": \"0.12 Pounds\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"4.07 x 1.73 x 1.14 inches; 1.92 Ounces\", \"Item model number\": \"60880\", \"Department\": \"Health and Beauty>Health and Wellness\", \"UPC\": \"792217694911 000360000092\", \"Manufacturer\": \"Eco-Dent\"}",
+    "parent_asin": "B000SUIALS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Health & Personal Care",
+      "Oral Care Products"
+    ],
+    "confidence": 0.95
+  }
+}

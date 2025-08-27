@@ -1,0 +1,51 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Disney - Goof Troup Buddies Fleece Sleep Pants",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [
+        "Polyester,Fleece",
+        "Drawstring closure",
+        "Officially Licensed Merchandise",
+        "Brand New Quality Product",
+        "Music, Sports & Entertainment Item"
+    ],
+    "description": [
+        "Mickey, Donald, Goofy and Pluto smile in an all-over logo graphic on these light pink, 100% polyester fleece sleep pants. Featuring an elastic drawstring waistband for extra comfort, these are the ultimate in sleepwear from the masters at Disney!"
+    ],
+    "price": "10.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61gHvRqrDtL._AC_UL1001_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51fJ+o33e4L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51fJ+o33e4L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Goof Troop",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Women",
+        "Sleep & Lounge",
+        "Bottoms"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"December 2, 2009\"}",
+    "parent_asin": "B07BNY14PT",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

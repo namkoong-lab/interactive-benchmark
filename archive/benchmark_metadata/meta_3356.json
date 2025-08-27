@@ -1,0 +1,53 @@
+{
+    "main_category": "Grocery",
+    "title": "Hawaiian Sun Guava Jam, 18oz (1 pack). Island favorite since 1952, made with real Big Island Pink Guava.\"",
+    "average_rating": 4.2,
+    "rating_number": 58,
+    "features": [
+        "Twice the fun with the 18oz jar compared to the 10oz jar",
+        "Made with real pink guava from the Big Island, grown in rich volcanic soil.",
+        "No preservatives, artificial flavors, or colors, made fresh in Hawaii",
+        "Packaged in a glass jar for freshness enhancement",
+        "Ingredients include High Fructose Corn Syrup, Sugar, Grava Puree, Pectin, and Citric Acid"
+    ],
+    "description": [
+        "An island favorite since 1952. Enjoy these tropical flavors made with real fruit at any time of the day. We use the freshest, pink guava from the Big Island that is kissed by the cool rains and nourished in rich, volcanic soil, then processed immediately prior to packaging to offer farm to jar freshness. Our jam and jelly are made in Hawaii with no preservatives, no artificial flavor, and no artificial color."
+    ],
+    "price": "21.79",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/81OH86X-9mL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51mDizVxCZL.jpg",
+            "https://m.media-amazon.com/images/I/51agy5bC5UL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51mDizVxCZL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51agy5bC5UL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Hawaiian Sun",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Jams, Jellies & Sweet Spreads",
+        "Jams, Jellies & Preserves",
+        "Jams & Preserves"
+    ],
+    "details": "{\"Package Dimensions\": \"6.34 x 4.65 x 4.45 inches; 1.84 Pounds\", \"UPC\": \"852678914475\", \"Manufacturer\": \"Hawaiian Sun Products\"}",
+    "parent_asin": "B08G1795FF",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

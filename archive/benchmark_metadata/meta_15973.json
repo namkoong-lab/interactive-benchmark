@@ -1,0 +1,60 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Max Studio Women's Rayon Plaid Short Shirt Dress",
+    "average_rating": 3.1,
+    "rating_number": 7,
+    "features": [
+        "100% Rayon",
+        "Imported",
+        "Button closure",
+        "Machine Wash",
+        "Elbow Sleeve",
+        "Bubble Sleeve",
+        "Plaid Pattern",
+        "Tiered Construction"
+    ],
+    "description": [
+        "The classic shirtdress gets a mini makeover with its playful blouson sleeves and tiered design. This day-to-night style lends itself to maximum versatility."
+    ],
+    "price": "46.69",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81Ayyk5cu7L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71SOjeUkglL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71nv7hgLYvL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/318T1XfKmBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31-KFoqJNKL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31a3mdahAcL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/318T1XfKmBL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31-KFoqJNKL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31a3mdahAcL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "SIDE",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Max Studio",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Dresses",
+        "Casual"
+    ],
+    "details": "{\"Item model number\": \"1907M50\", \"Department\": \"womens\", \"Date First Available\": \"October 7, 2021\", \"Manufacturer\": \"Max Studio\"}",
+    "parent_asin": "B09HWQCDLW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

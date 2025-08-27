@@ -1,0 +1,82 @@
+{
+  "item_id": 5149,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Sofft - Womens - Siri",
+    "average_rating": 4.2,
+    "rating_number": 43,
+    "features": [
+      "100% Suede",
+      "Imported",
+      "Rubber sole",
+      "Rich leather uppers with a chic ruched vamp make the Sofft Siri Waterproof ankle boot stand out for a stylish season.",
+      "Easy medial side zipper closure.",
+      "Textile linings with a cushioned, leather-lined footbed.",
+      "Wrapped hidden wedge on a durable rubber outsole."
+    ],
+    "description": [
+      "Rich leather uppers with a chic ruched vamp make the Sofft Siri Waterproof ankle boot stand out for a stylish season. Easy medial side zipper closure. Textile linings with a cushioned, leather-lined footbed. Wrapped hidden wedge on a durable rubber outsole."
+    ],
+    "price": "139.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81PkObixmrL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71FhOBbwTJL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71WombnIEZL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81S4rFnYSJL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71F41SCFQoL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61dct72vXOL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41fiFA90hlL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31f3Rz8ktFL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31kjzmXrvuL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51G3tw5xDKL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31MJip+RthL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31pJDHdcqlL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41fiFA90hlL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31f3Rz8ktFL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31kjzmXrvuL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51G3tw5xDKL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31MJip+RthL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31pJDHdcqlL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT06"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Söfft",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Boots",
+      "Ankle & Bootie"
+    ],
+    "details": "{\"Product Dimensions\": \"11.9 x 7.2 x 4.1 inches; 1.7 Pounds\", \"Item model number\": \"SF0037127\", \"Department\": \"womens\", \"Date First Available\": \"May 18, 2020\", \"Manufacturer\": \"Sofft\"}",
+    "parent_asin": "B088R89FBR",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Boots"
+    ],
+    "confidence": 0.95
+  }
+}

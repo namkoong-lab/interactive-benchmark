@@ -1,0 +1,40 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Stan Lee's Mutants Monsters & Marvels",
+    "average_rating": 4.5,
+    "rating_number": 77,
+    "features": [],
+    "description": [
+        "*BRAND NEW* FACTORY SEALED* READY TO SHIP & ADD TO YOUR COLLECTION*"
+    ],
+    "price": "10.88",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61BQ8CCYH6L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61BQ8CCYH6L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rated:    Unrated    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Science Fiction & Fantasy"
+    ],
+    "details": "{\"MPAA rating\": \"Unrated (Not Rated)\", \"Package Dimensions\": \"7.1 x 5.42 x 0.58 inches; 2.93 Ounces\", \"Media Format\": \"NTSC\", \"Release date\": \"May 7, 2002\", \"Studio\": \"Goldhill Home Media\"}",
+    "parent_asin": "B0000640SY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

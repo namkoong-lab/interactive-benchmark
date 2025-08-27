@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The Compact Oxford Dictionary, Thesaurus and Wordpower Guide",
+    "average_rating": 4.8,
+    "rating_number": 12,
+    "features": [
+        "The Oxford Compact Dictionary, Thesaurus, and Wordpower Guide gives you three books in one. The dictionary section offers excellent coverage of everyday English, with over 120,000 words, phrases, and definitions, while the thesaurus has over 150,000 alternative words. Other features include straightforward guidance on grammar and usage in the shape of in-text boxes and thousands of example sentences illustrating words in use. The Wordpower Guide offers extra help to improve your vocabulary, and includes a section on foreign words and phrases, information on collective names for animals and birds, useful vocabulary for use in word games, lists of common confusables, a section on selecting the right word, and an extensive Wordbuilder section which gives instant links to related words."
+    ],
+    "description": [
+        "About the Author",
+        "Sara Hawker is Project Editor for English Dictionaries and Thesauruses at Oxford University Press Catherine Soanes is Project Editor for English Dictionaries at Oxford University Press Alan Spooner has compiled a number of thesaurus titles for Oxford University Press"
+    ],
+    "price": "16.82",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/511VJZQTWVL._SX293_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Sara Hawker (Editor)",
+    "categories": [
+        "Books",
+        "Reference",
+        "Catalogs & Directories"
+    ],
+    "details": "{\"Publisher\": \"Oxford Univ Pr (July 1, 2002)\", \"Language\": \"English\", \"Hardcover\": \"121 pages\", \"ISBN 10\": \"0198603703\", \"ISBN 13\": \"978-0198603702\", \"Item Weight\": \"2.49 pounds\", \"Dimensions\": \"5.67 x 2.25 x 8.82 inches\"}",
+    "parent_asin": "0198603703",
+    "bought_together": null,
+    "subtitle": null,
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Catherine Soanes', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

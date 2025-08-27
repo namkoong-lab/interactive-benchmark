@@ -1,0 +1,69 @@
+{
+    "main_category": "Grocery",
+    "title": "Swamp Fire Seafood Boil (Crawfish, Crab, Shrimp) 4.5# (2pk)",
+    "average_rating": 4.7,
+    "rating_number": 311,
+    "features": [
+        "1 Sak Pak is good to boil 1 Sak of Crawfish, 50# of Shrimp or 1 Bushel of Crabs.",
+        "Extra Spicy: Sprinkle on seafood after removing from liquid."
+    ],
+    "description": [
+        "1 Sak Pak is good to boil 1 Sak of Crawfish, 50# of Shrimp or 1 Bushel of Crabs. Extra Spicy: Sprinkle on seafood after removing from liquid."
+    ],
+    "price": "27.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/A1M9Ds3BK3L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81EKQF-sDCL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/816Q5zxGpwL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61Dhlkn-M3L.jpg",
+            "https://m.media-amazon.com/images/I/41qHWk19rSL.jpg",
+            "https://m.media-amazon.com/images/I/51TyWT+AVmL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61Dhlkn-M3L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41qHWk19rSL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51TyWT+AVmL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Fantastic stuff!!",
+            "How to use the Swamp Bucket for boiling your seafood!",
+            "Best seasoning for fish and veggies",
+            "Reviewing Crawfish 160 Quarts Pot & burner"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/06a3ef874dd544f1b1ac9691bc63ecca?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/009d027f2e074106bc63910569d07a49?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0caad555bc044993840dd3a37c301b07?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0219d48cb32b424ab399c020b34743d4?ref=dp_vse_rvc_3"
+        ],
+        "user_id": [
+            "AEX6Q342OK4AUIBQ34VEZAEHAKAA",
+            "/shop/gentry_russo",
+            "/shop/israelite330",
+            "/shop/weldingandstuff"
+        ]
+    },
+    "store": "Swamp Fire",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Herbs, Spices & Seasonings",
+        "Mixed Spices & Seasonings",
+        "Seafood Seasoning"
+    ],
+    "details": "{\"Brand\": \"Swamp Fire\", \"Package Weight\": \"4.14 Kilograms\", \"Number of Pieces\": \"2\", \"Item Form\": \"Bushel\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"12.09 x 9.49 x 3.9 inches; 9.13 Pounds\", \"UPC\": \"782298936284\"}",
+    "parent_asin": "B018WT83SQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

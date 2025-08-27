@@ -1,0 +1,63 @@
+{
+  "item_id": 3105,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "TYR Sport Boys' Solid Jammer Swim Suit",
+    "average_rating": 4.2,
+    "rating_number": 102,
+    "features": [
+      "80% Nylon/ 20% Lycra",
+      "Made in the USA and Imported",
+      "Pull On closure",
+      "Package dimension :1.6 inches x8.0 inches x4.7inches",
+      "Package weight :4.8ounces"
+    ],
+    "description": [
+      "Durable, sleek and eco-friendly, the Men’s TYReco Solid Jammer Swimsuit is a triple threat. Our one-of-a-kind TYReco textile, constructed from recycled fabric, requires less energy to produce, creating a lower level of CO2 pollution in the environment. Featuring an above-the-knee cut, compressive fit and adjustable drawcord waist, TYR jammers are built for athletes who want comfortable coverage during every swim. With lightweight, freedom of motion, each pair ensures reliable performance. Provides a long-lasting fit, UPF 50+ protection and chlorine resistance. TYReco:80% Recycled Nylon/ 20% LYCRA XTRA LIFE fiber"
+    ],
+    "price": "37.6",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51MYQ+k1R2L._AC_UL1300_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31T8XuyyZsL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Oi6t+-RgL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31T8XuyyZsL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41Oi6t+-RgL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "TYR",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Sport Specific Clothing",
+      "Competitive Swimwear",
+      "Boys",
+      "Briefs"
+    ],
+    "details": "{\"Package Dimensions\": \"8.1 x 4.6 x 1.7 inches; 8 Ounces\", \"Item model number\": \"RJAM1Y-P\", \"Department\": \"boys\", \"Date First Available\": \"April 6, 2010\", \"Manufacturer\": \"TYR\"}",
+    "parent_asin": "B003GAMBTY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Boys' Clothing"
+    ],
+    "confidence": 0.95
+  }
+}

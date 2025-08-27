@@ -1,0 +1,45 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Traditional Music Classics",
+    "average_rating": 3.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "Few areas have been as expansive with their treasure of traditional song as the Appalachians."
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/817XSuj374L._SL1226_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31CTP6oiIBL.jpg",
+            "https://m.media-amazon.com/images/I/51Chx5kg+AL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31CTP6oiIBL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51Chx5kg+AL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Doc Watson  (Actor)    Rated:    NR    Format: DVD",
+    "categories": [
+        "CDs & Vinyl",
+        "Pop",
+        "Vocal Pop"
+    ],
+    "details": "{\"Genre\": \"Music Video & Concerts, Country / Bluegrass\", \"Format\": \"Multiple Formats, Black & White, NTSC\", \"Contributor\": \"Doc Watson\", \"Language\": \"Unqualified (DTS ES 6.1)\", \"Number Of Discs\": \"1\", \"MPAA rating\": \"NR (Not Rated)\", \"Product Dimensions\": \"0.7 x 7.5 x 5.4 inches; 4 Ounces\", \"Media Format\": \"Multiple Formats, Black & White, NTSC\", \"Run time\": \"1 hour and 10 minutes\", \"Release date\": \"August 27, 2002\", \"Actors\": \"Doc Watson\", \"Studio\": \"Yazoo Records\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00006ADG6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

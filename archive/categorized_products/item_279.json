@@ -1,0 +1,54 @@
+{
+  "item_id": 279,
+  "metadata": {
+    "main_category": "Movies & TV",
+    "title": "Jennifer Lopez - Unauthorized",
+    "average_rating": 3.6,
+    "rating_number": 14,
+    "features": [],
+    "description": [
+      "From modest beginnings in the Bronx, New York City, to super stardom in Hollywood California, Jennifer Lopez lives the American Dream. Talent, perseverance, and a lot of hard work brought this Puertoricania to heights she never even imagined possible! Sh"
+    ],
+    "price": "3.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71p978v1I7L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81OSEtg6KkL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51nDZZ5PwdL.jpg",
+        "https://m.media-amazon.com/images/I/516AX0+HNSL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51nDZZ5PwdL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/516AX0+HNSL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Rated:    NR    Format: DVD",
+    "categories": [
+      "CDs & Vinyl",
+      "Pop",
+      "Vocal Pop"
+    ],
+    "details": "{\"Format\": \"Multiple Formats, Color, NTSC\", \"Language\": \"Unqualified (DTS ES 6.1), English (Stereo)\", \"Number Of Discs\": \"1\", \"Runtime\": \"1 hour\", \"Publication Date\": \"September 9, 2003\", \"Aspect Ratio\": \"1.33:1\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"NR (Not Rated)\", \"Product Dimensions\": \"0.7 x 7.5 x 5.4 inches; 2.93 Ounces\", \"Item model number\": \"D4370\", \"Media Format\": \"Multiple Formats, Color, NTSC\", \"Run time\": \"1 hour\", \"Release date\": \"September 9, 2003\", \"Studio\": \"Azure\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0000APVH7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Movies & TV"
+    ],
+    "confidence": 0.95
+  }
+}

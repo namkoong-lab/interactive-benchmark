@@ -1,0 +1,78 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "UGG174 Le Fluff Womens Sandal",
+    "average_rating": 4.4,
+    "rating_number": 150,
+    "features": [
+        "Leather,Suede",
+        "Imported",
+        "Synthetic sole",
+        "Heel measures approximately 5 inches\"",
+        "Platform measures approximately 1.5 inches inches inches",
+        "10mm UGGpure wool and patent leather upper",
+        "Adjustable suede heel strap",
+        "Leather sockliner + Imprint by UGG footbed",
+        "Treadlite by UGG outsole",
+        "1. 5\" platform height"
+    ],
+    "description": [
+        "*UGG® took the casual sandal and made it a little more fierce! *Patent and suede leather upper with fluffy UGGpure™ wool detail *Adjustable buckled instep strap for an easy fit *Leather lining *Leather-covered Imprint by UGG™ footbed *Treadlite by UGG™ outsole *1-1/2\" platform heel"
+    ],
+    "price": "99.9",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71dGA51S5HL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61zy8Z1t4SL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61JDOVHglwL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61RjIGTPEvL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61nNUmwTt4L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71bUtxm78uL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71SFv64s+mL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31LWhYtxsVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/318SFB0UH6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31dc61j00NL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31rjXgZXhSL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31EoKlXBoaL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31jt3QSUGDL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31qOTec7dgL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31LWhYtxsVL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/318SFB0UH6L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31dc61j00NL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31rjXgZXhSL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31EoKlXBoaL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31jt3QSUGDL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31qOTec7dgL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "UGG",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Sandals",
+        "Platforms & Wedges"
+    ],
+    "details": "{\"Product Dimensions\": \"13.9 x 7.9 x 4.8 inches; 1.5 Pounds\", \"Department\": \"womens\", \"Date First Available\": \"February 28, 2019\", \"Manufacturer\": \"UGG\"}",
+    "parent_asin": "B07P6YW42T",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

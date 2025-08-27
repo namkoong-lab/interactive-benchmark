@@ -1,0 +1,48 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Tycho Sunrise T-Shirt",
+    "average_rating": 3.3,
+    "rating_number": 10,
+    "features": [
+        "100% Cotton",
+        "Made in USA",
+        "Pull On closure",
+        "Machine Wash"
+    ],
+    "description": [
+        "Tycho shirt designed by Scott Hansen/ISO50 for Tycho. Hand-screened in San Francisco on a Bella Canvas Unisex Jersey Tee."
+    ],
+    "price": "25.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61BN1AKGXhL._AC_UL1083_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Tpi9Qf3YL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41Tpi9Qf3YL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Tycho / ISO50",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Shirts",
+        "T-Shirts"
+    ],
+    "details": "{\"Package Dimensions\": \"12 x 9 x 0.5 inches; 6 Ounces\", \"Department\": \"Mens\", \"Date First Available\": \"May 3, 2016\"}",
+    "parent_asin": "B01F2XOAMS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

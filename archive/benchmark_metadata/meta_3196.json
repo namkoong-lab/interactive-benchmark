@@ -1,0 +1,60 @@
+{
+    "main_category": "Grocery",
+    "title": "FirstChoiceCandy Dried Chili Mango Bulk Bag 5 LB",
+    "average_rating": 3.7,
+    "rating_number": 866,
+    "features": [
+        "Spicy snack, Dried Chili Mango Slices.",
+        "Cholesterol Free, Quality in Every Bite.",
+        "Delivered with nutritional info, Ingredients & expiration date label.",
+        "Guaranteed fresh - Meeting and Exceeding Industry Standards in Quality"
+    ],
+    "description": [
+        "Dried Chile Spiced Mango is a tasty snack that infuses both spicy and sweet flavors!"
+    ],
+    "price": "34.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81n+3lG7iOL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71A8kSl0MsL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71IHTmQBTOL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81QjUoBm5tL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51+yizWlWAL.jpg",
+            "https://m.media-amazon.com/images/I/412k+pUmxbL.jpg",
+            "https://m.media-amazon.com/images/I/41lfXMxMsYL.jpg",
+            "https://m.media-amazon.com/images/I/51vWUReuk6L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51+yizWlWAL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/412k+pUmxbL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41lfXMxMsYL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51vWUReuk6L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "FirstChoiceCandy",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Produce",
+        "Dried Fruits & Vegetables",
+        "Dried Fruits",
+        "Dried Mangoes"
+    ],
+    "details": "{\"Item Weight\": \"5 Pounds\", \"Size\": \"5 Pound (Pack of 1)\", \"Brand\": \"FirstChoiceCandy\", \"Specialty\": \"Cholesterol Free\", \"Package Weight\": \"2.28 Kilograms\", \"Package Dimensions\": \"11.85 x 7.48 x 4.33 inches; 5 Pounds\", \"UPC\": \"608650315521\", \"Manufacturer\": \"FirstChoiceCandy\"}",
+    "parent_asin": "B08HHG7XW7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

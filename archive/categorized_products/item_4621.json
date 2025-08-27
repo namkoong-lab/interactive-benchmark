@@ -1,0 +1,73 @@
+{
+  "item_id": 4621,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "OshKosh B'Gosh boys Ski Jacket and Snowbib Snowsuit Set",
+    "average_rating": 4.8,
+    "rating_number": 81,
+    "features": [
+      "Shell: 100% Polyester; Lining: 100% Polyester",
+      "Imported",
+      "Pull On closure",
+      "Machine Wash",
+      "Heavyweight jacket coat snowsuit",
+      "2 piece snowsuit comes with colorblock dino printed jacket with attached hood and 2 zippered pockets and matching snowbib with adjustable buckle straps, front zip closure and two pockets",
+      "weave type: Woven"
+    ],
+    "description": [
+      "This ski jacket and snowbib snowsuit set from Osh Kosh will keep him warm and snug during snowy winter days. Great quality, great style."
+    ],
+    "price": "69.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81n8xBXJtBL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81mciSvnJLL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Fn7NnKAPL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91fUDjwryyL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/4195k9Q5C3L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41B+8gPrBEL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41i8-RA4rqL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51UtWdyqKdL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/4195k9Q5C3L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41B+8gPrBEL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41i8-RA4rqL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51UtWdyqKdL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT11",
+        "PT13",
+        "PT14"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "OshKosh B'Gosh",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Boys",
+      "Clothing",
+      "Snow & Rainwear",
+      "Snow Suits"
+    ],
+    "details": "{\"Item model number\": \"B219ES83\", \"Department\": \"Boys\", \"Date First Available\": \"May 21, 2019\", \"Manufacturer\": \"Osh Kosh\"}",
+    "parent_asin": "B07RZWHKZR",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Boys' Clothing"
+    ],
+    "confidence": 0.95
+  }
+}

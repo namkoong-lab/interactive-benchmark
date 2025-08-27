@@ -1,0 +1,68 @@
+{
+  "item_id": 5749,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Columbia Men's Mountain Tech Half Zip",
+    "average_rating": 4.4,
+    "rating_number": 8,
+    "features": [
+      "100% Polyester",
+      "Zipper closure",
+      "Machine Wash",
+      "100% polyester jersey",
+      "Omni-Wick advanced evaporation",
+      "UPF 15 sun protection",
+      "Machine Wash Cold Gentle, Do Not Bleach, Tumble Dry Low, Remove Promptly, Iron Low, Do Not Use Fabric Softener, If Present Do Not Iron Decal, Do Not Dryclean",
+      "Vietnam"
+    ],
+    "description": [
+      "When the greater outdoors has you working up a sweat, this is the shirt you want on your back. Quick-drying polyester jersey fabric offers great moisture management and breathability, resists odor and stays fresh for the long haul. Side seams are offset to minimize contact in high-friction areas."
+    ],
+    "price": "35.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81tbqvnmCSL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91F6s3czyWL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/415UfZ9XJnL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41+1WLJ2+zL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/415UfZ9XJnL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41+1WLJ2+zL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Columbia",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Active",
+      "Active Shirts & Tees",
+      "T-Shirts"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"AM6565\", \"Department\": \"Mens\", \"Date First Available\": \"May 16, 2011\"}",
+    "parent_asin": "B00511OM5M",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Activewear"
+    ],
+    "confidence": 0.95
+  }
+}

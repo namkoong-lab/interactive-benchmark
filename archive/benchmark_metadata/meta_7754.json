@@ -1,0 +1,100 @@
+{
+    "main_category": "Books",
+    "title": "Agile Project Management: Creating Innovative Products",
+    "average_rating": 4.7,
+    "rating_number": 28,
+    "features": [],
+    "description": [
+        "From the Back Cover",
+        "Jim Highsmith is one of a few modern writers who are helping us understand the new nature of work in the knowledge economy.",
+        "?Rob Austin, Assistant Professor, Harvard Business School",
+        "This is the project management book weve all been waiting forthe book that effectively combines Agile methods and rigorous project management. Not only does this book help us make sense of project management in this current world of iterative, incremental Agile methods, but its an all-around good read!",
+        "?Lynne Ellen, Sr. VP & CIO, DTE Energy",
+        "Finally a book that reconciles the passion of the Agile Software movement with the needed disciplines of project management. Jims book has provided a service to all of us.",
+        "?Neville R(oy) Singham, CEO, ThoughtWorks, Inc.",
+        "The world of product development is becoming more dynamic and uncertain. Many managers cope by reinforcing processes, adding documentation, or further honing costs. This isnt working. Highsmith brilliantly guides us into an alternative that fits the times.",
+        "?Preston G. Smith, principal, New Product Dynamics/coauthor,",
+        "Developing Products in Half the Time",
+        "Now, one of the fields leading experts brings together all the knowledge and resources you need to use APM in your next project. Jim Highsmith shows why APM should be in every managers toolkit, thoroughly addressing the questions project managers raise about Agile approaches. He systematically introduces the five-phase APM framework, then presents specific, proven tools for every project participant. Coverage includes:",
+        "Six principles of Agile Project Management",
+        "Six principles of Agile Project Management",
+        "How to capitalize on emerging new product development technologies",
+        "How to capitalize on emerging new product development technologies",
+        "Putting customers at the center of your project, where they belong",
+        "Putting customers at the center of your project, where they belong",
+        "Creating adaptive teams that respond quickly to changes in your projects ecosystem",
+        "Creating adaptive teams that respond quickly to changes in your projects ecosystem",
+        "Which projects will benefit from APMand which wont",
+        "Which projects will benefit from APMand which",
+        "wont",
+        "APMs five phases: Envision, Speculate, Explore, Adapt, Close",
+        "APMs five phases:",
+        "Envision, Speculate, Explore, Adapt, Close",
+        "APM practices, including the Product Vision Box and Project Data Sheet",
+        "APM practices, including the Product Vision Box and Project Data Sheet",
+        "Leveraging your PMI skills in Agile environments",
+        "Leveraging your PMI skills in Agile environments",
+        "Scaling APM to larger projects and teams",
+        "Scaling APM to larger projects and teams",
+        "For every project manager, team leader, and team member",
+        "For every project manager, team leader, and team member",
+        "About the Author",
+        "JIM HIGHSMITH",
+        "is Director, Agile Project Management Practice, and Fellow, Business Technology Council at Cutter Consortium. He is also a Member of the Software Development Productivity Council, Flashline, Inc. Highsmith authored",
+        "Adaptive Software Development,",
+        "which won the prestigious Jolt award for excellence, and",
+        "Agile Software Development Ecosystems",
+        "(Addison Wesley). A recognized leader in the Agile movement, he co-authored the",
+        "Agile Manifesto",
+        "and co-founded the Agile Alliance.",
+        "Excerpt. © Reprinted by permission. All rights reserved.",
+        "When the",
+        "Manifesto for Agile Software Development",
+        "(www.agilealliance.org) was written in spring 2001, it launched a movement-a movement that has raced through the software development community; generated controversy and debate; connected with related movements in manufacturing, construction, and aerospace; and been extended into project management.",
+        "The essence of this movement, whether in new product development, new service offerings, software applications, or project management, rests on two foundational goals: delivering innovative products to customers (particularly in highly uncertain situations) and creating working environments in which people look forward to coming to work each day.",
+        "Innovation continues to drive economic success for countries, industries, and individual companies. While the rates of innovation in information technology in the last decade may have declined from prodigious to merely lofty, innovation in areas such as biotechnology and nanotechnology is picking up any slack.",
+        "New technologies such as combinatorial chemistry and sophisticated computer simulation are fundamentally altering the innovation process itself. When these technologies are applied to the innovation process, the cost of iteration can be driven down dramatically, enabling exploratory and experimental processes to be both more effective and less costly than serial, specification-based processes. When it takes a pharmaceutical company months to develop a chemical compound and test it, errors are costly and careful laboratory design becomes the norm. When combinatorial chemistry can create hundreds, if not thousands, of compounds in a day and sophisticated instruments can test them in a few more days, careful specification and design can be less effective and more costly than careful experimentation. This same dynamic is at work in the automotive, integrated circuit, software, and pharmaceutical industries. It will soon be at work in your industry.",
+        "But taking advantage of these new innovation technologies has proved tricky. When exploration processes replace prescriptive processes, people have to change. For the chemist who now manages the experimental compounding process rather than designing compounds himself, and the manager who has to deal with hundreds of experiments rather than a detailed, prescriptive plan, new project management and organizational processes are required. Even when these technologies and processes are lower cost and higher performance than their predecessors, the transformation often proves difficult.",
+        "Experimentation matters, as the title of Harvard Business School professor Stefan Thomke’s recent book exclaims (Thomke 2003), but many project managers are still mired in a prescriptive, conformance-to-plan mentality that eschews that very experimentation.",
+        "Project management, at least that sector of project management dealing with new product development, needs to be transformed, but to what? It needs to be transformed to move faster, be more flexible, and be aggressively customer responsive. Agile Project Management (APM) and agile product development answer this transformational need. APM brings together a set of principles and practices that enables project managers to catch up with the realities of modern product development.",
+        "The target audience for this book is project managers, those hearty individuals who shepherd teams through the exciting but often messy process of turning visions into products-be they cell phones or medical electronic instruments. APM rejects the view of project managers as functionaries who merely comply with the bureaucratic demands of schedules and budgets and replaces it with one in which they are intimately involved in helping teams deliver products. Agile project managers focus on products and people, not paperwork.",
+        "There are four broad topics covered in",
+        "Agile Project Management",
+        ": opportunity, principles, framework, and practices. The opportunity lies in creating innovative products and services-things that are new, different, and creative. These are products that can’t be defined completely in the beginning but evolve over time through experimentation, exploration, and adaptation.",
+        "The principles of APM revolve around creating both adaptive products that are easy and less expensive to change and adaptive project teams that can respond rapidly to changes in their project’s ecosystem. The framework is a set of high-level processes, or phases-Envision, Speculate, Explore, Adapt, and Close-that support exploration and experimentation and deliver results reliably, even in the face of constant change, uncertainty, and ambiguity. Finally, the practices-from developing a product vision box to getting the right people -provide actionable ways in which project teams can deliver results.",
+        "At its core, APM focuses on customers, products, and people-delivering value to customers, building adaptable products, and engaging talented people in collaborative work.",
+        "Jim Highsmith January 2004 Flagstaff, Arizona",
+        "Read more"
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51N8utaY14L._SX376_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "James A. Highsmith (Author)",
+    "categories": [
+        "Books",
+        "Business & Money",
+        "Management & Leadership"
+    ],
+    "details": "{\"Publisher\": \"Addison-Wesley Professional (January 1, 2004)\", \"Language\": \"English\", \"Paperback\": \"192 pages\", \"ISBN 10\": \"0321219775\", \"ISBN 13\": \"978-0321219770\", \"Item Weight\": \"1.04 pounds\", \"Dimensions\": \"6.75 x 0.75 x 9 inches\"}",
+    "parent_asin": "0321219775",
+    "bought_together": null,
+    "subtitle": null,
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/93v8qthva4gmin2cou5f0t2a4h._SY600_.jpg', 'name': 'Jim Highsmith', 'about': ['Jim Highsmith’s—well-known agilist, author, and storyteller— career spans six-decades of rapid technology and business change. Jim has been at the forefront of software technology’s response to that change, from working in the 1960s on Apollo, to 1970s COBOL business applications, to creating Adaptive Software Development, to recent engagements crafting modern digital businesses. With decades of business, management, and software development background, he is uniquely qualified to explore the history of software development so we can prepare for the evermore chaotic future.', 'Jim is the author of EDGE: value-driven digital transformation (Addison Wesley, 2020), Adaptive Leadership: Accelerating Enterprise Agility (Addison Wesley 2014); Agile Project Management: Creating Innovative Products (Addison Wesley 2009); Agile Software Development Ecosystems, (Addison Wesley 2002); Adaptive Software Development: A Collaborative Approach to Managing Complex Systems, (Dorset House 2000) winner of the prestigious Jolt Award; and winner of the 2005 international Stevens Award for outstanding contributions to software development.', 'Jim is a coauthor of the Agile Manifesto, a founding member of Agile Alliance, coauthor of the Declaration of Interdependence for project leaders, and cofounder and first president of the Agile Leadership Network. Jim has consulted with IT, product development organizations and software companies in the U.S., Europe, Canada, South Africa, Australia, Brazil, China, Japan, India, and New Zealand.', 'Website: jimhighsmith.com', 'Twitter: @jimhighsmith', 'LinkedIn:www.linkedin.com/in/jhighsmith/']}"
+}

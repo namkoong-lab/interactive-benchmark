@@ -1,0 +1,71 @@
+{
+  "item_id": 2459,
+  "metadata": {
+    "main_category": "Computers",
+    "title": "BELLINO Autumn Computer Backpack Scan Express, Brown",
+    "average_rating": 3.7,
+    "rating_number": 5,
+    "features": [
+      "Material: canvas and leather",
+      "Up to a 17 computer",
+      "A piggyback sleeve holds an iPad or tablet",
+      "A spacious main compartment in the middle for other work loads",
+      "Product size: 13w x 18h x 7d"
+    ],
+    "description": [
+      "This rugged, stone-washed, 20 oz canvas backpack is trimmed with rich Columbia leather and highlighted with a creamy stitch. Its durable material is made to withstand heavy daily use."
+    ],
+    "price": "98.5",
+    "images": {
+      "hi_res": [
+        null,
+        "https://m.media-amazon.com/images/I/71yFzJjy2yL._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71ca-+17iXL._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/613yoc7rF1L._AC_SL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51Fe5GFdy7L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51A4kQSC0zL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/513DOsiOSlL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51iaPeoI0qL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51Fe5GFdy7L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51A4kQSC0zL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/513DOsiOSlL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51iaPeoI0qL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Bellino",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Laptop Accessories",
+      "Bags, Cases & Sleeves",
+      "Backpacks"
+    ],
+    "details": "{\"Product Dimensions\": \"13 x 7 x 18 inches\", \"Item Weight\": \"6 Pounds\", \"Department\": \"Unisex-adult\", \"Manufacturer\": \"BELLINO\", \"Item model number\": \"P6524.Brown\", \"Is Discontinued By Manufacturer\": \"No\", \"Number Of Items\": \"1\", \"Units\": \"1.0 Count\"}",
+    "parent_asin": "B01LWOWDJ8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Tech Backpacks"
+    ],
+    "confidence": 0.95
+  }
+}

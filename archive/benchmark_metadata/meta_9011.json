@@ -1,0 +1,64 @@
+{
+    "main_category": "Books",
+    "title": "Introduction to Analytical Dynamics (Springer Undergraduate Mathematics Series)",
+    "average_rating": 4.1,
+    "rating_number": 6,
+    "features": [
+        "First published in 1987, this text offers concise but clear explanations and derivations to give readers a confident grasp of the chain of argument that leads from Newton’s laws through Lagrange’s equations and Hamilton’s principle, to Hamilton’s equations and canonical transformations.",
+        "This new edition has been extensively revised and updated to include:",
+        "A chapter on symplectic geometry and the geometric interpretation of some of the coordinate calculations.",
+        "A chapter on symplectic geometry and the geometric interpretation of some of the coordinate calculations.",
+        "A more systematic treatment of the conections with the phase-plane analysis of ODEs; and an improved treatment of Euler angles.",
+        "A more systematic treatment of the conections with the phase-plane analysis of ODEs; and an improved treatment of Euler angles.",
+        "A greater emphasis on the links to special relativity and quantum theory showing how ideas from this classical subject link into contemporary areas of mathematics and theoretical physics.",
+        "A greater emphasis on the links to special relativity and quantum theory showing how ideas from this classical subject link into contemporary areas of mathematics and theoretical physics.",
+        "A wealth of examples show the subject in action and a range of exercises – with solutions – are provided to help test understanding."
+    ],
+    "description": [
+        "Review",
+        "From the reviews of the second edition:",
+        "“It is designed to teach analytical mechanics to second and third year undergraduates in the UK, and probably to third or fourth year undergraduates in the US. … This book offers a very attractive traditional introduction to the subject. … the author is well tuned to the difficulties even strong students encounter. … discusses the relevance of classical mechanics in modern physics, especially to relativity and quantum mechanics. This is a fine textbook. It would be a pleasure to teach or to learn from it.” (William J. Satzer, The Mathematical Association of America, March, 2010)",
+        "From the Back Cover",
+        "Analytical dynamics forms an important part of any undergraduate programme in applied mathematics and physics: it develops intuition about three-dimensional space and provides invaluable practice in problem solving.",
+        "First published in 1987, this text is an introduction to the core ideas. It offers concise but clear explanations and derivations to give readers a confident grasp of the chain of argument that leads from Newton’s laws through Lagrange’s equations and Hamilton’s principle, to Hamilton’s equations and canonical transformations.",
+        "This new edition has been extensively revised and updated to include:",
+        "A chapter on symplectic geometry and the geometric interpretation of some of the coordinate calculations.",
+        "A chapter on symplectic geometry and the geometric interpretation of some of the coordinate calculations.",
+        "A more systematic treatment of the conections with the phase-plane analysis of ODEs; and an improved treatment of Euler angles.",
+        "A more systematic treatment of the conections with the phase-plane analysis of ODEs; and an improved treatment of Euler angles.",
+        "A greater emphasis on the links to special relativity and quantum theory, e.g., linking Schrödinger’s equation to Hamilton-Jacobi theory, showing how ideas from this classical subject link into contemporary areas of mathematics and theoretical physics.",
+        "A greater emphasis on the links to special relativity and quantum theory, e.g., linking Schrödinger’s equation to Hamilton-Jacobi theory, showing how ideas from this classical subject link into contemporary areas of mathematics and theoretical physics.",
+        "Aimed at second- and third-year undergraduates, the book assumes some familiarity with elementary linear algebra, the chain rule for partial derivatives, and vector mechanics in three dimensions, although the latter is not essential. A wealth of examples show the subject in action and a range of exercises – with solutions – are provided to help test understanding."
+    ],
+    "price": "34.13",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Qq465o6rL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nicholas Woodhouse (Author)",
+    "categories": [
+        "Books",
+        "Engineering & Transportation",
+        "Engineering"
+    ],
+    "details": "{\"Publisher\": \"Springer; 2nd ed. 2009 edition (February 4, 2010)\", \"Language\": \"English\", \"Paperback\": \"253 pages\", \"ISBN 10\": \"1848828152\", \"ISBN 13\": \"978-1848828155\", \"Item Weight\": \"1.76 pounds\", \"Dimensions\": \"6.1 x 0.58 x 9.25 inches\"}",
+    "parent_asin": "1848828152",
+    "bought_together": null,
+    "subtitle": "2nd ed. 2009 Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'N. M. J. Woodhouse', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

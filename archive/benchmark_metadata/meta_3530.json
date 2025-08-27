@@ -1,0 +1,47 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Glass Pearls 8mm Round Royal Blue Q.100",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "ITEM: Pearl Coat Glass Pearls",
+        "COLOR: Royal Montana Blue",
+        "SIZE: 8mm",
+        "STYLE: Smooth Round",
+        "QUANTITY: Package of 100"
+    ],
+    "description": [
+        "Pearl Beads ABSOLUTELY GLOWING!! & LUSTROUS- These are a royal color. How deep a blue do you want? These will satisfy any blue lovers need for color."
+    ],
+    "price": "6.75",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51MCrOWnb7L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51MCrOWnb7L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "UnCommon Artistry",
+    "categories": [
+        "Arts, Crafts & Sewing",
+        "Beading & Jewelry Making",
+        "Beads & Bead Assortments"
+    ],
+    "details": "{\"Item Weight\": \"70 Grams\", \"Manufacturer\": \"Jablonex\", \"Date First Available\": \"November 19, 2008\", \"Color\": \"Blue\", \"Material\": \"Glass\", \"Brand\": \"UnCommon Artistry\", \"Shape\": \"Round\", \"Number of Pieces\": \"100\"}",
+    "parent_asin": "B001LOA23O",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

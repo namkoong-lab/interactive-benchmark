@@ -1,0 +1,59 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Ariat Men's Charger Basic Tee Shirt",
+    "average_rating": 4.6,
+    "rating_number": 226,
+    "features": [
+        "100% Polyester",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Sun protection fabric",
+        "Moisture movement technology"
+    ],
+    "description": [
+        "This is a light weight everyday tek tee with advanced technology features."
+    ],
+    "price": "36.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81vbgtfj9oL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81cgme2ScFL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/816A5Mq4DlL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41lmZCvtfHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41tYfz-2uuL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/419olNG6hBL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41lmZCvtfHL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41tYfz-2uuL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/419olNG6hBL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "ARIAT",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Active",
+        "Active Shirts & Tees",
+        "T-Shirts"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"10019013\", \"Department\": \"Mens\", \"Date First Available\": \"January 28, 2017\", \"Manufacturer\": \"Ariat Men's Sportswear\"}",
+    "parent_asin": "B01H97ZKPQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

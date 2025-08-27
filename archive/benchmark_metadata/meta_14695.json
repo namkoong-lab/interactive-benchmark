@@ -1,0 +1,51 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Rockport Men's Marshall Rugged Cap Toe Boot Style CI4794",
+    "average_rating": 4.3,
+    "rating_number": 6,
+    "features": [],
+    "description": [
+        "Sophisticated with an edge. The minimalist cap-toe of these men's boots define a timeless, quality boot, so you can dress up this boot up, or keep it casual. The truTECH shock absorption—and EVA outsole and footbed—allow you to wear this men's boot all day in comfort."
+    ],
+    "price": "44.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51-PpsFSIVS._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/51N6Ac9WHfS._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/51AHQUEK+9S._AC_UL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31yajQP6AeS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/4175S644vUS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31KxDf6hdCS._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31yajQP6AeS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/4175S644vUS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31KxDf6hdCS._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rockport",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Shoes",
+        "Boots",
+        "Chukka"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"March 5, 2021\", \"Manufacturer\": \"Rockport\"}",
+    "parent_asin": "B091V3MW67",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

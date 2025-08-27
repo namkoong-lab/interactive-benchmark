@@ -1,0 +1,81 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "MeMoi Cotton Blend Basic Yoga Pants",
+    "average_rating": 4.0,
+    "rating_number": 97,
+    "features": [
+        "54 Cotton",
+        "Imported",
+        "elastic closure",
+        "Athletic yoga pants",
+        "Breathable cotton blend is soft and comfortable",
+        "Sizes up to Q1/Q2",
+        "Available in a wide variety of colors"
+    ],
+    "description": [
+        "MeMoi Cotton-Blend Yoga Pants will spot you for your most serious workouts without breaking a seam or a sweat. Cotton blend in fashion and basic colors will effortlessly keep up with your workouts, bend with you during yoga asana, and get low during your workout classes, all with comfort and without restriction. These yoga pants also look great with sneakers for a quick casual outfit, even if all you're running is errands. Available in size Q1/Q2 to accommodate a wider ranger of body shapes and sizes."
+    ],
+    "price": "30.4",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61LmVvRnYyL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61F4KtcO5vL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/7145LQr3JxL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71dkOyD2RfL._AC_UL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/71JcJafkwLL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71LND7L4JxL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71IWbOFp7WL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51I4sIx+w0L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31yBf30NlFL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/315T2Tvx6nL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31h-VbjYfvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31mpIy-emxL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/519mfGj4rgL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31qpwTleL-L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31fd9uOjNZL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31kcmVy+2tL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31-QJdCGMcL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31yBf30NlFL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/315T2Tvx6nL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31h-VbjYfvL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31mpIy-emxL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/519mfGj4rgL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31qpwTleL-L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31fd9uOjNZL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31kcmVy+2tL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31-QJdCGMcL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "MeMoi",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing"
+    ],
+    "details": "{\"Item model number\": \"MQ-006\", \"Department\": \"Womens\", \"Date First Available\": \"August 6, 2015\", \"Manufacturer\": \"MeMoi\"}",
+    "parent_asin": "B097SD1WD9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

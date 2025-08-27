@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "A Tropical Frontier: The Good Dog",
+    "average_rating": 4.5,
+    "rating_number": 105,
+    "features": [
+        "The Eighth novel in the award-winning \"Tropical Frontier\" series, The Good Dog is the prequel to The Cow Hunters. This is the story of one dog's journey to discover a place called home."
+    ],
+    "description": [
+        "About the Author",
+        "Tim Robinson is a third generation Floridian, his grandfather having taken up a 100 acre homestead on Cape Canaveral in 1924. It was his grandfather and father who instilled in him a love for everything Florida. Tim grew up in West Palm Beach, halfway between saltwater Lake Worth and freshwater Lake Mangonia, where he spent his childhood and youth traipsing through the woods or biking over to the beach or taking in the wonders of Florida in some fashion or another. He lives with his wife, Connie, on a small farm in Indiantown, Florida."
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/511xkDiTRjL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Tim Robinson (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Genre Fiction"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform (March 3, 2016)\", \"Language\": \"English\", \"Paperback\": \"69 pages\", \"ISBN 10\": \"1523347414\", \"ISBN 13\": \"978-1523347414\", \"Grade level\": \"7 - 9\", \"Item Weight\": \"4 ounces\", \"Dimensions\": \"6 x 0.18 x 9 inches\"}",
+    "parent_asin": "1523347414",
+    "bought_together": null,
+    "subtitle": "Paperback – March 3, 2016",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/vtihr5gthmoplesho3ot0j4eq0._SY600_.jpg', 'name': 'Tim Robinson', 'about': ['Tim Robinson is a third generation Floridian, his grandfather having taken up a 100 acre homestead on Cape Canaveral in 1924. It was his grandfather and father who instilled in him a love for everything Florida. Tim grew up in West Palm Beach, halfway between saltwater Lake Worth and freshwater Lake Mangonia, where he spent his childhood and youth traipsing through the woods or biking over to the beach or taking in the wonders of Florida in some fashion or another. He lives with his wife, Connie, on a small farm in Indiantown, Florida. atropicalfrontier.com']}"
+}

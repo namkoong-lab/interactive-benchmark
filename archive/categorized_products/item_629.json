@@ -1,0 +1,52 @@
+{
+  "item_id": 629,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "A WHDH Christmas",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+      "WHDH a very popular radio station in Boston.They put this album out in 1984 containing 11 Christmas classics. Arranged and Conducted by Robert Sterling and Sheldon Curry."
+    ],
+    "price": "4.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/9105SE4rfwL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51J5skTdZ4L.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51J5skTdZ4L._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Assorted  (Author)",
+    "categories": [
+      "CDs & Vinyl",
+      "Holiday & Wedding",
+      "Christmas"
+    ],
+    "details": "{\"Manufacturer\": \"Fair West Studios\", \"Date First Available\": \"March 1, 2010\", \"Label\": \"Fair West Studios\"}",
+    "parent_asin": "B0038MSSIS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Christmas Music"
+    ],
+    "confidence": 0.95
+  }
+}

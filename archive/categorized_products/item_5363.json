@@ -1,0 +1,69 @@
+{
+  "item_id": 5363,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "inktastic I Love My Grammy To the Moon and Back Baby Bodysuit",
+    "average_rating": 4.7,
+    "rating_number": 28,
+    "features": [
+      "100% Cotton",
+      "Made in the USA and Imported",
+      "Snap closure",
+      "Machine Wash",
+      "Our unisex one piece baby bodysuit makes a unique clothing gift for newborns, babies, infants, baby showers and expectant moms.",
+      "Quick & easy diaper changing with reinforced three-snap closure.",
+      "Solid colors are 100% cotton, other are cotton/polyester or cotton/polyester/viscose Blend.",
+      "Clothes printed In the USA."
+    ],
+    "description": [
+      "I Love My Grammy To The Moon and Back Baby Bodysuit are a great way to show your unwavering love for your family member!"
+    ],
+    "price": "15.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51eEk4sEoAL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/41crzP4jIGL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61SKD3+xxjL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/313wYwLmYRL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21A2jGIhwKL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41l-nXxbtvL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/313wYwLmYRL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/21A2jGIhwKL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41l-nXxbtvL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "inktastic",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Westlake"
+    ],
+    "details": "{\"Item model number\": \"14-169541-2\", \"Department\": \"Baby-girls\", \"Date First Available\": \"March 23, 2017\"}",
+    "parent_asin": "B06XSZ7526",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Girls' Clothing",
+      "Baby Clothing",
+      "Baby Bodysuits"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,53 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Maui Medallion Shot Glass",
+    "average_rating": 4.6,
+    "rating_number": 11,
+    "features": [
+        "Made of Glass",
+        "2 Fl. Oz"
+    ],
+    "description": [
+        "Pour your favorite drink into our medallion shot glass collection. These medallions represent what makes it's island beautiful and unique."
+    ],
+    "price": "12.88",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41x6j-6yTmL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41x6j-6yTmL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Crystal Shot Glasses Decorated with 24K Gold Leaf Flakes"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/06ae80befcf84a6b9d73cff9eded14dd?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "KC Hawaii",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Dining & Entertaining",
+        "Glassware & Drinkware",
+        "Liqueur & Spirits Glasses",
+        "Shot Glasses"
+    ],
+    "details": "{\"Brand\": \"KC Hawaii\", \"Material\": \"Glass\", \"Color\": \"Black, Glass\", \"Style\": \"Modern\", \"Theme\": \"Medallion\", \"Shape\": \"Round\", \"Pattern\": \"Solid\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"1.0 Count\", \"Number of Items\": \"1\", \"League\": \"Ncaa\", \"Package Dimensions\": \"2.7 x 2.3 x 2.1 inches\", \"Item Weight\": \"5.6 ounces\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 446984, \"Shot Glasses\": 3447, \"Sports Fan Kitchen & Dining Products\": 12452}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"January 25, 2018\"}",
+    "parent_asin": "B079B7ZMXN",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

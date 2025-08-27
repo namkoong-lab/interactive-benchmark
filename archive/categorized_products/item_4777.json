@@ -1,0 +1,66 @@
+{
+  "item_id": 4777,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Anne Klein Women's Long Sleeve Maxi Dress",
+    "average_rating": 3.5,
+    "rating_number": 19,
+    "features": [
+      "73% Polyester, 27% Nylon",
+      "Imported",
+      "Pull On closure",
+      "Dry Clean Only",
+      "Burnout Velvet",
+      "Long Sleeve",
+      "Tie At Waist",
+      "Crew Neck",
+      "Side Slit"
+    ],
+    "description": [
+      "Add elegance and style to your wardrobe this Fall with this Anne Klein burnout velvet mesh maxi dress. It offers an easy to throw on silhouette in a combo velvet/mesh fabrication that will be comfortable for all day wear. The red and black colorway offers a chic look that looks stunning on."
+    ],
+    "price": "127.61",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81VhhJdaFhL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/813cg56aHBL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41Buk1yQV-L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41xOa3tmyaL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41Buk1yQV-L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41xOa3tmyaL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Anne Klein",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Dresses"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"August 5, 2021\", \"Manufacturer\": \"Anne Klein\"}",
+    "parent_asin": "B09C1C48Q6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Dresses"
+    ],
+    "confidence": 0.95
+  }
+}

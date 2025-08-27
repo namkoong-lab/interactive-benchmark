@@ -1,0 +1,49 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Gone",
+    "average_rating": 4.4,
+    "rating_number": 1942,
+    "features": [],
+    "description": [
+        "Amanda Seyfried (",
+        "In Time, Red Riding Hood",
+        ") stars in this intense thriller about a desperate young woman who, after being ignored by the police, is forced to go on the hunt alone for a maniacal serial killer whom she believes has kidnapped her younger sister."
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91gJ5YkVzPL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51NZSpCIfrL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51NZSpCIfrL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Gone"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/b95a5fee6246404a9480835b9e561286?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Amanda Seyfried  (Actor),     Jennifer Carpenter  (Actor)    Rated:    PG-13    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Fully Loaded DVDs",
+        "DTS"
+    ],
+    "details": "{\"Genre\": \"Drama\", \"Format\": \"Multiple Formats, Color, Dolby, DTS Surround Sound, NTSC, Subtitled, Widescreen\", \"Contributor\": \"Jennifer Carpenter, Wes Bentley, Amanda Seyfried, Daniel Sunjata\", \"Language\": \"English\", \"Runtime\": \"1 hour and 35 minutes\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"PG-13 (Parents Strongly Cautioned)\", \"Product Dimensions\": \"0.7 x 7.5 x 5.4 inches; 2.4 Ounces\", \"Item model number\": \"25176601\", \"Media Format\": \"Multiple Formats, Color, Dolby, DTS Surround Sound, NTSC, Subtitled, Widescreen\", \"Run time\": \"1 hour and 35 minutes\", \"Release date\": \"May 29, 2012\", \"Actors\": \"Amanda Seyfried, Jennifer Carpenter, Wes Bentley, Daniel Sunjata\", \"Dubbed\": \"Spanish\", \"Subtitles\": \"English\", \"Studio\": \"Lionsgate\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B007IJKQRS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

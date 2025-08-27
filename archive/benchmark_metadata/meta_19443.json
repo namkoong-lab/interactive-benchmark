@@ -1,0 +1,45 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Big Hero 6: The Series: Back In Action!",
+    "average_rating": 4.6,
+    "rating_number": 131,
+    "features": [],
+    "description": [
+        "The adventures continue for tech genius Hiro Hamada and his healthcare companion, the lovable, inflatable Baymax! Picking up right before the end of the film, Hiro thinks Baymax is lost forever, until he finds the chip Tadashi designed to create Baymax. Hiro immediately gets to work rebuilding Baymax, but his overconfidence and impatience get him into trouble. The stakes are raised for Hiro, Baymax and their friends -- adrenaline junkie Go Go, neatnik Wasabi, chem whiz Honey Lemon and fanboy Fred -- as they fight to protect San Fransokyo as Big Hero 6."
+    ],
+    "price": "8.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71w7LDgtjnL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81HXDayOiKL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51PmVAB7B9L.jpg",
+            "https://m.media-amazon.com/images/I/51uuj+cfptL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51PmVAB7B9L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51uuj+cfptL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Scott Adsit  (Actor),     Jamie Chung  (Actor)    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Walt Disney Studios Home Entertainment",
+        "All Disney Titles"
+    ],
+    "details": "{\"Genre\": \"Disney Channel\", \"Format\": \"NTSC, Subtitled\", \"Contributor\": \"Jenifer Lewis, Jamie Chung, Scott Adsit\", \"Language\": \"English (Dolby Digital 2.0), French (Dolby Digital 2.0), Spanish (Dolby Digital 2.0)\", \"Number Of Discs\": \"1\", \"Aspect Ratio\": \"1.78:1\", \"Product Dimensions\": \"0.7 x 7.5 x 5.4 inches; 2.56 Ounces\", \"Media Format\": \"NTSC, Subtitled\", \"Run time\": \"2 hours and 55 minutes\", \"Release date\": \"June 26, 2018\", \"Actors\": \"Scott Adsit, Jamie Chung, Jenifer Lewis\", \"Dubbed\": \"French, Spanish\", \"Subtitles\": \"English, French, Spanish\", \"Studio\": \"DISNEY CHANNEL\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B07CG1R3MX",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

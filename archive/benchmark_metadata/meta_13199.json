@@ -1,0 +1,48 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "FitFlop Men's Gogh Moc Slide Sandal",
+    "average_rating": 4.4,
+    "rating_number": 10,
+    "features": [
+        "Rubber sole",
+        "Padded mesh-lined upper",
+        "Adjustable quick-stick straps",
+        "Slip-resistant rubber outsole",
+        "Microwobbleboard comfort technology"
+    ],
+    "description": [
+        "Looking for no-nonsense, casual sandals? These classic leather two-bar slides tick every (shoe) box. The ultimate in easy, with FitFlop's ergonomic, instant pressure-diffusing Microwobbleboard midsoles and adjustable, softly padded straps."
+    ],
+    "price": "90.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61dxxqepsyS._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41eqfdaK5kS._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41eqfdaK5kS._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "FitFlop",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Shoes",
+        "Sandals"
+    ],
+    "details": "{\"Date First Available\": \"June 9, 2021\", \"Manufacturer\": \"FitFlop\"}",
+    "parent_asin": "B096YLHGDP",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

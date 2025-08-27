@@ -1,0 +1,61 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Helly Hansen Workwear Men's Waverley High Visibility Packable Storm Suit",
+    "average_rating": 3.4,
+    "rating_number": 5,
+    "features": [
+        "100% Other Fibers",
+        "Imported",
+        "Machine Wash",
+        "Waterproof",
+        "Reflective 3m scotch lite",
+        "Taped seams",
+        "Vented chest and back",
+        "Adjustable suspenders"
+    ],
+    "description": [
+        "100% PVC coated denier nylon suit that can be folded up into the hood for storage. Excellent garment to keep around the worksite or in the truck in case of inclement weather. The Waverley is used widely in construction, mining and service industries and is compliant to all major north American visibility standards."
+    ],
+    "price": "46.61",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71jIgoE8WQS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71ZViswfSvS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71WFUMR8HSS._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/4136Zk2ws3S._AC_.jpg",
+            "https://m.media-amazon.com/images/I/313Asgh6pUS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31NDgSChaWS._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/4136Zk2ws3S._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/313Asgh6pUS._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31NDgSChaWS._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Helly-Hansen",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Uniforms, Work & Safety",
+        "Clothing",
+        "Work Utility & Safety",
+        "Overalls & Coveralls"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"70620\", \"Department\": \"mens\", \"Date First Available\": \"July 23, 2015\", \"Manufacturer\": \"Helly Hansen Men's Workwear\"}",
+    "parent_asin": "B00ZWRA6XM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,50 @@
+{
+    "main_category": "Books",
+    "title": "Kenmore Square and the Fenway of Boston Through Time (America Through Time)",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "Kenmore Square and The Fenway of Boston Through Time",
+        "chronicles the history and development of an area of the city of Boston that only began in the early nineteenth century. When the Mill Dam, present day Beacon Street, was opened in 1821 between the foot of Beacon Hill and Sewall's Point, now known as Kenmore Square, the area west of Boston was now accessible by land, as previously the only means of access was by The Neck, a thin strip of land in the South End that connected Boston to the mainland at Roxbury. However, in the late nineteenth century, Frederick Law Olmsted transformed the marshland into the Back Bay Fens, which became an integral part of the Emerald Necklace of Boston.",
+        "Anthony Sammarco, with contemporary photographs by Peter B. Kingman, discusses Kenmore Square with the Hotel Buckminster, built in 1897 facing the prominent square, along with ease of transportation which led to early residential hotels such as the Charlesview, the Wadsworth and the Westgate to be built along with large hotels such as the Hotel Kenmore and the Hotel Braemore. With apartment buildings constructed between 1900 and 1930, the Back Bay Fens evolved into the Fenway neighborhood, with not just accessibility to the city but also with a far more park-like and naturalistic aspect than any other city neighborhood. With numerous institutions from the Museum of Fine Arts and the Boston Opera House to the Harvard Medical School and numerous hospitals, Kenmore Square is dominated by the iconic Citgo sign and is not just home to baseball's beloved Fenway Park, which draws huge crowds for Red Sox games, but also many restaurants, shops and student hangouts which have long been in and around Kenmore Square, and clubs and sports bars along Brookline Avenue and Lansdowne Street."
+    ],
+    "description": [
+        "About the Author",
+        "ANTHONY M. SAMMARCO is a noted historian and author of over seventy books on the history and development of Boston, and he lectures widely on the history of his native city. His books",
+        "Lost Boston, The History of Howard Johnson's: How A Massachusetts Soda Fountain Became a Roadside Icon, Jordan Marsh: New England's Largest Store, The Baker Chocolate Company: A Sweet History",
+        ", and",
+        "Christmas Traditions in Boston",
+        "have been bestsellers."
+    ],
+    "price": "22.55",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51m-Ic74tJS._SX349_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Anthony M. Sammarco (Author)",
+    "categories": [
+        "Books",
+        "History",
+        "Americas"
+    ],
+    "details": "{\"Publisher\": \"America Through Time (July 26, 2021)\", \"Language\": \"English\", \"Paperback\": \"96 pages\", \"ISBN 10\": \"1634993381\", \"ISBN 13\": \"978-1634993388\", \"Item Weight\": \"10.6 ounces\", \"Dimensions\": \"6.5 x 0.31 x 9.25 inches\"}",
+    "parent_asin": "1634993381",
+    "bought_together": null,
+    "subtitle": "Paperback – July 26, 2021",
+    "author": null
+}

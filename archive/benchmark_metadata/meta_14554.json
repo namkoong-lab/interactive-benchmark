@@ -1,0 +1,52 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Maevn Mens' Stretch Cargo Scrub Pant with Zip Front (Tall, too)",
+    "average_rating": 4.5,
+    "rating_number": 12,
+    "features": [
+        "52% Cotton, 45% Polyester, 3% Spandex",
+        "Button closure",
+        "Maevn Men's Collection"
+    ],
+    "description": [
+        "Features: Full inner drawstring and button closure. Flat front with back elastic waist and three utility belt loops. Fully functional zipper fly. Two front slash pockets and both utility cargo pockets. One patch back pocket. High endurance stitching. Maevn embroidery on back belt loop. Side vents at bottom for ease of movement."
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51oO-7SXOrL._AC_UL1000_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31LNd7kVmmL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31+hv8RugyL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31LNd7kVmmL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31+hv8RugyL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Maevn",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Uniforms, Work & Safety",
+        "Clothing",
+        "Medical",
+        "Scrub Bottoms"
+    ],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"February 2, 2015\"}",
+    "parent_asin": "B00T3EIS9O",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

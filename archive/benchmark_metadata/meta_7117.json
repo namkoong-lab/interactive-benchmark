@@ -1,0 +1,49 @@
+{
+    "main_category": "Books",
+    "title": "A Degree of Mastery",
+    "average_rating": 4.4,
+    "rating_number": 14,
+    "features": [
+        "In this extraordinary memoir, certain to captivate anyone who's ever appreciated the feel of a good book, Annie Tremmel Wilcox deftly explores the artistry, traditions, and precise techniques of book making and restoration. Using excerpts from her diaries, newspaper articles, exhibit notices, and correspondence, Wilcox passionately recounts her experiences learning the art of making and preserving books as the first female apprentice to the renowned book binder and conservator William Anthony. At once rendering a gorgeous, moving scrapbook of her tutelage under this consummate craftsman, and expertly demystifing the fascinating technical processes of this centuries-old art form,",
+        "A Degree of Mastery",
+        "is a singular achievement certain to enchant book lovers and crafts- people alike.\"Wilcox describes the restoration processes . . . with such detail that one is left with the impression that he or she is actually learning the craft rather than merely reading about another's experience.\"--",
+        "Kirkus Reviews",
+        "(starred review)\"True bibliophiles will find it hard to suppress a frisson of excitement as Wilcox recounts the techniques she and her colleagues used to bring crumbling manuscripts . . . back to life.\"--",
+        "Publishers Weekly"
+    ],
+    "description": [
+        "About the Author",
+        "Annie Tremmel Wilcox earned her Ph.D. in English at the University of Iowa in 1994. She has taught writing for more than fifteen years and also works privately as a rare- book and paper conservator and teacher of book arts."
+    ],
+    "price": "5.34",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41V9QF3R16L._SX303_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Annie Tremmel Wilcox (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "History & Criticism"
+    ],
+    "details": "{\"Publisher\": \"Penguin Group USA; First Edition (January 1, 2000)\", \"Language\": \"English\", \"Paperback\": \"224 pages\", \"ISBN 10\": \"0140291938\", \"ISBN 13\": \"978-0140291933\", \"Item Weight\": \"5.6 ounces\", \"Dimensions\": \"5 x 0.5 x 7.5 inches\"}",
+    "parent_asin": "0140291938",
+    "bought_together": null,
+    "subtitle": "Paperback – January 1, 2000",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Annie Tremmel Wilcox', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

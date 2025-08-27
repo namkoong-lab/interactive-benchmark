@@ -1,0 +1,52 @@
+{
+  "item_id": 368,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Vaughan Williams: Symphony No. 5 in D/Flos Campi - Suite",
+    "average_rating": 5.0,
+    "rating_number": 12,
+    "features": [],
+    "description": [
+      "classical music audio cd - general"
+    ],
+    "price": "10.0",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/4157EGBP88L.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/4157EGBP88L._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Ralph Vaughan Williams  (Composer),     Vernon Handley  (Conductor),     Royal Liverpool Philharmonic  (Orchestra),     Christopher Balmer  (Performer),     Liverpool Philharmonic Choir  (Performer)    &                   2                  more   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Classical",
+      "Forms & Genres",
+      "Concertos"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.63 x 4.88 x 0.43 inches; 3.32 Ounces\", \"Manufacturer\": \"EMI Eminence\", \"Date First Available\": \"October 25, 1990\", \"Label\": \"EMI Eminence\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00000DO16",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs"
+    ],
+    "confidence": 0.95
+  }
+}

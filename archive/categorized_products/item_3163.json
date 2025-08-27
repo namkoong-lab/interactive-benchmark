@@ -1,0 +1,72 @@
+{
+  "item_id": 3163,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Aidan by Aidan Mattox Women's Spaghetti Strap Beaded Gown",
+    "average_rating": 2.5,
+    "rating_number": 2,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Zipper closure",
+      "Hand Wash Only",
+      "V neck detail",
+      "Concealed center back zipper",
+      "Weave type: knit",
+      "closure type: Zipper"
+    ],
+    "description": [
+      "Spaghetti strap hand beaded gown with high low skirt"
+    ],
+    "price": "430.49",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91ZZdWQW6cL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81gGOehXMHL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41hYaY4vUpL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41oOn1PfZEL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41hYaY4vUpL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41oOn1PfZEL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Aidan by Aidan Mattox Women's Spaghetti Strap Beaded Gown"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/81a7f131cfb64624b7a65ce1fc087b56?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "Aidan by Aidan Mattox",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Dresses",
+      "Cocktail"
+    ],
+    "details": "{\"Package Dimensions\": \"0.39 x 0.39 x 0.39 inches; 1 Pounds\", \"Item model number\": \"MD1E200690\", \"Department\": \"womens\", \"Date First Available\": \"December 28, 2017\", \"Manufacturer\": \"Aidan by Aidan Mattox\"}",
+    "parent_asin": "B0731ZW6TQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Dresses"
+    ],
+    "confidence": 0.95
+  }
+}

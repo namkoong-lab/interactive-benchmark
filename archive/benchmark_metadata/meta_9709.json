@@ -1,0 +1,41 @@
+{
+    "main_category": "Digital Music",
+    "title": "YESTERDAY AND TODAY - JIM HAMILL",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "SOUTHERN GOSPEL CLASSIC"
+    ],
+    "price": "15.99",
+    "images": {
+        "hi_res": [
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31s7Ki1TmML.jpg",
+            "https://m.media-amazon.com/images/I/31hGU4zV7tL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31s7Ki1TmML._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/31hGU4zV7tL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jim Hamill   Format: Audio CD",
+    "categories": [],
+    "details": "{\"Date First Available\": \"February 19, 2010\"}",
+    "parent_asin": "B00391JG5M",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

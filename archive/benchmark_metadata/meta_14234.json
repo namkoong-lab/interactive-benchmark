@@ -1,0 +1,51 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Adams Optimum Pigment Dyed Twill Cap",
+    "average_rating": 5.0,
+    "rating_number": 9,
+    "features": [
+        "Cotton,Mesh,Leather",
+        "Buckle closure",
+        "100% garment-washed cotton twill",
+        "6-panel, unstructured, low-profile",
+        "tuck-away leather back strap with antiqued brass buckle and grommet",
+        "Cool-Crown? mesh lining",
+        "four rows of stitching on bill"
+    ],
+    "description": [
+        "100% garment-washed cotton twill; 6-panel, unstructured, low-profile; tuck-away leather back strap with antiqued brass buckle and grommet ; Cool-Crown? mesh lining; four rows of stitching on bill; Adams logo on leather strap"
+    ],
+    "price": "12.17",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/717pEYFtahL._AC_UL1400_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/417YdWrTJ5L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/417YdWrTJ5L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Adams",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Accessories",
+        "Hats & Caps",
+        "Baseball Caps"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"April 7, 2021\", \"Manufacturer\": \"Whispering Pines Sportswear\"}",
+    "parent_asin": "B0921Z543W",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

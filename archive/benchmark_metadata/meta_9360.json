@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Adams & Adams Fit for Scuba",
+    "average_rating": 4.2,
+    "rating_number": 7,
+    "features": [
+        "Scuba diving is a sport that has unique physical demands. In Fit for SCUBA, you will find the recipe for your very own strength and conditioning program. You can choose from a variety of exercises which were selected with you, the scuba diver, in mind. Workouts that can be completed at home as well as in a fitness facility have been provided so you can create a program that is right for you. It doesn’t matter where you work out, as long as you exercise regularly. As you progress through your program, you will feel more prepared to handle the physical demands of scuba diving."
+    ],
+    "description": [
+        "About the Author",
+        "Jessica and Jaime are avid divers, scuba instructors and fitness instructors. When they are not busy traveling to dive destinations, they are working to improve the safety of the scuba diving community. Jessica and Jaime have been afforded the opportunity to participate in dive research internship programs offered by Divers Alert Network and Duke University. Each has participated in internships at the Environmental Physiology Laboratory at Duke University. Jessica has also collected data at Sunset House in Grand Cayman, as a field research intern for Project Dive Exploration. Both have earned M.S. degrees in Exercise Physiology. They are also college level health and fitness instructors as well as personal training instructors for the National Council on Strength and Fitness. As professionals, they have found a way to integrate their love of diving and fitness into their work."
+    ],
+    "price": "14.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Tl-3WTh6L._SY498_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jessica B Adams (Author)",
+    "categories": [
+        "Books",
+        "Sports & Outdoors",
+        "Water Sports"
+    ],
+    "details": "{\"Publisher\": \"Infinity Publishing (July 3, 2013)\", \"Language\": \"English\", \"Paperback\": \"154 pages\", \"ISBN 10\": \"0741431114\", \"ISBN 13\": \"978-0741431110\", \"Item Weight\": \"9 ounces\", \"Dimensions\": \"8 x 0.35 x 8 inches\"}",
+    "parent_asin": "0741431114",
+    "bought_together": null,
+    "subtitle": "Paperback – July 3, 2013",
+    "author": null
+}

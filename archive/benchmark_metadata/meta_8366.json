@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The 7 Things You Absolutely Have to Know About Banana Slugs (The 7 Things You Absolutely Have to Know Series)",
+    "average_rating": 4.5,
+    "rating_number": 17,
+    "features": [
+        "A children's book all about the amazing world of banana slugs from the Pacific Northwest."
+    ],
+    "description": [
+        "About the Author",
+        "Jarad Petroske is a writer living in the California."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51WZ++qPdWL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jarad Petroske (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Biological Sciences"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform; First Edition (February 9, 2017)\", \"Language\": \"English\", \"Paperback\": \"36 pages\", \"ISBN 10\": \"154052387X\", \"ISBN 13\": \"978-1540523877\", \"Item Weight\": \"3.04 ounces\", \"Dimensions\": \"6 x 0.09 x 9 inches\"}",
+    "parent_asin": "154052387X",
+    "bought_together": null,
+    "subtitle": "Paperback – February 9, 2017",
+    "author": null
+}

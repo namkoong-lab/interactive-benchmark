@@ -1,0 +1,44 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Skechers Women's Ballet Flat",
+    "average_rating": 4.3,
+    "rating_number": 139,
+    "features": [
+        "Rubber sole"
+    ],
+    "description": [
+        "Roam if you want to wearing the smooth style and comfort of the Skechers BOBS Gypsy shoe. Smooth leather-textured microfiber fabric upper in a slip on casual comfort alpargata flat with Memory Foam insole and flexible rubber crepe outsole."
+    ],
+    "price": "50.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71AcTPGH2zL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41NstLP8uiL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41NstLP8uiL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Skechers",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Flats"
+    ],
+    "details": "{\"Item model number\": \"31949\", \"Department\": \"Womens\", \"Date First Available\": \"December 31, 2019\", \"Manufacturer\": \"Skechers BOBS\"}",
+    "parent_asin": "B083C62JSZ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

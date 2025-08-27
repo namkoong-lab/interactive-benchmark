@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Doubly Bubbly",
+    "average_rating": 5.0,
+    "rating_number": 10,
+    "features": [
+        "Doubly Bubbly is something that breaks all the rules. I mean, don’t you want it to? Anyway, it’s the kind of book that gets put in the corner, but also likes being there. It’s a twisty straw to your mind, a swervy brainstorm of vapidity. It tells you to sit on its lap and ends up on yours. It’s carbonated with apostrophes and ellipses. It wears something lacy when no one is looking. It’s a meditative hallucinogen, a firecracker epiphany that converges to an infinite pillow. It overdoes it on the first date. It always guesses C. Some of its pages might be stuck together. But it's the truth. And you can finish it before you’d finish two martinis. Well, most of you."
+    ],
+    "description": [
+        "About the Author",
+        "Louis Lasser IV is an author by morning, bartender and tap dancer by night. After teaching Math for twelve years, he traded the numerals for dreams built with vowels and consonants. Born from a decade of poetry and street art, Wednesday Night Meeting lives as his first novel. Doubly Bubbly is a novella that contains a lot of empty space because it is meant to mirror the mind of a man. It's pretty silly, but with pretension. Shalimar, one of his two forthcoming books, is a bowl of rock candy disguised as a romantic novella. Upright Harmonica is the other one. It neither includes anything upright or anything about playing the harmonica. It's about sexual discovery and a desk fan.Louis graduated from Adelphi University with a degree in Mathematics, but majored in trying to solve the abstract equation of what life is about. His real education has come from friends and lushes, preachers and professors, colleagues and former students--and has been further sparked by Manhattan skyscrapers and the harbors of Port Jefferson and Setauket. His style is most influenced by the writers Langston Hughes, O. Henry, E.E. Cummings, and Tom Robbins."
+    ],
+    "price": "12.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51O+iPEUfhL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Louis L. Lasser IV (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Humor & Satire"
+    ],
+    "details": "{\"Publisher\": \"Independently published (September 25, 2019)\", \"Language\": \"English\", \"Paperback\": \"236 pages\", \"ISBN 10\": \"1096945401\", \"ISBN 13\": \"978-1096945406\", \"Item Weight\": \"11.9 ounces\", \"Dimensions\": \"6.14 x 0.54 x 9.21 inches\"}",
+    "parent_asin": "1096945401",
+    "bought_together": null,
+    "subtitle": "Paperback – September 25, 2019",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/dmlpkgg47iab90bodrgvqu9c1c._SY600_.jpg', 'name': 'Louis L. Lasser IV', 'about': ['Lou resides on a hill in East Setauket. He lives amongst chipmunks, blue jays, squirrels, and one woodpecker with whom he plays catch. The baseball is a peanut. He also lives with his grandmother, Marian. She is a marvel and a mezzo-soprano. He writes down words on paper; she lifts lyrics off the page. She also gives them rocket ship wings and lands them on a treble clef staff in the sky. Constellations sing for billions of years, don’t you know.', 'He graduated from Adelphi University with a degree in Mathematics, but majored in trying to solve the abstract equation of what life is about. His real education has come from friends and lushes, preachers and professors, colleagues and former students—and has been further sparked by the skyscrapers of Manhattan, the harboring waters of Port Jefferson, the rollercoasters of Coney Island, the cornfields of Indiana, the razor breezes of Chicago, and the hollow craters of the Moon. His style is most influenced by the writers O. Henry, E.E. Cummings, and Tom Robbins.']}"
+}

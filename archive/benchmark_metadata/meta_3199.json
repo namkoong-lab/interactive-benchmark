@@ -1,0 +1,67 @@
+{
+    "main_category": "Grocery",
+    "title": "Bob's Red Mill Semolina Pasta Flour - 24 oz - 2 Pack",
+    "average_rating": 4.8,
+    "rating_number": 1868,
+    "features": [
+        "Semolina is the essential ingredient for making authentic hand made Italian pastas",
+        "Bob's Red Mill"
+    ],
+    "description": [
+        "Bob's Red Mill Semolina Pasta Flour - 24 oz - 2 Pack"
+    ],
+    "price": "13.04",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91xomUyZcEL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91g6wTz7egL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71jLwcyYjlL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/719oCCf9WKL._SL1050_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51M+9iCuK5L.jpg",
+            "https://m.media-amazon.com/images/I/41iUzgCKsCL.jpg",
+            "https://m.media-amazon.com/images/I/51C6mQNDRaL.jpg",
+            "https://m.media-amazon.com/images/I/51mGJCTYqrL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51M+9iCuK5L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41iUzgCKsCL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51C6mQNDRaL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51mGJCTYqrL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "FACT",
+            "INGR"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Polselli - Pasta Flour",
+            "Cooking with mom: ‘You can’t be nervous in the kitchen’"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/01ceb99e77f440b1864990802c85cdd0?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/57778bd63c744d2396b54d2dbd82a307?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            "AE3SL34RNZWZHBKVHTVDVIREYN5A"
+        ]
+    },
+    "store": "Bob's Red Mill",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Cooking & Baking",
+        "Flours & Meals",
+        "Wheat Flours & Meals"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"1 x 1 x 1 inches; 3 Pounds\", \"UPC\": \"039978043184 773821845739\", \"Manufacturer\": \"Bob's Red Mill\"}",
+    "parent_asin": "B0B5MJMC6D",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

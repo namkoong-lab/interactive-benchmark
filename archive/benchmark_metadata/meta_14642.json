@@ -1,0 +1,55 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Limited Too Girls' Knit Top and Short Set",
+    "average_rating": 4.2,
+    "rating_number": 114,
+    "features": [
+        "Top: 100% Polyester; Bottom: 98% Cotton, 2% Spandex",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Embroidered lace trim along neckline",
+        "5 pocket denim short",
+        "Vanilla scallop trim along pockets"
+    ],
+    "description": [
+        "Express your individuality and creativity with the fun fashion of Limited Too! You deserve to look great!"
+    ],
+    "price": "21.85",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81Wq4X9G1FL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/714YSDcWL+L._AC_UL1130_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51B0-KsBOmL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51ULWK-vu+L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51B0-KsBOmL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51ULWK-vu+L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Limited Too",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Girls",
+        "Clothing",
+        "Clothing Sets",
+        "Short Sets"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"PF781\", \"Department\": \"Girls\", \"Date First Available\": \"February 18, 2016\", \"Manufacturer\": \"Limited Too Girls Apparel Child Code\"}",
+    "parent_asin": "B01B3TSGIY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

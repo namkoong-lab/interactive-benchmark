@@ -1,0 +1,76 @@
+{
+  "item_id": 4923,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Function - Flying Pigs Fashion Socks",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "100% Polyester",
+      "Hang Dry",
+      "ALL OVER PRINT - Plain white socks are boring! Our socks feature an all over print to bring your feet to life!",
+      "COMFORT AND BREATHABILITY - Our custom material formula features a 100% Polyester fabric that allows for all day breathability and wearability. No more stinky feet!",
+      "SIZE GUIDE - Our socks fit both men and women. For men we recommend sizes 6-12 and for women we recommend sizes 7-13.",
+      "LONG LASTING PRINT - Our dye process allows for everlasting prints that will never fade or crack."
+    ],
+    "description": [
+      "It's true that pigs can fly. Here's our proof, a pair of all over print socks featuring a repeating flying pig pattern. Never again doubt their aerial skills! These tube socks are made from a polyester blend with a black cotton toe cap. All socks are designed with an all over graphic print that won't crack or peel. Featuring an elastic cuff to create a tight, non-slip fit. Recommended for mens size 6-12. Machine washable, hang dry. Have more fun!"
+    ],
+    "price": "9.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71qEvaXFgPL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71R6E+E2wdL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81QnV4VLvNL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61gmpqauN6L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Z8hjFSlKL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41nPKiSZlQL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41yBowfuq4L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/417H6+c3ACL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41qmxRdxLOL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31SltLqLh4L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41nPKiSZlQL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41yBowfuq4L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/417H6+c3ACL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41qmxRdxLOL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31SltLqLh4L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Function Socks",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Socks & Hosiery",
+      "Socks"
+    ],
+    "details": "{\"Item Weight\": \"4 Ounces\", \"Item model number\": \"1182\", \"Department\": \"mens\", \"Date First Available\": \"January 23, 2016\"}",
+    "parent_asin": "B01AZRTIVO",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Socks"
+    ],
+    "confidence": 0.95
+  }
+}

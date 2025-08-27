@@ -1,0 +1,59 @@
+{
+  "item_id": 486,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Comp Works for String Quartet",
+    "average_rating": 4.5,
+    "rating_number": 3,
+    "features": [],
+    "description": [
+      "This new, 4-CD survey from Champs Hill Records explores the complete string quartet music of Felix and Fanny Mendelssohn in performances by ten different, young string quartet ensembles, each performing one quartet work apiece. Included in this set is a posthumously published work of Felix Mendelssohn composed when he was 14, twelves fugues for string quartet composed at age 12 and late works for string quartet never intended for a collection as such."
+    ],
+    "price": "41.43",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61tPsQNvkQL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/819uSJ+i2AL._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/81RYkK5kMpL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51ya9UWPzJL.jpg",
+        "https://m.media-amazon.com/images/I/51uPEQgu+SL.jpg",
+        "https://m.media-amazon.com/images/I/51k2qgyshJL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51ya9UWPzJL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51uPEQgu+SL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51k2qgyshJL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "MENDELSSOHN FELIX & FANNY  (Artist)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Classical",
+      "Chamber Music"
+    ],
+    "details": "{\"Product Dimensions\": \"4.96 x 5.59 x 0.71 inches; 7.27 Ounces\", \"Manufacturer\": \"Champs Hill Records\", \"Original Release Date\": \"2014\", \"Date First Available\": \"May 6, 2014\", \"Label\": \"Champs Hill Records\", \"Number of discs\": \"4\"}",
+    "parent_asin": "B00J9SEXBG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Classical Music Box Sets"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,43 @@
+{
+    "main_category": "Books",
+    "title": "Black (Colors Books)",
+    "average_rating": 5.0,
+    "rating_number": 10,
+    "features": [
+        "Introduces some common objects that are black in color including dirt, tires, and hockey pucks."
+    ],
+    "description": [
+        "About the Author",
+        "Michael Dahl is the prolific author of the bestselling Goodnight, Baseball picture book and more than 200 other books for children and young adults. He has won the AEP Distinguished Achievement Award three times for his nonfiction, a Teacher’s Choice award from Learning magazine, and a Seal of Excellence from the Creative Child Awards. Dahl currently lives in Minneapolis, Minnesota."
+    ],
+    "price": "6.39",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/211RRVVQ3ML._BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Michael Dahl (Author)",
+    "categories": [
+        "Books",
+        "Children's Books"
+    ],
+    "details": "{\"Publisher\": \"Capstone Press (January 1, 2005)\", \"Language\": \"English\", \"Library Binding\": \"32 pages\", \"ISBN 10\": \"0736836683\", \"ISBN 13\": \"978-0736836685\", \"Reading age\": \"4 - 8 years\", \"Lexile measure\": \"AD580L\", \"Grade level\": \"Kindergarten - 2\", \"Item Weight\": \"12.6 ounces\", \"Dimensions\": \"9.25 x 0.31 x 10.25 inches\"}",
+    "parent_asin": "0736836683",
+    "bought_together": null,
+    "subtitle": "Library Binding – January 1, 2005",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/515dfZI4-1L._SY600_.jpg', 'name': 'Michael Dahl', 'about': [\"Michael Dahl is the author of more than 200 books for children and young adults. His nonfiction has won the AEP Distinguished Achievement Award three times. His Finnegan Zwake mystery series published by Simon & Schuster won rave reviews and two of its titles were shortlisted for the Edgar and the Anthony Mystery Awards. He has written The Everything Kid's Joke Book as well as Gotcha Covered! (with Kathleen Baxter from School Library Journal) on nonfiction books that get kids excited about reading. Dahl is the Editorial Director for Stone Arch Books based in Minneapolis, where his books have won national design awards and been selected by the Junior Library Guild. His fantasy series, The Library of Doom, is the most-read series by hi-lo readers across the country. He has spoken at numerous schools, libraries, bookstores, and conferences inn the US and UK, including ALA, AASL, Renaissance Learning, TLA and IRA. He lives in a haunted house.\"]}"
+}

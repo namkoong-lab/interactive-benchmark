@@ -1,0 +1,61 @@
+{
+  "item_id": 3196,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Gilroy Womens Ladies Rabbit Fur Leather Fingerless Suede Mittens Winter Wrist Gloves",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+      "Suede,Leather,Fur,Faux Leather",
+      "Drawstring closure",
+      "Cuff gloves with silky soft rabbit fur trim.",
+      "Cute Warm gloves, protect your hands from cold winter outdoors.",
+      "Material: Rabbit Fur Faux Leather",
+      "Size: One Size For Regular Female Hands (Size adjustable at the wrists with drawstrings).",
+      "Package Included: 1 Pair of Women's Winter Gloves"
+    ],
+    "description": [
+      "Package Included: 1 Pair of Women's Winter Gloves"
+    ],
+    "price": "4.49",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51V2Q4Jzk7L._AC_UL1010_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41x-K+XDA6L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41x-K+XDA6L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Gilroy",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Accessories",
+      "Gloves & Mittens",
+      "Mittens"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"October 31, 2016\"}",
+    "parent_asin": "B01MG7L06U",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Work Gloves"
+    ],
+    "confidence": 0.9
+  }
+}

@@ -1,0 +1,48 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Classic Black Onyx Tuxedo Studs and Cufflinks Gold Trim",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Toggle closure",
+        "Black circular onyx",
+        "classic styling",
+        "4 Studs",
+        "2 Cufflinks"
+    ],
+    "description": [
+        "Classic Black Onyx Studs and Cufflinks Gold Plated"
+    ],
+    "price": "85.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/613zUHLz3uL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31K27MM0+LL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31K27MM0+LL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "David's Formal Wear",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Jewelry",
+        "Shirt Studs"
+    ],
+    "details": "{\"Item model number\": \"3600\", \"Department\": \"mens\", \"Date First Available\": \"October 30, 2013\"}",
+    "parent_asin": "B00GBLIOYG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

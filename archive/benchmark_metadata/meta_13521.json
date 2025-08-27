@@ -1,0 +1,47 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Vans Unisex Sk8-Hi Patch Sneaker",
+    "average_rating": 4.5,
+    "rating_number": 30,
+    "features": [
+        "Rubber sole"
+    ],
+    "description": [
+        "Vans Unisex Sk8-Hi Patch Sneaker"
+    ],
+    "price": "89.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61idU9xgfNL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61AAYazxmyL._AC_UL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Ty7NBEQsL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41VAAB-e8mL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41Ty7NBEQsL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41VAAB-e8mL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Vans",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Shoes"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Item model number\": \"VN0A38GE UJY\", \"Department\": \"Mens\", \"Date First Available\": \"October 19, 2018\", \"Manufacturer\": \"Vans\"}",
+    "parent_asin": "B07JJJKXRJ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

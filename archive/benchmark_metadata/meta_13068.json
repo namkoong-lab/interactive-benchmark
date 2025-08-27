@@ -1,0 +1,55 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "ASICS Women's Ready Set Singlet",
+    "average_rating": 3.2,
+    "rating_number": 32,
+    "features": [
+        "100% Synthetic",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Texturized mesh provides comfort and inherent wicking technology",
+        "Screening instruction D",
+        "Set in sleeves"
+    ],
+    "description": [
+        "The singlet is the runner's uniform, worn by athletes the world over. This proud member of that fraternity is made of the quick-drying, textured mesh of Cationic polyester to wick away moisture, as well as set in sleeves for speed."
+    ],
+    "price": "18.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81kbqRn+9QL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81LLt-5h7GL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41knA29DgIL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41z4KmdKHsL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41knA29DgIL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41z4KmdKHsL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "ASICS",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Active",
+        "Active Shirts & Tees"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"WR1231.55-P\", \"Department\": \"womens\", \"Date First Available\": \"September 12, 2012\", \"Manufacturer\": \"ASICS Sports Apparel\"}",
+    "parent_asin": "B0099EX17C",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

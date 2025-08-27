@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "OPC UA: The Basics: An OPC UA Overview For Those Who May Not Have a Degree in Embedded Programming",
+    "average_rating": 3.5,
+    "rating_number": 14,
+    "features": [
+        "OPC UA: The Basics is an Everyman’s overview of OPC UA. This is not a hardcore technical specification that digs down to the smallest bits and bytes of OPC UA. This is a high level overview of the protocol for someone without 20 years of experience in embedded programming. Perfect for a sales person, IT Professional or executive trying to figure out what OPC UA brings to the table. Join John Rinaldi (The Dr. Phil of Automation) as he breaks down the features of OPC UA and gives you insight into how this emerging technology is redefining the line between Automation and Enterprise Systems."
+    ],
+    "description": [
+        "About the Author",
+        "John Rinaldi, the \"Dr. Phil\" of Industrial Networking, is the President of Real Time Automation. Mr. Rinaldi is a leading expert in the design, development and integration of advanced networking devices in factory and building automation systems. His webinars on networking are watched tens of thousands of times each year. Mr. Rinaldi obtained his BS in Electrical Engineering from Marquette University and a Masters in Computer Science from the University of Connecticut. At the University of Connecticut Mr. Rinaldi developed ground breaking controls for intelligent Avatars long before Avatars became popular in home gaming. Mr. Rinaldi is experienced in all facets of Manufacturing Automation including device development (Allen-Bradley), factory floor controls (Kimberly-Clark) and enterprise systems (Procter & Gamble)."
+    ],
+    "price": "17.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51ebzaXJRgL._SX311_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mr John Rinaldi (Author)",
+    "categories": [
+        "Books",
+        "Engineering & Transportation",
+        "Engineering"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform (February 20, 2013)\", \"Language\": \"English\", \"Paperback\": \"76 pages\", \"ISBN 10\": \"1482375885\", \"ISBN 13\": \"978-1482375886\", \"Item Weight\": \"2.88 ounces\", \"Dimensions\": \"5 x 0.16 x 7.99 inches\"}",
+    "parent_asin": "1482375885",
+    "bought_together": null,
+    "subtitle": "Paperback – February 20, 2013",
+    "author": null
+}

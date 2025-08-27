@@ -1,0 +1,40 @@
+{
+    "main_category": "Movies & TV",
+    "title": "The Ground Truth",
+    "average_rating": 4.0,
+    "rating_number": 57,
+    "features": [],
+    "description": [
+        "The ground truth"
+    ],
+    "price": "16.53",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91v3EyTX1KL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51TZlbd2e6L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51TZlbd2e6L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rated:    PG    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Movies"
+    ],
+    "details": "{\"MPAA rating\": \"PG (Parental Guidance Suggested)\", \"Package Dimensions\": \"7.1 x 5.42 x 0.58 inches; 2.93 Ounces\", \"Media Format\": \"NTSC, Widescreen\", \"Language\": \"Unqualified (DTS ES 6.1)\", \"Studio\": \"Alliance Films\"}",
+    "parent_asin": "B000H5U5Q2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

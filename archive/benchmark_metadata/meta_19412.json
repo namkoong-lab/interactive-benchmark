@@ -1,0 +1,47 @@
+{
+    "main_category": "Prime Video",
+    "title": "Jackie Chan Adventures",
+    "average_rating": 4.9,
+    "rating_number": 346,
+    "features": [
+        "IMDb 7.4",
+        "2003",
+        "17 episodes",
+        "ALL"
+    ],
+    "description": [
+        "The J-Team reunites in Season 3 of Jackie Chan Adventures. Jackie faces new challenges in Las Vegas as he is split with a noble tiger and must battle the Dark Chi Enforcers. Valmont is shrunk to the size of a 10 year old while Jade grows 50-feet tall. Jade organizes a petting zoo filled with animals from Section 13 and trouble stirs when the animals are activated. The J-team goes to the Peking..."
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Comedy",
+        "Animation",
+        "Kids",
+        "Fantasy"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Christopher Berkeley\", \"Michael Chang\", \"Andy Thom\", \"Seung Eun Kim\", \"Phil Weinstein\", \"Michael Goguen\", \"David Hartman\", \"Bryan Andrews\", \"Jane Wu\", \"Alan Caldwell\"], \"Producers\": [\"Jackie Chan\", \"Willie Chan\", \"Brian Gersh\", \"Solon So\", \"Jeff Kline\", \"Duane Capizzi\"]}",
+    "parent_asin": "B001LTZ680",
+    "bought_together": null,
+    "subtitle": "Season 3",
+    "author": null
+}

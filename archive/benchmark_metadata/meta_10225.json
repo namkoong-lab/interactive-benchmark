@@ -1,0 +1,47 @@
+{
+    "main_category": "Digital Music",
+    "title": "I Believe in the Spirit",
+    "average_rating": 3.9,
+    "rating_number": 15,
+    "features": [],
+    "description": [
+        "Ori Release '03, Solo album from the Charlatans frontman ."
+    ],
+    "price": "12.26",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71ZWV3oZzFL._SL1100_.jpg",
+            "https://m.media-amazon.com/images/I/71T3lNIkmXL._SL1050_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51JHnXClmTL.jpg",
+            "https://m.media-amazon.com/images/I/51EmEU9uplL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51JHnXClmTL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51EmEU9uplL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Tim Burgess   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Indie & Alternative",
+        "Alternative Rock",
+        "British Alternative",
+        "Britpop"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.59 x 0.39 x 4.92 inches; 3.53 Ounces\", \"Manufacturer\": \"PIAS 2003\", \"Item model number\": \"PIASB099CD\", \"SPARS Code\": \"DDD\", \"Date First Available\": \"August 31, 2008\", \"Label\": \"PIAS 2003\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0000AM6QU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

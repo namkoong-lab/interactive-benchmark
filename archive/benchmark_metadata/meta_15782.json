@@ -1,0 +1,62 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Dress the Population Women's Teresa Sequin Gown",
+    "average_rating": 2.9,
+    "rating_number": 6,
+    "features": [
+        "100% Nylon",
+        "Made in the USA and Imported",
+        "Zipper closure",
+        "Dry Clean Only",
+        "Sequin",
+        "Full length gown",
+        "Made in USA",
+        "Stretch"
+    ],
+    "description": [
+        "Cap sleeve sequin gown with high neck and a scoop back"
+    ],
+    "price": "194.25",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71J-pdcRsdL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/619Te+7ugsL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41XLfAzZVVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41O+7KHnHtL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41XLfAzZVVL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41O+7KHnHtL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Dress the Population Women's Teresa Sequin Cap Sleeve Scoop Back Column Gown"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/200d936c23f44c4bae85661ed8d05a8a?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Dress the Population",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Dresses",
+        "Formal"
+    ],
+    "details": "{\"Item model number\": \"1393-1200\", \"Department\": \"Womens\", \"Date First Available\": \"March 10, 2023\", \"Manufacturer\": \"Dress the Population\"}",
+    "parent_asin": "B0BY1F9TWZ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

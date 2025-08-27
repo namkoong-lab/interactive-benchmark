@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "The Beauty of Ireland",
+    "average_rating": 3.8,
+    "rating_number": 9,
+    "features": [],
+    "description": [
+        "DUBLIN Colourful, musical and historic, Dublin has a past steeped in literature and religion. In this city of contrasts, vast churches and grand buildings are found along Georgian streets interspersed with all kinds of modern shopping and dynamic, friendly pubs  truly a fashionable city with its past never far away. KERRY Rolling countryside meets rocky, mountainous coastlines in County Kerry. Discover a taste of life long ago in the Dingle Peninsula, the steam railway at Tralee and the Blennerville Windmill. The outstanding beauty of Killarney National Parks wooded hills and rocky mountains captures the whole feeling of Kerry  unspoiled and inspiring. DONEGAL In the northernmost part of Ireland, Donegal is a place of rugged shores, mountains and moors. From the vast glacial valleys surrounded by the Donegal Mountains, to the remote Bloody Foreland named for the colour of the rocks as they turn blood red at sunset, to the famous hand-woven tweed of Donegal town, this is an ancient land full of old Irish culture and traditions. CORK County Cork is renowned for its rugged landscapes, the gentility of its people and historic and exciting Cork City, the second largest city in Ireland. Just off the coast is spectacular Garinish Island, where one finds a replica of an Italian garden, complete with original exotic flowers and villas. Visit world-famous Blarney Castle, where legend says that whoever kisses the stone within the castle receives the gift of eloquence."
+    ],
+    "price": "14.1",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81kXM0lmquL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Te2gk+klL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Te2gk+klL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rated:    Unrated    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Documentary"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"Unrated (Not Rated)\", \"Product Dimensions\": \"7.75 x 5.75 x 0.53 inches; 3.2 Ounces\", \"Media Format\": \"Multiple Formats, Color, NTSC\", \"Run time\": \"1 hour and 45 minutes\", \"Release date\": \"March 15, 2005\", \"Language\": \"Unqualified\", \"Studio\": \"Bfs Entertainment\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0007TKOFA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

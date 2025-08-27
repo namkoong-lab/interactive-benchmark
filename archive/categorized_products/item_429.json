@@ -1,0 +1,57 @@
+{
+  "item_id": 429,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "How Beautiful Heaven Must Be",
+    "average_rating": 4.8,
+    "rating_number": 192,
+    "features": [],
+    "description": [
+      "Owen Mac's 6th Studio Album - His First All Gospel Album - How Beautiful Heaven Must Be. 12 Tracks including duets with his father, sister and Irish Country Singer Tony Allen."
+    ],
+    "price": "28.15",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81CcNdU52SL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91EUm4mLKIL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/419Gl6N7nPL.jpg",
+        "https://m.media-amazon.com/images/I/51-EdUNEt2L.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/419Gl6N7nPL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51-EdUNEt2L._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "MAC,OWEN  (Artist)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "International Music",
+      "Europe",
+      "British Isles",
+      "Ireland"
+    ],
+    "details": "{\"Product Dimensions\": \"5.55 x 4.96 x 0.35 inches; 2.33 Ounces\", \"Manufacturer\": \"Sharpe Music\", \"Original Release Date\": \"2020\", \"Date First Available\": \"November 7, 2020\", \"Label\": \"Sharpe Music\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B08LNBW7FQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs"
+    ],
+    "confidence": 0.95
+  }
+}

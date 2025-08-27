@@ -1,0 +1,66 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Timberland Women's Skyla Bay Pull-on Boots",
+    "average_rating": 4.2,
+    "rating_number": 79,
+    "features": [
+        "nubuck",
+        "Made in the USA or Imported",
+        "Rubber sole",
+        "Shaft measures approximately Ankle from arch",
+        "Boot opening measures approximately 9\" around",
+        "Better Leather from a tannery rated silver for its water, energy, and waste management practices",
+        "Convenient pull-on style",
+        "Faux fur lining made from ReBOTL fabric containing at least 50% recycled plastic",
+        "Footbed of EVA-blend foam for high-rebound cushioning",
+        "Rubber rand"
+    ],
+    "description": [
+        "Featuring a sneaker-inspired rubber sole, these convenient pull-on boots offer the added comfort of an EVA-blend foam cushioned footbed. They're also warmly lined with faux fur crafted from eco-conscious fabric."
+    ],
+    "price": "45.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51Va6XM2HqL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/51Ji-tOAWEL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/6175UhukezL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/51hRn2FFmvL._AC_UL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31YW6Bgki8L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31RLkad787L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/316b6iiiARL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31dRCIwFqFL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31YW6Bgki8L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31RLkad787L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/316b6iiiARL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31dRCIwFqFL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Timberland",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Boots",
+        "Ankle & Bootie"
+    ],
+    "details": "{\"Item model number\": \"TB0A2KWN\", \"Department\": \"womens\", \"Date First Available\": \"September 13, 2021\", \"Manufacturer\": \"Timberland\"}",
+    "parent_asin": "B09PB4K9Q8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

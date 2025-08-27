@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Breathing Just A Little",
+    "average_rating": 4.8,
+    "rating_number": 44,
+    "features": [
+        "'Breathing Just A Little' is a poignant collection of poems that explore themes of vulnerability, love, relationships, identity and loneliness. This is a book that compels and reaches out to the 'softness' in us all; a moving, tender and honest collection that transcends all boundaries. A collection that is guaranteed to leave your soul aching; wondering how it is possible, someone you have never met, can articulate your thoughts so well."
+    ],
+    "description": [
+        "About the Author",
+        "Farah Gabdon is a performance poet, writer and English teacher from London, by way of Somalia. With a degree in Creative Writing, she has captivated audiences with her writing and performance poetry across London and Europe."
+    ],
+    "price": "12.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41-ufizn+cL._SX322_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "F Gabdon (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Poetry"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform (December 9, 2016)\", \"Language\": \"English\", \"Paperback\": \"148 pages\", \"ISBN 10\": \"1530331080\", \"ISBN 13\": \"978-1530331086\", \"Item Weight\": \"5.3 ounces\", \"Dimensions\": \"5.08 x 0.32 x 7.8 inches\"}",
+    "parent_asin": "1530331080",
+    "bought_together": null,
+    "subtitle": "Paperback – December 9, 2016",
+    "author": null
+}

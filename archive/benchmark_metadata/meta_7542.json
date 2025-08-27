@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Synthetic Sanity",
+    "average_rating": 3.9,
+    "rating_number": 25,
+    "features": [
+        "Sweet and snarky, June Wilson is spending her last summer before college interning at Maze Estates, a local mental institution. Still reeling in the tragedy of her sister’s sudden death, June needs a fresh start; even if it might be a little crazy. When she meets dreamy fellow intern Evan, she thinks their fling will be the most eventful part of her summer. However, falling for him is only the tip of the iceberg as June becomes immersed in the all-consuming epidemic that is insanity."
+    ],
+    "description": [
+        "About the Author",
+        "Caroline Cole feels awkward talking about herself in the third person, so she's going to take it from here. Just a Georgia Peach from the Blue Ridge mountains bringing you quirky and snide literature one book at a time. My writing is embedded with dry humor and witty wordplay. I believe in raw content accented with sharp technique. I am an avid dark tourist meaning I love to take advantage of morose attractions. Apart from traveling, I am a cat-loving, crime-junkie who adores her family and eating ice cream for breakfast. Writing is my passion, it's actually the only way to keep my head from exploding, and I am so excited to be sharing my work."
+    ],
+    "price": "12.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51WGA835GJL._SX311_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Caroline C. Cole (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Genre Fiction"
+    ],
+    "details": "{\"Publisher\": \"Independently published (February 26, 2019)\", \"Language\": \"English\", \"Paperback\": \"264 pages\", \"ISBN 10\": \"1797415700\", \"ISBN 13\": \"978-1797415703\", \"Item Weight\": \"10.4 ounces\", \"Dimensions\": \"5 x 0.66 x 8 inches\"}",
+    "parent_asin": "1797415700",
+    "bought_together": null,
+    "subtitle": "Paperback – February 26, 2019",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/61Oqv-xU9SL._SY600_.jpg', 'name': 'Caroline C. Cole', 'about': ['Caroline Cole feels awkward talking about herself in the third person, so she’s going to take it from here. Just a Georgia Peach from the Blue Ridge mountains bringing you quirky and snide literature one book at a time. My writing is embedded with dry humor and witty wordplay. I believe in raw content accented with sharp technique. I am an avid dark tourist meaning I love to take advantage of morose attractions. Apart from traveling, I am a cat-loving, crime-junkie who adores her family and eating ice cream for breakfast. Writing is my passion, it’s actually the only way to keep my head from exploding, and I am so excited to be sharing my work.']}"
+}

@@ -1,0 +1,41 @@
+{
+    "main_category": "Digital Music",
+    "title": "Organ and Chimes Play Christmas Carols",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "stereo, 1962"
+    ],
+    "price": "193.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91XDim0OlnL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51x7ujqYDTL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51x7ujqYDTL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "various artists  (Artist)    Format: Vinyl",
+    "categories": [
+        "CDs & Vinyl",
+        "Holiday & Wedding",
+        "Christmas"
+    ],
+    "details": "{\"Package Dimensions\": \"15.55 x 13.15 x 1.14 inches; 1.07 Pounds\", \"Manufacturer\": \"camden\", \"Date First Available\": \"February 8, 2015\", \"Label\": \"camden\"}",
+    "parent_asin": "B00TCIERIC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

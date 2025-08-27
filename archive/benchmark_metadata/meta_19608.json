@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "3/4",
+    "average_rating": 4.0,
+    "rating_number": 7,
+    "features": [],
+    "description": [
+        "Mila is a gifted pianist with a bright future, yet her father pays more attention to the rings of Saturn than to her goals, and her brother tries to distract her with his unwanted talent for the absurd. A portrait of a family, struggling to find meaning during their last summer together."
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51tvMNYd5QL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51tvMNYd5QL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mila Mihova  (Actor),     Nikolay Mashalov  (Actor)    Rated:    NR    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Science Fiction & Fantasy",
+        "Fantasy"
+    ],
+    "details": "{\"Genre\": \"Drama\", \"Format\": \"NTSC\", \"Contributor\": \"Mila Mihova, Kaloyan Georgiev, Simona Genkova, Betina Ip, Nikolay Mashalov, Ilian Metev, Ingmar Trost, Todor VeltchevMila Mihova, Kaloyan Georgiev, Simona Genkova, Betina Ip, Nikolay Mashalov, Ilian Metev, Ingmar Trost, Todor Veltchev  See more\", \"Language\": \"English\", \"Runtime\": \"1 hour and 23 minutes\", \"Aspect Ratio\": \"1.33:1\", \"MPAA rating\": \"NR (Not Rated)\", \"Product Dimensions\": \"7.5 x 5.5 x 0.5 inches; 3.5 Ounces\", \"Director\": \"Ilian Metev\", \"Media Format\": \"NTSC\", \"Run time\": \"1 hour and 23 minutes\", \"Release date\": \"June 26, 2018\", \"Actors\": \"Mila Mihova, Nikolay Mashalov, Todor Veltchev, Simona Genkova, Kaloyan Georgiev\", \"Subtitles\": \"English\", \"Producers\": \"Ilian Metev, Ingmar Trost\", \"Studio\": \"Gravitas Ventures\", \"Writers\": \"Betina Ip, Ilian Metev\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B07BN7Q2F2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

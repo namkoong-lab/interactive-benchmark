@@ -1,0 +1,77 @@
+{
+  "item_id": 4587,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Product of Brand Bella + Canvas Unisex Jersey Short-Sleeve T-Shirt - ASH - XL - (Instant Savings of 5% & More)",
+    "average_rating": 5.0,
+    "rating_number": 7,
+    "features": [
+      "100% combed and ring-spun cotton",
+      "Pull On closure",
+      "Machine Wash",
+      "Ash is 99% combed ringspun cotton, 1% polyester",
+      "Black Heather and Athletic Heather are 90% cotton / 10% polyester",
+      "all other Heather/Blend colors are 52% combed ringspun cotton, 48% polyester",
+      "unisex sizing; retail fit",
+      "fitted at bicep; shoulder taping"
+    ],
+    "description": [
+      "4.2 oz, 100% combed and ring-spun cottonAsh 99% combed and ring-spun cotton/1% polyesterAthletic Heather 90% combed and ring-spun cotton/10% polyesterAll other Heather CVC colors 52% combed and ring-spun cotton/48% polyester 30 singlesTaped shouldersSide-seamedRetail fitUnisex sizingSizes: XS - 4X"
+    ],
+    "price": "9.84",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71w4I9JMk3L._AC_UL1500_.jpg",
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41LnTvIJsuL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21wR-I0XRFL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21De-uqjIML._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41LnTvIJsuL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/21wR-I0XRFL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/21De-uqjIML._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [
+        "What I like about the Bella + Canvas 3001C"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0914bafc7e744a0982e8b50dcf01d5d7?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        "/shop/influencer-3e648abf"
+      ]
+    },
+    "store": "Bella Canvas",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Shirts",
+      "T-Shirts"
+    ],
+    "details": "{\"Package Dimensions\": \"9.57 x 8.07 x 1.3 inches; 4.16 Ounces\", \"Item model number\": \"3001C\", \"Department\": \"Mens\", \"Date First Available\": \"September 6, 2018\"}",
+    "parent_asin": "B07H4ZJY9T",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's T-Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

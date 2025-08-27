@@ -1,0 +1,39 @@
+{
+    "main_category": "Automotive",
+    "title": "Ford Genuine W709847-S439 Bolt",
+    "average_rating": 3.1,
+    "rating_number": 2,
+    "features": [
+        "Genuine OEM"
+    ],
+    "description": [
+        "Using Genuine Ford OE parts for repairs keeps your vehicle looking like new and can help maintain its value"
+    ],
+    "price": "12.29",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21jnXHFur2L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/21jnXHFur2L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ford",
+    "categories": [],
+    "details": "{\"Manufacturer\": \"Ford\", \"Brand\": \"Ford\", \"Model\": \"Ford W709847-S439 Bolt\", \"Item Weight\": \"7 pounds\", \"Package Dimensions\": \"7 x 3 x 3 inches\", \"Item model number\": \"W709847-S439\", \"Manufacturer Part Number\": \"W709847-S439\", \"OEM Part Number\": \"W709-847S439\", \"Date First Available\": \"September 9, 2010\"}",
+    "parent_asin": "B0042HE1FM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,49 @@
+{
+    "main_category": "Books",
+    "title": "Bulgakov Six Plays (World Classics)",
+    "average_rating": 4.9,
+    "rating_number": 9,
+    "features": [
+        "Reissued to tie in with a new production of Flight adapted by Ron Hutchinson and performed at the Olivier, Royal National TheatreMikhail Bulgakov was one of the Soviet Union's finest playwrights, whose work was often at odds with the Soviet State. This volume brings together his major dramatic achievements, including The White Guard, Madame Zoyka, Flight, Molière, Adam and Eve and The Last Days.Bulgakov is a much-studied author by schools, colleges and universities."
+    ],
+    "description": [
+        "About the Author",
+        "Mikhail Bulgakov",
+        "(1891-1940) was a Soviet Russian author and playwright best known for",
+        "The Master and Margarita, Black Snow",
+        "and",
+        "Diaboliad",
+        "."
+    ],
+    "price": "29.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41CNv6hwYNL._SX308_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mikhail Bulgakov (Author),  Michael Glenny (Translator)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "Performing Arts"
+    ],
+    "details": "{\"Publisher\": \"Methuen Drama (October 11, 2006)\", \"Language\": \"English\", \"Paperback\": \"448 pages\", \"ISBN 10\": \"0413645304\", \"ISBN 13\": \"978-0413645302\", \"Item Weight\": \"1.11 pounds\", \"Dimensions\": \"5 x 1 x 8 inches\"}",
+    "parent_asin": "0413645304",
+    "bought_together": null,
+    "subtitle": "Paperback – October 11, 2006",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/A19vI2X1n4L._SY600_.jpg', 'name': 'Mikhail Bulgakov', 'about': ['Mikhaíl Afanasyevich Bulgakov (/bʊlˈɡɑːkəf/; Russian: Михаи́л Афана́сьевич Булга́ков, pronounced [mʲɪxɐˈil ɐfɐˈnasʲjɪvʲɪtɕ bʊlˈɡakəf]; May 15 [O.S. May 3] 1891 – March 10, 1940) was a Russian writer and playwright active in the first half of the 20th century. He is best known for his novel The Master and Margarita, which has been called one of the masterpieces of the 20th century.', 'Bio from Wikipedia, the free encyclopedia. Photo by Unknown [Public domain or Public domain], via Wikimedia Commons.']}"
+}

@@ -1,0 +1,45 @@
+{
+    "main_category": "Books",
+    "title": "A Giant Headache: The Story of David and Goliath",
+    "average_rating": 4.6,
+    "rating_number": 62,
+    "features": [
+        "A Giant Headache",
+        "is the biblical story of David and Goliath in a rhyming, fun format. It teaches how we receive courage and strength from God when we trust in him completely. The soldiers all line up. A battle will begin. Who will be the bravest? Who is going to win?"
+    ],
+    "description": [
+        "About the Author",
+        "Paul and Delores Gully currently reside in the mountains of north Georgia. They met while attending Ringling College of Art and Design where Delores mistook Paul with one of his identical triplet brothers, who was in her class. Their combined God given talent has been utilized to illustrate books and curriculum worldwide. Their passion is to help children understand just how much God loves them. During their free time they enjoy traveling, hiking, fishing, reading, bicycling or relaxing to watch an action movie."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61dLhlHq8FL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Paul Gully (Author),  Delores Gully (Illustrator)",
+    "categories": [
+        "Books",
+        "Religion & Spirituality",
+        "Judaism"
+    ],
+    "details": "{\"Publisher\": \"Broadstreet Publishing Group, LLC (March 6, 2018)\", \"Language\": \"English\", \"Hardcover\": \"32 pages\", \"ISBN 10\": \"1424556414\", \"ISBN 13\": \"978-1424556410\", \"Reading age\": \"4 - 7 years\", \"Grade level\": \"1 - 2\", \"Item Weight\": \"10.7 ounces\", \"Dimensions\": \"8 x 0.37 x 8 inches\"}",
+    "parent_asin": "1424556414",
+    "bought_together": null,
+    "subtitle": "Hardcover – March 6, 2018",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/5peulp9kvhu3focog3ldnvnrjr._SY600_.jpg', 'name': 'Paul Gully', 'about': [\"Paul and Dee Gully are a husband and wife team working together to write and illustrate children's books. Paul does the writing with some editing from Dee. He then creates sketches after brainstorming and storyboarding the illustrations to go with the story. Once the sketches are completed, Paul does the inking of the illustrations. But the illustrations don't come to life until Dee adds the color, highlights and shadows. Once completed, Paul puts together the books in a print ready format. They also love helping others to produce their children's books. Paul and Dee hope all they do Glorifies God and brings children to the saving grace of Jesus!\"]}"
+}

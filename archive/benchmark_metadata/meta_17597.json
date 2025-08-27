@@ -1,0 +1,71 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "NASIOC",
+    "average_rating": 4.4,
+    "rating_number": 6,
+    "features": [
+        "Follow topics and share with like-minded people",
+        "Post ideas/pics/videos & get feedback from fellow experts",
+        "Meet + chat with other members just like you"
+    ],
+    "description": [
+        "NASIOC is the world's largest forum for Subaru enthusiasts. This app will allow you the best access to the site from your Android device.You will find topics of discussion from our very informative technical forums, and very high traffic free classifieds, to our Off Topic forum for some non-Subaru related entertainment.Your email address is required for the sole purpose of completing an App Login or Forgotten Password request. We will never send you unsolicited ‘junk’ email, or share this information with any outside parties. We are committed to protecting your privacy!"
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/919mXb5l5sL.png",
+            "https://m.media-amazon.com/images/I/A1LPzAcVgZL.png",
+            "https://m.media-amazon.com/images/I/A16Fj61ynuL.png",
+            "https://m.media-amazon.com/images/I/914Ws7sbwwL.png",
+            "https://m.media-amazon.com/images/I/713iBiIhjgL.png",
+            "https://m.media-amazon.com/images/I/61vnrUReRBL.png",
+            "https://m.media-amazon.com/images/I/71Gqz-v3HKL.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "NASIOC, Inc.",
+    "categories": [],
+    "details": "{\"Release Date\": \"2012\", \"Date first listed on Amazon\": \"February 29, 2012\", \"Developed By\": \"NASIOC, Inc.\", \"Size\": \"28.2MB\", \"Version\": \"7.1.14\", \"Application Permissions\": [\"Access coarse (e.g., Cell-ID, Wi-Fi) location\", \"Access information about networks\", \"Access information about Wi-Fi networks\", \"Access the list of accounts in the Accounts Service\", \"Open network sockets\", \"Read from external storage\", \"Get notified that the operating system has finished booting\", \"Request authtokens from the AccountManager\", \"Access the vibration feature\", \"PowerManager WakeLocks to keep processor from sleeping or screen from dimming\", \"Write to external storage\", \"Allows an application to receive messages via Google Cloud Messaging\"], \"Minimum Operating System\": \"Android 4.2\", \"Approximate Download Time\": \"Less than 4 minutes\"}",
+    "parent_asin": "B007F2BFAK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

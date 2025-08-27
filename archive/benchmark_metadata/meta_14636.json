@@ -1,0 +1,60 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Converse Men Chuck Taylor All Star High",
+    "average_rating": 4.7,
+    "rating_number": 8,
+    "features": [
+        "Rubber sole"
+    ],
+    "description": [
+        "Converse Men Chuck Taylor All Star High"
+    ],
+    "price": "69.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/7198PV1j93L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61pxvzOstHL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71HqGeyfkiL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61iWT42e31L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71P0kvzIuQL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31tDI5YJ5TL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/318EieRgFgL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41yyg3KTgpL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/311qfjdogeL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31P-nkUCHfL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31tDI5YJ5TL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/318EieRgFgL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41yyg3KTgpL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/311qfjdogeL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31P-nkUCHfL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Converse",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Shoes",
+        "Fashion Sneakers"
+    ],
+    "details": "{\"Item model number\": \"CN144707C\", \"Department\": \"mens\", \"Date First Available\": \"July 21, 2014\"}",
+    "parent_asin": "B07C24N7HP",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

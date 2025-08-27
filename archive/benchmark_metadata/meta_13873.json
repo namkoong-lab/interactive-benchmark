@@ -1,0 +1,56 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "HUDSON Women's Krista Low Rise, Super Skinny Jean",
+    "average_rating": 4.0,
+    "rating_number": 45,
+    "features": [
+        "98% Cotton, 2% Polyurethane",
+        "Made in the USA or Imported",
+        "Zipper closure",
+        "Machine Wash",
+        "Soft, shaping denim fabric with full stretch recovery",
+        "5 pocket detail",
+        "8 inch rise",
+        "10 inch leg opening",
+        "28 inch inseam"
+    ],
+    "description": [
+        "We call it elysian, and it is truly denim paradise. Interwoven thread with modal and viscose create a true luxe fit and power stretch. This is the cutting edge of denim technology, featured here in our Krista skinny."
+    ],
+    "price": "128.76",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/616yYkXse-L._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61iKkznuGBL._AC_UL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41BplS75wRL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/414MzTI88tL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41BplS75wRL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/414MzTI88tL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "HUDSON",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Jeans"
+    ],
+    "details": "{\"Item Weight\": \"1 Pounds\", \"Item model number\": \"W407DBQ\", \"Department\": \"Womens\", \"Date First Available\": \"October 14, 2016\", \"Manufacturer\": \"Hudson Women's Contemporary\"}",
+    "parent_asin": "B01LP3TO7A",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

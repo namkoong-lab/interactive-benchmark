@@ -1,0 +1,37 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Infinity Gauntlet #1 Comic Book",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "Infinity Gauntlet #1 Comic Book"
+    ],
+    "price": "11.39",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81JMEas2qVL._AC_SL1366_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61ajcjJYgiL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61ajcjJYgiL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Marvel Comics",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"11 x 7 x 0.2 inches\", \"Item Weight\": \"2.4 ounces\", \"Is Discontinued By Manufacturer\": \"No\", \"Assembly required\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B00X600YA2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

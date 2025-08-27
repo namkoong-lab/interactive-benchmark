@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Petites Luxures: Intimate stories",
+    "average_rating": 4.8,
+    "rating_number": 141,
+    "features": [
+        "Parisian illustrator Simon Frankart began posting his playfully erotic black ink drawings on Petites Luxures, his Instagram account, in 2014. His minimalist, linear style and witty titles have drawn over 1.2 million followers worldwide. For this, his first book, he asked his followers to write in with their favorite amorous memories. From thousands of entries, he has selected the 50 most inspiring stories, and portrays these sensual, poetic, and often amusing anecdotes with illustrations in his refined signature style."
+    ],
+    "description": [
+        "About the Author",
+        "Simon Frankart is a French illustrator. In 2014 he launched the Petites Luxures Instagram account, which currently has 1.2 million followers. He gave up his job as an art director in an ad agency to work full time on Petites Luxures. The future of the brand will include mixed media sculptures and installations."
+    ],
+    "price": "10.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41qXPVdsVOL._SX352_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Simon Frankart (Author)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "History & Criticism"
+    ],
+    "details": "{\"Publisher\": \"Lannoo Publishers; Illustrated edition (June 26, 2020)\", \"Language\": \"English\", \"Hardcover\": \"108 pages\", \"ISBN 10\": \"9401468958\", \"ISBN 13\": \"978-9401468954\", \"Item Weight\": \"12.3 ounces\", \"Dimensions\": \"6.26 x 0.7 x 8.67 inches\"}",
+    "parent_asin": "9401468958",
+    "bought_together": null,
+    "subtitle": "Hardcover – Illustrated, June 26, 2020",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Simon Frankart', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

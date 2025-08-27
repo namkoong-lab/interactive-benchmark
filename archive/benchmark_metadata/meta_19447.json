@@ -1,0 +1,47 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Gandhi",
+    "average_rating": 4.7,
+    "rating_number": 4674,
+    "features": [],
+    "description": [
+        "Product description",
+        "Gandhi [VHS]",
+        "Amazon.com",
+        "Sir Richard Attenborough's 1982 multiple-Oscar winner (including Best Picture, Best Director, and Best Actor for Ben Kingsley) is an engrossing, reverential look at the life of Mohandas K. Gandhi, who introduced the doctrine of nonviolent resistance to the colonized people of India and who ultimately gained the nation its independence. Kingsley is magnificent as Gandhi as he changes over the course of the three-hour film from an insignificant lawyer to an international leader and symbol. Strong on history (the historic division between India and Pakistan, still a huge problem today, can be seen in its formative stages here) as well as character and ideas, this is a fine film.",
+        "--Tom Keogh"
+    ],
+    "price": "8.64",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/511M01D7RKL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/511M01D7RKL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rated:    PG    Format: VHS Tape",
+    "categories": [
+        "Movies & TV",
+        "Art House & International",
+        "By Country",
+        "United Kingdom",
+        "Drama"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.4 x 4.2 x 2 inches; 12.8 Ounces\", \"Release date\": \"December 7, 1992\", \"Date First Available\": \"January 22, 2007\", \"Actors\": \"Kingsley, Bergen\", \"Studio\": \"Sony Pictures\"}",
+    "parent_asin": "0800105141",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

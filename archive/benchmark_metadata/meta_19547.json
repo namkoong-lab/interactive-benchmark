@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Larryboy - The Cartoon Adventures - The Good, the Bad and the Eggly",
+    "average_rating": 4.2,
+    "rating_number": 11,
+    "features": [],
+    "description": [
+        "Crime mavens Awful Alvin, Greta Von Gruesome and Lampy join evil forces to steal a top-secret, over-easy egg raygun, with the plan of turning all of Bumblyburg into over-easy eggs. To make matters worse, Larryboy and fellow superhero, the Dark Crow can't seem to agree to work together. Will Bumblyburg turn into one giant omelet? Or will Larryboy and the Dark Crow learn that when you work together, you can accomplish many things you cannot do alone? Find out in the cartoon adventures of Larryboy, The Good, The Bad and The Eggly."
+    ],
+    "price": "11.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51NVFJR6RKL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51NVFJR6RKL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rated:    Unrated    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Action & Adventure"
+    ],
+    "details": "{\"Genre\": \"Action & Adventure\", \"Format\": \"NTSC\", \"Language\": \"English\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"Unrated (Not Rated)\", \"Package Dimensions\": \"7.1 x 5.42 x 0.58 inches; 4 Ounces\", \"Media Format\": \"NTSC\", \"Release date\": \"June 10, 2003\", \"Studio\": \"Big Idea (Whv)\"}",
+    "parent_asin": "B00008AOWN",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

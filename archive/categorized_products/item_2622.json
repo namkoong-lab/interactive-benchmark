@@ -1,0 +1,58 @@
+{
+  "item_id": 2622,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "A4 Boy's Lacrosse Reversible Practice Jersey",
+    "average_rating": 3.7,
+    "rating_number": 26,
+    "features": [
+      "100% Polyester Mesh, 3.4 ounces per square yard",
+      "Pull On closure",
+      "Machine Wash",
+      "100% Polyester Mesh",
+      "Moisture Wicking to Keep Athletes Cool",
+      "Stain Release and Odor Resistant for Easy Care"
+    ],
+    "description": [
+      "Description",
+      "Our 3.4 ounce polyester mesh delivers excellent breathability and garment shape retention, 100% Polyester Mesh, 3.4 ounces per square yard, Moisture Wicking, Odor Resistant, Stain Release, Open bottom for screen printing, Double thickness body, Size: S, M, L, XL.",
+      "Care Instructions",
+      "Machine wash cold with like colors. Do not bleach. Tumble dry low. Do not iron."
+    ],
+    "price": "9.01",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/710x7R6iNWL._AC_UL1250_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51Ctr1m98ML._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51Ctr1m98ML._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "A4",
+    "categories": [],
+    "details": "{\"Item model number\": \"NB2274\", \"Department\": \"boys\", \"Date First Available\": \"April 2, 2015\", \"Manufacturer\": \"A4\"}",
+    "parent_asin": "B00YHNKV0U",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Activewear"
+    ],
+    "confidence": 0.95
+  }
+}

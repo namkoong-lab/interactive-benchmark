@@ -1,0 +1,44 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Internship, The",
+    "average_rating": 4.6,
+    "rating_number": 8073,
+    "features": [],
+    "description": [
+        "Two salesmen whose careers have been torpedoed by the digital age find their way into a coveted internship at Google, where they must compete with a group of young, tech-savvy geniuses for a shot at employment."
+    ],
+    "price": "8.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/918ypgUuNPL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81iE5Qja34L._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/515jwKR2hsL.jpg",
+            "https://m.media-amazon.com/images/I/51StAGsr4uL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/515jwKR2hsL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51StAGsr4uL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Vince Vaughn  (Actor),     Owen Wilson  (Actor),     Shawn Levy  (Director)    &                   0                  more   Rated:    PG    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Movies"
+    ],
+    "details": "{\"Aspect Ratio\": \"2.35:1\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"PG (Parental Guidance Suggested)\", \"Package Dimensions\": \"7.1 x 5.42 x 0.58 inches; 2.88 Ounces\", \"Director\": \"Shawn Levy\", \"Media Format\": \"NTSC\", \"Run time\": \"1 hour and 59 minutes\", \"Actors\": \"Vince Vaughn, Owen Wilson, Rose Byrne, Aasif Mandvi, Max Minghella\", \"Dubbed\": \"Spanish\", \"Subtitles\": \"English, French, Spanish\", \"Language\": \"English (Dolby Digital 5.1), French (Dolby Digital 2.0 Surround), Unknown (Dolby Digital 5.1), Spanish (Dolby Digital 2.0 Surround)\", \"Studio\": \"FOX\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00E98G68O",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

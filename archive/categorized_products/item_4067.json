@@ -1,0 +1,86 @@
+{
+  "item_id": 4067,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "PUMA Kids' Drift Cat III L V Sneaker",
+    "average_rating": 3.9,
+    "rating_number": 11,
+    "features": [
+      "100% Leather",
+      "Rubber sole",
+      "Removable Kinder Fit sockliner",
+      "FOREVER BETTER: PUMA is constantly pushing to be better than we were yesterday.",
+      "FOREVER BETTER is our commitment to reduce our environmental impact and work together towards a sustainable future.",
+      "PUMA brand logo"
+    ],
+    "description": [
+      "Your budding athlete will look all the more adorable in this cool, logo-emblazoned leather sneaker from Puma. Accented with an oversized leaping-cat logo on the side, the two-toned design features a generously padded tongue and collar for support, reinforcement at the heel to guard against abrasion, and double hook-and-loop closures to secure the fit. The cushy, cotton-lined footbed lends added comfort and breathability, while the flexible rubber sole provides traction on slippery sidewalks and slick gym floors.",
+      "PUMA is the global athletic brand that successfully fuses influences from sport, lifestyle and fashion. PUMA's unique industry perspective delivers the unexpected in sport-lifestyle footwear, apparel and accessories, through technical innovation and revolutionary design. The PUMA Kids collection is as if you threw a sweater in the dryer. It has all the style and comfort you'd expect from PUMA--only it's smaller."
+    ],
+    "price": "41.67",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61jdno2VEfL._AC_UL1190_.jpg",
+        null,
+        null,
+        "https://m.media-amazon.com/images/I/61Qzle8XhfL._AC_UL1474_.jpg",
+        "https://m.media-amazon.com/images/I/618eZ4SnW7L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61kOlHAmZbL._AC_UL1491_.jpg",
+        "https://m.media-amazon.com/images/I/71e39ypn2QL._AC_UL1489_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41E3W6ixIgL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41xkDSM2jvL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/417D5FPJ7tL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41vuS+XXbjL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41nxnlw0b6L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41ygQ29rByL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41jfTeuwC-L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41E3W6ixIgL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41xkDSM2jvL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/417D5FPJ7tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41vuS+XXbjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41nxnlw0b6L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41ygQ29rByL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jfTeuwC-L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "PUMA",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Boys",
+      "Shoes",
+      "Sneakers"
+    ],
+    "details": "{\"Item model number\": \"DRIFT CA\", \"Department\": \"boys\", \"Date First Available\": \"July 30, 2010\", \"Manufacturer\": \"PUMA\"}",
+    "parent_asin": "B003UBTS2W",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Girls' Clothing",
+      "Children's Footwear",
+      "Kids' Sneakers"
+    ],
+    "confidence": 0.95
+  }
+}

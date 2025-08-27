@@ -1,0 +1,51 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Arcopedico Cosmo Mary Jane",
+    "average_rating": 4.6,
+    "rating_number": 17,
+    "features": [
+        "Imported",
+        "Polyurethane sole",
+        "Heel measures approximately 1 inches\"",
+        "Polyurethane Sole",
+        "Lytech Upper",
+        "Comfort",
+        "Arch Support",
+        "Great for Travel"
+    ],
+    "description": [
+        "Taking on a classic Mary Jane silhouette and updating it with assymetrical straps, the Cosmo by Arcopedico is a true hallmark of our brand. Comfortable and machine washable, this shoe can be worn all day in the office and transition to weekend getaways, all while providing comfort to your feet"
+    ],
+    "price": "144.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71lJy+6HFNL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31QnNSOsqBL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31QnNSOsqBL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Arcopedico",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Flats"
+    ],
+    "details": "{\"Item model number\": \"4855\", \"Department\": \"Womens\", \"Date First Available\": \"September 15, 2019\", \"Manufacturer\": \"Arcopedico\"}",
+    "parent_asin": "B07XM18ZMQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,56 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "ExOfficio Men's Chugo Fleece Cardigan",
+    "average_rating": 4.5,
+    "rating_number": 3,
+    "features": [
+        "Fleece",
+        "Zipper closure",
+        "Machine Wash",
+        "Flatlock stitched forward shoulder seams prevent chafing while carrying your daypack.",
+        "Engineered for packing, the fleece compresses light and tight into your gear.",
+        "Lightweight Chugo Fleece adds insulating warmth without restrictive bulk.",
+        "Wash-n-go fabric dries quickly overnight.",
+        "Zippered security pocket keeps valuables safe while hiking."
+    ],
+    "description": [
+        "The ExOffico Men's Chugo Fleece Cardigan is no ordinary fleece. From the ski lodge to the backcountry trail, you'll enjoy all the benefits of thermal warmth without the bulk. The lightweight fabric features a flatlocked-stitched shoulder, so you can carry your gear without uncomfortable chafing. When you're finished, the fleece rolls up light and tight in your pack for easy traveling."
+    ],
+    "price": "110.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91kiHMCW5jL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/911fFU1L++L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41K1DKcy+FL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41eTIcES9GL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41K1DKcy+FL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41eTIcES9GL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "ExOfficio",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Active",
+        "Sweaters"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"1015-1405\", \"Department\": \"mens\", \"Date First Available\": \"January 5, 2011\", \"Manufacturer\": \"ExOfficio\"}",
+    "parent_asin": "B004I8VHIO",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

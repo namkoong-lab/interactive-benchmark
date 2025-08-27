@@ -1,0 +1,62 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Nike Air Max 270 React Mens Running Trainers Ct1617 Sneaker Shoes",
+    "average_rating": 4.1,
+    "rating_number": 11,
+    "features": [
+        "Rubber sole"
+    ],
+    "description": [
+        "Men's Nike Air Max 270 React Black/Cool Grey-Court Purple"
+    ],
+    "price": "200.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71tcPPC7oTL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/713a256SxxL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Yzw17o17L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71RCglSFMSL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61HFcKsmZ8L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/414e1LfSgbL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41tNXcq6+WL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/411+5Ld9evL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41-ge9opZ1L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31U0olBw8YL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/414e1LfSgbL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41tNXcq6+WL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/411+5Ld9evL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41-ge9opZ1L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31U0olBw8YL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nike",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Shoes",
+        "Athletic",
+        "Running",
+        "Road Running"
+    ],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"July 8, 2020\", \"Manufacturer\": \"Nike\"}",
+    "parent_asin": "B08CL3DMWF",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

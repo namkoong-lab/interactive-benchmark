@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Corporate Finance, 8th Edition",
+    "average_rating": 4.1,
+    "rating_number": 49,
+    "features": [
+        "Corporate Finance, by Ross, Westerfield, and Jaffe is a popular textbook that emphasizes the modern fundamentals of the theory of finance, while providing contemporary examples to make the theory come to life. The authors aim to present corporate finance as the working of a small number of integrated and powerful intuitions, rather than a collection of unrelated topics. They develop the central concepts of modern finance: arbitrage, net present value, efficient markets, agency theory, options, and the trade-off between risk and return, and use them to explain corporate finance with a balance of theory and application. The well-respected author team is known for their clear, accessible presentation of material that makes this text an excellent teaching tool. Brad Jordan, known for his successful work on the RWJ Fundamentals and Essentials books, contributed to this edition. His influence will be seen particularly in the writing style with smoother coverage of topics, and the increased quality in the problem material."
+    ],
+    "description": [
+        "About the Author",
+        "Stephen Ross is presently the Franco Modigliani Professor of Finance and Economics at the Sloan School of Management, Massachusetts Institute of Technology. One of the most widely published authors in finance and economics, Professor Ross is recognized for his work in developing the Arbitrage Pricing Theory and his substantial contributions to the discipline through his research in signaling, agency theory, option pricing, and the theory of the term structure of interest rates, among other topics. A past president of the American Finance Association, he currently serves as an associate editor of several academic and practitioner journals. He is a trustee of CalTech, a director of the College Retirement Equity Fund (CREF), and Freddie Mac. He is also the co-chairman of Roll and Ross Asset Management Corporation.Randoloph W. Westerfield is Dean of the Marshall School of Business at University of Southern California and holder of the Robert R. Dockson Dean’s Chair of Business Administration. From 1988 to 1993, Professor Westerfield served as the chairman of the School’s finance and business economics department and the Charles B. Thornton Professor of Finance. He came to USC from The Wharton School, University of Pennsylvania, where he was the chairman of the finance department and member of the finance faculty for 20 years. His areas of expertise include corporate financial policy, investment management and analysis, mergers and acquisitions, and stock market price behavior. Professor Westerfield has served as a member of the Continental Bank trust committee, supervising all activities of the trust department. He has been consultant to a number of corporations, including AT&T, Mobil Oil and Pacific Enterprises, as well as to the United Nations, the U.S. Department of Justice and Labor, and the State of California."
+    ],
+    "price": "8.82",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51wYnxHulNL._SX399_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Stephen Ross (Author),  Randolph Westerfield (Author),  Jeffrey Jaffe (Author)",
+    "categories": [
+        "Books",
+        "Business & Money",
+        "Finance"
+    ],
+    "details": "{\"Publisher\": \"McGraw-Hill/Irwin; 8th edition (November 14, 2006)\", \"Language\": \"English\", \"Hardcover\": \"926 pages\", \"ISBN 10\": \"0073337188\", \"ISBN 13\": \"978-0073337180\", \"Item Weight\": \"4.09 pounds\", \"Dimensions\": \"8 x 1.57 x 10 inches\"}",
+    "parent_asin": "0073337188",
+    "bought_together": null,
+    "subtitle": "8th Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Randolph Westerfield', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

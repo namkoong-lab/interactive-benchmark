@@ -1,0 +1,47 @@
+{
+    "main_category": "Books",
+    "title": "100 Years, 100 Artworks: A History of Modern and Contemporary Art",
+    "average_rating": 4.7,
+    "rating_number": 61,
+    "features": [
+        "This dazzling book showcases the history of modern and contemporary art using one hundred of the most significant art works--one per year--of the past 100 years.",
+        "Starting with Marcel Duchamp's 1919 whimsical, brilliant",
+        "L.H.O.O.Q.",
+        ", this compendium offers a year-by-year tour of iconic paintings, photographs, sculptures, installations, and performance pieces from all over the world. The works are carefully selected to showcase a diverse range of artists. Read from cover to cover, this volume offers an evocative summary of stylistic trends, historic events, and technological innovations that changed art over the past 100 years. Opening the book to any random page will illuminate a singular perspective and aesthetic delight. Each work is impeccably reproduced and presented in double-page spreads alongside informative and engaging texts. From Georgia O'Keeffe and Man Ray to Kara Walker and Ai Weiwei, this unique survey will both satisfy and surprise art lovers everywhere."
+    ],
+    "description": [
+        "About the Author",
+        "ÁGNES BERECZ is an art historian who has taught courses at Christie's New York, the Pratt Institute in Brooklyn, New York, and the Museum of Modern Art in New York City. She completed her Ph.D. at Panthéone-Sorbonne University in Paris."
+    ],
+    "price": "29.6",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61fYTOKWh4L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Agnes Berecz (Author)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "History & Criticism"
+    ],
+    "details": "{\"Publisher\": \"Prestel (April 2, 2019)\", \"Language\": \"English\", \"Hardcover\": \"216 pages\", \"ISBN 10\": \"3791384848\", \"ISBN 13\": \"978-3791384849\", \"Item Weight\": \"2.75 pounds\", \"Dimensions\": \"8.63 x 0.99 x 10.81 inches\"}",
+    "parent_asin": "3791384848",
+    "bought_together": null,
+    "subtitle": "Hardcover – April 2, 2019",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Agnes Berecz', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

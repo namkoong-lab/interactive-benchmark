@@ -1,0 +1,72 @@
+{
+  "item_id": 3761,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Dansko Women's Deni Mule",
+    "average_rating": 4.3,
+    "rating_number": 277,
+    "features": [
+      "100% Leather",
+      "Imported",
+      "Synthetic sole",
+      "Heel measures approximately 3.25\"",
+      "Platform measures approximately 1. inches",
+      "Leather linings for all-day comfort",
+      "Molded EVA footbed with optimal arch support and cushioning",
+      "Eva insert provides additional cushioning",
+      "Lightweight frame with embedded steel shank provides stability and support",
+      "PU outsole for shock absorption and energy return"
+    ],
+    "description": [
+      "For footwear fashion that's fresh off the runway, you can't top deni! this fashion clog packs plenty of attitude thanks to its block heel, fringe accents and studding details. plus, the dansko dna ensures uncommon comfort and unexpected style."
+    ],
+    "price": "164.94",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71XTjrIej1L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71OF81vG8JL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71eoGknR+8L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41MptIJqdRL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41z46PHSQkL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41fs2tRJlmL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41MptIJqdRL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41z46PHSQkL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41fs2tRJlmL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Dansko",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Mules & Clogs"
+    ],
+    "details": "{\"Item Weight\": \"14.5 Ounces\", \"Item model number\": \"Deni\", \"Department\": \"Womens\", \"Date First Available\": \"May 13, 2016\", \"Manufacturer\": \"Dansko\"}",
+    "parent_asin": "B01B9YM2WY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Mules & Clogs"
+    ],
+    "confidence": 0.95
+  }
+}

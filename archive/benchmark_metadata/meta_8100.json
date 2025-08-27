@@ -1,0 +1,47 @@
+{
+    "main_category": "Books",
+    "title": "50 Hikes in Mount Rainier National Park",
+    "average_rating": 4.2,
+    "rating_number": 11,
+    "features": [
+        "This new full-color edition commemorates Mount Rainier National Park's 100th anniversary. From the short Paradise flower trails of Alta Vista and Nisqually Vista to the nine-mile grunt up to the summit base camp at Camp Muir to the epic 93-mile Wonderland Trail that encircles the mountain, this comprehensive guide will make hiking in Mount Ranier National Park a dream. 80 color photos, 57 color maps."
+    ],
+    "description": [
+        "Review",
+        "\"For a good trail guide...that you can tuck in your daypack, turn once more to the team of Spring and Manning. --",
+        "Tacoma News Tribune",
+        "About the Author",
+        "Ira Spring and Harvey Manning are the godfathers of Pacific Northwest hiking guidebooks with more than thirty titles to their credit. They are known with great affection as \"the grumpy old men\" for their untiring efforts to conserve all that is naturally beautiful in the Pacific Northwest."
+    ],
+    "price": "33.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51QR4QRDNXL._SX313_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Harvey Manning (Author),  Ira Spring (Photographer)",
+    "categories": [
+        "Books",
+        "Travel",
+        "United States"
+    ],
+    "details": "{\"Publisher\": \"Mountaineers Books; 4th edition (January 1, 1999)\", \"Language\": \"English\", \"Paperback\": \"143 pages\", \"ISBN 10\": \"0898865727\", \"ISBN 13\": \"978-0898865721\", \"Item Weight\": \"10.4 ounces\", \"Dimensions\": \"5.75 x 0.5 x 8.75 inches\"}",
+    "parent_asin": "0898865727",
+    "bought_together": null,
+    "subtitle": "Paperback – January 1, 1999",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Ira Spring', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

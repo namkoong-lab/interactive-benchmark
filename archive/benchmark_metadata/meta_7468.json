@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "A New Order of Things: How the Textile Industry Transformed New England",
+    "average_rating": 4.6,
+    "rating_number": 6,
+    "features": [
+        "A lavishly-illustrated social history of the manufacture that did most to transform the character of New England and of America."
+    ],
+    "description": [
+        "From the Publisher",
+        "8 1/2 x 11 trim. 150 illus. (100 color). LC 2002-001698",
+        "About the Author",
+        "PAUL E. RIVARD served as Director of the American Textile History Museum in Lowell, MA, from 1991 to 1999, and as Curator of Technology through 2001. He has also served as Director of the Maine State Museum, the Slater Mill Historic Site. He works today planning exhibitions for a number of New England museums."
+    ],
+    "price": "69.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51HRA9N7V3L._SX365_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Paul E. Rivard (Author)",
+    "categories": [
+        "Books",
+        "History",
+        "Americas"
+    ],
+    "details": "{\"Publisher\": \"UPNE (November 1, 2002)\", \"Language\": \"English\", \"Hardcover\": \"172 pages\", \"ISBN 10\": \"1584652837\", \"ISBN 13\": \"978-1584652830\", \"Item Weight\": \"2.85 pounds\", \"Dimensions\": \"8.75 x 0.5 x 12.25 inches\"}",
+    "parent_asin": "1584652837",
+    "bought_together": null,
+    "subtitle": "Hardcover – November 1, 2002",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Paul E. Rivard', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

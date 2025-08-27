@@ -1,0 +1,51 @@
+{
+  "item_id": 506,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Beautiful Scars",
+    "average_rating": 4.5,
+    "rating_number": 174,
+    "features": [],
+    "description": [
+      "Merry Clayton is a living legend of unparalleled solar-powered vocal majesty, boldly bringing the Black American church experience across musical genres and styles. Throughout an astounding career - as a lead and background singer with the greatest artists of all-time - Merry Clayton steps into the spotlight with the gospel project, Beautiful Scars."
+    ],
+    "price": "11.98",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41cySOtkDEL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41cySOtkDEL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Merry Clayton  (Artist)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Christian & Gospel",
+      "Gospel"
+    ],
+    "details": "{\"Product Dimensions\": \"4.84 x 5.55 x 0.51 inches; 2.96 Ounces\", \"Manufacturer\": \"Motown Gospel\", \"Original Release Date\": \"2021\", \"Date First Available\": \"February 11, 2021\", \"Label\": \"Motown Gospel\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B08W7JP25P",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Worship Music"
+    ],
+    "confidence": 0.95
+  }
+}

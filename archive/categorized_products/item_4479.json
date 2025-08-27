@@ -1,0 +1,77 @@
+{
+  "item_id": 4479,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "PUMA Women's Cali Wedge Sneaker",
+    "average_rating": 4.6,
+    "rating_number": 1291,
+    "features": [
+      "100% Synthetic",
+      "Imported",
+      "Faux Leather sole"
+    ],
+    "description": [
+      "Higher and hotter than ever. Meet the Cali Wedge: a bold update to the Cali silhouette with an extreme, wedge sole. The In Bloom pack bring a floral freshness, featuring a leather upper with suede overlays and Rose printed within the translucent rubber heel plug."
+    ],
+    "price": "138.59",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51nEX8uytrL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61xBTh0chOL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61JXJuKxyqL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51w2nZZQU4L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41GoyLvvilL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61m20XDn8GL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/21Ohh0NxpnL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31ce727FwLL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21vDChezelL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21UhOgd20uL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/11mQurLHEhL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/310WHpPuQ5L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/21Ohh0NxpnL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31ce727FwLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21vDChezelL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21UhOgd20uL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/11mQurLHEhL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/310WHpPuQ5L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "PUMA",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Fashion Sneakers"
+    ],
+    "details": "{\"Package Dimensions\": \"12 x 7.5 x 4.3 inches; 3 Pounds\", \"Item model number\": \"PUMA-373438\", \"Department\": \"womens\", \"Date First Available\": \"April 4, 2020\", \"Manufacturer\": \"PUMA\"}",
+    "parent_asin": "B0BY2RK9Y6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Sneakers"
+    ],
+    "confidence": 0.95
+  }
+}

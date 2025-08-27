@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Seven Arrows",
+    "average_rating": 4.7,
+    "rating_number": 252,
+    "features": [
+        "A heartbreaking story of victory, defeat, and of a spiritual search in a profane world, this is the story of Night Bear and his people. It is the tale of the land they cherish and the lives they hold sacred, lived until the enemy can no longer be stopped, and the dead have few left to weep for them."
+    ],
+    "description": [
+        "From the Inside Flap",
+        "A heartbreaking story of victory, defeat, and of a spiritual search in a profane world, this is the story of Night Bear and his people. It is the tale of the land they cherish and the lives they hold sacred, lived until the enemy can no longer be stopped, and the dead have few left to weep for them."
+    ],
+    "price": "50.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51DzzXg2-tL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Hyemeyohsts Storm (Author)",
+    "categories": [
+        "Books",
+        "Politics & Social Sciences",
+        "Social Sciences"
+    ],
+    "details": "{\"Publisher\": \"Ballantine Books (January 1, 1972)\", \"Language\": \"English\", \"Paperback\": \"384 pages\", \"ISBN 10\": \"0345329015\", \"ISBN 13\": \"978-0345329011\", \"Item Weight\": \"1.85 pounds\", \"Dimensions\": \"8.25 x 1.25 x 9 inches\"}",
+    "parent_asin": "0345329015",
+    "bought_together": null,
+    "subtitle": "Paperback – January 1, 1972",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Hyemeyohsts Storm', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

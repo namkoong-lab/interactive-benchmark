@@ -1,0 +1,44 @@
+{
+    "main_category": "Prime Video",
+    "title": "Meet the Math Facts - Multiplication & Division Level 3",
+    "average_rating": 4.5,
+    "rating_number": 36,
+    "features": [
+        "1 h 25 min",
+        "2017",
+        "ALL"
+    ],
+    "description": [
+        "Meet the Math Facts Level 3 makes multiplication and division fun and easy! You will learn basic multiplication and division through fact families. With fun characters that you will grow to love, levels 1, 2, & 3 will teach you to easily recall basic multiplication & division math facts to 12x12. You will be amazed at how easily you can learn math!"
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Special Interest",
+        "Kids"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Kathy Oxley\"]}",
+    "parent_asin": "B07HLK8NCD",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

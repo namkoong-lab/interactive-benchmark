@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Jungle Fever (David Vance)",
+    "average_rating": 4.4,
+    "rating_number": 17,
+    "features": [
+        "Jungle Fever is a lush coffee-table book of David Vance's photography covering the subject of beautiful men, nude and seminude, in tropical jungle and studio settings."
+    ],
+    "description": [
+        "About the Author",
+        "David Vance has enjoyed a successful career photographing advertising and editorial assignments for more than forty years. His work has been published in Cosmopolitan, Entertainment Weekly, Interview, Health, Rolling Stone, Tennis, Uomo, and Harper's Bazaar, Italia. Among his clients are Revlon, Rolex, Sony, Atlantic, and Arista records. Nine books of his work have been published."
+    ],
+    "price": "120.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41NtYAk+PVL._SX258_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "David Vance (Author)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "Photography & Video"
+    ],
+    "details": "{\"Publisher\": \"David Vance; First Edition (February 1, 2014)\", \"Language\": \"English\", \"Hardcover\": \"112 pages\", \"ISBN 10\": \"0615582486\", \"ISBN 13\": \"978-0615582481\", \"Item Weight\": \"2.2 pounds\", \"Dimensions\": \"9 x 0.75 x 11.25 inches\"}",
+    "parent_asin": "0615582486",
+    "bought_together": null,
+    "subtitle": "Hardcover – February 1, 2014",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/916LNCprlZL._SY600_.jpg', 'name': 'David Vance', 'about': ['Of Italian descent, David Vance has been surrounded by the atmosphere of his heritage since childhood. The painting, the sculpture, the music and the literature of his world exposed him at an early age to the classics in observing life. He sees beauty through the eyes of his ancestors and creates beauty in their same vision.', 'Although during his forty-year career he has had commercial success in advertising, editorial and portrait photography, shooting campaigns and photographing celebrities, at his core is the heart and sensibility of an artist.', 'He shares a home in Miami, Florida with his husband, Kyle Plyler.', 'David’s fine art prints have been exhibited in Galleries from Palm Springs to Paris. They are also available at www.davidvanceprints.com.', 'There are eight coffee table books of his work. They are VISIONS, THE ULTIMATE BOOK OF NUDES, THE WOODS (OUT OF PRINT) DAVID VANCE /PHOTOGRAPHS, ATTRACTIONS, TIMELESS, HEAVENLY BODIES, EROTIC DREAMS, MEN AND GODS, MASCULINE BEAUTY, EMOTION (BRUNO GMUENDER), and JUNGLE FEVER (SELF PUBLISHED)']}"
+}

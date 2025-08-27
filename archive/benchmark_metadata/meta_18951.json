@@ -1,0 +1,52 @@
+{
+    "main_category": "All Beauty",
+    "title": "DAX Green and Gold Hair Wax",
+    "average_rating": 4.7,
+    "rating_number": 7,
+    "features": [
+        "Provides strong hold to thick hair dramatic styles.",
+        "Use for spiking, sculpting, and creating the style of your choice.",
+        "Best used on short hair.",
+        "Mild fragrance.",
+        "Like all heavy waxes and petroleum based products it is not meant to wash out easily."
+    ],
+    "description": [
+        "DAX Green and Gold is a specially formulated wax that is made from beeswax and natural oils. Green and Gold offers a superior hold without the unwanted build up or drying of the hair. Use a small amount on dried and styled hair. Lightly cover fingertips. Rub into palms and apply to desired area. Shape with fingers. Add more Green & Gold if desired."
+    ],
+    "price": "6.88",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61gvcX5Tu1L._SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41M25IGnkDL.jpg",
+            "https://m.media-amazon.com/images/I/41zl7LNGzVL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41M25IGnkDL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41zl7LNGzVL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Imperial DAX",
+    "categories": [
+        "Beauty & Personal Care",
+        "Hair Care",
+        "Styling Products",
+        "Waxes"
+    ],
+    "details": "{\"Hair Type\": \"Thick\", \"Scent\": \"Green & Gold\", \"Liquid Volume\": \"99 Milliliters\", \"Item Form\": \"Wax\", \"Brand\": \"Imperial DAX\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"3 x 3 x 2 inches; 4.94 Ounces\", \"UPC\": \"781549393760 788329724196\", \"Manufacturer\": \"Imperial DAX\"}",
+    "parent_asin": "B00644R8ME",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

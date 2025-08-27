@@ -1,0 +1,71 @@
+{
+  "item_id": 4099,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Burnetie Men's Canvas Ox Low top Sneaker",
+    "average_rating": 4.4,
+    "rating_number": 91,
+    "features": [
+      "Rubber sole",
+      "OrthoLite insole",
+      "Light weight",
+      "Elastic laces",
+      "Regular laces included"
+    ],
+    "description": [
+      "The iconic vulcanized, lace-up sneaker. It’s still just as wearable, but this time it’s been updated with a versatile low-top oxford design and fun, contemporary colors."
+    ],
+    "price": "39.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61LeetAp7gS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51tDbMwZdqS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51C9li+qx2S._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61BF-N627uS._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/315OJC74LBS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31940dDBKZS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31OxpDlD2aS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31kV4SlDz1S._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/315OJC74LBS._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31940dDBKZS._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31OxpDlD2aS._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31kV4SlDz1S._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Burnetie",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Shoes",
+      "Fashion Sneakers"
+    ],
+    "details": "{\"Date First Available\": \"May 26, 2021\"}",
+    "parent_asin": "B095XLNTYK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Footwear",
+      "Men's Sneakers"
+    ],
+    "confidence": 0.95
+  }
+}

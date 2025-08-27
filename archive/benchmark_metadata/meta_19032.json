@@ -1,0 +1,44 @@
+{
+    "main_category": "All Beauty",
+    "title": "Moisture Instant Hydrating Shampoo 8oz Y",
+    "average_rating": 4.8,
+    "rating_number": 17,
+    "features": [
+        "Hydrating Shampoo"
+    ],
+    "description": [
+        "1"
+    ],
+    "price": "25.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21nLzM40XyL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/21nLzM40XyL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Faittd",
+    "categories": [
+        "Beauty & Personal Care",
+        "Hair Care",
+        "Shampoo & Conditioner",
+        "Shampoo & Conditioner Sets"
+    ],
+    "details": "{\"Brand\": \"Faittd\", \"Item Form\": \"Liquid\", \"Scent\": \"Hibiscus\", \"Age Range (Description)\": \"Adult\", \"Product Benefits\": \"Hydrating,Massage\", \"Item Weight\": \"8 Ounces\", \"UPC\": \"096907208090\", \"Manufacturer\": \"Congo\"}",
+    "parent_asin": "B0897D4W7L",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,45 @@
+{
+    "main_category": "Industrial & Scientific",
+    "title": "Ametherm SL32 2R025 NTC Thermistor",
+    "average_rating": 4.5,
+    "rating_number": 143,
+    "features": [
+        "Aqua-Rite Repair Kit Themistor, SL32 2R025",
+        "Can Replace: AS32 2R025"
+    ],
+    "description": [
+        "Ametherm SL32 2R025 High-Energy Thermistor For HAYWARD / GOLDLINE / AQUA-RITE GLX-PCB-RITE (Can replace AS32 2R025) This board failure is often due to the \"sacrificial\" destruction of the thermistor used to protect the circuit from high voltage and high current surges that could occur after a lighting strike during thunderstorms or other power surge. Normally the thermistor protects the circuit on start-up, providing a relatively high resistance (2 Ohm) at ambient temperature to limit \"InRush Current\", and then essentially disappearing from the circuit (0.02 ohm) when the current is near or equal the design current of 25 Amp. The part will fail when a power surge is much greater than the power handling capability of the part. The correct replacement thermistor is: Ametherm ICL - SL32 2R025 High Energy Dissipation without Failure Inrush Current Limiting (ICL) Thermistor (1 Thermistor) (Inrush Current Limiting Thermistors) (Use to repair: Hayward Aqua Rite PCB (GLX-PCB-RITE) Pool Chlorinator) Note: Either AS32 2R025 or SL32 2R025 may be used , but the AS Thermistor will protect against a higher energy surge. ICLs (Inrush Current Limiters) are a cost-effective way of limiting the inrush of current that can damage other components in a switching power supply and other devices when the equipment is turned on. PLEASE NOTE SL32 2r025 is for Older PC Boards AS32 2R025 Has Higher Surge Protection DataSheet Available at: http://www.ametherm.com/Data%20Sheets/SL32%202R025.pdf Resistance at 25 °C -- 2 Ohms Max. Steady State Current -- 25 Amperes Resistance @ Max. Steady State Current -- 0.024 Ohms \"D\" Max. Coated Diameter -- 30 mm \"T\" Max. Coated Thickness -- 6.35 mm Lead Diameter -- 0.8 mm PC Board mountable. Lead Length: 38 mm (1.5 inches)"
+    ],
+    "price": "7.59",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41JnoELc3OL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41JnoELc3OL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ametherm",
+    "categories": [
+        "Industrial & Scientific",
+        "Industrial Electrical",
+        "Circuit Protection Products",
+        "Thermistors"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"3 x 1 x 0.2 inches; 0.01 Ounces\", \"Item model number\": \"SL32 2R025-AMETHERM\", \"National Stock Number\": \"5905-01-461-6162\", \"Date First Available\": \"June 24, 2013\", \"Manufacturer\": \"Ametherm\"}",
+    "parent_asin": "B01HDY0TIS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

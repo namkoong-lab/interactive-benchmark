@@ -1,0 +1,54 @@
+{
+    "main_category": "Grocery",
+    "title": "Jolly Rancher Assorted Hard Candy, 10 Lbs",
+    "average_rating": 4.4,
+    "rating_number": 44,
+    "features": [
+        "Assorted Original Flavors - watermelon, apple, cherry, grape & blue raspberry flavors",
+        "Hard candy",
+        "The perfect candy dish item with the original intense fruit flavor"
+    ],
+    "description": [
+        "The Jolly Rancher brand in a 5 pound bag of hard candies comes in a wide variety of delicious fruit flavors, including apple, grape, cherry, raspberry and watermelon, providing everyone in the family with their own special favorites."
+    ],
+    "price": "44.85",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/718yzsoTAeL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71I2PjcgViL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Q7z40O1hL.jpg",
+            "https://m.media-amazon.com/images/I/41SCy3+AcCL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Q7z40O1hL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41SCy3+AcCL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Watch To See How Much Calories Is There In The JOLLY RANCHER"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0b8ed98003754d60a331276ac98f23e9?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "/shop/influencer-98d451b5"
+        ]
+    },
+    "store": "Jolly Rancher",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Canned, Packaged & Baking"
+    ],
+    "details": "{\"Brand\": \"Jolly Rancher\", \"Flavor\": \"Fruit\", \"Item Form\": \"Rock\", \"Unit Count\": \"160.0 Ounce\", \"Number of Items\": \"1\", \"Package Dimensions\": \"9.6 x 8.4 x 6 inches; 5 Pounds\", \"UPC\": \"030134204623\", \"Manufacturer\": \"Jolly Rancher\"}",
+    "parent_asin": "B004RS62N0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

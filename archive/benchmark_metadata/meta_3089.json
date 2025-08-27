@@ -1,0 +1,56 @@
+{
+    "main_category": "Grocery",
+    "title": "Martin's Potato Sandwich Roll - 2/8 pk. A1",
+    "average_rating": 4.6,
+    "rating_number": 139,
+    "features": [
+        "Great for any sandwich.",
+        "Only the finest ingredients: high protein flour, potatoes, cane suger, non-fat dry milk",
+        "Stays fresher longer"
+    ],
+    "description": [
+        "Sweet, buttery flavor - Martin's Famous Potato Sandwich rolls make ordinary hamburgers taste extraordinarily delicious."
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41RmseaDk5L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41RmseaDk5L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Hack Shake Shack's ShackBurger",
+            "Martin's Sandwich Potato Bread Review and Close Up Look"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/f9af625bf2204ee5ae51d1d007f2bb2e?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/14259bac98664351beb75ae9a8bd7346?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "AGIUKB65IND2MQRPSGXDYKB3NCFQ",
+            "/shop/ringsking"
+        ]
+    },
+    "store": "Martin's",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Breads & Bakery",
+        "Breads",
+        "Sandwich Breads",
+        "Potato"
+    ],
+    "details": "{\"Flavor\": \"Sweet-And-Buttery\", \"Brand\": \"Martin's\", \"Specialty\": \"High Protein\", \"Package Information\": \"Bag\", \"Number of Pieces\": \"2\", \"Is Discontinued By Manufacturer\": \"No\", \"UPC\": \"711403651590\", \"Manufacturer\": \"Martin's\"}",
+    "parent_asin": "B07GD4ZM57",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

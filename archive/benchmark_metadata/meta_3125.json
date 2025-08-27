@@ -1,0 +1,58 @@
+{
+    "main_category": "Grocery",
+    "title": "HongYuan - Guava Candy 12.3 Oz",
+    "average_rating": 4.7,
+    "rating_number": 160,
+    "features": [],
+    "description": [
+        "11"
+    ],
+    "price": "7.58",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91DPRg+fiYL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91VcN6WwOQL._SL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/710Fqinfc3L._SL1070_.jpg",
+            "https://m.media-amazon.com/images/I/41nRcbVE6QL._SL1055_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51R8vHtfP1L.jpg",
+            "https://m.media-amazon.com/images/I/51AAfn4be2L.jpg",
+            "https://m.media-amazon.com/images/I/41awZkfbXzL.jpg",
+            "https://m.media-amazon.com/images/I/512dFuu0GeL.jpg",
+            "https://m.media-amazon.com/images/I/31TocTL96gL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51R8vHtfP1L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51AAfn4be2L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41awZkfbXzL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/512dFuu0GeL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31TocTL96gL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT12",
+            "FACT",
+            "INGR"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "DragonMall",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Candy & Chocolate",
+        "Gummy Candy"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"10.08 x 8.03 x 2.05 inches; 12.8 Ounces\", \"UPC\": \"734765134242\"}",
+    "parent_asin": "B0B5PSVSMX",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

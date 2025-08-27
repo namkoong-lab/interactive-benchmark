@@ -1,0 +1,65 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Bingo Shoot",
+    "average_rating": 3.4,
+    "rating_number": null,
+    "features": [
+        "Unique and engaging game-play",
+        "Travel through times and play different rooms with unique themes",
+        "Employ power-ups and special pegs to beef-up the game",
+        "Play with people around the world",
+        "Connect with players via Facebook and Game Id"
+    ],
+    "description": [
+        "Bored of standard style bingo games? Well, then here’s a treat for you. Bingo Shoot is a unique, fun-filled and a completely new gameplay – never tried before. Take control of your luck, drop a ball and shoot for bingo numbers, power-ups and other rewards. As you collect numbers, they get auto-daubed on your card. Call out Bingo as soon as you have it! Play with friends and other players and compete to claim maximum number of Bingos! But that’s not all. The bash is laden with power-ups, XP, coins, and tons more to create a unique and addicting experience. Usages of Regular and Elite power-ups increases your chances of winning and yielding effects like extra coins, free Bingo Dollars and even more! Play like there’s no tomorrow! Every game grants rewards to level up and unlock new rooms. So travel through time from the aristocratic themes of Stone Age to the glisters of Modern Era. Bingo Shoot also links to social media services, such as Facebook. This lets you invite your Facebook friends to play the game with you and even post your feats on Facebook. You can also invite players to the game as your game buddies by sharing your Game ID. This is an online game and can’t be played offline. Just connect to the Internet and get going."
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/91A7x0Mk1tL.png",
+            "https://m.media-amazon.com/images/I/91RxtjPPcwL.png",
+            "https://m.media-amazon.com/images/I/916pENmyZOL.png",
+            "https://m.media-amazon.com/images/I/91dYE1J1r3L.png",
+            "https://m.media-amazon.com/images/I/913xCjcXhDL.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Beantown Game Shop LLC",
+    "categories": [],
+    "details": "{\"Release Date\": \"2014\", \"Date first listed on Amazon\": \"March 29, 2014\", \"Developed By\": \"Beantown Game Shop LLC\", \"Size\": \"Varies by device (34.5MB - 78.1MB)\", \"Version\": \"1.5\", \"Application Permissions\": [\"Access fine (e.g., GPS) location\", \"Access the list of accounts in the Accounts Service\", \"Open network sockets\", \"Access information about networks\", \"Get information about the currently or recently running tasks: a thumbnail representation of the tasks, what activities are running in it, etc\", \"Access the vibration feature\", \"PowerManager WakeLocks to keep processor from sleeping or screen from dimming\", \"Access information about Wi-Fi networks\", \"Allows  sending in-app billing requests and managing in-app billing transactions\", \"Read only access to device state\", \"Write to external storage\", \"Allows an application to receive messages via Google Cloud Messaging\"], \"Minimum Operating System\": \"Android 2.3.3\", \"Approximate Download Time\": \"More than 5 minutes\"}",
+    "parent_asin": "B00J678THY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

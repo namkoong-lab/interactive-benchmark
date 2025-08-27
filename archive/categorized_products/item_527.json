@@ -1,0 +1,59 @@
+{
+  "item_id": 527,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Knecht: Grande Symphonie- Orchestral Works and Arias",
+    "average_rating": 3.8,
+    "rating_number": 5,
+    "features": [],
+    "description": [
+      "CAR 83228; CARUS - Germania; Classica Orchestrale"
+    ],
+    "price": "9.08",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91a3p+GnlUL._SL1500_.jpg",
+        null,
+        "https://m.media-amazon.com/images/I/81OHfwaPtDL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/516vihlUV2L.jpg",
+        "https://m.media-amazon.com/images/I/51gE8qtTKKL.jpg",
+        "https://m.media-amazon.com/images/I/51IpbUhVrrL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/516vihlUV2L._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51gE8qtTKKL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51IpbUhVrrL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Justin Heinrich Knecht  (Composer),     Frieder Bernius  (Conductor),     Hofkapelle Stuttgart  (Orchestra),     Sarah Wegener  (Performer)    &                   1                  more   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Classical",
+      "Symphonies"
+    ],
+    "details": "{\"Language\": \"English\", \"Product Dimensions\": \"5.59 x 0.39 x 4.92 inches; 2.83 Ounces\", \"Manufacturer\": \"Carus-Verlag\", \"Original Release Date\": \"2012\", \"Date First Available\": \"January 21, 2012\", \"Label\": \"Carus-Verlag\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B006H4GP5C",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Classical Albums"
+    ],
+    "confidence": 0.95
+  }
+}

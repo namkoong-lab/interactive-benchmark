@@ -1,0 +1,40 @@
+{
+    "main_category": "Books",
+    "title": "Hawaii: The Islands of Aloha",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "With legends and tales about Hawai i of old and text that describes the history and romance of each island, this book offers the reader another view of these enchanting islands. Stunning photographs by four of Hawai i s premiere photographers capture the extraordinary beauty and diversity of each island, from the glittering skyline of cosmopolitan Honolulu to Maui s sun-drenched beaches, the Big Island s majestic volcanoes, and Kauai s lush mountains."
+    ],
+    "description": [
+        "About the Author",
+        "Cheryl Chee Tsutsumi is an award winning travel writer whose assignments have her all over Asia and the South Pacific, including Australia, Bali, Guam, Hong Kong, Japan, Macau, Saipan, Samoa, Tahiti, Taiwan, Tonga, and the People s Republic of China. Her passions include Hawaiian history and culture, and horseback riding. In April 2005, she was named the Hawai i Ecosystem Association Travel Writer of the Year."
+    ],
+    "price": "18.46",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/516StX85wtL._SY392_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Cheryl Chee Tsutsumi (Author),  The Madden Corporation (Editor)",
+    "categories": [],
+    "details": "{\"Publisher\": \"Island Heritage Publishing; First Edition (July 1, 2010)\", \"Language\": \"English\", \"Hardcover\": \"120 pages\", \"ISBN 10\": \"1597009970\", \"ISBN 13\": \"978-1597009973\", \"Item Weight\": \"2.55 pounds\"}",
+    "parent_asin": "1597009970",
+    "bought_together": null,
+    "subtitle": "Hardcover – July 1, 2010",
+    "author": null
+}

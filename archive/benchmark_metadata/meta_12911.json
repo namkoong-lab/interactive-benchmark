@@ -1,0 +1,72 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Drew Shoe Men's Boulder",
+    "average_rating": 4.0,
+    "rating_number": 51,
+    "features": [
+        "100% Leather",
+        "Rubber sole",
+        "2 Removable footbeds",
+        "Double depth",
+        "Accommodates orthotics",
+        "Oil and slip resistant",
+        "Waterproof membrane lining"
+    ],
+    "description": [
+        "With a 135-year history, Drew Shoe has refined and mastered the science of therapeutic comfort footwear. The entire collection is an inventive combination of function and style, working to keep the feet healthy and looking great. Drew Shoe selects the ultimate comfort materials to pamper and protect even the most tired, aching feet."
+    ],
+    "price": "199.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61H2cIFbvzL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61dORgBtfgL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61+BIIo7BiL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61moiuo53bL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61xvlzGGmxL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61jSfChDfGL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41gp4ruBUYL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41k13D9MZRL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/517NEztHegL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41v-dmXfKeL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41WEaJoHm8L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41ucnpb5zTL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41gp4ruBUYL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41k13D9MZRL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/517NEztHegL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41v-dmXfKeL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41WEaJoHm8L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41ucnpb5zTL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Drew Shoe",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Shoes",
+        "Outdoor",
+        "Hiking & Trekking",
+        "Hiking Shoes"
+    ],
+    "details": "{\"Package Dimensions\": \"12 x 8 x 4 inches; 2 Pounds\", \"Item model number\": \"Boulder\", \"Department\": \"mens\", \"Date First Available\": \"January 5, 2012\", \"Manufacturer\": \"Drew Shoe\"}",
+    "parent_asin": "B0045TYBI4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,54 @@
+{
+    "main_category": "Grocery",
+    "title": "Haribo Kinder-Schnuller, Tub",
+    "average_rating": 4.4,
+    "rating_number": 197,
+    "features": [
+        "Haribo Kinder-Schnuller, 1er Pack (1 x 1.2 kg Dose)"
+    ],
+    "description": [
+        "Haribo Kinder-Schnuller, 1er Pack (1 x 1.2 kg Dose)"
+    ],
+    "price": "37.37",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91tElPmo9LL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91bCGap3jBL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/510prcLKKFL.jpg",
+            "https://m.media-amazon.com/images/I/51mXrCO7q1L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/510prcLKKFL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51mXrCO7q1L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT99"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Authentic German Gummy Candy!!"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0634788e29f34076b25f12d78681aba1?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "AETVLUMXKMA22MOOXKQ5VEGQODEQ"
+        ]
+    },
+    "store": "Haribo",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Candy & Chocolate",
+        "Gummy Candy"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"6.93 x 6.93 x 3.39 inches; 2.65 Pounds\", \"UPC\": \"786173998398\", \"Manufacturer\": \"Yulo Inc.\"}",
+    "parent_asin": "B00290E2NA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

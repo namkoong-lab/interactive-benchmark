@@ -1,0 +1,49 @@
+{
+    "main_category": "Books",
+    "title": "Interaction Effects in Multiple Regression (Quantitative Applications in the Social Sciences)",
+    "average_rating": 4.5,
+    "rating_number": 23,
+    "features": [
+        "Interaction Effects in Multiple Regression",
+        "has provided students and researchers with a readable and practical introduction to conducting analyses of interaction effects in the context of multiple regression. The new addition will expand the coverage on the analysis of three way interactions in multiple regression analysis.",
+        "Learn more about \"The Little Green Book\" - QASS Series!",
+        "Click Here"
+    ],
+    "description": [
+        "About the Author",
+        "Dr.",
+        "James Jaccard",
+        "is Professor of Social Work at New York University Silver School of Social Work. He received his doctoral degree from the University of Illinois, Urbana, in 1976. Dr. Jaccard’s research focuses on adolescent and young adult problem behaviors, particularly those related to unintended pregnancy and substance use, broadly defined. He has developed parent-based interventions to teach parents how to more effectively communicate and parent their adolescent children so as to reduce the risk of unintended pregnancies and problems due to substance use. Dr. Jaccard has written numerous books and articles on the analysis of interaction effects in a wide range of statistical models and teaches advanced graduate courses on structural equation modeling. He has written influential articles on the issue of arbitrary metrics in social science research. Dr. Jaccard also has written about theory construction and how to build conceptual models in a book published by Guilford Press."
+    ],
+    "price": "9.23",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41M7JlEy00L._SX322_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "James Jaccard (Author),  Robert Turrisi (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Mathematics"
+    ],
+    "details": "{\"Publisher\": \"SAGE Publications, Inc; 2nd edition (March 5, 2003)\", \"Language\": \"English\", \"Paperback\": \"104 pages\", \"ISBN 10\": \"0761927425\", \"ISBN 13\": \"978-0761927426\", \"Item Weight\": \"3.88 ounces\", \"Dimensions\": \"5.5 x 0.24 x 8.5 inches\"}",
+    "parent_asin": "0761927425",
+    "bought_together": null,
+    "subtitle": "2nd Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'James Jaccard', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

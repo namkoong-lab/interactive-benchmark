@@ -1,0 +1,51 @@
+{
+  "item_id": 591,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Blow Up Your Video",
+    "average_rating": 4.7,
+    "rating_number": 387,
+    "features": [],
+    "description": [
+      "CD"
+    ],
+    "price": "7.98",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71-3F+ZlKeL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51ZMFIyk+NL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51ZMFIyk+NL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "AC/DC   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Rock"
+    ],
+    "details": "{\"Product Dimensions\": \"5.1 x 5.7 x 0.8 inches; 1.4 Pounds\", \"Manufacturer\": \"Legacy Recordings\", \"Original Release Date\": \"2016\", \"Run time\": \"43 minutes\", \"Date First Available\": \"April 27, 2016\", \"Label\": \"Legacy Recordings\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B01EUKLNVK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Rock Albums"
+    ],
+    "confidence": 0.95
+  }
+}

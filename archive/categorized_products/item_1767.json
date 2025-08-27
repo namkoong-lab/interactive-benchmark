@@ -1,0 +1,79 @@
+{
+  "item_id": 1767,
+  "metadata": {
+    "main_category": "All Electronics",
+    "title": "AYA 25Ft (25 Feet) 24AWG High Speed HDMI Male to Female Extension Cable Ethernet, CL2, Audio Return, 4K 3D and in Wall Ready",
+    "average_rating": 4.5,
+    "rating_number": 6,
+    "features": [
+      "High Speed for Maximum Bandwidth",
+      "3D Ready for Compatible Devices",
+      "Ethernet Channel for Compatible Devices",
+      "24k Gold-Plated Contacts for Maximum Signal Transmission and Protection Against Corrosion",
+      "CL2 Rated for In-Wall Installations, High Density Triple Shielding to Help Prevent EMI"
+    ],
+    "description": [
+      "24AWG High Speed HDMI Male to Female Extension Cable w/Ethernet, Audio CL2 Rate 4K Ready CL2 Rated (In Wall Ready) RoHS Compliant, UL Listed Certified by an HDMI ATC (Authorized Testing Center) Features: High Speed for Maximum Bandwidth 3D Ready for Compatible Devices Ethernet Channel for Compatible Devices 24k Gold-Plated Contacts for Maximum Signal Transmission and Protection Against Corrosion High Density Triple Shielding to Help Prevent EMI CL2 Rated for In-Wall Installations Length:1Ft, 3Ft, 6Ft, 10Ft, 15Ft, 25Ft HDMI Ethernet Channel The HDMI 1.4a specification adds a data channel to the HDMI connection, enabling high-speed, bi-directional communication. Connected devices that include this feature can send and receive data via 100 Mb/sec Ethernet, making them instantly ready for any IP-based application. The HDMI Ethernet Channel allows internet-enabled HDMI devices to share an internet connection via the HDMI link, with no need for a separate Ethernet cable. It also provides the connection platform that will allow HDMI-enabled components to share content between devices. Audio Return Channel The new specification adds an audio channel that will reduce the number of cables required to deliver audio “upstream” from a TV to an A/V receiver for processing and playback. In cases where a TV features an internal content source, such as a built-in tuner or DVD player, the Audio Return Channel allows the TV to send audio data upstream to the A/V receiver via the HDMI cable, eliminating the need for an extra cable. 3D The 1.4a version of the specification defines common 3D formats and resolutions for HDMI-enabled devices, enabling 3D gaming and other 3D video applications. The specification standardizes the input/output portion of the home 3D system, facilitating 3D resolutions up to dual-stream 1080p. 4K Resolution Support The new specification enables HDMI devices to support extremely high HD resolutions, effectively four times the resolution of a 1080p device. Support for 4K allows the HDMI interface to transmit digital content at the same resolution as the state-of-the-art Digital Cinema systems used in many movie theaters. Expanded Support For Color Spaces HDMI now supports color spaces designed specifically for digital still cameras, enabling more accurate color rendering when viewing digital photos. By supporting sYCC601, Adobe®RGB, and Adobe®YCC601, HDMI display devices are capable of displaying more accurate, life-like colors when connected to a digital camera."
+    ],
+    "price": "26.99",
+    "images": {
+      "hi_res": [
+        null,
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31pCf3+k8kL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31p0uIEXwtL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41RelXmAipL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31pCf3+k8kL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31p0uIEXwtL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41RelXmAipL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [
+        "8K@60Hz  HDMI 2.1 Extender Cabke",
+        "HDMI Extension Cable w/ 4k Support - Perfect Way to Bridge/Extend a HDMI Cable",
+        "UGREEN HDMI Extension Cable Review"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0e3c336c706d4154bc8a60c02264c8a0?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/00d2db1b098e4d58b76e458201bb33be?ref=dp_vse_rvc_1",
+        "https://www.amazon.com/vdp/033d8ef54f2c42cb86e005fd3ed61491?ref=dp_vse_rvc_2"
+      ],
+      "user_id": [
+        "",
+        "/shop/derage",
+        ""
+      ]
+    },
+    "store": "AYAGROUP",
+    "categories": [
+      "Electronics",
+      "Television & Video",
+      "Accessories",
+      "Cables",
+      "HDMI Cables"
+    ],
+    "details": "{\"Brand\": \"AYAGROUP\", \"Connector Type\": \"HDMI\", \"Cable Type\": \"Ethernet\", \"Compatible Devices\": \"Television, DVD Player\", \"Special Feature\": \"High Speed\", \"Connector Gender\": \"Male-to-Female\", \"Unit Count\": \"1 Count\", \"Connectivity Technology\": \"HDMI\", \"Gauge\": \"24.0\", \"Specification Met\": \"HDMI 1.4A, CL2\", \"Package Type\": \"Standard Packaging\", \"Product Dimensions\": \"9.5 x 6.2 x 2.5 inches\", \"Item Weight\": \"1.4 pounds\", \"Item model number\": \"AYA-HDMI-25MF-24\", \"Best Sellers Rank\": {\"HDMI Cables\": 9919}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"May 5, 2014\", \"Manufacturer\": \"AYAGROUP\"}",
+    "parent_asin": "B00K4MSKGU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Electronics",
+      "Adapters & Connectors"
+    ],
+    "confidence": 0.95
+  }
+}

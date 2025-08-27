@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Operating Systems: A Systematic View (5th Edition)",
+    "average_rating": 3.8,
+    "rating_number": 20,
+    "features": [
+        "B> The fifth edition of Operating Systems: A Systematic View offers a practical and applied introduction to operating system concepts, aimed at people interested in using computers, operating systems, and networks. The authors take a \"systematic view\" of the subject, where they provide insight into what is going on beneath the surface instead of focusing so much on OS theory. The intent is to show why operating systems are needed and what, at a functional level, they do. The book features an engaging, reader-friendly presentation written at a pace and level appropriate for novices, and contains extensive illustrations to visually reinforce concepts. Readers are guided through some of today's most widely used operating systems, including Linux, UNIX, and Windows 2000. Also included is coverage of several modern topics and technologies, with chapters on the Windows interface, Intel Pentium architecture, and Windows internals, as well as a section on network operating systems with chapters on client/server networks, Windows 2000, Novell, and the Internet. This book is designed for people from non-technical fields and backgrounds who simply need to know how to interact with, rather than how to design, an operating system. It requires no background in programming and only a working knowledge of basic algebra. It will also be of interest to computer programmers, technical managers, and applied practitioners who want a practical and applied introduction to operating systems."
+    ],
+    "description": [
+        "From the Back Cover",
+        "The fifth edition of Operating Systems: A Systematic View offers a practical and applied introduction to operating system concepts, aimed at people interested in using computers, operating systems, and networks. The authors take a \"systematic view\" of the subject, where they provide insight into what is going on beneath the surface instead of focusing so much on OS theory. The intent is to show why operating systems are needed and what, at a functional level, they do. The book features an engaging, reader-friendly presentation written at a pace and level appropriate for novices, and contains extensive illustrations to visually reinforce concepts. Readers are guided through some of today's most widely used operating systems, including Linux, UNIX, and Windows 2000. Also included is coverage of several modern topics and technologies, with chapters on the Windows interface, Intel Pentium architecture, and Windows internals, as well as a section on network operating systems with chapters on client/server networks, Windows 2000, Novell, and the Internet. This book is designed for people from non-technical fields and backgrounds who simply need to know how to interact with, rather than how to design, an operating system. It requires no background in programming and only a working knowledge of basic algebra. It will also be of interest to computer programmers, technical managers, and applied practitioners who want a practical and applied introduction to operating systems."
+    ],
+    "price": "5.97",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51CPAF6KMBL._SX382_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "William S. Davis (Author),  T.M. Rajkumar (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Programming"
+    ],
+    "details": "{\"Publisher\": \"Addison Wesley; 5th edition (October 20, 2000)\", \"Language\": \"English\", \"Hardcover\": \"605 pages\", \"ISBN 10\": \"0201612577\", \"ISBN 13\": \"978-0201612578\", \"Item Weight\": \"2.49 pounds\", \"Dimensions\": \"7.1 x 1.2 x 9 inches\"}",
+    "parent_asin": "0201612577",
+    "bought_together": null,
+    "subtitle": "5th Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'William S. Davis', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

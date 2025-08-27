@@ -1,0 +1,65 @@
+{
+  "item_id": 4315,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Island Wear Polarized Vintage Retro Cateye Sunglasses for Women Fashion UV400",
+    "average_rating": 3.9,
+    "rating_number": 5,
+    "features": [
+      "Imported",
+      "Plastic frame",
+      "Plastic lens",
+      "Polarized",
+      "UV Protection Coating coating",
+      "Lens width: 54 millimeters",
+      "Bridge: 18 millimeters",
+      "Arm: 139 millimeters",
+      "Polarized",
+      "UV400 Protection"
+    ],
+    "description": [
+      "Helping to reduce sun glare, these Giselle cat eye polarized sunglasses are an ideal choice for those who spend a lot of time outdoors. The stunning cat eye design flatters most face shapes and complements any choice of clothing, making these shades the perfect addition to any outfit. They also offer full eye protection from the sun's UVA and UVB rays. Made from chunky plastic, these frames provide the ultimate in comfort even with all-day use."
+    ],
+    "price": "13.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/41AAexPGUDL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31EOTLMxnaL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31EOTLMxnaL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Island Wear",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Accessories",
+      "Sunglasses & Eyewear Accessories",
+      "Sunglasses"
+    ],
+    "details": "{\"Package Dimensions\": \"6 x 2 x 0.7 inches; 1.6 Ounces\", \"Department\": \"Womens\", \"Date First Available\": \"February 10, 2023\"}",
+    "parent_asin": "B0BVGJYXY9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Eyewear",
+      "Sunglasses"
+    ],
+    "confidence": 0.95
+  }
+}

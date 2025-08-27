@@ -1,0 +1,64 @@
+{
+  "item_id": 5807,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Joe's Jeans Women's The Icon Ankle Snake Print",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [
+      "62.3% Cotton, 17.9% Rayon, 17.1% Polyester, 2.7% Elastane",
+      "Imported",
+      "Zipper closure",
+      "Machine Wash",
+      "Ankle skinny with classic 5 pocket details",
+      "Mid rise denim"
+    ],
+    "description": [
+      "Joe's Jeans brings you the perfect pair of snake print skinnies. This style is made of a super soft stretch fabric in a unique leopard print and soft c olor over dye. This will be a skinny jean You will want for your closet this season"
+    ],
+    "price": "65.68",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81UMHlVqLWL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81AuGsYH-VL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41LwWpAEShL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Uf-+8c4xL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41LwWpAEShL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41Uf-+8c4xL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Joe's Jeans",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Jeans"
+    ],
+    "details": "{\"Item model number\": \"GAEDBS5968\", \"Department\": \"Womens\", \"Date First Available\": \"March 18, 2020\", \"Manufacturer\": \"Joe's Jeans\"}",
+    "parent_asin": "B08628XPXV",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Pants",
+      "Women's Jeans"
+    ],
+    "confidence": 0.95
+  }
+}

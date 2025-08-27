@@ -1,0 +1,72 @@
+{
+  "item_id": 5156,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Double Accent 3.6mm Stainless Steel Chain Round Box Chain Necklace (Available Length 18\", 20\", 22\", 24\")",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "Stainless Steel Chain"
+    ],
+    "description": [
+      "This beautiful 3.6mm Stainless Steel Chain Round Box Chain Necklace ( Available Length 18\", 20\", 22\", 24\") by Double Accent is meticulously crafted in gleaming and durable Stainless Steel."
+    ],
+    "price": "20.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51+LTkh8R-L._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71ojuPnzYhL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81YVYHaYebL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61rY3elUsyL._AC_UL1000_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41VT-z+YkpL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/419UvJ74I6L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/411O8ygbTIL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51gIliU5wIL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41QJtVEXSUL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41VT-z+YkpL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/419UvJ74I6L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/411O8ygbTIL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51gIliU5wIL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41QJtVEXSUL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT08"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Double Accent",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Jewelry",
+      "Necklaces",
+      "Chains"
+    ],
+    "details": "{\"Item model number\": \"SSBXR300Z200\", \"Department\": \"Womens\", \"Date First Available\": \"January 7, 2012\", \"Manufacturer\": \"Double Accent\"}",
+    "parent_asin": "B07CSHB3L5",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Necklaces"
+    ],
+    "confidence": 0.95
+  }
+}

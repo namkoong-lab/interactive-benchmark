@@ -1,0 +1,53 @@
+{
+    "main_category": "Automotive",
+    "title": "ACDelco GM Original Equipment 217-1404 Indirect Fuel Injector Kit with Fuel injector and Gasket",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "Atomize fuel into the engine's intake manifold or cylinders, as part of the fuel and engine management system",
+        "GM-recommended replacement part for your GM vehicle’s original factory component",
+        "Offering the quality, reliability, and durability of GM OE",
+        "This part requires programming and/or special setup procedures. GM Service Information describes the procedures and special tools needed to ensure proper operation in the vehicle"
+    ],
+    "description": [
+        "An ACDelco GM Original Equipment Fuel Injector is an electro-magnetic valve that meters fuel into the engine’s intake manifold or cylinders for combustion, and is a GM-recommended replacement for your vehicle’s original component. The engine management computer operates the injector by applying an electric current to the injector solenoid winding-this causes the needle valve to open, and allows the pressurized fuel to be atomized into the intake airstream. This original equipment fuel injector has been manufactured to fit your GM vehicle, providing the same performance, durability, and service life you expect from General Motors."
+    ],
+    "price": "44.45",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/41fGU9Z6EbL._AC_SL1000_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31iWFNd32BL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21IrGN7pZSL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31iWFNd32BL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/21IrGN7pZSL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "ACDelco",
+    "categories": [
+        "Automotive",
+        "Replacement Parts",
+        "Fuel System",
+        "Fuel Injection",
+        "Fuel Injectors & Parts",
+        "Fuel Injectors"
+    ],
+    "details": "{\"Manufacturer\": \"ACDelco\", \"Brand\": \"ACDelco\", \"Model\": \"ACDelco - Indirect Fuel I (Slp) (217-1404)\", \"Item Weight\": \"7.2 ounces\", \"Product Dimensions\": \"5 x 2 x 2 inches\", \"Item model number\": \"217-1404\", \"Is Discontinued By Manufacturer\": \"No\", \"Manufacturer Part Number\": \"217-1404\", \"OEM Part Number\": \"12458122\", \"Best Sellers Rank\": {\"Automotive\": 2192679, \"Automotive Replacement Fuel Injectors\": 7589}, \"Date First Available\": \"November 11, 2005\"}",
+    "parent_asin": "B000C9IBOG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

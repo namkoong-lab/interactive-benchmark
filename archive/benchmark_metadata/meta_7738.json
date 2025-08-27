@@ -1,0 +1,68 @@
+{
+    "main_category": "Books",
+    "title": "SPSS For Dummies",
+    "average_rating": 4.3,
+    "rating_number": 33,
+    "features": [
+        "SPSS (Statistical Package for the Social Sciences) is a data management and analysis software that allows users to generate solid, decision-making results by performing statistical analysis",
+        "SPSS (Statistical Package for the Social Sciences) is a data management and analysis software that allows users to generate solid, decision-making results by performing statistical analysis",
+        "This book provides just the information needed: installing the software, entering data, setting up calculations, and analyzing data",
+        "This book provides just the information needed: installing the software, entering data, setting up calculations, and analyzing data",
+        "Covers computing cross tabulation, frequencies, descriptive ratios, means, bivariate and partial correlations, linear regression, and much more",
+        "Covers computing cross tabulation, frequencies, descriptive ratios, means, bivariate and partial correlations, linear regression, and much more",
+        "Explains how to output information into striking charts and graphs",
+        "Explains how to output information into striking charts and graphs",
+        "For ambitious users, also covers how to program SPSS to take their statistical analysis to the next level",
+        "For ambitious users, also covers how to program SPSS to take their statistical analysis to the next level"
+    ],
+    "description": [
+        "From the Back Cover",
+        "Program SPSS with Python® and Command Syntax",
+        "The fun and easy way® to generate solid decision-making results with SPSS",
+        "Stymied by SPSS? This friendly, plain-English guide gets you up and running with the latest version of the software so that you can start performing calculations right away. It then covers all key analysis topics step by step — from cross tabulation and descriptive ratios to linear regression, hierarchical analysis, and more. You'll export data flawlessly and with flair!",
+        "Install and run the software",
+        "Install and run the software",
+        "Get data into and out of SPSS",
+        "Get data into and out of SPSS",
+        "Create striking charts and graphs",
+        "Create striking charts and graphs",
+        "Execute analyses — from correlations to linear models",
+        "Execute analyses — from correlations to linear models",
+        "Display data in a variety of graphs",
+        "Display data in a variety of graphs",
+        "About the Author",
+        "Arthur Griffith",
+        "uses SPSS in research for special projects with the U.S. Department of Defense. He is the author and producer of seven CD tutorials on computer programming."
+    ],
+    "price": "1.97",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Q7VuOROyL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Arthur Griffith (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Mathematics"
+    ],
+    "details": "{\"Publisher\": \"For Dummies; 1st edition (April 2, 2007)\", \"Language\": \"English\", \"Paperback\": \"360 pages\", \"ISBN 10\": \"0470113448\", \"ISBN 13\": \"978-0470113448\", \"Item Weight\": \"1.15 pounds\", \"Dimensions\": \"7.5 x 0.75 x 9.25 inches\"}",
+    "parent_asin": "0470113448",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Arthur Griffith', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

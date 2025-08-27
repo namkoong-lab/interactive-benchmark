@@ -1,0 +1,49 @@
+{
+    "main_category": "Grocery",
+    "title": "Bob's Red Mill Organic Corn Flour 25pound Bulk Bag, 400 Ounce",
+    "average_rating": 3.3,
+    "rating_number": 14,
+    "features": [
+        "WHOLE GRAIN GOODNESS: Our Organic Whole Grain Corn Flour is always 100% stone ground and includes all of the nutrients from the bran, germ and endosperm",
+        "MULTIPLE USES: It’s wonderfully flavorful, and its fine texture produces a tender cornbread, or use in cakes, muffins and pancakes",
+        "ORGANIC: Certified Organic by QAI",
+        "VEGAN: All Bob’s Red Mill products are vegetarian; this product is also vegan, meaning it does not include eggs, dairy or honey",
+        "BOB'S RED MILL: Make folks a little happier: it’s the idea that keeps our stone mills grinding to fill every bag with wholesome goodness"
+    ],
+    "description": [
+        "Bob's Red Mill Organic Whole Grain Corn Flour is always 100% stone ground and includes all of the nutrients from the bran, germ and endosperm. It’s wonderfully flavorful, and its fine texture produces a tender cornbread that is richer and less crumbly than one made with corn meal."
+    ],
+    "price": "74.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91dKJnlPE9L._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51P3+tOcc2L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51P3+tOcc2L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Bob's Red Mill",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Cooking & Baking",
+        "Flours & Meals",
+        "Corn"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"26 x 13 x 3.81 inches; 27 Pounds\", \"UPC\": \"039978109170\", \"Manufacturer\": \"Bob's Red Mill\"}",
+    "parent_asin": "B01N91829T",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

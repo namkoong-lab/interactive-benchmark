@@ -1,0 +1,42 @@
+{
+    "main_category": "Digital Music",
+    "title": "Wacko Magneto",
+    "average_rating": 4.6,
+    "rating_number": 22,
+    "features": [],
+    "description": [
+        "Ednaswap ~ Wacko Magneto"
+    ],
+    "price": "25.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51G6XCQ0TSL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51G6XCQ0TSL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ednaswap   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Indie & Alternative",
+        "Alternative Rock",
+        "American Alternative"
+    ],
+    "details": "{\"Product Dimensions\": \"5.5 x 4.94 x 0.45 inches; 4 Ounces\", \"Manufacturer\": \"Island\", \"Date First Available\": \"November 4, 2006\", \"Label\": \"Island\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000001EAN",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

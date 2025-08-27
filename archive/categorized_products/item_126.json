@@ -1,0 +1,61 @@
+{
+  "item_id": 126,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Premier Kites 9.5 Ft Wind Generator - Rainbow",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [
+      "100% UV RESISTANT SUNTEX FABRIC",
+      "Easy to assemble",
+      "Aluminum mast & ground stake included",
+      "Size: Diameter: 9.5ft, Pole: 10.5ft"
+    ],
+    "description": [
+      "A colorful adaptation of the large power generators seen in Europe and on windy plains in America, our version uses a unique governor arrangement to keep them turning at a constant yet mesmerizing rpm. Based on designs by Mike Delfar of Gravity Works in Franklin, Wisconsin."
+    ],
+    "price": "256.2",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51SCqUiSwSL._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/515xBpxfWZL._AC_SL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41xG6LUDZzL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31iCwHsn3iL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41xG6LUDZzL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/31iCwHsn3iL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Premier Kites",
+    "categories": [
+      "Patio, Lawn & Garden",
+      "Generators & Portable Power"
+    ],
+    "details": "{\"Brand\": \"Premier Kites\", \"Color\": \"Multicolor\", \"Material\": \"Fabric\", \"Style\": \"Modern\", \"Item Weight\": \"3.09 Kilograms\", \"Assembly Required\": \"No\", \"Product Dimensions\": \"114.17 x 16.54 x 183.07 inches\", \"Manufacturer\": \"PREMIER KITES & DESIGNS\", \"Item model number\": \"PKWGR_G9.5\", \"Best Sellers Rank\": {\"Patio, Lawn & Garden\": 388793, \"Outdoor Generators & Portable Power\": 6382}, \"Is Discontinued By Manufacturer\": \"No\"}",
+    "parent_asin": "B001JJWSJM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Outdoor Living",
+      "Garden Decor",
+      "Wind Spinners"
+    ],
+    "confidence": 0.95
+  }
+}

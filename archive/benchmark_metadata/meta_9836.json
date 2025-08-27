@@ -1,0 +1,41 @@
+{
+    "main_category": "Amazon Home",
+    "title": "3'x5' INDIANA Polyester Flags",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "3x5 Polyester flag"
+    ],
+    "price": "2.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41QPhXYT7UL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41QPhXYT7UL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mission Flags",
+    "categories": [
+        "Patio, Lawn & Garden",
+        "Outdoor Décor",
+        "Flags"
+    ],
+    "details": "{\"Manufacturer\": \"FlagPad\", \"Is Discontinued By Manufacturer\": \"No\", \"Brand\": \"Mission Flags\", \"Material\": \"Polyester\", \"Fabric Type\": \"Polyester\"}",
+    "parent_asin": "B010C84U8M",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,64 @@
+{
+  "item_id": 4846,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Sterling Silver Oval Blue Topaz And Diamond Ring",
+    "average_rating": 3.3,
+    "rating_number": 5,
+    "features": [
+      "Beautiful complimentary gift box included with this purchase",
+      "Setting made entirely with sterling silver",
+      "30 Day Satisfaction Guarantee",
+      "Main stone size: 6x4 mm. All gemstones are genuine",
+      "Photos may have been enlarged to show detail. Please see specifications below for product measurements."
+    ],
+    "description": [
+      "6x4 mm natural blue topaz ring set in sterling silver with .02 ct diamonds."
+    ],
+    "price": "74.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/613Zl3kwNIL._AC_UL1200_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41kqjahV13L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41zeB3eeCUL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41kqjahV13L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41zeB3eeCUL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Direct-Jewelry",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Jewelry",
+      "Rings",
+      "Statement"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"March 22, 2012\", \"Manufacturer\": \"Direct-Jewelry\"}",
+    "parent_asin": "B07C4Y32B2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Women's Rings"
+    ],
+    "confidence": 0.95
+  }
+}

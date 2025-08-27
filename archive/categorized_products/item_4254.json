@@ -1,0 +1,59 @@
+{
+  "item_id": 4254,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Marvel Boys Captain America Civil War Pajamas (6)",
+    "average_rating": 3.7,
+    "rating_number": 3,
+    "features": [
+      "100% Cotton",
+      "Pull On closure",
+      "Marvel Captain America Iron Man Costume 4PC Short Sleeve Pajama Set Size 6",
+      "100% Cotton",
+      "Fit Snugly and Tightly"
+    ],
+    "description": [
+      "Marvel Captain America Iron Man Costume 4PC Short Sleeve Pajama Set Size 6"
+    ],
+    "price": "59.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61DiRaTdNoL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51wBKf6dtVL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51wBKf6dtVL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Marvel",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Boys",
+      "Clothing",
+      "Sleepwear & Robes",
+      "Pajama Sets"
+    ],
+    "details": "{\"Package Dimensions\": \"12.9 x 10.7 x 1.8 inches; 11.2 Ounces\", \"Department\": \"Boys\", \"Date First Available\": \"March 8, 2016\"}",
+    "parent_asin": "B01CPMONRG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Boys' Clothing"
+    ],
+    "confidence": 0.95
+  }
+}

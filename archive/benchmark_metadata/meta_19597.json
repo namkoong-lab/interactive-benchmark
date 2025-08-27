@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Great White Shark: Truth Behind The Legend",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [],
+    "description": [
+        "National Geographic embarks on a voyage of breakthrough discoveries that will forever alter our view of the infamous creature once labeled \"the perfect killing machine.\" Join the ultimate great white expedition, featuring Jaws creator Peter Benchley and famed underwater photographer David Doubilet. Witness amazing great white shark behavior, including never-before-seen footage of explosive, air-borne \"breaching\" attacks. Experience the breathless fear of a diver trapped on the sea bottom for over four hours by a hungry great white."
+    ],
+    "price": "37.8",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41YXg7SHyFL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41YXg7SHyFL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Documentary"
+    ],
+    "details": "{\"Aspect Ratio\": \"1.33:1\", \"Product Dimensions\": \"7.5 x 5.5 x 0.5 inches; 3.5 Ounces\", \"Media Format\": \"NTSC\", \"Run time\": \"1 hour and 20 minutes\", \"Release date\": \"December 8, 2010\", \"Studio\": \"National Geographic\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B004FN25A6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

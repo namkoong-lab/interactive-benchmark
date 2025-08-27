@@ -1,0 +1,57 @@
+{
+    "main_category": "Computers",
+    "title": "ONN Travel Mouse with Retractable Cord",
+    "average_rating": 4.7,
+    "rating_number": 10,
+    "features": [
+        "3 buttons",
+        "Small, travel-sized",
+        "USB cord retracts for storage",
+        "Scroll wheel",
+        "Optical resolution"
+    ],
+    "description": [
+        "This a listing for two Mouse, not just one."
+    ],
+    "price": "23.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/41vmFETVblS._AC_SL1119_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/41L+tYlCyGS._AC_SL1250_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31mR7lyhGCS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51+kdkC9PlS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21bsBJZ9a3S._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31mR7lyhGCS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51+kdkC9PlS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/21bsBJZ9a3S._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "ONN",
+    "categories": [
+        "Electronics",
+        "Computers & Accessories",
+        "Computer Accessories & Peripherals",
+        "Keyboards, Mice & Accessories",
+        "Mice"
+    ],
+    "details": "{\"Product Dimensions\": \"8.86 x 4.02 x 6.69 inches\", \"Item Weight\": \"4 ounces\", \"Manufacturer\": \"ONN\", \"Item model number\": \"R1Z-GRAY\", \"Best Sellers Rank\": {\"Computer Mice\": 3138}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"May 31, 2013\", \"Brand\": \"ONN\", \"Color\": \"Gray\", \"Connectivity Technology\": \"USB\", \"Movement Detection Technology\": \"Optical\", \"Number of Buttons\": \"2\"}",
+    "parent_asin": "B00D4A7QFK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

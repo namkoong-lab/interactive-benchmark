@@ -1,0 +1,56 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "St. Eve Girls' Sleep Pant, 2-pack",
+    "average_rating": 4.8,
+    "rating_number": 10,
+    "features": [
+        "Poly,Elastic,Fleece,Satin",
+        "Imported",
+        "Tumble Dry,Machine Wash,Do Not Iron",
+        "2-pack, Cozy Fleece, Elastic Waist, Machine Washable",
+        "Color/Print: Pink and Blue/Sheep",
+        "Soft & cozy fabric in micro poly fleece",
+        "Elastic waist with satin bow",
+        "Flame resistant Machine washable. 100% polyester"
+    ],
+    "description": [
+        "Sizing: 7-14 Care Instructions: Turn garment inside out Machine wash cold Gentle cycle with like colors Use non-chlorine bleach when needed To retain flame resistance use detergent only Do not use soap Tumble dry low Remove promptly Iron on lowest setting Do not iron on decoration."
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61WhJCTMkuL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61tppwGrosL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Q-3P+Es+L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41oWDlrLNLL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Q-3P+Es+L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41oWDlrLNLL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "St Eve Girls",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Girls",
+        "Clothing",
+        "Sleepwear & Robes",
+        "Pajama Bottoms"
+    ],
+    "details": "{\"Department\": \"Girls\", \"Date First Available\": \"November 6, 2014\"}",
+    "parent_asin": "B00PBBEI1K",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

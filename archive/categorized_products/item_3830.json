@@ -1,0 +1,65 @@
+{
+  "item_id": 3830,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Reusch Soccer Adult Alex Breezer Knicker (3/4 Goalkeeper Pant)",
+    "average_rating": 3.7,
+    "rating_number": 154,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Drawstring closure",
+      "Machine Wash",
+      "3/4 length goalkeeper pant made of 100% polyester knit materials with PADDED HIPS and KNEES",
+      "The poly knit material offers COMFORT and DURABILITY while the padding offers PROTECTION where it's needed",
+      "This 3/4 pant is slightly longer than knicker length with open, loose bottom"
+    ],
+    "description": [
+      "100% polyester knit. Padded hips and knees. Pant is slightly longer than knicker length with open, loose bottom."
+    ],
+    "price": "45.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71-KE92wDcL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71CW0aDSZWL._AC_UL1375_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31-3JkceDQL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51b7IHfzofL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31-3JkceDQL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51b7IHfzofL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Reusch Soccer",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Sleep & Lounge",
+      "Sleep Bottoms"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"1990868\", \"Department\": \"mens\", \"Date First Available\": \"December 8, 2006\", \"Manufacturer\": \"Reusch Soccer\"}",
+    "parent_asin": "B002EE5RVM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing"
+    ],
+    "confidence": 0.9
+  }
+}

@@ -1,0 +1,51 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Mud Pie Baby-Boys Classic",
+    "average_rating": 4.7,
+    "rating_number": 17,
+    "features": [
+        "100% Cotton",
+        "Imported",
+        "MACHINE WASH COLD TUMBLE DRY LOW DO NOT BLEACH",
+        "Striped cotton hosiery koala baby socks feature crochet knit koala rattles at toes.",
+        "MACHINE WASH COLD TUMBLE DRY LOW DO NOT BLEACH",
+        "Package Dimensions: 3.81 L x 9.398 H x 8.636 W (centimeters)",
+        "item package weight: 0.558333317 pounds"
+    ],
+    "description": [
+        "Striped cotton hosiery koala baby socks feature crochet knit koala rattles at toes."
+    ],
+    "price": "13.8",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71OXVdlamCL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41BF6mCy4-L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41BF6mCy4-L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mud Pie",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Baby",
+        "Baby Boys",
+        "Accessories",
+        "Socks"
+    ],
+    "details": "{\"Department\": \"Baby-Boys\", \"Date First Available\": \"December 2, 2020\", \"Manufacturer\": \"Mud Pie\"}",
+    "parent_asin": "B08PH96BLY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

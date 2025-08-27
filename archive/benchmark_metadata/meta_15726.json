@@ -1,0 +1,45 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Marc Fisher Zasha",
+    "average_rating": 2.9,
+    "rating_number": 5,
+    "features": [
+        "Made in the USA or Imported",
+        "Rubber sole"
+    ],
+    "description": [
+        "Stay on trend in the fashion forward Marc Fisher Zasha sandal. Slip on style. Square open toe silhouette. Padded footbed offers lasting comfort. Covered block heel. Man-made upper, lining, insole, and outsole."
+    ],
+    "price": "44.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61Wu4YTyxpL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/315aa+VCJkL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/315aa+VCJkL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Marc Fisher",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Loafers & Slip-Ons"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"April 26, 2022\"}",
+    "parent_asin": "B0B5YHDZVT",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

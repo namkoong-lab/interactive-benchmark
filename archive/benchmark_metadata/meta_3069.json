@@ -1,0 +1,73 @@
+{
+    "main_category": "Grocery",
+    "title": "Swoon Zero Sugar Classic Lemonade, 12 FZ",
+    "average_rating": 4.2,
+    "rating_number": 9,
+    "features": [],
+    "description": [
+        "Beverage"
+    ],
+    "price": "1.43",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71j1ArLAEuL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71aTP6sFt0L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81UHT018GBL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/712rsbtwzjL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71xAT2F1pML._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71jR3b7wWlL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71fWE+Nc5AL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/412orX2-rCL.jpg",
+            "https://m.media-amazon.com/images/I/41nhk-05+2L.jpg",
+            "https://m.media-amazon.com/images/I/41XpyJAA16L.jpg",
+            "https://m.media-amazon.com/images/I/41WIj6Y45BL.jpg",
+            "https://m.media-amazon.com/images/I/41tXnsfovlL.jpg",
+            "https://m.media-amazon.com/images/I/41XUseqCdFL.jpg",
+            "https://m.media-amazon.com/images/I/41jMppnabeL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/412orX2-rCL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41nhk-05+2L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41XpyJAA16L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41WIj6Y45BL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41tXnsfovlL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41XUseqCdFL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41jMppnabeL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Chamberlain Coffee x Swoon: Matcha Lemonade Listing Video"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0c6e3b4786a74159ba1e4dd37b5a79ce?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Swoon",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Beverages",
+        "Bottled Beverages, Water & Drink Mixes",
+        "Juices",
+        "Lemonade"
+    ],
+    "details": "{\"Package Dimensions\": \"4.75 x 2.58 x 2.55 inches; 12.96 Ounces\", \"Item model number\": \"0858344005430\", \"UPC\": \"858344005430\", \"Manufacturer\": \"Swoon\"}",
+    "parent_asin": "B09CCG8WM9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

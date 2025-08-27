@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The Cat in the Manger: Wilbert Longtail's Christmas",
+    "average_rating": 5.0,
+    "rating_number": 24,
+    "features": [
+        "Wilbert Longtail, an orangey-red tabby with an extremely long tail, can’t understand what all the Christmas fuss is about. His humans have even brought a tree inside. So as all cats do, he takes a catnap to think things through.Wilbert awakens to find himself in ancient Bethlehem. In search of a way home, he encounters the animals and people of the Nativity, and witnesses the birth of Jesus. But where there is great good, evil will rise to oppose it. An enormous rat emerges from the shadows, intent on harming the sleeping baby. It falls to Wilbert to confront the threat—an encounter that ultimately leads him to the truth of Christmas."
+    ],
+    "description": [
+        "About the Author",
+        "Steve Vassey served multiple terms as president of the South Carolina Writers Workshop, and also acted as editor for the organization's annual anthology. Retired from careers as an environmental scientist and information technology manager, he currently lives with his wife, an outspoken cat, and a forty-five pound lapdog in Cayce, South Carolina."
+    ],
+    "price": "10.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41O2NN2S66L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Steve Vassey (Author),  Anthony Hightower (Illustrator)",
+    "categories": [
+        "Books",
+        "Christian Books & Bibles",
+        "Literature & Fiction"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform (October 26, 2016)\", \"Language\": \"English\", \"Paperback\": \"56 pages\", \"ISBN 10\": \"1537077457\", \"ISBN 13\": \"978-1537077451\", \"Item Weight\": \"3.52 ounces\", \"Dimensions\": \"6 x 0.15 x 9 inches\"}",
+    "parent_asin": "1537077457",
+    "bought_together": null,
+    "subtitle": "Paperback – October 26, 2016",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/rddcakgvv7jtvafrbocsk2rdsl._SY600_.jpg', 'name': 'Steve Vassey', 'about': ['Fantasy and science fiction with a Southern twist.', 'Steve Vassey is the author of the Buck Hawthorne mystery/fantasy series, as well as other fantasy/sci-fi novels and children’s stories. He served multiple terms as president of the South Carolina Writers Workshop, and as editor for the organization’s annual anthology. Retired from careers in environmental science and information technology, he currently lives with his wife in Cayce, SC.']}"
+}

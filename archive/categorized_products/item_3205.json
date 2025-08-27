@@ -1,0 +1,60 @@
+{
+  "item_id": 3205,
+  "metadata": {
+    "main_category": "Toys & Games",
+    "title": "California Costumes Toys Grim Reaper Deluxe",
+    "average_rating": 4.3,
+    "rating_number": 230,
+    "features": [
+      "Fabric: Polyester; Hands Vinyl",
+      "Made in USA or Imported",
+      "Hood With Face Cover And Attached Cape",
+      "Product Type: Costume Outfit",
+      "Vinyl Skeleton Hands",
+      "Fabric Type: Polyester"
+    ],
+    "description": [
+      "Includes: Robe, hood and gloves. Shoes and weapon not included."
+    ],
+    "price": "31.83",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/617-+DaGNBL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31SzJirHXFL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31SzJirHXFL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "California Costumes",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Costumes & Accessories",
+      "Kids & Baby",
+      "Boys",
+      "Costumes"
+    ],
+    "details": "{\"Department\": \"boys\", \"Date First Available\": \"June 3, 2008\", \"Manufacturer\": \"California Costume Collections\"}",
+    "parent_asin": "B07BSQ3ZLG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Toys & Games",
+      "Traditional Costumes"
+    ],
+    "confidence": 0.95
+  }
+}

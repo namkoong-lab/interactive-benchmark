@@ -1,0 +1,94 @@
+{
+  "item_id": 3617,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "PUMA Unisex-Child Cell Vive Running Shoe",
+    "average_rating": 4.5,
+    "rating_number": 280,
+    "features": [
+      "Rubber sole",
+      "Textile with lace closure",
+      "EVA",
+      "Non-marking rubber"
+    ],
+    "description": [
+      "The all new Cell Vive brings a fresh 10CELL design language to an amazing price point. The tooling features a beautiful, integrated 10CELL piece in the heel for comfort and stability through a supportive, cell-like structure. Sculpted, full length EVA provides long lasting comfort while rubber in the outsole provides traction. The upper features a bold collar silhouette and construction, with alternative collar heights and a gore piece for fit and ease of entry. Valuable overlays and a large PUMA branding provide extreme shelf appeal and brand awareness. The Cell Vive brings our 10CELL product offering to new heights!"
+    ],
+    "price": "59.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81esF9TosbL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71tLWOaUYTL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61cDLObNgeL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61pRhupRZCL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71OslqfxrYL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/816VCpnt+iL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81yFFtC0jGL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ZxUq+eQGL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41JLMh3INlL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41VdDWqc+dL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41pd87J8rFL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31vQ1VK9PnL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31sqkKeWoOL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31bH9zVjLxL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/411czXAB+NL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Gm77mDUhL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41JLMh3INlL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41VdDWqc+dL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41pd87J8rFL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31vQ1VK9PnL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31sqkKeWoOL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31bH9zVjLxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/411czXAB+NL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Gm77mDUhL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Puma Unisex-Child Cell Vive Running Shoe Closer Look"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/085575dae7a140d0bfeaa3072a1ce4c5?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        "/shop/njshorestorewalkthroughs"
+      ]
+    },
+    "store": "PUMA",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Girls",
+      "Shoes",
+      "Athletic",
+      "Running"
+    ],
+    "details": "{\"Product Dimensions\": \"12.7 x 7.9 x 4.5 inches; 2.1 Pounds\", \"Item model number\": \"19478501\", \"Department\": \"Unisex-child\", \"Date First Available\": \"February 12, 2021\", \"Manufacturer\": \"PUMA\"}",
+    "parent_asin": "B09HLYKN3C",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Girls' Clothing",
+      "Children's Footwear",
+      "Kids' Sneakers"
+    ],
+    "confidence": 0.95
+  }
+}

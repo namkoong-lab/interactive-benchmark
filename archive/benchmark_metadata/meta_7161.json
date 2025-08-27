@@ -1,0 +1,40 @@
+{
+    "main_category": "Books",
+    "title": "Desert Gardening for Beginners",
+    "average_rating": 4.3,
+    "rating_number": 33,
+    "features": [
+        "Cathy Cromell, Linda A. Guy, Lucy K. Bradley"
+    ],
+    "description": [
+        "From Library Journal",
+        "This practical, inexpensive publication contains many of the requirements for successful gardening in the desert Southwest. The book's trio of authors, all master gardeners and two with ties to the University of Arizona's Maricopa County Cooperative Extension in Phoenix, focus on the essentials. Plain and simply packaged, this book does not have gorgeous illustrations or lush photographs, but the information contained within is excellent. From choosing a site to ways to improve soil structure, all the basics that gardeners need for this region are covered. The authors do offer a few suggestions on selecting plant varieties for the desert as well as an appendix devoted to growing calendars for vegetables, fruits, and herbs, but detailed information on individual plant varieties is not provided. Gardeners requiring this type of information will be better served by books such as Mary Rose Duffield and Warren D. Jones's Plants for Dry Climates: How To Select, Grow, and Enjoy (Fisher, 1998) or Sunset Western Garden Book (Sunset, 1995). Recommended for public libraries in the desert Southwest.AJohn Charles, Scottsdale P.L., AZ Copyright 1999 Reed Business Information, Inc."
+    ],
+    "price": "27.63",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51EN9XNX87L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Cathy Cromell (Author),  Linda A. Guy (Author),  Lucy K. Bradley (Author)",
+    "categories": [],
+    "details": "{\"Publisher\": \"Arizona Master Gardeners Inc (January 1, 1999)\", \"Language\": \"English\", \"Paperback\": \"100 pages\", \"ISBN 10\": \"0965198723\", \"ISBN 13\": \"978-0965198721\", \"Item Weight\": \"5 ounces\", \"Dimensions\": \"8.29 x 5.3 x 0.29 inches\"}",
+    "parent_asin": "0965198723",
+    "bought_together": null,
+    "subtitle": "Paperback – January 1, 1999",
+    "author": null
+}

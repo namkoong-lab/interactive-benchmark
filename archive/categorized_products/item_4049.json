@@ -1,0 +1,68 @@
+{
+  "item_id": 4049,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "FROGG TOGGS Men's Outlander Camp Shoe Footwear",
+    "average_rating": 3.9,
+    "rating_number": 35,
+    "features": [
+      "100% Other Fibers",
+      "Imported",
+      "100% waterproof shoe perfect for fishing, hiking, camping and more outdoor activities",
+      "5mm neoprene breathable mesh lining",
+      "Self-cleaning patterned outsole",
+      "Comfy stretch-fit topline",
+      "Pull-on tab"
+    ],
+    "description": [
+      "The Frogg Toggs Outlander Camp Shoe is a 100% waterproof shoe with pull-on tabs. The 5mm neoprene breathable mesh lining and stretch-fit topline keep the wearer comfortable. The shoe also features a self-cleaning patterned outsole."
+    ],
+    "price": "69.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61RouinIfZL._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61qKK12lb6L._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71Wo37GZphL._AC_SL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/416vxEYAFQL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41HaoZhuQfL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/61DRQD8vklL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/416vxEYAFQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41HaoZhuQfL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/61DRQD8vklL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "FROGG TOGGS",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Shoe, Jewelry & Watch Accessories",
+      "Shoe Care & Accessories",
+      "Shoe Decoration Charms"
+    ],
+    "details": "{\"Item Package Dimensions L x W x H\": \"15.12 x 13.07 x 5.28 inches\", \"Package Weight\": \"1.36 Kilograms\", \"Brand Name\": \"FROGG TOGGS\", \"Model Name\": \"Outlander Camp Shoe\", \"Color\": \"Mocha\", \"Material\": \"Other\", \"Suggested Users\": \"Mens\", \"Manufacturer\": \"Frogg Toggs\", \"Part Number\": \"250240-1-8\", \"Style\": \"Outlander Camp Shoe\", \"Included Components\": \"Frogg Toggs Men's Outlander Camp Shoe 250240-08, Mocha, 8\", \"Outer Material\": \"Neoprene\", \"Size\": \"8\", \"Sport Type\": \"Hunting\", \"Best Sellers Rank\": {\"Clothing, Shoes & Jewelry\": 1793269, \"Shoe Decoration Charms\": 5090}, \"Date First Available\": \"October 4, 2018\"}",
+    "parent_asin": "B0BPMG5Y3X",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

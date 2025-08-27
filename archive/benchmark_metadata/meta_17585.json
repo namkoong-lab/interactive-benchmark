@@ -1,0 +1,55 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Phone call from Merry",
+    "average_rating": 2.8,
+    "rating_number": 61,
+    "features": [
+        "Size: 16.14MB",
+        "Version: 0.1.1",
+        "Developer:appliacademy"
+    ],
+    "description": [
+        "Telephone incoming to your mobile　from 'Merry'. This appli is a surprise and horror appli. Will you be able to hear a call from Merry to the end ! ?＜How to use＞Press the button, just answer the call from Mary.It is shockingly simple application that anyone can use."
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/81pO2dxKwdL.png",
+            "https://m.media-amazon.com/images/I/91zVLUYmFvL.png",
+            "https://m.media-amazon.com/images/I/910GOKCF8RL.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "アプリアカデミー",
+    "categories": [],
+    "details": "{\"Release Date\": \"2013\", \"Date first listed on Amazon\": \"September 6, 2013\", \"Developed By\": \"\\u30a2\\u30d7\\u30ea\\u30a2\\u30ab\\u30c7\\u30df\\u30fc\", \"Size\": \"16.1MB\", \"Version\": \"0.0.1\", \"Application Permissions\": [\"Access information about networks\", \"Required to be able to access the camera device\", \"Access the flashlight\", \"Access the list of accounts in the Accounts Service\", \"Open network sockets\", \"Modify global audio settings\", \"Read only access to device state\", \"Record audio\", \"Access the vibration feature\", \"PowerManager WakeLocks to keep processor from sleeping or screen from dimming\", \"Write to external storage\", \"Allows an application to receive messages via Google Cloud Messaging\"], \"Minimum Operating System\": \"Android 2.3\", \"Approximate Download Time\": \"Less than 3 minutes\"}",
+    "parent_asin": "B00EZ23EJ8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,43 @@
+{
+    "main_category": "Prime Video",
+    "title": "Etnies: Chapters",
+    "average_rating": 4.6,
+    "rating_number": 3,
+    "features": [
+        "1 h 13 min",
+        "2017",
+        "16+"
+    ],
+    "description": [
+        "Etnies “Chapters” Features one of the most well-rounded and highly revered teams in modern-day BMX. Shot in 15 countries the team has endured countless injuries and dedicated endless hours in search of the most desirable spots in the world."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Adventure"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Mike Manzoori\"], \"Starring\": [\"Chase Hawk\", \"Tom Dugan\", \"Ben Lewis\"]}",
+    "parent_asin": "B0762DXYNT",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

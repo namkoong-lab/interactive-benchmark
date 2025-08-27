@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "My Life in Advertising and Scientific Advertising",
+    "average_rating": 4.7,
+    "rating_number": 317,
+    "features": [
+        "Gain a lifetime of experience from the inventor of test marketing and coupon sampling -- Claude C. Hopkins. Here, you'll get two landmark works in one, and discover his fixed principles and basic fundamentals that still prevail today."
+    ],
+    "description": [
+        "From the Back Cover",
+        "This volume contains his two landmark books. Scientific Advertising--the classic primer still read by today's top copywriters--was originally written in 1923. Four years later, he finished his autobiography, My Life in Advertising.",
+        "About the Author",
+        "McGraw-Hill authors represent the leading experts in their fields and are dedicated to improving the lives, careers, and interests of readers worldwide"
+    ],
+    "price": "13.6",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Qv4R-rGHL._SX322_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Claude Hopkins (Author)",
+    "categories": [
+        "Books",
+        "Business & Money",
+        "Marketing & Sales"
+    ],
+    "details": "{\"Publisher\": \"McGraw Hill; 1st edition (February 1, 1966)\", \"Language\": \"English\", \"Paperback\": \"336 pages\", \"ISBN 10\": \"0844231010\", \"ISBN 13\": \"978-0844231013\", \"Item Weight\": \"1.01 pounds\", \"Dimensions\": \"6 x 1.1 x 8.9 inches\"}",
+    "parent_asin": "0844231010",
+    "bought_together": null,
+    "subtitle": "Paperback – February 1, 1966",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Claude C. Hopkins', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

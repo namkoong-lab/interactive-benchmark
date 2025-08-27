@@ -1,0 +1,42 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Stencil 6in x 6in Ginkgo Leaves",
+    "average_rating": 4.6,
+    "rating_number": 49,
+    "features": [],
+    "description": [
+        "The Crafter's Workshop - 6 x 6 Doodling Templates - Mini Ginkgo Leaves"
+    ],
+    "price": "8.74",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61McdCFQPzL._AC_SL1230_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51yDivE2NEL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51yDivE2NEL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "The Crafter's Workshop",
+    "categories": [
+        "Arts, Crafts & Sewing",
+        "Crafting",
+        "Paper & Paper Crafts",
+        "Paper Craft Tools"
+    ],
+    "details": "{\"Product Dimensions\": \"6\\\"L x 6\\\"W\", \"Item Weight\": \"0.01 Pounds\", \"Manufacturer\": \"The Crafter's Workshop\", \"Item model number\": \"MART-FBA-MVCW192S\", \"Best Sellers Rank\": {\"Arts, Crafts & Sewing\": 315414, \"Paper Craft Tools\": 176}, \"Date First Available\": \"October 22, 2010\", \"Material\": \"Paper, Plastic\", \"Brand\": \"The Crafter's Workshop\"}",
+    "parent_asin": "B0048IDK8Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

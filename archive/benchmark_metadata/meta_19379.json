@@ -1,0 +1,43 @@
+{
+    "main_category": "Prime Video",
+    "title": "Revolución: El Cruce de Los Andes",
+    "average_rating": 4.2,
+    "rating_number": 3,
+    "features": [
+        "1 h 32 min",
+        "2010",
+        "13+"
+    ],
+    "description": [
+        "The story follows a 15-year-old Manuel Corvalán, who decides to leave his upper-class family and be disinherited by his father to join the newly formed Army of the Andes, commanded by the General José de San Martín."
+    ],
+    "price": "13.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Action"
+    ],
+    "details": "{\"Audio languages\": [\"Espa\\u00f1ol\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Leandro Ipi\\u00f1a\"], \"Starring\": [\"Rodrigo De la Serna\"]}",
+    "parent_asin": "B08WPBND7Q",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,62 @@
+{
+    "main_category": "Books",
+    "title": "Science: A Four Thousand Year History",
+    "average_rating": 4.4,
+    "rating_number": 72,
+    "features": [
+        "In",
+        "Science",
+        ", Patricia Fara rewrites science's past to provide new ways of understanding and questioning our modern technological society. Sweeping through the centuries from ancient Babylon right up to the latest hi-tech experiments in genetics and particle physics, Fara's book also rangesinternationally, challenging notions of European superiority by emphasizing the importance of scientific projects based around the world, including revealing discussions of China and the Islamic Empire alongside the more familiar stories about Copernicus's sun-centered astronomy, Newton's gravity,and Darwin's theory of evolution.  We see for instance how Muslim leaders encouraged science by building massive libraries, hospitals, and astronomical observatories and we rediscover the significance of medieval Europe--long overlooked--where, surprisingly, religious institutions ensured science's survival, as the learningpreserved in monasteries was subsequently developed in new and unique institutions: universities. Instead of focussing on esoteric experiments and abstract theories, she explains how science belongs to the practical world of war, politics, and business. And rather than glorifying scientists asidealized heroes, she tells true stories about real people--men (and some women) who needed to earn their living, who made mistakes, and who trampled down their rivals."
+    ],
+    "description": [
+        "Review",
+        "\"Very well-written and highly readable. The language is clear and the arguments are lucid. Frequent examples and anecdotes enliven dry, theoretical concepts. With the author's engaging style of writing, even those with topics that might not normally have captured one's interest become a pleasure toread.\"--",
+        "American Scientist",
+        "\"Fara's book marks an important direction in the discipline: a bona-fide historian of science writing an engaging book for the general reader.\"--",
+        "Chemical Heritage",
+        "About the Author",
+        "Patricia Fara",
+        "lectures in the History and Philosophy of Science at the University of Cambridge and is the Senior Tutor of Clare College. She is the author of numerous books, including",
+        "Fatal Attraction: Magnetic Mysteries of the Enlightenment",
+        "and",
+        "Newton: The Making of Genius",
+        ". Her writing has appearedin",
+        "New Scientist, Nature, The Times",
+        ", and",
+        "New Statesman",
+        ", and she writes a regular column for",
+        "Endeavour",
+        "."
+    ],
+    "price": "10.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/4105OqvR25L._SX382_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Patricia Fara (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "History & Philosophy"
+    ],
+    "details": "{\"Publisher\": \"Oxford University Press; 1st edition (April 15, 2009)\", \"Language\": \"English\", \"Hardcover\": \"408 pages\", \"ISBN 10\": \"019922689X\", \"ISBN 13\": \"978-0199226894\", \"Item Weight\": \"2.35 pounds\", \"Dimensions\": \"6.25 x 1 x 9.25 inches\"}",
+    "parent_asin": "019922689X",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Patricia Fara', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

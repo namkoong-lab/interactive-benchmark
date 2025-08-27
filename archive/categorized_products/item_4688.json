@@ -1,0 +1,59 @@
+{
+  "item_id": 4688,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Eyeglasses FLEXON H 6051 210 Brown",
+    "average_rating": 1.0,
+    "rating_number": 1,
+    "features": [
+      "Metal frame",
+      "Polycarbonate lens",
+      "Polarized",
+      "Lens width: 53 millimeters",
+      "Full retail package with all accessories."
+    ],
+    "description": [
+      "Brand FLEXON has always remained true to its original philosophy—even while experiencing significant growth in recent years. FLEXON has made the ascent from humble beginnings to its present position: a worldwide leader in affordable luxury eyewear. FLEXON uses state-of-the-art materials to craft their signature eyewear frames: premium cellulose acetate, ultra-lightweight titanium, and color-rich stainless steel."
+    ],
+    "price": "114.3",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51qZq9+kyCL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31YBnvG4MZL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31YBnvG4MZL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Flexon",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Accessories",
+      "Sunglasses & Eyewear Accessories",
+      "Eyewear Frames"
+    ],
+    "details": "{\"Product Dimensions\": \"6 x 2 x 2 inches; 3.53 Ounces\", \"Item model number\": \"FLEXON H6051\", \"Department\": \"mens\", \"Date First Available\": \"January 27, 2021\"}",
+    "parent_asin": "B08V5937LR",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Eyewear"
+    ],
+    "confidence": 0.95
+  }
+}

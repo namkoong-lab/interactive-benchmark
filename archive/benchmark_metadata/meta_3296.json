@@ -1,0 +1,78 @@
+{
+    "main_category": "Grocery",
+    "title": "VISTA HERMOSA Flour Tortillas 8 Count, 12 OZ",
+    "average_rating": 4.7,
+    "rating_number": 456,
+    "features": [
+        "Flatbreads"
+    ],
+    "description": [
+        "Tortilla Flour"
+    ],
+    "price": "6.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81gwJCJSGlL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81vk+MfvBYL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61zVEzCut6L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81exwwNcM6L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61Qsl-cOWyL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61DoT6obEjL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51MboVwe-cL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51TEJ2gzOoL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41zlqDUvPeL.jpg",
+            "https://m.media-amazon.com/images/I/41+nwllXWtL.jpg",
+            "https://m.media-amazon.com/images/I/315se8lkA3L.jpg",
+            "https://m.media-amazon.com/images/I/51NScxVCVML.jpg",
+            "https://m.media-amazon.com/images/I/31I4vljE8hL.jpg",
+            "https://m.media-amazon.com/images/I/217tewbTw+L.jpg",
+            "https://m.media-amazon.com/images/I/21GvEPEaz7L.jpg",
+            "https://m.media-amazon.com/images/I/214O1TKO0kL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41zlqDUvPeL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41+nwllXWtL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/315se8lkA3L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51NScxVCVML._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31I4vljE8hL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/217tewbTw+L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/21GvEPEaz7L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/214O1TKO0kL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Organic Corn Tortillas Review"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/086e49d2672144ce97d3318e5b35e192?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "/shop/themathsorcerer"
+        ]
+    },
+    "store": "Vista Hermosa",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Breads & Bakery",
+        "Breads",
+        "Flatbreads"
+    ],
+    "details": "{\"Package Dimensions\": \"7.5 x 7.35 x 1.2 inches; 12 Ounces\", \"UPC\": \"861080000324\", \"Manufacturer\": \"Vista Hermosa\"}",
+    "parent_asin": "B07DRKBGJW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

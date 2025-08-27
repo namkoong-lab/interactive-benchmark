@@ -1,0 +1,57 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "Getting Started with Soldering: A Hands-On Guide to Making Electrical and Mechanical Connections",
+    "average_rating": 4.6,
+    "rating_number": 161,
+    "features": [
+        "Getting Started with Soldering not only teaches new makers and experimenters the core principles of soldering, it also functions as an excellent reference and resource for beginners and more advanced makers alike. The book guides readers through the fundamentals of soldering, explains the tools and materials, demonstrates proper techniques, and shows how to fix mistakes or broken connections. It even includes guidance on more advanced techniques such as surface-mount soldering for electronics. From choosing the right soldering iron to making perfect connections, readers will acquire the knowledge and skills needed to form a strong foundation for a lifetime of making.",
+        "Soldering is a core concept in making, electronics prototyping, and home repairs",
+        "Soldering is a core concept in making, electronics prototyping, and home repairs",
+        "The many different types of soldering -- requiring different materials and tools -- are explained with easy-to-follow instructions",
+        "The many different types of soldering -- requiring different materials and tools -- are explained with easy-to-follow instructions",
+        "Full-color photographs and illustrations throughout create a visually engaging format for learning",
+        "Full-color photographs and illustrations throughout create a visually engaging format for learning",
+        "Pricing and technical considerations help readers select the best tools for their budgets and needs",
+        "Pricing and technical considerations help readers select the best tools for their budgets and needs",
+        "Troubleshooting guidelines show how to repair solder connections that have failed from improper technique or from age",
+        "Troubleshooting guidelines show how to repair solder connections that have failed from improper technique or from age"
+    ],
+    "description": [
+        "About the Author",
+        "Marc de Vinck is currently a Professor at Lehigh University in the Masters of Engineering in Technical Entrepreneurship program. He is a former director of product development at MAKE magazine who sits on the Advisory Council at the New York Hall of Science Innovation Institute. Marc says that one of his greatest accomplishments was helping more than 10,000 people learn how to solder. He's a metalsmith, illustrator, 3D modeler, teacher, and writer.",
+        "--This text refers to the",
+        "paperback",
+        "edition."
+    ],
+    "price": "12.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Vzckf0LYL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Marc de Vinck (Author)   Format: Kindle Edition",
+    "categories": [
+        "Kindle Store",
+        "Kindle eBooks",
+        "Engineering & Transportation"
+    ],
+    "details": "{\"Publisher\": \"Make Community, LLC; 1st edition (October 11, 2017)\", \"Publication date\": \"October 11, 2017\", \"Language\": \"English\", \"File size\": \"24771 KB\", \"Simultaneous device usage\": \"Unlimited\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"130 pages\"}",
+    "parent_asin": "B076CVKJZJ",
+    "bought_together": null,
+    "subtitle": "1st Edition, Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/A1zFp+TxXLL._SY600_.jpg', 'name': 'Marc de Vinck', 'about': ['Marc de Vinck is currently a Professor in the Masters of Entrepreneurship Program at Lehigh University. He co-developed and co-teaches in the award winning program which started in May of 2012. Almost 6 years later, the program continues to evolve &amp; inspire new entrepreneurs to make a difference in the world.', 'Prior to Lehigh, Marc de Vinck was director of product development at MAKE magazine and a member of the MAKE Technical Advisory board. He has written numerous posts on do-it-yourself science and technology on makezine.com, as well as articles and featured builds in the print version of MAKE. He speaks at events across the country.', \"De Vinck previously worked in fields as diverse as traditional metal smith, illustrator, and 3D model maker. He thrives on the process of making and educating, with one of his greatest career accomplishments the implementation of Maker Faire's Learn to Solder program, which taught more than 10,000 people a lifelong skill and hopefully inspired many to realize they are makers. De Vinck’s interests include micro-controllers, open source hardware, interactive art, and anything that uses technology in a unique way. He also enjoys great design, regardless of the medium. When he’s not developing a new product in his studio – a rare occurrence – he’s skiing, playing ice hockey, or out sailing with his family.\"]}"
+}

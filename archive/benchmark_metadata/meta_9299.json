@@ -1,0 +1,107 @@
+{
+    "main_category": "Books",
+    "title": "Excel Formulas And Functions for Dummies",
+    "average_rating": 4.4,
+    "rating_number": 102,
+    "features": [
+        "Put the power of Excel formulas and functions to work for you!",
+        "Excel is a complex program. Mastering the use of formulas and functions lets you use Excel to compute useful day-to-day information, such as calculating the true cost of credit card purchases or comparing 15-year and 30-year mortgage costs. This fun and friendly book demystifies Excel's built-in functions so you can put them to work.",
+        "You'll find step-by-step instructions on 150 of Excel's most useful functions, how they work within formulas, and how to use them to make your life easier.",
+        "See how to use 150 of Excel's most useful functions, with real-world examples showing how each function is used within a formula",
+        "See how to use 150 of Excel's most useful functions, with real-world examples showing how each function is used within a formula",
+        "Learn to calculate the costs of leasing versus buying a car, compute classroom grades, create an amortization table, or evaluate investment performance",
+        "Learn to calculate the costs of leasing versus buying a car, compute classroom grades, create an amortization table, or evaluate investment performance",
+        "Fully updated for Excel 2010, but the principles will work with earlier versions of Excel as well",
+        "Fully updated for Excel 2010, but the principles will work with earlier versions of Excel as well",
+        "Includes essential coverage of an additional 85 functions",
+        "Includes essential coverage of an additional 85 functions",
+        "In the ever-popular, non-threatening For Dummies style,",
+        "Excel Formulas and Functions For Dummies, 2nd Edition",
+        "makes Excel's power accessible to you."
+    ],
+    "description": [
+        "From the Back Cover",
+        "Roll up your sleeves and start working with functions from ABS to ZTEST",
+        "Get your hands dirty and dig for the nuggets in your data! This book shows you how, walking you through over 150 built-in functions in Excel 2010. Want to calculate a loan payment? How about finding a trend in your data? It's all covered with step-by-step instructions and illustrations, so you can put the power of Excel functions to work.",
+        "Put the fun in functions — from using the Insert Function dialog box and array functions to correcting formulas, you'll brush up on Excel",
+        "Put the fun in functions — from using the Insert Function dialog box and array functions to correcting formulas, you'll brush up on Excel",
+        "Do the math — create worksheets to track costs and revenue",
+        "Do the math — create worksheets to track costs and revenue",
+        "Simple to sophisticated — take advantage of finance-related functions and learn how to sum and round numbers to get just the answers you need",
+        "Simple to sophisticated — take advantage of finance-related functions and learn how to sum and round numbers to get just the answers you need",
+        "Statistically speaking — test for central tendencies, analyze deviation, and count items in a data sample",
+        "Statistically speaking — test for central tendencies, analyze deviation, and count items in a data sample",
+        "Dive into forecasting — apply statistical functions to develop sound predictions",
+        "Dive into forecasting — apply statistical functions to develop sound predictions",
+        "Make the data work for you — work with dates, times, and strings of text and pluck out pieces of data from a database",
+        "Make the data work for you — work with dates, times, and strings of text and pluck out pieces of data from a database",
+        "What's your function? — get the most from several cool functions, such as the amazing IF and the workhorses HLOOKUP and VLOOKUP",
+        "What's your function? — get the most from several cool functions, such as the amazing IF and the workhorses HLOOKUP and VLOOKUP",
+        "Open the book and find:",
+        "Tips for tapping into formula and function fundamentals",
+        "Tips for tapping into formula and function fundamentals",
+        "How to catch errors and audit formulas",
+        "How to catch errors and audit formulas",
+        "Steps for moving from basic to advanced math functions",
+        "Steps for moving from basic to advanced math functions",
+        "How to solve problems with statistics",
+        "How to solve problems with statistics",
+        "Best practices for working with data",
+        "Best practices for working with data",
+        "How to compare, find, and measure text",
+        "How to compare, find, and measure text",
+        "Ways to use lookup, logical, and reference functions",
+        "Ways to use lookup, logical, and reference functions",
+        "How to put data into a database structure",
+        "How to put data into a database structure",
+        "Learn to:",
+        "Use Excel's built-in formulas to make everyday calculations",
+        "Use Excel's built-in formulas to make everyday calculations",
+        "Determine what functions to use in your formulas",
+        "Determine what functions to use in your formulas",
+        "Create amortization tables, calculate classroom grades, or evaluate investments",
+        "Create amortization tables, calculate classroom grades, or evaluate investments",
+        "Design a database",
+        "Design a database",
+        "About the Author",
+        "Ken Bluttman",
+        "has been a software developer for 20 years. He is the author of several books, including",
+        "Excel Charts For Dummies",
+        ".",
+        "Peter Aitken",
+        "has written about computers and programming for over 10 years and has written more than 35 books, including",
+        "Excel Programming Weekend Crash Course",
+        "."
+    ],
+    "price": "7.44",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/517nKRqKVjL._SX397_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ken Bluttman (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Software"
+    ],
+    "details": "{\"Publisher\": \"For Dummies; 2nd edition (April 23, 2010)\", \"Language\": \"English\", \"Paperback\": \"384 pages\", \"ISBN 10\": \"047056816X\", \"ISBN 13\": \"978-0470568163\", \"Item Weight\": \"1.25 pounds\", \"Dimensions\": \"7.5 x 0.75 x 9.25 inches\"}",
+    "parent_asin": "047056816X",
+    "bought_together": null,
+    "subtitle": "2nd Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/92iq8v076s0g35400t1b37fqni._SY600_.jpg', 'name': 'Ken Bluttman', 'about': ['It all started with Creative Writing 101 back in high school. There are oodles of unfinished fiction works around my desk, but it has been writing techy and artsy books that are the path I walk these days.', \"Hope you enjoy what I have provided. It's always a hoot writing a book - keeping late hours, forgetting to eat, and trying to pet my cat and type at the same time.\", 'Thanks!', 'Ken B']}"
+}

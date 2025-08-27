@@ -1,0 +1,36 @@
+{
+    "main_category": "Books",
+    "title": "Fundamentals of Managerial Economics (Book Only)",
+    "average_rating": 4.2,
+    "rating_number": 55,
+    "features": [
+        "new bood"
+    ],
+    "description": [
+        "About the Author",
+        "Mark Hirschey is the Anderson W. Chandler Professor of Business at the University of Kansas, where he teaches undergraduate and graduate courses in managerial economics and finance. He also is president of the Association of Financial Economists and a member of several professional organizations. Professor Hirschey has published articles for such leading academic journals as the AMERICAN ECONOMIC REVIEW, REVIEW OF ECONOMICS AND STATISTICS, JOURNAL OF BUSINESS, JOURNAL OF BUSINESS AND ECONOMIC STATISTICS, JOURNAL OF FINANCE, JOURNAL OF FINANCIAL ECONOMICS, and JOURNAL OF INDUSTRIAL ECONOMICS. He also is the author of FUNDAMENTALS OF MANAGERIAL ECONOMICS AND INVESTMENTS: ANALYSIS & BEHAVIOR, the editor of ADVANCES IN FINANCIAL ECONOMICS, and past editor of MANAGERIAL AND DECISION ECONOMICS. He earned his PhD from the University of Wisconsin-Madison."
+    ],
+    "price": "54.84",
+    "images": {
+        "hi_res": [],
+        "large": [],
+        "thumb": [],
+        "variant": []
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mark Hirschey (Author)",
+    "categories": [
+        "Books",
+        "Business & Money",
+        "Management & Leadership"
+    ],
+    "details": "{\"Publisher\": \"Cengage Learning; 9th edition (February 20, 2008)\", \"Language\": \"English\", \"Hardcover\": \"816 pages\", \"ISBN 10\": \"032458878X\", \"ISBN 13\": \"978-0324588781\", \"Item Weight\": \"3.65 pounds\", \"Dimensions\": \"8 x 1.5 x 10 inches\"}",
+    "parent_asin": "032458878X",
+    "bought_together": null,
+    "subtitle": "9th Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Mark Hirschey', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

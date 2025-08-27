@@ -1,0 +1,63 @@
+{
+  "item_id": 5180,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Dek Kids Unisex Junior Touch Fastening Canvas Natural Rubber Plimsolls",
+    "average_rating": 4.3,
+    "rating_number": 3,
+    "features": [
+      "Rubber sole",
+      "Junior Touch Fastening Plimsoll.",
+      "Canvas Upper.",
+      "Rubber Sole.",
+      "Upper: Textile, Lining: Textile, Sole: Other."
+    ],
+    "description": [
+      "Junior touch fastening plimsoll. Canvas upper. Natural rubber sole. Upper: Textile, lining: Textile, sole: Other."
+    ],
+    "price": "16.2",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71CGs84x+6L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71CGs84x+6L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41LIdViECmL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41LIdViECmL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41LIdViECmL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41LIdViECmL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Dek",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Boys",
+      "Shoes",
+      "Sneakers"
+    ],
+    "details": "{\"Department\": \"Boys\", \"Date First Available\": \"January 14, 2016\", \"Manufacturer\": \"Dek\"}",
+    "parent_asin": "B07KNHWVNT",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Girls' Clothing",
+      "Children's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

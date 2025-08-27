@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "Handbook of Silicon Semiconductor Metrology",
+    "average_rating": 3.5,
+    "rating_number": 3,
+    "features": [
+        "Containing more than 300 equations and nearly 500 drawings, photographs, and micrographs,this reference surveys key areas such as optical measurements and in-line calibration methods. It describes cleanroom-based measurement technology used during the manufacture of silicon integrated circuits and covers model-based, critical dimension, overlay, acoustic film thickness, dopant dose, junction depth, and electrical measurements; particle and defect detection; and flatness following chemical mechanical polishing. Providing examples of well-developed metrology capability, the book focuses on metrology for lithography, transistor, capacitor, and on-chip interconnect process technologies."
+    ],
+    "description": [
+        "Review",
+        "recommended for special libraries and academic libraries serving graduate level programs in these areas.- E-Streamsa cornerstone reference source.uniquely ample and thorough. -Semiconductor Internationala formative instrument. contains valuable and very new information  an instructive and valuable book. -IASI Polytechnic Magazine",
+        "About the Author",
+        "Alain C. Diebold"
+    ],
+    "price": "55.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41VZAPo4sDL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Alain C. Diebold (Editor)",
+    "categories": [
+        "Books",
+        "Engineering & Transportation",
+        "Engineering"
+    ],
+    "details": "{\"Publisher\": \"CRC Press; 1st edition (June 29, 2001)\", \"Language\": \"English\", \"Hardcover\": \"894 pages\", \"ISBN 10\": \"0824705068\", \"ISBN 13\": \"978-0824705060\", \"Item Weight\": \"3.8 pounds\", \"Dimensions\": \"7.25 x 1.5 x 10 inches\"}",
+    "parent_asin": "0824705068",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": null
+}

@@ -1,0 +1,51 @@
+{
+    "main_category": "Books",
+    "title": "Traces",
+    "average_rating": 3.0,
+    "rating_number": 6,
+    "features": [
+        "Mystery, danger, and international intrigue confront Lockem and Kane in their second high-stakes adventure,",
+        "Traces",
+        ". As we wander through life, we leave evidence of our passing: footprints, DNA, connections with others. Our trails are sometimes large and vibrant, often pale and uncertain. Marjorie Kane is a retired exotic dancer who, after years of headlining in upscale venues, gradually descends into performing in meaner clubs. Looking for new adventures, she meets Alan Lockem, a retired army intelligence officer interested in continued service. Together, Lockem and Kane take on unusual and sometimes dangerous jobs to help troubled civilians and former colleagues. When Lockem is asked to retrieve a flash drive storing military records, it seems simple enough. But encounters with foreign spies, an armed home invasion, and interactions with international, federal, and local police complicate Lockem and Kane's efforts to unravel and understand the traces of these crimes and aid their old colleagues across the pond."
+    ],
+    "description": [
+        "About the Author",
+        "Carl Brookins",
+        "is a crime fiction writer and reviewer. He writes four different mystery series: a sailing adventure series set in different international destinations; a series of crime novels involving academic characters; a private investigator series featuring a short, red-tennis-shoe-wearing urban detective with a tall girlfriend; and the Lockem and Kane detective series. He has been a public television producer and executive as well as a college counselor and instructor. He has reviewed mystery and crime fiction for the",
+        "Saint Paul Pioneer Press",
+        "and",
+        "Mystery Scene Magazine",
+        ", and his reviews appear on his website, on several blogs, and on various online review sites. He is an active member of Sisters in Crime, and he once toured as a member of the Minnesota Crime Wave. During his military service he regularly interacted with members of the CIA and other government agents. He's happily married to a former publisher of the Minnesota Historical Society Press, with whom he has sailed extensively in various oceans of the world, and with whom he has raised two successful daughters. Together they live in the Twin Cities of Minnesota."
+    ],
+    "price": "11.27",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51ix0Us+0eL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Carl Brookins (Author)",
+    "categories": [
+        "Books",
+        "Mystery, Thriller & Suspense",
+        "Mystery"
+    ],
+    "details": "{\"Publisher\": \"Beaver's Pond Press (April 7, 2020)\", \"Language\": \"English\", \"Paperback\": \"200 pages\", \"ISBN 10\": \"1643438972\", \"ISBN 13\": \"978-1643438979\", \"Item Weight\": \"10.4 ounces\", \"Dimensions\": \"6 x 0.7 x 8.9 inches\"}",
+    "parent_asin": "1643438972",
+    "bought_together": null,
+    "subtitle": "Paperback – April 7, 2020",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/8fv08lb6cvbo7as78am154rp19._SY600_.jpg', 'name': 'Carl Brookins', 'about': [\"Retired from a local university, I've entered a new career as a reviewer and author. The Michael Tanner/Mary Whitney sailing adventure series (INNER PASSAGES, A SUPERIOR MYSTERY, OLD SILVER) are my initial foray.\", \"Now I'm branching out with a new series featuring a Twin Cities detective named Sean NMI Sean. His first story is THE CASE OF THE GREEDY LAWYERS. I live and work in Minnesota and travel with that nefarious band of authors called the Minnesota Crime Wave.Sean's current case is THE CASE OF THE PURLOINED PAINTING, having to do with WWII souvenir retrieval.\"]}"
+}

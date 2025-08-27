@@ -1,0 +1,40 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Eastern Coyote Trapping by Austin Passamonte (book)",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "Eastern Coyote Trapping by Austin Passamonte. Learn how to understand, locate, and catch eastern coyotes. Paperback."
+    ],
+    "price": "12.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41eBbh5cSyL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41eBbh5cSyL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Trapping",
+    "categories": [
+        "Home & Kitchen",
+        "Furniture"
+    ],
+    "details": "{\"Date First Available\": \"December 23, 2009\"}",
+    "parent_asin": "B0031TW5OG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

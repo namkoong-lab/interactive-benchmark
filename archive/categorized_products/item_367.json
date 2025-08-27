@@ -1,0 +1,54 @@
+{
+  "item_id": 367,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Insanity & Genius/Land of the Free",
+    "average_rating": 4.6,
+    "rating_number": 30,
+    "features": [],
+    "description": [
+      "Digitally remastered two CD set containing a pair of albums from the Heavy Metal band formed by Helloween guitarist Kai Hansen and Tyran Pace vocalist Ralf Scheepers. Insanity & Genius was their third album, released in 1993, and was followed two years later by Land of the Free. By the time of that 1995 album, Scheepers had left the band to audition for Judas Priest and Hansen took over on lead vocals. When the Judas Priest gig didn't work out for Scheepers, eventually went on to form Primal Fear. Cooking Vinyl. 2010."
+    ],
+    "price": "57.34",
+    "images": {
+      "hi_res": [
+        null,
+        "https://m.media-amazon.com/images/I/713A+YanmfL._SL1050_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51BLVGdax-L.jpg",
+        "https://m.media-amazon.com/images/I/51W5a6BLbcL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51BLVGdax-L._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51W5a6BLbcL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Gamma Ray   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Pop"
+    ],
+    "details": "{\"Product Dimensions\": \"5.6 x 0.4 x 4.9 inches; 3.75 Ounces\", \"Manufacturer\": \"Imports\", \"Date First Available\": \"December 3, 2009\", \"Label\": \"Imports\", \"Country of Origin\": \"United Kingdom\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B002ZDOY98",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs"
+    ],
+    "confidence": 0.95
+  }
+}

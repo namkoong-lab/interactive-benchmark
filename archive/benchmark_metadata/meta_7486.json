@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "A Developer's Guide to Amazon SimpleDB (Developer's Library)",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Using SimpleDB, any organization can leverage Amazon Web Services (AWS), Amazon's powerful cloud-based computing platform---and dramatically reduce the cost and resources associated with application infrastructure. Now, for the first time, there's a complete developer's guide to building production solutions with Amazon SimpleDB.Pioneering SimpleDB developer Mocky Habeeb brings together all the hard-to-find information you need to succeed. Mocky tours the SimpleDB platform and APIs, explains their essential characteristics and tradeoffs, and helps you determine whether your applications are appropriate for SimpleDB. Next, he walks you through all aspects of writing, deploying, querying, optimizing, and securing Amazon SimpleDB applications---from the basics through advanced techniques.Throughout, Mocky draws on his unsurpassed experience supporting developers on SimpleDB's official Web forums. He offers practical tips and answers that can't be found anywhere else, and presents extensive working sample code---from snippets to complete applications.This book will be an indispensable resource for every IT professional evaluating or using SimpleDB to build cloud-computing applications, clients, or frameworks"
+    ],
+    "description": [
+        "About the Author",
+        "Mocky Habeeb is the most active, highest-rated user on the official SimpleDB Web forums, providing answers and guidance to developers seeking authoritative answers. Currently Head of Web Architecture and Development for Infrawise, Inc., he has been designing Web frameworks for over a decade and has developed numerous applications with SimpleDB",
+        "Mocky Habeeb",
+        "is the head of web architecture and development for Infrawise Inc., where he leads development on the web side of the house for the companys flagship product suite. He is actively involved in SimpleDB application development, and in his spare time, he puts that expertise to work by providing answers and guidance to developers who visit the official SimpleDB web forums. Over the past 13 years, he has worked in various software development positions, as a Java instructor for Sun Microsystems, and before that as a tank driver in the United States Marine Corps. Mocky studied Computer Science at SUNY, Oswego."
+    ],
+    "price": "8.54",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51QquCsM2wL._SX387_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mocky Habeeb (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Networking & Cloud Computing"
+    ],
+    "details": "{\"Publisher\": \"Addison-Wesley Professional; 1st edition (January 1, 2010)\", \"Language\": \"English\", \"Paperback\": \"448 pages\", \"ISBN 10\": \"0321623630\", \"ISBN 13\": \"978-0321623638\", \"Item Weight\": \"1.01 pounds\", \"Dimensions\": \"7 x 0.5 x 9 inches\"}",
+    "parent_asin": "0321623630",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Mocky Habeeb', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

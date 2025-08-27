@@ -1,0 +1,67 @@
+{
+  "item_id": 175,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Toro Slide-Bushing Part # 116-2886",
+    "average_rating": 4.8,
+    "rating_number": 10,
+    "features": [],
+    "description": [
+      "SLIDE-BUSHING"
+    ],
+    "price": "10.02",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71wQF5G6zOL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71rFqMw9-0L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71yJXtN6SmL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71WAibUkTnL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41Cj1uUvGmL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/4190FUAI1OL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31Xw1cEqW4L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31S4YPaeQLL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41Cj1uUvGmL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/4190FUAI1OL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/31Xw1cEqW4L._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/31S4YPaeQLL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Exmark",
+    "categories": [
+      "Patio, Lawn & Garden",
+      "Outdoor Power Tools",
+      "Replacement Parts & Accessories",
+      "Lawn Mower Parts & Accessories",
+      "Lawn Mower Replacement Parts",
+      "Deck Parts"
+    ],
+    "details": "{\"Product Dimensions\": \"10 x 6 x 1 inches\", \"Item Weight\": \"1 pounds\", \"Manufacturer\": \"Toro\", \"Best Sellers Rank\": {\"Patio, Lawn & Garden\": 367804, \"Lawn Mower Deck Parts\": 5890}, \"Is Discontinued By Manufacturer\": \"No\"}",
+    "parent_asin": "B00TD9CZY8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Industrial & Scientific",
+      "Industrial Hardware",
+      "Machine Parts"
+    ],
+    "confidence": 0.95
+  }
+}

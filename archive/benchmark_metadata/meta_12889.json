@@ -1,0 +1,74 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Lugz Women's Trax Sneaker",
+    "average_rating": 4.3,
+    "rating_number": 92,
+    "features": [
+        "fabric",
+        "Rubber sole",
+        "Cushioned insole for added comfort",
+        "Nylon textile upper",
+        "Lug rubber outsole with extra grip, vulcanized",
+        "Lace-up closure for an adjustable, secure fit",
+        "Breathable lining"
+    ],
+    "description": [
+        "Stylish and versatile, the Women's Trax is a lightweight lace-up shoe that offers comfortable, casual style. The rugged lug outsole offers extra grip and stability to keep you grounded on your feet.스타일리시하고 다재다능한 여성용 트랙스는 가볍고 레이스업 슈즈로 편안하고 캐주얼한 스타일을 제공합니다. 견고한 러그 밑창은 추가적인 그립과 안정성을 제공하여 발을 접지하게 유지합니다."
+    ],
+    "price": "24.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61jfNrHDqXS._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/41B6VL9rQTS._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/41pkjbiqyVS._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61JUlvh2PbS._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61bpJKZWUES._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61pZB-j5LtS._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61FSp64PtqS._AC_UL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41GRltSQ7hS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/2154GDUWkoS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21QdxrUa8tS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41yKUPOLRTS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31grcLXA3PS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31wCmBLbJoS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31EmKxNG5ES._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41GRltSQ7hS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/2154GDUWkoS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/21QdxrUa8tS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41yKUPOLRTS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31grcLXA3PS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31wCmBLbJoS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31EmKxNG5ES._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "LEFT"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Lugz",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Fashion Sneakers"
+    ],
+    "details": "{\"Item Weight\": \"3 Pounds\", \"Department\": \"Womens\", \"Date First Available\": \"March 17, 2021\", \"Manufacturer\": \"Lugz\"}",
+    "parent_asin": "B08Z837HRL",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

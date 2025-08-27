@@ -1,0 +1,51 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "ASICS Womens Profile II Tee Shirt",
+    "average_rating": 4.0,
+    "rating_number": 2,
+    "features": [
+        "100% Cotton",
+        "Made in US",
+        "Pull On closure",
+        "Machine Wash",
+        "100% cotton",
+        "Adult Women's tee",
+        "Relaxed fit",
+        "ASICS logo located on left sleeve",
+        "Screening instruction a"
+    ],
+    "description": [
+        "This Women's tee is ideal for teams from all sports. Made of 100% cotton, to ensure a comfortable fit and softness, it also features an ASICS swirl logo in the middle of the chest."
+    ],
+    "price": "22.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61bXkdq0OdL._AC_UL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41EzQrkmM7L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41EzQrkmM7L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "ASICS",
+    "categories": [
+        "Tools & Home Improvement",
+        "Light Bulbs",
+        "Halogen Bulbs"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"XG2533-P\", \"Department\": \"Womens\", \"Date First Available\": \"February 11, 2016\", \"Manufacturer\": \"ASICS Sports Apparel\"}",
+    "parent_asin": "B01BN4DDBY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

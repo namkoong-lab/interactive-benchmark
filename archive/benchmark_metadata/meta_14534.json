@@ -1,0 +1,76 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "ECCO Women's Low-top Trainers",
+    "average_rating": 4.6,
+    "rating_number": 784,
+    "features": [
+        "Rubber sole",
+        "Shaft measures approximately Ankle from arch",
+        "Synthetic and mesh textile upper",
+        "Textile lining for breathability and comfort",
+        "Textile lined, foam padded footbed for cushioning and comfort",
+        "Low-profile construction for ankle mobility",
+        "Durable, lightweight and flexible rubber sole"
+    ],
+    "description": [
+        "A true athleisure style, the ECCO FLEXURE RUNNER elevates a sporty sneaker look with textile and colour accents. Featuring luxe leathers, contrasting hues and undeniable comfort, this shoe can be styled for any occasion. Style with leggings, a t-shirt and your favourite coat, or pair with a midi dress and denim jacket."
+    ],
+    "price": "89.53",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71bpc6YtWAL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61Pnl5OrTOL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61tW06h+NyL._AC_UL1299_.jpg",
+            "https://m.media-amazon.com/images/I/71gbMC2giEL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71kCDYNKWyL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71lLz91mSiL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/8106OFMpeyL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/418xJzTywkL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41VYcMUD9rL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41sk+AWwPQL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31YQPU6QiUL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31nydE7RKqL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31uo7gHTPyL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41lfvAIkzpL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/418xJzTywkL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41VYcMUD9rL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41sk+AWwPQL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31YQPU6QiUL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31nydE7RKqL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31uo7gHTPyL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41lfvAIkzpL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "ECCO",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Outdoor",
+        "Hiking & Trekking",
+        "Hiking Shoes"
+    ],
+    "details": "{\"Item model number\": \"825773\", \"Department\": \"womens\", \"Date First Available\": \"October 31, 2018\", \"Manufacturer\": \"Ecco\"}",
+    "parent_asin": "B07VCJ3SRD",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

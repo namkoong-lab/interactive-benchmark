@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Structure of Atom: The Space Inside of an Atom is Not Empty",
+    "average_rating": 3.0,
+    "rating_number": 3,
+    "features": [
+        "Structure of atom"
+    ],
+    "description": [
+        "About the Author",
+        "atom"
+    ],
+    "price": "—",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51ZX4Nko5fL._SX322_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Joseph George (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Physics"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform (December 1, 2010)\", \"Language\": \"English\", \"Paperback\": \"32 pages\", \"ISBN 10\": \"1456424211\", \"ISBN 13\": \"978-1456424213\", \"Item Weight\": \"3.68 ounces\", \"Dimensions\": \"5.51 x 0.07 x 8.5 inches\"}",
+    "parent_asin": "1456424211",
+    "bought_together": null,
+    "subtitle": "Paperback – December 1, 2010",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/d2p254o6f47d33h65eukati147._SY600_.jpg', 'name': 'Joseph George', 'about': ['In 1994, I documented my thoughts on the origins of nuclear energy in my first notebook. In January 2001, I published an article on Geocities.com that discussed the fundamental concepts explored in this book. In 2008, my abstracts on atomic structure, radio waves, and nuclear energy release were accepted, and I received an invitation to participate in the 8th Asian International Seminar on Atomic and Molecular Physics (AISAMP8) at the University of Western Australia. In 2010, my abstract on atomic structure was published in the abstract book of the 8th International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA2012) at NIST, USA.', 'In 2015, I participated in the 4th International Conference on Current Developments in Atomic, Molecular, Optical, and Nano Physics with Applications (CDAMOP 2015) in New Delhi, India. That same year, I was invited to present my work at the 7th International Symposium \"Atomic Cluster Collisions\" (ISACC-2015) in Madrid, Spain, which I attended, and at the 6th International Meeting on Atomic and Molecular Physics and Chemistry (IMAMPC 2015) at the University of Birmingham, UK. In 2016, I was invited to present my work on atomic structure at the \"Charged Particle Collisions and Electronic Processes in Atoms, Molecules, and Materials\" (q-PaCE 2016) event at the Indian School of Mines (ISM) in Dhanbad, India. In 2019, I was invited to present my atomic theory at the \"Atomic, Molecular, Optical, and Nano Physics with Applications\" CAMNP2019 Conference, hosted by Delhi Technological University (DTU) in India.', 'My abstracts for all the conferences mentioned above can be found, except for AISAMP8, as I did not register for participation. I am optimistic that the coming years will bring new and exciting developments in both theoretical and applied physics.']}"
+}

@@ -1,0 +1,59 @@
+{
+  "item_id": 2928,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Yellow Box Women's Shae Sandal",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+      "Heel measures approximately 0.5 inches\""
+    ],
+    "description": [
+      "Yellow Box's Shae sandal is exactly what you need to spice up your shoe collection. The rhinestones shine while the platform boosts your stride.",
+      "Yellow Box shoes are the hottest new fashion trend, and have been the leader of creative, cutting-edge fashion for young, contemporary customers who are always on the go. Today, Yellow Box provides the newest, fastest, trendy fashion collections available at an affordable prices."
+    ],
+    "price": "29.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71x9qXh+d+L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/716A+iggkOL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61OW2GJ5-EL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41C87KFrXoL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41KNIggi1YL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31fUvxrzo6L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41C87KFrXoL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41KNIggi1YL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31fUvxrzo6L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Yellow Box",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"14 x 5 x 5 inches; 2 Pounds\", \"Department\": \"womens\", \"Date First Available\": \"July 8, 2008\", \"Manufacturer\": \"Yellow Box\"}",
+    "parent_asin": "B0017GY3FO",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Sandals"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,47 @@
+{
+    "main_category": "Movies & TV",
+    "title": "4 Family Film Favorites: Percy Jackson -The Lightning Thief/ The Chronicles Of Narnia: Voyage Of The Dawn Treader/ Eragon/ The Seeker",
+    "average_rating": 3.9,
+    "rating_number": 20,
+    "features": [],
+    "description": [
+        "Filed in P for Percy, 4 family films in one DVD - still in shrink-wrap"
+    ],
+    "price": "24.99",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/91wCGq+64TL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51SM5SiTcFL.jpg",
+            "https://m.media-amazon.com/images/I/51K2xG+CYCL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51SM5SiTcFL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51K2xG+CYCL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rated:    PG    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Studio Specials",
+        "20th Century Fox Home Entertainment",
+        "Action",
+        "General"
+    ],
+    "details": "{\"Genre\": \"Kids & Family\", \"Format\": \"Multiple Formats, Widescreen, NTSC\", \"Language\": \"English\", \"MPAA rating\": \"PG (Parental Guidance Suggested)\", \"Product Dimensions\": \"0.7 x 7.5 x 5.4 inches; 2.88 Ounces\", \"Item model number\": \"FOX2298795DVD\", \"Media Format\": \"Multiple Formats, Widescreen, NTSC\", \"Release date\": \"October 7, 2014\", \"Dubbed\": \"French, Spanish\", \"Subtitles\": \"English, French, Spanish\", \"Studio\": \"20th Century Fox\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00MW0CLYY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

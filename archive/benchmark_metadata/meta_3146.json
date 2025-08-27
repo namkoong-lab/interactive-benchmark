@@ -1,0 +1,52 @@
+{
+    "main_category": "Grocery",
+    "title": "Twisted Pine Coffee Salty Caramel Flavored Cappuccino, Single-Serve Cups for Keurig K-Cup Brewers, 24 Count",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Sumptuous trio of coffees from Central America",
+        "Creating a full-bodied and complex taste",
+        "Roast : Hot Beverages",
+        "24 Cups",
+        "Roasted And Packaged In USA"
+    ],
+    "description": [
+        "Sweet silkly caramel folded with a pinch of sea salt is perfect for an quick treat, busy mornings or just a pick-me-up anytime of day or night"
+    ],
+    "price": "16.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61cGNuLCU-L._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61cGNuLCU-L._SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51eCjvXJmaL.jpg",
+            "https://m.media-amazon.com/images/I/51eCjvXJmaL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51eCjvXJmaL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51eCjvXJmaL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Twisted Pine",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Beverages",
+        "Coffee",
+        "Single-Serve Capsules & Pods"
+    ],
+    "details": "{\"Brand\": \"Twisted Pine\", \"Item Form\": \"K-cup\", \"Flavor\": \"Caramel\", \"Caffeine Content\": \"Caffeinated\", \"Unit Count\": \"24.00 Count\", \"UPC\": \"705332645775\", \"Manufacturer\": \"Twisted Pine\"}",
+    "parent_asin": "B01DDLRF9Q",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

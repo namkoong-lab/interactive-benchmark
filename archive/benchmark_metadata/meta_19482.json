@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "The American Revolution: The Conflict Ignites",
+    "average_rating": 3.1,
+    "rating_number": 5,
+    "features": [],
+    "description": [
+        "Explores the events that lead to the American Revolution: 1773 when the Townsend Act led to the Boston Tea Party, followed by the Intolerable Acts. Right to the firing of the 1st shots on April 19, 1775 as war broke out in Lexington and Concord! Bonus: The American Revolution 1776!"
+    ],
+    "price": "8.4",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41htMJi2UBL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41htMJi2UBL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rated:    NR    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Military & War"
+    ],
+    "details": "{\"MPAA rating\": \"NR (Not Rated)\", \"Package Dimensions\": \"7.1 x 5.42 x 0.58 inches; 2.88 Ounces\", \"Media Format\": \"NTSC, Color\", \"Studio\": \"A & E Television Networks\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000W33N9U",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

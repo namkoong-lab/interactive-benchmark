@@ -1,0 +1,48 @@
+{
+    "main_category": "Prime Video",
+    "title": "Christmas Classics: O' Christmas Tree",
+    "average_rating": 4.7,
+    "rating_number": 42,
+    "features": [
+        "IMDb 6.0",
+        "48min",
+        "1999",
+        "X-Ray",
+        "ALL"
+    ],
+    "description": [
+        "Featuring the voices of Edward Asner, Tim Conway and Marie Osmond, this tale is set in a snowy forest on Christmas Eve where a forlorn pine tree feels she is too homely to ever realize her dream of becoming a real Christmas tree."
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Animation",
+        "Kids",
+        "Fun",
+        "Joyous"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Bert Ring\"], \"Producers\": [\"Mark McGroarty\"], \"Starring\": [\"Marie Osmond\", \"Edward Asner\", \"Tim Conway\"]}",
+    "parent_asin": "B00306716M",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

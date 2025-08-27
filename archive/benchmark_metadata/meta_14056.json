@@ -1,0 +1,54 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Vintage 1946 Men's Washed Sahara Twill Pant",
+    "average_rating": 3.3,
+    "rating_number": 11,
+    "features": [
+        "100% Cotton",
+        "Imported",
+        "Zipper closure",
+        "Machine Wash",
+        "Trim fit",
+        "Heavy horn buttons and vintage brass ykk zipper"
+    ],
+    "description": [
+        "Durable 10 oz. 100% cotton. Garment dyed and Vintage washed, stoned and beaten."
+    ],
+    "price": "89.24",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71cbvIXMXML._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Kls2XzJ+L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/311sRp1bcbL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31gjseXi+0L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/311sRp1bcbL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31gjseXi+0L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Vintage 1946",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Pants",
+        "Casual"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"1946\", \"Department\": \"Mens\", \"Date First Available\": \"March 12, 2014\", \"Manufacturer\": \"Vintage 1946\"}",
+    "parent_asin": "B00I9TO7R6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

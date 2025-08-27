@@ -1,0 +1,47 @@
+{
+    "main_category": "Books",
+    "title": "Tigers Of The Kumgang Mountains",
+    "average_rating": 3.9,
+    "rating_number": 4,
+    "features": [
+        "A young man sets out on a journey to kill the famed tigers of the Kumgang Mountains that killed his father, a superb marksman, and is surprised by what he finds."
+    ],
+    "description": [
+        "About the Author",
+        "Kim So-Un",
+        "was an eminent Korean storyteller and a specialist in Korean folklore. He authored dozens of books during his lifetime, including",
+        "Korean Childrens Favorite Stories",
+        "and",
+        "The Deer and the Woodcutter",
+        ".",
+        "Jeong Kyoung-Sim",
+        "is a graduate of the College of Fine Arts at Seoul National University. She has illustrated",
+        "Korean Childrens Favorite Stories",
+        "and",
+        "The Deer and the Woodcutter",
+        "."
+    ],
+    "price": "6.85",
+    "images": {
+        "hi_res": [],
+        "large": [],
+        "thumb": [],
+        "variant": []
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kim So-un (Author),  So-un Kim (Author),  Jeong Kyoung-Sim (Illustrator),  Kyong-sim Chong (Illustrator)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Fairy Tales, Folk Tales & Myths"
+    ],
+    "details": "{\"Publisher\": \"Tuttle Pub (January 1, 2006)\", \"Language\": \"English\", \"Hardcover\": \"32 pages\", \"ISBN 10\": \"0804836531\", \"ISBN 13\": \"978-0804836531\", \"Reading age\": \"9 years and up\", \"Grade level\": \"1 - 2\", \"Item Weight\": \"15.2 ounces\", \"Dimensions\": \"9.5 x 0.75 x 11.5 inches\"}",
+    "parent_asin": "0804836531",
+    "bought_together": null,
+    "subtitle": "Hardcover – January 1, 2006",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'So-un Kim', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

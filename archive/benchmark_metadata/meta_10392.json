@@ -1,0 +1,44 @@
+{
+    "main_category": "Digital Music",
+    "title": "Bach Inspirations",
+    "average_rating": 4.6,
+    "rating_number": 53,
+    "features": [],
+    "description": [
+        "Praised for his “smooth, rich and sweet sound and impeccable virtuosity”, guitarist Thibaut Garcia releases his second album on Erato, a recital of works composed and inspired by JS Bach. “Bach has been part of my life as a musician since the very start,” he says. Taking Bach’s mighty Chaconne as his centrepiece, he ranges wide: from Gounod’s much-loved ‘Ave Maria’ and Villa-Lobos’s Bachianas Brasileiras No 5 to music by Agustín Barrios Mangoré, Alexandre Tansman and the contemporary Serbian-American composer Dušan Bogdanović."
+    ],
+    "price": "18.12",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81-Er7f3lcL._SL1476_.jpg",
+            "https://m.media-amazon.com/images/I/71lolkhlzLL._SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/516dATKQltL.jpg",
+            "https://m.media-amazon.com/images/I/51KfCLDJQwL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/516dATKQltL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51KfCLDJQwL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Thibaut Garcia  (Artist)    Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Classical"
+    ],
+    "details": "{\"Product Dimensions\": \"5.59 x 4.92 x 0.47 inches; 3.74 Ounces\", \"Manufacturer\": \"Warner Classics\", \"Original Release Date\": \"2018\", \"Date First Available\": \"August 14, 2018\", \"Label\": \"Warner Classics\", \"Country of Origin\": \"Germany\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B07FDVCJCB",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

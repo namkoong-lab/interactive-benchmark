@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Chicago By 'l': Touring The Neighborhoods",
+    "average_rating": 4.4,
+    "rating_number": 16,
+    "features": [],
+    "description": [
+        "Documentary"
+    ],
+    "price": "19.75",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31wnnA31otL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31wnnA31otL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Format: VHS Tape",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Documentary"
+    ],
+    "details": "{\"Genre\": \"Documentary\", \"Format\": \"NTSC\", \"Contributor\": \"WTTW\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"4.25 x 1 x 7.5 inches; 5.6 Ounces\", \"Release date\": \"May 28, 2004\", \"Date First Available\": \"October 19, 2006\", \"Studio\": \"Northwestern Univ Pr\"}",
+    "parent_asin": "0810122499",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

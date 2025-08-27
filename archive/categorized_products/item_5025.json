@@ -1,0 +1,71 @@
+{
+  "item_id": 5025,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Yummie Women's Tights",
+    "average_rating": 3.8,
+    "rating_number": 11,
+    "features": [
+      "78% Nylon, 22% Spandex",
+      "Imported",
+      "Pull On closure",
+      "Machine Wash",
+      "Comfort contour waist with slimming built-in shaping shorts provides all-day support",
+      "Cozy micro thermal lining adds warmth without bulk",
+      "Super opaque for ultimate coverage",
+      "Resilient stretch recovery with flat seam panty for super smooth look and feel"
+    ],
+    "description": [
+      "Yummie socks offer ultimate comfort for the girl on-the-go and fit features so your socks stay up and stay on no matter what the day brings! Yummie began with the idea that women deserve to be comfortable, look good, and feel confident - every day. That’s what founder Heather Thomson had in mind when she created the Original Three-Panel Tank in 2008. It was the first shaping product of its kind - one that focused on the midsection and shaped from the top down. Until then, shaping products were typically bottoms - briefs, thigh shapers, and the like - nothing specifically that would give women a flatter, smoother mid-section. In other words, a yummie tummie. But the Original Tank changed all that - it was chosen as one of Oprah’s favorite things and Yummie was born. Today, Yummie is an entire collection of modern shapewear, leggings and intimates. It’s amazing what you can accomplish when you feel yummie to the core."
+    ],
+    "price": "25.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61AijzT7RjL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71S5XViFrML._AC_UL1500_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/215gd9EE2cL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31ZISzKYPVL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/316ydAOtOeL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/215gd9EE2cL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31ZISzKYPVL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/316ydAOtOeL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Yummie",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Socks & Hosiery",
+      "Tights"
+    ],
+    "details": "{\"Package Dimensions\": \"0.39 x 0.39 x 0.39 inches; 1 Pounds\", \"Department\": \"Womens\", \"Date First Available\": \"June 8, 2017\", \"Manufacturer\": \"Yummie\"}",
+    "parent_asin": "B06XX44MFF",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Socks",
+      "Women's Tights"
+    ],
+    "confidence": 0.95
+  }
+}

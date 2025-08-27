@@ -1,0 +1,46 @@
+{
+    "main_category": "Prime Video",
+    "title": "Weeds",
+    "average_rating": 4.8,
+    "rating_number": 868,
+    "features": [
+        "IMDb 7.9",
+        "2006",
+        "12 episodes",
+        "X-Ray",
+        "TV-MA"
+    ],
+    "description": [
+        "Weeds exposes the dirty little secrets that lie behind the pristine lawns and shiny closed doors of homes in the fictional town of Agrestic, California."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Comedy",
+        "Drama"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Craig Zisk\", \"Michael Trim\", \"Scott Ellis\", \"Julie Anne Robinson\", \"Eric Jewett\", \"Paul Feig\", \"Lev L. Spiro\", \"Tucker Gates\", \"Brian Dannelly\", \"Perry Lang\"]}",
+    "parent_asin": "B002N84OZ4",
+    "bought_together": null,
+    "subtitle": "UnentitledUnentitled",
+    "author": null
+}

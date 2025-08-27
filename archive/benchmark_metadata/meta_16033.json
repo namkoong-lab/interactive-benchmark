@@ -1,0 +1,65 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Keith Jack Jewelry, Dragonfly in Reeds Necklace, Sterling Silver & 10k Gold",
+    "average_rating": 5.0,
+    "rating_number": 7,
+    "features": [
+        "Authentic Keith Jack Celtic Jewelry Design",
+        "Dimensions (w x h):  1″ x 1 1/4″",
+        "Sterling Silver with 10k Yellow Gold",
+        "Details: comes with Sterling Silver 18″ Spiga chain",
+        "Symbolizes good luck, transformation, and self-discovery"
+    ],
+    "description": [
+        "This necklace is part of the Dragonfly Collection. Wear this necklace as a symbolism of good luck, transformation, and self-discovery.",
+        "Keith has spent his life submersed in every aspect of the Jewellery business, but it wasn’t until the birth of his two children that he became serious about designing jewellery himself. More than anything, he credits Caitlin and Sam for igniting his passion for creation.",
+        "Keith draws inspiration from the raw beauty of the Scottish and Irish landscapes. Each of his collections offers something unique that he has seen in a hidden mountain loch, the grey sky over the glen or the ripples on a sandy beach. Inspiration becomes design.",
+        "Such resources push him to combine textured precious metals and exotic gemstones in surprising and stunning ways. His designs are strengthened by his ability to blend ancient Celtic symbolism with contemporary style and elegance.",
+        "Keith currently lives in Vancouver, but frequently returns home to Scotland, spending time in the wild and beautiful country that is his muse."
+    ],
+    "price": "230.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61wUpJ4q39L._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/81mTcL5B3zL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81Qxg8zXELL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51CpOoj9crL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51XCfWjhTQL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51+D4WTD4tL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51S47IJw5OL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41mYud4whNL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51XCfWjhTQL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51+D4WTD4tL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51S47IJw5OL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41mYud4whNL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Keith Jack Jewelry",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Jewelry",
+        "Necklaces",
+        "Pendant Necklaces"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"May 7, 2020\", \"Manufacturer\": \"Keith Jack Jewelry\"}",
+    "parent_asin": "B0889HJ1KZ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

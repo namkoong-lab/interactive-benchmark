@@ -1,0 +1,59 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Brewers's Best Candi Sugar (Dark Belgian)",
+    "average_rating": 4.6,
+    "rating_number": 77,
+    "features": [
+        "Dark Belgian Candi Sugar",
+        "1 lb",
+        "Add to a beer recipe to increase its alcohol level without making it more malty or sweet"
+    ],
+    "description": [
+        "Add to a beer recipe to increase its alcohol level without making it more malty or sweet. Use in place of some malt in a homebrew recipe to lighten the Body and increase the drinkability of beers that are too heavy. Light candi is great in tripels and lighter colored Belgian ales. Can be used in any homebrew recipe. Ferments very cleanly and completely. Typical recipes will call for 1 or 2 pounds in 5 gallons. Lovibond rating: 0 degree L."
+    ],
+    "price": "14.24",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71dFQBnpK6L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81QytVsmv-L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Qy7XIW1JL._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61wKdDyTldL._SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41CrxrSwm5L.jpg",
+            "https://m.media-amazon.com/images/I/51JZ0Re6cxL.jpg",
+            "https://m.media-amazon.com/images/I/51jn9KYuR5L.jpg",
+            "https://m.media-amazon.com/images/I/41k-bohh-gL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41CrxrSwm5L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51JZ0Re6cxL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51jn9KYuR5L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41k-bohh-gL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Brewer's Best",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Cooking & Baking",
+        "Baking Syrups, Sugars & Sweeteners",
+        "Sugars"
+    ],
+    "details": "{\"Brand\": \"Brewer's Best\", \"Item Form\": \"Crystal\", \"Flavor\": \"Dark Belgian\", \"Item Weight\": \"16 Ounces\", \"Package Information\": \"Bag\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"6.5 x 4 x 3 inches; 1 Pounds\", \"Item model number\": \"B01035F2EU\", \"UPC\": \"888690024953\", \"Manufacturer\": \"Brewer's Best\"}",
+    "parent_asin": "B07BHYZB2Q",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

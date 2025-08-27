@@ -1,0 +1,61 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Under Armour Women's ColdGear Infrared Softershell",
+    "average_rating": 4.5,
+    "rating_number": 23,
+    "features": [
+        "Magnetic closure",
+        "UA Storm 2: Highly Water Resistant & Windproof",
+        "ColdGear Infrared lining uses a soft, thermo conductive inner coating to absorb & retain body heat",
+        "Slick bonded 3 layer fleece construction",
+        "Soft, brushed interior locks in heat for all day warmth & comfort",
+        "Rolled forward shoulder seams to help reduce chafing & pressure points"
+    ],
+    "description": [
+        "UA Storm 2: Highly Water-Resistant & Windproof .ColdGear Infrared lining uses a soft, thermo-conductive inner coating to absorb & retain body heat .Slick bonded 3-layer fleece construction .Soft, brushed interior locks in heat for all-day warmth & comfort .Rolled forward shoulder seams to help reduce chafing & pressure points .Built-in ColdGear cuffs to help seal in body heat .UA MagZip magnetic quick zip for extra easy on/off .Princess seams for a more streamlined fit .Secure zip hand pockets ."
+    ],
+    "price": "128.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51J423qaR7L._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51zODK3Q6SL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/512S58t8e3L._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61jiLI57gIL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/412xK-rkB4L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41NM9gbjhHL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41UB0nEtc7L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/414NcXotGgL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/412xK-rkB4L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41NM9gbjhHL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41UB0nEtc7L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/414NcXotGgL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Under Armour",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Active"
+    ],
+    "details": "{\"Item model number\": \"1281437\", \"Department\": \"womens\", \"Date First Available\": \"August 19, 2016\", \"Manufacturer\": \"Under Armour Apparel\"}",
+    "parent_asin": "B07M6G7MWN",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

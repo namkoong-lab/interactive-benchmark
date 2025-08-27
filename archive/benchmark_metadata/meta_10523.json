@@ -1,0 +1,45 @@
+{
+    "main_category": "Digital Music",
+    "title": "Rocky Horror Picture Show, The",
+    "average_rating": 4.7,
+    "rating_number": 456,
+    "features": [],
+    "description": [
+        "'Absolute Treasures' is the expanded reissue of the soundtrack for the 40th anniversary of the 1975 cult musical film 'The Rocky Horror Picture Show' starring Tim Curry, Susan Sarandon, and Meat Loaf. The album includes ALL songs from the film, on CD and vinyl, for the first time, including 'Planet Schmanet Janet,' 'Once In A While,' 'The Sword of Damocles,' and 'Planet Hot Dog'!"
+    ],
+    "price": "12.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71VQw1hUFEL._SL1200_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51mzNlLH8ZL.jpg",
+            "https://m.media-amazon.com/images/I/615iPqaipML.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51mzNlLH8ZL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/615iPqaipML._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Meat Loaf   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Soundtracks",
+        "Movie Scores"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"4.9 x 5.56 x 0.24 inches; 1.92 Ounces\", \"Manufacturer\": \"ODE SOUNDS AND VISUALS, INC.\", \"Original Release Date\": \"2015\", \"Date First Available\": \"May 30, 2015\", \"Label\": \"ODE SOUNDS AND VISUALS, INC.\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00YJ1GNRA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

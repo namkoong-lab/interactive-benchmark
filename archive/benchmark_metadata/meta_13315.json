@@ -1,0 +1,48 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Wrinkle Free Victor Classic Fit Shirt",
+    "average_rating": 4.0,
+    "rating_number": 2,
+    "features": [
+        "Poplin",
+        "Button closure",
+        "Machine Wash",
+        "Yarn dye or printed poplin shirting w/ wrinkle free finish.",
+        "Contrast co"
+    ],
+    "description": [
+        "Yarn dye or printed poplin shirting w/ wrinkle free finish."
+    ],
+    "price": "59.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61Af0FR21UL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41N3iHv8TQL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41N3iHv8TQL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "ARIAT",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Shirts"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"June 11, 2021\"}",
+    "parent_asin": "B0973LY7SC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

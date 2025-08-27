@@ -1,0 +1,54 @@
+{
+    "main_category": "Grocery",
+    "title": "Trader Joes Dark Chocolate Covered Marshmallows - 2 Pack",
+    "average_rating": 4.1,
+    "rating_number": 723,
+    "features": [],
+    "description": [
+        "4"
+    ],
+    "price": "22.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81o8HDTvoOL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81igmcuGAEL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/718zeDOXYfL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71yJWAEliKL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/512wXke9L9L.jpg",
+            "https://m.media-amazon.com/images/I/51XVdMh8vrL.jpg",
+            "https://m.media-amazon.com/images/I/51yjWqDZdYL.jpg",
+            "https://m.media-amazon.com/images/I/41e4QT0Ud1L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/512wXke9L9L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51XVdMh8vrL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51yjWqDZdYL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41e4QT0Ud1L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "DTLS",
+            "FACT",
+            "INGR"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Trader Joe's",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Cooking & Baking",
+        "Marshmallows"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"9.29 x 5.94 x 3.07 inches; 14.08 Ounces\", \"UPC\": \"009800000418\", \"Manufacturer\": \"Trader Joe's\"}",
+    "parent_asin": "B091531ZPZ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,65 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Lucky Brand Women's Chenille Cowl Neck Sweater",
+    "average_rating": 4.0,
+    "rating_number": 14,
+    "features": [
+        "Imported",
+        "No Closure closure",
+        "Hand Wash Only",
+        "Cowl neck",
+        "Tonal stitching"
+    ],
+    "description": [
+        "Long sleeve chenille cowl neck sweater with tonal stitching."
+    ],
+    "price": "62.48",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81BwJT10jBL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71J3DFUWOdL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71AE5wMoVyL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81uBcIv-MkL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61HfSxMZ6nL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51NjCInKTcL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41APmx3JHVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41-34cEYKTL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51KviESuBrL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31wQoIF2EZL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51NjCInKTcL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41APmx3JHVL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41-34cEYKTL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51KviESuBrL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31wQoIF2EZL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Lucky Brand",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Sweaters",
+        "Pullovers"
+    ],
+    "details": "{\"Item model number\": \"7W51928\", \"Department\": \"womens\", \"Date First Available\": \"November 17, 2018\", \"Manufacturer\": \"Lucky Brand\"}",
+    "parent_asin": "B07G87NCFW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

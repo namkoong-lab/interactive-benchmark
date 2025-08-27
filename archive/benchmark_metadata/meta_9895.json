@@ -1,0 +1,46 @@
+{
+    "main_category": "Amazon Home",
+    "title": "John Deere Seat AM108058",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "JOHN DEERE 755"
+    ],
+    "description": [
+        "John Deere Seat AM108058"
+    ],
+    "price": "195.19",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81lGi71Qx6L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61388jPIp8L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61388jPIp8L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "John Deere",
+    "categories": [
+        "Patio, Lawn & Garden",
+        "Outdoor Power Tools",
+        "Replacement Parts & Accessories",
+        "Lawn Mower Parts & Accessories",
+        "Lawn Mower Replacement Parts",
+        "Deck Parts"
+    ],
+    "details": "{\"Product Dimensions\": \"28.9 x 18.25 x 15.4 inches\", \"Item Weight\": \"17.9 pounds\", \"Manufacturer\": \"John Deere\", \"Item model number\": \"AM108058\", \"Best Sellers Rank\": {\"Patio, Lawn & Garden\": 663947, \"Lawn Mower Deck Parts\": 10736}, \"Is Discontinued By Manufacturer\": \"No\"}",
+    "parent_asin": "B00EO43UPK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

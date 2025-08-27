@@ -1,0 +1,49 @@
+{
+    "main_category": "Books",
+    "title": "Tsali Trails Map",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "With over 40 miles of single track, western North Carolina's Tsali Recreation Area, where trails wind their way over rolling terrain along the shore of Lake Fontana just across from Great Smoky Mountains National Park, has been a major Southeastern mountain bike destination since the 1980s.This waterproof color topo map shows routes for all four of Tsali's loops, including elevation profiles, the trail schedule for bikes and horses, and information on the USFS campground. It even suggests nearby forest road alternatives for riding when it's too wet at Tsali."
+    ],
+    "description": [
+        "Book Description",
+        "Where to ride in Tsali",
+        "From the Inside Flap",
+        "With over 40 miles of single track, Tsali Recreation Area, where trails wind their way over rolling terrain along the shore of Lake Fontana just across from Great Smoky Mountains National Park, has been a major Southeastern mountain bike destination since the 1980s.This waterproof map shows routes for all four of Tsali's loops, and includes elevation profiles, the trail schedule for bikes and horses, and information on the USFS campground. It even suggests nearby forest road alternatives for riding when it's too wet at Tsali.",
+        "About the Author",
+        "JIM PARHAM grew up North Georgia. The author of numerous outdoor guidebooks, he has hiked, biked, and paddled extensively throughout the Southeast.",
+        "Read more"
+    ],
+    "price": "9.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41oCVTj3qfL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jim Parham (Author)",
+    "categories": [
+        "Books",
+        "Travel",
+        "Specialty Travel"
+    ],
+    "details": "{\"Publisher\": \"University of Georgia Press; Fol Map edition (April 1, 2016)\", \"Language\": \"English\", \"ISBN 10\": \"1889596353\", \"ISBN 13\": \"978-1889596358\", \"Item Weight\": \"6.6 ounces\", \"Dimensions\": \"9.5 x 0.1 x 8 inches\"}",
+    "parent_asin": "1889596353",
+    "bought_together": null,
+    "subtitle": "Map – Folded Map, April 1, 2016",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Jim Parham', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

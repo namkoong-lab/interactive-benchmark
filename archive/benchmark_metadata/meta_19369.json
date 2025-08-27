@@ -1,0 +1,49 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Righteous Blood",
+    "average_rating": 3.3,
+    "rating_number": 50,
+    "features": [],
+    "description": [
+        "Outlaw gun for hire Jericho (played by Michael Pare) is on the run from the law when he finds himself tangled in a situation that will fundamentally change his life, his views and his beliefs forever."
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81mRvdp9gyS._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71fFdzcMqPS._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81wEYHFFPqS._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41iAGzqEGoS.jpg",
+            "https://m.media-amazon.com/images/I/41gYrk7CuKS.jpg",
+            "https://m.media-amazon.com/images/I/41nkwUl03ZS.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41iAGzqEGoS._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41gYrk7CuKS._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41nkwUl03ZS._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Michael Pare  (Actor),     Joseph Camilleri  (Actor)    Rated:    NR    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Westerns"
+    ],
+    "details": "{\"Genre\": \"Westerns\", \"Format\": \"NTSC\", \"Contributor\": \"Joseph Camilleri, Emily Whitcomb, Michael Pare\", \"Language\": \"English\", \"Runtime\": \"1 hour and 16 minutes\", \"MPAA rating\": \"NR (Not Rated)\", \"Package Dimensions\": \"7.44 x 5.39 x 0.55 inches; 2.72 Ounces\", \"Media Format\": \"NTSC\", \"Run time\": \"1 hour and 16 minutes\", \"Release date\": \"August 3, 2021\", \"Actors\": \"Michael Pare, Joseph Camilleri, Emily Whitcomb\", \"Studio\": \"Archstone\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B08YQCQMJD",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

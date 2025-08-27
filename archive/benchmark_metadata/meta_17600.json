@@ -1,0 +1,82 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Cablesat streaming",
+    "average_rating": 3.2,
+    "rating_number": 381,
+    "features": [
+        "easy to use",
+        "some channels are HD"
+    ],
+    "description": [
+        "This app allow the subscribers of Cablesat to watch their favorite channels"
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/B1ph0UUUaAS.png",
+            "https://m.media-amazon.com/images/I/A1eCN02jcFL.png",
+            "https://m.media-amazon.com/images/I/A1HfByAkc6L.png",
+            "https://m.media-amazon.com/images/I/A1y15HCK3AL.png",
+            "https://m.media-amazon.com/images/I/A1HM1v6evRL.png",
+            "https://m.media-amazon.com/images/I/B1+nYSmV+OS.png",
+            "https://m.media-amazon.com/images/I/A1eCN02jcFL.png",
+            "https://m.media-amazon.com/images/I/A19Hj97UxGL.png",
+            "https://m.media-amazon.com/images/I/91MZacanLHL.png",
+            "https://m.media-amazon.com/images/I/A1HM1v6evRL.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08",
+            "PT09"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Be Smart Mobile",
+    "categories": [],
+    "details": "{\"Release Date\": \"2019\", \"Date first listed on Amazon\": \"October 20, 2019\", \"Developed By\": \"Be Smart Mobile\", \"Size\": \"24.1MB\", \"Version\": \"1.0.9\", \"Application Permissions\": [\"Access information about networks\", \"Open network sockets\"], \"Minimum Operating System\": \"Android 5.1\", \"Approximate Download Time\": \"Less than 4 minutes\"}",
+    "parent_asin": "B07YGSX4BJ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

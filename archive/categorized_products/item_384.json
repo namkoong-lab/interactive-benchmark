@@ -1,0 +1,53 @@
+{
+  "item_id": 384,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Hiru Mo Yoru Mo",
+    "average_rating": 4.3,
+    "rating_number": 14,
+    "features": [],
+    "description": [
+      "CD ALBUM"
+    ],
+    "price": "31.15",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/514sQDuVuSL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/514sQDuVuSL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Mariko Hamada   浜田真理子   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "International Music",
+      "Far East & Asia",
+      "Japan"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.35 x 5.28 x 0.16 inches; 2.08 Ounces\", \"Manufacturer\": \"Indie\", \"Date First Available\": \"February 12, 2007\", \"Label\": \"Indie\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000J3FE0E",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Albums"
+    ],
+    "confidence": 0.95
+  }
+}

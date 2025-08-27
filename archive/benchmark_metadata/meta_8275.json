@@ -1,0 +1,53 @@
+{
+    "main_category": "Books",
+    "title": "Kelly L. Murdock's Autodesk 3ds Max 2015 Complete Reference Guide",
+    "average_rating": 3.3,
+    "rating_number": 5,
+    "features": [
+        "This book is designed for undergraduate students completely new to programming with MATLAB. Case studies and examples are used extensively throughout this book and are at the core of what makes this book so unique. The author believes that the best way to learn MATLAB is to study programs written by experienced programmers and that the quality of these example programs determines the quality of the book. The examples in this book are carefully designed to teach you MATLAB programming as well as to inspire within you your own problem solving potential. Most of the examples used in this book are designed to solve a whole class of problems, rather than a single, specific problem.",
+        "A learn by doing teaching approach is used all through the book. You are guided to tackle a problem using MATLAB commands first and then the commands are explained line by line. This process of learning through hands on experience is one of the most efficient and pain-free ways of learning MATLAB. This approach, together with the extensive use of ordered textboxes, figures, and tables, greatly reduces the size of the book, while still providing you with a book that s comprehensive and easy to follow.",
+        "The first chapter of this book introduces the MATLAB programming environment and familiarizes you with MATLAB s core functionality. Chapters two through nine discuss basic MATLAB functionalities in a progressive and comprehensive way. The chapters start out simple and build in complexity as you advance through the book. Chapters ten through thirteen cover advanced topics that are particularly useful in college programs. Each chapter consists of sections, each covering a topic and providing one or more examples. Related MATLAB functions are organized at the end of a section. Additional exercise problems are provided at the end of chapters two through nine.",
+        "Examples in each section are presented in a consistent way. An example is usually described first, followed by a MATLAB script. Any resulting text and graphics output (and in some cases inputs) that are produced from running a script are presented and discussed. Finally, the remainder of each section is devoted to explaining the purpose of the lines of the script.",
+        "Who this book is for",
+        "This book is developed mainly for undergraduate engineering students. It may be used in courses such as Computers in Engineering, or others that use MATLAB as a software platform. It can also be used as a self-study book for learning MATLAB.",
+        "College level engineering examples are used in this book. Background knowledge for these engineering examples is illustrated as thoroughly as possible.",
+        "Table of Contents",
+        "1. Getting Started, Desktop Environment, and Overview 2. Data Types, Operators, and Expressions 3. Flow Controls, Functions, and Programs 4. Cell Arrays, Structures, Tables, and User-Defined Classes 5. Data Visualization: Plots 6. Animations, Images, Audios, and Videos 7. Data Import and Export 8. Graphical User Interfaces 9. Symbolic Mathematics 10. Linear Algebra, Polynomial, Curve Fitting, and Interpolation 11. Differentiation, Integration, and Differential Equations 12. Systems of Nonlinear Equations and Optimization 13. Statistics"
+    ],
+    "description": [
+        "About the Author",
+        "Kelly Murdock has been authoring computer books for many years now and still gets immense enjoyment from the completed work. His book credits include various 3D, graphics, multimedia, and web titles, including 14 editions of the 3ds Max Bible. Other major accomplishments include Google SketchUp Bible, Edgeloop Character Modeling for 3D Professionals Only, Maya 6 and 7 Revealed, LightWave 3D 8 Revealed, The Official Guide to Anime Studio, Poser 6, 7 and 8 Revealed, 3D Game Animation For Dummies, gmax Bible, Adobe Atmosphere Bible, Master VISUALLY HTML and XHTML, JavaScript Visual Blueprint, and co-authoring duties on two editions of the Illustrator Bible (for versions 9 and 10) and five editions of the Adobe Creative Suite Bible.",
+        "With a background in engineering and computer graphics, Kelly has been all over the 3D industry and still finds it fascinating. He s used high-level CAD workstations for product design and analysis, completed several large-scale visualization projects, created 3D models for feature films and games, worked as a freelance 3D artist, and even did some 3D programming. Kelly s been using 3 Studio since version 3 for DOS. Kelly has also branched into training others in 3D technologies. He currently works as a freelance graphic artist and video game producer.",
+        "In his spare time, Kelly enjoys playing basketball and collecting video games."
+    ],
+    "price": "5.73",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51WaXujvX0L._SX385_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kelly L. Murdock (Author)",
+    "categories": [
+        "Books",
+        "Reference"
+    ],
+    "details": "{\"Publisher\": \"SDC Publications (October 8, 2014)\", \"Language\": \"English\", \"Perfect Paperback\": \"1250 pages\", \"ISBN 10\": \"158503911X\", \"ISBN 13\": \"978-1585039111\", \"Item Weight\": \"5.45 pounds\"}",
+    "parent_asin": "158503911X",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

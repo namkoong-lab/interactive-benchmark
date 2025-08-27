@@ -1,0 +1,55 @@
+{
+  "item_id": 1234,
+  "metadata": {
+    "main_category": "Pet Supplies",
+    "title": "Neat Solutions for Pets Pillow Pet Lounge, Polycord with Piped Edge, 30-Inch by 40-Inch, Tapioca",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "Super supportive construction; Easily removable cover with large zipper; Water-resistant inner pad for easy accident clean-up",
+      "Easy to replace covers; Liquid resistant inner pad covers; Special stitching holds inner pad fill in place, helps resist clumping during pet activity",
+      "Machine wash separately in cold water, gentle cycle; Use only non-chlorine bleach when needed; Tumble dry on low heat; Do not iron; Reshape as needed"
+    ],
+    "description": [
+      "Neat Solutions for Pets Pillow Lounge - Polycord with Piped Edge - 30 Inch x 40 Inch - Tapioca color."
+    ],
+    "price": "58.26",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61muxV+2IIL._AC_SL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41bbwsW6EQL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41bbwsW6EQL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Neat Solutions for Pets",
+    "categories": [
+      "Pet Supplies",
+      "Dogs",
+      "Beds & Furniture",
+      "Bed Pillows"
+    ],
+    "details": "{\"Brand\": \"Neat Solutions for Pets\", \"Special Feature\": \"Removable Cover\", \"Material\": \"Polyester\", \"Product Dimensions\": \"30 x 40 x 3.5 inches; 3.8 Pounds\", \"Target Species\": \"Dog\", \"Item model number\": \"6021130\", \"Date First Available\": \"November 19, 2011\", \"Manufacturer\": \"Neat Solutions for Pets\", \"Country of Origin\": \"China\"}",
+    "parent_asin": "B00G8FVR4O",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Pet Supplies"
+    ],
+    "confidence": 0.95
+  }
+}

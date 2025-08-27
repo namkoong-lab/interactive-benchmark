@@ -1,0 +1,100 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "Mastering C++ Multithreading: Write robust, concurrent, and parallel applications",
+    "average_rating": 3.6,
+    "rating_number": 20,
+    "features": [
+        "Master multithreading and concurrent processing with C",
+        "Key Features",
+        "Delve into the fundamentals of multithreading and concurrency and find out how to implement them",
+        "Delve into the fundamentals of multithreading and concurrency and find out how to implement them",
+        "Explore atomic operations to optimize code performance",
+        "Explore atomic operations to optimize code performance",
+        "Apply concurrency to both distributed computing and GPGPU processing",
+        "Apply concurrency to both distributed computing and GPGPU processing",
+        "Book Description",
+        "Multithreaded applications execute multiple threads in a single processor environment, allowing developers achieve concurrency. This book will teach you the finer points of multithreading and concurrency concepts and how to apply them efficiently in C .",
+        "Divided into three modules, we start with a brief introduction to the fundamentals of multithreading and concurrency concepts. We then take an in-depth look at how these concepts work at the hardware-level as well as how both operating systems and frameworks use these low-level functions.",
+        "In the next module, you will learn about the native multithreading and concurrency support available in C since the 2011 revision, synchronization and communication between threads, debugging concurrent C applications, and the best programming practices in C .",
+        "In the final module, you will learn about atomic operations before moving on to apply concurrency to distributed and GPGPU-based processing. The comprehensive coverage of essential multithreading concepts means you will be able to efficiently apply multithreading concepts while coding in C .",
+        "What you will learn",
+        "Deep dive into the details of the how various operating systems currently implement multithreading",
+        "Deep dive into the details of the how various operating systems currently implement multithreading",
+        "Choose the best multithreading APIs when designing a new application",
+        "Choose the best multithreading APIs when designing a new application",
+        "Explore the use of mutexes, spin-locks, and other synchronization concepts and see how to safely pass data between threads",
+        "Explore the use of mutexes, spin-locks, and other synchronization concepts and see how to safely pass data between threads",
+        "Understand the level of API support provided by various C toolchains",
+        "Understand the level of API support provided by various C toolchains",
+        "Resolve common issues in multithreaded code and recognize common pitfalls using tools such as Memcheck, CacheGrind, DRD, Helgrind, and more",
+        "Resolve common issues in multithreaded code and recognize common pitfalls using tools such as Memcheck, CacheGrind, DRD, Helgrind, and more",
+        "Discover the nature of atomic operations and understand how they can be useful in optimizing code",
+        "Discover the nature of atomic operations and understand how they can be useful in optimizing code",
+        "Implement a multithreaded application in a distributed computing environment",
+        "Implement a multithreaded application in a distributed computing environment",
+        "Design a C -based GPGPU application that employs multithreading",
+        "Design a C -based GPGPU application that employs multithreading",
+        "Table of Contents",
+        "Revisiting multithreading",
+        "Revisiting multithreading",
+        "Multithreading implementation on the processor and OS",
+        "Multithreading implementation on the processor and OS",
+        "C Multithreading APIs",
+        "C Multithreading APIs",
+        "Thread synchronization and communication",
+        "Thread synchronization and communication",
+        "Native C threads and primitives",
+        "Native C threads and primitives",
+        "Debugging multi-threaded code",
+        "Debugging multi-threaded code",
+        "Best Practices",
+        "Best Practices",
+        "Atomic operations: working with the hardware",
+        "Atomic operations: working with the hardware",
+        "Multithreading with distributed computing",
+        "Multithreading with distributed computing",
+        "Multithreading with GPGPU",
+        "Multithreading with GPGPU"
+    ],
+    "description": [
+        "About the Author",
+        "Maya Posch",
+        "is a software engineer by trade and a self-professed electronics, robotics, and AI nut, running her own software development company, Nyanko, with her good friend, Trevor Purdy, where she works on various game development projects and some non-game projects. Apart from this, she does various freelance jobs for companies around the globe. You can visit her LinkedIn profile for more work-related details.",
+        "Aside from writing software, she likes to play with equations and write novels, such as her awesome reimagining of the story of the Nintendo classic, Legend of Zelda: Ocarina of Time, and the survival-horror novel she recently started, Viral Desire. You can check out her Scribd profile for a full listing of her writings.",
+        "Maya is also interested in biochemistry, robotics, and reverse-engineering of the human body. To know more about her, visit her blog, Artificial Human. If there's anything she doesn't lack, it has to be sheer ambition, it seems.",
+        "--This text refers to the",
+        "paperback",
+        "edition."
+    ],
+    "price": "29.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41O9mtrUbZL._SX260_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Maya Posch (Author)   Format: Kindle Edition",
+    "categories": [
+        "Kindle Store",
+        "Kindle eBooks",
+        "Computers & Technology"
+    ],
+    "details": "{\"Publisher\": \"Packt Publishing; 1st edition (July 28, 2017)\", \"Publication date\": \"July 28, 2017\", \"Language\": \"English\", \"File size\": \"8070 KB\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Not Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"246 pages\", \"Page numbers source ISBN\": \"1787121704\"}",
+    "parent_asin": "B01NBBTHY3",
+    "bought_together": null,
+    "subtitle": "1st Edition, Kindle Edition",
+    "author": null
+}

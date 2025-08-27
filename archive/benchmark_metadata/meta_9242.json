@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Essential Windows 10 (Computer Essentials)",
+    "average_rating": 3.4,
+    "rating_number": 17,
+    "features": [
+        "Teach yourself how to navigate and use the latest version of Microsoft Windows.Now in full color, this guide explores...*  Windows 10's new features, menus and utilities*  Setting up your computer, downloading and upgrading to Windows 10*  Navigating around Windows 10 using file explorer, task view and the start menu*  Using the desktop and running applications*  Using Tablets*  Using Cortana virtual assistant and Microsoft Edge Web Browser*  Using OneDrive*  Backing up your important data with FileHistory*  Antivirus and internet safety*  Downloading & watching videos and watching DVDs*  Downloading & listening to music*  Staying in touch friends, family and colleagues using Mail, Calendar & Skype*  Maintaining Windows 10, scanning drives for errors and basic recovery procedures and more...Clear instruction, and easy-to-follow tutorials with illustrated photographs, graphics and screen prints, guide you through the procedures every step of the way. Great for beginners, novices, seniors, ordinary home users, students and even experienced users needing a refresher or update.If you want to get up and running quickly and easily with the new Windows 10, this is the guide you need."
+    ],
+    "description": [
+        "About the Author",
+        "Kevin Wilson, a practicing computer engineer and tutor, has had a passion for gadgets, cameras, computers and technology for many years. After graduating with a masters in computer science, software engineering & multimedia systems, Kevin has worked in the computer industry supporting and working with many different types of computer systems. He has served as a tutor running specialist lessons on film making, visual effects, IT lessons and computer literacy in schools. He has taught in colleges in South Africa, and worked as a tutor for adult education in England running IT courses such as beginner's IT, CLAIT, ECDL and ICT Advanced. His books have become a valuable resource amongst the students. His latest works, the computer essentials series, modelled on the philosophy \"if you can't explain something simply, you haven't understood it well enough\", aims to bring a simplified approach to computer training and breaks down computing terms, tasks, operating systems and software into simple concepts with easy to follow steps and plenty of visual aids. It is his hope that these books will help you as much as they've helped us get to grips with the latest technology. The best-selling computer fundamentals series was created in the hope that it will help people to use their computer with greater joy, understanding, productivity and efficiency. To help students and people in countries like South Africa and India who have never used a computer before. It is his hope that they will get the same benefits from computer technology as we do. So get yourself a copy today and help us make a difference in someone's life."
+    ],
+    "price": "8.75",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41a72dQSslL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kevin Wilson (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Operating Systems"
+    ],
+    "details": "{\"Publisher\": \"Elluminet Press (January 28, 2016)\", \"Language\": \"English\", \"Paperback\": \"172 pages\", \"ISBN 10\": \"1911174088\", \"ISBN 13\": \"978-1911174080\", \"Item Weight\": \"11.3 ounces\", \"Dimensions\": \"5.98 x 0.47 x 9.02 inches\"}",
+    "parent_asin": "1911174088",
+    "bought_together": null,
+    "subtitle": null,
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/bts2vmh4211oipgs594vj05t1m._SY600_.jpg', 'name': 'Kevin Wilson', 'about': [\"With over 20 years’ experience in the computer industry, Kevin Wilson has made a career out of technology and showing others how to use it. After earning a master's degree in computer science, software engineering, and multimedia systems, Kevin has held various positions in the IT industry including graphic & web design, digital film & photography, programming & software engineering, developing & managing corporate networks, building computer systems, and IT support.\", 'He serves as senior writer and director at Elluminet Press Ltd, he periodically teaches computer science at college, and works as an IT trainer in England while researching for his PhD. His books have become a valuable resource among the students in England, South Africa, Canada, and in the United States. He also serves as technical reviewer and consultant for many other publications and textbooks.', 'Kevin\\'s motto is clear: \"If you can\\'t explain something simply, then you haven\\'t understood it well enough.\" To that end, he wrote the Exploring Tech Computing series, in which he breaks down complex technological subjects into smaller, easy-to-follow steps that students and ordinary computer users can put into practice.', 'In addition to this, along with his team, Kevin has written and produced numerous video training courses using visual effects, computer graphics and clear presentation covering a variety of subjects including computer hardware, Microsoft Office, and Python Computer Programming. These are used in schools, colleges and training centers around the world. You can find our courses here: elluminetpress.com/courses', 'If you would like to contact Kevin, you can do so using his email address: office@elluminetpress.com']}"
+}

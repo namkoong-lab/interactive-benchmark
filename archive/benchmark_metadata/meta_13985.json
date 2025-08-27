@@ -1,0 +1,59 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Port Authority Enhanced Visibility Cap. C836",
+    "average_rating": 4.2,
+    "rating_number": 25,
+    "features": [
+        "Fabric: 100% fluorescent polyester.",
+        "Made in the USA or Imported",
+        "Hook and Loop closure",
+        "Hand Wash Only",
+        "Structure: Lightly structured.",
+        "Profile: Mid.",
+        "Closure: Hook and loop."
+    ],
+    "description": [
+        "This cap has reflective taping in the sandwich, top of bill, back crown and closure. | Fabric: 100% fluorescent polyester Structure: Lightly structured Profile: Low Closure: Hook and loop"
+    ],
+    "price": "10.53",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71gmRzkwGTL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71t47qPCv5L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/615aq0eFW2L._AC_UL1046_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/4156-IhIZhL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41nc9bHrSgL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51COrHW56EL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/4156-IhIZhL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41nc9bHrSgL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51COrHW56EL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Port Authority",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Accessories",
+        "Hats & Caps",
+        "Baseball Caps"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"April 26, 2017\", \"Manufacturer\": \"Port Authority\"}",
+    "parent_asin": "B072L3FBG7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

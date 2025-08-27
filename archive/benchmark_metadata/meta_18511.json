@@ -1,0 +1,65 @@
+{
+    "main_category": "All Beauty",
+    "title": "Morgan's Moustache and Beard Cream",
+    "average_rating": 3.4,
+    "rating_number": 10,
+    "features": [
+        "Made in England",
+        "Contains aloe vera, wheat germ oil and virgin olive oil to nourish the hair.",
+        "This cream will soften, moisturise and condition whilst leaving your moustache and beard smelling great.",
+        "Model Number: M038"
+    ],
+    "description": [
+        "Morgan's Moustache & Beard Cream - 75ml tin"
+    ],
+    "price": "10.42",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61XSniqln2L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81PzVbYerJL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71x+z3bHBQL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41qWGc2BSlL.jpg",
+            "https://m.media-amazon.com/images/I/41gf+ZukMgL.jpg",
+            "https://m.media-amazon.com/images/I/51v2sien7JL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41qWGc2BSlL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41gf+ZukMgL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51v2sien7JL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [
+            "TCM Beard Oil/Conditioner",
+            "Beard Conditioner Overview"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/78344e8de2b943278e16905acdc5d60c?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/5b5424882f3f4326bd710fed8ab62967?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            ""
+        ]
+    },
+    "store": "Morgan",
+    "categories": [
+        "Beauty & Personal Care",
+        "Shave & Hair Removal",
+        "Men's",
+        "Beard & Mustache Care",
+        "Beard Conditioners & Oils"
+    ],
+    "details": "{\"Scent\": \"Aloe\", \"Liquid Volume\": \"75 Milliliters\", \"Item Form\": \"Cream\", \"Brand\": \"Morgan\", \"Number of Items\": \"1\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"1 x 1 x 1 inches; 2.65 Ounces\", \"Item model number\": \"M038\", \"Manufacturer\": \"Beauty Exchange LLC\"}",
+    "parent_asin": "B00PHHNW0Q",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

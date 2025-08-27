@@ -1,0 +1,65 @@
+{
+    "main_category": "All Beauty",
+    "title": "THREE SISTERS APOTHECARY Gravenstein Apple & Clove, 4.75 OZ",
+    "average_rating": 3.6,
+    "rating_number": 3,
+    "features": [
+        "Body Care"
+    ],
+    "description": [
+        "Soap Bar Gravenstein Apple Clove"
+    ],
+    "price": "12.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91irRUej+qL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81s7K9JsU4L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71gqgOtgRkL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81Nhu9eVQYL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71mjEy8ZBvL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71vAvkob+KL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/511wjre4JOL.jpg",
+            "https://m.media-amazon.com/images/I/51jchrmQaML.jpg",
+            "https://m.media-amazon.com/images/I/41puXIt890L.jpg",
+            "https://m.media-amazon.com/images/I/41HCtERKeAL.jpg",
+            "https://m.media-amazon.com/images/I/418GA7q7poL.jpg",
+            "https://m.media-amazon.com/images/I/41+OhxCZoPL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/511wjre4JOL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51jchrmQaML._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41puXIt890L._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41HCtERKeAL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/418GA7q7poL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41+OhxCZoPL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Three Sisters Apothecary",
+    "categories": [
+        "Beauty & Personal Care",
+        "Skin Care",
+        "Body",
+        "Cleansers",
+        "Soaps"
+    ],
+    "details": "{\"Item Form\": \"Bar\", \"Skin Type\": \"All\", \"Brand\": \"Three Sisters Apothecary\", \"Scent\": \"Apple Clove\", \"Age Range (Description)\": \"Adult\", \"Package Dimensions\": \"4 x 2.85 x 1.55 inches; 4.8 Ounces\", \"UPC\": \"854792003141\", \"Manufacturer\": \"Three Sisters Apothecary\"}",
+    "parent_asin": "B07G38K38F",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

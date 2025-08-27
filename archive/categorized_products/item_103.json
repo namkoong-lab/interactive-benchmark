@@ -1,0 +1,75 @@
+{
+  "item_id": 103,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Novelty Ella Low Square 10\" Planter, Grey",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "Measures 10-inches in length",
+      "Can be mounted or used alone",
+      "UV-stabilized and BPA-free",
+      "Safe to use indoors or outdoors"
+    ],
+    "description": [
+      "The Ella Flower Box blends a tradition rectangular structure with a modern look. The design is perfect for hanging from windowsills and railings, or for accenting a table top. The Ella Flower Box also pairs with other colors and sizes for a more dynamic arrangement. The surface is created with Artstone’s blended stone and resin composition, forming an earthy texture while remaining sleek in shape. Plants can pull up water as they need with less frequent watering. For outdoor use, the base of this planter is slightly elevated and contains a removeable rubber stopper. This provides optimum drainage for plants and prevents over watering and root-rot."
+    ],
+    "price": "21.67",
+    "images": {
+      "hi_res": [
+        null,
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31fP4VHLmUL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41sX6j+GlRL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/61CaplfYj3L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31fP4VHLmUL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/41sX6j+GlRL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/61CaplfYj3L._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Novelty Artstone Video",
+        "The HC Companies Garden Bowl"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/dfe3c2e91b6e4417a35e54037547c6c4?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/73413f7727bf4f658c8bf14551e831f2?ref=dp_vse_rvc_1"
+      ],
+      "user_id": [
+        "",
+        ""
+      ]
+    },
+    "store": "Novelty",
+    "categories": [
+      "Patio, Lawn & Garden",
+      "Gardening & Lawn Care",
+      "Pots, Planters & Container Accessories",
+      "Planters"
+    ],
+    "details": "{\"Material\": \"Resin, Rubber, Stone\", \"Color\": \"Gray\", \"Special Feature\": \"Drainage Point\", \"Style\": \"Modern\", \"Shape\": \"Square\", \"Indoor/Outdoor Usage\": \"Outdoor\", \"Mounting Type\": \"Hanging\", \"Brand\": \"Novelty\", \"Assembly Required\": \"No\", \"Included Components\": \"Plant_hanger\", \"Best Sellers Rank\": {}, \"Date First Available\": \"November 20, 2020\", \"Number of Pieces\": \"1\"}",
+    "parent_asin": "B08NXVDYJ8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Home Decor",
+      "Planters"
+    ],
+    "confidence": 0.95
+  }
+}

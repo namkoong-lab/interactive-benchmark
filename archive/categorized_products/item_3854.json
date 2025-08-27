@@ -1,0 +1,62 @@
+{
+  "item_id": 3854,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "San Antonio Charm, Charms for Bracelets and Necklaces",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+      "Sterling Silver Handcrafted High Polish Finish",
+      "Lifetime Guarantee",
+      "Dimensions: 17.65 MM long x 17.65 MM wide",
+      "30 Day Money Back Guarantee",
+      "Unique gift for someone special or a gorgeous piece to complement your own style"
+    ],
+    "description": [
+      "Experience the quality of Rembrandt Charms. This San Antonio Charm is stamped with the metal quality mark and RQC trademark. All Rembrandt products have a Lifetime guaranteed. Please note the images above are enlarged to show detail. The charm is 17.65 MM long x 17.65 MM wide, it's handcrafted, made to perfectly fit your charm bracelet and will be great add-on to any charm collection."
+    ],
+    "price": "29.5",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61sNqVYItgL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51iCuDn2lbL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51iCuDn2lbL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Rembrandt Charms",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Jewelry",
+      "Bracelets",
+      "Charms & Charm Bracelets",
+      "Charms",
+      "Bead"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"January 6, 2011\", \"Manufacturer\": \"Rembrandt Charms\"}",
+    "parent_asin": "B004LYQ7HG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Charms & Beads"
+    ],
+    "confidence": 0.95
+  }
+}

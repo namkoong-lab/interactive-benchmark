@@ -1,0 +1,47 @@
+{
+    "main_category": "Movies & TV",
+    "title": "UFOs: The Hard Evidence",
+    "average_rating": 4.6,
+    "rating_number": 2,
+    "features": [],
+    "description": [
+        "Produced by UFO Magazine, UK and the award winning UFO research team of Graham W. Birdsall and Russell Callaghan."
+    ],
+    "price": "42.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41BuMdcNvOL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41BuMdcNvOL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Hard Evidence Video"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/ee548b55829f4a3dbb277383702a814f?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Loaded with interviews  (Actor),     Graham W. Birdsall  (Director)    Rated:    NR    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Boxed Sets",
+        "Documentary"
+    ],
+    "details": "{\"MPAA rating\": \"NR (Not Rated)\", \"Director\": \"Graham W. Birdsall\", \"Media Format\": \"Multiple Formats, Box set, Color, NTSC\", \"Run time\": \"7 hours and 16 minutes\", \"Release date\": \"September 27, 2004\", \"Actors\": \"Loaded with interviews\", \"Studio\": \"Ufo Video\", \"Country of Origin\": \"USA\", \"Number of discs\": \"6\"}",
+    "parent_asin": "B000654ZKU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,44 @@
+{
+    "main_category": "Digital Music",
+    "title": "Gerald Alston Disco Fever",
+    "average_rating": 4.7,
+    "rating_number": 92,
+    "features": [],
+    "description": [
+        "Japanese reissue, part of Universal's 'Disco Fever' 2018 campaign for the Japanese market."
+    ],
+    "price": "14.74",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/71xOv4y93mL._SL1168_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51w+CFxx-mL.jpg",
+            "https://m.media-amazon.com/images/I/51xIqSyN+OL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51w+CFxx-mL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51xIqSyN+OL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Gerald Alston   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Pop"
+    ],
+    "details": "{\"Product Dimensions\": \"4.92 x 5.63 x 0.47 inches; 2.82 Ounces\", \"Manufacturer\": \"Universal Japan\", \"Original Release Date\": \"2018\", \"Date First Available\": \"March 14, 2018\", \"Label\": \"Universal Japan\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B07B62TYYY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

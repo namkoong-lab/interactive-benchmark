@@ -1,0 +1,82 @@
+{
+  "item_id": 3696,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Heelys Kids' Dual up X2 Pu Sneaker",
+    "average_rating": 4.5,
+    "rating_number": 1392,
+    "features": [
+      "Synthetic Nubuck",
+      "Imported",
+      "Rubber sole",
+      "Two wheel footwear"
+    ],
+    "description": [
+      "2 wheel smooth toe",
+      "What are Heely's? They're shoes that roll! These one of a kind, powerful, lightweight athletic shoes feature a single, stealth wheel housed in the heel, allowing athletes of all skill levels to walk, run and transition to a roll at any moment. Roll into all situations, or simply remove the wheel and transform your Heely's into a pair of fashionable street shoes!"
+    ],
+    "price": "34.1",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81E7cKdlSeL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61+eCcbbolL._AC_UL1237_.jpg",
+        "https://m.media-amazon.com/images/I/71kmyAXcKyL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81B+vFbjJWL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81gTZQOJ+oL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81yaKLOjQIL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71mklmVME8L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41jYMv56CZL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41CoQcKC2oL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/412O8Pbz9bL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Hks0hbKuL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/419PACi-DeL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41jOu4LyKJL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41ceYzItEEL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41jYMv56CZL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41CoQcKC2oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/412O8Pbz9bL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Hks0hbKuL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/419PACi-DeL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jOu4LyKJL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41ceYzItEEL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Heelys",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Kids Shoes",
+      "Boys Shoes"
+    ],
+    "details": "{\"Item Weight\": \"13 Ounces\", \"Item model number\": \"770584K\", \"Department\": \"unisex-child\", \"Date First Available\": \"October 19, 2017\", \"Manufacturer\": \"Heelys\"}",
+    "parent_asin": "B076L6CWCD",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Girls' Clothing",
+      "Children's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

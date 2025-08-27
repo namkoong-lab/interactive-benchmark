@@ -1,0 +1,45 @@
+{
+    "main_category": "Amazon Home",
+    "title": "John Deere Fan M89184",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Fan"
+    ],
+    "description": [
+        "John Deere Fan M89184"
+    ],
+    "price": "61.69",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81lGi71Qx6L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61388jPIp8L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61388jPIp8L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "John Deere",
+    "categories": [
+        "Patio, Lawn & Garden",
+        "Farm & Ranch",
+        "Agricultural & Construction Machinery",
+        "Parts & Accessories",
+        "Spare & Replacement Parts"
+    ],
+    "details": "{\"Product Dimensions\": \"10.65 x 10.65 x 1.75 inches\", \"Item Weight\": \"14.7 ounces\", \"Manufacturer\": \"John Deere\", \"Best Sellers Rank\": {\"Patio, Lawn & Garden\": 1260551, \"Agricultural Machinery Spare & Replacement Parts\": 43289}, \"Item Dimensions LxWxH\": \"10.65 x 10.65 x 1.75 inches\", \"Brand\": \"John Deere\", \"Voltage\": \"12 Volts\", \"Maximum Rotational Speed\": \"1800 RPM\"}",
+    "parent_asin": "B00KH2JN0E",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

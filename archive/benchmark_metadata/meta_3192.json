@@ -1,0 +1,51 @@
+{
+    "main_category": "Grocery",
+    "title": "Ritter Sport Chocolate, Coconut, 3.5 Ounce (Pack of 12)",
+    "average_rating": 3.5,
+    "rating_number": 13,
+    "features": [
+        "Fine quality European chocolate",
+        "Made with natural ingredients"
+    ],
+    "description": [
+        "Founded in 1912, Ritter is still a family-owned, privately held company committed to the quality standards that make it Germany's #1 selling chocolate bar."
+    ],
+    "price": "40.38",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/814q+-bx9CL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51X-OiwEPVL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51X-OiwEPVL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Our Point of View on Ritter Sport Nougat Chocolate "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0bac5af02be44e8583da3572c225ee8b?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "/shop/influencer-20a38664"
+        ]
+    },
+    "store": "Ritter Sport",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Chocolate Candy",
+        "Candy & Chocolate Bars"
+    ],
+    "details": "{\"Brand\": \"Ritter Sport\", \"Item Form\": \"Bar\", \"Flavor\": \"Coconut\", \"Unit Count\": \"42.0 Ounce\", \"Size\": \"3.5 Ounce (Pack of 12)\", \"Package Dimensions\": \"7.83 x 4.84 x 3.74 inches; 3.5 Ounces\", \"Manufacturer\": \"Ritter Sport\"}",
+    "parent_asin": "B00GQRMZOA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,67 @@
+{
+  "item_id": 1187,
+  "metadata": {
+    "main_category": "All Beauty",
+    "title": "Melaleuca Quinquenervia by Young Living - 15 ml",
+    "average_rating": 5.0,
+    "rating_number": 7,
+    "features": [],
+    "description": [
+      "Melaleuca quinquenervia (Niaouli) essential oil supports skin health."
+    ],
+    "price": "60.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81-TPynz0kL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/412r104TOhL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/412r104TOhL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Sensation Essential Oil 5 ml by Young Living Essential Oils",
+        "Manifest with young living dream catcher..",
+        "Clarity Essential Oil 15ml by Young Living Essential Oils",
+        "German Chamomile 5ml by Young Living Essential Oils"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/07bd4745567e49b9923489bb524cfd37?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/0bbd0b0c7fbf4b9dade7a95ddc7a9a67?ref=dp_vse_rvc_1",
+        "https://www.amazon.com/vdp/0dd6adf2020947b6b777cd527009fca0?ref=dp_vse_rvc_2",
+        "https://www.amazon.com/vdp/0e73b1f67b6f41d489d63ae4e8a0b3c1?ref=dp_vse_rvc_3"
+      ],
+      "user_id": [
+        "/shop/influencer-b4e49084",
+        "/shop/shouldigetit",
+        "/shop/influencer-b4e49084",
+        "/shop/influencer-b4e49084"
+      ]
+    },
+    "store": "Young Living",
+    "categories": [
+      "Health & Household",
+      "Health Care",
+      "Alternative Medicine",
+      "Aromatherapy"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"3.1 x 1.6 x 1 inches; 1.6 Ounces\", \"Manufacturer\": \"Young Living Essential Oils\"}",
+    "parent_asin": "B005J3B08E",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Health & Personal Care",
+      "Essential Oils"
+    ],
+    "confidence": 0.95
+  }
+}

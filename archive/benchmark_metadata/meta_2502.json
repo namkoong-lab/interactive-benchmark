@@ -1,0 +1,47 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "What is Darwinism?",
+    "average_rating": 4.1,
+    "rating_number": 23,
+    "features": [
+        "This book was converted from its physical edition to the digital format by a community of volunteers. You may find it for free on the web. Purchase of the Kindle edition includes wireless delivery."
+    ],
+    "description": [
+        "About the Author",
+        "1797-1878",
+        "--This text refers to an alternate",
+        "kindle_edition",
+        "edition."
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Ee9D9dKHL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Charles Hodge (Author)   Format: Kindle Edition",
+    "categories": [
+        "Kindle Store",
+        "Kindle eBooks",
+        "Science & Math"
+    ],
+    "details": "{\"Publication date\": \"May 12, 2012\", \"Language\": \"English\", \"File size\": \"194 KB\", \"Simultaneous device usage\": \"Unlimited\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"119 pages\", \"Page numbers source ISBN\": \"1546683399\"}",
+    "parent_asin": "B0082YUQ1Y",
+    "bought_together": null,
+    "subtitle": "Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Charles Hodge', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

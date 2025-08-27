@@ -1,0 +1,54 @@
+{
+    "main_category": "Amazon Home",
+    "title": "rareEarth Passion Travel Tin Candle",
+    "average_rating": 3.0,
+    "rating_number": 1,
+    "features": [
+        "100% pure GMO-free soy wax",
+        "100% essential oil aromas",
+        "Beautiful design"
+    ],
+    "description": [
+        "RareEARTH's Spa Candles are each created with creamy, smooth, 100% pure GMO-free soy wax, 100% essential oil aromas, and all cotton wicks. Each Spa Candle features a luxurious frosted glass that is 100% recyclable, and it's beautiful packaging is Forest Stewardship Council Certified. Frankincense, myrrh, and Palo Santo in an ancient and perfect harmony."
+    ],
+    "price": "6.25",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71zgrFBRQfL._AC_SL1410_.jpg",
+            "https://m.media-amazon.com/images/I/71Dre+aYEYL._AC_SL1411_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51spCXc4vZL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51GDAHO5SeL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31+-NpMKZ1L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51spCXc4vZL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51GDAHO5SeL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31+-NpMKZ1L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT12"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "rareEarth",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Candles & Holders",
+        "Candles"
+    ],
+    "details": "{\"Brand\": \"rareEarth\", \"Number of Items\": \"1\", \"Scent\": \"Scented\", \"Operating Time\": \"4 Hours\", \"Are Batteries Included\": \"No\", \"Shape\": \"Round\", \"Material\": \"Metal\", \"Occasion\": \"Travel\", \"Seasons\": \"All Season\", \"Special Feature\": \"Frosted\", \"Style\": \"Classic\", \"Package Information\": \"Can\", \"Unit Count\": \"1 Count\", \"Product Dimensions\": \"1.88 x 3 x 3 inches\", \"Item Weight\": \"5 ounces\", \"Manufacturer\": \"rareEARTH\", \"Item model number\": \"31110\", \"Best Sellers Rank\": {\"Home & Kitchen\": 1854327, \"Candles\": 21070}, \"Assembly required\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B015A411TO",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

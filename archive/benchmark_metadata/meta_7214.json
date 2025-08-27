@@ -1,0 +1,45 @@
+{
+    "main_category": "Books",
+    "title": "Urban Hikes in and Around Baltimore",
+    "average_rating": 4.5,
+    "rating_number": 2,
+    "features": [
+        "The arrival of the author's daughter forced him to stop running long distances over the streets of Baltimore and walk them instead. Backpacking with his daughter, the author began exploring the diverse neighborhoods of the city and discovering their rich character.",
+        "Each urban trek covers the culture, architecture, geography, and history of the area. Here, too, are all the necessary aids for the ease of the hiker: a map keyed to the text, overview of directions, attractions, and places to eat."
+    ],
+    "description": [
+        "About the Author",
+        "MIKE STRZELECKI is a technical writer, a travel writer, and a self-proclaimed urbanologist. He is also the author of \"Baltimore with Children.\""
+    ],
+    "price": "11.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41YBP447Q9L._SX277_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mike Strzelecki (Author)",
+    "categories": [
+        "Books",
+        "Travel",
+        "United States"
+    ],
+    "details": "{\"Publisher\": \"Camino Books (May 8, 2006)\", \"Language\": \"English\", \"Paperback\": \"272 pages\", \"ISBN 10\": \"0940159848\", \"ISBN 13\": \"978-0940159846\", \"Item Weight\": \"7.5 ounces\", \"Dimensions\": \"4.75 x 0.5 x 6.75 inches\"}",
+    "parent_asin": "0940159848",
+    "bought_together": null,
+    "subtitle": "Paperback – May 8, 2006",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Mike Strzelecki', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

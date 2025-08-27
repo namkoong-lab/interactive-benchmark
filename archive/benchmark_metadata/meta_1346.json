@@ -1,0 +1,45 @@
+{
+    "main_category": "Health & Personal Care",
+    "title": "Bath and Body Works Hot Buttered Rum WallFlower Single Bulb",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Hot Butter Rum",
+        "Wallflower Refill Bulb"
+    ],
+    "description": [
+        "1 - Hot Buttered Rum Refill Bulb"
+    ],
+    "price": "13.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/218LVDCxDRL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/218LVDCxDRL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Bath & Body Works",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Fragrance",
+        "Home Fragrance Accessories"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"Yes\", \"Product Dimensions\": \"2 x 2 x 1 inches; 4 Ounces\", \"Date First Available\": \"February 20, 2012\", \"Manufacturer\": \"Bath and Body Works\"}",
+    "parent_asin": "B007B6U6IC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

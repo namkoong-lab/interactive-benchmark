@@ -1,0 +1,43 @@
+{
+    "main_category": "Digital Music",
+    "title": "Stranger on the Shore",
+    "average_rating": 4.6,
+    "rating_number": 434,
+    "features": [],
+    "description": [
+        "Tracks include: 'Stranger on the Shore,' 'Windmills of Your Mind,' 'Amazing Grace,' 'For the Good Times,' 'Love Letters,' 'When I Need You,' 'Autumn Leaves,' 'First of Spring' and more."
+    ],
+    "price": "9.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61bHxJHv2lS._SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/512JoQFrbtS.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/512JoQFrbtS._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Acker Bilk   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "International Music",
+        "Europe",
+        "British Isles",
+        "Britain"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Language\": \"English\", \"Product Dimensions\": \"5.67 x 5.04 x 0.39 inches; 3.32 Ounces\", \"Manufacturer\": \"Castle Pulse\", \"Original Release Date\": \"2000\", \"Date First Available\": \"February 19, 2007\", \"Label\": \"Castle Pulse\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00000854S",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

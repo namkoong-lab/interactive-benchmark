@@ -1,0 +1,60 @@
+{
+  "item_id": 5296,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Bioworld Harry Potter Hedwig's Face Winter Gloves",
+    "average_rating": 4.7,
+    "rating_number": 22,
+    "features": [
+      "86% Acrylic,13% Polyester, 1% Spandex",
+      "Pull On closure",
+      "Machine Wash",
+      "Officially licensed Harry Potter merchandise",
+      "86% Acrylic,13% Polyester, 1% Spandex"
+    ],
+    "description": [
+      "These Harry Potter officially licensed gloves features everyone's favorite owl, Hedwig. One size. 86% Acrylic,13% Polyester, 1% Spandex."
+    ],
+    "price": "13.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61fSO2MU0nL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31kThlqe++L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31kThlqe++L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Bioworld",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Accessories",
+      "Gloves & Mittens",
+      "Cold Weather Gloves"
+    ],
+    "details": "{\"Product Dimensions\": \"1.5 x 8.25 x 8.25 inches; 1.59 Ounces\", \"Department\": \"womens\", \"Date First Available\": \"November 23, 2019\"}",
+    "parent_asin": "B081X6DT1C",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Work Gloves",
+      "Women's Winter Gloves"
+    ],
+    "confidence": 0.95
+  }
+}

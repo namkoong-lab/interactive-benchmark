@@ -1,0 +1,52 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Socksmith Womens Bear",
+    "average_rating": 5.0,
+    "rating_number": 10,
+    "features": [
+        "Cotton",
+        "Pull On closure",
+        "Machine Wash",
+        "Sizing: Sock size 9-11 will fit a women's shoe size 6-10",
+        "Fiber Content: 60% Wicking Cotton, 20% Polyester, 18% Nylon, 2% Spandex",
+        "1 pair included per order"
+    ],
+    "description": [
+        "Can't find good looking, comfortable socks? Bearly! Sold as a one-pair pack. Crew-cut style sits at the calf. Self-adjusting welt cuff. Ribbed cuff. Elastic arch support. Deep heel pocket. Y-stitch heel. Reinforced toe and heel. 60% wicking cotton, 20% polyester, 18% nylon, 2% spandex. Machine wash cold, tumble dry low. Imported."
+    ],
+    "price": "14.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91GmTbC7ikL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/416SJOrlZbL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/416SJOrlZbL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Socksmith",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Women",
+        "Socks & Hosiery",
+        "Socks"
+    ],
+    "details": "{\"Package Dimensions\": \"9.75 x 4 x 1 inches; 2.24 Ounces\", \"Department\": \"Womens\", \"Date First Available\": \"July 25, 2017\", \"Manufacturer\": \"Socksmith\"}",
+    "parent_asin": "B0749BSLXW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

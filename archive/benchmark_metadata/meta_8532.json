@@ -1,0 +1,49 @@
+{
+    "main_category": "Books",
+    "title": "Using SAP R/3 F1: Beyond Business Process Reengineering",
+    "average_rating": 3.7,
+    "rating_number": 8,
+    "features": [
+        "This book is for the professional financial manager, accountant, or bookkeeper who needs to learn the basics of SAP R/3 FI quickly, without wading through a morass of technical jargon. Featuring a clear, functional outline, copious sample screens, and simple step-by-step instructions, Using SAP R/3 FI presents the most widely used FI functions in plain, argot-free English, following menu lines from the actual program.  The book also provides details about using FI for international business, such as translating the chart of accounts, keeping accounts in foreign currency, entering transactions in foreign currency, and revaluing accounts and open items in different currencies. You'll also learn the highlights of integrating R/3 FI with SD (order entry, shipping, and invoicing) and MM (purchasing, receiving, and inventory control). This remarkably detailed manual shows you how to use R/3 FI for all your basic accounting functions, including * General ledger * Accounts receivable * Accounts payable * System administration * And much, much more."
+    ],
+    "description": [
+        "From the Publisher",
+        "This user-friendly approach to SAP accounting packaging provides a step-by-step guide to setting up this complicated program. It is written from a practical, rather than technical, point of view, ideal for SAP's business users. Written in plain English, it includes menu sequences and sample screens.",
+        "From the Back Cover",
+        "This book is for the professional financial manager, accountant, or bookkeeper who needs to learn the basics of SAP R/3 FI quickly, without wading through a morass of technical jargon. Featuring a clear, functional outline, copious sample screens, and simple step-by-step instructions, Using SAP R/3 FI presents the most widely used FI functions in plain, argot-free English, following menu lines from the actual program.  The book also provides details about using FI for international business, such as translating the chart of accounts, keeping accounts in foreign currency, entering transactions in foreign currency, and revaluing accounts and open items in different currencies. You'll also learn the highlights of integrating R/3 FI with SD (order entry, shipping, and invoicing) and MM (purchasing, receiving, and inventory control). This remarkably detailed manual shows you how to use R/3 FI for all your basic accounting functions, including * General ledger * Accounts receivable * Accounts payable * System administration * And much, much more.",
+        "About the Author",
+        "BEN W. ROCKEFELLER is President of International Software & Services, Inc., Brussels, Belgium. He specializes in SAP software, analyzing current accounting systems and clients' business requirements; configuring SAP R/3 financial accounting software and training clients to use the software; and writing end-user documentation. Prior to joining Software & Services, Rockefeller was a technical writer with SAP AG, Walldorf, Germany. While there, he organized, wrote, and formatted end-user documentation on SAP R/3 FI general ledger, accounts payable, and accounts receivable modules; supervised translations; trained translators in basic accounting and financial software; and promoted machine translations software.",
+        "Read more"
+    ],
+    "price": "9.12",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Z9HSY09GL._SX369_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ben W. Rockefeller (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Programming"
+    ],
+    "details": "{\"Publisher\": \"Wiley; 1st edition (February 17, 1998)\", \"Language\": \"English\", \"Hardcover\": \"512 pages\", \"ISBN 10\": \"0471179965\", \"ISBN 13\": \"978-0471179962\", \"Item Weight\": \"2.37 pounds\", \"Dimensions\": \"7.68 x 1.36 x 9.53 inches\"}",
+    "parent_asin": "0471179965",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Ben W. Rockefeller', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

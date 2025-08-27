@@ -1,0 +1,71 @@
+{
+  "item_id": 3659,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Oreck Brushroll, Model Fc1000",
+    "average_rating": 3.0,
+    "rating_number": 3,
+    "features": [
+      "This is an O.E.M. authorized part",
+      "Fits various Oreck models",
+      "OEM Part Number 82393-01",
+      "This is a Bissell replacement part",
+      "Part Number 82393-01",
+      "This is an O.E.M. part"
+    ],
+    "description": [
+      "This is an O.E.M. authorized part. Fits various Oreck models. OEM Part Number 82393-01. Made in United States."
+    ],
+    "price": "11.81",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71-tuOR-YUL._AC_SL1500_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31Iw9rABqXL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31sAyXWE4+L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31Iw9rABqXL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/31sAyXWE4+L._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT12"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Dyson Dc41 Brushroll Is Great!"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0f2c90808a5c4050af16022c5d2124e5?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        "/shop/geektasticdad"
+      ]
+    },
+    "store": "Oreck",
+    "categories": [
+      "Home & Kitchen",
+      "Vacuums & Floor Care",
+      "Vacuum Parts & Accessories",
+      "Attachments & Brushes",
+      "Brushes"
+    ],
+    "details": "{\"Product Dimensions\": \"1 x 1 x 1 inches\", \"Item Weight\": \"4 ounces\", \"Manufacturer\": \"Oreck\", \"Country of Origin\": \"USA\", \"Item model number\": \"82393-01\", \"Best Sellers Rank\": {\"Home & Kitchen\": 4489997, \"Vacuum Brushes\": 2585}, \"Assembly required\": \"No\", \"Batteries required\": \"No\", \"Brand\": \"Oreck\", \"Item Form\": \"ELLIPTICAL\", \"Unit Count\": \"1.0 Count\"}",
+    "parent_asin": "B00Y35SKUK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Appliance Accessories",
+      "Vacuum Cleaner Parts"
+    ],
+    "confidence": 0.95
+  }
+}

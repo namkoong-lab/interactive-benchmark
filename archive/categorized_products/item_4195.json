@@ -1,0 +1,64 @@
+{
+  "item_id": 4195,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "HD Active Frame Sports Wrap Sunglasses (Shiny Black)",
+    "average_rating": 4.3,
+    "rating_number": 121,
+    "features": [
+      "100% Protection Against Harmful UVA/UVB Rays",
+      "Durable Polycarbonate Frame",
+      "Lightweight For Superior Comfort",
+      "High Definition Lenses",
+      "30 DAY MONEY BACK GUARANTEE AND 90 DAY LIMITED WARRANTY AGAINST MANUFACTURER DEFECTS: Our main goal is make our customers happy and provide the best shopping experience; If you are not completely satisfied with our product or your purchase please contact us, we'll be happy to help"
+    ],
+    "description": [
+      "Modified rectangular sports wrap with HD lenses that enhances color, clarity, and reduces glare. Give yourself a high-definition view of the world while protecting your eyes from the sun with HD sunglasses. Made with polycarbonate based frame, pin hinges, and HD polycarbonate UV protected lenses. Lens Height:40mm Lens Width:65mm Bridge:18mm Frame Total:155mm"
+    ],
+    "price": "9.91",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51mH+AwJ7CL._AC_UL1200_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31P+wvdzU4L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41uy8BWrigL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31P+wvdzU4L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41uy8BWrigL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT04"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "X LOOP",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Accessories",
+      "Sunglasses & Eyewear Accessories",
+      "Sunglasses"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"6 x 1 x 2 inches; 0.35 Ounces\", \"Item model number\": \"XL-8291e\", \"Department\": \"Mens\", \"Date First Available\": \"July 31, 2011\", \"Manufacturer\": \"frame&optic\"}",
+    "parent_asin": "B005P1G9IQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Eyewear",
+      "Sunglasses"
+    ],
+    "confidence": 0.95
+  }
+}

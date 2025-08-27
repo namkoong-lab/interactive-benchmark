@@ -1,0 +1,61 @@
+{
+    "main_category": "Grocery",
+    "title": "Danisa Butter Cookies 16 Oz Festive Tin",
+    "average_rating": 4.0,
+    "rating_number": 328,
+    "features": [
+        "Great for Thanksgiving, Christmas, Hanukkah, new Years & More"
+    ],
+    "description": [
+        "High end quality cookies. Great for sharing! No preservatives of coloring added."
+    ],
+    "price": "10.19",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91QvLtiYaBL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91v1eYNUqhL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/612dEJ9uuSL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61VlVObhFSL.jpg",
+            "https://m.media-amazon.com/images/I/518tSblFsyL.jpg",
+            "https://m.media-amazon.com/images/I/31kqCeqjFuL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61VlVObhFSL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/518tSblFsyL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31kqCeqjFuL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FACT",
+            "INGR"
+        ]
+    },
+    "videos": {
+        "title": [
+            "12 Ounce Dansk Danish Cookie Tin Lifelong Review ",
+            "Showing the Cookies"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/00a2c2b7ab6c4cad8ece1105de754a8d?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/095f52d40c38458f83220e3c0de8e5b3?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "/shop/dcsoundop",
+            "/shop/katiepatton"
+        ]
+    },
+    "store": "Danisa",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Breads & Bakery",
+        "Cookies",
+        "Sugar"
+    ],
+    "details": "{\"Flavor\": \"Butter\", \"Number of Items\": \"16\", \"Unit Count\": \"16.0 Ounce\", \"Brand\": \"Danisa\", \"Weight\": \"1 Pounds\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.6 x 7.6 x 3.5 inches; 1 Pounds\", \"UPC\": \"608866247296\", \"Manufacturer\": \"Danisa\"}",
+    "parent_asin": "B09TBKTV96",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

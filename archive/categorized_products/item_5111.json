@@ -1,0 +1,74 @@
+{
+  "item_id": 5111,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Gordini Womens Argyle Mitt",
+    "average_rating": 4.9,
+    "rating_number": 33,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Elastic closure",
+      "Hand Wash",
+      "Signature argyle-textured Polartec Thermal Pro fleece shell",
+      "Durable, soft ultra-microfiber suede palm and finger area",
+      "Megaloft synthetic insulation",
+      "Moisture-wicking lining"
+    ],
+    "description": [
+      "Gordini's Argyle Mitts are insulated mittens for women Classic good looks meet high-performance materials in the lusciously cozy Argyle Mitt"
+    ],
+    "price": "37.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61QtGD7AgOL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61vneqFTnfL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61lyp0kp5dL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51CPWwobHxL._AC_UL1036_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/314HPXoN4zL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/314vpCl9u-L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31eiawNYPkL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41anG-soAJL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/314HPXoN4zL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/314vpCl9u-L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31eiawNYPkL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41anG-soAJL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Gordini",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Accessories",
+      "Gloves & Mittens",
+      "Mittens"
+    ],
+    "details": "{\"Brand\": \"Gordini\", \"Material\": \"Suede,Synthetic,Fleece\", \"Size\": \"Large\", \"Age Range (Description)\": \"Adult\", \"Color\": \"Oatmeal\", \"Special Feature\": \"Thermal\", \"Hand Orientation\": \"Ambidextrous\", \"Item Package Quantity\": \"1\", \"Product Care Instructions\": \"Hand Wash\", \"Item Weight\": \"0.25 Pounds\", \"Item model number\": \"3M4145-OATMEA-M\", \"Department\": \"womens\", \"Date First Available\": \"November 4, 2016\", \"Manufacturer\": \"Gordini\"}",
+    "parent_asin": "B086DFKHWN",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Work Gloves"
+    ],
+    "confidence": 0.95
+  }
+}

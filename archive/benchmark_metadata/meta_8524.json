@@ -1,0 +1,50 @@
+{
+    "main_category": "Books",
+    "title": "Sabor!: A Passion for Cuban Cuisine",
+    "average_rating": 4.7,
+    "rating_number": 99,
+    "features": [
+        "¡Sabor!",
+        "offers a mouthwatering look at the food and flavors that make Cuba's culinary heritage famous. The author's unique wit and feisty voice weave the lively and spirited traditions of her family with classic recipes from the island of Cuba. Recipes are easy to read and follow, and are illustrated throughout with full-color photos.",
+        "¡Sabor!",
+        "provides an intimate look at a culture that embraces food with the same enthusiasm it has for life—spicy, hot, and delectable, beginning with the “holy trinity” of Cuban cuisine (garlic, bell pepper, and Spanish onion) and moving on to a variety of delicious and authentic recipes."
+    ],
+    "description": [
+        "About the Author",
+        "Ana Quincoces Rodriguez",
+        "grew up in a Cuban household in sunny Miami, Florida, where she was routinely conscripted to help her mother in the kitchen, which led to her passion for the art of cooking. Rodriguez has appeared in several magazines and newspapers as a result of the success of her first, self-published, book,",
+        "Cuban Chicks Can Cook",
+        ". She lives in Miami, Florida with her husband and two teenage daughters."
+    ],
+    "price": "69.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51-pwgvGYEL._SX423_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ana Quincoces Rodriguez (Author)",
+    "categories": [
+        "Books",
+        "Cookbooks, Food & Wine",
+        "Regional & International"
+    ],
+    "details": "{\"Publisher\": \"Running Press (October 21, 2008)\", \"Language\": \"English\", \"Hardcover\": \"240 pages\", \"ISBN 10\": \"0762433477\", \"ISBN 13\": \"978-0762433476\", \"Item Weight\": \"2.45 pounds\", \"Dimensions\": \"9 x 1 x 10.5 inches\"}",
+    "parent_asin": "0762433477",
+    "bought_together": null,
+    "subtitle": "Hardcover – October 21, 2008",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Ana Quincoces Rodriguez', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

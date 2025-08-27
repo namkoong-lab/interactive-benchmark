@@ -1,0 +1,50 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Obermeyer Boys Solar 150 WT US Top",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "93% Polyester, 7% Elastane 150Wt Heathered Ultrastretch Fleece",
+        "Imported",
+        "Machine Wash",
+        "Mock neck; Flat seaming for maximum comfort",
+        "1/2 Zip; Shaped seams for fit",
+        "Interior wind guard"
+    ],
+    "description": [
+        "Solar 150 wt us top Mock neck; Flat seaming for maximum comfort. 1/2 Zip; Shaped seams for fit. Interior wind guard."
+    ],
+    "price": "59.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91C9+OsUICL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51l1s4MoP1L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51l1s4MoP1L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Obermeyer",
+    "categories": [
+        "Sports & Outdoors",
+        "Clothing",
+        "Boys",
+        "Outerwear",
+        "Jackets"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Department\": \"Boys\", \"Date First Available\": \"November 1, 2018\", \"Manufacturer\": \"Sport Obermeyer\"}",
+    "parent_asin": "B00ZCHLEIS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

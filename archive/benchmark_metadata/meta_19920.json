@@ -1,0 +1,68 @@
+{
+    "main_category": "Baby",
+    "title": "3PK (PINK, BUTTERFLIES, TURQUOISE)",
+    "average_rating": 4.4,
+    "rating_number": 102,
+    "features": [
+        "90% Cotton, 10% Rayon",
+        "Made in the USA"
+    ],
+    "description": [
+        "3PK (PINK, BUTTERFLIES, TURQUOISE)"
+    ],
+    "price": "17.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61C9050CVEL._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61C9050CVEL._SL1000_.jpg",
+            null,
+            null,
+            null,
+            null,
+            "https://m.media-amazon.com/images/I/61UjixtdByL._SL1000_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51A4SLrgzLL.jpg",
+            "https://m.media-amazon.com/images/I/51A4SLrgzLL.jpg",
+            "https://m.media-amazon.com/images/I/61RhH73fL-L.jpg",
+            "https://m.media-amazon.com/images/I/51xuoEMGFJL.jpg",
+            "https://m.media-amazon.com/images/I/41yTVf7Nb1L.jpg",
+            "https://m.media-amazon.com/images/I/51LvQef+2vL.jpg",
+            "https://m.media-amazon.com/images/I/41ZD0cPB-JL.jpg",
+            "https://m.media-amazon.com/images/I/41n4AHkb8BL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51A4SLrgzLL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51A4SLrgzLL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/61RhH73fL-L._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51xuoEMGFJL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41yTVf7Nb1L._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51LvQef+2vL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41ZD0cPB-JL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41n4AHkb8BL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT07",
+            "PT08"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Dapper Snappers",
+    "categories": [],
+    "details": "{\"Product Dimensions\": \"6.5 x 3 x 1.25 inches\", \"Item model number\": \"PNKBTRFLYTRQ\", \"Is Discontinued By Manufacturer\": \"No\", \"Target gender\": \"Unisex\", \"Care instructions\": \"Wet Wipe Clean\", \"Additional product features\": \"Lastic with snaps\", \"Batteries required\": \"No\", \"Display type\": \"No Video Display\", \"Item Weight\": \"1.92 ounces\", \"Country/Region of origin\": \"USA\"}",
+    "parent_asin": "B00IN9758A",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

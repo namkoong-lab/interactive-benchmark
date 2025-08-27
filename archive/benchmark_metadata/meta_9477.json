@@ -1,0 +1,45 @@
+{
+    "main_category": "Books",
+    "title": "Angelina's Ballet Class (Angelina Ballerina)",
+    "average_rating": 4.3,
+    "rating_number": 24,
+    "features": [
+        "Accompanied by an adorable flip book that allows Angelina to dance gracefully through the pages, a charming book invites little girls to join Angelina as she does her stretches, positions, and steps in ballet class."
+    ],
+    "description": [
+        "From Publishers Weekly",
+        "In Angelina's Ballet Class by Katharine Holabird, illus. by Catherine Kanner based on illustrations by Helen Craig, the exuberant mouse pairs up with her pal, Alice, to demonstrate first through fifth positions and such steps as a pirouette and a grand jet. Even cousin Henry shows up to play a bee when Angelina and Alice do a Sunflower Ballet. Readers can punch out a flip book of the heroine's moves at the back of the book.",
+        "Copyright 2001 Cahners Business Information, Inc."
+    ],
+    "price": "42.98",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51A7VM4D17L._SY430_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Katharine Holabird (Author),  Helen Craig (Author),  Catherine Kanner (Illustrator)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Literature & Fiction"
+    ],
+    "details": "{\"Publisher\": \"Amer Girl Pub (January 1, 2001)\", \"Language\": \"English\", \"Paperback\": \"24 pages\", \"ISBN 10\": \"1584853638\", \"ISBN 13\": \"978-1584853633\", \"Reading age\": \"5 - 6 years\", \"Item Weight\": \"4.8 ounces\", \"Dimensions\": \"8.75 x 0.25 x 8 inches\"}",
+    "parent_asin": "1584853638",
+    "bought_together": null,
+    "subtitle": "Paperback – January 1, 2001",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/3153ALwhxkL._SY600_.jpg', 'name': 'Katharine Holabird', 'about': [\"Katharine Holabird's first Angelina Ballerina book was published in 1983. She lives in London.\"]}"
+}

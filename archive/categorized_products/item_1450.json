@@ -1,0 +1,66 @@
+{
+  "item_id": 1450,
+  "metadata": {
+    "main_category": "Pet Supplies",
+    "title": "Kelong 5 PCS Dog Plush Toy and Toy Storage Bag, Potato Chip Burrow Snuffle Plush Toys, Hide and Seek Dog Toy for Small and Medium Dogs",
+    "average_rating": 3.9,
+    "rating_number": 13,
+    "features": [],
+    "description": [
+      "The"
+    ],
+    "price": "15.99",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_US40_.gif"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [
+        "CHEWFFON Dog Puzzle Digging Toys Potato Chips ",
+        "Dog Squeaky Plush Toys.",
+        "CHEWFFON Dog Chew Toys, Dog Puzzle Toys (Potato Chips)",
+        "Potato chips dog toy"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0f1816eb79844af7afac544bb18093b9?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/094b7997072e4afda791edbe01f8257e?ref=dp_vse_rvc_1",
+        "https://www.amazon.com/vdp/043eed4e922f4d79993038fd9a2ede3f?ref=dp_vse_rvc_2",
+        "https://www.amazon.com/vdp/04b8321cc2be4a6d84004adab8a5ec47?ref=dp_vse_rvc_3"
+      ],
+      "user_id": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "store": "Kelong",
+    "categories": [
+      "Pet Supplies",
+      "Dogs",
+      "Toys"
+    ],
+    "details": "{\"Package Dimensions\": \"13 x 9 x 1 inches; 3.99 Ounces\", \"Date First Available\": \"March 17, 2021\", \"Manufacturer\": \"Kelong\"}",
+    "parent_asin": "B08Z7CZV8G",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Pet Supplies",
+      "Dog Toys"
+    ],
+    "confidence": 0.95
+  }
+}

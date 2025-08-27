@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Guide to Network Defense and Countermeasures",
+    "average_rating": 4.4,
+    "rating_number": 162,
+    "features": [
+        "GUIDE TO NETWORK DEFENSE AND COUNTERMEASURES provides a thorough guide to perimeter defense fundamentals, including intrusion detection and firewalls. This trusted text also covers more advanced topics such as security policies, network address translation (NAT), packet filtering and analysis, proxy servers, virtual private networks (VPN), and network traffic signatures. Thoroughly updated, the new third edition reflects the latest technology, trends, and techniques including virtualization, VMware, IPv6, and ICMPv6 structure, making it easier for current and aspiring professionals to stay on the cutting edge and one step ahead of potential security threats. A clear writing style and numerous screenshots and illustrations make even complex technical material easier to understand, while tips, activities, and projects throughout the text allow you to hone your skills by applying what you learn. Perfect for students and professionals alike in this high-demand, fast-growing field, GUIDE TO NETWORK DEFENSE AND COUNTERMEASURES, Third Edition, is a must-have resource for success as a network security professional."
+    ],
+    "description": [
+        "About the Author",
+        "Randy Weaver is an academic program director for Everest College, where he administers IT programs and teaches IT courses covering operating systems, networking, computer forensics, and various security topics. Weaver currently teaches and oversees programs for the Phoenix and Mesa campuses, as well as Everest's online education offerings. He has passed more than 40 industry certification exams, including CISSP and Security+, and holds a master's degree in information technology.Dean Farwood is director of the Information Technology Program at Heald College, San Francisco, where he has taught networking, system engineering, and information security since 2001. He is a Microsoft� Certified Trainer and has a master's degree in computing technology in education."
+    ],
+    "price": "15.03",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51DEHO50tlL._SX397_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Randy Weaver (Author),  Dawn Weaver (Author),  Dean Farwood (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Networking & Cloud Computing"
+    ],
+    "details": "{\"Publisher\": \"Cengage Learning; 3rd edition (January 1, 2013)\", \"Language\": \"English\", \"Paperback\": \"576 pages\", \"ISBN 10\": \"1133727948\", \"ISBN 13\": \"978-1133727941\", \"Item Weight\": \"2.3 pounds\", \"Dimensions\": \"7.25 x 1.25 x 8.75 inches\"}",
+    "parent_asin": "1133727948",
+    "bought_together": null,
+    "subtitle": "3rd Edition",
+    "author": null
+}

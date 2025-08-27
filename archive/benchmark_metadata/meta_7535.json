@@ -1,0 +1,47 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "John Brown An Address at the 14th Anniversary of Storer College",
+    "average_rating": 4.3,
+    "rating_number": 17,
+    "features": [
+        "This book was converted from its physical edition to the digital format by a community of volunteers. You may find it for free on the web. Purchase of the Kindle edition includes wireless delivery."
+    ],
+    "description": [
+        "About the Author",
+        "Frederick Douglass escaped from slavery to become a leading abolitionist, statesman, orator, and author.",
+        "--This text refers to an alternate",
+        "kindle_edition",
+        "edition."
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51RUIxQUycL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Frederick Douglass (Author)   Format: Kindle Edition",
+    "categories": [
+        "Books",
+        "Stationery, Journals & Notebooks",
+        "Address Books"
+    ],
+    "details": "{\"Publication date\": \"March 24, 2011\", \"Language\": \"English\", \"File size\": \"166 KB\", \"Simultaneous device usage\": \"Unlimited\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"37 pages\"}",
+    "parent_asin": "B004TPB5SI",
+    "bought_together": null,
+    "subtitle": "Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Frederick Douglass', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

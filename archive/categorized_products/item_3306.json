@@ -1,0 +1,68 @@
+{
+  "item_id": 3306,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "inktastic Someone in North Carolina Loves Me Long Sleeve Creeper",
+    "average_rating": 4.5,
+    "rating_number": 2,
+    "features": [
+      "100% Cotton",
+      "Made in the USA and Imported",
+      "Snap closure",
+      "Machine Wash",
+      "Someone in North Carolina Loves Me Long Sleeve Creeper.",
+      "5.0 oz., 100% combed ringspun cotton, 1x1 baby rib",
+      "Flatlock seams",
+      "Double-needle stitched rib binding on neck, shoulders, sleeves and leg openings",
+      "Reinforced three-snap closure on binding"
+    ],
+    "description": [
+      "Someone in North Carolina Loves Me Long Sleeve Creeper."
+    ],
+    "price": "21.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61LEXTbatTL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/615VQh-sIdL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61PMBEplZ5L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41Y9FDyAxDL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/317B6cQvwML._AC_.jpg",
+        "https://m.media-amazon.com/images/I/416S62+HwhL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41Y9FDyAxDL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/317B6cQvwML._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/416S62+HwhL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "inktastic",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Westlake"
+    ],
+    "details": "{\"Item model number\": \"14-211604-178\", \"Department\": \"Unisex Baby\", \"Date First Available\": \"January 11, 2019\"}",
+    "parent_asin": "B07M7TBCKB",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Girls' Clothing"
+    ],
+    "confidence": 0.95
+  }
+}

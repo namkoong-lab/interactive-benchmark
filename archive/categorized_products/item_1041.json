@@ -1,0 +1,58 @@
+{
+  "item_id": 1041,
+  "metadata": {
+    "main_category": "Health & Personal Care",
+    "title": "Metagenics NuSera Chocolate - 30 Chewable Tablets",
+    "average_rating": 4.0,
+    "rating_number": 34,
+    "features": [
+      "Dietary supplement",
+      "Chocolate"
+    ],
+    "description": [
+      "NuSera is formulated in a great-tasting, chocolate chewable to help promote a feeling of calmness and relaxation during times of stress. This science-based formula features a clinically effective dosage of LactiumPure - a patented, bioactive decapeptide - which research suggests promotes a healthy response to stress. In clinical studies, this unique ingredient was shown to boost the body's ability to manage stress, which is important for maintaining a healthy lifestyle."
+    ],
+    "price": "65.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71VVc3xyebL._AC_SL1500_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41oZm0xxW4L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/61GrEZRVeuL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41oZm0xxW4L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/61GrEZRVeuL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Metagenics",
+    "categories": [
+      "Health & Household",
+      "Vitamins, Minerals & Supplements",
+      "Blended Vitamin & Mineral Supplements"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.9 x 3.2 x 2.9 inches; 6.4 Ounces\", \"Date First Available\": \"June 5, 2010\", \"Manufacturer\": \"Metagenics\"}",
+    "parent_asin": "B004GIJWEW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Health & Personal Care",
+      "Dietary Supplements"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,44 @@
+{
+    "main_category": "Prime Video",
+    "title": "Molly of Denali",
+    "average_rating": 4.8,
+    "rating_number": 86,
+    "features": [
+        "IMDb 8.9",
+        "2019",
+        "4 episodes",
+        "TV-Y"
+    ],
+    "description": [
+        "Join 10-year-old Alaskan native Molly Mabray for fun-filled Alaskan Adventures! Join Molly as she retells the story of the summer Trini moved to Qyah, as Molly flies north to surprise Nina with a box of goodies for her birthday, and more!"
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Kids"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Uwe Rafael Braun\"], \"Producers\": [\"Dorothea Gillim\", \"Trevor Bentley\", \"Elizabeth Thorsen\", \"Heather Renney\"], \"Starring\": [\"Sovereign Bill\", \"Zane Jasper\", \"Vienna Leacock\"]}",
+    "parent_asin": "B07VBGQPQQ",
+    "bought_together": null,
+    "subtitle": "UnentitledUnentitled",
+    "author": null
+}

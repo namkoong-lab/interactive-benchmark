@@ -1,0 +1,49 @@
+{
+    "main_category": "Books",
+    "title": "Doodle Town",
+    "average_rating": 5.0,
+    "rating_number": 6,
+    "features": [
+        "In Doodle Town, everyone and everything is a drawing! Children can transform the world with just a pencil and an idea in this wonderfully whimsical activity book that lets them discover how much fun drawing and doodling can be. Budding artists will revel in the opportunity to bend reality with their doodles—create designs for a fantastical fleet of cards, for gravity-defying hairstyles, and release scribble clouds into the sky (who knows what kind of rain a scribble makes?!), and play mix-and-match with Doodle Town dog owners. Packed with more than 60 drawing activities, and including large flaps with removable stencil sheets,",
+        "Doodle Town",
+        "is an entertaining and empowering introduction to imaginative drawing."
+    ],
+    "description": [
+        "About the Author",
+        "Dominika Lipniewska",
+        "is a Polish-born illustrator and designer living in London and the author of",
+        "100 Coloring Book",
+        ". Since graduating from Central Saint Martins and Cambridge School of Art, her work has appeared on walls, album covers, products, and prints."
+    ],
+    "price": "12.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51fbAYN5POL._SX420_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Dominika Lipniewska (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Activities, Crafts & Games"
+    ],
+    "details": "{\"Publisher\": \"Tate Publishing; Act Csm edition (December 13, 2016)\", \"Language\": \"English\", \"Paperback\": \"64 pages\", \"ISBN 10\": \"1849764727\", \"ISBN 13\": \"978-1849764728\", \"Reading age\": \"3 - 7 years\", \"Grade level\": \"Preschool - 2\", \"Item Weight\": \"1.25 pounds\", \"Dimensions\": \"8.88 x 0.25 x 12.63 inches\"}",
+    "parent_asin": "1849764727",
+    "bought_together": null,
+    "subtitle": "Paperback – December 13, 2016",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/cedkod6mmanke553nn6v2jodfr._SY600_.jpg', 'name': 'Dominika Lipniewska', 'about': ['Dominika Lipniewska is an independent illustrator, author and designer who lives and works in London.', 'Her style, which is characterised by geometric shapes and bold lines, has landed her commissions with numerous international institutions and publishers. Her everyday practice ranges from editorial illustration and character design to the making of books, prints and educational tools.', 'Originally from Poland, Dominika studied graphic design at St Martins College of Art & Design and children’s book illustration at Cambridge School of Art, and has now been working independently since 2013.', 'Among many commercial and editorial clients, Dominika has published books with Tate Publishing, Gallimard and Munch Museum in Oslo.', 'www.dolidomino.com']}"
+}

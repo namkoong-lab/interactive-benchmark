@@ -1,0 +1,54 @@
+{
+  "item_id": 5345,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Dearfoams womens Peacoat",
+    "average_rating": 4.0,
+    "rating_number": 53,
+    "features": [
+      "Rubber sole"
+    ],
+    "description": [
+      "Slip your feet into comfort when you relaxing around the house with the Dearfoams Women's Micro Velour Embroidered Closed Back Slippers. Slippers, Slip on, Closed back design, Cushioned footbed, Embroidered etail on top, Microfiber velour upper, Rubber outsole."
+    ],
+    "price": "22.49",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71xks3LJ8TL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41ebNAhyxTL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41ebNAhyxTL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Dearfoams",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Slippers"
+    ],
+    "details": "{\"Item model number\": \"51701\", \"Department\": \"Womens\", \"Date First Available\": \"September 28, 2022\"}",
+    "parent_asin": "B0BGQMFZSW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

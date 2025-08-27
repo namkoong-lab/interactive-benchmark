@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "Lincoln on the Civil War: Selected Speeches",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [
+        "Commemorating the 150th anniversary of the beginning of the American Civil War.",
+        "This well-rounded selection of Abraham Lincoln's finest speeches combines the classic and obscure, the lyrical and historical, and the inspirational and intellectual to present a historical arc marking periods of the Civil War-crisis, outbreak, escalation, victory, and Reconstruction. Addressing the conflict's multiple aspects-the issue of slavery, state versus federal power, the meaning of the Constitution, civic duty, death, and freedom-this elegant keepsake collection will make a wonderful inspirational gift for professed Lincoln fans, Civil War buffs, and lovers of rhetorical genius."
+    ],
+    "description": [
+        "About the Author",
+        "Abraham Lincoln",
+        "(1809-1865) was the sixteenth president of the United States, first elected in 1860 and serving as commander-in-chief of the Union forces during the Civil War. Re-elected in 1864, Lincoln was assassinated in April 1865, five days after General Lee's surrender at Appomattox."
+    ],
+    "price": "111.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31NCBIc7pNL._SX290_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Abraham Lincoln (Author)",
+    "categories": [
+        "Books",
+        "History",
+        "Americas"
+    ],
+    "details": "{\"Publisher\": \"Penguin Books (April 5, 2011)\", \"Language\": \"English\", \"Hardcover\": \"128 pages\", \"ISBN 10\": \"0143119702\", \"ISBN 13\": \"978-0143119708\", \"Reading age\": \"18 years and up\", \"Item Weight\": \"8.1 ounces\", \"Dimensions\": \"4.25 x 0.75 x 7.25 inches\"}",
+    "parent_asin": "0143119702",
+    "bought_together": null,
+    "subtitle": "Hardcover – April 5, 2011",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Abraham Lincoln', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

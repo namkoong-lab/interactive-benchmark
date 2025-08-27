@@ -1,0 +1,75 @@
+{
+    "main_category": "Grocery",
+    "title": "Equal Exchange Organic Chai, 20 Count (Pack of 3)",
+    "average_rating": 4.3,
+    "rating_number": 68,
+    "features": [
+        "Pack of Three, 20 Count per pack (Total of 60 Count)",
+        "Organic"
+    ],
+    "description": [
+        "Most teas — even Fair Trade teas — come from large-scale plantations and tea estates where workers have little say, and are trapped in a system of dependency. Equal Exchange’s fairly traded, organic teas are different! We buy our delicious tea directly from democratically-organized groups of growers. When small-scale farmers gain access to the global market, they have more economic power, better lives, and healthier communities."
+    ],
+    "price": "18.61",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61V9yQd6fLL._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/91Wm01903uL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1k3v2Ld9IL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91KpeuuXOyL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91ulWD9hTGL._SL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/71mtsfhv0wL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51mQ8JLTbEL.jpg",
+            "https://m.media-amazon.com/images/I/51EEQ+5fkXL.jpg",
+            "https://m.media-amazon.com/images/I/51sQEi9EvIL.jpg",
+            "https://m.media-amazon.com/images/I/51HFq6saCML.jpg",
+            "https://m.media-amazon.com/images/I/51oBwQjXwQL.jpg",
+            "https://m.media-amazon.com/images/I/31CO9L5nKLL.jpg",
+            "https://m.media-amazon.com/images/I/41-CFuAAlpL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51mQ8JLTbEL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51EEQ+5fkXL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51sQEi9EvIL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51HFq6saCML._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51oBwQjXwQL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31CO9L5nKLL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41-CFuAAlpL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT12",
+            "INGR"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Tazo Tea Bags For a Warm Spiced Chai Black Tea"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/2f3b43a8c30a471697d923b8860e58d4?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Equal Exchange",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Beverages",
+        "Tea",
+        "Tea Samplers"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"9.57 x 5.59 x 2.76 inches; 8.8 Ounces\", \"Item model number\": \"13304\", \"UPC\": \"745998500094\", \"Manufacturer\": \"Equal Exchange\"}",
+    "parent_asin": "B004W55XR4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

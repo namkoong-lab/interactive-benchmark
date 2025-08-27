@@ -1,0 +1,57 @@
+{
+  "item_id": 572,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Wildlife",
+    "average_rating": 4.8,
+    "rating_number": 4,
+    "features": [],
+    "description": [
+      "After expanding to a 4-piece, Headlights creates a fuller and more dynamic sound on its third album. And with a new booking agent in tow (Flower Booking), good things are ahead for Poyvinyl's hardest working band."
+    ],
+    "price": "15.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81WO-MxVj+L._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/71Yf7ktuVaL._SL1050_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/61V93v-xPtL.jpg",
+        "https://m.media-amazon.com/images/I/61lrhpHwOPL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/61V93v-xPtL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/61lrhpHwOPL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Headlights   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Indie & Alternative",
+      "Indie & Lo-Fi",
+      "Indie Rock"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Language\": \"English\", \"Product Dimensions\": \"5.48 x 0.39 x 5.01 inches; 2.88 Ounces\", \"Manufacturer\": \"Polyvinyl\", \"Original Release Date\": \"2009\", \"Date First Available\": \"August 22, 2009\", \"Label\": \"Polyvinyl\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B002M9FYDA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Indie Rock Albums"
+    ],
+    "confidence": 0.95
+  }
+}

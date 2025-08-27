@@ -1,0 +1,61 @@
+{
+  "item_id": 1507,
+  "metadata": {
+    "main_category": "Pet Supplies",
+    "title": "Exo Terra Carbon Bag, PT3638",
+    "average_rating": 4.5,
+    "rating_number": 77,
+    "features": [
+      "Eliminates discolorations to keep water crystal clear",
+      "Effectively removes heavy metals, organic contaminants and pollutants",
+      "2 carbon bags",
+      "This item can be used for Model PT3630 Filter"
+    ],
+    "description": [
+      "2 Replacement Carbon Pads for use with Exo Terra Turtle Filter FX-200 (PT3630). The Exo Terra External Turtle Filter helps provide a clean and healthy environment for your turtle."
+    ],
+    "price": "3.21",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81yGxylCZpL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/7138j8oHorL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41ngFGcddTL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31XEjNRr0cL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41ngFGcddTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31XEjNRr0cL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Exo Terra",
+    "categories": [
+      "Pet Supplies",
+      "Dogs",
+      "Treats",
+      "Jerky"
+    ],
+    "details": "{\"Brand\": \"Exo Terra\", \"Material\": \"Carbon\", \"Special Feature\": \"Lightweight\", \"Color\": \"Clear\", \"Number of Items\": \"2\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"1.3 x 4.2 x 7 inches; 0.63 Ounces\", \"Item model number\": \"PT3638\", \"Date First Available\": \"October 2, 2012\", \"Manufacturer\": \"Rolf C. Hagen (USA) Corp.\", \"Country of Origin\": \"China\", \"Domestic Shipping\": \"Item can be shipped within U.S.\", \"International Shipping\": \"This item can be shipped to select countries outside of the U.S.  Learn More\"}",
+    "parent_asin": "B009KL9MV8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Pet Supplies",
+      "Reptile Habitat Accessories"
+    ],
+    "confidence": 0.95
+  }
+}

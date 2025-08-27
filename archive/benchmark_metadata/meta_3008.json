@@ -1,0 +1,61 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs",
+    "average_rating": 4.4,
+    "rating_number": 69,
+    "features": [
+        "These brand-new recreational logic puzzles provide entertaining variations on Gödel's incompleteness theorems, offering ingenious challenges related to infinity, truth and provability, undecidability, and other concepts. Created by the celebrated logician Raymond Smullyan, the puzzles require no background in formal logic and will delight readers of all ages.The two-part selection of puzzles and paradoxes begins with examinations of the nature of infinity and some curious systems related to Gödel's theorem. The first three chapters of Part II contain generalized Gödel theorems. Symbolic logic is deferred until the last three chapters, which give explanations and examples of first-order arithmetic, Peano arithmetic, and a complete proof of Gödel's celebrated result involving statements that cannot be proved or disproved. The book also includes a lively look at decision theory, better known as recursion theory, which plays a vital role in computer science."
+    ],
+    "description": [
+        "About the Author",
+        "Raymond Smullyan received his PhD from Princeton University and taught at Dartmouth, Princeton, Indiana University, and New York's Lehman College. Best known for his mathematical and creative logic puzzles and games, he was also a concert pianist and a magician. He wrote over a dozen books of logic puzzles and texts on mathematical logic.",
+        "Raymond Smullyan: The Merry Prankster",
+        "Raymond Smullyan (1919–2017), mathematician, logician, magician, creator of extraordinary puzzles, philosopher, pianist, and man of many parts. The first Dover book by Raymond Smullyan was",
+        "First-Order Logic",
+        "(1995). Recent years have brought a number of his magical books of logic and math puzzles:",
+        "The Lady or the Tiger",
+        "(2009);",
+        "Satan, Cantor and Infinity",
+        "(2009); an original, never-before-published collection,",
+        "King Arthur in Search of His Dog and Other Curious Puzzles",
+        "(2010); and",
+        "Set Theory and the Continuum Problem",
+        "(with Melvin Fitting, also reprinted by Dover in 2010). More will be coming in subsequent years.",
+        "In the Author's Own Words:\"Recently, someone asked me if I believed in astrology. He seemed somewhat puzzled when I explained that the reason I don't is that I'm a Gemini.\"",
+        "\"Some people are always critical of vague statements. I tend rather to be critical of precise statements: they are the only ones which can correctly be labeled 'wrong.'\" — Raymond Smullyan",
+        "--This text refers to the",
+        "paperback",
+        "edition."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51ibeLcEqHL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Raymond M. Smullyan (Author)   Format: Kindle Edition",
+    "categories": [
+        "Kindle Store",
+        "Kindle eBooks",
+        "Science & Math"
+    ],
+    "details": "{\"Publisher\": \"Dover Publications (August 21, 2013)\", \"Publication date\": \"August 21, 2013\", \"Language\": \"English\", \"File size\": \"1950 KB\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"292 pages\"}",
+    "parent_asin": "B00I17XVBY",
+    "bought_together": null,
+    "subtitle": "Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Raymond M. Smullyan', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

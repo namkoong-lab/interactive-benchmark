@@ -1,0 +1,43 @@
+{
+    "main_category": "Prime Video",
+    "title": "Women of the Movement",
+    "average_rating": 4.9,
+    "rating_number": 363,
+    "features": [
+        "2022",
+        "6 episodes",
+        "NR"
+    ],
+    "description": [
+        "Mamie Till Mobley, devoted to seeking justice."
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Drama"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"]}",
+    "parent_asin": "B09DPN1PS6",
+    "bought_together": null,
+    "subtitle": "Season 1",
+    "author": null
+}

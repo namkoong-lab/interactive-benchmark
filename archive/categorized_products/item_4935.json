@@ -1,0 +1,82 @@
+{
+  "item_id": 4935,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Not Rated Women's Sitting Pretty Sandal",
+    "average_rating": 4.5,
+    "rating_number": 5,
+    "features": [
+      "100% Textile",
+      "Imported",
+      "Rubber sole",
+      "Heel measures approximately 0.5\""
+    ],
+    "description": [
+      "Not Rated is the offspring of Naughty Monkey. A junior line in concept, they went back to the drawing board, rethought fashion, hacked out the higher prices and transplanted the cool looks. Not Rated delivers a fashion-forward style that will leave fashionistas in awe."
+    ],
+    "price": "26.09",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71C4+X+INFL._AC_UL1500_.jpg",
+        null,
+        null,
+        "https://m.media-amazon.com/images/I/71mVH1EZr3L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71TU787NMbL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71y01urYtxL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Q5KlxbubL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41MIdGYMaLL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51VoXSchX4L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51AoAo12F6L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31kJ7j3uz8L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41W-aH0gEQL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/312lpUwfFWL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31LWd2dnC-L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41MIdGYMaLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51VoXSchX4L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51AoAo12F6L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31kJ7j3uz8L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41W-aH0gEQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/312lpUwfFWL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31LWd2dnC-L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Not Rated",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Sandals"
+    ],
+    "details": "{\"Package Dimensions\": \"12 x 8 x 4 inches; 2 Pounds\", \"Item model number\": \"Sitting Pretty\", \"Department\": \"womens\", \"Date First Available\": \"May 13, 2013\", \"Manufacturer\": \"Not Rated\"}",
+    "parent_asin": "B00AW5B24G",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Sandals"
+    ],
+    "confidence": 0.95
+  }
+}

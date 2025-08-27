@@ -1,0 +1,54 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Kappa Delta Gold Script Comfort Colors Sweatshirt",
+    "average_rating": 5.0,
+    "rating_number": 6,
+    "features": [
+        "Ring Spun Cotton,Polyester",
+        "Pull On closure",
+        "Officially licensed greek product",
+        "80% ring spun cotton / 20% polyester",
+        "Pre-shrunk",
+        "Soft washed garment dyed fabric"
+    ],
+    "description": [
+        "Crew neck sweatshirt in charcoal grey with printed metallic gold script design. Sweatshirts are unisex fit and slightly oversized."
+    ],
+    "price": "49.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91aM95O-O2L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81it3i54G6L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/413VaMk3GdL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51yAwTWATtL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/413VaMk3GdL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51yAwTWATtL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Go Greek Chic",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Active",
+        "Active Sweatshirts"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"mens\", \"Date First Available\": \"August 8, 2019\"}",
+    "parent_asin": "B07WC553D5",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

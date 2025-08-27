@@ -1,0 +1,73 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "UGG Women's Himari Sneaker",
+    "average_rating": 4.6,
+    "rating_number": 87,
+    "features": [
+        "Rubber sole",
+        "Leather and engineered knit upper",
+        "Molded rubber outsole",
+        "EVA and foam footbed",
+        "Cotton canvas lining",
+        "Elastic gore, Rear pull tab"
+    ],
+    "description": [
+        "A sleek and stylish runner, the Himari is a sporty sneaker crafted with smooth leather for a refined finish. Offering easy entry, the collar is made from a flexible engineered knit, while an elastic strap across the vamp helps keep your foot securely in place. Finally, the responsive sole provides all-day cushioning, support, and traction. Show them off with midi skirts or cropped pants."
+    ],
+    "price": "104.78",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71CdXQUUqxL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61bdfKKxwqL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/610zbjwvXvL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71DNn2s5yRL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71eq6IhW3cL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71MI0k3QUeL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71VfZpx-x7L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31dr8vC7LSL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31Ur-KRFctL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31vaGhhcbjL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31rdtm03DkL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31qL+UqxAfL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31eUnD6E3TL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31As6wYZMQL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31dr8vC7LSL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31Ur-KRFctL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31vaGhhcbjL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31rdtm03DkL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31qL+UqxAfL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31eUnD6E3TL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31As6wYZMQL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "UGG",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Fashion Sneakers"
+    ],
+    "details": "{\"Item model number\": \"1113350\", \"Department\": \"Womens\", \"Date First Available\": \"February 19, 2020\", \"Manufacturer\": \"UGG\"}",
+    "parent_asin": "B084ZSBQPY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

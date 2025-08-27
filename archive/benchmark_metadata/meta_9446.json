@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "First Grade Primer Textbook(English and Greek Edition)",
+    "average_rating": 4.7,
+    "rating_number": 33,
+    "features": [
+        "A great way for your children to learn Greek. This book is for beginners and has 43 colorful lessons. Each lesson has Greek and English vocabulary. This book also includes: Greek/English and English/Greek glossary, the Greek alphabet, syllables and everyday simple words, short common phrases, simple verbs, and simple sentences. Topics include: greetings, clothing, food, school, religion, family activities, numbers, colors, days of the week, boys' and girls' names, animals, fruits and more. Make sure to also purchase the workbook and the audio cd program that accompany this book."
+    ],
+    "description": [
+        "About the Author",
+        "In 1955 Dr. Theodore Papaloizos was teaching the Modern Greek language to his students at St. Sophia Greek Orthodox Church, just as he had done for years. However, he felt that it was becoming increasingly difficult to find Greek language books that struck the delicate balance between thorough content and easy-to-follow methods. He chose to resolve the issue by writing in his free time. He released his first book two years later (in 1957). With positive feedback from students and colleagues, Dr. Papaloizos kept writing. Now, more than 50 years later, Papaloizos Publications continues to publish instructional materials in print, on DVD, on CD, and on CD-Rom with a library of more than 100 titles. Papaloizos Publications top priority remains educating hundreds-of-thousands of students around the globe."
+    ],
+    "price": "18.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51EQ6xl-i4L._SX385_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Greek Edition                          Theodore C. Papaloizos (Author)",
+    "categories": [
+        "Books",
+        "Reference",
+        "Words, Language & Grammar"
+    ],
+    "details": "{\"Publisher\": \"Papaloizos Publications; 3rd edition (August 1, 2010)\", \"Language\": \"English, Greek\", \"Paperback\": \"172 pages\", \"ISBN 10\": \"093241642X\", \"ISBN 13\": \"978-0932416421\", \"Item Weight\": \"15 ounces\", \"Dimensions\": \"7.75 x 0.75 x 9.25 inches\"}",
+    "parent_asin": "093241642X",
+    "bought_together": null,
+    "subtitle": "Paperback – August 1, 2010",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/61yObeiNx8L._SY600_.jpg', 'name': 'Theodore C. Papaloizos', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

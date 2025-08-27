@@ -1,0 +1,63 @@
+{
+  "item_id": 4929,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Tropical Monstera Hawaiian Shirt in Green",
+    "average_rating": 4.5,
+    "rating_number": 10,
+    "features": [
+      "100% Cotton",
+      "Button closure",
+      "Machine Wash",
+      "Made in Hawaii, USA.",
+      "Matching Pocket",
+      "Genuine Coconut Buttons",
+      "Machine Washable",
+      "Authentic Hawaiian Shirt"
+    ],
+    "description": [
+      "This Hawaiian shirt is great for those hot summer days, not only cool you down when you put one on but it also brighten your day as well. This Tropical shirt is made in Hawaii by Pacific Legend. Colors are vibrant and dazzling, comfortable and affordable."
+    ],
+    "price": "34.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71zUDW96OaL._AC_UL1001_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51Cz02sf4FL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51Cz02sf4FL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Pacific Legend",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Shirts",
+      "Casual Button-Down Shirts"
+    ],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"September 23, 2012\"}",
+    "parent_asin": "B00LL2ZQ2I",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Casual Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "item_id": 2535,
+  "metadata": {
+    "main_category": "Computers",
+    "title": "FSP Group 60W 12V 5A Power Adapter Replacement for FSP060-DBAE1 (FSP060-DIBAN2-R)",
+    "average_rating": 4.6,
+    "rating_number": 7,
+    "features": [
+      "60-Watt 12V @ 5A maximum performance | Barrel connector 5.5mm OD ; 2.5mm ID ; 11 mm in length",
+      "Meet doe level VI | meet energy Star EPS2.0/ErP lot 7",
+      "High altitude 5,000M | high reliability",
+      "EMC standard: EN55022 Class B / EN55024 Class B",
+      "Over current / temperature / Voltage protections"
+    ],
+    "description": [
+      "This product is a 60 watts 12V/5a AC to DC power supply intended for use in IPC systems, embedded systems. This adapter operates at 90 to 264 VAC input VOLTAGE that have a middle wattage demands. The unit meets EN55022, EN55024 and FCC class B emission limits, DOE level VI standard, and is designed for item application."
+    ],
+    "price": "38.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61QzwYfO-AL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61TtUvyj0fL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71jGZlg8DSL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61rVxbXJn6L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71bXGKzKq6L._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41S8JO-uqhL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41NJwzEzaLL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51FGQQ-tovL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41WyXlLlJjL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51NXMFi+UCL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41S8JO-uqhL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41NJwzEzaLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51FGQQ-tovL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41WyXlLlJjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51NXMFi+UCL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "FSP",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Computer Components",
+      "Internal Components",
+      "Internal Power Supplies"
+    ],
+    "details": "{\"Brand\": \"FSP\", \"Item model number\": \"FSP060-DIBAN2\", \"Item Weight\": \"1 pounds\", \"Product Dimensions\": \"4.25 x 2.36 x 1.81 inches\", \"Item Dimensions  LxWxH\": \"4.25 x 2.36 x 1.81 inches\", \"Color\": \"Black\", \"Power Source\": \"Corded Electric\", \"Manufacturer\": \"FSP Group U.S.A. Corporation\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"October 20, 2016\", \"Best Sellers Rank\": {\"Computer Power Supplies\": 2168}, \"Connectivity Technology\": \"barrel connector\", \"Connector Type\": \"EPS\", \"Compatible Devices\": \"PC\", \"Included Components\": \"Power Cord, Adapter\", \"Input Voltage\": \"12 Volts\", \"Wattage\": \"60 watts\", \"Specification Met\": \"CE\", \"Output Voltage\": \"12 Volts\"}",
+    "parent_asin": "B01M5KLEO3",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Electronics",
+      "Batteries",
+      "Power Supplies & Chargers"
+    ],
+    "confidence": 0.95
+  }
+}

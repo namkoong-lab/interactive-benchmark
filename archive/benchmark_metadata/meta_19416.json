@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "A Picture of Katherine Mansfield",
+    "average_rating": 4.2,
+    "rating_number": 22,
+    "features": [],
+    "description": [
+        "A Picture of Katherine Mansfield is a 1973 BBC television drama series starring Vanessa Redgrave as writer Katherine Mansfield. The series included dramatizations of Mansfield's life as well as adaptations of her short stories"
+    ],
+    "price": "56.77",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71mkK9TO8JL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51LhEf4AQyL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51LhEf4AQyL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Vanessa Redgrave  (Actor, Host),     Phyllida Law  (Actor, Host),     Alan Cooke  (Director, Host)    &                   0                  more   Rated:    Unrated    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "BBC",
+        "All BBC Titles"
+    ],
+    "details": "{\"Aspect Ratio\": \"Unknown\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"Unrated (Not Rated)\", \"Package Dimensions\": \"7.1 x 5.42 x 0.58 inches; 2.93 Ounces\", \"Director\": \"Alan Cooke\", \"Media Format\": \"PAL\", \"Run time\": \"5 hours and 7 minutes\", \"Release date\": \"October 5, 2015\", \"Actors\": \"Vanessa Redgrave, Phyllida Law, Jeremy Brett, Lyndon Hughes, Annette Crosbie\", \"Subtitles\": \"English\", \"Producers\": \"A Picture of Katherine Mansfield (Complete Series) - 2-DVD Set\", \"Language\": \"English (Dolby Digital 2.0)\", \"Studio\": \"Simply Media\", \"Country of Origin\": \"France\", \"Number of discs\": \"2\"}",
+    "parent_asin": "B00XNB1JXU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

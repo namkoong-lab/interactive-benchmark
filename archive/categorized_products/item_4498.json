@@ -1,0 +1,63 @@
+{
+  "item_id": 4498,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Girls Jewelry - Sterling Silver Simulated Birthstone Ring (size 4)",
+    "average_rating": 4.0,
+    "rating_number": 25,
+    "features": [
+      "Made In USA",
+      "For Girls Age Of 5-16 Years",
+      "925 Sterling Silver Fine Jewelry",
+      "Ring Size 4",
+      "Free Gift Packaging And Gift Card"
+    ],
+    "description": [
+      "Girls Jewelry - This sweet ring is made of high polished sterling silver and is set with a 4mm x 6mm rectangle shaped cubic zirconia to simulate 12-month birthstones. Size is 4. A lovely gift choice."
+    ],
+    "price": "49.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/41-2Qw-LY9L._AC_UL1000_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31x4D82cywL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41S+y06IRzL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31x4D82cywL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41S+y06IRzL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Loveivy",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Girls",
+      "Jewelry",
+      "Rings"
+    ],
+    "details": "{\"Department\": \"girls\", \"Date First Available\": \"April 2, 2016\", \"Manufacturer\": \"Loveivy\"}",
+    "parent_asin": "B01DQBAARC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Women's Rings"
+    ],
+    "confidence": 0.95
+  }
+}

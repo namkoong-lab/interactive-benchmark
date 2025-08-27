@@ -1,0 +1,55 @@
+{
+  "item_id": 618,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "2 Man Wrecking Crew",
+    "average_rating": 4.7,
+    "rating_number": 18,
+    "features": [],
+    "description": [
+      "Drummer Cedric Burnside, grandson of the legendary R.L. Burnside, teams up with guitar bluesman Lightnin' Malcolm, one of the leading younger generation artists on the scene today, for a backwoods set of music firmly rooted in the Delta. Over the years they've worked with the best Mississippi legends in blues including R.L. Burnside, Junior Kimbrough, T-Model Ford, Jessie Mae Hemphill, Hubert Sumlin and the North Mississippi All-Stars. Together they have crafted a sound reminiscent of minimalist rock duos such as The Black Keys or The White Stripes, while still retaining a sound uniquely their own."
+    ],
+    "price": "18.98",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71w8mel1V+L._SL1050_.jpg",
+        "https://m.media-amazon.com/images/I/71Gi1iUeiDL._SL1070_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/61HdqYFXvFL.jpg",
+        "https://m.media-amazon.com/images/I/51LKuDrX1hL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/61HdqYFXvFL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51LKuDrX1hL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Cedric Burnside   Lightnin' Malcolm   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Blues",
+      "Electric Blues"
+    ],
+    "details": "{\"Product Dimensions\": \"4.88 x 5.59 x 0.47 inches; 2.96 Ounces\", \"Manufacturer\": \"Delta Groove Music\", \"Date First Available\": \"August 8, 2008\", \"Label\": \"Delta Groove Music\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B001DZDT9K",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Cultural & World Music"
+    ],
+    "confidence": 0.85
+  }
+}

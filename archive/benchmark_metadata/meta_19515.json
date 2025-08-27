@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Point Blank",
+    "average_rating": 4.2,
+    "rating_number": 189,
+    "features": [],
+    "description": [
+        "Samuel is a nurse working at a hospital when his pregnant wife is kidnapped before his very eyes. Knocked unconscious, he comes to and discovers that a dangerous criminal named Sartet is responsible, and if he's ever to see his wife again, he must fulfill Sartet's requests. Samuel quickly finds himself pitted against rival gangsters and trigger-happy police in a deadly race to save the lives of his wife and unborn child."
+    ],
+    "price": "5.9",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91ezLiPM+tL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51yPrJ83iOL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51yPrJ83iOL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Gilles Lellouche  (Actor),     Roschdy Zem  (Actor),     Fred CavayÃ©  (Director)    &                   0                  more   Rated:    R    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Action & Adventure"
+    ],
+    "details": "{\"Genre\": \"Mystery & Suspense\", \"Format\": \"Multiple Formats, AC-3, Closed-captioned, Color, Dolby, NTSC, Subtitled, Widescreen\", \"Contributor\": \"Gilles Lellouche, Roschdy Zem, Fred Cavay\\u00c3\\u00a9, Gerard Lanvin\", \"Language\": \"English, French\", \"Runtime\": \"1 hour and 24 minutes\", \"Aspect Ratio\": \"1.66:1\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"R (Restricted)\", \"Product Dimensions\": \"0.5 x 5.4 x 7.5 inches; 2.4 Ounces\", \"Item model number\": \"MGNO10433DVD\", \"Director\": \"Fred Cavay\\u00c3\\u00a9\", \"Media Format\": \"Multiple Formats, AC-3, Closed-captioned, Color, Dolby, NTSC, Subtitled, Widescreen\", \"Run time\": \"1 hour and 24 minutes\", \"Release date\": \"December 6, 2011\", \"Actors\": \"Gilles Lellouche, Roschdy Zem, Gerard Lanvin\", \"Subtitles\": \"Spanish, English\", \"Studio\": \"Magnolia Home Entertainment\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B005NGKKC4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,45 @@
+{
+    "main_category": "Books",
+    "title": "The Littlest Bunny in Colorado: An Easter Adventure",
+    "average_rating": 5.0,
+    "rating_number": 9,
+    "features": [
+        "It's Easter morning, and the littlest bunny has a big secret: he's actually the Easter Bunny! He has a lot of work to do! Join him as he hides eggs high and low, with a final stop at your house!"
+    ],
+    "description": [
+        "About the Author",
+        "Lily Jacobs is an author and artist living in San Francisco. Easter is her favorite holiday.",
+        "Robert William Dunn was born in Paisley, Scotland, and currently lives with his daughter, Emily, son, Caius, and wife, Clare, in South Lanarkshire. He studied Illustration at the then College of Building & Printing in Glasgow. Before illustrating full time he scraped a living drawing caricatures and illustrating magazines."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/513rmOoHCgL._SY400_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Lily Jacobs (Author),  Robert Dunn (Illustrator)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Geography & Cultures"
+    ],
+    "details": "{\"Publisher\": \"Sourcebooks Wonderland (February 1, 2015)\", \"Language\": \"English\", \"Hardcover\": \"32 pages\", \"ISBN 10\": \"1492610577\", \"ISBN 13\": \"978-1492610571\", \"Reading age\": \"4 - 7 years\", \"Grade level\": \"Preschool - 3\", \"Item Weight\": \"10.4 ounces\", \"Dimensions\": \"9.63 x 0.33 x 7.75 inches\"}",
+    "parent_asin": "1492610577",
+    "bought_together": null,
+    "subtitle": "Hardcover – Picture Book, February 1, 2015",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Lily Jacobs', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

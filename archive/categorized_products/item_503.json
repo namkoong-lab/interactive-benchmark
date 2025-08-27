@@ -1,0 +1,51 @@
+{
+  "item_id": 503,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Pines of Rome Fountains of Rome",
+    "average_rating": 4.8,
+    "rating_number": 8,
+    "features": [],
+    "description": [
+      "Since the early 60s, this recording pairing Respighi's two tone poems, The Pines of Rome and The Fountains of Rome, has been the standard by which all others have been judged. And in terms of both sound and performance, it has never really been surpassed. This release, starring the legendary Chicago Symphony under the baton of Fritz Reiner, marks the launch of a new series from Analogue Productions featuring recordings originally issued as part of RCA's Living Stereo catalog. Although not the recording's first CD release, it is the first time that the SACD remastering experts at Analogue Productions have worked their magic on this evergreen favorite. In addition to CD layer with 2 channels, the disc includes an SACD layer with true three-channel audio."
+    ],
+    "price": "55.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81OoPAs9qSL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51rh9T+mKLL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51rh9T+mKLL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "RESPHIGI,O.  (Artist)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Classical",
+      "Symphonies"
+    ],
+    "details": "{\"Product Dimensions\": \"4.92 x 5.51 x 0.47 inches; 3.39 Ounces\", \"Manufacturer\": \"Apo\", \"Date First Available\": \"April 5, 2014\", \"Label\": \"Apo\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00IS994N4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Classical Albums"
+    ],
+    "confidence": 0.95
+  }
+}

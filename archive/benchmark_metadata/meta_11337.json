@@ -1,0 +1,45 @@
+{
+    "main_category": "Pet Supplies",
+    "title": "Exotic Environments Sea Turtle",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [
+        "All items are brand new",
+        "never worn and never used. We guarantee the authenticity of all items."
+    ],
+    "description": [
+        "Our adorable sea turtle basks on a rock ledge which features large swim-through chambers that fish love to explore. Adorable turtle is ideal for aquariums and terrariums. Safe for all aquariums. 5 x 4 x 2.5 1"
+    ],
+    "price": "15.46",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41lsGzC9NnL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41lsGzC9NnL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Blue Ribbon",
+    "categories": [
+        "Pet Supplies",
+        "Fish & Aquatic Pets",
+        "Aquarium Décor",
+        "Ornaments"
+    ],
+    "details": "{\"Item Weight\": \"2 Pounds\", \"Date First Available\": \"October 19, 2006\", \"Manufacturer\": \"Blue Ribbon Pet Products, Inc.\"}",
+    "parent_asin": "B004LOETQM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

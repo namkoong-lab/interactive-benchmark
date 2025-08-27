@@ -1,0 +1,59 @@
+{
+    "main_category": "Books",
+    "title": "An Introduction to Satellite Image Interpretation",
+    "average_rating": 3.9,
+    "rating_number": 14,
+    "features": [
+        "A fascinating introduction to the interpretation of satellite imagery―CD ROM included.",
+        "Eric D. Conway and the Maryland Space Grant Consortium present a fascinating introduction to the interpretation of satellite imagery, a technology of increasing importance for a wide variety of scientific applications. Prepared in association with the National Oceanic and Atmospheric Administration (NOAA), this extensively illustrated text and accompanying CD-ROM offer a thorough overview of the use of satellite technology in Earth and planetary science, weather forecasting, and environmental research.",
+        "The book covers the foundations of remote sensing, the types of satellites, and the basics of satellite image interpretation. Other topics include geographical, oceanographical applications, and atmospheric science applications of satellite imagery. With a fully indexed glossary, this well-written and thoughtfully presented text is ideal for science teachers, undergraduate and graduate students, professionals working in the field of operational meteorology, and others interested in knowing more about interpreting satellite imagery. The accompanying CD-ROM of satellite images enables the user to zoom in on many images (some of which appear in color), use overlays to identify important elements in the satellite image, and keep a notes file. The program requires a Macintosh, Windows, or Windows 95 operating system."
+    ],
+    "description": [
+        "Review",
+        "The book will repay all serious readers' efforts at understanding.―",
+        "Choice",
+        "I read this book from the viewpoint of a professional who spent a good portion of his career working with the interpretation of satellite imagery. The book is excellent and will serve not only the beginning student but the professional meteorologist as well. Students will be able to follow and understand each topic the book presents, and professionals will find it helpful in refreshing their memory on various aspects of imagery interpretation. This is a fine book that should be in every scientist's library. It will benefit all who use it.―Sol Hirsch, Capitol Weather Consultants",
+        "Review",
+        "I read this book from the viewpoint of a professional who spent a good portion of his career working with the interpretation of satellite imagery. The book is excellent and will serve not only the beginning student but the professional meteorologist as well. Students will be able to follow and understand each topic the book presents, and professionals will find it helpful in refreshing their memory on various aspects of imagery interpretation. This is a fine book that should be in every scientist's library. It will benefit all who use it.",
+        "-- Sol Hirsch",
+        "Book Description",
+        "A fascinating introduction to the interpretation of satellite imagery―CD ROM included.",
+        "About the Author",
+        "Eric Conway",
+        "teaches earth science in Carroll County, Maryland.",
+        "The Maryland Space Grant Consortium",
+        "aims to provide statewide and national leadership in aerospace science and engineering education research. It conducts programs, training activities, and conferences at institutions of higher learning throughout Maryland.",
+        "Read more"
+    ],
+    "price": "7.92",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51t4lpjA3tL._SX384_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Eric D. Conway (Author)",
+    "categories": [
+        "Books",
+        "Engineering & Transportation",
+        "Engineering"
+    ],
+    "details": "{\"Publisher\": \"Johns Hopkins University Press; First Edition (April 1, 1997)\", \"Language\": \"English\", \"Paperback\": \"264 pages\", \"ISBN 10\": \"0801855772\", \"ISBN 13\": \"978-0801855771\", \"Item Weight\": \"1.4 pounds\", \"Dimensions\": \"8.5 x 0.56 x 11 inches\"}",
+    "parent_asin": "0801855772",
+    "bought_together": null,
+    "subtitle": "First Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Eric D. Conway', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

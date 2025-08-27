@@ -1,0 +1,75 @@
+{
+    "main_category": "Grocery",
+    "title": "Golden Star Jasmine Rice, 32 Oz",
+    "average_rating": 4.8,
+    "rating_number": 1338,
+    "features": [
+        "Prime grade long grain fragrant rice",
+        "Net weight 2lbs",
+        "Grown in Thailand",
+        "140 calories per serving (1/4 cup)"
+    ],
+    "description": [
+        "Golden Star Jasmine Rice, 32 Oz"
+    ],
+    "price": "4.59",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81lmTGt2ZcL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91R6vzReCEL._SL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/8155vb+ig0L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/41VIy6AhdkL._SL1045_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51NKFpkRWrL.jpg",
+            "https://m.media-amazon.com/images/I/51J8n1rJwWL.jpg",
+            "https://m.media-amazon.com/images/I/31geaVQBtOL.jpg",
+            "https://m.media-amazon.com/images/I/51PuYCn2gbL.jpg",
+            "https://m.media-amazon.com/images/I/31zJ8v7ltSL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51NKFpkRWrL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51J8n1rJwWL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31geaVQBtOL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51PuYCn2gbL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31zJ8v7ltSL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK",
+            "PT12",
+            "FACT",
+            "INGR"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Amazon Brand Happy Belly Jasmine Rice",
+            "A perfect compliment to Frijoles? Cilantro Lime Rice",
+            "Instant Pot Panang Curry by Lundberg Family Farms"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0358191776de44db89b8ba08413e8e65?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/00564574d7284fceb1225186343295d6?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/040b6d93f4eb49089a41faf0b4135a04?ref=dp_vse_rvc_2"
+        ],
+        "user_id": [
+            "/shop/influencer-dcb4065c",
+            "",
+            ""
+        ]
+    },
+    "store": "GoldenStar",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Dried Grains & Rice",
+        "Jasmine"
+    ],
+    "details": "{\"Product Dimensions\": \"3.5 x 5.8 x 3.4 inches; 2 Pounds\", \"UPC\": \"085968001207\", \"Manufacturer\": \"Golden Star\", \"Domestic Shipping\": \"This item can only be shipped to the 48 contiguous states. We regret it cannot be shipped to APO/FPO, Hawaii, Alaska, or Puerto Rico.\", \"International Shipping\": \"This item is not eligible for international shipping.  Learn More\"}",
+    "parent_asin": "B000VDUQDC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,59 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Diablo III Auction Helper Free",
+    "average_rating": 1.9,
+    "rating_number": 9,
+    "features": [
+        "Simple menu-driven system tells you if your item should sell or not.",
+        "Tips and advice on how to price your items to sell while making a profit.",
+        "Algorithms and market strategies frequently updated to keep your selling strategies current."
+    ],
+    "description": [
+        "Selling items on the Diablo III Auction House can be tricky - you only have 10 item slots per Auction House type, and you might get frustrated if your items don't sell. The best way to alleviate this is to know which items are worth posting to the Auction House and which aren't. Diablo III Auction Helper aims to help you make more Auction House sales with greater frequency. Using the app's simple menu-oriented interface, simply enter the properties your item has; the app will tell you whether or not the item is worth one of your Auction House slots. The app also features item tips and helpful hints on pricing your items. This is the free, ad-supported version of the App. For the premium, ad-free version, see \"Diablo III Auction Helper\"."
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61kk12QnbaL.png",
+            "https://m.media-amazon.com/images/I/51M7v-9lKNL.png",
+            "https://m.media-amazon.com/images/I/516QCyn9j3L.png",
+            "https://m.media-amazon.com/images/I/91xgnrxeXbL.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Argus Rho Studios",
+    "categories": [],
+    "details": "{\"Release Date\": \"2012\", \"Date first listed on Amazon\": \"August 31, 2012\", \"Developed By\": \"Argus Rho Studios\", \"Size\": \"961.7KB\", \"Version\": \"2.01\", \"Application Permissions\": [\"Access information about networks\", \"Open network sockets\"], \"Minimum Operating System\": \"Android 2.2\", \"Approximate Download Time\": \"Less than 30 seconds\"}",
+    "parent_asin": "B009160RES",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

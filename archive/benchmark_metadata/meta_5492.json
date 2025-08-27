@@ -1,0 +1,44 @@
+{
+    "main_category": "Automotive",
+    "title": "HUB/BRG-BRAKE",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "HUB/BRG-BRAKE"
+    ],
+    "description": [
+        "HUB/BRG-BRAKE"
+    ],
+    "price": "165.36",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51LzChEUJfL._AC_SL1248_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31gR2fts2hL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31gR2fts2hL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mopar",
+    "categories": [
+        "Automotive",
+        "Exterior Accessories",
+        "Trailer Accessories",
+        "Brake Controls"
+    ],
+    "details": "{\"Brand\": \"Mopar\", \"Is Discontinued By Manufacturer\": \"No\", \"Manufacturer Part Number\": \"68267298-AA\", \"Date First Available\": \"October 30, 2015\"}",
+    "parent_asin": "B017DPCHDC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

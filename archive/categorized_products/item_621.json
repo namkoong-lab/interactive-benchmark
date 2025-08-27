@@ -1,0 +1,51 @@
+{
+  "item_id": 621,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Agua Pa la Gente",
+    "average_rating": 4.7,
+    "rating_number": 4,
+    "features": [],
+    "description": [
+      "Agua Pa La Gente Hip Hop Hoodios. Manufactured release (not a burned copy) Use, not sealed"
+    ],
+    "price": "2.29",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41+Z0FMRBhL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41+Z0FMRBhL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Hip Hop Hoodios   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Latin Music",
+      "Latin Pop"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.88 x 0.4 x 5 inches; 3.68 Ounces\", \"Manufacturer\": \"Jazzheads\", \"Item model number\": \"JH_1147\", \"Original Release Date\": \"2005\", \"SPARS Code\": \"DDD\", \"Date First Available\": \"July 27, 2006\", \"Label\": \"Jazzheads\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0007NFLTK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Hip Hop Albums"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,76 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Steve Madden Women's Elda Pump",
+    "average_rating": 4.1,
+    "rating_number": 42,
+    "features": [
+        "100% Leather",
+        "Imported",
+        "Thermoplastic Elastomers sole",
+        "Heel measures approximately 2\"",
+        "Steve Madden"
+    ],
+    "description": [
+        "Keep your outfit chic and stylish with Elda - the perfect heel for any occasion. This style is a closet must-have!"
+    ],
+    "price": "61.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/718c3RQbQ-S._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61hduApujPS._AC_UL1471_.jpg",
+            "https://m.media-amazon.com/images/I/61MiJ0SW4CS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61Fqj2wEvlS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61ZPEAcxblS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71nmU29TL+S._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71x8KdguWIS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/716T4EH+DlS._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31tgRWauKTS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31ugxEuC8qS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41+yN+gAshS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21V4i8xFL0S._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21tI879UGGS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31i533zE95S._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31yinLCoiyS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/310GnXDNbVS._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31tgRWauKTS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31ugxEuC8qS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41+yN+gAshS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/21V4i8xFL0S._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/21tI879UGGS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31i533zE95S._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31yinLCoiyS._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/310GnXDNbVS._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR",
+            "LEFT"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Steve Madden",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Pumps"
+    ],
+    "details": "{\"Item Weight\": \"2.3 Pounds\", \"Department\": \"Womens\", \"Date First Available\": \"April 17, 2021\", \"Manufacturer\": \"Steve Madden\"}",
+    "parent_asin": "B092SWKWRL",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,51 @@
+{
+    "main_category": "Books",
+    "title": "A Lover's Almanac: A Novel",
+    "average_rating": 2.7,
+    "rating_number": 4,
+    "features": [
+        "One of the preeminent novelists of our time,",
+        "Maureen Howard",
+        "dazzles us with a love story of radiant intelligence and delicious wit. The exhilarating flights and emotional depths of Howard's storytelling balance the fates of two young lovers in New York: Artie, a bastard, perhaps \"begot in the mud of Woodstock,\" now a boyish computer wizard; and Louise, a hot new painter out of the Midwest, seriously committed to her art. Their romance, seemingly shattered on the eve of the millennium, is played out against the tale of two old lovers lost to each other for a half century. As these two couples search through the cultural flotsam and jetsam for love and happiness, Howard spins a superb novel of ideas and transforms, as only she can, the dear Old Farmer's Almanac into a bright book of life."
+    ],
+    "description": [
+        "About the Author",
+        "Maureen Howard",
+        "is the author of seven novels, including",
+        "Grace Abounding, Expensive Habits",
+        ", and",
+        "Natural History",
+        ", all of which were nominated for the PEN/Faulkner Award. She has taught at a number of American universities, including Columbia, Princeton, Amherst, and Yale, and was recently awarded the Academy Award in Literature by the American Academy of Arts and Letters. She lives in New York City."
+    ],
+    "price": "2.12",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/513j-89ZSML._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Maureen Howard (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "United States"
+    ],
+    "details": "{\"Publisher\": \"Penguin Books; Illustrated edition (January 1, 1999)\", \"Language\": \"English\", \"Paperback\": \"288 pages\", \"ISBN 10\": \"0140275126\", \"ISBN 13\": \"978-0140275124\", \"Item Weight\": \"7.2 ounces\", \"Dimensions\": \"5.25 x 0.5 x 8 inches\"}",
+    "parent_asin": "0140275126",
+    "bought_together": null,
+    "subtitle": "Paperback – January 1, 1999",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Maureen Howard', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

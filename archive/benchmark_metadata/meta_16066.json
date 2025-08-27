@@ -1,0 +1,66 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Disney Minnie Mouse Red Polka Dot Deluxe Swimsuit Set for Girls",
+    "average_rating": 4.4,
+    "rating_number": 235,
+    "features": [
+        "82% polyester / 18% elastane; Lining: polyester",
+        "Pull On closure",
+        "Genuine, Original, Authentic Disney Store",
+        "Three-piece set includes: top, bottom, and rash guard; Allover polka dot pattern with Minnie screen art",
+        "Metallic red bow accent on rash quard and bottoms; Raglan sleeves",
+        "Faux not at hem with elastic ruching; Bikini top features bow design in front; Shoulder straps cross in back",
+        "UPF 50+ built-in UV protection for safer fun in the sun!"
+    ],
+    "description": [
+        "Your little swimmer can rock the dots in this adorable three-piece Minnie Mouse swimsuit set that features red metallic bow details. The coordinating bikini top, bottom, and rash guard provide UPF 50+ protection for extra fun in the sun."
+    ],
+    "price": "39.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/811UiAUVaWL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/714llCnDdBL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81Jx3sdzt4L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91NZAXKd+0L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81ts1EDCn1L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51-USNDRQtL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41BMzgh0kwL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/515+fQWT4zL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51J8MIqInFL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51hvA4J8MmL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51-USNDRQtL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41BMzgh0kwL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/515+fQWT4zL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51J8MIqInFL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51hvA4J8MmL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Disney",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Girls",
+        "Clothing",
+        "Swim"
+    ],
+    "details": "{\"Package Dimensions\": \"4 x 4 x 4 inches; 1 Pounds\", \"Department\": \"girls\", \"Date First Available\": \"December 9, 2019\", \"Manufacturer\": \"Disney\"}",
+    "parent_asin": "B082VR87MG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

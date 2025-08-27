@@ -1,0 +1,56 @@
+{
+    "main_category": "Books",
+    "title": "Getting Started With SQL Server Integration Services Made Easy",
+    "average_rating": 3.8,
+    "rating_number": 17,
+    "features": [
+        "This book covers SQL Server 2016 Integration Services",
+        "If you have been looking for a book that has a lot of easy to understand step-by-step instructions and screen shots that show you how to complete and master SQL Server Integration Services design techniques correctly, this is the book for you. Getting Started With SQL Server Integration Services Made Easy, is a self-paced visual guide to learning Integration Services. It is written from the perspective that the reader has not created a package before or has not used Integration Services. This book is for the beginner and intermediate user. To help you become familiar with the options and features, this book contains over 400 illustrations that provide a visual tour of the software.",
+        "After completing the exercises in this book, you will be able to perform the following tasks and more:",
+        "Creating and modifying package",
+        "Creating and modifying package",
+        "Importing and exporting data",
+        "Importing and exporting data",
+        "Creating expressions and using functions",
+        "Creating expressions and using functions",
+        "Sorting and grouping data Using containers to group tasks together",
+        "Sorting and grouping data Using containers to group tasks together",
+        "Connecting to a variety of data sources",
+        "Connecting to a variety of data sources"
+    ],
+    "description": [
+        "About the Author",
+        "Indera Murphy is an author, IT professional and retired educator that has over 25 years of experience in the Information Technology field. Indera has written over 30 books on software topics including Crystal Reports, Power BI Tools for Excel, Dashboard Design, SQL Server Reporting Services, ACT! and Tableau. Dr. Murphy has held a variety of positions including technical writer, programmer, course developer and project leader. Indera has designed and developed software applications and web sites, as well as, managed technology driven projects. In addition to being an Executive Director, as an online adjunct professor, Indera has taught courses in a variety of areas including project management, technical writing, information processing, Excel, Access, Crystal Reports, HTML, Windows, Dreamweaver and critical thinking."
+    ],
+    "price": "30.93",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41BtIXkOPFL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Indera E Murphy (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Software"
+    ],
+    "details": "{\"Publisher\": \"Tolana Publishing (January 24, 2018)\", \"Language\": \"English\", \"Paperback\": \"244 pages\", \"ISBN 10\": \"1935208381\", \"ISBN 13\": \"978-1935208389\", \"Item Weight\": \"1.28 pounds\", \"Dimensions\": \"8.5 x 0.55 x 11 inches\"}",
+    "parent_asin": "1935208381",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

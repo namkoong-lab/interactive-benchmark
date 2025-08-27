@@ -1,0 +1,45 @@
+{
+    "main_category": "Books",
+    "title": "The Night Before Christmas",
+    "average_rating": 4.5,
+    "rating_number": 62,
+    "features": [
+        "A holiday treasure for the entire family to enjoy!",
+        "Nothing so bespeaks Christmas as Clement C. Moore’s classic poem. Ted Rand has illustrated it with lush pictures of the era in which it was written. St. Nicholas, resplendent in his suit of red, is the very picture of Moore’s jolly old elf. While paying faithful tribute to the smallest detail of the beloved myth, the artist infuses it with magical new life, creating a holiday treasure that families will share and delight in for generations to come."
+    ],
+    "description": [
+        "About the Author",
+        "Ted Rand published his first book for children, The Ghost-Eye Tree, by Bill Martin Jr. and John Archambault in 1985. He went on to become an acclaimed illustrator of more than seventy book. Ted passed away at his home in Mercer Island, Washington, in 2005"
+    ],
+    "price": "17.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51H5NzyiFlL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Clement C. Moore (Author),  Ted Rand (Illustrator)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Literature & Fiction"
+    ],
+    "details": "{\"Publisher\": \"NorthSouth Books; First Edition (October 1, 2014)\", \"Language\": \"English\", \"Hardcover\": \"32 pages\", \"ISBN 10\": \"0735841063\", \"ISBN 13\": \"978-0735841062\", \"Reading age\": \"4 - 8 years\", \"Grade level\": \"Preschool - 2\", \"Item Weight\": \"1.1 pounds\", \"Dimensions\": \"9.5 x 0.5 x 13 inches\"}",
+    "parent_asin": "0735841063",
+    "bought_together": null,
+    "subtitle": "Hardcover – Picture Book, October 1, 2014",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/dmmvrfa15frfprcj000djeba1v._SY600_.jpg', 'name': 'Clement Clarke Moore', 'about': ['Clement Clarke Moore was a professor of religion and the author of several scholarly works. What he is most remembered for, however, is his poem \"An Account of a Visit from St. Nicholas,\" later called \"The Night Before Christmas,\" and written as a Christmas gift for his six children.', \"Clement Clarke Moore (July 15, 1779 – July 10, 1863) was an American writer and Professor of Oriental and Greek Literature, as well as Divinity and Biblical Learning, at the General Theological Seminary of the Protestant Episcopal Church, in New York City. The seminary was developed on land donated by Moore and it continues on this site at Ninth Avenue between 20th and 21st streets, in an area known as Chelsea Square. Moore's connection with the seminary continued for more than 25 years.\", 'Moore gained considerable wealth by subdividing and developing other parts of his large inherited estate in what became known as the residential neighborhood of Chelsea. Before this, the urbanized part of the city ended at Houston Street on Manhattan island. For 10 years, Moore also served as a board member of the New York Institution for the Blind.', 'He is credited and is most widely known as the author of the Christmas poem \"A Visit from St. Nicholas\", first published anonymously in 1823. It later became widely known as \"\\'Twas the Night Before Christmas\" and has been published in numerous illustrated versions in various languages. Scholars debate the identity of the author, calling on textual and handwriting analysis as well as other historical sources.']}"
+}

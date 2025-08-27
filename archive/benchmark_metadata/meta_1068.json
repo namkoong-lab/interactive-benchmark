@@ -1,0 +1,72 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Dyson Cyclone Assembly, Dc33 Blue",
+    "average_rating": 4.9,
+    "rating_number": 20,
+    "features": [
+        "This is an O.e.m. Authorized part",
+        "Fits various Dyson models",
+        "OEM part Number 920192-05",
+        "This is a Dyson replacement part",
+        "Part Number 920192-05",
+        "This is an O.E.M. part"
+    ],
+    "description": [
+        "This is an O.E.M. Authorized part, fits various Dyson models, OEM part number 920192-05. This product is manufactured in United States."
+    ],
+    "price": "49.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71xJV0iWpgL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/711DFdHshbL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71hEIb-IGmL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81USkD9GCoL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Ravwa6qPL._AC_SL1080_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41uTHFybwFL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41pWcKBFkWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41vKeKHvYDL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51xcYHieclL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51fFs6zXmpL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41uTHFybwFL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41pWcKBFkWL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41vKeKHvYDL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51xcYHieclL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51fFs6zXmpL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT11",
+            "PT88"
+        ]
+    },
+    "videos": {
+        "title": [
+            "FIT Dyson Cyclone Release Clip. Canister Release Catch. "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/077bb5f22c5e43328594489ee756c0aa?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Dyson",
+    "categories": [
+        "Home & Kitchen",
+        "Vacuums & Floor Care",
+        "Vacuum Parts & Accessories",
+        "Attachments & Brushes",
+        "Attachments"
+    ],
+    "details": "{\"Product Dimensions\": \"1 x 1 x 1 inches\", \"Item Weight\": \"1 pounds\", \"Manufacturer\": \"Dyson\", \"Item model number\": \"920192-05\", \"Best Sellers Rank\": {\"Home & Kitchen\": 991447, \"Vacuum Attachments\": 2732}, \"Assembly required\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B00KRE829K",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

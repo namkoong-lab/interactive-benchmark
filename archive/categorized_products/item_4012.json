@@ -1,0 +1,60 @@
+{
+  "item_id": 4012,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Mizuno Women's Long Sleeve Hybrid Top",
+    "average_rating": 4.7,
+    "rating_number": 5,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Pull On closure",
+      "Machine Wash",
+      "100 percent Polyester"
+    ],
+    "description": [
+      "The Mizuno L/S Hybrid Top is a long sleeve shirt that can be worn as a jersey or as a warm-up top. Fabric is lightweight and comfortable, and stretches for greater freedom of movement."
+    ],
+    "price": "35.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51N6O6mnBiL._AC_UL1001_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/415nKbNHwbL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/415nKbNHwbL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Mizuno",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Active",
+      "Active Shirts & Tees",
+      "T-Shirts"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"440378-P\", \"Department\": \"Womens\", \"Date First Available\": \"January 11, 2012\", \"Manufacturer\": \"Mizuno\"}",
+    "parent_asin": "B0071IWZNY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops"
+    ],
+    "confidence": 0.95
+  }
+}

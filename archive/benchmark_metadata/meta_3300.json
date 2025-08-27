@@ -1,0 +1,66 @@
+{
+    "main_category": "Grocery",
+    "title": "Taco Seasoning – 21 oz",
+    "average_rating": 4.4,
+    "rating_number": 17,
+    "features": [
+        "Top quality producy by Badia",
+        "Ideal to have in your kitchen",
+        "Perfect size",
+        "A zesty authentic mix that adds gusto to classic Mexican meals"
+    ],
+    "description": [
+        "A zesty authentic mix that adds gusto to classic Mexican meals, best friends of Ground Beef, steak, beans, tacos, dips, salsa"
+    ],
+    "price": "20.35",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81yWvazrBIL._SL1500_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/81Lu369lRcL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61ydQAMNZGL._SL1123_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/410tcX-3YIL.jpg",
+            "https://m.media-amazon.com/images/I/31K7TM8YXAL.jpg",
+            "https://m.media-amazon.com/images/I/516TBPLKxvL.jpg",
+            "https://m.media-amazon.com/images/I/51QTufyvKnL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/410tcX-3YIL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31K7TM8YXAL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/516TBPLKxvL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51QTufyvKnL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT12",
+            "FACT",
+            "INGR"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Best seasonings you can buy!"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/05f382b7bffc43398ff7a2cc259ab47b?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "/shop/tb_itsme"
+        ]
+    },
+    "store": "Badia",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Herbs, Spices & Seasonings",
+        "Mixed Spices & Seasonings",
+        "Mexican Seasoning"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"2.7 x 3.6 x 8 inches; 1.31 Pounds\", \"UPC\": \"651307899509\", \"Manufacturer\": \"BADIA\"}",
+    "parent_asin": "B06Y6LFYWW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

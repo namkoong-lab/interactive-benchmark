@@ -1,0 +1,58 @@
+{
+  "item_id": 185,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "E G Danner 44727 Grodan Gro-Blocks, 3-Inch",
+    "average_rating": 2.0,
+    "rating_number": 2,
+    "features": [
+      "Grodan gro-blocks",
+      "Made of stonewool",
+      "Good for stepping smaller seedlings and cuttings up and great for use in large flood tables",
+      "Includes 8 blocks per strip",
+      "Measures 3-inch size"
+    ],
+    "description": [
+      "This grodan gro-blocks is made of stonewool. Good for stepping smaller seedlings and cuttings up and great for use in large flood tables. Includes 8 blocks per strip. Measures 3-inch size."
+    ],
+    "price": "14.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61N-PYAaraL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31+PPPTEtDL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31+PPPTEtDL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Danner",
+    "categories": [
+      "Patio, Lawn & Garden",
+      "Gardening & Lawn Care",
+      "Soils, Mulches & Planting Media"
+    ],
+    "details": "{\"Product Dimensions\": \"25.7 x 4 x 3.9 inches\", \"Item Weight\": \"0.85 Pounds\", \"Manufacturer\": \"E G Danner\", \"Item model number\": \"44727\", \"Brand\": \"Danner\", \"Item Form\": \"Strips\", \"Coverage\": \"Medium\"}",
+    "parent_asin": "B007BVJR50",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Outdoor Living",
+      "Gardening Tools"
+    ],
+    "confidence": 0.9
+  }
+}

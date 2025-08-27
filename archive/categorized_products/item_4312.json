@@ -1,0 +1,62 @@
+{
+  "item_id": 4312,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Nickelodeon Teenage Mutant Ninja Turtles Adult Michelangelo Overhead Latex Mask",
+    "average_rating": 4.1,
+    "rating_number": 22,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Hand Wash",
+      "Deluxe overhead latex mask",
+      "Sassy turtle face with orange eye mask",
+      "Merchandise officially licensed by nickelodeon",
+      "Keep your mask's shape by filling with paper, clean with damp cloth",
+      "Rubie's costume company has been bringing costumes and accessories to the world since 1950"
+    ],
+    "description": [
+      "Rubie's costume company has been bringing costumes and accessories to the world since 1950. As the world's leader we take seriously the mission to make dressing up fun. Mascots, rental quality costumes, masks, wigs, accessories, shoes, and every significant licensed costume you want to wear can be found under the Rubie's brand. Still family owned, still family focused, Rubie's brings you fun for every season, halloween, christmas, mardi gras, easter, and all in-between."
+    ],
+    "price": "29.99",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41RGanGEOAL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41RGanGEOAL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Nickelodeon",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Costumes & Accessories",
+      "Men",
+      "Masks"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Department\": \"mens\", \"Date First Available\": \"September 13, 2013\", \"Manufacturer\": \"Rubies Costumes - Apparel\"}",
+    "parent_asin": "B00C0PCMT0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Traditional Costumes",
+      "Adult Costumes"
+    ],
+    "confidence": 0.95
+  }
+}

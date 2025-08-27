@@ -1,0 +1,56 @@
+{
+  "item_id": 597,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Wedding Classics",
+    "average_rating": 4.2,
+    "rating_number": 9,
+    "features": [],
+    "description": [
+      "International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions."
+    ],
+    "price": "7.98",
+    "images": {
+      "hi_res": [
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41T+HMRCo+L.jpg",
+        "https://m.media-amazon.com/images/I/51Z1NbIpeHL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41T+HMRCo+L._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51Z1NbIpeHL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Various Artists  (Artist)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Classical",
+      "Ballets & Dances",
+      "Ballets"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.78 x 0.36 x 5.62 inches; 3.84 Ounces\", \"Manufacturer\": \"EMI CLASSICS\", \"SPARS Code\": \"DDD\", \"Date First Available\": \"September 2, 2000\", \"Label\": \"EMI CLASSICS\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00005IA22",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Classical Music Box Sets"
+    ],
+    "confidence": 0.9
+  }
+}

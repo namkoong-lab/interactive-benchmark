@@ -1,0 +1,52 @@
+{
+  "item_id": 508,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Good News From the Next World",
+    "average_rating": 4.6,
+    "rating_number": 136,
+    "features": [],
+    "description": [
+      "Simple Minds - Good News From the Next World - CD"
+    ],
+    "price": "15.72",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51Pl8-FXfLL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51Pl8-FXfLL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Simple Minds   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Classic Rock",
+      "Album-Oriented Rock (AOR)"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.5 x 4.94 x 0.45 inches; 2.82 Ounces\", \"Manufacturer\": \"Virgin Records\", \"Item model number\": \"2760 / 7243 8 39922 25\", \"SPARS Code\": \"DDD\", \"Date First Available\": \"July 27, 2006\", \"Label\": \"Virgin Records\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000000W6Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Rock Albums"
+    ],
+    "confidence": 0.95
+  }
+}

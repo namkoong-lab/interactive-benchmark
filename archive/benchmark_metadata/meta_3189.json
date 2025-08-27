@@ -1,0 +1,51 @@
+{
+    "main_category": "Grocery",
+    "title": "Mountain Man Chipotle Pepper Hot Sauce",
+    "average_rating": 4.6,
+    "rating_number": 16,
+    "features": [
+        "One 5 fl. oz. bottle of Chipotle Pepper Sauce",
+        "This delicious Chipotle sauce will satisfy your desire for authentic Mexican flavor",
+        "Compliments a variety of foods, like eggs, hash browns, steak and chicken, or anything else you can think of for hot sauce",
+        "Not too hot, just right. Live Life on the Edge..."
+    ],
+    "description": [
+        "Mountain Man Chipotle Pepper Sauce is absolutely delicious. This chipotle sauce will satisfy your desire for authentic Mexican flavor. Once you try it you won't want to stop using it. This tasty sauce compliments a variety of foods like eggs, hash browns, steak and chicken, subs and anything else you can think of, 5 fl. oz. Not too hot, just right. Live Life on the Edge...Ingredients: Aged Red Peppers, Distilled Vinegar, Salt, Garlic, Chipotle Peppers, Spices and Xanthan Gum"
+    ],
+    "price": "21.64",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61-kQzrOMvL._SL1008_.jpg",
+            "https://m.media-amazon.com/images/I/61jOqmk76+L._SL1015_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41j4BxSyx9L.jpg",
+            "https://m.media-amazon.com/images/I/41LrFv0zL9L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41j4BxSyx9L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41LrFv0zL9L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mountain Man",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Sauces, Gravies & Marinades",
+        "Hot Sauce"
+    ],
+    "details": "{\"Package Dimensions\": \"14.02 x 2.01 x 2.01 inches; 5 Ounces\", \"UPC\": \"749746104091\"}",
+    "parent_asin": "B005BYEI6C",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

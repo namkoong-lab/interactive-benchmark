@@ -1,0 +1,50 @@
+{
+  "item_id": 258,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Harlan County",
+    "average_rating": 4.6,
+    "rating_number": 6,
+    "features": [],
+    "description": [
+      "Jim Ford was an American singer-songwriter whose songs have been recorded by Aretha Franklin, Bobby Womack and the Temptations among others. Nick Lowe has cited Jim Ford as his biggest musical influence, and Sly Stone once called him \"the baddest white man on the planet.\" The 1969 album Harlan County features Dr. John on piano and keyboards, James Burton on guitar (Elvis Presley, Gram Parsons, Elvis Costello, Roy Orbison), and Jim Keltner, (Traveling Wilburys), on drums."
+    ],
+    "price": "13.98",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/61Z1gKk8PQL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/61Z1gKk8PQL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Jim Ford   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Country"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.55 x 4.92 x 0.47 inches; 3.25 Ounces\", \"Manufacturer\": \"Varese Sarabande\", \"Item model number\": \"CDVSD066817\", \"Original Release Date\": \"2018\", \"Date First Available\": \"July 3, 2018\", \"Label\": \"Varese Sarabande\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B07F525FK2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Vinyl Records"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,46 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Yankee Candle Pumpkin",
+    "average_rating": 4.5,
+    "rating_number": 13,
+    "features": [
+        "The quintessential icon gets a modern update in this chevron-patterned charm.",
+        "Beautifully detailed charms with a brushed nickel finish let you express yourself in a unique way.",
+        "From seasonal and fun, to sweet and special."
+    ],
+    "description": [
+        "About Charming Scents Charms",
+        "Beautifully detailed charms with a brushed nickel finish let you express yourself in a unique way: from seasonal and fun, to sweet and special."
+    ],
+    "price": "10.16",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41X6JP52LAL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41X6JP52LAL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Yankee Candle",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Candles & Holders"
+    ],
+    "details": "{\"Package Dimensions\": \"3.15 x 2.76 x 1.18 inches\", \"Item Weight\": \"0.634 ounces\", \"Manufacturer\": \"Yankee Candle\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3009749, \"Candles & Candleholders\": 48801}, \"Is Discontinued By Manufacturer\": \"No\", \"Specific instructions for use\": \"Decoration\", \"Perfume\": \"Pumpkin\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B075T7G8LH",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

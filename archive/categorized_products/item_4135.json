@@ -1,0 +1,76 @@
+{
+  "item_id": 4135,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "The Mountain Adult 100% Cotton Jungle Eyes Realistic T-Shirt (Green)",
+    "average_rating": 5.0,
+    "rating_number": 10,
+    "features": [
+      "100% Cotton",
+      "Pull On closure",
+      "Tumble dry medium",
+      "Animal Inspired Clothing",
+      "Animal-Themed Gift",
+      "Clothing Accessories",
+      "Wild and Domestic Animal"
+    ],
+    "description": [
+      "The kings of the jungle peer through the trees in an enigmatic illustration printed on the front of this crinkle-dyed, 100% cotton kids t-shirt from the apparel masters at The Mountain."
+    ],
+    "price": "14.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51mucfHI4kL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61riV51lzkL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71Sr66Gc-nL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71F5y2u15qL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/412f-PdbezL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51YMRkGeuJL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/515tPJsK-wL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51QziLTafHL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/412f-PdbezL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51YMRkGeuJL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/515tPJsK-wL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51QziLTafHL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT10",
+        "IN01",
+        "IN02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "The Mountain",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Men",
+      "Shirts",
+      "T-Shirts"
+    ],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"March 22, 2012\"}",
+    "parent_asin": "B007NN3ZHW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's T-Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

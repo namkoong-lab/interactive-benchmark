@@ -1,0 +1,69 @@
+{
+  "item_id": 3700,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Lily Waters Tara Tote",
+    "average_rating": 3.0,
+    "rating_number": 5,
+    "features": [
+      "Leather"
+    ],
+    "description": [
+      "Lily Waters has fashioned a casual, easy tote you'll adore. Tara has a quilted, paisley and polka-dot print body in bold black and white, plus the added girlish charm of a contrastingly small-scaled gingham lining.",
+      "Lily Waters handbags are designed to lighten up your life. The hand-selected fabrics are soft and virtually weightless. The combination of fabrics used evoke their own personality that lends itself to a casual and fun lifestyle. The bags fold with ease for traveling and can be spot-cleaned if soiled."
+    ],
+    "price": "55.5",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81OGd5p2hnS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81GLUFf+6-S._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91rgd7x2rDS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/A1zAqNrKG3S._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51MFaPk+0AL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41nCqmIdTdL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51MvzHEyM2L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/61l3hsZIJYL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51MFaPk+0AL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41nCqmIdTdL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51MvzHEyM2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/61l3hsZIJYL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Lily Waters",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Handbags & Wallets",
+      "Totes"
+    ],
+    "details": "{\"Package Dimensions\": \"14.5 x 12.6 x 4.8 inches; 12 Ounces\", \"Department\": \"womens\", \"Date First Available\": \"February 28, 2008\", \"Manufacturer\": \"Lily Waters\"}",
+    "parent_asin": "B000IHNADO",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Handbags",
+      "Tote Bags"
+    ],
+    "confidence": 0.95
+  }
+}

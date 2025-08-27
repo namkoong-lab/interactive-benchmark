@@ -1,0 +1,38 @@
+{
+    "main_category": "Books",
+    "title": "A Tribute To My Father",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "About the Author",
+        "John Piper is founder and teacher for desiringGod.org. For 35 years, he served as senior pastor of Bethlehem Baptist Church, Minneapolis, Minnesota. John is the author of more than 50 books, and his sermons and articles are available free online at desiringGod.org."
+    ],
+    "price": "—",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51dDy11cTTL._SX352_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "John Piper (Author)",
+    "categories": [],
+    "details": "{\"Publisher\": \"Desiring God (June 5, 2013)\", \"Language\": \"English\", \"Paperback\": \"38 pages\", \"ISBN 10\": \"0983916446\", \"ISBN 13\": \"978-0983916444\", \"Item Weight\": \"1.6 ounces\"}",
+    "parent_asin": "0983916446",
+    "bought_together": null,
+    "subtitle": "Paperback – June 5, 2013",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/A1d3pSmonyL._SY600_.jpg', 'name': 'John Piper', 'about': ['John Piper is founder and senior teacher of desiringGod.org and chancellor of Bethlehem College &amp; Seminary. For 33 years, he served as pastor at Bethlehem Baptist Church, Minneapolis, Minnesota. He is the author of more than 50 books, and more than 30 years of his preaching and teaching is available free of charge at desiringGod.org. John and his wife, Noël, have four sons, one daughter, and fourteen grandchildren.']}"
+}

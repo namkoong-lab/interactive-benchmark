@@ -1,0 +1,46 @@
+{
+    "main_category": "Prime Video",
+    "title": "Comfort",
+    "average_rating": 4.1,
+    "rating_number": 55,
+    "features": [
+        "IMDb 6.5",
+        "1 h 45 min",
+        "2016",
+        "13+"
+    ],
+    "description": [
+        "A late-night courier agrees to pick up the feisty daughter of an important client, and a romance blossoms between them as they spend two nights exploring LA's local food scene."
+    ],
+    "price": "4.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "details": "{\"Content advisory\": [\"Violence\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"William Lu\"], \"Producers\": [\"Mark Heidelberger\"], \"Starring\": [\"Chris Dinh\", \"Julie Zhan\", \"Kelvin Han Yee\"]}",
+    "parent_asin": "B01MUBHUGN",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

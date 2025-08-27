@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "Spellbound",
+    "average_rating": 4.0,
+    "rating_number": 4618,
+    "features": [
+        "Leave it to number-one bestselling author Nora Roberts to spin a tale that blurs the boundaries between reality and fantasy, modern-day mishaps and ancient curses, obsession and undying passion. She'll have you cheering for love to win the day as a man and woman discover just how deep their bond lies—and how some dreams are meant to be.",
+        "Spellbound",
+        "follows world-famous photographer Calin Farrell on his much-needed vacation in Ireland. While there, Calin becomes bewitched by the ravishingly beautiful Bryna Torrence, even if he refuses to believe in the spell that has brought them together—and could destroy them both."
+    ],
+    "description": [
+        "About the Author",
+        "Nora Roberts is the number-one New York Times-bestselling author of more than 190 novels, including The Search, Black Hills, Tribute, High Noon, and many more. She is also the author of the bestselling futuristic suspense series written under the pen name J.D. Robb. Roberts has more than 400 million copies of her books in print."
+    ],
+    "price": "18.85",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51I1A7s8k+L._SY344_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nora Roberts (Author),  Jeff Cummings (Reader)",
+    "categories": [
+        "Books",
+        "Science Fiction & Fantasy",
+        "Fantasy"
+    ],
+    "details": "{\"Publisher\": \"Brilliance Audio; Unabridged edition (October 15, 2010)\", \"Language\": \"English\", \"ISBN 10\": \"1441867287\", \"ISBN 13\": \"978-1441867285\", \"Item Weight\": \"3.2 ounces\", \"Dimensions\": \"5 x 0.38 x 5.5 inches\"}",
+    "parent_asin": "1441867287",
+    "bought_together": null,
+    "subtitle": "Audio CD – CD, October 15, 2010",
+    "author": null
+}

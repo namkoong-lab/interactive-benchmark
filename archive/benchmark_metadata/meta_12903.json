@@ -1,0 +1,58 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Sport-Tek Wind Pant. PST74 True Navy",
+    "average_rating": 4.2,
+    "rating_number": 868,
+    "features": [
+        "Drawstring closure",
+        "100% polyester mesh lining above knees, poly lining below for easy on/off",
+        "Elastic waistband with drawcord",
+        "Side pockets",
+        "Extended leg zippers"
+    ],
+    "description": [
+        "Style #: PST74 Whether worn alone or with a Sport-Tek wind shirt these water-repellent pants provide lightweight protection. The relaxed styling and elastic drawcord waist ensure a comfortable fit. 100% polyester 100% polyester mesh lining above knees poly lining below for easy on/off Elastic waistband with drawcord Side pockets Back pocket with hook and loop closure Extended leg zippers"
+    ],
+    "price": "23.88",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51tEz0WiqwL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/41jdXdKk5kL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/51ZaPmb33JL._AC_UL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31rqOfdU4lL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31kH5HxnBOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31Tek9E-PJL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31rqOfdU4lL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31kH5HxnBOL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31Tek9E-PJL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Sport Tek",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Active",
+        "Active Pants",
+        "Track Pants"
+    ],
+    "details": "{\"Item model number\": \"PST74\", \"Department\": \"Mens\", \"Date First Available\": \"October 28, 2016\", \"Manufacturer\": \"Sport-Tek\"}",
+    "parent_asin": "B06ZZZGBJZ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

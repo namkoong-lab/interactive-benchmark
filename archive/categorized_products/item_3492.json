@@ -1,0 +1,65 @@
+{
+  "item_id": 3492,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "ASICS Mens Distance Short 5\"",
+    "average_rating": 4.0,
+    "rating_number": 80,
+    "features": [
+      "100% Synthetic",
+      "Imported",
+      "Pull On closure",
+      "Lightweight, quick-dry, 4 way stretch microfiber fabric provides ease of motion",
+      "100% moisture transfer featherweight liner",
+      "3 envelope pockets across back waist, plus bonus front stash pocket"
+    ],
+    "description": [
+      "Designed with three envelope pockets across the Distance Short’s rear and a stash pocket in the front, giving you ample room for energy gels or whatever else you need to keep taking that next step, mile after mile."
+    ],
+    "price": "40.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71lj2spASaL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71avAcoXC9L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41mGkFSLFxL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41nkkwwfjRL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41mGkFSLFxL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41nkkwwfjRL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "ASICS",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Active",
+      "Active Shorts"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"MS1692.24-P\", \"Department\": \"Mens\", \"Date First Available\": \"September 12, 2012\", \"Manufacturer\": \"ASICS Sports Apparel\"}",
+    "parent_asin": "B0099EWUV0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Sports Shorts"
+    ],
+    "confidence": 0.95
+  }
+}

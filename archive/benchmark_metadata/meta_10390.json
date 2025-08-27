@@ -1,0 +1,45 @@
+{
+    "main_category": "Digital Music",
+    "title": "Songs My Country Taught Me",
+    "average_rating": 4.8,
+    "rating_number": 34,
+    "features": [],
+    "description": [
+        "BALTSA AGNES"
+    ],
+    "price": "39.91",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71KoC7yx5XL._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/81MFhST6t+L._SL1221_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Choi-kqWL.jpg",
+            "https://m.media-amazon.com/images/I/61PVkezdJ8L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Choi-kqWL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/61PVkezdJ8L._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "BALTSA,AGNES  (Artist)    Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Classical",
+        "Chamber Music"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"4.88 x 5.55 x 0.55 inches; 3.46 Ounces\", \"Manufacturer\": \"Dg Imports\", \"Item model number\": \"028947774280\", \"Original Release Date\": \"2008\", \"Date First Available\": \"April 7, 2008\", \"Label\": \"Dg Imports\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0013816DS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

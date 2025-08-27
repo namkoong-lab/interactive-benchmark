@@ -1,0 +1,43 @@
+{
+    "main_category": "Amazon Home",
+    "title": "John Deere Original Equipment Lamp #LVA14391",
+    "average_rating": 4.0,
+    "rating_number": 33,
+    "features": [],
+    "description": [
+        "John Deere Authentic OEM Product"
+    ],
+    "price": "63.89",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71uXLV07DgL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41vQgwq4xvL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41vQgwq4xvL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "John Deere",
+    "categories": [
+        "Patio, Lawn & Garden",
+        "Farm & Ranch",
+        "Agricultural & Construction Machinery",
+        "Parts & Accessories",
+        "Spare & Replacement Parts"
+    ],
+    "details": "{\"Product Dimensions\": \"13.63 x 6.52 x 3.12 inches\", \"Item Weight\": \"1.9 pounds\", \"Manufacturer\": \"John Deere\", \"Best Sellers Rank\": {\"Patio, Lawn & Garden\": 293528, \"Agricultural Machinery Spare & Replacement Parts\": 4117}, \"Is Discontinued By Manufacturer\": \"No\", \"Brand\": \"John Deere\", \"Color\": \"Black\", \"Auto Part Position\": \"Right\", \"Item Dimensions LxWxH\": \"13.63 x 6.52 x 3.12 inches\"}",
+    "parent_asin": "B00JK18EC6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

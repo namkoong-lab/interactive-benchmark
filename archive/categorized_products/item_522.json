@@ -1,0 +1,51 @@
+{
+  "item_id": 522,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Mellow Moods of Love",
+    "average_rating": 4.4,
+    "rating_number": 30,
+    "features": [],
+    "description": [
+      "This product is an authorized manufactured on demand CD-R"
+    ],
+    "price": "12.98",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/717tNuLqy9S._SL1200_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51lcu+8pVyS.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51lcu+8pVyS._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Anita Kerr   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Pop",
+      "Easy Listening"
+    ],
+    "details": "{\"Product Dimensions\": \"5.5 x 5.5 x 0.25 inches; 2.5 Ounces\", \"Manufacturer\": \"Sony\", \"Original Release Date\": \"2016\", \"Date First Available\": \"September 19, 2016\", \"Label\": \"Sony\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B01LTHM492",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs"
+    ],
+    "confidence": 0.95
+  }
+}

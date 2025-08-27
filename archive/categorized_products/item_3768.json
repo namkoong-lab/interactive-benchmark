@@ -1,0 +1,65 @@
+{
+  "item_id": 3768,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Life is Good Men's Vintage Crusher T-Shirt",
+    "average_rating": 4.9,
+    "rating_number": 22,
+    "features": [
+      "Cotton,Net",
+      "Imported",
+      "Pull On closure",
+      "100% USA Grown Cotton",
+      "Rib at the neck and self-fabric taping from shoulder to shoulder",
+      "Garment washed for softness",
+      "Choose from several different graphics",
+      "10% of net profits go to Kids in Need"
+    ],
+    "description": [
+      "Instant classics don´t just happen. We´ve spent over 20 years perfecting our original Crusher Tee, and its laid-back style has the staying power to prove it. Washed for everyday softness, this classic fit customer favorite barely skims the body for a look that´s as easygoing as you are."
+    ],
+    "price": "28.0",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_SR38,50_.gif"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Life is Good",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Men",
+      "Shirts",
+      "T-Shirts"
+    ],
+    "details": "{\"Package Dimensions\": \"12.6 x 9 x 0.9 inches; 4.8 Ounces\", \"Item model number\": \"58368\", \"Department\": \"mens\", \"Date First Available\": \"June 1, 2018\", \"Manufacturer\": \"The Life is good Company\", \"Country of Origin\": \"Peru\"}",
+    "parent_asin": "B07GSNPFYK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's T-Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

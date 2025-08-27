@@ -1,0 +1,72 @@
+{
+  "item_id": 4505,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "STAR WARS Boys' 2-Piece Pajama Set",
+    "average_rating": 4.6,
+    "rating_number": 23,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Pull On closure",
+      "Machine Wash",
+      "Flame resistant",
+      "Long sleeve top with brushed micro jersey pant",
+      "Crew neckline and covered elastic waistband ensure ease and comfort whether sleeping or lounging",
+      "Officially licensed characters"
+    ],
+    "description": [
+      "To follow safety regulations this item is flame resistant and not snug fitting. Please buy size accordingly to ensure your child's safe slumbers with their favorite characters."
+    ],
+    "price": "27.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81DFsr7NFJL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81+oOotsIOL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51aj5izDrDL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41xeGtBfzzL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51aj5izDrDL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41xeGtBfzzL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Pajama Set 2"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/05e67a6dae1648b3b4cf9d6e5bca49f4?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "STAR WARS",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Boys",
+      "Clothing",
+      "Sleepwear & Robes",
+      "Pajama Sets"
+    ],
+    "details": "{\"Department\": \"Boys\", \"Date First Available\": \"April 3, 2021\", \"Manufacturer\": \"Star Wars\"}",
+    "parent_asin": "B091P33SMC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Boys' Clothing"
+    ],
+    "confidence": 0.95
+  }
+}

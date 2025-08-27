@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The Finding of Blue Bunny",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "While on a trip to a nearby department store, the author got the idea for this story by watching the scene of his very young daughter choose a toy bunny from a box full of bunnies. The choice of a plain bunny over fancy bunnies gave him the idea of writing the tale from the viewpoint of the toy as if even the most plain of bunnies deserves a loving home."
+    ],
+    "description": [
+        "About the Author",
+        "Formerly an intelligence officer in the United States military and now a full time single dad, Wave has always dreamed of publishing fiction. Making up stories for his little girl, the stories began to pile up and now he feels it's time to share them with the children of the world."
+    ],
+    "price": "10.5",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61OXnJxxvdL._SY498_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Wave (Author),  Mr. Zack Mclaughlin (Illustrator)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Animals"
+    ],
+    "details": "{\"Publisher\": \"Walton Publishing Group (April 10, 2009)\", \"Language\": \"English\", \"Paperback\": \"26 pages\", \"ISBN 10\": \"0982404808\", \"ISBN 13\": \"978-0982404805\", \"Reading age\": \"6 - 8 years\", \"Grade level\": \"1 - 2\", \"Item Weight\": \"2.4 ounces\", \"Dimensions\": \"8.5 x 0.07 x 8.5 inches\"}",
+    "parent_asin": "0982404808",
+    "bought_together": null,
+    "subtitle": "Paperback – April 10, 2009",
+    "author": null
+}

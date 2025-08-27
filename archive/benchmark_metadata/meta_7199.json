@@ -1,0 +1,89 @@
+{
+    "main_category": "Books",
+    "title": "Excel 2003 Bible",
+    "average_rating": 4.3,
+    "rating_number": 112,
+    "features": [
+        "The most comprehensive guidebook available on the most popular spreadsheet program, fully updated to include all-new \"X\" features",
+        "The most comprehensive guidebook available on the most popular spreadsheet program, fully updated to include all-new \"X\" features",
+        "Written by the leading Excel guru known as \"Mr. Spreadsheet,\" John Walkenbach, who has written more than thirty books and 300 articles on related topics and maintains the popular Spreadsheet Page at www.j-walk.com/ss",
+        "Written by the leading Excel guru known as \"Mr. Spreadsheet,\" John Walkenbach, who has written more than thirty books and 300 articles on related topics and maintains the popular Spreadsheet Page at www.j-walk.com/ss",
+        "The definitive reference book for beginning to advanced users, featuring expert advice and hundreds of examples, tips, techniques, shortcuts, work-arounds, and more",
+        "The definitive reference book for beginning to advanced users, featuring expert advice and hundreds of examples, tips, techniques, shortcuts, work-arounds, and more",
+        "Covers expanded use of XML and Web services to facilitate data reporting, analysis, importing, and exporting information",
+        "Covers expanded use of XML and Web services to facilitate data reporting, analysis, importing, and exporting information",
+        "Explores Excel programming for those who want advanced information",
+        "Explores Excel programming for those who want advanced information",
+        "CD-ROM includes all templates and worksheets used in the book, as well as sample chapters from all Wiley Office \"X\" related Bibles and useful third party software, including John Walkenbach's Power Utility Pak",
+        "CD-ROM includes all templates and worksheets used in the book, as well as sample chapters from all Wiley Office \"X\" related Bibles and useful third party software, including John Walkenbach's Power Utility Pak",
+        "Note:",
+        "CD-ROM/DVD and other supplementary materials are not included as part of eBook file."
+    ],
+    "description": [
+        "From the Back Cover",
+        "If Excel 2003 can do it, you can do it too...",
+        "Whether you’re just discovering Excel or are already a power user, there’s no better instructor than \"Mr. Spreadsheet,\" John Walkenbach. From basic formulas, functions, and chart creation to data analysis, custom number formats, data validation, and Excel programming with VBA, this is the comprehensive resource for Excel 2003. No matter what your level of expertise, you’ll benefit from hundreds of examples, exercises, tips, techniques, and workarounds, all served with a generous helping of the master’s expert advice.",
+        "Inside, you’ll find complete coverage of Excel 2003",
+        "Learn your way around cells, rows, columns, worksheets, workbooks, and ranges",
+        "Learn your way around cells, rows, columns, worksheets, workbooks, and ranges",
+        "Discover how to create charts and diagrams, organize lists, and simplify complex tasks using Excel",
+        "Discover how to create charts and diagrams, organize lists, and simplify complex tasks using Excel",
+        "Develop formulas that manipulate text, look up values, and perform financial applications",
+        "Develop formulas that manipulate text, look up values, and perform financial applications",
+        "Analyze data using external database files and pivot tables",
+        "Analyze data using external database files and pivot tables",
+        "Perform \"what if\" analysis, use Goal Seek and Solver, and gain proficiency with the Analysis ToolPak",
+        "Perform \"what if\" analysis, use Goal Seek and Solver, and gain proficiency with the Analysis ToolPak",
+        "Use XML to facilitate data reporting, analysis, importing, and exporting",
+        "Use XML to facilitate data reporting, analysis, importing, and exporting",
+        "Explore conditional formatting, link and consolidate worksheets, and use Excel in a workgroup",
+        "Explore conditional formatting, link and consolidate worksheets, and use Excel in a workgroup",
+        "Understand how Excel uses HTML in Internet applications",
+        "Understand how Excel uses HTML in Internet applications",
+        "Program Excel using VBA, develop UserForms, and create custom add-ins",
+        "Program Excel using VBA, develop UserForms, and create custom add-ins",
+        "Bonus CD-ROM and companion Web site!",
+        "Exclusive Office 2003 Super Bible eBook, with more than 500 pages of information about how Microsoft Office components work together",
+        "Exclusive Office 2003 Super Bible eBook, with more than 500 pages of information about how Microsoft Office components work together",
+        "Bonus shareware, freeware, trial, demo, and evaluation programs that work with or enhance Microsoft Office",
+        "Bonus shareware, freeware, trial, demo, and evaluation programs that work with or enhance Microsoft Office",
+        "Searchable eBook version of Excel 2003 Bible",
+        "Searchable eBook version of Excel 2003 Bible",
+        "An easy-to-use interface that allows you to browse and install everything on the CD",
+        "An easy-to-use interface that allows you to browse and install everything on the CD",
+        "About the Author",
+        "John Walkenbach",
+        "is the author of approximately three dozen spreadsheet books. Visit his Web site at http://.j-walk.com."
+    ],
+    "price": "6.38",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/617oxhs7EML._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "John Walkenbach (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Software"
+    ],
+    "details": "{\"Publisher\": \"Wiley; 1st edition (October 3, 2003)\", \"Language\": \"English\", \"Paperback\": \"936 pages\", \"ISBN 10\": \"0764539671\", \"ISBN 13\": \"978-0764539671\", \"Item Weight\": \"3.1 pounds\", \"Dimensions\": \"7.5 x 1.9 x 9.3 inches\"}",
+    "parent_asin": "0764539671",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/8eeatdc1dgg3gi876n7hsnmlc1._SY600_.jpg', 'name': 'John Walkenbach', 'about': ['John Walkenbach, author of many Excel books, retired from Excel in 2019. He currently lives in Tucson, Arizona.']}"
+}

@@ -1,0 +1,65 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Nike Boys' Ankle Socks (6 Pairs)",
+    "average_rating": 4.8,
+    "rating_number": 470,
+    "features": [
+        "55% Cotton, 41% Polyester, 4% Elastane",
+        "Imported",
+        "No Closure closure",
+        "Machine Wash",
+        "Six pairs of mid cut quarter socks",
+        "Soft knit fabric",
+        "Rib cuffs for a snug, comfortable fit",
+        "special size type: Baby"
+    ],
+    "description": [
+        "Nike mid cut quarter socks are designed to keep you comfortable during play with lightweight fabric and ribbed cuffs., Knit, Baby"
+    ],
+    "price": "28.89",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81KXRZvca6L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91gpAL2UgUL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41PemY+c1uL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/411cVDFvZdL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41PemY+c1uL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/411cVDFvZdL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Love Them",
+            "Come see why little feet will love these. "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/083a4d69050b4ce886a3508d82c647d6?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/09b004c763e9408bbf319e2aee5739bd?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "AH3QSTFZPV2JJDA2PQHAQCJFINDA",
+            "/shop/thesawyerandsmittyshow"
+        ]
+    },
+    "store": "Nike",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Baby",
+        "Baby Boys",
+        "Accessories",
+        "Socks"
+    ],
+    "details": "{\"Department\": \"boys\", \"Date First Available\": \"August 15, 2014\", \"Manufacturer\": \"Nike\"}",
+    "parent_asin": "B081R3W1TP",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

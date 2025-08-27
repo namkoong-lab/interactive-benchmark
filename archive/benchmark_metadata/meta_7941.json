@@ -1,0 +1,62 @@
+{
+    "main_category": "Books",
+    "title": "A Problem Solving Approach to Mathematics",
+    "average_rating": 4.3,
+    "rating_number": 98,
+    "features": [
+        "This best-selling text continues as a comprehensive, skills-based resource for an introduction to contemporary mathematics topics."
+    ],
+    "description": [
+        "About the Author",
+        "Rick",
+        "Billstein",
+        "is a Professor of Mathematics at the University of Montana. He has worked in mathematics teacher education at this university for 40 years and his current research is in the areas of curriculum development and mathematics teacher education. He teaches courses for future teachers in the Mathematics Department and also is the site director for the",
+        "Show-Me Project",
+        ", an NSF-funded project supporting the dissemination and implementation of standards-based middle grades mathematics curricula. He worked on an NSF grant called",
+        "Tinker Plots",
+        "to develop new data analysis software and he serves on the Advisory Boards for several other national projects. From 1992-1997, he directed the NSF-funded",
+        "Six Through Eight Mathematics",
+        "(STEM) middle school mathematics curriculum project and is now directing the",
+        "Middle Grades",
+        "MATH",
+        "Thematics Phase II Project.",
+        "Dr. Billstein has co-authored 24 books, including eight editions of",
+        "A Problem Solving Approach to Mathematics for Elementary Teachers",
+        ". He typically does about 25 regional and national presentations per year and has traveled to Thailand to work with the international schools there. He has also presented at the International Conferences on Mathematics Education (ICME).",
+        "Shlomo Libeskind",
+        "is a professor in the mathematics department at the University of Oregon in Eugene, Oregon. He is responsible for the \"pre-college\" teaching major in the department and has continuously been teaching and advising preservice and inservice teachers. Dr. Libeskind has extensive writing experience (books, articles, and workshop materials) as well as experience in directing mathematics education projects. Libeskind is an active member of Oregon Mathematics Council (OMEC) and has been involved in reviewing materials for the state of Oregon's standards for college admission.",
+        "Johnny W. Lott",
+        "began his teaching career in the public schools of DeKalb County, Georgia, outside Atlanta. There he taught mathematics in grades 8-12. He also taught one year at the Westminster Schools, grades 9-12, and one year in the Pelican, Alaska, school, grades 6-12. In addition, he has taught in grade schools in Montana while at The University of Montana. Johnny has been co-author of several books and has written numerous articles and other essays in the \"Arithmetic Teacher\", \"Teaching Children Mathematics\", \"The Mathematics Teacher\", \"School Science and Mathematics\", \"Student Math Notes\", and \"Mathematics Education Dialogues\". He has been the Project Manager for the \"Figure This!\" publications and website developed by the National Council of Teachers of Mathematics (NCTM) and was project co-director of the State Systemic Initiative for Montana Mathematics and Science (SIMMS) Project. He has served on many NCTM committees, has been a member of its Board of Directors, and was its president from April 2002-April 2004. In the Department of Mathematical Sciences at The University of Montana, Dr. Lott was a full professor and served as department chair. He is currently the Director of the Center for Teaching Excellence at the University.  His doctorate is in mathematics education from Georgia State University."
+    ],
+    "price": "5.24",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51GP1A3FF3L._SX381_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rick Billstein (Author),  Shlomo Libeskind (Author),  Johnny W. Lott (Author)",
+    "categories": [
+        "Books",
+        "Business & Money",
+        "Management & Leadership"
+    ],
+    "details": "{\"Publisher\": \"Addison Wesley; 9th edition (January 30, 2006)\", \"Language\": \"English\", \"Hardcover\": \"1056 pages\", \"ISBN 10\": \"0321375416\", \"ISBN 13\": \"978-0321375414\", \"Item Weight\": \"4.3 pounds\", \"Dimensions\": \"8.16 x 1.71 x 10.32 inches\"}",
+    "parent_asin": "0321375416",
+    "bought_together": null,
+    "subtitle": "9th Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Rick Billstein', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

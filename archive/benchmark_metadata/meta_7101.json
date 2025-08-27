@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Bandit Roads",
+    "average_rating": 4.2,
+    "rating_number": 67,
+    "features": [
+        "There are many ways to die in the Sierra Madre, a notorious nine-hundred-mile mountain range in northern Mexico where AK-47s are fetish objects, the law is almost non-existent and power lies in the hands of brutal drug mafias. Thousands of tons of opium and marijuana are produced there every year. Richard Grant thought it would be a good idea to travel the length of the Sierra Madre and write a book about it.He was warned before he left that he would be killed. But driven by what he calls 'an unfortunate fascination' for this mysterious region, Grant sets off anyway. In a remarkable piece of investigative writing, he evokes a sinister, surreal landscape of lonely mesas, canyons sometimes deeper than the Grand Canyon, hostile villages and an outlaw culture where homicide is the most common cause of death and grandmothers sell cocaine. Finally his luck runs out and he finds himself fleeing for his life, pursued by men who would murder a stranger in their territory 'to please the trigger finger'."
+    ],
+    "description": [
+        "About the Author",
+        "Richard Grant is an English writer who has been based in the USA for fifteen years. His first book, GHOST RIDERS, attracted enormous praise, winning the Thomas Cook Travel Book Award"
+    ],
+    "price": "8.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61X5ut6DvhL._SX309_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Richard Grant (Author)",
+    "categories": [
+        "Books",
+        "Reference",
+        "Writing, Research & Publishing Guides"
+    ],
+    "details": "{\"Publisher\": \"Little, Brown; First Edition (June 5, 2008)\", \"Language\": \"English\", \"Hardcover\": \"304 pages\", \"ISBN 10\": \"0316729361\", \"ISBN 13\": \"978-0316729369\", \"Item Weight\": \"1.05 pounds\", \"Dimensions\": \"5.71 x 0.98 x 8.74 inches\"}",
+    "parent_asin": "0316729361",
+    "bought_together": null,
+    "subtitle": "Hardcover – Import, June 5, 2008",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Richard Grant', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

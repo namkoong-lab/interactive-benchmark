@@ -1,0 +1,43 @@
+{
+    "main_category": "Grocery",
+    "title": "[8-11-17] Lakewood - Organic Pink Grapefruit Juice, 12 x 32 FZ",
+    "average_rating": 3.5,
+    "rating_number": 9,
+    "features": [],
+    "description": [
+        "Organic Pink Grapefruit Juice (Pack of 12)"
+    ],
+    "price": "88.1",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/11DwQsWt0NL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/11DwQsWt0NL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Lakewood",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Beverages",
+        "Bottled Beverages, Water & Drink Mixes",
+        "Juices",
+        "Fruit Juice"
+    ],
+    "details": "{\"Number of Items\": \"12\", \"Unit Count\": \"12.00 Count\", \"Brand\": \"Lakewood\", \"Flavor\": \"Grapefruit\", \"Specialty\": \"Organic\", \"Package Dimensions\": \"15.5 x 11.75 x 9.5 inches; 0.01 Ounces\", \"UPC\": \"707005266430\", \"Manufacturer\": \"Lakewood\"}",
+    "parent_asin": "B00CO20UGQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

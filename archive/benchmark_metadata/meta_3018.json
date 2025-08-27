@@ -1,0 +1,37 @@
+{
+    "main_category": "Health & Personal Care",
+    "title": "Servox Speech Device Battery",
+    "average_rating": 4.5,
+    "rating_number": 42,
+    "features": [],
+    "description": [
+        "The Servox Speech System Battery is a backup or replacement battery for the Servox Digital Electronic Speech System. The Servox Speech System Battery is a NiMH battery and is rechargeable using the Servox's recharging base unit (sold separately)."
+    ],
+    "price": "57.5",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41cGEdukaNL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41cGEdukaNL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Servox",
+    "categories": [],
+    "details": "{\"Brand\": \"Servox\", \"Battery Cell Composition\": \"NiMH\", \"Recommended Uses For Product\": \"Digital\", \"Unit Count\": \"1.00 Count\", \"Reusability\": \"Rechargeable\", \"Is Discontinued By Manufacturer\": \"No\", \"Item Weight\": \"1 Pounds\", \"Date First Available\": \"June 17, 2015\", \"Manufacturer\": \"Harris Communications\"}",
+    "parent_asin": "B00YCKCILI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

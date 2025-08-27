@@ -1,0 +1,51 @@
+{
+  "item_id": 3061,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Eight Ball - Pool - Billiards - Novelty Suede Leather Metal Bracelet - Black",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+      "Charming bracelet with 3D urethane encased design",
+      "Bracelet is made of colored suede/leather"
+    ],
+    "description": [
+      "This charming, dainty bracelet with the 3D urethane encased design shown is the perfect accessory to wear with anything from t-shirts to your favorite Friday night outfit. The bracelet is made of colored suede/leather and plated metal."
+    ],
+    "price": "12.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51OdAHJaXpL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41umE96UlsL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41umE96UlsL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Graphics and More",
+    "categories": [],
+    "details": "{\"Material\": \"Leather\", \"Color\": \"black\", \"Age Range (Description)\": \"Adult\", \"Metal Type\": \"alloy\", \"Shape\": \"Round\", \"Date First Available\": \"June 21, 2013\", \"Manufacturer\": \"Graphics and More\"}",
+    "parent_asin": "B00DJ9SS7G",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Women's Bracelets"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,53 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "NYDJ Women's Petite Hayden Straight-Leg Jeans",
+    "average_rating": 3.5,
+    "rating_number": 22,
+    "features": [
+        "98% Cotton, 2% Spandex",
+        "Imported",
+        "Button closure",
+        "Machine Wash",
+        "NYDJ Signature fit will make you look your best.",
+        "Classic 5 pocket styling, zip fly, button closure"
+    ],
+    "description": [
+        "Petite hayden straight leg in the softest twill offered in perfect neutrals"
+    ],
+    "price": "69.29",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71NrpXCfdCL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71osSc67JlL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31N4sqHs6oL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/316260L33cL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31N4sqHs6oL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/316260L33cL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "NYDJ",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Jeans"
+    ],
+    "details": "{\"Item model number\": \"P49063DT\", \"Department\": \"womens\", \"Date First Available\": \"February 14, 2013\", \"Manufacturer\": \"Not Your Daughter's Jeans Women's Collection\"}",
+    "parent_asin": "B00AEMHY30",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

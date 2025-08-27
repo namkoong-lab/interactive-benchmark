@@ -1,0 +1,83 @@
+{
+  "item_id": 4393,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Bandolino Footwear Women's Cassy Mid Calf Boot",
+    "average_rating": 4.8,
+    "rating_number": 19,
+    "features": [
+      "Imported",
+      "Man Made sole",
+      "Shaft measures approximately mid-calf from arch",
+      "Closure Type: Zipper"
+    ],
+    "description": [
+      "Bootie with foldover faux fur trim."
+    ],
+    "price": "69.23",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81NKxwNfGDL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71cYp5MJcSL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81L7Gdh0eGL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Unt3f8hKL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71vcdY2JZUL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Wf5w4tuBL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91NGaLNaluL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41vsBBmaVzL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31J6gZ0u-gL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31P7B2pAz1L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31yfOseMZVL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31sK75rVNPL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/415scjqimkL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41enmMWowEL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41vsBBmaVzL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31J6gZ0u-gL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31P7B2pAz1L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31yfOseMZVL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31sK75rVNPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/415scjqimkL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41enmMWowEL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Bandolino",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Boots",
+      "Mid-Calf"
+    ],
+    "details": "{\"Package Dimensions\": \"14.9 x 12.4 x 5 inches; 2.5 Pounds\", \"Item model number\": \"bnCASSY\", \"Department\": \"womens\", \"Date First Available\": \"August 10, 2019\", \"Manufacturer\": \"Bandolino Footwear\"}",
+    "parent_asin": "B0C6TSM398",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Boots"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,44 @@
+{
+    "main_category": null,
+    "title": "Time life, Rhythm & Blues- 1963",
+    "average_rating": 4.8,
+    "rating_number": 4,
+    "features": [
+        "Compact disc",
+        "1990 Release."
+    ],
+    "description": [
+        "Compact Disc"
+    ],
+    "price": "8.0",
+    "images": {
+        "hi_res": [
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61rYxJze6zL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51meCLlyEqL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61rYxJze6zL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51meCLlyEqL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Time Life",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"6 x 5 x 0.25 inches\", \"Item Weight\": \"6.4 ounces\", \"Manufacturer\": \"Time Life\", \"Item model number\": \"RHD-02\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"November 16, 2007\"}",
+    "parent_asin": "B000Z74NDI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

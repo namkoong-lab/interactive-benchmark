@@ -1,0 +1,79 @@
+{
+  "item_id": 1778,
+  "metadata": {
+    "main_category": "All Electronics",
+    "title": "Diitao 4PCS HC-06 RS232 Wireless Bluetooth Serial Port 4 Pin RF Transceiver Board Module Bi-Directional Serial Support Slave Mode(HC-06)",
+    "average_rating": 3.0,
+    "rating_number": 1,
+    "features": [
+      "【HC-06 Chip】Leads from the module interface includes VCC, GND, TXD, RXD, reserve LED status output pin, the microcontroller can be judged by the foot state Bluetooth has connected KEY pin slave invalid.",
+      "【Voltage】The bottom plate is 3.3V LDO, the input voltage is 3.6~6V, the current is about 30mA when not paired, and about 10mA after pairing, and the input voltage is prohibited to exceed 7V!",
+      "【Works With Any USB Bluetooth Adapters】Running in slave role: Pair with BT dongle. Led indicate Bluetooth connection status, flashing Bluetooth connectivity, lit the Bluetooth connection and open a port Backplane,the effective distance in open space is 10 meters.",
+      "【This Module is A Slave】The slave can be paired with various computers with Bluetooth function, Bluetooth host, most of the mobile phones with Bluetooth, PDA, PSP and other intelligent terminals, but cannot be paired between slaves.",
+      "【Application】The module is mainly used for short-range data wireless transmission,such as Bluetooth wireless data transmission,Industrial remote control, telemetry,Traffic, underground positioning, alarm,Smart home ect."
+    ],
+    "description": [
+      "Diitao 4PCS HC-06 RS232 Wireless Bluetooth Serial Port 4 Pin RF Transceiver Board Module Bi-Directional Serial Support Slave Mode(HC-06)Allows your device to both send or receive the TTL data via Bluetooth technology without connecting a serial cable to your computer.This bluetooth bluetooth is perfect for adding bluetooth functionality to your arduino project. But don't think that it is limited to just being used there. Another use you will find for this bluetooth module is with your flight management controller on your quadcopter.It should be able to be used with several of the available options, so long as the control software supports bluetooth functionality. With this module, you don't have to plug into your flight controller with a micro usb cable every time you want to tweak something, upload a new configuration, or check data.So long as you are within range,youI can connect to it through bluetooth instead.There is even an android version of your flight controller software so you can do everything from your phone and not have to carry a laptop with you. Do some googling and you should also be able to find instructions and how-to's for changing the settings on the bluetooth module itself, like the name it uses to identify itself and the pass code for pairing it with devices, along with enabling and disabling different bluetooth protocols.Note:1.SPP-CA Bluetooth module serial port level to 3.3V, if connect 5V level,the system needs to increase the level conversion chip.2.The Bluetooth signal is greatly affected by the surrounding, such as trees, metals, walls and other obstacles will have a certain Bluetooth signal absorption or shielding, we advise do not installed in the metal shell.3.Due to the metal will weaken the antenna function,we advise when you lay board for the module, the module below the antenna do not shop and alignment, it is best to hollow out.Package included:4*HC-06 RS232 4 Pin Wireless Bluetooth Serial Transceiver Support Module"
+    ],
+    "price": "13.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81ZIGa+yArL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61paz56wfWL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61L0oT-2sUL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Z+6ROWfyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61lpOzv3zyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/611zeuV7xiL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51TKAYNX-1L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41DxwJydf-L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41MwtD328PL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41AEVOdr01L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41VqIZSPAIL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Y-tyeEiBL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51TKAYNX-1L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41DxwJydf-L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41MwtD328PL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41AEVOdr01L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41VqIZSPAIL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Y-tyeEiBL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Diitao",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Networking Products",
+      "Network Adapters",
+      "Bluetooth Network Adapters"
+    ],
+    "details": "{\"Package Dimensions\": \"4 x 2 x 0.05 inches\", \"Item Weight\": \"0.81 ounces\", \"Best Sellers Rank\": {\"Bluetooth Network Adapters\": 589}, \"Date First Available\": \"July 4, 2022\", \"Manufacturer\": \"Diitao\", \"Country of Origin\": \"China\", \"Brand\": \"Diitao\", \"Hardware Interface\": \"Bluetooth, USB\", \"Color\": \"HC-06\", \"Compatible Devices\": \"Desktop\", \"Data Link Protocol\": \"Bluetooth, USB\"}",
+    "parent_asin": "B0B5Q6WP3C",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Electronics",
+      "Adapters & Connectors"
+    ],
+    "confidence": 0.9
+  }
+}

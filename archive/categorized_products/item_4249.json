@@ -1,0 +1,69 @@
+{
+  "item_id": 4249,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Nickelodeon boys Bubble Guppies 5 Pack Shorty Socks Boys 5 Pack Shorty Socks",
+    "average_rating": 4.9,
+    "rating_number": 299,
+    "features": [
+      "98% Polyester, 2% Spandex",
+      "Imported",
+      "No Closure closure",
+      "Machine Wash",
+      "5 pack of socks",
+      "Bubble guppies themed",
+      "Sock size 5-6.5; fits shoe size 4-7.5"
+    ],
+    "description": [
+      "Five fun pairs of Bubble Guppies themed shorty socks"
+    ],
+    "price": "9.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/817COc2eVVL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81QNFuqadUL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81jP9QRrxbL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51H-tWnMUQL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41PiWHxpdhL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Ke6gmRpGL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51H-tWnMUQL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41PiWHxpdhL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41Ke6gmRpGL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Nickelodeon",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Baby",
+      "Baby Boys",
+      "Accessories",
+      "Socks"
+    ],
+    "details": "{\"Department\": \"boys\", \"Date First Available\": \"May 24, 2018\", \"Manufacturer\": \"High Point Children's Apparel\"}",
+    "parent_asin": "B07D9B6V3F",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Socks"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Confident (Folio) (French Edition)",
+    "average_rating": 4.2,
+    "rating_number": 954,
+    "features": [
+        "Camille vient de perdre sa mère. Parmi les lettres de condoléances, elle découvre un étrange courrier, non signé. Elle croit d'abord à une erreur mais les lettres continuent d'arriver, tissant le roman de deux amours impossibles, de quatre destins brisés. Peu à peu, Camille comprend qu'elle n'est pas étrangère au terrible secret que cette correspondance renferme. Dans ce premier roman sur fond de Seconde Guerre mondiale, Hélène Grémillon mêle de main de maître récit historique et suspens psychologique. Le confident a obtenu cinq prix littéraires et été traduit en dix-huit langues."
+    ],
+    "description": [
+        "Book Description",
+        "Dans ce premier roman sur fond de Seconde Guerre mondiale, Hélène Grémillon mêle de main de maître récit historique et suspens psychologique."
+    ],
+    "price": "13.7",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41TSrErcCVL._SX302_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "French Edition                          Helen Gremillon (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Genre Fiction"
+    ],
+    "details": "{\"Publisher\": \"Gallimard Education; 0 edition (March 1, 2012)\", \"Language\": \"French\", \"Pocket Book\": \"320 pages\", \"ISBN 10\": \"2070445097\", \"ISBN 13\": \"978-2070445097\", \"Item Weight\": \"5.6 ounces\", \"Dimensions\": \"4.53 x 0.55 x 7.09 inches\"}",
+    "parent_asin": "2070445097",
+    "bought_together": null,
+    "subtitle": "Pocket Book – March 1, 2012",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Hélène Grémillon', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

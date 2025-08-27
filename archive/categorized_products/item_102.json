@@ -1,0 +1,63 @@
+{
+  "item_id": 102,
+  "metadata": {
+    "main_category": "Industrial & Scientific",
+    "title": "Gallagher G627014 Electric Fence 12.5-Gauge Heavy Duty Underground Cable, 65-Feet",
+    "average_rating": 4.3,
+    "rating_number": 7,
+    "features": [
+      "Made for direct burial, ideal for standard lead outs and under gate cabling"
+    ],
+    "description": [
+      "Gallagher G627014 Electric Fence 12.5-Gauge Heavy Duty Underground Cable, 65-Feet"
+    ],
+    "price": "45.86",
+    "images": {
+      "hi_res": [
+        null,
+        "https://m.media-amazon.com/images/I/81gBezNedvL._SL1500_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51Gh2MOwT+L.jpg",
+        "https://m.media-amazon.com/images/I/418EWMCXW9L.jpg",
+        "https://m.media-amazon.com/images/I/31urUvlC0TL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51Gh2MOwT+L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/418EWMCXW9L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31urUvlC0TL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT12"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Gallagher",
+    "categories": [
+      "Patio, Lawn & Garden",
+      "Farm & Ranch",
+      "Structures & Hardware",
+      "Agricultural Fencing"
+    ],
+    "details": "{\"Color\": \"Black\", \"Brand\": \"Gallagher\", \"Gauge\": \"12.5\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"2.5 x 10 x 10 inches; 0.01 Ounces\", \"Item model number\": \"G627014\", \"Date First Available\": \"September 25, 2013\", \"Manufacturer\": \"HORIZON DISTRIBUTION\"}",
+    "parent_asin": "B004CQY4NM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Industrial & Scientific",
+      "Industrial Hardware",
+      "Fencing Equipment"
+    ],
+    "confidence": 0.95
+  }
+}

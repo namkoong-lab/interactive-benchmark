@@ -1,0 +1,54 @@
+{
+  "item_id": 312,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Say Somethin'",
+    "average_rating": 4.0,
+    "rating_number": 11,
+    "features": [],
+    "description": [
+      "David Clayton-Thomas began his amazing journey with his 1968 debut album with Blood Sweat & Tears that sold 10 million copies worldwide. The self-titled record topped the Billboard album chart for seven weeks, and charted for a staggering 109 weeks. It won an unprecedented five Grammy awards, including Album of The Year. He hasn't slowed down since then and developed into one of the most recognizable voices in music, to date selling over 40 million records. In 2007 his jazz/rock composition \"Spinning Wheel\" was enshrined in the Songwriter's Hall Of Fame. Through the years, he has lost none of the attributes that have made him one of the greatest vocalists of his generation. That unmistakable voice now soaring and sunny, now a dark, somber shade of blue - he still just sings the hell out of a song."
+    ],
+    "price": "16.97",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71QcicJILxL._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/71aVMeuHTDL._SL1200_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51-O4b1lXZL.jpg",
+        "https://m.media-amazon.com/images/I/51ciXLdCzOL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51-O4b1lXZL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51ciXLdCzOL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "David Clayton-Thomas  (Artist)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Jazz"
+    ],
+    "details": "{\"Product Dimensions\": \"5.51 x 0.2 x 4.92 inches; 1.41 Ounces\", \"Manufacturer\": \"Linus\", \"Original Release Date\": \"2020\", \"Date First Available\": \"November 13, 2019\", \"Label\": \"Linus\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B07ZW9PYK9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Singles & EPs"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "item_id": 4141,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Gbond Apparel Picasso Don Quixote T-Shirt",
+    "average_rating": 4.6,
+    "rating_number": 39,
+    "features": [
+      "100% Cotton",
+      "Pull On closure",
+      "100% Premium Soft Cotton",
+      "Printed with pride in Minnesota",
+      "5.3 oz., double-needle-cover seamed neck",
+      "Preshrunk",
+      "Makes a great personalized gift"
+    ],
+    "description": [
+      "Comfortable modern fit. Premium quality soft cotton - you will love how this T-shirt feels! Made from super soft, preshrunk cotton that fit true-to-size. T-shirts make great personalized gifts."
+    ],
+    "price": "13.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71wVSxPvaFL._AC_UL1392_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41ueXHM3HYL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41ueXHM3HYL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Gbond Apparel",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Men",
+      "Shirts",
+      "T-Shirts"
+    ],
+    "details": "{\"Item model number\": \"[MY864]\", \"Department\": \"mens\", \"Date First Available\": \"November 14, 2016\"}",
+    "parent_asin": "B01N8VNX4Z",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's T-Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

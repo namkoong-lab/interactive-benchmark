@@ -1,0 +1,43 @@
+{
+    "main_category": "Grocery",
+    "title": "Boar's Head Brown Sugar and Spice Ham Glaze",
+    "average_rating": 4.3,
+    "rating_number": 297,
+    "features": [
+        "This glaze is all natural, gluten free, milk free, no msg added, and no caramel color added.",
+        "Coat ham with glaze and tint with aluminum foil. Heat at 325°F, 15 minutes per pound. 15 minutes before it finishes, coat with additional glaze. Bake uncovered at 425°F an additional 15 minutes."
+    ],
+    "description": [
+        "Boar's Head Brown Sugar and Spice Ham Glaze is described as a \"tasty blend of vibrant mustard, brown sugar, sweet pineapple juice, and carefully selected spices, this flavorful glaze is ready to spread for a show-stopping meal\" and is \"the perfect balance of sweet and savory.\""
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51TyTTrukdL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51TyTTrukdL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Boar's Head",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Boar's Head"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.28 x 3.98 x 2.95 inches; 11 Ounces\", \"UPC\": \"740614360564\"}",
+    "parent_asin": "B074V2XVMF",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

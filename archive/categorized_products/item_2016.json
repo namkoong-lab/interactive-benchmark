@@ -1,0 +1,50 @@
+{
+  "item_id": 2016,
+  "metadata": {
+    "main_category": "Cell Phones & Accessories",
+    "title": "Garmin GTM26 Traffic Receiver",
+    "average_rating": 4.0,
+    "rating_number": 69,
+    "features": [],
+    "description": [
+      "Garmin GTM26 Traffic Receiver"
+    ],
+    "price": "24.99",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41vM75R44FL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41vM75R44FL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Garmin",
+    "categories": [
+      "Electronics",
+      "GPS, Finders & Accessories",
+      "GPS System Accessories"
+    ],
+    "details": "{\"Package Dimensions\": \"6.7 x 3.1 x 2.1 inches\", \"Item Weight\": \"0.35 Pounds\", \"Item model number\": \"GARMIN 010-00579-00\", \"Best Sellers Rank\": {\"GPS System Accessories\": 5005}, \"Is Discontinued By Manufacturer\": \"No\", \"Other display features\": \"Wireless\", \"Manufacturer\": \"Garmin\", \"Date First Available\": \"December 19, 2005\", \"Brand\": \"Garmin\", \"Model Name\": \"FBA_GRM0056700\", \"Map Type\": \"North America\", \"Mounting Type\": \"Windshield Mount, Dashboard Mount, found in image\", \"Are Batteries Included\": \"No\"}",
+    "parent_asin": "B0014TU3YY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Cell Phones & Accessories"
+    ],
+    "confidence": 0.95
+  }
+}

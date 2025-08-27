@@ -1,0 +1,53 @@
+{
+  "item_id": 2696,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "DEFEET AIR1TDBK401 Aireator 1\" Speede Team Socks, X-Large, Black/White",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+      "60% nylon",
+      "Machine Wash",
+      "Thin throughout for a lightweight feel",
+      "Breathable and moisture wicking",
+      "Machine wash cold, Tumble Dry low. No bleach, softeners or harsh detergents"
+    ],
+    "description": [
+      "The original DeFeet sock, the Aireator, has been consistently upgraded and remains the gold standard of cycling socks. Affordable and incredibly durable, Aireator's are the most popular cycling sock the world has ever known. Available in many different cuff heights and either single or double layer cuff, the foot of the sock is the same on all of them. The name Aireator comes from the Aireator mesh weave foot top. The first sock to incorporate this type of open-mesh construction, Aireator's breathe and wick well. They are thin throughout for a lightweight feel and help maintain an efficient, close fit in performance cycling shoes. Made with Sorbtek Repreve fibers that are derived from recycled resources. ."
+    ],
+    "price": "13.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71hgAy5-DWL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/417NyCHbbeL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/417NyCHbbeL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "DEFEET",
+    "categories": [],
+    "details": "{\"Product Dimensions\": \"8 x 1 x 4 inches; 1.48 Ounces\", \"Item model number\": \"AIR1TDBK401\", \"Department\": \"unisex\", \"Date First Available\": \"November 17, 2009\", \"Manufacturer\": \"Pro-Motion Distributing - Direct\"}",
+    "parent_asin": "B06XP6B3P6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Socks"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "item_id": 575,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Aphrodisiac: Best of",
+    "average_rating": 4.3,
+    "rating_number": 12,
+    "features": [],
+    "description": [
+      "21 Track Collection of the RCA Hit Singles and Top Album Tracks, plus Many 12\" Mixes. Tracks Include I Want Candy, Rikki Dee, Quiver, Prince of Darkness and Much More."
+    ],
+    "price": "4.66",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51tFx+lFDML.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51tFx+lFDML._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Bow Wow Wow   Ian Bousfield   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Indie & Alternative",
+      "New Wave & Post-Punk",
+      "New Wave"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Language\": \"English\", \"Package Dimensions\": \"5.55 x 4.97 x 0.54 inches; 3.13 Ounces\", \"Manufacturer\": \"Camden International\", \"Date First Available\": \"July 27, 2006\", \"Label\": \"Camden International\", \"Country of Origin\": \"United Kingdom\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000007TXR",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Music Collections"
+    ],
+    "confidence": 0.95
+  }
+}

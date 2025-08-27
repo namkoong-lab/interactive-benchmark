@@ -1,0 +1,65 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Nike Mens Training Fitness Pullover Top",
+    "average_rating": 4.4,
+    "rating_number": 55,
+    "features": [
+        "100% Polyester",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Pull On closure",
+        "Regular fit",
+        "Soft fabric",
+        "Department: men's"
+    ],
+    "description": [
+        "Nike is one of the worlds most recognizable brands designed to keep you at the top of your game. With their innovative fabrics and styles, Nike is there to suit any activity. This Nike Pullover Top is guaranteed authentic. It is crafted with 93% Polyester/7% Spandex."
+    ],
+    "price": "40.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91+bx0WQ7+L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/A1NFqKESunL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91doK0OHNeL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61b0d2ldEZL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41xl5b5VaTL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51iLVyQm2XL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41XaJkkEalL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/314JQg0GOLL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41xl5b5VaTL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51iLVyQm2XL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41XaJkkEalL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/314JQg0GOLL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT09"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nike",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Active",
+        "Active Shirts & Tees",
+        "T-Shirts"
+    ],
+    "details": "{\"Package Dimensions\": \"6 x 6 x 2 inches; 2 Ounces\", \"Item model number\": \"CZ1181\", \"Department\": \"Mens\", \"Date First Available\": \"September 27, 2021\"}",
+    "parent_asin": "B09H7JJ5SY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

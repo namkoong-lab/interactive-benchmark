@@ -1,0 +1,84 @@
+{
+  "item_id": 3332,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "TOMS Women's Jutti D'Orsay Loafer Flat",
+    "average_rating": 3.7,
+    "rating_number": 3,
+    "features": [
+      "Made in the USA or Imported",
+      "Rubber sole",
+      "Suede, leather, and textile mix uppers",
+      "OrthoLite Eco LT Hybrid insoles made with 26% eco content (15% waste foam, 5% recycled content and 6% bio-oils)",
+      "Non-removable insoles",
+      "Leather welt and stacked leather wrapped flat heel",
+      "Custom German outsole with TOMS design"
+    ],
+    "description": [
+      "TOMS commits ⅓ of their profits in support of grassroots good, partnering with organizations at the local level to boost mental health, increase access to opportunity, and end gun violence."
+    ],
+    "price": "62.42",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51Bpn7zrI5L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41nGPDVraBL._AC_UL1297_.jpg",
+        "https://m.media-amazon.com/images/I/51+N5osbVJL._AC_UL1050_.jpg",
+        "https://m.media-amazon.com/images/I/61qUmdfoWtL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71uMshLuRXL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61pm40rYchL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/617WvSGFnmL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31tm99ag3-L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/317RPp9NTEL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41yyigR4MdL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31Da5tkmvOL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31IyzHwXEPL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/316QsBsmA2L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31HhAEfxb8L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31tm99ag3-L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/317RPp9NTEL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41yyigR4MdL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31Da5tkmvOL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31IyzHwXEPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/316QsBsmA2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31HhAEfxb8L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "TOMS",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes"
+    ],
+    "details": "{\"Item model number\": \"10018985\", \"Department\": \"womens\", \"Date First Available\": \"May 27, 2023\", \"Manufacturer\": \"TOMS\"}",
+    "parent_asin": "B0C6G2SHR8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Flats"
+    ],
+    "confidence": 0.95
+  }
+}

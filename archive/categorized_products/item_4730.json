@@ -1,0 +1,69 @@
+{
+  "item_id": 4730,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "TopHeadwear Mens Adjustable Captain's Cap",
+    "average_rating": 4.5,
+    "rating_number": 50,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Hand Wash Only",
+      "Cotton",
+      "Adjustable strap",
+      "Twill nautical cap shape",
+      "One Size Fits Most"
+    ],
+    "description": [
+      "Perfect for your overseas trip, you'll feel just like a captain aboard your faithful ship with this high quality captain caps from TopHeadwear."
+    ],
+    "price": "15.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81AYVaUKYZL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51vUYH1picL._AC_UL1001_.jpg",
+        "https://m.media-amazon.com/images/I/51MaeP+ZfKL._AC_UL1001_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41wDQ+BDmtL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41gUbxJqwOL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41YrZylPz1L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41wDQ+BDmtL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41gUbxJqwOL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41YrZylPz1L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "TOP HEADWEAR",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Accessories",
+      "Hats & Caps",
+      "Baseball Caps"
+    ],
+    "details": "{\"Product Dimensions\": \"9 x 1 x 9 inches; 8 Ounces\", \"Department\": \"mens\", \"Date First Available\": \"March 18, 2015\", \"Manufacturer\": \"TOP HEADWEAR\"}",
+    "parent_asin": "B0761HP2YY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Hats & Beanies"
+    ],
+    "confidence": 0.95
+  }
+}

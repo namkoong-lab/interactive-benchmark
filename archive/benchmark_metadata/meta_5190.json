@@ -1,0 +1,64 @@
+{
+    "main_category": "Toys & Games",
+    "title": "Parker Brothers Rack-O Game",
+    "average_rating": 4.8,
+    "rating_number": 14,
+    "features": [
+        "Double the racks",
+        "Board game",
+        "Vintage game",
+        "Vintage board game"
+    ],
+    "description": [
+        "Play with double the racks and double the fun. Lune up your red and blue cards in numerical order and test your skills. Ages 10 to Adult. 2-4 players."
+    ],
+    "price": "49.98",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51qRidqE--L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51qRidqE--L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Putting Numbers In Order Has Never Been So Much Fun",
+            "Fun game for 2-4 players! ",
+            "Unboxing Rack-O, check out what you get with this 1950s game",
+            "Racko Is Way Better Than I Hoped!",
+            "Winning Moves Games Rack-O"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0abe56bc13944939b4b9d57cb62d02f6?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0efaed88f12948fcb7c4d2a3e4a0a42c?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/0779ab9898004324a2d4e212873efba4?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/0d9867b2f81e4ad3b7e96f924570a3a9?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/8d4a31859461494eb490c7420b763d00?ref=dp_vse_rvc_4"
+        ],
+        "user_id": [
+            "/shop/nancybirdsell",
+            "/shop/bre.shisso",
+            "/shop/bigdudelikesfood",
+            "/shop/geektasticdad",
+            ""
+        ]
+    },
+    "store": "Parker Brothers",
+    "categories": [
+        "Toys & Games",
+        "Games & Accessories",
+        "Board Games"
+    ],
+    "details": "{\"Product Dimensions\": \"10.1 x 7.4 x 2.1 inches\", \"Item Weight\": \"14.4 ounces\", \"Item model number\": \"4302\", \"Best Sellers Rank\": {\"Toys & Games\": 672413, \"Board Games\": 21611}, \"Is Discontinued By Manufacturer\": \"No\", \"Manufacturer\": \"Milton Bradley\"}",
+    "parent_asin": "B019AHGWIC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

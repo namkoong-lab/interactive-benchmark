@@ -1,0 +1,53 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "Pro PHP Security: From Application Security Principles to the Implementation of XSS Defenses (Expert's Voice in Open Source)",
+    "average_rating": 4.7,
+    "rating_number": 15,
+    "features": [
+        "PHP security, just like PHP itself, has advanced. Updated for PHP 5.3, the second edition of this authoritative PHP security book covers foundational PHP security topics like SQL injection, XSS, user authentication, and secure PHP development.",
+        "Chris Snyder",
+        "and",
+        "Tom Myer",
+        "also delve into recent developments like mobile security, the impact of JavaScript, and the advantages of recent PHP hardening efforts.",
+        "Pro PHP Security, Second Edition",
+        "will serve as your complete guide for taking defensive and proactive security measures within your PHP applications. Beginners in secure programming will find a lot of material on secure PHP development, the basics of encryption, secure protocols, as well as how to reconcile the demands of server-side and web application security."
+    ],
+    "description": [
+        "About the Author",
+        "Chris Snyder is a software engineer at the Fund for the City of New York, where he helps develop next-generation websites and services for nonprofit organizations. He is a member of the executive board of New York PHP, and has been looking for new ways to build scriptable, linked, multimedia content since he saw his first Hypercard stack in 1988.",
+        "--This text refers to the",
+        "paperback",
+        "edition."
+    ],
+    "price": "18.1",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51yAbnfwAkL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Chris Snyder (Author),  Thomas Myer (Author),  Michael Southwell (Author)",
+    "categories": [
+        "Kindle Store",
+        "Kindle eBooks",
+        "Computers & Technology"
+    ],
+    "details": "{\"Publisher\": \"Apress; 2nd edition (July 29, 2011)\", \"Publication date\": \"July 29, 2011\", \"Language\": \"English\", \"File size\": \"3718 KB\", \"Text to Speech\": \"Enabled\", \"Enhanced typesetting\": \"Not Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Not Enabled\", \"Sticky notes\": \"Not Enabled\", \"Print length\": \"386 pages\"}",
+    "parent_asin": "B004GXAGZG",
+    "bought_together": null,
+    "subtitle": "2nd Edition, Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Chris Snyder', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

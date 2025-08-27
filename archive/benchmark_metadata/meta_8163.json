@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "Love Texas Style",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Rugged men. Spirited women. Romance as breathtaking as the Texas landscape. From the Boot Scootin' Bliss and Roadside Grill to the slick Dallas skyscrapers and all the highways and ranches in between, this heartwarming collection of love stories by debut and award-winning authors celebrates the heroism and passion found only in the Lone Star State."
+    ],
+    "description": [
+        "About the Author",
+        "USA Today & Publisher's Weekly Bestselling Author",
+        "Angi Morgan",
+        "writes intriguing stories where honor and danger collide with love. She drags her dogs -and husband- around Texas for research road trips so she can write off her camera. They have a map with highlighted roads they've traveled and intend to take every county road they find. Somehow each little detour makes it into a book. Find out more at: AngiMorgan.com"
+    ],
+    "price": "15.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51A1SoEZwiL._SX311_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nancy Connally (Author),  Christine Crocker (Author),  Jen FitzGerald (Author),  Nikki Hollaway (Author),  Mary Malcolm (Author),  L.A. Mitchell (Author),  Angi Morgan (Author),  Gina Lee Nelson (Author),  Beth Shriver (Author),  Marty Tidwell (Author)",
+    "categories": [
+        "Books",
+        "Romance",
+        "Anthologies"
+    ],
+    "details": "{\"Publisher\": \"The Wild Rose Press, Inc.; First Edition (February 28, 2008)\", \"Language\": \"English\", \"Paperback\": \"228 pages\", \"ISBN 10\": \"1601541996\", \"ISBN 13\": \"978-1601541994\", \"Item Weight\": \"9.6 ounces\", \"Dimensions\": \"5 x 0.52 x 8 inches\"}",
+    "parent_asin": "1601541996",
+    "bought_together": null,
+    "subtitle": "Paperback – February 28, 2008",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/6l42llkt9hjh98f2jmo3q5ei23._SY600_.jpg', 'name': 'Gina Lee Nelson', 'about': ['Gina Lee Nelson grew up on the sugar beaches of the Florida Gulf Coast. Drawn to the Big Apple by the sweet smell of wishful thinking, she studied acting on Broadway until a dark-eyed cowboy flung her over his saddle and hightailed it to the Southwest.', \"Prior to writing women's fiction, Gina always found a way to add a touch of the dramatic to her life: dinner theatre in Mississippi, can-can club in Florida, flower shop in Germany, acting school on Broadway, sweatshirt boutique on Madison Avenue, all night dive on the Lower East Side, video series in Jersey, giant Furskin in the New York Toy Fair, and plays and musicals.\", \"She's currently content to pour her melodramatic tendencies into writing sweet contemporary romance. Her alter ego, Rebecca Adler, writes the Taste of Texas cozy mystery series set in Far West Texas filled with sweet, Southern-fried flavor, delicious suspense, and scrumptious Tex-Mex recipes.\"]}"
+}

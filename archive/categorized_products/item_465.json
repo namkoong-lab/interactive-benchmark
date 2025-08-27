@@ -1,0 +1,60 @@
+{
+  "item_id": 465,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Brothers and Sisters",
+    "average_rating": 4.8,
+    "rating_number": 1053,
+    "features": [],
+    "description": [
+      "1 x Vinyl LP, Album, ReissueGermany",
+      "A1 - Wasted Words (4:19)A2 - Ramblin Man (4:46)A3 - Come And Go Blues (4:52)A4 - Jelly Jelly (5:47)B1 - Southbound (5:07)B2 - Jessica (7:02)B3 - Pony Boy (5:50)"
+    ],
+    "price": "10.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81ctmPgaOgL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71wj1csVdxL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81rW5tfhihL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/61AsCA40eZL.jpg",
+        "https://m.media-amazon.com/images/I/51+4ZsRpG1L.jpg",
+        "https://m.media-amazon.com/images/I/51uKNwGhqXL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/61AsCA40eZL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51+4ZsRpG1L._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51uKNwGhqXL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Allman Brothers Band   Format: Vinyl",
+    "categories": [
+      "CDs & Vinyl",
+      "Classic Rock",
+      "Southern Rock"
+    ],
+    "details": "{\"Package Dimensions\": \"14.7 x 14 x 1 inches; 1.15 Pounds\", \"Manufacturer\": \"Capricorn\", \"Date First Available\": \"December 14, 2006\", \"Label\": \"Capricorn\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000GB2YHA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Vinyl Records"
+    ],
+    "confidence": 0.95
+  }
+}

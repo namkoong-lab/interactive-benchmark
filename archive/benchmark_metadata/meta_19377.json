@@ -1,0 +1,44 @@
+{
+    "main_category": "Prime Video",
+    "title": "Singhing Bee",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "29min",
+        "2011",
+        "18+"
+    ],
+    "description": [
+        "Harjinder (Honey) Singh is a 12-year-old Sikh Indian-American boy poised on the brink of a major turning point in his life. His parents' obsession with raising a national spelling bee champion sharply conflicts with his desire to pursue more creative interests. This humorous short film chronicles Honey's journey to determine the right path for him."
+    ],
+    "price": "2.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Comedy",
+        "Action"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Aby Rao\"], \"Producers\": [\"Aby Rao\", \"Mandeep Lehal\"], \"Starring\": [\"Ashwin Punj\", \"Anita Punj\", \"Jas Sidhu\"]}",
+    "parent_asin": "B006SVGWQQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

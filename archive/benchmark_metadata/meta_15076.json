@@ -1,0 +1,50 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Titleist Golf- Charleston Wool Snapback Hat White/Black",
+    "average_rating": 3.6,
+    "rating_number": 5,
+    "features": [
+        "Snap closure",
+        "Wool material for ultimate comfort in colder conditions",
+        "Player preferred",
+        "Semi-curve bill",
+        "Adjustable snapback closure",
+        "Moisture-wicking sweatband"
+    ],
+    "description": [
+        "COMFORT, WARMTH, SIMPLICITY. An traditional fall cap for use on/off the course.Features:Wool material for ultimate comfort in colder conditionsPlayer preferredSemi-curve billAdjustable snapback closureMoisture-wicking sweatbandTitleist logo on front"
+    ],
+    "price": "32.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51rGNalLeTL._AC_UL1280_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21Lo7LkkqkL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/21Lo7LkkqkL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Titleist",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Accessories",
+        "Hats & Caps",
+        "Baseball Caps"
+    ],
+    "details": "{\"Item Weight\": \"8 Ounces\", \"Department\": \"Mens\", \"Date First Available\": \"October 29, 2021\", \"Manufacturer\": \"Titleist\"}",
+    "parent_asin": "B09M942F93",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

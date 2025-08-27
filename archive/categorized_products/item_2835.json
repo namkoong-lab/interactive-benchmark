@@ -1,0 +1,66 @@
+{
+  "item_id": 2835,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Marc Stevens Women's Relaxed Jersey V-Neck T-Shirt - MS87005",
+    "average_rating": 2.0,
+    "rating_number": 1,
+    "features": [
+      "100% Polyester",
+      "Pull On closure",
+      "Made from 100% airlume combed and ringspun cotton, 32 singles",
+      "Athletic Heather and Black Heather are 90% airlume combed and ringspun cotton and 10% polyester",
+      "Heathers/Blend Colors are 52% airlume combed and ringspun cotton and 48% polyester",
+      "Triblends are 50% polyester/ 25% airlume combed and ringspun cotton/ 25% rayon, 40 singles",
+      "Side seams",
+      "Casual tee perfect for any occasion",
+      "Available in a variety of colors and sizes",
+      "Relaxed fit"
+    ],
+    "description": [
+      "Here is a deal you don't want to miss. This v-neck t-shirt is so soft and comfortable, perfect for any occasion. It is a high-quality product made with serious attention to detail. It has a relaxed stylish fit but offers the ultimate comfort. The tee is available in a large variety of colors and sizes to choose from. Try one today - this casual tee is one you can never go wrong with!"
+    ],
+    "price": "13.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71Rf+oboS8L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71QWKhxYzrL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61ze2Sfic3L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31nsbVlhgyL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31DeYCpVDbL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/315ylG6dTkL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31nsbVlhgyL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31DeYCpVDbL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/315ylG6dTkL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Marc Stevens",
+    "categories": [],
+    "details": "{\"Item model number\": \"MS87005\", \"Date First Available\": \"March 24, 2021\"}",
+    "parent_asin": "B09118KK9Z",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops"
+    ],
+    "confidence": 0.95
+  }
+}

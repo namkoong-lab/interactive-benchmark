@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Homer's Iliad - Ancient Greece Books for Teens Children's Ancient History",
+    "average_rating": 3.5,
+    "rating_number": 4,
+    "features": [
+        "Let's take a break from facts and enjoy a leisurely stroll in myths and fiction. The Iliad is Homer's masterpiece. It is a story of love, adventure and a little bit of magic by gods and goddesses. You can pretty much say that it's a reflection of the Greek culture made immemorial by magnificent writing. Curious? Then read this child-friendly book today!"
+    ],
+    "description": [
+        "About the Author",
+        "Baby Professor showcases a collection of subjects that are educational for kids to help them learn how to do something themselves, exactly how something is done or how it came about. Children love to learn through attractive visuals and Baby Prof. is ideal to get your child the head start he or she needs for the future. Our Motto - \"Learning is Fun, so let's Make it Fun to Learn\"."
+    ],
+    "price": "12.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61qc66IWZ4L._SY498_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ba Professor (Author)",
+    "categories": [
+        "Books",
+        "Teen & Young Adult",
+        "Education & Reference"
+    ],
+    "details": "{\"Publisher\": \"Baby Professor (April 15, 2017)\", \"Language\": \"English\", \"Paperback\": \"64 pages\", \"ISBN 10\": \"1541911229\", \"ISBN 13\": \"978-1541911222\", \"Item Weight\": \"4.9 ounces\", \"Dimensions\": \"8.5 x 8.5 x 0.13 inches\"}",
+    "parent_asin": "1541911229",
+    "bought_together": null,
+    "subtitle": "Paperback – April 15, 2017",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/madr754f1bb3drln0amiog646._SY600_.jpg', 'name': 'Baby Professor', 'about': ['Baby Professor showcases a collection of subjects that are educational for kids to help them learn how to do something themselves, exactly how something is done or how it came about.', 'Children love to learn through attractive visuals and Baby Prof. is ideal to get your child the head start he or she needs for the future. Our Motto - \"Learning is Fun, so let\\'s Make it Fun to Learn\".']}"
+}

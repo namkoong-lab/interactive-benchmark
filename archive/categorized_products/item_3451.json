@@ -1,0 +1,86 @@
+{
+  "item_id": 3451,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Birkenstock Men's Madrid Sandal",
+    "average_rating": 4.5,
+    "rating_number": 517,
+    "features": [
+      "Imported",
+      "Rubber sole"
+    ],
+    "description": [
+      "Madrid Birko-Flor® Ginger Brown Mules"
+    ],
+    "price": "91.84",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71vSwIpEmEL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71-uV0JjRIL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71eoQM0l+XL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ndrT7GhuL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81PJBWtzG1L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71YYI9yrr5L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71NiI8P4xJL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/410OxIx5TeL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41J2nDFYdOL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Pe92ZjiVL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51KaGIYKlKL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51uY3yWdQkL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/4151BmyBFVL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41v7cEBCZhL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/410OxIx5TeL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41J2nDFYdOL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Pe92ZjiVL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51KaGIYKlKL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51uY3yWdQkL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/4151BmyBFVL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41v7cEBCZhL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05",
+        "PT06"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Birkenstock Women's Open-Back"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/08be90de7a5f452b8f425573d36a23b1?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "Birkenstock",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Sandals",
+      "Flats"
+    ],
+    "details": "{\"Item model number\": \"1005292\", \"Department\": \"womens\", \"Date First Available\": \"April 8, 2015\", \"Manufacturer\": \"Birkenstock\"}",
+    "parent_asin": "B01FC3JSHK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

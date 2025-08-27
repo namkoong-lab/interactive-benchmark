@@ -1,0 +1,56 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Port Authority Long Sleeve Easy Care Shirt, Steel Grey, XL",
+    "average_rating": 4.3,
+    "rating_number": 22,
+    "features": [
+        "55/45 cotton/poly",
+        "Made in the USA or Imported",
+        "Button closure",
+        "Machine Wash",
+        "Button-down collar.",
+        "Dyed-to-match buttons.",
+        "Patch pocket.",
+        "Box back pleat."
+    ],
+    "description": [
+        "4.5-ounce, 55/45 cotton/poly, Button-down collar, Dyed-to-match buttons, Left chest pocket, Box back pleat, Adjustable cuffs,"
+    ],
+    "price": "21.94",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61YYVOiy9lL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71T6E4fYD+L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41A+7lKo8yL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41dnHnOzvnL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41A+7lKo8yL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41dnHnOzvnL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Port Authority",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Shirts",
+        "Casual Button-Down Shirts"
+    ],
+    "details": "{\"Package Dimensions\": \"5 x 4.5 x 2.7 inches; 10.4 Ounces\", \"Item model number\": \"S608\", \"Department\": \"mens\", \"Date First Available\": \"October 24, 2012\"}",
+    "parent_asin": "B009W1HZNI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

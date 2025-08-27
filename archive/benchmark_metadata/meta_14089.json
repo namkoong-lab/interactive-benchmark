@@ -1,0 +1,49 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Flagline Germany - Nationality Definition Sweatshirt",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "100% Polyester",
+        "Pull On closure",
+        "Heather Gray Sweatshirt",
+        "100% Cotton"
+    ],
+    "description": [
+        "Celebrate the uniqueness of your heritage in a humorous way with our Definition specialty shirts. Available in Ash Gray sweatshirts or T-shirts, sizes S-XXL."
+    ],
+    "price": "24.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71u-4phZlOL._AC_UL1100_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51yiOvpBVaL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51yiOvpBVaL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Flagline",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Women",
+        "Sweatshirts"
+    ],
+    "details": "{\"Department\": \"Unisex-adult\", \"Date First Available\": \"March 9, 2012\"}",
+    "parent_asin": "B07BM2FNBT",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

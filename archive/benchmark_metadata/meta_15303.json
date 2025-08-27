@@ -1,0 +1,56 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Soffe Kids' T-Shirt",
+    "average_rating": 4.4,
+    "rating_number": 21,
+    "features": [
+        "50% Cotton, 50% Polyester",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Bleached body fabric",
+        "Contrast colored raglan sleeves and neckline",
+        "Rib neck",
+        "Curved shirttail"
+    ],
+    "description": [
+        "Look great on or off the field in our baseball jersey. Designed with raglan sleeves for range of motion and a curved shirt tail. Topped with contrast sleeves and neckline this is the perfect shirt to wear during practice or at home."
+    ],
+    "price": "11.49",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61m-Ib+taFL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71T4J3fNW0L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/417Da+xsMGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31G-k1Xk6BL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/417Da+xsMGL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31G-k1Xk6BL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Soffe",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Boys",
+        "Clothing",
+        "Active",
+        "Active Shirts & Tees"
+    ],
+    "details": "{\"Department\": \"unisex-child\", \"Date First Available\": \"October 11, 2019\", \"Manufacturer\": \"Soffe\"}",
+    "parent_asin": "B07Z11SNYR",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

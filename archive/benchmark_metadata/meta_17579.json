@@ -1,0 +1,69 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Comics & Manga by Comixology",
+    "average_rating": 3.9,
+    "rating_number": 5837,
+    "features": [
+        "Subscribe to comiXology Unlimited and access thousands of digital comics, graphic novels & manga (US customers only).",
+        "Buy in-app and read all of your comiXology books on all your devices. Every. Single. One.",
+        "Going off the grid? ComiXology has offline reading so your books will always be with you.",
+        "Guided View! Experience comics in a whole new way with our cinematic and immersive reading options on any device.",
+        "Log in with Amazon and read many of your Kindle comic, graphic novel & manga purchases inside of comiXology!"
+    ],
+    "description": [
+        "Upgrade your comics experience with Comixology! Explore over 200,000 digital comics, manga, and graphic novels from Marvel, DC, Viz, Kodansha, Dark Horse, Image, our own exclusive Comixology Originals, and many, many more with new content debuting nearly every day!Whether this is your first experience with comics or you’ve been a fan for years, get ready, because Comixology is going to change the way you explore the world of superheroes, sci-fi, crime noir, horror, slice-of-life and more! What are you waiting for? Here’s just a small peek at what makes us your premier digital comics service:Not only do we have 230,000 comics, graphic novels and manga, but with a Comixology Unlimited (CU) subscription, fans can read over 40,000 titles. CU comes with a 30-day free trial and is currently only available to US-based customers.Comixology, Amazon's premier digital comics service, has the perfect comic for you, from all the major publishers to indie darlings forging their own way! Our selection is unrivalled! Read the comics that inspired the hit shows and movies, like Invincible, The Boys, The Walking Dead, Locke & Key, the Marvel Cinematic Universe, the DC Cinematic Universe and so many others.Two words: Guided View. Experience comics in a whole new way with our cinematic and immersive reading options on any size device.Going off the grid? ComiXology has offline reading so your books will always be with you.Get exclusive access to Comixology Originals, our digital-first content line, with titles from top creators like Scott Snyder, Stephanie Phillips, Chip Zdarsky, C. Spike Trotman, Jock, and more. Titles are available at no additional cost for members of Amazon Prime, Kindle Unlimited, and Comixology Unlimited, and for purchase on the comics shopping experience on Amazon. By using this app, you agree to the Kindle Store Terms of Use (https://www.amazon.com/gp/help/customer/display.html?nodeId=201014950) and Amazon Privacy Notice (https://www.amazon.com/privacy).FIND US-------------------------------Web: comixology.comTwitter: @comixologyFacebook: facebook.com/comixologyInstagram: instagram.com/comixology"
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/91fLAhE+nuL.png",
+            "https://m.media-amazon.com/images/I/91B7WhoU48L.png",
+            "https://m.media-amazon.com/images/I/91UDAjbw4jL.png",
+            "https://m.media-amazon.com/images/I/91+F7MxRSDL.png",
+            "https://m.media-amazon.com/images/I/91R0G8adZxL.png",
+            "https://m.media-amazon.com/images/I/81RH0xS5XeL.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "comiXology",
+    "categories": [],
+    "details": "{\"Release Date\": \"2011\", \"Date first listed on Amazon\": \"November 14, 2011\", \"Developed By\": \"comiXology\", \"Size\": \"Varies by device (58.4MB - 96.6MB)\", \"Version\": \"Varies by device\", \"Application Permissions\": [\"Access coarse (e.g., Cell-ID, Wi-Fi) location\", \"Access information about networks\", \"Access information about Wi-Fi networks\", \"Act as an AccountAuthenticator for the AccountManager\", \"Send information about completed downloads\", \"FOREGROUND_SERVICE\", \"Access the list of accounts in the Accounts Service\", \"Open network sockets\", \"Manage the list of accounts in the AccountManager\", \"Read from external storage\", \"Read only access to device state\", \"Get notified that the operating system has finished booting\", \"Periodically wake device\", \"Request authtokens from the AccountManager\", \"PowerManager WakeLocks to keep processor from sleeping or screen from dimming\", \"Write to external storage\", \"Allows an application to receive messages via Google Cloud Messaging\", \"Receive message via Amazon Device\", \"com.google.android.gms.permission.AD_ID\"], \"Minimum Operating System\": \"Varies by device\", \"Approximate Download Time\": \"More than 5 minutes\"}",
+    "parent_asin": "B005VVSQU4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

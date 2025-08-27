@@ -119,7 +119,7 @@ def score_products_for_persona(persona_description: str, category: str, products
                 "persona_description": persona_description,
                 "category": category,
                 "products": condensed_products,
-                "instructions": "For each product, assign a score from 0 to 100 indicating how well it fits the persona. Provide a very brief reason. Return a JSON object with key 'results' as an array of objects: {id, score, reason}. Do not include any other keys or text."
+                "instructions": "You ARE the persona described. Rate each product from 0-100 based on how much YOU would like it. Give a brief reason in YOUR voice as the persona, focusing on concrete traits and preferences from your persona description (like your background, values, lifestyle, hobbies, etc.). Return a JSON object with key 'results' as an array of objects: {id, score, reason}. Do not include any other keys or text."
             }, ensure_ascii=False)},
         ],
         temperature=0.2,
@@ -155,6 +155,7 @@ def score_products_for_persona(persona_description: str, category: str, products
     for pid, score, reason in results:
         title = id_to_title.get(pid, "<unknown title>")
         print(f"{score:6.1f} - {title} (id={pid})")
+        print(f"        Reason: {reason}")
     print("=== End Persona Scoring ===\n")
     return results
 

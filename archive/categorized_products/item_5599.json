@@ -1,0 +1,71 @@
+{
+  "item_id": 5599,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Women's Slip-On Water Shoes with Strap Size 6 Black",
+    "average_rating": 3.8,
+    "rating_number": 62,
+    "features": [
+      "Rubber sole",
+      "Rubber Outsole",
+      "Slip-On Design w. Strap",
+      "Great for pool, beach, exercise etc",
+      "**The sizes runs large**"
+    ],
+    "description": [
+      "Great for the pool, beach, exercise and more. These water shoes are easy to slip on and secured with a strap across the top. The mesh design of the water shoes allows for breathability and water drainage."
+    ],
+    "price": "16.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61qjI3-vmEL._AC_UL1024_.jpg",
+        "https://m.media-amazon.com/images/I/81bS4MPDF4L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81XIuRyKeiL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/818TKGD2JwL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41Nl0iFTD6L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/514La6r9LSL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/312ObQbOytL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41hx+xDQMGL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41Nl0iFTD6L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/514La6r9LSL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/312ObQbOytL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41hx+xDQMGL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "starbay",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Athletic",
+      "Water Shoes"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"8 x 9 x 10 inches; 2 Pounds\", \"Department\": \"Womens\", \"Date First Available\": \"April 24, 2015\"}",
+    "parent_asin": "B00WNDUGC4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

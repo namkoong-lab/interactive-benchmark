@@ -1,0 +1,52 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Trevco Men's Twilight Zone Short Sleeve T-Shirt",
+    "average_rating": 4.5,
+    "rating_number": 15,
+    "features": [
+        "100% Cotton",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Short sleeve, crew neck styling",
+        "Officially licensed apparel"
+    ],
+    "description": [
+        "The twilight zone logo graphic featured on the front of a men's t-shirt"
+    ],
+    "price": "17.91",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51PtH61tgzL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41zdIXLTNNL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41zdIXLTNNL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Trevco",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Men",
+        "Shirts",
+        "T-Shirts"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"June 5, 2014\", \"Manufacturer\": \"Trevco Child Code\"}",
+    "parent_asin": "B07NZ24V39",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

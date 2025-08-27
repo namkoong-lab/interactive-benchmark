@@ -1,0 +1,48 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "London Times Women's Blouson Halter Maxi with Front Slit",
+    "average_rating": 3.8,
+    "rating_number": 14,
+    "features": [
+        "Made in USA or Imported",
+        "Button closure",
+        "Machine Wash",
+        "4"
+    ],
+    "description": [
+        "London Times offers modern, refined selections of women’s clothing that give your wardrobe some sophisticated English flair. You can wear their lovely and elegant designer pieces to your next spring, brunch, garden wedding, or vacation trip. Choose from a vast array of gorgeously constructed dresses and jumpsuits, maxi dresses that come in wrap, ruffled, and off the shoulder styles, babydoll and classic cotton shift dresses, and more."
+    ],
+    "price": "59.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71QRpwJgB2L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41TWeQCTciL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41TWeQCTciL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "London Times",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Dresses",
+        "Casual"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"January 21, 2021\", \"Manufacturer\": \"London Times\"}",
+    "parent_asin": "B09N5H664T",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

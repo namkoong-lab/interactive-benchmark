@@ -1,0 +1,42 @@
+{
+    "main_category": "Digital Music",
+    "title": "Funeral Beach",
+    "average_rating": 4.3,
+    "rating_number": 6,
+    "features": [],
+    "description": [
+        "With FUNERAL BEACH, Blood Command has delivered their definitive statement. An album that is instantly catchy, but still gets better on every listen. The mark of a classic."
+    ],
+    "price": "7.9",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81Shbg+V8IL._SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61dHI+BTySL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61dHI+BTySL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Blood Command   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Indie & Alternative",
+        "Indie & Lo-Fi",
+        "Indie Rock"
+    ],
+    "details": "{\"Product Dimensions\": \"5.67 x 5.39 x 0.39 inches; 3.6 Ounces\", \"Manufacturer\": \"Fysisk Format\", \"Date First Available\": \"September 29, 2012\", \"Label\": \"Fysisk Format\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0095GLHOS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

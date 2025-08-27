@@ -1,0 +1,57 @@
+{
+  "item_id": 373,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Izitso",
+    "average_rating": 4.6,
+    "rating_number": 29,
+    "features": [],
+    "description": [
+      "Tracks: old schoolyard / life / killin' time / kypros / bonfire / to be a star / crazy / sweet jamaica / was dog a doughnut / child for a day"
+    ],
+    "price": "3.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91gBon-oD6L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Vk--cVo-L._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41rcwT6wrNL.jpg",
+        "https://m.media-amazon.com/images/I/411m1J9AnaL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41rcwT6wrNL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/411m1J9AnaL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Yusuf/Cat Stevens   Format: Vinyl",
+    "categories": [
+      "CDs & Vinyl",
+      "International Music",
+      "Europe",
+      "British Isles",
+      "Britain"
+    ],
+    "details": "{\"Product Dimensions\": \"11.5 x 24 x 18 inches; 1.6 Ounces\", \"Manufacturer\": \"A&M Records\", \"Date First Available\": \"July 29, 2007\", \"Label\": \"A&M Records\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000UGMLR4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs"
+    ],
+    "confidence": 0.85
+  }
+}

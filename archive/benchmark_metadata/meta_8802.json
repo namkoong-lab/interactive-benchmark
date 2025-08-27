@@ -1,0 +1,38 @@
+{
+    "main_category": "Books",
+    "title": "From a Far Land",
+    "average_rating": 3.0,
+    "rating_number": 3,
+    "features": [],
+    "description": [
+        "From Publishers Weekly",
+        "On a visit to her Bryn Mawr classmate's home in China, Julie Pavernen is swiftly caught up in the glittering corruption of Shanghai in the 1920s. In a matter of months, the well-bred American befriends a White Russian countess in a seamy line of work, takes a job with her gun-running uncle and falls in love with the son of her Chinese host. After such a debut, Julie's fervent efforts on behalf of the downtrodden during three tumultuous decades of fighting to free China from the grip of warlords and foreign powers should be unsurprising, but the shallowness of her character and that of others representing various political persuasions works against plausibility. Elegant, author of bestsellers Dynasty and Manchu, is an able historian. Unfortunately, his cast of constantly seesawing lovers and wooden historical figures never brings to life the remarkably complex political shifts of the People's Revolution. Copyright 1987 Reed Business Information, Inc."
+    ],
+    "price": "7.12",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61BOpCYmFHL._SX372_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Robert Elegant (Author)",
+    "categories": [],
+    "details": "{\"Publisher\": \"Random House; First Edition (August 12, 1987)\", \"Language\": \"English\", \"Hardcover\": \"737 pages\", \"ISBN 10\": \"0394560477\", \"ISBN 13\": \"978-0394560472\", \"Item Weight\": \"1 pounds\"}",
+    "parent_asin": "0394560477",
+    "bought_together": null,
+    "subtitle": "Hardcover – August 12, 1987",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Robert S. Elegant', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

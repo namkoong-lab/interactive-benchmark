@@ -1,0 +1,64 @@
+{
+  "item_id": 4319,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Impact Velvet Underground Velvet Vinyl Fitted Jersey tee",
+    "average_rating": 4.5,
+    "rating_number": 110,
+    "features": [
+      "100% Cotton",
+      "Made in the USA",
+      "Pull On closure",
+      "Machine Wash",
+      "Brand New Item",
+      "Officially Licensed",
+      "Color: Black",
+      "Printed in the USA!"
+    ],
+    "description": [
+      "Officially Licensed Merchandise. Music, Sports & Entertainment Merchandise. Quality Products, Detailed Graphic Artwork Design. All graphic design, printing, production, and order fulfillment are done under one roof at Impact Merchandising."
+    ],
+    "price": "24.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61sFWMG7LJL._AC_UL1001_.jpg",
+        "https://m.media-amazon.com/images/I/61aww5tYlsL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51ccNiWbQmL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41N1BP-Rj4L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51ccNiWbQmL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41N1BP-Rj4L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Impact",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men"
+    ],
+    "details": "{\"Item model number\": \"VU64\", \"Department\": \"mens\", \"Date First Available\": \"February 7, 2017\", \"Manufacturer\": \"IMPACT\"}",
+    "parent_asin": "B01MUZQO2N",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's T-Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

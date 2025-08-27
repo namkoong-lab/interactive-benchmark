@@ -1,0 +1,57 @@
+{
+    "main_category": "Video Games",
+    "title": "Cars - Gamecube",
+    "average_rating": 4.2,
+    "rating_number": 169,
+    "features": [
+        "Story-based racing adventure game relives all the key moments of the movie",
+        "More than 10 playable characters from the film",
+        "Open world environment with more than 50 races"
+    ],
+    "description": [
+        "In Cars, you'll get a chance to live out the thrills and fun of the new Disney/Pixar animated film! Play as all your favurite characters from the movie, as you help Lightning McQueen capture the coveted Piston Cup Championship."
+    ],
+    "price": "23.24",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/51WzbguWjjL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51AYR4YVFYL.jpg",
+            "https://m.media-amazon.com/images/I/31BDm2VqflL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51AYR4YVFYL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31BDm2VqflL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "GLMR"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Cars - Final Trailer"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/33ab3e3b76604aca86769e72590562bd?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Disney Interactive Studios(World)",
+    "categories": [
+        "Video Games",
+        "Legacy Systems",
+        "Nintendo Systems",
+        "GameCube",
+        "Games"
+    ],
+    "details": "{\"Release date\": \"June 6, 2006\", \"Best Sellers Rank\": {\"Video Games\": 23758, \"GameCube Games\": 38}, \"Pricing\": \"The strikethrough price is the List Price. Savings represents a discount off the List Price.\", \"Product Dimensions\": \"7.5 x 5.5 x 0.5 inches; 4.66 Ounces\", \"Type of item\": \"Video Game\", \"Rated\": \"Everyone\", \"Item model number\": \"785138380551\", \"Is Discontinued By Manufacturer\": \"Yes\", \"Item Weight\": \"4.6 ounces\", \"Manufacturer\": \"Disney Interactive Studios(World)\", \"Date First Available\": \"October 31, 2006\"}",
+    "parent_asin": "B000ERVLZW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

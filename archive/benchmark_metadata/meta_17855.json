@@ -1,0 +1,53 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "MOXY SOCKS White with Red CALIFORNIA Bear Performance Crew Socks",
+    "average_rating": 5.0,
+    "rating_number": 9,
+    "features": [
+        "80% Cotton/15% Spandex/5% Elastic",
+        "Pull On closure",
+        "Machine Wash",
+        "MOXY Performance Foot",
+        "Reciprocated Heel and Toe",
+        "Comfort Mid-Calf Crew Length",
+        "Premium Durability",
+        "Universal Appeal"
+    ],
+    "description": [
+        "Meet the CALIFORNIA Bear! These California flag inspired premium crew socks blend a mesh of colors on a white sock to recreate the California flag! Complete with all the MOXY performance features, our socks are made in Southern California. Mid-calf crew, perfect for CrossFit, lacrosse, football, volleyball, skating, and general fitness!"
+    ],
+    "price": "14.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71Wap+hTFHL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81dphSSKNlL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41anssfYrXL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41qD+-U5HUL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41anssfYrXL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41qD+-U5HUL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "MOXY SOCKS",
+    "categories": [
+        "Sports & Outdoors",
+        "Athletic Socks"
+    ],
+    "details": "{\"Package Dimensions\": \"8.7 x 4.57 x 1.22 inches; 2.47 Ounces\", \"Department\": \"mens\", \"Date First Available\": \"November 5, 2013\", \"Manufacturer\": \"MOXY Socks\"}",
+    "parent_asin": "B00GRGSZPS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

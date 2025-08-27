@@ -1,0 +1,54 @@
+{
+    "main_category": "Books",
+    "title": "Room to Breathe: The Wild Heart of the San Francisco Peninsula",
+    "average_rating": 5.0,
+    "rating_number": 5,
+    "features": [
+        "With San Francisco and Silicon Valley just down the road, the hills and valleys of the San Francisco Peninsula would have been teeming with residential development had it not been for a group of visionaries who forty years ago created the Midpeninsula Regional Open Space District. More than two hundred miles of trails bring hikers, horseback riders, and bicyclists through 60,000 acres of redwood and mixed evergreen forests, oak woodlands, meadows, and streams.",
+        "Room to Breathe",
+        "is a community celebration of photographs, paintings, prose, and poetry—preserve users paying homage to the gift of wildness in our midst. It serves as a keepsake for those who know this land well; and for those who don't, it will be a revelatory introduction. In the words of the Measure R Campaign, which founded the Midpeninsula Regional Open Space District in 1972: “Open space is our green backdrop of hills. It is rolling grasslands, cool forests in the Coast Range, orchards and vineyards in the sun...It is the serene, unbuilt, unspoiled earth that awakens all our senses and makes us whole again....It is room to breathe.”"
+    ],
+    "description": [
+        "About the Author",
+        "Kristi Britt worked for the Midpeninsula Regional Open Space District for more than fifteen years and was its public affairs specialist for nearly ten of those. She served as editor of the quarterly newsletter",
+        "Open Space Views",
+        "and oversaw the production of the District's trail guide book,",
+        "Peninsula Tales and Trails",
+        ".Ken Fisher is the founder, chairman, and CEO of Fisher Investments. He is best known as the author of the",
+        "Forbes",
+        "“Portfolio Strategy” column, which he has written for more than twenty-seven years, and he is also the author of eight best-selling books, most recently",
+        "Markets Never Forget",
+        ".Steve Abbors began his professional career as a naturalist with the East Bay Regional Park District and has since worked as a watershed land manager for the East Bay Municipal Utility District and as general manager for the Midpeninsula Regional Open Space District."
+    ],
+    "price": "2.1",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51eOAvMfxAL._SY373_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ken Fisher (Foreword),  Steve Abbors (Preface),  Kristi Britt (Editor)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "History & Criticism"
+    ],
+    "details": "{\"Publisher\": \"Heyday (January 1, 2016)\", \"Language\": \"English\", \"Paperback\": \"152 pages\", \"ISBN 10\": \"1597141992\", \"ISBN 13\": \"978-1597141994\", \"Item Weight\": \"2.77 pounds\", \"Dimensions\": \"12.5 x 0.5 x 9.5 inches\"}",
+    "parent_asin": "1597141992",
+    "bought_together": null,
+    "subtitle": "Paperback – January 1, 2016",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Steve Abbors', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

@@ -1,0 +1,51 @@
+{
+  "item_id": 432,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Columbia Records Radio Hour - Volume 1 Live Radio Show",
+    "average_rating": 3.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+      "Columbia Records Radio Hour - Volume 1 // Live Radio Show// 1 Lord of the Starfields - Bruce Cockburn and Rob Wasserman 3:25 2. Lovers in a Dangerous Time - Bruce Cockburn and Rob Wasserman 4:09 3. Too Long in the Wasteland - James McMurtry 3:26 4. Safeside -James McMurtry and Jules Shear 3:08 5. Polaroids - Shawn Colvin 4:31 6. Shotgun Down the Avalanche - Shawn Colvin and Mary Chapin Carpenter 4:12 7. Come on, Come On -Shawn Colvin and Mary Chapin Carpenter 5:38 8. The Levee Song - Darden Smith, Dennis McDermott and Zev Katz 3:44 9. What We Really Want - Rosanne Cash, David Byrne and John Leventhal 3:49 10. Wouldn't It Be Loverly? - Rosanne Cash and John Leventhal 2:36 11. Raina - Peter Himmelman 4:11 12. I'm Your Man - Leonard Cohen 5:15 13. Coming Back to You - Leonard Cohen 4:17 14. Cry of a Tiny Babe - Bruce Cockburn and Lou Reed 7:42"
+    ],
+    "price": "48.19",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/21PVc1uVFdL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/21PVc1uVFdL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Leonard Cohen  (Author, Performer),     Bruce Cockburn  (Author),     Rob Wasserman  (Author, Performer),     Dennis McDermott  (Author),     Peter Himmelman  (Author, Performer),     Lou Reed  (Author, Performer),     David Byrne  (Author),     John Leventhal  (Author),     Rosanne Cash  (Author),     Shawn Colvin  (Author),     James McMurtry  (Author),     Mary Chapin Carpenter  (Author),     Darden Smith  (Author),     Zev Katz  (Author),     Jules Shear  (Performer)    &                   12                  more   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Special Interest",
+      "Radio Shows"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.6 x 4.9 x 1 inches; 2.05 Pounds\", \"Manufacturer\": \"Columbia\", \"Date First Available\": \"August 22, 2005\", \"Label\": \"Columbia\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000B4NL5Q",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs"
+    ],
+    "confidence": 0.95
+  }
+}

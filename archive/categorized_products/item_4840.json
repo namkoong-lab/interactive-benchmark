@@ -1,0 +1,63 @@
+{
+  "item_id": 4840,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Blue Lemon Men's Cotton Long Sleeve Baseball Raglan TEE Shirt",
+    "average_rating": 4.2,
+    "rating_number": 27,
+    "features": [
+      "WHITE BODY: 100% COTTON, GREY BODY: 92% COTTON 8% POLYESTER",
+      "Imported",
+      "Pull On closure",
+      "Tumble dry",
+      "Wash in COLD water, Tumble dry",
+      "LONG SLEEVE BASEBALL TEE"
+    ],
+    "description": [
+      "This sporty, clean cut baseball tee features a two-tone contrasting color scheme. It is made of soft and breathable cotton fabric designed to keep up with your active lifestyle."
+    ],
+    "price": "19.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/514ffb3yAQL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41ST6pn1YkL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41ST6pn1YkL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Blue Lemon",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Men",
+      "Shirts",
+      "T-Shirts"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Item model number\": \"TPAT110\", \"Department\": \"Unisex-adult\", \"Date First Available\": \"January 24, 2018\"}",
+    "parent_asin": "B07TXS7J48",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's T-Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

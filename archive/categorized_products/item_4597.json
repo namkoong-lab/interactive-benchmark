@@ -1,0 +1,85 @@
+{
+  "item_id": 4597,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Jessica Simpson Women's Abira Slide Sandal Flat",
+    "average_rating": 4.0,
+    "rating_number": 65,
+    "features": [
+      "Imported",
+      "Rubber sole",
+      "Shell embellishments",
+      "Textile upper/synthetic lining/rubber sole",
+      "Toe thong",
+      "Imported"
+    ],
+    "description": [
+      "Beads, shells and crystals strike a note of beach glam on this toe-loop sandal."
+    ],
+    "price": "83.18",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71XbUOOm6sL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/613aBD2G6lL._AC_UL1493_.jpg",
+        "https://m.media-amazon.com/images/I/6130jVdrwtL._AC_UL1456_.jpg",
+        "https://m.media-amazon.com/images/I/71n1vYm0shL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71y1tHnOAlL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61udsIhhZEL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71AaMHpNYqL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31PgjEsPG3L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41NZcTTGFDL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41J+8O4bXFL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31EVF5koJXL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31i3j6tkpfL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31xRILMYEmL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31fu3ttgdIL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31PgjEsPG3L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41NZcTTGFDL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41J+8O4bXFL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31EVF5koJXL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31i3j6tkpfL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31xRILMYEmL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31fu3ttgdIL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Jessica Simpson",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Sandals",
+      "Slides"
+    ],
+    "details": "{\"Product Dimensions\": \"13.9 x 7.9 x 4.8 inches; 1.5 Pounds\", \"Item model number\": \"JS-Abira\", \"Department\": \"Womens\", \"Date First Available\": \"January 15, 2020\", \"Manufacturer\": \"Jessica Simpson\"}",
+    "parent_asin": "B083XV8NNS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Sandals"
+    ],
+    "confidence": 0.95
+  }
+}

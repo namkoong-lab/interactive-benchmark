@@ -1,0 +1,88 @@
+{
+  "item_id": 4361,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Clarks Women's Un.Parody",
+    "average_rating": 3.9,
+    "rating_number": 46,
+    "features": [
+      "100% Leather",
+      "Rubber sole",
+      "Heel measures approximately 1\"",
+      "Platform measures approximately 1/2\"",
+      "Lambskin lining with reduced stitching surrounds the foot in luxurious softness to prevent irritation and blisters",
+      "Removable, vegetable-tanned leather insole reduces foot friction",
+      "Unique air circulation system features intake vents to allow cooler, fresh air to enter",
+      "Channeled mesh creates a defined path for warm, moist air to flow and escape through exhaust vents",
+      "Lightweight ''Ultra Flex'' EVA outsole sole reduces lift load and foot fatigue for all-day wear"
+    ],
+    "description": [
+      "The Un.Parody from Clarks could be your favorite new everyday shoe. The mary jane features an adjustable strap and scalloped trim for demure appeal, while the textured rubber outsole is flexible and grippy. As if that wasn't enough, Clark's Unstructured ventilation system promotes constant air exchange, making this one of the most breathable shoes available.",
+      "From its humble beginnings in 1825 in the tiny English village of Street, Somerset, to a global company that manufactures and markets close to 35 million pairs of shoes a year, Clarks' commitment to comfort, quality, authenticity, and individual style has remained unchanged throughout the centuries."
+    ],
+    "price": "74.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81j-LO0syPL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71niDo+PDvL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71TFwxvLbPL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81fbXNh3fCL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81upXqkyLWL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81n54BychBL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81sFyFloSlL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41u7gFO3nNL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/5196YJMKbjL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41yzN85vDJL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Xbmvra3CL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41N7yHj5EkL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41SoKmU-QiL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41SCKaJtJ4L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41u7gFO3nNL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/5196YJMKbjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41yzN85vDJL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Xbmvra3CL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41N7yHj5EkL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41SoKmU-QiL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41SCKaJtJ4L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Clarks",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Flats"
+    ],
+    "details": "{\"Package Dimensions\": \"12 x 8 x 4 inches; 2 Pounds\", \"Item model number\": \"UN.PARODY\", \"Department\": \"Womens\", \"Date First Available\": \"August 5, 2009\", \"Manufacturer\": \"Clarks\"}",
+    "parent_asin": "B002GKAXJ0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Flats"
+    ],
+    "confidence": 0.95
+  }
+}

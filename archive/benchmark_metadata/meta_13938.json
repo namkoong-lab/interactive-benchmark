@@ -1,0 +1,66 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "ASICS Gel-Lyte Iii Athletic Men's Shoe",
+    "average_rating": 4.4,
+    "rating_number": 428,
+    "features": [
+        "100% Suede",
+        "Suede sole",
+        "Asics",
+        "Mens Shoes",
+        "Athletic Shoes",
+        "Green/Black",
+        "Suede"
+    ],
+    "description": [
+        "The Gel-Lyte III model is crafted with a clean vamp that makes up the majority of the shoe’s upper while utilizing traditional split tongue construction. The outsole is a molded color AHAR sponge sole with a TPU heel protector and rear foot GEL."
+    ],
+    "price": "89.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/616fW-dew9L._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/51zS6aLCswL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/71NG6T-HXdL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61nWy7vHjrL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/51ALgkI8KZL._AC_UL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41KDXWkjepL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31A07fSbIpL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41a4WgjI7eL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41gKi8i9+pL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31xLo3U4aKL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41KDXWkjepL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31A07fSbIpL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41a4WgjI7eL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41gKi8i9+pL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31xLo3U4aKL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "ASICS",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Shoes",
+        "Fashion Sneakers"
+    ],
+    "details": "{\"Product Dimensions\": \"11 x 4 x 7 inches; 3 Pounds\", \"Item model number\": \"H7N3N\", \"Department\": \"mens\", \"Date First Available\": \"June 28, 2019\", \"Manufacturer\": \"Asics Tiger\"}",
+    "parent_asin": "B07N95KJQM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

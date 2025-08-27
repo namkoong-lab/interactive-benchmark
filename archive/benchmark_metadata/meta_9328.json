@@ -1,0 +1,59 @@
+{
+    "main_category": "Books",
+    "title": "Java Garage",
+    "average_rating": 3.7,
+    "rating_number": 7,
+    "features": [
+        "Adopting an unconventional style bordering on the sarcastic, Hewitt offers his personal take on operators, strings, arrays, inheritance, declaring and modifying classes, documenting code with Javadoc, handling exceptions, creating GUIs with Swing, and using the system and runtime classes. \"Garage\" in the title refers to the idea of the workshop--the place where you go to tinker around with stuff, to tear it apart and build it back together again, to repair something that's not working. Annotation ©2004 Book News, Inc., Portland, OR (booknews.com)"
+    ],
+    "description": [
+        "From the Back Cover",
+        "Enter your",
+        "Java Garage",
+        "... where you do your work, not somebody else's. It's where you experiment, escape, tinker, and ultimately succeed.",
+        "Java Garage",
+        "is not your typical Java book. If you're tired of monotonous \"feature walks\" and dull tutorials, put down those other Java books and pick up",
+        "Java Garage",
+        ". Java guru Eben Hewitt takes a fresh look at this popular programming language, providing the insight and guidance to turn the regular programmer into a master. The style is straightforward, thought-provoking and occasionally irreverent.",
+        "You'll learn the best ways to program with everything that matters: J2SE 5.0 classes, inheritance, interfaces, type conversions, event handling, exceptions, file I/O, multithreading, inner classes, Swing, JARs, etc. Hewitt provides real working code and instructions for making usable applications that you can exploit and incorporate into your own personal projects with ease. Need answers quickly? The book also includes FAQs for speedy reference and a glossary on steroids that gives you the context, not just the definition.",
+        "With",
+        "Java Garage",
+        ", you'll learn the best way to create and finish projects with finesse. Think 'zine. Think blog. But, please, do not think of any other Java book you have ever seen.",
+        "About the Author",
+        "Eben Hewitt",
+        "Eben is a Sun Certified Java Programmer, Sun Certified Web Component Developer, Sun Certified Java Developer, and Senior Java Programmer/Analyst for Discount Tire Company in Scottsdale, AZ. He is the Garage Series Editor, and the author of four other programming books, including the acclaimed Java for ColdFusion Developers, and the forthcoming More Java Garage. He has been an invited speaker on Java at regional user groups.",
+        "Eben has a Master's Degree in Literary Theory, and had his first full-length, original play produced in New York City in 1996. Questions haunt him in this Champagne-light and Orwellian time:Who will win, Struts or Faces?What if they trade Johnson to the Yankees?At long last, have we left no sense of decency?",
+        "He and his family, Alison, Zoë, Mister Apache Tomcat, Doodle, and Noodle, burn to ashes every summer."
+    ],
+    "price": "8.54",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51qNzxXpklL._SX377_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Eben Hewitt (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Programming Languages"
+    ],
+    "details": "{\"Publisher\": \"Prentice Hall Ptr (January 1, 2004)\", \"Language\": \"English\", \"Paperback\": \"512 pages\", \"ISBN 10\": \"0321246233\", \"ISBN 13\": \"978-0321246233\", \"Item Weight\": \"1.5 pounds\", \"Dimensions\": \"7 x 1 x 9.25 inches\"}",
+    "parent_asin": "0321246233",
+    "bought_together": null,
+    "subtitle": null,
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/61rBjFjXfyL._SY600_.jpg', 'name': 'Eben Hewitt', 'about': [\"Eben Hewitt is the CTO at Sabre Hospitality where he is responsible for the technology strategy and for designing large-scale, mission-critical systems and leading teams to build them. He has served as CTO at one of the world's largest hotel companies and CIO of O'Reilly Media. He has been a consultant to Warburg Pincus on distributed data and a frequent speaker at conferences including Software Architecture (NYC and London), JavaOne, Strange Loop, and many others and was introduced by Walter Isaacson to speak at AH&amp;LA Forum in DC.\", 'Eben Hewitt is the author of several technical books, including Technology Strategy Patterns, Cassandra: The Definitive Guide (2 editions), Java SOA Cookbook, Java for ColdFusion Developers and he is a contributor to 97 Things Every Software Architect Should Know. His books have been translated into Chinese and Japanese and taught at Georgia Tech.', 'His first full-length play was produced in NYC at the Mint Theater and starred Shea Whigham and Kirk Acevedo.']}"
+}

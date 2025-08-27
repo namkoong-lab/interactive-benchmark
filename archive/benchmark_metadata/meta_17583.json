@@ -1,0 +1,54 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "ToDoList",
+    "average_rating": 2.5,
+    "rating_number": 2,
+    "features": [
+        "Add location of every activity",
+        "Login with Facebook"
+    ],
+    "description": [
+        "Manage your activities with ToDoList manager and focus on your goals."
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61PF-Ow6R5L.png",
+            "https://m.media-amazon.com/images/I/716RphogeBL.png",
+            "https://m.media-amazon.com/images/I/91Iv2albW1L.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "IttaiMiri",
+    "categories": [],
+    "details": "{\"Release Date\": \"2015\", \"Date first listed on Amazon\": \"May 21, 2015\", \"Developed By\": \"IttaiMiri\", \"Size\": \"1.2MB\", \"Version\": \"1.0\", \"Application Permissions\": [\"Open network sockets\"], \"Minimum Operating System\": \"Android 4.1\", \"Approximate Download Time\": \"Less than 30 seconds\"}",
+    "parent_asin": "B00XRQNL64",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,47 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Broan S99111410 Lens",
+    "average_rating": 4.2,
+    "rating_number": 45,
+    "features": [
+        "This is an O.E.M. authorized part",
+        "Fits various Broan models",
+        "OEM Part Number S99111410"
+    ],
+    "description": [
+        "This is an O.E.M. authorized part. Fits various Broan models. OEM Part Number S99111410. Made in USA."
+    ],
+    "price": "42.69",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71gkSZwYCmL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21gIQLNKWyL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/21gIQLNKWyL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Broan",
+    "categories": [
+        "Home & Kitchen",
+        "Heating, Cooling & Air Quality",
+        "Parts & Accessories",
+        "Air Conditioner Parts & Accessories",
+        "Accessories"
+    ],
+    "details": "{\"Product Dimensions\": \"1 x 1 x 1 inches\", \"Item Weight\": \"10.8 ounces\", \"Manufacturer\": \"Broan-NuTone\", \"Item model number\": \"S99111410\", \"Best Sellers Rank\": {\"Home & Kitchen\": 368979, \"Air Conditioner Accessories\": 675}, \"Assembly required\": \"No\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B00EBJ26KI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

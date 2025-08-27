@@ -1,0 +1,52 @@
+{
+    "main_category": "Grocery",
+    "title": "6 Fresh Poppy New Jersey Bagels",
+    "average_rating": 3.0,
+    "rating_number": 19,
+    "features": [
+        "Fresh Baked Bagels,",
+        "New Jersey Bagels",
+        "Poppy seed bagel"
+    ],
+    "description": [
+        "Poppy Seed Bagels Fresh baked bagels in New Jersey at the famous All Star Bagel. We have baked & sold over 3 million bagels and they are delicious !! non GMO , unbleached flour, no dairy, nuts, or egg products in any bagels."
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91r3s3CriTL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51yR10GytcL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51yR10GytcL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "At it again, curating the products you want!"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/05583e42a5dc44b4aa83084fcc367ff3?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Generic",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Breads & Bakery",
+        "Pastries & Bakery",
+        "Bagels"
+    ],
+    "details": "{\"Flavor\": \"Plain\", \"Brand\": \"Generic\", \"Number of Pieces\": \"6\", \"Manufacturer\": \"All Star Bagel\"}",
+    "parent_asin": "B07QBQ49T8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

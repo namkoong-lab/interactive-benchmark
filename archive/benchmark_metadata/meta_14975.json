@@ -1,0 +1,57 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Sunglasses DAVID BECKHAM Db 1007 /S 0B4L Hon Brown Crh/Qt Green",
+    "average_rating": 4.3,
+    "rating_number": 11,
+    "features": [
+        "Oval",
+        "Honey Brown Creamhorn",
+        "Acetate",
+        "Green",
+        "Plastic"
+    ],
+    "description": [
+        "Brand DAVID BECKHAM has always remained true to its original philosophy—even while experiencing significant growth in recent years. DAVID BECKHAM has made the ascent from humble beginnings to its present position: a worldwide leader in affordable luxury eyewear. DAVID BECKHAM uses state-of-the-art materials to craft their signature eyewear frames: premium cellulose acetate, ultra-lightweight titanium, and color-rich stainless steel."
+    ],
+    "price": "80.71",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61xHdP7DFBL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/41wmThKahrL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/614iKmLpckL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31G8l7F2QoL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31HgJWZ3A2L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31aqTKOWcLL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31G8l7F2QoL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31HgJWZ3A2L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31aqTKOWcLL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "David Beckham",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Accessories",
+        "Sunglasses & Eyewear Accessories",
+        "Sunglasses"
+    ],
+    "details": "{\"Product Dimensions\": \"6 x 2 x 2 inches; 3.21 Ounces\", \"Item model number\": \"Db 1007/s\", \"Department\": \"Unisex\", \"Date First Available\": \"June 24, 2020\"}",
+    "parent_asin": "B084HF2BNC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

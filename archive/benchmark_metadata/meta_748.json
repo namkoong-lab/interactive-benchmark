@@ -1,0 +1,63 @@
+{
+    "main_category": "Amazon Home",
+    "title": "'Easy Peasy Lemon Squeezy' Box Sign",
+    "average_rating": 4.5,
+    "rating_number": 23,
+    "features": [
+        "Decorative box sign featuring a bright, lemony motif",
+        "Made of wood with a rustic checkerboard pattern",
+        "Stylish typography and design matches a variety of decor, be it coastal or shabby chic",
+        "Hollow backing allows for wall or shelf display",
+        "Measures 4\"H x 5\"L x 1.5\"D - please see secondary image"
+    ],
+    "description": [
+        "Featuring a bright and uplifting message in a rustic design, this wood box sign adds a fun vibe to a wall, desk, or shelf. Stylish typography and a versatile look makes this piece suitable for beach or farmhouse decor. Measures 4\"H x 5\"L x 1.5\"D."
+    ],
+    "price": "12.99",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41q5RJxerWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61-xovzDWqL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31OuOOKMzyL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41q5RJxerWL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/61-xovzDWqL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31OuOOKMzyL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [
+            "lemon welcome wood door sign"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0c22a86d803c4e4aa3835ac0f9ce95f1?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Collins Painting",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Decorative Accessories",
+        "Decorative Signs & Plaques"
+    ],
+    "details": "{\"Product Dimensions\": \"4 x 1.5 x 5 inches\", \"Item Weight\": \"4.6 ounces\", \"Manufacturer\": \"Collins Painting\", \"Best Sellers Rank\": {\"Home & Kitchen\": 2295555, \"Decorative Signs & Plaques\": 35432}}",
+    "parent_asin": "B08SHS8626",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

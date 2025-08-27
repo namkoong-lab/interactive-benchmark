@@ -1,0 +1,66 @@
+{
+  "item_id": 4006,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "dollhouse womens Hematite Plus Denim Overall",
+    "average_rating": 3.8,
+    "rating_number": 85,
+    "features": [
+      "71% Cotton, 28% Polyester, 1% Spandex",
+      "Imported",
+      "Buckle closure",
+      "Machine Wash",
+      "Basic black plus skirtall with no destruction",
+      "Stretchy and comfortable fabric, perfect for summer",
+      "Package Dimensions: 7.5 L x 30.1 H x 26.19 W (centimeters)",
+      "Item Package Weight: 1.0 pounds"
+    ],
+    "description": [
+      "5 pocket skirtall with front pocket and buckle closing"
+    ],
+    "price": "24.19",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71cnw-FmzMS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71BzAnLTr2S._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/311WQeskEXS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41dVcsrT0OS._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/311WQeskEXS._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41dVcsrT0OS._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "dollhouse",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Jumpsuits, Rompers & Overalls",
+      "Overalls"
+    ],
+    "details": "{\"Item model number\": \"HM-7344DHXL\", \"Department\": \"Womens\", \"Date First Available\": \"September 17, 2018\", \"Manufacturer\": \"dollhouse\"}",
+    "parent_asin": "B07D8HJ7N9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Dresses"
+    ],
+    "confidence": 0.9
+  }
+}

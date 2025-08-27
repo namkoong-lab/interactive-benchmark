@@ -1,0 +1,37 @@
+{
+    "main_category": "Digital Music",
+    "title": "Bend Without Breaking",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "Herds of Angels - I Believe I'm Ready - Too Hard Too Fast - The Spider Song - Tell Me Is It Beautiful - Weep - Good-bye - Where The Rain Comes From - Incredible Light - The World Tonight - Gods In The Kitchen - Farside Syndrome - New Mexico - Move Along"
+    ],
+    "price": "7.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/410S5KR3CQL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/410S5KR3CQL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Chris & Maggie  (Author)    Format: Audio CD",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"5.55 x 4.97 x 0.54 inches; 2.83 Ounces\", \"Manufacturer\": \"Broken Records\", \"Run time\": \"61 minutes\", \"Date First Available\": \"May 19, 2005\", \"Label\": \"Broken Records\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0009PSUW6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

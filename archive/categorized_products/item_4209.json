@@ -1,0 +1,80 @@
+{
+  "item_id": 4209,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Clothe Co. Ladies Cotton Tank Top",
+    "average_rating": 3.7,
+    "rating_number": 137,
+    "features": [
+      "Cotton,Poly",
+      "Pull On closure",
+      "Machine Wash",
+      "5.4-ounce, 100% cotton, 50/50 poly/cotton (Dark Heather Grey, Neons), 90/10 cotton/poly (Athletic Heather)",
+      "Scalloped hem",
+      "Side seamed with a contoured body for a feminine fit",
+      "In Sizes: X-Small (size-2), Small (4-6), Medium (8-10), Large (12-14), X-Large (16-18), 2X-Large (20-22), 3X-Large (24-26), In Sizes: 4X-Large (28-30)"
+    ],
+    "description": [
+      "Clothe Co. (TM) - Ladies Cotton Tank Top. Printed with Clothe Co. (TM) Logo Inside"
+    ],
+    "price": "16.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51l6HejmJxL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/51Otjh1fCYL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/51EkMrhh36L._AC_UL1280_.jpg",
+        "https://m.media-amazon.com/images/I/5175Nbu1UdL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/51YRiurNejL._AC_UL1200_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31xxpvANlLL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/3132lDIS5wL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21nmooNHKdL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31T0ZXRMNYL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31D60pII4oL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31xxpvANlLL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/3132lDIS5wL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/21nmooNHKdL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31T0ZXRMNYL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31D60pII4oL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Clothe Co.",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Women",
+      "Tops & Tees",
+      "Tanks & Camis"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"April 11, 2016\"}",
+    "parent_asin": "B01E3APIX6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops",
+      "Women's Tank Tops"
+    ],
+    "confidence": 0.95
+  }
+}

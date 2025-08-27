@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The Cheese Stick and the Mountain",
+    "average_rating": 5.0,
+    "rating_number": 8,
+    "features": [
+        "Join plucky cheese stick Skyline as she goes on an adventurous hike up a mountain. What will happen when she finds a secret door in the side of the mountain? She will have to use all of her potions to make it through to the other side . . . but what awaits her when she gets there?! The Cheese Stick and the Mountain is the first book by 6 year-old author Emily J. Alexander. She was inspired by her favorite books from the fantasy and adventure genres."
+    ],
+    "description": [
+        "About the Author",
+        "Emily J. Alexander is a 6 year-old first grader from the state of Washington. She enjoys reading fantasy and adventure books."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41+ls+T5rnL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Emily J Alexander (Author)",
+    "categories": [
+        "Books",
+        "Large Print",
+        "Literature & Fiction"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform; Large Print edition (October 7, 2015)\", \"Language\": \"English\", \"Paperback\": \"30 pages\", \"ISBN 10\": \"1517680816\", \"ISBN 13\": \"978-1517680817\", \"Item Weight\": \"2.4 ounces\", \"Dimensions\": \"6 x 0.08 x 9 inches\"}",
+    "parent_asin": "1517680816",
+    "bought_together": null,
+    "subtitle": "Paperback – Large Print, October 7, 2015",
+    "author": null
+}

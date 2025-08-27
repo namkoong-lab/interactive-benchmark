@@ -1,0 +1,66 @@
+{
+  "item_id": 1250,
+  "metadata": {
+    "main_category": "Pet Supplies",
+    "title": "Beastie Band Cat Collar Solid Colors (Orange)",
+    "average_rating": 4.5,
+    "rating_number": 185,
+    "features": [
+      "Most comfortable, yet safe, cat collar on the market",
+      "Price is for one collar",
+      "Solid Color, no pattern",
+      "Cut to size with scissors. 12-1/2 inches unstretched.",
+      "Stretches to release as necessary."
+    ],
+    "description": [
+      "Beastie band cat collars are one of the most comfortable collars on the market. They're designed by Cat lovers who wanted something comfortable, safe, and long-lasting for their furry feline friends. Beastie Bands are made of soft and stretchy neoprene. It's very lightweight and stretches for safety. Can be cut to size, so getting a great custom fit is easy Whether you have a tiny kitten or a massive \"couch potato\" Kitty. Measures 12 1/2 inches long without being stretched. Features Velcro closure and metal eyelet for attaching ID tags. Solid Color, no pattern."
+    ],
+    "price": "11.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51uTlgl22PL._AC_SL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31J6XnjT3OL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31J6XnjT3OL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [
+        "It’s the only collar that stays on my cat.",
+        "NUVUQ cat collar safe breakaway button"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0a27764d9e134772b206eea4df4b0739?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/0ef8313eaa1548de9b24dc6b270cb7d4?ref=dp_vse_rvc_1"
+      ],
+      "user_id": [
+        "AEJBPHUSW3UK4WXEZJGYKVCGK64Q",
+        ""
+      ]
+    },
+    "store": "Beastie Band",
+    "categories": [
+      "Pet Supplies",
+      "Cats",
+      "Collars, Harnesses & Leashes",
+      "Collars"
+    ],
+    "details": "{\"Pattern\": \"Solid\", \"Color\": \"Orange\", \"Material\": \"Wetsuit\", \"Brand\": \"Beastie Band\", \"Closure Type\": \"Hook and Loop\", \"Package Dimensions\": \"6.5 x 4.5 x 0.5 inches; 0.63 Ounces\", \"Date First Available\": \"September 2, 2019\", \"Manufacturer\": \"Twin Cat\"}",
+    "parent_asin": "B07Y2HTHYV",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Pet Supplies"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Taming Texas",
+    "average_rating": 4.9,
+    "rating_number": 13,
+    "features": [
+        "The history of Texas is usually told in terms of its \"giants\" such as Sam Houston and Stephen F. Austin. Here, instead, is a history of Texas told by one of its lesser giants, William Turner Sadler (1797–1884), whose biography becomes the framework for an exciting view of Texas History.Sadler, one of the leading pioneers of nineteenth-century Texas, participated in most of the major events of the period. He migrated to Texas from Georgia in 1835 to become a farmer. He soon found himself in command of a ranger company that built Fort Houston, served as a private in the battle of San Jacinto, was active in quelling the Cordova Rebellion, and became a leader in the campaign against Chief Bowles and the Cherokees. Eventually he served as a representative in both the Republic Congress and the state legislature. During the Civil War, at the age of sixty-six, Sadler served in Terrell's Texas Cavalry."
+    ],
+    "description": [
+        "About the Author",
+        "STEPHEN L. MOORE, a sixth generation Texan, graduated from Stephen F. Austin State University in Nacogdoches, where he studied journalism and advertising. He previously combined with William J. Shinneman and Robert W. Gruebel to write The Buzzard Brigade: Torpedo Squadron Ten at War."
+    ],
+    "price": "28.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/5166QhOkK4L._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Stephen L. Moore (Author)",
+    "categories": [
+        "Books",
+        "History",
+        "Americas"
+    ],
+    "details": "{\"Publisher\": \"State House Press; Illustrated edition (January 1, 2000)\", \"Language\": \"English\", \"Paperback\": \"400 pages\", \"ISBN 10\": \"1880510693\", \"ISBN 13\": \"978-1880510698\", \"Item Weight\": \"1.34 pounds\", \"Dimensions\": \"6 x 0.89 x 9 inches\"}",
+    "parent_asin": "1880510693",
+    "bought_together": null,
+    "subtitle": "Paperback – January 1, 2000",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/B1ck0MhgtQS._SY600_.jpg', 'name': 'Stephen L. Moore', 'about': ['Stephen L. Moore, a sixth generation Texan, is the author of 20 books on World War II and Texas history. He has contributed articles to a number of historical journals, has reviewed books for the Dallas Morning News, and has twice been a featured author at the Texas Book Festival in Austin.']}"
+}

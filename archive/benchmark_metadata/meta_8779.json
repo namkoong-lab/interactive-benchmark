@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The Macharian Crusade Omnibus",
+    "average_rating": 4.6,
+    "rating_number": 107,
+    "features": [
+        "Omnibus edition containing all three novels in The Macharian Crusade trilogy:",
+        "Angel of Fire, Fist of Demetrius",
+        "and",
+        "Fall of Macharius",
+        ".At the dawn of the 41st millennium, Lord Solar Macharius and his vast Astra Militarum armies embark upon the reconquest of a thousand worlds. Only Macharius, his will idomitable, has the strength of purpose and leadership to bring about such an immense undertaking, a crusade the like of which has not been seen since the dark days of the Heresy. But the countless wars are all-consuming, devouring men and materiel, and soon even Macharius's trusted generals and advisors begin to question the feasibility of such a punishing and seemingly endless campaign. As the battlefront stretches across the length of the stars and over a thousand worlds, can Macharius hold his crusade together or will it end in ignominy and flame?"
+    ],
+    "description": [
+        "About the Author",
+        "William King is the author of the Tyrion and Teclis saga and the Macharian Crusade trilogy, as well as the much-loved Gotrek & Felix series and the Space Wolf novels featuring the young Ragnar Blackmane. His short stories have appeared in many magazines and compilations, including",
+        "Inferno!",
+        "and",
+        "White Dwarf",
+        ". Bill was born in Stranraer, Scotland and currently lives in Prague."
+    ],
+    "price": "143.95",
+    "images": {
+        "hi_res": [],
+        "large": [],
+        "thumb": [],
+        "variant": []
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "William King (Author)",
+    "categories": [
+        "Books",
+        "Science Fiction & Fantasy",
+        "Science Fiction"
+    ],
+    "details": "{\"Publisher\": \"Games Workshop (February 7, 2017)\", \"Language\": \"English\", \"Paperback\": \"880 pages\", \"ISBN 10\": \"178496493X\", \"ISBN 13\": \"978-1784964931\", \"Dimensions\": \"5.1 x 2.3 x 7.8 inches\"}",
+    "parent_asin": "178496493X",
+    "bought_together": null,
+    "subtitle": "Paperback – February 7, 2017",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/51DnohU97lL._SY600_.jpg', 'name': 'William King', 'about': ['William King lives in Prague, Czech Republic with his lovely wife Radka and his sons Dan and William Karel. He has been a professional author and games developer for almost a quarter of a century. He is the creator of the bestselling Gotrek and Felix series for Black Library and the author of the bestselling Space Wolf books which between them have sold over three quarters of a million copies in English and been translated into 8 languages.', 'He has been nominated for the David Gemmell Legend Award. His short fiction had appeared in Year’s Best SF and Best of Interzone. He has twice won the Origins Awards For Game Design. His hobbies include role-playing games and MMOs as well as travel.']}"
+}

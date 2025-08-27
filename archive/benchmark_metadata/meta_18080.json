@@ -1,0 +1,49 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "MLB Boston Red Sox Can Cooler",
+    "average_rating": 4.5,
+    "rating_number": 78,
+    "features": [
+        "Hand Wash Only",
+        "Boston Red Sox"
+    ],
+    "description": [
+        "Officially licensed Boston Red Sox full color imprinted 12 oz. can cooler. Made in the USA"
+    ],
+    "price": "8.79",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/61eO2b5K36L._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51D1fuXbY7L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51ubUQg888L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51D1fuXbY7L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51ubUQg888L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "MLB",
+    "categories": [
+        "Sports & Outdoors",
+        "Fan Shop",
+        "Patio, Lawn & Garden",
+        "Coolers"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.01 x 3.62 x 0.67 inches; 0.42 Ounces\", \"Date First Available\": \"February 2, 2019\", \"Manufacturer\": \"WinCraft\"}",
+    "parent_asin": "B003VC314Q",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

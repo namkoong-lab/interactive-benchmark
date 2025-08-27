@@ -1,0 +1,71 @@
+{
+  "item_id": 5500,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Phi Mu with Pearl Greek Sorority Lavalier Pendant Drop Charm Necklace",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+      "You can choose to buy with 16\" chain or 18\" chain. Chain comes with 2\" extender so the length can be made 2 inches longer.",
+      "Officially licensed sorority item",
+      "Item comes in nice gift box - great for gift giving (please note: color of gift box may vary from picture) each lavalier will be packaged in a nice gift box",
+      "See our large selection in sorority items."
+    ],
+    "description": [
+      "Our Phi Mu sorority lavalier is stunning! It measures 3/16\" width and 3/4\" length with holder. This classic silver plated greek vertical lavalier with 6mm pearl makes a great gift for your sorority sister or wear this classy look for yourself. This is a great way to show your sorority spirit."
+    ],
+    "price": "15.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51bdzg7UQXL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61nHJT9i6ZL._AC_UL1200_.jpg",
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31GVv0zrU3L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Cm3V24lyL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/313imjtMyqL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51xOuiuiNPL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31GVv0zrU3L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Cm3V24lyL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/313imjtMyqL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51xOuiuiNPL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Sorority Things",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Girls",
+      "Jewelry",
+      "Necklaces & Pendants",
+      "Pendants"
+    ],
+    "details": "{\"Item model number\": \"FSPL1717P-16-$P\", \"Department\": \"Girls\", \"Date First Available\": \"September 19, 2016\", \"Manufacturer\": \"Sorority Things\"}",
+    "parent_asin": "B01LWL0NY9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Necklaces"
+    ],
+    "confidence": 0.95
+  }
+}

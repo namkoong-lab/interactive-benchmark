@@ -1,0 +1,84 @@
+{
+  "item_id": 3812,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Ryka Women's Ellie Slide Sandal",
+    "average_rating": 4.0,
+    "rating_number": 51,
+    "features": [
+      "fabric",
+      "Made in the USA or Imported",
+      "Rubber sole"
+    ],
+    "description": [
+      "Destination: Anywhere and everywhere. This lightweight sandal gives you sporty style and exceptional cushioning wherever you go."
+    ],
+    "price": "26.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61b38vPfEOL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61P1iZdGjDL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Q-o-AwepL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61mAx9N43jL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61MvO+bw9uL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51yvdpo2mrL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61gdl4UW5jL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71xexPS6inL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31Bgwr8pWBL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21F-eRiU9bL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/3156upEDfgL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31VXbUAXo3L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21DIGJ1jsiL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21ZZkVk4YGL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21OoOyQyOhL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/311bQr4HoFL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31Bgwr8pWBL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21F-eRiU9bL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/3156upEDfgL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31VXbUAXo3L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21DIGJ1jsiL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21ZZkVk4YGL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21OoOyQyOhL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/311bQr4HoFL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05",
+        "PT06",
+        "PT07"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Ryka",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes"
+    ],
+    "details": "{\"Item Weight\": \"1.2 Pounds\", \"Item model number\": \"H4910S1\", \"Department\": \"womens\", \"Date First Available\": \"February 20, 2021\", \"Manufacturer\": \"Ryka\"}",
+    "parent_asin": "B094F4LV7W",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Sandals"
+    ],
+    "confidence": 0.95
+  }
+}

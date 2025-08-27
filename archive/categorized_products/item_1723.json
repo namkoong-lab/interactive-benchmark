@@ -1,0 +1,58 @@
+{
+  "item_id": 1723,
+  "metadata": {
+    "main_category": "Computers",
+    "title": "504592-001 HP Mini 1010 Netbook Motherboard w/ 1.6Ghz CPU",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+      "HP System Board (MotherBoard) With Intel GMA950 Graphics Media Accelerator Chipset Supports Intel Atom Processor (Refurbished) (Refurbished)"
+    ],
+    "price": "9.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/817cctm3BfL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ytV8W5swL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41NGtUxdb+L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41QzhiZ5R+L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41NGtUxdb+L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41QzhiZ5R+L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "HP",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Computer Components",
+      "Internal Components",
+      "Motherboards"
+    ],
+    "details": "{\"Item Weight\": \"1 pounds\", \"Manufacturer\": \"hp\", \"Item model number\": \"504592-001\", \"Date First Available\": \"November 26, 2015\", \"Brand\": \"HP\", \"Compatible Devices\": \"Personal Computer\", \"Chipset Type\": \"Intel\", \"Memory Clock Speed\": \"1.6 GHz\", \"Platform\": \"Linux\", \"Memory Storage Capacity\": \"8 GB\", \"Memory Slots Available\": \"2\", \"S/PDIF Connector Type\": \"Optical\", \"System Bus Standard Supported\": \"SATA 3\"}",
+    "parent_asin": "B018KX53X2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Computers",
+      "Computer Accessories",
+      "Motherboards & CPU Combos"
+    ],
+    "confidence": 0.95
+  }
+}

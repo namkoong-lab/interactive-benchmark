@@ -1,0 +1,55 @@
+{
+  "item_id": 426,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Dolphin Coasters",
+    "average_rating": 4.1,
+    "rating_number": 3,
+    "features": [],
+    "description": [
+      "Practical and charming, these unique Dolphin coasters are sure to be a big hit. The poly canvas surface on the Dolphin coaster is easy to clean and the rubber base provides great furniture protection. The set contains four Dolphin coasters, includes a clear hinged box for storage. Makes a nice gift for animal enthusiasts. Each Dolphin coaster is approximately 3.5 x 4.5 inches in size."
+    ],
+    "price": "8.95",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31ACNLsD7aL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31ACNLsD7aL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Lumalack",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Dining & Entertaining",
+      "Bar Tools & Drinkware",
+      "Bar Tools",
+      "Coasters"
+    ],
+    "details": "{\"Manufacturer\": \"Lumalack\", \"Item model number\": \"2287\", \"Date First Available\": \"August 19, 2011\", \"Material\": \"Rubber\", \"Brand\": \"Lumalack\", \"Product Care Instructions\": \"Hand Wash Only\", \"Is Dishwasher Safe\": \"No\", \"Product Dimensions\": \"4.5\\\"L x 3.5\\\"W\"}",
+    "parent_asin": "B0062B1KUK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Kitchenware",
+      "Tableware"
+    ],
+    "confidence": 0.95
+  }
+}

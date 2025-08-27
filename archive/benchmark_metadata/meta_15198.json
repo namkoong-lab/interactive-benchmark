@@ -1,0 +1,82 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "ASICS Women's Gel-Kayano 28 Running Shoes",
+    "average_rating": 4.2,
+    "rating_number": 29,
+    "features": [
+        "Rubber sole",
+        "OrthoLite X-55 sockliner: Improves comfort",
+        "AHAR Plus Outsole: Strategically positioned in critical areas of the outsole, this exceptionally durable compound is 50% more durable than standard ASICS High Abrasion Rubber.",
+        "Trusstic System technology: Reduces the weight of the sole unit while retaining the structural integrity of the shoe.",
+        "Engineered Mesh Upper: Multi-directional mesh material improves ventilation and stability.",
+        "Redesigned external heel counter: Helps keep the foot stable and provide a more comfortable stride."
+    ],
+    "description": [
+        "The GEL-KAYANO 28 shoe creates a stable stride that moves you towards a balanced mindset. Featuring a lower-profile external heel counter, this piece cradles your foot with improved rearfoot support. To improve stability and responsiveness, we added FF BLAST cushioning to the midsole. It provides a smooth and supportive feel in each step. The trainer's new GEL technology shape delivers a smooth stride, allowing you to experience a softer landing without losing speed."
+    ],
+    "price": "109.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61O0pCDreOL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61-lOH2oJXL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61k7dFUYFRL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61KtvXeXtSL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61QFSQ7f9QL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61DrO1EJqUL._AC_UL1024_.jpg",
+            "https://m.media-amazon.com/images/I/71B+7XId8KL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61raFzJoidL._AC_UL1130_.jpg",
+            "https://m.media-amazon.com/images/I/61XEp0uuTwL._AC_UL1130_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41P+NzsvBUL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41bkZIrkRPL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41O5LzYFNCL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41zf6AA9oBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41tEDv5DSyL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Q8zU+q6ZL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51balvjsEuL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/512vj6ePxNL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/412ItQdZJbL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41P+NzsvBUL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41bkZIrkRPL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41O5LzYFNCL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41zf6AA9oBL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41tEDv5DSyL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41Q8zU+q6ZL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51balvjsEuL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/512vj6ePxNL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/412ItQdZJbL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "ASICS",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Athletic",
+        "Running"
+    ],
+    "details": "{\"Package Dimensions\": \"12.44 x 6.3 x 4.75 inches; 1.44 Pounds\", \"Date First Available\": \"July 13, 2021\", \"Manufacturer\": \"Asics\"}",
+    "parent_asin": "B099BM9M9N",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,66 @@
+{
+    "main_category": "Grocery",
+    "title": "illy Classico Ground Espresso Coffee, Medium Roast, Classic Roast with Notes of Chocolate & Caramel, 100% Arabica Coffee, All-Natural, No Preservatives, 4.4oz (Pack of 12)",
+    "average_rating": 4.8,
+    "rating_number": 23,
+    "features": [
+        "Smooth and balanced taste made with a signature illy blend of sustainably-grown 100% Arabica beans",
+        "Our unique pressurized coffee packaging preserves the flavor and complexity of the illy blend while enhancing the coffee’s aroma and ensuring optimal freshness",
+        "Finely ground to provide optimal extraction with espresso machines that accept ground, tamped coffee",
+        "The illy blend of 9 Arabicas is a perfect synthesis of balance and perfection in taste and aroma.",
+        "Formerly known as illy medium roast",
+        "Recyclable outer packaging"
+    ],
+    "description": [
+        "illy’s distinctive blend of fine Arabica coffees with a smooth, rich and full-bodied taste. The Medium Roast features a rich and balanced taste with notes of caramel and chocolate. Finely ground to provide optimal extraction with espresso machines that accept ground, tamped coffee. Using an exclusive process, illy coffee is packed in an air-free, pressurized can that enhances and seals in the precious aromas and oils, so you enjoy the freshest taste – cup after cup."
+    ],
+    "price": "96.88",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61aoR8u1leL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71-qkGYrcQL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61wV5zUR5ML._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31tgwzEEXmL.jpg",
+            "https://m.media-amazon.com/images/I/31HNtrOvXML.jpg",
+            "https://m.media-amazon.com/images/I/31Hg+07Eq9L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31tgwzEEXmL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31HNtrOvXML._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31Hg+07Eq9L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Illy Unique Blend Live Happily",
+            "The ONE Thing I Didn't Like About the Illy Ground Coffee"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0db69e8be99643bfac9bce9a664544be?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/02eb1a82b2554f169cf32e7993e4fc0f?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            "/shop/sarahlarson"
+        ]
+    },
+    "store": "Illy",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Beverages",
+        "Coffee",
+        "Ground Coffee"
+    ],
+    "details": "{\"Brand\": \"Illy\", \"Item Form\": \"Ground\", \"Flavor\": \"Classico Ground Espresso (Pack of 12)\", \"Caffeine Content\": \"Caffeinated\", \"Roast Level\": \"Medium_roast\", \"Package Dimensions\": \"14.09 x 10.67 x 4.41 inches; 4.41 Ounces\", \"Manufacturer\": \"Illy Coffee\", \"Country of Origin\": \"Italy\"}",
+    "parent_asin": "B07SZW763P",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

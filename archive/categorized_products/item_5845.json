@@ -1,0 +1,74 @@
+{
+  "item_id": 5845,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Sterling Silver Rhodium Plated, Wedding Ring Simulated Blue Sapphire CZ Five Stone Anniversary Ring Band",
+    "average_rating": 2.5,
+    "rating_number": 6,
+    "features": [
+      "Dimoni Collection",
+      "925 Sterling Silver",
+      "Rhodium Plated",
+      "Top Quality Cubic Zirconia"
+    ],
+    "description": [
+      "This beautiful Sterling Silver Rhodium Plated, Wedding Ring Simulated Blue Sapphire CZ Five Stone Anniversary Ring Band is meticulously crafted in gleaming and durable Sterling Silver."
+    ],
+    "price": "48.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61pg0f3t9iL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/717XyE9xGoL._AC_UL1000_.jpg",
+        null,
+        "https://m.media-amazon.com/images/I/61S9PEy+RHL._AC_UL1000_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51Xq+WaFAnL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51y+g97anvL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/512xypqxFBL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51t+g9txhYL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51O68djS9CL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51Xq+WaFAnL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51y+g97anvL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/512xypqxFBL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51t+g9txhYL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51O68djS9CL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT08"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Double Accent",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Jewelry",
+      "Wedding & Engagement"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"September 27, 2012\"}",
+    "parent_asin": "B009HGJRNO",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Women's Rings"
+    ],
+    "confidence": 0.95
+  }
+}

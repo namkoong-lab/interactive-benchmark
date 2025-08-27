@@ -1,0 +1,44 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Zoo: Season 1",
+    "average_rating": 4.6,
+    "rating_number": 1164,
+    "features": [],
+    "description": [
+        "Product Description",
+        "Based on the best-selling novel by James Patterson, ZOO is a global thriller about a wave of violent animal attacks against humans sweeping the planet. Jackson Oz, a young, renegade American zoologist who spends his days running safaris in the wilds of Africa, notices the strange behavior of the animals. As the assaults become more cunning, coordinated and ferocious, he is thrust into the race to unlock the mystery of the pandemic before there's no place left for people to hide.",
+        "Amazon.com",
+        "DVD Region: 1"
+    ],
+    "price": "11.96",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51cJimHxLOL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51cJimHxLOL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rated:    NR    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Paramount Home Entertainment",
+        "Drama"
+    ],
+    "details": "{\"Genre\": \"Action & Adventure/Television, Television\", \"Format\": \"Multiple Formats, Color, Widescreen, NTSC\", \"Contributor\": \"ZOO: THE FIRST SEASON\", \"Language\": \"English\", \"Number Of Discs\": \"4\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"NR (Not Rated)\", \"Product Dimensions\": \"0.7 x 7.5 x 5.4 inches; 5.6 Ounces\", \"Media Format\": \"Multiple Formats, Color, Widescreen, NTSC\", \"Run time\": \"9 hours\", \"Release date\": \"December 19, 2017\", \"Subtitles\": \"English\", \"Studio\": \"Paramount\", \"Number of discs\": \"4\"}",
+    "parent_asin": "B010PR0UZW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

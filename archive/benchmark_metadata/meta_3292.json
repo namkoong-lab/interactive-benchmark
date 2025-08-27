@@ -1,0 +1,48 @@
+{
+    "main_category": "Toys & Games",
+    "title": "Dudley's Classic Easter Egg Coloring Kit",
+    "average_rating": 1.0,
+    "rating_number": 2,
+    "features": [
+        "Kit contains:.",
+        "6 coloring tablets.",
+        "6 egg wrappits.",
+        "Stickers & more.",
+        "Instructions."
+    ],
+    "description": [
+        "Dudley's Classic Easter Egg Coloring Kit"
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71kEajATCZL._AC_SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/5161KyHQ4WL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/5161KyHQ4WL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "DUDLEY",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Cooking & Baking",
+        "Food Coloring"
+    ],
+    "details": "{\"Package Dimensions\": \"8.1 x 7 x 0.7 inches\", \"Item Weight\": \"1.6 ounces\", \"Manufacturer recommended age\": \"3 years and up\", \"Department\": \"boys\"}",
+    "parent_asin": "B00AU6FYTG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

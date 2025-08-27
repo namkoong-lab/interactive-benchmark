@@ -1,0 +1,46 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Alien Head Socks (Green)",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Machine Wash"
+    ],
+    "description": [
+        "These socks are ladies sized 9-11. They make a great fun gift."
+    ],
+    "price": "9.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/610VSSDNJpL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41JSLFXmOQL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41JSLFXmOQL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Alberts Gifts",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Men",
+        "Socks"
+    ],
+    "details": "{\"Item Weight\": \"1.95 Pounds\", \"Item model number\": \"10034C\", \"Department\": \"Mens\", \"Date First Available\": \"July 25, 2014\", \"Manufacturer\": \"Alberts Gifts\"}",
+    "parent_asin": "B00M8AFAW8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

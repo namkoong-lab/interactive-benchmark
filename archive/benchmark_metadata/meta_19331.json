@@ -1,0 +1,48 @@
+{
+    "main_category": "Prime Video",
+    "title": "Glee",
+    "average_rating": 4.7,
+    "rating_number": 2004,
+    "features": [
+        "IMDb 6.8",
+        "2013",
+        "22 episodes",
+        "X-Ray",
+        "TV-14"
+    ],
+    "description": [
+        "Entering its fourth season, this year the members of New Directions compete amongst themselves to be the \"new Rachel\" and hold auditions to find new students. Meanwhile, the graduating class leaves the comforts of McKinley where Rachel struggles to please her demanding NYADA teacher (Kate Hudson) and Kurt second-guesses his decision to stay in Lima. Four newcomers also join the musical comedy."
+    ],
+    "price": "22.39",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Comedy",
+        "Drama",
+        "Arts, Entertainment, and Culture",
+        "Music Videos and Concerts"
+    ],
+    "details": "{\"Content advisory\": [\"Violence\", \"substance use\", \"alcohol use\", \"smoking\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Bradley Buecker\", \"Brad Falchuk\", \"Eric Stoltz\", \"Paris Barclay\", \"Ian Brennan\", \"Ryan Murphy\", \"Alfonso Gomez-Rejon\", \"Elodie Keene\", \"Adam Shankman\", \"Paul McCrane\"]}",
+    "parent_asin": "B00ABWKL3I",
+    "bought_together": null,
+    "subtitle": "UnentitledUnentitled",
+    "author": null
+}

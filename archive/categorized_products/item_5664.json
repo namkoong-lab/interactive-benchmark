@@ -1,0 +1,70 @@
+{
+  "item_id": 5664,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Yazbek Men's Heavy Weight (5.9-Ounce) Crew Neck Sleeveless Muscle T-Shirt",
+    "average_rating": 4.1,
+    "rating_number": 88,
+    "features": [
+      "Polyester,Cotton",
+      "Pull On closure",
+      "Machine Wash",
+      "Heat/Screen Print Safe",
+      "Direct to Garment Safe",
+      "Embroidery Safe",
+      "Heather Grey - 90% Cotton / 10% polyester"
+    ],
+    "description": [
+      "Heavy weight with a regular comfortable fit. 100% cotton sleeveless crew neck muscle t-shirt available in black, heather grey, white, navy, red and royal blue. Heather grey is 90% cotton and 10% polyester."
+    ],
+    "price": "15.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51roufdV8SL._AC_UL1300_.jpg",
+        "https://m.media-amazon.com/images/I/61NlLK0NYKL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51OSyJ+8xsL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/21H6wh18KxL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41b79pwsoeL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41XIY3fyJmL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/21H6wh18KxL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41b79pwsoeL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41XIY3fyJmL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Yazbek",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Shirts",
+      "Tank Tops"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"October 11, 2020\"}",
+    "parent_asin": "B08L28CLFH",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's T-Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

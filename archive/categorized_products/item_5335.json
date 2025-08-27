@@ -1,0 +1,60 @@
+{
+  "item_id": 5335,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Juicy Couture Baby Girls' Printed Jumpsuit with Spaghetti Straps",
+    "average_rating": 4.1,
+    "rating_number": 15,
+    "features": [
+      "60% Cotton, 40% Polyester",
+      "Imported",
+      "Pull On closure",
+      "Machine Wash",
+      "Crew neck",
+      "Cap sleeves"
+    ],
+    "description": [
+      "Infant girl printed rayon challis with spaghetti straps"
+    ],
+    "price": "24.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/818BNUgJppL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41-MZ36AZVL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41-MZ36AZVL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Juicy Couture",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Girls",
+      "Clothing",
+      "Jumpsuits & Rompers"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"JCYGA-1007\", \"Department\": \"Baby-girls\", \"Date First Available\": \"January 26, 2017\", \"Manufacturer\": \"Juicy Couture Sets Children's Apparel\"}",
+    "parent_asin": "B019IYVZPC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Girls' Clothing",
+      "Girls' Overalls & Jumpsuits"
+    ],
+    "confidence": 0.95
+  }
+}

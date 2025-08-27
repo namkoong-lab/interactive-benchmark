@@ -1,0 +1,41 @@
+{
+    "main_category": "Digital Music",
+    "title": "Best of",
+    "average_rating": 4.3,
+    "rating_number": 11,
+    "features": [],
+    "description": [
+        "1990 CD reissue of the 1979 best of compilation by American jazz flutist & pioneer of jazz fusion."
+    ],
+    "price": "29.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/715QIfcucwL._SL1400_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/513eDiQPh8L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/513eDiQPh8L._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Tim Weisberg   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Pop",
+        "Easy Listening"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.6 x 4.8 x 0.4 inches; 0.01 Ounces\", \"Manufacturer\": \"A&M\", \"Date First Available\": \"January 26, 2007\", \"Label\": \"A&M\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000008M6X",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,56 @@
+{
+  "item_id": 1567,
+  "metadata": {
+    "main_category": "Home Audio & Theater",
+    "title": "Hello Kitty 1.5\" Digital Photo Frame & digital audio player with video plaback",
+    "average_rating": 3.8,
+    "rating_number": 10,
+    "features": [
+      "Compatible with MP3, WMA and WAV file formats",
+      "View digital photos on the 1.5\" LCD screen",
+      "Built-in battery recharges through the USB port",
+      "Capable of AVI video playback",
+      "Included ear buds allow you to listen to music on the go"
+    ],
+    "description": [
+      "provides 64MB of built-in memory This special Hello Kitty device is an MP3 player and digital photo frame capable of reading MP3, WMA and WAV files as well as AVI video playback. The 64MB built-in flash memory is expandable via the SD/MMC card slot (card not included). It's all wrapped up nicely in the included signature pink pouch that features Hello Kitty herself"
+    ],
+    "price": "24.99",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51791otmSaL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51791otmSaL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Hello Kitty",
+    "categories": [
+      "Electronics",
+      "Portable Audio & Video",
+      "MP3 & MP4 Players"
+    ],
+    "details": "{\"Product Dimensions\": \"8 x 6 x 1 inches\", \"Item Weight\": \"4.8 ounces\", \"Manufacturer\": \"Hello Kitty\", \"Item model number\": \"LYSB00118AAO6-ELECTRNCS\", \"Best Sellers Rank\": {\"Electronics\": 994970, \"MP3 & MP4 Players\": 3144}, \"Date First Available\": \"December 14, 2007\"}",
+    "parent_asin": "B00118AAO6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home Audio & Theater"
+    ],
+    "confidence": 0.9
+  }
+}

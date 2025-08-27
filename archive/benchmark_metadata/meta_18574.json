@@ -1,0 +1,45 @@
+{
+    "main_category": "All Beauty",
+    "title": "Deliverance Indio Products Soap",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "3 oz. (85g) Bar"
+    ],
+    "description": [
+        "Indio Soap is made from 100% pure vegetable oils. Free yourself from domination or hardship by using Indio Products Deliverance Soap."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51Osvo1bjlL._SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41NWXOGF6WL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41NWXOGF6WL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "INDIO",
+    "categories": [
+        "Beauty & Personal Care",
+        "Skin Care",
+        "Body",
+        "Cleansers",
+        "Soaps"
+    ],
+    "details": "{\"Item Form\": \"Bar\", \"Brand\": \"INDIO\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"3.0 Ounce\", \"Use for\": \"Whole Body\", \"Package Dimensions\": \"2 x 2 x 1 inches; 6.4 Ounces\", \"Manufacturer\": \"Indio Products\"}",
+    "parent_asin": "B00AB18RSK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

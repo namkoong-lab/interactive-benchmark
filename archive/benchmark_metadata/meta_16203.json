@@ -1,0 +1,57 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "O'NEILL Boys' Santa Cruz Stripe Boardshort",
+    "average_rating": 4.4,
+    "rating_number": 13,
+    "features": [
+        "100% Polyester",
+        "Imported",
+        "Drawstring closure",
+        "Machine Wash",
+        "18\" Out seam",
+        "Ultra suede",
+        "Quick dry Water Resistance",
+        "Side patch pocket"
+    ],
+    "description": [
+        "The O'Neill Boys Santa Cruz Stripe Board short features an 18\" out seam, ultra suede material, quackery water resistance, and a side patch pocket. Little boys style has a halfback elastic waistband, big boys has a draw cord."
+    ],
+    "price": "60.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/813e8dF3TLL._AC_UL1482_.jpg",
+            "https://m.media-amazon.com/images/I/81V-sgN+SIL._AC_UL1477_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61y9VHJasqL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61wzYsn4kEL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61y9VHJasqL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/61wzYsn4kEL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "O'NEILL",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Boys",
+        "Clothing",
+        "Swim",
+        "Shorts & Trunks",
+        "Board Shorts"
+    ],
+    "details": "{\"Package Dimensions\": \"0.39 x 0.39 x 0.39 inches; 1 Pounds\", \"Department\": \"boys\", \"Date First Available\": \"June 22, 2017\", \"Manufacturer\": \"O'Neill Children's Apparel\"}",
+    "parent_asin": "B0733CX2L4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

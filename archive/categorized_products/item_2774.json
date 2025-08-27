@@ -1,0 +1,61 @@
+{
+  "item_id": 2774,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Nike womens Straight",
+    "average_rating": 4.8,
+    "rating_number": 10,
+    "features": [
+      "Drawstring closure"
+    ],
+    "description": [
+      "Lightweight Warmth Tech Fleece is insulating with a premium look and lightweight construction. Signature Details Surrounding tape highlights the signature zippered Tech Fleece Pockets. An internal stash pocket helps keep your phone and keys in place."
+    ],
+    "price": "64.13",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61KWAP0QgJL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61tbXsQd+ZL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/615eyUYnm7L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61HBnG4Rf2L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31qPXFSh2kL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31h4VRMj3TL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31Ox6PfHnNL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31QVExEofdL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31qPXFSh2kL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31h4VRMj3TL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31Ox6PfHnNL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31QVExEofdL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Nike",
+    "categories": [],
+    "details": "{\"Item model number\": \"CW4292-010\", \"Department\": \"womens\", \"Date First Available\": \"January 6, 2022\"}",
+    "parent_asin": "B09PV4H618",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Pants"
+    ],
+    "confidence": 0.95
+  }
+}

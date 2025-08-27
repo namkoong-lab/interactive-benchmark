@@ -1,0 +1,66 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "SODA Women's Closed Toe Elastic Side White Rubber Sole Loafer (White)",
+    "average_rating": 3.6,
+    "rating_number": 32,
+    "features": [
+        "Textile",
+        "Rubber sole",
+        "Closed Toe",
+        "Elastic Side",
+        "White Rubber Sole",
+        "Rounded Toe",
+        "Preforated Loafer"
+    ],
+    "description": [
+        "Soda Women's Preforated Slip On Loafers, feel the fresh air through them!"
+    ],
+    "price": "39.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61aso41xJxL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61H7+HSdS2L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61M83cyYi2L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61KSTOQbLcL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61taYmJHJ-L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41kXknVq+NL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31GIHuorawL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41JRm59YIBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31iVhYE5UnL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/311DrfbtMrL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41kXknVq+NL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31GIHuorawL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41JRm59YIBL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31iVhYE5UnL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/311DrfbtMrL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Soda",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Fashion Sneakers"
+    ],
+    "details": "{\"Item model number\": \"TRACER-WHTPU\", \"Department\": \"womens\", \"Date First Available\": \"August 14, 2021\", \"Manufacturer\": \"Soda\"}",
+    "parent_asin": "B09CN3G487",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

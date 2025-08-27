@@ -1,0 +1,57 @@
+{
+    "main_category": "Books",
+    "title": "15 Fundamentals for Higher Performance in Software Development: Includes discussions on CMMI, Lean Six Sigma, Agile and SEMAT's Essence Framework",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "Millions of dollars are spent annually on process improvement initiatives that too frequently fall short of their goals. Due at least in part to this situation, today many are turned off and have tuned out when it comes to the multitude of process and performance improvement approaches along with their related hype and buzzwords. Agile, CMMI, Kanban, Lean, Six Sigma, Lean Six Sigma, PSP, and TSP to name just a few.",
+        "Drawing on decades of process improvement experience, author Paul E. McMahon explains why we are facing these problems and how you can get yourself and your organization back on track focused on the things that matter most to both your own personal performance and your organization's performance. This book is equally about personal and organizational performance.",
+        "This book discusses many popular improvement approaches including the CMMI, Lean Six Sigma, and Agile Retrospectives; it highlights fifteen (15) fundamentals common to all successful improvement efforts where sustainable high value performance improvements are achieved; and it shares a vision (and an actual example that holds promise) of a simple “thinking framework” that can help counter the patterns that may be holding you and your organization back from the sustainable high performance you seek.",
+        "Paul also shares real examples from his consulting experiences, a personal performance improvement experience, and stories from high performing athletes and musicians to help you think about performance improvement outside-the-box.",
+        "Praise for 15 Fundamentals...",
+        "“…this book is about far more than CMMI…I believe that it's critical that we listen to, think about, and then act on the criticisms that Paul shares with us…. Should you read this book? If you are interested in software process improvement, if you are responsible for an agile transformation effort, or if you are an IT professional who wants to get better at what they do, then I also think the answer is a resounding yes. In short, Paul has written another great one.” Scott Ambler, Co-Author of Disciplined Agile Delivery: A Practitioner's Guide to Agile Software Delivery in the Enterprise",
+        "\"Paul has a refreshingly different approach to process improvement. It is based on sound theory, personal observations over a long career, and his participation in the groundbreaking SEMAT project. This book is a perfect counterpoint to the traditional improvement methods so often applied with CMMI, Six Sigma, and other improvement approaches. Read it and then wonder how you ever survived those other approaches.\"  Dr. Richard Turner, Co-Author of CMMI Survival Guide: Just Enough Process Improvement",
+        "\"Many efforts have been made to capture the enormous breadth and depth of knowledge and practices necessary to improve organizational performance. Until now, these efforts have either woefully lacked for substance or completeness. More likely, other efforts simply gave up on the fantasy of being complete and settled for a focus on a tiny subset of what's needed to be said. Through masterful architecting of ideas, Paul's 15 Fundamentals for Higher Performance in Software Development offers a readily digestible framework to provide both substance and completeness to a very large, complex and important subjects.\"  Hillel Glazer, Author, High Performance Operations, CMMI High Maturity Lead Appraiser",
+        "\"Paul has done a great job looking at a wide spectrum of prevalent software methods, without a bias for or against any, and come up with a few practical tips for a sustained performance improvement. If you are short of time or don't know where to start the book, jump to the 15 fundamentals. They are worth their weight in gold.\" Prabhakar R. Karve, Director of Engineering, Impetus",
+        "“I very much like the 'out of the box' approach. The book exemplifies high maturity thinking in a simple way.”  Winifred Menezes, CMMI High Maturity Lead Appraiser"
+    ],
+    "description": [
+        "Review",
+        "\"This book gave me insight into other ways to improve and lay the foundation for CMMI Level 4 and 5\"",
+        "Dr. Michael Oakes, Process Improvement Lead, Alion Science and Technology\"This actually struck home with me because this Essence framework introduces a lot more context with regard to problem solving\"",
+        "John Troy, Program Manager Rockwell-Collins",
+        "\"The book reveals the essence of improving software development performance by teaching us to take ownership for improvement and focusing on patterns to address repeating, specific, weaknesses\"",
+        "Barry Myburgh, Johannesburg Centre for Software Engineering"
+    ],
+    "price": "9.86",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51yiz4OUmQL._SX383_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Paul E. McMahon (Author),  Scott Ambler (Introduction)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Programming"
+    ],
+    "details": "{\"Publisher\": \"PEM Systems (July 15, 2014)\", \"Language\": \"English\", \"Paperback\": \"336 pages\", \"ISBN 10\": \"099045083X\", \"ISBN 13\": \"978-0990450832\", \"Item Weight\": \"1.48 pounds\", \"Dimensions\": \"7 x 0.76 x 9.1 inches\"}",
+    "parent_asin": "099045083X",
+    "bought_together": null,
+    "subtitle": "Paperback – July 15, 2014",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/t94cnsvgj39lbm3glh4il5vr9._SY600_.jpg', 'name': 'Paul E. McMahon', 'about': [\"Paul E. McMahon, Principal, PEM Systems (Binghamton, NY), helps large and small organizations as they improve their technical and management processes and move toward increased agility and process maturity. He has taught Software Engineering at Binghamton University, State University of New York; conducted workshops on Engineering Process and Management, and published more than 50 articles on software and systems development and management, including several in CrossTalk, The Journal of Defense Software Engineering, ACM Communications, and ACM Queue. Paul is the author of four books, It's All Upside Down (Jan, 2017), 15 Fundamentals for Higher Performance in Software Development (July, 2014), Integrating CMMI and Agile Development: Case Studies and Proven Techniques for Faster Performance Improvement (August, 2010) and a book on collaborative development, Virtual Project Management: Software Solutions for Today and the Future (CRC Press, 2000). He is co-author of The Essence of Software Engineering.\", 'A frequent speaker at industry conferences, including the Systems and Software Technology Conference, Agile Conferences, and the CMMI/SEPG Conference. Paul has been consulting independently since 1997. His experience, insights, and recommendations he shares with his clients reflect 24 years of engineering and management experience working for such companies as Link Simulation and Lockheed Martin, and 19 years of consulting/coaching experiences. Paul holds a BA degree, Magna Cum Laude, in mathematics from the University of Scranton, and an MA degree in mathematics from Binghamton University. His current interests and work with clients focus on the use of Agile Methods, Lean techniques, the CMMI framework, and distributed teams. Paul provides tailored workshop training for his clients. He is currently on the leadership team of an international initiative to refound software engineering founded by Ivar Jacobson, Bertrand Meyer and Richard Soley (www.semat.org).', 'Contact Information:', 'Paul E. McMahon', 'Principal, PEM Systems', '118 Matthews Street', 'Binghamton, New York 13905', 'Phone: 607-798-7740', 'Web: www.PEMSystems.com', 'Email: PEMcMahon@ACM.ORG', 'Skype: paul.e.mcmahon']}"
+}

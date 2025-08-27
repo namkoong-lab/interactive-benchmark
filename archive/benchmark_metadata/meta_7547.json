@@ -1,0 +1,51 @@
+{
+    "main_category": "Books",
+    "title": "The Farm Book (A Golden Super Shape Book)",
+    "average_rating": 4.7,
+    "rating_number": 266,
+    "features": [
+        "This read-aloud book about life on the farm is perfect for all children ages 3 and up. This delightful illustrated book, with vibrant color pictures, details the daily routines of Betty and Bobby, and their farm animal friends the sheep, the pigs, the ponies, the chickens, the cows, and the geese."
+    ],
+    "description": [
+        "About the Author",
+        "Jan Pfloog",
+        "illustrated dozens of beautiful children's books about animals, mainly during the 1960s, including",
+        "The Farm Book",
+        ",",
+        "Kittens Are Like That",
+        ", and",
+        "The Puppy Book",
+        "."
+    ],
+    "price": "14.1",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61IwiSCDuDL._SY496_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jan Pfloog (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Geography & Cultures"
+    ],
+    "details": "{\"Publisher\": \"Golden Books; First Edition Thus (July 15, 1999)\", \"Language\": \"English\", \"Paperback\": \"24 pages\", \"ISBN 10\": \"0307581179\", \"ISBN 13\": \"978-0307581174\", \"Reading age\": \"1 - 4 years, from customers\", \"Grade level\": \"Preschool - 2\", \"Item Weight\": \"2.25 ounces\", \"Dimensions\": \"8 x 0.12 x 8.02 inches\"}",
+    "parent_asin": "0307581179",
+    "bought_together": null,
+    "subtitle": "Paperback – Picture Book, July 15, 1999",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Jan Pfloog', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

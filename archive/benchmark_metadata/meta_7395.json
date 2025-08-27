@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Brown County (OH) (Images of America)",
+    "average_rating": 4.7,
+    "rating_number": 15,
+    "features": [
+        "The history of Brown County has been shaped largely by the Ohio River. It has allowed farmers and industries to transport their products and provided recreation, entertainment, and travel opportunities to the residents of the community. Even though flooding of the river brought destruction many times, it also enabled freedom for thousands of slaves. Under abolitionist leaders like John Rankin and John Parker, parts of Brown County became known as the \"Grand Central Station\" of the Underground Railroad. Interesting and notable Brown County natives include Ulysses S. Grant, who grew up to command one of the largest armies ever assembled and later became president of the United States; Col. Charles Young, the third African American to graduate from West Point and a military attache to Liberia; Rosie Riles, better known as \"Aunt Jemima\"; and Joe Smith, who inadvertently helped Louis Armstrong's career, also hailed from this great county."
+    ],
+    "description": [
+        "About the Author",
+        "Greg Haitz is an educator and Brown County native with degrees in history from the University of Kentucky and Xavier University. Lisa Haitz grew up in New Jersey, also has a degree in history, and is the webmaster for a university library in Cincinnati."
+    ],
+    "price": "16.26",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/71JRHLrncjL._SX630_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Greg Haitz (Author),  Lisa Haitz (Author)",
+    "categories": [
+        "Books",
+        "History",
+        "Americas"
+    ],
+    "details": "{\"Publisher\": \"Arcadia Publishing; Illustrated edition (November 20, 2006)\", \"Language\": \"English\", \"Paperback\": \"128 pages\", \"ISBN 10\": \"0738541109\", \"ISBN 13\": \"978-0738541105\", \"Item Weight\": \"11.4 ounces\", \"Dimensions\": \"6.5 x 0.31 x 9.25 inches\"}",
+    "parent_asin": "0738541109",
+    "bought_together": null,
+    "subtitle": "Paperback – Illustrated, November 20, 2006",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Greg Haitz', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

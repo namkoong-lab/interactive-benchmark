@@ -1,0 +1,42 @@
+{
+    "main_category": "Books",
+    "title": "The Man in the Black Hat",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "The renowned beauty and storied history of the Hudson Valley countryside have drawn people to Columbia County, New York for years. Since 1946, locals and visitors alike have taken delight in \"The Man in the Black Hat,\" an unsigned column in the weekly Chatham Courier of reflections on people and events both local and wordly.",
+        "Although the column has remained officially anonymous for the nearly 60 years of its existence, the author's identity has been a thinly-veiled secret in Chatham and surrounding towns. In this first-ever collection of his work, columnist Albert S. Callan takes off the black hat and takes a bow. Readers will want to stand and applaud the humor, wisdom and humanity of this country scribe."
+    ],
+    "description": [
+        "About the Author",
+        "Albert S. Callan, a lifelong resident of Chatham, New York, was born in Albany, NY on January 23, 1918. After graduating from Union College, he served on the staff of General George S. Patton during World War II. Upon returning home to Columbia County, he went to work for the Chatham Courier in 1946, eventually rising to the position of editor and publisher. He has been writing \"The Man in the Black Hat\" since joining the newspaper.",
+        "Albert and his wife Virginia live in the town of Chatham and spend winters in San Miguel de Allende, Mexico. Mr. Callan has two grown sons, Albert III and Peter, and three grandsons, Leighton, Gavin and Joseph."
+    ],
+    "price": "49.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/414Q8kl0xOL._SY329_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Albert S. Callan (Author)",
+    "categories": [],
+    "details": "{\"Publisher\": \"Hollis Publishing Co.; First Edition (November 1, 2003)\", \"Hardcover\": \"260 pages\", \"ISBN 10\": \"1884186262\", \"ISBN 13\": \"978-1884186264\", \"Item Weight\": \"1.05 pounds\"}",
+    "parent_asin": "1884186262",
+    "bought_together": null,
+    "subtitle": "Hardcover – November 1, 2003",
+    "author": null
+}

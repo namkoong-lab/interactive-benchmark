@@ -1,0 +1,54 @@
+{
+    "main_category": "Grocery",
+    "title": "Zero Candy Bars (1.85 Ounce, 24 Pack) (2 Pack)",
+    "average_rating": 4.2,
+    "rating_number": 5,
+    "features": [
+        "Each bar is individually wrapped for snacking on the go or sharing with friends.",
+        "These candy bars are perfect for filling candy bowls or giving out as holiday favors."
+    ],
+    "description": [
+        "Treat yourself to a delicious confection made from caramel, peanuts, and almond nougat, all covered in creamy white fudge."
+    ],
+    "price": "79.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51yvzN+GC7L._SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31fnXsLzDyL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31fnXsLzDyL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Skor Candy various sizes and case packs",
+            "Heath Milk Chocolate English Toffee Candy review"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0cb12e095d454b2682a6f28a75f839ff?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0bf0a9e118b5434eaa41fd24b54f8368?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "/shop/influencer-dcb4065c",
+            "/shop/mikefrommaine"
+        ]
+    },
+    "store": "ZERO",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Chocolate Candy",
+        "Candy & Chocolate Bars"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Item Weight\": \"1.85 Ounces\", \"UPC\": \"010700804228\", \"Manufacturer\": \"Hershey\"}",
+    "parent_asin": "B01IAAABPK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

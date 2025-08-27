@@ -1,0 +1,55 @@
+{
+  "item_id": 530,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Who's Next",
+    "average_rating": 4.8,
+    "rating_number": 3420,
+    "features": [],
+    "description": [
+      "1980 MCA RECORDS MCA-1691 Vinyl Record"
+    ],
+    "price": "14.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91Gjhe0wFzL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/817a7y2VewL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/61zlYrvnkcL.jpg",
+        "https://m.media-amazon.com/images/I/51Tr0T4lIvL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/61zlYrvnkcL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51Tr0T4lIvL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "The Who   Format: Vinyl",
+    "categories": [
+      "CDs & Vinyl",
+      "Rock",
+      "Hard Rock"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"13.19 x 12.76 x 0.39 inches; 0.01 Ounces\", \"Manufacturer\": \"MCA\", \"Item model number\": \"23MM0069\", \"Date First Available\": \"July 1, 2007\", \"Label\": \"MCA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0018PZST4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Vinyl Records"
+    ],
+    "confidence": 0.95
+  }
+}

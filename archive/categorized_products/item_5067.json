@@ -1,0 +1,85 @@
+{
+  "item_id": 5067,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Bearpaw Amoura Fashion Boot Beige",
+    "average_rating": 4.4,
+    "rating_number": 12,
+    "features": [
+      "Rubber sole",
+      "Slip-on",
+      "Suede upper",
+      "Cushioned insole",
+      "Lightweight outsole",
+      "Faux fur lining"
+    ],
+    "description": [
+      "Bearpaw Amoura Women's Fashion Boot Stay warm and cozy this season wearing the Bearpaw Amoura Women's Fashion Boot! This style features a soft suede upper with faux fur lining. The cushioned insole adds padding to each of your steps, while the lightweight outsole delivers traction and support wherever you go. You can wear the Bearpaw Amoura Women's Fashion Boot to run errands or even snuggle up by the fireplace! Slip-on Suede upper Cushioned insole Lightweight outsole Faux fur lining Brown/Hickory Imported | Bearpaw Amoura Fashion Boot Beige"
+    ],
+    "price": "33.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51i11hnXWDL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51i11hnXWDL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51p13BaB2LL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51MPzmFsflL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51saSSpyD1L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61XpPEoNRnL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51-V61P6dPL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31PxLNFF9xL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31PxLNFF9xL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31Ual5otBYL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21X8NEC6Q9L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21L0ORe4TWL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/310Jb02IV+L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21bhnO6DU9L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31PxLNFF9xL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31PxLNFF9xL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31Ual5otBYL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21X8NEC6Q9L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21L0ORe4TWL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/310Jb02IV+L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21bhnO6DU9L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05",
+        "PT06"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "BEARPAW",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Boots",
+      "Ankle & Bootie"
+    ],
+    "details": "{\"Date First Available\": \"December 14, 2021\"}",
+    "parent_asin": "B0BCQ15MY7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Boots"
+    ],
+    "confidence": 0.95
+  }
+}

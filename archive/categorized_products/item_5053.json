@@ -1,0 +1,67 @@
+{
+  "item_id": 5053,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "ARIAT Men's Fr Solid Work Shirt",
+    "average_rating": 4.6,
+    "rating_number": 84,
+    "features": [
+      "75% Cotton, 15% Nylon, 10% Wool",
+      "Made in the USA or Imported",
+      "Button closure",
+      "Machine Wash",
+      "Made From Flame Resistant Twill",
+      "HRC2, ATPV 9.5, NFPA 70E, NFPA 2112 rated",
+      "Accessories not included"
+    ],
+    "description": [
+      "FR Solid Work ShirtThis tough shirt lives for performance and action. Made from durable, soft flame resistant twill that is comfortable against skin. The button-down front has two chest pockets with a pen slot on the left. Greater Arm Mobility Technology keeps shirt cuffs down and extended inseam construction improves range of motion. Extended inseam construction improves range of motion. Finishing details include adjustable cuffs and double-yoke design with center back seam. CAT 2, ATPV 8.9, NFPA 70E, NFPA 2112 rated."
+    ],
+    "price": "104.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71UEFsIPs0L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71UEFsIPs0L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41epRCwcgfL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41epRCwcgfL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41epRCwcgfL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41epRCwcgfL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "ARIAT",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Uniforms, Work & Safety",
+      "Clothing",
+      "Work Utility & Safety",
+      "Tops"
+    ],
+    "details": "{\"Product Dimensions\": \"14 x 11 x 1 inches; 13.6 Ounces\", \"Item model number\": \"10012251\", \"Department\": \"mens\", \"Date First Available\": \"August 29, 2015\", \"Manufacturer\": \"ARIAT\"}",
+    "parent_asin": "B0B9ST351X",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Work Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

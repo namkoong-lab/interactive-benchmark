@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Because We Can! (a Donovan Creed Novel)",
+    "average_rating": 4.1,
+    "rating_number": 841,
+    "features": [
+        "Official Description: As Donovan Creed and Callie Carpenter’s personal relationship rapidly deteriorates, urban terrorist Ryan Decker wages an all-out war against the United States. Preliminary Review: “In this 11th installment of the Creed series, Locke offers a bouquet to his loyal readers: a perfect blend of humor and horror that chronicles Creed and Callie’s slow, steady descent into madness.”"
+    ],
+    "description": [
+        "About the Author",
+        "New York Times best-selling author John Locke is the international best-selling author of 28 books in six different genres. He is the 8th author in history to have sold one million eBooks on Kindle, which he achieved in only five months. Locke has had four books in the top ten at the same time, including #1 and #2. Foreign rights to his books have been acquired by major publishing companies all over the world. Translations include: Spanish, Catalan, Italian, Japanese, Polish, Hungarian, Russian, and Lithuanian."
+    ],
+    "price": "4.78",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51oMLaTzG2L._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "John Locke (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Action & Adventure"
+    ],
+    "details": "{\"Publisher\": \"Telemachus Press LLC (August 14, 2013)\", \"Language\": \"English\", \"Paperback\": \"358 pages\", \"ISBN 10\": \"1939927536\", \"ISBN 13\": \"978-1939927538\", \"Item Weight\": \"1.05 pounds\", \"Dimensions\": \"6 x 0.81 x 9 inches\"}",
+    "parent_asin": "1939927536",
+    "bought_together": null,
+    "subtitle": "Paperback – August 14, 2013",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/41w-69dT+XL._SY600_.jpg', 'name': 'John Locke', 'about': ['New York Times best-selling author John Locke holds a Guinness World Record for eBook sales and is the international best-selling author of 38 books in six different genres. He is the 8th author in history to have sold one million eBooks on Kindle, which he achieved in only five months. Locke has had four books in the top ten at the same time, and eight books in the top 43 at the same time, including #1 and #2. Foreign rights to his books have been purchased by the world’s top publishers. Translations include Russian, Spanish, Catalan, Italian, Japanese, Polish, Hungarian, and Lithuanian, with more on the way.']}"
+}

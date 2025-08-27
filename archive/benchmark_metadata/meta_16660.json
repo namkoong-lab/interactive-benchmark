@@ -1,0 +1,54 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "PORT AND COMPANY Fleece Pullover Hooded Sweatshirt (PC90YH) Purple, M",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [
+        "Poly,Cotton,Fleece",
+        "Imported",
+        "Pull On closure",
+        "Two-ply hood.",
+        "No drawcord at hood.",
+        "Set-in sleeves.",
+        "Front pouch pocket."
+    ],
+    "description": [
+        "7.8-ounce, 50/50 cotton/poly fleece; double-lined hood, set-in sleeves and muff pocket. Youth sizes: XS(2-4), S(6-8), M(10-12), L(14-16), XL(18-20)"
+    ],
+    "price": "19.96",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71UWXcoh6CL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Mad6HCScL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/413OpAhufPL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41wbC0ktSOL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/413OpAhufPL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41wbC0ktSOL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "PORT AND COMPANY",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Boys",
+        "Clothing",
+        "Fashion Hoodies & Sweatshirts"
+    ],
+    "details": "{\"Package Dimensions\": \"10.4 x 8.8 x 3 inches; 14.4 Ounces\", \"Item model number\": \"PC90YH\", \"Department\": \"boys\", \"Date First Available\": \"October 29, 2015\"}",
+    "parent_asin": "B017BUFK9C",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

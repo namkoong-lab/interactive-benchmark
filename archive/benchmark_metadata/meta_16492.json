@@ -1,0 +1,49 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Domo-kun Cape Backsack",
+    "average_rating": 2.0,
+    "rating_number": 1,
+    "features": [
+        "polyester",
+        "Imported",
+        "18\" shoulder drop",
+        "Cinch bag",
+        "Measures 13.5\" x 18\"",
+        "Officially licensed"
+    ],
+    "description": [
+        "This cinch bag measures 13.5\"x18\" and has 19\" straps. It also features an attached cape."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81pmmXQPogL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51-RVuZROtL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51-RVuZROtL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Concept One",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Luggage & Travel Gear",
+        "Gym Bags",
+        "Drawstring Bags"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"13.8 x 9.1 x 1 inches; 7.2 Ounces\", \"Department\": \"mens\", \"Date First Available\": \"October 11, 2012\", \"Manufacturer\": \"Concept One\", \"Country of Origin\": \"China\"}",
+    "parent_asin": "B008TW3OWM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

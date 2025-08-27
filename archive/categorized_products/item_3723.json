@@ -1,0 +1,75 @@
+{
+  "item_id": 3723,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "WILSON Rush Pro Ace Pickleball",
+    "average_rating": 4.2,
+    "rating_number": 62,
+    "features": [
+      "Imported",
+      "Rubber sole",
+      "Great for Pickleball and Tennis.",
+      "Enter the court in pure fashion wearing the Wilson Rush Pro Ace Pickleball shoes.",
+      "Textile and synthetic upper.",
+      "Breathable textile lining, and insole.",
+      "Removable cushioned insole."
+    ],
+    "description": [
+      "Great for Pickleball and Tennis. Enter the court in pure fashion wearing the Wilson Rush Pro Ace Pickleball shoes. Textile and synthetic upper. Breathable textile lining, and insole. Removable cushioned insole. Round toe silhouette. Classic lace-up closure. Brand logo text print on upper. Synthetic outsole."
+    ],
+    "price": "99.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51cro650tTL._AC_UL1001_.jpg",
+        "https://m.media-amazon.com/images/I/61+wgrvJfeL._AC_UL1001_.jpg",
+        "https://m.media-amazon.com/images/I/51knZn4OzdL._AC_UL1001_.jpg",
+        "https://m.media-amazon.com/images/I/51FmJFsFBDL._AC_UL1001_.jpg",
+        "https://m.media-amazon.com/images/I/51FFH--pG2L._AC_UL1001_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41Qva0hI+WL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41EKjLgPVRL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/418J89RzC5L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41CRgDGowzL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/415PMfVxEDL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41Qva0hI+WL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41EKjLgPVRL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/418J89RzC5L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41CRgDGowzL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/415PMfVxEDL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "WILSON",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"September 14, 2021\"}",
+    "parent_asin": "B09G6W2XHG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

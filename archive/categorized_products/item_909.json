@@ -1,0 +1,65 @@
+{
+  "item_id": 909,
+  "metadata": {
+    "main_category": "Health & Personal Care",
+    "title": "Elete Citrilyte Gallon",
+    "average_rating": 4.4,
+    "rating_number": 5,
+    "features": [
+      "All-natural",
+      "Very Versatile"
+    ],
+    "description": [
+      "Elete CitriLyte includes all of the benefits you've come to expect from Elete with a lite tart flavor. It can be added to less than perfect tasting water or over added and still taste great. The larger sizes are perfect for large teams or work crews. 2 ounce makes 5 gallons; 4 ounce makes 10 gallons; 8.3 ounce makes 25 gallons and 1 gallon jug makes 320 gallons. 3 year shelf life."
+    ],
+    "price": "145.37",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/716bYhbPulL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81jKmqZHrGL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31+HzCqxmxL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41nylp-afnL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31+HzCqxmxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41nylp-afnL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Elete Citrilyte Gallon"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/8f097dc6d6ea4ea7b739978f1e3fdd97?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "Elete Citrilyte Add-in",
+    "categories": [
+      "Health & Household",
+      "Diet & Sports Nutrition",
+      "Sports Nutrition",
+      "Electrolyte Replacements"
+    ],
+    "details": "{\"Product Dimensions\": \"5.9 x 11.6 x 6.1 inches; 10.55 Pounds\", \"Item model number\": \"609243\", \"Date First Available\": \"April 21, 2011\", \"Manufacturer\": \"Mineral Resources International, Inc.\"}",
+    "parent_asin": "B004XIRZXK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Health & Personal Care",
+      "Dietary Supplements"
+    ],
+    "confidence": 0.9
+  }
+}

@@ -1,0 +1,46 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Shark Week: Fins of Fury",
+    "average_rating": 4.6,
+    "rating_number": 80,
+    "features": [],
+    "description": [
+        "Shark Week is an annual series of investigations into the characteristics and habits of the dangerous and often misunderstood marine predator. It is also cable television's longest-running programming event since 1988!"
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91+V6hrlLwL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51hZ3QRfJ5L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51hZ3QRfJ5L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Shark Week: Fins of Fury"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/8d61ba77b3734d5295f2b119d202c086?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Various  (Actor),     Discovery Communications  (Director)    Rated:    PG-13    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Discovery Channel"
+    ],
+    "details": "{\"Format\": \"Multiple Formats, Color, NTSC, Subtitled, Widescreen\", \"Contributor\": \"Discovery Communications, Various\", \"Language\": \"English\", \"Number Of Discs\": \"1\", \"Runtime\": \"3 hours and 35 minutes\", \"MPAA rating\": \"PG-13 (Parents Strongly Cautioned)\", \"Product Dimensions\": \"0.7 x 7.5 x 5.4 inches; 2.72 Ounces\", \"Item model number\": \"26920078\", \"Director\": \"Discovery Communications\", \"Media Format\": \"Multiple Formats, Color, NTSC, Subtitled, Widescreen\", \"Run time\": \"3 hours and 35 minutes\", \"Release date\": \"July 16, 2013\", \"Actors\": \"Various\", \"Subtitles\": \"English\", \"Studio\": \"Discovery Channel\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00CAYH2P0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

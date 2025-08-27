@@ -1,0 +1,72 @@
+{
+  "item_id": 4278,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Wennikids Baby Girl Long Sleeve Shirt Tops with Ruffles 1-5t in",
+    "average_rating": 4.5,
+    "rating_number": 29,
+    "features": [
+      "100% Cotton",
+      "Pull On closure",
+      "Machine Wash",
+      "Material:Cotton",
+      "Size:S,M,L,XL,XXL 5 sizes for 1-5T",
+      "Long Sleeves",
+      "With Double Ruffles",
+      "14 Colors Total"
+    ],
+    "description": [
+      "Material:Cotton  Size:S,M,L,XL,XXL 5 sizes for 1-5T  Long Sleeves  With Double Ruffles  14 Colors Total"
+    ],
+    "price": "11.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51YyfzaDUQL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/51B-vVN0PML._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/51mNGKpFy6L._AC_UL1001_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/419qCBId9zL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31xyY48sbKL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41dhGrjIiQL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/419qCBId9zL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31xyY48sbKL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41dhGrjIiQL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Wennikids",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Baby",
+      "Baby Girls",
+      "Clothing",
+      "Tops",
+      "Tees"
+    ],
+    "details": "{\"Item model number\": \"LC-RUTS-001\", \"Department\": \"Baby-girls\", \"Date First Available\": \"December 29, 2014\"}",
+    "parent_asin": "B00RK71X3O",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Girls' Clothing",
+      "Baby Clothing"
+    ],
+    "confidence": 0.95
+  }
+}

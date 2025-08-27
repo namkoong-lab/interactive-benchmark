@@ -1,0 +1,43 @@
+{
+    "main_category": "Books",
+    "title": "Can You Say My Name",
+    "average_rating": 4.7,
+    "rating_number": 5,
+    "features": [
+        "Ashwini and Avinash attend their first day of school together. Ashwini is worried about her new friends pronouncing her name. Will they say it correctly? Avinash and Ashwini's mother help her have a marvelous first day at school. The teacher joins in to surprise Ashwini as well!"
+    ],
+    "description": [
+        "About the Author",
+        "Meena Kothandaraman is an author, accomplished musician in the South Indian Classical music style, and educator. She teaches at Bentley University and designs application interfaces to ensure that they are user-friendly. A key component of her professional life is to see things from the user perspective - exactly what she has done in this book by exploring one's name through the eyes of children. Meena shares a unique perspective from her personal and professional life on what it is like to grow up balancing multiple cultures. Meena was born and raised in Canada to Indian parents. She lives in Massachusetts with her husband, a computer engineer and their two children. She loves the Netherlands and has visited India over 25 times, most recently with her littlest world travelers in tow!"
+    ],
+    "price": "10.94",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/516rEqu9tqL._SX398_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Meena Kothandaraman (Author)",
+    "categories": [
+        "Books",
+        "Holiday Books"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform (March 24, 2009)\", \"Language\": \"English\", \"Paperback\": \"24 pages\", \"ISBN 10\": \"1440470898\", \"ISBN 13\": \"978-1440470899\", \"Item Weight\": \"2.56 ounces\", \"Dimensions\": \"8 x 0.06 x 10 inches\"}",
+    "parent_asin": "1440470898",
+    "bought_together": null,
+    "subtitle": "Paperback – March 24, 2009",
+    "author": null
+}

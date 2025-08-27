@@ -1,0 +1,66 @@
+{
+    "main_category": "Automotive",
+    "title": "Standard Motor Products US14 Ignition Switch",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "One year limited warranty",
+        "Improves overall performance"
+    ],
+    "description": [
+        "The Standard Ignition lock cylinder with key is easy to use and will replace most OEM parts."
+    ],
+    "price": "17.86",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61g8waOpBUL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/615vIJsjOqL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71kU7dTj94L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61Cdel6x+iL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61SvqTAt0FL._AC_SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41PFx5sRAPL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41d57rWsOWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41QVyUkAZ6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/414L76lC4FL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41KU9DJM+FL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31WfwNX2JbL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41PFx5sRAPL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41d57rWsOWL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41QVyUkAZ6L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/414L76lC4FL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41KU9DJM+FL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31WfwNX2JbL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT12"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "STANDARD IGN",
+    "categories": [
+        "Automotive",
+        "Replacement Parts",
+        "Switches & Relays",
+        "Switches",
+        "Ignition Starter"
+    ],
+    "details": "{\"Operation Mode\": \"ON-OFF\", \"Current Rating\": \"15 Amps\", \"Operating Voltage\": \"12 Volts\", \"Contact Type\": \"Normally Open\", \"Connector Type\": \"Clamp\", \"Brand\": \"STANDARD IGN\", \"Switch Type\": \"Ignition Switch\", \"Terminal\": \"Solder\", \"Material\": \"Metal\", \"Item Dimensions LxWxH\": \"2.16 x 1.94 x 4.13 inches\", \"Mounting Type\": \"Panel Mount\", \"International Protection Rating\": \"IP00\", \"Specification Met\": \"Oem\", \"Connectivity Protocol\": \"X-10\", \"Unit Count\": \"1.0 Count\", \"Number of Items\": \"1\", \"Manufacturer\": \"STANDARD IGN\", \"Item Weight\": \"4 ounces\", \"Product Dimensions\": \"2.16 x 1.94 x 4.13 inches\", \"Item model number\": \"US14\", \"Manufacturer Part Number\": \"US-14\", \"National Stock Number\": \"2920-00-450-9496\", \"Best Sellers Rank\": {\"Automotive\": 559049, \"Automotive Replacement Ignition Starter Switches\": 2041}, \"Date First Available\": \"January 8, 2006\"}",
+    "parent_asin": "B000C7YIAE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

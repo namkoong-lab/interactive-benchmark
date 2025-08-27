@@ -1,0 +1,62 @@
+{
+    "main_category": "Computers",
+    "title": "Adafruit Mini USB Microphone [ADA3367]",
+    "average_rating": 3.9,
+    "rating_number": 49,
+    "features": [
+        "Possibly the world's smallest USB microphone",
+        "Plug-and-play Mini USB Microphone needs no driver",
+        "USB interface means you can use it with any computer, laptop, SBC, etc"
+    ],
+    "description": [
+        "Hey, listen up! It's the world's smallest USB microphone! OK maybe it's not in the Guinness Record Book, but it is pretty darn small! This plug-and-play Mini USB Microphone needs no driver, and its USB interface means you can use it with any computer, laptop, SBC, etc! Works great with a Raspberry Pi computer, but you can also use it with any other computer you want to record audio on. Simply plug it right in and you're ready to start recording your podcast, song, spoken-word poetry, audiobook, or whatever your heart desires! If you need to be a little closer to the audio source, you may want to pair it with a USB extension cable or a USB swivel adapter. Item Specifics Size: 22.2mm x 18.3mm x 7.0mm / 0.9\" x 0.7\" x 0.3\" Weight: 2.2g / 0.1oz"
+    ],
+    "price": "8.28",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/71JZ42FrfLL._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/81fbHL+SWEL._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/811iLKYppNL._AC_SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51oMlfABsyL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51zPtb6Rd4L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51gHwXRPUgL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/610aOzME-aL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51oMlfABsyL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51zPtb6Rd4L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51gHwXRPUgL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/610aOzME-aL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Hot Sell Mini Cheap Portable Computer Usb Desktop Microphone",
+            "etour bl-2021usb Micrphone"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/03bf10f9d2e049b48afeccf4c1d3d6fe?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/03e6397480004befb0f7f0c3aea1ed07?ref=dp_vse_rvc_1"
+        ],
+        "user_id": [
+            "",
+            ""
+        ]
+    },
+    "store": "Adafruit",
+    "categories": [],
+    "details": "{\"Brand\": \"Adafruit\", \"Series\": \"USB MIC\", \"Hardware Platform\": \"Laptop, PC\", \"Item Weight\": \"0.04 Pounds\", \"Package Dimensions\": \"4.37 x 3.7 x 0.31 inches\", \"Power Source\": \"Corded Electric\", \"Manufacturer\": \"Adafruit\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"May 3, 2017\", \"Model Name\": \"USB MIC\", \"Connectivity Technology\": \"USB\", \"Connector Type\": \"USB\", \"Special Feature\": \"USB\", \"Compatible Devices\": \"Laptop, Personal Computer\", \"Included Components\": \"Usb cable\", \"Polar Pattern\": \"Omnidirectional\", \"Microphone Form Factor\": \"Mini, Plug On\"}",
+    "parent_asin": "B071YMZQP1",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

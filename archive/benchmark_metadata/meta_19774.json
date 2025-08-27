@@ -1,0 +1,50 @@
+{
+    "main_category": "Musical Instruments",
+    "title": "Seydel Session Steel Harmonica - Richter: Key of A",
+    "average_rating": 3.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "In the key of A"
+    ],
+    "price": "65.99",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41lKjOoSEEL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41IfQRRPb6L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41e3f2Bz6FL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41lKjOoSEEL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41IfQRRPb6L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41e3f2Bz6FL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Seydel",
+    "categories": [
+        "Musical Instruments",
+        "Wind & Woodwind Instruments",
+        "Folk & World",
+        "Harmonicas"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"June 13, 2017\", \"Material Type\": \"Alloy Steel\", \"Instrument Key\": \"A\", \"Material\": \"Alloy Steel\", \"Style\": \"Modern\"}",
+    "parent_asin": "B01NB1GE3E",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

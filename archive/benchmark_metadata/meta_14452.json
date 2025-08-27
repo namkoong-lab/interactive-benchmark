@@ -1,0 +1,52 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "United States Space Force Hooded Sweatshirt",
+    "average_rating": 4.8,
+    "rating_number": 10,
+    "features": [
+        "Polyester,Cotton",
+        "Pull On closure",
+        "Preshrunk 50% Cotton/ 50% Polyester",
+        "8.0 oz. Gildan no pilling air jet yarn",
+        "Double-Lined Hood with matching drawstring",
+        "Pouch Pocket",
+        "Double needle stiching 1X1 rib cuffs and waistband"
+    ],
+    "description": [
+        "This image was designed and screen printed by All Things Apparel and is an authentic All Things Apparel product."
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81fALTSGgPL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41r4Cqh4cwL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41r4Cqh4cwL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "All Things Apparel",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Men",
+        "Hoodies"
+    ],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"May 19, 2020\"}",
+    "parent_asin": "B088WF7Z3Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

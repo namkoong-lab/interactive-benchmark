@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Everything Anti-Aging (Everything Series)",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "A simple and comprehensive guide to the key factors associated with aging and the steps involved to slowing down the process, complete with mental health advice, nutritional tips, physical fitness suggestions and more. Original."
+    ],
+    "description": [
+        "About the Author",
+        "Donald Vaughan has specialized in medical writing for more than twenty years, and has published over 800 magazines and newspaper articles. He lives in Raleigh, North Carolina."
+    ],
+    "price": "7.49",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/5117FW3PP7L._SX404_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Donald Vaughan (Author)",
+    "categories": [
+        "Books",
+        "Health, Fitness & Dieting",
+        "Aging"
+    ],
+    "details": "{\"Publisher\": \"Everything (November 1, 2001)\", \"Language\": \"English\", \"Paperback\": \"291 pages\", \"ISBN 10\": \"1580625657\", \"ISBN 13\": \"978-1580625654\", \"Item Weight\": \"1.25 pounds\", \"Dimensions\": \"8 x 1 x 9.5 inches\"}",
+    "parent_asin": "1580625657",
+    "bought_together": null,
+    "subtitle": "Paperback – November 1, 2001",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Donald Vaughan', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

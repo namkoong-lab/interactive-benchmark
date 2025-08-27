@@ -1,0 +1,55 @@
+{
+  "item_id": 306,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Essential R&B: 90's Anthems / Various",
+    "average_rating": 4.2,
+    "rating_number": 55,
+    "features": [],
+    "description": [
+      "Packaged in 3 slimline jewel cases housed in a gloss slipcase, this collection will evoke fantastic memories for any fan of the genre, while also acting as a stellar introduction to early material from many of today's current stars."
+    ],
+    "price": "41.99",
+    "images": {
+      "hi_res": [
+        null,
+        "https://m.media-amazon.com/images/I/91Su46kOIlL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51LXdLZYevL.jpg",
+        "https://m.media-amazon.com/images/I/61sbBZ+GULL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51LXdLZYevL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/61sbBZ+GULL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "ESSENTIAL R&B: 90'S ANTHEMS / VARIOUS  (Artist)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "R&B",
+      "Soul"
+    ],
+    "details": "{\"Package Dimensions\": \"5.59 x 4.96 x 0.94 inches; 7.79 Ounces\", \"Manufacturer\": \"Sony UK\", \"Date First Available\": \"July 19, 2010\", \"Label\": \"Sony UK\", \"Country of Origin\": \"United Kingdom\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B003VW3J16",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "CD Box Sets"
+    ],
+    "confidence": 0.95
+  }
+}

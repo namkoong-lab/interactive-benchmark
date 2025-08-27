@@ -1,0 +1,44 @@
+{
+    "main_category": "Grocery",
+    "title": "Chinese Five Spice By Penzeys Spices 2.1 oz 1/2 cup jar (Pack of 1)",
+    "average_rating": 4.5,
+    "rating_number": 5,
+    "features": [
+        "Chinese stir-fry is quick, easy and very versatile, combining well with all meats and vegetables.",
+        "Love To Cook - Cook To Love"
+    ],
+    "description": [
+        "As America redefines its diet, increasing consumption of vegetables and starches, and cutting fats and meat portions, it makes sense to borrow from those who have cooked this way throughout history. Chinese stir-fry is quick, easy and very versatile, combining well with all meats and vegetables. Hand-mixed from: China cinnamon, star anise, anise seed, ginger and cloves."
+    ],
+    "price": "22.19",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31jfLCtkgWL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31jfLCtkgWL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Penzeys",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Food & Beverage Gifts",
+        "Herb, Spice & Seasoning Gifts"
+    ],
+    "details": "{\"Package Dimensions\": \"5.83 x 2.83 x 2.01 inches; 6.88 Ounces\", \"Manufacturer\": \"Penzeys\"}",
+    "parent_asin": "B0163V46L8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

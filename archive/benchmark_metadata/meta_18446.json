@@ -1,0 +1,42 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "The Flag Shirt USA Headband",
+    "average_rating": 4.7,
+    "rating_number": 2,
+    "features": [],
+    "description": [
+        "Got olympic fever? Celebrating the 4th? Want to show your patriotism in style? My USA headbands are just the trick!"
+    ],
+    "price": "3.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61CUQF4MMiL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/517dM5L6K8L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/517dM5L6K8L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "The Flag Shirt",
+    "categories": [
+        "Sports & Outdoors",
+        "Fan Shop",
+        "Clothing Accessories",
+        "Headbands"
+    ],
+    "details": "{\"Color\": \"Red White and Blue\", \"Age Range (Description)\": \"Adult\", \"Material\": \"80% Cotton, 10% Polyamide, 10% Elastane\", \"Number of Items\": \"1\", \"Brand\": \"The Flag Shirt\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"August 10, 2012\", \"Manufacturer\": \"Couver\"}",
+    "parent_asin": "B008VSXLGI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

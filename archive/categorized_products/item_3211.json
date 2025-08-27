@@ -1,0 +1,70 @@
+{
+  "item_id": 3211,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Speedo Girls' Swimsuit One Piece Thin Straps",
+    "average_rating": 4.3,
+    "rating_number": 271,
+    "features": [
+      "100% Other Fibers",
+      "Imported",
+      "Pull On closure",
+      "Hand Wash Only",
+      "Sporty back style keeps straps in place",
+      "Heather gray side insets",
+      "Durable fabric provides superior chlorine resistance",
+      "Silicone grippers at leg Openings prevent suit from riding up"
+    ],
+    "description": [
+      "Keep her pool look classic with this solid swimsuit, featuring a colorful logo graphic. It's made from fabric that resists chlorine and pilling for durability that can withstand splashes and washing. Finished with Block the Burn UPF 50+ sun protection, this suit has it all."
+    ],
+    "price": "44.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71oK+RBoPEL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71nwWGzoZVL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61piBPlZdRL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41Q-zHHWYLL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31iaLbbNzmL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41G2OTdM4-L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41Q-zHHWYLL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31iaLbbNzmL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41G2OTdM4-L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK",
+        "PT99"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Speedo",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Girls",
+      "Clothing",
+      "Swim",
+      "One-Pieces"
+    ],
+    "details": "{\"Item model number\": \"GTHINSTRAP1PC\", \"Department\": \"girls\", \"Date First Available\": \"June 10, 2019\", \"Manufacturer\": \"Speedo\"}",
+    "parent_asin": "B0BY5PB4V3",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Girls' Clothing"
+    ],
+    "confidence": 0.95
+  }
+}

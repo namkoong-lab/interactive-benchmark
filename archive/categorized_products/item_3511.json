@@ -1,0 +1,64 @@
+{
+  "item_id": 3511,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Doublebeez Jewelry Stainless Steel Wide Cubic Zirconia Engagement Wedding Ring Enhancer Set",
+    "average_rating": 3.4,
+    "rating_number": 43,
+    "features": [
+      "Solid Stainless Steel",
+      "Available in all whole sizes from 5 to 10",
+      "2 piece wedding ring set",
+      "High polish finish (no plating)",
+      "Adorned bypass style ring enhancer"
+    ],
+    "description": [
+      "This brand new women's wedding ring set is made of non-tarnishing stainless steel. It will not fade, change color, or leave stains on your finger. This attractive two piece ring set measures approximately 3/4-inch wide. The engagement ring has a prong set round clear simulated stone solitaire (6mm). The dazzling wedding band enhancer has 12 clear baguette and 8 clear round accents. This beautiful set is available in whole sizes 5 through 10."
+    ],
+    "price": "9.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61epyU7WKaL._AC_UL1020_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51binhexnqL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41eYeRp57kL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51binhexnqL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41eYeRp57kL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Doublebeez Jewelry",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Jewelry",
+      "Wedding & Engagement",
+      "Bridal Sets"
+    ],
+    "details": "{\"Package Dimensions\": \"2.6 x 1.69 x 1 inches; 0.6 Ounces\", \"Department\": \"womens\", \"Date First Available\": \"March 2, 2014\"}",
+    "parent_asin": "B01LZ50NTS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Women's Rings"
+    ],
+    "confidence": 0.95
+  }
+}

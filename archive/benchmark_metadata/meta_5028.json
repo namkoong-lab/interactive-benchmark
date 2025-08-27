@@ -1,0 +1,44 @@
+{
+    "main_category": "Toys & Games",
+    "title": "Schylling Joke A Day",
+    "average_rating": 3.9,
+    "rating_number": 3,
+    "features": [
+        "Schylling Joke A Day"
+    ],
+    "description": [
+        "Schylling Joke A Day",
+        "Spin the spinner to select which joke you will play today! 7 jokes in total.",
+        "Product Measures: 12.5\" x 11.75\" x 22.5\"",
+        "Product Measures: 12.5\" x 11.75\" x 22.5\"",
+        "Recommended Ages: 5-13 years",
+        "Recommended Ages: 5-13 years"
+    ],
+    "price": "12.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71raRqQ-WVL._AC_SL1001_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/615qv19gCIL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/615qv19gCIL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Schylling",
+    "categories": [],
+    "details": "{\"Product Dimensions\": \"11 x 11 x 0.25 inches\", \"Item Weight\": \"3.2 ounces\", \"Manufacturer recommended age\": \"6 years and up\", \"Is Discontinued By Manufacturer\": \"No\", \"Manufacturer\": \"Schylling\"}",
+    "parent_asin": "B00C4W345K",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

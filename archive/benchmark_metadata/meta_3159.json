@@ -1,0 +1,44 @@
+{
+    "main_category": "Grocery",
+    "title": "Zweigles Hots 8 lbs Pop-open Red Hots",
+    "average_rating": 4.5,
+    "rating_number": 19,
+    "features": [
+        "Zweigle Red Pop-open hots"
+    ],
+    "description": [
+        "Zweigle Red Pop-Open Hots 6 lbs."
+    ],
+    "price": "119.49",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31HfSzwjevL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31HfSzwjevL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Zweigle",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Candy & Chocolate",
+        "Hard Candy"
+    ],
+    "details": "{\"Brand\": \"Zweigle\", \"Item Weight\": \"8 Pounds\", \"Unit Count\": \"8.00 Count\", \"Package Type\": \"Bag\", \"Is Discontinued By Manufacturer\": \"No\", \"UPC\": \"607939937249\", \"Manufacturer\": \"Zweigle\"}",
+    "parent_asin": "B01MT0C91Z",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

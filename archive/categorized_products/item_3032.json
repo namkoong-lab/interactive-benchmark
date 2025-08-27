@@ -1,0 +1,49 @@
+{
+  "item_id": 3032,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Unstitched Utilities Women's Cosmo Vegan Quilted Sneaker",
+    "average_rating": 1.0,
+    "rating_number": 1,
+    "features": [
+      "Rubber sole"
+    ],
+    "description": [
+      "For these conscious kicks, it's full speed ahead. Unstitched Utilities blends social consciousness and couture to create shoes that demonstrate your commitment to style and your values. Unstitched Utilities crafts these distinct tennies using eco-friendly recycled Tyvek, from reclaimed rice bags, that are refashioned into flashspun high-density fibers. More durable than leather, this vegan friendly material will last and last making this an amazing pair of shoes. Plus, it re-directs a large amount of waste from the landfill. This American brand is a fashion forward, eco-friendly, vegan and truly sustainable company. We love that and know you will too."
+    ],
+    "price": "59.99",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31VeYHgj0mL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31VeYHgj0mL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Unstitched Utilities",
+    "categories": [],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"April 3, 2013\"}",
+    "parent_asin": "B00C6NFAXQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,61 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Dickies Men's Relaxed Fit Flex Waist Short",
+    "average_rating": 4.6,
+    "rating_number": 529,
+    "features": [
+        "65% Polyester, 35% Cotton",
+        "Imported",
+        "Button closure",
+        "Machine Wash",
+        "Sits below waist",
+        "Flex fabric for ease of movement and comfort",
+        "Resists wrinkles",
+        "Easy care stain release"
+    ],
+    "description": [
+        "Stay flexed out and comfy with this comfort waist work short. The featured flex fabric is twice as durable as cotton, increasing its longevity and durability. The flex fabric is made of a 7.25 o mechanical stretch twill which consists of 65 percent polyester and 35 percent cotton.The waistband included is more comfortable so you can stay cozy at the waist. Messes are no big deal with the included easy care stain release and moisture wicking. Stay working hard with Dickies."
+    ],
+    "price": "50.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71W95HqReJL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71IwUUJk4cL._AC_UL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41g+EqSpO3L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41d3FI4u5VL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41nWzXuVxFL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41g+EqSpO3L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41d3FI4u5VL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41nWzXuVxFL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Dickies",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Uniforms, Work & Safety",
+        "Clothing",
+        "Work Utility & Safety",
+        "Shorts"
+    ],
+    "details": "{\"Item model number\": \"WR856\", \"Department\": \"Mens\", \"Date First Available\": \"March 6, 2018\", \"Manufacturer\": \"Dickies\"}",
+    "parent_asin": "B079NWLWPN",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

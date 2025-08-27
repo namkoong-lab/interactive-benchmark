@@ -1,0 +1,41 @@
+{
+    "main_category": "Digital Music",
+    "title": "Now Sound for Today's Lovers",
+    "average_rating": 4.8,
+    "rating_number": 11,
+    "features": [],
+    "description": [
+        "Brand new CD, dispatched worldwide within 48 hours"
+    ],
+    "price": "25.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81EwLh9KuXL._SL1204_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61wcZ3-uk6L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61wcZ3-uk6L._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jackie Gleason   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Pop",
+        "Easy Listening"
+    ],
+    "details": "{\"Product Dimensions\": \"5.74 x 0.41 x 4.87 inches; 3.2 Ounces\", \"Manufacturer\": \"Dutton Vocalion UK\", \"Date First Available\": \"January 4, 2013\", \"Label\": \"Dutton Vocalion UK\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00AF6B3HS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

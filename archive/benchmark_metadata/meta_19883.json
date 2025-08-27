@@ -1,0 +1,52 @@
+{
+    "main_category": "Baby",
+    "title": "Kids Line Valance - Dena Snowflower",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "100% Polyester",
+        "60 in x 14 in",
+        "65% POLYESTER, 35% COTTON,"
+    ],
+    "description": [
+        "Kidsline VALANCE - Dena Snowflower",
+        "The Window Valance measures 60\" across with a 14\" drop, including a 3\" valance rod opening.",
+        "The front and back are made of 65% polyester and 35% cotton"
+    ],
+    "price": "10.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91HSiLSHLyL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81e0pQlydKL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Dr9KYQX3L.jpg",
+            "https://m.media-amazon.com/images/I/51bYQl6Ls6L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Dr9KYQX3L._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51bYQl6Ls6L._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kids Line",
+    "categories": [
+        "Baby Products",
+        "Nursery",
+        "Décor",
+        "Window Treatments"
+    ],
+    "details": "{\"Product Dimensions\": \"8.8 x 6.9 x 1 inches\", \"Material Type\": \"BPA Free, Phthalate Free, Latex Free, Lead Free\", \"Item Weight\": \"8.8 ounces\"}",
+    "parent_asin": "B003APPRP0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

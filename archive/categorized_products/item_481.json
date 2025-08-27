@@ -1,0 +1,52 @@
+{
+  "item_id": 481,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "1- Casualties of Retail",
+    "average_rating": 4.8,
+    "rating_number": 25,
+    "features": [],
+    "description": [
+      "F. Busoni ~ Casualities Of Retail"
+    ],
+    "price": "39.95",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51FZ4Z7EEFL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51FZ4Z7EEFL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Enter the Haggis   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Pop",
+      "Adult Alternative"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5 x 5.75 x 0.45 inches; 4 Ounces\", \"Manufacturer\": \"CELTIC AMERICA LLC\", \"Date First Available\": \"April 17, 2007\", \"Label\": \"CELTIC AMERICA LLC\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0002TLBYI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Albums"
+    ],
+    "confidence": 0.85
+  }
+}

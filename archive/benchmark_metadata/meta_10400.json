@@ -1,0 +1,47 @@
+{
+    "main_category": "Digital Music",
+    "title": "Great Pianists: Moiseiwitsch",
+    "average_rating": 4.6,
+    "rating_number": 5,
+    "features": [],
+    "description": [
+        "Pièces de : Debussy, Ravel, Granados, Poulenc, Ibert, Stravinski, Prokofiev, Vallier, Godowsky, Chasins, Palmgren - Delius : Concerto pour piano / Benno Moiseiwitsch, piano - Philharmonia Orchestra, dir. Constant Lambert"
+    ],
+    "price": "6.12",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71LBtUmi2iL._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/71PjGf+5j9L._SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51-tNf7IdRL.jpg",
+            "https://m.media-amazon.com/images/I/51n6z+1pSPL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51-tNf7IdRL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51n6z+1pSPL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "DELIUS,F.  (Artist)    Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Classical",
+        "Forms & Genres",
+        "Short Forms",
+        "Character Pieces"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"4.88 x 5.59 x 0.47 inches; 3.39 Ounces\", \"Manufacturer\": \"Naxos\", \"SPARS Code\": \"DDD\", \"Date First Available\": \"February 11, 2007\", \"Label\": \"Naxos\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00007DWLO",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

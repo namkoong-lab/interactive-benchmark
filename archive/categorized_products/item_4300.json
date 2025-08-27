@@ -1,0 +1,67 @@
+{
+  "item_id": 4300,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Weatherproof Vintage Ladies' Tie Front Top",
+    "average_rating": 4.2,
+    "rating_number": 91,
+    "features": [
+      "51% Cotton, 49% Rayon",
+      "Imported",
+      "Pull On closure",
+      "Machine Wash",
+      "V-neck",
+      "Front button closures",
+      "Tie at front hem",
+      "Relaxed fit",
+      "Size:X-Large and Color:Blue"
+    ],
+    "description": [
+      "Features: Brand: Weatherproof Vintage Colors: Multi (Rio Red), Blue (Blue Pinstripe), Green Tie front bottom placket Oversized fit for comfort and style Breathable fabric Bottom hem hits at waist Machine washable fabric Fabric Content: 55% Linen | 45% Viscose Sizing: Sizes: XS-XXL Size Conversion: XS = 00-0 | S = 2-4 | M = 6-8 | L = 10-12 | XL = 14-16 | XXL = 18-20 Relaxed fit Model is 5’8” and wearing size medium Care Instructions: Machine wash cold with like colors Gentle cycle Do not bleach Line dry Cool iron with press Cloth only Do not dry clean"
+    ],
+    "price": "10.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/612pTPefauL._AC_UL1348_.jpg",
+        "https://m.media-amazon.com/images/I/612pTPefauL._AC_UL1348_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41CSJGuL80L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41CSJGuL80L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41CSJGuL80L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41CSJGuL80L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Weatherproof Vintage",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Tops, Tees & Blouses",
+      "Blouses & Button-Down Shirts"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"July 30, 2020\"}",
+    "parent_asin": "B08DZVLD5W",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops"
+    ],
+    "confidence": 0.95
+  }
+}

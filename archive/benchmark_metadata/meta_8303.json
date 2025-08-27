@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The Assassin's Coin",
+    "average_rating": 5.0,
+    "rating_number": 13,
+    "features": [
+        "She is Catherine Weatherhead, and she is Madame Rostov. She will lie, though not with malice. She will deceive, though often with good cause. And she will change the course of history, for murder speaks to her. In Whitechapel, all talk is of Jack the Ripper, but there is another killer in play, and he most definitely has a name. Mr Edwin Dry, the Deptford Assassin. The truth is not what you believe. It is what he makes it."
+    ],
+    "description": [
+        "About the Author",
+        "John Linwood Grant is a professional writer/editor who lives in Yorkshire with a pack of lurchers and a beard. Widely published in magazines and anthologies, he writes strange period fiction, including the Mamma Lucy tales of 1920s hoodoo, the Last Edwardian series and contemporary weird stories. He is also editor of Occult Detective Quarterly, plus forthcoming anthologies, including 'ODQ Presents' and 'Hell's Empire', the incursion of the Prince of Darkness's forces into Victorian Britain. News of his projects can be found on his popular website greydogtales.com, which explores weird fiction and weird art. And lurchers."
+    ],
+    "price": "13.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/516r0ue3BCL._SX322_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "John Linwood Grant (Author),  Alan M. Clark (Illustrator)",
+    "categories": [
+        "Books",
+        "Mystery, Thriller & Suspense",
+        "Thrillers & Suspense"
+    ],
+    "details": "{\"Publisher\": \"IFD Publishing (October 10, 2018)\", \"Language\": \"English\", \"Paperback\": \"280 pages\", \"ISBN 10\": \"0999665626\", \"ISBN 13\": \"978-0999665626\", \"Item Weight\": \"12.6 ounces\", \"Dimensions\": \"5.5 x 0.63 x 8.5 inches\"}",
+    "parent_asin": "0999665626",
+    "bought_together": null,
+    "subtitle": "Paperback – October 10, 2018",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/tlfa9tli1gnq1c7jpd1iind8pc._SY600_.jpg', 'name': 'John Linwood Grant', 'about': [\"John Linwood Grant lives in Yorkshire with a pack of lurchers and a beard. He may also have a family. When he's not chronicling the adventures of Mr Bubbles, the slightly psychotic pony, he writes a range of supernatural, horror and speculative tales, some of which are actually published. You can find him every week on greydogtales.com, often with his dogs.\"]}"
+}

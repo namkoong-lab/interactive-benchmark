@@ -1,0 +1,51 @@
+{
+  "item_id": 563,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Netherheaven",
+    "average_rating": 4.7,
+    "rating_number": 83,
+    "features": [],
+    "description": [
+      "2022 release, the eighth studio album from death metal outfit Revocation"
+    ],
+    "price": "12.29",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91U7zEnbKgL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51Lh5Ar22zL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51Lh5Ar22zL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Revocation   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Metal"
+    ],
+    "details": "{\"Language\": \"English\", \"Product Dimensions\": \"4.9 x 5.6 x 0.4 inches; 3.2 Ounces\", \"Manufacturer\": \"Metal Blade\", \"Original Release Date\": \"2022\", \"Date First Available\": \"July 7, 2022\", \"Label\": \"Metal Blade\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0B615XBVC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Albums"
+    ],
+    "confidence": 0.95
+  }
+}

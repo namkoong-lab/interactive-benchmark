@@ -1,0 +1,49 @@
+{
+    "main_category": "Digital Music",
+    "title": "Caetano Veloso",
+    "average_rating": 4.9,
+    "rating_number": 11,
+    "features": [],
+    "description": [
+        "Veloso's first LP recorded in London. Incl full versions of A Little More Blue and Maria Bethania."
+    ],
+    "price": "94.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81oKOXg47kL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71ECCCN-ixL._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/71dBSWrLW-L._SL1003_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51t2KtLW3VL.jpg",
+            "https://m.media-amazon.com/images/I/511oYvEzLfL.jpg",
+            "https://m.media-amazon.com/images/I/51RU2jpSlQL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51t2KtLW3VL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/511oYvEzLfL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51RU2jpSlQL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Caetano Veloso   Format: Vinyl",
+    "categories": [
+        "CDs & Vinyl",
+        "International Music",
+        "South & Central America"
+    ],
+    "details": "{\"Product Dimensions\": \"12.44 x 12.44 x 0.2 inches; 9.74 Ounces\", \"Manufacturer\": \"Phillips\", \"Original Release Date\": \"2019\", \"Date First Available\": \"June 7, 2019\", \"Label\": \"Phillips\", \"Country of Origin\": \"Japan\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B07RWLD97D",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

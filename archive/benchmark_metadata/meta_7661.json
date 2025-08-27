@@ -1,0 +1,49 @@
+{
+    "main_category": "Books",
+    "title": "Practice Operations: Level 2 (ages 9 to 12) (Competitive Mathematics for Gifted Students)",
+    "average_rating": 3.6,
+    "rating_number": 4,
+    "features": [
+        "About \"Competitive Mathematics for Gifted Students\"",
+        "This series provides practice materials and short theory reminders for students who aim to excel at problem solving. Material is introduced in a structured manner: each new concept is followed by a problem set that explores the content in detail. Each book ends with a problem set that reviews both concepts presented in the current volume and related topics from previous volumes. The series forms a learning continuum that explores strategies specific to competitive mathematics in depth and breadth. Full solutions explain both reasoning and execution. Often, several solutions are contrasted. The problem selection emphasizes comprehension, critical thinking, observation, and avoiding repetitive and mechanical procedures. Ready to participate in a math competition such as MOEMS, Math Kangaroo in USA, or Noetic Math? This series will open the doors to consistent performance.",
+        "About Level 2",
+        "This level of the series is designed for students who know the multiplication tables, integer division with remainder and basic operations with decimals. Our level 1 books explain concepts that may need review before attempting level 2. Level 2 books are suitable for preparing Math Kangaroo 3-4 and MOEMS-E. Many of the concepts presented, however, reach much farther into the AMC-8 level. Level 2 consists of: Word Problems (volume 5), Operations (volume 6), Arithmetic (volume 7), and Combinatorics (volume 8).",
+        "About Volume 6 - Operations",
+        "This volume assumes a knowledge of fractions. Our goal is to explore the flexibility of the order of operations and to discover efficient and reliable ways to handle numbers. The problems provide a variety of ways to look at irreducible fractions, operations with repdigits, expressions, identities and equations. At this level, we already make a distinction between linear equations (handled by solving backwards or by using simple algebra) and Diophantine equations (handled using number theoretical methods). The study of Diophantine equations will continue at the next levels, but it is started here in the most elementary way. A short review of measurement is provided as a reminder. Problems avoid the repetition of the same context, thus providing a challenging solving experience."
+    ],
+    "description": [
+        "From the Author",
+        "The 2nd edition (2014) of this workbook is now available. More helpful diagrams have been added, solutions have been updated, and errors that slipped into the 1st edition have been fixed. Look for the 2nd edition!"
+    ],
+    "price": "9.12",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/413DIC2Zy7L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Cleo Borac (Author),  Silviu Borac (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Mathematics"
+    ],
+    "details": "{\"Publisher\": \"Goods of the Mind, LLC; 1st edition (August 4, 2013)\", \"Language\": \"English\", \"Paperback\": \"118 pages\", \"ISBN 10\": \"0615843271\", \"ISBN 13\": \"978-0615843278\", \"Item Weight\": \"12.9 ounces\", \"Dimensions\": \"8.5 x 0.25 x 11.02 inches\"}",
+    "parent_asin": "0615843271",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/517TjBz9u8L._SY600_.png', 'name': 'Cleo Borac', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

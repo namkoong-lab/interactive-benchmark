@@ -1,0 +1,45 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Royal VF810 Crosscut Paper Home Office Shredder",
+    "average_rating": 2.4,
+    "rating_number": 6,
+    "features": [
+        "Royal VF810 Crosscut Paper Home Office Shredder",
+        "ROYAL APPLIANCE MFG CO"
+    ],
+    "description": [
+        "Crosscut shredder. Vertical feed for saving space. Auto start/stop detects paper and shreds it. Has a space-saving design; Fits under desks and in tight spaces."
+    ],
+    "price": "100.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21bciAo+UuL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/21bciAo+UuL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Royal Appliance",
+    "categories": [
+        "Office Products",
+        "Office Electronics",
+        "Other Office Equipment",
+        "Shredders"
+    ],
+    "details": "{\"Manufacturer\": \"ROYAL APPLIANCE MFG CO\", \"Cut Type\": \"Cross Cut\", \"Brand\": \"Royal Appliance\", \"Special Feature\": \"Automatic Start Stop\", \"Operation Mode\": \"Automatic\"}",
+    "parent_asin": "B000BJUG5Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

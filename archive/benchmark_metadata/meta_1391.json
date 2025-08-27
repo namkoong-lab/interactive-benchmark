@@ -1,0 +1,50 @@
+{
+    "main_category": "Amazon Home",
+    "title": "TORCHONS & BOUCHONS - Fromages de France Kitchen Towel",
+    "average_rating": 5.0,
+    "rating_number": 6,
+    "features": [],
+    "description": [
+        "Kitchen Towel"
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71FJgD12M6L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71vG0NMiXFL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/713y9uK740L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51HrbCvuEoL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41GWbAvQ8gL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51lOGEV18yL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51HrbCvuEoL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41GWbAvQ8gL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/51lOGEV18yL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "TORCHONS & BOUCHONS",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen & Table Linens",
+        "Dish Cloths & Dish Towels"
+    ],
+    "details": "{\"Color\": \"Ecru\", \"Brand\": \"TORCHONS & BOUCHONS\", \"Age Range (Description)\": \"All Ages\", \"Number of Items\": \"1\", \"Product Care Instructions\": \"Machine Wash\", \"Shape\": \"Rectangular\", \"Unit Count\": \"1 Count\", \"Item Weight\": \"0.353 ounces\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 924473, \"Dish Cloths & Dish Towels\": 15315}, \"Is Discontinued By Manufacturer\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B003GWO62W",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

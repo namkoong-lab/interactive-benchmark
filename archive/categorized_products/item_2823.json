@@ -1,0 +1,54 @@
+{
+  "item_id": 2823,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Red Wing mens Weekend Chelsea",
+    "average_rating": 4.2,
+    "rating_number": 13,
+    "features": [
+      "Rubber sole",
+      "Boot opening measures approximately 10.5\" around"
+    ],
+    "description": [
+      "Take pride in each step you take out on the field with the hardworking Red Wing Heritage Weekend Chelsea boot. US made oil-tanned leather upper with durable stitchdown construction. This leather is water, stain, and perspiration resistant. Easy slip-on construction with dual goring for a comfortable fit. Smooth textile lining for additional comfort. Comfort Force footbed has molded arch and heel cup for support and comfort. It is designed to absorb shock and assist with moisture management. Durable rubber outsole. Made in the U.S.A."
+    ],
+    "price": "249.9",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61U7-vxeO2L._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61S3XowWVYL._AC_UL1200_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41r87SIaZVL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41XDp0uSdSL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41r87SIaZVL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41XDp0uSdSL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Red Wing",
+    "categories": [],
+    "details": "{\"Item model number\": \"03311-0D\", \"Department\": \"Mens\", \"Date First Available\": \"September 28, 2022\"}",
+    "parent_asin": "B0BGQQXLTK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

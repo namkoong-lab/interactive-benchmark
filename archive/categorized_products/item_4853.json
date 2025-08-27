@@ -1,0 +1,55 @@
+{
+  "item_id": 4853,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Peach Couture Boho Tribal Surplice Mid-Length Shift Dress with 3/4 Bell Sleeves (XL, Black & White)",
+    "average_rating": 3.1,
+    "rating_number": 7,
+    "features": [
+      "Hand Wash Only"
+    ],
+    "description": [
+      "Brand: Peach CoutureColor: Black & WhitePackage Dimensions: 15.5 x 10.7 x 0.7 inches"
+    ],
+    "price": "23.18",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91untFGJn9L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51J0JLcyjYL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51J0JLcyjYL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Peach Couture",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Dresses",
+      "Casual"
+    ],
+    "details": "{\"Product Dimensions\": \"15.5 x 10.7 x 0.7 inches; 12 Ounces\", \"Department\": \"Womens\", \"Date First Available\": \"March 4, 2023\", \"Manufacturer\": \"Peach Couture\"}",
+    "parent_asin": "B00W8DFOXA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Dresses"
+    ],
+    "confidence": 0.95
+  }
+}

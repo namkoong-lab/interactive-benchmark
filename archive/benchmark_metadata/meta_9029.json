@@ -1,0 +1,62 @@
+{
+    "main_category": "Books",
+    "title": "Data Science at the Command Line: Obtain, Scrub, Explore, and Model Data with Unix Power Tools",
+    "average_rating": 4.5,
+    "rating_number": 25,
+    "features": [
+        "This thoroughly revised guide demonstrates how the flexibility of the command line can help you become a more efficient and productive data scientist. You'll learn how to combine small yet powerful command-line tools to quickly obtain, scrub, explore, and model your data. To get you started, author Jeroen Janssens provides a Docker image packed with over 100 Unix power tools—useful whether you work with Windows, macOS, or Linux.You'll quickly discover why the command line is an agile, scalable, and extensible technology. Even if you're comfortable processing data with Python or R, you'll learn how to greatly improve your data science workflow by leveraging the command line's power. This book is ideal for data scientists, analysts, engineers, system administrators, and researchers.",
+        "Obtain data from websites, APIs, databases, and spreadsheets",
+        "Obtain data from websites, APIs, databases, and spreadsheets",
+        "Perform scrub operations on text, CSV, HTML, XML, and JSON files",
+        "Perform scrub operations on text, CSV, HTML, XML, and JSON files",
+        "Explore data, compute descriptive statistics, and create visualizations",
+        "Explore data, compute descriptive statistics, and create visualizations",
+        "Manage your data science workflow",
+        "Manage your data science workflow",
+        "Create your own tools from one-liners and existing Python or R code",
+        "Create your own tools from one-liners and existing Python or R code",
+        "Parallelize and distribute data-intensive pipelines",
+        "Parallelize and distribute data-intensive pipelines",
+        "Model data with dimensionality reduction, regression, and classification algorithms",
+        "Model data with dimensionality reduction, regression, and classification algorithms",
+        "Leverage the command line from Python, Jupyter, R, RStudio, and Apache Spark",
+        "Leverage the command line from Python, Jupyter, R, RStudio, and Apache Spark"
+    ],
+    "description": [
+        "Review",
+        "\"Traditional computer and data science curricula all too often mistake the command line as an obsolete relic instead of teaching it as the modern and vital toolset that it is. Only well into my career did I come to grasp the elegance and power of the command line for easily exploring messy datasets and even creating reproducible data pipelines for work. The first edition of Data Science at the Command Line was one of the most comprehensive and clear references when I was a novice in the art, and now with the second edition, I'm again learning new tools and applications from it.\"—Dan Nguyen, data scientist, former news application developer at ProPublica, and former Lorry I. Lokey Visiting Professor in Professional Journalism at Stanford University\"Despite what you may hear, most practical data science is still focused on interesting visualizations and insights derived from flat files. Jeroen's book leans into this reality, and helps reduce complexity for data practitioners by showing how time-tested command-line tools can be repurposed for data science.\"—Paige Bailey, principal product manager code intelligence at Microsoft, GitHub\"It's amazing how fast so much data work can be performed at the command line before ever pulling the data into R, Python, or a database. Older technologies like sed and awk are still incredibly powerful and versatile. Until I read Data Science at the Command Line, I had only heard of these tools but never saw their full power. Thanks to Jeroen, it's like I now have a secret weapon for working with large data.\"—Jared Lander, chief data scientist at Lander Analytics, organizer of the New York Open Statistical Programming Meetup, and author of R for Everyone\"The command line is an essential tool in every data scientist's toolbox, and knowing it well makes it easy to translate questions you have of your data to real-time insights. Jeroennot only explains the basic Unix philosophy of how to chain together single-purpose tools to arrive at simple solutions for complex problems, but also introduces new command-line tools for data cleaning, analysis, visualization, and modeling.\"—Jake Hofman, senior principal researcher at Microsoft Research,and adjunct assistant professor in the department of applied mathematics at Columbia University\"The Unix philosophy of simple tools, each doing one job well, then cleverly piped together, is embodied by the command line. Jeroen expertly discusses how to bring that philosophy into your work in data science, illustrating how the command line is not only the world of file input/output, but also the world of data manipulation, exploration, and even modeling.\"—Chris H. Wiggins, associate professor in the department of applied physics and applied mathematics at Columbia University, and chief data scientist at The New York Times",
+        "About the Author",
+        "Jeroen Janssens teaches data science; often through training and coaching, occasionally through speaking, and infrequently through writing. His interests include visualizing data, building machine learning models, and automating things using either Python, R, or Bash. He is the author of Data Science at the Command Line, published by O’Reilly Media. Jeroen holds a PhD in machine learning from Tilburg University and an MSc in artificial intelligence from Maastricht University. Previously, he was an assistant professor at Jheronimus Academy of Data Science and a data scientist at Elsevier in Amsterdam and various startups in New York City. Currently, Jeroen is the CEO of Data Science Workshops, which organises open enrollment workshops, in-company courses, inspiration sessions, hackathons, and meetups. All related to data science of course. He lives with his wife and two kids in Rotterdam, the Netherlands."
+    ],
+    "price": "39.49",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51hTO2mp8vL._SX379_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jeroen Janssens (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Operating Systems"
+    ],
+    "details": "{\"Publisher\": \"O'Reilly Media; 2nd edition (September 21, 2021)\", \"Language\": \"English\", \"Paperback\": \"280 pages\", \"ISBN 10\": \"1492087912\", \"ISBN 13\": \"978-1492087915\", \"Item Weight\": \"1 pounds\", \"Dimensions\": \"7 x 0.5 x 10 inches\"}",
+    "parent_asin": "1492087912",
+    "bought_together": null,
+    "subtitle": "2nd Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/ksu57fflrit81go039c82ovlo5._SY600_.jpg', 'name': 'Jeroen Janssens', 'about': ['Jeroen Janssens is an independent data science consultant and an RStudio-certified instructor. He enjoys visualizing data, implementing machine learning models, and building solutions using Python, R, JavaScript, and Bash. He’s passionate about helping and teaching others to do such things.', 'Jeroen runs Data Science Workshops, a training and coaching firm that organizes open enrollment workshops, in-company courses, inspiration sessions, hackathons, and meetups. Clients include Amazon, eHealth Africa, Schiphol Airport, The New York Times, and T-Mobile.', 'Previously, he was an assistant professor at Jheronimus Academy of Data Science and a data scientist at Elsevier in Amsterdam and various startups in New York City. He is the author of Data Science at the Command Line, published by O’Reilly Media. Jeroen holds a PhD in machine learning from Tilburg University and an MSc in artificial intelligence from Maastricht University.', 'He lives with his wife and two kids in Rotterdam, the Netherlands.']}"
+}

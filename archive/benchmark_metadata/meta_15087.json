@@ -1,0 +1,50 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Nautica Men's Long Sleeve Small Plaid Button Down Shirt",
+    "average_rating": 4.7,
+    "rating_number": 7,
+    "features": [
+        "70% Cotton, 30% Lyocell",
+        "Imported",
+        "Button closure",
+        "Machine Wash",
+        "Button-front styling with a buttoned collar long sleeves with adjustable double-button cuffs; pocket at chest",
+        "Classic fit"
+    ],
+    "description": [
+        "A time-saving style essential, this plaid shirt is ready at a moment's notice and keeps you cool all day, thanks to a cotton/tencel fabric blend. It's wrinkle resistant and has moisture-wicking properties for comfort and ease. From Nautica."
+    ],
+    "price": "29.97",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/A1nrwyRmtNL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/6157OcjU3VL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/6157OcjU3VL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nautica",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Shirts",
+        "Casual Button-Down Shirts"
+    ],
+    "details": "{\"Package Dimensions\": \"0.39 x 0.39 x 0.39 inches; 1 Pounds\", \"Item model number\": \"W64107\", \"Department\": \"Mens\", \"Date First Available\": \"November 12, 2016\", \"Manufacturer\": \"Nautica Sportswear (M&W)\"}",
+    "parent_asin": "B01M7M9QBI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

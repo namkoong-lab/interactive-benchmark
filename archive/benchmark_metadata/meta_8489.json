@@ -1,0 +1,38 @@
+{
+    "main_category": "Books",
+    "title": "EOM: 51 Handbk Categorcl Algebra v2 (Encyclopedia of Mathematics and its Applications)",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "The second volume, which assumes familiarity with the material in the first, introduces important classes of categories that have played a fundamental role in the subject's development and applications. In addition, after several chapters discussing specific categories, the book develops all the major concepts concerning Benabou's ideas of fibered categories."
+    ],
+    "description": [
+        "Book Description",
+        "Second in a three part set, this volume introduces important classes of categories (abelian, monadic, fibred, etc.).",
+        "Book Description",
+        "The Handbook of Categorical Algebra is designed to give, in three volumes, a detailed account of what should be known by everybody working in, or using, category theory. As such it will be a unique reference. The volumes are written in sequence. The second introduces important classes of categories that have played a fundamental role in the subject's development and applications."
+    ],
+    "price": "55.99",
+    "images": {
+        "hi_res": [],
+        "large": [],
+        "thumb": [],
+        "variant": []
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Francis Borceux (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Mathematics"
+    ],
+    "details": "{\"Publisher\": \"Cambridge University Press; 1st edition (August 21, 2008)\", \"Language\": \"English\", \"Paperback\": \"464 pages\", \"ISBN 10\": \"0521061229\", \"ISBN 13\": \"978-0521061223\", \"Item Weight\": \"1.43 pounds\", \"Dimensions\": \"5.98 x 0.94 x 9.02 inches\"}",
+    "parent_asin": "0521061229",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": null
+}

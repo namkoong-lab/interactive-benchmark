@@ -1,0 +1,64 @@
+{
+  "item_id": 5049,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Boulevard Womens/Ladies Slip On Memory Foam Shoes",
+    "average_rating": 4.3,
+    "rating_number": 37,
+    "features": [
+      "Polyurethane sole",
+      "Womens slip on casual shoes with comfort memory foam lining.",
+      "PU Sole."
+    ],
+    "description": [
+      "Womens slip on casual shoes with comfort memory foam lining. PU Sole."
+    ],
+    "price": "31.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71q2wCneCAL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/710T3Zf76fL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71q2wCneCAL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41fRosuBaaL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41IgM+ct68L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41fRosuBaaL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41fRosuBaaL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41IgM+ct68L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41fRosuBaaL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Boulevard",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Loafers & Slip-Ons"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"February 4, 2017\", \"Manufacturer\": \"Boulevard\"}",
+    "parent_asin": "B01NB0EA55",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

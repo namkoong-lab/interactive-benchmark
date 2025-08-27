@@ -1,0 +1,53 @@
+{
+  "item_id": 2764,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Gilbins Fuzzy Gloves For Kids, 4 Pairs - Assorted Colors",
+    "average_rating": 4.2,
+    "rating_number": 3,
+    "features": [
+      "99% Polyester 1 % Spandex",
+      "Pull On closure",
+      "Tumble Dry Low",
+      "99% Polyester 1 % Spandex",
+      "Kids Size",
+      "Machine wash, tumble dry low"
+    ],
+    "description": [
+      "Keep warm and cozy with our super soft fuzzy gloves. Assorted Colors. Made of 99% Polyester and 1% Spandex. Machine wash,tumble dry."
+    ],
+    "price": "10.44",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81KD5QSzi-L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/511TJKR6nGL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/511TJKR6nGL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Gilbins",
+    "categories": [],
+    "details": "{\"Department\": \"Unisex-child\", \"Date First Available\": \"January 4, 2010\"}",
+    "parent_asin": "B0032U6QFI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION"
+    ],
+    "confidence": 0.95
+  }
+}

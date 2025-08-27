@@ -1,0 +1,59 @@
+{
+  "item_id": 4477,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Freeship Deals womens Sneaker,platform,loafers",
+    "average_rating": 3.6,
+    "rating_number": 148,
+    "features": [
+      "Suede sole",
+      "A classic slip-on sneaker gets a update with a velvety suede upper, a generously padded collar and a platform bumper sole.",
+      "Heel Height: 2.5cm and Slip on | Flat Heel Sandals",
+      "Available in assorted colors and sizes, these sneaker will have you feeling like you're walking on a cloud.",
+      "Great Indoors and Outdoors"
+    ],
+    "description": [
+      "This is affordable luxury that cleverly combines a youthful outlook with a worldly sensibility. Sophistication with down-to-earth appeal mean that these shoes are made to be lived in. Whether it's a classic revisited for a modern interpretation or a cutting edge design,"
+    ],
+    "price": "31.88",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51V3vmm7y9L._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41kvrCMXhrL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41kvrCMXhrL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Freeship Deals",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Loafers & Slip-Ons"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"January 15, 2022\"}",
+    "parent_asin": "B09QJ72ZTF",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Sneakers"
+    ],
+    "confidence": 0.95
+  }
+}

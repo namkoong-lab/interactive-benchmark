@@ -1,0 +1,47 @@
+{
+    "main_category": "Books",
+    "title": "Bathroom Stuff: Duck Cover",
+    "average_rating": 4.8,
+    "rating_number": 5,
+    "features": [
+        "The bathroom is a place where we perform many of our most personal rituals, from brushing to bathing to beautifying. Yet, we take much of the stuff around us for granted. From razors to lipstick, aspirin to hairpins, mouthwash to rubber duckies, this book covers the histories, contemporary facts and cultural oddities that make the bathroom a modern day shrine to human health and happiness. Featuring 60 household items and highlighting the intricate details of the stuff around your bathroom, Bathroom Stuff is the perfect toilet topper!",
+        "DID YOU KNOW?  The most valuable comb in the world is made of over 10 ounces of pure gold?",
+        " Scientists in Germany are working on contact lenses that will correct ordinary vision and improve night vision?",
+        " The Q in Q-tip stands for quality?"
+    ],
+    "description": [
+        "About the Author",
+        "Holman Wang is a teacher and writer. He has a bachelor's degree in anthropology from the University of Toronto, and a bachelor's in education and a master's degree in architecture history from the University of British Columbia. When he is not writing, he enjoys travelling, riding around town on his Vespa scooter and brushing his teeth. He lives in Vancouver, Canada."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41GXSVGZ4QL._SY473_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Holman Wang (Author)",
+    "categories": [
+        "Books",
+        "Crafts, Hobbies & Home",
+        "Home Improvement & Design"
+    ],
+    "details": "{\"Publisher\": \"Sourcebooks Inc; First Edition (January 1, 2001)\", \"Language\": \"English\", \"Hardcover\": \"122 pages\", \"ISBN 10\": \"157071651X\", \"ISBN 13\": \"978-1570716515\", \"Item Weight\": \"1.2 pounds\", \"Dimensions\": \"8.25 x 0.5 x 8 inches\"}",
+    "parent_asin": "157071651X",
+    "bought_together": null,
+    "subtitle": "Hardcover – January 1, 2001",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Holman Wang', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

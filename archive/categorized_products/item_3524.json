@@ -1,0 +1,70 @@
+{
+  "item_id": 3524,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "SUGOi Women's Shift Jacket",
+    "average_rating": 4.7,
+    "rating_number": 7,
+    "features": [
+      "100% Polyester",
+      "Zipper closure",
+      "Hand Wash Only",
+      "Reverse coil separating zip with guard",
+      "1 zip back pocket",
+      "Elastic hem and sleeve binding",
+      "Micro fleeced lined collar"
+    ],
+    "description": [
+      "Look Good And Feel Good With The Jackie Bra, Featuring Thin Straps, Bold Colors And A Flattering Silhouette",
+      "Highly functional wind and rain resistant essential with evolved fit and performance details"
+    ],
+    "price": "59.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81vNObaRUYL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/A1nB9MrIf9L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71FdZTJudVL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41gdxwCJK-L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/61RHCZdnSCL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41CQ5kt3gOL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41gdxwCJK-L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/61RHCZdnSCL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41CQ5kt3gOL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "SUGOi",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Women"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"70728F.560\", \"Department\": \"Womens\", \"Date First Available\": \"June 30, 2011\", \"Manufacturer\": \"Sugoi\"}",
+    "parent_asin": "B005BYSRIW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Coats & Jackets"
+    ],
+    "confidence": 0.95
+  }
+}

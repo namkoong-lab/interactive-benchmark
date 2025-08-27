@@ -1,0 +1,58 @@
+{
+  "item_id": 484,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Saints Are Coming: The Best of the Skids",
+    "average_rating": 4.0,
+    "rating_number": 25,
+    "features": [],
+    "description": [
+      "The Skids were one of the most intelligent and talented Post-Punk to emerge during the late '70s 'New Wave' era. Hailing from Scotland, this quartet was led by vocalist Richard Jobson and guitarist Stuart Adamson (later the leader of Big Country) and released a handful of albums and classic singles before splitting up in 1982. Their track, 'The Saints Are Coming' was covered by U2 and Green Day together in 2006. This collection features the best tracks from their four albums including 'Into the Valley', 'Scared to Dance', 'Working for the Yankee Dollar', 'Charade', 'Woman in Winter', 'The Saints Are Coming' and more. Virgin."
+    ],
+    "price": "15.24",
+    "images": {
+      "hi_res": [
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41562pc6riL.jpg",
+        "https://m.media-amazon.com/images/I/51xHoFoNUIL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41562pc6riL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51xHoFoNUIL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Skids   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "International Music",
+      "Europe",
+      "British Isles",
+      "Scotland"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Manufacturer\": \"EMI Europe Generic\", \"Date First Available\": \"November 23, 2006\", \"Label\": \"EMI Europe Generic\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000JU7IPG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Punk Rock Albums"
+    ],
+    "confidence": 0.95
+  }
+}

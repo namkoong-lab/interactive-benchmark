@@ -1,0 +1,45 @@
+{
+    "main_category": "Amazon Home",
+    "title": "tagltd Harper Black Standard-Size AUTO Open Umbrella",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "Auto open",
+        "Heavy-duty pongee polyester for all weather conditions."
+    ],
+    "description": [
+        "Auto open umbrella with brushed aluminum crook handle. Double layer canopy with printed houndstooth pattern on the inside. Heavy-duty pongee polyester for all weather conditions."
+    ],
+    "price": "24.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41NNeFuX4EL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41NNeFuX4EL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "tagltd",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Luggage & Travel Gear",
+        "Umbrellas",
+        "Stick Umbrellas"
+    ],
+    "details": "{\"Package Dimensions\": \"35 x 4.7 x 0.7 inches\", \"Item Weight\": \"15.2 ounces\", \"Manufacturer\": \"TagLTD\", \"Brand\": \"Tagltd\", \"Color\": \"Black\", \"Special Feature\": \"Auto-open\", \"Shape\": \"Umbrella\", \"Handle Material\": \"Aluminum\", \"Pattern\": \"Houndstooth\", \"Opening Mechanism\": \"Auto Open Button\", \"Material\": \"Polyester\"}",
+    "parent_asin": "B00TRCAPVG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

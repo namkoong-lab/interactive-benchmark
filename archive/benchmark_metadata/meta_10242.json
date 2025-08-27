@@ -1,0 +1,49 @@
+{
+    "main_category": "Digital Music",
+    "title": "Miserere; Festina Lente",
+    "average_rating": 4.6,
+    "rating_number": 52,
+    "features": [],
+    "description": [
+        "1991 recording of Arvo Pärt compositions also includes Festina Lente & Sarah Was Ninety Years Old."
+    ],
+    "price": "19.41",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61U2Wi9cMcL._SL1400_.jpg",
+            "https://m.media-amazon.com/images/I/71AA3cRpBrL._SL1279_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/4114XUw4VwL.jpg",
+            "https://m.media-amazon.com/images/I/51lA8HhGo6L.jpg",
+            "https://m.media-amazon.com/images/I/31N+2ahrabL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/4114XUw4VwL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51lA8HhGo6L._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/31N+2ahrabL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Arvo Part  (Composer)    Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Classical",
+        "Sacred & Religious"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.55 x 5.43 x 0.43 inches; 3.88 Ounces\", \"Manufacturer\": \"ECM\", \"Item model number\": \"8475392\", \"Original Release Date\": \"2000\", \"Date First Available\": \"November 4, 2006\", \"Label\": \"ECM\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000024ZBC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

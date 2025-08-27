@@ -1,0 +1,62 @@
+{
+  "item_id": 131,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Rotary # 3011 SPRING CHAINSAW HUS",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "Sold on Amazon"
+    ],
+    "description": [
+      "Fits Husqvarna Models: 36R, All Series , 44, 45, 140, 165R, 240, 244, 340 & 444.",
+      "Replaces:",
+      "HUSQVARNA 501 46 04-01",
+      "HUSQVARNA 501 46 04-01",
+      "HUSQVARNA 501 63 02-01",
+      "HUSQVARNA 501 63 02-01"
+    ],
+    "price": "7.92",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71aQhCjj2+L._AC_SL1024_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/512UFDJutFL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/512UFDJutFL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Rotary",
+    "categories": [
+      "Patio, Lawn & Garden",
+      "Outdoor Power Tools",
+      "Replacement Parts & Accessories",
+      "Lawn Mower Parts & Accessories",
+      "Lawn Mower Replacement Parts",
+      "Deck Parts"
+    ],
+    "details": "{\"Product Dimensions\": \"12 x 10 x 2 inches\", \"Item Weight\": \"2.72 ounces\", \"Manufacturer\": \"ROTARY\", \"Is Discontinued By Manufacturer\": \"No\"}",
+    "parent_asin": "B00CNUFZKA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Industrial & Scientific",
+      "Industrial Hardware",
+      "Chainsaw Parts"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,83 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "adidas Originals Women's Haiwee Sneaker",
+    "average_rating": 4.5,
+    "rating_number": 69,
+    "features": [
+        "100% Other fibers",
+        "Imported",
+        "Synthetic sole",
+        "Shaft measures approximately 6-12 inches from arch",
+        "Platform measures approximately 0-3 inches",
+        "Boot opening measures approximately 0-3 inches around",
+        "Stable feel",
+        "Lace closure",
+        "Mesh and synthetic suede upper",
+        "Stable feel"
+    ],
+    "description": [
+        "Stand out. These shoes take inspiration from adidas' archive of retro runners to create fresh style. The mesh and synthetic suede upper shows off wave-shaped stitching on the side. A rippled EVA midsole feels light and comfortable."
+    ],
+    "price": "71.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71C1b8DbS4L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71fceKbfJqL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71-nWYGImAL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71-jvOurDuL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/714JkHzhVPL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71AjohkQ0ML._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71z-u7hrIyL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/414IMxrkZoL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41X5mXNMfpL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41FS3zzkvnL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31VWE6o9mOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31DEopp4kzL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/410BVPlPHnL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41IqBQdiQeL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/414IMxrkZoL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41X5mXNMfpL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41FS3zzkvnL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31VWE6o9mOL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31DEopp4kzL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/410BVPlPHnL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41IqBQdiQeL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Adidas Original Video "
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/022079e79b654b488d0110447a3e0ac2?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "adidas Originals",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Fashion Sneakers"
+    ],
+    "details": "{\"Item model number\": \"EF4458\", \"Department\": \"womens\", \"Date First Available\": \"September 3, 2020\", \"Manufacturer\": \"adidas Originals\"}",
+    "parent_asin": "B0BFX7CMFL",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

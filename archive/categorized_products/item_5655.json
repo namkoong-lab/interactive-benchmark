@@ -1,0 +1,53 @@
+{
+  "item_id": 5655,
+  "metadata": {
+    "main_category": "Toys & Games",
+    "title": "Aeromax Fire Power Costume Accessory Firefighter Water Hose Toy Squirt Gun",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+      "Our fireman toy water hose squirt gun includes a super soaking fire hose and back pack."
+    ],
+    "price": "30.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61JCT3XqZAL._AC_SL1300_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/418nByQ93-L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/418nByQ93-L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Aeromax",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Costumes & Accessories",
+      "Props"
+    ],
+    "details": "{\"Best Sellers Rank\": {\"Clothing, Shoes & Jewelry\": 2871883, \"Costume Props\": 3389}}",
+    "parent_asin": "B01M4NDMAM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Toys & Games",
+      "Party Supplies",
+      "Decorations",
+      "Costume Accessories"
+    ],
+    "confidence": 0.95
+  }
+}

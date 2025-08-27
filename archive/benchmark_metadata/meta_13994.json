@@ -1,0 +1,50 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "SAS Women's Heeled Sandals",
+    "average_rating": 4.5,
+    "rating_number": 13,
+    "features": [
+        "Made in the USA",
+        "Leather sole",
+        "Heel measures approximately 1.5 inches\"",
+        "A dash of casual with feminine sophistication, the Caress sandal wedge makes everyday comfort and style a breeze.",
+        "Strappy leather uppers with an open toe.",
+        "Slingback strap with an adjustable buckle closure.",
+        "Smooth and breathable leather linings.",
+        "Features SAS Tripad Cushions designed to comfort all three pressure points: the inside ball, outside ball and heel for all-day support."
+    ],
+    "description": [
+        "A dash of casual with feminine sophistication, the Caress sandal wedge makes everyday comfort and style a breeze. Strappy leather uppers with an open toe. Slingback strap with an adjustable buckle closure. Smooth and breathable leather linings"
+    ],
+    "price": "116.06",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71LTJsfjJ9L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41hIXtNL59L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41hIXtNL59L._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "SAS",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Item model number\": \"0112-013\", \"Department\": \"womens\", \"Date First Available\": \"June 26, 2013\", \"Manufacturer\": \"SAS\"}",
+    "parent_asin": "B00MOP7FAC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,47 @@
+{
+  "item_id": 2834,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Coast Guard Auxiliary Collar Device: Member",
+    "average_rating": 5.0,
+    "rating_number": 6,
+    "features": [],
+    "description": [
+      "Coast Guard (USCG) Auxiliary Collar Device Member - Silver & Blue Shield w/Crossed Anchor. Priced per pair."
+    ],
+    "price": "25.95",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41TgULdtduL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41TgULdtduL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Vanguard",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"5 x 3 x 1 inches; 1.6 Ounces\", \"Item model number\": \"3643600\", \"Date First Available\": \"July 25, 2018\"}",
+    "parent_asin": "B07FXJYYBK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories"
+    ],
+    "confidence": 0.85
+  }
+}

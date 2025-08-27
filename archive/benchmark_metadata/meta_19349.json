@@ -1,0 +1,43 @@
+{
+    "main_category": "Prime Video",
+    "title": "Wildlife of the West",
+    "average_rating": 3.7,
+    "rating_number": 61,
+    "features": [
+        "34min",
+        "2016",
+        "ALL"
+    ],
+    "description": [
+        "Experience the wonder of more than 2 dozen of the West's most intriguing animals. Wildlife of the West takes you stream-side and mountain-side, to dizzying heights and stunning habitats.  Written and narrated by Emmy Award winner, Tim Woodward."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Special Interest"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Jennifer Isenhart\"], \"Producers\": [\"Jennifer Isenhart\"], \"Starring\": [\"Tim Woodward\"]}",
+    "parent_asin": "B01FEBYQWC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

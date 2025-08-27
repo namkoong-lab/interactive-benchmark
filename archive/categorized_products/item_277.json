@@ -1,0 +1,57 @@
+{
+  "item_id": 277,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Need You Now",
+    "average_rating": 4.7,
+    "rating_number": 370,
+    "features": [],
+    "description": [
+      "With chart topping hits across multiple genres over the course of her career,",
+      "Plumb",
+      "returns with yet again another brilliant studio collection. Titled after the six week number one hit, “Need You Now”, the album delivers Plumb’s signature sound in top hits, “One Drop”, “I Don’t Deserve You” and “Beautiful”. Plumb’s infectious artistry has been featured in major motion pictures and TV shows including The Vampire Diaries, Dawson’s Creek, Pretty Little Liars and more."
+    ],
+    "price": "17.25",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71z3tVguKjL._SL1425_.jpg",
+        "https://m.media-amazon.com/images/I/71MlwodYsfL._SL1218_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51yUWv-1NzL.jpg",
+        "https://m.media-amazon.com/images/I/51hst9I8mtL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51yUWv-1NzL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51hst9I8mtL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Plumb   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Christian & Gospel",
+      "Pop & Contemporary"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"4.92 x 5.63 x 0.47 inches; 2.96 Ounces\", \"Manufacturer\": \"Curb\", \"Item model number\": \"26251918\", \"Original Release Date\": \"2013\", \"Date First Available\": \"December 12, 2012\", \"Label\": \"Curb\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00AMPY50E",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs"
+    ],
+    "confidence": 0.95
+  }
+}

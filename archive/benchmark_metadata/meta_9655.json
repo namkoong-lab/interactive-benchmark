@@ -1,0 +1,49 @@
+{
+    "main_category": "Video Games",
+    "title": "Jeopardy!",
+    "average_rating": 4.8,
+    "rating_number": 5,
+    "features": [
+        "There is a fine art to watching Jeopardy!, as any know-it-all could tell you. It used to mean shouting at the television (in question form) or turning to anyone within earshot, nodding and calmly saying \"I knew that...\" GameTek changes all that by giving Jeopardy! fans everywhere an opportunity to really buzz in. Alex Trebek hosts this all-new video game version of television's longest-running game show. Featuring the digitized TV studio, theme music, voice and photgraphy of Alex"
+    ],
+    "description": [
+        "There is a fine art to watching Jeopardy!, as any know-it-all could tell you. It used to mean shouting at the television (in question form) or turning to anyone within earshot, nodding and calmly saying \"I knew that...\" GameTek changes all that by giving Jeopardy! fans everywhere an opportunity to really buzz in. Alex Trebek hosts this all-new video game version of television's longest-running game show. Featuring the digitized TV studio, theme music, voice and photgraphy of Alex himself, this Jeopardy! takes full advantage of the graphic and sound capabilities of the Sega Genesis. With over 3,500 new questions and answers (or is that answers and questions?) and 700 categories, it's sure to last many seasons without reruns!"
+    ],
+    "price": "4.25",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81jjVnwbdWL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81j7Wa9AlTL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51JDD2-O+FL.jpg",
+            "https://m.media-amazon.com/images/I/51hE40OF+4L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51JDD2-O+FL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51hE40OF+4L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "SEGA",
+    "categories": [
+        "Video Games",
+        "Legacy Systems",
+        "Sega Systems",
+        "Sega Genesis",
+        "Games"
+    ],
+    "details": "{\"Pricing\": \"The strikethrough price is the List Price. Savings represents a discount off the List Price.\", \"Type of item\": \"Toy\", \"Rated\": \"Everyone\", \"Is Discontinued By Manufacturer\": \"No\", \"Item Weight\": \"5.6 ounces\", \"Manufacturer\": \"\\\"Sega of America, Inc.\\\"\", \"Date First Available\": \"March 22, 2006\"}",
+    "parent_asin": "B00002SUO9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,48 @@
+{
+    "main_category": "Books",
+    "title": "MESSAGE IN A BOTTLE",
+    "average_rating": 4.8,
+    "rating_number": 51,
+    "features": [
+        "Children ages 6 to 9 will love to read about BarbieTM and her sisters as they solve mysteries in the fourth installment of the Barbie: Sisters Mystery Club chapter book series, featuring full-color illustrations!"
+    ],
+    "description": [
+        "About the Author",
+        "Victoria Saxon",
+        "is a children’s book author. Her works include",
+        "Belle is My Babysitter",
+        "and",
+        "365 Days of Frozen."
+    ],
+    "price": "17.77",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51xFfPUAOcL._SX338_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Victoria Saxon (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Growing Up & Facts of Life"
+    ],
+    "details": "{\"Publisher\": \"Random House Books for Young Readers; Dgs edition (September 13, 2016)\", \"Language\": \"English\", \"Paperback\": \"64 pages\", \"ISBN 10\": \"0399549625\", \"ISBN 13\": \"978-0399549625\", \"Reading age\": \"6 - 9 years\", \"Grade level\": \"1 - 4\", \"Item Weight\": \"3.2 ounces\", \"Dimensions\": \"5.25 x 0.19 x 7.63 inches\"}",
+    "parent_asin": "0399549625",
+    "bought_together": null,
+    "subtitle": "Paperback – September 13, 2016",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/41cp1Ligq6L._SY600_.jpg', 'name': 'Victoria Saxon', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

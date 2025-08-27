@@ -1,0 +1,48 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Hallmark Keepsake Spring Ornament Spring Takes Flight 2017",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "Manufactured by Hallmark. Will compliment all seasons including Spring and Easter decor"
+    ],
+    "description": [
+        "With unparalleled artistry and exceptional detail, each festive and collectible Keepsake Ornament is made for years of celebrations. From preserving precious memories to commemorating special milestones and interests, there's a Hallmark ornament for everyone on your gift list."
+    ],
+    "price": "9.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61r6GxYO1FL._AC_SL1470_.jpg",
+            "https://m.media-amazon.com/images/I/510ImAp+-CL._AC_SL1470_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/314d0wnmxQL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31UfSjM-p8L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/314d0wnmxQL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31UfSjM-p8L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Hallmark",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Hanging Ornaments"
+    ],
+    "details": "{\"Brand\": \"Hallmark\", \"Occasion\": \"Easter\", \"Theme\": \"Religious\", \"Target Audience\": \"Adult\", \"Item Dimensions LxWxH\": \"0.88 x 2.19 x 1.19 inches\", \"Shape\": \"Round\", \"Mounting Type\": \"Hanging\", \"Item Package Quantity\": \"1\", \"Unit Count\": \"1.0 Count\", \"Batteries Required?\": \"No\", \"Item Weight\": \"0.48 ounces\", \"Scent\": \"Unscented\", \"Product Dimensions\": \"0.88 x 2.19 x 1.19 inches\", \"Manufacturer\": \"Hallmark Cards, Inc.\", \"Date First Available\": \"March 29, 2017\"}",
+    "parent_asin": "B06XXR4DDV",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

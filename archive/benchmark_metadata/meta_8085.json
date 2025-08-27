@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Fourier: 'The Theory of the Four Movements' (Cambridge Texts in the History of Political Thought)",
+    "average_rating": 3.9,
+    "rating_number": 13,
+    "features": [
+        "This remarkable book, written soon after the French Revolution, has traditionally been considered one of the founding documents in the history of socialism. It introduces the best known and most extraordinary Utopia written in the past two centuries. Charles Fourier was among the first to formulate a right to a minimum standard of life. His radical approach involved a systematic critique of work, marriage and patriarchy, together with a parallel right to a \"sexual minimum.\""
+    ],
+    "description": [
+        "Book Description",
+        "An English translation of important text in the history of socialism."
+    ],
+    "price": "16.88",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41U8Ra87KqL._SX322_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Charles Fourier (Author),  Gareth Stedman Jones (Editor),  Ian Patterson (Editor)",
+    "categories": [
+        "Books",
+        "New, Used & Rental Textbooks",
+        "Social Sciences"
+    ],
+    "details": "{\"Publisher\": \"Cambridge University Press; First Edition (February 23, 1996)\", \"Language\": \"English\", \"Paperback\": \"366 pages\", \"ISBN 10\": \"0521356938\", \"ISBN 13\": \"978-0521356930\", \"Item Weight\": \"1.15 pounds\", \"Dimensions\": \"5.5 x 0.82 x 8.5 inches\"}",
+    "parent_asin": "0521356938",
+    "bought_together": null,
+    "subtitle": "First Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Ian Patterson', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

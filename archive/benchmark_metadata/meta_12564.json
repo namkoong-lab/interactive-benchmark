@@ -1,0 +1,41 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Nautica Womens Faux Fur Trim Hooded Midweight Puffer Jacket (XX-Large, Black)",
+    "average_rating": 4.3,
+    "rating_number": 23,
+    "features": [
+        "100% Polyester",
+        "Zipper closure",
+        "Machine Wash"
+    ],
+    "description": [
+        "A distinctively stylish pick from Nautica, this puffer coat features a cozy hood trimmed in luxurious faux fur and finished with a water-resistant shell.Sizing: Size Conversion: X-Small=0-2 | Small=4-6 | Medium=8-10 | Large=12-14 | X-Large=16 | XX-Large=18-20 Model is 5’9” and wearing size Small Model is 5’11” and wearing size XX-Large"
+    ],
+    "price": "69.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_SR38,50_.gif"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nautica",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"24 x 13 x 1 inches; 2.35 Pounds\", \"Item model number\": \"jacket\", \"Department\": \"Womens\", \"Date First Available\": \"May 17, 2022\"}",
+    "parent_asin": "B0B1GR6244",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

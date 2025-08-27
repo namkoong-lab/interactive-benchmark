@@ -1,0 +1,54 @@
+{
+    "main_category": "Books",
+    "title": "J.R.R. Tolkien Boxed Set (The Hobbit and The Lord of the Rings)",
+    "average_rating": 4.8,
+    "rating_number": 21721,
+    "features": [
+        "Contains",
+        "The Hobbit, The Fellowship of the Ring, The Two Towers, The Return of the King"
+    ],
+    "description": [
+        "Amazon.com Review",
+        "Hobbits and wizards and Sauron--oh, my! Mild-mannered Oxford scholar John Ronald Reuel Tolkien had little inkling when he published",
+        "The Hobbit; Or, There and Back Again",
+        "in 1937 that, once hobbits were unleashed upon the world, there would be no turning back. Hobbits are, of course, small, furry creatures who love nothing better than a leisurely life quite free from adventure. But in that first novel and the Lord of the Rings trilogy, the hobbits Bilbo and Frodo and their elfish friends get swept up into a mighty conflict with the dragon Smaug, the dark lord Sauron (who owes much to proud Satan in",
+        "Paradise Lost",
+        "), the monstrous Gollum, the Cracks of Doom, and the awful power of the magical Ring. The four books' characters--good and evil--are recognizably human, and the realism is deepened by the magnificent detail of the vast parallel world Tolkien devised, inspired partly by his influential Anglo-Saxon scholarship and his Christian beliefs. (He disapproved of the relative sparseness of detail in the comparable allegorical fantasy his friend C.S. Lewis dreamed up in",
+        "The Chronicles of Narnia",
+        ", though he knew Lewis had spun a page-turning yarn.) It has been estimated that one-tenth of all paperbacks sold can trace their ancestry to J.R.R. Tolkien. But even if we had never gotten Robert Jordan's",
+        "The Path of Daggers",
+        "and the whole fantasy genre Tolkien inadvertently created by bringing the hobbits so richly to life, Tolkien's epic about the Ring would have left our world enhanced by enchantment.",
+        "--Tim Appelo"
+    ],
+    "price": "36.9",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51jAsd+HvlL._SY344_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "J.R.R. Tolkien (Author)",
+    "categories": [
+        "Books",
+        "Science Fiction & Fantasy",
+        "Fantasy"
+    ],
+    "details": "{\"Publisher\": \"Del Rey; Reprint edition (January 1, 2001)\", \"Language\": \"English\", \"Paperback\": \"1652 pages\", \"ISBN 10\": \"0345340426\", \"ISBN 13\": \"978-0345340429\", \"Reading age\": \"12+ years, from customers\", \"Item Weight\": \"2 pounds\", \"Dimensions\": \"4.25 x 4.25 x 7 inches\"}",
+    "parent_asin": "0345340426",
+    "bought_together": null,
+    "subtitle": "Paperback – Box set, January 1, 2001",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/hq6oari96tk6tlqvhqs9qqcvi8._SY600_.jpg', 'name': 'J. R. R. Tolkien', 'about': ['J.R.R. Tolkien was born on 3rd January 1892. After serving in the First World War, he became best known for The Hobbit and The Lord of the Rings, selling 150 million copies in more than 40 languages worldwide. Awarded the CBE and an honorary Doctorate of Letters from Oxford University, he died in 1973 at the age of 81.']}"
+}

@@ -1,0 +1,61 @@
+{
+    "main_category": "Books",
+    "title": "Nerd Do Well",
+    "average_rating": 4.3,
+    "rating_number": 464,
+    "features": [
+        "The unique life story of one of Britain's most talented and inventive comedians, star of",
+        "Shaun of the Dead",
+        ",",
+        "Hot Fuzz",
+        "and",
+        "Star Trek",
+        ".",
+        "Zombies in North London, death cults in the West Country, the engineering deck of the Enterprise: Simon Pegg has been ploughing some bizarre furrows in recent times. Having blasted onto the small screens with his now legendary sitcom",
+        "Spaced",
+        ", his rise to the UK's favourite son status has been mercurial, meteoric, megatronnic, but mostly just plain great.From his childhood (and subsequently adult) obsession with",
+        "Star Wars",
+        ", his often passionate friendship with Nick Frost, and his forays into stand-up which began with his regular Monday morning slot in front of his 12-year-old classmates, this is a joyous tale of a homegrown superstar and a loval boy made good."
+    ],
+    "description": [
+        "About the Author",
+        "SIMON PEGG is an actor, comedian, screenwriter, producer and author. Best known for his roles in",
+        "Shaun of the Dead",
+        "and",
+        "Hot Fuzz",
+        ", he also plays Scotty in the",
+        "Star Trek",
+        "francise. This is his first book."
+    ],
+    "price": "7.29",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51eEEiA6ygL._SX319_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Simon Pegg (Author)",
+    "categories": [
+        "Books",
+        "Biographies & Memoirs",
+        "Arts & Literature"
+    ],
+    "details": "{\"Publisher\": \"Arrow (July 26, 2011)\", \"Language\": \"English\", \"Paperback\": \"368 pages\", \"ISBN 10\": \"0099551551\", \"ISBN 13\": \"978-0099551553\", \"Item Weight\": \"10.8 ounces\", \"Dimensions\": \"5.08 x 0.98 x 7.8 inches\"}",
+    "parent_asin": "0099551551",
+    "bought_together": null,
+    "subtitle": "Paperback – International Edition, July 26, 2011",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Simon Pegg', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

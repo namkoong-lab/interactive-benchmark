@@ -1,0 +1,65 @@
+{
+  "item_id": 4969,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "adidas Golf Print Shorts",
+    "average_rating": 1.9,
+    "rating_number": 12,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Machine Wash",
+      "Metallic Adidas performance logo at bottom left hem",
+      "Two front pockets and two back pockets",
+      "Born of Sport. Rooted in golf"
+    ],
+    "description": [
+      "Adidas Golf designs award-winning products across apparel, footwear and accessories for every golfer. Innovation is at the heart of everything do. No detail is spared, no scenario overlooked. We're always working to create the best in golf. It's our passion. We make sure all golfers are geared for more."
+    ],
+    "price": "50.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91qH6g3Z0dL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91gbUjDgqZL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/61ltwP9FXYL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/61+EnWEOOZL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/61ltwP9FXYL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/61+EnWEOOZL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "adidas",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Active",
+      "Active Shorts"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"TG6303S8\", \"Department\": \"womens\", \"Date First Available\": \"August 4, 2017\", \"Manufacturer\": \"Taylormade-Adidas Golf Company\"}",
+    "parent_asin": "B074K82FR4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Shorts"
+    ],
+    "confidence": 0.95
+  }
+}

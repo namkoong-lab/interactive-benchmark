@@ -1,0 +1,47 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Converse Kids Chuck Taylor All Star Ox Shoes",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [
+        "Canvas",
+        "Rubber sole",
+        "Imported.",
+        "Rubber midsole for all-day wear.",
+        "Classic canvas or leather upper."
+    ],
+    "description": [
+        "Canvas lining with a cushioned footbed for all-day comfort.Lace-up front with metallic eyelet details.Classic Converse vulcanized rubber outsole. Imported."
+    ],
+    "price": "109.97",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41g56togFOL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41g56togFOL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Converse",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Girls",
+        "Shoes"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"unisex-child\", \"Date First Available\": \"April 5, 2017\"}",
+    "parent_asin": "B06Y29FXPY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

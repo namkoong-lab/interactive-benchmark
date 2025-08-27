@@ -1,0 +1,76 @@
+{
+    "main_category": "Grocery",
+    "title": "Amazon Fresh - Frosted Cookies and Crème Toaster Pastries (8 ct)",
+    "average_rating": 4.3,
+    "rating_number": 288,
+    "features": [
+        "WHAT'S INSIDE: 8 Cookies and Crème Toaster Pastries",
+        "WHY YOU'LL LOVE IT: These toaster pastries make for a quick and easy breakfast -- even on the go! An excellent source of 6 vitamins and minerals.",
+        "ALSO CONTAINS: Milk, Soy, Wheat",
+        "HIGH QUALITY, LOW PRICES: Amazon Fresh brand products are all about high-quality food that fits every budget, every day.",
+        "SATISFACTION GUARANTEED: If you don’t love it, we’ll make it right. Call 1-877-485-0385 and we’ll refund you for any reason within a year of purchase.",
+        "ONLY FROM AMAZON: Look for the Amazon Fresh label to find great deals on a wide selection of grocery essentials."
+    ],
+    "description": [
+        "Amazon Fresh - Frosted Cookies and Crème Toaster Pastries (8 ct), These toaster pastries make for a quick and easy breakfast -- even on the go! An excellent source of 6 vitamins and minerals."
+    ],
+    "price": "1.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91k8FTHzZIL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81AdlS8udSL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/913Lr+6F4WL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71k-vEK7fbL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81zzZdMJqQL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51CKZTthZFL.jpg",
+            "https://m.media-amazon.com/images/I/41BCVScRy+L.jpg",
+            "https://m.media-amazon.com/images/I/51UJe8Rcm+L.jpg",
+            "https://m.media-amazon.com/images/I/41V3i63jqqL.jpg",
+            "https://m.media-amazon.com/images/I/51-PPFbpIIL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51CKZTthZFL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41BCVScRy+L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51UJe8Rcm+L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41V3i63jqqL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51-PPFbpIIL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "FACT",
+            "INGR"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Our Point of View on Pop-Tarts Toaster Pastries",
+            "Amazon Fresh Frosted toaster pastries Strawberry",
+            "Pop Tarts Toaster Pastries"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0a94003cacd04991a1d336b2e8c3eafe?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/0add44ebf9684000939cdd4e69728aed?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/b887aac72c514563ac5feec4695077e8?ref=dp_vse_rvc_2"
+        ],
+        "user_id": [
+            "/shop/influencer-20a38664",
+            "/shop/influencer-dcb4065c",
+            ""
+        ]
+    },
+    "store": "Amazon Fresh",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Breakfast Foods",
+        "Toaster Pastries"
+    ],
+    "details": "{\"Product Dimensions\": \"3.5 x 3.88 x 5.5 inches; 1.03 Pounds\", \"UPC\": \"195515010993\", \"Manufacturer\": \"Amazon.com Services LLC.\", \"Country of Origin\": \"USA\"}",
+    "parent_asin": "B096XTDDXC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

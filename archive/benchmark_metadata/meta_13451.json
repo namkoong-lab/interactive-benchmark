@@ -1,0 +1,60 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "adidas Men's Climawarm Performance Fleece Pant",
+    "average_rating": 4.5,
+    "rating_number": 38,
+    "features": [
+        "100% Polyester",
+        "Imported",
+        "front closure",
+        "Adidas Fleece Pant College Navy MD",
+        "Men's athletic pants with an elasticated waistband for a comfortable fit",
+        "Engineered to help keep you warm in cooler weather conditions",
+        "A classic staple for any athlete's wardrobe"
+    ],
+    "description": [
+        "The Adidas Climawarm Performance Fleece Pant 211B wicks away moisture and has soft fleece inside, with zipper pockets and logo embroidery. Adidas's Climawarm Performance Fleece Pant is made of cotton/polyester."
+    ],
+    "price": "24.9",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71Uq62zxKXL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71C32lrbZLL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71S9HSFG88L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31RoAFZKwwL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/312Tpu2NVPL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/419QZOHu2iL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31RoAFZKwwL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/312Tpu2NVPL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/419QZOHu2iL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "adidas",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Active",
+        "Active Pants",
+        "Track Pants"
+    ],
+    "details": "{\"Package Dimensions\": \"12 x 8 x 0.5 inches; 1.4 Pounds\", \"Item model number\": \"211BCOW\", \"Department\": \"Mens\", \"Date First Available\": \"September 11, 2018\", \"Manufacturer\": \"Adidas\"}",
+    "parent_asin": "B07H8BWXDG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

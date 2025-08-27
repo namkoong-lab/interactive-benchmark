@@ -1,0 +1,52 @@
+{
+  "item_id": 455,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "My Music Loves You Even If I Don't",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [],
+    "description": [
+      "My Music Loves You Even If I Don't"
+    ],
+    "price": "5.81",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/217NDR0VN4L.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/217NDR0VN4L._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Mike Randle   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Indie & Alternative",
+      "Indie & Lo-Fi",
+      "Indie Rock"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"4.75 x 5.5 x 0.5 inches; 3.2 Ounces\", \"Manufacturer\": \"Eggbert Records\", \"Original Release Date\": \"2000\", \"Date First Available\": \"November 1, 2006\", \"Label\": \"Eggbert Records\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00004TFCZ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Singles & EPs"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,64 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Amazon Essentials Men's Big & Tall Cotton Pique Polo Shirt fit by DXL",
+    "average_rating": 4.5,
+    "rating_number": 7002,
+    "features": [
+        "100% Cotton",
+        "Imported",
+        "Button closure",
+        "Machine Wash",
+        "Loose fit for a less structured relaxed silhouette",
+        "Lightweight and breathable pique knit fabric",
+        "Button-front closure",
+        "An Amazon brand"
+    ],
+    "description": [
+        "Amazon Essentials is focused on creating affordable, high-quality, and long-lasting everyday clothing you can rely on. Our line of men’s must-haves includes polo shirts, chino pants, classic-fit shorts, casual button-downs, and crew-neck tees. Our consistent sizing takes the guesswork out of shopping, and each piece is put to the test to maintain the highest standards in quality and comfort."
+    ],
+    "price": "25.1",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81NSDz34RQL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81sSkmmkehL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81YNcXNdnsL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91ZB1sqY5ML._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31U+FpY4UkL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31N3sFt0wXL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31xggFx-ADL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31HFxuUSwDL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31U+FpY4UkL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31N3sFt0wXL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31xggFx-ADL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31HFxuUSwDL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Amazon Essentials",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Shirts",
+        "Polos"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 8 Ounces\", \"Department\": \"mens\", \"Date First Available\": \"January 1, 2020\", \"Manufacturer\": \"Amazon Essentials\"}",
+    "parent_asin": "B07HB256H1",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

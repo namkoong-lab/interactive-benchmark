@@ -1,0 +1,74 @@
+{
+    "main_category": "Books",
+    "title": "Multilevel Modeling in Plain Language",
+    "average_rating": 4.5,
+    "rating_number": 50,
+    "features": [
+        "Multilevel Modeling in Plain Language"
+    ],
+    "description": [
+        "Review",
+        "I started to read the book with vivid interest because of the subject that too often does not find enough space in books which provide an overview of the most used statistical methods  leaving out those who are somewhat a little bit more elaborate. After a while I found that I had read many pages, as a story, in a short time, and, rethinking to the title of the book, I remembered there was a part saying \"…. In plain language\". This is really genuine.   The Authors do really introduce the subject in a very friendly way, propose examples which facilitate the reader to better  understand and explain the output of Stata.  I suggest the book both to students and instructors who want a specific text on this subject. On the one hand, students will be not afraid of formula, considering that the book is centred on the understanding of the subjects, on the other hand, instructors will benefit in reviewing the path of the multilevel analysis very quickly.   It is a book for those who have some knowledge of statistic but I think that this aspect is definitely clear to the reader. The book is really complete in all the phases of a multilevel analysis, the \"plain approach\" helps the reader to grasp the idea,  follow the Stata commands and outputs and, finally, to interpret the findings. I think that the Authors were very skillful in preparing this book and added a very useful resource, in particular, for those who use Stata for their analysis.",
+        "-- Dr. Gabriele Messina",
+        "About the Author",
+        "Karen Robson is Assistant Professor in the Department and Marketing and Hospitality at Central Michigan University. She holds a BSc (Honsd) in Psychology from Queen’s University, and an MA in Psychology, an MBA and PhD from Simon Fraser University. Karen’s research investigates consumer innovativeness, including how consumers repurpose or use market offerings in ways not intended by the manufacturer and the intellectual property law implications of this practice. A recipient of the Joseph-Armand Bombardier Doctoral Scholarship, her work has appeared in journals such as",
+        "MIS Quarterly Executive",
+        ",",
+        "Business Horizons",
+        ",",
+        "Journal of Marketing Education",
+        ",",
+        "Journal of Advertising Research",
+        ", and",
+        "Journal of Public Affairs",
+        ".",
+        "David Pevalin",
+        "is Professor in the School of Health and Human Sciences and Dean of Postgraduate Research and Education at the University of Essex. He previously served in the Merchant Navy, the City of London Police and the Royal Hong Kong Police. He studied part time at the University of Hong Kong before graduate studies at the University of Calgary, Canada. He returned to the UK in 1999 as Senior Research Officer at the Institute for Social and Economic Research at the University of Essex and joined his current School in 2003 after obtaining his PhD. He co-authored (with Karen Robson)",
+        "The",
+        "Stata Survival Manual",
+        "(Open University Press), co-edited (with David Rose)",
+        "The Researcher’s Guide to the National Statistics Socio-economic Classification",
+        "(Sage), and authored research reports for the Department of Work and Pensions and the Health Development Agency. He has published papers in the",
+        "Journal of Health and Social Behavior",
+        ",",
+        "British Journal of Sociology",
+        ",",
+        "Lancet",
+        ",",
+        "Public Health",
+        ", and",
+        "Housing Studies",
+        "."
+    ],
+    "price": "24.53",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51zIkhZ7X0L._SX346_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Karen Robson (Author),  David Pevalin (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Mathematics"
+    ],
+    "details": "{\"Publisher\": \"SAGE Publications Ltd; 1st edition (December 9, 2015)\", \"Language\": \"English\", \"Paperback\": \"160 pages\", \"ISBN 10\": \"0857029169\", \"ISBN 13\": \"978-0857029164\", \"Item Weight\": \"10.2 ounces\", \"Dimensions\": \"6.69 x 0.37 x 9.53 inches\"}",
+    "parent_asin": "0857029169",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/51RghYT5HxL._SY600_.jpg', 'name': 'Karen Robson', 'about': ['Trained in applied research in the UK, Karen has spent the last decade in Canada, teaching and writing about research methods, statistics, and the sociology of education. Karen is currently Ontario Research Chair of Educational Achievement and At-Risk Youth at McMaster University.']}"
+}

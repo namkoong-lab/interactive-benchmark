@@ -1,0 +1,53 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Disney Aristocats Little Girls' Toddler Marie So Purrfect Tee",
+    "average_rating": 4.6,
+    "rating_number": 10,
+    "features": [
+        "60% Cotton, 40% Polyester",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Long sleeve tee",
+        "Crewneck and tagless",
+        "Features Disney's Marie from The Aristocats",
+        "Officially Licensed",
+        "Machine washable"
+    ],
+    "description": [
+        "Girl's long sleeve t-shirt features Marie from Disney's Aristocats. In hot pink. 60/40 cotton-poly blend. Machine washable. Imported."
+    ],
+    "price": "15.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71KKMK1JoUL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41pJFX5XS-L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41pJFX5XS-L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Spider-Man",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Toddler Test",
+        "Girls",
+        "Tops & Tees",
+        "Tees"
+    ],
+    "details": "{\"Department\": \"Girls\", \"Date First Available\": \"May 23, 2019\"}",
+    "parent_asin": "B07T876LMT",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

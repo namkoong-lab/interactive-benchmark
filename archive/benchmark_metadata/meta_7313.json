@@ -1,0 +1,47 @@
+{
+    "main_category": "Books",
+    "title": "Tyranny Of Words",
+    "average_rating": 4.6,
+    "rating_number": 143,
+    "features": [
+        "A popular approach to semantics in which the author discussess how to clarify the meaning of words and achieve more exact communication. Index"
+    ],
+    "description": [
+        "About the Author",
+        "Stuart Chase (1888–1985) was an economist and social theorist. His many influential writings include",
+        "Your Money's Worth, A New Deal,",
+        "and",
+        "The Tyranny of Words."
+    ],
+    "price": "31.59",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/410rhocAx+L._SY344_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Stuart Chase (Author)",
+    "categories": [
+        "Books",
+        "Reference",
+        "Words, Language & Grammar"
+    ],
+    "details": "{\"Publisher\": \"Harper (April 15, 1959)\", \"Language\": \"English\", \"Hardcover\": \"420 pages\", \"ISBN 10\": \"0544313135\", \"ISBN 13\": \"978-0544313132\", \"Item Weight\": \"1.48 pounds\", \"Dimensions\": \"5.5 x 1.06 x 8.5 inches\"}",
+    "parent_asin": "0544313135",
+    "bought_together": null,
+    "subtitle": "Hardcover – April 15, 1959",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Stuart Chase', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

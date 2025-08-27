@@ -1,0 +1,73 @@
+{
+    "main_category": "Books",
+    "title": "Oracle 24x7 Tips and Techniques",
+    "average_rating": 4.6,
+    "rating_number": 22,
+    "features": [
+        "Achieve 24x7 database uptime and expand your Oracle knowledge using the hundreds of tips and techniques provided in this unique reference."
+    ],
+    "description": [
+        "Amazon.com Review",
+        "Maintaining near-flawless database uptime is a source of anxiety for countless database administrators. In",
+        "Oracle 24x7 Tips & Techniques",
+        ", Venkat S. Devraj has compiled an unprecedented collection of guidelines and suggestions as a \"working Oracle professional's book on high availability.\"",
+        "Although it is the author's aim to avoid detailed theory and focus on practical solutions to the problem, the early portions of the book contain some high-level topics such as defining your organization's exact uptime requirements and precisely characterizing what constitutes an emergency for your installation. These areas are often quickly glossed over in other guides, but the presentation here is precise and quite useful in striving for the holy grail of 24-hour uptime.",
+        "The meat of the book is a series of targeted techniques for architecting a truly reliable system. Devraj looks at it all--from hardware to operating systems to internal configurations of Oracle and wise maintenance procedures. He does an excellent job of putting each topic in perspective with explanations of exactly what impact each strategy will have.",
+        "There's a plethora of useful information here. However, it is decidedly aimed at seasoned Oracle professionals. New Oracle users and administrators may find themselves lost, but more expert Oracle jockeys will be grateful for this material.",
+        "--Stephen W. Plain",
+        "Topics covered",
+        ": Hardware component selection, operating systems and network issues, application analysis, installation and configuration, upgrades, migrations, backup and recovery procedures, database maintenance, growth management, log interpretation, corruption identification, Oracle Parallel Server, advanced replication, and third-party solutions.",
+        "From the Back Cover",
+        "Expert technical knowledge at the turn of a page.",
+        "Achieve 24x7 database uptime and expand our Oracle knowledge using the hundreds of tips and techniques provided in this unique reference. Designed for every Oracle DBA, developer, and architect, this book highlights innovative solutions that are either hidden, undocumented, or can only be discovered through many years of experience or through extensive trial and error.",
+        "Oracle 24x7 Tips & Techniques provides hundreds of real-world examples and insider secrets for accomplishing around-the-clock database availability, making it possible for your organization--and its Web site--to be full operational at all times. Find out how to:",
+        "Identify uptime requirements and assess your hardware, operating system, and middleware options",
+        "Identify uptime requirements and assess your hardware, operating system, and middleware options",
+        "Learn to interpret the Alert Lob and Trace files",
+        "Learn to interpret the Alert Lob and Trace files",
+        "Work with Oracle's high availability solutions such as standby databases, Oracle Parallel Server, and Advanced Replication",
+        "Work with Oracle's high availability solutions such as standby databases, Oracle Parallel Server, and Advanced Replication",
+        "Get familiar with popular third-part high availability solutions such as local mirroring, triple mirroring, geo-mirroring and replication via redo-logs",
+        "Get familiar with popular third-part high availability solutions such as local mirroring, triple mirroring, geo-mirroring and replication via redo-logs",
+        "Implement smooth application failover",
+        "Implement smooth application failover",
+        "Devise our own custom standby options for online maintenance and upgrades",
+        "Devise our own custom standby options for online maintenance and upgrades",
+        "Build your own 24x7 toolkit",
+        "Build your own 24x7 toolkit",
+        "About the Author",
+        "Venkat S. Devraj is a Certified Oracle DBA and a Technical Director with Raymond James Consulting in Denver, Colorado. Over the last decade, Venkat has worked around the globe specializing in technical architecture, high-availability solutions, and performance tuning.",
+        "Read more"
+    ],
+    "price": "4.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41pz46-zxbL._SX388_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Venkat S. Devraj (Author)",
+    "categories": [
+        "Books",
+        "New, Used & Rental Textbooks",
+        "Computer Science"
+    ],
+    "details": "{\"Publisher\": \"Computing McGraw-Hill; 1st edition (November 1, 1999)\", \"Language\": \"English\", \"Paperback\": \"1005 pages\", \"ISBN 10\": \"0072119993\", \"ISBN 13\": \"978-0072119992\", \"Item Weight\": \"3.69 pounds\", \"Dimensions\": \"7.5 x 2.25 x 9 inches\"}",
+    "parent_asin": "0072119993",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Venkat S. Devraj', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

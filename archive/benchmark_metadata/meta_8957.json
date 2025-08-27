@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "ORACLE SQL & PL/SQL Golden Diary: Refactoring, Interoperability of Versions & Integration of related concepts for High Performance",
+    "average_rating": 4.2,
+    "rating_number": 8,
+    "features": [
+        "This book covers three aspects 1: Interoperability among database versions 2: Integration of related concepts for performance 3: Creation of Golden Diary in a nutshell by practical examples These intentions have been arisen based on the burning need of database users I have come across throughout my career with roles like PL/SQL developers , Database Administrators, Designers, Data analysts, Performance tuning analysts, Architects, Students, Professors, Interviewees and any DBMS enthusiast or aspirant for oracle certification. Some of these had extensive experience in what they do and have influenced me writing this book. This is an example/research oriented book which will let you navigate between different releases of oracle using alternative approaches to derive similar functionality in different versions of database. For example “Truncate table cascade in 12c and approach prior to 12c” and “Sensitive data masking using REDACTION in 12c and prior to 12c” highlight the intention. Also this book will let you integrate related concepts so that you can ponder over different similar concepts and choose the best option to achieve the best response time and throughput. Examples like “nested loop Join or hash join or parallelism or multi-threading” , ”Oracle Object CACHE Using Cache or Keep buffer pool or Oracle 12c IN-MEMORY column store “ and ”Result cache function or deterministic function or PL/SQL collection” highlight the intention. This book will act as a reference guide for learning some very complicated concepts in a simple but precise way which are discussed through various case studies. This will give food for thought while devising mechanism for best possible approach for a database solution given the circumstances. You will learn -Comparative analysis of database features and their usages across Oracle versions -Learn to derive alternate approach for a functionality in different releases of database -Learn related concepts associated with specific challenge -Learn to choose the best approach from the set of related concepts to achieve best result -Familiarize yourself with all concepts with real life example in a nutshell -Learn how to be smart with database and surprise your colleague and boss by your solution The audience of this book would like to cover multiple versions of Oracle and the features it offers. Seeking the best approach for a challenge has not been easy in past as it required a large investment of time and effort to go through the vast amount of documentation. This 270 pages book facilitates that investment, by exploring and churning the vast archives of oracle documentation and producing the output in a nutshell which otherwise readers would need to spend time on."
+    ],
+    "description": [
+        "About the Author",
+        "Asim Chowdhury has 15 years of experience in architecting and designing data modelling of complex applications, leading database development, support & consultancy for payment solutions, smart metering solutions for Financial and Energy & Utility business domain. Prior to joining Logica (Currently CGI UK), he was with Oracle Corporation as a Senior Analyst and was leading the Language Division of Oracle Worldwide Support. He was responsible for design and development of new features of Oracle 11g beta release. He was leading the team responsible for Severity 1 High value issues for some of Oracle's high profile potential customers like Fidelity, NASA, HP, Cisco, Sun, Boeing, Citibank, HSBC, Dell, Lucent, Qantas, and Sun Microsystems. He has published many technical articles and papers, which are available in Oracle support website www.metalink.oracle.com. He has also written a Technical Guide Reference Book - \"Oracle SQL and PL/SQL Guide Till 10gR2\" on Oracle concepts and provided guidance on SQL & PL/SQL. He has been interviewed by internal magazine of Logica for his extraordinary performance which led to the launch of the Citibank product in Europe, Amsterdam. The product was highlighted in Business wire Magazine, London."
+    ],
+    "price": "40.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51kSnC7OnGL._SX384_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "asim chowdhury (Author)",
+    "categories": [
+        "Books",
+        "New, Used & Rental Textbooks",
+        "Computer Science"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform; 1st edition (October 31, 2016)\", \"Language\": \"English\", \"Paperback\": \"292 pages\", \"ISBN 10\": \"1539857484\", \"ISBN 13\": \"978-1539857488\", \"Item Weight\": \"1.51 pounds\", \"Dimensions\": \"8.5 x 0.62 x 11.02 inches\"}",
+    "parent_asin": "1539857484",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/B1W1IF7Hb1S._SY600_.jpg', 'name': 'asim chowdhury', 'about': [\"Asim Chowdhury has 15 years of experience in architecting and designing data modelling of complex applications, leading database development, support & consultancy for payment solutions,smart metering solutions for Financial and Energy & Utility business domain. Prior to joining Logica (Currently CGI UK), he was with Oracle Corporation as a Senior Analyst and was leading the Language Division of Oracle Worldwide Support. He was responsible for design and development of new features of Oracle 11g beta release. He was leading the team responsible for Severity 1 High value issues for some of Oracle's high profile potential customers like Fidelity, NASA,HP, Cisco, Sun,Boeing, Citibank, HSBC, Dell, Lucent, Qantas, and Sun Microsystems. He has published many technical\", 'articles and papers, which are available in Oracle support website www.metalink.oracle.com.', 'He has also written a Technical Guide Reference Book - \"Oracle SQL and PL/SQL Guide Till 10gR2\" on Oracle concepts and provided guidance on SQL & PL/SQL. He has been interviewed by internal magazine of Logica for his extraordinary performance which led to the launch of the Citibank product in Europe,Amsterdam. The product was highlighted in Business wire Magazine, London.']}"
+}

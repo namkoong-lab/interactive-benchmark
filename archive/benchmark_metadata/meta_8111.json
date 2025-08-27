@@ -1,0 +1,43 @@
+{
+    "main_category": "Books",
+    "title": "Gorilla Adventure",
+    "average_rating": 4.8,
+    "rating_number": 39,
+    "features": [
+        "'You stand rooted to the spot or you run like mad.'Hal and Roget Hunt head off for another challenging mission -- this time to search for gorillas in the Congo jungle. But when the boys stumble across the evil trade in baby gorillas, someone seems determined to silence them once and for all."
+    ],
+    "description": [
+        "About the Author",
+        "WILLARD PRICE was born in 1887 in Peterborough, Ontario. He held a special interest for natural history, ethnology and exploration and made numerous expeditions for the American Museum of Natural History and the National Geographic Society. He went on to edit various magazines on travel and world affairs and spent six years working in Japan as foreign correspondent for New York and London newspapers. He wrote fourteen adventure stories featuring Hal and Roger Hunt and travelled in seventy-seven countries before his death in 1983."
+    ],
+    "price": "7.34",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51+z0cbkYRL._SX300_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Willard Price (Author)",
+    "categories": [
+        "Books",
+        "Children's Books"
+    ],
+    "details": "{\"Publisher\": \"Red Fox; New Ed edition (May 27, 1993)\", \"Language\": \"English\", \"Paperback\": \"192 pages\", \"ISBN 10\": \"009918351X\", \"ISBN 13\": \"978-0099183518\", \"Item Weight\": \"5.1 ounces\", \"Dimensions\": \"4.37 x 0.55 x 7.01 inches\"}",
+    "parent_asin": "009918351X",
+    "bought_together": null,
+    "subtitle": "Paperback – Import, May 27, 1993",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/315WSZuxnZL._SY600_.jpg', 'name': 'Willard Price', 'about': ['Born in 1887 in Peterborough, Ontario, Willard Price moved to the United States by his fifth birthday. Inspired by a visitor to his home, he decided he wanted to be an explorer at a very early age.', 'He received a doctorate from Columbia University and held a life long fascination for natural history, ethnology and exploration. He travelled to over 100 countries, making numerous expeditions for the American Museum of Natural History and the National Geographic Society, and many of these adventures were incorporated into his series of fourteen children’s adventure stories featuring Hal and Roger Hunt.', 'During the 1930s, he spent a number of years living in Japan working as foreign correspondent for New York and London newspapers. He continued writing both non-fiction and the ‘Adventure’ series until his death in 1983.', '\"Judging from the letters I have received from boys and girls around the world, I believe I have helped open to them the worlds of books and natural history.\" Wilard Price']}"
+}

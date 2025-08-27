@@ -1,0 +1,53 @@
+{
+    "main_category": "Grocery",
+    "title": "Scottish Blend Tea 80 Tea Bags",
+    "average_rating": 4.7,
+    "rating_number": 134,
+    "features": [
+        "British Foods, Brooke Bond Scottish Blend 80s.",
+        "Imported from Scotland.",
+        "80 Tea Bags. Great any time of day.",
+        "Best By Date Reads As: DAY/MONTH/YEAR On All Australian & British Food Products"
+    ],
+    "description": [
+        "British Foods, Brooke Bond Scottish Blend 80s. 80 Tea Bags. Great any time of day. Great friends, biscuits and a huge pot of Brooke Bond Scottish Blend would be heavenly. Scottish Blend is especially blended to brew to perfection in soft Scottish water."
+    ],
+    "price": "10.19",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51KPdDDAnDL._SL1098_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41+EyMkfeUL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41+EyMkfeUL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Blending for over 150 years, Brodies of Edinburgh EST 1867"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/744e25526fad47559f898df1b226c58b?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Brooke Bond",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Beverages",
+        "Tea",
+        "Tea Samplers"
+    ],
+    "details": "{\"Brand\": \"Brooke Bond\", \"Item Form\": \"Teabags\", \"Flavor\": \"Scottish Blend\", \"Unit Count\": \"80 Count\", \"Number of Items\": \"1\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"6.97 x 5.75 x 3.9 inches; 9.59 Ounces\", \"Manufacturer\": \"Brooke Bond\"}",
+    "parent_asin": "B009KUOO4Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

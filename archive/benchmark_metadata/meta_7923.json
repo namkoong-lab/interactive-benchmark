@@ -1,0 +1,43 @@
+{
+    "main_category": "Books",
+    "title": "An American Hero: The True Story of Charles A. Lindbergh",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "A portrait of Charles A. Lindbergh profiles him as an admired and courageous aviation pioneer, describing such events as his rise to fame, the kidnapping of his baby son, and his shocking political actions. Reprint."
+    ],
+    "description": [
+        "From Publishers Weekly",
+        "Denenberg scrutinizes Lindbergh's Nazi sympathies and the kidnapping of his infant son in this \"hard-hitting and ambitious biography [which] challenges readers to question how men who shape their times are in turn shaped themselves,\" said PW in a starred review. Ages 10-up.-- challenges readers to question how men who shape their times are in turn shaped themselves,\" said PW in a starred review. Ages 10-up. Copyright 1998 Reed Business Information, Inc."
+    ],
+    "price": "8.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51KE3BWABNL._SX311_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Barry Denenberg (Author)",
+    "categories": [
+        "Books",
+        "Children's Books"
+    ],
+    "details": "{\"Publisher\": \"Scholastic; Complete Numbers Starting with 1, 1st Ed edition (January 1, 1998)\", \"Language\": \"English\", \"Paperback\": \"255 pages\", \"ISBN 10\": \"059046955X\", \"ISBN 13\": \"978-0590469555\", \"Reading age\": \"10 - 15 years\", \"Lexile measure\": \"1070L\", \"Grade level\": \"7 - 9\", \"Item Weight\": \"12.8 ounces\", \"Dimensions\": \"6 x 0.75 x 9 inches\"}",
+    "parent_asin": "059046955X",
+    "bought_together": null,
+    "subtitle": "Paperback – January 1, 1998",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Barry Denenberg', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

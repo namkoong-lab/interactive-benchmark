@@ -1,0 +1,51 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Cannondale Women's Prelude Sleeveless Jersey",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "100% Polyester",
+        "Imported",
+        "Zipper closure",
+        "Machine Wash",
+        "Prelude light fabric",
+        "3 rear pockets with additional water-resistant zippered pocket",
+        "Full Length Zipper"
+    ],
+    "description": [
+        "Prelude light fabric offers four-way stretch, a soft hand and wicking properties. 3 rear pockets with additional water-resistant zippered pocket."
+    ],
+    "price": "59.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61hfa53O9oL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31dBcEXzdVL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31dBcEXzdVL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Cannondale",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Sport Specific Clothing",
+        "Cycling",
+        "Women",
+        "Jerseys"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Department\": \"womens\", \"Date First Available\": \"December 20, 2013\", \"Manufacturer\": \"Cycling Sports Group - Cannondale Apparel\"}",
+    "parent_asin": "B00HFSQ5K4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

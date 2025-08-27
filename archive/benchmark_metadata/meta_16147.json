@@ -1,0 +1,69 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Mary Frances Wild Bee",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "100% Polyester_Beads",
+        "Made in the USA or Imported",
+        "Removable crossbody chain strap, magnet closure, inside pocket, back slit pocket, fits a cell phone",
+        "8x 3 x 8.5",
+        "Removable crossbody chain strap, magnet closure, inside pocket, back slit pocket, fits a cell phone",
+        "Item Package Weight: 1.0 pounds"
+    ],
+    "description": [
+        "Irresistibly playful beaded designs add Mary Frances style to the classic cosmetic bag silhouette. Perfectly sized for all your beauty essentials as you satisfy your wanderlust. 3-in-1 functionality: wear it crossbody, remove the strap to carry as a clutch or toss your beauty essential inside to use as a makeup bag! The water resistant lining protects against accidental spills so your bag and clothes stay dry."
+    ],
+    "price": "137.9",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91JLTFfs6nL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91ImVI2YhCL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81Ko1SBx7SL._AC_UL1284_.jpg",
+            "https://m.media-amazon.com/images/I/71aRICkw4PL._AC_UL1234_.jpg",
+            "https://m.media-amazon.com/images/I/81axWdkXAHL._AC_UL1396_.jpg",
+            "https://m.media-amazon.com/images/I/61X6zwbUN+L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51ag7Vv8syL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/418AD5O04IL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/61Ge-lluMVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51YK+DrbU9L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51JpslG70wL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31QUy7CXUNL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51ag7Vv8syL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/418AD5O04IL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/61Ge-lluMVL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51YK+DrbU9L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51JpslG70wL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31QUy7CXUNL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT09"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mary Frances",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Handbags & Wallets",
+        "Crossbody Bags"
+    ],
+    "details": "{\"Product Dimensions\": \"8 x 8 x 8 inches; 1.38 Pounds\", \"Item model number\": \"BAG S001-719\", \"Department\": \"Womens\", \"Date First Available\": \"January 6, 2021\", \"Manufacturer\": \"Mary Frances\", \"Country of Origin\": \"India\"}",
+    "parent_asin": "B08TX5DC43",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

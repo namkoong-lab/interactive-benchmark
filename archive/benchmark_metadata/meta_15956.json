@@ -1,0 +1,48 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Dolphin Royal Blue Kids T-Shirt",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "100% Cotton",
+        "Design: Dolphin",
+        "Fruit of the loom Kids T-Shirt",
+        "Crew Neck",
+        "195gsm",
+        "Royal Blue with White design."
+    ],
+    "description": [
+        "Royal Blue crew neck kids t-shirt with White design. Fruit of the Loom Kids T-Shirt, 195gsm. The fabric has been preshrunk to ensure reduced shrinkage and includes a taped neck and twin needle stitching for neatness and strength."
+    ],
+    "price": "11.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61ZSlIZLEvL._AC_UL1141_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/411PQT4ZnpL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/411PQT4ZnpL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "TeeTreeDesigns",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Boys",
+        "Clothing"
+    ],
+    "details": "{\"Item model number\": \"DolphinK\", \"Department\": \"boys\", \"Date First Available\": \"October 22, 2013\"}",
+    "parent_asin": "B07C8GKPQB",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

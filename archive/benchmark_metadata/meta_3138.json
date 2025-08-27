@@ -1,0 +1,42 @@
+{
+    "main_category": "Grocery",
+    "title": "Lucia Banana Chips",
+    "average_rating": 3.8,
+    "rating_number": 9,
+    "features": [],
+    "description": [
+        "Lucia Banana Chips gives unique delicious flavor."
+    ],
+    "price": "23.87",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51D2bLvaCqL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51D2bLvaCqL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Lucia",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Snack Foods",
+        "Chips & Crisps"
+    ],
+    "details": "{\"Size\": \"2 Count (Pack of 1)\", \"Brand\": \"Lucia\", \"Package Weight\": \"0.3 Kilograms\", \"Number of Pieces\": \"1\", \"Temperature Condition\": \"Fresh\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"9.37 x 5.91 x 2.36 inches; 10.41 Ounces\", \"UPC\": \"054152301102\", \"Manufacturer\": \"Lucia\"}",
+    "parent_asin": "B07RR9SX4Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

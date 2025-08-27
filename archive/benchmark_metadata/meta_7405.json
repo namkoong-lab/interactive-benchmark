@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Hazardous Materials Air Monitoring and Detection Devices",
+    "average_rating": 3.1,
+    "rating_number": 3,
+    "features": [
+        "Updated to the 2007 Edition of NFPA standard 472, Hazardous Materials Air Monitoring/Detection Devices explains technical information in an easy to understand manner, and provides HazMat teams with a thorough guide to effective air monitoring in emergency response situations. The key component to safely responding to hazardous materials is the use of a variety of detection devices for effective air monitoring. In this book, each type of air monitoring device available for emergency services is described in detail, including operating guidelines and sampling strategies. The most up-to-date information is provided along with discussion of the future trends and technology shaping this business, keeping the user at the forefront of this rapidly changing field. Also, a special section discusses the latest trend in HazMat-the detection and monitoring of hazardous agents used for terrorism."
+    ],
+    "description": [
+        "About the Author",
+        "Chris Hawley is a Deputy Program Manager for Computer Sciences Corporation (CSC) and is responsible for several WMD courses within the DOD/FBI/DHS International Counterproliferation Program. Previous to his international work, Chris retired as a Fire Specialist with the Baltimore County Fire Department and was responsible for the coordination of the Hazardous Materials Response Team and the Advanced Technical Rescue Team along with two team leaders. Chris has designed innovative programs in hazardous materials and anti-terrorism and has assisted in the development of many other training programs provided by the National Fire Academy, Federal Bureau of Investigation, and U.S. Secret Service."
+    ],
+    "price": "25.51",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51R0+RPH0IL._SX389_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Christopher David Hawley (Author)",
+    "categories": [
+        "Books",
+        "Engineering & Transportation",
+        "Engineering"
+    ],
+    "details": "{\"Publisher\": \"Cengage Learning; 2nd edition (December 5, 2006)\", \"Language\": \"English\", \"Paperback\": \"192 pages\", \"ISBN 10\": \"1418038318\", \"ISBN 13\": \"978-1418038311\", \"Item Weight\": \"14.4 ounces\", \"Dimensions\": \"8.5 x 0.5 x 10.75 inches\"}",
+    "parent_asin": "1418038318",
+    "bought_together": null,
+    "subtitle": "2nd Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Chris Hawley', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

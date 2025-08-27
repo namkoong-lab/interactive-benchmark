@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "The Hunchback of Notre Dame",
+    "average_rating": 4.5,
+    "rating_number": 1728,
+    "features": [
+        "The tale of a hunchback who fights to save the life of the gypsy girl, Esmeralda."
+    ],
+    "description": [
+        "About the Author",
+        "Born in 1802, the son of a high officer in Napoleon’s army,",
+        "Victor Hugo",
+        "spent his childhood against a background of military life in Elba, Corsica, Naples, and Madrid. After the Napoleonic defeat, the Hugo family settled in straitened circumstances in Paris, where, at the age of fifteen, Victor Hugo commenced his literary career with a poem submitted to a contest sponsored by the Académie Française. Twenty-four years later, Hugo was elected to the Académie, having helped revolutionize French literature with his poems, plays, and novels. Entering politics, he won a seat in the National Assembly in 1848; but in 1851, he was forced to flee the country because of his opposition to Louis Napoleon. In exile on the Isle of Guernsey, he became a symbol of French resistance to tyranny; upon his return to Paris after the Revolution of 1870, he was greeted as a national hero. He continued to serve in public life and to write with unabated vigor until his death in 1885. He was buried in the Pantheon with every honor the French nation could bestow."
+    ],
+    "price": "5.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/516MVMWDPML._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Victor Hugo (Author),  Walter J. Cobb (Translator),  Andre Maurois (Afterword)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Literary"
+    ],
+    "details": "{\"Publisher\": \"Signet Classics; Complete and unabridged edition (June 1, 1965)\", \"Language\": \"English\", \"Mass Market Paperback\": \"512 pages\", \"ISBN 10\": \"0451522222\", \"ISBN 13\": \"978-0451522221\", \"Item Weight\": \"8.8 ounces\", \"Dimensions\": \"4.28 x 0.86 x 6.84 inches\"}",
+    "parent_asin": "0451522222",
+    "bought_together": null,
+    "subtitle": "Mass Market Paperback – June 1, 1965",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/91vf3Iuj7CL._SY600_.jpg', 'name': 'Victor Hugo', 'about': [\"Victor Marie Hugo (/ˈhjuːɡoʊ/; French: [viktɔʁ maʁi yɡo]; 26 February 1802 – 22 May 1885) was a French poet, novelist, and dramatist of the Romantic movement. He is considered one of the greatest and best-known French writers. In France, Hugo's literary fame comes first from his poetry and then from his novels and his dramatic achievements. Among many volumes of poetry, Les Contemplations and La Légende des siècles stand particularly high in critical esteem. Outside France, his best-known works are the novels Les Misérables, 1862, and Notre-Dame de Paris, 1831 (known in English as The Hunchback of Notre-Dame). He also produced more than 4,000 drawings, which have since been admired for their beauty, and earned widespread respect as a campaigner for social causes such as the abolition of capital punishment.\", \"Though a committed royalist when he was young, Hugo's views changed as the decades passed, and he became a passionate supporter of republicanism; his work touches upon most of the political and social issues and the artistic trends of his time. He is buried in the Panthéon. His legacy has been honoured in many ways, including his portrait being placed on French franc banknotes.\", 'Bio from Wikipedia, the free encyclopedia. Photo by Étienne Carjat [Public domain], via Wikimedia Commons.']}"
+}

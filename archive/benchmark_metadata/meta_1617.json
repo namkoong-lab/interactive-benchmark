@@ -1,0 +1,45 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Arkwin Home Produces Wool Blanket - Green/Blue Plaid - Twin Size",
+    "average_rating": 4.3,
+    "rating_number": 5,
+    "features": [
+        "Wool",
+        "65% Wool, 35% Man-Made Fiber."
+    ],
+    "description": [
+        "This blanket is of excellent quality, and is super soft and warm. It is made of 65% Wool, 35% Man-Made Fiber. The blanket can be embroidered with names or initials. Please contact us for details."
+    ],
+    "price": "52.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41aWwYj2uJL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41aWwYj2uJL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Arkwin Home Produces",
+    "categories": [
+        "Home & Kitchen",
+        "Bedding",
+        "Blankets & Throws",
+        "Bed Blankets"
+    ],
+    "details": "{\"Best Sellers Rank\": {\"Home & Kitchen\": 7404544, \"Bed Blankets\": 14496}, \"Fabric Type\": \"Wool\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B006074T40",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

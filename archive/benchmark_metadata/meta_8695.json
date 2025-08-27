@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Florida at War",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "‘Forts, military camps, and military battles have been part of Florida's history since the earliest times. Through 256 images, relive the days when the state's waterways challenged the defensive capabilities of nations seeking to colonize it, including Spain, France, and England. Visit the many forts and camps that were built to protect and develop the state, including Fort Caroline, Castillo de San Marcos, Fort Myers, and Camp Blanding. See how the major wars of our time, including World War I and II, impacted the Sunshine State. This is an excellent resource for educators and history and military buffs.’"
+    ],
+    "description": [
+        "About the Author",
+        "Donald D. Spencer is an internationally known educator and writer. Many of his Florida history books feature postcards and photographs that he has been collecting for the past forty years."
+    ],
+    "price": "30.89",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/5190Jjx07cL._SX388_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Donald D. Spencer (Author)",
+    "categories": [
+        "Books",
+        "History",
+        "Americas"
+    ],
+    "details": "{\"Publisher\": \"Schiffer Publishing, Ltd. (April 28, 2011)\", \"Language\": \"English\", \"Hardcover\": \"192 pages\", \"ISBN 10\": \"0764337149\", \"ISBN 13\": \"978-0764337147\", \"Item Weight\": \"2.75 pounds\", \"Dimensions\": \"8.6 x 0.9 x 11.1 inches\"}",
+    "parent_asin": "0764337149",
+    "bought_together": null,
+    "subtitle": "Hardcover – April 28, 2011",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Donald D. Spencer', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

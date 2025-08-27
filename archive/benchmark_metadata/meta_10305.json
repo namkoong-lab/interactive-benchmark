@@ -1,0 +1,41 @@
+{
+    "main_category": "Digital Music",
+    "title": "The Delfonics - Live In Concert",
+    "average_rating": 2.5,
+    "rating_number": 6,
+    "features": [],
+    "description": [
+        "THE DELFONICS LIVE IN CONCERT. NEW SEALED CD. CLASSIC WORLD."
+    ],
+    "price": "9.98",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51StTowUbNL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51StTowUbNL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "The Delfonics   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "R&B",
+        "Soul"
+    ],
+    "details": "{\"Package Dimensions\": \"5.55 x 4.97 x 0.54 inches; 2.83 Ounces\", \"Manufacturer\": \"Classic World\", \"Original Release Date\": \"2000\", \"Date First Available\": \"January 19, 2007\", \"Label\": \"Classic World\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000FJH1E4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

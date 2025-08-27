@@ -1,0 +1,46 @@
+{
+    "main_category": "All Beauty",
+    "title": "Jordana Eyeliner Pencil (Brown Rage)",
+    "average_rating": 3.3,
+    "rating_number": 12,
+    "features": [],
+    "description": [
+        "brown rage eyeliner"
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/615xCiRbASL._SL1280_.jpg",
+            "https://m.media-amazon.com/images/I/61ZnhTnGc9L._SL1280_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/317EtKyHUdL.jpg",
+            "https://m.media-amazon.com/images/I/31qBUSCgLWL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/317EtKyHUdL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/31qBUSCgLWL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jordana",
+    "categories": [
+        "Beauty & Personal Care",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+    ],
+    "details": "{\"Brand\": \"Jordana\", \"Item Form\": \"Pencil\", \"Number of Items\": \"1\", \"Unit Count\": \"1.00 Count\", \"Skin Type\": \"All\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.2 x 0.2 x 0.2 inches; 0.32 Ounces\", \"UPC\": \"763109524258 041065561044\", \"Manufacturer\": \"Jordana Cosmetics\"}",
+    "parent_asin": "B007SVVS1Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

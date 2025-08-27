@@ -1,0 +1,60 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Red Script",
+    "average_rating": 4.5,
+    "rating_number": 78,
+    "features": [
+        "Cotton,Polyester,Spandex",
+        "Fitted closure",
+        "Hand Wash Only",
+        "63% Polyester / 34% Cotton / 3% Spandex",
+        "ITEM# C-652-BLK-RED-C",
+        "COLOR: BLACK",
+        "S/M (6 3/4\" - 7 1/4\") L/XL (7 1/8\" - 7 5/8\") XXL (7 3/8” – 8”)",
+        "FlexFit 6 panel mid-profile cap. This cap has a curved bill"
+    ],
+    "description": [
+        "FlexFit 6 panel mid-profile cap. Front embroidery 63% Polyester / 34% Cotton / 3% Spandex COLOR: BLACK"
+    ],
+    "price": "29.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61Va2QeAR2L._AC_UL1034_.jpg",
+            "https://m.media-amazon.com/images/I/51CdURQHwQL._AC_UL1035_.jpg",
+            "https://m.media-amazon.com/images/I/61d57mLGNeL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41kYXrPj5fL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/313i4clNN3L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41jILw9t-TL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41kYXrPj5fL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/313i4clNN3L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41jILw9t-TL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "RED DEVIL CLOTHING",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Accessories",
+        "Hats & Caps",
+        "Baseball Caps"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"February 19, 2019\"}",
+    "parent_asin": "B07P459CBG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

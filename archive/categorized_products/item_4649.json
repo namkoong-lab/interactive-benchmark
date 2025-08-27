@@ -1,0 +1,67 @@
+{
+  "item_id": 4649,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "2XU Women's Comp Tri Singlet",
+    "average_rating": 4.2,
+    "rating_number": 9,
+    "features": [
+      "Elastane",
+      "Pull On closure",
+      "Machine Wash",
+      "True mechanical flatlock stitching allows the garment to flow with your movement while reducing chafe"
+    ],
+    "description": [
+      "A versatile, form flattering Tri Singlet to compliment the 2XU Comp Tri Short. SBR SKIN X fabric ensures a quick drying, breathable result out of the water, while flatlock seams, a streamline cut and LYCRA fiber enhance comfort. SENSOR MESH X provides ventilation for all race conditions. SBR SKIN X is engineered from powerful 70D elastane yarn with heightened compressive properties to support the wearer for greater endurance and higher power output. Built-in shelf bra for versatility and performance."
+    ],
+    "price": "85.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81bij7pxKzL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81sajC4Pp4L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91fF2Vl+vBL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/416HWHrrFnL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41pTv6g5RuL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Rb9A2iz0L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/416HWHrrFnL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41pTv6g5RuL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41Rb9A2iz0L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "2XU",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Active",
+      "Active Shirts & Tees"
+    ],
+    "details": "{\"Package Dimensions\": \"8.9 x 5.9 x 1.5 inches; 6.4 Ounces\", \"Item model number\": \"WT1770a\", \"Department\": \"womens\", \"Date First Available\": \"November 2, 2011\", \"Manufacturer\": \"2XU Pty Ltd\", \"Country of Origin\": \"China\"}",
+    "parent_asin": "B0071IORYE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops",
+      "Women's Competition Tops"
+    ],
+    "confidence": 0.95
+  }
+}

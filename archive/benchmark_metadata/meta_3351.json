@@ -1,0 +1,44 @@
+{
+    "main_category": "Grocery",
+    "title": "Taste of Italy Peppeoni Stromboli, 6 Oz (Frozen)",
+    "average_rating": 4.1,
+    "rating_number": 626,
+    "features": [
+        "Thaw completely before following cooking instructions. Cook within 7 days of thawing",
+        "Clean Label"
+    ],
+    "description": [
+        "Fresh dough wrapped around pepperoni and mozzarella cheese then baked"
+    ],
+    "price": "3.79",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81NZeQzhv-L._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/419IbQ-tTfL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/419IbQ-tTfL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Taste Of Italy",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Deli & Prepared Foods",
+        "Appetizers"
+    ],
+    "details": "{\"Product Dimensions\": \"15 x 13.75 x 4 inches; 6.08 Ounces\", \"UPC\": \"651473167013\", \"Manufacturer\": \"Taste of Italy\", \"Country of Origin\": \"USA\"}",
+    "parent_asin": "B07LGBYRLK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,44 @@
+{
+    "main_category": "Amazon Home",
+    "title": "PB PRO BLOOM 1GAL",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "Sold on Amazon"
+    ],
+    "description": [
+        "PURE BLEND Pro is a hydro-organic vegetative, fruit, and flower formula. It features a special blend of organic and natural sources in 100% soluble form from the land and sea. PURE BLEND Pro produces vigorous lush green vegetation and superior fruits, flowers, and vegetables. Implementing PURE BLEND Pro into your indoor garden is a healthy, environmentally-friendly alternative to more chemically-based brands."
+    ],
+    "price": "54.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61rb7cB79yL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41nBQppCkDL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41nBQppCkDL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Botanicare",
+    "categories": [
+        "Patio, Lawn & Garden",
+        "Gardening & Lawn Care",
+        "Soils, Mulches & Planting Media",
+        "Fertilizers & Plant Food"
+    ],
+    "details": "{\"Product Dimensions\": \"6.1 x 6 x 10.2 inches\", \"Item Weight\": \"2.25 Pounds\", \"Manufacturer\": \"Botanicare\", \"Best Sellers Rank\": {\"Patio, Lawn & Garden\": 1101569, \"Garden Fertilizers\": 12246}, \"Is Discontinued By Manufacturer\": \"No\", \"Brand\": \"Botanicare\", \"Liquid Volume\": \"1 Gallons\", \"Specific Uses For Product\": \"Organic\"}",
+    "parent_asin": "B008UCAJ6K",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

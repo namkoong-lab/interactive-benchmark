@@ -1,0 +1,57 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "NIKE Boys' Dry Avalanche Basketball Shorts",
+    "average_rating": 4.4,
+    "rating_number": 23,
+    "features": [
+        "100% Polyester",
+        "Elastic closure",
+        "NIKE Dry fabric helps you stay dry, comfortable and focused",
+        "Mesh fabric provides breathability; front pockets offer convenient storage",
+        "Elastic waistband with internal drawcords provides a secure, adjustable fit",
+        "Updated paneled design allows natural range of motion"
+    ],
+    "description": [
+        "Lightweight comfort on the court. Step up your game in the NIKE Boys' Dry Avalanche Basketball Shorts. A paneled design allows ease of movement for your energetic lifestyle, while 3 types of mesh fabric provide breathability when the action heats up."
+    ],
+    "price": "29.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81wcw9oyiqL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81HoDesuqOL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81ODDmZ+rkL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Q20ES+OFL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41p6pf-RnSL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41AEPFC5PtL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41Q20ES+OFL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41p6pf-RnSL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41AEPFC5PtL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nike",
+    "categories": [
+        "Sports & Outdoors",
+        "Fan Shop",
+        "Clothing",
+        "Shorts"
+    ],
+    "details": "{\"Item model number\": \"939539\", \"Department\": \"boys\", \"Date First Available\": \"June 6, 2018\", \"Manufacturer\": \"Nike Apparel (Sporting Goods)\"}",
+    "parent_asin": "B07DKWZPMG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

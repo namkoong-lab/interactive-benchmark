@@ -1,0 +1,75 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "adidas 18.3 Firm Ground",
+    "average_rating": 3.9,
+    "rating_number": 97,
+    "features": [
+        "100% Synthetic",
+        "Imported",
+        "Rubber sole",
+        "Shaft measures approximately low-top from arch",
+        "adidas shoes",
+        "Imported"
+    ],
+    "description": [
+        "adidas"
+    ],
+    "price": "89.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71VZxX85HUL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71GXsZcPGzL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71s+5X8OTYL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Tc15IgqUL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71rr1zBw-pL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81PwAlF0LAL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81ahPlEvFWL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41d+xDFskwL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51fTVbypDYL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41qtJ7QEuNL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31yKTsk21tL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41fsg3X2EEL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41saZxgmg8L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41lT7O9qgwL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41d+xDFskwL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51fTVbypDYL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41qtJ7QEuNL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31yKTsk21tL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41fsg3X2EEL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41saZxgmg8L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41lT7O9qgwL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "adidas",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Athletic",
+        "Team Sports",
+        "Soccer"
+    ],
+    "details": "{\"Item model number\": \"DB2511\", \"Department\": \"mens\", \"Date First Available\": \"June 14, 2018\", \"Manufacturer\": \"adidas\"}",
+    "parent_asin": "B0C8124MRV",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

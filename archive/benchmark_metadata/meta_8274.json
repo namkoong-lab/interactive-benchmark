@@ -1,0 +1,50 @@
+{
+    "main_category": "Books",
+    "title": "Head First Android Development: A Brain-Friendly Guide",
+    "average_rating": 4.2,
+    "rating_number": 206,
+    "features": [
+        "What will you learn from this book?",
+        "If you have an idea for a killer Android app, this fully revised and updated edition will help you build your first working application in a jiffy. You’ll learn hands-on how to structure your app, design flexible and interactive interfaces, run services in the background, make your app work on various smartphones and tablets, and much more. It’s like having an experienced Android developer sitting right next to you! All you need to get started is some Java know-how.",
+        "Why does this book look so different?",
+        "Based on the latest research in cognitive science and learning theory,",
+        "Head First Android Development",
+        "uses a visually rich format to engage your mind, rather than a text-heavy approach that puts you to sleep. Why waste your time struggling with new concepts? This multi-sensory learning experience is designed for the way your brain really works."
+    ],
+    "description": [
+        "About the Author",
+        "Dawn Griffiths started life as a mathematician at a top UK university where she was awarded a First-Class Honours degree in Mathematics. She went on to pursue a career in software development, and has over 15 years experience working in the IT industry. Dawn has written several books, including Head First C, Head First Statistics and Head First 2D Geometry.",
+        "David Griffiths began programming at age 12, after being inspired by a documentary on the work of Seymour Papert. At age 15 he wrote an implementation of Papert's computer language LOGO. After studying Pure Mathematics at University, he began writing code for computers and magazine articles for humans and he is currently an agile coach with Exoftware in the UK, helping people to create simpler, more valuable software. He spends his free time traveling and time with his lovely wife, Dawn."
+    ],
+    "price": "20.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51JzIa4VpML._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Dawn Griffiths (Author),  David Griffiths (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Networking & Cloud Computing"
+    ],
+    "details": "{\"Publisher\": \"O'Reilly Media; 2nd edition (August 19, 2017)\", \"Language\": \"English\", \"Paperback\": \"928 pages\", \"ISBN 10\": \"9781491974056\", \"ISBN 13\": \"978-1491974056\", \"Item Weight\": \"1.47 pounds\", \"Dimensions\": \"8 x 1.83 x 9.25 inches\"}",
+    "parent_asin": "1491974052",
+    "bought_together": null,
+    "subtitle": "2nd Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Dawn Griffiths', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

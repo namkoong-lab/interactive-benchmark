@@ -1,0 +1,69 @@
+{
+    "main_category": "Grocery",
+    "title": "Yankee Traders Flax Seed, Ground, 2 Pound (Pack of 5)",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "2 pound of all natural flaxseed meal",
+        "Milled to preserve the natural oils and nutrients",
+        "Flax meal has a nutty taste and aid with digestive health",
+        "High in fiber and omega-3 fatty acids,",
+        "Use for baked goods, cereals and smoothies for an extra dose of nutrients"
+    ],
+    "description": [
+        "Flax seed meal is freshly milled to preserve the natural oils and nutrients. Ground flaxseeds have a nutty taste and aid with digestive health. High in fiber and omega-3 fatty acids, ground flaxseed can be added to your favorite baked goods, cereals and smoothies for an extra dose of nutrients."
+    ],
+    "price": "49.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91x0yOQ0tPL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81AhRjN6E8L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81d2YUUp+AL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51GIEJy1nuL._SL1050_.jpg",
+            "https://m.media-amazon.com/images/I/81YQJ81ZQXL._SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51L3e0hIyIL.jpg",
+            "https://m.media-amazon.com/images/I/51HSITWooVL.jpg",
+            "https://m.media-amazon.com/images/I/513q+qGm0HL.jpg",
+            "https://m.media-amazon.com/images/I/31JVGIV424L.jpg",
+            "https://m.media-amazon.com/images/I/51DOQh741zL.jpg",
+            "https://m.media-amazon.com/images/I/415ENSu8byL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51L3e0hIyIL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51HSITWooVL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/513q+qGm0HL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31JVGIV424L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51DOQh741zL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/415ENSu8byL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK",
+            "PT01",
+            "PT12",
+            "FACT",
+            "INGR"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "YANKEETRADERS",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Herbs, Spices & Seasonings",
+        "Single Herbs & Spices",
+        "Flax Seed"
+    ],
+    "details": "{\"Package Dimensions\": \"12.2 x 8.3 x 8.2 inches; 2 Pounds\", \"UPC\": \"052295800209\", \"Manufacturer\": \"Yankee Traders\", \"Domestic Shipping\": \"Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.\", \"International Shipping\": \"This item is not eligible for international shipping.  Learn More\"}",
+    "parent_asin": "B00E86XYCI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

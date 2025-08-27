@@ -1,0 +1,82 @@
+{
+  "item_id": 1063,
+  "metadata": {
+    "main_category": "Grocery",
+    "title": "Frontier Co-op Whole Elder Flowers 1lb",
+    "average_rating": 4.7,
+    "rating_number": 200,
+    "features": [
+      "Botanical Name: Sambucus nigra L.",
+      "1 pound bulk bag (16 ounces)"
+    ],
+    "description": [
+      "Elder is a tall shrub, native throughout Europe, Asia and northern Africa. European elder is naturalized in North America and grows in moist, partly shady stream banks and at edges of woods.",
+      "Directions:",
+      "To use as a tea, pour 1 cup boiling water over 2 tsp. of herb, cover and steep 3-5 minutes."
+    ],
+    "price": "23.59",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/517dQzugZ3L.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/517dQzugZ3L._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [
+        "High quality organic dried elderberries. Good stuff ",
+        "Our Point of View on Frontier Co-op Dried Elderberries",
+        "Wild Bliss Burdock Root Tea",
+        "Organic Dried Elderberries",
+        "Best elderberries for making syrup!",
+        "Great burdock tea ",
+        "Starwest Botanicals Elderberry Tea"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/077a4c0c15dd487eabddcc2be08a123a?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/096eaf3005ca49ec80578b5a7eec36a6?ref=dp_vse_rvc_1",
+        "https://www.amazon.com/vdp/02b7c7b363564bf89c2f46a289243dd5?ref=dp_vse_rvc_2",
+        "https://www.amazon.com/vdp/0b1fa63868fe474fb35190e24f56ca1e?ref=dp_vse_rvc_3",
+        "https://www.amazon.com/vdp/00b07bc0472c4628873cedb566245ac6?ref=dp_vse_rvc_4",
+        "https://www.amazon.com/vdp/0d023c9eaee84a77a5171eda8e5bcd38?ref=dp_vse_rvc_5",
+        "https://www.amazon.com/vdp/0e1030ff6b714caca2b5d772b1bf41a0?ref=dp_vse_rvc_6"
+      ],
+      "user_id": [
+        "/shop/wiseflys",
+        "/shop/influencer-20a38664",
+        "",
+        "",
+        "/shop/karenmorelandphotography",
+        "/shop/lashaunbiggs",
+        ""
+      ]
+    },
+    "store": "Frontier Co-op",
+    "categories": [
+      "Health & Household",
+      "Vitamins, Minerals & Supplements",
+      "Herbal Supplements",
+      "Fruit Extracts",
+      "Elderberry"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"13.19 x 11.14 x 2.64 inches; 1 Pounds\", \"UPC\": \"089836005588 767674601574 772195447921\", \"Manufacturer\": \"Frontier Co-op\"}",
+    "parent_asin": "B000UVUHY8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Grocery",
+      "Herbs & Spices"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,60 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Gildan mens G500",
+    "average_rating": 4.5,
+    "rating_number": 25,
+    "features": [
+        "Poly,Cotton",
+        "Pull On closure",
+        "Machine Wash",
+        "5.3-ounce, 100% cotton",
+        "99/1 cotton/poly (Ash)",
+        "90/10 cotton/poly (Sport Grey, Antique Cherry Red, Antique Irish Green, Antique Jade Dome, Antique Orange, Antique Sapphire)",
+        "50/50 cotton/poly (Blackberry, Dark Heather, Heather Military Green, Heather Red, Heathered Sapphire, Lilac, Neon Blue, Neon Green, Russet, Sunset, Tweed, Safety Green, Safety Orange, Safety Pink)",
+        "Seamless double-needle 7/8' collar"
+    ],
+    "description": [
+        "5.3-ounce 100% cotton 99/1 cotton/poly (Ash) 90/10 cotton/poly (Sport Grey Antique Cherry Red Antique Irish Green Antique Jade Dome Antique Orange Antique Sapphire) 50/50 cotton/poly (Blackberry Dark Heather Heather Military Green Heather Red Heathered Sapphire Lilac Neon Blue Neon Green Russet Sunset Tweed Safety Green Safety Orange Safety Pink) Seamless double-needle 7/8 collarDouble-needle sleeves and hemTaped neck and shouldersDue to the nature of 50/50 cotton/poly neon fabrics special care must be taken throughout the printing process."
+    ],
+    "price": "9.01",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51IbwXlm5kL._AC_UL1333_.jpg",
+            "https://m.media-amazon.com/images/I/51lf5SUvHCL._AC_UL1333_.jpg",
+            "https://m.media-amazon.com/images/I/51k0oKhvcCL._AC_UL1333_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31E0OF91BqL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31MRGMRT4fL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31SmdmaNvbL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31E0OF91BqL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31MRGMRT4fL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31SmdmaNvbL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Gildan",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Shirts",
+        "T-Shirts"
+    ],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"September 5, 2021\"}",
+    "parent_asin": "B09FJ1ZWK2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

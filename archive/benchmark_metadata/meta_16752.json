@@ -1,0 +1,51 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Vans Authentic Casual Shoes",
+    "average_rating": 3.5,
+    "rating_number": 9,
+    "features": [
+        "100% Synthetic",
+        "Rubber sole",
+        "Vans",
+        "Unisex Shoes",
+        "Casual Shoes",
+        "Navy",
+        "Synthetic"
+    ],
+    "description": [
+        "Vans Authentic Casual Shoes"
+    ],
+    "price": "37.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71IJb0IlY2L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41zkJvL5tnL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41zkJvL5tnL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Vans",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Shoes",
+        "Athletic",
+        "Skateboarding"
+    ],
+    "details": "{\"Product Dimensions\": \"11 x 4 x 7 inches; 3 Pounds\", \"Department\": \"Womens\", \"Date First Available\": \"June 12, 2019\"}",
+    "parent_asin": "B0BMJT9M9L",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

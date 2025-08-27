@@ -1,0 +1,43 @@
+{
+    "main_category": null,
+    "title": "Clarence King : A Biography (Revised and Enlarged Edition)",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "Used Book in Good Condition"
+    ],
+    "description": [
+        "Book by Wilkins, Thurman"
+    ],
+    "price": "13.45",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91i7nGq7-AL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91i7nGq7-AL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51l7uADOBWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51l7uADOBWL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51l7uADOBWL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51l7uADOBWL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Brand",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"8.8 x 5.8 x 1.5 inches\", \"Item Weight\": \"1.78 pounds\", \"Manufacturer\": \"University of New Mexico Press\", \"Language\": \"English\", \"Date First Available\": \"October 20, 2006\"}",
+    "parent_asin": "0826310850",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

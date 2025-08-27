@@ -1,0 +1,45 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Tulpan",
+    "average_rating": 3.6,
+    "rating_number": 51,
+    "features": [],
+    "description": [
+        "Product Description",
+        "Documentarian Sergey Dvortsevoy's first narrative feature is a gorgeous melange of tender comedy, ethnographic drama, and wildlife extravaganza.",
+        "Review",
+        "\"This joyous, one-of-a-kind movie is a must for anyone who doubts that the cinema has surprises still left in store.\" --Scott Foundas,",
+        "L.A. Weekly"
+    ],
+    "price": "14.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51WGAHzdIuL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51WGAHzdIuL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Askhat Kuchinchirekov  (Actor),     Samal Yeslyamova  (Actor),     Sergey Dvortsevoy  (Director)    &                   0                  more   Rated:    NR    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Drama"
+    ],
+    "details": "{\"Aspect Ratio\": \"1.85:1\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"NR (Not Rated)\", \"Product Dimensions\": \"0.7 x 7.5 x 5.4 inches; 2.72 Ounces\", \"Director\": \"Sergey Dvortsevoy\", \"Media Format\": \"Multiple Formats, Anamorphic, Color, Dubbed, NTSC, Subtitled, Widescreen\", \"Run time\": \"1 hour and 40 minutes\", \"Release date\": \"September 22, 2009\", \"Actors\": \"Askhat Kuchinchirekov, Samal Yeslyamova, Ondasyn Besikbasov\", \"Dubbed\": \"English\", \"Language\": \"Unqualified\", \"Studio\": \"Zeitgeist Films\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B002CTJVZ2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

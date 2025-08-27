@@ -1,0 +1,54 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Top Gun Mens Pajamas",
+    "average_rating": 4.2,
+    "rating_number": 13,
+    "features": [
+        "Pull On closure",
+        "Mens Top Gun PJs",
+        "Only the elite fighter pilots will be wearing this awesome pj set",
+        "The pyjama top features the famous Top Gun logo with 'Maverick' written above",
+        "This pj set is completed by red long pyjama bottoms with an elasticated waist for extra comfort",
+        "Officially licensed Top Gun merchandise"
+    ],
+    "description": [
+        "Mens Top Gun pajamas. Only the elite fighter pilots will be wearing this awesome Top Gun mens pyjama set. The pyjama top features the famous Top Gun logo with 'Maverick' written above. This pj set is completed by red long pyjama bottoms with an elasticated waist for extra comfort. You'll be flying high in these awesome jammies!"
+    ],
+    "price": "15.55",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71+oJsegxmS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/916l+FnWLMS._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31S7iLVC5uS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/512Wm88EIaS._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31S7iLVC5uS._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/512Wm88EIaS._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Top Gun",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Sleep & Lounge",
+        "Sleep Sets"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"May 7, 2021\"}",
+    "parent_asin": "B094D72QCZ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

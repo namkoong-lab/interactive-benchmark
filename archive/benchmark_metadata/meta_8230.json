@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "Deck & Patio Design Guide (Better Homes and Gardens Home)",
+    "average_rating": 3.3,
+    "rating_number": 4,
+    "features": [
+        "Whether it's poolside fun or outdoor entertaining,",
+        "Deck and Patio Design Guide",
+        "by Meredith Books, can help you create an outdoor venue that works for your lifestyle. Including over 200 photos filled with great ideas, this book will provide information on material choices, stylish furnishings and more. Plus, you'll even learn some tips on the process of hiring contractors, gathering bids and developing a budget."
+    ],
+    "description": [
+        "About the Author",
+        "The iconic BETTER HOMES AND GARDENS brand is one of America's most trusted sources for information on cooking, gardening, home improvement, home design, decorating, and crafting. Today, the brand encompasses books, magazines, and digital media."
+    ],
+    "price": "6.23",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61TwFXPhovL._SY498_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Better Homes and Gardens (Author)",
+    "categories": [
+        "Books",
+        "Crafts, Hobbies & Home",
+        "Home Improvement & Design"
+    ],
+    "details": "{\"Publisher\": \"Better Homes and Gardens; 1st edition (February 5, 2008)\", \"Language\": \"English\", \"Paperback\": \"216 pages\", \"ISBN 10\": \"0696236079\", \"ISBN 13\": \"978-0696236075\", \"Item Weight\": \"1.66 pounds\", \"Dimensions\": \"9.13 x 0.56 x 9.75 inches\"}",
+    "parent_asin": "0696236079",
+    "bought_together": null,
+    "subtitle": "Paperback – February 5, 2008",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Paula Marshall', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

@@ -1,0 +1,51 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Port & Company Core Cotton Sleeveless Tee 3XL Royal",
+    "average_rating": 4.8,
+    "rating_number": 12,
+    "features": [
+        "100% Cotton",
+        "Made in the USA or Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "5.4-ounce, 100% cotton",
+        "90/10 cotton/poly (Athletic Heather)",
+        "50/50 cotton/poly (Dark Heather Grey)"
+    ],
+    "description": [
+        "The sleeveless version of our popular Core Cotton Tee."
+    ],
+    "price": "10.87",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71b4bIULdEL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/4108H8DhmCL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/4108H8DhmCL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "PORT AND COMPANY",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Shirts",
+        "Tank Tops"
+    ],
+    "details": "{\"Product Dimensions\": \"5 x 5 x 5 inches; 7.68 Ounces\", \"Item model number\": \"PC54SL\", \"Department\": \"Mens\", \"Date First Available\": \"June 19, 2018\", \"Manufacturer\": \"Port & Company\"}",
+    "parent_asin": "B07GVKNS5K",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

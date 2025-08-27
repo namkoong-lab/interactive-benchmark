@@ -1,0 +1,69 @@
+{
+  "item_id": 3302,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Wales Welsh Dragon T-Shirt",
+    "average_rating": 4.5,
+    "rating_number": 20,
+    "features": [
+      "100% Cotton",
+      "Pull On closure",
+      "Machine Wash",
+      "100% Premium Soft Cotton",
+      "Printed with pride in Minnesota",
+      "5.3 oz., double-needle-cover seamed neck",
+      "Preshrunk",
+      "Makes a great personalized gift"
+    ],
+    "description": [
+      "Comfortable modern fit. Premium quality soft cotton - you will love how this T-shirt feels! Made from super soft, preshrunk cotton that fit true-to-size. T-shirts make great personalized gifts."
+    ],
+    "price": "14.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61A556ZplfL._AC_UL1392_.jpg",
+        "https://m.media-amazon.com/images/I/61rpeEpWrSL._AC_UL1001_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41T8yPB4HoL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41oNqiN-qfL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41T8yPB4HoL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41oNqiN-qfL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Gbond Apparel",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Men",
+      "Shirts",
+      "T-Shirts"
+    ],
+    "details": "{\"Item model number\": \"[M361]\", \"Department\": \"mens\", \"Date First Available\": \"October 17, 2014\"}",
+    "parent_asin": "B00OM9CRVA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's T-Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

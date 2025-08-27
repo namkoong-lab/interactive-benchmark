@@ -1,0 +1,40 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Exotica VHS",
+    "average_rating": 4.2,
+    "rating_number": 188,
+    "features": [],
+    "description": [
+        "Exotica [VHS] Actors: Bruce Greenwood, Elias Koteas, Don McKellar, David Hemblen, Calvin Green Directors: Atom Egoyan Writers: Atom Egoyan Producers: Atom Egoyan, Camelia Frieberg, David J. Webb, Robert Lantos"
+    ],
+    "price": "6.51",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51XVQE7AKVL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51XVQE7AKVL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rated:    R    Format: VHS Tape",
+    "categories": [
+        "Movies & TV",
+        "Art House & International"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.32 x 4.19 x 1.12 inches; 6.13 Ounces\", \"Release date\": \"January 21, 1997\", \"Date First Available\": \"February 9, 2007\", \"Actors\": \"Greenwood, Kirshner, Mckellar\", \"Studio\": \"Walt Disney Video\"}",
+    "parent_asin": "6303637620",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,57 @@
+{
+  "item_id": 5118,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Perry Ellis Men's Slim Fit Wrinkle Free Dress Shirt",
+    "average_rating": 4.3,
+    "rating_number": 217,
+    "features": [
+      "Button closure",
+      "Machine Wash"
+    ],
+    "description": [
+      "Feel crisp and collected in this Perry Ellis dress shirt. Crafted with wrinkle free finish, all-cotton mechanical stretch, and custom comfort collar technology that allows up to an extra 1/2 inch"
+    ],
+    "price": "39.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/816q8C3xoDL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41Q2FCBS0uL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41Q2FCBS0uL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Perry Ellis",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Shirts",
+      "Dress Shirts"
+    ],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"October 27, 2018\", \"Manufacturer\": \"Perry Ellis\"}",
+    "parent_asin": "B07P3YRX4S",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Dress Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

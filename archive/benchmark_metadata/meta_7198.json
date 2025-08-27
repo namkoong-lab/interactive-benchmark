@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Hank's New Truck",
+    "average_rating": 4.8,
+    "rating_number": 10,
+    "features": [
+        "Hank the Snake is taking his new toy truck out for a ride. What could possibly go wrong? As it turns out, almost everything. Using short rhymes and colorful illustrations, Hank’s New Truck chronicles a day in the life of an optimistic young snake who shows the importance of holding onto hope, even when things seem most hopeless. To help turn hope into survival, the author is donating all of the proceeds from book sales to Seattle Children's Hospital. Those donations will then be matched, dollar-for-dollar, up to $15,000. To learn more about the book and see some sample pages, please visit http://www.hankthesnake.com/."
+    ],
+    "description": [
+        "About the Author",
+        "Tracy K. Ard lives in Sammamish, Washington, with his beautiful wife, four children, one dog, a hamster, an algae eater, three GloFish®, and a 13-foot Burmese python. To escape the perpetual pandemonium, some of them prefer to stay in cages."
+    ],
+    "price": "6.17",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41he34fsAML._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Tracy K. Ard (Author)",
+    "categories": [
+        "Books",
+        "Large Print",
+        "Children's Books"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform; Large Print edition (February 14, 2016)\", \"Language\": \"English\", \"Paperback\": \"34 pages\", \"ISBN 10\": \"1523686197\", \"ISBN 13\": \"978-1523686193\", \"Reading age\": \"7 - 9 years\", \"Grade level\": \"2 - 3\", \"Item Weight\": \"2.72 ounces\", \"Dimensions\": \"6 x 0.08 x 9 inches\"}",
+    "parent_asin": "1523686197",
+    "bought_together": null,
+    "subtitle": "Paperback – Large Print, February 14, 2016",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Tracy K. Ard', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

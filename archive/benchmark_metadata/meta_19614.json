@@ -1,0 +1,44 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Top Cat - II Film",
+    "average_rating": 3.8,
+    "rating_number": 10,
+    "features": [],
+    "description": [
+        "top cat e' un gatto capobanda dei gatti randagi del vicolo hoagy's alley, nel quartiere di manhattan e abita all'interno di un bidone della spazzatura. insieme ai suoi amici cerca sempre di racimolare qualche soldino, con qualche espediente a volte ai limiti della legalita', che viene rappresentata dal poliziotto charlie dibble, il quale vorrebbe sbarazzarsi di quella banda di gatti combinaguai, ma che nella maggiorparte delle situazioni diventa vittima dei piani degli astuti gatti."
+    ],
+    "price": "7.26",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71zIMrefC7L._SL1024_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51DniBKqJBL.jpg",
+            "https://m.media-amazon.com/images/I/61s5AlPM6iL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51DniBKqJBL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/61s5AlPM6iL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "animazione  (Actor)    Rated:    G    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Hanna-Barbera"
+    ],
+    "details": "{\"Format\": \"PAL\", \"Contributor\": \"Animazione\", \"Language\": \"Italian (Dolby Digital 5.1), English (Dolby Digital 5.1)\", \"Studio\": \"Eagle\", \"Aspect Ratio\": \"1.78:1\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"G (General Audience)\", \"Package Dimensions\": \"7.1 x 5.42 x 0.58 inches; 3.53 Ounces\", \"Media Format\": \"PAL\", \"Actors\": \"animazione\", \"Subtitles\": \"Italian\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00A73IV1U",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

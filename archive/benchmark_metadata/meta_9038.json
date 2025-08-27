@@ -1,0 +1,52 @@
+{
+    "main_category": "Books",
+    "title": "Kitchen Quickies: Great, Satisfying Meals in Minutes",
+    "average_rating": 5.0,
+    "rating_number": 5,
+    "features": [
+        "The authors of",
+        "Kitchen Quickies",
+        "know that you don’t have time for hours of grocery shopping followed by hours of food preparation. Their solution? For starters, virtually all of their over 170 kitchen-tested recipes call for a maximum of only five main ingredients, minimizing time in the supermarket. Then most of the recipes take less than thirty minutes to prepare from start to finish! And these delicious dishes are actually good for you―low in fat and high in nutrients.",
+        "The book begins by guiding you through the basics of quick-and-easy cooking. Then ten chapters offer imaginative dishes, including sensational soups, sandwiches, salads, and pasta dishes; savory seafood, poultry, beef, and pork fare; meatless entrées; vegetable and grain side dishes; and luscious desserts. Next time you think there’s no time to cook a great meal, let",
+        "Kitchen Quickies",
+        "prove you wrong. You may even have time for some “quickies” of your own."
+    ],
+    "description": [
+        "Review",
+        "\"My books are water; those of great men are wine--everybody drinks water.\"",
+        "About the Author",
+        "Marie Caratozzolo graduated from John Carroll University in Cleveland, Ohio, where she earned her BA in English, and a secondary teaching certificate. A wife and mother of two, Marie has been a book editor for over twenty years.",
+        "Joanne Abrams earned her BA in English from the CW Post Campus of Long Island University. As an editor for over thirty years, Joanne has become proficient at preparing meals on the run."
+    ],
+    "price": "15.15",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51IHwYGPDXL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Marie Caratozzolo (Author),  Joanne Abrams (Author)",
+    "categories": [
+        "Books",
+        "Cookbooks, Food & Wine",
+        "Quick & Easy"
+    ],
+    "details": "{\"Publisher\": \"Square One; Illustrated edition (September 1, 2002)\", \"Language\": \"English\", \"Paperback\": \"240 pages\", \"ISBN 10\": \"0757000851\", \"ISBN 13\": \"978-0757000850\", \"Item Weight\": \"0.035 ounces\", \"Dimensions\": \"7.52 x 0.63 x 9.25 inches\"}",
+    "parent_asin": "0757000851",
+    "bought_together": null,
+    "subtitle": "Paperback – Illustrated, September 1, 2002",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Marie Caratozzolo', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

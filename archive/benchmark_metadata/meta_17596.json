@@ -1,0 +1,64 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Kids Colors (Fireworks)",
+    "average_rating": 4.5,
+    "rating_number": 4,
+    "features": [
+        "Interactive fireworks experience when tapping, sparks when swiping",
+        "43 colors including lesser known ones",
+        "Professionally recorded color names",
+        "Toddler proof design with rotation to prevent repeating the same sound over and over again"
+    ],
+    "description": [
+        "Kids Colors uses the magic of fireworks and sparks to teach your toddler or preschooler colors. Not only the basic ones, but many other lesser known colors, like Aquamarine, Chartreuse or Salmon. Choose one of 43 colors, listen to its name and enjoy the most realistic looking and sounding fireworks out there.This game is also toddler friendly, with multitouch and slowly rotating color picker orbs to ensure repeated tapping doesn't just repeat the same sound over and over again. If you've tried any other toddler games, you'll definitely appreciate this!The colors include: Aqua, Blue, Brown, Crimson, Cyan, Fuchsia, Gold, Green, Lime, Maroon, Orange, Pink, Purple, Red, Sienna, White, Yellow."
+    ],
+    "price": "0.99",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/91n-UOMzowL.png",
+            "https://m.media-amazon.com/images/I/912TDcQAElL.png",
+            "https://m.media-amazon.com/images/I/914TiFTcq0L.png",
+            "https://m.media-amazon.com/images/I/91urkSbIakL.png",
+            "https://m.media-amazon.com/images/I/91ctB2GJU6L.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            "https://images-na.ssl-images-amazon.com/images/I/A1XY+JU6UhS.mp4"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Monologix, Inc.",
+    "categories": [],
+    "details": "{\"Release Date\": \"2013\", \"Date first listed on Amazon\": \"April 23, 2013\", \"Developed By\": \"Monologix, Inc.\", \"Size\": \"9.5MB\", \"Version\": \"1.0\", \"Minimum Operating System\": \"Android 2.2\", \"Approximate Download Time\": \"Less than 90 seconds\"}",
+    "parent_asin": "B00CH7QWC4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

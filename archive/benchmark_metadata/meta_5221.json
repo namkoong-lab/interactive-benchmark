@@ -1,0 +1,55 @@
+{
+    "main_category": "Toys & Games",
+    "title": "Magic: the Gathering - Terrain Generator - Nemesis",
+    "average_rating": 5.0,
+    "rating_number": 15,
+    "features": [
+        "A single individual card from the Magic: the Gathering (MTG) trading and collectible card game (TCG/CCG).",
+        "This is of Uncommon rarity.",
+        "From the Nemesis set."
+    ],
+    "description": [
+        "Magic: the Gathering is a collectible card game created by Richard Garfield. In Magic, you play the role of a planeswalker who fights other planeswalkers for glory, knowledge, and conquest. Your deck of cards represents all the weapons in your arsenal. It contains the spells you know and the creatures you can summon to fight for you.",
+        "Card Name",
+        ": Terrain Generator",
+        "Color",
+        ": Land",
+        "Card Type",
+        ": Land",
+        "Card Text",
+        ": T Add 1 to your mana pool. 2, T Put a basic land card from your hand into play tapped."
+    ],
+    "price": "3.59",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51jI5or8yQL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51jI5or8yQL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Magic The Gathering",
+    "categories": [
+        "Toys & Games",
+        "Games & Accessories",
+        "Card Games",
+        "Collectible Card Games",
+        "Singles"
+    ],
+    "details": "{\"Item Weight\": \"0.06 ounces\", \"Manufacturer recommended age\": \"16 years and up\", \"Best Sellers Rank\": {\"Toys & Games\": 568915, \"Collectible Card Game Singles\": 17376}, \"Manufacturer\": \"Wizards of the Coast\", \"Brand\": \"Magic The Gathering\", \"Grade Rating\": \"Ungraded\", \"Sport\": \"Magic\", \"Graded By\": \"Certified Collectibles Group\", \"Theme\": \"Anime\"}",
+    "parent_asin": "B005OV4ZN8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

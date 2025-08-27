@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Shine Bright, Isabel",
+    "average_rating": 4.6,
+    "rating_number": 3,
+    "features": [
+        "Isabel is a fun, loving, and curious 8-year old. She loves her school, friends, playing outside, and her warm family. One day, Ms. Blush announces that Isabel and her classmates will be singing at the spring concert. Isabel's body fills with worries. Join Isabel on her courageous journey as she works through her worries and shines bright."
+    ],
+    "description": [
+        "About the Author",
+        "Jill Kluesner, MA, CRC, is a Certified Rehabilitation Counselor, National Trainer, and public health programming consultant. She has 10+ years of experience working as a provider, advocate, educator, and instructional designer. Traveling across the United States, she serves as a National Trainer for the National Council for Behavioral Health, providing train-the-trainer programs in Mental Health First Aid. She has extensive experience providing trainings to corporations, medical and behavioral health providers, school systems, correctional systems, and faith communities. Jill focuses her energy on projects which encourage open dialogue about mental health."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51xsbFFC6dL._SX398_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Isabel Rose Kluesner (Author),  Jill Marie Kluesner (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Activities, Crafts & Games"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform; 1st edition (October 12, 2018)\", \"Language\": \"English\", \"Paperback\": \"24 pages\", \"ISBN 10\": \"1727535200\", \"ISBN 13\": \"978-1727535204\", \"Item Weight\": \"3.36 ounces\", \"Dimensions\": \"8 x 0.06 x 10 inches\"}",
+    "parent_asin": "1727535200",
+    "bought_together": null,
+    "subtitle": "Paperback – Large Print, October 12, 2018",
+    "author": null
+}

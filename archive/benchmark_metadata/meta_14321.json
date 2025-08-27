@@ -1,0 +1,59 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "rag & bone Women's Cate Mid Rise Ankle Skinny Jeans",
+    "average_rating": 4.1,
+    "rating_number": 16,
+    "features": [
+        "Shell: 50% modal, 41.5% cotton, 6% polyester, 2.5% elastane",
+        "Button closure",
+        "Wash cold",
+        "Fabric: Lightweight super-stretch denim",
+        "Fading and whiskering",
+        "Rise: 8.75in / 22cm",
+        "Inseam: 26in / 66cm",
+        "Leg opening: 8.75in / 22cm"
+    ],
+    "description": [
+        "An easy, everyday pair from one of our go-to denim brands, these Rag & Bone/JEAN skinny jeans have a soft stretch and are presented in a creamy white wash that goes with just about everything."
+    ],
+    "price": "195.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/711b0kSBMGL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61J6fPGk0LL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/712jfhCs+iL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31Z77+VpSiL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21pNyziiYeL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31FxkZbbZkL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31Z77+VpSiL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/21pNyziiYeL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31FxkZbbZkL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "rag & bone",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Jeans"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"Womens\", \"Date First Available\": \"February 22, 2017\", \"Manufacturer\": \"Rag & Bone\"}",
+    "parent_asin": "B08FBLQTML",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

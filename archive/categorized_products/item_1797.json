@@ -1,0 +1,53 @@
+{
+  "item_id": 1797,
+  "metadata": {
+    "main_category": "Computers",
+    "title": "NCPCN Dell Panel Motherboard Laptop For Latitude E6510",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+      "Panel Motherboard Laptop For Latitude E6510 ASIN: B007PO1S5U"
+    ],
+    "price": "84.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61iwk+OkJuL._AC_SL1280_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41cSsi5H7KL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41cSsi5H7KL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Dell",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Computer Components",
+      "Internal Components",
+      "Motherboards"
+    ],
+    "details": "{\"Item Weight\": \"10.6 ounces\", \"Manufacturer\": \"Dell Computers\", \"Item model number\": \"NCPCN\", \"Best Sellers Rank\": {\"Computer Motherboards\": 2262}, \"Date First Available\": \"July 9, 2013\", \"Brand\": \"Dell\", \"Compatible Devices\": \"Laptop\", \"Memory Storage Capacity\": \"4 GB\", \"Memory Slots Available\": \"2\", \"System Bus Standard Supported\": \"SATA 3\"}",
+    "parent_asin": "B007PO1S5U",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Computers",
+      "Computer Accessories"
+    ],
+    "confidence": 0.95
+  }
+}

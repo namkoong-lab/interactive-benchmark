@@ -1,0 +1,92 @@
+{
+  "item_id": 649,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "THE WHO TOMMY vinyl record",
+    "average_rating": 4.2,
+    "rating_number": 9,
+    "features": [],
+    "description": [
+      "THE WHO",
+      "TOMMY",
+      "Label:",
+      "FIRST RECORDS",
+      "Format:",
+      "33 rpm 12\" LP stereo",
+      "Country:",
+      "Taiwan",
+      "Vinyl Condition:",
+      "M-",
+      "Cover Condition:",
+      "VG+",
+      "Year Released:",
+      "1969",
+      "LP Quantity:",
+      "2",
+      "Catalog #:",
+      "FL 1839 1840",
+      "Other Info:",
+      "Record is in new clean inner sleeve",
+      "Record is in new clean inner sleeve",
+      "FL-1839",
+      "FL-1839",
+      "FL-1840",
+      "FL-1840",
+      "Inventory Number:",
+      "08-J-19"
+    ],
+    "price": "149.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/8188TqPsqwL._SL1211_.jpg",
+        "https://m.media-amazon.com/images/I/81ts+aZwE0L._SL1201_.jpg",
+        "https://m.media-amazon.com/images/I/81APGUwAndL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81EzXU9MnLL._SL1209_.jpg",
+        "https://m.media-amazon.com/images/I/81xxa93csAL._SL1202_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/512cq034kSL.jpg",
+        "https://m.media-amazon.com/images/I/51Pgt-VGepL.jpg",
+        "https://m.media-amazon.com/images/I/51+n0xAsT9L.jpg",
+        "https://m.media-amazon.com/images/I/51JVALZAVSL.jpg",
+        "https://m.media-amazon.com/images/I/618jig7XZhL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/512cq034kSL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51Pgt-VGepL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51+n0xAsT9L._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51JVALZAVSL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/618jig7XZhL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "The Who  (Artist)    Format: Vinyl",
+    "categories": [
+      "CDs & Vinyl",
+      "Vinyl Store"
+    ],
+    "details": "{\"Manufacturer\": \"FIRST RECORDS\", \"Date First Available\": \"November 25, 2014\", \"Label\": \"FIRST RECORDS\", \"Number of discs\": \"2\"}",
+    "parent_asin": "B00Q51XCMQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Vinyl Records"
+    ],
+    "confidence": 0.95
+  }
+}

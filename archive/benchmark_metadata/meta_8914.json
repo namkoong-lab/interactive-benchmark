@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Will Bradley: His Graphic Art",
+    "average_rating": 4.8,
+    "rating_number": 6,
+    "features": [
+        "This stunning retrospective presents the work of a leading American designer of Art Nouveau. Ninety-seven examples of Bradley's finest works include images from his multifaceted career as an artist, illustrator, type designer, advertiser, and printer. Includes eight pages in full color and 19 in two colors, plus an Introduction and autobiographical notes."
+    ],
+    "description": [
+        "About the Author",
+        "Artist, illustrator, type designer, advertiser, and printer, Will Bradley (1868–1962) was in the forefront of the American Arts and Crafts movement and one of the few American artists to master the Art Nouveau style. This volume features his \"Notes Toward an Autobiography,\" tracing Bradley's career from Michigan printer's devil to art supervisor of the Hearst printing empire."
+    ],
+    "price": "6.75",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41G5S5TK7GL._SX362_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Clarence P. Hornung (Editor)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "Individual Artists"
+    ],
+    "details": "{\"Publisher\": \"Dover Publications; Reprint edition (June 1, 1974)\", \"Language\": \"English\", \"Paperback\": \"97 pages\", \"ISBN 10\": \"0486207013\", \"ISBN 13\": \"978-0486207018\", \"Item Weight\": \"1.11 pounds\", \"Dimensions\": \"9.75 x 0.75 x 12.5 inches\"}",
+    "parent_asin": "0486207013",
+    "bought_together": null,
+    "subtitle": "Paperback – June 1, 1974",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Will Bradley', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

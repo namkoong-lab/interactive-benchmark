@@ -1,0 +1,62 @@
+{
+  "item_id": 3318,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Hanes ComfortBlend EcoSmart Youth Pullover Hoodie Navy",
+    "average_rating": 4.1,
+    "rating_number": 8,
+    "features": [
+      "50% cotton/50% polyester low fleece",
+      "Stretch.oversized closure",
+      "Machine Wash",
+      "50% cotton, 50% polyester",
+      "Made with up to 5% polyester from recycled plastic",
+      "PrintProXP patented low-, high-stitch density fabric",
+      "Ribbed cuffs and waistband",
+      "Extra-large pouch pocket"
+    ],
+    "description": [
+      "Hoodies are hot this season. And here's one your youngster will love, because it's an EcoSmart® hoodie. That means the soft, comfy, medium weight 7.9-oz fleece hoodie is actually made with up to 5% polyester made from recycled plastic bottles!Generous fit allows plenty of room to stretch.Oversized pouch pocket keeps hands warm when temperatures dip.Two-ply, head-warming hood helps block out wind and chill (For safety's sake, there's no drawcord).Cozy ribbed cuffs and hem."
+    ],
+    "price": "17.84",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71k1Sq7h-lL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41elyvp5ehL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41elyvp5ehL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Hanes",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Boys",
+      "Clothing",
+      "Active",
+      "Active Hoodies"
+    ],
+    "details": "{\"Item Weight\": \"1.04 Pounds\", \"Item model number\": \"P473\", \"Department\": \"Boys\", \"Date First Available\": \"September 4, 2015\"}",
+    "parent_asin": "B06ZYG47PX",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Hoodies & Sweatshirts"
+    ],
+    "confidence": 0.95
+  }
+}

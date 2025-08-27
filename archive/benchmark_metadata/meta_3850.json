@@ -1,0 +1,41 @@
+{
+    "main_category": "All Beauty",
+    "title": "DND Duo 696 Caramelized Plum",
+    "average_rating": 4.6,
+    "rating_number": 17,
+    "features": [],
+    "description": [
+        "DND Products presents, Soak Off Gel Polish, luminous nail color that applies faster, feels thinner, and lasts longer than any other gel available! Forget base coats, bond-aids, and primers. DND delivers a fast two-step professional system that is unique from any other on the market. Fused with essential vitamins, DND makes nails stronger, healthier, as well as stunning for weeks!"
+    ],
+    "price": "9.96",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81YAuxDk7PL._SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51wT4BZqLVL.jpg",
+            "https://m.media-amazon.com/images/I/315hi9DofOL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51wT4BZqLVL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/315hi9DofOL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "DND",
+    "categories": [],
+    "details": "{\"Brand\": \"DND\", \"Item Form\": \"Gel\", \"Finish Type\": \"Creme\", \"Special Feature\": \"Chip Resistant\", \"Age Range (Description)\": \"Adult\", \"Unit Count\": \"1.00 Count\", \"Is Discontinued By Manufacturer\": \"No\", \"UPC\": \"734721955669\"}",
+    "parent_asin": "B07DHWJS9G",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

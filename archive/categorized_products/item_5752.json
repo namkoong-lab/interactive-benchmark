@@ -1,0 +1,77 @@
+{
+  "item_id": 5752,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "JustSweatshirts Unisex 100% Cotton Crewneck Sweatshirt",
+    "average_rating": 4.4,
+    "rating_number": 4,
+    "features": [
+      "100% Cotton",
+      "Elastic closure",
+      "Heavyweight 100% cotton 18oz",
+      "Generous Traditional fit with 2 X 2 Rib knit cuffs and bottom",
+      "Flatlock stitching detail on all seams",
+      "Premium Ring Spun cotton reduces pilling, twisting and shrinkage",
+      "Cut and Sewn in Canada"
+    ],
+    "description": [
+      "Made with the finest heavyweight 100% cotton 18oz yarns, this North American Made sweatshirt has a unique construction and finishing techniques. The garment dye process virtually eliminates all shrinkage and reduces twisting and pilling all while providing a stable and consistent fit. Our sweatshirts are known for a very generous fit. The flatlock stitching on seams along with the heavy 2X2 elastic waist and cuffs combine for a great look that lasts for many years. 100% COTTON 100% COMFORT"
+    ],
+    "price": "84.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71wFNWBukDL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61NdzYXaMiL._AC_UL1024_.jpg",
+        null,
+        "https://m.media-amazon.com/images/I/61D-9mI0yOL._AC_UL1195_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41AaMmv+ldL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41QV1aotSQL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/415dcqRRYTL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41F2YIEKgGL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41jGTmmwYaL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41AaMmv+ldL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41QV1aotSQL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/415dcqRRYTL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41F2YIEKgGL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41jGTmmwYaL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "JustSweatshirts",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Active",
+      "Active Sweatshirts"
+    ],
+    "details": "{\"Department\": \"unisex-adult\", \"Date First Available\": \"October 15, 2013\"}",
+    "parent_asin": "B09GPNLFTF",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Hoodies & Sweatshirts"
+    ],
+    "confidence": 0.95
+  }
+}

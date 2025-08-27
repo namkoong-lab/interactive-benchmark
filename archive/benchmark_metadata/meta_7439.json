@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The Demon's Grave",
+    "average_rating": 4.1,
+    "rating_number": 31,
+    "features": [
+        "When strange shadows and messages plague Nora's daily life she fears for her sanity. To escape questions from her family, Nora joins her friends on a weekend getaway. Despite not liking Aidan Birket, Nora finds his remote, Victorian house charming. Until they discover the marble doorway on the third floor and, against Nora's better judgment, they open it. Trespassing into an unfamiliar world called the Demon's Grave, the group face a charismatic demon and six nightmarish Challenges as punishment. Those that make it to the end can go home, but those that don't will be his forever. Friendships are tested, secrets revealed and sacrifices will be made. Nora battles zombies, doppelgängers, eyeless bikers, and the demon—whose interests are more than just a game of cat and mouse. If it's all in her head, then it should be easy. But, if not, it means the demon knows about her sticky past, and the death of her twin sister."
+    ],
+    "description": [
+        "About the Author",
+        "E.M. loves long walks through bookstores, Disney, horror movies/books, anything supernatural, and researching random facts. She lives by a lake out in the Canadian wilderness with internet access, her husband, and a rag-tag band of pets. If you'd like to know more, please visit: www.emmaccallum.com"
+    ],
+    "price": "15.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41yriEK7DLL._SX326_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "E. M. MacCallum (Author)",
+    "categories": [
+        "Books",
+        "Science Fiction & Fantasy",
+        "Fantasy"
+    ],
+    "details": "{\"Publisher\": \"National Library & Archives of Canada; First Edition (June 17, 2015)\", \"Language\": \"English\", \"Paperback\": \"434 pages\", \"ISBN 10\": \"099477821X\", \"ISBN 13\": \"978-0994778215\", \"Item Weight\": \"15.8 ounces\", \"Dimensions\": \"5.25 x 0.98 x 8 inches\"}",
+    "parent_asin": "099477821X",
+    "bought_together": null,
+    "subtitle": "Paperback – June 17, 2015",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'E.M. MacCallum', 'about': ['E.M. loves long walks through bookstores, horror & Disney movies (sometimes back to back), books, and all things stories.', 'She\\'s the author of \"The Demon\\'s Grave\" (2015) trilogy & \"Zombie-Killer Bill\" series (2015)']}"
+}

@@ -1,0 +1,60 @@
+{
+  "item_id": 5258,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "World Gym W300 String Mens Tank Top (X-Large, Red)",
+    "average_rating": 3.6,
+    "rating_number": 3,
+    "features": [
+      "100% Cotton",
+      "Pull On closure",
+      "Machine Wash"
+    ],
+    "description": [
+      "This World Gym Mens String Tank Top features a narrow 3\" width y-back. The World Gym logo is screen printed on the front of String Tank Top. Made from 100% cotton and available in a variety of colors. World Gym tanktop Sizing in lbs: M- under 170 L- 170 -"
+    ],
+    "price": "26.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81Mp59-ctPL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41FhwwF7mKL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41FhwwF7mKL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "World Gym",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Men",
+      "Shirts",
+      "Tanks Tops"
+    ],
+    "details": "{\"Item model number\": \"W300\", \"Department\": \"mens\", \"Date First Available\": \"February 12, 2016\"}",
+    "parent_asin": "B00135ZZKQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Activewear"
+    ],
+    "confidence": 0.95
+  }
+}

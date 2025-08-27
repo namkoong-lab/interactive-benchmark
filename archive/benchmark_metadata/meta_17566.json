@@ -1,0 +1,65 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Vritra",
+    "average_rating": 1.0,
+    "rating_number": null,
+    "features": [
+        "Retro Arcade Style 2D side scrolling shooter",
+        "Amazing graphics and powerful sound effects",
+        "Simple and smooth controls",
+        "5 different levels of difficulty",
+        "Support replay function"
+    ],
+    "description": [
+        "Throw down a challenge to all the 80s and 90s gamers. Get back the enthusiasm you had once! Control the dragon and the vajras, and destroy the evil Dragon Emperor \"VRITRA\"! Awesome graphics, powerful sound effects and amazing controls. This ultimate 2D shooter is a step forward in the history of the shooting games! -----STORY-------------------------------------------------------- 100 years ago the world was a peaceful place and people lived together in peace. However a black dragon arrived followed its folks with evil thoughts and built their nation. The dragon called itself Dragon Emperor and ruled the whole world spreading fear, massacring and looting. The long-suffering inhabitants prayed to be saved, as they believed their old legend: \"when the black dragon will fade in the dark, the blue dragon will shine a light on the world again.\" -----ABOUT THE GAME--------------------------------------------------------- This is a 2D side scrolling shooter. Control the dragon and the vajras to destroy the enemy!- Use the single boost button only. Keep pressing to blow up the enemies! - There are 4 kinds of vajras. Take advantage of characteristics of each vajra: 　- Blue vajra... Concentrated front attack 　- Green vajra... Defense 　- Yellow vajra... Wide range attack 　- Red vajra... Technical all directions attack - Each vajra has a different boost behavior! Mastering how to handle the vajra is the key to rule the game! - You can multiply your score by damaging or destroying the enemy with boost! Build up more multiplier and aim at a high score! - Support replay function! Download the other users' replay data and learn how they completed the game! -----SUPPORT DEVICE-------------------------------------------------------- - Android OS 2.3 or later (*) * The app may not be compatible with some devices.-----SUPPORT-------------------------------------------------------- - Support site http://salvo.jp/app/vritra - Company site (salvo Inc.) http://salvo.jp/"
+    ],
+    "price": "1.99",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/91KlOH2NUHL.png",
+            "https://m.media-amazon.com/images/I/91proogahrL.png",
+            "https://m.media-amazon.com/images/I/A1tHTjgpz4L.png",
+            "https://m.media-amazon.com/images/I/91z38cfmTAL.png",
+            "https://m.media-amazon.com/images/I/A1xg7iUaqnL.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Salvo Inc.",
+    "categories": [],
+    "details": "{\"Release Date\": \"2013\", \"Date first listed on Amazon\": \"January 16, 2013\", \"Developed By\": \"Salvo Inc.\", \"Size\": \"Varies by device (25.4MB - 36.3MB)\", \"Version\": \"Varies by device\", \"Application Permissions\": [\"Access information about networks\", \"Open network sockets\", \"Read only access to device state\"], \"Minimum Operating System\": \"Varies by device\", \"Approximate Download Time\": \"Less than 5 minutes\"}",
+    "parent_asin": "B00B00U234",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

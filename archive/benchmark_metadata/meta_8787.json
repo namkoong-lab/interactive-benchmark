@@ -1,0 +1,39 @@
+{
+    "main_category": "Books",
+    "title": "Slice of Organic Life",
+    "average_rating": 4.1,
+    "rating_number": 40,
+    "features": [
+        "Featuring over 80 self-contained projects, from growing your own organic food, cooking home-grown produce, keeping selected livestock, and leading a more sustainable lifestyle,",
+        "Slice of Organic Life",
+        "is the perfect start for someone looking to go \"green.\""
+    ],
+    "description": [
+        "About the Author",
+        "Sheherazade Goldsmith is a wife, mother, and environmental activist. She is the editor-in-chief of DK's",
+        "A Greener Christmas."
+    ],
+    "price": "6.34",
+    "images": {
+        "hi_res": [],
+        "large": [],
+        "thumb": [],
+        "variant": []
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Sheherazade Goldsmith (Author),  Anne Gatti (Contributor),  Daphne Lambert (Contributor),  Erica Bower (Contributor)",
+    "categories": [
+        "Books",
+        "Crafts, Hobbies & Home",
+        "Gardening & Landscape Design"
+    ],
+    "details": "{\"Publisher\": \"DK; 1st edition (April 19, 2010)\", \"Language\": \"English\", \"Paperback\": \"352 pages\", \"ISBN 10\": \"0756662117\", \"ISBN 13\": \"978-0756662110\", \"Item Weight\": \"2.4 pounds\", \"Dimensions\": \"7.5 x 1 x 9 inches\"}",
+    "parent_asin": "0756662117",
+    "bought_together": null,
+    "subtitle": "Paperback – April 19, 2010",
+    "author": null
+}

@@ -1,0 +1,47 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "American History",
+    "average_rating": 3.0,
+    "rating_number": 4,
+    "features": [
+        "150 trivia questions and answers on American History"
+    ],
+    "description": [
+        "About the Author",
+        "James Magee has a B.A. in Philosophy from St. Francis College in Brooklyn, New York and a Masters degree from the School of Education at Seton Hall University in South Orange, New Jersey.",
+        "--This text refers to an alternate",
+        "kindle_edition",
+        "edition."
+    ],
+    "price": "2.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41AXj5w3ufL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "James Magee (Author)   Format: Kindle Edition",
+    "categories": [
+        "Kindle Store",
+        "Kindle eBooks",
+        "Education & Teaching"
+    ],
+    "details": "{\"Publication date\": \"October 23, 2010\", \"Language\": \"English\", \"File size\": \"10715 KB\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"156 pages\"}",
+    "parent_asin": "B0048ELB1Q",
+    "bought_together": null,
+    "subtitle": "Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'James Magee', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

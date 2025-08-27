@@ -1,0 +1,49 @@
+{
+    "main_category": "Books",
+    "title": "The Little Book of Sudoku 2",
+    "average_rating": 4.8,
+    "rating_number": 11,
+    "features": [
+        "This second volume of",
+        "The Little Book of Sudoku",
+        "will provide further hours of captivating (although sometimes infuriating) fun. Whether you've already caught the Sudoku bug and are eagerly searching for more puzzles with which to tax your brain, or you are interested simply in finding out what the fuss is all about,",
+        "The Little Book of Sudoku 2",
+        "has something for everyone, diehard players and novices alike."
+    ],
+    "description": [
+        "About the Author",
+        "Pete Sinden",
+        "is an internationally accredited expert in modeling and simulating intelligent systems."
+    ],
+    "price": "10.37",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41TKcFygO5L._SX384_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Pete Sinden (Author)",
+    "categories": [
+        "Books",
+        "Humor & Entertainment",
+        "Puzzles & Games"
+    ],
+    "details": "{\"Publisher\": \"Michael O'Mara; Csm edition (September 28, 2016)\", \"Language\": \"English\", \"Paperback\": \"224 pages\", \"ISBN 10\": \"9781782436652\", \"ISBN 13\": \"978-1782436652\", \"Dimensions\": \"4.5 x 0.6 x 5.5 inches\"}",
+    "parent_asin": "1782436650",
+    "bought_together": null,
+    "subtitle": "Paperback – September 28, 2016",
+    "author": null
+}

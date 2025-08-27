@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Rocking-Horse Winner (Tale Blazers)",
+    "average_rating": 4.2,
+    "rating_number": 78,
+    "features": [
+        "\"Dramascripts\" are intended for use in secondary schools, amateur theatrical groups and youth clubs. This play is an adaptation of D.H.Lawrence's \"The Rocking-Horse Winner\", a moving short story which deals with greed and the dangers of outright materialism."
+    ],
+    "description": [
+        "Review",
+        ".,.\"a great resource for teaching the older British writers.\" -- J.M. Soling"
+    ],
+    "price": "8.19",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51SwbZV133L._SX325_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "D H Lawrence (Author)",
+    "categories": [
+        "Books",
+        "Education & Teaching",
+        "Schools & Teaching"
+    ],
+    "details": "{\"Publisher\": \"Perfection Learning (January 1, 2007)\", \"Language\": \"English\", \"Paperback\": \"43 pages\", \"ISBN 10\": \"0895987619\", \"ISBN 13\": \"978-0895987617\", \"Grade level\": \"7 - 9\", \"Item Weight\": \"1.6 ounces\", \"Dimensions\": \"4.8 x 0.5 x 7.5 inches\"}",
+    "parent_asin": "0895987619",
+    "bought_together": null,
+    "subtitle": null,
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'D. H. Lawrence', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

@@ -1,0 +1,42 @@
+{
+    "main_category": "Grocery",
+    "title": "South African Peri-Peri",
+    "average_rating": 4.4,
+    "rating_number": 4,
+    "features": [],
+    "description": [
+        "Peri-peri is another name for chilies, a kind generally used in South Africa and parts of India. The first Europeans to set foot in South Africa were Portuguese explorers, and they introduced peri-peri to the cuisine of South Africa. Peri-peri (or sometimes piri-piri) is a blend of chilies, much like cayenne pepper. Our South African Peri-Peri blend is rich and dark with the heat of medium-hot chilies combined with hints of cumin and ginger. Add a pinch to home-fried potatoes with onions or use it to perk up scrambled eggs. It's also a great ready-made rub for pork or shrimp before grilling. Comes in our signature airtight tin, which measures 2-1/2 inches in diameter and 1-3/4 inches in height."
+    ],
+    "price": "8.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/2162Z1RZMCL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/2162Z1RZMCL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "NirmalasKitchen.com",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Sauces, Gravies & Marinades",
+        "Hot Sauce"
+    ],
+    "details": "{\"Number of Items\": \"1\", \"Unit Count\": \"1.0 Count\", \"Produce sold as\": \"Pre-packaged\", \"Temperature Condition\": \"Fresh\", \"Number of Pieces\": \"1\", \"Manufacturer\": \"NirmalasKitchen.com\"}",
+    "parent_asin": "B0006TN020",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

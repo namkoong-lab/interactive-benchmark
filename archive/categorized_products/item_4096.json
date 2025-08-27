@@ -1,0 +1,95 @@
+{
+  "item_id": 4096,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "ASICS Men's Japan S Shoes",
+    "average_rating": 4.9,
+    "rating_number": 17,
+    "features": [
+      "synthetic-and-rubber",
+      "Imported",
+      "Rubber sole",
+      "Fabric: Faux leather",
+      "Rubber sole",
+      "Cushioned collar and tongue, Ortholite insole",
+      "Lace-up closure",
+      "Round toe"
+    ],
+    "description": [
+      "Walk out in the JAPAN S men's heritage-inspired sportstyle shoe by the ASICSTIGER brand. Made with a mix of smooth leather and available in monochrome colors, the clean good looks of this shoe will take you from the office to the street in style and comfort."
+    ],
+    "price": "69.9",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51SXh0cDi1L._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/51mLyjds3eL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/514xORLqn4L._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/51frQ77vNXL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61fkh9VpoqL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/51PeZUE7owL._AC_UL1024_.jpg",
+        "https://m.media-amazon.com/images/I/61vJa6IYONL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61raFzJoidL._AC_UL1130_.jpg",
+        "https://m.media-amazon.com/images/I/61XEp0uuTwL._AC_UL1130_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31G5XdD9O9L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31snmWdAFhL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31KmXG2G7hL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31pUQgUs2oL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41qVm1+OwsL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31nUzC6zr1L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41s5HJURkxL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/512vj6ePxNL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/412ItQdZJbL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31G5XdD9O9L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31snmWdAFhL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31KmXG2G7hL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31pUQgUs2oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41qVm1+OwsL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31nUzC6zr1L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41s5HJURkxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/512vj6ePxNL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/412ItQdZJbL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05",
+        "PT06",
+        "PT07",
+        "PT08"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "ASICS",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Shoes",
+      "Athletic",
+      "Running"
+    ],
+    "details": "{\"Product Dimensions\": \"11 x 4 x 7 inches; 3 Pounds\", \"Department\": \"Mens\", \"Date First Available\": \"January 4, 2021\", \"Manufacturer\": \"Asics\"}",
+    "parent_asin": "B08S1Z5NT9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Footwear",
+      "Men's Sneakers"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Water Monsters - 4-Movie Set",
+    "average_rating": 3.9,
+    "rating_number": 48,
+    "features": [],
+    "description": [
+        "Dive Into The Depths Of Suspense!"
+    ],
+    "price": "5.8",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/913lfZMLMjL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51XUjeazITL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51XUjeazITL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jennifer Lopez  (Actor),     Ice Cube  (Actor)    Rated:    R    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Horror"
+    ],
+    "details": "{\"Format\": \"Widescreen, NTSC\", \"Contributor\": \"Jennifer Lopez, Ice Cube, Maeve Dermody, Diana Glenn\", \"Language\": \"English\", \"Runtime\": \"5 hours and 56 minutes\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"R (Restricted)\", \"Product Dimensions\": \"0.7 x 7.5 x 5.4 inches; 0.71 Ounces\", \"Media Format\": \"Widescreen, NTSC\", \"Run time\": \"5 hours and 56 minutes\", \"Release date\": \"February 25, 2014\", \"Actors\": \"Jennifer Lopez, Ice Cube, Diana Glenn, Maeve Dermody\", \"Studio\": \"MILL CREEK ENT\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00HFWETVM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

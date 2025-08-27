@@ -1,0 +1,41 @@
+{
+    "main_category": "Digital Music",
+    "title": "Pick Hits Live",
+    "average_rating": 4.2,
+    "rating_number": 27,
+    "features": [],
+    "description": [
+        "Original 1987 Grama Vision release. The CD has light surface scratches that don't effect the play; the booklet has a small bend and some small stains; the case has shelf wear."
+    ],
+    "price": "97.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91u14J4TVIL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91KG6LIN+NL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51mNN5L0K7L.jpg",
+            "https://m.media-amazon.com/images/I/51JLn6HLBnL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51mNN5L0K7L._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51JLn6HLBnL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "John Scofield   Format: Audio CD",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"5.55 x 4.97 x 0.54 inches; 2.83 Ounces\", \"Date First Available\": \"July 19, 2008\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B001CY13OA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

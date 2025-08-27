@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "Essentials of Business Statistics: Communicating with Numbers",
+    "average_rating": 4.1,
+    "rating_number": 41,
+    "features": [
+        "Essentials of Business Statistics: Communicating with Numbers",
+        "is a core statistics textbook that sparks student interest and bridges the gap between how statistics is taught and how practitioners think about and apply statistical methods. Throughout the text, the emphasis is on communicating with numbers rather than on number crunching. By incorporating the perspective of professional users, the subject matter is more relevant and the presentation of material more straightforward for students.",
+        "Connect is the only integrated learning system that empowers students by continuously adapting to deliver precisely what they need, when they need it, and how they need it, so that your class time is more engaging and effective."
+    ],
+    "description": [
+        "About the Author",
+        "Sanjiv Jaggia is a professor of economics and finance at California Polytechnic State University in San Luis Obispo. Dr. Jaggia holds a Ph.D. from Indiana University and is a Chartered Financial Analyst (CFA®). He enjoys research in statistics and econometrics applied to a wide range of business disciplines. Dr. Jaggia has published several papers in leading academic journals and has co-authored two successful textbooks in business statistics. His ability to communicate in the classroom has been acknowledged by several teaching awards. Dr. Jaggia resides in San Luis Obispo with his wife and daughter. In his spare time, he enjoys cooking, hiking, and listening to a wide range of music.Alison Kelly is a professor of economics at Suffolk University in Boston. Dr. Kelly holds a Ph.D. from Boston College and is a Chartered Financial Analyst (CFA®). Dr. Kelly has published in a wide variety of academic journals and has co-authored two successful textbooks in business statistics. Her courses in applied statistics and econometrics are well received by students as well as working professionals. Dr. Kelly resides in Hamilton, Massachusetts, with her husband, daughter, and son. In her spare time, she enjoys exercising and gardening."
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41RUJaQ+WLL._SX384_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Sanjiv Jaggia (Author),  Alison Kelly (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Mathematics"
+    ],
+    "details": "{\"Publisher\": \"McGraw Hill; First Edition (February 11, 2013)\", \"Language\": \"English\", \"Loose Leaf\": \"1088 pages\", \"ISBN 10\": \"0077639529\", \"ISBN 13\": \"978-0077639525\", \"Item Weight\": \"2.3 pounds\", \"Dimensions\": \"8.4 x 0.8 x 10.9 inches\"}",
+    "parent_asin": "0077639529",
+    "bought_together": null,
+    "subtitle": "First Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Sanjiv Jaggia', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

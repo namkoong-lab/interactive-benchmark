@@ -1,0 +1,41 @@
+{
+    "main_category": null,
+    "title": "Glass Don't count the treats, Make the treats count hinged Jar",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "Glass jar with gold hinge."
+    ],
+    "price": "15.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81VyMeQKbUL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81wzD+j-HeL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41-8AEkumVL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41yO-jhlCcL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41-8AEkumVL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41yO-jhlCcL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Uptown pet",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"9 x 4.5 x 4 inches\", \"Manufacturer\": \"Uptown pet\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"March 27, 2017\"}",
+    "parent_asin": "B06XW495N7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

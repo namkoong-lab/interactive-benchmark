@@ -1,0 +1,54 @@
+{
+  "item_id": 549,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Greetings: Cheryl Wheeler Live",
+    "average_rating": 4.8,
+    "rating_number": 36,
+    "features": [],
+    "description": [
+      "On March 12 2012, Kenny White and I flew to Anchorage, AK to begin a 32 night road trip. After a wonderful week in Alaska, we flew to Seattle, spent a lovely few days driving to Southern California and then began working our way back north. The last night of the trip was at the 'The Triple Door', in Seattle April 1st. This is a recording of that show."
+    ],
+    "price": "27.72",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/815YWv9rcqL._SL1425_.jpg",
+        "https://m.media-amazon.com/images/I/71-xPLMUdRL._SL1050_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/617w3SggU1L.jpg",
+        "https://m.media-amazon.com/images/I/51cgpRAEdtL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/617w3SggU1L._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51cgpRAEdtL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Cheryl Wheeler   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Folk"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.62 x 0.15 x 4.94 inches; 1.28 Ounces\", \"Manufacturer\": \"CD Baby\", \"Original Release Date\": \"2012\", \"Date First Available\": \"September 16, 2012\", \"Label\": \"CD Baby\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B009BQ608K",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs"
+    ],
+    "confidence": 0.85
+  }
+}

@@ -1,0 +1,52 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Wrapables Fancy Drop Shape Bubble Bib Statement Necklace",
+    "average_rating": 2.8,
+    "rating_number": 32,
+    "features": [
+        "Dimensions: Earrings, 1.75\"L x .1.13\"W; Necklace, gemstones 0.75\"L x 0.5\"W, 21 inch length with 2.5 inch extension",
+        "Material: Resin, Metal."
+    ],
+    "description": [
+        "These bubble necklaces are colorful, fun, and juicy looking! They are the perfect accessory to brighten your outfit. The resin gems consist of bright drop shapes that will remind you of fruit!"
+    ],
+    "price": "4.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61AYm4FACYL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61VQtA98DmL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61e1HqWCaGL._AC_UL1200_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/414k-fuqC-L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41z2ufqhQsL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41xrbjzItaL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51VXfUrUXiL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/414k-fuqC-L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41z2ufqhQsL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41xrbjzItaL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51VXfUrUXiL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Wrapables",
+    "categories": [],
+    "details": "{\"Date First Available\": \"September 24, 2013\", \"Manufacturer\": \"Wrapables\"}",
+    "parent_asin": "B00FESNW7Q",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

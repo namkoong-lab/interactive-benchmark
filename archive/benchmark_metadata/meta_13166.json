@@ -1,0 +1,53 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "The Big Lebowski Walter Costume Glasses",
+    "average_rating": 4.0,
+    "rating_number": 25,
+    "features": [
+        "100% Plastic",
+        "Walter Sobchak sunglasses",
+        "Lens color: Yellow",
+        "Size: One size fits most adults",
+        "Officially Licensed"
+    ],
+    "description": [
+        "This pair of sunglasses will have you looking just like Walter Sobchak. These are meant to fit most adults."
+    ],
+    "price": "9.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81nHxLTgX0L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81C+ThZONOL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Ggl93++BL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51rNB-tYC6L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Ggl93++BL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51rNB-tYC6L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Costume Agent",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Costumes & Accessories",
+        "Men",
+        "Accessories",
+        "Eyewear"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"mens\", \"Date First Available\": \"May 24, 2017\"}",
+    "parent_asin": "B071225DH9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,62 @@
+{
+  "item_id": 152,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Murray 1001717MA Muffler Model 28 and 31 for Lawn Mowers",
+    "average_rating": 4.4,
+    "rating_number": 70,
+    "features": [
+      "Genuine Murray part",
+      "Replaces Murray parts 1001717 and 1001515MA"
+    ],
+    "description": [
+      "This is a Murray muffler model 28/31 that replaces Murray parts 1001717 and 1001515MA."
+    ],
+    "price": "63.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71BSVXsvgxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/714S+21bulL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/3160g+vrlAL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41ZLn+DlhrL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/3160g+vrlAL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/41ZLn+DlhrL._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Murray",
+    "categories": [
+      "Patio, Lawn & Garden",
+      "Outdoor Power Tools",
+      "Replacement Parts & Accessories",
+      "Lawn Mower Parts & Accessories",
+      "Lawn Mower Replacement Parts",
+      "Mufflers"
+    ],
+    "details": "{\"Product Dimensions\": \"0.39 x 0.39 x 0.39 inches\", \"Item Weight\": \"2.4 pounds\", \"Manufacturer\": \"Murray\", \"Item model number\": \"1001717MA\", \"Best Sellers Rank\": {\"Patio, Lawn & Garden\": 430189, \"Lawn Mower Mufflers\": 185}, \"Is Discontinued By Manufacturer\": \"No\", \"Brand\": \"Murray\", \"Item Dimensions LxWxH\": \"0.39 x 0.39 x 0.39 inches\", \"Vehicle Service Type\": \"Lawn Mower\", \"Shape\": \"Round\"}",
+    "parent_asin": "B0043RTOBW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Outdoor Living",
+      "Lawn Mower Parts"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,88 @@
+{
+    "main_category": "Books",
+    "title": "Practical Linux Forensics: A Guide for Digital Investigators",
+    "average_rating": 4.8,
+    "rating_number": 39,
+    "features": [
+        "A resource to help forensic investigators locate, analyze, and understand digital evidence found on modern Linux systems after a crime, security incident or cyber attack.",
+        "Practical Linux Forensics",
+        "dives into the technical details of analyzing postmortem forensic images of Linux systems which have been misused, abused, or the target of malicious attacks. It helps forensic investigators locate and analyze digital evidence found on Linux desktops, servers, and IoT devices. Throughout the book, you learn how to identify digital artifacts which may be of interest to an investigation, draw logical conclusions, and reconstruct past activity from incidents. You’ll learn how Linux works from a digital forensics and investigation perspective, and how to interpret evidence from Linux environments. The techniques shown are intended to be independent of the forensic analysis platforms and tools used.Learn how to:",
+        "Extract evidence from storage devices and analyze partition tables, volume managers, popular Linux filesystems (Ext4, Btrfs, and Xfs), and encryption",
+        "Extract evidence from storage devices and analyze partition tables, volume managers, popular Linux filesystems (Ext4, Btrfs, and Xfs), and encryption",
+        "Investigate evidence from Linux logs, including traditional syslog, the systemd journal, kernel and audit logs, and logs from daemons and applications",
+        "Investigate evidence from Linux logs, including traditional syslog, the systemd journal, kernel and audit logs, and logs from daemons and applications",
+        "Reconstruct the Linux startup process, from boot loaders (UEFI and Grub) and kernel initialization, to systemd unit files and targets leading up to a graphical login",
+        "Reconstruct the Linux startup process, from boot loaders (UEFI and Grub) and kernel initialization, to systemd unit files and targets leading up to a graphical login",
+        "Perform analysis of power, temperature, and the physical environment of a Linux machine, and find evidence of sleep, hibernation, shutdowns, reboots, and crashes",
+        "Perform analysis of power, temperature, and the physical environment of a Linux machine, and find evidence of sleep, hibernation, shutdowns, reboots, and crashes",
+        "Examine installed software, including distro installers, package formats, and package management systems from Debian, Fedora, SUSE, Arch, and other distros",
+        "Examine installed software, including distro installers, package formats, and package management systems from Debian, Fedora, SUSE, Arch, and other distros",
+        "Perform analysis of time and Locale settings, internationalization including language and keyboard settings, and geolocation on a Linux system",
+        "Perform analysis of time and Locale settings, internationalization including language and keyboard settings, and geolocation on a Linux system",
+        "Reconstruct user login sessions (shell, X11 and Wayland), desktops (Gnome, KDE, and others) and analyze keyrings, wallets, trash cans, clipboards, thumbnails, recent files and other desktop artifacts",
+        "Reconstruct user login sessions (shell, X11 and Wayland), desktops (Gnome, KDE, and others) and analyze keyrings, wallets, trash cans, clipboards, thumbnails, recent files and other desktop artifacts",
+        "Analyze network configuration, including interfaces, addresses, network managers, DNS, wireless artifacts (Wi-Fi, Bluetooth, WWAN), VPNs (including WireGuard), firewalls, and proxy settings",
+        "Analyze network configuration, including interfaces, addresses, network managers, DNS, wireless artifacts (Wi-Fi, Bluetooth, WWAN), VPNs (including WireGuard), firewalls, and proxy settings",
+        "Identify traces of attached peripheral devices (PCI, USB, Thunderbolt, Bluetooth) including external storage, cameras, and mobiles, and reconstruct printing and scanning activity",
+        "Identify traces of attached peripheral devices (PCI, USB, Thunderbolt, Bluetooth) including external storage, cameras, and mobiles, and reconstruct printing and scanning activity"
+    ],
+    "description": [
+        "Review",
+        "“",
+        "Practical Linux Forensics",
+        "is an excellent resource suitable for those new to Linux, as well as for experienced users. Whether you are an investigator, administrator, developer, or curious student, you will gain imperative knowledge that can easily be applied to your own field and endeavors.”",
+        "—Techtyte, Cybersecurity Researcher and Advanced Reviewer",
+        "\"Thorough . . . Even if this is your first foray into computer forensics, there is a lot to be gained from Nikkel’s book.\"",
+        "—Lee Teschler, Microcontroller Tips",
+        "\"A comprehensive and informative guide . . . The author provides a wealth of information and practical tips that can be used in real-world scenarios, making it a valuable resource for both professionals and students. It is a must-read for anyone looking to gain a deeper understanding of forensic analysis on Linux systems.\"",
+        "—The Security Noob",
+        "\"After",
+        "Practical Forensic Imaging",
+        ", Bruce Nikkel has produced another fantastic learning resource and reference in",
+        "Practical Linux Forensics",
+        ". Made both for professionals more familiar with Windows or macOS forensics as well as adept Linux users looking to learn forensics, it does not need to be read linearly. Each chapter provides focused knowledge on different aspects of Linux systems in a distribution-agnostic manner. Definitely grab a copy to demystify this area of computer forensics.\"",
+        "—Daniyal S., Advanced Reviewer",
+        "\"Bruce Nikkel shares some [insight on] really uncommon and least understood areas of the Linux network stack, which will be very valuable for practitioners . . . [",
+        "Practical Linux Forensics",
+        "] touches on areas ignored by other resources on the subject.\"",
+        "—Arvind, Advanced Reviewer",
+        "About the Author",
+        "Bruce Nikkel",
+        "is a professor at the Bern University of Applied Sciences in Switzerland, specializing in digital forensics and cybercrime. He is co-head of the university’s research institute for cybersecurity and engineering, and director of the Masters program in Digital Forensics and Cyber Investigation. In addition to his academic work, he has worked in risk and security departments at a global financial institution since 1997. He headed the bank's Cybercrime Intelligence & Forensic Investigation team for more than 15 years and currently works as an advisor. Bruce holds a PhD in network forensics, is the author of",
+        "Practical Forensic Imaging",
+        "(No Starch Press, 2016), and is an editor with Forensic Science International’s",
+        "Digital Investigation",
+        "journal. He has been a Unix and Linux enthusiast since the 1990s."
+    ],
+    "price": "29.43",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51z59jvJvES._SX376_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Bruce Nikkel (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Operating Systems"
+    ],
+    "details": "{\"Publisher\": \"No Starch Press (December 21, 2021)\", \"Language\": \"English\", \"Paperback\": \"400 pages\", \"ISBN 10\": \"171850196X\", \"ISBN 13\": \"978-1718501966\", \"Item Weight\": \"13 ounces\", \"Dimensions\": \"7.07 x 0.92 x 9.26 inches\"}",
+    "parent_asin": "171850196X",
+    "bought_together": null,
+    "subtitle": null,
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Bruce Nikkel', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

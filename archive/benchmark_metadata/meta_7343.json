@@ -1,0 +1,43 @@
+{
+    "main_category": "Books",
+    "title": "Arepas",
+    "average_rating": 3.4,
+    "rating_number": 5,
+    "features": [
+        "\"Arepas\" is a thorough cultural guide that will show you step by step how to make arepas in an utmost authentic Venezuelan way. This meal represents us as a culture, it is our main source of life, and hopefully you will enjoy them in your homes as well."
+    ],
+    "description": [
+        "About the Author",
+        "Sennyo Ookami has been raised amongst wolves and shamans. He has one foot in this world where we live in and one foot in the world where our ancestors live. Sennyo Ookami is a bridge, he will connect you. He is from Venezuelan/Mexican parents, he breathes in magic and exhales hope. This hope lays within the seeds of our future: our beautiful kiddos."
+    ],
+    "price": "13.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51wV-GsO-YL._SY498_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Sennyo Ookami (Author)",
+    "categories": [
+        "Books",
+        "Cookbooks, Food & Wine"
+    ],
+    "details": "{\"Publisher\": \"Balboa Pr (October 12, 2020)\", \"Language\": \"English\", \"Paperback\": \"30 pages\", \"ISBN 10\": \"1982252049\", \"ISBN 13\": \"978-1982252045\", \"Item Weight\": \"3.21 ounces\", \"Dimensions\": \"8.5 x 0.08 x 8.5 inches\"}",
+    "parent_asin": "1982252049",
+    "bought_together": null,
+    "subtitle": "Paperback – October 12, 2020",
+    "author": null
+}

@@ -1,0 +1,50 @@
+{
+    "main_category": "Books",
+    "title": "Fairbanks (Alaska Geographic)",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Book by Campbell, L J"
+    ],
+    "description": [
+        "From",
+        "The New Yorker",
+        "Alaska Geographic's newest quarterly,",
+        "Fairbanks",
+        ", presents a rich blend of historical commentary and great photos... From the men and women who sparked it into existence to those who wheel and deal there today, this volume takes a close look at the people who built Alaska's second largest city.",
+        "Review",
+        "At the center of Alaska's golden heart lies the state's second largest city, Fairbanks. From its origin as a mining supply depot on the Chena River, Fairbanks has grown into the service and supply center for Alaska's Interior and North. With index. 96 pages. --",
+        "Publisher"
+    ],
+    "price": "19.23",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51E6TFBS4EL._SY367_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "L J Campbell (Author),  Penny Rennick (Editor)",
+    "categories": [
+        "Books",
+        "Travel",
+        "United States"
+    ],
+    "details": "{\"Publisher\": \"Alaska Geographic Society; volume 22 number 1 edition (April 1, 1995)\", \"Language\": \"English\", \"Paperback\": \"96 pages\", \"ISBN 10\": \"1566610257\", \"ISBN 13\": \"978-1566610254\", \"Item Weight\": \"10.4 ounces\", \"Dimensions\": \"10.74 x 0.28 x 8.44 inches\"}",
+    "parent_asin": "1566610257",
+    "bought_together": null,
+    "subtitle": "Paperback – April 1, 1995",
+    "author": null
+}

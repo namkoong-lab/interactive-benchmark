@@ -1,0 +1,47 @@
+{
+    "main_category": "Pet Supplies",
+    "title": "MacKenzie-Childs Birdhouse Hook 6\" W x 23.5\" H",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [],
+    "description": [
+        "Deciding between Birdazzled, Hollyhock, and Flyer’s Folly birdhouses is no small feat, so we’ve made this part easy: one Birdhouse Hook, charming enough for all. Crafted of wrought iron, this fern-inspired scroll is crowned with a small sparrow to keep your new feathered neighbors company. Little touches like this are what transform a birdhouse into a bird home. And a backyard into a garden refuge. Dimensions: 6\" wide, 23.5\" tall"
+    ],
+    "price": "59.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81RUCqZ+MfL._AC_SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51CG-t0A-eL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/312IMi8OPeL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51CG-t0A-eL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/312IMi8OPeL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "MACKENZIE-CHILDS",
+    "categories": [
+        "Patio, Lawn & Garden",
+        "Outdoor Décor",
+        "Backyard Birding & Wildlife",
+        "Birds",
+        "Birdhouses"
+    ],
+    "details": "{\"Color\": \"Multi Colors\", \"Brand\": \"MACKENZIE-CHILDS\", \"Material\": \"Iron\", \"Finish Type\": \"Painted\", \"Style\": \"Modern\", \"Date First Available\": \"September 19, 2012\", \"Manufacturer\": \"MacKenzie-Childs\"}",
+    "parent_asin": "B009DHSIG4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

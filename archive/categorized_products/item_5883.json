@@ -1,0 +1,65 @@
+{
+  "item_id": 5883,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "FashionMark Womens Plus Size Strappy Army Print Flared Swing Dress Top Vest",
+    "average_rating": 2.7,
+    "rating_number": 2,
+    "features": [
+      "95% Viscose, 5% Other Fibers",
+      "Machine Washable",
+      "Womens Plus Size Strappy Army Print Flared Swing Dress Top Vest",
+      "Material: 95% Viscose 5% Elastane",
+      "Approximate Length (Size Small): 34\" , Approximate Bust Size (Size Small): 16\"",
+      "Soft, Stretchy & Comfortable material",
+      "Size Guideline : US SM (4-6) = UK (8-10), US ML (8-10)= UK (12-14), US XL (12-14) = UK (16-18), US XXL (16-18) = UK (20-22)"
+    ],
+    "description": [
+      "Womens Plus Size Strappy Army Print Flared Swing Dress Top Vest, Soft, Stretchy & Comfortable material, Material: 95% Viscose 5% Elastane, Approximate Length (Size Small): 34\" , Approximate Bust Size (Size Small): 16\" , Size Guideline : US SM (4-6) = UK (8-10), US ML (8-10)= UK (12-14), US XL (12-14) = UK (16-18), US XXL (16-18) = UK (20-22), Machine Washable,"
+    ],
+    "price": "6.01",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61b+4xdj9XL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61b+4xdj9XL._AC_UL1200_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51fp4cURBxL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51fp4cURBxL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51fp4cURBxL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51fp4cURBxL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "FashionMark",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Tops, Tees & Blouses",
+      "Tanks & Camis"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"April 23, 2015\"}",
+    "parent_asin": "B00WKTND30",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Dresses"
+    ],
+    "confidence": 0.95
+  }
+}

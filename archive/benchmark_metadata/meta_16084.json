@@ -1,0 +1,56 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Sum of Our Parts",
+    "average_rating": 3.5,
+    "rating_number": 3,
+    "features": [
+        "Solid colors: 100% Cotton; Heather Grey: 90% Cotton, 10% Polyester; All Other Heathers: 58% Cotton, 42% Polyester",
+        "Imported",
+        "Eye closure",
+        "Machine Wash",
+        "This premium t-shirt is made of lightweight fine jersey fabric",
+        "Fit: Men’s fit runs small, size up for a looser fit. Women’s fit is true to size, order usual size."
+    ],
+    "description": [
+        "The DeviantArt logo is symbolic of our mission. It's an audacious and inspired evolution of our original DeviantArt logo - literally turning the art world upside down. We love it because, like DeviantArt, people might not get it right away."
+    ],
+    "price": "19.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/A1OZPgCsCHL._CLa%7C2140%2C2000%7C71cePNc3YhL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UL1500_.png",
+            "https://m.media-amazon.com/images/I/71GTvk9iSQL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/A1OZPgCsCHL._CLa%7C500%2C468%7C71cePNc3YhL.png%7C0%2C0%2C500%2C468%2B0.0%2C0.0%2C500.0%2C468.0_AC_.png",
+            "https://m.media-amazon.com/images/I/41Ay1jYS51L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/A1OZPgCsCHL._CLa%7C500%2C468%7C71cePNc3YhL.png%7C0%2C0%2C500%2C468%2B0.0%2C0.0%2C500.0%2C468.0_AC_SR38,50_.png",
+            "https://m.media-amazon.com/images/I/41Ay1jYS51L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "DeviantArt",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Boys",
+        "Tops & Tees",
+        "T-Shirts"
+    ],
+    "details": "{\"Package Dimensions\": \"10 x 8 x 1 inches; 4.8 Ounces\", \"Department\": \"Boys\", \"Date First Available\": \"March 22, 2016\", \"Manufacturer\": \"DeviantArt\"}",
+    "parent_asin": "B0188CKLUU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

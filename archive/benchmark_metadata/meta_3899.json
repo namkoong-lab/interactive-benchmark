@@ -1,0 +1,71 @@
+{
+    "main_category": "All Beauty",
+    "title": "My Daily Dose of Uplift Serum",
+    "average_rating": 4.5,
+    "rating_number": 74,
+    "features": [],
+    "description": [
+        "A custom pre-blended serum that delivers an anti-aging power punch, helping you with smoother, firmer and younger-looking skin."
+    ],
+    "price": "28.51",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51GgMZ70mqL._SL1122_.jpg",
+            "https://m.media-amazon.com/images/I/51GgMZ70mqL._SL1122_.jpg",
+            "https://m.media-amazon.com/images/I/91xO2xvnG-L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61lc8Nz6MsL._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61MOtyr0kJL._SL1200_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/71I8GbUmTPL._SL1094_.jpg",
+            "https://m.media-amazon.com/images/I/81KxZkoOnCL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/310zQeUuXiL.jpg",
+            "https://m.media-amazon.com/images/I/310zQeUuXiL.jpg",
+            "https://m.media-amazon.com/images/I/41d35ZjiWhL.jpg",
+            "https://m.media-amazon.com/images/I/41v+v35Kd1L.jpg",
+            "https://m.media-amazon.com/images/I/41R1NMZrDXL.jpg",
+            "https://m.media-amazon.com/images/I/21tCI-1vpyL.jpg",
+            "https://m.media-amazon.com/images/I/51HLHMMOjOL.jpg",
+            "https://m.media-amazon.com/images/I/31JlfrmAQ2L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/310zQeUuXiL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/310zQeUuXiL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41d35ZjiWhL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41v+v35Kd1L._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41R1NMZrDXL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/21tCI-1vpyL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51HLHMMOjOL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/31JlfrmAQ2L._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "PT01",
+            "PT02",
+            "PT12",
+            "INGR",
+            "RGHT"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Skin Inc Serum Glow Filter"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0486627556114ce68ad7a2a2628655d3?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "/shop/influencer-331c1f2b"
+        ]
+    },
+    "store": "SkinInc Supplement Bar",
+    "categories": [],
+    "details": "{\"Product Benefits\": \"Anti-Aging\", \"Scent\": \"Aloe\", \"Brand\": \"SkinInc Supplement Bar\", \"Item Form\": \"Serum\", \"Item Weight\": \"0.13 Kilograms\", \"Product Dimensions\": \"1.57 x 3.94 x 3.94 inches; 4.52 Ounces\"}",
+    "parent_asin": "B07THFZX4N",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

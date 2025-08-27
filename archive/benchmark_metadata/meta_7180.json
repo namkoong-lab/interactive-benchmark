@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "A Wing and a Prayer: A Memoir",
+    "average_rating": 4.1,
+    "rating_number": 5,
+    "features": [
+        "The personal memoirs of Ralph Burbridge in his own words. The last surviving member of the crew of the All American, the famous B-17 that barely returned to base with a badly damaged rudder and stabilizer, tells the story of his life: how he lived, and what he did. This brief autobiography highlights the events of his life."
+    ],
+    "description": [
+        "About the Author",
+        "Born in a small town in Missouri in 1920, Ralph Burbridge was just a boy when he answered the call of his country to go to war. He was present in one of the most publicized events of World War II. Upon returning home, he started a family, and lived his life, working for several charities and the Veterans Administration during his career before retiring to make beer, wine, and live in Washington with his wife."
+    ],
+    "price": "6.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41w7fzstfcL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mr. Ralph Burbridge (Author),  Mr. Justin E Jones (Editor)",
+    "categories": [
+        "Books",
+        "Biographies & Memoirs",
+        "Memoirs"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform; 1st edition (December 6, 2012)\", \"Language\": \"English\", \"Paperback\": \"44 pages\", \"ISBN 10\": \"1481094157\", \"ISBN 13\": \"978-1481094153\", \"Item Weight\": \"2.57 ounces\", \"Dimensions\": \"6 x 0.1 x 9 inches\"}",
+    "parent_asin": "1481094157",
+    "bought_together": null,
+    "subtitle": "Paperback – December 6, 2012",
+    "author": null
+}

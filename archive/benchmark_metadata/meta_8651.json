@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Lost Galveston (Images of America)",
+    "average_rating": 4.8,
+    "rating_number": 53,
+    "features": [
+        "For nearly 200 years, a permanent settlement at the mouth of Galveston Bay has welcomed pirates, sailors, immigrants, and visitors from around the world. As Galveston grew, its buildings were visible signs of the city's prosperity and the talent of its craftsmen. For many, this city was a gateway to America and an inspiration of what other communities in Texas and the Southwest would become. Although Galveston has thousands of historic buildings remaining, many have been lost to the elements and development over the years. Buildings such as the ones found within these pages define the character of our city and its culture."
+    ],
+    "description": [
+        "About the Author",
+        "Founded in 1871 and incorporated in 1954, the Galveston Historical Foundation has grown to become one of the largest local-level preservation organizations in the country. The foundation's mission is to preserve and revitalize the architectural, cultural, and maritime heritage of Galveston Island for the education and enrichment of all. Only a small portion of Galveston's historic buildings are protected by local historic districts, which first appeared in the 1970s. While not every building can be saved, this collection of lost Galveston buildings shows the importance of saving the historic structures that remain, not only in Galveston, but in every town."
+    ],
+    "price": "18.01",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61XJfpfDT1L._SX346_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Brian M. Davis (Author)",
+    "categories": [
+        "Books",
+        "History",
+        "Americas"
+    ],
+    "details": "{\"Publisher\": \"Arcadia Publishing; Illustrated edition (July 19, 2010)\", \"Language\": \"English\", \"Paperback\": \"128 pages\", \"ISBN 10\": \"0738566845\", \"ISBN 13\": \"978-0738566849\", \"Item Weight\": \"10.9 ounces\", \"Dimensions\": \"6.5 x 0.31 x 9.25 inches\"}",
+    "parent_asin": "0738566845",
+    "bought_together": null,
+    "subtitle": "Paperback – Illustrated, July 19, 2010",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Brian M.2 Davis', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

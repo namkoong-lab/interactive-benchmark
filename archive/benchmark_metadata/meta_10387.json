@@ -1,0 +1,45 @@
+{
+    "main_category": "Digital Music",
+    "title": "Take Over",
+    "average_rating": 4.4,
+    "rating_number": 9,
+    "features": [],
+    "description": [
+        "The first and only full album by the SUC."
+    ],
+    "price": "11.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81YfBMC1yyL._SL1079_.jpg",
+            "https://m.media-amazon.com/images/I/81i34IB+NHL._SL1225_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61EFOZP-NQL.jpg",
+            "https://m.media-amazon.com/images/I/61JQGMxggwL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61EFOZP-NQL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/61JQGMxggwL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "SCREWED UP CLICK  (Artist)    Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Rap & Hip-Hop",
+        "Pop Rap"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.6 x 0.4 x 4.9 inches; 4 Ounces\", \"Manufacturer\": \"Sosouth Distribution\", \"Original Release Date\": \"2014\", \"Date First Available\": \"March 12, 2014\", \"Label\": \"Sosouth Distribution\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00IYVW5S2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

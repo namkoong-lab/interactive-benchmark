@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The Little Way for Every Day: Thoughts from Thérèse of Lisieux",
+    "average_rating": 4.7,
+    "rating_number": 283,
+    "features": [
+        "An inspirational thought, accompanied by a scripture passage for each day of the year, from this popular doctor of the church. †"
+    ],
+    "description": [
+        "About the Author",
+        "Patrick Ahern, an auxiliary bishop of New York, is widely regarded as one of the foremost experts on the spirituality of Saint Therese of Lisieux. He lives and works in Manhattan."
+    ],
+    "price": "7.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/410Wj8BNb5L._SX371_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "St. Therese of Lisieux (Author),  Francis Broome (Translator)",
+    "categories": [
+        "Books",
+        "Christian Books & Bibles",
+        "Christian Living"
+    ],
+    "details": "{\"Publisher\": \"Paulist Press; 1/30/06 edition (March 1, 2006)\", \"Language\": \"English\", \"Paperback\": \"96 pages\", \"ISBN 10\": \"0809143747\", \"ISBN 13\": \"978-0809143740\", \"Item Weight\": \"2.72 ounces\", \"Dimensions\": \"4.25 x 0.28 x 5.95 inches\"}",
+    "parent_asin": "0809143747",
+    "bought_together": null,
+    "subtitle": "Paperback – March 1, 2006",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Saint Thérèse de Lisieux', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

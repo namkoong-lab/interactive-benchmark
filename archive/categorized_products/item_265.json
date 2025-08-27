@@ -1,0 +1,52 @@
+{
+  "item_id": 265,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Live in Japan",
+    "average_rating": 4.8,
+    "rating_number": 20,
+    "features": [],
+    "description": [
+      "Japanese edition of 2003 release features 16 tracks recorded Live in Japan in 1989. RCA/BMG."
+    ],
+    "price": "50.99",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51HXeDhY5OL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51HXeDhY5OL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Fairground Attraction   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Indie & Alternative",
+      "Indie & Lo-Fi",
+      "Jangle Pop"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.55 x 4.97 x 0.54 inches; 2.83 Ounces\", \"Manufacturer\": \"Sony Bmg\", \"Original Release Date\": \"2003\", \"Date First Available\": \"December 4, 2006\", \"Label\": \"Sony Bmg\", \"Country of Origin\": \"Japan\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B0000CBCAD",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Cultural & World Music"
+    ],
+    "confidence": 0.95
+  }
+}

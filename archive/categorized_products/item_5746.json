@@ -1,0 +1,65 @@
+{
+  "item_id": 5746,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "AG Adriano Goldschmied Men's The Matchbox Slim-Fit Jean",
+    "average_rating": 4.1,
+    "rating_number": 11,
+    "features": [
+      "98% Cotton, 2% Polyurethane",
+      "Button closure",
+      "Machine Wash",
+      "Five-pocket jean in uninterrupted wash featuring contrast stitching and contoured waistband",
+      "Zipper fly with button closure",
+      "11.75-oz Japanese Union denim",
+      "Inseam: 32\""
+    ],
+    "description": [
+      "Slim Straight, our most slim-fitting jean, fitted throughout the hip, thighs, and leg, the perfect slim and straight jean"
+    ],
+    "price": "127.77",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81717utGSBL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81o8gUQ01fL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41SWLnmvCkL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41DJmIs4KJL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41SWLnmvCkL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41DJmIs4KJL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "AG Adriano Goldschmied",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Jeans"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"1131UDK JAK\", \"Department\": \"mens\", \"Date First Available\": \"November 2, 2010\", \"Manufacturer\": \"AG Adriano Goldschmied\"}",
+    "parent_asin": "B0043M5UYC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Jeans"
+    ],
+    "confidence": 0.95
+  }
+}

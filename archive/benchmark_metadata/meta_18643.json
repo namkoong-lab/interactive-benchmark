@@ -1,0 +1,50 @@
+{
+    "main_category": "All Beauty",
+    "title": "Enjoy Sulfate Free Conditioning Cleanser, 10 Fluid Ounce",
+    "average_rating": 4.2,
+    "rating_number": 92,
+    "features": [
+        "Cleanses and conditions in one easy step",
+        "Detangles strands for easy styling",
+        "Leaves hair soft, refreshed and with body"
+    ],
+    "description": [
+        "Cleanse, condition and detangle your hair in one easy step with the Sulfate Free Conditioning Cleanser from Enjoy. It leaves hair feeling soft, refreshed and bodified."
+    ],
+    "price": "23.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71Bj+nUaERL._SL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31E0UsWx9NL.jpg",
+            "https://m.media-amazon.com/images/I/31hIqaP1MCL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31E0UsWx9NL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/31hIqaP1MCL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT12"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Enjoy",
+    "categories": [
+        "Beauty & Personal Care",
+        "Hair Care",
+        "Shampoo & Conditioner",
+        "2-in-1 Shampoo & Conditioner"
+    ],
+    "details": "{\"Brand\": \"Enjoy\", \"Item Form\": \"Liquid\", \"Material Feature\": \"Sulfate Free\", \"Product Benefits\": \"Conditioning\", \"Age Range (Description)\": \"Adult\", \"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"2 x 2 x 6.5 inches; 9.6 Ounces\", \"Item model number\": \"0\", \"UPC\": \"813529011330 784190571334\", \"Manufacturer\": \"Enjoy\"}",
+    "parent_asin": "B019WAW9OS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,62 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "Advanced Linux Programming",
+    "average_rating": 4.1,
+    "rating_number": 23,
+    "features": [
+        "This is the eBook version of the printed book. If the print book includes a CD-ROM, this content is not included within the eBook version.",
+        "Advanced Linux Programming is divided into two parts. The first covers generic UNIX system services, but with a particular eye towards Linux specific information. This portion of the book will be of use even to advanced programmers who have worked with other Linux systems since it will cover Linux specific details and differences. For programmers without UNIX experience, it will be even more valuable. The second section covers material that is entirely Linux specific. These are truly advanced topics, and are the techniques that the gurus use to build great applications. While this book will focus mostly on the Application Programming Interface (API) provided by the Linux kernel and the C library, a preliminary introduction to the development tools available will allow all who purchase the book to make immediate use of Linux."
+    ],
+    "description": [
+        "From the Publisher",
+        "Mark Mitchell, Alex Samuel, and Jeffrey Oldham are definitely some of the most talented authors I've had the pleasure of working with. Once you take a look at this book you'll see what I mean. This pre-published review of the book says it all: \"As Linux becomes a more mainstream player in the internet infrastructure market, there is a tremendous need for lucid programming texts that also convey some of the philosophy behind the Linux and GNU movements. This book does an incredible job of covering all of that. I think it will be a standard against which other programming texts for Linux (and with all due respect to Richard Stevens, possibly UNIX as well) are measured.\"",
+        "Adam Goodman, Publisher, Linux Magazine CodeSourcery is a top-notch group of guys who have brought you a top-notch book you can't be without. They are the epitome of our mission here at New Riders - to publish the VOICES THAT MATTER. Take a look and determine for yourself. I know you'll find this to be one of those books you keep on your shelf forever and ever. Be sure to write into me here at New Riders and let me know what you think and how this book helped you out. Enjoy!",
+        "~Stephanie Wall, Executive Editor",
+        "nrfeedback@newriders.com",
+        "From the Author",
+        "Back when we first started programming for the GNU/Linux environment, we had to learn it the hard way - by browsing man pages, online documentation, and the Linux source code looking for features we needed. We wished for a book that provided a road map of Linux's capabilities and quirks that manifest themselves in real-world programs. Now that we know our way around, we've written that book to help the next generation of GNU/Linux programmers learn the advanced features and techniques that are most often employed by professional developers for this platform.",
+        "~CodeSourcery, June 2001",
+        "From the Back Cover",
+        "Advanced Linux Programming is divided into two parts. The first covers generic UNIX system services, but with a particular eye towards Linux specific information. This portion of the book will be of use even to advanced programmers who have worked with other Linux systems since it will cover Linux specific details and differences. For programmers without UNIX experience, it will be even more valuable. The second section covers material that is entirely Linux specific. These are truly advanced topics, and are the techniques that the gurus use to build great applications. While this book will focus mostly on the Application Programming Interface (API) provided by the Linux kernel and the C library, a preliminary introduction to the development tools available will allow all who purchase the book to make immediate use of Linux.",
+        "About the Author",
+        "Mark Mitchell",
+        "received a bachelor of arts degree in computer science from Harvard in 1994 and a master of science degree from Stanford in 1999. His research interests centered on computational complexity and computer security. Mark has participated substantially in the development of the GNU Compiler Collection, and he has a strong interest in developing quality software.",
+        "Jeffrey Oldham",
+        "received a bachelor of arts degree in computer science from Rice University in 1991. After working at the Center for Research on Parallel Computation, he obtained a doctor of philosophy degree from Stanford in 2000. His research interests center on algorithm engineering, concentrating on flow and other combinatorial algorithms. He works on GCC and scientific computing software.",
+        "Alex Samuel",
+        "graduated from Harvard in 1995 with a degree in physics. He worked as a software engineer at BBN before returning to study physics at Caltech and the Stanford Linear Accelerator Center. Alex administers the Software Carpentry project and works on various other projects, such as optimizations in GCC.",
+        "Mark and Alex founded CodeSourcery LLC together in 1999. Jeffrey joined the company in 2000. CodeSourcery's mission is to provide development tools for GNU/Linux and other operating systems; to make the GNU tool chain a commercial-quality, standards-conforming development tool set; and to provide general consulting and engineering services. CodeSourcery's Web site is http://www.codesourcery.com.",
+        "Read more"
+    ],
+    "price": "36.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51UT8DTIyxL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "LLC CodeSourcery (Author),  Mark L. Mitchell (Author),  Alex Samuel (Author),  Jeffrey Oldham (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Operating Systems"
+    ],
+    "details": "{\"Publisher\": \"Sams Publishing; 1st edition (June 11, 2001)\", \"Publication date\": \"June 11, 2001\", \"Language\": \"English\", \"File size\": \"10388 KB\", \"Simultaneous device usage\": \"Up to 5 simultaneous devices, per publisher limits\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Not Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"576 pages\"}",
+    "parent_asin": "B0039KOA0O",
+    "bought_together": null,
+    "subtitle": "1st Edition, Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Mark Mitchell', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

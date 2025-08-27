@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The Best Travel Guide to Yellowstone and Grand Teton National Parks : Including Jackson Hole Wyoming",
+    "average_rating": 3.4,
+    "rating_number": 4,
+    "features": [
+        "A complete travel guide to Jackson Hole, Wyoming and the two wonderous national parks that make this valley famous. Easiely referenced and indexed to provide you with hundreds of facts, tips, maps, activities and informatn to make your stay unforgettable. You'll find historical information, geological data, the best trails to hike and a complete listing of lodging and dining facilities. A \"must have\"."
+    ],
+    "description": [
+        "About the Author",
+        "Joy Johnson was born in Cleveland, Ohio and grew up in Orlando, Florida. She moved to Jackson Hole, Wyoming in 1989 and immediately fell in love with the American West. She spent three years researching and writing this guidebook, living in the town of Jackson. She has written numerous magazine and newpaper articles on Yellowstone, the Rockie Mountains, the Canadian Rockies."
+    ],
+    "price": "13.59",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51ABCFRPG2L._SX294_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Joy M. Johnson (Author)",
+    "categories": [
+        "Books",
+        "Travel",
+        "United States"
+    ],
+    "details": "{\"Language\": \"English\", \"ISBN 10\": \"1880782146\", \"ISBN 13\": \"978-1880782149\", \"Item Weight\": \"10.4 ounces\"}",
+    "parent_asin": "1880782146",
+    "bought_together": null,
+    "subtitle": "Paperback",
+    "author": null
+}

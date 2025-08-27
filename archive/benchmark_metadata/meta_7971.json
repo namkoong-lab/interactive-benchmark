@@ -1,0 +1,51 @@
+{
+    "main_category": "Books",
+    "title": "20,000 Leagues Under the Sea",
+    "average_rating": 4.2,
+    "rating_number": 457,
+    "features": [
+        "The story begins when a mysterious sea monster, theorized by some to be a giant narwhal, is sighted by ships of several nations",
+        "; an ocean liner is also damaged by the creature. The United States government assembles an expedition to track down and destroy the menace. Professor Pierre Aronnax is a noted French marine biologist and narrator of the story; as he happens to be in America at the time and is a recognized expert in his field, he is issued a last-minute invitation to join the expedition, and he accepts. Canadian master harpoonist Ned Land and Aronnax's faithful assistant Conseil are also brought along.",
+        "The expedition sets sail and after much fruitless searching, the monster is found. The ship charges into battle. During the fight, the ship's steering is damaged, and the three protagonists are thrown overboard. They find themselves stranded on the hide of the creature, only to discover to their surprise that it is a large metal construct. They are quickly captured and brought inside the vessel, where they meet its enigmatic creator and commander, Captain Nemo. It is here the adventure truly begins!"
+    ],
+    "description": [
+        "About the Author",
+        "Jules Verne",
+        "(1828-1905) was a French author best known for his tales of adventure, including",
+        "Twenty Thousand Leagues under the Sea, Journey to the Center of the Earth,",
+        "and",
+        "Around the World in Eighty Days",
+        ". A true visionary, Verne foresaw the skyscraper, the submarine, and the airplane, among many other inventions, and is now regarded as one of the fathers of science fiction."
+    ],
+    "price": "17.36",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51-EHncXw-L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jules Verne (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Genre Fiction"
+    ],
+    "details": "{\"Publisher\": \"Wilder Publications (April 3, 2018)\", \"Language\": \"English\", \"Hardcover\": \"312 pages\", \"ISBN 10\": \"1515434060\", \"ISBN 13\": \"978-1515434061\", \"Reading age\": \"8 - 12 years\", \"Lexile measure\": \"710L\", \"Grade level\": \"3 - 7\", \"Item Weight\": \"1.38 pounds\", \"Dimensions\": \"6 x 0.81 x 9 inches\"}",
+    "parent_asin": "1515434060",
+    "bought_together": null,
+    "subtitle": "Hardcover – April 3, 2018",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/51kDXbS1pnL._SY600_.jpg', 'name': 'Jules Verne', 'about': ['Jules Verne (1828-1905) was a French author best known for his tales of adventure, including Twenty Thousand Leagues under the Sea, Journey to the Center of the Earth, and Around the World in Eighty Days. A true visionary, Verne foresaw the skyscraper, the submarine, and the airplane, among many other inventions, and is now regarded as one of the fathers of science fiction.']}"
+}

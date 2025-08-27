@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Began with a Rose",
+    "average_rating": 4.9,
+    "rating_number": 22,
+    "features": [
+        "Began with a Rose is a collection of poetry focusing on the gritty and empowering themes of love, nature, pain, depression, hope, and strength. The poems entail painful struggles, but also a courageous and rejuvenating outlook on life."
+    ],
+    "description": [
+        "About the Author",
+        "Savannah Jade lives in Southern California. She currently attends a local college and enjoys embarking on spontaneous traveling trips in her free time. Within the following years she plans on publishing more poetry and eventually a series of novels. For more of her work visit her Instagram page or website. IG: @JadePoetry jadepoetry.com"
+    ],
+    "price": "8.31",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41JLOiXFLBL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Savannah Jade (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Poetry"
+    ],
+    "details": "{\"Publisher\": \"Savannah Jade (June 21, 2016)\", \"Language\": \"English\", \"Paperback\": \"160 pages\", \"ISBN 10\": \"0692722246\", \"ISBN 13\": \"978-0692722244\", \"Item Weight\": \"7.8 ounces\", \"Dimensions\": \"6 x 0.37 x 9 inches\"}",
+    "parent_asin": "0692722246",
+    "bought_together": null,
+    "subtitle": "Paperback – June 21, 2016",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Savannah Jade', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

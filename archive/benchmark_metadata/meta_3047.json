@@ -1,0 +1,65 @@
+{
+    "main_category": "Grocery",
+    "title": "MW Polar Canned Fruit, Fruit Cocktail in Light Sryup 15 ounce (Pack of 12)",
+    "average_rating": 4.1,
+    "rating_number": 50,
+    "features": [
+        "Fruit Coocktail in 100% natural juice, 15 oz, pack of 12 (180oz. total)",
+        "All natural fruit: Pears, Peaches, Pinapples, and Cherries all mixed in one!",
+        "Rich in Vitamin C",
+        "Kosher certified.",
+        "BPA Free and recyclable packaging"
+    ],
+    "description": [
+        "Polar is committed to help plant a healthier lifestyle by providing affordable and delicious fruit to your life. Our canning process ensures that the fruits retain their nutrients and natural sweet flavor because they are picked and packed at the peak of freshness! Polar ensures that all fruit are choice grade premium hand selected with uniform sliced cutting. They are packed in BPA free coating cans to prevent nutrition loss and hold natural sweetness. Did you know that the amount of vitamins, minerals, and fiber in canned fruits remain the same even after one to two years of storage? So let Polar help provide you with your three daily servings of fruits!"
+    ],
+    "price": "32.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61pS2iL9efL._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/618jeoVvgsL._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61-CEcdYJBL._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61G7uFVG3OL._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61P8X1nsrgL._SL1496_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51OoDS8c7wL.jpg",
+            "https://m.media-amazon.com/images/I/51uC5NYA4RL.jpg",
+            "https://m.media-amazon.com/images/I/51c+0yZh0kL.jpg",
+            "https://m.media-amazon.com/images/I/51sHBBgAxDL.jpg",
+            "https://m.media-amazon.com/images/I/41wxczIG0BL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51OoDS8c7wL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51uC5NYA4RL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51c+0yZh0kL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51sHBBgAxDL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41wxczIG0BL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "MW Polar",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Canned, Jarred & Packaged Foods",
+        "Fruits",
+        "Mixed"
+    ],
+    "details": "{\"Package Dimensions\": \"12.2 x 9.17 x 4.8 inches; 14.11 Pounds\", \"Item model number\": \"27521\", \"Manufacturer\": \"MW polar\"}",
+    "parent_asin": "B004TEXEOW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

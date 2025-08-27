@@ -1,0 +1,86 @@
+{
+  "item_id": 4858,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Merrell Women's Running Shoes Sandals",
+    "average_rating": 4.4,
+    "rating_number": 67,
+    "features": [
+      "Rubber sole",
+      "Waterproof suede leather and mesh upper",
+      "Bellows tongue keeps debris out",
+      "Protective rubber toe cap",
+      "Merrell Air Cushion in the heel absorbs shock and adds stability",
+      "Merrell Kinetic Fit BASE removable contoured footbed for flexible support"
+    ],
+    "description": [
+      "Merrell San Remo II J001454, Womens sandals, black, 39 EU"
+    ],
+    "price": "99.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71WJdqzYyEL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/710vK9MO2lL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71zUzOsVzML._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61mZLkntoNL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71X9TG9jZ-L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/716AT5scqmL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Fc4bmBvvL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41hK41fCAWL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/417Fu0scTxL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/414adHhRv1L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31KPnU4VrPL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41ZWGA8syGL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41CX4CKwCrL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31dMDsAfqiL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41hK41fCAWL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/417Fu0scTxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/414adHhRv1L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31KPnU4VrPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41ZWGA8syGL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41CX4CKwCrL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31dMDsAfqiL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05",
+        "PT06",
+        "PT07"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Merrell",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Outdoor",
+      "Hiking & Trekking",
+      "Hiking Shoes"
+    ],
+    "details": "{\"Product Dimensions\": \"5 x 5 x 0.7 inches; 2 Pounds\", \"Item model number\": \"J31011\", \"Department\": \"womens\", \"Date First Available\": \"April 12, 2022\", \"Manufacturer\": \"Merrell\"}",
+    "parent_asin": "B09YPCRWPH",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Sandals"
+    ],
+    "confidence": 0.95
+  }
+}

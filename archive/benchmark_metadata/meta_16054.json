@@ -1,0 +1,66 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Tommy Hilfiger Women's Lounge Sleep Sweatshirt Hoodie",
+    "average_rating": 4.3,
+    "rating_number": 95,
+    "features": [
+        "60% Cotton, 40% Polyester",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Relaxed fit pullover",
+        "Ribbed hem and cuffs",
+        "Slightly cropped length",
+        "Soft-touch cotton blend fabric",
+        "Relaxed-fit hoodie that can be both comfortable and chic."
+    ],
+    "description": [
+        "Printed with that old-school logo you loved to live in, this super soft pullover sweatshirt is perfect for slouching around the house or heading to town for a relaxed brunch. Crew neck. Relaxed fit. Color block details."
+    ],
+    "price": "32.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91bfv2gm0wL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91ZdK48jazL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81xuH+7Yq3L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61l6Dsxq88L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41aVev+F2RL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/419bJTDmnfL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31EKQUj5oGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31mkuEZKDIL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41aVev+F2RL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/419bJTDmnfL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31EKQUj5oGL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31mkuEZKDIL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT09"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Tommy Hilfiger",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Lingerie, Sleep & Lounge",
+        "Sleep & Lounge",
+        "Tops"
+    ],
+    "details": "{\"Item model number\": \"R27S020\", \"Department\": \"womens\", \"Date First Available\": \"December 30, 2022\", \"Manufacturer\": \"Tommy Hilfiger\"}",
+    "parent_asin": "B0BRCS5QWX",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

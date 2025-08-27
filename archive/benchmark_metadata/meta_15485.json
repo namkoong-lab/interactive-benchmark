@@ -1,0 +1,77 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "New Balance Unisex-Child Procourt V1 Sneaker",
+    "average_rating": 4.3,
+    "rating_number": 7,
+    "features": [
+        "50% Fabric, 50% Textile",
+        "Imported",
+        "Rubber sole",
+        "Suede/canvas upper",
+        "Rubber rand"
+    ],
+    "description": [
+        "Klcrt court lifestyle"
+    ],
+    "price": "31.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71HaCxxCyWL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81OUo0GEmQL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81qe2GLXefL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71MyWWU6EOL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81Nzwy-WkVL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/716G49c0aBL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81IQIFQxYxL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/712dXjygwZL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41oNjWP8xgL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51OeJm3UzKL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51TXEsf8IAL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Sd2HaU7YL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/419eSnUprGL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41ulduChDML._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41T-1muJx8L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41uzPIWsXHL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41oNjWP8xgL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51OeJm3UzKL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51TXEsf8IAL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41Sd2HaU7YL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/419eSnUprGL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41ulduChDML._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41T-1muJx8L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41uzPIWsXHL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "BOTT",
+            "TOPP",
+            "RGHT",
+            "PAIR",
+            "LEFT"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "New Balance",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Baby",
+        "Baby Girls",
+        "Shoes",
+        "Sneakers"
+    ],
+    "details": "{\"Item model number\": \"KVCRTPWI\", \"Department\": \"unisex-child\", \"Date First Available\": \"May 10, 2020\", \"Manufacturer\": \"New Balance\"}",
+    "parent_asin": "B088F221BW",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

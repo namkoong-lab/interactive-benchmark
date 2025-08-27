@@ -1,0 +1,85 @@
+{
+  "item_id": 2529,
+  "metadata": {
+    "main_category": "GPS & Navigation",
+    "title": "DWEII 2 Pack GPS+BDS Dual-Mode Module Flight Control Satellite Positioning Navigator, ATGM336H Replacement NEO-M8N NEO-6M for Arduino",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+      "Application areas: Car positioning in navigation;Mobile phones, tablet PCs, handheld devices;Embeddedpositioning device;Wearable device",
+      "2PCS ATGM336H Chip GPS+BDS Beidou dual-mode positioning navigation module",
+      "The ATGM336H-5N series module is a generic term for the 9.7 * 10.1-size high-performance BDS / GNSS constellation positioning navigation module family",
+      "Excellent positioning and navigation functions,support single-system positioning of BDS/GPS/GLONASS satellite navigation systems,and any combination of multi-system joint positioning,and support QZSS and SBAS systems",
+      "Embedded positioning device"
+    ],
+    "description": [
+      "ATGM336H-5N series module is the general name of the small-size high-performance BDS/GNSS full constellation positioning and navigation module series.This series of module products are based on the fourth-generation low-power GNSS SOC single chip of Zhongke Micro-AT6558,which supports a variety of satellite navigation systems,including China's BDS (Beidou Satellite Navigation System),the United States'GPS,Russia's GLONASS,and the European Union GALILEO,Japan’s QZSS and satellite augmentation system SBAS(WAAS,EGNOS,GAGAN,MSAS).AT6558 is a true six-in-one multi-mode satellite navigation and positioning chip,including 32 tracking channels,which can receive GNSS signals from six satellite navigation systems at the same time,and realize joint positioning,navigation and timing.ATGM336H-5N This series of modules has the advantages of high sensitivity,low power consumption,and low cost.It is suitable for car navigation,handheld positioning,and wearable devices.It can directly replace Ublox MAX series modules. Performance: Excellent positioning and navigation functions,support single-system positioning of BDS/GPS/GLONASS satellite navigation systems,and any combination of multi-system joint positioning,and support QZSS and SBAS systems Support A-GNSS Cold start capture sensitivity:-148dBm Tracking sensitivity:-162dBm Positioning accuracy:2.5 meters (CEP50,open ground) First positioning time:32 seconds Low power consumption:continuous operation andlt;;25mA(@3.3V) Built-in antenna detection and antenna short-circuit protection function Package: 2PCS"
+    ],
+    "price": "18.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71uqJTihl9L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61OGyrfZIbL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71raOjpk6dL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51M49GeWarL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51dv08G9YsL._AC_SL1001_.jpg",
+        "https://m.media-amazon.com/images/I/51K-DUxCM+L._AC_SL1001_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41+zMK4CF2L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41xMt3xtsrL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41-gGdVtW-L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/312ynagTegL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41R6+YPFMGL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41QZGxGENbL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41+zMK4CF2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41xMt3xtsrL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41-gGdVtW-L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/312ynagTegL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41R6+YPFMGL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41QZGxGENbL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05"
+      ]
+    },
+    "videos": {
+      "title": [
+        "GT-U7 GPS Module Receiver Navigation Satellite with EEPROM"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/705c04e3569848cdb6d2e467ed8f8137?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        ""
+      ]
+    },
+    "store": "DWEII",
+    "categories": [
+      "Electronics",
+      "GPS, Finders & Accessories",
+      "GPS System Accessories",
+      "Antennas"
+    ],
+    "details": "{\"Item Weight\": \"0.317 ounces\", \"Package Dimensions\": \"3.66 x 2.4 x 0.47 inches; 0.32 Ounces\", \"Country of Origin\": \"China\", \"Best Sellers Rank\": {\"GPS Antennas\": 86}, \"Date First Available\": \"July 11, 2022\", \"Brand\": \"DWEII\", \"Vehicle Service Type\": \"Car\", \"Map Type\": \"Satellite\", \"Mounting Type\": \"Dashboard Mount, found in image\", \"Compatible Devices\": \"Smartphone\", \"Are Batteries Included\": \"No\", \"Manufacturer\": \"DWEII\"}",
+    "parent_asin": "B0BQLNB3NF",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Electronics",
+      "Home Audio & Theater",
+      "GPS Devices"
+    ],
+    "confidence": 0.95
+  }
+}

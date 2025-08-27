@@ -1,0 +1,56 @@
+{
+  "item_id": 2689,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Statue of Liberty Headband Green",
+    "average_rating": 4.6,
+    "rating_number": 69,
+    "features": [
+      "Measures approximately 15\" w x 12\" h",
+      "Easy on & off",
+      "Great for Adults and Teens (may fit some larger children)",
+      "Other patriotic costumes and accessories are sold separately on our page - subject to availability."
+    ],
+    "description": [
+      "Stand tall with this lovely headpiece which truly reflects the spirit of the statue of Liberty. This striking headpiece features rubber material with stiffened peaks and an elastic closure (for a more comfortable fit). Perfect for 4th of July and other summer holidays, parades, theatrical productions, cosplay, The Purge, school plays and projects and more."
+    ],
+    "price": "19.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51QzYnDLjuL._AC_UL1000_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41JGp0wdEDL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41O1kyBRgcL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41JGp0wdEDL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41O1kyBRgcL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "jAc",
+    "categories": [],
+    "details": "{\"Package Dimensions\": \"11.1 x 11 x 1.2 inches; 6.38 Ounces\", \"Item model number\": \"29287\", \"Department\": \"Women\", \"Date First Available\": \"September 4, 2019\"}",
+    "parent_asin": "B07XF8RRG7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Holiday Accessories"
+    ],
+    "confidence": 0.9
+  }
+}

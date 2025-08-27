@@ -1,0 +1,43 @@
+{
+    "main_category": "Books",
+    "title": "FULLALOVE",
+    "average_rating": 3.1,
+    "rating_number": 12,
+    "features": [
+        "Norman Miller used to be one of Fleet Street's finest. Now he's a middle-aged, burned-out hack with a gift for the sensational story, the shouting tabloid lead. But as he reports on a series of brutal murders and sex crimes, he's forced to wonder whether he is just a witness - or part of some deeper pattern of cause and effect ...'Remarkable ...Devastating ...Required reading for anyone interested in what British fiction should be doing today.' Stephen Amidon, Esquire"
+    ],
+    "description": [
+        "About the Author",
+        "Gordon Burn is the author of four novels, Alma Cogan (winner of the Whitbread First Novel Prize), Fullalove, The North of England Home Service and Born Yesterday. He is also the author of the non-fiction titles Somebody's Husband, Somebody's Son, Pocket Money, Happy Like Murderers, On The Way to Work (with Damien Hirst) and Best and Edwards.",
+        "--This text refers to the",
+        "paperback",
+        "edition."
+    ],
+    "price": "8.57",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41uB2vam4VL._SX302_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Gordon Burn (Author)",
+    "categories": [],
+    "details": "{\"Publisher\": \"Random House UK; First Edition (October 21, 1998)\", \"Language\": \"English\", \"Hardcover\": \"231 pages\", \"ISBN 10\": \"0436200597\", \"ISBN 13\": \"978-0436200595\", \"Item Weight\": \"13.1 ounces\"}",
+    "parent_asin": "0436200597",
+    "bought_together": null,
+    "subtitle": "Hardcover – Import, October 21, 1998",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Gordon Burn', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

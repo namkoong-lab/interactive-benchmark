@@ -1,0 +1,43 @@
+{
+    "main_category": "Books",
+    "title": "Noah's Neighbor",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [
+        "A delightful children's book written and illustrated by Dale Reich about a young boy named Noah who learns the value of being a good neighbor."
+    ],
+    "description": [
+        "About the Author",
+        "Dale Reich, also known as \"Bumpa\" to his four grandsons, is a retired teacher who lives in Wisconsin. He enjoys reading books to children as well as writing and illustrating them. Dale believes that one of the greatest gifts that a parent can give his or her child is to read them a bedtime story every night. \"It was the best part of each day as my children were growing up,\" he says. \"I just wish I could go back and do it all over again! I hope my children feel the same way.\""
+    ],
+    "price": "5.53",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61E0zgid0BL._SY498_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Dale Reich (Author)",
+    "categories": [
+        "Books",
+        "Children's Books"
+    ],
+    "details": "{\"Publisher\": \"Paloma Books (November 18, 2015)\", \"Language\": \"English\", \"Paperback\": \"34 pages\", \"ISBN 10\": \"1555717993\", \"ISBN 13\": \"978-1555717995\", \"Item Weight\": \"3.68 ounces\", \"Dimensions\": \"8.5 x 0.08 x 8.5 inches\"}",
+    "parent_asin": "1555717993",
+    "bought_together": null,
+    "subtitle": "Paperback – November 18, 2015",
+    "author": null
+}

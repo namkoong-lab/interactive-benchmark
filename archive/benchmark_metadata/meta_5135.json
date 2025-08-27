@@ -1,0 +1,43 @@
+{
+    "main_category": "Toys & Games",
+    "title": "All Hallows EVE DIY Banner",
+    "average_rating": 3.0,
+    "rating_number": 1,
+    "features": [
+        "DIY Halloween Banner"
+    ],
+    "description": [
+        "Get your home in the Halloween Spirit with this easy Do It Yourself Halloween Banner Kit!"
+    ],
+    "price": "11.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81ZHY1TQQ-L._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61xLmtxJibL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61xLmtxJibL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "EZscrapbooks",
+    "categories": [
+        "Toys & Games",
+        "Party Supplies",
+        "Decorations"
+    ],
+    "details": "{\"Product Dimensions\": \"12 x 12 x 1 inches\", \"Item Weight\": \"6 ounces\", \"Country of Origin\": \"USA\", \"Is Discontinued By Manufacturer\": \"No\", \"Manufacturer\": \"EZscrapbooks\"}",
+    "parent_asin": "B075XSNQ1M",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

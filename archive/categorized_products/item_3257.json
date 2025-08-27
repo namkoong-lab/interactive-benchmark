@@ -1,0 +1,63 @@
+{
+  "item_id": 3257,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Pearl Izumi - Ride Men's Elite Thermal Long Sleeve Jersey",
+    "average_rating": 4.3,
+    "rating_number": 22,
+    "features": [
+      "100% Polyester",
+      "Imported",
+      "Zipper closure",
+      "Machine Wash",
+      "Three back pockets for storage; Reflective elements for low-light visibility",
+      "Autumn/Winter 2015",
+      "ELITE Thermal Fleece fabric provides superior insulation, moisture transfer, dry time and odor-resistance",
+      "Full-length internal draft flap with zipper garage seals in warmth; Silicone gripper on back to hold jersey in place while riding"
+    ],
+    "description": [
+      "Wear it alone on cool, mild days for cozy, unrestricted warmth, or pair it with a Barrier vest or shell for added protection in cold, wet weather. Made with ELITE Thermal Fleece for insulation and moisture transfer, this long-sleeve jersey is a great three season piece for fall, winter, or spring riding."
+    ],
+    "price": "119.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51JQ2XOTT1L._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41zECz5BIXL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41zECz5BIXL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Pearl Izumi - Ride",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Sport Specific Clothing",
+      "Cycling",
+      "Men",
+      "Jerseys"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"Yes\", \"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Department\": \"mens\", \"Date First Available\": \"November 17, 2009\", \"Manufacturer\": \"Pearl iZUMi Ride\"}",
+    "parent_asin": "B00SOMB7NU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Activewear"
+    ],
+    "confidence": 0.95
+  }
+}

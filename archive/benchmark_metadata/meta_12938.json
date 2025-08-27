@@ -1,0 +1,47 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Corvette Stingray Long Sleeve T-Shirt",
+    "average_rating": 4.6,
+    "rating_number": 12,
+    "features": [
+        "100% Cotton",
+        "Pull On closure",
+        "Machine Wash"
+    ],
+    "description": [
+        "C7 Corvette Stingray Long Sleeve T-Shirt is heavyweight pre-shrunk cotton. DryBlend fabric wicks moisture away from body. Stingray screen print on side of shirt. 50% Pre-shrunk Cotton / 50% Polyester."
+    ],
+    "price": "32.15",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51XwhJ8jY2L._AC_UL1024_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41mi75TZ1lL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41mi75TZ1lL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Corvette Central",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Shirts",
+        "T-Shirts"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"Mens\", \"Date First Available\": \"November 14, 2018\"}",
+    "parent_asin": "B07KJGK8RF",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,60 @@
+{
+  "item_id": 3342,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "ASICS Women's Youth 4\" Volleyball Short",
+    "average_rating": 4.5,
+    "rating_number": 60,
+    "features": [
+      "Imported",
+      "ASICS brand",
+      "TEAM BLACK",
+      "ASICS 4\" Volleyball Short, TEAM BLACK, Ys",
+      "Sports recreation product"
+    ],
+    "description": [
+      "Lightweight quick drying fabric to keep you dry and comfortable ,4 way stretch to move with you for additional comfort , Forward shoulder seam for reduced chafing and Reflective ASICS branding"
+    ],
+    "price": "22.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61bhpecxd0L._AC_UL1406_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/414NSoCUP8L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/414NSoCUP8L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "ASICS",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Athletic",
+      "Team Sports",
+      "Volleyball"
+    ],
+    "details": "{\"Item model number\": \"2054A020\", \"Department\": \"womens\", \"Date First Available\": \"December 19, 2018\", \"Manufacturer\": \"ASICS Sports Apparel\"}",
+    "parent_asin": "B07LGXB2PB",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Sports Shorts"
+    ],
+    "confidence": 0.95
+  }
+}

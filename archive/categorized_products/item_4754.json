@@ -1,0 +1,71 @@
+{
+  "item_id": 4754,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "NYFASHION101 Stone Stud Encircled U Pendant with 2mm Rope Chain Necklace",
+    "average_rating": 3.5,
+    "rating_number": 17,
+    "features": [
+      "Stone Stud Encircled U Pendant Necklace",
+      "2mm 18\" Rope Chain",
+      "Pendant size: 1.5\" x 2.2\"",
+      "Gold-Tone",
+      "Hip-Hop Costume Jewelry"
+    ],
+    "description": [
+      "This is considered costume jewelry; color may fade without proper care."
+    ],
+    "price": "14.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71jMByli60L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71vhc8dHyhL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71M23lLKNUL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71jYPQTfkNL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41bhwABDpmL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Py00MY5xL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/412itGVAJUL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41JuHLpMcyL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41bhwABDpmL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Py00MY5xL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/412itGVAJUL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41JuHLpMcyL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "NYFASHION101",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Jewelry",
+      "Necklaces"
+    ],
+    "details": "{\"Item model number\": \"XSP517RC\", \"Department\": \"Mens\", \"Date First Available\": \"March 17, 2021\", \"Manufacturer\": \"NYFASHION101\"}",
+    "parent_asin": "B08Z9L2F9Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Necklaces"
+    ],
+    "confidence": 0.95
+  }
+}

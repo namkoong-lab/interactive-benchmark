@@ -1,0 +1,43 @@
+{
+    "main_category": "Toys & Games",
+    "title": "Justice League Unlimited Superman Action Figure",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "Justice League Unlimited Action Figure Superman"
+    ],
+    "description": [
+        "Justice League Unlimited Action Figure Superman"
+    ],
+    "price": "31.13",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51V7A9PzseL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51V7A9PzseL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mattel",
+    "categories": [
+        "Toys & Games",
+        "Collectible Toys",
+        "Statues, Bobbleheads & Busts"
+    ],
+    "details": "{\"Product Dimensions\": \"7.99 x 5.51 x 1.3 inches\", \"Item Weight\": \"3.2 ounces\", \"Is Discontinued By Manufacturer\": \"No\", \"Manufacturer\": \"Mattel Toys\"}",
+    "parent_asin": "B0003069P2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,60 @@
+{
+  "item_id": 4602,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Child Mock Neck Long Sleeve Unitard 1855",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+      "86% Nylon/14% Lycra",
+      "Zipper closure",
+      "Do Not Bleach",
+      "Footless long sleeve mock neck unitard",
+      "Features a back center seam zipper",
+      "Ideal for costumes, performances, or class",
+      "Hang dry or lay flat to dry, do not bleach"
+    ],
+    "description": [
+      "This long sleeve mock neck unitard by BalTogs is footless and features a back center seam zipper. White bodysuit can be dyed to match any color of your choice. No lining. Do not bleach. Hang dry or lay flat to dry.."
+    ],
+    "price": "55.9",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61Fb+tR1xeL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31+pP4s+smL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31+pP4s+smL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Bal Togs",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Sport Specific Clothing",
+      "Dance",
+      "Girls"
+    ],
+    "details": "{\"Department\": \"girls\", \"Date First Available\": \"February 17, 2006\"}",
+    "parent_asin": "B092TJ8Z8Z",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Dancewear"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,72 @@
+{
+    "main_category": "Books",
+    "title": "Practical Risk-Adjusted Performance Measurement",
+    "average_rating": 4.4,
+    "rating_number": 3,
+    "features": [
+        "A practitioner's guide to ex-post performance measurement techniques",
+        "Risk within asset management firms has an undeserved reputation for being an overly complex, mathematical subject. This book simplifies the subject and demonstrates with practical examples that risk is perfectly straightforward and not as complicated as it might seem. Unlike most books written on portfolio risk, which generally focus on ex-ante risk from an academic perspective using complicated language and no worked examples, this book focuses on ex-post risk from a buy side, asset management, risk practitioners perspective, including a number of practical worked examples for risk measures and their interpretation."
+    ],
+    "description": [
+        "From the Inside Flap",
+        "Practical risk-adjusted performance measurement",
+        "“If there is a risk measure missing from Carl Bacon’s quite detailed, well written, and thoroughly researched tome, it is probably brand new or known to but a very few. Carl’s latest offering belongs on the bookshelves of all who consider themselves performance and risk measurement professionals, as it will no doubt prove to be a handy and frequently visited reference.”—",
+        "David Spaulding, CIPM",
+        ",",
+        "President, The Spaulding Group, Inc",
+        "“As the importance of investment performance analysis continues to grow, the pertinence of risk as part of that analysis is increasingly recognized. Carl Bacon has been a leader amongst industry experts calling for more focus on risk analytics. His book provides excellent context, perspective and guidance for industry practitioners on this important topic.”—",
+        "Todd Juillerat, CFA, Managing Director, State Street Global Advisors",
+        "“At last a book written for practitioners by a practitioner, a book that starts with the theory but uniquely then provides guidance and direction on how to put that theory into everyday practise.”—",
+        "Colin Morrison, Owner, Paradigm Investment Consulting Limited",
+        "“Carl has always been the must-see keynote lecturer at any serious investment performance measurement conference. I am thrilled that his latest masterpiece,",
+        "Practical Risk-Adjusted Performance Measurement",
+        ", assembles his vast practical knowledge in a practitioner friendly volume.”—",
+        "Todd Jankowski, Head CIPM Program, CFA Institute",
+        "From the Back Cover",
+        "Risk within asset management firms has an undeserved reputation for being an overly complex, mathematical subject. Focusing on ex-post risk from a buy side, asset management, risk practitioner’s perspective",
+        ", Practical Risk-Adjusted Performance Measurement",
+        "simplifies the subject and demonstrates with practical examples that risk is not as complicated as it might seem.",
+        "The book begins by introducing risk in the context of asset management firms before going on to cover the descriptive statistics required for later chapters. Then, structured according to the type of risk measure being considered, the book covers simple measures, regression measures, drawdown, partial moments, extreme risk, risk measures for fixed income instruments, and risk adjusted returns. The book concludes with a discussion as to which risk measures to use and their application in terms of risk control.",
+        "By documenting, with appropriate referencing, many of the ex-post risk measures in a structured format, filling gaps, encouraging consistency, suggesting new measures and highlighting possible areas of confusion or misrepresentation, this book is the ideal practitioners practical guide to ex-post performance measurement techniques.",
+        "Written by a renowned expert in investment performance, the book includes a number of practical worked examples for risk measures and their interpretation and is also accompanied by a supplementary website, www.wiley.com/go/performancemeasurement, containing excel worked examples.",
+        "About the Author",
+        "CARL BACON",
+        "CIPM, joined StatPro Group plc as Chairman in April 2000. StatPro is a platform for Portfolio Analytics, Valuation, Reporting and Research for the investment community. Carl also runs his own consultancy business providing advice to asset managers on various risk and performance measurement issues. Prior to joining StatPro Carl was Director of Risk Control and Performance at Foreign & Colonial Management Ltd, Vice President Head of Performance (Europe) for J P Morgan Investment Management Inc., and Head of Performance for Royal Insurance Asset Management. Carl holds a BSc Hons. in Mathematics from Manchester University and is a member of the Advisory Board of the Journal of Performance Measurement A founder member of both the Investment Performance Council and GIPS®, Carl is chair of the GIPS Executive Committee, chair of the  Verification Sub-Committee and  a member of the UK Investment Performance Committee. Carl is also the founder of The Freedom Index Company and is also the author of",
+        "Practical Portfolio Performance Measurement and Attribution",
+        "part of the Wiley Finance Series, numerous articles and papers and editor of",
+        "Advanced Portfolio Attribution Analysis",
+        ".",
+        "Read more"
+    ],
+    "price": "93.01",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51M8K3ItJOL._SX318_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Carl R. Bacon (Author)",
+    "categories": [
+        "Books",
+        "Business & Money",
+        "Insurance"
+    ],
+    "details": "{\"Publisher\": \"Wiley; 1st edition (November 28, 2012)\", \"Language\": \"English\", \"Hardcover\": \"236 pages\", \"ISBN 10\": \"9781118369746\", \"ISBN 13\": \"978-1118369746\", \"Item Weight\": \"1.06 pounds\", \"Dimensions\": \"6.4 x 0.98 x 9.28 inches\"}",
+    "parent_asin": "1118369742",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/qsl1o3ibf2a86mgsrl0ilcrd7p._SY600_.jpg', 'name': 'Carl R. Bacon', 'about': ['Carl Bacon CIPM, joined StatPro Group plc as Chairman in April 2000. StatPro is a platform for Portfolio Analytics, valuation, Reporting and Research for the investment community. Carl also runs his own consultancy business providing advice to asset manager on various risk and performance measurement issues.', 'Prior to joining StatPro Carl was Director of Risk Control and Performance at Foreign & Colonial Management Ltd, Vice President Head of Performance (Europe) for J P Investment Management inc. and Head of Performance for Royal Insurance Asset Management.', 'Carl hold a B.Sc.(Hons) in Mathematics from Manchester University and is a member of the Advisory Board of the Journal of Performance Measurement. A founder member of both the Investment Performance Council and GIPS, Carl is a member of the GIPS Executive Committee and ex-chair of both the Verification and Interpretations sub-committees and founder of the Freedom Index Company.', 'Carl is the author of Practical Portfolio Performance Measurement & Attribution (Book of the year 2004 www.riskbook.com), Practical Risk-adjusted Performance Measurement, numerous articles and papers and editor of Advanced Portfolio Attribution Analysis.', 'Notable papers include:', 'Excess Returns Arithmetic or Geometric? - Journal of Performance Measurement', 'How sharp is the Sharpe Ratio? Alpha to Omega, Downside to Drawdown, Appraisal to Pain - StatPro Whitepaper', 'A Periodic Table of Risk Measures - Journal of Performance Measurement']}"
+}

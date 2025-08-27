@@ -1,0 +1,45 @@
+{
+    "main_category": "Books",
+    "title": "The Post-Impressionists",
+    "average_rating": 4.6,
+    "rating_number": 3,
+    "features": [
+        "The term 'Post-Impressionist' was coined in 1910, to describe the work of the French painters of the 1880s and 90s - principally Cézanne, Gauguin and Van Gogh - but has never been a satisfactory label. In this lively survey and sophisticated reappraisal of a period of avant-garde experimentation, many minor as well as major artists are discussed and illustrated.",
+        "By concentrating on what the artists and contemporary critics did and said, and by looking at what the artists painted, the author raises very sharply the question of what 'Post-Impressionism' means and reveals a fascinating glimpse of personal rivalry, commercial pressures, individual initiatives and shifting allegiances - and no simple pattern at all."
+    ],
+    "description": [
+        "About the Author",
+        "Belinda Thomson studied at the University of East Anglia, at the Sorbonne and at the Courtauld Institute of Art in London. Her research has been concerned with late nineteenth-century French painting and, in particular, with the Nabis."
+    ],
+    "price": "1.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41cp5hR7uOL._SX367_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Belinda Thomson (Author)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "History & Criticism"
+    ],
+    "details": "{\"Publisher\": \"Phaidon Press; 2nd edition (January 1, 1994)\", \"Language\": \"English\", \"Paperback\": \"192 pages\", \"ISBN 10\": \"0714826626\", \"ISBN 13\": \"978-0714826622\", \"Reading age\": \"13 years and up\", \"Grade level\": \"8 and up\", \"Item Weight\": \"2.25 pounds\", \"Dimensions\": \"9.25 x 0.75 x 12.25 inches\"}",
+    "parent_asin": "0714826626",
+    "bought_together": null,
+    "subtitle": "Paperback – January 1, 1994",
+    "author": null
+}

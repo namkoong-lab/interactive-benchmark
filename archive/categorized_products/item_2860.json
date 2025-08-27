@@ -1,0 +1,53 @@
+{
+  "item_id": 2860,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "509 Kingpin Lens (Clear)",
+    "average_rating": 4.5,
+    "rating_number": 20,
+    "features": [
+      "Quick change lens technology",
+      "Dual pane snow lens",
+      "Premium coatings",
+      "8 Vents for most riding conditions"
+    ],
+    "description": [
+      "The 509 Kingpin Lens is offered in a full range of weather-specific tints so you can adjust your 509 Kingpin Goggles to any condition. Swapping tints is fast and easy with our quick-change technology that releases the lens with a simple turn of two locking mounts—one on each side of the frame. Every lens available for the Kingpin Goggle features dual pane performance with the industry’s best anti-scratch and anti-fog coatings."
+    ],
+    "price": "29.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51sfl5VehjL._AC_SL1200_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/314yE-PUUfL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/314yE-PUUfL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "509",
+    "categories": [],
+    "details": "{\"Manufacturer\": \"509 US\", \"Brand\": \"509\", \"Model\": \"Kingpin Lens\", \"Item Weight\": \"1 ounces\", \"Product Dimensions\": \"9.5 x 4.5 x 4.5 inches\", \"Country of Origin\": \"China\", \"Item model number\": \"509-KINLEN-17-CL\", \"Is Discontinued By Manufacturer\": \"No\", \"Manufacturer Part Number\": \"509-KINLEN-17-CL\", \"Special Features\": \"Anti Fog, Abrasion Resistant\", \"Date First Available\": \"May 20, 2016\", \"Color\": \"Clear\", \"Special Feature\": \"Anti Fog, Abrasion Resistant\", \"Lens Color\": \"Clear\", \"Size\": \"One Size\"}",
+    "parent_asin": "B01FX1HQWU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Eyewear",
+      "Replacement Lenses"
+    ],
+    "confidence": 0.95
+  }
+}

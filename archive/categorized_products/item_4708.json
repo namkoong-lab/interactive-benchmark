@@ -1,0 +1,63 @@
+{
+  "item_id": 4708,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "RVCA Big Boys' Weekday Pant",
+    "average_rating": 4.0,
+    "rating_number": 17,
+    "features": [
+      "65% Cotton, 35% Polyester",
+      "Imported",
+      "Zipper closure",
+      "Machine Wash",
+      "Straight-leg pant with flat front, slant pockets, and back welted pockets",
+      "Zip fly with button closure"
+    ],
+    "description": [
+      "Chino slack pant with zipper fly and button closure"
+    ],
+    "price": "55.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81gZjO5y3rL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81OqlD+e2VL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31qwpzNY9jL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31Q8kOfxN2L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31qwpzNY9jL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31Q8kOfxN2L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "RVCA",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Boys",
+      "Clothing",
+      "Pants"
+    ],
+    "details": "{\"Package Dimensions\": \"1 x 1 x 1 inches; 1 Pounds\", \"Item model number\": \"B3302WEP\", \"Department\": \"Boys\", \"Date First Available\": \"June 26, 2013\", \"Manufacturer\": \"RVCA Young Men's\"}",
+    "parent_asin": "B00CQ1XD4G",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Boys' Clothing"
+    ],
+    "confidence": 0.95
+  }
+}

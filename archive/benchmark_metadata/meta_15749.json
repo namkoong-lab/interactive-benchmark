@@ -1,0 +1,73 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Aran Wool Irish Sweater Men's and Women's Cable Knit Crew Neck Made in Ireland",
+    "average_rating": 4.3,
+    "rating_number": 29,
+    "features": [
+        "100% Wool",
+        "Pull On closure",
+        "Aran wool sweater is crafted from 100% lambswool for warmth, comfort and durability.",
+        "100% pure new wool crew neck sweater",
+        "Traditional stitches, attractive blended colors",
+        "Made in Co. Kerry, Ireland by Kerry Woollen Mills.",
+        "Winter warmth, premium quality fashion"
+    ],
+    "description": [
+        "This unisex sweater is designed for the stylish person who values quality and individuality, the Fia pure new wool sweater is made to last. Sustainability is core to the brand’s beliefs and Fia is committed to minimizing its carbon footprint and its impact on the environment. When you take the high ground with Fia you can be safe in the knowledge that you are investing in premium quality slow fashion that will stand the test of time.",
+        "Small: Chest - 34\" - 36\" | Waist - 28\" - 30\" | Sleeve - 32\"",
+        "Medium: Chest - 38\" - 40\" | Waist - 32\" - 34\" | Sleeve - 33\"",
+        "Large: Chest - 42\" - 44\" | Waist - 36\" - 38\" | Sleeve - 34\"",
+        "X-Large: Chest - 46\" - 48\" | Waist - 40\" - 42\" | Sleeve - 35\"",
+        "2XL: Chest - 50\" - 52\" | Waist - 44\" - 46\" | Sleeve - 36\"",
+        "3XL: Chest - 52\" - 54\" | Waist - 46\" - 48 | Sleeve - 37\"",
+        "Garment measurements are taken as follows:",
+        "-Chest: across the chest fabric, from underarm to underarm.",
+        "-Length: from under the back collar to the bottom of the waistband.",
+        "-Sleeve: middle of the back, across the sleeve to the cuff"
+    ],
+    "price": "89.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81e9GuerwML._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61Yx8CFHBtL._AC_UL1267_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/71BGkIEa6tL._AC_UL1267_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/412WLE-hOlL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/414iNfxQyOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31WMM3LrkeL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51bpQjovfeL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/412WLE-hOlL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/414iNfxQyOL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31WMM3LrkeL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51bpQjovfeL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Fia",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Sweaters",
+        "Pullovers"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"October 10, 2020\"}",
+    "parent_asin": "B08KZKVQ2W",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,57 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Disney Girl's Magic Awaits T-Shirt",
+    "average_rating": 3.4,
+    "rating_number": 14,
+    "features": [
+        "60% Cotton, 40% Polyester",
+        "Made in the USA or Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Printed in the U.S.A."
+    ],
+    "description": [
+        "Pixar Encanto Family Magic Awaits You Girls Heather T-Shirt"
+    ],
+    "price": "16.49",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61Mbax51rrL._AC_UL1000_.jpg",
+            "https://m.media-amazon.com/images/I/71GQ4an5KML._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/41op8UzSJcL._AC_UL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41ndunCSiOL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/516WCml-LRL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/313bpsXDxpL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41ndunCSiOL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/516WCml-LRL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/313bpsXDxpL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT02",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Fifth Sun",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Girls",
+        "Clothing",
+        "Tops, Tees & Blouses",
+        "Tees"
+    ],
+    "details": "{\"Package Dimensions\": \"15 x 12 x 1.5 inches; 8 Ounces\", \"Item model number\": \"PXEC0045-30001008\", \"Department\": \"Girl's\", \"Date First Available\": \"October 21, 2021\", \"Manufacturer\": \"Disney\"}",
+    "parent_asin": "B09K33YHP3",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

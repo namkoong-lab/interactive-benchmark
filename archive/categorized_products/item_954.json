@@ -1,0 +1,56 @@
+{
+  "item_id": 954,
+  "metadata": {
+    "main_category": "Health & Personal Care",
+    "title": "Mr. Saggy Balls Boxer Shorts",
+    "average_rating": 3.9,
+    "rating_number": 30,
+    "features": [
+      "A must have gag gift!",
+      "Sure to cause hysterical laughter at any party!",
+      "One Size Fits All",
+      "\"Over the Hill\" Boxer shorts with droopy latex balls"
+    ],
+    "description": [
+      "Do your balls hang low? They will with these hilarious boxer shorts! Perfect for Halloween, Bachelor parties, or retirement parties!"
+    ],
+    "price": "16.36",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81g-IOJSyCL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51glgwz9bLL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51glgwz9bLL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Hott Products",
+    "categories": [
+      "Health & Household",
+      "Sexual Wellness",
+      "Novelties"
+    ],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"May 11, 2016\"}",
+    "parent_asin": "B01FIPTNHC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Health & Personal Care",
+      "Adult Toys"
+    ],
+    "confidence": 0.85
+  }
+}

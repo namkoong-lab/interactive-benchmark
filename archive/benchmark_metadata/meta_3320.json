@@ -1,0 +1,55 @@
+{
+    "main_category": "Grocery",
+    "title": "Hela Curry Gewurz Ketchup Scharf Hot Hela Wurzung from Germany 300 ml",
+    "average_rating": 4.6,
+    "rating_number": 395,
+    "features": [
+        "Original Made in Germany",
+        "Curry Gewurz Ketchup",
+        "Scharf",
+        "300 ml"
+    ],
+    "description": [
+        "Hela Curry Gewurz Ketchup Scharf Hot Hela Wurzung from Germany 300 ml"
+    ],
+    "price": "8.13",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            "https://m.media-amazon.com/images/I/51ViPeBkpFL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Gegj6sRYL.jpg",
+            "https://m.media-amazon.com/images/I/2190h-GkcCL.jpg",
+            "https://m.media-amazon.com/images/I/31VAYGM1ndL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41Gegj6sRYL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/2190h-GkcCL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31VAYGM1ndL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT90"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "HELA",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Condiments & Salad Dressings",
+        "Ketchup"
+    ],
+    "details": "{\"Flavor\": \"Hot\", \"Item Weight\": \"348 Grams\", \"Brand\": \"HELA\", \"Package Information\": \"Bottle\", \"Package Weight\": \"0.38 Kilograms\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"6.97 x 2.05 x 2.05 inches; 12.28 Ounces\", \"Manufacturer\": \"Hela\"}",
+    "parent_asin": "B07FN82RGL",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

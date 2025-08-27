@@ -1,0 +1,37 @@
+{
+    "main_category": "Digital Music",
+    "title": "Mother's Rhymes",
+    "average_rating": 4.3,
+    "rating_number": 2,
+    "features": [],
+    "description": [
+        "Amazing 6th album by US progressive rock band."
+    ],
+    "price": "16.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61QVrfSKrEL._SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51hSgrDeebL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51hSgrDeebL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "The Psychedelic Ensemble  (Artist)    Format: Audio CD",
+    "categories": [],
+    "details": "{\"Manufacturer\": \"Glowing Sky Records\", \"Date First Available\": \"September 12, 2019\", \"Label\": \"Glowing Sky Records\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B07XLMSWZS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

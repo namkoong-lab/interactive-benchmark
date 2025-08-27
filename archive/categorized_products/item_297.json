@@ -1,0 +1,56 @@
+{
+  "item_id": 297,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "The English Hymn Vol.1",
+    "average_rating": 4.8,
+    "rating_number": 23,
+    "features": [],
+    "description": [
+      "Grands cantiques du XXe siècle / Wells Cathedral Choir, dir. Malcolm Archer"
+    ],
+    "price": "28.91",
+    "images": {
+      "hi_res": [
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/61p3dxIRAPL.jpg",
+        "https://m.media-amazon.com/images/I/515BZBnadyL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/61p3dxIRAPL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/515BZBnadyL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Wells Cathedral Choir  (Artist)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Opera & Classical Vocal",
+      "Vocal Non-Opera",
+      "Hymns"
+    ],
+    "details": "{\"Language\": \"English\", \"Product Dimensions\": \"5.62 x 4.92 x 0.33 inches; 3.84 Ounces\", \"Manufacturer\": \"HYPERION\", \"Item model number\": \"CDP12101\", \"Original Release Date\": \"1999\", \"Date First Available\": \"July 27, 2006\", \"Label\": \"HYPERION\", \"Country of Origin\": \"United Kingdom\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000038I68",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Classical Albums"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,56 @@
+{
+    "main_category": "Books",
+    "title": "Snow White",
+    "average_rating": 4.0,
+    "rating_number": 12,
+    "features": [
+        "THE REISSUE OF the classic Grimm tale of a beautiful young girl with skin as white as snow, lips and cheeks as red as blood, and hair as black as ebony is breathtakingly realized by acclaimed artist Charles Santore in this lush, lovely picture book."
+    ],
+    "description": [
+        "From the Inside Flap",
+        "THE REISSUE OF the classic Grimm tale of a beautiful young girl with skin as white as snow, lips and cheeks as red as blood, and hair as black as ebony is breathtakingly realized by acclaimed artist Charles Santore in this lush, lovely picture book.",
+        "About the Author",
+        "In the 19th century,",
+        "Jakob",
+        "(1785–1863) and",
+        "Wilhelm",
+        "(1786–1859)",
+        "Grimm",
+        "collected folktales as part of a larger study of German culture. Their belief that folktales were reflections of the popular mind resulted in many works together including",
+        "Grimm’s Fairy Tales",
+        ".",
+        "Charles Santore",
+        "’s illustrations are part of the permanent collections of the Brandywine River Museum, The Free Library of Philadelphia, and The Museum of Modern Art."
+    ],
+    "price": "25.67",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51jfeOupULL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jacob Ludwig Carl Grimm (Author),  Wilhelm Grimm (Author),  Charles Santore (Illustrator)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Geography & Cultures"
+    ],
+    "details": "{\"Publisher\": \"Random House Books for Young Readers (September 28, 2004)\", \"Language\": \"English\", \"Hardcover\": \"48 pages\", \"ISBN 10\": \"0375830014\", \"ISBN 13\": \"978-0375830013\", \"Reading age\": \"5 - 8 years\", \"Grade level\": \"Kindergarten - 3\", \"Item Weight\": \"1.45 pounds\", \"Dimensions\": \"10.5 x 0.36 x 13.25 inches\"}",
+    "parent_asin": "0375830014",
+    "bought_together": null,
+    "subtitle": "Hardcover – September 28, 2004",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/i7do2ldla6kgvbc42tirb808q1._SY600_.jpg', 'name': 'Brothers Grimm', 'about': ['The Brothers Grimm, Jacob (1785–1863) and Wilhelm (1786–1859), were scholars best known for their lifelong dedication to collecting and publishing ancient German folk tales. Their groundbreaking Kinder- und Hausmärchen (Children’s and Household Tales) was published in seven different editions between 1812 and 1857 and brought to the world’s attention such unforgettable characters as Cinderella, Hansel and Gretel, Rapunzel, and Snow White.']}"
+}

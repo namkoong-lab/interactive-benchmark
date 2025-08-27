@@ -1,0 +1,63 @@
+{
+  "item_id": 3866,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Cufflinks - Crusader Knights Templar Shield St. George's Cross",
+    "average_rating": 4.1,
+    "rating_number": 6,
+    "features": [
+      "Toggle closure",
+      "Beautifully crafted enamel cufflinks for smart gentlemen & noble knights",
+      "The perfect gift for true British gents",
+      "Complete with presentation box"
+    ],
+    "description": [
+      "Cufflinks - Knights Templar St. George's Cross",
+      "Beautifully crafted enamel cufflinks for smart gentlemen & noble knights The perfect gift for true British gents Complete with presentation box"
+    ],
+    "price": "21.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51SLU1miJ-L._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/51SLU1miJ-L._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41-G9nwxcOL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41-G9nwxcOL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41-G9nwxcOL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41-G9nwxcOL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Onyx Art",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Jewelry",
+      "Cuff Links"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"mens\", \"Date First Available\": \"March 5, 2014\", \"Manufacturer\": \"Onyx-Art\"}",
+    "parent_asin": "B00GY1NSZS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Cufflinks"
+    ],
+    "confidence": 0.95
+  }
+}

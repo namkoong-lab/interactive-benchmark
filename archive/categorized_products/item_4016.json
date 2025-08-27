@@ -1,0 +1,73 @@
+{
+  "item_id": 4016,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Woman Within Women's Plus Size Velour Pant",
+    "average_rating": 3.9,
+    "rating_number": 68,
+    "features": [
+      "Elastic closure",
+      "Machine Wash",
+      "PLUS SIZING: Size Medium will fit Plus sizes 14 to 16",
+      "Your favorite pant is even better (and more comfy) in plush velour. Designed with an elastic waistband and side seam pockets, it pairs perfectly with every tunic or long top.",
+      "29\" inseam. Poly velour, imported",
+      "Machine washable",
+      "ABOUT THE BRAND: At Woman Within we’re the experts in plus size comfort, and we’ve been doing this for over 100 years. No surprise then that we’re one of the go-to brands in the plus-size clothing industry for incredible fit and of-the-moment style. Our goal is to make sure you always feel great and look good in our comfortable clothes in all the colors you love."
+    ],
+    "description": [
+      "Your favorite pant is even better (and more comfy) in plush velour. Designed with an elastic waistband and side seam pockets, it pairs perfectly with every tunic or long top. 29\" inseam Poly velour, imported Machine washable"
+    ],
+    "price": "31.16",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61mImHfZjDL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/810-Re7+W6S._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71V2JQ326CL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/714n4BlxO0L._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31jWGtOzaqL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51nSdrP+5GS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41zNcPNow6L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31SKq7eRs+L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31jWGtOzaqL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51nSdrP+5GS._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41zNcPNow6L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31SKq7eRs+L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Woman Within",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Pants",
+      "Casual"
+    ],
+    "details": "{\"Package Dimensions\": \"18 x 14 x 3 inches; 14.4 Ounces\", \"Department\": \"Womens\", \"Date First Available\": \"September 23, 2012\", \"Manufacturer\": \"Woman Within\"}",
+    "parent_asin": "B01LBUI9FU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Pants"
+    ],
+    "confidence": 0.95
+  }
+}

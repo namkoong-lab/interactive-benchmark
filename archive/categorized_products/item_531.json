@@ -1,0 +1,51 @@
+{
+  "item_id": 531,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Reborn",
+    "average_rating": 4.6,
+    "rating_number": 77,
+    "features": [],
+    "description": [
+      "Deluxe edition includes six additional tracks. 2013 release from the multi-platinum Southern California quartet. Reborn is not only their first independent release outside of the traditional label system; it's also their first to feature drummer Dylan Howard [Unwritten Law] and co-production by longtime friend Matt Thorne. Holing up in a studio with Thorne, Trapt began to prolifically crank out songs. The record's first single 'Bring It' served as the catalyst, sparking a veritable flurry of creativity."
+    ],
+    "price": "19.87",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/61osKxzNkdL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/61osKxzNkdL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Trapt   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Pop"
+    ],
+    "details": "{\"Package Dimensions\": \"5.6 x 4.9 x 0.4 inches; 3.27 Ounces\", \"Manufacturer\": \"Fof\", \"Date First Available\": \"October 12, 2012\", \"Label\": \"Fof\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B009PI2MTU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Rock Albums"
+    ],
+    "confidence": 0.95
+  }
+}

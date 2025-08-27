@@ -1,0 +1,70 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "adidas Men's Performance Primegreen Polo Shirt",
+    "average_rating": 4.4,
+    "rating_number": 15,
+    "features": [
+        "100% Polyester",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "Men's polo shirt made for performance on the golf course",
+        "Regular fit is not tight and not loose, the perfect in-between fit",
+        "Soft, smooth fabric with stretch for easy movement",
+        "Polo collar with three-button closure helps ventilate",
+        "This product is made with Primegreen, a series of high-performance recycled materials"
+    ],
+    "description": [
+        "This men's golf polo shirt gives you a traditional look for the course. The polyester knit has a light texture for a comfortable feel. A little bit of stretch lets you move easy."
+    ],
+    "price": "35.96",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71jH0JGYFmL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71ZymuwFiZL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71TWlyOTIWL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/910nPBxktvL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91BMuyDPR1L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31YIyPk7EcL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41AjFDfhbXL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31kCZDyG6bL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41PHOJtyqSL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Unni-6HeL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31YIyPk7EcL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41AjFDfhbXL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31kCZDyG6bL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41PHOJtyqSL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41Unni-6HeL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "FRNT",
+            "BACK",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "adidas",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Active",
+        "Active Shirts & Tees",
+        "Polos"
+    ],
+    "details": "{\"Item model number\": \"AV692\", \"Department\": \"mens\", \"Date First Available\": \"November 20, 2020\", \"Manufacturer\": \"adidas Golf\"}",
+    "parent_asin": "B08NYW1YTS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

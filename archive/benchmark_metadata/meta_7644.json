@@ -1,0 +1,52 @@
+{
+    "main_category": "Books",
+    "title": "Peel + Discover: Dinosaurs",
+    "average_rating": 4.7,
+    "rating_number": 31,
+    "features": [
+        "An interactive sticker book that makes learning stick!",
+        "A fun way to learn about dinosaurs with stickers, activity pages, and lots of facts! Featuring stickers of spiky stegosaurs, four-winged microraptors, deadly tyrannosaurs, underwater plesiosaurs, and the massive diplodocus, which was longer than 3 school buses! Create your own wildlife scenes as you learn about some of the most fascinating dinosaurs that ever walked the earth.",
+        "How Peel + Discover works:",
+        "Read a question, then peel the sticker to reveal the answer.",
+        "Read a question, then peel the sticker to reveal the answer.",
+        "Sticker and draw to decorate the activity pages—make them your own!",
+        "Sticker and draw to decorate the activity pages—make them your own!",
+        "Once all the stickers are peeled, removed the overlay for a Peel + Discover surprise.",
+        "Once all the stickers are peeled, removed the overlay for a Peel + Discover surprise."
+    ],
+    "description": [
+        "About the Author",
+        "Workman Publishing Company has been producing award-winning calendars, cookbooks, parenting guides, and children’s titles, as well as gardening, humor, self-help, and business books, since 1968. From our What to Expect® pregnancy and parenting series and Page-A-Day® Calendars to the iconic 1,000 Places to See Before You Die® and Brain Quest® children's products, our wide range of high-quality non-fiction titles and products inspire, educate, and entertain readers around the globe."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61+5x2LZYWL._SX498_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Workman Publishing (Author),  Chad Thomas (Illustrator),  Megan Butler (Contributor)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Animals"
+    ],
+    "details": "{\"Publisher\": \"Workman Publishing Company; Stk edition (February 5, 2019)\", \"Language\": \"English\", \"Paperback\": \"26 pages\", \"ISBN 10\": \"1523503580\", \"ISBN 13\": \"978-1523503582\", \"Reading age\": \"6 - 10 years\", \"Grade level\": \"1 - 5\", \"Item Weight\": \"6.3 ounces\", \"Dimensions\": \"8.5 x 0.19 x 10.25 inches\"}",
+    "parent_asin": "1523503580",
+    "bought_together": null,
+    "subtitle": "Paperback – Sticker Book, February 5, 2019",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/bk0vo2rnkf1g2c17s6r09ipjjv._SY600_.jpg', 'name': 'Megan Hewes Butler', 'about': [\"Megan Hewes Butler is a writer and producer who has been creating childrens' curriculum, games, and books for over 15 years. Megan lives, writes, and plays in Park Slope, Brooklyn with her husband and two sons.\"]}"
+}

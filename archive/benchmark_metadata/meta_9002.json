@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "La búsqueda de Carlomagno",
+    "average_rating": 4.4,
+    "rating_number": 3,
+    "features": [
+        "Una civilización desconocida enterrada bajo el hielo de la Antártida esconde un misterio que Carlomagno dejó escrito. Un secreto revelador y de una gran importancia para la humanidad está a punto de ser descubierto...  Cotton Malone intenta descubrir la verdad sobre su padre, que murió en un submarino que se perdió en el Antártida en los años 70. Pronto aparecen otros involucrados en la búsqueda: dos gemelas alemanas y un aliado del presidente de los EE.UU. Pero cada uno de ellos tiene sus propios motivos. Después de investigar pistas en un par de iglesias antiguas en Alemania y Francia descubren pruebas de una civilización desconocida y muy avanzada que vivía en la Antártida antes de que desapareciera cubierta por el hielo.  Una novela trepidante, una búsqueda épica que llevará al lector desde Alemania, hasta Francia, EE.UU. y Antártida."
+    ],
+    "description": [
+        "Book Description",
+        "Tras Dan Brown, Steve Berry es el gran nombre del thriller contemporáneo.",
+        "About the Author",
+        "Steve Berry es abogado en ejercicio con más de veinte años de práctica procesal, pero llegó a la literatura a través de su pasión por la Historia y comenzó a escribir profesionalmente en 1990. Es autor de La habitación de ámbar (2003), un bestseller en Estados Unidos por el que fue candidato al Edgar Award, al mejor libro de ficción del año por la Asociación de Libreros de la Costa Este y a la mejor primera novela por la Asociación de Escritores de Georgia; La profecía Romanov (Seix Barral, 2005); Los caballeros de Salomón (Seix Barral, 2007); El tercer secreto (Seix Barral, 2007;, La traición veneciana (Planeta, 2009), y The Charlemagne Pursuit (de próxima publicación en Planeta). Sus libros han sido traducidos a 41 lenguas."
+    ],
+    "price": "14.47",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51mMAIyUMJL._SX328_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Spanish Edition                        Steve Berry (Author),  Mª José Díez (Translator)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Genre Fiction"
+    ],
+    "details": "{\"Publisher\": \"Booket; 1st edition (May 8, 2012)\", \"Language\": \"Spanish\", \"Mass Market Paperback\": \"496 pages\", \"ISBN 10\": \"8408005057\", \"ISBN 13\": \"978-8408005056\", \"Item Weight\": \"11.1 ounces\", \"Dimensions\": \"4.92 x 1.1 x 7.48 inches\"}",
+    "parent_asin": "8408005057",
+    "bought_together": null,
+    "subtitle": "Mass Market Paperback – May 8, 2012",
+    "author": null
+}

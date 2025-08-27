@@ -1,0 +1,68 @@
+{
+  "item_id": 3988,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Mud Pie Boys' Little Halloween Pumpkin Long Sleeve Sweatshirt",
+    "average_rating": 4.9,
+    "rating_number": 32,
+    "features": [
+      "Imported",
+      "Pull On closure",
+      "Machine Wash",
+      "Age: 12-18M",
+      "Size: Small",
+      "The fit and style complements the body and movement of a boy toddler",
+      "Raglan waffle knit sleeves in dark gray color",
+      "Made of cotton and polyester; Soft material for that warm and cozy feel"
+    ],
+    "description": [
+      "Fleece sweatshirt Features cotton rib binding and French terry jack-o-lantern ‭applique with felt and jersey facial features, tweed stem, embroidered sentiment and surprise open-mouth feature with embroidered spooky eye icons."
+    ],
+    "price": "19.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91LE1+6t-ML._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/811m8NbdH6L._AC_UL1500_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51FbbaKbp7L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51CN1XluGkL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Svul8LoOL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51FbbaKbp7L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51CN1XluGkL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41Svul8LoOL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Mud Pie",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Boys"
+    ],
+    "details": "{\"Department\": \"Boys\", \"Date First Available\": \"February 22, 2018\", \"Manufacturer\": \"Mud Pie\"}",
+    "parent_asin": "B079ZGH9P4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Traditional Costumes",
+      "Children's Halloween Costumes"
+    ],
+    "confidence": 0.95
+  }
+}

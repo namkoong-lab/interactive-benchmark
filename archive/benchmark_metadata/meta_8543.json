@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Cardiff Cut",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "First published in 2001, this play features an audacious and anarchic monologue set on the streets of the city of Cardiff, written by a poet and performer who is daring in both material and language."
+    ],
+    "description": [
+        "About the Author",
+        "Lloyd Robson is a poet and prose writer, a workshop tutor, and a journalist. In 2002 he was appointed writer in residence at the University of Wales College's Newport School of Art, Media, and Design."
+    ],
+    "price": "9.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51oF6-H2fGL._SX327_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Lloyd Robson (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Poetry"
+    ],
+    "details": "{\"Publisher\": \"Parthian Books (October 1, 2003)\", \"Language\": \"English\", \"Paperback\": \"130 pages\", \"ISBN 10\": \"1902638166\", \"ISBN 13\": \"978-1902638164\", \"Item Weight\": \"4.5 ounces\", \"Dimensions\": \"4.9 x 0.4 x 7.8 inches\"}",
+    "parent_asin": "1902638166",
+    "bought_together": null,
+    "subtitle": "Paperback – October 1, 2003",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Lloyd Robson', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

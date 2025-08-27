@@ -1,0 +1,53 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Oak Leaf Candlestick Made in USA",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [
+        "Long lasting Pewter and finish"
+    ],
+    "description": [
+        "Pewter hand crafted Candlestick"
+    ],
+    "price": "49.5",
+    "images": {
+        "hi_res": [
+            null,
+            "https://m.media-amazon.com/images/I/41VfzZwYKzL._AC_SL1443_.jpg",
+            "https://m.media-amazon.com/images/I/61Eh0b1WwTL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31y5h8NXr3L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21qzU7nHFML._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31kEbnh9B3L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31y5h8NXr3L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/21qzU7nHFML._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/31kEbnh9B3L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Liberty Pewter",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Candles & Holders",
+        "Candleholders",
+        "Candlestick Holders"
+    ],
+    "details": "{\"Color\": \"Gray\", \"Material\": \"Wood, Pewter\", \"Brand\": \"Liberty Pewter\", \"Product Dimensions\": \"6.5\\\"L x 3.25\\\"W x 6\\\"H\", \"Finish Type\": \"Brushed\", \"Item Weight\": \"1 pounds\", \"Number of Pieces\": \"1\", \"Theme\": \"Oak Leaf\", \"Mounting Type\": \"Tabletop\", \"Manufacturer\": \"Liberty Pewter\", \"Best Sellers Rank\": {\"Home & Kitchen\": 4013757, \"Candlestick Holders\": 5116}, \"Date First Available\": \"October 30, 2020\"}",
+    "parent_asin": "B08MB6W2Q4",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

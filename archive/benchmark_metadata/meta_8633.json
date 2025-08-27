@@ -1,0 +1,49 @@
+{
+    "main_category": "Books",
+    "title": "This Business of Publishing: An Insider's View of Current Trends and Tactics",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "Veteran literary agent Richard Curtis takes a critical look at the changing face of publishing and offers a provocative and insightful interpretation of lessons learned from more than thirty years in the business. He examines every aspect of the publishing world, from the big houses to the small presses, from today's authors and editors to the techno-agents of the twenty-first century, discussing: the escalating damage caused by the consignment system; the changing wholesale business and its threat to authors, editors, and agents; the disenfranchisement of authors and editors by large publishing mergers and acquisitions; the electronic media revolution and the identity crisis for writers, editors, and agents; and the \"blockbuster mentality\" and the increased dependence of publishers on big-name authors.Curtis provides an engaging and clever read for authors, editors, agents, and anyone in publishing. This Business of Publishing confronts the big picture of publishing today, calling for an industry-wide reformation of the way books are merchandised."
+    ],
+    "description": [
+        "Review",
+        "Must reading for writers, agents, and anyone else who cares about the future of publishing. Richard's passion and understanding shine through the turmoil of the industry and illuminate what must be done for a brighter future --",
+        "Michael Larsen, A.A.R., author of Literary Agents: What They Do, How They Do it, and How to Find and Work with the Right One for You",
+        "Richard Curtis leads us through both the history and business of modern publishing with insight and expertise unmatched in the field. Highly recommended for writers who wish to survive to see the twenty-first century --",
+        "Greg Bear, award-winning author of Slant, Eon, Blood Music, and other major science fiction",
+        "About the Author",
+        "Richard Curtis is currently the president of the Richard Curtis Literary Agency in New York."
+    ],
+    "price": "8.75",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/418YM6S5K0L._SX314_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Richard Curtis (Author)",
+    "categories": [
+        "Books",
+        "Reference",
+        "Writing, Research & Publishing Guides"
+    ],
+    "details": "{\"Publisher\": \"Allworth Pr; English Language edition (August 1, 1998)\", \"Language\": \"English\", \"Paperback\": \"207 pages\", \"ISBN 10\": \"1880559986\", \"ISBN 13\": \"978-1880559987\", \"Item Weight\": \"12.8 ounces\", \"Dimensions\": \"6 x 0.5 x 9.25 inches\"}",
+    "parent_asin": "1880559986",
+    "bought_together": null,
+    "subtitle": "Paperback – August 1, 1998",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Richard Curtis', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

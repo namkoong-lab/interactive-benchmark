@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Path Appears",
+    "average_rating": 4.4,
+    "rating_number": 65,
+    "features": [],
+    "description": [
+        "A Path Appears is a follow-up film to the critically acclaimed and critically discussed Half the Sky: Turning Oppression into Opportunity for Women Worldwide and will focus on violence against women across the Americas."
+    ],
+    "price": "7.88",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51tkgxfbEsL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51tkgxfbEsL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": ".  (Actor, Director)    Rated:    NR    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "PBS",
+        "All"
+    ],
+    "details": "{\"Genre\": \"Special Interests\", \"Format\": \"Multiple Formats, Color, Widescreen, NTSC\", \"Language\": \"English\", \"Runtime\": \"4 hours and 30 minutes\", \"MPAA rating\": \"NR (Not Rated)\", \"Product Dimensions\": \"0.7 x 7.5 x 5.4 inches; 2.88 Ounces\", \"Item model number\": \"32974900\", \"Media Format\": \"Multiple Formats, Color, Widescreen, NTSC\", \"Run time\": \"4 hours and 30 minutes\", \"Release date\": \"March 3, 2015\", \"Subtitles\": \"English\", \"Studio\": \"PBS (Direct)\", \"Number of discs\": \"2\"}",
+    "parent_asin": "B00S2SYPSK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

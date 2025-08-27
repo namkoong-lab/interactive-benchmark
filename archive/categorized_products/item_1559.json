@@ -1,0 +1,59 @@
+{
+  "item_id": 1559,
+  "metadata": {
+    "main_category": "Automotive",
+    "title": "Neonetics 8MANCA Man Cave Neon Clock",
+    "average_rating": 3.4,
+    "rating_number": 23,
+    "features": [
+      "Lit with blue neon light",
+      "Easily hangs on walls",
+      "Takes 1 ‘AA’ battery (battery not included)",
+      "12v ac adapter operates neon light (included)",
+      "Dimensions: 145\" h x 145\" w x 3\" d"
+    ],
+    "description": [
+      "Neonetics offers a classic, round neon diner-style clock that features a fabulous \"Man Cave\" design. The clock is lit with real neon and the rim of the clock has a sleek chrome finish to complete the unique piece."
+    ],
+    "price": "75.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71biTIctZpL._AC_SL1006_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51-ctl6huLL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51-ctl6huLL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Neonetics",
+    "categories": [
+      "Home & Kitchen",
+      "Home Décor Products",
+      "Clocks",
+      "Wall Clocks"
+    ],
+    "details": "{\"Brand\": \"Neonetics\", \"Color\": \"Blue\", \"Display Type\": \"Analog\", \"Style\": \"Classic\", \"Special Feature\": \"Illuminated\", \"Product Dimensions\": \"15\\\"W x 15\\\"H\", \"Power Source\": \"Corded Electric, Battery Powered\", \"Age Range (Description)\": \"Kid\", \"Shape\": \"Round\", \"Material\": \"Glass, Metal\", \"Frame Material\": \"Glass\", \"Are Batteries Included\": \"No\", \"Mounting Type\": \"Wall Mount\", \"Item Weight\": \"3 pounds\", \"Alarm Clock\": \"No\", \"Watch Movement\": \"Quartz\", \"Operation Mode\": \"Electrical\", \"Manufacturer\": \"Neonetics\", \"Item model number\": \"8MANCA\", \"Is Discontinued By Manufacturer\": \"Yes\", \"Manufacturer Part Number\": \"8MANCA\", \"OEM Part Number\": \"8MANCA\", \"Special Features\": \"Illuminated\", \"Best Sellers Rank\": {\"Home & Kitchen\": 3048678, \"Wall Clocks\": 12019}, \"Date First Available\": \"February 13, 2006\"}",
+    "parent_asin": "B003XIUX9O",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Home Decor",
+      "Clocks"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,51 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Doctor Doctor Adult",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [
+        "Cotton",
+        "Costume can be worn by men or women.",
+        "Costume is 100% polypropylene.",
+        "Costume features loose fitting top and pants.",
+        "A face mask is included.",
+        "One size fits most adults to 200 lbs."
+    ],
+    "description": [
+        "This adult doctor costume, you'll look ready for the ER! One size fits upto 200 lbs.Availability: products generally ship in 1 business day, but during the holiday season, please allow extra shipping time."
+    ],
+    "price": "24.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91OCSMXtUsL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61OPjj90JWL._AC_UL1223_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/415OCw3wJzL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41u07iOJf1L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/415OCw3wJzL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41u07iOJf1L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Fun World Costumes",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Fun World Costumes"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"16 x 12 x 2 inches; 3.4 Pounds\", \"Item model number\": \"FW9934\", \"Department\": \"mens\", \"Date First Available\": \"July 19, 2004\", \"Manufacturer\": \"Morris Costumes\"}",
+    "parent_asin": "B000FEIXAU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

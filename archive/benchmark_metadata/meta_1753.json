@@ -1,0 +1,46 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Neoprene Oven Mitt (1)",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "black,red",
+        "plastic,polyester"
+    ],
+    "description": [
+        "Shield yourself from cooking burns by diffusing heat with this durable Neoprene Oven Mitt. This kitchen essential has a thick neoprene and quilted fabric design that provides a secure protective layer and washes easily. Measures approximately 13 x 7 x 1.5. Comes packaged with a hanging panel.4 - Please note this item may come in assorted style or colors."
+    ],
+    "price": "16.25",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51r+h1mK+eL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31+u3nZdwpL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31+u3nZdwpL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Handy Helpers",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Kitchen & Table Linens",
+        "Potholders & Oven Mitts",
+        "Oven Mitts"
+    ],
+    "details": "{\"Package Dimensions\": \"15.5 x 7.8 x 4.5 inches\", \"Item Weight\": \"2.06 pounds\", \"Manufacturer\": \"Generic\", \"Item model number\": \"OD384\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"October 7, 2014\", \"Brand\": \"Handy Helpers\", \"Outer Material\": \"Neoprene, Polyester\", \"Shape\": \"Hand\", \"Fill Material\": \"Polyester\", \"Number of Pieces\": \"1\"}",
+    "parent_asin": "B0167A1JGK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,68 @@
+{
+  "item_id": 4455,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Oakley mens B1b Socks (2 Pcs Pack)",
+    "average_rating": 4.3,
+    "rating_number": 68,
+    "features": [
+      "92% Polyester, 6% Rubber, 2% Spandex",
+      "Pull On closure",
+      "Machine Wash",
+      "92% Polyester/6% Rubber/2% Spandex",
+      "Standard sock up a notch",
+      "Iconic Oakley logo and stripes",
+      "Reinforced toe box",
+      "Elastic top make style comfortable"
+    ],
+    "description": [
+      "From the courts to casual wear, our branded B1B Socks let you and your feet move in confident comfort"
+    ],
+    "price": "19.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81rx6MWVhoL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41OwLx7IXfL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41OwLx7IXfL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Oakley Black Socks"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/0a0132ac4fe54c5688eb4cf2c5c1b783?ref=dp_vse_rvc_0"
+      ],
+      "user_id": [
+        "/shop/keto.crypto"
+      ]
+    },
+    "store": "Oakley",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Socks & Hosiery",
+      "Socks"
+    ],
+    "details": "{\"Item model number\": \"93274\", \"Department\": \"mens\", \"Date First Available\": \"September 7, 2018\", \"Manufacturer\": \"Oakley\"}",
+    "parent_asin": "B07G39VNNS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Socks"
+    ],
+    "confidence": 0.95
+  }
+}

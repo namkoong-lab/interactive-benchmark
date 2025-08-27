@@ -1,0 +1,57 @@
+{
+  "item_id": 3983,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Rapiddominance Camo Beanie",
+    "average_rating": 4.1,
+    "rating_number": 60,
+    "features": [
+      "Item Package Dimensions: 19.304 L X 22.098 W X 1.524 H (Cm)",
+      "Product Type: Hat",
+      "Item Package Weight: 0.100 Pounds",
+      "Country Of Origin: China"
+    ],
+    "description": [
+      "These camouflage beanies feature a jacquard camouflage knit design that will keep you warm and comfortable but with a military look."
+    ],
+    "price": "8.23",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/711uP3i9XKL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51NwCIxH9RL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51NwCIxH9RL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Rapid Dominance",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Accessories",
+      "Hats & Caps"
+    ],
+    "details": "{\"Item model number\": \"R602-UDG-p\", \"Department\": \"Unisex-adult\", \"Date First Available\": \"June 5, 2012\", \"Manufacturer\": \"Rapid Dominance\"}",
+    "parent_asin": "B00DR7M1F0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Hats & Beanies"
+    ],
+    "confidence": 0.95
+  }
+}

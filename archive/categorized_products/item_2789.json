@@ -1,0 +1,50 @@
+{
+  "item_id": 2789,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Gildan Men's Heavy Cotton Long Sleeve T-Shirt, Style 5400, (2 Pack) Medium Carolina Blue-Maroon",
+    "average_rating": 4.5,
+    "rating_number": 2,
+    "features": [
+      "Made in the USA or Imported"
+    ],
+    "description": [
+      "100% preshrunk cotton, Weight of Heavy Cotton T-Shirt is 5.3 Oz, Ribbed cuffs, Tag label, Seamless Rib at neck, Taped shoulder to shoulder, Double-needle stitching throughout, Ash Grey is 99% cotton, 1% polyester, Sport Grey is 90% cotton, 10% polyester, Stock available in 15 different colors, Sizes upto 3XL"
+    ],
+    "price": "18.88",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51jTbeExkUL._AC_UL1080_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41gRCWZrN2L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41gRCWZrN2L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Gildan",
+    "categories": [],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"January 15, 2021\"}",
+    "parent_asin": "B08T6FW6WT",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's T-Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

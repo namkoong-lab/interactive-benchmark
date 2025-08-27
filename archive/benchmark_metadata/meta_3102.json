@@ -1,0 +1,60 @@
+{
+    "main_category": "Grocery",
+    "title": "Dill Weed – 4 oz",
+    "average_rating": 4.7,
+    "rating_number": 233,
+    "features": [
+        "4 oz. Quantity",
+        "Certified gluten-free",
+        "Packed in the U.S.A.",
+        "Large container with resealable lid."
+    ],
+    "description": [
+        "Kosher \t\t\t\t Yes Gluten-Free \t\t\t\t Yes Halal \t\t\t\t Yes MSG-Free \t\t\t\t Yes Sodium Status \t\t\t\t Free of Sodium Country of Origin \t\t\t\tEgypt Known Allergens \t\t\t\t None Unit UPC \t\t\t\t033844006266 Ingredients \t\t\t\tDill (Anethum graveolens L.)"
+    ],
+    "price": "11.24",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/415VUpTTQkL._SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31DxiGo5gDL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31DxiGo5gDL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Easy Dill + Ranch Pretzals #Snacks #Yum",
+            "Dubble O Dill Weed",
+            "Dubble O - Quality Herbs and Spices"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0495267e0ecc4ca6a2ae8d7f7f08a0f8?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/014aea125f91451fa4df6bb672c7683e?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/061eadbcfb9a4ba986c7baa269e1525d?ref=dp_vse_rvc_2"
+        ],
+        "user_id": [
+            "/shop/influencer-b1c031ce",
+            "",
+            ""
+        ]
+    },
+    "store": "Badia",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Herbs, Spices & Seasonings",
+        "Single Herbs & Spices",
+        "Dill"
+    ],
+    "details": "{\"Brand\": \"Badia\", \"Variety\": \"Dill\", \"Item Form\": \"Powder\", \"Unit Count\": \"4 Ounce\", \"Specialty\": \"Gluten Free\", \"Product Dimensions\": \"3.25 x 2.75 x 8 inches; 4 Ounces\", \"UPC\": \"033844006266\", \"Manufacturer\": \"Badia Spices\"}",
+    "parent_asin": "B00TLE47GE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

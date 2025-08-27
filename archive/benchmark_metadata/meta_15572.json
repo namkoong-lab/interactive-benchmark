@@ -1,0 +1,60 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "The Simpsons Duff Beer Red T-Shirt",
+    "average_rating": 4.1,
+    "rating_number": 17,
+    "features": [
+        "100% Cotton",
+        "Pull On closure",
+        "Machine Wash",
+        "Officially-Licensed",
+        "All Sizes Available",
+        "Great Gift For Simpsons Fans"
+    ],
+    "description": [
+        "The Simpson's Duff Beer. Red T-shirt. 100% Cotton."
+    ],
+    "price": "19.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51WSo3qrT+L._AC_UL1001_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/51PqhseQOkS._AC_UL1098_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41qjYMmlJWL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31jWOuOYhQS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41FzkbbPIlS._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41qjYMmlJWL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31jWOuOYhQS._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41FzkbbPIlS._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "The Simpsons",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Men",
+        "Shirts",
+        "T-Shirts"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"Mens\", \"Date First Available\": \"July 4, 2007\"}",
+    "parent_asin": "B07CK2PKNL",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

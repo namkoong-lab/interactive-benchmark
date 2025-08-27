@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "American Operetta: From H.M.S. Pinafore to Sweeney Todd",
+    "average_rating": 4.6,
+    "rating_number": 3,
+    "features": [
+        "\"Provocative and artfully argued\"―The Los Angeles Times. Tracing the early history of the operetta on the American stage, this lively book examines origins of the musical theater in America. Bordman examines the public response to the mid-nineteenth century importations, showing how Americans then attempted to create their own operettas. Full of details about the producers and stars of the nineteenth-century entertainment world, this book will inform and entertain."
+    ],
+    "description": [
+        "Review",
+        "\"Provocative and artfully argued.\"―The Los Angeles Times"
+    ],
+    "price": "24.94",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/515aZD-ChGL._SX373_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Gerald Bordman (Author)",
+    "categories": [
+        "Books",
+        "Arts & Photography",
+        "Music"
+    ],
+    "details": "{\"Publisher\": \"Oxford University Press; First Edition (May 21, 1981)\", \"Language\": \"English\", \"Hardcover\": \"224 pages\", \"ISBN 10\": \"9780195028690\", \"ISBN 13\": \"978-0195028690\", \"Item Weight\": \"14.7 ounces\", \"Dimensions\": \"5.81 x 0.92 x 8.5 inches\"}",
+    "parent_asin": "0195028694",
+    "bought_together": null,
+    "subtitle": "Hardcover – May 21, 1981",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Gerald Martin Bordman', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

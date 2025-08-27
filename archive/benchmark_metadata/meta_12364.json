@@ -1,0 +1,60 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Wonderbra Womens T-Shirt Underwire Bra",
+    "average_rating": 3.9,
+    "rating_number": 943,
+    "features": [
+        "Polyamide Mix",
+        "UK Sizes - Please refer to size chart"
+    ],
+    "description": [
+        "The Wonderbra T-Shirt Bra has smooth, seam free underwired cups. The T-Shirt Bra is super soft to wear and offers a rounded and natural looking cleavage. The bra has gradual padding and is comfortable enough for everyday wear. The straps are adjustable and the bra fastens with hook and eyes at the rear."
+    ],
+    "price": "50.35",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71i7Oo7MyIS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61e3x7+FoDL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71OUVg0XZRS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71HNwoH4l2S._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51ygyk4frGS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71qFAaIXNgS._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41n6idWCj0S._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31eR+xwK7cL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41F+6WiWx5S._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31nro1+2UmS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31QweCRodWS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41WKP+6F8tS._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41n6idWCj0S._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31eR+xwK7cL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41F+6WiWx5S._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31nro1+2UmS._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31QweCRodWS._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41WKP+6F8tS._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Wonderbra",
+    "categories": [],
+    "details": "{\"Item model number\": \"9443\", \"Department\": \"womens\", \"Date First Available\": \"March 28, 2014\"}",
+    "parent_asin": "B018M5SK8I",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

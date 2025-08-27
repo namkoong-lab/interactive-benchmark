@@ -1,0 +1,46 @@
+{
+    "main_category": "Books",
+    "title": "My Father, in Snow",
+    "average_rating": 4.5,
+    "rating_number": 41,
+    "features": [
+        "In this family memoir, the author's lyric remembrances alternate with the testimony of her eight brothers and sisters to form a loving portrait of their father. Set in the 1950s and early 1960s, the story takes the reader inside their big family, and highlights the intense contrast between its warmth and the sometimes cold outside world. In remembering their father, the children reveal echoes of his character within their own."
+    ],
+    "description": [
+        "Review",
+        "This is a gorgeous book. I simply don't get to say that very often, so when I can, I do. Sheila has a light touch that can almost never be taught. I literally loved reading this work.               - Marion Roach Smith, author of",
+        "The Memoir Project: A Thoroughly",
+        "Non-Standardized Text for Writing & Life"
+    ],
+    "price": "6.06",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51MzYlU4MhL._SX337_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "E. Sheila Johnson (Author)",
+    "categories": [
+        "Books",
+        "Self-Help",
+        "Death & Grief"
+    ],
+    "details": "{\"Publisher\": \"Nine By Two Press (October 20, 2014)\", \"Language\": \"English\", \"Hardcover\": \"124 pages\", \"ISBN 10\": \"0990591212\", \"ISBN 13\": \"978-0990591214\", \"Item Weight\": \"10.4 ounces\", \"Dimensions\": \"5.5 x 0.44 x 8.5 inches\"}",
+    "parent_asin": "0990591212",
+    "bought_together": null,
+    "subtitle": "Hardcover – October 20, 2014",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/91AtMq4k2gL._SY600_.jpg', 'name': 'E. Sheila Johnson', 'about': ['E. Sheila Johnson is a graduate of Cedar Crest College,', 'Villanova University, and Bread Loaf Writers’ Conference.', 'She lives beside a park near friends and family and', 'is part of a team working toward the renaissance of her city.', 'Jane Austen, Robert Frost, Emily Brontë, T. S. Eliot, and', 'Emily Dickinson are her favorite authors.']}"
+}

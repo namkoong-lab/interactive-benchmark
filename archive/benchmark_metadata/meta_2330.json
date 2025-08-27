@@ -1,0 +1,48 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "Panda3D 1.6 Game Engine Beginner's Guide",
+    "average_rating": 3.8,
+    "rating_number": 13,
+    "features": [
+        "This book is a step-by-step, tutorial-driven guide to game or application development using Panda3D that follows the process used in professional development. You will learn through first-hand experience how a Panda3D developer goes from literally nothing to a finished product. Along the way there are illustrations to explain difficult topics and to display the results of progress, as well as a complete archive of thoroughly explained code for every tutorial. Every single code file the reader saves is mirrored in the example code, finished and explained. In addition, every art and audio asset required by the tutorials is provided, so the user need not provide any assets of their own. If you are an independent developer interested in creating your own video games or other 3D applications using Panda3D for personal or commercial distribution at minimal expense, this book is definitely for you. A basic understanding of general programming, such as familiarity with the concept of a variable, is necessary. Some familiarity with object-oriented programming and the Python language is expected, but not essential. This book does not cover the creation of three dimensional models or similar art assets, nor does it cover the creation of two dimensional art assets or audio assets."
+    ],
+    "description": [
+        "About the Author",
+        "Dave Mathews",
+        "David Brian Mathews is a graduate in Electronic Visualizati on program from the University of Illinois at Chicago. He began rogramming in the fifth grade with QBASIC and has been designing games of various kinds, from table-top board games to computer games, since childhood. Prior to entering higher education, he served for two years in the United States Navy as a nuclear engineer before being honorably discharged for medical reasons, where he learned discipline, advanced mathematics, and nuclear theory, as well as teamwork and leadership skills. During his years in school, Mathews earned valuable experience with professional game development methods working both by himself and with teams. He is skilled at programming, 3D modeling and animati on, drawing, and 2D compositing.",
+        "--This text refers to the",
+        "paperback",
+        "edition."
+    ],
+    "price": "17.84",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51owQVaSTOL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "David Brian Mathews (Author)   Format: Kindle Edition",
+    "categories": [
+        "Kindle Store",
+        "Kindle eBooks",
+        "Computers & Technology"
+    ],
+    "details": "{\"Publisher\": \"Packt Publishing (February 9, 2011)\", \"Publication date\": \"February 9, 2011\", \"Language\": \"English\", \"File size\": \"12327 KB\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Not Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"648 pages\"}",
+    "parent_asin": "B0056G04LI",
+    "bought_together": null,
+    "subtitle": "Kindle Edition",
+    "author": null
+}

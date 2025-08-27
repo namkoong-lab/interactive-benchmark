@@ -1,0 +1,49 @@
+{
+    "main_category": "Grocery",
+    "title": "Gardener's Sea Salt",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Season fish, soups, veggies",
+        "8.5 ozs - refillable",
+        "Perfect for sourdough bread making",
+        "Great hostess gift",
+        "Has a built in grinder"
+    ],
+    "description": [
+        "Note: the bottle has 8.5 oz of salt- the center of the bottle is taken up with a glass insert to prevent caking- you are not getting a bottle that has 100 percent volume filled with salt. Gardener's Salt makes for the perfect edition to every kitchen. This salt and herb blend of garlic, chervil, parsley, & tarragon is versatile enough to season anything. You can add this seasoning to sauteed vegetables, sauces, soups, and meats. This seasoning comes in a convenient, refillable grinder, so it can be stored on your table for you guests to use with ease. Ingredients: Dried Sea Salt, Tarragon, Parsley, Garlic, Chervil Use in your favorite #sourdough bread recipe."
+    ],
+    "price": "16.96",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51qZP+lMQCL._SL1280_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/3168sQvB8wL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/3168sQvB8wL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Petali Teas",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Herbs, Spices & Seasonings",
+        "Salt & Salt Substitutes",
+        "Sea Salt"
+    ],
+    "details": "{\"Item Weight\": \"8.5 Ounces\", \"UPC\": \"741754200031\", \"Manufacturer\": \"Petali Teas\"}",
+    "parent_asin": "B0BDVXN828",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

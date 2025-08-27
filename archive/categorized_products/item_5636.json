@@ -1,0 +1,80 @@
+{
+  "item_id": 5636,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Rollie Derby",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+      "Made in the USA or Imported",
+      "Rubber sole",
+      "Amp up your casual style game wearing the Rollie Derby Shoes.",
+      "Leather upper.",
+      "Man-made lining.",
+      "Removable EVA footbed.",
+      "Lace-up closure."
+    ],
+    "description": [
+      "Amp up your casual style game wearing the Rollie Derby Shoes. Leather upper. Man-made lining. Removable EVA footbed. Lace-up closure. Round toe. Rubber outsole."
+    ],
+    "price": "72.13",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81T2K+I5g4L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71IwYr0nFbL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61zgun9srYL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81YVg6-tnuL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/712erJjdc7L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71wZ6XleJxL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41pbAS+9f7L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41+re-bca+L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/313L9+oR55L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41h5OdSV2DL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41aLfoA+EXL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41uLHLjx+6L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41pbAS+9f7L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41+re-bca+L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/313L9+oR55L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41h5OdSV2DL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41aLfoA+EXL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41uLHLjx+6L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT06"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Rollie",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Oxfords"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"November 5, 2021\"}",
+    "parent_asin": "B0B2X6R4FJ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

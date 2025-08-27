@@ -1,0 +1,69 @@
+{
+    "main_category": "Books",
+    "title": "Risk Analysis and the Security Survey",
+    "average_rating": 4.6,
+    "rating_number": 82,
+    "features": [
+        "As there is a need for careful analysis in a world where threats are growing more complex and serious, you need the tools to ensure that sensible methods are employed and correlated directly to risk. Counter threats such as terrorism, fraud, natural disasters, and information theft with the Fourth Edition of",
+        "Risk Analysis and the Security Survey.",
+        "Broder and Tucker guide you through analysis to implementation to provide you with the know-how to implement rigorous, accurate, and cost-effective security policies and designs. This book builds on the legacy of its predecessors by updating and covering new content. Understand the most fundamental theories surrounding risk control, design, and implementation by reviewing topics such as cost/benefit analysis, crime prediction, response planning, and business impact analysis--all updated to match today's current standards.",
+        "This book will show you how to develop and maintain current business contingency and disaster recovery plans to ensure your enterprises are able to sustain loss are able to recover, and protect your assets, be it your business, your information, or yourself, from threats.",
+        "Offers powerful techniques for weighing and managing the risks that face your organization",
+        "Offers powerful techniques for weighing and managing the risks that face your organization",
+        "Gives insights into universal principles that can be adapted to specific situations and threats",
+        "Gives insights into universal principles that can be adapted to specific situations and threats",
+        "Covers topics needed by homeland security professionals as well as IT and physical security managers",
+        "Covers topics needed by homeland security professionals as well as IT and physical security managers"
+    ],
+    "description": [
+        "Review",
+        "\"Managing risk in today’s rapidly changing corporate environment is challenging. James Broder and Eugene Tucker take much of the guesswork out of this challenge with Risk Analysis and the Security Survey…From cover to cover, this is a valuable resource for security professionals at all career stages.\"",
+        "--Security Management, January 2013",
+        "\"When the lst edition of this book was published, back in the 1980s, it became an instant success. Today, many years later, it stands as a classic, used by security professionals, college professors, and students around the world. This new edition addresses the problems every security executive might one day face regarding Disaster Recovery. Broder tells us how to identify and deal with these threats and vulnerabilities as well as what to do if, in spite of our best efforts, disaster strikes. This book is, without doubt, the best of its kind on the market. The contents of this book are virtually priceless and I’m so bold as to suggest that without it, a security professional’s library is incomplete.\"",
+        "--Charles (Chuck) Sennewald, CPP, CSC",
+        "\"Jim Broder and Eugene Tucker have done it again--another fine reference for the serious-minded security professional.\"",
+        "--John Fay, Learning Shop USA",
+        "Review",
+        "The cornerstone of all successful security programs--learn the process from the masters!",
+        "From the Back Cover",
+        "As there is a need for careful analysis in a world where threats are growing more complex and serious, you need the tools to ensure that sensible methods are employed and correlated directly to risk. Counter threats such as terrorism, fraud, natural disasters, and information theft with the Fourth Edition of Risk Analysis and the Security Survey. Broder and Tucker guide you through analysis to implementation to provide you with the know-how to implement rigorous, accurate, and cost-effective security policies and designs. This book builds on the legacy of its predecessors by updating and covering new content. Understand the most fundamental theories surrounding risk control, design, and implementation by reviewing topics such as cost/benefit analysis, crime prediction, response planning, and business impact analysis--all updated to match today's current standards.",
+        "This book will show you how to develop and maintain current business contingency and disaster recovery plans to ensure your enterprises are able to sustain loss are able to recover, and protect your assets, be it your business, your information, or yourself, from threats.",
+        "About the Author",
+        "James F. Broder, CFE, CPP, FACFE, has more than 40 years experience in security and law",
+        "enforcement. He has worked as a security executive, instructor, and consultant as well as having",
+        "served in Vietnam as a Police Advisor in the Counter Insurgency Directorate, Vietnamese",
+        "National Police. A former FBI Special Agent and employee for the US State Department, U.S. House of Representatives, Washington D.C. Mr. Broder is considered to be one of the most highly respected security authorities in the United States.Eugene (Gene) Tucker, CPP, CFE, CBCP, CHST, is co-author of Butterworth Heinemann’s Risk Analysis and the Security Survey, 4th edition. He is qualified as a Certified Continuity Manager (CCM) – ISO 22301 Lead Implementer and as an ISO 22301 Lead Auditor, and has extensive international experience as a corporate manager, investigator, trainer and consultant in security, safety, and business continuity planning.",
+        "Read more"
+    ],
+    "price": "21.52",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51hGnpcYB7L._SX393_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "James F. Broder (Author),  Eugene Tucker (Author)",
+    "categories": [
+        "Books",
+        "Politics & Social Sciences",
+        "Politics & Government"
+    ],
+    "details": "{\"Publisher\": \"Butterworth-Heinemann; 4th edition (January 20, 2012)\", \"Language\": \"English\", \"Hardcover\": \"368 pages\", \"ISBN 10\": \"0123822335\", \"ISBN 13\": \"978-0123822338\", \"Item Weight\": \"1.46 pounds\", \"Dimensions\": \"7.7 x 1.1 x 9.3 inches\"}",
+    "parent_asin": "0123822335",
+    "bought_together": null,
+    "subtitle": "4th Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/51O0r7krvTL._SY600_.jpg', 'name': 'Eugene Tucker', 'about': [\"Eugene (Gene) Tucker, CPP, CFE, CBCP, CHST, CCM is co-author of Butterworth Heinemann's Risk Analysis and the Security Survey, now in its 4th edition. He is qualified as a Certified Continuity Manager (CCM) - ISO 22301 Lead Implementer and as an ISO 22301 Lead Auditor, and has extensive international experience as a corporate manager, investigator, trainer and consultant in security, safety, and business continuity planning.\", 'His new book, Business Continuity from Preparedness to Recovery: A Standards-Based Approach, details the process for building organizational resiliency and managing Emergency and Business Continuity programs. Using his 30+ years of experience developing plans that have been tested by fire, floods, and earthquakes, he shows readers how to avoid common traps and ensure a successful program utilizing detailed Business Impact Analysis (BIA) questions, continuity strategies and planning considerations for specific business functions.', 'He is the President of Praetorian Protective Services (R), LLC and an amateur sushi chef.']}"
+}

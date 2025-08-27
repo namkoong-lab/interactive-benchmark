@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Inside Pro/ENGINEER Wildfire",
+    "average_rating": 3.5,
+    "rating_number": 7,
+    "features": [
+        "Inside Pro/ENGINEER Wildfire, 4th Edition is a must-have handbook that breaks down a sophisticated, high-level application so that it may be easily understood and readily applied by users of all abilities seeking to create world-class engineering designs. Completely updated to enable users to take full advantage of the latest features and enhancements available in the new release, this all-inclusive book introduces readers to the new Pro/ENGINEER Wildfire user interface and real-world usage of functionality for core modeling. Extensive screen captures and sample design sessions enable readers to explore the \"ins\" and \"outs\" of this powerful tool while familiarizing themselves with sound parametric design practices. Comprehensive in scope, and equally well suited for use by students and engineering professionals alike, coverage spans the spectrum from basic functionality to working with parts, assemblies and drawings through high-powered automation and customization techniques. By helping to establish a solid foundation upon which to increase their expertise, this book is guaranteed to provide a critical pathway to enhanced productivity for every user."
+    ],
+    "description": [
+        "About the Author",
+        "President, Plantation Key Design, Inc., Tavernier, FLGary Graham is a staff mechanical engineer and CAD administrator with ENCAD, Inc., a manufacturer of wide-format digital inkjet printers. He has 21 years of engineering experience including the use of Pro/ENGINEER since Release 12. Gary has also provided formal classroom instruction to advanced and novice users of PTC software."
+    ],
+    "price": "50.01",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41dhlkH0NRL._SX390_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Dennis L. Steffen (Author),  Gary Graham (Author)",
+    "categories": [
+        "Books",
+        "Engineering & Transportation",
+        "Engineering"
+    ],
+    "details": "{\"Publisher\": \"OnWord Press; 4th edition (July 2, 2003)\", \"Language\": \"English\", \"Paperback\": \"460 pages\", \"ISBN 10\": \"1401812724\", \"ISBN 13\": \"978-1401812720\", \"Item Weight\": \"1.8 pounds\", \"Dimensions\": \"7.25 x 1 x 9 inches\"}",
+    "parent_asin": "1401812724",
+    "bought_together": null,
+    "subtitle": "4th Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Dennis Steffen', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

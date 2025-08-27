@@ -1,0 +1,41 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Captain Horatio Hornblower",
+    "average_rating": 4.7,
+    "rating_number": 2329,
+    "features": [],
+    "description": [
+        "Gregory Peck Action"
+    ],
+    "price": "3.37",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/211H3Q46X0L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/211H3Q46X0L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rated:    Unrated    Format: VHS Tape",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Drama"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.32 x 4.19 x 1.12 inches; 6.13 Ounces\", \"Release date\": \"July 7, 1994\", \"Date First Available\": \"October 26, 2006\", \"Actors\": \"Peck, Mayo\", \"Studio\": \"Warner Home Video\"}",
+    "parent_asin": "6302464889",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

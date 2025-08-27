@@ -1,0 +1,42 @@
+{
+    "main_category": "Grocery",
+    "title": "Sabor Mineiro Pimenta Malagueta 12oz 300g",
+    "average_rating": 4.6,
+    "rating_number": 143,
+    "features": [],
+    "description": [
+        "Sabor Mineiro Pimenta Malagueta 12oz 340g"
+    ],
+    "price": "12.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41DC-s5GI2L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41DC-s5GI2L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Sabor Mineiro",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Sauces, Gravies & Marinades",
+        "Hot Sauce"
+    ],
+    "details": "{\"Flavor\": \"300g\", \"Package Information\": \"Jar\", \"Item Weight\": \"12 Ounces\", \"Package Weight\": \"0.59 Kilograms\", \"Unit Count\": \"12 Fl Oz\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"6.5 x 3.5 x 3.4 inches; 12 Ounces\", \"UPC\": \"641785640618\", \"Manufacturer\": \"Sabor Mineiro\"}",
+    "parent_asin": "B06WW7KB4X",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

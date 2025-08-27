@@ -1,0 +1,36 @@
+{
+    "main_category": "Books",
+    "title": "Superman: Miracle Monday",
+    "average_rating": 4.4,
+    "rating_number": 100,
+    "features": [
+        "What happened when the Man of Steel confronted a demon of fire? When a historian from the future travels to Metropolis of the past to unravel the mystery surrounding the joyous holiday of Miracle Monday, she finds herself embroiled in events that threaten the stability of the Universe and the laws of physics themselves. Superman faces down the devil itself in this reissue of the bestselling novel."
+    ],
+    "description": [
+        "About the Author",
+        "Elliot S! Maggin grew up in New York and has been writing about dreams and heroes all his life. He started publishing what he wrote when he was 17. He has written several hundred comic book stories, including a 15-year run as principal writer of Superman for DC Comics. He has written journalism, novels, television and film for a profusion of publishers and producers. His novels, Superman: Last Son of Krypton and Superman: Miracle Monday, both bestsellers, were first published as marketing tie-ins with the Superman feature films of 1978 and 1981. He wrote Not My Closet in 2016, a novel about people who don't fly under their own power or generally wear Spandex. He is 2016 recipient of the Bill Finger Award for Excellence in Comic Book Writing. He was educated at Brandeis and Columbia Universities and he is the father of two spectacularly capable adult children. He lives in Los Angeles."
+    ],
+    "price": "12.99",
+    "images": {
+        "hi_res": [],
+        "large": [],
+        "thumb": [],
+        "variant": []
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Elliot S! Maggin (Author)",
+    "categories": [
+        "Books",
+        "Science Fiction & Fantasy",
+        "Fantasy"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform; 2nd edition (May 18, 1981)\", \"Language\": \"English\", \"Paperback\": \"250 pages\", \"ISBN 10\": \"1544943261\", \"ISBN 13\": \"978-1544943268\", \"Item Weight\": \"12 ounces\", \"Dimensions\": \"6 x 0.57 x 9 inches\"}",
+    "parent_asin": "1544943261",
+    "bought_together": null,
+    "subtitle": "Paperback – May 18, 1981",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/512N4eVQa1L._SY600_.jpg', 'name': 'Elliot S. Maggin', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

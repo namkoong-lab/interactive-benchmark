@@ -1,0 +1,60 @@
+{
+  "item_id": 5638,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Jacobson Hat Company Ladies Sparkly Star Wand (Gold)",
+    "average_rating": 3.9,
+    "rating_number": 3,
+    "features": [
+      "Hand Wash Only",
+      "15.75 inches top to bottom",
+      "3.5 inch star",
+      "Lightweight materials",
+      "Sparkles without the mess of glitter!",
+      "Perfect for your costume"
+    ],
+    "description": [
+      "This beautiful sparkly star wand is the perfect accessory for your costume! It measures approximately 15.75 inches from top to bottom and the star measures 3.5 inches."
+    ],
+    "price": "2.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61aMb6F3KSL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/21ttvNJdB6L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/21ttvNJdB6L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "jAc",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Costumes & Accessories",
+      "Women",
+      "Accessories"
+    ],
+    "details": "{\"Package Dimensions\": \"10 x 8 x 1 inches; 8 Ounces\", \"Item model number\": \"star-wand-jhc-gld\", \"Department\": \"Womens\", \"Date First Available\": \"October 21, 2016\"}",
+    "parent_asin": "B01MG24HDV",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Costume Accessories"
+    ],
+    "confidence": 0.95
+  }
+}

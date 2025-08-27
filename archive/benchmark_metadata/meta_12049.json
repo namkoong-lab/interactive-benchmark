@@ -1,0 +1,64 @@
+{
+    "main_category": "Computers",
+    "title": "Vantec 2-Port Parallel PCI Host Card (UGT-PC20PL)",
+    "average_rating": 3.9,
+    "rating_number": 4,
+    "features": [
+        "Add two IEEE 1284 Parallel Ports on system",
+        "Faster data rates up to 1.5Mbytes/sec",
+        "Supports Standard Parallel Port (SPP), Enhanced Parallel (EPP) & Enhanced Capability Port (ECP)",
+        "Compliant with PCI Local Bus Specification, Revision 2.3",
+        "Automatic selects IRQ & I/O address",
+        "PCI 32-bit",
+        "2 x DB25 female parallel connectors"
+    ],
+    "description": [
+        "This UGT-PC20PL is part of a series of I/O card based on the PCI Express technology. It offers TWO LPT port that enables the user to connect parallel devices. The Parallel (LPT) port offer data transfer rate up to 1.5 Mbps with built-in ECP/EPP/SPP/BPP auto switching operation modes to give you maximum system performance and efficiency via DB25 pin female connector. This card is the best solution for your Centronics peripherals. The UGT-PC20PL is design to be easy and simple to use for commercial, office and home use. This card is designed to meet PCI local bus specification rev. 2.3 and with the standard or low profile brackets can be installed virtually in any PC with all major operating systems. The I/O address and IRQ are automatically configured to simplify the installation at the same time offers a reliable and high performance solution for Parallel Communication."
+    ],
+    "price": "21.27",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61iVYOV8szL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51OCQMXPkEL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51rKZa5cXtL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/519nOUlNnZL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51xk2in820L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41kLOQ9txBL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41QLjQXvifL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31VWmauSJCL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51xk2in820L._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41kLOQ9txBL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41QLjQXvifL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31VWmauSJCL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Vantec",
+    "categories": [
+        "Electronics",
+        "Computers & Accessories",
+        "Computer Components",
+        "Internal Components",
+        "I/O Port Cards",
+        "Parallel Port Cards"
+    ],
+    "details": "{\"Brand\": \"Vantec\", \"Item model number\": \"UGT-PC20PL\", \"Operating System\": \"All Windows\", \"Item Weight\": \"6.4 ounces\", \"Product Dimensions\": \"8 x 5.75 x 1.5 inches\", \"Item Dimensions  LxWxH\": \"8 x 5.75 x 1.5 inches\", \"Manufacturer\": \"Vantec\", \"Country of Origin\": \"China\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"July 9, 2013\", \"Best Sellers Rank\": {\"Parallel Port Cards\": 96}, \"Domestic Shipping\": \"Item can be shipped within U.S.\", \"International Shipping\": \"This item can be shipped to select countries outside of the U.S.  Learn More\", \"Hardware Interface\": \"PCI\", \"Item Dimensions LxWxH\": \"8 x 5.75 x 1.5 inches\", \"Style\": \"2 Parallel\", \"Compatible Devices\": \"Personal Computer\"}",
+    "parent_asin": "B01EOHXDK8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

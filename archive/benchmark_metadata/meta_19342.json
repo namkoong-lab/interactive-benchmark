@@ -1,0 +1,47 @@
+{
+    "main_category": "Prime Video",
+    "title": "The Three Caballeros",
+    "average_rating": 4.7,
+    "rating_number": 746,
+    "features": [
+        "IMDb 6.3",
+        "1 h 11 min",
+        "1945",
+        "G"
+    ],
+    "description": [
+        "Donald receives birthday gifts that take him on adventures through South America and Mexico."
+    ],
+    "price": "17.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Comedy",
+        "Animation",
+        "Cheerful",
+        "Sweet"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Norman Ferguson\"], \"Producers\": [\"Norman Ferguson\"], \"Starring\": [\"Carmen Molina\", \"Dora Luz\", \"Aurora Miranda\"]}",
+    "parent_asin": "B00AT9EVYI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

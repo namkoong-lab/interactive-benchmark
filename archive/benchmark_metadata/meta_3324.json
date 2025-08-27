@@ -1,0 +1,43 @@
+{
+    "main_category": "Grocery",
+    "title": "Bread Alone, Bread 9 Grain, 1 Each",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "This item is only available for delivery or pick-up between 9am and 9pm"
+    ],
+    "description": [
+        "Bakery Breads"
+    ],
+    "price": "29.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41OMyRJLA8L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41OMyRJLA8L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Bread Alone",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Breads & Bakery",
+        "Breads"
+    ],
+    "details": "{\"Flavor\": \"Grain\", \"Brand\": \"Bread Alone\", \"Specialty\": \"Vegetarian\", \"Number of Pieces\": \"1\", \"Item Form\": \"Loaf\", \"Manufacturer\": \"Bread Alone\"}",
+    "parent_asin": "B07FZJNBKF",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

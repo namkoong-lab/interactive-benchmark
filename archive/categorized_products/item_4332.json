@@ -1,0 +1,80 @@
+{
+  "item_id": 4332,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Danskin Womens 2-Pack Soft Active Short",
+    "average_rating": 4.2,
+    "rating_number": 630,
+    "features": [
+      "60% Cotton, 40% Polyester",
+      "Drawstring closure",
+      "Machine Wash",
+      "2-Pack",
+      "Soft french terry fabric",
+      "Adjustable drawcord waist & side seam pockets",
+      "6\" inseam and side slit hem",
+      "Machine washable"
+    ],
+    "description": [
+      "These soft French Terry shorts are perfect for lounging around or sweating it out. Keep your essentials close with roomy pockets and use the adjustable drawcord to find your best fit.",
+      "Size Conversion: XS= 0-2 | S= 4-6 | M= 8-10 | L= 12-14 | XL= 16 | XXL= 18"
+    ],
+    "price": "14.98",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61pwbAZ8LdL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/51RhTBLEPqL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/51djsDKiM+L._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61m22DpzCwL._AC_UL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61AzWCq+FQL._AC_UL1200_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/419ssgAZmlL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/318zvzsbSqL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31ehrwTEvpL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41y+hZZ0EjL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/412Wfk0VR7L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/419ssgAZmlL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/318zvzsbSqL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31ehrwTEvpL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41y+hZZ0EjL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/412Wfk0VR7L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Danskin",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Active",
+      "Active Shorts"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"August 5, 2021\"}",
+    "parent_asin": "B09C1179QH",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Pants",
+      "Women's Shorts"
+    ],
+    "confidence": 0.95
+  }
+}

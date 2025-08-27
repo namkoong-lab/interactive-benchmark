@@ -1,0 +1,57 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Tommy Hilfiger Women's Classic",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "91% Polyester, 9% Spandex",
+        "Imported",
+        "Zipper closure",
+        "Dry Clean Only",
+        "Style: Sheath",
+        "Size Type: Regular",
+        "Country of Origin: Vietnam",
+        "Care Instructions: Dry clean",
+        "Occasion: Wear to Work- Sleeve: Sleeveless- Aprox Inseam (inches):"
+    ],
+    "description": [
+        "100% Polyester,Viet Nam,Dry Clean Only,Stripe print,Cdc"
+    ],
+    "price": "59.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71D-tij9KML._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/718Gx6IQ-yL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31rq2nVmkSL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31GXhHsXHqL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31rq2nVmkSL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31GXhHsXHqL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Tommy Hilfiger",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Dresses",
+        "Club & Night Out"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"July 12, 2023\", \"Manufacturer\": \"Tommy Hilfiger\"}",
+    "parent_asin": "B0CBP6Y7N9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

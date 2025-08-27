@@ -1,0 +1,61 @@
+{
+  "item_id": 5215,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Charter Club Womens Plush Red & Black Buffalo Plaid Bathrobe House Coat Bath Robe",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+      "Polyester",
+      "Tie closure",
+      "Hand Wash Only",
+      "This cozy red & black buffalo plaid women's robe is sure to be a favorite!",
+      "Women's sizes",
+      "100% polyester"
+    ],
+    "description": [
+      "This cozy red & black buffalo plaid women's robe is sure to be a favorite! Women's sizes 2 front pockets 100% polyester"
+    ],
+    "price": "55.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61KZeDz1pTL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41IjAzAgfBL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41IjAzAgfBL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Charter Club",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Lingerie, Sleep & Lounge",
+      "Sleep & Lounge",
+      "Robes"
+    ],
+    "details": "{\"Item Weight\": \"2 Pounds\", \"Department\": \"womens\", \"Date First Available\": \"April 2, 2019\", \"Manufacturer\": \"Charter Club\"}",
+    "parent_asin": "B07Q9FCH72",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Pajamas"
+    ],
+    "confidence": 0.95
+  }
+}

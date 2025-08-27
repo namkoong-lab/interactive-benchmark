@@ -1,0 +1,49 @@
+{
+    "main_category": "Books",
+    "title": "Prime Meridian",
+    "average_rating": 4.1,
+    "rating_number": 327,
+    "features": [
+        "Amelia dreams of Mars. The Mars of the movies and the imagination, an endless bastion of opportunities for a colonist with some guts. But she’s trapped in Mexico City, enduring the drudgery of an unkind metropolis, working as a rent-a-friend, selling her blood to old folks with money who hope to rejuvenate themselves with it, enacting a fractured love story. And yet there’s Mars, at the edge of the silver screen, of life. It awaits her."
+    ],
+    "description": [
+        "Review",
+        "\"Really, this is one of the best novellas I've seen in 2017.\" - Locus",
+        "\"Amelia is an engaging character. The specifics of her economic trap are shaped by Mexican society of the 21",
+        "st",
+        "century, but it's a trap to which many readers should be able to relate.\" - James Nicoll Reviews",
+        "\"Silvia echoes, not the majority of SF writers with their shiny futures and ragged heroes, but that most unlikely of novelists, the late Philip K. Dick, for whom the future was only ever inhabited by the little people, by people like us, and for whom Mars represented the same sort of escape.\" - Lavie Tidhar, author of",
+        "Central Station"
+    ],
+    "price": "7.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51C6qGP+jZL._SY344_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Silvia Moreno-Garcia (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Literary"
+    ],
+    "details": "{\"Publisher\": \"Innsmouth Free Press (July 10, 2018)\", \"Language\": \"English\", \"Paperback\": \"124 pages\", \"ISBN 10\": \"1927990211\", \"ISBN 13\": \"978-1927990216\", \"Item Weight\": \"5 ounces\", \"Dimensions\": \"5 x 0.29 x 8 inches\"}",
+    "parent_asin": "1927990211",
+    "bought_together": null,
+    "subtitle": "Paperback – Picture Book, July 10, 2018",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/vv28vv0ga9r0gjb65rq25qd644._SY600_.jpg', 'name': 'Silvia Moreno-Garcia', 'about': ['Silvia Moreno-Garcia is the author of The Daughter of Doctor Moreau, Velvet Was the Night, Mexican Gothic, Gods of Jade and Shadow, and many other books. She has won the Locus and British Fantasy awards for her work as a novelist, and the World Fantasy Award as an editor.']}"
+}

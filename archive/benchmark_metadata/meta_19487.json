@@ -1,0 +1,44 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Sand Wars",
+    "average_rating": 4.1,
+    "rating_number": 45,
+    "features": [],
+    "description": [
+        "Product Description",
+        "Sand Wars is a surprising investigation into one of the most consumed natural resources on the planet. The planets sand reserves are being threatened. Three-quarters of the worlds beaches are in decline as victims of erosion or sand mafias. But what will be the consequences of sand extraction on the environment and life on the planet? Sand Wars takes us around the world to witness this new gold rush firsthand.",
+        "Review",
+        "\"Disturbing and informative…\" --School Library Journal"
+    ],
+    "price": "28.98",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/8100H0rXC+L._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51DlhSVDnmL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51DlhSVDnmL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": ".  (Actor),     Denis Delestrac  (Director)    Rated:    PG    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Independently Distributed",
+        "Documentary"
+    ],
+    "details": "{\"Genre\": \"Mystery & Thrillers\", \"Format\": \"Multiple Formats, Color, Widescreen, NTSC\", \"Contributor\": \"Denis Delestrac, .\", \"Language\": \"English (Stereo)\", \"Number Of Discs\": \"1\", \"Aspect Ratio\": \"1.78:1\", \"MPAA rating\": \"PG (Parental Guidance Suggested)\", \"Product Dimensions\": \"0.7 x 7.5 x 5.4 inches; 2.4 Ounces\", \"Item model number\": \"30104092\", \"Director\": \"Denis Delestrac\", \"Media Format\": \"Multiple Formats, Color, Widescreen, NTSC\", \"Run time\": \"1 hour and 14 minutes\", \"Release date\": \"December 2, 2014\", \"Subtitles\": \"English\", \"Studio\": \"PBS (Direct)\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00NHG1DNM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

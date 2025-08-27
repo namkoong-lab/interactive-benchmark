@@ -1,0 +1,43 @@
+{
+    "main_category": "Video Games",
+    "title": "amiibo Ken (Nintendo Switch)",
+    "average_rating": 4.6,
+    "rating_number": 732,
+    "features": [
+        "amiibo Ken"
+    ],
+    "description": [
+        "amiibo Ken."
+    ],
+    "price": "69.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/412vFh2+TiL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/412vFh2+TiL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nintendo",
+    "categories": [
+        "Video Games",
+        "Nintendo Switch",
+        "Accessories"
+    ],
+    "details": "{\"Release date\": \"April 12, 2019\", \"Best Sellers Rank\": {\"Video Games\": 81915, \"Nintendo Switch Accessories\": 11475}, \"Pricing\": \"The strikethrough price is the List Price. Savings represents a discount off the List Price.\", \"Product Dimensions\": \"1.97 x 7.09 x 3.66 inches; 3.53 Ounces\", \"Type of item\": \"Accessory\", \"Language\": \"Italian\", \"Item model number\": \"1001256\", \"Item Weight\": \"3.53 ounces\", \"Manufacturer\": \"Nintendo\", \"Date First Available\": \"March 27, 2019\"}",
+    "parent_asin": "B07NSQ56D7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

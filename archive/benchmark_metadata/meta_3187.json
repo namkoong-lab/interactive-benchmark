@@ -1,0 +1,53 @@
+{
+    "main_category": "Grocery",
+    "title": "Enchilada Soda",
+    "average_rating": 4.0,
+    "rating_number": 21,
+    "features": [
+        "Enchilada flavored soda-pop",
+        "Sweetened with real cane sugar",
+        "Volume: 12 fl. oz. (355 ml)",
+        "Ingredients: Carbonated artesian spring water, pure cane sugar, citric acid, natural and artificial flavor, soybean oil, ester gum, caramel color, yellow 6, red 40.",
+        "Made in the USA",
+        "Tastes a lot better than you might think!"
+    ],
+    "description": [
+        "The flavor pioneers at Lester's Fixins have captured the taste of your local taqueria's enchilada plate, added a sweet smack of pure cane sugar, a hint of spice, tempered with fizzy carbonation, and delivered it right to your taste buds."
+    ],
+    "price": "8.79",
+    "images": {
+        "hi_res": [
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41u-19Cer+L.jpg",
+            "https://m.media-amazon.com/images/I/61JxkTT42zL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41u-19Cer+L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/61JxkTT42zL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Rocket Fizz",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Beverages",
+        "Bottled Beverages, Water & Drink Mixes",
+        "Soft Drinks"
+    ],
+    "details": "{\"Brand\": \"Rocket Fizz\", \"Item Form\": \"Liquid\", \"Flavor\": \"Cola\", \"Item Volume\": \"12 Fluid Ounces\", \"Unit Count\": \"12.00 Fl Oz\", \"Product Dimensions\": \"9 x 3 x 3 inches; 1.44 Pounds\", \"UPC\": \"714834008001\", \"Manufacturer\": \"Rocket Fizz\"}",
+    "parent_asin": "B09ZP3SWSV",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

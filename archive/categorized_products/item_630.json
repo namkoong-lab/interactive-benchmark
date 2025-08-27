@@ -1,0 +1,58 @@
+{
+  "item_id": 630,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Sonatas & Partitas",
+    "average_rating": 4.3,
+    "rating_number": 9,
+    "features": [],
+    "description": [
+      "Product Description",
+      "J.S. Bach's visionary masterpieces are heard in deeply felt, brilliantly realized interpretation by American violinist, Gregory Fulkerson. Fulkerson's approach to these works steers a middle course between two traditions, bringing many of the insights of the historical performance movement: transparent textures, generally quick tempi, and sprightly articulation to the tradition of great violin playing, as well as beautiful tone, first class technical values, emotional connection, and personal vision. Violinist Gregory Fulkerson rose to prominence, taking the First Prize in the International American Music Competition sponsored by the Rockefeller Foundation, the Kennedy Center and Carnegie Hall. That victory launched his solo career including debuts in New York, London, Paris, Rome and Brussels. Since that time, the adventurous Fulkerson has performed more than 30 different concertos, including the world premiere of John Becker's Violin Concerto, Richard Wernick's Violin Concerto (with the Philadelphia Orchestra) and the Roy Harris Violin Concerto with the North Carolina Symphony (later recording it with The Louisville Orchestra).",
+      "Review",
+      "\"10/10\" Highest Rating --",
+      "Classicstoday.com",
+      "This set easily takes its place among the elite versions of these musical monuments. --",
+      "Classicstoday.com"
+    ],
+    "price": "15.58",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81r1IA9yjwL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41hEUb0s+HL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41hEUb0s+HL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Johann Sebastian Bach  (Composer),     Gregory Fulkerson  (Performer)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Classical",
+      "Forms & Genres",
+      "Sonatas"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.59 x 0.41 x 4.99 inches; 4.16 Ounces\", \"Manufacturer\": \"Bridge\", \"Original Release Date\": \"2000\", \"SPARS Code\": \"DDD\", \"Date First Available\": \"December 8, 2006\", \"Label\": \"Bridge\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00004Y6M8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Classical Albums"
+    ],
+    "confidence": 0.95
+  }
+}

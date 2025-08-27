@@ -1,0 +1,49 @@
+{
+    "main_category": "Grocery",
+    "title": "Old Dutch Potato Chips, Crispy Bacon, 200 Grams/7.1 Oz {Imported from Canada}",
+    "average_rating": 3.8,
+    "rating_number": 7,
+    "features": [
+        "Reach for these funky chips and add some zing to your meal",
+        "Bacon Flavoured",
+        "Each flavor is rich, bold and sure to dazzle",
+        "Low in saturated fat, trans fat-free and certified kosher OU",
+        "Made in Canada"
+    ],
+    "description": [
+        "Old Dutch Crispy Bacon - 200gReach for these funky chips and add some zing to your meal. Bacon Flavoured. Each flavor is rich, bold and sure to dazzle. Low in saturated fat, trans fat-free and certified kosher OU. Made in Canada"
+    ],
+    "price": "11.85",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41rkRKvAs4L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41rkRKvAs4L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Old Dutch Foods",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Snack Foods",
+        "Chips & Crisps",
+        "Potato"
+    ],
+    "details": "{\"Item Weight\": \"7.1 Ounces\", \"Manufacturer\": \"Old Dutch Foods\"}",
+    "parent_asin": "B00BPXQ4I8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,47 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "The Gringos",
+    "average_rating": 4.0,
+    "rating_number": 252,
+    "features": [
+        "This book was converted from its physical edition to the digital format by a community of volunteers. You may find it for free on the web. Purchase of the Kindle edition includes wireless delivery."
+    ],
+    "description": [
+        "About the Author",
+        "Bertha Muzzy Sinclair or Sinclair-Cowan, née Muzzy (November 15, 1871 – July 23, 1940), best known by her pseudonym B. M. Bower, was an American author who wrote novels, fictional short stories, and screenplays about the American Old West.",
+        "--This text refers to an alternate",
+        "kindle_edition",
+        "edition."
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41A0D8z4-0L.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "B. M. Bower (Author),  Anton Otto Fischer (Illustrator)   Format: Kindle Edition",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Genre Fiction"
+    ],
+    "details": "{\"Publication date\": \"May 17, 2012\", \"Language\": \"English\", \"File size\": \"333 KB\", \"Simultaneous device usage\": \"Unlimited\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"195 pages\"}",
+    "parent_asin": "B0084C41CO",
+    "bought_together": null,
+    "subtitle": "Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Raging Bull Publishing', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

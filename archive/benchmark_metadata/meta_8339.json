@@ -1,0 +1,42 @@
+{
+    "main_category": "Books",
+    "title": "Computer Confluence: Exploring Tomorrow's Technology (4th Edition)",
+    "average_rating": 4.4,
+    "rating_number": 5,
+    "features": [],
+    "description": [
+        "From the Back Cover",
+        "* Explanations: Computer Confluence explains what a computer is and what it can (and can't) do; it explains the basics of information technology, from multimedia PCs to the Internet, clearly and concisely. * Applications: Computer Confluence clearly illustrates how computers and networks can be used as practical tools to access, create, and share information at school, work, and home. * Implications Computer Confluence puts computers in a human context, illustrating how information technology affects our lives, our world, and our future."
+    ],
+    "price": "10.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/514WKD7BS5L._SX345_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "George Beekman (Author)",
+    "categories": [
+        "Books",
+        "New, Used & Rental Textbooks",
+        "Computer Science"
+    ],
+    "details": "{\"Publisher\": \"Prentice Hall; Subsequent edition (December 15, 2000)\", \"Language\": \"English\", \"Paperback\": \"572 pages\", \"ISBN 10\": \"0130322792\", \"ISBN 13\": \"978-0130322791\", \"Item Weight\": \"2.55 pounds\", \"Dimensions\": \"8.5 x 0.75 x 11 inches\"}",
+    "parent_asin": "0130322792",
+    "bought_together": null,
+    "subtitle": "Subsequent Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'George Beekman', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

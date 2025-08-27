@@ -1,0 +1,60 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "adidas Adi Ease x NBA (Nets)",
+    "average_rating": 3.9,
+    "rating_number": 16,
+    "features": [
+        "Rubber sole",
+        "sku=q16691-10"
+    ],
+    "description": [
+        "The Adidas Adi Ease is a kick-back style with lightweight construction and a versatile design. They have a breathable canvas upper, textile lining, 3-Stripes detail, contrast stitching, and a gum rubber outsole with herringbone pattern. Plus, this limited-edition version features \"Brooklyn Nets\" branding."
+    ],
+    "price": "199.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61o+hp-4ATL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61ERWCTocpL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/51s8Mi57S9L._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61-aCLWMd0L._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61u6w0bNShL._AC_UL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41QkRmw8xKL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41Iwwhv8JTL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31IQwKqjGSL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/411vtaBOtvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41eqN-ONWxL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41QkRmw8xKL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41Iwwhv8JTL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31IQwKqjGSL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/411vtaBOtvL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41eqN-ONWxL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "adidas",
+    "categories": [
+        "Sports & Outdoors",
+        "Fan Shop",
+        "Footwear"
+    ],
+    "details": "{\"Item model number\": \"ADQ16690\", \"Department\": \"Mens\", \"Date First Available\": \"October 12, 2015\"}",
+    "parent_asin": "B016J5OLYK",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

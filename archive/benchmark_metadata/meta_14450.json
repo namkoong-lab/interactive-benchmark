@@ -1,0 +1,57 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Pendleton womens Cotton Flannel Pajama Bottoms",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [
+        "100% Cotton",
+        "Imported",
+        "Drawstring Waist closure",
+        "Machine Wash",
+        "26.5\" inseam",
+        "Soft cotton flannel",
+        "Drawstring waist",
+        "pockets"
+    ],
+    "description": [
+        "Made with the same features and fabric as our men's cotton flannel pajama pants, pair these pajama bottoms with your own favorite tee or tank for a good night's sleep."
+    ],
+    "price": "37.64",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71-0NCJmV-L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71LIuE9xakL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41+ZKoCwdQL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41ocCyf+EFL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41+ZKoCwdQL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41ocCyf+EFL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Pendleton",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Lingerie, Sleep & Lounge",
+        "Sleep & Lounge",
+        "Bottoms"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"January 31, 2022\", \"Manufacturer\": \"Pendleton\"}",
+    "parent_asin": "B09RK7X2B5",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

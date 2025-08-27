@@ -1,0 +1,38 @@
+{
+    "main_category": "Books",
+    "title": "Hello, Desert!",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Welcome to the desert! Parent and child lizards visit the desert in best-selling author-illustrator Martha Day Zschock's Hello! board book series for children. In",
+        "Hello, Desert!",
+        "join the pair as they explore and discover all the fun things to do and see in the desert. For ages 2-5. Made in the USA."
+    ],
+    "description": [
+        "About the Author",
+        "Martha Zschock lives with her family on Cape Cod. A former elementary school teacher, she was inspired by field trips with her students to write her first book, Journey Around Cape Cod from A to Z. Martha's journey has continued with more books in the series from other places including, Boston, San Francisco, Washington, D.C., Philadelphia, Chicago, Maine, Nantucket, and New York. Martha and her family enjoy the journey of creating the series, which includes lots of traveling, writing, painting, and meeting lots of wonderful children and adults along the way. Martha often collaborates on projects with her twin sister, Heather, an art director and freelance designer. When her twin sister had a baby, Martha began writing and painting for a new Hello! series of board books which take the youngest explorers on journeys to several locations such as Florida, Brooklyn, Washington DC, Boston, Yellowstone, and America."
+    ],
+    "price": "9.95",
+    "images": {
+        "hi_res": [],
+        "large": [],
+        "thumb": [],
+        "variant": []
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Martha Day Zschock (Creator)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Geography & Cultures"
+    ],
+    "details": "{\"Publisher\": \"Commonwealth Editions; Brdbk edition (December 22, 2020)\", \"Language\": \"English\", \"Board book\": \"16 pages\", \"ISBN 10\": \"1938700872\", \"ISBN 13\": \"978-1938700873\", \"Reading age\": \"2 - 5 years\", \"Item Weight\": \"6.4 ounces\", \"Dimensions\": \"5.9 x 0.5 x 6 inches\"}",
+    "parent_asin": "1938700872",
+    "bought_together": null,
+    "subtitle": "Board book – Picture Book, December 22, 2020",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/ckv37krrt0flhomqoosgvl28ls._SY600_.jpg', 'name': 'Martha Day Zschock', 'about': ['Martha Zschock is the author and illustrator of many children’s books and products. She is a former elementary school teacher and loves to continue taking children on field trips through her “Journey Around” and “Hello!” series of books. She has recently launched new books that support early literacy and the importance of reading to children from birth.']}"
+}

@@ -1,0 +1,50 @@
+{
+  "item_id": 294,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Live at St James's",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [],
+    "description": [
+      "If you love the idea of going to see your favourite artist performing live, but want to enjoy it from the comfort of your own home, then this is the album for you. Recorded at the stunning St James's Church, Piccadilly London, where music concerts have been taking place for over 100 years. From major soloists and orchestras to leading names in the pop world include Adele, REM, Mumford and Sons and many more have all performed here. This is the beautiful live concert performed by Helen Jane Long (piano) and The London Players (strings) in 2015. It contains 16 of Helen's compositions from Porcelain, Intervention, Embers and Identity. This is music for the soul."
+    ],
+    "price": "22.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91n+Bp8cuPL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/61PtoBjQhrL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/61PtoBjQhrL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Helen Jane Long   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Today's Deals deprecated"
+    ],
+    "details": "{\"Package Dimensions\": \"5.55 x 4.96 x 0.55 inches; 2.82 Ounces\", \"Manufacturer\": \"BLE Records\", \"Item model number\": \"B01MQZV70T\", \"Date First Available\": \"December 26, 2016\", \"Label\": \"BLE Records\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B01MQZV70T",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Classical Albums"
+    ],
+    "confidence": 0.95
+  }
+}

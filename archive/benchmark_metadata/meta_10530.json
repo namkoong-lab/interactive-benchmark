@@ -1,0 +1,44 @@
+{
+    "main_category": "Digital Music",
+    "title": "GAÏA",
+    "average_rating": 4.3,
+    "rating_number": 23,
+    "features": [],
+    "description": [
+        "Guitarist Lionel Loueke will release his remarkable rock-infused fourth Blue Note album GAIA, on 10/30. The album, recorded live at Sear Sound studio with an intimate audience in attendance, was produced by Blue Note president Don Was and features Massimo Biolcati on bass & Ferenc Nemeth on drums. GAIA presents 11 original compositions along with a spry version of the Bee Gees hit \"How Deep Is Your Love.\" US tour dates coming this Fall."
+    ],
+    "price": "12.31",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71NjXYq0pyL._SL1400_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51jPTT8WeUL.jpg",
+            "https://m.media-amazon.com/images/I/51WN+TZ9yhL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51jPTT8WeUL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51WN+TZ9yhL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Lionel Loueke   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Blue Note Records"
+    ],
+    "details": "{\"Language\": \"English\", \"Product Dimensions\": \"5.63 x 5 x 0.43 inches; 3.25 Ounces\", \"Manufacturer\": \"Blue Note\", \"Original Release Date\": \"2015\", \"Date First Available\": \"August 26, 2015\", \"Label\": \"Blue Note\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B014HFNKYQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

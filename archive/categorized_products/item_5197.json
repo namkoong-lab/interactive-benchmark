@@ -1,0 +1,65 @@
+{
+  "item_id": 5197,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "True Blood Merlottes Bar and Grill Juniors White T-Shirt Tee",
+    "average_rating": 4.4,
+    "rating_number": 143,
+    "features": [
+      "100% Cotton",
+      "Pull On closure",
+      "Machine Wash",
+      "100% Cotton",
+      "Officially Licensed",
+      "Juniors Fit",
+      "Juniors fit is a teenagers/young woman fit",
+      "Print is only on front of shirt"
+    ],
+    "description": [
+      "This tee features the logo of the Bar and Grill that Sam owns."
+    ],
+    "price": "21.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51OEeJoT10L._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41AxkcP2AuL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41AxkcP2AuL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "True Blood",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Novelty & More",
+      "Clothing",
+      "Novelty",
+      "Women",
+      "Tops & Tees",
+      "T-Shirts"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"June 7, 2010\"}",
+    "parent_asin": "B07BZV7RXG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops",
+      "Women's Graphic T-Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

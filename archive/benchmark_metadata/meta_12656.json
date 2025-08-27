@@ -1,0 +1,53 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Fanatics Women's Black",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [
+        "100% Cotton",
+        "Pull On closure",
+        "Machine Wash"
+    ],
+    "description": [
+        "Let everyone know you are a dedicated Las Vegas Raiders fan by wearing this Primary Logo V-neck T-shirt. This Fanatics tee boasts your team pride with amazing graphics on the front. This is the perfect shirt to highlight your devotion to the Las Vegas Raiders on game day."
+    ],
+    "price": "20.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61TStDz68YL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/619qi-JpMuL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61lgreE9FAS._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71pDHXoG3nL._AC_UL1172_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31KYGuxvK4L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31ccsj9r9-L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31CGGWwozNS._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51sjzE34ftL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31KYGuxvK4L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31ccsj9r9-L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31CGGWwozNS._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51sjzE34ftL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT06"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Fanatics",
+    "categories": [],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"September 12, 2021\", \"Manufacturer\": \"MAJESTIC LSG\"}",
+    "parent_asin": "B09G14LB7P",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

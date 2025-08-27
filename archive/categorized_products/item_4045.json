@@ -1,0 +1,91 @@
+{
+  "item_id": 4045,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Madden Girl Women's Teddy Slide Sandal",
+    "average_rating": 4.1,
+    "rating_number": 23,
+    "features": [
+      "100% Synthetic",
+      "Imported",
+      "100% Thermoplastic Rubber sole",
+      "Madden Girl",
+      "Double Straps with Buckle Detail",
+      "1\" Midsole",
+      "Round Open Toe",
+      "Contoured footbed"
+    ],
+    "description": [
+      "Slide into Madden Girl's Teddy slide for an effortlessly on-trend look. Casual with a double buckle detail, this sandal is a perfect combination of comfort and style."
+    ],
+    "price": "21.89",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71schWZHfaS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61mhJHtRQrS._AC_UL1467_.jpg",
+        "https://m.media-amazon.com/images/I/61m4KKcy57S._AC_UL1490_.jpg",
+        "https://m.media-amazon.com/images/I/61xqOkeRwwS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71L9vgOcOUS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61NveMPn28S._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71CnkNp9zrS._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71KwbGpeTZS._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41nz4jMnGeS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41YAdKH+W6S._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41fAj5EM6YS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31Xg6+S2jmS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41xpYxBWg4S._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31gCHeSlveS._AC_.jpg",
+        "https://m.media-amazon.com/images/I/4198IO0Yt3S._AC_.jpg",
+        "https://m.media-amazon.com/images/I/313D+++UYxS._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41nz4jMnGeS._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41YAdKH+W6S._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41fAj5EM6YS._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31Xg6+S2jmS._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41xpYxBWg4S._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31gCHeSlveS._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/4198IO0Yt3S._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/313D+++UYxS._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "PAIR",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Madden Girl",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Sandals",
+      "Slides"
+    ],
+    "details": "{\"Item model number\": \"TEDD05J1\", \"Department\": \"Womens\", \"Date First Available\": \"March 11, 2020\", \"Manufacturer\": \"Madden Girl\"}",
+    "parent_asin": "B095ZJF1KM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Sandals"
+    ],
+    "confidence": 0.95
+  }
+}

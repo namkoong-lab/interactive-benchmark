@@ -1,0 +1,73 @@
+{
+  "item_id": 4954,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Salty Crew Ahi Mount Hood Fleece",
+    "average_rating": 4.8,
+    "rating_number": 84,
+    "features": [
+      "Fabric Type",
+      "Pull On closure",
+      "Hand Wash Only",
+      "Standard fit",
+      "Hooded pullover fleece",
+      "Graphics on chest, sleeves and back",
+      "80% cotton / 20% polyester",
+      "Midweight 8.5 oz"
+    ],
+    "description": [
+      "The Salty Crew Ahi Mount Hood Fleece is made from a soft cotton-poly fabric that keeps you warm. Its adjustable hood, long sleeves, and straight hem keep out the warm. A convenient pouch pocket holds small items. 80% cotton, 20% polyester. Machine wash, tumble dry. Imported."
+    ],
+    "price": "62.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/51ICzH-eDaL._AC_UL1024_.jpg",
+        "https://m.media-amazon.com/images/I/51irjfF3IOL._AC_UL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61p+Q7nAopL._AC_UL1080_.jpg",
+        "https://m.media-amazon.com/images/I/617DcBoDtEL._AC_UL1080_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/3179TMJnqhL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31163RHf2KL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41T5hRHUKYL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51v35JqhB+L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/3179TMJnqhL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31163RHf2KL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41T5hRHUKYL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51v35JqhB+L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Salty Crew",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Fashion Hoodies & Sweatshirts"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"2 x 12 x 10 inches; 12.8 Ounces\", \"Item model number\": \"440282\", \"Department\": \"mens\", \"Date First Available\": \"March 7, 2018\", \"Manufacturer\": \"Salty Crew\"}",
+    "parent_asin": "B07B9KMK14",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Hoodies & Sweatshirts"
+    ],
+    "confidence": 0.95
+  }
+}

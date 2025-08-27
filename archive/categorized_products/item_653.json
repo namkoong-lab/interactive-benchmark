@@ -1,0 +1,56 @@
+{
+  "item_id": 653,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Schumann : The Violin Sonatas - Carolin Widmann",
+    "average_rating": 4.9,
+    "rating_number": 24,
+    "features": [],
+    "description": [
+      "Carolin Widmann,",
+      "Schumann: The Violin Sonatas"
+    ],
+    "price": "18.58",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71JQGgVJC+L._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61f3tUZgK-L._SL1204_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/518BmqbMGLL.jpg",
+        "https://m.media-amazon.com/images/I/41nadvczjrL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/518BmqbMGLL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/41nadvczjrL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Denes Varjon  (Performer)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Classical",
+      "Chamber Music"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Language\": \"English\", \"Product Dimensions\": \"5.12 x 5.59 x 0.55 inches; 4.23 Ounces\", \"Manufacturer\": \"ECM New Series\", \"Item model number\": \"028947667445\", \"SPARS Code\": \"DDD\", \"Date First Available\": \"September 7, 2008\", \"Label\": \"ECM New Series\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B001AVUAC6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Classical Albums"
+    ],
+    "confidence": 0.95
+  }
+}

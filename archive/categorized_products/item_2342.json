@@ -1,0 +1,92 @@
+{
+  "item_id": 2342,
+  "metadata": {
+    "main_category": "Computers",
+    "title": "Corsair Hydro X Series XC5 RGB CPU Water Block (1200), Black",
+    "average_rating": 4.2,
+    "rating_number": 166,
+    "features": [
+      "The XC5’s copper cold plate and more than 60 high-efficiency micro-cooling fins efficiently draw heat away from your CPU, lowering temperatures andenabling maximum clock speeds.",
+      "16 RGB LEDs deliver stunning customizable RGB lighting effects over eight zones. Add a CORSAIR iCUE Controller (sold separately) and powerful CORSAIRiCUE software to customize and sync RGB lighting across all your iCUE-compatible products including water blocks, fans, keyboard, and more.",
+      "Includes a 5V ARGB motherboard adapter cable to alternatively control lighting via compatible motherboards.",
+      "Easy and fast installation on Intel LGA 1200 and 115x with pre-installed mounting screws and pre-applied thermal material."
+    ],
+    "description": [
+      "The CORSAIR Hydro X Series XC5 RGB CPU Water Block combines premium construction, vivid RGB lighting, and extreme cooling performance to become the centerpiece ofyour custom cooling loop. 16 RGB LEDs deliver stunning customizable RGB lighting over eight zones, controllable with a CORSAIR iCUE Controller or with compatible motherboards using an included 5V ARGB adapter cable."
+    ],
+    "price": "44.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81Al50d52wL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81JpW2lxKxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91h-MJXnXpL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81cu4NSmKlL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81fXyHNgviL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/818GW3KgRbL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41oDrMZK8GL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51DqlgwCQDL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51V0WDyKT9L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51kCls+36IL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51IPwaXR0cL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41NVrDEXNkL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41oDrMZK8GL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51DqlgwCQDL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51V0WDyKT9L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51kCls+36IL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51IPwaXR0cL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41NVrDEXNkL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Corsair Hydro X Series",
+        "Upgrading Your PC with CORSAIR HYDRO X - YouTube.html",
+        "Corsair Hydro X Series XD5 RGB Pump/Reservoir Combo - D5 PWM Pump - 330ml Reservoir - Ten Individ..."
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/05cfc1eb76474a188462fc8ffde8b4e7?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/5df2e2be9ee04d478c4fb6db19549577?ref=dp_vse_rvc_1",
+        "https://www.amazon.com/vdp/046c58bb9ab849a397f2a18648a9daa8?ref=dp_vse_rvc_2"
+      ],
+      "user_id": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "store": "Corsair",
+    "categories": [
+      "Electronics",
+      "Computers & Accessories",
+      "Computer Components",
+      "Internal Components",
+      "Fans & Cooling",
+      "Water Cooling Systems"
+    ],
+    "details": "{\"Brand\": \"Corsair\", \"Voltage\": \"5 Volts\", \"Cooling Method\": \"Water\", \"Compatible Devices\": \"Desktop\", \"Material\": \"Copper\", \"Product Dimensions\": \"3.66\\\"L x 3.66\\\"W x 1.34\\\"H\", \"Wireless Type\": \"802.11a\", \"Item model number\": \"CX-9010011-WW\", \"Item Weight\": \"6.7 ounces\", \"Color\": \"Black\", \"Manufacturer\": \"Corsair\", \"Country of Origin\": \"Taiwan\", \"Date First Available\": \"October 27, 2020\", \"Best Sellers Rank\": {\"Water Cooling Systems\": 1176}, \"Item Dimensions LxWxH\": \"3.66 x 3.66 x 1.34 inches\"}",
+    "parent_asin": "B0BCSS2MCN",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Computers",
+      "Computer Accessories",
+      "Cooling Components"
+    ],
+    "confidence": 0.95
+  }
+}

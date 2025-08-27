@@ -1,0 +1,46 @@
+{
+    "main_category": "Prime Video",
+    "title": "The Singles Project",
+    "average_rating": 4.3,
+    "rating_number": 12,
+    "features": [
+        "IMDb 6.8",
+        "2014",
+        "8 episodes",
+        "13+"
+    ],
+    "description": [
+        "The Singles Project follows a group of young, successful New York singles as they search for love and live it up in the city that never sleeps. Marking the network's first foray into real-time docu-drama production, each episode will be shot and aired within the same week."
+    ],
+    "price": "8.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Unscripted",
+        "Romance",
+        "Special Interest"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Producers\": [\"Jennifer Baker\", \"Nyree Berry\", \"Tyesha Brown\", \"Rich Bye\", \"Sezin Cavusoglu\", \"Byron Clear\", \"Harriet Dormer\", \"Genna Gibson\", \"Phil Harris\", \"Westley Harris\"]}",
+    "parent_asin": "B00MHX8NCU",
+    "bought_together": null,
+    "subtitle": "Season 1",
+    "author": null
+}

@@ -1,0 +1,69 @@
+{
+  "item_id": 1235,
+  "metadata": {
+    "main_category": "Pet Supplies",
+    "title": "Dr. Seuss Grinch Never Naughty Dog or Cat Holiday Costume, Outfit, Grinch, Size Small/Medium",
+    "average_rating": 3.4,
+    "rating_number": 67,
+    "features": [
+      "Authentic Dr. Seuss product with reliable quality and durability for humans and pets alike. Sizes run smaller, please check size chart.",
+      "Featuring Grinch red and gray striped colors, and font on the back of the shirt that reads \"Always Naughty\"",
+      "Made of 100% cotton so please plan for a snug fit. If you prefer a looser fit, kindly choose one size up.",
+      "Machine Wash, Easy Care at home no need for dry cleaning",
+      "Fashionable and a part of the Grinch family collection."
+    ],
+    "description": [
+      "Authentic Grinch pet's shirt. Perfect for holidays family picture."
+    ],
+    "price": "9.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91NvXNsKNYL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81TuRU2QEML._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/8104cXxtZiL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ZaGX-ICFL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41iATqJ5szL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51fmLXl+RiL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41+PEaLbbML._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51wdu6R8JqL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41iATqJ5szL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51fmLXl+RiL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41+PEaLbbML._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51wdu6R8JqL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Dr. Seuss",
+    "categories": [
+      "Pet Supplies",
+      "Dogs",
+      "Apparel & Accessories",
+      "Costumes"
+    ],
+    "details": "{\"Target Species\": \"Dog\", \"Size\": \"Small/Medium\", \"Minimum Weight Recommendation\": \"1 Pounds\", \"Occasion\": \"Holiday\", \"Theme\": \"Cartoon\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.83 x 5.2 x 1.06 inches; 0.63 Ounces\", \"Department\": \"Girls\", \"Date First Available\": \"November 19, 2018\", \"Manufacturer\": \"Dr Seuss\"}",
+    "parent_asin": "B07KPW7WH2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Pet Supplies"
+    ],
+    "confidence": 0.9
+  }
+}

@@ -1,0 +1,46 @@
+{
+    "main_category": "Grocery",
+    "title": "La Tienda Peregrino Raw Marcona Almonds from Spain (2.2 Pounds)",
+    "average_rating": 4.6,
+    "rating_number": 6,
+    "features": [
+        "2.2 Pounds - Saute In Oil Before Serving",
+        "Imported from Spain"
+    ],
+    "description": [
+        "These large, flat almonds are distinctively Spanish. They are more crunchy and flavorful than the normal American variety. The uncooked variety is perfect for baking and cooking. Or you can saute them in olive oil and sprinkle with salt. Remember, as a snack Marcona almonds should always be sauteed, not roasted or toasted. This is due to their delicate flavor which can be overwhelmed by other cooking methods."
+    ],
+    "price": "69.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/515aXb1dctL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/515aXb1dctL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Peregrino",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Cooking & Baking",
+        "Nuts & Seeds",
+        "Almonds"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Item Weight\": \"2.2 Pounds\", \"Item model number\": \"NT-22\", \"UPC\": \"845759002925\", \"Manufacturer\": \"Peregrino\"}",
+    "parent_asin": "B003IECK76",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

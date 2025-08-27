@@ -1,0 +1,58 @@
+{
+    "main_category": "Grocery",
+    "title": "Whole Foods Market, Vegetable Cut Onion Diced Organic, 10 Ounce",
+    "average_rating": 4.6,
+    "rating_number": 935,
+    "features": [
+        "Vegetable Cut"
+    ],
+    "description": [
+        "Vegetable Cut Onion Diced Organic"
+    ],
+    "price": "4.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81mkzpeHkuL._SL1500_.jpg",
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51sLSw-pz+L.jpg",
+            "https://m.media-amazon.com/images/I/218I7LIfX6L.jpg",
+            "https://m.media-amazon.com/images/I/21ECc4cBTGL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51sLSw-pz+L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/218I7LIfX6L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/21ECc4cBTGL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [
+            "How to Use Organic Garlic"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0db5d7c9d29d40ee8acd33ff89368cf2?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            "/shop/themathsorcerer"
+        ]
+    },
+    "store": "Whole Foods Market",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Produce",
+        "Packaged Produce",
+        "Cut & Packaged Vegetables"
+    ],
+    "details": "{\"Package Dimensions\": \"4.87 x 4.49 x 2.9 inches; 10.08 Ounces\", \"UPC\": \"826766811502\", \"Manufacturer\": \"Whole Foods Market\"}",
+    "parent_asin": "B07FYG3DBB",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

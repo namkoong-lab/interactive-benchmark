@@ -1,0 +1,40 @@
+{
+    "main_category": "Digital Music",
+    "title": "Signs of Life",
+    "average_rating": 4.4,
+    "rating_number": 33,
+    "features": [],
+    "description": [
+        "1987"
+    ],
+    "price": "36.2",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21ZZCEEPR6L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/21ZZCEEPR6L._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Penguin Cafe Orchestra   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Jazz"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.5 x 4.94 x 0.45 inches; 2.83 Ounces\", \"Manufacturer\": \"Editions EG Records\", \"Date First Available\": \"January 23, 2007\", \"Label\": \"Editions EG Records\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000003S38",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

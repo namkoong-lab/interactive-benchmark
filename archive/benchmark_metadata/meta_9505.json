@@ -1,0 +1,47 @@
+{
+    "main_category": "Books",
+    "title": "The Adventures of Jamear: Shapes All Around",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [
+        "The Adventures of Jamear: Shapes All Around is about a young African American boy who displays a strong sense of mathematical curiosity who pushes through learning obstacles to have a greater appreciation for the material."
+    ],
+    "description": [
+        "About the Author",
+        "Meet Immanuel Williams Ph.D.",
+        ", a professor of Statistics at California Polytechnic State University, San Luis Obispo, author of",
+        "The Adventures of Jamear: Shapes all Around",
+        ", and founder of GATO365 Learning Center. With over five years ofteaching experience, Immanuel's passion for sharing the joy in learninghas led him to design GATO365 Learning Center, which providesopportunities for students from all backgrounds to develop math skillsand have fun while doing it. Immanuel has accomplished this by creatingchildren's books, personalized motivational math worksheets, andengaging mathematical boot camps. ImmanuelWilliams uses his background in educational psychology to createengaging material to inspire children of all ages. Immanuel has beenhappily married for7 years and enjoys creating math worksheets andplaying his saxophone in his free time."
+    ],
+    "price": "8.58",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51suqAEUs5L._SY361_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Dr. Immanuel James Williams (Author),  Kelley Williams (Author)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Growing Up & Facts of Life"
+    ],
+    "details": "{\"Publisher\": \"Independently published (March 4, 2020)\", \"Language\": \"English\", \"Paperback\": \"37 pages\", \"ISBN 10\": \"1674045050\", \"ISBN 13\": \"978-1674045054\", \"Item Weight\": \"2.08 ounces\", \"Dimensions\": \"8.25 x 0.09 x 6 inches\"}",
+    "parent_asin": "1674045050",
+    "bought_together": null,
+    "subtitle": "Paperback – March 4, 2020",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Immanuel Williams', 'about': ['About the Author:', 'Meet Immanuel Williams Ph.D., a professor of Statistics at California Polytechnic State University, San Luis Obispo, author of The Adventures of Jamear: Shapes all Around, and founder of GATO365 Learning Center. With over five years of teaching experience, Immanuel’s passion for sharing the joy in learning has led him to design GATO365 Learning Center, which provides opportunities for students from all backgrounds to develop math skills and have fun while doing it. Immanuel has accomplished this by creating children’s books, personalized motivational math worksheets, and engaging mathematical boot camps. Immanuel Williams uses his background in educational psychology to create engaging material to inspire children of all ages. Immanuel has been happily married for 7 years and enjoys creating math worksheets and playing his saxophone in his free time.', 'To learn more about Immanuel and GATO365 Learning Center www.gato365.com.']}"
+}

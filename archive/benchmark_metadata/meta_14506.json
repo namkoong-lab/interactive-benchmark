@@ -1,0 +1,60 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Women's Turtles Crew Socks Black",
+    "average_rating": 4.2,
+    "rating_number": 52,
+    "features": [
+        "44% Cotton 30% Polyester 23% Nylon 3% Spandex",
+        "Pull On closure",
+        "Machine Wash",
+        "Dash through the day in the premium comfort of these turtles socks",
+        "Fits womens shoe size 4-10.5",
+        "One pair pack",
+        "Machine washes warm. Non-chlorine bleach when needed. Tumble dry low. Do not iron."
+    ],
+    "description": [
+        "Boldly finish everyday looks with a dapper finish of turtle socks. They charming pair is finished in a casual crew silhouette."
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71iv61VmpWL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81tI8yUseBL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81XvkGSpFZL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31kakPH3h4L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51H2lxpQq2L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51UrjSM9CFL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31kakPH3h4L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51H2lxpQq2L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51UrjSM9CFL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Hot Sox",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Socks & Hosiery",
+        "Socks",
+        "No Show & Liner Socks"
+    ],
+    "details": "{\"Product Dimensions\": \"13 x 8 x 1 inches; 1.6 Ounces\", \"Item model number\": \"HO002827\", \"Department\": \"womens\", \"Date First Available\": \"May 15, 2019\"}",
+    "parent_asin": "B07NGWHFH6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

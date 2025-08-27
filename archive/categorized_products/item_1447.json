@@ -1,0 +1,94 @@
+{
+  "item_id": 1447,
+  "metadata": {
+    "main_category": "Pet Supplies",
+    "title": "Ella's Diabetic Dog Treats - Sweet Potato (8oz)",
+    "average_rating": 4.3,
+    "rating_number": 194,
+    "features": [
+      "Organic dog treats made from natural ingredients",
+      "Additives and preservatives free",
+      "Treats that won't spike blood sugar levels in diabetic dogs",
+      "Delicious ingredients for choosy pets"
+    ],
+    "description": [
+      "DogaBetix dog treats are made from all organic, all natural, and low glycemic index ingredients. This makes Dogabetix treats suitable for all owners who are looking for a healthy reward for their dog."
+    ],
+    "price": "13.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/8113O0nJDrL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/815d2k5FPjL._AC_SL1239_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41yly6NrC9L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/611OCG49c2L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41yly6NrC9L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/611OCG49c2L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [
+        "Pup-Peroni: Be Your Best Friend's Best Friend",
+        "Dog Treats - Science Did That",
+        "Full Moon Organic Dog Treats Human Grade Chicken Train Treat",
+        "All Worth It for A Better Treat - Wild Caught Salmon",
+        "Dogs LOVE this treat puzzle! ",
+        "Pup-Peroni: Make Them Love You",
+        "National Dog Biscuit Day",
+        "Review: Full Moon Organic Chicken Training Treats for Dogs",
+        "Just One Thing - Healthly Freeze Dried Dog and Cat Treats",
+        "Why I love this treat for my dog"
+      ],
+      "url": [
+        "https://www.amazon.com/vdp/a80dfc9fe2f443d4a33904842357416f?ref=dp_vse_rvc_0",
+        "https://www.amazon.com/vdp/05da2bddd5a440aab110b4cb1e558c7b?ref=dp_vse_rvc_1",
+        "https://www.amazon.com/vdp/2d713e9c807440e5a24e3b72a549938b?ref=dp_vse_rvc_2",
+        "https://www.amazon.com/vdp/0140e2e99d3f4cc68f2e05e9f9445118?ref=dp_vse_rvc_3",
+        "https://www.amazon.com/vdp/0292ce1bb4de4d99a2bc52695dfa9750?ref=dp_vse_rvc_4",
+        "https://www.amazon.com/vdp/0157d7f1cdc9433f92e0edc6924270e6?ref=dp_vse_rvc_5",
+        "https://www.amazon.com/vdp/8d16003290bd44d9a773749622696894?ref=dp_vse_rvc_6",
+        "https://www.amazon.com/vdp/07b00252c44e4315af947c495d3fe8bb?ref=dp_vse_rvc_7",
+        "https://www.amazon.com/vdp/02df11cbdb28440c83d7fba26d7b1d3f?ref=dp_vse_rvc_8",
+        "https://www.amazon.com/vdp/0d8673ef5c004a669ba05aa8ec0d7dac?ref=dp_vse_rvc_9"
+      ],
+      "user_id": [
+        "",
+        "",
+        "",
+        "",
+        "/shop/shameenmiller",
+        "",
+        "",
+        "/shop/populardoodle",
+        "",
+        "/shop/shameenmiller"
+      ]
+    },
+    "store": "DogaBetix",
+    "categories": [
+      "Pet Supplies",
+      "Dogs",
+      "Treats",
+      "Cookies, Biscuits & Snacks"
+    ],
+    "details": "{\"Brand\": \"DogaBetix\", \"Flavor\": \"Sweet Potato\", \"Unit Count\": \"8 Ounce\", \"Number of Items\": \"1\", \"Package Information\": \"Bag\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"8.5 x 6 x 0.79 inches; 8 Ounces\", \"Date First Available\": \"November 18, 2015\", \"Manufacturer\": \"DogaBetix\"}",
+    "parent_asin": "B0186A2FYE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Pet Supplies",
+      "Dog Treats"
+    ],
+    "confidence": 0.95
+  }
+}

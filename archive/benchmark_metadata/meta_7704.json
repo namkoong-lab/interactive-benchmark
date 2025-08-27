@@ -1,0 +1,49 @@
+{
+    "main_category": "Books",
+    "title": "A History of Chemical Warfare",
+    "average_rating": 3.6,
+    "rating_number": 6,
+    "features": [
+        "This book provides an analysis of the development and deployment of chemical weapons from 700BC to the present day. The First World War is examined in detail since it remains the most significant experience of the chemical threat, but the Second World War, and post-war conflicts are also evaluated. Additionally, protocols attempting to control the proliferation and use of chemical weapons are assessed. Finally, the book examines the threat (real and imagined) from a chemical warfare attack today by rationally assessing to what extent terrorist groups around the world are capable of making and using such weapons."
+    ],
+    "description": [
+        "Review",
+        "'At a time when the threat of chemical warfare looms ever larger this timely book makes an invaluable contribution, combining historical and contemporary perspectives to show how indiscriminate weapons of mass destruction have been developed and deployed.' - Professor Andrew Lambert, King's College, University of London",
+        "'Her excellent synthesis from Antiquity to the present day renders the causes and evils of chemical warfare, and the difficulties of chemical disarmament, comprehensible to everyone.' - Rolf Petri, Professor of Contemporary History, University of Venice",
+        "'A well-researched and clearly written history of chemical warfare, with many fascinating details, which is much needed and deserves to be read.' - Dr Peter Morris, The National Museum of Science and Industry",
+        "'an excellent historical perspective.' - Dr Tom Inch, OBE, former Chief Executive of the Royal Society of Chemistry",
+        "About the Author",
+        "KIM COLEMAN gained her PhD from London University before lecturing in Modern European History at the University of Essex until 2004. She has acted as a consultant on educational books and for the BBC, dealing with nuclear and chemical warfare in the Twentieth Century and is currently researching her next book, a comparative history of the Battle of Arnhem in 1944. She lives in London with her three children."
+    ],
+    "price": "6.98",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Gj5Fb8wvL._SX322_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "K. Coleman (Author)",
+    "categories": [
+        "Books",
+        "History",
+        "Military"
+    ],
+    "details": "{\"Publisher\": \"Palgrave Macmillan; 2005th edition (May 17, 2005)\", \"Language\": \"English\", \"Paperback\": \"223 pages\", \"ISBN 10\": \"1403934606\", \"ISBN 13\": \"978-1403934604\", \"Item Weight\": \"10.3 ounces\", \"Dimensions\": \"5.5 x 0.51 x 8.25 inches\"}",
+    "parent_asin": "1403934606",
+    "bought_together": null,
+    "subtitle": "2005th Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Kim Coleman', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

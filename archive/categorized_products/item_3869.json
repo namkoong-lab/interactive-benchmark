@@ -1,0 +1,86 @@
+{
+  "item_id": 3869,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Drew Shoe Women's Lotus",
+    "average_rating": 3.6,
+    "rating_number": 26,
+    "features": [
+      "100% Leather",
+      "Manmade sole",
+      "Heel measures approximately 1\"",
+      "Platform measures approximately 1/2\"",
+      "2 Removable insoles",
+      "Accommodates orthotics",
+      "Double depth"
+    ],
+    "description": [
+      "Comfort and support are priorities at Drew Shoe, but that doesn’t mean they forget about style. The Lotus offers a sleek and modern silhouette in super-supple leather that cradles you in style. Dual hook-and-loop straps offer a precise fit, while two removable insoles ensure totally personalized comfort. A heel counter, steel shank and rocker bottom complete the pampering package.",
+      "With a 135-year history, Drew Shoe has refined and mastered the science of therapeutic comfort footwear. The entire collection is an inventive combination of function and style, working to keep the feet healthy and looking great. Drew Shoe selects the ultimate comfort materials to pamper and protect even the most tired, aching feet."
+    ],
+    "price": "144.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71fh23oAMaL._AC_UL1500_.jpg",
+        null,
+        "https://m.media-amazon.com/images/I/61wTbMuYekL._AC_UL1087_.jpg",
+        "https://m.media-amazon.com/images/I/71YnOwbCGEL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71vPBn1j0pL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71gFY1KcuHL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81JDrO96GFL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41arNTWt8+L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Hh0ljSwRL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41U7UrD-T9L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41CLY0K9OXL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41WP735zrLL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41d2cbbOTYL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Fgtcft-7L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41arNTWt8+L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Hh0ljSwRL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41U7UrD-T9L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41CLY0K9OXL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41WP735zrLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41d2cbbOTYL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Fgtcft-7L._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "FRNT",
+        "BACK",
+        "BOTT",
+        "TOPP",
+        "RGHT",
+        "LEFT"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Drew Shoe",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Shoes",
+      "Loafers & Slip-Ons"
+    ],
+    "details": "{\"Package Dimensions\": \"12 x 8 x 4 inches; 2 Pounds\", \"Item model number\": \"Lotus\", \"Department\": \"Womens\", \"Date First Available\": \"February 7, 2011\", \"Manufacturer\": \"Drew Shoe\"}",
+    "parent_asin": "B0045TXLHG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear",
+      "Women's Walking Shoes"
+    ],
+    "confidence": 0.95
+  }
+}

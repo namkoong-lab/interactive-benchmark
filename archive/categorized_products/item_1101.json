@@ -1,0 +1,65 @@
+{
+  "item_id": 1101,
+  "metadata": {
+    "main_category": "Health & Personal Care",
+    "title": "First Aid Only 3008 Knuckle Bandages, Individually Sterilized, 10/Box",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "Sold as 10/BX.",
+      "Made of flexible fabric designed to stretch when you stretch. Strong adhesive keeps bandage secure in original position.",
+      "Individually sterilized packages reduce possibility of infection."
+    ],
+    "description": [
+      "Made of flexible fabric designed to stretch when you stretch. Strong adhesive keeps bandage secure in original position. Individually sterilized packages reduce possibility of infection."
+    ],
+    "price": "8.63",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71VwMjPkR+L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Z2dQA2ZgL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71xG1ymw4vL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41HwVJ9OCcL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31bg0onxkDL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51lPLHa48CL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41HwVJ9OCcL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31bg0onxkDL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51lPLHa48CL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "First Aid Only",
+    "categories": [
+      "Health & Household",
+      "Health Care",
+      "First Aid",
+      "First Aid Kits"
+    ],
+    "details": "{\"Brand\": \"First Aid Only\", \"Item Dimensions LxWxH\": \"1.88 x 2.19 x 4.25 inches\", \"Style\": \"Adhesive\", \"Sterility Rating\": \"Sterile\", \"Date First Available\": \"June 28, 2013\", \"Manufacturer\": \"FIRST AID ONLY, INC.\"}",
+    "parent_asin": "B00AJ3D9N8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Health & Personal Care",
+      "Orthopedic Supports",
+      "Adhesive Bandages"
+    ],
+    "confidence": 0.95
+  }
+}

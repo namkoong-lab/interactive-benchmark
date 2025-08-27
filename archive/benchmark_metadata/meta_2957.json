@@ -1,0 +1,63 @@
+{
+    "main_category": "Buy a Kindle",
+    "title": "Observability Engineering",
+    "average_rating": 4.4,
+    "rating_number": 108,
+    "features": [
+        "Observability is critical for building, changing, and understanding the software that powers complex modern systems. Teams that adopt observability are much better equipped to ship code swiftly and confidently, identify outliers and aberrant behaviors, and understand the experience of each and every user. This practical book explains the value of observable systems and shows you how to practice observability-driven development.",
+        "Authors Charity Majors, Liz Fong-Jones, and George Miranda from Honeycomb explain what constitutes good observability, show you how to improve upon what youÃ¢??re doing today, and provide practical dos and don'ts for migrating from legacy tooling, such as metrics monitoring and log management. YouÃ¢??ll also learn the impact observability has on organizational culture (and vice versa).",
+        "You'll explore:",
+        "How the concept of observability applies to managing software systems",
+        "How the concept of observability applies to managing software systems",
+        "The value of practicing observability when delivering and managing complex cloud native applications and systems",
+        "The value of practicing observability when delivering and managing complex cloud native applications and systems",
+        "The impact observability has across the entire software development lifecycle",
+        "The impact observability has across the entire software development lifecycle",
+        "How and why different functional teams use observability with service-level objectives (SLOs)",
+        "How and why different functional teams use observability with service-level objectives (SLOs)",
+        "How to instrument your code to help future engineers understand the code you wrote today",
+        "How to instrument your code to help future engineers understand the code you wrote today",
+        "How to produce quality code for context-aware system debugging and maintenance",
+        "How to produce quality code for context-aware system debugging and maintenance",
+        "How data-rich analytics can help you debug elusive issues quickly",
+        "How data-rich analytics can help you debug elusive issues quickly"
+    ],
+    "description": [
+        "About the Author",
+        "Charity Majors is a cofounder and engineer at Honeycomb.io, a startup that blends the speed of time series with the raw power of rich events to give you interactive, iterative debugging for complex systems. She has worked at companies like Facebook, Parse, and Linden Lab, as a systems engineer and engineering manager, but always seems to end up responsible for the databases too.Liz Fong-Jones is a developer advocate, labor and ethics organizer, and Site Reliability Engineer (SRE) with 15+ years of experience. She is an advocate at Honeycomb.io for the SRE and Observability communities, and previously was an SRE working on products ranging from the Google Cloud Load Balancer to Google Flights.George Miranda is a former engineer turned product marketer at Honeycomb.io. He spent 15+ years building large scale distributed systems in the finance and video game industries. He discovered his knack for storytelling and now works to shape the tools, practices, and culture that help improve the lives of people responsible for managing production systems.",
+        "--This text refers to the",
+        "paperback",
+        "edition."
+    ],
+    "price": "32.3",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Sbx79V4jL.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Charity Majors (Author),  Liz Fong-Jones (Author),  George Miranda (Author)",
+    "categories": [
+        "Kindle Store",
+        "Kindle eBooks",
+        "Computers & Technology"
+    ],
+    "details": "{\"Publisher\": \"O'Reilly Media; 1st edition (May 6, 2022)\", \"Publication date\": \"May 6, 2022\", \"Language\": \"English\", \"File size\": \"9988 KB\", \"Simultaneous device usage\": \"Unlimited\", \"Text to Speech\": \"Enabled\", \"Screen Reader\": \"Supported\", \"Enhanced typesetting\": \"Enabled\", \"X Ray\": \"Not Enabled\", \"Word Wise\": \"Not Enabled\", \"Sticky notes\": \"On Kindle Scribe\", \"Print length\": \"505 pages\"}",
+    "parent_asin": "B09ZQ6FHTT",
+    "bought_together": null,
+    "subtitle": "1st Edition, Kindle Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/8hk5v9rsgn40vrs10o9vjpfo8i._SY600_.jpg', 'name': 'George Miranda', 'about': ['Former engineer turned go-to-market suit and nonfiction writer. Loves articulating detailed solutions to super complex problems. Speaker. Author. Nerd. Traveler. Nomad. Art roadie.']}"
+}

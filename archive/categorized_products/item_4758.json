@@ -1,0 +1,67 @@
+{
+  "item_id": 4758,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Republic of Gamers Graphic Tee",
+    "average_rating": 4.7,
+    "rating_number": 7,
+    "features": [
+      "100% Cotton",
+      "Imported",
+      "Pull On closure",
+      "Machine Wash",
+      "Inspired by the bold ambition and aesthetics of the 1980s, ROG Retro Punk T-Shirt channels the era’s youthful energy into a ROG logo that explodes in sharp neon style. Express your modern-gamer spirit, with an affectionate nod to the recent past.",
+      "Durable rib crew neck with interior taping",
+      "100% cotton fabric for a naturally soft and cool texture",
+      "Premium design & aesthetics by ASUS ROG"
+    ],
+    "description": [
+      "Inspired by the bold ambition and aesthetics of the 1980s, ROG Retro Punk T-Shirt channels the era’s youthful energy into a ROG logo that explodes in sharp neon style. Express your modern-gamer spirit, with an affectionate nod to the recent past."
+    ],
+    "price": "25.12",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61NustMpYTL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51dOl+o6JsL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31dc+2ASroL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/21HpVy+97ZL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31dc+2ASroL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/21HpVy+97ZL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Republic of Gamers",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Tops, Tees & Blouses",
+      "T-Shirts"
+    ],
+    "details": "{\"Department\": \"unisex-adult\", \"Date First Available\": \"April 23, 2023\", \"Manufacturer\": \"Republic of Gamers\"}",
+    "parent_asin": "B0C3BGW57H",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's T-Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

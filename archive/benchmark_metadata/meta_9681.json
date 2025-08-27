@@ -1,0 +1,41 @@
+{
+    "main_category": "Digital Music",
+    "title": "Your Hit Parade - 1944",
+    "average_rating": 4.8,
+    "rating_number": 15,
+    "features": [],
+    "description": [
+        "24 Total Songs. The Trolley Song (Judy Garland), San Fernando Valley (Bing Cosby), Shoo-Shoo Baby (The Andrews Sisters), etc..."
+    ],
+    "price": "9.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91GDBcPbr8L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91IsO-8YK8L._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51n2+s+gx1L.jpg",
+            "https://m.media-amazon.com/images/I/51TwifA4f1L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51n2+s+gx1L._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/51TwifA4f1L._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Various Artists  (Artist)    Format: Audio CD",
+    "categories": [],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"4.9 x 0.25 x 5.5 inches; 3.2 Ounces\", \"Manufacturer\": \"Time Life Music\", \"Date First Available\": \"September 2, 2005\", \"Label\": \"Time Life Music\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000B8Y2WI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

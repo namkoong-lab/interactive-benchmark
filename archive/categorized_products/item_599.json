@@ -1,0 +1,52 @@
+{
+  "item_id": 599,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "The Impossible Dream (22 inspirational favorites)",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [],
+    "description": [
+      "Tracklist:1. The Impossible Dream (The Quest)~2. Bridge over Troubled Water~3. Swing Low, Sweet Chariot~4. He Ain't Heavy...He's My Brother~5. May the Good Lord Bless and Keep You~6. Lean on Me~7. Life Is a Song Worth Singing~8. The Rosary~9. No Man Can Stand Alone~10. Ave Maria~11. What the World Needs Now Is Love~12. Memory~13. Good Night, Dear Lord~14. You Light Up My Life~15. Where Can I Go?~16. Smile~17. Somewhere~18. Eli, Eli~19. The Sound of Music~20. Deep River~21. You Are the Sunshine of My Life~22. Danny Boy."
+    ],
+    "price": "34.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91OPx0h1qPL._SL1396_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/517W+PmXZzL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/517W+PmXZzL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Johnny Mathis  (Author)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Pop",
+      "Vocal Pop"
+    ],
+    "details": "{\"Package Dimensions\": \"5.55 x 4.97 x 0.54 inches; 2.83 Ounces\", \"Manufacturer\": \"Sony Music\", \"Date First Available\": \"September 2, 2009\", \"Label\": \"Sony Music\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B002NQ5K2C",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Albums"
+    ],
+    "confidence": 0.95
+  }
+}

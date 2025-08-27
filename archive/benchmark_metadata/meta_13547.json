@@ -1,0 +1,57 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Roxy Women's Trippin Zip Up Hoodie",
+    "average_rating": 4.4,
+    "rating_number": 65,
+    "features": [
+        "60% Cotton, 40% Polyester",
+        "Imported",
+        "Zipper closure",
+        "Machine Wash",
+        "Fabric: cotton polyester blend terry fabric [230 g/M2]",
+        "Fit: classic, comfortable regular fit",
+        "Pockets: kangaroo pouch pocket",
+        "Draw cord on hood"
+    ],
+    "description": [
+        "Featuring cotton polyester blend terry fabric, a classic regular fit, and rounded out with a kangaroo pouch pocket. This zip-up hoodie for women join the line-up in the Roxy apparel collection."
+    ],
+    "price": "104.12",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91PRctBOtRL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91MhdRF0yAL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41nCef0KzML._AC_.jpg",
+            "https://m.media-amazon.com/images/I/519xOAVBL8L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41nCef0KzML._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/519xOAVBL8L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Roxy",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Women",
+        "Hoodies"
+    ],
+    "details": "{\"Item Weight\": \"1.21 Pounds\", \"Department\": \"womens\", \"Date First Available\": \"April 7, 2019\", \"Manufacturer\": \"Roxy\"}",
+    "parent_asin": "B07R9PLCY3",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

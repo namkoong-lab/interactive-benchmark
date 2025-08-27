@@ -1,0 +1,72 @@
+{
+  "item_id": 4628,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Capelli New York Ladies Matte, Quilted Shaft Mid-Calf Rain Boot",
+    "average_rating": 4.4,
+    "rating_number": 58,
+    "features": [
+      "Jelly",
+      "Rubber sole",
+      "Matte, Quilted Design with Ankle Strap Detail",
+      "Back Pull Loop For Easy Pull On",
+      "Mid Calf Length",
+      "Ladies Fashion Rain Boots"
+    ],
+    "description": [
+      "_"
+    ],
+    "price": "36.95",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71wqO91yS7L._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71og-pKhiUL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/812L7uxFflL._AC_UL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81TihsicFxL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41XIDEMIgmL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31A+sqknCHL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41dZdJY7cyL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41dZmHH6OjL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41XIDEMIgmL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31A+sqknCHL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41dZdJY7cyL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41dZmHH6OjL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Capelli New York",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Boot Shop",
+      "Women",
+      "Outdoor & Work",
+      "Rain"
+    ],
+    "details": "{\"Item model number\": \"_\", \"Department\": \"Womens\", \"Date First Available\": \"November 30, 2021\", \"Manufacturer\": \"_\"}",
+    "parent_asin": "B09MSCVFHQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

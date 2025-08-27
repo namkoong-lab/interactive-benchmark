@@ -1,0 +1,47 @@
+{
+    "main_category": "Books",
+    "title": "Hernando de Soto",
+    "average_rating": 4.4,
+    "rating_number": 35,
+    "features": [
+        "This is the story of a legendary expedition across four thousand miles of the future United States, led by an explorer searching for an illusionary empire of gold. Formerly the second-in-command in Francisco Pizarro’s conquest of the Incas in 1531, Hernando de Soto arrived in the country he called La Florida in 1539, leading a glittering, armored Renaissance-era army of six hundred men on the first major exploration of North America. Obsessed with finding a second Inca empire, he instead encountered the Mississippians, a sophisticated culture of mound and city builders, warriors, artisans, and diplomats whose society collapsed after the Spaniards’ destructive march through their territory. Unable to find his golden country, Soto pushed deeper into the wilderness, ravaged by exhaustion, starvation, and incessant warfare with the Mississippians until he died and was secretly buried in the Mississippi River, which he is credited (wrongly) with discovering."
+    ],
+    "description": [
+        "About the Author",
+        "David Ewing Duncan",
+        "is a writer for several national publications, a special producer and reporter for ABC's",
+        "Nightline",
+        ", and author three other books. He researched and traced the path of Soto's expedition for more than seven years."
+    ],
+    "price": "29.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/415pGaAOCHS._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Duncan (Author)",
+    "categories": [
+        "Books",
+        "Biographies & Memoirs",
+        "Historical"
+    ],
+    "details": "{\"Publisher\": \"OU Press; First Thus edition (September 15, 1997)\", \"Language\": \"English\", \"Paperback\": \"612 pages\", \"ISBN 10\": \"0806129778\", \"ISBN 13\": \"978-0806129778\", \"Item Weight\": \"1.84 pounds\", \"Dimensions\": \"6.14 x 1.53 x 9.21 inches\"}",
+    "parent_asin": "0806129778",
+    "bought_together": null,
+    "subtitle": "Paperback – September 15, 1997",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'David Ewing Duncan', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

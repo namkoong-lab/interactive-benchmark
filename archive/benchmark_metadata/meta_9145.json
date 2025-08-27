@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Small Engine Technology (HC)",
+    "average_rating": 4.3,
+    "rating_number": 15,
+    "features": [
+        "The second edition of this text expands and updates its already thorough coverage of the operation, maintenance and repair of small, air-cooled gas engines. It features new chapters on failure analysis, and starter systems, as well as a rewrite of the electrical chapter to include feedback systems and fuel injection. An expansion of the carburation chapter includes new carburetors including carb 1 carburetors. This text is now accompanied by a comprehensive competency-based workbook."
+    ],
+    "description": [
+        "About the Author",
+        "Bill Schuster owned and operated a small engine repair service from 1975 to 1985. He was an authorized dealer for Briggs & Stratton, Tecumseh, Kohler, and Homelite engines. He began teaching small engine repair courses in 1975 for Brighton, Michigan community education and for Washtenaw Community College, Ann Arbor, Michigan in 1980. He has attended factory service schools including those sponsored by Briggs & Stratton, Honda, Tecumseh, Kohler, Kawasaki, OMC, Kubota, and Homelite. Bill is certified by Briggs & Stratton as a Master Service Technician. He is also certified by the State of Michigan as a motorcycle mechanic. A close association with OPE Technicians Certification, Austin, Texas, has provided him with the opportunity to serve on the Outdoor Power Equipment (OPE) testing committees. He has been involved with the Two-Stroke Engine Testing, Four-Stroke Engine Testing, Diesel Engine Testing, and Electrical Systems Testing Committees as a member of each. He has also authored the study guides for each of these certification test areas. Bill has also authored a textbook titled Small Engine Technology 2nd edition, (Thomson Delmar Learning, 1999) that is being used in many states and provinces in North America. It is also the recommended resource to study for the certification tests. Bill has been teaching for thirty four years and his education includes a Bachelor of Arts in Education from Wayne State University and a Master�s degree from Eastern Michigan University. Bill has a commercial pilot rating and is a FAA Certified Flight Instructor‑Airplane."
+    ],
+    "price": "264.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/516vRk2OACL._SX369_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "William Schuster (Author)",
+    "categories": [
+        "Books",
+        "Engineering & Transportation",
+        "Automotive"
+    ],
+    "details": "{\"Publisher\": \"Cengage Learning; 2nd edition (June 8, 1998)\", \"Language\": \"English\", \"Hardcover\": \"421 pages\", \"ISBN 10\": \"0827376995\", \"ISBN 13\": \"978-0827376991\", \"Item Weight\": \"2.02 pounds\", \"Dimensions\": \"8.25 x 0.75 x 9.75 inches\"}",
+    "parent_asin": "0827376995",
+    "bought_together": null,
+    "subtitle": "2nd Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'William A. Schuster', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

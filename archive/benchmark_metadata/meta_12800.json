@@ -1,0 +1,51 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Harriton mens Side Blocked Micro-Pique Polo(M355)",
+    "average_rating": 4.0,
+    "rating_number": 15,
+    "features": [
+        "100% Polyester",
+        "Pull On closure",
+        "Machine Wash",
+        "6 oz., 100% combed ringspun cotton 2x1 rib.",
+        "double-needle ribbed binding on neck and armholes.",
+        "double-needle hemmed bottom.",
+        "White is sewn with 100-percent-cotton thread."
+    ],
+    "description": [
+        "3.8 oz.; 100% polyester micro-pique; moisture-wicking; snag resistant; panel inserts along sleeves; double-needle stitching on sleeves and bottom hem; feminine overlapping V-neck collar;"
+    ],
+    "price": "42.06",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61OdL8w1z0L._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41Y4RDLrOcL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41Y4RDLrOcL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Harriton",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Tops, Tees & Blouses",
+        "Polos"
+    ],
+    "details": "{\"Department\": \"Womens\", \"Date First Available\": \"February 22, 2012\", \"Manufacturer\": \"Harriton\"}",
+    "parent_asin": "B007TXITC2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,70 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Sperry Men's, Halyard CVO Plushstep Slip-On",
+    "average_rating": 3.7,
+    "rating_number": 9,
+    "features": [
+        "100% Synthetic",
+        "Rubber sole",
+        "Smooth leather uppers in a classic slip-on sneaker style",
+        "Padded collar for added comfort",
+        "Fabric lining",
+        "PLUSHSTEP cushioning technology provides maximum comfort with minimal weight",
+        "Non marking, rubber outsole with wave siping for wet and dry traction"
+    ],
+    "description": [
+        "Since 1935, Authentic Original boat shoes have been a favorite of those who spent time in, on or around the ocean. Each season, new colors and fabrics are introduced that, along with core classic styles, encompass Sperry's passion for the sea and commitment to fine craftsmanship."
+    ],
+    "price": "64.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61HR6f8jY2L._AC_UL1389_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/51q183FgY0L._AC_UL1420_.jpg",
+            null,
+            "https://m.media-amazon.com/images/I/61sj14bi0kL._AC_UL1426_.jpg",
+            "https://m.media-amazon.com/images/I/51JX7xem+LL._AC_UL1428_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/312Zl5bsIyL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41SVMVBbyCL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/317xRqTO2TL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41n0Rz5-vyL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31+9tnsoRcL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/316wgRiu+sL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/312Zl5bsIyL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41SVMVBbyCL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/317xRqTO2TL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41n0Rz5-vyL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/31+9tnsoRcL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/316wgRiu+sL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Sperry",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Shoes",
+        "Loafers & Slip-Ons"
+    ],
+    "details": "{\"Product Dimensions\": \"10 x 15 x 6 inches; 2 Pounds\", \"Department\": \"mens\", \"Date First Available\": \"April 12, 2021\", \"Manufacturer\": \"SPERRY\"}",
+    "parent_asin": "B09296B4N7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

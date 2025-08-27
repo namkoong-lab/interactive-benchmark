@@ -1,0 +1,40 @@
+{
+    "main_category": "Books",
+    "title": "Oklahoma Route 66",
+    "average_rating": 4.9,
+    "rating_number": 14,
+    "features": [
+        "Building on the foundation laid with the first edition of Oklahoma Route 66, this updated volume, in full color, contains many new images, color-coded maps, and everything you would expect from the top authority on the Mother Road in Oklahoma. With 62 maps and over 250 photos, it can be used simply as a guide to navigate the road or as a reference or handbook. Oklahoma Route 66 is the most thoroughly documented accounting of a section of Route 66 yet published."
+    ],
+    "description": [
+        "About the Author",
+        "Oklahoman Jim Ross has been a student of Route 66 for over two decades. As a researcher, photographer, writer, and preservationist, he has published dozens of articles on the complex alignments of the route and has lectured on its history and preservation. A recipient of the John Steinbeck Award and a member of the Oklahoma Route 66 Hall of Fame, he is also the co-author of Roadside U.S.A. and Route 66 Sightings."
+    ],
+    "price": "18.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51bD8Uh7o1L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jim Ross (Author, Editor),  Shellee Graham (Illustrator)",
+    "categories": [],
+    "details": "{\"Publisher\": \"Ghost Town Press; Second edition (October 25, 2011)\", \"Language\": \"English\", \"Paperback\": \"220 pages\", \"ISBN 10\": \"0967748178\", \"ISBN 13\": \"978-0967748177\", \"Item Weight\": \"1.12 pounds\"}",
+    "parent_asin": "0967748178",
+    "bought_together": null,
+    "subtitle": "Paperback – October 25, 2011",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Jim Ross', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

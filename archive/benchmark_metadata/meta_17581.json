@@ -1,0 +1,81 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Advanced Task Killer Free",
+    "average_rating": 3.5,
+    "rating_number": 997,
+    "features": [
+        "View a comprehensive list of running apps",
+        "Shut down apps automatically with a one-touch kill command",
+        "Protect running apps from the kill function using the Ignore List",
+        "Run Automatic app-kill cycle from every 30 minutes to every 4 hours",
+        "Customize app shut-down to maintain optimum performance"
+    ],
+    "description": [
+        "Terminate running tasks (applications) in memory, free memory and save battery life using Advanced Task Killer App.Advanced Task Killer has the following features:- Double ignore list. Users can ignore apps to avoid being killed by two levels, first is check or uncheck apps in the running list, the second is ignore it and hide it from running list. - Auto kill, it let users to kill apps automatically according a time interval (from half hour to 4 hours or when screen off). - Security level. It provides several security level to show different tasks.Only available in Android"
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Gbh+VEsWL.png",
+            "https://m.media-amazon.com/images/I/51Nvz7QbUiL.png",
+            "https://m.media-amazon.com/images/I/61KfZEONDbL.png",
+            "https://m.media-amazon.com/images/I/61xc0BRgpfL.png",
+            "https://m.media-amazon.com/images/I/61b6cB0oTlL.png",
+            "https://m.media-amazon.com/images/I/614QCsr5b7L.png",
+            "https://m.media-amazon.com/images/I/61ffoB1tV9L.png",
+            "https://m.media-amazon.com/images/I/61wXNGu6WTL.png",
+            "https://m.media-amazon.com/images/I/61ffoB1tV9L.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Rechild Inc.",
+    "categories": [],
+    "details": "{\"Release Date\": \"2010\", \"Date first listed on Amazon\": \"November 30, 2010\", \"Developed By\": \"Rechild Inc.\", \"Size\": \"95.7KB\", \"Version\": \"1.9.5\", \"Application Permissions\": [\"Open network sockets\", \"Allows termination of background processes\", \"Get notified that the operating system has finished booting\"], \"Minimum Operating System\": \"Android 1.5\", \"Approximate Download Time\": \"Less than 30 seconds\"}",
+    "parent_asin": "B004SBULWE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

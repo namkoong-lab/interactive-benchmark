@@ -1,0 +1,50 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Carter's Little Girls' 2 Piece Short Set (Toddler) - Brown - 4T",
+    "average_rating": 3.0,
+    "rating_number": 1,
+    "features": [
+        "Pull On closure",
+        "Hand Wash Only"
+    ],
+    "description": [
+        "Carter's 2 Piece Short Set (Toddler) - Brown Carter's is the leading brand of children's clothing, gifts and accessories in America, selling more than 10 products for every child born in the U.S. Their designs are based on a heritage of quality and innovation that has earned them the trust of generations of families."
+    ],
+    "price": "24.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71O-st9oRHL._AC_UL1200_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51DtUcqyNFL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51Of+9fL2zL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51DtUcqyNFL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51Of+9fL2zL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Carter's",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Girls",
+        "Clothing",
+        "Clothing Sets",
+        "Pant Sets"
+    ],
+    "details": "{\"Package Dimensions\": \"8 x 8 x 1.5 inches; 1.5 Ounces\", \"Item model number\": \"CA-56827\", \"Department\": \"Girls\", \"Date First Available\": \"April 9, 2015\", \"Manufacturer\": \"Carter's\"}",
+    "parent_asin": "B00VUDQLKE",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

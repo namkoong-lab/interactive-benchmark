@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The Definitive Guide to Berkeley DB XML",
+    "average_rating": 2.9,
+    "rating_number": 6,
+    "features": [
+        "This book teaches the basics of XML with an original approach, using real-world examples from an interesting (and operating) environment with broad applicability. It covers the full spectrum of Berkeley DB XML tools, including the command-line shell, transactions, rollbacks, replication, archiving and monitoring. Techniques and concepts that have broad applicability outside of the subject matter are skillfully explained: XML, XPath, XQuery, XML schemas, all industry-standard technologies that find one of their best tutorial treatments, and all in the context of a simple database solution. The book also presents a remarkable example of query power."
+    ],
+    "description": [
+        "About the Author",
+        "Danny Brian has been programming for over 20 years. Since the advent of Linux and FreeBSD operating systems, his major development interests have been natural language processing, games, and XML technologies. Danny has been a regular speaker at O'Reilly's Open Source Convention since 2001, winning the Damian Conway Award for Technical Excellence in 2001. Formerly a columnist for The Perl Journal, he has recently worked as an analyst and software engineer for NTT/Verio, and is the chief executive officer of an entertainment startup."
+    ],
+    "price": "43.73",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41gMw18IVDL._SX330_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Daniel Brian (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Programming"
+    ],
+    "details": "{\"Publisher\": \"Apress; 1st ed. edition (August 23, 2006)\", \"Language\": \"English\", \"Hardcover\": \"420 pages\", \"ISBN 10\": \"1590596668\", \"ISBN 13\": \"978-1590596661\", \"Item Weight\": \"2.09 pounds\", \"Dimensions\": \"7 x 0.94 x 10 inches\"}",
+    "parent_asin": "1590596668",
+    "bought_together": null,
+    "subtitle": "1st ed. Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Danny Brian', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

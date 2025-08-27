@@ -1,0 +1,56 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "JWLA By Johnny Was Women's Legging",
+    "average_rating": 5.0,
+    "rating_number": 7,
+    "features": [
+        "96% Cotton, 4% Spandex",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "96% Cotton, 4% Spandex",
+        "Embroidered",
+        "Elastic Waist",
+        "Boho",
+        "Desinger"
+    ],
+    "description": [
+        "\"Pina Legging\" Cotton Embroidered Legging. Material type: 96% Cotton, 4% Spandex.Imported.Pull On closure.Machine Wash"
+    ],
+    "price": "99.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51TbYowTdmL._AC_UL1200_.jpg",
+            "https://m.media-amazon.com/images/I/51x0C5BFvQL._AC_UL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31jltELkq1L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31PZvidB8-L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31jltELkq1L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31PZvidB8-L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "JWLA By Johnny Was",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Leggings"
+    ],
+    "details": "{\"Item model number\": \"J60321-6\", \"Department\": \"Womens\", \"Date First Available\": \"April 28, 2021\", \"Manufacturer\": \"JWLA by Johnny Was\"}",
+    "parent_asin": "B093R2Q8CL",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

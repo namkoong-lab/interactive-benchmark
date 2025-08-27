@@ -1,0 +1,56 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "HUDSON Jeans Women's Heartbreaker High Rise Bootcut 5 Pocket Jean",
+    "average_rating": 3.1,
+    "rating_number": 4,
+    "features": [
+        "98% Cotton, 2% Elastane",
+        "Made in the USA or Imported",
+        "Zipper closure",
+        "Machine Wash",
+        "Soft, shaping denim fabric with full stretch recovery",
+        "5 pocket detail",
+        "10 inch rise",
+        "16 inch leg opening",
+        "32 inch inseam"
+    ],
+    "description": [
+        "The heartbreaker is a high rise boot cut that sits nice and straight at the waist, has a 6 inch slit on the inseam, and released hem detail"
+    ],
+    "price": "235.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81d2lF4gkwL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81DllJZiAdL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31qmbLY39mL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31UCYgtWpkL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31qmbLY39mL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/31UCYgtWpkL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "HUDSON",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Clothing",
+        "Jeans"
+    ],
+    "details": "{\"Package Dimensions\": \"0.39 x 0.39 x 0.39 inches; 1 Pounds\", \"Department\": \"Womens\", \"Date First Available\": \"October 22, 2017\", \"Manufacturer\": \"Hudson Jeans\"}",
+    "parent_asin": "B074937PD7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,45 @@
+{
+    "main_category": "Amazon Home",
+    "title": "SPI Home 33238 Acorn and Leaf Wind Chime",
+    "average_rating": 4.4,
+    "rating_number": 6,
+    "features": [
+        "Made of brass",
+        "Adjustable hanging length",
+        "Outdoor-safe"
+    ],
+    "description": [
+        "Enjoy the gentle sounds brought by the wind - brought to you by SPI, who's diverse selection of products is valued by prominent interior designers and home décor specialists."
+    ],
+    "price": "49.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61-TqLDahwL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31Bu+c+Qs2L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31Bu+c+Qs2L._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "SPI Home",
+    "categories": [
+        "Patio, Lawn & Garden",
+        "Outdoor Décor",
+        "Chimes"
+    ],
+    "details": "{\"Brand\": \"SPI Home\", \"Material\": \"Brass\", \"Special Feature\": \"Adjustable\", \"Theme\": \"Leaf\", \"Item Weight\": \"0.7 Pounds\", \"Assembly Required\": \"No\", \"Product Dimensions\": \"24 x 1 x 8 inches\", \"Manufacturer\": \"San Pacific International, Inc.\", \"Item model number\": \"33238\", \"Best Sellers Rank\": {\"Patio, Lawn & Garden\": 981868, \"Wind Chimes\": 9103}, \"Is Discontinued By Manufacturer\": \"No\"}",
+    "parent_asin": "B003HMRKXI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

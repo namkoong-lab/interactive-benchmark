@@ -1,0 +1,47 @@
+{
+    "main_category": "Digital Music",
+    "title": "Best of Rossini",
+    "average_rating": 4.2,
+    "rating_number": 33,
+    "features": [],
+    "description": [
+        "The Best of: Sonata per archi nn. 1-3, La Gaza Ladra (Overture), La Cenerentola (Overture), Guglielmo Tell (Overture), nacqui all'affanno,..."
+    ],
+    "price": "12.63",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81eJw-qb99L._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/712Y5sX8JvL._SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61Pow15lInL.jpg",
+            "https://m.media-amazon.com/images/I/61JeIZMAInL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/61Pow15lInL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/61JeIZMAInL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "ROSSINI  (Artist)    Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "Classical",
+        "Forms & Genres",
+        "Theatrical, Incidental & Program Music",
+        "Overtures"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"6.5 x 5.35 x 0.39 inches; 3.32 Ounces\", \"Manufacturer\": \"Naxos Best Of...\", \"Item model number\": \"0730099668323\", \"Original Release Date\": \"1999\", \"SPARS Code\": \"DDD\", \"Date First Available\": \"February 11, 2007\", \"Label\": \"Naxos Best Of...\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00000G3XI",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

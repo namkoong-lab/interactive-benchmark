@@ -1,0 +1,40 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Good Will Hunting",
+    "average_rating": 4.6,
+    "rating_number": 51,
+    "features": [],
+    "description": [
+        "Excellent DVD (REGION 1) From A Private Collection; Ships Worldwide"
+    ],
+    "price": "9.96",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/5110SVG4PPL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/5110SVG4PPL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Movies"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"7.1 x 5.42 x 0.58 inches; 2.93 Ounces\", \"Media Format\": \"DVD\"}",
+    "parent_asin": "1558908641",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

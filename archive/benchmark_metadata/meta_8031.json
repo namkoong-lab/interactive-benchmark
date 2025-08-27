@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Souls Together",
+    "average_rating": 4.2,
+    "rating_number": 3,
+    "features": [
+        "Serena's eighteenth birthday was never going to be what she wanted, not when it's also the first day of school. Then her mom starts the day by saying she is a witch and it sets her life on the path to her destiny and the vampire that is meant to be hers forever. Now she and Damian will stand together to fight the laws that were built to keep them apart and try to heal the past."
+    ],
+    "description": [
+        "About the Author",
+        "Nicole Stone lives in the beautiful Finger Lakes region of Upstate NY with her two kids, husband, dog, and cat. While she isn't writing she is reading a good book, hiking the many beautiful waterfalls, or painting with her daughter. She spends her time discussing her son's latest favorite book with him and going to NFL games with her husband."
+    ],
+    "price": "5.03",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/416TYDUliTS._SX311_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Nicole Stone (Author)",
+    "categories": [
+        "Books",
+        "Teen & Young Adult",
+        "Science Fiction & Fantasy"
+    ],
+    "details": "{\"Publisher\": \"Austin Macauley (April 30, 2021)\", \"Language\": \"English\", \"Paperback\": \"190 pages\", \"ISBN 10\": \"1641823615\", \"ISBN 13\": \"978-1641823616\", \"Item Weight\": \"6.9 ounces\", \"Dimensions\": \"5 x 0.4 x 8 inches\"}",
+    "parent_asin": "1641823615",
+    "bought_together": null,
+    "subtitle": "Paperback – April 30, 2021",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/S/amzn-author-media-prod/7tjh0kgobpd06jhv65r3er84jq._SY600_.jpg', 'name': 'Nicole Stone', 'about': ['Hello from the Finger Lakes of New York! Great wine, beautiful waterfalls and fun times with my family. I have 2 amazing kids and a husband of 15 years. I have always loved to write. I started with poetry in high school, even being published in a few poetry books. I have been blessed to now live my dream. Enjoy my trilogy. Book 1; Souls Together. Book 2; Searching Souls. Book 3; One Soul.']}"
+}

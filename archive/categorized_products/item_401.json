@@ -1,0 +1,53 @@
+{
+  "item_id": 401,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Now Or Heaven",
+    "average_rating": 5.0,
+    "rating_number": 3,
+    "features": [],
+    "description": [
+      "Their sophomore full-length originates from home - the longing to get there and all that comes from being there. Each song is a maturation from the band's debut. The familiar catchy melodies are still there, as are the sublime harmonies and wry guitars, but \"Now Or Heaven\" is infused with a deeper, more serious perspective of the world."
+    ],
+    "price": "2.48",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51rv5X8nzrL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51rv5X8nzrL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "The Broken West   Apex Manor   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Indie & Alternative",
+      "Indie & Lo-Fi",
+      "Indie Rock"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"5.6 x 0.4 x 4.9 inches; 3.52 Ounces\", \"Manufacturer\": \"Merge (Exclusive)\", \"Date First Available\": \"July 21, 2008\", \"Label\": \"Merge (Exclusive)\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B001CVCBH6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Albums"
+    ],
+    "confidence": 0.95
+  }
+}

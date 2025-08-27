@@ -1,0 +1,57 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Rothco Men's Military,Vintage",
+    "average_rating": 4.2,
+    "rating_number": 119,
+    "features": [
+        "Cotton",
+        "Zipper closure",
+        "Hand Wash Only",
+        "Rothco is the foremost supplier of Military, tactical, survival and outdoor products",
+        "Rothco has introduced numerous lines of clothing and product but at the root of each item is our Military Heritage, from our M-65 field Jackets to our Canvas bags, even the folding camping shovel",
+        "Combat tested since 2506"
+    ],
+    "description": [
+        "Founded in 1953, Rothco, a family-owned business run by Milton Somberg and Howard Somberg, has provided the military clothing and outdoor retailer with top quality merchandise and the finest service anywhere for over 60 years."
+    ],
+    "price": "89.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71SPIQg-ZwL._AC_UL1411_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51cgx5JKCjL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51cgx5JKCjL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Rothco M-65 Field Jacket"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/73eddd6bb0aa473bb7d8af0c410f86c4?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Rothco",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Uniforms, Work & Safety",
+        "Clothing",
+        "Military",
+        "Outerwear"
+    ],
+    "details": "{\"Department\": \"mens\", \"Date First Available\": \"May 24, 2023\", \"Manufacturer\": \"Rothco\"}",
+    "parent_asin": "B0C65ZNP8Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

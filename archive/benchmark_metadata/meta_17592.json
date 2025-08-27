@@ -1,0 +1,89 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Construction Calculator FREE",
+    "average_rating": 3.6,
+    "rating_number": 75,
+    "features": [
+        "Fast and Simple! Quick Construction Answers from your all in one Construction Calculator!",
+        "Fractions Calculator all on its Own! Add subtract multiply or divide fractions have never been so simple!",
+        "Concrete Amounts, Stair Cuts, Roof Cuts, Ohms Law, Board Feet, 3-4-5 Formulas...everything you need!",
+        "Convert anything with our many many functions lists and buttons! Life made easy!",
+        "Caters to both metric and imperial measurements making it the number 1 Construction Calculator for FREE!"
+    ],
+    "description": [
+        "Your Handyman helper...right on your phone! Users can enjoy a much more rich experience, completely ad-free then from our Construction Calculator FREE version. All new digital skins, smaller buttons, and added calculations features not included in the Free version.E-Z Construction Calculator can calculate numeric values, imperial measurements, degrees, rafters, concrete volume, and so much more!All the operations and conversion buttons you could ever need include:-feet to cubic metre-pi radius squared-percent-square root-squared-hypotenuse-reverse hypotenuse-feet-inches-fractions-convert (converts displayed number into feet & inches)-degrees-pitch-span-common rafter-hip/valley rafter-jack rafter-miles to km-km to miles-yards to metres-metres to yards-celsius to fahrenheit-fahrenheit to celsius-litres to gallons -gallons to litres-kilograms to pounds-pounds to kilograms-inches to mm-mm to inches-inches to cm-cm to inches- (positive + / negative -)-radian-sin-sin-1-cos-cos-1-tan-tan-1-abs-logThe Formula's button will take you to another screen with a sub menu.-Basic Stair Calculationsin this section you only need to enter the Total Rise of a stair case, and the ideal Tread Run (length)The calculator will calculate the rest for you and give you a list of desired information and results.-Basic Roof CalculationsIn this section you only need to enter the shortest span of a house and the roofs pitch. Also you can change the default 1 foot overhang. Hitting update will result in:-common rafter length-common rafter birdsmouth-hip/valley length-hip/valley birdsmouth-1st jack rafter-Total Rise-Total Run**Details about how to calculate common rafters can be seen if selected-Basic Concrete CalculationsThis section is broken into two sub categories:Cylinder calculations or Square/Rectangle calculationsYou input the length width and height for rectangles in feet and hit update for a result in both cubic metres and cubic yards. Altering the numbers then hitting update again without hitting clear first will add the new total to the current total. This is for rapid adding of area to determine concrete volumes.In the event you do not know the value in feet, there is tiny mm and inches buttons beside each input boxes. You can input 1 value in mm and hit the mm button to instantly convert it to feet for you, while placing another value in inches and hitting the inch button to convert to total feet in decimal format.This program will allow the entry of feet, inch, and mm and convert it all to be feet in decimal format to solve the equations into both cubic metres and cubic yards.OHM's Law: Input any two of the Power/Watts, Resistance/OHM's, Current/AMPS, or Voltage to result in the other two required information. Quick and Simple!Board Feet & Cost calculatorInput Length, Nominal Width, and Nominal thickness to determine how much board feet you have or need. Also input the quantity you need and price per BF to figure out the total costs or required material!Bubble Level-This is both a bubble level and bullseye level for quick and handy checking of a project to see if it is plumb or level.3-4-5 button:input any two lengths from your corner your trying to square 90 degrees. The output will be in fractions and decimals for both metric and imperial users. you can even combine one with the other in the input. Enter a decimal number in the X or Y axis slot, and in the other axis you can mix it with a fraction and still get both results in decimal and fractions. This is advanced feature not offered in the free version.Fractions button:This is an entirely new calculator as a sub menu. This is strictly for adding, subtracting, multiplying or dividing fractions and whole numbers. There is a show/hide decimal button to convert your answer into decimal."
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/71RTQiOBSNL.png",
+            "https://m.media-amazon.com/images/I/71mrjASGVRL.png",
+            "https://m.media-amazon.com/images/I/71IeXJ+43aL.png",
+            "https://m.media-amazon.com/images/I/71NMUwlGvRL.png",
+            "https://m.media-amazon.com/images/I/715qyUrtbcL.png",
+            "https://m.media-amazon.com/images/I/71aofBqTSTL.png",
+            "https://m.media-amazon.com/images/I/710d1l-hO1L.png",
+            "https://m.media-amazon.com/images/I/81jp-OPoyQL.png",
+            "https://m.media-amazon.com/images/I/81629Giot0L.png",
+            "https://m.media-amazon.com/images/I/716DLj0onJL.png",
+            "https://m.media-amazon.com/images/I/913wJqwdRHL.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07",
+            "PT08",
+            "PT09",
+            "PT010"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "SleddLine",
+    "categories": [],
+    "details": "{\"Release Date\": \"2015\", \"Date first listed on Amazon\": \"July 31, 2015\", \"Developed By\": \"SleddLine\", \"Size\": \"3.3MB\", \"Version\": \"Varies by device\", \"Application Permissions\": [\"Access coarse (e.g., Cell-ID, Wi-Fi) location\", \"Access fine (e.g., GPS) location\", \"Access information about networks\", \"Access information about Wi-Fi networks\", \"Open network sockets\", \"Read from external storage\", \"Write to external storage\"], \"Minimum Operating System\": \"Android 2.3\", \"Approximate Download Time\": \"Less than 30 seconds\"}",
+    "parent_asin": "B0131VSHIQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

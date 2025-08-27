@@ -1,0 +1,57 @@
+{
+  "item_id": 409,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Slow Riot for New Zero Kanada",
+    "average_rating": 4.7,
+    "rating_number": 182,
+    "features": [],
+    "description": [
+      "Haunting 1999 mini-album by Montreal's mood-rockers ... awash in ghostly gusts of guitars, glockenspiels and strings!"
+    ],
+    "price": "19.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/716tCBBlaVL._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/81N4pdVzddL._SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51gzvvJbBYL.jpg",
+        "https://m.media-amazon.com/images/I/4179-e-E2GL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51gzvvJbBYL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/4179-e-E2GL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Godspeed You! Black Emperor   Format: Vinyl",
+    "categories": [
+      "CDs & Vinyl",
+      "Rock",
+      "Progressive",
+      "Progressive Rock"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"12.91 x 12.52 x 0.08 inches; 8.96 Ounces\", \"Manufacturer\": \"Constellation\", \"Item model number\": \"CST 6\", \"Original Release Date\": \"1999\", \"SPARS Code\": \"DDD\", \"Date First Available\": \"February 26, 2009\", \"Label\": \"Constellation\", \"Country of Origin\": \"USA\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00004WORQ",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Indie Rock Albums"
+    ],
+    "confidence": 0.95
+  }
+}

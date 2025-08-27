@@ -1,0 +1,81 @@
+{
+  "item_id": 4613,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Swix Men's Universal Bekke Tech Breathable Pants",
+    "average_rating": 4.2,
+    "rating_number": 30,
+    "features": [
+      "100% Polyester",
+      "Made in the USA or Imported",
+      "Zipper closure",
+      "Machine Wash",
+      "UNIVERSAL BEKKE TECH PANTS - When you’re out in cold, unpredictable conditions, these technical pants will keep you warm, dry and performing your best",
+      "FULL-LENGTH LEG ZIPPERS - The full-length leg zippers mean they go on in an instant",
+      "FREEDOM OF MOVEMENT - The four-way stretch fabric and side stretch panel give you complete freedom of movement - whether you’re hiking, cycling or snowshoeing",
+      "HIGHLY BREATHABLE - They allow moisture to escape to keep you dry when you’re pushing your hardest",
+      "WATERTIGHT - A watertight treatment causes precipitation to bead up and roll off"
+    ],
+    "description": [
+      "The ergonomic construction of the Men’s Bekke tech pants and the 4-way stretch fabric give you complete freedom of movement, while keeping you protected when it is cold as well as wet outside. They’ll also work for hiking, running or snowshoeing. Regular fit. Main fabric 4 way stretch 100% Polyester WP/MVP 3000mm/3000mp Inserts: Stretch fleece 88% Polyester, 12% Spandex Lining: Mesh 95% Polyester, 5% Spandex Full-length zippers let you vent as needed Two zippered pockets Drawcord at waist Leg ends with side zip."
+    ],
+    "price": "130.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/41X32r48s9L._AC_UL1001_.jpg",
+        "https://m.media-amazon.com/images/I/51j3+yC9vTL._AC_UL1001_.jpg",
+        "https://m.media-amazon.com/images/I/51W9n7go6cL._AC_UL1001_.jpg",
+        "https://m.media-amazon.com/images/I/51GHVwTPZbL._AC_UL1001_.jpg",
+        "https://m.media-amazon.com/images/I/61YY+W0CmPL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31qcvcC1qWL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31Y+oZ0x9LL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31b0fYzTZ2L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31iqPVWSBdL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31VdpOG167L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31qcvcC1qWL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31Y+oZ0x9LL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31b0fYzTZ2L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31iqPVWSBdL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31VdpOG167L._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Swix",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Sport Specific Clothing",
+      "Cycling",
+      "Men",
+      "Tights, Pants & Shorts",
+      "Tights & Pants"
+    ],
+    "details": "{\"Item model number\": \"28041-10000\", \"Department\": \"mens\", \"Date First Available\": \"October 28, 2016\", \"Manufacturer\": \"Swix\"}",
+    "parent_asin": "B093LT6JS7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's Activewear"
+    ],
+    "confidence": 0.95
+  }
+}

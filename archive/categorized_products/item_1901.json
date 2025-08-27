@@ -1,0 +1,57 @@
+{
+  "item_id": 1901,
+  "metadata": {
+    "main_category": "Home Audio & Theater",
+    "title": "RadioShack 9-Inch Y-Adapter Audio Cable",
+    "average_rating": 4.0,
+    "rating_number": 6,
+    "features": [
+      "Copper center conductor for superior signal transfer keeps out annoying electrical interference",
+      "Accepts 2 phono (RCA) plugs; fits 1 mono 1/4\" stereo phone plug"
+    ],
+    "description": [
+      "Maximize your A/V signal transfer for optimum sound with this premium cable's high-quality connectors, which substantially reduce signal loss. RadioShack Gold Series connectors are designed to enhance the performance of your audio and video components by reducing signal loss and interference. Low-capacitance connectors deliver the most dynamic, distortion-free signals your system can provide. Use this premium model to combine or split audio signals between components."
+    ],
+    "price": "4.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61PgQhmMJfL._AC_SL1040_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41qWwz4bQGL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41qWwz4bQGL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "RadioShack",
+    "categories": [
+      "Electronics",
+      "Television & Video",
+      "Accessories",
+      "Cables",
+      "RCA"
+    ],
+    "details": "{\"Brand\": \"RadioShack\", \"Connector Type\": \"RCA\", \"Cable Type\": \"Composite\", \"Compatible Devices\": \"Smartphone\", \"Connector Gender\": \"Male-to-Male\", \"Unit Count\": \"1 Count\", \"Item Weight\": \"0.32 ounces\", \"Package Dimensions\": \"8.1 x 2.6 x 0.7 inches\", \"Manufacturer\": \"RadioShack\", \"Item model number\": \"4202545\", \"Best Sellers Rank\": {\"Electronics\": 710108, \"RCA Cables\": 7699}, \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"February 22, 2008\"}",
+    "parent_asin": "B0014FZ7BC",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "All Electronics",
+      "Home Audio & Theater",
+      "AV Switches & Splitters"
+    ],
+    "confidence": 0.95
+  }
+}

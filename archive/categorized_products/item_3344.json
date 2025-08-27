@@ -1,0 +1,78 @@
+{
+  "item_id": 3344,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Kid's Animal Fur Scarf",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "100% Acrylic",
+      "Hand Wash Only",
+      "Made of 80% acrylic and 20% polyester.",
+      "One size fits most.",
+      "Scarf measures 22 x 12 inches.",
+      "One layer, with animal face and tail in fur.",
+      "Soft, thick and warm material."
+    ],
+    "description": [
+      "Our Kid's Animal Fur Scarf is a cute winter accessory for women and children. This scarf features fur trimming on both ends. Also, a cute animal face and an animal tail are sported at each end of scarf for its adorable style. This animal scarf matches well with animal hats and it is a great costume accessory as well. This darling animal scarf not only offers you cute and unique style but also keeps your neck in warmth all the time. You can simply wrap this scarf around yourself and tie with a knot hole that is featured on one side of scarf. This fun animal fur scarf comes available in wolf and fox."
+    ],
+    "price": "31.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61LFy3E-iKL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/616TGyCzrxL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61FZNjwNDIL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61MaR9pWawL._AC_UL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61kw0Ew9xzL._AC_UL1000_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51KLgv4KqEL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41zj3-06amL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41FkKkuyMZL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51b9J7MB+4L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51qVmy6EZVL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51KLgv4KqEL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41zj3-06amL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41FkKkuyMZL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51b9J7MB+4L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51qVmy6EZVL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Jeanne Simmons",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Accessories",
+      "Scarves",
+      "Cold Weather Scarves"
+    ],
+    "details": "{\"Item model number\": \"aa000sc\", \"Department\": \"mens\", \"Date First Available\": \"March 17, 2017\"}",
+    "parent_asin": "B06XT941M6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Jewelry & Accessories",
+      "Women's Scarves & Shawls"
+    ],
+    "confidence": 0.95
+  }
+}

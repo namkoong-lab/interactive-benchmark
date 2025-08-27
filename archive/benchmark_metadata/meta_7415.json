@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Robbins Review of Pathology",
+    "average_rating": 4.7,
+    "rating_number": 13,
+    "features": [
+        "Introducing the new review book to ROBBINS PATHOLOGIC BASIS OF DISEASE, 6th Edition! Following the organization of its parent text, this superb resource features an abundance of questions based on chapter material. What's more, it provides an additional \"comprehensive\" exam of over 150 questions on random topics to mimic the coverage of the USMLE Step 1."
+    ],
+    "description": [
+        "About the Author",
+        "Vinay Kumar, MBBS, MD, FRCPath, Alice Hogge and Arthur A. Baer Distinguished Service Professor of Pathology, Biologic Sciences Division and the Pritzker Medical School, The University of Chicago, Chicago, Illinois, USA"
+    ],
+    "price": "6.97",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41B3S1X6SCL._SX356_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Edward C. Klatt MD (Author),  Vinay Kumar MBBS  MD  FRCPath (Author),  Vinay Kumar MD (Author)",
+    "categories": [
+        "Books",
+        "New, Used & Rental Textbooks",
+        "Medicine & Health Sciences"
+    ],
+    "details": "{\"Publisher\": \"Saunders; 1st edition (March 15, 2000)\", \"Language\": \"English\", \"Paperback\": \"310 pages\", \"ISBN 10\": \"0721682596\", \"ISBN 13\": \"978-0721682594\", \"Item Weight\": \"1.65 pounds\", \"Dimensions\": \"8.25 x 0.5 x 10.75 inches\"}",
+    "parent_asin": "0721682596",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": null
+}

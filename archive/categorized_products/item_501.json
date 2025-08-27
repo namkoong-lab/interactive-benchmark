@@ -1,0 +1,51 @@
+{
+  "item_id": 501,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Storyteller",
+    "average_rating": 4.8,
+    "rating_number": 1958,
+    "features": [],
+    "description": [
+      "Double vinyl LP pressing. 2015 release, the fifth album from the country/pop music superstar. Storyteller includes the hit single 'Smoke Break'. Carrie Underwood emerged from the promise of her 2005 American Idol win to become a true multi-format, multi-media superstar, spanning achievements in music, television, and film. A seven-time Grammy Award winner, she has amassed nearly 100 major honors, sold more than 56 million records worldwide, and recorded 21 #1 singles, 11 of which she co-wrote. The first female artist to be twice named the Academy of Country Music's Entertainer of the Year, Underwood was recognized as Pollstar's top female country touring artist for her headlining tours in 2008, 2010, and 2012. Her four studio albums, Some Hearts, Carnival Ride, Play On, and Blown Away - each certified multi-Platinum or Platinum, and each an American Music Awards winner as Country Album of the Year - tallied 38 weeks at #1 on Billboard's Top Country Albums chart with songs that have been streamed more than 1.4 billion times worldwide."
+    ],
+    "price": "22.97",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51vEEfZkN2L.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51vEEfZkN2L._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Carrie Underwood   Format: Vinyl",
+    "categories": [
+      "CDs & Vinyl",
+      "Country",
+      "Today's Country"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"12.14 x 12.36 x 0.55 inches; 14.24 Ounces\", \"Manufacturer\": \"Legacy Recordings\", \"Original Release Date\": \"2015\", \"Run time\": \"46 minutes\", \"Date First Available\": \"October 21, 2015\", \"Label\": \"Legacy Recordings\", \"Country of Origin\": \"USA\", \"Number of discs\": \"2\"}",
+    "parent_asin": "B016VWEX9Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Vinyl Records"
+    ],
+    "confidence": 0.95
+  }
+}

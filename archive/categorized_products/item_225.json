@@ -1,0 +1,50 @@
+{
+  "item_id": 225,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "California",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [],
+    "description": [
+      "1.California [LP Version] 2.California [Hip Hop Remix] 3.California [Instrumental] 4.California [Acappella]"
+    ],
+    "price": "4.99",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41rj-do-VqL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41rj-do-VqL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Akia  (Artist)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "R&B",
+      "Soul"
+    ],
+    "details": "{\"Package Dimensions\": \"5.5 x 4.8 x 0.4 inches; 2.4 Ounces\", \"Manufacturer\": \"Umvd Labels\", \"Date First Available\": \"February 11, 2007\", \"Label\": \"Umvd Labels\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00006RY6N",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music"
+    ],
+    "confidence": 0.95
+  }
+}

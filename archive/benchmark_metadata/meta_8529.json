@@ -1,0 +1,53 @@
+{
+    "main_category": "Books",
+    "title": "Your Cosmic Context: An Introduction to Modern Cosmology",
+    "average_rating": 3.9,
+    "rating_number": 42,
+    "features": [
+        "KEY MESSAGE:",
+        "Your Cosmic Context",
+        "provides a framework for exploring the nature and history of our universe. Equally well suited for independent reading and study or for a one-term general education course in cosmology, this book is a guide to the key insights of scientific cosmology, including the big bang theory and exotic entities like dark matter and dark energy. It also explains how we discovered the surprising things we now know about the distant reaches of space and time, and thereby serves as one of the best available illustrations of the scientific method in action.",
+        "KEY TOPICS:",
+        "Starting Points, The Sky We See, The Universe We Discover Through Heat and Light, The Universe We Discover Through Motion and Gravity, Clues About the Cosmos, The Fabric of Spacetime, An Expanding Universe, Photons and Electrons, The Nuclear Realm, The Big Bang Theory, History, Density, and Destiny, The Story of Structure, The Emergence of Complex Life, What Does It Mean to You?",
+        "MARKET:",
+        "Intended for those interested in the basics of cosmology."
+    ],
+    "description": [
+        "About the Author",
+        "Dr. Todd Duncan",
+        "is an Assistant Professor of Physics at Pacific University. Todd combines a research background in physics and astronomy with experience teaching science concepts to a wide range of audiences. He holds a Ph.D. in astrophysics from the University of Chicago and physics degrees from Cambridge University and the University of Illinois. Todd has taught interdisciplinary science courses ranging from elementary school to graduate level, and is currently on the physics faculty at Pacific University, president of the non-profit Science Integration Institute, and adjunct faculty in the Center for Science Education at Portland State University.",
+        "Dr. Craig Tyler",
+        "is on the physics faculty at Fort Lewis College. He holds a Ph.D. in astrophysics from the University of Chicago, and bachelor of science degrees in mechanical engineering and entrepreneurial management from the University of Pennsylvania. Craig's research and professional interests include dark matter, black holes, and recent advances in physics and astronomy education. Craig is the affiliate director at Fort Lewis for the NASA/Colorado Space Grant Consortium, and has received the college's New Faculty Teaching Award."
+    ],
+    "price": "15.7",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51VbNaEcURL._SX397_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Todd Duncan (Author),  Craig Tyler (Author)",
+    "categories": [
+        "Books",
+        "Science & Math",
+        "Astronomy & Space Science"
+    ],
+    "details": "{\"Publisher\": \"Pearson; First Edition (January 2, 2008)\", \"Language\": \"English\", \"Paperback\": \"512 pages\", \"ISBN 10\": \"0132400103\", \"ISBN 13\": \"978-0132400107\", \"Item Weight\": \"2.29 pounds\", \"Dimensions\": \"8.05 x 1.25 x 10 inches\"}",
+    "parent_asin": "0132400103",
+    "bought_together": null,
+    "subtitle": "First Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Todd Duncan', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

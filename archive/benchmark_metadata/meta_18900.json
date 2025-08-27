@@ -1,0 +1,52 @@
+{
+    "main_category": "All Beauty",
+    "title": "Foot Butter by Dr Ron Foot Cream, White, Small 6 Ounce",
+    "average_rating": 4.5,
+    "rating_number": 22,
+    "features": [
+        "French Lavender",
+        "Fragrant oil of Lavender",
+        "Vitamin E",
+        "Shea Butter"
+    ],
+    "description": [
+        "A deep moisturizing, aroma-therapeutic foot cream - Contains a proprietary essential oil blend, shea butter, safflower oil, coconut oil, aloe vera juice. They may help in treating certain skin conditions, including acne, itching, and oily skin."
+    ],
+    "price": "15.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/815Hr81jafL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91c6go2A5yL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51VF+38uqCL.jpg",
+            "https://m.media-amazon.com/images/I/5116kIZYe6L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51VF+38uqCL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/5116kIZYe6L._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Foot Butter",
+    "categories": [
+        "Beauty & Personal Care",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Creams"
+    ],
+    "details": "{\"Brand\": \"Foot Butter\", \"Scent\": \"Lavender\", \"Item Form\": \"Cream\", \"Unit Count\": \"6.0 Ounce\", \"Number of Items\": \"1\", \"Product Dimensions\": \"3 x 3 x 3 inches; 5.93 Ounces\", \"UPC\": \"195893545056\", \"Manufacturer\": \"Dr Rondrick Williamson\", \"Country of Origin\": \"USA\"}",
+    "parent_asin": "B09NP5WTDX",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

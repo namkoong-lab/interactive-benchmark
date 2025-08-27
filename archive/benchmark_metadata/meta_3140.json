@@ -1,0 +1,65 @@
+{
+    "main_category": "Grocery",
+    "title": "Dietz & Watson Traditional Barrel Style Cured Sauerkraut, 32 Oz",
+    "average_rating": 4.5,
+    "rating_number": 1842,
+    "features": [
+        "Deli complement to any sandwich, sub or wrap",
+        "Perfect topping for your favorites Dietz & Watson Franks & sausages",
+        "Gluten Free",
+        "Nitrate free",
+        "No MSG"
+    ],
+    "description": [
+        "Dietz & Watson Traditional barrel style cured sauerkraut. Pile up on your favorite Dietz & Watson Hot dog or sausage for a traditional German taste that is both sour and sweet."
+    ],
+    "price": "4.49",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61oyo9KOAhL._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61aLUZM7e7L._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61eqxnDfciL._SL1046_.jpg",
+            "https://m.media-amazon.com/images/I/61pRcpDWueL._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/51LILl1PgpL._SL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/512Z9c2sRWL.jpg",
+            "https://m.media-amazon.com/images/I/41C5qOu3f7L.jpg",
+            "https://m.media-amazon.com/images/I/41opsfYujwL.jpg",
+            "https://m.media-amazon.com/images/I/41+beq2OsqL.jpg",
+            "https://m.media-amazon.com/images/I/41j0Yevm+VL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/512Z9c2sRWL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41C5qOu3f7L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41opsfYujwL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41+beq2OsqL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41j0Yevm+VL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK",
+            "INGR",
+            "LEFT",
+            "TOPP"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Dietz & Watson",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Olives, Pickles & Relishes",
+        "Relishes",
+        "Vegetable Relishes"
+    ],
+    "details": "{\"Product Dimensions\": \"4.75 x 4.75 x 5.62 inches; 2 Pounds\", \"Item model number\": \"69563\", \"UPC\": \"031506695636\", \"Manufacturer\": \"Dietz & Watson\", \"Country of Origin\": \"USA\"}",
+    "parent_asin": "B07TLMGLHH",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

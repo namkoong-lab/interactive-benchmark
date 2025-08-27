@@ -1,0 +1,62 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Desigual Bags",
+    "average_rating": 4.3,
+    "rating_number": 11,
+    "features": [
+        "100% Polyester",
+        "Imported",
+        "Jute seashell handbag",
+        "Decorated with seashells, coins and fringing",
+        "Braided jute",
+        "Inside pocket",
+        "45 (L) x 16 (W) x 35 (H)"
+    ],
+    "description": [
+        "A sling in recycled polyester with backstitching in the shape of daisies in black. WIth a faux leather logo on the front and multiple straps: braided in faux leather and plain. Comes with a wallet-like charm."
+    ],
+    "price": "130.94",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81Ufjvb+eEL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71u7NbdxDWL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71z6zgdvC5L._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/812-YV999CL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Z6m2yZ+jL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51rHpu87DcL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41hSpzcNvvL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51f1Fkl+2ML._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Z6m2yZ+jL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51rHpu87DcL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41hSpzcNvvL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/51f1Fkl+2ML._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Desigual",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Handbags & Wallets",
+        "Shoulder Bags"
+    ],
+    "details": "{\"Product Dimensions\": \"0.39 x 0.39 x 0.39 inches; 2.36 Pounds\", \"Item model number\": \"22SAXA80\", \"Department\": \"Woman\", \"Date First Available\": \"July 15, 2021\", \"Manufacturer\": \"Desigual\"}",
+    "parent_asin": "B099L32HQX",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

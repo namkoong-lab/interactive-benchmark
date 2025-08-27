@@ -1,0 +1,60 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "adidas Youth Boys Core Compression Long Sleeve Shirt, Blue",
+    "average_rating": 1.0,
+    "rating_number": 1,
+    "features": [
+        "100% Polyester",
+        "Pull On closure",
+        "Machine Wash",
+        "86% polyester, 14%spandex",
+        "Ventilated climacool fabric keeps you cool and dry",
+        "Stretch fabric allows mobility for playing sports",
+        "Suitable for outdoor or indoor use",
+        "Youth sizing"
+    ],
+    "description": [
+        "Stay cool and supported with the adidas compression Top. Featuring Climalite fabric, this training top pulls moisture off your skin to keep you cool and sweat free."
+    ],
+    "price": "30.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/6152n23XbXL._AC_UL1500_.jpg",
+            "https://m.media-amazon.com/images/I/712PQjY+axL._AC_UL1500_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41N05xv6XmL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41c5zxJ7b0L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/412XHzQ4W6L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41N05xv6XmL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41c5zxJ7b0L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/412XHzQ4W6L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "adidas",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Boys",
+        "Clothing",
+        "Active",
+        "Active Base Layers"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"boys\", \"Date First Available\": \"March 16, 2018\", \"Manufacturer\": \"adidas\"}",
+    "parent_asin": "B07BHR3RT7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

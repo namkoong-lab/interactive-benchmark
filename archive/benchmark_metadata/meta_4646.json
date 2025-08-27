@@ -1,0 +1,53 @@
+{
+    "main_category": "Tools & Home Improvement",
+    "title": "General Electric 894 Driving Light",
+    "average_rating": 4.7,
+    "rating_number": 3,
+    "features": [],
+    "description": [
+        "Driving And Fog Light"
+    ],
+    "price": "13.94",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51FxtUKPlXL._AC_SL1000_.jpg",
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31V0K2ODGCL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41MWvLomNzL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/4142Kbmr9BL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41crVv9KVzL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31V0K2ODGCL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41MWvLomNzL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/4142Kbmr9BL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41crVv9KVzL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "GE",
+    "categories": [
+        "Tools & Home Improvement",
+        "Light Bulbs",
+        "Incandescent Bulbs"
+    ],
+    "details": "{\"Brand\": \"GE\", \"Manufacturer\": \"General Electric\", \"Part Number\": \"894\", \"Item Weight\": \"8.1 ounces\", \"Package Dimensions\": \"7 x 3 x 3 inches; 8.11 Ounces\", \"Voltage\": \"13 Volts\", \"Wattage\": \"38 Watts\", \"Best Sellers Rank\": {\"Industrial & Scientific\": 885769, \"Incandescent Bulbs\": 11227}, \"Date First Available\": \"October 10, 2007\"}",
+    "parent_asin": "B002CZ5CC2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

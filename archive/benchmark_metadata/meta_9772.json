@@ -1,0 +1,50 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Grassland's Road Glow in the Dark Welcome Gnome",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Welcome gnome figurine is made of a mixture of cement, resin, and metal for a durable design that will last in your garden",
+        "Measures 6-1/2 x 10 x 2-1/4 inches",
+        "Whimsical gnome holding lantern that glows in the dark",
+        "Gnomes bring protection and good luck to your garden",
+        "Indoor/outdoor welcome sign by Grasslands Road"
+    ],
+    "description": [
+        "Welcome gnome figurine is made of a mixture of cement, resin, and metal for a durable design that will last in your garden. This welcome sign measures 6-1/2 x 10 x 2-1/4 inches and the gnome's lantern glows in the dark!"
+    ],
+    "price": "24.97",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/619hL18nYkL._AC_SL1248_.jpg",
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41pJGztlFwL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41r4MXsvAqL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41pJGztlFwL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41r4MXsvAqL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Grasslands Road",
+    "categories": [
+        "Patio, Lawn & Garden",
+        "Outdoor Décor"
+    ],
+    "details": "{\"Product Dimensions\": \"6.5 x 2.25 x 10 inches\", \"Item Weight\": \"2.4 pounds\", \"Manufacturer\": \"Grasslands Road\", \"Item model number\": \"470467\"}",
+    "parent_asin": "B00I8TA99C",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

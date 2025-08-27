@@ -1,0 +1,45 @@
+{
+    "main_category": "All Beauty",
+    "title": "Victoria's Secret SPRING POPPIES Fragrance Mist + Body Lotion Set",
+    "average_rating": 4.7,
+    "rating_number": 5,
+    "features": [],
+    "description": [
+        "Victoria's Secret SPRING POPPIES Fragrance Mist + Body Lotion Set (Full Size)"
+    ],
+    "price": "27.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41KTTBW6N-L.jpg",
+            "https://m.media-amazon.com/images/I/41KTTBW6N-L.jpg",
+            "https://m.media-amazon.com/images/I/41KTTBW6N-L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41KTTBW6N-L._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41KTTBW6N-L._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/41KTTBW6N-L._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Victoria's Secret",
+    "categories": [],
+    "details": "{\"Brand\": \"Victoria's Secret\", \"Item Form\": \"Bar\", \"Style\": \"Modern\", \"Unit Count\": \"1 Count\"}",
+    "parent_asin": "B00BZW8W02",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

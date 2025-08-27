@@ -1,0 +1,43 @@
+{
+    "main_category": "Grocery",
+    "title": "Diamond Bakery NEW! Cinnamon Royal Creem Crackers Tray (8oz)",
+    "average_rating": 4.7,
+    "rating_number": 8,
+    "features": [],
+    "description": [
+        "Each 8oz tray contains 6 portion packs of 4 crackers each; 24 crackers total,Each case contains (12) 8oz trays"
+    ],
+    "price": "10.95",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41+0DF827wL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41+0DF827wL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Diamond Bakery",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Snack Foods",
+        "Crackers",
+        "Graham Crackers"
+    ],
+    "details": "{\"Flavor\": \"Cinnamon\", \"Unit Count\": \"8.0 Ounce\", \"Brand\": \"Diamond Bakery\", \"Item Weight\": \"8 Ounces\", \"Package Weight\": \"0.24 Kilograms\", \"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"9.5 x 3.1 x 2.4 inches; 8 Ounces\", \"UPC\": \"073218320130\", \"Manufacturer\": \"Diamon Bakery\"}",
+    "parent_asin": "B00FSDTT7Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

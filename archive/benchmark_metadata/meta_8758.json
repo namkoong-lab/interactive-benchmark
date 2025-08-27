@@ -1,0 +1,48 @@
+{
+    "main_category": "Books",
+    "title": "The Oxford Handbook of Ethical Theory (Oxford Handbooks)",
+    "average_rating": 4.0,
+    "rating_number": 16,
+    "features": [
+        "The Oxford Handbook of Ethical Theory",
+        "is a major new reference work in ethical theory consisting of commissioned essays by leading moral philosophers. Ethical theories have always been of central importance to philosophy, and remain so; ethical theory is one of the most active areas of philosophical research and teaching today. Courses in ethics are taught in colleges and universities at all levels, and ethical theory is the organizing principle for all of them.The Handbook is divided into two parts, mirroring the field. The first part treats meta-ethical theory, which deals with theoretical questions about morality and moral judgment, including questions about moral language, the epistemology of moral belief, the truth aptness of moral claims, and so forth. The second part addresses normative theory, which deals with general moral issues, including the plausibility of various ethical theories and abstract principles of behavior. Examples of such theories are consequentialism and virtue theory. As with other Oxford Handbooks, the twenty-five contributors cover the field in a comprehensive and highly accessible way, while achieving three goals: exposition of central ideas, criticism of other approaches, and putting forth a distinct viewpoint."
+    ],
+    "description": [
+        "About the Author",
+        "David Copp",
+        "is Professor of Philosophy at the University of Florida. He is the author of",
+        "Morality, Normativity, and Society",
+        "and of many articles in moral and political philosophy."
+    ],
+    "price": "74.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41sp8jSOUyL._SX330_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "David Copp (Editor)",
+    "categories": [
+        "Books",
+        "New, Used & Rental Textbooks",
+        "Humanities"
+    ],
+    "details": "{\"Publisher\": \"Oxford University Press; 1st edition (December 22, 2005)\", \"Language\": \"English\", \"Hardcover\": \"680 pages\", \"ISBN 10\": \"0195147790\", \"ISBN 13\": \"978-0195147797\", \"Item Weight\": \"2.82 pounds\", \"Dimensions\": \"9.9 x 2.2 x 7.1 inches\"}",
+    "parent_asin": "0195147790",
+    "bought_together": null,
+    "subtitle": "1st Edition",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'David Copp', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

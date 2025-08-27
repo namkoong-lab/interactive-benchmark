@@ -1,0 +1,58 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Tupperware Veggie Spiral Gadget Green NEW",
+    "average_rating": 4.3,
+    "rating_number": 82,
+    "features": [
+        "Sinple Veggie spirals in minutes!",
+        "Dishwasher safe and BPA Free",
+        "Takes up little space in your utensil drawer."
+    ],
+    "description": [
+        "Tupperware Veggie Spiral Gadget in green is a great way to make spiral veggies, garnishes, and spiral potatoes. Simply insert the screw into the end of your food, insert your finger into the loop and turn! Made from BPA Free plastic and dishwasher safe."
+    ],
+    "price": "12.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/515ha2wFUPL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61KDtVxQZKL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61esmjVaFlL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/515ha2wFUPL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/21srq3GgplL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/212dk34Vg0L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/2159bc0G+NL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/21srq3GgplL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/21srq3GgplL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/212dk34Vg0L._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/2159bc0G+NL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/21srq3GgplL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Tupperware",
+    "categories": [
+        "Home & Kitchen",
+        "Kitchen & Dining",
+        "Bakeware",
+        "Decorating Tools"
+    ],
+    "details": "{\"Product Dimensions\": \"4.5 x 1 x 1.5 inches\", \"Item Weight\": \"0.353 ounces\", \"Manufacturer\": \"Tupperware\", \"Item model number\": \"Tupperware Veggie\", \"Best Sellers Rank\": {\"Kitchen & Dining\": 433004, \"Decorating Tools\": 7904, \"Kitchen Utensils & Gadgets\": 138366}, \"Is Discontinued By Manufacturer\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\", \"Import\": \"Imported\"}",
+    "parent_asin": "B004U00EL6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

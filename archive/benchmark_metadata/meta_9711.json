@@ -1,0 +1,37 @@
+{
+    "main_category": "Digital Music",
+    "title": "A Natural Wonder: Dawn Chorus",
+    "average_rating": 4.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+        "Tracks: whispers * first light * crispuess * meditation * glorious * fresh start"
+    ],
+    "price": "29.95",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91bcErKngTL._SL1397_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51XrA5ZkQzL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51XrA5ZkQzL._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mastertone  (Author)    Format: Audio CD",
+    "categories": [],
+    "details": "{\"Manufacturer\": \"Mastertone\", \"Date First Available\": \"March 13, 2009\", \"Label\": \"Mastertone\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B001VNRPQ2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,64 @@
+{
+  "item_id": 3068,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Marvel Men's Venom Graphic T-Shirt",
+    "average_rating": 4.7,
+    "rating_number": 60,
+    "features": [
+      "100% Cotton",
+      "Made in the USA and Imported",
+      "Pull On closure",
+      "Machine Wash",
+      "Officially Licensed Marvel Men's Venom T-Shirt",
+      "Featuring a cool silk screen design of Venom",
+      "Available in men's sizes small, medium, large, XL, 2XL and 3XL",
+      "Made with soft, high quality fabric and bright, colorful inks",
+      "Makes a great gift for fans of Marvel Comics and Venom!"
+    ],
+    "description": [
+      "Officially Licensed Marvel Men's Venom T-Shirt. Featuring a cool silk screen design of Venom. Available in men's sizes small, medium, large, XL, 2XL and 3XL. Made with soft, high quality fabric and bright, colorful inks. Makes a great gift for fans of Marvel Comics and Venom!"
+    ],
+    "price": "12.73",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71ypmajhhUL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51BWqto4jCL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51BWqto4jCL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Marvel",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Clothing",
+      "Shirts",
+      "T-Shirts"
+    ],
+    "details": "{\"Product Dimensions\": \"9 x 8 x 0.75 inches; 7 Ounces\", \"Item model number\": \"MVFC7EDMSC3P1XX\", \"Department\": \"mens\", \"Date First Available\": \"February 3, 2022\", \"Manufacturer\": \"Marvel\"}",
+    "parent_asin": "B09RQPHLCY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Clothing",
+      "Men's T-Shirts"
+    ],
+    "confidence": 0.95
+  }
+}

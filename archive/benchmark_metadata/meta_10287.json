@@ -1,0 +1,41 @@
+{
+    "main_category": "Digital Music",
+    "title": "Who Can I Run to / Feels So Good",
+    "average_rating": 5.0,
+    "rating_number": 10,
+    "features": [],
+    "description": [
+        "cd"
+    ],
+    "price": "3.28",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41ztwXaV56L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41ztwXaV56L._SS40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Xscape   Format: Audio CD",
+    "categories": [
+        "CDs & Vinyl",
+        "R&B",
+        "Soul"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"5.5 x 4.8 x 0.4 inches; 3.2 Ounces\", \"Manufacturer\": \"Sony\", \"Date First Available\": \"January 25, 2007\", \"Label\": \"Sony\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000002D2V",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

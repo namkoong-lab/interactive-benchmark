@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "The Broken",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "After a failed suicide attempt, Mie Faulkner is committed in a mental hospital where she befriends several other patients. With support from her new friends and psychiatrist, Mie truly begins to explore her illnesses and finally finds the motivation to confront them."
+    ],
+    "description": [
+        "About the Author",
+        "I've lived in the Rio Grande Valley (deep South Texas, US) for the past 13 years of my life. The wildlife is beautiful, the food is amazing, and the culture is interesting. I graduated from the Science Academy of South Texas, and enjoyed almost every day of high school. Science has always fascinated me from a young age. In fact one of the first things I wanted to do when I was younger was to be a biological engineer of sorts and create new viruses, and biological/biochemical weapons and their cures. Up until November 2012 my goal was to be a nuclear engineer on Ohio Class submarines in the US Navy, but currently I'm planning on going to school to be a psychiatrist. My other passions aside from writing are anything nuclear, traditional art, photography, reading various types of literature, English and the whole medical field, though psychology/psychiatry and veterinary are my favourites."
+    ],
+    "price": "12.0",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41bDEk7whsL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Devin Johnston (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Genre Fiction"
+    ],
+    "details": "{\"Publisher\": \"CreateSpace Independent Publishing Platform; 1st edition (April 10, 2014)\", \"Language\": \"English\", \"Paperback\": \"194 pages\", \"ISBN 10\": \"1497476216\", \"ISBN 13\": \"978-1497476219\", \"Item Weight\": \"10.2 ounces\", \"Dimensions\": \"6 x 0.45 x 9 inches\"}",
+    "parent_asin": "1497476216",
+    "bought_together": null,
+    "subtitle": "Paperback – April 10, 2014",
+    "author": null
+}

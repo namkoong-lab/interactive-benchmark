@@ -1,0 +1,47 @@
+{
+    "main_category": "Books",
+    "title": "No Signposts in the Sea",
+    "average_rating": 4.5,
+    "rating_number": 16,
+    "features": [
+        "Edmund Carr is at sea in more ways than one. An eminent journalist and self-made man, he has recently discovered that he has only a short time to live. Leaving his job on a Fleet Street paper, he takes a passage on a cruise ship where he knows that Laura, a beautiful and intelligent widow whom he secretly admires, will be a fellow passenger. Exhilarated by the distant vista of exotic islands and his conversations with Laura, Edmund finds himself rethinking all his values. A voyage on many levels, those long purposeless days at sea find Edumnd relinquishing the past as he discovers the joys and the pain of a love he is simultaneously determined to conceal."
+    ],
+    "description": [
+        "Review",
+        "A moving and original book ... her fictional testament―",
+        "Victoria Glendinning",
+        "About the Author",
+        "Vita Sackville-West (1892-1962) was born and educated at Knole. She and her husband Harold Nicolson created the famous garden at Sissinghurst Castle in Kent."
+    ],
+    "price": "21.7",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/516S7K-TpeL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Vita Sackville-West (Author)",
+    "categories": [
+        "Books",
+        "Literature & Fiction",
+        "Literary"
+    ],
+    "details": "{\"Publisher\": \"Little, Brown Book Group (December 1, 1985)\", \"Language\": \"English\", \"Paperback\": \"156 pages\", \"ISBN 10\": \"0860685780\", \"ISBN 13\": \"978-0860685784\", \"Item Weight\": \"4.2 ounces\", \"Dimensions\": \"4.9 x 0.4 x 7.5 inches\"}",
+    "parent_asin": "0860685780",
+    "bought_together": null,
+    "subtitle": "Paperback – December 1, 1985",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'V. Sackville-West', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

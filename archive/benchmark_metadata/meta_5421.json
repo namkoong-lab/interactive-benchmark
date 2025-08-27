@@ -1,0 +1,50 @@
+{
+    "main_category": "Automotive",
+    "title": "Dodge Challenger 2008-2012 HOOD Gas Struts Mopar OEM",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+        "Genuine Mopar part that fits your specific vehicle",
+        "Strut",
+        "Part Number: 82212094.1",
+        "Manufactured to meet specifications for fit, form, and function"
+    ],
+    "description": [
+        "Genuine Mopar part that fits your specific vehicle."
+    ],
+    "price": "238.6",
+    "images": {
+        "hi_res": [
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41yj0hD1+FL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41HhcalZMbL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41yj0hD1+FL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41HhcalZMbL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Mopar",
+    "categories": [
+        "Automotive",
+        "Replacement Parts",
+        "Fuel System"
+    ],
+    "details": "{\"Manufacturer\": \"MOPAR\", \"Brand\": \"Mopar\", \"Item model number\": \"82212094.1\", \"Manufacturer Part Number\": \"82212094.1\", \"Date First Available\": \"November 17, 2011\"}",
+    "parent_asin": "B00697TS1A",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

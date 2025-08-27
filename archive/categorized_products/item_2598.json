@@ -1,0 +1,53 @@
+{
+  "item_id": 2598,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Ouray Sportswear Adult-Women Electrify 2.0 V-Neck Tee",
+    "average_rating": 4.3,
+    "rating_number": 6,
+    "features": [
+      "Relaxed Fit",
+      "High mechanical stretch fabric",
+      "Raglan sleeve provides greater range of motion",
+      "Fabric provides odor-resistant technology",
+      "Click \"Ouray Sportswear\" above to shop the entire Ouray store"
+    ],
+    "description": [
+      "The V-Neck version of the classic Electrify 2.0 Tee features the same snowy heather fabric. Providing a high mechanical stretch and an odor-resistant treatment for ultimate performance. The raglan sleeves provide greater range of motion and the bold two-color heather pattern is sure to stand out in a crowd."
+    ],
+    "price": "30.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/91LzAksjNTL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51SgFoimmOL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51SgFoimmOL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Ouray Sportswear",
+    "categories": [],
+    "details": "{\"Brand Name\": \"Ouray Sportswear\", \"Model Name\": \"W Electrify 2.0 V-neck Ss T\", \"Color\": \"Graphite Heather\", \"Material\": \"Rayon, Cotton\", \"Suggested Users\": \"Adult-Women\", \"Manufacturer\": \"Ouray Sportswear\", \"Part Number\": \"66394-240537-GRAH-Large-193065209249\", \"Style\": \"Women's Electrify 2.0 V-neck Tee\", \"Size\": \"Large\", \"Sport Type\": \"Exercise and Fitness\", \"Date First Available\": \"September 12, 2018\"}",
+    "parent_asin": "B0C4GXCRG9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops"
+    ],
+    "confidence": 0.95
+  }
+}

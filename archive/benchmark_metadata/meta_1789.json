@@ -1,0 +1,58 @@
+{
+    "main_category": "Amazon Home",
+    "title": "Hummel, Little Sister, 98/2/0",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [
+        "Name: Sister",
+        "Height: 4.5",
+        "Hummel Number: 98/2/0"
+    ],
+    "description": [
+        "Hummel 98/2/0, Sister (Girl with basket) was designed by Reinhold Unger and stands 4.75\" tall."
+    ],
+    "price": "41.4",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61lk0LzP+8L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61CEf4Vdw0L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61pyjcLWOdL._AC_SL1400_.jpg",
+            "https://m.media-amazon.com/images/I/61NJUNjjJTL._AC_SL1400_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31BwjI4FtFL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41de9N-HdJL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/417flUZNIgL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41mjnh6AJoL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31BwjI4FtFL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41de9N-HdJL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/417flUZNIgL._AC_US75_.jpg",
+            "https://m.media-amazon.com/images/I/41mjnh6AJoL._AC_US75_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Hummel",
+    "categories": [
+        "Home & Kitchen",
+        "Home Décor Products",
+        "Home Décor Accents",
+        "Collectible Figurines"
+    ],
+    "details": "{\"Brand\": \"Hummel\", \"Color\": \"Multicolor\", \"Material\": \"Ceramic\", \"Room Type\": \"Office, Living Room, Bedroom\", \"Number of Pieces\": \"1\", \"Item Weight\": \"15 ounces\", \"Assembly Required\": \"No\", \"Number of Items\": \"1\", \"Collection Name\": \"Cartoon\", \"Shape\": \"Novelty\", \"Unit Count\": \"1.0 Count\", \"Manufacturer\": \"Goebel\", \"Item Package Quantity\": \"1\", \"Product Dimensions\": \"3 x 2.5 x 4.25 inches\", \"Item model number\": \"98/2/0\", \"Best Sellers Rank\": {\"Home & Kitchen\": 4319429, \"Collectible Figurines\": 52048}, \"Is Discontinued By Manufacturer\": \"No\", \"Tick-repellent material\": \"Porcelain\", \"Batteries required\": \"No\"}",
+    "parent_asin": "B0018SC2DG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

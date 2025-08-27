@@ -1,0 +1,52 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Grateful Dead - Psycle Sam Juniors T-Shirt",
+    "average_rating": 3.0,
+    "rating_number": 1,
+    "features": [
+        "100% Cotton",
+        "Pull On closure",
+        "Machine Wash",
+        "Officially Licensed Merchandise",
+        "Brand New Quality Product",
+        "Music, Sports & Entertainment Item"
+    ],
+    "description": [
+        "The Grateful Dead's classic Uncle Sam character rides a wild silver-foil hog on the front of this pink, 100% cotton fitted juniors t-shirt, featuring a logo graphic from their song \"Goin' Down the Road Feeling Bad\" printed in white on the back. A uniquely badass tee perfect for any Dead Head with a serious need for speed!"
+    ],
+    "price": "18.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61utuxFHDlL._AC_UL1001_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41kg9bVxDGL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41kg9bVxDGL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Grateful Dead",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Novelty & More",
+        "Clothing",
+        "Novelty",
+        "Women",
+        "Tops & Tees",
+        "T-Shirts"
+    ],
+    "details": "{\"Department\": \"womens\", \"Date First Available\": \"November 27, 2010\"}",
+    "parent_asin": "B004E5DNX8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

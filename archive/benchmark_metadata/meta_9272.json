@@ -1,0 +1,53 @@
+{
+    "main_category": "Books",
+    "title": "Time and Time Again",
+    "average_rating": 4.2,
+    "rating_number": 7702,
+    "features": [
+        "If you had one chance to change history... Where would you go? What would you do? Who would you kill?",
+        "It's June 1, 1914 and Hugh Stanton, ex-soldier and celebrated adventurer is quite literally the loneliest man on earth. No one he has ever known or loved has been born yet. Perhaps now they never will be. Stanton knows that a great and terrible war is coming. A collective suicidal madness that will destroy European civilization and bring misery to millions in the century to come. He knows this because, for him, that century is already history. Somehow he must change that history. He must prevent the war. A war that will begin with a single bullet. But can a single bullet truly corrupt an entire century?      And, if so, could another single bullet save it?"
+    ],
+    "description": [
+        "About the Author",
+        "BEN ELTON is one of Britain's most provocative and entertaining writers. From celebrity to climate change, from the First World War to the end of the world, his books give his unique perspective on some of the most controversial topics of our time. He has written fourteen major bestsellers, including",
+        "Stark, Popcorn, Inconceivable, Dead Famous, High Society, The First Casualty",
+        "and",
+        "Two Brothers",
+        ". He has also written some of television's most popular and incisive comedy, including",
+        "The Young Ones",
+        "and",
+        "Blackadder",
+        ". He is married with three children and lives in Western Australia."
+    ],
+    "price": "31.6",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51b86-ZfunL._SX320_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ben Elton (Author)",
+    "categories": [
+        "Books",
+        "Mystery, Thriller & Suspense",
+        "Mystery"
+    ],
+    "details": "{\"Publisher\": \"Bantam Press (December 16, 2014)\", \"Language\": \"English\", \"Paperback\": \"528 pages\", \"ISBN 10\": \"0593073576\", \"ISBN 13\": \"978-0593073575\", \"Item Weight\": \"1.16 pounds\", \"Dimensions\": \"6.02 x 1.14 x 9.2 inches\"}",
+    "parent_asin": "0593073576",
+    "bought_together": null,
+    "subtitle": "Paperback – International Edition, December 16, 2014",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_.png', 'name': 'Ben Elton', 'about': ['Discover more of the author’s books, see similar authors, read author blogs and more']}"
+}

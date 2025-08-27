@@ -1,0 +1,72 @@
+{
+    "main_category": "Grocery",
+    "title": "BRASWELLS Red Raspberry Preserve, 13 OZ",
+    "average_rating": 4.4,
+    "rating_number": 16,
+    "features": [
+        "reusable glassware"
+    ],
+    "description": [
+        "Braswell's Red Raspberry Preserve - One 13oz jar in reusable, old fashioned glassware"
+    ],
+    "price": "18.88",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/817rNc0mDlL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81dH0ZlNTYL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71dmmOM9XVL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51Vh+6amFWL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81MzqFpvCmL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81bASKNy6rL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81TK381WBML._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/710Syb5b3UL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/516ClCdU56L.jpg",
+            "https://m.media-amazon.com/images/I/516ojjASegL.jpg",
+            "https://m.media-amazon.com/images/I/41w78+kDRVL.jpg",
+            "https://m.media-amazon.com/images/I/21MxnHItDVL.jpg",
+            "https://m.media-amazon.com/images/I/51lnctpTYeL.jpg",
+            "https://m.media-amazon.com/images/I/51kzzBn6VjL.jpg",
+            "https://m.media-amazon.com/images/I/41d7lHg0H8L.jpg",
+            "https://m.media-amazon.com/images/I/417P3l0M32L.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/516ClCdU56L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/516ojjASegL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41w78+kDRVL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/21MxnHItDVL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51lnctpTYeL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51kzzBn6VjL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41d7lHg0H8L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/417P3l0M32L._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05",
+            "PT06",
+            "PT07"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Braswells",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Jams, Jellies & Sweet Spreads",
+        "Jams, Jellies & Preserves"
+    ],
+    "details": "{\"Package Dimensions\": \"6.77 x 4.45 x 4.21 inches; 12.96 Ounces\", \"UPC\": \"041695049707\", \"Manufacturer\": \"Braswells\"}",
+    "parent_asin": "B079VS7SMY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

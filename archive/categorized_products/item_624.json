@@ -1,0 +1,52 @@
+{
+  "item_id": 624,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Ghost Riding",
+    "average_rating": 4.3,
+    "rating_number": 26,
+    "features": [],
+    "description": [
+      "2016 release, the sophomore album from the alt-rock group comprised of Jeff Ament (Pearl Jam), Joseph Arthur (Fistful of Mercy) and Richard Stuverud (The Fastbacks). Ghost Riding features 11 brilliant tracks that pull from all band members' influences."
+    ],
+    "price": "12.32",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/61TAWA119VL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/61TAWA119VL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "RNDM  (Artist)    Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Pop",
+      "Adult Alternative"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Language\": \"English\", \"Product Dimensions\": \"5.53 x 5.04 x 0.25 inches; 2.08 Ounces\", \"Manufacturer\": \"DINE ALONE MUSIC INC.\", \"Item model number\": \"0821826012981\", \"Original Release Date\": \"2017\", \"Date First Available\": \"January 6, 2016\", \"Label\": \"DINE ALONE MUSIC INC.\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B01A8XXIRA",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Rock Albums"
+    ],
+    "confidence": 0.95
+  }
+}

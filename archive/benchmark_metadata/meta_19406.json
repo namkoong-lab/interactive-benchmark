@@ -1,0 +1,47 @@
+{
+    "main_category": "Prime Video",
+    "title": "Whispers",
+    "average_rating": 2.9,
+    "rating_number": 65,
+    "features": [
+        "IMDb 4.1",
+        "1 h 29 min",
+        "2015",
+        "18+"
+    ],
+    "description": [
+        "A young couple grieving the recent death of their daughter move to the countryside where they are haunted by their tragedy and a sinister darkness."
+    ],
+    "price": "7.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Suspense",
+        "Drama",
+        "Atmospheric",
+        "Haunting"
+    ],
+    "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Tammi Sutton\"], \"Producers\": [\"Tammi Sutton\", \"John Ceallach\", \"Craig Rees\", \"Kate Ross\", \"Tim Worman\"], \"Starring\": [\"Keeley Hazell\", \"Craig Rees\"]}",
+    "parent_asin": "B0743W9WY6",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

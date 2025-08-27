@@ -1,0 +1,56 @@
+{
+  "item_id": 874,
+  "metadata": {
+    "main_category": "Health & Personal Care",
+    "title": "AZO Standard Max Strength 12 Tablets",
+    "average_rating": 4.7,
+    "rating_number": 905,
+    "features": [
+      "Country Of Origin: United States",
+      "Model Number: 10151348",
+      "Item Package Dimension: 2.3cm L x 8.4cm W x 10.9cm H",
+      "Item Package Weight: 1.6 oz"
+    ],
+    "description": [
+      "AZO Standard Max Strength 12 Tablets"
+    ],
+    "price": "6.29",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/71bIQBjd0aL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51bmi60HVhL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51bmi60HVhL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "AZO",
+    "categories": [
+      "Health & Household",
+      "Vitamins, Minerals & Supplements",
+      "Blended Vitamin & Mineral Supplements"
+    ],
+    "details": "{\"Brand\": \"AZO\", \"Product Benefits\": \"Pain Relief\", \"Number of Items\": \"12\", \"Item Form\": \"Tablets\", \"Age Range (Description)\": \"Adult\", \"Package Dimensions\": \"4.41 x 3.39 x 0.91 inches; 0.32 Ounces\", \"Item model number\": \"10151348\", \"Date First Available\": \"May 12, 2010\", \"Manufacturer\": \"AZO\", \"Country of Origin\": \"USA\"}",
+    "parent_asin": "B003LZTRRS",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Health & Personal Care",
+      "Pain Relief Oils"
+    ],
+    "confidence": 0.9
+  }
+}

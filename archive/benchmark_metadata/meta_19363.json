@@ -1,0 +1,46 @@
+{
+    "main_category": "Prime Video",
+    "title": "The Last Deal",
+    "average_rating": 3.9,
+    "rating_number": 133,
+    "features": [
+        "IMDb 6.5",
+        "1 h 30 min",
+        "2023",
+        "18+"
+    ],
+    "description": [
+        "When marijuana becomes legal in California, Vince, an unlicensed dispensary owner and Cannabis dealer is forced to make one final score before getting squeezed out of the business."
+    ],
+    "price": "9.99",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            null
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": null,
+    "categories": [
+        "Suspense",
+        "Action",
+        "Drama"
+    ],
+    "details": "{\"Audio languages\": [\"English\", \"Espa\\u00f1ol\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Jonathan Salemi\"], \"Producers\": [\"Jonathan Salemi\", \"Carl Ciarfalio\", \"Aaron David Roberts\"], \"Starring\": [\"Anthony Molinari\", \"Sala Baker\", \"Gigi Gustin\"]}",
+    "parent_asin": "B0B8V4LZNL",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

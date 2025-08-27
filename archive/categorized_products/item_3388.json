@@ -1,0 +1,79 @@
+{
+  "item_id": 3388,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "ALTRA Men's Vali Sneaker",
+    "average_rating": 3.6,
+    "rating_number": 12,
+    "features": [
+      "100% Leather and synthetic",
+      "Imported",
+      "Uses: Everyday wear, Work place shoes",
+      "Premium EVA midsole",
+      "Engineered knit upper",
+      "Foot Shape Everyday Comfort"
+    ],
+    "description": [
+      "A sleek, knit upper and soft, cushioned midsole make this show a perfect for everyday wear. The engineered knit mesh of the upper is breathable and stylish, while the midsole is made with a premium eva cushioning for a soft, cushy ride. Whether you are looking for a shoe to wear to work or wear out, the Valri is ready to dominate any situation you choose."
+    ],
+    "price": "73.97",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81cxYJ7--3L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81zJNDySPHL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81cPhNq8gyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81tdsgo2smL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81cPhNq8gyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71fgsEBCnoL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/418r0LqfdnL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41Iav1iiXvL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41ti+Mcot5L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41JRZZgzbxL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41ti+Mcot5L._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31+grZLkIuL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/418r0LqfdnL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Iav1iiXvL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41ti+Mcot5L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41JRZZgzbxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41ti+Mcot5L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31+grZLkIuL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "ALTRA",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Shoes",
+      "Fashion Sneakers"
+    ],
+    "details": "{\"Item Package Dimensions L x W x H\": \"12.4 x 8.5 x 4.69 inches\", \"Package Weight\": \"1.04 Kilograms\", \"Item Weight\": \"11 Ounces\", \"Brand Name\": \"ALTRA\", \"Country of Origin\": \"China\", \"Model Name\": \"Vali\", \"Color\": \"Red\", \"Material\": \"Knit-Synthetic\", \"Suggested Users\": \"mens\", \"Manufacturer\": \"Altra\", \"Part Number\": \"AFM1884A-6-090-6-9 Regular US\", \"Style\": \"Vali\", \"Size\": \"9\", \"Sport Type\": \"Walking\", \"Best Sellers Rank\": {\"Clothing, Shoes & Jewelry\": 1441512, \"Men's Fashion Sneakers\": 7375}, \"Date First Available\": \"June 30, 2017\"}",
+    "parent_asin": "B07FFXW2MY",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Men's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

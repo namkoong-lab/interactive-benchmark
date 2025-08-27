@@ -1,0 +1,54 @@
+{
+    "main_category": "Computers",
+    "title": "BIPRA SATA III (SATA 3) Cable Red with Locking Latch Straight to Right Angle 90 Degree | Compatible up to S-ATA/600 | Serial ATA (40cm) (1 Pack Sata 3 Data Cable)",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [
+        "40cm Length Top Quality Sata 3 Cable.",
+        "SATA revision 3.0 ( SATA III) provides up to 6 Gbps data throughput",
+        "Straight-through connector on one end, 90-degree connector on the other",
+        "Includes locking latch on each end of the cable to ensure it doesn't work itself loose",
+        "Backwards compatible with SATA revision 1 and 2 ( SATA I and SATA II)"
+    ],
+    "description": [
+        "40cm SATA 3.0 cable, RIGHT ANGLE 90 degree to straight w/ metal latch,red color SUPER FAST 6GB/S. Backwards compatible with SATA revision 1 and 2 (SATA I and SATA II). Each major revision of the Serial ATA interface specification has doubled the maximum data transfer rate. The latest SATA Revision 3.0 allows for data transfer speeds of up to 6 Gbps. While the cables for all three revisions appear to be similar and will physically fit into the connectors on all SATA drives and controllers, the higher data transfer rate of SATA 6 Gbps requires higher quality materials and closer tolerances than the previous two revisions required. Storite SATA 6 Gbps cables are certified to provide maximum speeds from your SATA system, up to 6 Gbps when used with equivalent devices and controllers. One end of this internal cable features a straight connector, while the other end uses a 90-degree connector, which can make for better cable management in some situations, especially in tight spaces. Each end has an attached locking latch, to ensure that your connections do not come loose due to movement or vibration. Note that SATA 6 Gbps cables are backwards compatible and can be used with SATA 3 Gbps and SATA 1.5 Gbps devices. However, the data transfer of the SATA subsystem will be limited to that of the slowest device. So, for example, if a SATA 6 Gbps cable is connected to a SATA 3 Gbps drive and a SATA 1.5 Gbps controller, the drive will be limited to a transfer rate of 1.5 Gbps."
+    ],
+    "price": "3.5",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/51EK3AVfsOL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/51c5Y4iUaLL._AC_SL1000_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41ply09oAmL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/4101KVSbORL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41ply09oAmL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/4101KVSbORL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "BIPRA",
+    "categories": [
+        "Electronics",
+        "Computers & Accessories",
+        "Computer Accessories & Peripherals",
+        "Cables & Accessories",
+        "Cables & Interconnects",
+        "SATA Cables"
+    ],
+    "details": "{\"Package Dimensions\": \"7.9 x 6.8 x 0.4 inches\", \"Item Weight\": \"0.352 ounces\", \"Manufacturer\": \"Bipra Limited\", \"Item model number\": \"8541686273\", \"Is Discontinued By Manufacturer\": \"No\", \"Date First Available\": \"January 30, 2016\", \"Brand\": \"BIPRA\", \"Color\": \"red\", \"Connector Gender\": \"Male-to-Male\", \"Data Transfer Rate\": \"1.5 Gigabits Per Second, 6 Gigabits Per Second, 3 Gigabits Per Second\", \"Unit Count\": \"1 Count\"}",
+    "parent_asin": "B01B9HQFAG",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

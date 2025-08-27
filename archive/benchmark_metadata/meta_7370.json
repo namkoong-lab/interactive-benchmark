@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Inside The Earth (Magic School Bus)",
+    "average_rating": 4.9,
+    "rating_number": 446,
+    "features": [
+        "Ms. Frizzle and her pupils embark on a rock-collecting field trip aboard the magic school bus that takes them to the very center of the earth as they search for sedimentary, metamorphic, and igneous rocks"
+    ],
+    "description": [
+        "About the Author",
+        "Joanna Cole and Bruce Degen, the author and illustrator of the Magic School Bus books, have collaborated for twenty years, bringing humor and true kidlike curiosity to science and learning. Booklist heralded Ms. Frizzle as \"the wackiest, wisest teacher in picture books.\" Two MSB titles have been named School Library Journal Best Books of the Year, and they have won countless state book awards, from New York to Nebraska."
+    ],
+    "price": "11.96",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/61Cqa746ziL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Joanna Cole (Author),  Bruce Degen (Illustrator)",
+    "categories": [
+        "Books",
+        "Children's Books",
+        "Science, Nature & How It Works"
+    ],
+    "details": "{\"Publisher\": \"Scholastic Inc.; Big edition (September 1, 1993)\", \"Language\": \"English\", \"Paperback\": \"40 pages\", \"ISBN 10\": \"0590727826\", \"ISBN 13\": \"978-0590727822\", \"Reading age\": \"4 - 8 years\", \"Grade level\": \"Preschool - 3\", \"Item Weight\": \"1.15 pounds\", \"Dimensions\": \"15.25 x 0.25 x 18.25 inches\"}",
+    "parent_asin": "0590727826",
+    "bought_together": null,
+    "subtitle": "Paperback – September 1, 1993",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/21g5i6i7YML._SY600_.jpg', 'name': 'Joanna Cole', 'about': ['Joanna Cole s a former elementary school teacher and librarian and a frequent contributor to Parents magazine. Joanna Cole lives in Connecticut.']}"
+}

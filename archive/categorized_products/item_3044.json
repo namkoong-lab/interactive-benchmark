@@ -1,0 +1,50 @@
+{
+  "item_id": 3044,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "New York Jets NFL Juniors Sleeveless Racerback Tank Top - Grey",
+    "average_rating": 5.0,
+    "rating_number": 4,
+    "features": [
+      "Pull On closure",
+      "Machine Wash"
+    ],
+    "description": [
+      "Support the team in style in this New York Jets racerback tank top. Officially licensed by the NFL. Juniors sizes."
+    ],
+    "price": "15.0",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81TjR1LdboL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41LGq+r1HIL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41LGq+r1HIL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Outerstuff",
+    "categories": [],
+    "details": "{\"Date First Available\": \"August 20, 2018\", \"Manufacturer\": \"OuterStuff\"}",
+    "parent_asin": "B09S5Q7DX8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops"
+    ],
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,50 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Nine West Women's Marilee Tote",
+    "average_rating": 4.5,
+    "rating_number": 42,
+    "features": [
+        "Polyester",
+        "Made in the USA or Imported",
+        "Bold and beautiful, the Nine West Marilee Tote is here to redefine your everyday look.",
+        "PVC construction and trim.",
+        "Lettered branding on the front.",
+        "Double handles.",
+        "Zippered closure."
+    ],
+    "description": [
+        "Bold and beautiful, the Nine West Marilee Tote is here to redefine your everyday look. PVC construction and trim. Lettered branding on the front. Double handles. Zippered closure. Interior zippered pocket. Two slip-in pockets. Polyester lining."
+    ],
+    "price": "107.0",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/71fL708WJkL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/31Zw8r6YIUL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/31Zw8r6YIUL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "NINE WEST",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Handbags & Wallets",
+        "Totes"
+    ],
+    "details": "{\"Package Dimensions\": \"16.26 x 12.24 x 5.59 inches; 2.03 Pounds\", \"Department\": \"Womens\", \"Date First Available\": \"December 14, 2021\"}",
+    "parent_asin": "B09YMV4JGP",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,47 @@
+{
+    "main_category": "Grocery",
+    "title": "24 pcs of Spaghetti Sauce Mix, Packet of dry seasoning, Full Case 24 packets, Wholesale Lot",
+    "average_rating": 4.1,
+    "rating_number": 7,
+    "features": [
+        "FLAVORFUL - Add spaghetti sauce mix to your home cooked spaghetti for a more flavorful taste.",
+        "PREP - Easy to prepare a delicious dinner with a simple mix spaghetti sauce seasoning.",
+        "ENJOY - includes sauce supreme spices",
+        "EASY - The prefect serving size of 1.375 oz"
+    ],
+    "description": [
+        "Flavorful Spaghetti Sauce Seasoning"
+    ],
+    "price": "42.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61u3mx+hTvL._SL1280_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41VTpWuRgWL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41VTpWuRgWL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Gel Spice",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Sauces, Gravies & Marinades",
+        "Seasoning Mixes"
+    ],
+    "details": "{\"Flavor\": \"Spaghetti\", \"Brand\": \"Gel Spice\", \"Package Information\": \"Packet\", \"Unit Count\": \"24.00 Count\", \"Manufacturer\": \"Gel Spice\"}",
+    "parent_asin": "B086Z39HN1",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

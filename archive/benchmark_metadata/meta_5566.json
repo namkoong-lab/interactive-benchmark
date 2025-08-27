@@ -1,0 +1,46 @@
+{
+    "main_category": "Automotive",
+    "title": "Ford Pedal ASY - Bra",
+    "average_rating": 4.5,
+    "rating_number": 44,
+    "features": [
+        "Geniune OEM part"
+    ],
+    "description": [
+        "Ford Pedal ASY - Bra"
+    ],
+    "price": "156.96",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/511Z2beQ+GL._AC_SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/61e25Y18LZL._AC_SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41H2+ItqlTL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/41kIYAVCMIL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41H2+ItqlTL._AC_US40_.jpg",
+            "https://m.media-amazon.com/images/I/41kIYAVCMIL._AC_US40_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ford",
+    "categories": [
+        "Automotive",
+        "Replacement Parts"
+    ],
+    "details": "{\"Manufacturer\": \"Ford\", \"Brand\": \"Ford\", \"Model\": \"PEDAL ASY - BRA\", \"Item Weight\": \"3 pounds\", \"Package Dimensions\": \"15.8 x 9 x 7.6 inches\", \"Item model number\": \"6L5Z-2455-BB\", \"Is Discontinued By Manufacturer\": \"No\", \"Exterior\": \"Painted\", \"Manufacturer Part Number\": \"6L5Z-2455-BB\", \"Best Sellers Rank\": {\"Automotive\": 1602097, \"Automotive Replacement Parts\": 827488}, \"Date First Available\": \"December 15, 2009\"}",
+    "parent_asin": "B000NTG1D8",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

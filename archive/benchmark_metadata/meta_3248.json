@@ -1,0 +1,53 @@
+{
+    "main_category": "Grocery",
+    "title": "Armour Lunch Makers Chicken Cracker Crunchers, 2.6 oz",
+    "average_rating": 4.5,
+    "rating_number": 673,
+    "features": [
+        "Convenient packaging",
+        "Country of origin is United States",
+        "Package Weight: 0.17 pounds"
+    ],
+    "description": [
+        "Great quick snack or kids lunch"
+    ],
+    "price": "1.19",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91y1PgDhuzL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/513+VnQ5NnL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/513+VnQ5NnL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Lunchables Built To Be Eaten Video"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0cd48fd4d151483cb0a000617d3f8d91?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Armour",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Snacks & Sweets",
+        "Snack Foods",
+        "Crackers",
+        "Wheat"
+    ],
+    "details": "{\"Product Dimensions\": \"1.1 x 5 x 5.9 inches; 2.56 Ounces\", \"UPC\": \"046600033833\", \"Manufacturer\": \"Smithfield Foods\", \"Country of Origin\": \"USA\"}",
+    "parent_asin": "B01JJGCJEU",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,51 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Champion NCAA Men's Field Day Muscle Tee",
+    "average_rating": 4.7,
+    "rating_number": 208,
+    "features": [
+        "80% Polyester, 20% Cotton",
+        "Imported",
+        "Pull On closure",
+        "Machine Wash",
+        "80% polyester, 20% cotton",
+        "Set in collar",
+        "Standard finishing at sleeve and bottom opening",
+        "Officially Licensed"
+    ],
+    "description": [
+        "Team up with Champion athletic wear to support your team! Champion products are famous for winning comfort and performance.  Champion has been outfitting athletes and fans since 1919."
+    ],
+    "price": "17.6",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/712mtRQbAVL._AC_UL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41HTl9eJ1uL._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41HTl9eJ1uL._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Champion",
+    "categories": [
+        "Sports & Outdoors",
+        "Fan Shop",
+        "Clothing",
+        "T-Shirts"
+    ],
+    "details": "{\"Item model number\": \"CT1064\", \"Department\": \"mens\", \"Date First Available\": \"October 1, 2019\", \"Manufacturer\": \"Gear for Sports, Inc.\"}",
+    "parent_asin": "B07YMBLYND",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

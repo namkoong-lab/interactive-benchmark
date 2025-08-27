@@ -1,0 +1,56 @@
+{
+    "main_category": "Grocery",
+    "title": "Andy's Breading Chicken Hot, 10 oz",
+    "average_rating": 4.4,
+    "rating_number": 183,
+    "features": [
+        "Low Calorie, Low Cholesterol, Low Fat",
+        "Package Weight: 0.294 kilograms"
+    ],
+    "description": [
+        "Andy's Hot 'N' Spicy Chicken Breading were created for those brave souls that like a fiery kick to their food. This alternative to our Mild Chicken Breading still has our traditional 'Old South' recipe at its core, but we've added an additional mix of spices that give this breading a Big and Bold flavor that makes your taste buds stand at attention. Andy's Hot 'N' Spicy Chicken Breading will give your chicken a spicy, peppery kick you won't find anywhere else."
+    ],
+    "price": "4.97",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/81PxaAbpkzL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81Ky74IgM5L._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51h1mKUZuHL.jpg",
+            "https://m.media-amazon.com/images/I/51sRGbkKjJL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51h1mKUZuHL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51sRGbkKjJL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "PT01"
+        ]
+    },
+    "videos": {
+        "title": [
+            "How to Use Lefty's Breader?"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/0f5294bf453a4d118200b171d20b7887?ref=dp_vse_rvc_0"
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Andy's",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Cooking & Baking",
+        "Breadcrumbs & Seasoned Coatings",
+        "Seasoned Coatings"
+    ],
+    "details": "{\"Product Dimensions\": \"1.67 x 0.75 x 1.17 inches; 10 Ounces\", \"Item model number\": \"35204600992\", \"UPC\": \"035204600992\", \"Manufacturer\": \"Andys\"}",
+    "parent_asin": "B009XPL12Y",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

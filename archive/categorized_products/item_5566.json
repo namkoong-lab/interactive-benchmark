@@ -1,0 +1,58 @@
+{
+  "item_id": 5566,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Zenana STAR PATTERN SWEATSHIRT & SWEATPANTS SET HGrey XL",
+    "average_rating": 5.0,
+    "rating_number": 1,
+    "features": [
+      "Pull On closure",
+      "Hand Wash Only"
+    ],
+    "description": [
+      "Allover Star Pattern Sweatshirt & Sweatpant set - 2 PCS"
+    ],
+    "price": "59.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61rbmzHAKUL._AC_UL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/31gF99l4zOL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/31gF99l4zOL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Zenana",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Women",
+      "Clothing",
+      "Active",
+      "Sets",
+      "Active Sweatsuits"
+    ],
+    "details": "{\"Item model number\": \"OTOP35027-HGrey-XL\", \"Department\": \"Womens\", \"Date First Available\": \"December 4, 2020\", \"Manufacturer\": \"Zenana\"}",
+    "parent_asin": "B08PQ18SN7",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Women's Tops",
+      "Women's Two-Piece Sets"
+    ],
+    "confidence": 0.95
+  }
+}

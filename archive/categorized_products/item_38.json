@@ -1,0 +1,58 @@
+{
+  "item_id": 38,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "SWAROVSKI Crystalline Treasure Box",
+    "average_rating": 2.3,
+    "rating_number": 2,
+    "features": [
+      "Designer: Simone Rossmann",
+      "6000 crystals",
+      "Size: 2 3/4 x 2 3/4 x 2 3/4 inches"
+    ],
+    "description": [
+      "Store special mementos in this sparkling treasure box. Expertly crafted in polished silver-tone metal, with a fully-faceted crystal lid and over 6,000 crystals, it shimmers spectacularly. Makes an elegant gift for someone special or would be a statement piece for your own home."
+    ],
+    "price": "354.9",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/81QVnyvZ0IL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81cUwfRMWNL._AC_SL1500_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51fKZBWPaJL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41b3KHKwwML._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51fKZBWPaJL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/41b3KHKwwML._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "SWAROVSKI",
+    "categories": [
+      "Home & Kitchen",
+      "Storage & Organization"
+    ],
+    "details": "{\"Product Dimensions\": \"2.75 x 2.75 x 2.75 inches\", \"Item Weight\": \"1.98 pounds\", \"Manufacturer\": \"Swarovski\", \"Item model number\": \"5136899\", \"Is Discontinued By Manufacturer\": \"No\", \"Assembly required\": \"No\", \"Number of pieces\": \"1\", \"Batteries required\": \"No\", \"Included Components\": \"Swarovski Crystalline Treasure Box\"}",
+    "parent_asin": "B01A5TTDVM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Home Decor"
+    ],
+    "confidence": 0.9
+  }
+}

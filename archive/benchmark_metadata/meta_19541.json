@@ -1,0 +1,45 @@
+{
+    "main_category": "Movies & TV",
+    "title": "Anyone Can Play Classic Guitar",
+    "average_rating": 3.7,
+    "rating_number": 3,
+    "features": [],
+    "description": [
+        "In this DVD, you will learn from one of America's foremost classic guitar teachers. Ben Bolt demonstrates his principles for judging distance, point of reference, right- and left-hand positions, and the correct sitting posture. An easy-to-understand and technically correct introduction to classic guitar performance."
+    ],
+    "price": "17.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/91GSIwaTGZL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/914ftsSqpTL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51c855FrHgL.jpg",
+            "https://m.media-amazon.com/images/I/61zzYiX1ZrL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51c855FrHgL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/61zzYiX1ZrL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN",
+            "BACK"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ben Bolt  (Actor, Director)    Rated:    G    Format: DVD",
+    "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Special Interests"
+    ],
+    "details": "{\"Genre\": \"Special Interests, Music Video & Concerts\", \"Format\": \"Multiple Formats, Color, NTSC\", \"Contributor\": \"Ben Bolt\", \"Language\": \"English\", \"Number Of Discs\": \"1\", \"Aspect Ratio\": \"1.33:1\", \"MPAA rating\": \"G (General Audience)\", \"Product Dimensions\": \"0.49 x 5.94 x 7.56 inches; 2.88 Ounces\", \"Director\": \"Ben Bolt\", \"Media Format\": \"Multiple Formats, Color, NTSC\", \"Run time\": \"45 minutes\", \"Release date\": \"February 8, 2011\", \"Actors\": \"Ben Bolt\", \"Studio\": \"Mel Bay Records\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000OPODO0",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

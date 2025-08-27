@@ -1,0 +1,56 @@
+{
+  "item_id": 627,
+  "metadata": {
+    "main_category": "Digital Music",
+    "title": "Learn to Smile Again",
+    "average_rating": 4.7,
+    "rating_number": 21,
+    "features": [],
+    "description": [
+      "The Susie Arioli Band returns for their fourth studio endeavor, LEARN TO SMILE AGAIN. Featuring the guitar work of Jordan Officer, this album is a shining example roots Americana style music. The album focuses mainly on covering Roger Miller compositions, the lesser known ones, and gives listeners something new and refreshing to listen to. a must for fans of K.D. Lang, Emmylou Harris, Nanci Griffith and Cowboy Junkies."
+    ],
+    "price": "2.99",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61QnBDyqUxL._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/71p-Sx8u6YL._SL1200_.jpg"
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/51h+nvMfMiL.jpg",
+        "https://m.media-amazon.com/images/I/51f9OWweOjL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/51h+nvMfMiL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/51f9OWweOjL._SS40_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "BACK"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Susie Arioli   Format: Audio CD",
+    "categories": [
+      "CDs & Vinyl",
+      "Broadway & Vocalists",
+      "Traditional Vocal Pop"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Language\": \"English\", \"Product Dimensions\": \"5.6 x 0.4 x 4.9 inches; 2.88 Ounces\", \"Manufacturer\": \"Justin Time Records\", \"Original Release Date\": \"2005\", \"SPARS Code\": \"DDD\", \"Date First Available\": \"January 31, 2007\", \"Label\": \"Justin Time Records\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B000B8QFDM",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Digital Music",
+      "Compact Discs",
+      "Albums"
+    ],
+    "confidence": 0.95
+  }
+}

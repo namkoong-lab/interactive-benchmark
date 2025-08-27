@@ -1,0 +1,60 @@
+{
+  "item_id": 4050,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "Gulf Distressed Vintage Adjustable Snapback Hat",
+    "average_rating": 4.6,
+    "rating_number": 1014,
+    "features": [
+      "Cotton,Mesh",
+      "Snap closure"
+    ],
+    "description": [
+      "Gulf Distressed Vintage Adjustable Snapback Hat. Each hat is slightly different, hand distressed for a true well-worn vintage look. Officially Licensed by Gulf Oil."
+    ],
+    "price": "27.47",
+    "images": {
+      "hi_res": [
+        "https://m.media-amazon.com/images/I/61ENV9P44lL._AC_UL1000_.jpg",
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41ocoCDD6lL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/51Lm6snzrGL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41ocoCDD6lL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51Lm6snzrGL._AC_SR38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Gulf",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Men",
+      "Accessories",
+      "Hats & Caps",
+      "Baseball Caps"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Department\": \"mens\", \"Date First Available\": \"January 25, 2019\"}",
+    "parent_asin": "B07N4B3HM9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Hats & Beanies"
+    ],
+    "confidence": 0.95
+  }
+}

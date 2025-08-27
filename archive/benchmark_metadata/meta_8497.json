@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "Getting Started with littleBits: Prototyping and Inventing with Modular Electronics",
+    "average_rating": 4.4,
+    "rating_number": 68,
+    "features": [
+        "littleBits are electronic building blocks with over 60 modules and trillions of combinations. With littleBits, anyone can harness the power of electronics, microcontrollers, and the cloud--regardless of age, gender, technical ability, or educational background. You can combine these simple, snap-together, magnetic bricks to make simple electronic circuits, or build robots and devices that combine sensors, microcontrollers, and cloud connectivity. This book, co-authored by littleBits founder Ayah Bdeir, along with top-selling author Matt Richardson (Getting Started with Raspberry Pi), teaches you just enough electronics to start making things with littleBits and takes you on up through connecting littleBits to the cloud and programming with its Arduino-compatible module."
+    ],
+    "description": [
+        "About the Author",
+        "Ayah Bdeir is the founder and CEO of littleBits, an award-winning library of electronics dubbed \"LEGOs for the iPad generation.\" Bdeir is an engineer, interactive artist and one of the leaders of the open source hardware movement. Bdeir's career and education have centered on advancing open source hardware to make education and innovation more accessible to people around the world. She is a co-founder of the Open Hardware Summit, a TED Senior Fellow and an alumna of the MIT Media Lab. Bdeir was named one of Inc. Magazine's 35 Under 35, one of Fast Company's 100 Most Creative People in Business and one of Popular Mechanics 25 Makers Who Are Reinventing the American Dream. littleBits was named as one of CNN's top 10 Emerging Startups to watch. Originally from Lebanon and Canada, Ayah lives in New York City.Matt Richardson is a San Francisco-based creative technologist and contributing editor to Make: Magazine. He's the owner of Awesome Button Studios, a consultancy focused on blending creativity and technology. After graduating with a Master's from New York University's Interactive Telecommunications Program (ITP) in 2013, he continued his work there as a resident research fellow. Matt is the co-author of Getting Started with Raspberry Pi and the author of Getting Started with BeagleBone and Getting Started with Intel Galileo."
+    ],
+    "price": "10.86",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51lmxqH1bJL._SX322_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Ayah Bdeir (Author),  Matt Richardson (Author)",
+    "categories": [
+        "Books",
+        "Engineering & Transportation",
+        "Engineering"
+    ],
+    "details": "{\"Publisher\": \"Make Community, LLC; 1st edition (May 26, 2015)\", \"Language\": \"English\", \"Paperback\": \"194 pages\", \"ISBN 10\": \"1457186705\", \"ISBN 13\": \"978-1457186707\", \"Reading age\": \"11 - 17 years\", \"Item Weight\": \"9 ounces\", \"Dimensions\": \"5.5 x 0.41 x 8.5 inches\"}",
+    "parent_asin": "1457186705",
+    "bought_together": null,
+    "subtitle": "Paperback – May 26, 2015",
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/71RswGt3wuL._SY600_.jpg', 'name': 'Matt Richardson', 'about': ['Matt Richardson is a Brooklyn-based creative technologist, Contributing Editor at MAKE magazine, and Resident Research Fellow at New York University’s Interactive Telecommunications Program (ITP). He’s the owner of Awesome Button Studios, a technology consultancy.']}"
+}

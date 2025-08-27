@@ -1,0 +1,50 @@
+{
+    "main_category": "AMAZON FASHION",
+    "title": "Warrior 12 Ronin",
+    "average_rating": 4.7,
+    "rating_number": 150,
+    "features": [
+        "Jersey,Combed Cotton",
+        "Pull On closure",
+        "Machine Wash",
+        "Warrior 12 Premium Patriotic Apparel - Ronin - Samurai Shirt",
+        "S - 3XL - 4.3 Ounce 100% Ring-Spun Combed Cotton",
+        "4XL / 5XL - 6.1 Ounce 100% Pre-Shrunk Jersey Cotton"
+    ],
+    "description": [
+        "Our Ronin shirt pays tribute to the lord-less samurai. It features Japanese lettering for \"Ronin\" on the front and \"Samurai\" on the left sleeve. In feudal Japan, the Samurai were supposed to commit ritual suicide after the loss of their lord. Those who did not kill themselves wandered as outcasts, often becoming soldiers for hire. Dedicated to the warriors with no masters. Shirt is light grey in color. 5XL is a heather gray."
+    ],
+    "price": "30.99",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/61Jim7t33qL._AC_UL1200_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41iUyG-CU3L._AC_.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/41iUyG-CU3L._AC_SR38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Warrior 12",
+    "categories": [
+        "Clothing, Shoes & Jewelry",
+        "Men",
+        "Clothing",
+        "Shirts",
+        "T-Shirts"
+    ],
+    "details": "{\"Department\": \"Mens\", \"Date First Available\": \"March 3, 2019\"}",
+    "parent_asin": "B07P7B73ZD",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

@@ -1,0 +1,99 @@
+{
+    "main_category": "Books",
+    "title": "Microservice Patterns and Best Practices: Explore patterns like CQRS and event sourcing to create scalable, maintainable, and testable microservices",
+    "average_rating": 3.8,
+    "rating_number": 37,
+    "features": [
+        "Explore the concepts and tools you need to discover the world of microservices with various design patterns",
+        "Key Features",
+        "Get to grips with the microservice architecture and build enterprise-ready microservice applications",
+        "Get to grips with the microservice architecture and build enterprise-ready microservice applications",
+        "Learn design patterns and the best practices while building a microservice application",
+        "Learn design patterns and the best practices while building a microservice application",
+        "Obtain hands-on techniques and tools to create high-performing microservices resilient to possible fails",
+        "Obtain hands-on techniques and tools to create high-performing microservices resilient to possible fails",
+        "Book Description",
+        "Microservices are a hot trend in the development world right now. Many enterprises have adopted this approach to achieve agility and the continuous delivery of applications to gain a competitive advantage. This book will take you through different design patterns at different stages of the microservice application development along with their best practices.",
+        "Microservice Patterns and Best Practices starts with the learning of microservices key concepts and showing how to make the right choices while designing microservices. You will then move onto internal microservices application patterns, such as caching strategy, asynchronism, CQRS and event sourcing, circuit breaker, and bulkheads. As you progress, you'll learn the design patterns of microservices.",
+        "The book will guide you on where to use the perfect design pattern at the application development stage and how to break monolithic application into microservices. You will also be taken through the best practices and patterns involved while testing, securing, and deploying your microservice application. At the end of the book, you will easily be able to create interoperable microservices, which are testable and prepared for optimum performance.",
+        "What you will learn",
+        "How to break monolithic application into microservices",
+        "How to break monolithic application into microservices",
+        "Implement caching strategies, CQRS and event sourcing, and circuit breaker patterns",
+        "Implement caching strategies, CQRS and event sourcing, and circuit breaker patterns",
+        "Incorporate different microservice design patterns, such as shared data, aggregator, proxy, and chained",
+        "Incorporate different microservice design patterns, such as shared data, aggregator, proxy, and chained",
+        "Utilize consolidate testing patterns such as integration, signature, and monkey tests",
+        "Utilize consolidate testing patterns such as integration, signature, and monkey tests",
+        "Secure microservices with JWT, API gateway, and single sign on",
+        "Secure microservices with JWT, API gateway, and single sign on",
+        "Deploy microservices with continuous integration or delivery, Blue-Green deployment",
+        "Deploy microservices with continuous integration or delivery, Blue-Green deployment",
+        "Who This Book Is For",
+        "This book is for architects and senior developers who would like implement microservice design patterns in their enterprise application development. The book assumes some prior programming knowledge.",
+        "Table of Contents",
+        "Understanding the Microservice Concepts",
+        "Understanding the Microservice Concepts",
+        "The Microservice Tools",
+        "The Microservice Tools",
+        "Internal Patterns",
+        "Internal Patterns",
+        "Microservice Ecosystem",
+        "Microservice Ecosystem",
+        "Shared Data Microservice Design Pattern",
+        "Shared Data Microservice Design Pattern",
+        "Aggregator Microservice Design Pattern",
+        "Aggregator Microservice Design Pattern",
+        "Proxy Microservice Design Pattern",
+        "Proxy Microservice Design Pattern",
+        "Chained Microservice Design Pattern",
+        "Chained Microservice Design Pattern",
+        "Branch Microservice Design Pattern",
+        "Branch Microservice Design Pattern",
+        "Asynchronous Messaging Microservice Design Pattern",
+        "Asynchronous Messaging Microservice Design Pattern",
+        "Microservices Working Together",
+        "Microservices Working Together",
+        "Testing Microservices",
+        "Testing Microservices",
+        "Monitoring Security, and Deployment",
+        "Monitoring Security, and Deployment"
+    ],
+    "description": [
+        "About the Author",
+        "Vinicius Feitosa Pacheco",
+        "has been working as a software engineer since 2007. He has diverse experience with high-performance and high-availability software architectures, with an emphasis on microservices, and is passionate about teaching and talking about them.",
+        "In the last 4 years, he has worked as an instructor in the field of software engineering techniques (including design patterns) and programming languages, such as Python, Java, and Go. He has been a speaker at large conferences such as PyCon Argentina, Pycon Colombia, EuroPython, RubyConf Brazil, the MobileConf, and QConSP."
+    ],
+    "price": "43.1",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/41wmoPUod-L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Vinicius Feitosa Pacheco (Author)",
+    "categories": [
+        "Books",
+        "Computers & Technology",
+        "Computer Science"
+    ],
+    "details": "{\"Publisher\": \"Packt Publishing (January 31, 2018)\", \"Language\": \"English\", \"Paperback\": \"366 pages\", \"ISBN 10\": \"1788474031\", \"ISBN 13\": \"978-1788474030\", \"Item Weight\": \"1.38 pounds\", \"Dimensions\": \"7.5 x 0.83 x 9.25 inches\"}",
+    "parent_asin": "1788474031",
+    "bought_together": null,
+    "subtitle": null,
+    "author": "{'avatar': 'https://m.media-amazon.com/images/I/716MW7NzxIL._SY600_.jpg', 'name': 'Vinicius Feitosa Pacheco', 'about': ['Vinicius Feitosa Pacheco born in Rio de Janeiro, Brazil and have been working with software engineering for big projects since 2007.', 'Also, passionate about teaching and talking about development. Vinicius is an experimented speaker and made lectures in conferences, such as PyCon Argentina, Pycon Colombia, EuroPython, RubyConf Brazil and QCon São Paulo.']}"
+}

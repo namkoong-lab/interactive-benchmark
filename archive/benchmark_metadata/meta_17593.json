@@ -1,0 +1,69 @@
+{
+    "main_category": "Appstore for Android",
+    "title": "Police Rocket Race",
+    "average_rating": 2.8,
+    "rating_number": 10,
+    "features": [
+        "7 different, police cars available in the shop",
+        "Various, colourful location",
+        "Different weapons and power ups",
+        "High quality graphics",
+        "Dynamic gameplay"
+    ],
+    "description": [
+        "Sit behind the wheel of the finest police cars equipped with the most advanced piece of weaponry . Take part in reckless pursuit of a dangerous suspects. Use your arsenal very carefully, can't let the innocent participant of the road to be injured. Using your guns eliminate all threats on the road and take down most dangerous mobsters. Features"
+    ],
+    "price": "0.0",
+    "images": {
+        "hi_res": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/81Dw8CLZD5L.png",
+            "https://m.media-amazon.com/images/I/81xY4GpqkPL.png",
+            "https://m.media-amazon.com/images/I/81Esv1aqONL.png",
+            "https://m.media-amazon.com/images/I/81bLWloEY4L.png",
+            "https://m.media-amazon.com/images/I/812axRstHzL.png",
+            "https://m.media-amazon.com/images/I/91sobg3LOlL.png"
+        ],
+        "thumb": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "variant": [
+            "MAIN",
+            "PT01",
+            "PT02",
+            "PT03",
+            "PT04",
+            "PT05"
+        ]
+    },
+    "videos": {
+        "title": [
+            ""
+        ],
+        "url": [
+            ""
+        ],
+        "user_id": [
+            ""
+        ]
+    },
+    "store": "Fazzi Dice",
+    "categories": [],
+    "details": "{\"Release Date\": \"2013\", \"Date first listed on Amazon\": \"May 17, 2013\", \"Developed By\": \"Fazzi Dice\", \"Size\": \"18.3MB\", \"Version\": \"1.0\", \"Application Permissions\": [\"Access information about networks\", \"Open network sockets\", \"Write to external storage\"], \"Minimum Operating System\": \"Android 2.0.1\", \"Approximate Download Time\": \"Less than 3 minutes\"}",
+    "parent_asin": "B00CTLTJX2",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}

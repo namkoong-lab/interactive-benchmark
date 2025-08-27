@@ -1,0 +1,47 @@
+{
+    "main_category": "Books",
+    "title": "The Computer Continuum (5th Edition)",
+    "average_rating": 5.0,
+    "rating_number": 2,
+    "features": [
+        "In most of the sciences, introductory college courses focus on concepts rather than their practical application, with the latter reserved for more advanced study. An exception to this has been the fields of information systems and computer science, in which instruction has tended to focus directly on the tools of the trade, such as the technical aspects of word processing, spreadsheets, and databases. The philosophy of The Computer Continuum, however,is to concentrate on the concepts of information systems and computer science, such as data representation, operating systems, programming languages, and algorithms.",
+        "While each chapter includes sections on software applications, and laboratory manuals are available to go with the text, the “concepts approach” of The Computer Continuum gives it a value that will last well beyond the current generation of computer tools. It builds a lasting foundation of fundamental concepts to prepare graduates for the future.   Primarily for use in undergraduate introductory computer concepts courses offered by departments of information systems or computer science, The Computer Continuum is equally appealing to liberal arts majors and computer science majors. The text material has been tested on more than 10,000 college students in both large and small classes, and most of the concepts as presented can be expected to remain current for years to come. Furthermore, simulation and the associated computer concepts introduced in Chapter 11, “Simulation: Modeling the Physical World,” are the foundation for a new approach to computer science, in addition to the theoretical and experimental approaches."
+    ],
+    "description": [
+        "About the Author",
+        "Kurt F. Lauckner",
+        "received his Ph.D. in physics from the University of Michigan in 1968. While a member of the Department of Mathematics at Eastern Michigan University, he took a major role in creating that school’s Computer Science program. Over the past 30 years, he has developed a concepts approach to teaching computer literacy, and his “Computer Science Concepts and Practical Applications” has grown into EMU’s primary computer literacy course, currently enrolling several hundred students per year.",
+        "Zenia C. Bahorski received her Ph.D. in Technology from Eastern Michigan University in 2009. She received her master's degree in Educational Psychology with a Concentration in Education Technology in 1990 from Eastern Michigan University. She received her B.S. degree in 1988 in Secondary Teaching of Computer Science and Mathematics and obtained her secondary teaching certificate in 1988. Dr. Bahorski has been teaching as a tenured Instructor in the Department of Computer Science since 1990. Her main teaching interests have been in computer fluency, computer science teacher education, and human-computer interaction. Zenia Bahorski has worked closely with Kurt Lauckner over the past twenty years, contributing to the development of the textbooks and supplemental materials."
+    ],
+    "price": "22.98",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51X0QV7FFjL._SX382_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Kurt F. Lauckner (Author),  Zenia C. Bahorski (Author)",
+    "categories": [
+        "Books",
+        "Education & Teaching",
+        "Schools & Teaching"
+    ],
+    "details": "{\"Publisher\": \"Pearson Learning Solutions; 5th edition (September 20, 2009)\", \"Language\": \"English\", \"Paperback\": \"438 pages\", \"ISBN 10\": \"0558345166\", \"ISBN 13\": \"978-0558345167\", \"Item Weight\": \"2.05 pounds\", \"Dimensions\": \"8.5 x 1.05 x 10.75 inches\"}",
+    "parent_asin": "0558345166",
+    "bought_together": null,
+    "subtitle": "5th Edition",
+    "author": null
+}

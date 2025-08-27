@@ -1,0 +1,50 @@
+{
+  "item_id": 417,
+  "metadata": {
+    "main_category": "Movies & TV",
+    "title": "Party Tyme Karaoke: Pop Hits, Vol. 2 [DVD]",
+    "average_rating": 4.8,
+    "rating_number": 3,
+    "features": [],
+    "description": [
+      "Party Tyme Karaoke: Pop Hits, Vol. 2"
+    ],
+    "price": "29.22",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/6132VX23TJL.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/6132VX23TJL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Rated:    Unrated    Format: DVD",
+    "categories": [
+      "CDs & Vinyl",
+      "Pop",
+      "Adult Contemporary"
+    ],
+    "details": "{\"Genre\": \"Pop\", \"Format\": \"Color, DVD, NTSC\", \"Language\": \"Unqualified (DTS ES 6.1)\", \"Number Of Discs\": \"1\", \"Publication Date\": \"November 12, 2002\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"Unrated (Not Rated)\", \"Package Dimensions\": \"7.1 x 5.42 x 0.58 inches; 3.75 Ounces\", \"Media Format\": \"Color, DVD, NTSC\", \"Release date\": \"November 12, 2002\", \"Studio\": \"Sybersound Records\", \"Number of discs\": \"1\"}",
+    "parent_asin": "B00006SFM5",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Movies & TV"
+    ],
+    "confidence": 0.9
+  }
+}

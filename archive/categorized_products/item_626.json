@@ -1,0 +1,58 @@
+{
+  "item_id": 626,
+  "metadata": {
+    "main_category": "Amazon Home",
+    "title": "Kitchen Craft Lolly Maker Delux with 16 Wood Sticks - Plastic",
+    "average_rating": 3.0,
+    "rating_number": 1,
+    "features": [],
+    "description": [
+      "Kitchen Craft Lolly Maker Delux with 16 Wood Sticks - Plastic"
+    ],
+    "price": "27.19",
+    "images": {
+      "hi_res": [
+        null,
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/41RtPRcdfUL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/31wXxSaDs-L._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/41RtPRcdfUL._AC_US75_.jpg",
+        "https://m.media-amazon.com/images/I/31wXxSaDs-L._AC_US75_.jpg"
+      ],
+      "variant": [
+        "MAIN",
+        "PT01"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "Kitchen Craft",
+    "categories": [
+      "Home & Kitchen",
+      "Kitchen & Dining",
+      "Kitchen Utensils & Gadgets",
+      "Specialty Tools & Gadgets",
+      "Ice Pop Molds"
+    ],
+    "details": "{\"Date First Available\": \"May 23, 2018\", \"Brand\": \"Kitchen Craft\", \"Color\": \"Clear\", \"Material\": \"Wood, Plastic\"}",
+    "parent_asin": "B00KGZD29A",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "Home & Kitchen",
+      "Kitchenware",
+      "Baking Accessories"
+    ],
+    "confidence": 0.9
+  }
+}

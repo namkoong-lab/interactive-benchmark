@@ -1,0 +1,56 @@
+{
+  "item_id": 5548,
+  "metadata": {
+    "main_category": "AMAZON FASHION",
+    "title": "ACI Toddler Girls' Frozen Light-up Blue Sneakers (10 Little Kid)",
+    "average_rating": 4.0,
+    "rating_number": 17,
+    "features": [
+      "Rubber sole"
+    ],
+    "description": [
+      "Her little feet will be glowing in these toddler girls' Frozen light-up sneakers. Sporting Elsa and Anna, these light-up iridescent sparkle finish sneakers will be her new wardrobe favorite. Swirling winter snowflakes adorn the shoe in true Frozen fashion. A hook-and-loop strap closure and pull-tab make dressing simple. The cushioned footbed, and padded collar and tongue provide comfort for her tiny feet."
+    ],
+    "price": "32.95",
+    "images": {
+      "hi_res": [
+        null
+      ],
+      "large": [
+        "https://m.media-amazon.com/images/I/418Sbdy0laL._AC_.jpg"
+      ],
+      "thumb": [
+        "https://m.media-amazon.com/images/I/418Sbdy0laL._AC_US40_.jpg"
+      ],
+      "variant": [
+        "MAIN"
+      ]
+    },
+    "videos": {
+      "title": [],
+      "url": [],
+      "user_id": []
+    },
+    "store": "ACI",
+    "categories": [
+      "Clothing, Shoes & Jewelry",
+      "Baby",
+      "Baby Girls",
+      "Shoes",
+      "Sneakers"
+    ],
+    "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Package Dimensions\": \"10.2 x 6.8 x 3.4 inches; 1.1 Pounds\", \"Department\": \"baby-girls\", \"Batteries\": \"1 CR2 batteries required.\", \"Date First Available\": \"March 6, 2018\"}",
+    "parent_asin": "B07B8CWGF9",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+  },
+  "categorization": {
+    "category_path": [
+      "AMAZON FASHION",
+      "Girls' Clothing",
+      "Children's Footwear"
+    ],
+    "confidence": 0.95
+  }
+}

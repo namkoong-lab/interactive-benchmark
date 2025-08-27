@@ -1,0 +1,44 @@
+{
+    "main_category": "Books",
+    "title": "A Love Affair With the Game",
+    "average_rating": 4.6,
+    "rating_number": 5,
+    "features": [
+        "Rare Book"
+    ],
+    "description": [
+        "About the Author",
+        "Davis created Sports Marketing Group, the largest publisher of specialty golf magazines in the country, and sold it to Times Mirror in 1989. He is a past president of the Metropolitan Golf Writers Association and a member of the Golf Collectors Society.Tom Watson Watson is Associate Professor & Head of the School of Communication at Charles Sturt University in Australia. He has more than 25 years experience in corporate and consultancy public relations and was awarded his PhD from Nottingham Trent University in 1995 for research into the modeling of public relations evaluation."
+    ],
+    "price": "38.19",
+    "images": {
+        "hi_res": [
+            null
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51SHl-bctyL._SX323_BO1,204,203,200_.jpg"
+        ],
+        "thumb": [
+            null
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [],
+        "url": [],
+        "user_id": []
+    },
+    "store": "Jr. Frank \"Sandy\" Tatum (Author),  Martin Davis (Editor),  Tom Watson (Foreword)",
+    "categories": [
+        "Books",
+        "Reference",
+        "Encyclopedias & Subject Guides"
+    ],
+    "details": "{\"Publisher\": \"The American Golfer; First Edition (March 1, 2002)\", \"Language\": \"English\", \"Hardcover\": \"221 pages\", \"ISBN 10\": \"188853110X\", \"ISBN 13\": \"978-1888531107\", \"Item Weight\": \"1.46 pounds\", \"Dimensions\": \"6.38 x 1.1 x 9.38 inches\"}",
+    "parent_asin": "188853110X",
+    "bought_together": null,
+    "subtitle": "Hardcover – March 1, 2002",
+    "author": null
+}

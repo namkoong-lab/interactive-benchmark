@@ -1,0 +1,69 @@
+{
+    "main_category": "Grocery",
+    "title": "FRESH GOURMET TOASTED ALMONDS ALMOND SALAD TOPPING 3.5 OZ",
+    "average_rating": 4.4,
+    "rating_number": 12,
+    "features": [
+        "Product Type:Grocery",
+        "Item Package Dimension:3.911 cm L X12.217 cm W X17.500 cm H",
+        "Item Package Weight:0.104 kg",
+        "Item Package Quantity:1"
+    ],
+    "description": [
+        "Grocery & Gourmet Food"
+    ],
+    "price": "7.75",
+    "images": {
+        "hi_res": [
+            "https://m.media-amazon.com/images/I/818YU3afYqL._SL1500_.jpg"
+        ],
+        "large": [
+            "https://m.media-amazon.com/images/I/51Zbg1hrcOL.jpg"
+        ],
+        "thumb": [
+            "https://m.media-amazon.com/images/I/51Zbg1hrcOL._SX38_SY50_CR,0,0,38,50_.jpg"
+        ],
+        "variant": [
+            "MAIN"
+        ]
+    },
+    "videos": {
+        "title": [
+            "Beth's Buche de Noel Cake",
+            "SO DELICIOUS Blue Diamond Almonds, Smokehouse GREAT GIFT! ",
+            "Cabbage, Apple and Almond Slaw with Fisher Toasted Sliced Almonds",
+            "Eat 28 Blue Diamond almonds a day!",
+            "I can eat this everyday ",
+            "Super Flavor All on a Superfood!"
+        ],
+        "url": [
+            "https://www.amazon.com/vdp/6076b11b9db844f293eeff8545ca6c40?ref=dp_vse_rvc_0",
+            "https://www.amazon.com/vdp/033b41cda0574b558cfe873bbc9bcf03?ref=dp_vse_rvc_1",
+            "https://www.amazon.com/vdp/3796de4edda34922beaf83c3ea00c795?ref=dp_vse_rvc_2",
+            "https://www.amazon.com/vdp/4a9874e3738e4a55bf8f6fbe6941cd2b?ref=dp_vse_rvc_3",
+            "https://www.amazon.com/vdp/0a3b315560d644708c81f49a3504e5df?ref=dp_vse_rvc_4",
+            "https://www.amazon.com/vdp/75b3660a151644ea9bdd8aa4db3e693a?ref=dp_vse_rvc_5"
+        ],
+        "user_id": [
+            "/shop/entertainingwithbeth",
+            "/shop/jeffgrave",
+            "",
+            "",
+            "/shop/lifeoflaura06",
+            ""
+        ]
+    },
+    "store": "Fresh Gourmet",
+    "categories": [
+        "Grocery & Gourmet Food",
+        "Pantry Staples",
+        "Cooking & Baking",
+        "Nuts & Seeds",
+        "Almonds"
+    ],
+    "details": "{\"Package Dimensions\": \"6.89 x 4.81 x 1.54 inches; 3.5 Ounces\", \"UPC\": \"787359177019\", \"Manufacturer\": \"Fresh Gourmet\"}",
+    "parent_asin": "B008VT171I",
+    "bought_together": null,
+    "subtitle": null,
+    "author": null
+}
