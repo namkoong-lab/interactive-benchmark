@@ -64,7 +64,7 @@ def main():
     print(persona_description)
     print("=== End Persona Description ===\n")
 
-    # Category validation (in case of legacy CLI provided name)
+    # Category validation 
     categories = list_categories()
     if not categories:
         print("No categories found in database.")

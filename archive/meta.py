@@ -29,11 +29,8 @@ def get_category_sizes(force_update=False):
     sizes = read_category_sizes()
     categories = list(sizes.keys())
 
-    # If any category is missing or has invalid size, or if force_update is True, recalculate all
     if force_update or not sizes or any(not isinstance(sizes.get(cat, 0), int) or sizes[cat] <= 0 for cat in categories):
         print("Calculating category sizes from scratch...")
-        # You may want to load categories from a file or define them here
-        # For demonstration, let's assume categories are hardcoded or loaded from a file
         categories = [
             "All_Beauty", "Appliances", "Arts_Crafts_and_Sewing", "Automotive", "Baby_Products", "Books", "CDs_and_Vinyl", "Cell_Phones_and_Accessories", "Clothing_Shoes_and_Jewelry", "Digital_Music", "Electronics", "Gift_Cards", "Grocery_and_Gourmet_Food", "Health_and_Personal_Care", "Home_and_Kitchen", "Industrial_and_Scientific", "Kindle_Store", "Luxury_Beauty", "Magazine_Subscriptions", "Movies_and_TV", "Musical_Instruments", "Office_Products", "Patio_Lawn_and_Garden", "Pet_Supplies", "Prime_Pantry", "Software", "Sports_and_Outdoors", "Tools_and_Home_Improvement", "Toys_and_Games", "Video_DVD", "Video_Games"
         ]
@@ -75,11 +72,10 @@ def load_meta(meta_indices_list, output_directory):
     if indices_to_process:
         max_index_needed = max(indices_to_process)
         
-    # This section demonstrates how to load Amazon data from the Hugging Face Hub.
     try:
         streaming_dataset = load_dataset(
             "McAuley-Lab/Amazon-Reviews-2023",
-            "raw_meta_All_Beauty", # The dataset have 34 subsets(sorted by 34 categories in `all_categories.txt`). Specify which one you want. The example is loading the "All_Beauty" metadata.
+            "raw_meta_All_Beauty", 
             split="full",
             streaming=True,
             trust_remote_code=True
@@ -215,7 +211,6 @@ def load_products_with_description_filter(num_products=NUM_PRODUCTS, output_dire
 
 if __name__ == "__main__":
     if len(sys.argv) > 1 and (sys.argv[1] == "--load-20k" or sys.argv[1].startswith("--load-")):
-        # New mode: load N products with description filter
         print("Amazon Product Loader - N Products Mode")
         print("=" * 50)
         # Parse number of products
