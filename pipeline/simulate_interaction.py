@@ -3,6 +3,7 @@ import os
 import json
 import random
 import sqlite3
+import time
 from typing import Dict, List, Any, Tuple
 from dotenv import load_dotenv
 try:
@@ -72,7 +73,11 @@ def simulated_user_respond(persona_description: str, question: str) -> str:
     prompt = f"""You simulate a user with the following persona description:
 {persona_description}
 
-Answer the question as this user would. Be concise and natural. Only answer the question asked. Do not list multiple attributes. Do not add extra context.
+Answer STRICTLY the question as this user would.
+- Only answer the question asked
+- Do not volunteer extra information
+- Do not restate persona or add rationale
+- If a choice is requested, give one choice only
 
 Question: {question}
 
@@ -119,7 +124,7 @@ def score_products_for_persona(persona_description: str, category: str, products
                     "persona_description": persona_description,
                     "category": category,
                     "products": prod_subset,
-                    "instructions": "Return ONLY a JSON array of objects: {id, score}. Do not include any surrounding text.",
+                    "instructions": "Return ONLY a JSON array of objects: {id, score}. Score must be an integer from 0 to 100. Do not include any surrounding text.",
                 }
                 response_schema_local = {
                     "type": "array",
@@ -137,7 +142,7 @@ def score_products_for_persona(persona_description: str, category: str, products
                     "persona_description": persona_description,
                     "category": category,
                     "products": prod_subset,
-                    "instructions": "You ARE the persona described. Rate each product from 0-100 based on how much YOU would like it. Return a JSON object with key 'results' as an array of objects: {id, score}. Do not include any other keys or text.",
+                    "instructions": "You ARE the persona described. Rate each product with a score from 0 to 100 (integers only) based on how much YOU would like it. Return a JSON object with key 'results' as an array of objects: {id, score}. Do not include any other keys or text.",
                 }
                 response_schema_local = {
                     "type": "object",
@@ -168,17 +173,52 @@ def score_products_for_persona(persona_description: str, category: str, products
                 response_schema=response_schema_local,
             )
 
-        # For OpenAI, one shot is fine; for Gemini, batch to avoid long/truncated JSON
         raw_outputs: List[str] = []
-        if target_model.startswith("gemini-") and len(condensed_products) > 25:
-            chunk_size = 20
+        if target_model.startswith("gemini-") and len(condensed_products) >= 15:
+            chunk_size = 15
             for i in range(0, len(condensed_products), chunk_size):
                 chunk = condensed_products[i:i+chunk_size]
-                content_local = _query_with_products(chunk, array_only=True)
+                # Retry for transient errors
+                content_local = None
+                for attempt in range(3):
+                    try:
+                        content_local = _query_with_products(chunk, array_only=True)
+                        break
+                    except Exception:
+                        if attempt < 2:
+                            time.sleep(1.5 * (attempt + 1))
+                        else:
+                            raise
                 raw_outputs.append(content_local)
         else:
-            content_local = _query_with_products(condensed_products, array_only=False)
-            raw_outputs.append(content_local)
+            # Chunk OpenAI if very large to reduce payload / errors
+            if not target_model.startswith("gemini-") and len(condensed_products) >= 100:
+                chunk_size = 50
+                for i in range(0, len(condensed_products), chunk_size):
+                    chunk = condensed_products[i:i+chunk_size]
+                    content_part = None
+                    for attempt in range(3):
+                        try:
+                            content_part = _query_with_products(chunk, array_only=True)
+                            break
+                        except Exception:
+                            if attempt < 2:
+                                time.sleep(1.5 * (attempt + 1))
+                            else:
+                                raise
+                    raw_outputs.append(content_part)
+            else:
+                content_local = None
+                for attempt in range(3):
+                    try:
+                        content_local = _query_with_products(condensed_products, array_only=False)
+                        break
+                    except Exception:
+                        if attempt < 2:
+                            time.sleep(1.5 * (attempt + 1))
+                        else:
+                            raise
+                raw_outputs.append(content_local)
             
         def _extract_json_block(text: str) -> str:
             # If fenced, strip fences
@@ -187,12 +227,30 @@ def score_products_for_persona(persona_description: str, category: str, products
                     return text.split("\n", 1)[1].rsplit("\n", 1)[0]
                 except Exception:
                     pass
-            # Heuristic: take substring from first '{' to last '}' using brace counting
-            start = text.find('{')
-            end = text.rfind('}')
+            s = text
+            # Detect array JSON
+            if '[' in s and (s.find('[') < s.find('{') or '{' not in s):
+                start = s.find('[')
+                end = s.rfind(']')
+                if start != -1 and end != -1 and end > start:
+                    candidate = s[start:end+1]
+                    stack = 0
+                    last_balanced_idx = -1
+                    for i, ch in enumerate(candidate):
+                        if ch == '[':
+                            stack += 1
+                        elif ch == ']':
+                            stack -= 1
+                            if stack == 0:
+                                last_balanced_idx = i
+                    if last_balanced_idx != -1:
+                        return candidate[: last_balanced_idx + 1]
+                    return candidate
+            # Otherwise try object JSON
+            start = s.find('{')
+            end = s.rfind('}')
             if start != -1 and end != -1 and end > start:
-                candidate = text[start:end+1]
-                # Attempt to trim to a balanced block
+                candidate = s[start:end+1]
                 stack = 0
                 last_balanced_idx = -1
                 for i, ch in enumerate(candidate):
@@ -221,11 +279,30 @@ def score_products_for_persona(persona_description: str, category: str, products
             if isinstance(data_local, list):
                 aggregated_items.extend(data_local)
         
+        # Normalize scores to 0-100 if model under-ranges (e.g., 0-1 or 0-10)
+        raw_scores: List[float] = []
+        for item in aggregated_items:
+            try:
+                raw_scores.append(float(item.get("score")))
+            except Exception:
+                continue
+        scale_factor = 1.0
+        if raw_scores:
+            max_score = max(raw_scores)
+            if max_score <= 1.0:
+                scale_factor = 100.0
+            elif max_score <= 10.0:
+                scale_factor = 10.0
+
         out: Dict[int, Tuple[float, str]] = {}
-        for item in data_local:
+        for item in aggregated_items:
             try:
                 pid = int(item.get("id"))
-                score = float(item.get("score"))
+                score = float(item.get("score")) * scale_factor
+                if score < 0:
+                    score = 0.0
+                if score > 100:
+                    score = 100.0
                 reason = str(item.get("reason") or "")
                 out[pid] = (score, reason)
             except Exception:
@@ -292,7 +369,16 @@ def ai_recommender_interact(category: str, products: List[Dict[str, Any]], perso
     messages = [
         {
             "role": "system",
-            "content": "You are a careful product recommender. You see a category and a list of product summaries. You may ask at most the provided number of concise questions about exactly one attribute each to infer the user's preferences, then recommend one product with rationale. You do NOT know the persona; you only see the user's answers.\nAsk few questions; prioritize attributes that maximally reduce uncertainty.",
+            "content": (
+                "You are a meticulous product recommender tasked with finding the single best product for the user in this category. "
+                "Your objective is to choose the product that will most likely be the user's first choice over all other products.\n\n"
+                "Operating rules:\n"
+                "- You only see product summaries and the user's answers (you do NOT see the persona).\n"
+                "- Ask at most the allowed number of concise questions. Each question must target exactly one attribute that most reduces uncertainty between the current top candidates.\n"
+                "- Do not recommend until you are reasonably confident your choice is better than every other product in the list given the answers so far.\n"
+                "- If you cannot reach that level of confidence yet, keep asking targeted questions (until you hit the maximum).\n"
+                "- When you are sufficiently confident, you may stop asking and proceed to the final recommendation step."
+            ),
         },
         {
             "role": "assistant",
@@ -301,35 +387,28 @@ def ai_recommender_interact(category: str, products: List[Dict[str, Any]], perso
     ]
 
     conversation: List[Dict[str, str]] = []
-    min_questions = max(1, min(2, max_questions))
     for i in range(max(1, max_questions)):
         raw_question = chat_completion(
             model=llm_b_model,
             messages=messages + conversation + [
-                {"role": "assistant", "content": "If you can already make a recommendation that you are reasonable confident in being the first choice of the persona, output exactly the token STOP. Otherwise, ask one short question about exactly one attribute that helps choose among the products. Output only the question text or STOP."}
+                {
+                    "role": "assistant",
+                    "content": (
+                        "If you are now reasonably confident which product is better than all the others for this user, output exactly: STOP.\n"
+                        "Otherwise, ask one short question about exactly one attribute that best separates the remaining top candidates.\n"
+                        "Output only the question text or STOP."
+                    ),
+                }
             ],
             temperature=0.3,
             max_tokens=80,
             json_mode=False,
         )
         question = (raw_question or "").strip()
-        lower = question.lower()
-        if i + 1 < min_questions and (not question or question.upper() == "STOP" or lower.startswith("i recommend") or "recommend" in lower[:80]):
-            # Force at least min_questions by retrying once with a clarifier prompt
-            raw_question = chat_completion(
-                model=llm_b_model,
-                messages=messages + conversation + [
-                    {"role": "assistant", "content": "Ask one short, specific question about exactly one attribute. Do not recommend yet. Output only the question text."}
-                ],
-                temperature=0.3,
-                max_tokens=80,
-                json_mode=False,
-            )
-            question = (raw_question or "").strip()
-            lower = question.lower()
-
-        if not question or question.upper() == "STOP" or lower.startswith("i recommend") or "recommend" in lower[:80]:
+        if question.upper() == "STOP":
             break
+        if not question:
+            continue
         print(f"AI Recommender: {question}")
         answer = simulated_user_respond(persona_description, question)
         print(f"User: {answer}")
@@ -339,7 +418,14 @@ def ai_recommender_interact(category: str, products: List[Dict[str, Any]], perso
     content = chat_completion(
         model=llm_b_model,
         messages=messages + conversation + [
-            {"role": "assistant", "content": "Based on the answers so far, recommend exactly one product id from the list and give a brief rationale. Return a JSON object with keys 'id' and 'rationale'."}
+            {
+                "role": "assistant",
+                "content": (
+                    "Based on the answers so far, recommend exactly one product id from the list and give a brief rationale.\n"
+                    "You must be reasonably confident that your chosen product is better than all other products in the list for this user.\n"
+                    "Return a JSON object with keys 'id' and 'rationale'."
+                ),
+            }
         ],
         temperature=0.3,
         max_tokens=200,

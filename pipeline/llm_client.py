@@ -103,8 +103,6 @@ def _gemini_chat_completion(
     system_prompt_override: Optional[str],
 ) -> str:
     _ensure_gemini_configured()
-
-    # Extract first system message if present
     system_instruction = None
     if system_prompt_override:
         system_instruction = system_prompt_override
@@ -113,15 +111,12 @@ def _gemini_chat_completion(
             if m.get("role") == "system":
                 system_instruction = m.get("content")
                 break
-
-    # Convert remaining messages to Gemini contents
     contents: List[Dict[str, Any]] = []
     for m in messages:
         role = m.get("role")
         content = m.get("content")
         if role == "system":
             continue
-        # Map roles: Gemini accepts "user" and "model"
         if role == "assistant":
             parts_role = "model"
         else:
@@ -148,7 +143,6 @@ def _gemini_chat_completion(
         contents,
         generation_config=generation_config,
     )
-    # google-generativeai returns text at resp.text
     return (resp.text or "").strip()
 
 

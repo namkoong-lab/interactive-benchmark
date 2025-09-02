@@ -81,14 +81,12 @@ def get_or_create_category(conn: sqlite3.Connection, category_name: str) -> int:
 def normalize_token(token: str) -> str:
     token = token.lower().strip()
     token = NON_ALNUM_RE.sub("", token)
-    # naive singularization: drop trailing 's' for tokens with length > 4
     if len(token) > 4 and token.endswith("s"):
         token = token[:-1]
     return token
 
 
 def canonical_category_key(name: str) -> str:
-    # tokenize on non-alnum, remove stopwords, normalize, sort tokens to match reordered variants
     tokens = re.split(r"[^a-zA-Z0-9]+", name.lower())
     norm_tokens: List[str] = []
     for t in tokens:
@@ -147,8 +145,6 @@ def extract_categories(row: Dict) -> Set[str]:
     if not raw_candidates and row.get("main_category"):
         raw_candidates.append(str(row["main_category"]).strip())
 
-    # If after ignoring first two levels we ended up with nothing but we do have
-    # some hierarchical info, include the deepest available from the original fields
     if not raw_candidates:
         for field in ("category_paths", "category_chains", "category_path", "categories"):
             val = row.get(field)
@@ -277,7 +273,6 @@ def load_jsonl(
                 if limit is not None and processed_lines >= limit:
                     break
 
-        # Get final category count
         cur = conn.cursor()
         cur.execute("SELECT COUNT(*) FROM categories")
         total_categories = cur.fetchone()[0]
