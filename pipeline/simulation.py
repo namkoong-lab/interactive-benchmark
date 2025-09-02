@@ -23,6 +23,9 @@ def main():
         "gpt-4o",
         "gpt-4o-mini",
         "o4-mini",
+        "gemini-1.5-pro",
+        "gemini-1.5-flash",
+        "gemini-1.5-flash-8b",
     ]
     print("\nAvailable AI recommender models:")
     for i, m in enumerate(available_models, start=1):
@@ -85,6 +88,7 @@ def main():
         print("Failed to obtain persona scores.")
         sys.exit(1)
     best_persona_product_id = persona_scores[0][0]
+    best_persona_score = float(persona_scores[0][1])
 
     # Recommender interacts with persona to infer best product (agent decides number of questions)
     rec_id, rationale = ai_recommender_interact(category_name, products, persona_description, ai_recommender_model)
@@ -92,6 +96,16 @@ def main():
     print("\nPersona top choice product id:", best_persona_product_id)
     print("Recommender prediction product id:", rec_id)
     print("Rationale:", rationale)
+
+    # Compute score difference: chosen product score - ideal product averaged score
+    chosen_score = None
+    for pid, score, _ in persona_scores:
+        if pid == rec_id:
+            chosen_score = float(score)
+            break
+    if chosen_score is not None:
+        diff = chosen_score - best_persona_score
+        print(f"Score diff (chosen - ideal): {diff:.1f}")
 
     if rec_id == best_persona_product_id:
         print("Simulation result: Correct recommendation.")
