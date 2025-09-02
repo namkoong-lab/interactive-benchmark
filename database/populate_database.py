@@ -28,7 +28,6 @@ def ensure_schema(conn: sqlite3.Connection) -> None:
         """
     )
 
-    # Products table with raw JSON
     cur.execute(
         """
         CREATE TABLE IF NOT EXISTS products (

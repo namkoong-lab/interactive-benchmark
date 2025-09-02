@@ -1,15 +1,15 @@
-Load a subset of data:
+## Loading Products 
+
 ```bash
 python3 load_products_sqlite_simple.py \
-  --db simple_products.db \
-  --jsonl benchmark_metadata_assigned.jsonl \
+  --db products.db \
+  --jsonl populate_database.py.jsonl \
   --limit 100
 ```
 
-### Parameters
-- `--db`: Path to SQLite database file (will be created if doesn't exist)
+- `--db`: Path to SQLite database file
 - `--jsonl`: Path to input JSONL file with product data
-- `--limit`: Optional limit on number of lines to process (for testing)
+- `--limit`: Optional limit on number of lines to process
 
 ## Database Schema
 
@@ -38,7 +38,7 @@ python3 load_products_sqlite_simple.py \
 ### Open SQLite Shell
 
 ```bash
-sqlite3 simple_products.db
+sqlite3 products.db
 ```
 
 ### Basic Setup Commands
