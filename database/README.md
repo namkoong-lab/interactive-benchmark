@@ -1,9 +1,9 @@
 ## Loading Products 
 
 ```bash
-python3 load_products_sqlite_simple.py \
+python3 populate_database.py \
   --db products.db \
-  --jsonl populate_database.py.jsonl \
+  --jsonl benchmark_metadata_new_category.jsonl \
   --limit 100
 ```
 
