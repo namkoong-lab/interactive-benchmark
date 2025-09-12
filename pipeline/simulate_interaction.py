@@ -439,7 +439,26 @@ def ai_recommender_interact(category: str, products: List[Dict[str, Any]], perso
         if content.startswith("```"):
             m = content.split("\n", 1)[1].rsplit("\n", 1)[0]
         data = json.loads(m or content)
-    rec_id = int(data.get("id"))
+    # Validate id & rationale
+    rec_id_val = data.get("id")
+    try:
+        rec_id = int(rec_id_val)
+    except Exception:
+        # Fallback: try to extract the first integer-looking token
+        rec_id = None
+        try:
+            import re
+            m = re.search(r"\d+", str(rec_id_val))
+            if m:
+                rec_id = int(m.group(0))
+        except Exception:
+            pass
+        if rec_id is None:
+            # Last-resort fallback to first product id in list
+            try:
+                rec_id = int(products[0]["id"]) if products else -1
+            except Exception:
+                rec_id = -1
     rationale = str(data.get("rationale") or "")
     
     return rec_id, rationale

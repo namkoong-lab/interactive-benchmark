@@ -19,3 +19,6 @@ tqdm>=4.62.0
 
 # Gemini
 google-generativeai>=0.7.2
+
+# Reinforcement Learning
+gymnasium>=1.0.0
