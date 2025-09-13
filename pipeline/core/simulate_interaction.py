@@ -6,15 +6,12 @@ import sqlite3
 import time
 from typing import Dict, List, Any, Tuple
 from dotenv import load_dotenv
-try:
-    from llm_client import chat_completion
-except Exception:
-    from pipeline.llm_client import chat_completion
+from .llm_client import chat_completion
 
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-DB_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "database", "products.db"))
+DB_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "database", "products.db"))
 
 def _get_connection(db_path: str = DB_PATH) -> sqlite3.Connection:
     return sqlite3.connect(db_path)

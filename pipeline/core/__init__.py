@@ -2,8 +2,8 @@
 Core modules for the personas pipeline.
 """
 
-from .llm_client import LLMClient
-from .personas import get_persona_text
+from .llm_client import chat_completion
+from .personas import get_persona_description
 from .simulate_interaction import (
     get_products_by_category, 
     list_categories,
@@ -15,8 +15,8 @@ from .user_model import UserModel
 from .metrics import EpisodeRecord, MetricsRecorder
 
 __all__ = [
-    'LLMClient',
-    'get_persona_text', 
+    'chat_completion',
+    'get_persona_description', 
     'get_products_by_category',
     'list_categories',
     'simulated_user_respond',

@@ -22,7 +22,7 @@ from datetime import datetime
 
 # Import our modules
 from .envs.reco_env import RecoEnv
-from .core.llm_client import LLMClient
+from .core.llm_client import chat_completion
 from .core.metrics import EpisodeRecord, MetricsRecorder
 from .wrappers.metrics_wrapper import MetricsWrapper
 
@@ -34,10 +34,11 @@ class LLMAgent:
     """
     
     def __init__(self, model: str = "gpt-4o", max_questions: int = 8):
-        self.llm_client = LLMClient(model=model)
+        self.model = model
         self.max_questions = max_questions
         self.episode_count = 0
         self.learned_preferences = {}  # Store learned user preferences
+        self.current_episode_info = None  # Store current episode info
         
     def get_action(self, obs: Dict[str, np.ndarray], info: Dict[str, Any]) -> int:
         """
@@ -50,8 +51,25 @@ class LLMAgent:
         Returns:
             Action: 0 to num_products-1 for recommend, num_products for ask question
         """
-        num_products = info['num_products']
-        category = info['category']
+        # Debug: print available keys
+        print(f"[DEBUG] Available info keys: {list(info.keys())}")
+        
+        # Handle different info formats from reset() vs step()
+        if 'num_products' in info:
+            # From reset() - has full environment info, store it
+            self.current_episode_info = info
+            num_products = info['num_products']
+            category = info['category']
+        else:
+            # From step() - use stored episode info
+            if self.current_episode_info is None:
+                # Fallback: count non-zero product features
+                num_products = np.count_nonzero(np.any(obs['product_features'] != 0, axis=1))
+                category = "unknown"
+            else:
+                num_products = self.current_episode_info['num_products']
+                category = self.current_episode_info['category']
+        
         budget_remaining = obs['budget_remaining'][0]
         
         # Extract dialog history
@@ -79,7 +97,12 @@ class LLMAgent:
     def _choose_recommendation(self, obs: Dict[str, np.ndarray], info: Dict[str, Any], 
                              dialog_history: List[Tuple[str, str]]) -> int:
         """Choose which product to recommend based on learned preferences."""
-        num_products = info['num_products']
+        # Use stored episode info for num_products
+        if self.current_episode_info is not None:
+            num_products = self.current_episode_info['num_products']
+        else:
+            # Fallback: count non-zero product features
+            num_products = np.count_nonzero(np.any(obs['product_features'] != 0, axis=1))
         
         # Simple strategy: choose based on price preferences learned from dialog
         # In a real implementation, this would use the LLM to analyze preferences
@@ -180,19 +203,21 @@ def run_experiment1(persona_index: int = 42,
                                            output_path=os.path.join(output_dir, f"episode_{episode_num}.jsonl"))
             
             # Reset environment
-            obs, info = metrics_wrapper.reset()
+            obs, initial_info = metrics_wrapper.reset()
             
             # Run episode
             terminated = False
             truncated = False
             step_count = 0
+            current_info = initial_info  # Use initial info for first action
             
             while not terminated and not truncated and step_count < 20:  # Safety limit
                 # Get action from agent
-                action = agent.get_action(obs, info)
+                action = agent.get_action(obs, current_info)
                 
                 # Take step
                 obs, reward, terminated, truncated, info = metrics_wrapper.step(action)
+                current_info = info  # Update info for next iteration
                 step_count += 1
                 
                 # Print progress

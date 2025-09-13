@@ -10,8 +10,8 @@ This package provides:
 
 # Core components
 from .core import (
-    LLMClient,
-    get_persona_text,
+    chat_completion,
+    get_persona_description,
     get_products_by_category,
     list_categories,
     simulated_user_respond,
@@ -35,8 +35,8 @@ __version__ = "1.0.0"
 
 __all__ = [
     # Core
-    'LLMClient',
-    'get_persona_text',
+    'chat_completion',
+    'get_persona_description',
     'get_products_by_category', 
     'list_categories',
     'simulated_user_respond',
