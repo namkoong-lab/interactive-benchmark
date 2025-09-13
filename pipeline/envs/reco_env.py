@@ -5,12 +5,8 @@ from typing import Dict, List, Tuple, Any, Optional
 import json
 import random
 
-try:
-    from ..simulate_interaction import get_products_by_category, list_categories
-    from ..user_model import UserModel
-except ImportError:
-    from simulate_interaction import get_products_by_category, list_categories
-    from user_model import UserModel
+from ..core.simulate_interaction import get_products_by_category, list_categories
+from ..core.user_model import UserModel
 
 
 class RecoEnv(gym.Env):

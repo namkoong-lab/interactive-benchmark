@@ -5,10 +5,7 @@ from typing import Any, Dict, List, Optional
 import csv
 from dataclasses import dataclass, asdict
 
-try:
-    from ..metrics import EpisodeRecord, MetricsRecorder
-except ImportError:
-    from metrics import EpisodeRecord, MetricsRecorder
+from ..core.metrics import EpisodeRecord, MetricsRecorder
 
 
 class MetricsWrapper(gym.Wrapper):

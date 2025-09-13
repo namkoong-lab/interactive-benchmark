@@ -1,15 +1,8 @@
 import json
 from typing import Dict, List, Tuple
 
-try:
-    from personas import get_persona_description
-except Exception:
-    from pipeline.personas import get_persona_description
-
-try:
-    from simulate_interaction import score_products_for_persona, simulated_user_respond
-except Exception:
-    from pipeline.simulate_interaction import score_products_for_persona, simulated_user_respond
+from .personas import get_persona_description
+from .simulate_interaction import score_products_for_persona, simulated_user_respond
 
 
 class UserModel:

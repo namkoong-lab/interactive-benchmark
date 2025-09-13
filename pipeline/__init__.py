@@ -1,0 +1,58 @@
+"""
+Personas Pipeline: A framework for testing LLM-based product recommendation systems.
+
+This package provides:
+- Core simulation components (user models, LLM clients, metrics)
+- Gym environments for reinforcement learning
+- Agent implementations
+- Experiment runners
+"""
+
+# Core components
+from .core import (
+    LLMClient,
+    get_persona_text,
+    get_products_by_category,
+    list_categories,
+    simulated_user_respond,
+    score_products_for_persona,
+    ai_recommender_interact,
+    UserModel,
+    EpisodeRecord,
+    MetricsRecorder
+)
+
+# Agents
+from .agents import RecommenderAgent, RandomAgent
+
+# Environments
+from .envs.reco_env import RecoEnv
+
+# Wrappers
+from .wrappers.metrics_wrapper import MetricsWrapper
+
+__version__ = "1.0.0"
+
+__all__ = [
+    # Core
+    'LLMClient',
+    'get_persona_text',
+    'get_products_by_category', 
+    'list_categories',
+    'simulated_user_respond',
+    'score_products_for_persona',
+    'ai_recommender_interact',
+    'UserModel',
+    'EpisodeRecord',
+    'MetricsRecorder',
+    
+    # Agents
+    'RecommenderAgent',
+    'RandomAgent',
+    
+    # Environments
+    'RecoEnv',
+    
+    # Wrappers
+    'MetricsWrapper'
+]

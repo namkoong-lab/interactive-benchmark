@@ -1,12 +1,8 @@
 import json
 from typing import Dict, List, Tuple
 
-try:
-    from simulate_interaction import ai_recommender_interact
-except Exception:
-    from pipeline.simulate_interaction import ai_recommender_interact
-
-from .user_model import UserModel
+from ..core.simulate_interaction import ai_recommender_interact
+from ..core.user_model import UserModel
 
 
 class RecommenderAgent:
