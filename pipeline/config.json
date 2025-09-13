@@ -1,6 +1,6 @@
 {
     "persona_index": 42,
-    "categories": ["Headphones", "Coffee Makers", "Mechanical Keyboards"],
+    "categories": ["Headphones", "Coffee Makerthes", "Mechanical Keyboards"],
     "episodes_per_category": 20,
     "feedback_type": "score",
     "agent_model": "gpt-4o",

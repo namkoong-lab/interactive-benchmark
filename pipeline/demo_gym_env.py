@@ -131,11 +131,12 @@ def main():
         seed=args.seed
     )
     
-    # Wrap with metrics logging
-    env = MetricsWrapper(env)
-    
+    # Wrap with logging first, then metrics
     if args.render:
         env = EpisodeLogger(env)
+    
+    # Wrap with metrics logging (should be outermost for save_metrics access)
+    env = MetricsWrapper(env)
     
     # Select policy
     if args.policy == "random":

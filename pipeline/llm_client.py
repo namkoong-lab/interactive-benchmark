@@ -15,10 +15,19 @@ def _get_openai_client() -> OpenAI:
 
 _gemini_available = True
 try:
-    import google.generativeai as genai  
-except Exception:
+    import google.generativeai as genai
+    # Test if GenerativeModel is available
+    _ = genai.GenerativeModel
+    # Check version
+    try:
+        import google.generativeai
+        print(f"[DEBUG] Gemini version: {google.generativeai.__version__}")
+    except:
+        pass
+except Exception as e:
     genai = None
     _gemini_available = False
+    print(f"[DEBUG] Gemini import failed: {e}")
 
 _gemini_configured = False
 

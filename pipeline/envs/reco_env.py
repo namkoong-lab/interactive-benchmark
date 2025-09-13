@@ -233,6 +233,9 @@ class RecoEnv(gym.Env):
         num_products = len(self.products)
         num_questions = len(self.question_templates)
         
+        # Debug output
+        print(f"[DEBUG] Action: {action}, num_products: {num_products}, num_questions: {num_questions}")
+        
         if action < num_products:
             # Recommend action
             chosen_product_id = self.product_ids[action]
