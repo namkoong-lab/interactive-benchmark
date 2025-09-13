@@ -13,94 +13,17 @@ except ImportError:
     from user_model import UserModel
 
 
-class QuestionTemplate:
-    """Template for generating questions from product attributes."""
-    
-    def __init__(self, template_id: int, template_text: str, attribute_key: str, 
-                 attribute_type: str, values: List[Any] = None):
-        self.template_id = template_id
-        self.template_text = template_text
-        self.attribute_key = attribute_key
-        self.attribute_type = attribute_type  # "price_bin", "store", "boolean", "numeric_bin"
-        self.values = values or []
-    
-    def generate_question(self, value: Any = None) -> str:
-        if self.attribute_type == "price_bin":
-            return self.template_text.format(price=value)
-        elif self.attribute_type == "store":
-            return self.template_text.format(store=value)
-        elif self.attribute_type == "boolean":
-            return self.template_text.format(feature=value)
-        elif self.attribute_type == "numeric_bin":
-            return self.template_text.format(feature=value, threshold=value)
-        else:
-            return self.template_text
-
-
-def build_question_templates(products: List[Dict[str, Any]]) -> List[QuestionTemplate]:
-    """Build question templates from product attributes in the category."""
-    templates = []
-    template_id = 0
-    
-    # Price-based questions
-    prices = [p.get("price", 0) for p in products if p.get("price") is not None]
-    if prices:
-        price_quantiles = np.percentile(prices, [25, 50, 75])
-        for i, q in enumerate(price_quantiles):
-            templates.append(QuestionTemplate(
-                template_id=template_id,
-                template_text="Do you prefer products under ${price:.0f}?",
-                attribute_key="price",
-                attribute_type="price_bin",
-                values=[q]
-            ))
-            template_id += 1
-    
-    # Store-based questions
-    stores = list(set(p.get("store") for p in products if p.get("store")))
-    for store in stores[:5]:  # Limit to top 5 stores
-        templates.append(QuestionTemplate(
-            template_id=template_id,
-            template_text="Do you prefer products from {store}?",
-            attribute_key="store",
-            attribute_type="store",
-            values=[store]
-        ))
-        template_id += 1
-    
-    # Feature-based questions from raw attributes
-    all_attrs = set()
-    for p in products:
-        raw = p.get("raw", {})
-        for k, v in raw.items():
-            if isinstance(v, (str, bool)) and k not in {"title", "description"}:
-                all_attrs.add(k)
-    
-    for attr in list(all_attrs)[:10]:  # Limit to 10 features
-        templates.append(QuestionTemplate(
-            template_id=template_id,
-            template_text="Do you care about {feature}?",
-            attribute_key=attr,
-            attribute_type="boolean",
-            values=[attr]
-        ))
-        template_id += 1
-    
-    return templates
-
-
 class RecoEnv(gym.Env):
     """
     Interactive recommendation environment that tests question-asking ability.
     
     Actions:
     - 0 to (num_products-1): recommend product i
-    - num_products to (num_products+num_questions-1): ask question j
+    - num_products: ask a question (LLM generates question dynamically)
     
     Observations:
     - Product features (price, store, title_length, etc.)
-    - Asked questions mask (binary vector)
-    - Question answers (encoded responses)
+    - Dialog history (asked questions and answers)
     - Remaining question budget
     """
     
@@ -125,14 +48,12 @@ class RecoEnv(gym.Env):
         self.current_category = None
         self.products = []
         self.product_ids = []
-        self.question_templates = []
         self.oracle_scores = []
-        self.asked_questions = set()
-        self.question_answers = {}
+        self.dialog_history = []  # List of (question, answer) tuples
         self.questions_remaining = max_questions
         self.episode_step = 0
         
-        # Action space: recommend products + ask questions
+        # Action space: recommend products + ask question
         self.action_space = spaces.Discrete(100)  # Will be resized in reset
         
         # Observation space: product features + dialog state
@@ -141,11 +62,8 @@ class RecoEnv(gym.Env):
                 low=-np.inf, high=np.inf, 
                 shape=(50, 10), dtype=np.float32  # max 50 products, 10 features each
             ),
-            "asked_questions": spaces.Box(
-                low=0, high=1, shape=(20,), dtype=np.float32  # max 20 questions
-            ),
-            "question_answers": spaces.Box(
-                low=-1, high=1, shape=(20,), dtype=np.float32  # -1=unknown, 0=no, 1=yes
+            "dialog_history": spaces.Box(
+                low=-1, high=1, shape=(max_questions * 2, 50), dtype=np.float32  # questions + answers, max 50 chars each
             ),
             "budget_remaining": spaces.Box(
                 low=0, high=max_questions, shape=(1,), dtype=np.float32
@@ -190,23 +108,18 @@ class RecoEnv(gym.Env):
         
         self.product_ids = [p["id"] for p in self.products]
         
-        # Build question templates for this category
-        self.question_templates = build_question_templates(self.products)
-        
         # Compute oracle scores (hidden ground truth)
         self.oracle_scores = self.user_model.score_products(self.current_category, self.products)
         self.oracle_scores.sort(key=lambda x: x[1], reverse=True)  # Sort by score descending
         
         # Reset episode state
-        self.asked_questions = set()
-        self.question_answers = {}
+        self.dialog_history = []
         self.questions_remaining = self.max_questions
         self.episode_step = 0
         
-        # Resize action space
+        # Resize action space: products + 1 for "ask question"
         num_products = len(self.products)
-        num_questions = len(self.question_templates)
-        self.action_space = spaces.Discrete(num_products + num_questions)
+        self.action_space = spaces.Discrete(num_products + 1)
         
         # Build initial observation
         obs = self._build_observation()
@@ -214,10 +127,9 @@ class RecoEnv(gym.Env):
         info = {
             "category": self.current_category,
             "num_products": num_products,
-            "num_questions": num_questions,
             "action_map": {
                 "recommend": list(range(num_products)),
-                "ask": list(range(num_products, num_products + num_questions))
+                "ask": [num_products]
             },
             "product_ids": self.product_ids,
             "oracle_best_id": self.oracle_scores[0][0] if self.oracle_scores else None,
@@ -231,10 +143,9 @@ class RecoEnv(gym.Env):
         self.episode_step += 1
         
         num_products = len(self.products)
-        num_questions = len(self.question_templates)
         
         # Debug output
-        print(f"[DEBUG] Action: {action}, num_products: {num_products}, num_questions: {num_questions}")
+        print(f"[DEBUG] Action: {action}, num_products: {num_products}")
         
         if action < num_products:
             # Recommend action
@@ -264,7 +175,7 @@ class RecoEnv(gym.Env):
                 "regret": regret,
                 "top1": chosen_product_id == best_id,
                 "top3": chosen_product_id in [pid for pid, _ in self.oracle_scores[:3]],
-                "questions_asked": len(self.asked_questions),
+                "questions_asked": len(self.dialog_history),
                 "efficiency_bonus": efficiency_bonus,
                 "score_reward": score_reward,
                 "regret_reward": regret_reward
@@ -275,34 +186,24 @@ class RecoEnv(gym.Env):
             for key in obs:
                 obs[key].fill(0)
             
-        else:
+        elif action == num_products:
             # Ask question action
-            question_idx = action - num_products
-            if question_idx >= num_questions or question_idx in self.asked_questions:
-                # Invalid question - small penalty
+            if self.questions_remaining <= 0:
+                # No questions left - small penalty
                 reward = -0.1
                 terminated = False
-                truncated = False
-                info = {"action_type": "invalid_question", "question_idx": question_idx}
+                truncated = True
+                info = {"action_type": "no_questions_left"}
             else:
-                # Ask the question
-                template = self.question_templates[question_idx]
-                question_text = template.generate_question()
+                # The LLM agent should generate the question dynamically
+                # For now, we'll use a placeholder that the agent can override
+                question_text = "What are your preferences for this product category?"
                 
                 # Get user response
                 answer = self.user_model.respond(question_text)
                 
-                # Simple answer encoding: -1=unknown, 0=no, 1=yes
-                answer_encoded = 0.0  # Default to "no"
-                if any(word in answer.lower() for word in ["yes", "yep", "sure", "like", "prefer"]):
-                    answer_encoded = 1.0
-                elif any(word in answer.lower() for word in ["no", "nope", "don't", "not"]):
-                    answer_encoded = 0.0
-                else:
-                    answer_encoded = 0.5  # Neutral/uncertain
-                
-                self.asked_questions.add(question_idx)
-                self.question_answers[question_idx] = answer_encoded
+                # Add to dialog history
+                self.dialog_history.append((question_text, answer))
                 self.questions_remaining -= 1
                 
                 # Small step penalty to encourage efficiency
@@ -312,13 +213,20 @@ class RecoEnv(gym.Env):
                 
                 info = {
                     "action_type": "ask",
-                    "question_idx": question_idx,
                     "question_text": question_text,
                     "answer": answer,
-                    "answer_encoded": answer_encoded,
-                    "questions_remaining": self.questions_remaining
+                    "questions_remaining": self.questions_remaining,
+                    "dialog_length": len(self.dialog_history)
                 }
             
+            obs = self._build_observation()
+        
+        else:
+            # Invalid action
+            reward = -0.1
+            terminated = False
+            truncated = False
+            info = {"action_type": "invalid", "action": action}
             obs = self._build_observation()
         
         return obs, reward, terminated, truncated, info
@@ -327,7 +235,7 @@ class RecoEnv(gym.Env):
         """Build observation from current state."""
         num_products = len(self.products)
         max_products = 50
-        max_questions = 20
+        max_dialog_entries = self.max_questions * 2  # questions + answers
         
         # Product features
         product_features = np.zeros((max_products, 10), dtype=np.float32)
@@ -352,17 +260,16 @@ class RecoEnv(gym.Env):
                 elif isinstance(value, str):
                     product_features[i, 3 + j] = len(value) / 50.0
         
-        # Asked questions mask
-        asked_questions = np.zeros(max_questions, dtype=np.float32)
-        for q_idx in self.asked_questions:
-            if q_idx < max_questions:
-                asked_questions[q_idx] = 1.0
-        
-        # Question answers
-        question_answers = np.full(max_questions, -1.0, dtype=np.float32)  # -1 = unknown
-        for q_idx, answer in self.question_answers.items():
-            if q_idx < max_questions:
-                question_answers[q_idx] = answer
+        # Dialog history (questions and answers as character embeddings)
+        dialog_history = np.zeros((max_dialog_entries, 50), dtype=np.float32)
+        for i, (question, answer) in enumerate(self.dialog_history[:self.max_questions]):
+            # Encode question (even indices)
+            question_chars = [ord(c) % 128 for c in question[:50]]
+            dialog_history[i * 2, :len(question_chars)] = np.array(question_chars, dtype=np.float32) / 127.0
+            
+            # Encode answer (odd indices)
+            answer_chars = [ord(c) % 128 for c in answer[:50]]
+            dialog_history[i * 2 + 1, :len(answer_chars)] = np.array(answer_chars, dtype=np.float32) / 127.0
         
         # Budget remaining
         budget_remaining = np.array([self.questions_remaining / self.max_questions], dtype=np.float32)
@@ -375,8 +282,7 @@ class RecoEnv(gym.Env):
         
         return {
             "product_features": product_features,
-            "asked_questions": asked_questions,
-            "question_answers": question_answers,
+            "dialog_history": dialog_history,
             "budget_remaining": budget_remaining,
             "category_encoded": category_encoded
         }
@@ -386,8 +292,13 @@ class RecoEnv(gym.Env):
             print(f"\n=== Episode {self.episode_count} ===")
             print(f"Category: {self.current_category}")
             print(f"Products: {len(self.products)}")
-            print(f"Questions asked: {len(self.asked_questions)}")
+            print(f"Questions asked: {len(self.dialog_history)}")
             print(f"Questions remaining: {self.questions_remaining}")
+            if self.dialog_history:
+                print("Dialog history:")
+                for i, (q, a) in enumerate(self.dialog_history):
+                    print(f"  Q{i+1}: {q}")
+                    print(f"  A{i+1}: {a}")
             if self.oracle_scores:
                 best_id, best_score = self.oracle_scores[0]
                 print(f"Oracle best: {best_id} (score: {best_score:.1f})")
