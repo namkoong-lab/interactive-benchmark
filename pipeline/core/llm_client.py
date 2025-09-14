@@ -43,9 +43,34 @@ def _ensure_gemini_configured() -> None:
         _gemini_configured = True
 
 
+
+
+try:
+    import anthropic
+    _claude_available = True
+except ImportError:
+    anthropic = None
+    _claude_available = False
+
+_anthropic_client: Optional[anthropic.Anthropic] = None
+
+def _get_anthropic_client() -> anthropic.Anthropic:
+    global _anthropic_client
+    if not _claude_available:
+        raise RuntimeError("anthropic library not installed. Please `pip install anthropic`.")
+    if _anthropic_client is None:
+        api_key = os.getenv("ANTHROPIC_API_KEY")
+        if not api_key:
+            raise RuntimeError("ANTHROPIC_API_KEY is not set in environment.")
+        _anthropic_client = anthropic.Anthropic(api_key=api_key)
+    return _anthropic_client
+
+
 def _is_gemini_model(model: str) -> bool:
     return model.startswith("gemini-")
 
+def _is_claude_model(model: str) -> bool:
+    return model.startswith("claude-")
 
 def chat_completion(
     messages: List[Dict[str, str]],
@@ -70,6 +95,15 @@ def chat_completion(
             max_tokens=max_tokens,
             json_mode=json_mode,
             response_schema=response_schema,
+            system_prompt_override=system_prompt_override,
+        )
+    elif _is_claude_model(model):
+        return _claude_chat_completion(
+            messages=messages,
+            model=model,
+            temperature=temperature,
+            max_tokens=max_tokens,
+            json_mode=json_mode,
             system_prompt_override=system_prompt_override,
         )
     else:
@@ -155,3 +189,30 @@ def _gemini_chat_completion(
     return (resp.text or "").strip()
 
 
+def _claude_chat_completion(
+    messages: List[Dict[str, str]],
+    model: str,
+    temperature: float,
+    max_tokens: int,
+    json_mode: bool,
+    system_prompt_override: Optional[str],
+) -> str:
+    client = _get_anthropic_client()
+    system_prompt = system_prompt_override
+    if not system_prompt:
+        for m in messages:
+            if m.get("role") == "system":
+                system_prompt = m.get("content")
+                break
+            
+    user_messages = [m for m in messages if m.get("role") != "system"]
+    
+    resp = client.messages.create(
+        model=model,
+        max_tokens=max_tokens,
+        system=system_prompt,
+        messages=user_messages,
+        temperature=temperature,
+        
+    )
+    return resp.content[0].text.strip()
