@@ -8,8 +8,7 @@ from .simulate_interaction import (
     get_products_by_category, 
     list_categories,
     simulated_user_respond,
-    score_products_for_persona,
-    ai_recommender_interact
+    score_products_for_persona
 )
 from .user_model import UserModel
 from .metrics import EpisodeRecord, MetricsRecorder
@@ -21,7 +20,6 @@ __all__ = [
     'list_categories',
     'simulated_user_respond',
     'score_products_for_persona',
-    'ai_recommender_interact',
     'UserModel',
     'EpisodeRecord',
     'MetricsRecorder'
