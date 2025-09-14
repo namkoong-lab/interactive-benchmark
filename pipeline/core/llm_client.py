@@ -42,9 +42,6 @@ def _ensure_gemini_configured() -> None:
         genai.configure(api_key=api_key)
         _gemini_configured = True
 
-
-
-
 try:
     import anthropic
     _claude_available = True
@@ -212,7 +209,6 @@ def _claude_chat_completion(
         max_tokens=max_tokens,
         system=system_prompt,
         messages=user_messages,
-        temperature=temperature,
-        
+        temperature=temperature,       
     )
     return resp.content[0].text.strip()
