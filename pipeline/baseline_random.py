@@ -39,8 +39,10 @@ class RandomAgent:
         """
         Always chooses to make a recommendation immediately.
         """
-        # A random agent does not need to ask questions.
-        # It proceeds directly to making a recommendation.
+        if 'num_products' in info:
+            self.current_episode_info = info
+        
+        # A random agent proceeds directly to making a recommendation, no questions needed.
         return self._choose_recommendation(obs, info)
     
     def _choose_recommendation(self, obs: Dict[str, np.ndarray], info: Dict[str, Any]) -> int:
@@ -48,14 +50,17 @@ class RandomAgent:
         Choose a random product to recommend.
         """
         # Determine the number of available products from the info dict or observation
-        if 'num_products' in info:
-            num_products = info['num_products']
+        num_products = 0
+        if self.current_episode_info is not None:
+            num_products = self.current_episode_info['num_products']
+        elif 'num_products' in info:
+             num_products = info['num_products']
         else:
-            # Fallback for subsequent steps if info is not fully populated
+            # Fallback via observation if info is incomplete
             num_products = np.count_nonzero(np.any(obs['product_features'] != 0, axis=1))
             
         if num_products == 0:
-            return 0 # Should not happen, but as a safe fallback
+            return 0 # Should not happen in theory, but serves as a safe fallback
             
         # CORE LOGIC: Choose a random product index
         best_product_idx = np.random.randint(0, num_products)
@@ -73,24 +78,25 @@ def run_baseline_random(persona_index: int = 42,
                         categories: List[str] = None,
                         episodes_per_category: int = 5,
                         max_questions: int = 8,
-                        output_dir: str = "exp1_baseline_random_results"):
+                        model: str = "random", # model parameter is ignored but kept for consistency
+                        output_dir: str = "baseline_random_results"):
     """
     Run the Random Recommendation baseline experiment.
     The structure is identical to run_experiment1 for fair comparison.
     """
     
-    print(f"=== Baseline Experiment1: Random Recommendation ===")
+    print(f"=== Baseline Experiment: Random Recommendation ===")
     print(f"Persona: {persona_index}")
     print(f"Episodes per category: {episodes_per_category}")
-    print(f"Categories: {categories or 'Default'}")
     
     os.makedirs(output_dir, exist_ok=True)
     
+    # If the environment is not already registered, register it
     if "RecoEnv-v0" not in gym.envs.registry:
         gym.register("RecoEnv-v0", entry_point="pipeline.envs.reco_env:RecoEnv")
     
     # Create the RandomAgent
-    agent = RandomAgent()
+    agent = RandomAgent(model=model, max_questions=max_questions)
     
     from .core.simulate_interaction import list_categories
     available_categories = list_categories()
@@ -99,7 +105,7 @@ def run_baseline_random(persona_index: int = 42,
     else:
         categories = [cat for cat in categories if cat in available_categories]
     
-    print(f"Running on categories: {categories}")
+    print(f"Categories: {categories}")
     
     all_results = []
     category_results = {cat: [] for cat in categories}
@@ -124,7 +130,7 @@ def run_baseline_random(persona_index: int = 42,
             
             obs, initial_info = metrics_wrapper.reset()
             
-            # Since RandomAgent recommends immediately, the loop will run only once.
+            # Since RandomAgent recommends immediately, the loop will only run once.
             terminated = False
             truncated = False
             step_count = 0
@@ -149,11 +155,12 @@ def run_baseline_random(persona_index: int = 42,
             all_results.append(episode_result)
             category_results[category].append(episode_result)
             
-            agent.update_preferences(episode_result) # Does nothing, but called for consistency
+            # This method does nothing, but is called for consistency
+            agent.update_preferences(episode_result)
             
             metrics_wrapper.close()
     
-    # Analyze results (the same way as in experiment1)
+    # Analyze results in the same way as in experiment1
     print(f"\n=== Results Analysis for Random Baseline ===")
     
     print("\nPerformance by Category:")
@@ -161,9 +168,9 @@ def run_baseline_random(persona_index: int = 42,
         scores = [r['final_info'].get('chosen_score', 0) for r in results if 'chosen_score' in r['final_info']]
         if scores:
             avg_score = np.mean(scores)
-            print(f"  {category}: Avg Score: {avg_score:.1f}")
+            top1_rate = np.mean([r['final_info'].get('top1', False) for r in results])
+            print(f"  {category}: Avg Score: {avg_score:.1f}, Top-1 Accuracy: {top1_rate:.1%}")
     
-    # The learning progression for a random agent should be flat (around 0).
     print("\nLearning Progression (should be flat for random):")
     for category, results in category_results.items():
         scores = [r['final_info'].get('chosen_score', 0) for r in results if 'chosen_score' in r['final_info']]
@@ -173,10 +180,10 @@ def run_baseline_random(persona_index: int = 42,
             improvement = second_half - first_half
             print(f"  {category}: {first_half:.1f} → {second_half:.1f} (Δ{improvement:+.1f})")
     
-    results_file = os.path.join(output_dir, "exp1_baseline_random_results.json")
+    results_file = os.path.join(output_dir, "baseline_random_results.json")
     with open(results_file, 'w') as f:
         json.dump({
-            'experiment1': 'Baseline: Random Recommendation',
+            'experiment': 'Baseline: Random Recommendation',
             'timestamp': datetime.now().isoformat(),
             'config': {'persona_index': persona_index, 'categories': categories, 'episodes_per_category': episodes_per_category},
             'results': all_results
@@ -184,3 +191,4 @@ def run_baseline_random(persona_index: int = 42,
     
     print(f"\nResults saved to: {results_file}")
     return all_results, category_results
+

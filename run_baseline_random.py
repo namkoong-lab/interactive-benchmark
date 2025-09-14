@@ -10,7 +10,7 @@ import os
 sys.path.append(os.path.join(os.path.dirname(__file__), 'pipeline'))
 
 # Import the specific runner function for this baseline
-from pipeline.exp1_random import run_baseline_random
+from pipeline.baseline_random import run_baseline_random
 
 if __name__ == "__main__":
     # Run a small version of the experiment for testing
@@ -23,8 +23,9 @@ if __name__ == "__main__":
         categories=["Headphones", "Coffee Makers"],  # Use the same categories
         episodes_per_category=3,                  # Use the same number of episodes
         max_questions=5,                          # This setting won't be used by the agent but is kept for consistency
-        output_dir="exp1_baseline_random_results"      # Save results to a separate directory
+        output_dir="baseline_random_results"      # Save results to a separate directory
     )
     
     print("\nRandom baseline experiment completed!")
-    print("Check the 'exp1_baseline_random_results' directory for detailed results.")
+    print("Check the 'baseline_random_results' directory for detailed results.")
+
