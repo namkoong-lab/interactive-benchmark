@@ -70,13 +70,11 @@ class LLMAgent:
                 num_products = self.current_episode_info['num_products']
                 category = self.current_episode_info['category']
         
-        budget_remaining = obs['budget_remaining'][0]
-        
         # Extract dialog history
         dialog_history = self._extract_dialog_history(obs)
         
-        # Simple strategy: ask questions if we have budget and haven't learned enough
-        if budget_remaining > 0 and len(dialog_history) < 3:
+        # Agent-determined questioning; environment enforces a hard safety cap
+        if len(dialog_history) < 3:
             return num_products  # Ask a question
         else:
             # Make a recommendation based on learned preferences

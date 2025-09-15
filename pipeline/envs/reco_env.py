@@ -20,14 +20,13 @@ class RecoEnv(gym.Env):
     Observations:
     - Product features (price, store, title_length, etc.)
     - Dialog history (asked questions and answers)
-    - Remaining question budget
     """
     
     metadata = {"render_modes": ["human"]}
     
     def __init__(self, 
                  persona_index: int = 0,
-                 max_questions: int = 8,
+                 max_questions: int = 20,
                  categories: Optional[List[str]] = None,
                  seed: Optional[int] = None):
         super().__init__()
@@ -60,9 +59,6 @@ class RecoEnv(gym.Env):
             ),
             "dialog_history": spaces.Box(
                 low=-1, high=1, shape=(max_questions * 2, 50), dtype=np.float32  # questions + answers, max 50 chars each
-            ),
-            "budget_remaining": spaces.Box(
-                low=0, high=max_questions, shape=(1,), dtype=np.float32
             ),
             "category_encoded": spaces.Box(
                 low=0, high=1, shape=(10,), dtype=np.float32  # one-hot category
@@ -154,10 +150,8 @@ class RecoEnv(gym.Env):
             score_reward = chosen_score / 100.0  # Normalize to [0,1]
             regret_reward = -regret / 100.0  # Negative regret reward
             
-            # Efficiency bonus for unused questions
-            efficiency_bonus = (self.questions_remaining / self.max_questions) * 0.1
-            
-            reward = score_reward + efficiency_bonus
+            # Final reward does not include budget-based efficiency bonus
+            reward = score_reward
             
             terminated = True
             truncated = False
@@ -172,7 +166,6 @@ class RecoEnv(gym.Env):
                 "top1": chosen_product_id == best_id,
                 "top3": chosen_product_id in [pid for pid, _ in self.oracle_scores[:3]],
                 "questions_asked": len(self.dialog_history),
-                "efficiency_bonus": efficiency_bonus,
                 "score_reward": score_reward,
                 "regret_reward": regret_reward
             }
@@ -211,7 +204,6 @@ class RecoEnv(gym.Env):
                     "action_type": "ask",
                     "question_text": question_text,
                     "answer": answer,
-                    "questions_remaining": self.questions_remaining,
                     "dialog_length": len(self.dialog_history)
                 }
             
@@ -267,9 +259,6 @@ class RecoEnv(gym.Env):
             answer_chars = [ord(c) % 128 for c in answer[:50]]
             dialog_history[i * 2 + 1, :len(answer_chars)] = np.array(answer_chars, dtype=np.float32) / 127.0
         
-        # Budget remaining
-        budget_remaining = np.array([self.questions_remaining / self.max_questions], dtype=np.float32)
-        
         # Category encoding (simple hash)
         category_encoded = np.zeros(10, dtype=np.float32)
         if self.current_category:
@@ -279,7 +268,6 @@ class RecoEnv(gym.Env):
         return {
             "product_features": product_features,
             "dialog_history": dialog_history,
-            "budget_remaining": budget_remaining,
             "category_encoded": category_encoded
         }
     
@@ -289,7 +277,6 @@ class RecoEnv(gym.Env):
             print(f"Category: {self.current_category}")
             print(f"Products: {len(self.products)}")
             print(f"Questions asked: {len(self.dialog_history)}")
-            print(f"Questions remaining: {self.questions_remaining}")
             if self.dialog_history:
                 print("Dialog history:")
                 for i, (q, a) in enumerate(self.dialog_history):

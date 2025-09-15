@@ -22,7 +22,6 @@ if __name__ == "__main__":
         persona_index=42,
         categories=["Headphones", "Coffee Makers"],  # Use the same categories
         episodes_per_category=3,                  # Use the same number of episodes
-        max_questions=5,                          # This setting won't be used by the agent but is kept for consistency
         output_dir="baseline_random_results"      # Save results to a separate directory
     )
     

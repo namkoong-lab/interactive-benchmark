@@ -21,7 +21,6 @@ if __name__ == "__main__":
         persona_index=42,
         categories=["Headphones", "Coffee Makers"],  # Just 2 categories for testing
         episodes_per_category=3,  # 3 episodes per category
-        max_questions=5,
         model="gpt-4o",
         output_dir="experiment1_results"
     )
