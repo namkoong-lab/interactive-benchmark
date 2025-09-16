@@ -49,9 +49,9 @@ except ImportError:
     anthropic = None
     _claude_available = False
 
-_anthropic_client: Optional[anthropic.Anthropic] = None
+_anthropic_client: Optional[Any] = None
 
-def _get_anthropic_client() -> anthropic.Anthropic:
+def _get_anthropic_client() -> Any:
     global _anthropic_client
     if not _claude_available:
         raise RuntimeError("anthropic library not installed. Please `pip install anthropic`.")

@@ -1,4 +1,0 @@
-episode,category,chosen_id,best_id,chosen_score,best_score,regret,top1,top3,num_questions,rationale,agent_model
-0,12V Batteries,77976,78153,7.5,20.0,12.5,False,False,0,,gym_agent
-1,2 in 1 Laptop Computers,66801,70577,80.0,84.0,4.0,False,True,1,,gym_agent
-2,2-in-1 Shampoo & Conditioner,36356,36200,25.0,87.5,62.5,False,False,0,,gym_agent
