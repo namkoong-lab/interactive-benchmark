@@ -21,13 +21,11 @@ try:
     # Check version
     try:
         import google.generativeai
-        print(f"[DEBUG] Gemini version: {google.generativeai.__version__}")
     except:
         pass
 except Exception as e:
     genai = None
     _gemini_available = False
-    print(f"[DEBUG] Gemini import failed: {e}")
 
 _gemini_configured = False
 
@@ -56,9 +54,9 @@ def _get_anthropic_client() -> Any:
     if not _claude_available:
         raise RuntimeError("anthropic library not installed. Please `pip install anthropic`.")
     if _anthropic_client is None:
-        api_key = os.getenv("ANTHROPIC_API_KEY")
+        api_key = os.getenv("CLAUDE_API_KEY")
         if not api_key:
-            raise RuntimeError("ANTHROPIC_API_KEY is not set in environment.")
+            raise RuntimeError("CLAUDE_API_KEY is not set in environment.")
         _anthropic_client = anthropic.Anthropic(api_key=api_key)
     return _anthropic_client
 
@@ -195,20 +193,36 @@ def _claude_chat_completion(
     system_prompt_override: Optional[str],
 ) -> str:
     client = _get_anthropic_client()
+    # Extract optional system prompt
     system_prompt = system_prompt_override
     if not system_prompt:
         for m in messages:
             if m.get("role") == "system":
                 system_prompt = m.get("content")
                 break
-            
-    user_messages = [m for m in messages if m.get("role") != "system"]
-    
+
+    # Convert messages to Anthropic format: content must be a list of blocks
+    claude_messages: List[Dict[str, Any]] = []
+    for m in messages:
+        role = m.get("role")
+        if role == "system":
+            continue
+        mapped_role = "user" if role == "user" else "assistant"
+        claude_messages.append({
+            "role": mapped_role,
+            "content": [{"type": "text", "text": m.get("content", "")}],
+        })
+
+    # Anthropic expects system as list of content blocks or an empty list
+    system_blocks = (
+        [{"type": "text", "text": system_prompt}] if system_prompt else []
+    )
+
     resp = client.messages.create(
         model=model,
         max_tokens=max_tokens,
-        system=system_prompt,
-        messages=user_messages,
-        temperature=temperature,       
+        system=system_blocks,
+        messages=claude_messages,
+        temperature=temperature,
     )
-    return resp.content[0].text.strip()
+    return (resp.content[0].text or "").strip()

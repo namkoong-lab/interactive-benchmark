@@ -68,33 +68,33 @@ class LLMAgent:
         products = self._get_product_info(obs, info, num_products)
         context = self._build_llm_context(products, dialog_history, category)
         
-        unified_prompt = f"""You are a product recommendation agent. Your goal is to find the best product for a user by asking strategic questions.
+        unified_prompt = f"""You are a product recommendation agent. Your goal is to find the best product for this user.
 
+Context:
 {context}
 
-Based on the conversation so far, you have two options:
-1. If you need more information, ask a strategic question to learn about their preferences
-2. If you're confident enough, recommend a specific product
+Task:
+Based on the conversation so far, either:
+- Ask one short, consumer-friendly question to clarify user preferences, or
+- If sufficiently confident, recommend one product by index. You must be reasonable confident, howver, that you can choose the best product for the user. 
 
-RESPOND IN ONE OF THESE FORMATS:
-To ask a question:
-QUESTION: [Your strategic question here]
+Output format (MUST be exactly one line, no extra text):
+- To ask: QUESTION: <your question>
+- To recommend: RECOMMEND: <number 0-{num_products-1}>
 
-To recommend a product:
-RECOMMEND: [Product number 0-{num_products-1}]
-
-Examples:
-QUESTION: What's your budget range for this category?
-RECOMMEND: 3
-
-Your response:"""
+Rules:
+- Do not include explanations, reasoning, bullets, or multiple questions
+- Avoid jargon; use everyday language a shopper understands
+- Keep questions specific and helpful (budget, size, brand/style preference, key feature)
+- No meta commentary like “this is strategic because…”, only the question or recommendation
+"""
 
         try:
             response = chat_completion(
                 messages=[{"role": "user", "content": unified_prompt}],
                 model=self.model,
-                temperature=0.3,
-                max_tokens=150
+                temperature=0.2,
+                max_tokens=60
             )
             
             self.last_response = response.strip()
@@ -124,9 +124,7 @@ Your response:"""
                 return num_products
                 
         except Exception as e:
-            print(f"[WARN] LLM decision failed: {e}, falling back to random choice")
-            import random
-            return random.randint(0, num_products - 1)
+            raise RuntimeError(f"LLM decision failed: {e}")
     
     def _get_product_info(self, obs: Dict[str, np.ndarray], info: Dict[str, Any], num_products: int) -> List[Dict]:
         """Extract product information from observation."""
@@ -378,7 +376,18 @@ def run_experiment1(persona_index: int = 42,
         'total_questions': sum(episode_questions) if episode_questions else 0
     }
     
-    results_file = os.path.join(output_dir, "experiment1_results.json")
+    # Category information
+    category_info = {}
+    for cat, results in category_results.items():
+        if results:
+            category_info[cat] = {
+                'num_products': results[0]['product_info']['num_products'],
+                'episodes': len(results)
+            }
+    
+    # Create model-specific filename to avoid collisions
+    model_safe_name = model.replace("/", "_").replace(":", "_")
+    results_file = os.path.join(output_dir, f"experiment1_results_{model_safe_name}.json")
     with open(results_file, 'w') as f:
         json.dump({
             'experiment': 'Experiment 1: LLM Learning Across Categories',
@@ -386,6 +395,7 @@ def run_experiment1(persona_index: int = 42,
             'summary': {
                 'regret_progression': regret_progression,
                 'questions_progression': questions_progression,
+                'category_info': category_info,
                 'overall_performance': {
                     'avg_score': np.mean(episode_scores) if episode_scores else 0,
                     'total_episodes': len(all_results),

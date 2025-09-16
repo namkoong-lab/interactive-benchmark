@@ -18,12 +18,11 @@ if __name__ == "__main__":
     results, category_results = run_experiment1(
         persona_index=42,
         categories=None,  
-        num_categories=5, 
+        num_categories=1, 
         episodes_per_category=1,
         max_questions=10,  
-        model="gpt-4o",
+        model="claude-3-5-sonnet-20241022",
         output_dir="experiment1_results"
     )
     
     print("\nExperiment completed!")
-    print("Check the 'experiment1_results' directory for detailed results.")
