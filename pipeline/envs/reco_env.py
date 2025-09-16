@@ -28,13 +28,16 @@ class RecoEnv(gym.Env):
                  persona_index: int = 0,
                  max_questions: int = 20,
                  categories: Optional[List[str]] = None,
-                 seed: Optional[int] = None):
+                 seed: Optional[int] = None,
+                 agent: Optional[Any] = None):
         super().__init__()
         
         self.persona_index = persona_index
         self.max_questions = max_questions
         self.categories = categories or list_categories()
         self.seed = seed
+        self.agent = agent
+        self.last_agent_response = None  # Store agent's last response for question extraction
         
         # Initialize user model
         self.user_model = UserModel(persona_index)
@@ -184,9 +187,19 @@ class RecoEnv(gym.Env):
                 truncated = True
                 info = {"action_type": "no_questions_left"}
             else:
-                # The LLM agent should generate the question dynamically
-                # For now, we'll use a placeholder that the agent can override
-                question_text = "What are your preferences for this product category?"
+                # Extract question from agent's last response
+                if self.agent and hasattr(self.agent, 'last_response') and self.agent.last_response:
+                    response = self.agent.last_response
+                    if "QUESTION:" in response.upper():
+                        question_text = response.split("QUESTION:", 1)[1].strip()
+                        # Clean up the question
+                        if not question_text.endswith('?'):
+                            question_text += "?"
+                    else:
+                        question_text = "What are your preferences for this product category?"
+                else:
+                    # Fallback to simple question
+                    question_text = "What are your preferences for this product category?"
                 
                 # Get user response
                 answer = self.user_model.respond(question_text)
