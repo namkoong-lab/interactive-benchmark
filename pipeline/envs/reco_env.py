@@ -31,7 +31,8 @@ class RecoEnv(gym.Env):
                  categories: Optional[List[str]] = None,
                  seed: Optional[int] = None,
                  agent: Optional[Any] = None,
-                 feedback_system: Optional[FeedbackSystem] = None):
+                 feedback_system: Optional[FeedbackSystem] = None,
+                 cached_scores: Optional[List[Tuple[int, float]]] = None):
         super().__init__()
         
         self.persona_index = persona_index
@@ -40,6 +41,7 @@ class RecoEnv(gym.Env):
         self.seed = seed
         self.agent = agent
         self.last_agent_response = None  # Store agent's last response for question extraction
+        self.cached_scores = cached_scores  # Pre-computed scores to avoid re-scoring
         
         # Initialize user model
         self.user_model = UserModel(persona_index)
@@ -108,9 +110,17 @@ class RecoEnv(gym.Env):
         
         self.product_ids = [p["id"] for p in self.products]
         
-        # Compute oracle scores (hidden ground truth)
-        self.oracle_scores = self.user_model.score_products(self.current_category, self.products)
-        self.oracle_scores.sort(key=lambda x: x[1], reverse=True)  # Sort by score descending
+        # Compute oracle scores (hidden ground truth) - use cached scores if available
+        if self.cached_scores:
+            # Use pre-computed scores to avoid re-scoring
+            # cached_scores is a list of (product_id, score) tuples
+            self.oracle_scores = [(pid, score) for pid, score in self.cached_scores 
+                                 if pid in self.product_ids]
+            self.oracle_scores.sort(key=lambda x: x[1], reverse=True)  # Sort by score descending
+        else:
+            # Fallback to scoring if no cached scores provided
+            self.oracle_scores = self.user_model.score_products(self.current_category, self.products)
+            self.oracle_scores.sort(key=lambda x: x[1], reverse=True)  # Sort by score descending
         
         # Reset episode state
         self.dialog_history = []

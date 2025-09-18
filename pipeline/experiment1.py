@@ -86,7 +86,7 @@ Rules:
 - Do not include explanations, reasoning, bullets, or multiple questions
 - Avoid jargon; use everyday language a shopper understands
 - Keep questions specific and helpful (budget, size, brand/style preference, key feature)
-- No meta commentary like “this is strategic because…”, only the question or recommendation
+- No meta commentary like "this is strategic because…", only the question or recommendation
 """
 
         try:
@@ -293,17 +293,17 @@ def run_experiment1(persona_index: int = 42,
         try:
             products = get_products_by_category(category)
             if not products:
-                return False, 0.0
+                return False, 0.0, []
                 
             user_model = UserModel(persona_index)
             scores = user_model.score_products(category, products)
             if scores:
                 max_score = max(score for _, score in scores)
-                return max_score > min_score_threshold, max_score
-            return False, 0.0
+                return max_score > min_score_threshold, max_score, scores
+            return False, 0.0, []
         except Exception as e:
             print(f"  Error checking category {category}: {e}")
-            return False, 0.0
+            return False, 0.0, []
     
     # Initialize category selection
     if categories is None:
@@ -329,7 +329,7 @@ def run_experiment1(persona_index: int = 42,
         print(f"\n--- Testing Category: {category} ---")
         
         # Check if this category is relevant for the persona
-        is_relevant, max_score = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
+        is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
         if not is_relevant:
             print(f"  Category {category}: Max score {max_score:.1f} ≤ {min_score_threshold}, skipping category")
             # Skip all episodes for this category
@@ -351,7 +351,8 @@ def run_experiment1(persona_index: int = 42,
                 max_questions=max_questions,
                 categories=[category],  
                 agent=agent,
-                feedback_system=feedback_system
+                feedback_system=feedback_system,
+                cached_scores=cached_scores
             )
             
             metrics_wrapper = MetricsWrapper(env, 

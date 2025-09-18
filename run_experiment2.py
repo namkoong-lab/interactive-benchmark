@@ -20,7 +20,7 @@ if __name__ == "__main__":
         persona_indices=None,  # Will randomly select
         num_personas=10,
         episodes_per_persona=2,
-        max_questions=8,
+        max_questions=30,
         model="gpt-4o",
         feedback_type="none",
         min_score_threshold=50.0,

@@ -1,0 +1,1329 @@
+{
+  "experiment": "Experiment 1: LLM Learning Across Categories",
+  "timestamp": "2025-09-17T20:55:31.554093",
+  "summary": {
+    "regret_progression": {
+      "episode_regrets": [
+        42.5,
+        37.5
+      ],
+      "avg_regret": 40.0,
+      "regret_trend": "improving"
+    },
+    "questions_progression": {
+      "episode_questions": [
+        5,
+        5
+      ],
+      "avg_questions": 5.0,
+      "total_questions": 10
+    },
+    "category_info": {
+      "Rugs, Pads & Protectors": {
+        "num_products": 50,
+        "episodes": 1
+      },
+      "Hazardous Material Handling Products": {
+        "num_products": 47,
+        "episodes": 1
+      }
+    },
+    "overall_performance": {
+      "avg_score": 30.0,
+      "total_episodes": 2,
+      "successful_episodes": 2
+    }
+  },
+  "config": {
+    "persona_index": 254,
+    "categories": null,
+    "episodes_per_category": 1,
+    "max_questions": 30,
+    "model": "gpt-4o",
+    "feedback_type": "regret"
+  },
+  "results": [
+    {
+      "episode": 1,
+      "category": "Rugs, Pads & Protectors",
+      "episode_in_category": 1,
+      "steps": 6,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 84854,
+        "chosen_score": 40.0,
+        "best_product_id": 82950,
+        "best_score": 82.5,
+        "regret": 42.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 5,
+        "score_reward": 0.4,
+        "regret_reward": -0.425,
+        "feedback": "Recommendation feedback: Chosen score: 40.0, Best possible: 82.5, Regret: 42.5",
+        "feedback_type": "regret"
+      },
+      "full_dialog": [
+        [
+          "What's your budget for a rug or protector?",
+          "I\u2019d say around $150."
+        ],
+        [
+          "What size rug are you looking for?",
+          "I'm looking for an 8x10 rug."
+        ],
+        [
+          "Do you have a preferred style or color for the rug?",
+          "I prefer earthy tones, like a deep forest green."
+        ],
+        [
+          "Do you prefer a specific material for the rug, like wool or synthetic?",
+          "Wool."
+        ],
+        [
+          "Do you need a rug pad or protector as well?",
+          "No, I don't need one."
+        ]
+      ],
+      "product_info": {
+        "num_products": 50,
+        "products_with_scores": [
+          {
+            "id": 82950,
+            "name": "Americana Skull Round Area Rug Brown & Black Design#134 (4ft.x4ft. Round)",
+            "price": 49.97,
+            "average_score": 82.5
+          },
+          {
+            "id": 86943,
+            "name": "Hillyard Cowhide Rug Premium Black and White Real Handcrafted Grade A Natural Cowhide Rug - Sustainably Sourced and Lasts Longer Black and White Extra Large Cut - 7.5 x 6.5 ft",
+            "price": 192.0,
+            "average_score": 77.5
+          },
+          {
+            "id": 88193,
+            "name": "Maples Rugs Florence Runner Rug Non Slip Washable Hallway Entry Carpet [Made in USA], 2 x 6, Coffee Brown",
+            "price": 38.99,
+            "average_score": 75.0
+          },
+          {
+            "id": 84388,
+            "name": "IHF Rugs Blackberry Oval Braided Rug - 4'x6'",
+            "price": null,
+            "average_score": 75.0
+          },
+          {
+            "id": 2527,
+            "name": "Solid polypropylene Oval Braided Rug, 2 by 3-feet, Daffodil",
+            "price": 36.01,
+            "average_score": 72.5
+          },
+          {
+            "id": 83463,
+            "name": "SUPERIOR 4x6RUG Colburn Geometric Indoor/Outdoor Rug, 4' x 6'",
+            "price": 42.34,
+            "average_score": 67.5
+          },
+          {
+            "id": 7043,
+            "name": "Nourison Paramount Persian Gold 7'10\" x 10'6\" Area -Rug, Easy -Cleaning, Non Shedding, Bed Room, Living Room, Dining Room, Kitchen (8x11)",
+            "price": 119.65,
+            "average_score": 65.0
+          },
+          {
+            "id": 83591,
+            "name": "NaturalAreaRugs Natural Fiber Maritime Seagrass Rug, 5' by 8', Sage/Khaki",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 86880,
+            "name": "Brumlow Mills Caitlin Simple Home Indoor Floral Print Pattern Area Rug Perfect for Any Living Room Decor, Bedroom Carpet, Dining Room, Kitchen or Entryway Rug, 7'6\" x 10', Green",
+            "price": 164.79,
+            "average_score": 60.0
+          },
+          {
+            "id": 10114,
+            "name": "About Home Handwoven Multicolored Rag Rug for Living Room, Kitchen Floor 20\"x 32\"",
+            "price": 12.99,
+            "average_score": 57.5
+          },
+          {
+            "id": 7071,
+            "name": "Nourison Somerset Gold Runner Area Rug, 2-Feet by 5-Feet 9-Inches (2' x 5'9\")",
+            "price": 72.38,
+            "average_score": 57.5
+          },
+          {
+            "id": 86646,
+            "name": "ANVARUG Fluffy Rugs for Living Room, 5\u2019x8\u2019 Area Rug, Luxurious Shag Carpet Rugs for Bedroom, Anti-Skid Shaggy Rectangular Area Rug, Tie-Dyed Light Purple",
+            "price": 52.99,
+            "average_score": 57.5
+          },
+          {
+            "id": 83165,
+            "name": "Unique Loom Decatur Collection Trellis Geometric, Modern Area Rug, 5 ft 2 in x 7 ft 5 in, Black/Ivory",
+            "price": 70.9,
+            "average_score": 55.0
+          },
+          {
+            "id": 87674,
+            "name": "Liora Manne 9502/06 LEAF GREEN Rugs, 24\" x 36\",",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 11179,
+            "name": "KOECKRITZ 12'x4' - Rock-Brown-Multi - Indoor/Outdoor Area Rug Carpet, Runners & Stair Treads with a Light Weight Latex Backing",
+            "price": 132.71,
+            "average_score": 50.0
+          },
+          {
+            "id": 84745,
+            "name": "Nourison Jubilant Damask Ivory/Pink 4' x 6' Area_Rug, Easy-Cleaning, Non Shedding, Bed Room, Living Room, Dining Room, Kitchen (4x6)",
+            "price": 51.8,
+            "average_score": 45.0
+          },
+          {
+            "id": 83495,
+            "name": "Rugshop Circles Area Rug 5' x 7' Brown",
+            "price": null,
+            "average_score": 45.0
+          },
+          {
+            "id": 83179,
+            "name": "3212 Distressed Silver 7'10x10'6 Area Rug Carpet Large New",
+            "price": 169.99,
+            "average_score": 45.0
+          },
+          {
+            "id": 84604,
+            "name": "Chris Loves Julia x Loloi Rosemarie Collection ROE-04 Graphite / Multi 6'-3\" x 9' Area Rug",
+            "price": 134.29,
+            "average_score": 45.0
+          },
+          {
+            "id": 86276,
+            "name": "GKLUCKIN Shag Ultra Soft Area Rug, Fluffy 8'x10' Solid Black Rugs Plush Fuzzy Non-Skid Indoor Faux Fur Rugs Furry Carpets for Living Room Bedroom Nursery Kids Playroom Decor",
+            "price": 89.99,
+            "average_score": 42.5
+          },
+          {
+            "id": 84564,
+            "name": "Boho Hand Woven Bathroom Rug Fringe Rug for Bedroom Cotton Woven Tassel Throw Rug\uff0c Moroccan Accent Tribal Decorative Throw Floor Carpet , Exquisite Geometric Minimalist Style (2.0 ft x 3.0 ft, White)",
+            "price": 23.9,
+            "average_score": 42.5
+          },
+          {
+            "id": 8653,
+            "name": "Garland Rug Ivy Oversized Rug Runner, 3' x 12', Black",
+            "price": 25.64,
+            "average_score": 40.0
+          },
+          {
+            "id": 84854,
+            "name": "Noahas Fluffy Bedroom Rug Plush Fuzzy Rugs for Kids Room Living Room, Soft Shaggy Nursery Rug Furry Floor Carpet Modern Indoor Bedroom Decor Cute Boys Girls Room Rug, 2x3 Feet, Black",
+            "price": 12.74,
+            "average_score": 40.0
+          },
+          {
+            "id": 88064,
+            "name": "Personalized Rug Custom Rug Add Your Logo Design Image Rugs for Living Room Office Home (35''\u00d750'')",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 88115,
+            "name": "SAFAVIEH Madison Collection 4' x 6' Blue/Orange MAD422F Boho Chic Tribal Distressed Non-Shedding Living Room Bedroom Accent Rug",
+            "price": 44.99,
+            "average_score": 35.0
+          },
+          {
+            "id": 85821,
+            "name": "Spectrumrug Area Rug, Amelia Multi Ivory 10'x13'",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 83903,
+            "name": "Ashler faux fur rug, Fluffy Shaggy Area Rug Ultra Soft 2 x 6 Feet Sheepskin Fur Rug, Frosted Bottom Pink Fuzzy Rug Machine Washable Shag Rug, Nursery Decor Throw Rugs for Bedroom, Living Room",
+            "price": 28.04,
+            "average_score": 35.0
+          },
+          {
+            "id": 85840,
+            "name": "Contemporary Carved Modern Swirl with Floral Design Area Rug Legacy Collection (5' x 7', Purple/Black)",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 84743,
+            "name": "Amearea Soft Fluffy Plush Faux Fur Rug, 3 x 5, Modern Shaggy Fuzzy Purple Rugs for Bedroom, Living Room, Dorm Nursery Decor, Furry Plush Sofa Faux Sheepskin Carpet, Purple",
+            "price": 35.97,
+            "average_score": 32.5
+          },
+          {
+            "id": 4518,
+            "name": "Shagadelic Chenille Twist Swirl Round Rug, 5 by 5-Feet, Orange",
+            "price": 47.99,
+            "average_score": 32.5
+          },
+          {
+            "id": 85288,
+            "name": "Small Rugs for Bathroom & Kitchen 2x3 Entrance Rug Washable Black 2x4 Foyer Rug Indoor Cheap Rugs",
+            "price": null,
+            "average_score": 32.5
+          },
+          {
+            "id": 7133,
+            "name": "Modern Round Contemporary Area Rug Black Beige Bellagio Swirl Design 341 (4 Feet X 4 Feet )",
+            "price": 59.97,
+            "average_score": 32.5
+          },
+          {
+            "id": 4593,
+            "name": "Mimosa 150cm (4'11\") Multicolour Felt Ball Rugs - Genuine Nepalese Handmade Area Rugs - Custom Size Rugs are Also Available",
+            "price": 310.21,
+            "average_score": 32.5
+          },
+          {
+            "id": 87158,
+            "name": "MIULEE Luxury Super Soft Fluffy Area Rug Faux Fur Rectangle Rug Decorative Plush Shaggy Carpet for Bedside Sofa Floor Nursery 3 x 5 Feet, Khaki",
+            "price": 36.99,
+            "average_score": 32.5
+          },
+          {
+            "id": 82851,
+            "name": "Well Woven Imani Boho 8x11 (7'10\" x 9'10\") Area Rug Terrace Blue Distressed Traditional Vintage Floral Oriental Panel",
+            "price": null,
+            "average_score": 31.0
+          },
+          {
+            "id": 85295,
+            "name": "Dalyn Rugs Utopia Rug, 5' x 7'6\", Sky",
+            "price": 190.38,
+            "average_score": 30.0
+          },
+          {
+            "id": 86460,
+            "name": "Rose Green Beige 5'2x7'2 Black Victorian Area Rug Oriental Carpet Large New 2857",
+            "price": null,
+            "average_score": 30.0
+          },
+          {
+            "id": 83782,
+            "name": "Luxury Contemporary Modern Floral Flowers 5x7 Area Rug, 5' 3\" x 7' 6\", Black Blue Gray Beige Ivory 5x8 Rugs for Living Room",
+            "price": null,
+            "average_score": 30.0
+          },
+          {
+            "id": 87669,
+            "name": "Ottomanson Multi-Color Contemporary Patchwork Design Kids Rug (5'0\"X7'0\")",
+            "price": null,
+            "average_score": 30.0
+          },
+          {
+            "id": 7052,
+            "name": "The Rug Market Dream Children's Area Rug, 2.8' X 4.8",
+            "price": 82.36,
+            "average_score": 27.5
+          },
+          {
+            "id": 86073,
+            "name": "Well Woven StarBright Daisy Butterflies Modern Abstract Pink 3'3\" x 5' Kids Area Rug",
+            "price": null,
+            "average_score": 27.5
+          },
+          {
+            "id": 11224,
+            "name": "LUVFABRICS 8'x10' Black Shaggy Fur Faux Fur Rug Rectangle Shape Plush Soft Modern Fur Rug Living Room Area Rug",
+            "price": 399.0,
+            "average_score": 27.5
+          },
+          {
+            "id": 83843,
+            "name": "Hankyky Christmas Santa Snowmen Reindeer Floor Runner Area Rug\u2026",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 88128,
+            "name": "ALAZA Cartoon Science Theme Area Rug Home Decorative Shaggy Rug Living Room Bedroom Floor Carpet Mat 80x58 Inches",
+            "price": 59.99,
+            "average_score": 25.0
+          },
+          {
+            "id": 85985,
+            "name": "Ottomanson Area Rug 7'10\" x 9'10\" Morroccan Trellis Gray",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 11115,
+            "name": "farawamu Indoor Area Rugs, 3D Galaxy Space Anti-Slip Soft Floor Mat Rug Carpet Living Room Bedroom Decor C1014-8 1.21.6m",
+            "price": 39.99,
+            "average_score": 22.5
+          },
+          {
+            "id": 85521,
+            "name": "Garland Rug Jazz Shaggy Washable Nylon Rug, 30-Inch by 50-Inch, Lime Green",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 86831,
+            "name": "Aoile Round Floor Rug, Non Slip Cartoon Printing Children Play Carpet Crawling Carpet for Bedroom Living Room Sofa Round 6 100cm",
+            "price": 32.13,
+            "average_score": 20.0
+          },
+          {
+            "id": 84294,
+            "name": "nuLOOM Tameika Persian Area Rug, 5' x 7' 5\", Aqua",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 85841,
+            "name": "Casual Home Contour Rug - Tudor Brown",
+            "price": null,
+            "average_score": 20.0
+          }
+        ]
+      }
+    },
+    {
+      "episode": 2,
+      "category": "Hazardous Material Handling Products",
+      "episode_in_category": 1,
+      "steps": 6,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 88547,
+        "chosen_score": 20.0,
+        "best_product_id": 94459,
+        "best_score": 57.5,
+        "regret": 37.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 5,
+        "score_reward": 0.2,
+        "regret_reward": -0.375,
+        "feedback": "Recommendation feedback: Chosen score: 20.0, Best possible: 57.5, Regret: 37.5",
+        "feedback_type": "regret"
+      },
+      "full_dialog": [
+        [
+          "What is your budget for hazardous material handling products?",
+          "I don't have a specific budget set for hazardous material handling products."
+        ],
+        [
+          "What type of hazardous materials do you need to handle?",
+          "As a park ranger, I handle things like cleaning agents and pesticides, which are considered hazardous materials."
+        ],
+        [
+          "Do you need a product for storage, transportation, or spill containment of these materials?",
+          "Transportation."
+        ],
+        [
+          "Do you need a specific size or capacity for transporting these materials?",
+          "Yes, I need a truck with a good payload capacity."
+        ],
+        [
+          "Do you have a preference for a specific brand or style of truck?",
+          "Ford F-150."
+        ]
+      ],
+      "product_info": {
+        "num_products": 47,
+        "products_with_scores": [
+          {
+            "id": 94459,
+            "name": "Resilia Medical - Biohazard Bags - For Infectious Waste Disposal, Meets DOT ASTM Standards for Hospital Use, Yellow, 33 Gallon, 29x43 Inches, 25 Bags",
+            "price": 24.11,
+            "average_score": 57.5
+          },
+          {
+            "id": 94358,
+            "name": "GO-SIMPLIUSE Geiger Counter Nuclear Radiation Detector Nuclear Dosimeter Monitor Portable Radiation Detector Marble Detector Beta Gamma X-ray Tester\uff08Two-Unit Version\uff09\u2026",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 92955,
+            "name": "New Pig Oil Absorbent Sock | Each 3\" x 48\" Sock Absorbs 95 Oz",
+            "price": 116.48,
+            "average_score": 42.5
+          },
+          {
+            "id": 90531,
+            "name": "AIRE Industrial 942-006461 Spill Kit Universal Economy Portable, 5 gal, 4\" Height, 14\" Wide, 17\" Length, PVC, 14\" x 17\" x 4\", Orange PVC",
+            "price": null,
+            "average_score": 42.5
+          },
+          {
+            "id": 92626,
+            "name": "UltraTech 9358 Ultra-Drain Oil and Sediment Plus Guard, 60\" Length x 60\" Width x 18\" Height",
+            "price": 71.32,
+            "average_score": 35.0
+          },
+          {
+            "id": 91736,
+            "name": "Biohazard Specimen Bags 6\" X 9\" - 100 Count Case",
+            "price": null,
+            "average_score": 30.0
+          },
+          {
+            "id": 89097,
+            "name": "Biohazard Bags \u201310-Gallon Heavy-Duty Biohazard Garbage Bags \u2013 50-Pcs Biohazard Waste Disposal Bags \u2013 Thick and Durable Trash Bags for Safety Waste Disposal \u2013 Medical-Grade Waste Bags",
+            "price": 9.99,
+            "average_score": 27.5
+          },
+          {
+            "id": 88999,
+            "name": "BW Technologies BWC2-S BW Clip Single Gas SO2 Monitor, 5/10",
+            "price": 279.99,
+            "average_score": 25.0
+          },
+          {
+            "id": 91386,
+            "name": "Justrite 09410 Galvanized Steel Oily Waste Can with Hand Operated Cover, 0.45 Gallon Capacity, Red",
+            "price": 119.9,
+            "average_score": 25.0
+          },
+          {
+            "id": 92587,
+            "name": "[Upgraded] Doeatoow Geiger Counter Nuclear Radiation Detector Dosimeter, Portable Handheld Beta Gamma X-ray Radiation Monitor with Backlight LCD Display, Battery Powered (0.08uSv \u2013 50mSv)",
+            "price": null,
+            "average_score": 22.5
+          },
+          {
+            "id": 92252,
+            "name": "Geiger Counter, Personal Radiation Detector Nuclear Dosimeter Emf Radiation Meter Nukalert Micro Beta Gamma X Ray Radiation Monitor GM Tube Device Meter for Home Thyrosafe Uranium Survival Gear",
+            "price": 59.98,
+            "average_score": 22.5
+          },
+          {
+            "id": 90832,
+            "name": "Lead Radiation Thyroid Shield Collar, Xray Protector, 0.5mmpb Lead, Light Weight",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 91230,
+            "name": "Jamco 45-Gallon Forkliftable Safety Flammable Steel Cabinet for Flammable Liquids, Manual Close Doors, (34-Inch x 18-Inch x 70-Inch), Model FM45, Yellow",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 91614,
+            "name": "Durham FM Approved 1012S-50 Welded 16 Gauge Steel Fire Safety Self Closing Door Cabinet, 1 Shelves, 12 gallons Capacity, 18\" Length x 23\" Width x 36-3/8\" Height, Yellow Powder Coat Finish",
+            "price": 920.81,
+            "average_score": 20.0
+          },
+          {
+            "id": 88547,
+            "name": "Vintage Tested Geiger Muller Radiation Counter (Detector) SBM-20 NOS",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 90981,
+            "name": "Radiation Alert XTREMEBOOT Protective Boot For Use With SEI Inspector",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 92262,
+            "name": "Seadasyoon 100pcs 11x15in/28x38cm Stick-On Biohazard Infectious Red Waste Bags (100pcs 11x15in/28x38cm)",
+            "price": 29.99,
+            "average_score": 20.0
+          },
+          {
+            "id": 88680,
+            "name": "Faraday Fabric \u2014 Military Grade Conductive Faraday Cloth (WiFi, Cell, Bluetooth, GPS), DIY Faraday Cage, Faraday Blanket (43\"X39\" inch)",
+            "price": 16.99,
+            "average_score": 20.0
+          },
+          {
+            "id": 91024,
+            "name": "Fitovers Leaded X-Ray Safety Eyewear Radiation Glasses - Black",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 89970,
+            "name": "Block-It Pocket Anti-Spying, RF/EMF Radiation Protection Bag/Case/Pouch (Black)",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 88979,
+            "name": "4 in 1, KooMall Ground Kit- Anti Static Wrist Strap, ESD Plug, Screw Stud & 10ft Grounding Cord with 2 Banana Jacks for Antistatic Bench Table Floor Mat, Ground by Outlet Socket Silicone Wristband",
+            "price": 19.99,
+            "average_score": 12.5
+          },
+          {
+            "id": 94288,
+            "name": "Drum Spill Cntnmnt Pallet, 4 Drum, 6k lb.",
+            "price": null,
+            "average_score": 12.5
+          },
+          {
+            "id": 93530,
+            "name": "UltraTech 9208 Heavy Duty Plastic Ultra-Drain Marker, 3-7/8\" Diameter (Pack of 25)",
+            "price": 150.0,
+            "average_score": 12.5
+          },
+          {
+            "id": 90469,
+            "name": "Absorbent, 25 lb., Diatomaceous Earth",
+            "price": null,
+            "average_score": 12.5
+          },
+          {
+            "id": 89980,
+            "name": "Vetmed USA 8 oz Boston Round Glass AMBER Bottle Poly Cap - pack of 4",
+            "price": 12.0,
+            "average_score": 12.5
+          },
+          {
+            "id": 88968,
+            "name": "ESDProduct Metal Adjustable Swivel Wrist Strap with 6' Cord, 1 Megohm Resistor, 4mm Snap, Black",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 88721,
+            "name": "Anti Static Wrist Strap, Electro-Static Discharge Wristband with Grounding Wire, Alligator Clip, Extendable Long Cord and Built-in 1 M\u03a9 Resistor.",
+            "price": 5.99,
+            "average_score": 10.0
+          },
+          {
+            "id": 92944,
+            "name": "StaticTek Banana Jack Outlet Plug Adapter | Universal Ground 3 Prong Outlet Earth Connection | ESD Control | Black Light Weight Unbreakable Plastic | 1 Piece | STI - DES - 09838",
+            "price": 9.65,
+            "average_score": 10.0
+          },
+          {
+            "id": 93973,
+            "name": "XtremeGrip by GripAll. Black studded anti-slip product. 12\" x 24\"",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 90528,
+            "name": "2 Pack Blue Anti Static Wrist Strap PU 8 Feet with Alligator Clip Grounding Wristband Conductive Cloth Woven with Condutive Fiber Less Than 50\u03a9 Internal Resistance More Than 1M \u03a9 Surface Resistance\u2026",
+            "price": 5.49,
+            "average_score": 10.0
+          },
+          {
+            "id": 92076,
+            "name": "Perfectday Mobile Sleep Barrier EMF Radiation Barrier WiFi EMF EMR ELF Radiation and 5G Barrier Protection for Tablets",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 91578,
+            "name": "Eclipse Tools 900-116 Pro'sKit Static Mat, 24\" x 24\", Multi",
+            "price": 31.06,
+            "average_score": 10.0
+          },
+          {
+            "id": 92867,
+            "name": "Calunce Claret Red Antistatic ESD Adjustable Wrist Strap with 2.6M PU Adjustable Grounding Wire and Alligator Clip (1pcs)",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 92746,
+            "name": "Calunce ESD/Antistatic Wrist Strap with 2.5M PU Adjustable Grounding Wire (5PCS)",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 92363,
+            "name": "Calunce ESD/Antistatic Wrist Strap with 2.5M PU Adjustable Grounding Wire(2 pcs)",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 92494,
+            "name": "Static Care ESD Mat Workstation Ground Kit - 15' Common Point with Banana Plug, Universal Snap Kit, Banana Plug Adapter, 6' Coil Cord with Alligator Clip, Black Fabric Wrist Band 4mm",
+            "price": 19.25,
+            "average_score": 10.0
+          },
+          {
+            "id": 92241,
+            "name": "Static Care ESD Anti Static Gloves, Coated Options, Nylon and Conductive Carbon For Use In Electronics, Semiconductor",
+            "price": 5.17,
+            "average_score": 10.0
+          },
+          {
+            "id": 90590,
+            "name": "Premium Deluxe Super Large Anti-Static Mod-Mat Work and Assembly Surface - Version 2 (Over 47\" x 23\" in Size)",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 90465,
+            "name": "Velleman AS9 Anti-Static Field Service Kit (Red) - Portable anti-static work surface - 24\"x24\"",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 91881,
+            "name": "Rubbermaid Commercial Over-The-Spill Pad Station, Highly Absorbent, Slip-Resistant,\"Caution Wet Floor\", Yellow (FG425200YEL)",
+            "price": 29.47,
+            "average_score": 10.0
+          },
+          {
+            "id": 93556,
+            "name": "RLECS Static-Release Wristband with Clip ESD Wrist Strap Adjustable Anti Static Bracelet with Grounding Wire Electrostatic Discharge Bands",
+            "price": 6.67,
+            "average_score": 10.0
+          },
+          {
+            "id": 93565,
+            "name": "SP Bel-Art Wire Frame for 8\u00bd x 11 in. Bags for Poxygrid Bench-Top Biohazard Bag Holder Kit (H13193-1000)",
+            "price": 28.95,
+            "average_score": 10.0
+          },
+          {
+            "id": 92806,
+            "name": "MENDA 35630 Probe/Spudger, Kit, Four Stainless Steel Tools, Blue",
+            "price": 32.33,
+            "average_score": 7.5
+          },
+          {
+            "id": 92813,
+            "name": "uxcell a14091600ux0205 2.5\" x 6\" ESD Anti-Static Shielding Bags Open-Top 60mmx150mm (Pack of 200)",
+            "price": 11.42,
+            "average_score": 7.5
+          },
+          {
+            "id": 94293,
+            "name": "ACL Staticide 6800 ESD Floor Vinyl Chair Mats, Black",
+            "price": null,
+            "average_score": 7.5
+          },
+          {
+            "id": 93377,
+            "name": "Techtongda 0.35mmPb No-Lead Radiation X-Ray Protection Apron Basic Light Weight Optional Size M",
+            "price": null,
+            "average_score": 5.0
+          },
+          {
+            "id": 94042,
+            "name": "Bards Tacky Wax (Museum and Hobby Wax) (1 x 6 oz.)",
+            "price": 17.85,
+            "average_score": 5.0
+          }
+        ]
+      }
+    }
+  ],
+  "category_summary": {
+    "Rugs, Pads & Protectors": {
+      "avg_score": 40.0,
+      "top1_rate": 0.0,
+      "episode_count": 1,
+      "num_products": 50,
+      "products_with_scores": [
+        {
+          "id": 82950,
+          "name": "Americana Skull Round Area Rug Brown & Black Design#134 (4ft.x4ft. Round)",
+          "price": 49.97,
+          "average_score": 82.5
+        },
+        {
+          "id": 86943,
+          "name": "Hillyard Cowhide Rug Premium Black and White Real Handcrafted Grade A Natural Cowhide Rug - Sustainably Sourced and Lasts Longer Black and White Extra Large Cut - 7.5 x 6.5 ft",
+          "price": 192.0,
+          "average_score": 77.5
+        },
+        {
+          "id": 88193,
+          "name": "Maples Rugs Florence Runner Rug Non Slip Washable Hallway Entry Carpet [Made in USA], 2 x 6, Coffee Brown",
+          "price": 38.99,
+          "average_score": 75.0
+        },
+        {
+          "id": 84388,
+          "name": "IHF Rugs Blackberry Oval Braided Rug - 4'x6'",
+          "price": null,
+          "average_score": 75.0
+        },
+        {
+          "id": 2527,
+          "name": "Solid polypropylene Oval Braided Rug, 2 by 3-feet, Daffodil",
+          "price": 36.01,
+          "average_score": 72.5
+        },
+        {
+          "id": 83463,
+          "name": "SUPERIOR 4x6RUG Colburn Geometric Indoor/Outdoor Rug, 4' x 6'",
+          "price": 42.34,
+          "average_score": 67.5
+        },
+        {
+          "id": 7043,
+          "name": "Nourison Paramount Persian Gold 7'10\" x 10'6\" Area -Rug, Easy -Cleaning, Non Shedding, Bed Room, Living Room, Dining Room, Kitchen (8x11)",
+          "price": 119.65,
+          "average_score": 65.0
+        },
+        {
+          "id": 83591,
+          "name": "NaturalAreaRugs Natural Fiber Maritime Seagrass Rug, 5' by 8', Sage/Khaki",
+          "price": null,
+          "average_score": 60.0
+        },
+        {
+          "id": 86880,
+          "name": "Brumlow Mills Caitlin Simple Home Indoor Floral Print Pattern Area Rug Perfect for Any Living Room Decor, Bedroom Carpet, Dining Room, Kitchen or Entryway Rug, 7'6\" x 10', Green",
+          "price": 164.79,
+          "average_score": 60.0
+        },
+        {
+          "id": 10114,
+          "name": "About Home Handwoven Multicolored Rag Rug for Living Room, Kitchen Floor 20\"x 32\"",
+          "price": 12.99,
+          "average_score": 57.5
+        },
+        {
+          "id": 7071,
+          "name": "Nourison Somerset Gold Runner Area Rug, 2-Feet by 5-Feet 9-Inches (2' x 5'9\")",
+          "price": 72.38,
+          "average_score": 57.5
+        },
+        {
+          "id": 86646,
+          "name": "ANVARUG Fluffy Rugs for Living Room, 5\u2019x8\u2019 Area Rug, Luxurious Shag Carpet Rugs for Bedroom, Anti-Skid Shaggy Rectangular Area Rug, Tie-Dyed Light Purple",
+          "price": 52.99,
+          "average_score": 57.5
+        },
+        {
+          "id": 83165,
+          "name": "Unique Loom Decatur Collection Trellis Geometric, Modern Area Rug, 5 ft 2 in x 7 ft 5 in, Black/Ivory",
+          "price": 70.9,
+          "average_score": 55.0
+        },
+        {
+          "id": 87674,
+          "name": "Liora Manne 9502/06 LEAF GREEN Rugs, 24\" x 36\",",
+          "price": null,
+          "average_score": 55.0
+        },
+        {
+          "id": 11179,
+          "name": "KOECKRITZ 12'x4' - Rock-Brown-Multi - Indoor/Outdoor Area Rug Carpet, Runners & Stair Treads with a Light Weight Latex Backing",
+          "price": 132.71,
+          "average_score": 50.0
+        },
+        {
+          "id": 84745,
+          "name": "Nourison Jubilant Damask Ivory/Pink 4' x 6' Area_Rug, Easy-Cleaning, Non Shedding, Bed Room, Living Room, Dining Room, Kitchen (4x6)",
+          "price": 51.8,
+          "average_score": 45.0
+        },
+        {
+          "id": 83495,
+          "name": "Rugshop Circles Area Rug 5' x 7' Brown",
+          "price": null,
+          "average_score": 45.0
+        },
+        {
+          "id": 83179,
+          "name": "3212 Distressed Silver 7'10x10'6 Area Rug Carpet Large New",
+          "price": 169.99,
+          "average_score": 45.0
+        },
+        {
+          "id": 84604,
+          "name": "Chris Loves Julia x Loloi Rosemarie Collection ROE-04 Graphite / Multi 6'-3\" x 9' Area Rug",
+          "price": 134.29,
+          "average_score": 45.0
+        },
+        {
+          "id": 86276,
+          "name": "GKLUCKIN Shag Ultra Soft Area Rug, Fluffy 8'x10' Solid Black Rugs Plush Fuzzy Non-Skid Indoor Faux Fur Rugs Furry Carpets for Living Room Bedroom Nursery Kids Playroom Decor",
+          "price": 89.99,
+          "average_score": 42.5
+        },
+        {
+          "id": 84564,
+          "name": "Boho Hand Woven Bathroom Rug Fringe Rug for Bedroom Cotton Woven Tassel Throw Rug\uff0c Moroccan Accent Tribal Decorative Throw Floor Carpet , Exquisite Geometric Minimalist Style (2.0 ft x 3.0 ft, White)",
+          "price": 23.9,
+          "average_score": 42.5
+        },
+        {
+          "id": 8653,
+          "name": "Garland Rug Ivy Oversized Rug Runner, 3' x 12', Black",
+          "price": 25.64,
+          "average_score": 40.0
+        },
+        {
+          "id": 84854,
+          "name": "Noahas Fluffy Bedroom Rug Plush Fuzzy Rugs for Kids Room Living Room, Soft Shaggy Nursery Rug Furry Floor Carpet Modern Indoor Bedroom Decor Cute Boys Girls Room Rug, 2x3 Feet, Black",
+          "price": 12.74,
+          "average_score": 40.0
+        },
+        {
+          "id": 88064,
+          "name": "Personalized Rug Custom Rug Add Your Logo Design Image Rugs for Living Room Office Home (35''\u00d750'')",
+          "price": null,
+          "average_score": 37.5
+        },
+        {
+          "id": 88115,
+          "name": "SAFAVIEH Madison Collection 4' x 6' Blue/Orange MAD422F Boho Chic Tribal Distressed Non-Shedding Living Room Bedroom Accent Rug",
+          "price": 44.99,
+          "average_score": 35.0
+        },
+        {
+          "id": 85821,
+          "name": "Spectrumrug Area Rug, Amelia Multi Ivory 10'x13'",
+          "price": null,
+          "average_score": 35.0
+        },
+        {
+          "id": 83903,
+          "name": "Ashler faux fur rug, Fluffy Shaggy Area Rug Ultra Soft 2 x 6 Feet Sheepskin Fur Rug, Frosted Bottom Pink Fuzzy Rug Machine Washable Shag Rug, Nursery Decor Throw Rugs for Bedroom, Living Room",
+          "price": 28.04,
+          "average_score": 35.0
+        },
+        {
+          "id": 85840,
+          "name": "Contemporary Carved Modern Swirl with Floral Design Area Rug Legacy Collection (5' x 7', Purple/Black)",
+          "price": null,
+          "average_score": 35.0
+        },
+        {
+          "id": 84743,
+          "name": "Amearea Soft Fluffy Plush Faux Fur Rug, 3 x 5, Modern Shaggy Fuzzy Purple Rugs for Bedroom, Living Room, Dorm Nursery Decor, Furry Plush Sofa Faux Sheepskin Carpet, Purple",
+          "price": 35.97,
+          "average_score": 32.5
+        },
+        {
+          "id": 4518,
+          "name": "Shagadelic Chenille Twist Swirl Round Rug, 5 by 5-Feet, Orange",
+          "price": 47.99,
+          "average_score": 32.5
+        },
+        {
+          "id": 85288,
+          "name": "Small Rugs for Bathroom & Kitchen 2x3 Entrance Rug Washable Black 2x4 Foyer Rug Indoor Cheap Rugs",
+          "price": null,
+          "average_score": 32.5
+        },
+        {
+          "id": 7133,
+          "name": "Modern Round Contemporary Area Rug Black Beige Bellagio Swirl Design 341 (4 Feet X 4 Feet )",
+          "price": 59.97,
+          "average_score": 32.5
+        },
+        {
+          "id": 4593,
+          "name": "Mimosa 150cm (4'11\") Multicolour Felt Ball Rugs - Genuine Nepalese Handmade Area Rugs - Custom Size Rugs are Also Available",
+          "price": 310.21,
+          "average_score": 32.5
+        },
+        {
+          "id": 87158,
+          "name": "MIULEE Luxury Super Soft Fluffy Area Rug Faux Fur Rectangle Rug Decorative Plush Shaggy Carpet for Bedside Sofa Floor Nursery 3 x 5 Feet, Khaki",
+          "price": 36.99,
+          "average_score": 32.5
+        },
+        {
+          "id": 82851,
+          "name": "Well Woven Imani Boho 8x11 (7'10\" x 9'10\") Area Rug Terrace Blue Distressed Traditional Vintage Floral Oriental Panel",
+          "price": null,
+          "average_score": 31.0
+        },
+        {
+          "id": 85295,
+          "name": "Dalyn Rugs Utopia Rug, 5' x 7'6\", Sky",
+          "price": 190.38,
+          "average_score": 30.0
+        },
+        {
+          "id": 86460,
+          "name": "Rose Green Beige 5'2x7'2 Black Victorian Area Rug Oriental Carpet Large New 2857",
+          "price": null,
+          "average_score": 30.0
+        },
+        {
+          "id": 83782,
+          "name": "Luxury Contemporary Modern Floral Flowers 5x7 Area Rug, 5' 3\" x 7' 6\", Black Blue Gray Beige Ivory 5x8 Rugs for Living Room",
+          "price": null,
+          "average_score": 30.0
+        },
+        {
+          "id": 87669,
+          "name": "Ottomanson Multi-Color Contemporary Patchwork Design Kids Rug (5'0\"X7'0\")",
+          "price": null,
+          "average_score": 30.0
+        },
+        {
+          "id": 7052,
+          "name": "The Rug Market Dream Children's Area Rug, 2.8' X 4.8",
+          "price": 82.36,
+          "average_score": 27.5
+        },
+        {
+          "id": 86073,
+          "name": "Well Woven StarBright Daisy Butterflies Modern Abstract Pink 3'3\" x 5' Kids Area Rug",
+          "price": null,
+          "average_score": 27.5
+        },
+        {
+          "id": 11224,
+          "name": "LUVFABRICS 8'x10' Black Shaggy Fur Faux Fur Rug Rectangle Shape Plush Soft Modern Fur Rug Living Room Area Rug",
+          "price": 399.0,
+          "average_score": 27.5
+        },
+        {
+          "id": 83843,
+          "name": "Hankyky Christmas Santa Snowmen Reindeer Floor Runner Area Rug\u2026",
+          "price": null,
+          "average_score": 25.0
+        },
+        {
+          "id": 88128,
+          "name": "ALAZA Cartoon Science Theme Area Rug Home Decorative Shaggy Rug Living Room Bedroom Floor Carpet Mat 80x58 Inches",
+          "price": 59.99,
+          "average_score": 25.0
+        },
+        {
+          "id": 85985,
+          "name": "Ottomanson Area Rug 7'10\" x 9'10\" Morroccan Trellis Gray",
+          "price": null,
+          "average_score": 25.0
+        },
+        {
+          "id": 11115,
+          "name": "farawamu Indoor Area Rugs, 3D Galaxy Space Anti-Slip Soft Floor Mat Rug Carpet Living Room Bedroom Decor C1014-8 1.21.6m",
+          "price": 39.99,
+          "average_score": 22.5
+        },
+        {
+          "id": 85521,
+          "name": "Garland Rug Jazz Shaggy Washable Nylon Rug, 30-Inch by 50-Inch, Lime Green",
+          "price": null,
+          "average_score": 20.0
+        },
+        {
+          "id": 86831,
+          "name": "Aoile Round Floor Rug, Non Slip Cartoon Printing Children Play Carpet Crawling Carpet for Bedroom Living Room Sofa Round 6 100cm",
+          "price": 32.13,
+          "average_score": 20.0
+        },
+        {
+          "id": 84294,
+          "name": "nuLOOM Tameika Persian Area Rug, 5' x 7' 5\", Aqua",
+          "price": null,
+          "average_score": 20.0
+        },
+        {
+          "id": 85841,
+          "name": "Casual Home Contour Rug - Tudor Brown",
+          "price": null,
+          "average_score": 20.0
+        }
+      ]
+    },
+    "Hazardous Material Handling Products": {
+      "avg_score": 20.0,
+      "top1_rate": 0.0,
+      "episode_count": 1,
+      "num_products": 47,
+      "products_with_scores": [
+        {
+          "id": 94459,
+          "name": "Resilia Medical - Biohazard Bags - For Infectious Waste Disposal, Meets DOT ASTM Standards for Hospital Use, Yellow, 33 Gallon, 29x43 Inches, 25 Bags",
+          "price": 24.11,
+          "average_score": 57.5
+        },
+        {
+          "id": 94358,
+          "name": "GO-SIMPLIUSE Geiger Counter Nuclear Radiation Detector Nuclear Dosimeter Monitor Portable Radiation Detector Marble Detector Beta Gamma X-ray Tester\uff08Two-Unit Version\uff09\u2026",
+          "price": null,
+          "average_score": 52.5
+        },
+        {
+          "id": 92955,
+          "name": "New Pig Oil Absorbent Sock | Each 3\" x 48\" Sock Absorbs 95 Oz",
+          "price": 116.48,
+          "average_score": 42.5
+        },
+        {
+          "id": 90531,
+          "name": "AIRE Industrial 942-006461 Spill Kit Universal Economy Portable, 5 gal, 4\" Height, 14\" Wide, 17\" Length, PVC, 14\" x 17\" x 4\", Orange PVC",
+          "price": null,
+          "average_score": 42.5
+        },
+        {
+          "id": 92626,
+          "name": "UltraTech 9358 Ultra-Drain Oil and Sediment Plus Guard, 60\" Length x 60\" Width x 18\" Height",
+          "price": 71.32,
+          "average_score": 35.0
+        },
+        {
+          "id": 91736,
+          "name": "Biohazard Specimen Bags 6\" X 9\" - 100 Count Case",
+          "price": null,
+          "average_score": 30.0
+        },
+        {
+          "id": 89097,
+          "name": "Biohazard Bags \u201310-Gallon Heavy-Duty Biohazard Garbage Bags \u2013 50-Pcs Biohazard Waste Disposal Bags \u2013 Thick and Durable Trash Bags for Safety Waste Disposal \u2013 Medical-Grade Waste Bags",
+          "price": 9.99,
+          "average_score": 27.5
+        },
+        {
+          "id": 88999,
+          "name": "BW Technologies BWC2-S BW Clip Single Gas SO2 Monitor, 5/10",
+          "price": 279.99,
+          "average_score": 25.0
+        },
+        {
+          "id": 91386,
+          "name": "Justrite 09410 Galvanized Steel Oily Waste Can with Hand Operated Cover, 0.45 Gallon Capacity, Red",
+          "price": 119.9,
+          "average_score": 25.0
+        },
+        {
+          "id": 92587,
+          "name": "[Upgraded] Doeatoow Geiger Counter Nuclear Radiation Detector Dosimeter, Portable Handheld Beta Gamma X-ray Radiation Monitor with Backlight LCD Display, Battery Powered (0.08uSv \u2013 50mSv)",
+          "price": null,
+          "average_score": 22.5
+        },
+        {
+          "id": 92252,
+          "name": "Geiger Counter, Personal Radiation Detector Nuclear Dosimeter Emf Radiation Meter Nukalert Micro Beta Gamma X Ray Radiation Monitor GM Tube Device Meter for Home Thyrosafe Uranium Survival Gear",
+          "price": 59.98,
+          "average_score": 22.5
+        },
+        {
+          "id": 90832,
+          "name": "Lead Radiation Thyroid Shield Collar, Xray Protector, 0.5mmpb Lead, Light Weight",
+          "price": null,
+          "average_score": 20.0
+        },
+        {
+          "id": 91230,
+          "name": "Jamco 45-Gallon Forkliftable Safety Flammable Steel Cabinet for Flammable Liquids, Manual Close Doors, (34-Inch x 18-Inch x 70-Inch), Model FM45, Yellow",
+          "price": null,
+          "average_score": 20.0
+        },
+        {
+          "id": 91614,
+          "name": "Durham FM Approved 1012S-50 Welded 16 Gauge Steel Fire Safety Self Closing Door Cabinet, 1 Shelves, 12 gallons Capacity, 18\" Length x 23\" Width x 36-3/8\" Height, Yellow Powder Coat Finish",
+          "price": 920.81,
+          "average_score": 20.0
+        },
+        {
+          "id": 88547,
+          "name": "Vintage Tested Geiger Muller Radiation Counter (Detector) SBM-20 NOS",
+          "price": null,
+          "average_score": 20.0
+        },
+        {
+          "id": 90981,
+          "name": "Radiation Alert XTREMEBOOT Protective Boot For Use With SEI Inspector",
+          "price": null,
+          "average_score": 20.0
+        },
+        {
+          "id": 92262,
+          "name": "Seadasyoon 100pcs 11x15in/28x38cm Stick-On Biohazard Infectious Red Waste Bags (100pcs 11x15in/28x38cm)",
+          "price": 29.99,
+          "average_score": 20.0
+        },
+        {
+          "id": 88680,
+          "name": "Faraday Fabric \u2014 Military Grade Conductive Faraday Cloth (WiFi, Cell, Bluetooth, GPS), DIY Faraday Cage, Faraday Blanket (43\"X39\" inch)",
+          "price": 16.99,
+          "average_score": 20.0
+        },
+        {
+          "id": 91024,
+          "name": "Fitovers Leaded X-Ray Safety Eyewear Radiation Glasses - Black",
+          "price": null,
+          "average_score": 15.0
+        },
+        {
+          "id": 89970,
+          "name": "Block-It Pocket Anti-Spying, RF/EMF Radiation Protection Bag/Case/Pouch (Black)",
+          "price": null,
+          "average_score": 15.0
+        },
+        {
+          "id": 88979,
+          "name": "4 in 1, KooMall Ground Kit- Anti Static Wrist Strap, ESD Plug, Screw Stud & 10ft Grounding Cord with 2 Banana Jacks for Antistatic Bench Table Floor Mat, Ground by Outlet Socket Silicone Wristband",
+          "price": 19.99,
+          "average_score": 12.5
+        },
+        {
+          "id": 94288,
+          "name": "Drum Spill Cntnmnt Pallet, 4 Drum, 6k lb.",
+          "price": null,
+          "average_score": 12.5
+        },
+        {
+          "id": 93530,
+          "name": "UltraTech 9208 Heavy Duty Plastic Ultra-Drain Marker, 3-7/8\" Diameter (Pack of 25)",
+          "price": 150.0,
+          "average_score": 12.5
+        },
+        {
+          "id": 90469,
+          "name": "Absorbent, 25 lb., Diatomaceous Earth",
+          "price": null,
+          "average_score": 12.5
+        },
+        {
+          "id": 89980,
+          "name": "Vetmed USA 8 oz Boston Round Glass AMBER Bottle Poly Cap - pack of 4",
+          "price": 12.0,
+          "average_score": 12.5
+        },
+        {
+          "id": 88968,
+          "name": "ESDProduct Metal Adjustable Swivel Wrist Strap with 6' Cord, 1 Megohm Resistor, 4mm Snap, Black",
+          "price": null,
+          "average_score": 10.0
+        },
+        {
+          "id": 88721,
+          "name": "Anti Static Wrist Strap, Electro-Static Discharge Wristband with Grounding Wire, Alligator Clip, Extendable Long Cord and Built-in 1 M\u03a9 Resistor.",
+          "price": 5.99,
+          "average_score": 10.0
+        },
+        {
+          "id": 92944,
+          "name": "StaticTek Banana Jack Outlet Plug Adapter | Universal Ground 3 Prong Outlet Earth Connection | ESD Control | Black Light Weight Unbreakable Plastic | 1 Piece | STI - DES - 09838",
+          "price": 9.65,
+          "average_score": 10.0
+        },
+        {
+          "id": 93973,
+          "name": "XtremeGrip by GripAll. Black studded anti-slip product. 12\" x 24\"",
+          "price": null,
+          "average_score": 10.0
+        },
+        {
+          "id": 90528,
+          "name": "2 Pack Blue Anti Static Wrist Strap PU 8 Feet with Alligator Clip Grounding Wristband Conductive Cloth Woven with Condutive Fiber Less Than 50\u03a9 Internal Resistance More Than 1M \u03a9 Surface Resistance\u2026",
+          "price": 5.49,
+          "average_score": 10.0
+        },
+        {
+          "id": 92076,
+          "name": "Perfectday Mobile Sleep Barrier EMF Radiation Barrier WiFi EMF EMR ELF Radiation and 5G Barrier Protection for Tablets",
+          "price": null,
+          "average_score": 10.0
+        },
+        {
+          "id": 91578,
+          "name": "Eclipse Tools 900-116 Pro'sKit Static Mat, 24\" x 24\", Multi",
+          "price": 31.06,
+          "average_score": 10.0
+        },
+        {
+          "id": 92867,
+          "name": "Calunce Claret Red Antistatic ESD Adjustable Wrist Strap with 2.6M PU Adjustable Grounding Wire and Alligator Clip (1pcs)",
+          "price": null,
+          "average_score": 10.0
+        },
+        {
+          "id": 92746,
+          "name": "Calunce ESD/Antistatic Wrist Strap with 2.5M PU Adjustable Grounding Wire (5PCS)",
+          "price": null,
+          "average_score": 10.0
+        },
+        {
+          "id": 92363,
+          "name": "Calunce ESD/Antistatic Wrist Strap with 2.5M PU Adjustable Grounding Wire(2 pcs)",
+          "price": null,
+          "average_score": 10.0
+        },
+        {
+          "id": 92494,
+          "name": "Static Care ESD Mat Workstation Ground Kit - 15' Common Point with Banana Plug, Universal Snap Kit, Banana Plug Adapter, 6' Coil Cord with Alligator Clip, Black Fabric Wrist Band 4mm",
+          "price": 19.25,
+          "average_score": 10.0
+        },
+        {
+          "id": 92241,
+          "name": "Static Care ESD Anti Static Gloves, Coated Options, Nylon and Conductive Carbon For Use In Electronics, Semiconductor",
+          "price": 5.17,
+          "average_score": 10.0
+        },
+        {
+          "id": 90590,
+          "name": "Premium Deluxe Super Large Anti-Static Mod-Mat Work and Assembly Surface - Version 2 (Over 47\" x 23\" in Size)",
+          "price": null,
+          "average_score": 10.0
+        },
+        {
+          "id": 90465,
+          "name": "Velleman AS9 Anti-Static Field Service Kit (Red) - Portable anti-static work surface - 24\"x24\"",
+          "price": null,
+          "average_score": 10.0
+        },
+        {
+          "id": 91881,
+          "name": "Rubbermaid Commercial Over-The-Spill Pad Station, Highly Absorbent, Slip-Resistant,\"Caution Wet Floor\", Yellow (FG425200YEL)",
+          "price": 29.47,
+          "average_score": 10.0
+        },
+        {
+          "id": 93556,
+          "name": "RLECS Static-Release Wristband with Clip ESD Wrist Strap Adjustable Anti Static Bracelet with Grounding Wire Electrostatic Discharge Bands",
+          "price": 6.67,
+          "average_score": 10.0
+        },
+        {
+          "id": 93565,
+          "name": "SP Bel-Art Wire Frame for 8\u00bd x 11 in. Bags for Poxygrid Bench-Top Biohazard Bag Holder Kit (H13193-1000)",
+          "price": 28.95,
+          "average_score": 10.0
+        },
+        {
+          "id": 92806,
+          "name": "MENDA 35630 Probe/Spudger, Kit, Four Stainless Steel Tools, Blue",
+          "price": 32.33,
+          "average_score": 7.5
+        },
+        {
+          "id": 92813,
+          "name": "uxcell a14091600ux0205 2.5\" x 6\" ESD Anti-Static Shielding Bags Open-Top 60mmx150mm (Pack of 200)",
+          "price": 11.42,
+          "average_score": 7.5
+        },
+        {
+          "id": 94293,
+          "name": "ACL Staticide 6800 ESD Floor Vinyl Chair Mats, Black",
+          "price": null,
+          "average_score": 7.5
+        },
+        {
+          "id": 93377,
+          "name": "Techtongda 0.35mmPb No-Lead Radiation X-Ray Protection Apron Basic Light Weight Optional Size M",
+          "price": null,
+          "average_score": 5.0
+        },
+        {
+          "id": 94042,
+          "name": "Bards Tacky Wax (Museum and Hobby Wax) (1 x 6 oz.)",
+          "price": 17.85,
+          "average_score": 5.0
+        }
+      ]
+    }
+  }
+}

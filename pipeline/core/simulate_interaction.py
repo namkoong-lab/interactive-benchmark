@@ -121,7 +121,7 @@ def score_products_for_persona(persona_description: str, category: str, products
                     "persona_description": persona_description,
                     "category": category,
                     "products": prod_subset,
-                    "instructions": "Return ONLY a JSON array of objects: {id, score}. Score must be an integer from 0 to 100. Do not include any surrounding text.",
+                    "instructions": "You MUST return a JSON array containing exactly one object per product. Each object must have 'id' and 'score' fields. Score must be an integer from 0 to 100. Example: [{\"id\": 123, \"score\": 85}, {\"id\": 456, \"score\": 70}]. Do not return a single object, return an array.",
                 }
                 response_schema_local = {
                     "type": "array",
@@ -192,11 +192,12 @@ def score_products_for_persona(persona_description: str, category: str, products
                             raise
                 raw_outputs.append(content_local)
         else:
-            # Chunk OpenAI if very large to reduce payload / errors
-            if not target_model.startswith("gemini-") and len(condensed_products) >= 100:
-                chunk_size = 50
+            # Chunk OpenAI if large to reduce payload / errors
+            if not target_model.startswith("gemini-") and len(condensed_products) >= 30:
+                chunk_size = 25
                 for i in range(0, len(condensed_products), chunk_size):
                     chunk = condensed_products[i:i+chunk_size]
+                    print(f"[DEBUG] Processing chunk {i//chunk_size + 1} with {len(chunk)} products")
                     content_part = None
                     for attempt in range(5):
                         try:
@@ -209,8 +210,9 @@ def score_products_for_persona(persona_description: str, category: str, products
                                 print(f"OpenAI chunk attempt {attempt + 1} failed: {e}. Retrying in {delay + jitter:.2f}s...")
                                 time.sleep(delay + jitter)
                             else:
-                                print(f"OpenAI chunk failed after 5 attempts: {e}")
-                                raise
+                                print(f"OpenAI chunk {i//chunk_size + 1} failed after 5 attempts: {e}. Skipping this chunk.")
+                                content_part = None  # Mark as failed but continue
+                                break
                     raw_outputs.append(content_part)
             else:
                 content_local = None
@@ -276,17 +278,54 @@ def score_products_for_persona(persona_description: str, category: str, products
 
         # Parse and aggregate from one or multiple raw outputs
         aggregated_items: List[Dict[str, Any]] = []
-        for content_local in raw_outputs:
+        for i, content_local in enumerate(raw_outputs):
+            if content_local is None or content_local.strip() == "":
+                print(f"[WARN] Chunk {i} returned empty content, skipping")
+                continue
+            
+            if i == 0:  # Only show for first chunk to avoid spam
+                print(f"[DEBUG] Chunk {i} content preview: {content_local[:200]}...")
             try:
                 parsed_local = json.loads(content_local)
-                # Support both array and object-with-results
-                data_local = parsed_local.get("results", parsed_local) if isinstance(parsed_local, dict) else parsed_local
-            except Exception:
-                extracted = _extract_json_block(content_local)
-                parsed_local = json.loads(extracted)
-                data_local = parsed_local.get("results", parsed_local) if isinstance(parsed_local, dict) else parsed_local
+                # Support multiple formats: array, dict with results/result, or single object
+                if isinstance(parsed_local, dict):
+                    if "results" in parsed_local:
+                        data_local = parsed_local["results"]
+                    elif "result" in parsed_local:
+                        data_local = parsed_local["result"]
+                    else:
+                        # Single object - wrap in list
+                        data_local = [parsed_local]
+                elif isinstance(parsed_local, list):
+                    data_local = parsed_local
+                else:
+                    # Single value - wrap in list
+                    data_local = [parsed_local]
+            except Exception as e:
+                print(f"[WARN] Failed to parse chunk {i} as JSON: {e}")
+                try:
+                    extracted = _extract_json_block(content_local)
+                    parsed_local = json.loads(extracted)
+                    if isinstance(parsed_local, dict):
+                        if "results" in parsed_local:
+                            data_local = parsed_local["results"]
+                        elif "result" in parsed_local:
+                            data_local = parsed_local["result"]
+                        else:
+                            data_local = [parsed_local]
+                    elif isinstance(parsed_local, list):
+                        data_local = parsed_local
+                    else:
+                        data_local = [parsed_local]
+                except Exception as e2:
+                    print(f"[WARN] Failed to extract JSON from chunk {i}: {e2}")
+                    continue
+            
+            # Now data_local should always be a list
             if isinstance(data_local, list):
                 aggregated_items.extend(data_local)
+            else:
+                print(f"[WARN] Chunk {i} still not a list after processing, got: {type(data_local)}. Content: {str(data_local)[:100]}...")
         
         # Normalize scores to 0-100 if model under-ranges (e.g., 0-1 or 0-10)
         raw_scores: List[float] = []
@@ -325,13 +364,21 @@ def score_products_for_persona(persona_description: str, category: str, products
     scores_openai: Dict[int, Tuple[float, str]] = {}
     scores_gemini: Dict[int, Tuple[float, str]] = {}
     try:
+        print(f"[INFO] Starting OpenAI scoring with model: {openai_model}")
         scores_openai = _score_once(openai_model)
+        print(f"[INFO] OpenAI scoring completed successfully, got {len(scores_openai)} scores")
     except Exception as e:
-        print("[WARN] OpenAI scoring failed:", e)
+        print(f"[ERROR] OpenAI scoring failed: {type(e).__name__}: {e}")
+        import traceback
+        print(f"[ERROR] OpenAI traceback: {traceback.format_exc()}")
     try:
+        print(f"[INFO] Starting Gemini scoring with model: {gemini_model}")
         scores_gemini = _score_once(gemini_model)
+        print(f"[INFO] Gemini scoring completed successfully, got {len(scores_gemini)} scores")
     except Exception as e:
-        print("[WARN] Gemini scoring failed:", e)
+        print(f"[ERROR] Gemini scoring failed: {type(e).__name__}: {e}")
+        import traceback
+        print(f"[ERROR] Gemini traceback: {traceback.format_exc()}")
 
     # Combine
     combined: List[Tuple[int, float, str]] = []
