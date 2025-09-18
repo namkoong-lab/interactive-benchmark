@@ -8,7 +8,8 @@ import gymnasium as gym
 import numpy as np
 import json
 import os
-from typing import Dict, List, Tuple, Any
+import random
+from typing import Dict, List, Tuple, Any, Optional
 import argparse
 from datetime import datetime
 from .envs.reco_env import RecoEnv
@@ -210,12 +211,13 @@ Rules:
 
 def save_checkpoint(all_results: List[Dict], category_results: Dict, agent: LLMAgent, 
                    output_dir: str, model: str, feedback_type: str, episode_num: int, seed: Optional[int] = None):
-    """Save incremental checkpoint after each episode."""
+    """Save incremental checkpoint every 5 categories."""
     
     # Create checkpoint filename
     model_safe_name = model.replace("/", "_").replace(":", "_")
     feedback_safe_name = feedback_type.replace(" ", "_")
-    checkpoint_file = os.path.join(output_dir, f"checkpoint_episode_{episode_num:03d}_{model_safe_name}_{feedback_safe_name}.json")
+    completed_categories = len([cat for cat, results in category_results.items() if len(results) > 0])
+    checkpoint_file = os.path.join(output_dir, f"checkpoint_categories_{completed_categories:02d}_episode_{episode_num:03d}_{model_safe_name}_{feedback_safe_name}.json")
     
     # Prepare checkpoint data
     checkpoint_data = {
@@ -238,7 +240,13 @@ def save_checkpoint(all_results: List[Dict], category_results: Dict, agent: LLMA
         'summary': {
             'categories_tested': list(category_results.keys()),
             'total_episodes': len(all_results),
-            'episodes_by_category': {cat: len(results) for cat, results in category_results.items()}
+            'episodes_by_category': {cat: len(results) for cat, results in category_results.items()},
+            'product_counts_by_category': {
+                cat: {
+                    'num_products': results[0]['product_info']['num_products'] if results else 0,
+                    'episodes': len(results)
+                } for cat, results in category_results.items()
+            }
         }
     }
     
@@ -336,7 +344,6 @@ def run_experiment1_with_checkpoints(persona_index: int = 254,
         feedback_system = FeedbackSystem(feedback_type=feedback_type)
     
     from .core.simulate_interaction import list_categories, get_products_by_category
-    import random
     available_categories = list_categories()
     
     # Dynamic category filtering - check relevance as we encounter categories
@@ -485,13 +492,19 @@ def run_experiment1_with_checkpoints(persona_index: int = 254,
                 agent.update_preferences(episode_result)
                 metrics_wrapper.close()
                 
-                # Save checkpoint after each episode
-                save_checkpoint(all_results, category_results, agent, output_dir, model, feedback_type, episode_num)
+                # Save checkpoint every 5 categories (at the end of each category)
+                if episode == episodes_per_category - 1:  # Last episode of this category
+                    # Check if we've completed 5 categories (or all categories)
+                    completed_categories = len([cat for cat, results in category_results.items() if len(results) == episodes_per_category])
+                    if completed_categories % 5 == 0 or completed_categories == len(selected_categories):
+                        save_checkpoint(all_results, category_results, agent, output_dir, model, feedback_type, episode_num, seed)
                 
             except Exception as e:
                 print(f"  Error in episode {episode_num}: {e}")
-                # Still save checkpoint even if episode failed
-                save_checkpoint(all_results, category_results, agent, output_dir, model, feedback_type, episode_num)
+                # Still save checkpoint even if episode failed (every 5 categories)
+                completed_categories = len([cat for cat, results in category_results.items() if len(results) == episodes_per_category])
+                if completed_categories % 5 == 0 or completed_categories == len(selected_categories):
+                    save_checkpoint(all_results, category_results, agent, output_dir, model, feedback_type, episode_num, seed)
                 continue
     
     print(f"\n=== Results Analysis ===")
@@ -546,7 +559,22 @@ def run_experiment1_with_checkpoints(persona_index: int = 254,
                 },
                 'categories_tested': list(used_categories),
                 'total_episodes': len(all_results),
-                'episodes_by_category': {cat: len(results) for cat, results in category_results.items()}
+                'episodes_by_category': {cat: len(results) for cat, results in category_results.items()},
+                'product_counts_by_category': {
+                    cat: {
+                        'num_products': results[0]['product_info']['num_products'] if results else 0,
+                        'episodes': len(results)
+                    } for cat, results in category_results.items()
+                }
+            },
+            'config': {
+                'persona_index': persona_index,
+                'categories': categories,
+                'episodes_per_category': episodes_per_category,
+                'max_questions': max_questions,
+                'model': model,
+                'feedback_type': feedback_type,
+                'seed': seed
             },
             'agent_learned_preferences': agent.learned_preferences,
             'agent_feedback_history': getattr(agent, 'feedback_history', []),
@@ -567,7 +595,7 @@ def run_experiment1_with_checkpoints(persona_index: int = 254,
     
     print(f"\nResults saved to: {results_file}")
     print(f"Individual episode metrics saved to: {output_dir}/episode_*.jsonl")
-    print(f"Checkpoints saved to: {output_dir}/checkpoint_episode_*.json")
+    print(f"Checkpoints saved to: {output_dir}/checkpoint_categories_*.json")
     
     return all_results, category_results
 

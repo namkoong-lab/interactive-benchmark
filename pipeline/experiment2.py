@@ -21,7 +21,7 @@ import gymnasium as gym
 import numpy as np
 import json
 import os
-from typing import Dict, List, Tuple, Any
+from typing import Dict, List, Tuple, Any, Optional
 import argparse
 from datetime import datetime
 import random
@@ -289,6 +289,65 @@ Rules:
             return "general_preference"
 
 
+def save_checkpoint(all_results: List[Dict], persona_results: Dict, agent: LLMAgentExperiment2, 
+                   output_dir: str, model: str, feedback_type: str, episode_num: int, seed: Optional[int] = None):
+    """Save incremental checkpoint every 5 personas."""
+    
+    # Create checkpoint filename
+    model_safe_name = model.replace("/", "_").replace(":", "_")
+    feedback_safe_name = feedback_type.replace(" ", "_")
+    completed_personas = len([pid for pid, results in persona_results.items() if len(results) > 0])
+    checkpoint_file = os.path.join(output_dir, f"checkpoint_personas_{completed_personas:02d}_episode_{episode_num:03d}_{model_safe_name}_{feedback_safe_name}.json")
+    
+    # Prepare checkpoint data
+    checkpoint_data = {
+        'experiment': 'Experiment 2: LLM Learning Questioning Strategies Across Users (Checkpoint)',
+        'timestamp': datetime.now().isoformat(),
+        'episode_num': episode_num,
+        'model': model,
+        'feedback_type': feedback_type,
+        'seed': seed,
+        'agent_state': {
+            'episode_count': agent.episode_count,
+            'learned_questioning_strategies': agent.learned_questioning_strategies,
+            'category_question_history': agent.category_question_history
+        },
+        'episodes_completed': len(all_results),
+        'all_results': all_results,
+        'persona_results': persona_results,
+        'summary': {
+            'personas_tested': list(persona_results.keys()),
+            'total_episodes': len(all_results),
+            'episodes_by_persona': {pid: len(results) for pid, results in persona_results.items()},
+            'product_counts_by_persona': {
+                pid: {
+                    'num_products': results[0]['product_info']['num_products'] if results else 0,
+                    'episodes': len(results)
+                } for pid, results in persona_results.items()
+            }
+        }
+    }
+    
+    # Save checkpoint
+    with open(checkpoint_file, 'w') as f:
+        json.dump(checkpoint_data, f, indent=2)
+    
+    print(f"  Checkpoint saved: {checkpoint_file}")
+    return checkpoint_file
+
+
+def load_checkpoint(checkpoint_file: str) -> Tuple[List[Dict], Dict, Dict]:
+    """Load experiment from checkpoint file."""
+    with open(checkpoint_file, 'r') as f:
+        data = json.load(f)
+    
+    print(f"Loaded checkpoint from episode {data['episode_num']}")
+    print(f"  Personas tested: {data['summary']['personas_tested']}")
+    print(f"  Total episodes: {data['summary']['total_episodes']}")
+    
+    return data['all_results'], data['persona_results'], data['agent_state']
+
+
 def run_experiment2(category: str = "Electronics",
                    persona_indices: List[int] = None,
                    num_personas: int = 10,
@@ -298,7 +357,8 @@ def run_experiment2(category: str = "Electronics",
                    feedback_type: str = "none",
                    min_score_threshold: float = 50.0,
                    output_dir: str = "experiment2_results",
-                   seed: Optional[int] = None):
+                   seed: Optional[int] = None,
+                   checkpoint_file: str = None):
     """
     Run Experiment 2: LLM learning questioning strategies across users in same category.
     
@@ -313,6 +373,7 @@ def run_experiment2(category: str = "Electronics",
         min_score_threshold: Minimum score threshold for category relevance (default: 50.0)
         output_dir: Directory to save results
         seed: Random seed for reproducible persona selection (None = no seeding)
+        checkpoint_file: Optional checkpoint file to resume from
     """
     
     print(f"=== Experiment 2: LLM Learning Questioning Strategies Across Users ===")
@@ -325,7 +386,27 @@ def run_experiment2(category: str = "Electronics",
     
     os.makedirs(output_dir, exist_ok=True)
     gym.register("RecoEnv-v0", entry_point=RecoEnv)
-    agent = LLMAgentExperiment2(model=model, max_questions=max_questions)
+    
+    # Initialize or load from checkpoint
+    if checkpoint_file and os.path.exists(checkpoint_file):
+        print(f"Resuming from checkpoint: {checkpoint_file}")
+        all_results, persona_results, agent_state = load_checkpoint(checkpoint_file)
+        
+        # Recreate agent with saved state
+        agent = LLMAgentExperiment2(model=model, max_questions=max_questions)
+        agent.episode_count = agent_state['episode_count']
+        agent.learned_questioning_strategies = agent_state['learned_questioning_strategies']
+        agent.category_question_history = agent_state.get('category_question_history', [])
+        
+        # Calculate starting episode number
+        start_episode = len(all_results) + 1
+        print(f"Resuming from episode {start_episode}")
+    else:
+        print("Starting fresh experiment")
+        all_results = []
+        persona_results = {}
+        agent = LLMAgentExperiment2(model=model, max_questions=max_questions)
+        start_episode = 1
     
     # Create feedback system
     from .core.feedback_system import FeedbackSystem
@@ -400,8 +481,10 @@ def run_experiment2(category: str = "Electronics",
     
     print(f"Personas: {persona_indices}")
     
-    all_results = []
-    persona_results = {pid: [] for pid in persona_indices}
+    # Initialize results if not loaded from checkpoint
+    if not checkpoint_file or not os.path.exists(checkpoint_file):
+        all_results = []
+        persona_results = {pid: [] for pid in persona_indices}
     
     total_episodes = len(persona_indices) * episodes_per_persona
     episode_num = 0
@@ -526,6 +609,13 @@ def run_experiment2(category: str = "Electronics",
             persona_results[persona_index].append(episode_result)
             agent.update_strategies(episode_result)
             metrics_wrapper.close()
+            
+            # Save checkpoint every 5 personas (at the end of each persona)
+            if episode == episodes_per_persona - 1:  # Last episode of this persona
+                # Check if we've completed 5 personas (or all personas)
+                completed_personas = len([pid for pid, results in persona_results.items() if len(results) == episodes_per_persona])
+                if completed_personas % 5 == 0 or completed_personas == len(persona_indices):
+                    save_checkpoint(all_results, persona_results, agent, output_dir, model, feedback_type, episode_num, seed)
     
     print(f"\n=== Results Analysis ===")
     
@@ -632,6 +722,7 @@ def run_experiment2(category: str = "Electronics",
     
     print(f"\nResults saved to: {results_file}")
     print(f"Individual episode metrics saved to: {output_dir}/episode_*.jsonl")
+    print(f"Checkpoints saved to: {output_dir}/checkpoint_personas_*.json")
     
     return all_results, persona_results, agent.learned_questioning_strategies
 
@@ -648,6 +739,7 @@ if __name__ == "__main__":
     parser.add_argument("--min_score_threshold", type=float, default=50.0, help="Minimum score threshold for category relevance")
     parser.add_argument("--output_dir", type=str, default="experiment2_results", help="Output directory")
     parser.add_argument("--seed", type=int, default=None, help="Random seed for reproducible persona selection")
+    parser.add_argument("--resume_from", help="Checkpoint file to resume from")
     
     args = parser.parse_args()
     
@@ -661,5 +753,6 @@ if __name__ == "__main__":
         feedback_type=args.feedback_type,
         min_score_threshold=args.min_score_threshold,
         output_dir=args.output_dir,
-        seed=args.seed
+        seed=args.seed,
+        checkpoint_file=args.resume_from
     )
