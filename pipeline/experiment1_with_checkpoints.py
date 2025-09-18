@@ -1,0 +1,603 @@
+#!/usr/bin/env python3
+"""
+Enhanced Experiment 1 with incremental saving after each episode.
+This prevents data loss if the experiment is interrupted.
+"""
+
+import gymnasium as gym
+import numpy as np
+import json
+import os
+from typing import Dict, List, Tuple, Any
+import argparse
+from datetime import datetime
+from .envs.reco_env import RecoEnv
+from .core.llm_client import chat_completion
+from .wrappers.metrics_wrapper import MetricsWrapper
+
+
+class LLMAgent:
+    """
+    LLM-based agent that can ask questions and make recommendations.
+    This agent should learn user preferences across episodes.
+    """
+    
+    def __init__(self, model: str = "gpt-4o", max_questions: int = 8):
+        self.model = model
+        self.max_questions = max_questions
+        self.episode_count = 0
+        self.learned_preferences = {}  # Store learned user preferences
+        self.current_episode_info = None  # Store current episode info
+        self.last_response = None  # Store last LLM response for question extraction
+        
+    def get_action(self, obs: Dict[str, np.ndarray], info: Dict[str, Any]) -> int:
+        """Decide whether to ask a question or make a recommendation using LLM."""
+        if 'num_products' in info:
+            self.current_episode_info = info
+            num_products = info['num_products']
+            category = info['category']
+        else:
+            if self.current_episode_info is None:
+                num_products = np.count_nonzero(np.any(obs['product_features'] != 0, axis=1))
+                category = "unknown"
+            else:
+                num_products = self.current_episode_info['num_products']
+                category = self.current_episode_info['category']
+        
+        dialog_history = []
+        if hasattr(self, 'current_env') and self.current_env and hasattr(self.current_env, 'dialog_history'):
+            dialog_history = self.current_env.dialog_history
+        
+        return self._llm_decide_action(obs, info, dialog_history, category, num_products)
+    
+    def _llm_decide_action(self, obs: Dict[str, np.ndarray], info: Dict[str, Any], 
+                          dialog_history: List[Tuple[str, str]], category: str, num_products: int) -> int:
+        """Use LLM to decide whether to ask a question or make a recommendation."""
+        products = self._get_product_info(obs, info, num_products)
+        context = self._build_llm_context(products, dialog_history, category)
+        
+        unified_prompt = f"""You are a product recommendation agent. Your goal is to find the best product for this user.
+
+Context:
+{context}
+
+Task:
+Based on the conversation so far, either:
+- Ask one short, consumer-friendly question to clarify user preferences, or
+- If sufficiently confident, recommend one product by index. 
+
+Output format (MUST be exactly one line, no extra text):
+- To ask: QUESTION: <your question>
+- To recommend: RECOMMEND: <number 0-{num_products-1}>
+
+Rules:
+- Do not include explanations, reasoning, bullets, or multiple questions
+- Avoid jargon; use everyday language a shopper understands
+- Keep questions specific and helpful (budget, size, brand/style preference, key feature)
+- No meta commentary like "this is strategic because…", only the question or recommendation
+"""
+
+        try:
+            response = chat_completion(
+                messages=[{"role": "user", "content": unified_prompt}],
+                model=self.model,
+                temperature=0.2,
+                max_tokens=400
+            )
+            
+            self.last_response = response.strip()
+            
+            if response.strip().startswith("QUESTION:"):
+                return num_products  # Ask question action
+            elif response.strip().startswith("RECOMMEND:"):
+                try:
+                    product_index = int(response.strip().split(":")[1].strip())
+                    if 0 <= product_index < num_products:
+                        return product_index
+                    else:
+                        print(f"Invalid product index {product_index}, defaulting to ask question")
+                        return num_products
+                except (ValueError, IndexError):
+                    print(f"Could not parse recommendation from: {response.strip()}")
+                    return num_products
+            else:
+                print(f"Unexpected response format: {response.strip()}")
+                return num_products
+                
+        except Exception as e:
+            print(f"Error in LLM decision: {e}")
+            return num_products  # Default to asking question
+    
+    def _get_product_info(self, obs: Dict[str, np.ndarray], info: Dict[str, Any], num_products: int) -> List[Dict]:
+        """Extract product information from observation."""
+        products = []
+        
+        for i in range(num_products):
+            if i < obs['product_features'].shape[0]:
+                features = obs['product_features'][i]
+                product = {
+                    'id': info.get('product_ids', [])[i] if i < len(info.get('product_ids', [])) else i,
+                    'price': float(features[0]) if not np.isnan(features[0]) else 0.0,
+                    'store_hash': int(features[1]) if not np.isnan(features[1]) else 0,
+                    'title_length': int(features[2]) if not np.isnan(features[2]) else 0,
+                    'features': [float(f) for f in features[3:] if not np.isnan(f)]
+                }
+                products.append(product)
+        
+        return products
+    
+    def _build_llm_context(self, products: List[Dict], dialog_history: List[Tuple[str, str]], category: str) -> str:
+        """Build context string for LLM decision making."""
+        product_list = f"Available {category} products:\n"
+        for i, product in enumerate(products):
+            product_list += f"{i}: Product ID {product['id']} - Price: {product['price']}, Store: {product['store_hash']}, Title: {product['title_length']}\n"
+        
+        dialog_text = "Conversation so far:\n"
+        if dialog_history:
+            for i, (question, answer) in enumerate(dialog_history):
+                dialog_text += f"Q{i+1}: {question}\nA{i+1}: {answer}\n"
+        else:
+            dialog_text += "No questions asked yet.\n"
+        
+        return f"{product_list}\n{dialog_text}"
+    
+    def update_preferences(self, episode_result: Dict[str, Any]):
+        """Update learned preferences based on episode outcome."""
+        self.episode_count += 1
+        
+        if 'final_info' in episode_result and 'chosen_score' in episode_result['final_info']:
+            score = episode_result['final_info']['chosen_score']
+            category = episode_result.get('category', 'unknown')
+            feedback = episode_result['final_info'].get('feedback', '')
+            feedback_type = episode_result['final_info'].get('feedback_type', 'regret')
+            
+            if category not in self.learned_preferences:
+                self.learned_preferences[category] = []
+            
+            # Store both score and feedback for analysis
+            self.learned_preferences[category].append({
+                'score': score,
+                'feedback': feedback,
+                'feedback_type': feedback_type,
+                'episode': self.episode_count
+            })
+            
+            # Process feedback for learning
+            self._process_feedback(feedback, feedback_type, score, category)
+    
+    def _process_feedback(self, feedback: str, feedback_type: str, score: float, category: str):
+        """Process different types of feedback for learning."""
+        if not feedback:  # No feedback case
+            return
+        
+        # Store feedback history for analysis
+        if not hasattr(self, 'feedback_history'):
+            self.feedback_history = []
+        
+        self.feedback_history.append({
+            'feedback': feedback,
+            'feedback_type': feedback_type,
+            'score': score,
+            'category': category,
+            'episode': self.episode_count
+        })
+        
+        # Process feedback based on type
+        if feedback_type == "regret":
+            self._process_regret_feedback(feedback, score, category)
+        elif feedback_type == "quality":
+            self._process_quality_feedback(feedback, score, category)
+    
+    def _process_regret_feedback(self, feedback: str, score: float, category: str):
+        """Process regret-based feedback."""
+        # Simple keyword-based learning
+        if "expensive" in feedback.lower() or "price" in feedback.lower():
+            if not hasattr(self, 'price_sensitivity'):
+                self.price_sensitivity = {}
+            self.price_sensitivity[category] = "high"
+        elif "cheap" in feedback.lower() or "affordable" in feedback.lower():
+            if not hasattr(self, 'price_sensitivity'):
+                self.price_sensitivity = {}
+            self.price_sensitivity[category] = "low"
+    
+    def _process_quality_feedback(self, feedback: str, score: float, category: str):
+        """Process quality-based feedback."""
+        # Store quality preferences
+        if not hasattr(self, 'quality_preferences'):
+            self.quality_preferences = {}
+        self.quality_preferences[category] = feedback
+
+
+def save_checkpoint(all_results: List[Dict], category_results: Dict, agent: LLMAgent, 
+                   output_dir: str, model: str, feedback_type: str, episode_num: int, seed: Optional[int] = None):
+    """Save incremental checkpoint after each episode."""
+    
+    # Create checkpoint filename
+    model_safe_name = model.replace("/", "_").replace(":", "_")
+    feedback_safe_name = feedback_type.replace(" ", "_")
+    checkpoint_file = os.path.join(output_dir, f"checkpoint_episode_{episode_num:03d}_{model_safe_name}_{feedback_safe_name}.json")
+    
+    # Prepare checkpoint data
+    checkpoint_data = {
+        'experiment': 'Experiment 1: LLM Learning Across Categories (Checkpoint)',
+        'timestamp': datetime.now().isoformat(),
+        'episode_num': episode_num,
+        'model': model,
+        'feedback_type': feedback_type,
+        'seed': seed,
+        'agent_state': {
+            'episode_count': agent.episode_count,
+            'learned_preferences': agent.learned_preferences,
+            'feedback_history': getattr(agent, 'feedback_history', []),
+            'price_sensitivity': getattr(agent, 'price_sensitivity', {}),
+            'quality_preferences': getattr(agent, 'quality_preferences', {})
+        },
+        'episodes_completed': len(all_results),
+        'all_results': all_results,
+        'category_results': category_results,
+        'summary': {
+            'categories_tested': list(category_results.keys()),
+            'total_episodes': len(all_results),
+            'episodes_by_category': {cat: len(results) for cat, results in category_results.items()}
+        }
+    }
+    
+    # Save checkpoint
+    with open(checkpoint_file, 'w') as f:
+        json.dump(checkpoint_data, f, indent=2)
+    
+    print(f"  Checkpoint saved: {checkpoint_file}")
+    return checkpoint_file
+
+
+def load_checkpoint(checkpoint_file: str) -> Tuple[List[Dict], Dict, Dict]:
+    """Load experiment from checkpoint file."""
+    with open(checkpoint_file, 'r') as f:
+        data = json.load(f)
+    
+    print(f"Loaded checkpoint from episode {data['episode_num']}")
+    print(f"  Categories tested: {data['summary']['categories_tested']}")
+    print(f"  Total episodes: {data['summary']['total_episodes']}")
+    
+    return data['all_results'], data['category_results'], data['agent_state']
+
+
+def run_experiment1_with_checkpoints(persona_index: int = 254,
+                                   categories: List[str] = None,
+                                   num_categories: int = 5,
+                                   episodes_per_category: int = 5,
+                                   max_questions: int = 8,
+                                   model: str = "gpt-4o",
+                                   feedback_type: str = "none",
+                                   min_score_threshold: float = 50.0,
+                                   output_dir: str = "experiment1_results",
+                                   checkpoint_file: str = None,
+                                   seed: Optional[int] = None):
+    """
+    Run Experiment 1 with incremental checkpointing.
+    
+    Args:
+        persona_index: Which persona to use (consistent across episodes)
+        categories: List of categories to test (None = randomly choose)
+        num_categories: Number of categories to randomly select (if categories is None)
+        episodes_per_category: Number of episodes per category
+        max_questions: Maximum questions per episode
+        model: LLM model to use
+        feedback_type: Type of feedback to provide ("none", "regret", "quality", "persona")
+        min_score_threshold: Minimum score threshold for category relevance (default: 50.0)
+        output_dir: Directory to save results
+        checkpoint_file: Optional checkpoint file to resume from
+        seed: Random seed for reproducible category selection (None = no seeding)
+    """
+    
+    print(f"=== Experiment 1: LLM Learning Across Categories (With Checkpoints) ===")
+    print(f"Persona: {persona_index}, Episodes per category: {episodes_per_category}")
+    print(f"Max questions: {max_questions}, Model: {model}, Feedback: {feedback_type}")
+    if seed is not None:
+        print(f"Random seed: {seed}")
+        random.seed(seed)
+        np.random.seed(seed)
+    
+    os.makedirs(output_dir, exist_ok=True)
+    gym.register("RecoEnv-v0", entry_point=RecoEnv)
+    
+    # Initialize or load from checkpoint
+    if checkpoint_file and os.path.exists(checkpoint_file):
+        print(f"Resuming from checkpoint: {checkpoint_file}")
+        all_results, category_results, agent_state = load_checkpoint(checkpoint_file)
+        
+        # Recreate agent with saved state
+        agent = LLMAgent(model=model, max_questions=max_questions)
+        agent.episode_count = agent_state['episode_count']
+        agent.learned_preferences = agent_state['learned_preferences']
+        agent.feedback_history = agent_state.get('feedback_history', [])
+        agent.price_sensitivity = agent_state.get('price_sensitivity', {})
+        agent.quality_preferences = agent_state.get('quality_preferences', {})
+        
+        # Calculate starting episode number
+        start_episode = len(all_results) + 1
+        print(f"Resuming from episode {start_episode}")
+    else:
+        print("Starting fresh experiment")
+        all_results = []
+        category_results = {}
+        agent = LLMAgent(model=model, max_questions=max_questions)
+        start_episode = 1
+    
+    # Create feedback system
+    from .core.feedback_system import FeedbackSystem
+    from .core.personas import get_persona_description
+    
+    if feedback_type == "persona":
+        # Get persona description for persona feedback
+        persona_description = get_persona_description(persona_index)
+        feedback_system = FeedbackSystem(feedback_type=feedback_type, persona_description=persona_description)
+    else:
+        feedback_system = FeedbackSystem(feedback_type=feedback_type)
+    
+    from .core.simulate_interaction import list_categories, get_products_by_category
+    import random
+    available_categories = list_categories()
+    
+    # Dynamic category filtering - check relevance as we encounter categories
+    def is_category_relevant_for_persona(category, persona_index, min_score_threshold):
+        """Check if a category is relevant for a specific persona."""
+        from .core.user_model import UserModel
+        try:
+            products = get_products_by_category(category)
+            if not products:
+                return False, 0.0, []
+                
+            user_model = UserModel(persona_index)
+            scores = user_model.score_products(category, products)
+            if scores:
+                max_score = max(score for _, score in scores)
+                return max_score > min_score_threshold, max_score, scores
+            return False, 0.0, []
+        except Exception as e:
+            print(f"  Error checking category {category}: {e}")
+            return False, 0.0, []
+    
+    # Initialize category selection
+    if categories is None:
+        # Start with a random selection from available categories
+        if len(available_categories) >= num_categories:
+            selected_categories = random.sample(available_categories, num_categories)
+        else:
+            selected_categories = available_categories.copy()
+    else:
+        # Use provided categories, filtered by availability
+        selected_categories = [cat for cat in categories if cat in available_categories]
+    
+    print(f"Initial categories: {selected_categories}")
+    
+    used_categories = set()
+    
+    total_episodes = len(selected_categories) * episodes_per_category
+    episode_num = start_episode - 1  # Will be incremented at start of loop
+    
+    for category in selected_categories:
+        print(f"\n--- Testing Category: {category} ---")
+        
+        # Check if this category is relevant for the persona
+        is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
+        if not is_relevant:
+            print(f"  Category {category}: Max score {max_score:.1f} ≤ {min_score_threshold}, skipping category")
+            # Skip all episodes for this category
+            for episode in range(episodes_per_category):
+                episode_num += 1
+            continue
+        
+        print(f"  Category {category}: Max score {max_score:.1f} > {min_score_threshold}, proceeding")
+        used_categories.add(category)
+        if category not in category_results:
+            category_results[category] = []
+        
+        for episode in range(episodes_per_category):
+            episode_num += 1
+            print(f"Episode {episode_num}/{total_episodes} (Category: {category})")
+            
+            try:
+                env = RecoEnv(
+                    persona_index=persona_index,
+                    max_questions=max_questions,
+                    categories=[category],  
+                    agent=agent,
+                    feedback_system=feedback_system,
+                    cached_scores=cached_scores
+                )
+                
+                metrics_wrapper = MetricsWrapper(env, 
+                                               output_path=os.path.join(output_dir, f"episode_{episode_num}.jsonl"))
+                
+                obs, initial_info = metrics_wrapper.reset()
+                
+                if episode == 0:
+                    print(f"  Products in {category}: {len(env.products)}")
+                    print(f"  Top 3 products by score:")
+                    for i, (product_id, score) in enumerate(env.oracle_scores[:3]):
+                        product = next((p for p in env.products if p['id'] == product_id), None)
+                        if product:
+                            title = product.get('title', 'Unknown')[:50] + "..." if len(product.get('title', '')) > 50 else product.get('title', 'Unknown')
+                            print(f"    {i+1}. {title} (Score: {score:.1f})")
+                
+                agent.current_env = env
+                
+                terminated = False
+                truncated = False
+                step_count = 0
+                current_info = initial_info
+                
+                while not terminated and not truncated and step_count < 20:
+                    action = agent.get_action(obs, current_info)
+                    obs, reward, terminated, truncated, info = metrics_wrapper.step(action)
+                    current_info = info
+                    step_count += 1
+                    
+                    if info['action_type'] == 'ask':
+                        print(f"  Step {step_count}: Asked question")
+                    elif info['action_type'] == 'recommend':
+                        print(f"  Step {step_count}: Recommended product {info['chosen_product_id']}")
+                        print(f"    Score: {info['chosen_score']:.1f}, Best: {info['best_score']:.1f}")
+                        print(f"    Top1: {info['top1']}, Top3: {info['top3']}")
+                        if 'feedback' in info and info['feedback']:
+                            print(f"    Feedback: {info['feedback']}")
+                        break
+                
+                full_dialog = []
+                if hasattr(env, 'dialog_history'):
+                    full_dialog = env.dialog_history
+                
+                product_info = {
+                    'num_products': len(env.products) if hasattr(env, 'products') else 0,
+                    'products_with_scores': []
+                }
+                
+                # To keep regret and displayed scores consistent, use the environment's
+                # oracle_scores (already averaged across providers) instead of
+                # re-scoring here.
+                if hasattr(env, 'products') and hasattr(env, 'oracle_scores'):
+                    id_to_product = {p['id']: p for p in env.products}
+                    for product_id, avg_score in env.oracle_scores:
+                        product = id_to_product.get(product_id)
+                        if product:
+                            product_info['products_with_scores'].append({
+                                'id': product_id,
+                                'name': product.get('title', 'Unknown'),
+                                'price': product.get('price', 'Unknown'),
+                                'average_score': float(avg_score)
+                            })
+                
+                episode_result = {
+                    'episode': episode_num,
+                    'category': category,
+                    'episode_in_category': episode + 1,
+                    'steps': step_count,
+                    'terminated': terminated,
+                    'truncated': truncated,
+                    'final_info': info,
+                    'full_dialog': full_dialog,
+                    'product_info': product_info
+                }
+                
+                all_results.append(episode_result)
+                category_results[category].append(episode_result)
+                agent.update_preferences(episode_result)
+                metrics_wrapper.close()
+                
+                # Save checkpoint after each episode
+                save_checkpoint(all_results, category_results, agent, output_dir, model, feedback_type, episode_num)
+                
+            except Exception as e:
+                print(f"  Error in episode {episode_num}: {e}")
+                # Still save checkpoint even if episode failed
+                save_checkpoint(all_results, category_results, agent, output_dir, model, feedback_type, episode_num)
+                continue
+    
+    print(f"\n=== Results Analysis ===")
+    
+    print("\nPerformance by Category:")
+    for category, results in category_results.items():
+        scores = [r['final_info'].get('chosen_score', 0) for r in results if 'chosen_score' in r['final_info']]
+        top1_rates = [r['final_info'].get('top1', False) for r in results if 'top1' in r['final_info']]
+        
+        if scores:
+            avg_score = np.mean(scores)
+            top1_rate = np.mean(top1_rates)
+            print(f"  {category}: Avg Score: {avg_score:.1f}, Top1 Rate: {top1_rate:.1%}, Episodes: {len(scores)}")
+    
+    print("\nLearning Progression:")
+    for category, results in category_results.items():
+        if len(results) > 1:
+            first_score = results[0]['final_info'].get('chosen_score', 0)
+            last_score = results[-1]['final_info'].get('chosen_score', 0)
+            improvement = last_score - first_score
+            print(f"  {category}: {first_score:.1f} → {last_score:.1f} (Δ{improvement:+.1f})")
+    
+    # Calculate regret progression
+    episode_regrets = []
+    for result in all_results:
+        if 'final_info' in result and 'regret' in result['final_info']:
+            episode_regrets.append(result['final_info']['regret'])
+    
+    if episode_regrets:
+        avg_regret = np.mean(episode_regrets)
+        regret_trend = "improving" if len(episode_regrets) > 1 and episode_regrets[-1] < episode_regrets[0] else "stable"
+        
+        print(f"\nRegret Analysis:")
+        print(f"  Average Regret: {avg_regret:.1f}")
+        print(f"  Trend: {regret_trend}")
+        print(f"  Episodes: {len(episode_regrets)}")
+    
+    # Save final results
+    model_safe_name = model.replace("/", "_").replace(":", "_")
+    feedback_safe_name = feedback_type.replace(" ", "_")
+    results_file = os.path.join(output_dir, f"experiment1_results_{model_safe_name}_{feedback_safe_name}.json")
+    
+    with open(results_file, 'w') as f:
+        json.dump({
+            'experiment': 'Experiment 1: LLM Learning Across Categories',
+            'timestamp': datetime.now().isoformat(),
+            'summary': {
+                'regret_progression': {
+                    'episode_regrets': episode_regrets,
+                    'avg_regret': avg_regret if episode_regrets else 0.0,
+                    'regret_trend': regret_trend if episode_regrets else "unknown"
+                },
+                'categories_tested': list(used_categories),
+                'total_episodes': len(all_results),
+                'episodes_by_category': {cat: len(results) for cat, results in category_results.items()}
+            },
+            'agent_learned_preferences': agent.learned_preferences,
+            'agent_feedback_history': getattr(agent, 'feedback_history', []),
+            'agent_price_sensitivity': getattr(agent, 'price_sensitivity', {}),
+            'agent_quality_preferences': getattr(agent, 'quality_preferences', {}),
+            'category_results': {
+                cat: {
+                    'avg_score': np.mean([r['final_info'].get('chosen_score', 0) for r in results if 'chosen_score' in r['final_info']]),
+                    'top1_rate': np.mean([r['final_info'].get('top1', False) for r in results if 'top1' in r['final_info']]),
+                    'episode_count': len(results),
+                    'num_products': results[0]['product_info']['num_products'] if results else 0,
+                    'products_with_scores': results[0]['product_info']['products_with_scores'] if results else []
+                }
+                for cat, results in category_results.items()
+            },
+            'all_episodes': all_results
+        }, f, indent=2)
+    
+    print(f"\nResults saved to: {results_file}")
+    print(f"Individual episode metrics saved to: {output_dir}/episode_*.jsonl")
+    print(f"Checkpoints saved to: {output_dir}/checkpoint_episode_*.json")
+    
+    return all_results, category_results
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Run Experiment 1 with checkpointing")
+    parser.add_argument("--persona", type=int, default=254, help="Persona index")
+    parser.add_argument("--categories", nargs="+", help="Categories to test")
+    parser.add_argument("--num_categories", type=int, default=5, help="Number of categories")
+    parser.add_argument("--episodes_per_category", type=int, default=5, help="Episodes per category")
+    parser.add_argument("--max_questions", type=int, default=8, help="Max questions per episode")
+    parser.add_argument("--model", default="gpt-4o", help="LLM model")
+    parser.add_argument("--feedback_type", default="none", help="Feedback type (none, regret, quality, persona)")
+    parser.add_argument("--min_score_threshold", type=float, default=50.0, help="Min score threshold")
+    parser.add_argument("--output_dir", default="experiment1_results", help="Output directory")
+    parser.add_argument("--resume_from", help="Checkpoint file to resume from")
+    parser.add_argument("--seed", type=int, default=None, help="Random seed for reproducible category selection")
+    
+    args = parser.parse_args()
+    
+    run_experiment1_with_checkpoints(
+        persona_index=args.persona,
+        categories=args.categories,
+        num_categories=args.num_categories,
+        episodes_per_category=args.episodes_per_category,
+        max_questions=args.max_questions,
+        model=args.model,
+        feedback_type=args.feedback_type,
+        min_score_threshold=args.min_score_threshold,
+        output_dir=args.output_dir,
+        checkpoint_file=args.resume_from,
+        seed=args.seed
+    )

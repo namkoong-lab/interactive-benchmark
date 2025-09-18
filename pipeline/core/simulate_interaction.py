@@ -4,7 +4,7 @@ import json
 import random
 import sqlite3
 import time
-from typing import Dict, List, Any, Tuple
+from typing import Dict, List, Any, Tuple, Optional
 from dotenv import load_dotenv
 from .llm_client import chat_completion
 
@@ -60,6 +60,91 @@ def get_products_by_category(category_name: str, db_path: str = DB_PATH) -> List
                 }
             )
         return products
+    finally:
+        conn.close()
+
+def _ensure_scores_schema(conn: sqlite3.Connection) -> None:
+    """Create cache table for persona/category/product scores if missing."""
+    cur = conn.cursor()
+    cur.execute(
+        """
+        CREATE TABLE IF NOT EXISTS persona_scores (
+            persona_index INTEGER NOT NULL,
+            category_id INTEGER NOT NULL REFERENCES categories(id) ON DELETE CASCADE,
+            product_id INTEGER NOT NULL REFERENCES products(id) ON DELETE CASCADE,
+            score REAL NOT NULL,
+            reason TEXT,
+            model TEXT,
+            created_at INTEGER NOT NULL DEFAULT (strftime('%s','now')),
+            PRIMARY KEY (persona_index, category_id, product_id)
+        );
+        """
+    )
+    conn.commit()
+
+def _get_category_id(conn: sqlite3.Connection, category_name: str) -> Optional[int]:
+    cur = conn.cursor()
+    cur.execute("SELECT id FROM categories WHERE name = ?", (category_name,))
+    row = cur.fetchone()
+    return int(row[0]) if row else None
+
+def load_cached_scores(persona_index: int, category_name: str, product_ids: Optional[List[int]] = None, db_path: str = DB_PATH) -> List[Tuple[int, float]]:
+    """Load cached scores for a persona/category. Optionally filter to product_ids.
+    Returns list of (product_id, score), unsorted.
+    """
+    conn = _get_connection(db_path)
+    try:
+        _ensure_scores_schema(conn)
+        category_id = _get_category_id(conn, category_name)
+        if category_id is None:
+            return []
+        cur = conn.cursor()
+        if product_ids:
+            placeholders = ",".join(["?"] * len(product_ids))
+            params = [persona_index, category_id, *product_ids]
+            cur.execute(
+                f"SELECT product_id, score FROM persona_scores WHERE persona_index = ? AND category_id = ? AND product_id IN ({placeholders})",
+                params,
+            )
+        else:
+            cur.execute(
+                "SELECT product_id, score FROM persona_scores WHERE persona_index = ? AND category_id = ?",
+                (persona_index, category_id),
+            )
+        return [(int(pid), float(score)) for pid, score in cur.fetchall()]
+    finally:
+        conn.close()
+
+def save_scores(persona_index: int, category_name: str, scores: List[Tuple[int, float, str]], model: Optional[str] = None, db_path: str = DB_PATH) -> None:
+    """Persist scores (product_id, score, reason) for a persona/category.
+    Upserts by primary key.
+    """
+    if not scores:
+        return
+    conn = _get_connection(db_path)
+    try:
+        _ensure_scores_schema(conn)
+        category_id = _get_category_id(conn, category_name)
+        if category_id is None:
+            # Category must exist to save scores; skip silently
+            return
+        cur = conn.cursor()
+        cur.executemany(
+            """
+            INSERT INTO persona_scores (persona_index, category_id, product_id, score, reason, model)
+            VALUES (?, ?, ?, ?, ?, ?)
+            ON CONFLICT(persona_index, category_id, product_id) DO UPDATE SET
+              score=excluded.score,
+              reason=excluded.reason,
+              model=excluded.model,
+              created_at=strftime('%s','now')
+            """,
+            [
+                (int(persona_index), int(category_id), int(pid), float(score), str(reason or ""), model)
+                for (pid, score, reason) in scores
+            ],
+        )
+        conn.commit()
     finally:
         conn.close()
 

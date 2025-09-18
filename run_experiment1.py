@@ -18,7 +18,7 @@ if __name__ == "__main__":
     results, category_results = run_experiment1(
         persona_index=254,
         categories=None,  
-        num_categories=2, 
+        num_categories=30, 
         episodes_per_category=1,
         max_questions=30,  
         model="gpt-4o",

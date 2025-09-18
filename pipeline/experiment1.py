@@ -254,7 +254,8 @@ def run_experiment1(persona_index: int = 42,
                    model: str = "gpt-4o",
                    feedback_type: str = "none",
                    min_score_threshold: float = 50.0,
-                   output_dir: str = "experiment1_results"):
+                   output_dir: str = "experiment1_results",
+                   seed: Optional[int] = None):
     """
     Run Experiment 1: LLM learning across categories.
     
@@ -265,14 +266,19 @@ def run_experiment1(persona_index: int = 42,
         episodes_per_category: Number of episodes per category
         max_questions: Maximum questions per episode
         model: LLM model to use
-        feedback_type: Type of feedback to provide ("none", "regret", "quality")
+        feedback_type: Type of feedback to provide ("none", "regret", "quality", "persona")
         min_score_threshold: Minimum score threshold for category relevance (default: 50.0)
         output_dir: Directory to save results
+        seed: Random seed for reproducible category selection (None = no seeding)
     """
     
     print(f"=== Experiment 1: LLM Learning Across Categories ===")
     print(f"Persona: {persona_index}, Episodes per category: {episodes_per_category}")
     print(f"Max questions: {max_questions}, Model: {model}, Feedback: {feedback_type}")
+    if seed is not None:
+        print(f"Random seed: {seed}")
+        random.seed(seed)
+        np.random.seed(seed)
     
     os.makedirs(output_dir, exist_ok=True)
     gym.register("RecoEnv-v0", entry_point=RecoEnv)
@@ -280,7 +286,14 @@ def run_experiment1(persona_index: int = 42,
     
     # Create feedback system
     from .core.feedback_system import FeedbackSystem
-    feedback_system = FeedbackSystem(feedback_type=feedback_type)
+    from .core.personas import get_persona_description
+    
+    if feedback_type == "persona":
+        # Get persona description for persona feedback
+        persona_description = get_persona_description(persona_index)
+        feedback_system = FeedbackSystem(feedback_type=feedback_type, persona_description=persona_description)
+    else:
+        feedback_system = FeedbackSystem(feedback_type=feedback_type)
     
     from .core.simulate_interaction import list_categories, get_products_by_category
     import random
@@ -511,7 +524,8 @@ def run_experiment1(persona_index: int = 42,
                 'episodes_per_category': episodes_per_category,
                 'max_questions': max_questions,
                 'model': model,
-                'feedback_type': feedback_type
+                'feedback_type': feedback_type,
+                'seed': seed
             },
             'results': all_results,
             'category_summary': {
@@ -540,9 +554,10 @@ if __name__ == "__main__":
     parser.add_argument("--episodes_per_category", type=int, default=5, help="Episodes per category")
     parser.add_argument("--max_questions", type=int, default=8, help="Max questions per episode")
     parser.add_argument("--model", type=str, default="gpt-4o", help="LLM model to use")
-    parser.add_argument("--feedback_type", type=str, default="none", choices=["none", "regret", "quality"], help="Type of feedback to provide")
+    parser.add_argument("--feedback_type", type=str, default="none", choices=["none", "regret", "quality", "persona"], help="Type of feedback to provide")
     parser.add_argument("--min_score_threshold", type=float, default=50.0, help="Minimum score threshold for category relevance")
     parser.add_argument("--output_dir", type=str, default="experiment1_results", help="Output directory")
+    parser.add_argument("--seed", type=int, default=None, help="Random seed for reproducible category selection")
     
     args = parser.parse_args()
     
@@ -555,5 +570,6 @@ if __name__ == "__main__":
         model=args.model,
         feedback_type=args.feedback_type,
         min_score_threshold=args.min_score_threshold,
-        output_dir=args.output_dir
+        output_dir=args.output_dir,
+        seed=args.seed
     )

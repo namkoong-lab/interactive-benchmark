@@ -1,0 +1,33 @@
+#!/usr/bin/env python3
+"""
+Run Experiment 1 with incremental checkpointing to prevent data loss.
+"""
+
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
+from pipeline.experiment1_with_checkpoints import run_experiment1_with_checkpoints
+
+if __name__ == "__main__":
+    # Example usage with checkpointing
+    results, category_results = run_experiment1_with_checkpoints(
+        persona_index=254,
+        categories=None,  # Will randomly select categories
+        num_categories=3,  # Reduced for testing
+        episodes_per_category=2,  # Reduced for testing
+        max_questions=5,
+        model="gpt-4o",
+        feedback_type="regret",
+        min_score_threshold=40.0,
+        output_dir="experiment1_results_with_checkpoints",
+        checkpoint_file=None  # Start fresh, or provide path to resume
+    )
+    
+    print(f"\nExperiment completed!")
+    print(f"Total episodes: {len(results)}")
+    print(f"Categories tested: {list(category_results.keys())}")
+    
+    # Show how to resume from a checkpoint
+    print(f"\nTo resume from a checkpoint, use:")
+    print(f"python run_experiment1_with_checkpoints.py --resume_from experiment1_results_with_checkpoints/checkpoint_episode_XXX_gpt-4o_regret.json")

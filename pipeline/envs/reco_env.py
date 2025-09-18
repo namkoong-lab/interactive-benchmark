@@ -59,13 +59,13 @@ class RecoEnv(gym.Env):
         self.episode_step = 0
         
         # Action space: recommend products + ask question
-        self.action_space = spaces.Discrete(100)  # Will be resized in reset
+        self.action_space = spaces.Discrete(1000)  # Will be resized in reset, increased for larger product sets
         
         # Observation space: product features + dialog state
         self.observation_space = spaces.Dict({
             "product_features": spaces.Box(
                 low=-np.inf, high=np.inf, 
-                shape=(50, 10), dtype=np.float32  # max 50 products, 10 features each
+                shape=(500, 10), dtype=np.float32  # max 500 products, 10 features each
             ),
             "dialog_history": spaces.Box(
                 low=-1, high=1, shape=(max_questions * 2, 50), dtype=np.float32  # questions + answers, max 50 chars each
@@ -104,9 +104,8 @@ class RecoEnv(gym.Env):
         if not self.products:
             raise RuntimeError("No products found in any category")
         
-        # Limit to reasonable number of products
-        if len(self.products) > 50:
-            self.products = random.sample(self.products, 50)
+        # Use all products from the category (no sampling limit)
+        # Note: This may result in large product sets for some categories
         
         self.product_ids = [p["id"] for p in self.products]
         
@@ -167,11 +166,17 @@ class RecoEnv(gym.Env):
             score_reward = chosen_score / 100.0  # Normalize to [0,1]
             regret_reward = -regret / 100.0  # Negative regret reward
             
+            # Get chosen product information
+            chosen_product = next((p for p in self.products if p["id"] == chosen_product_id), None)
+            
             # Generate feedback using the feedback system
             feedback = self.feedback_system.generate_feedback(
                 chosen_score=chosen_score,
                 best_score=best_score,
-                regret=regret
+                regret=regret,
+                chosen_product=chosen_product,
+                available_products=self.products,
+                category=self.current_category
             )
             
             # Final reward does not include budget-based efficiency bonus
@@ -258,7 +263,7 @@ class RecoEnv(gym.Env):
     def _build_observation(self) -> Dict[str, np.ndarray]:
         """Build observation from current state."""
         num_products = len(self.products)
-        max_products = 50
+        max_products = 500  
         max_dialog_entries = self.max_questions * 2  # questions + answers
         
         # Product features

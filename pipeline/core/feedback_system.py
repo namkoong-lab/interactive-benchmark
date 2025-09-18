@@ -9,9 +9,11 @@ Feedback Types:
 1. No Feedback: Agent receives no information about recommendation quality
 2. Regret Feedback: Agent receives precise numerical regret value
 3. Quality Feedback: Agent receives qualitative feedback based on score (80+ = great, 60-80 = ok, <60 = bad)
+4. Persona Feedback: Agent receives contextual feedback from the persona agent about why the selection wasn't optimal
 """
 
-from typing import Dict, Any, Optional
+from typing import Dict, Any, Optional, List, Tuple
+from .llm_client import chat_completion
 
 
 class FeedbackSystem:
@@ -19,24 +21,33 @@ class FeedbackSystem:
     Generates different types of feedback for recommendation agents.
     """
     
-    def __init__(self, feedback_type: str = "none"):
+    def __init__(self, feedback_type: str = "none", persona_description: str = None):
         """
         Initialize feedback system.
         
         Args:
-            feedback_type: Type of feedback to generate ("none", "regret", "quality")
+            feedback_type: Type of feedback to generate ("none", "regret", "quality", "persona")
+            persona_description: Persona description for generating contextual feedback (required for "persona" type)
         """
         self.feedback_type = feedback_type
+        self.persona_description = persona_description
         
         # Validate feedback type
-        valid_types = ["none", "regret", "quality"]
+        valid_types = ["none", "regret", "quality", "persona"]
         if feedback_type not in valid_types:
             raise ValueError(f"Invalid feedback_type: {feedback_type}. Must be one of {valid_types}")
+        
+        # Validate persona description for persona feedback type
+        if feedback_type == "persona" and not persona_description:
+            raise ValueError("persona_description is required when feedback_type is 'persona'")
     
     def generate_feedback(self, 
                          chosen_score: float, 
                          best_score: float, 
-                         regret: float) -> str:
+                         regret: float,
+                         chosen_product: Dict[str, Any] = None,
+                         available_products: List[Dict[str, Any]] = None,
+                         category: str = None) -> str:
         """
         Generate feedback based on the configured feedback type.
         
@@ -44,6 +55,9 @@ class FeedbackSystem:
             chosen_score: Score of the chosen product
             best_score: Score of the best possible product
             regret: Regret value (best_score - chosen_score)
+            chosen_product: Information about the chosen product (for persona feedback)
+            available_products: List of all available products (for persona feedback)
+            category: Product category (for persona feedback)
             
         Returns:
             Feedback string for the agent
@@ -54,6 +68,9 @@ class FeedbackSystem:
             return self._generate_regret_feedback(regret, chosen_score, best_score)
         elif self.feedback_type == "quality":
             return self._generate_quality_feedback(chosen_score)
+        elif self.feedback_type == "persona":
+            return self._generate_persona_feedback(regret, chosen_score, best_score, 
+                                                 chosen_product, available_products, category)
         else:
             raise ValueError(f"Unknown feedback type: {self.feedback_type}")
     
@@ -73,6 +90,55 @@ class FeedbackSystem:
             return "OK recommendation."
         else:
             return "Bad recommendation."
+    
+    def _generate_persona_feedback(self, regret: float, chosen_score: float, best_score: float,
+                                 chosen_product: Dict[str, Any], available_products: List[Dict[str, Any]], 
+                                 category: str) -> str:
+        """Generate contextual feedback from the persona agent about why the selection wasn't optimal."""
+        if not self.persona_description:
+            return self._generate_regret_feedback(regret, chosen_score, best_score)
+        
+        # Build context about the chosen product and available options
+        chosen_info = ""
+        if chosen_product:
+            chosen_info = f"Chosen product: {chosen_product.get('title', 'Unknown')} (Price: {chosen_product.get('price', 'Unknown')})"
+        
+        # Create a summary of available products without revealing which is best
+        products_summary = ""
+        if available_products:
+            products_summary = f"Available {category} products: "
+            product_titles = [p.get('title', 'Unknown')[:50] for p in available_products[:5]]  # Show first 5
+            products_summary += ", ".join(product_titles)
+            if len(available_products) > 5:
+                products_summary += f" (and {len(available_products) - 5} more)"
+        
+        prompt = f"""You are a user with the following persona:
+{self.persona_description}
+
+A recommendation agent just recommended a product to you, but it wasn't the best choice for your preferences. 
+
+Context:
+- {chosen_info}
+- {products_summary}
+- Your satisfaction with the chosen product: {chosen_score:.1f}/100
+- How much better the best option would have been: {regret:.1f} points higher
+
+Provide a short, helpful feedback statement (1-2 sentences) explaining why this recommendation wasn't ideal for you. Focus on your specific preferences and what the agent should consider differently next time. Do NOT reveal which specific product would have been better.
+
+Feedback:"""
+
+        try:
+            response = chat_completion(
+                messages=[{"role": "user", "content": prompt}],
+                model="gpt-4o",
+                temperature=0.7,
+                max_tokens=150
+            )
+            return response.strip()
+        except Exception as e:
+            print(f"Error generating persona feedback: {e}")
+            # Fallback to regret feedback if persona feedback fails
+            return self._generate_regret_feedback(regret, chosen_score, best_score)
     
     
     def get_feedback_type(self) -> str:
@@ -144,3 +210,7 @@ def create_regret_feedback_system() -> FeedbackSystem:
 def create_quality_feedback_system() -> FeedbackSystem:
     """Create a feedback system that provides qualitative feedback."""
     return FeedbackSystem(feedback_type="quality")
+
+def create_persona_feedback_system(persona_description: str) -> FeedbackSystem:
+    """Create a feedback system that provides contextual feedback from a persona agent."""
+    return FeedbackSystem(feedback_type="persona", persona_description=persona_description)
