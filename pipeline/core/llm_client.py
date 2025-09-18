@@ -1,5 +1,7 @@
 import os
 import json
+import time
+import random
 from typing import List, Dict, Any, Optional
 from dotenv import load_dotenv
 from openai import OpenAI
@@ -67,6 +69,32 @@ def _is_gemini_model(model: str) -> bool:
 def _is_claude_model(model: str) -> bool:
     return model.startswith("claude-")
 
+def _retry_with_backoff(func, max_retries: int = 5, base_delay: float = 1.0, max_delay: float = 60.0):
+    """
+    Retry a function with exponential backoff and jitter.
+    
+    Args:
+        func: Function to retry
+        max_retries: Maximum number of retry attempts
+        base_delay: Base delay in seconds
+        max_delay: Maximum delay in seconds
+    """
+    for attempt in range(max_retries + 1):
+        try:
+            return func()
+        except Exception as e:
+            if attempt == max_retries:
+                print(f"Max retries ({max_retries}) exceeded. Last error: {e}")
+                raise
+            
+            # Calculate delay with exponential backoff and jitter
+            delay = min(base_delay * (2 ** attempt), max_delay)
+            jitter = random.uniform(0, delay * 0.1)  # Add up to 10% jitter
+            total_delay = delay + jitter
+            
+            print(f"Attempt {attempt + 1} failed: {e}. Retrying in {total_delay:.2f}s...")
+            time.sleep(total_delay)
+
 def chat_completion(
     messages: List[Dict[str, str]],
     model: str,
@@ -118,17 +146,19 @@ def _openai_chat_completion(
     max_tokens: int,
     json_mode: bool,
 ) -> str:
-    client = _get_openai_client()
-    kwargs: Dict[str, Any] = {
-        "model": model,
-        "messages": messages,
-        "temperature": temperature,
-        "max_tokens": max_tokens,
-    }
-    if json_mode:
-        kwargs["response_format"] = {"type": "json_object"}
-    resp = client.chat.completions.create(**kwargs)
-    return resp.choices[0].message.content.strip()
+    def _make_request():
+        client = _get_openai_client()
+        kwargs: Dict[str, Any] = {
+            "model": model,
+            "messages": messages,
+            "temperature": temperature,
+        }
+        if json_mode:
+            kwargs["response_format"] = {"type": "json_object"}
+        resp = client.chat.completions.create(**kwargs)
+        return resp.choices[0].message.content.strip()
+    
+    return _retry_with_backoff(_make_request, max_retries=5, base_delay=1.0, max_delay=60.0)
 
 
 def _gemini_chat_completion(
@@ -140,48 +170,100 @@ def _gemini_chat_completion(
     response_schema: Optional[Dict[str, Any]],
     system_prompt_override: Optional[str],
 ) -> str:
-    _ensure_gemini_configured()
-    system_instruction = None
-    if system_prompt_override:
-        system_instruction = system_prompt_override
-    else:
-        for m in messages:
-            if m.get("role") == "system":
-                system_instruction = m.get("content")
-                break
-    contents: List[Dict[str, Any]] = []
-    for m in messages:
-        role = m.get("role")
-        content = m.get("content")
-        if role == "system":
-            continue
-        if role == "assistant":
-            parts_role = "model"
+    def _make_request():
+        _ensure_gemini_configured()
+        system_instruction = None
+        if system_prompt_override:
+            system_instruction = system_prompt_override
         else:
-            parts_role = "user"
-        contents.append({
-            "role": parts_role,
-            "parts": [content],
-        })
+            for m in messages:
+                if m.get("role") == "system":
+                    system_instruction = m.get("content")
+                    break
+        contents: List[Dict[str, Any]] = []
+        for m in messages:
+            role = m.get("role")
+            content = m.get("content")
+            if role == "system":
+                continue
+            if role == "assistant":
+                parts_role = "model"
+            else:
+                parts_role = "user"
+            contents.append({
+                "role": parts_role,
+                "parts": [content],
+            })
 
-    generation_config: Dict[str, Any] = {
-        "temperature": temperature,
-        "max_output_tokens": max_tokens,
-    }
-    if json_mode:
-        generation_config["response_mime_type"] = "application/json"
-        if response_schema is not None:
-            generation_config["response_schema"] = response_schema
+        generation_config: Dict[str, Any] = {
+            "temperature": temperature,
+        }
+        if json_mode:
+            generation_config["response_mime_type"] = "application/json"
+            if response_schema is not None:
+                generation_config["response_schema"] = response_schema
 
-    model_client = genai.GenerativeModel(
-        model_name=model,
-        system_instruction=system_instruction,
-    )
-    resp = model_client.generate_content(
-        contents,
-        generation_config=generation_config,
-    )
-    return (resp.text or "").strip()
+        model_client = genai.GenerativeModel(
+            model_name=model,
+            system_instruction=system_instruction,
+        )
+        resp = model_client.generate_content(
+            contents,
+            generation_config=generation_config,
+        )
+
+        # Handle finish_reason before using resp.text to avoid ValueError
+        try:
+            candidates = getattr(resp, "candidates", []) or []
+            finish_reason = None
+            if candidates:
+                # Newer SDK: finish_reason is an enum/int on candidate
+                finish_reason = getattr(candidates[0], "finish_reason", None)
+
+            # If stopped due to reaching max tokens (finish_reason == 2),
+            # assemble partial text from parts instead of using resp.text
+            if finish_reason == 2:
+                content_obj = getattr(candidates[0], "content", None)
+                parts = getattr(content_obj, "parts", None) if content_obj else None
+                if parts:
+                    collected: list[str] = []
+                    for p in parts:
+                        t = getattr(p, "text", None)
+                        if t:
+                            collected.append(t)
+                    partial = "\n".join(collected).strip()
+                    if partial:
+                        return partial
+                # No parts to salvage
+                raise RuntimeError(
+                    "Gemini stopped due to max_tokens; increase max_tokens in caller"
+                )
+
+            # Otherwise, prefer quick accessor
+            text = getattr(resp, "text", None)
+            if text is not None:
+                return (resp.text or "").strip()
+
+            # Fallback: parse first candidate parts
+            if candidates:
+                content_obj = getattr(candidates[0], "content", None)
+                parts = getattr(content_obj, "parts", None) if content_obj else None
+                if parts:
+                    collected: list[str] = []
+                    for p in parts:
+                        t = getattr(p, "text", None)
+                        if t:
+                            collected.append(t)
+                    if collected:
+                        return "\n".join(collected).strip()
+        except Exception as _:
+            # Fall through to generic accessor error if anything unexpected
+            pass
+
+        # Last resort
+        return (getattr(resp, "text", "") or "").strip()
+    
+    return _retry_with_backoff(_make_request, max_retries=5, base_delay=1.0, max_delay=60.0)
 
 
 def _claude_chat_completion(
@@ -192,37 +274,39 @@ def _claude_chat_completion(
     json_mode: bool,
     system_prompt_override: Optional[str],
 ) -> str:
-    client = _get_anthropic_client()
-    # Extract optional system prompt
-    system_prompt = system_prompt_override
-    if not system_prompt:
+    def _make_request():
+        client = _get_anthropic_client()
+        # Extract optional system prompt
+        system_prompt = system_prompt_override
+        if not system_prompt:
+            for m in messages:
+                if m.get("role") == "system":
+                    system_prompt = m.get("content")
+                    break
+
+        # Convert messages to Anthropic format: content must be a list of blocks
+        claude_messages: List[Dict[str, Any]] = []
         for m in messages:
-            if m.get("role") == "system":
-                system_prompt = m.get("content")
-                break
+            role = m.get("role")
+            if role == "system":
+                continue
+            mapped_role = "user" if role == "user" else "assistant"
+            claude_messages.append({
+                "role": mapped_role,
+                "content": [{"type": "text", "text": m.get("content", "")}],
+            })
 
-    # Convert messages to Anthropic format: content must be a list of blocks
-    claude_messages: List[Dict[str, Any]] = []
-    for m in messages:
-        role = m.get("role")
-        if role == "system":
-            continue
-        mapped_role = "user" if role == "user" else "assistant"
-        claude_messages.append({
-            "role": mapped_role,
-            "content": [{"type": "text", "text": m.get("content", "")}],
-        })
+        # Anthropic expects system as list of content blocks or an empty list
+        system_blocks = (
+            [{"type": "text", "text": system_prompt}] if system_prompt else []
+        )
 
-    # Anthropic expects system as list of content blocks or an empty list
-    system_blocks = (
-        [{"type": "text", "text": system_prompt}] if system_prompt else []
-    )
-
-    resp = client.messages.create(
-        model=model,
-        max_tokens=max_tokens,
-        system=system_blocks,
-        messages=claude_messages,
-        temperature=temperature,
-    )
-    return (resp.content[0].text or "").strip()
+        resp = client.messages.create(
+            model=model,
+            system=system_blocks,
+            messages=claude_messages,
+            temperature=temperature,
+        )
+        return (resp.content[0].text or "").strip()
+    
+    return _retry_with_backoff(_make_request, max_retries=5, base_delay=1.0, max_delay=60.0)

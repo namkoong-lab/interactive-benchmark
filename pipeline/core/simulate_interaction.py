@@ -175,16 +175,20 @@ def score_products_for_persona(persona_description: str, category: str, products
             chunk_size = 15
             for i in range(0, len(condensed_products), chunk_size):
                 chunk = condensed_products[i:i+chunk_size]
-                # Retry for transient errors
+                # Retry for transient errors with exponential backoff
                 content_local = None
-                for attempt in range(3):
+                for attempt in range(5):
                     try:
                         content_local = _query_with_products(chunk, array_only=True)
                         break
-                    except Exception:
-                        if attempt < 2:
-                            time.sleep(1.5 * (attempt + 1))
+                    except Exception as e:
+                        if attempt < 4:
+                            delay = min(1.0 * (2 ** attempt), 30.0)  # Exponential backoff, max 30s
+                            jitter = random.uniform(0, delay * 0.1)  # Add jitter
+                            print(f"Gemini chunk attempt {attempt + 1} failed: {e}. Retrying in {delay + jitter:.2f}s...")
+                            time.sleep(delay + jitter)
                         else:
+                            print(f"Gemini chunk failed after 5 attempts: {e}")
                             raise
                 raw_outputs.append(content_local)
         else:
@@ -194,26 +198,34 @@ def score_products_for_persona(persona_description: str, category: str, products
                 for i in range(0, len(condensed_products), chunk_size):
                     chunk = condensed_products[i:i+chunk_size]
                     content_part = None
-                    for attempt in range(3):
+                    for attempt in range(5):
                         try:
                             content_part = _query_with_products(chunk, array_only=True)
                             break
-                        except Exception:
-                            if attempt < 2:
-                                time.sleep(1.5 * (attempt + 1))
+                        except Exception as e:
+                            if attempt < 4:
+                                delay = min(1.0 * (2 ** attempt), 30.0)  # Exponential backoff, max 30s
+                                jitter = random.uniform(0, delay * 0.1)  # Add jitter
+                                print(f"OpenAI chunk attempt {attempt + 1} failed: {e}. Retrying in {delay + jitter:.2f}s...")
+                                time.sleep(delay + jitter)
                             else:
+                                print(f"OpenAI chunk failed after 5 attempts: {e}")
                                 raise
                     raw_outputs.append(content_part)
             else:
                 content_local = None
-                for attempt in range(3):
+                for attempt in range(5):
                     try:
                         content_local = _query_with_products(condensed_products, array_only=False)
                         break
-                    except Exception:
-                        if attempt < 2:
-                            time.sleep(1.5 * (attempt + 1))
+                    except Exception as e:
+                        if attempt < 4:
+                            delay = min(1.0 * (2 ** attempt), 30.0)  # Exponential backoff, max 30s
+                            jitter = random.uniform(0, delay * 0.1)  # Add jitter
+                            print(f"Model attempt {attempt + 1} failed: {e}. Retrying in {delay + jitter:.2f}s...")
+                            time.sleep(delay + jitter)
                         else:
+                            print(f"Model failed after 5 attempts: {e}")
                             raise
                 raw_outputs.append(content_local)
             

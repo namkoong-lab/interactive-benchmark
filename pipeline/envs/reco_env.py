@@ -7,6 +7,7 @@ import random
 
 from ..core.simulate_interaction import get_products_by_category, list_categories
 from ..core.user_model import UserModel
+from ..core.feedback_system import FeedbackSystem
 
 
 class RecoEnv(gym.Env):
@@ -29,7 +30,8 @@ class RecoEnv(gym.Env):
                  max_questions: int = 20,
                  categories: Optional[List[str]] = None,
                  seed: Optional[int] = None,
-                 agent: Optional[Any] = None):
+                 agent: Optional[Any] = None,
+                 feedback_system: Optional[FeedbackSystem] = None):
         super().__init__()
         
         self.persona_index = persona_index
@@ -41,6 +43,9 @@ class RecoEnv(gym.Env):
         
         # Initialize user model
         self.user_model = UserModel(persona_index)
+        
+        # Initialize feedback system
+        self.feedback_system = feedback_system or FeedbackSystem(feedback_type="regret")
         
         # Will be set during reset
         self.current_category = None
@@ -152,6 +157,13 @@ class RecoEnv(gym.Env):
             score_reward = chosen_score / 100.0  # Normalize to [0,1]
             regret_reward = -regret / 100.0  # Negative regret reward
             
+            # Generate feedback using the feedback system
+            feedback = self.feedback_system.generate_feedback(
+                chosen_score=chosen_score,
+                best_score=best_score,
+                regret=regret
+            )
+            
             # Final reward does not include budget-based efficiency bonus
             reward = score_reward
             
@@ -169,7 +181,9 @@ class RecoEnv(gym.Env):
                 "top3": chosen_product_id in [pid for pid, _ in self.oracle_scores[:3]],
                 "questions_asked": len(self.dialog_history),
                 "score_reward": score_reward,
-                "regret_reward": regret_reward
+                "regret_reward": regret_reward,
+                "feedback": feedback,
+                "feedback_type": self.feedback_system.get_feedback_type()
             }
             
             # Return zero observation for terminal state

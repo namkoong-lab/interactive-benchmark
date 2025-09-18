@@ -1,19 +1,20 @@
 #!/usr/bin/env python3
 """
-Experiment 1: Cross-Category Learning with Same User Persona.
+Experiment 2: Cross-User Learning with Same Category.
 
-This experiment tests whether an LLM can learn latent user preferences that 
-transfer across different product categories. The agent interacts with the same
-user persona across multiple categories sequentially.
+This experiment tests whether an LLM can learn optimal questioning strategies 
+that work across different user personas within the same product category.
 
 Key questions:
-1. Can the LLM learn latent user preferences that transfer across categories?
-2. Does recommendation performance improve as the agent experiences more categories?
-3. Is the feedback signal sufficient for cross-category learning?
+1. Can the LLM learn optimal questioning strategies for a category across different users?
+2. Do questioning strategies improve as the agent experiences more diverse users?
+3. Are there consistent questioning patterns that work well for a category regardless of user?
+4. Do we need to set particular user groups with consistent preferences?
 
-Setup: Same user persona, different categories tested sequentially.
-Hypothesis: Agent should learn consistent preferences (e.g., price sensitivity, 
-brand preferences) that apply across all categories.
+Setup: Different user personas, same category tested sequentially.
+Hypothesis: Agent should learn category-specific questioning strategies that 
+work across diverse user types (e.g., price-focused questions for electronics, 
+style questions for clothing).
 """
 
 import gymnasium as gym
@@ -23,24 +24,26 @@ import os
 from typing import Dict, List, Tuple, Any
 import argparse
 from datetime import datetime
+import random
 from .envs.reco_env import RecoEnv
 from .core.llm_client import chat_completion
 from .wrappers.metrics_wrapper import MetricsWrapper
 
 
-class LLMAgent:
+class LLMAgentExperiment2:
     """
-    LLM-based agent that can ask questions and make recommendations.
-    This agent should learn user preferences across episodes.
+    LLM-based agent for Experiment 2 that learns questioning strategies
+    across different users within the same category.
     """
     
     def __init__(self, model: str = "gpt-4o", max_questions: int = 8):
         self.model = model
         self.max_questions = max_questions
         self.episode_count = 0
-        self.learned_preferences = {}  # Store learned user preferences
-        self.current_episode_info = None  # Store current episode info
-        self.last_response = None  # Store last LLM response for question extraction
+        self.learned_questioning_strategies = {}  # Store learned questioning patterns
+        self.current_episode_info = None
+        self.last_response = None
+        self.category_question_history = []  # Track questions asked in this category
         
     def get_action(self, obs: Dict[str, np.ndarray], info: Dict[str, Any]) -> int:
         """Decide whether to ask a question or make a recommendation using LLM."""
@@ -68,13 +71,18 @@ class LLMAgent:
         products = self._get_product_info(obs, info, num_products)
         context = self._build_llm_context(products, dialog_history, category)
         
-        unified_prompt = f"""You are a product recommendation agent. Your goal is to find the best product for this user.
+        # Add learned questioning strategies to context
+        strategy_context = self._build_strategy_context(category)
+        
+        unified_prompt = f"""You are a product recommendation agent learning optimal questioning strategies for {category} products.
 
 Context:
 {context}
 
+{strategy_context}
+
 Task:
-Based on the conversation so far, either:
+Based on the conversation so far and learned questioning patterns, either:
 - Ask one short, consumer-friendly question to clarify user preferences, or
 - If sufficiently confident, recommend one product by index. 
 
@@ -85,8 +93,9 @@ Output format (MUST be exactly one line, no extra text):
 Rules:
 - Do not include explanations, reasoning, bullets, or multiple questions
 - Avoid jargon; use everyday language a shopper understands
-- Keep questions specific and helpful (budget, size, brand/style preference, key feature)
-- No meta commentary like “this is strategic because…”, only the question or recommendation
+- Keep questions specific and helpful for {category} products
+- Consider what types of questions have worked well for this category before
+- No meta commentary, only the question or recommendation
 """
 
         try:
@@ -164,105 +173,139 @@ Rules:
         
         return f"{product_list}\n{dialog_text}"
     
-    def update_preferences(self, episode_result: Dict[str, Any]):
-        """Update learned preferences based on episode outcome."""
+    def _build_strategy_context(self, category: str) -> str:
+        """Build context about learned questioning strategies for this category."""
+        if category not in self.learned_questioning_strategies:
+            return f"No previous questioning strategies learned for {category} yet."
+        
+        strategies = self.learned_questioning_strategies[category]
+        if not strategies:
+            return f"No effective questioning strategies identified for {category} yet."
+        
+        strategy_text = f"Learned questioning strategies for {category}:\n"
+        for i, (question_type, effectiveness) in enumerate(strategies[:3]):  # Top 3 strategies
+            strategy_text += f"- {question_type}: {effectiveness:.1f}% effective\n"
+        
+        return strategy_text
+    
+    def update_strategies(self, episode_result: Dict[str, Any]):
+        """Update learned questioning strategies based on episode outcome."""
         self.episode_count += 1
         
         if 'final_info' in episode_result and 'chosen_score' in episode_result['final_info']:
             score = episode_result['final_info']['chosen_score']
             category = episode_result.get('category', 'unknown')
+            dialog_history = episode_result.get('full_dialog', [])
             feedback = episode_result['final_info'].get('feedback', '')
             feedback_type = episode_result['final_info'].get('feedback_type', 'regret')
             
-            if category not in self.learned_preferences:
-                self.learned_preferences[category] = []
+            # Analyze which questions led to good outcomes
+            if dialog_history:
+                for question, answer in dialog_history:
+                    question_type = self._categorize_question(question)
+                    effectiveness = score  # Use final score as effectiveness measure
+                    
+                    if category not in self.learned_questioning_strategies:
+                        self.learned_questioning_strategies[category] = {}
+                    
+                    if question_type not in self.learned_questioning_strategies[category]:
+                        self.learned_questioning_strategies[category][question_type] = []
+                    
+                    self.learned_questioning_strategies[category][question_type].append(effectiveness)
             
-            # Store both score and feedback for analysis
-            self.learned_preferences[category].append({
-                'score': score,
-                'feedback': feedback,
-                'feedback_type': feedback_type,
-                'episode': self.episode_count
-            })
-            
-            # Process feedback for learning
-            self._process_feedback(feedback, feedback_type, score, category)
+            # Process feedback for strategy learning
+            self._process_feedback_for_strategies(feedback, feedback_type, score, category, dialog_history)
     
-    def _process_feedback(self, feedback: str, feedback_type: str, score: float, category: str):
-        """Process different types of feedback for learning."""
-        if not feedback:  # No feedback case
+    def _process_feedback_for_strategies(self, feedback: str, feedback_type: str, score: float, 
+                                        category: str, dialog_history: list):
+        """Process feedback specifically for questioning strategy learning."""
+        if not feedback:
             return
         
-        # Store feedback history for analysis
-        if not hasattr(self, 'feedback_history'):
-            self.feedback_history = []
+        # Store feedback for strategy analysis
+        if not hasattr(self, 'strategy_feedback_history'):
+            self.strategy_feedback_history = []
         
-        self.feedback_history.append({
+        self.strategy_feedback_history.append({
             'feedback': feedback,
             'feedback_type': feedback_type,
             'score': score,
             'category': category,
+            'dialog_length': len(dialog_history),
             'episode': self.episode_count
         })
         
-        # Process feedback based on type
-        if feedback_type == "regret":
-            self._process_regret_feedback(feedback, score, category)
-        elif feedback_type == "quality":
-            self._process_quality_feedback(feedback, score, category)
+        # Extract insights about questioning effectiveness from feedback
+        if feedback_type == "quality" and dialog_history:
+            # Analyze which questions were most effective based on quality feedback
+            self._analyze_question_effectiveness_from_feedback(feedback, dialog_history, score, category)
     
-    def _process_regret_feedback(self, feedback: str, score: float, category: str):
-        """Process precise regret feedback."""
-        # Extract regret value from feedback
-        import re
-        regret_match = re.search(r'Regret: ([\d.]+)', feedback)
-        if regret_match:
-            regret = float(regret_match.group(1))
-            # Learn from regret - lower regret is better
-            if not hasattr(self, 'regret_history'):
-                self.regret_history = {}
-            if category not in self.regret_history:
-                self.regret_history[category] = []
-            self.regret_history[category].append(regret)
-    
-    def _process_quality_feedback(self, feedback: str, score: float, category: str):
-        """Process qualitative feedback."""
-        # Extract quality level from feedback
+    def _analyze_question_effectiveness_from_feedback(self, feedback: str, dialog_history: list, 
+                                                     score: float, category: str):
+        """Analyze which questions were most effective based on quality feedback."""
+        # Simple analysis based on quality feedback
         feedback_lower = feedback.lower()
-        if 'great' in feedback_lower:
-            quality = 'great'
-        elif 'ok' in feedback_lower:
-            quality = 'ok'
-        elif 'bad' in feedback_lower:
-            quality = 'bad'
-        else:
-            quality = 'unknown'
         
-        # Store quality for learning
-        if not hasattr(self, 'quality_history'):
-            self.quality_history = {}
-        if category not in self.quality_history:
-            self.quality_history[category] = []
-        self.quality_history[category].append(quality)
+        # Determine overall effectiveness based on quality feedback
+        if 'great' in feedback_lower:
+            overall_effectiveness = 'high'
+        elif 'ok' in feedback_lower:
+            overall_effectiveness = 'medium'
+        elif 'bad' in feedback_lower:
+            overall_effectiveness = 'low'
+        else:
+            overall_effectiveness = 'unknown'
+        
+        # Store effectiveness insights
+        if not hasattr(self, 'question_effectiveness_insights'):
+            self.question_effectiveness_insights = {}
+        if category not in self.question_effectiveness_insights:
+            self.question_effectiveness_insights[category] = []
+        
+        self.question_effectiveness_insights[category].append({
+            'overall_effectiveness': overall_effectiveness,
+            'score': score,
+            'feedback': feedback,
+            'dialog_length': len(dialog_history)
+        })
+    
+    def _categorize_question(self, question: str) -> str:
+        """Categorize question type for strategy learning."""
+        question_lower = question.lower()
+        
+        if any(word in question_lower for word in ['price', 'budget', 'cost', 'expensive', 'cheap']):
+            return "price_budget"
+        elif any(word in question_lower for word in ['brand', 'manufacturer', 'company']):
+            return "brand_preference"
+        elif any(word in question_lower for word in ['size', 'dimension', 'measurement']):
+            return "size_specifications"
+        elif any(word in question_lower for word in ['color', 'style', 'design', 'appearance']):
+            return "style_appearance"
+        elif any(word in question_lower for word in ['feature', 'function', 'capability']):
+            return "features_functionality"
+        elif any(word in question_lower for word in ['quality', 'durability', 'reliability']):
+            return "quality_durability"
+        else:
+            return "general_preference"
 
 
-def run_experiment1(persona_index: int = 42, 
-                   categories: List[str] = None,
-                   num_categories: int = 5,
-                   episodes_per_category: int = 5,
+def run_experiment2(category: str = "Electronics",
+                   persona_indices: List[int] = None,
+                   num_personas: int = 10,
+                   episodes_per_persona: int = 3,
                    max_questions: int = 8,
                    model: str = "gpt-4o",
                    feedback_type: str = "none",
                    min_score_threshold: float = 50.0,
-                   output_dir: str = "experiment1_results"):
+                   output_dir: str = "experiment2_results"):
     """
-    Run Experiment 1: LLM learning across categories.
+    Run Experiment 2: LLM learning questioning strategies across users in same category.
     
     Args:
-        persona_index: Which persona to use (consistent across episodes)
-        categories: List of categories to test (None = randomly choose)
-        num_categories: Number of categories to randomly select (if categories is None)
-        episodes_per_category: Number of episodes per category
+        category: Single category to test across different users
+        persona_indices: List of persona indices to use (None = randomly choose)
+        num_personas: Number of personas to randomly select (if persona_indices is None)
+        episodes_per_persona: Number of episodes per persona
         max_questions: Maximum questions per episode
         model: LLM model to use
         feedback_type: Type of feedback to provide ("none", "regret", "quality")
@@ -270,86 +313,127 @@ def run_experiment1(persona_index: int = 42,
         output_dir: Directory to save results
     """
     
-    print(f"=== Experiment 1: LLM Learning Across Categories ===")
-    print(f"Persona: {persona_index}, Episodes per category: {episodes_per_category}")
+    print(f"=== Experiment 2: LLM Learning Questioning Strategies Across Users ===")
+    print(f"Category: {category}, Episodes per persona: {episodes_per_persona}")
     print(f"Max questions: {max_questions}, Model: {model}, Feedback: {feedback_type}")
     
     os.makedirs(output_dir, exist_ok=True)
     gym.register("RecoEnv-v0", entry_point=RecoEnv)
-    agent = LLMAgent(model=model, max_questions=max_questions)
+    agent = LLMAgentExperiment2(model=model, max_questions=max_questions)
     
     # Create feedback system
     from .core.feedback_system import FeedbackSystem
     feedback_system = FeedbackSystem(feedback_type=feedback_type)
     
     from .core.simulate_interaction import list_categories, get_products_by_category
-    import random
     available_categories = list_categories()
     
-    # Dynamic category filtering - check relevance as we encounter categories
-    def is_category_relevant_for_persona(category, persona_index, min_score_threshold):
-        """Check if a category is relevant for a specific persona."""
+    if category not in available_categories:
+        print(f"Category '{category}' not found. Available categories: {available_categories[:5]}...")
+        category = available_categories[0] if available_categories else "Electronics"
+        print(f"Using category: {category}")
+    
+    # Check if category is relevant (has products with score > threshold for at least some personas)
+    def check_category_relevance(category, sample_personas=10, min_score_threshold=min_score_threshold):
+        """Check if a category has relevant products for at least some personas."""
+        from .core.user_model import UserModel
+        
+        try:
+            products = get_products_by_category(category)
+            if not products:
+                print(f"Category '{category}' has no products")
+                return False
+                
+            # Test with a sample of personas
+            test_personas = random.sample(range(0, 1000), min(sample_personas, 1000))
+            relevant_personas = 0
+            
+            print(f"Checking category relevance for '{category}' (testing {len(test_personas)} personas)...")
+            
+            for persona_idx in test_personas:
+                try:
+                    user_model = UserModel(persona_idx)
+                    scores = user_model.score_products(category, products)
+                    if scores:
+                        max_score = max(score for _, score in scores)
+                        if max_score > min_score_threshold:
+                            relevant_personas += 1
+                except Exception as e:
+                    continue
+            
+            relevance_ratio = relevant_personas / len(test_personas)
+            print(f"Category '{category}': {relevant_personas}/{len(test_personas)} personas find it relevant (score > {min_score_threshold})")
+            
+            # Consider category relevant if at least 20% of test personas find it relevant
+            return relevance_ratio >= 0.2
+            
+        except Exception as e:
+            print(f"Error checking category relevance: {e}")
+            return False
+    
+    # Optional: Check if the specified category is relevant to a sample of personas
+    # (This is just informational - we'll check each persona individually during the experiment)
+    sample_relevance = check_category_relevance(category)
+    if not sample_relevance:
+        print(f"Note: Category '{category}' may not be relevant to many personas.")
+        print("Individual personas will be checked and skipped if irrelevant.")
+    
+    # Select personas
+    if persona_indices is None:
+        # Use a diverse set of personas
+        persona_indices = random.sample(range(0, 1000), min(num_personas, 1000))
+    else:
+        persona_indices = persona_indices[:num_personas]
+    
+    print(f"Personas: {persona_indices}")
+    
+    all_results = []
+    persona_results = {pid: [] for pid in persona_indices}
+    
+    total_episodes = len(persona_indices) * episodes_per_persona
+    episode_num = 0
+    
+    # Dynamic persona filtering - check relevance as we encounter personas
+    def check_persona_category_relevance(persona_idx, category, min_score_threshold):
+        """Check if a specific persona finds the category relevant."""
         from .core.user_model import UserModel
         try:
             products = get_products_by_category(category)
             if not products:
                 return False, 0.0
                 
-            user_model = UserModel(persona_index)
+            user_model = UserModel(persona_idx)
             scores = user_model.score_products(category, products)
             if scores:
                 max_score = max(score for _, score in scores)
                 return max_score > min_score_threshold, max_score
             return False, 0.0
         except Exception as e:
-            print(f"  Error checking category {category}: {e}")
+            print(f"  Error checking persona relevance: {e}")
             return False, 0.0
     
-    # Initialize category selection
-    if categories is None:
-        # Start with a random selection from available categories
-        if len(available_categories) >= num_categories:
-            selected_categories = random.sample(available_categories, num_categories)
-        else:
-            selected_categories = available_categories.copy()
-    else:
-        # Use provided categories, filtered by availability
-        selected_categories = [cat for cat in categories if cat in available_categories]
-    
-    print(f"Initial categories: {selected_categories}")
-    
-    all_results = []
-    category_results = {}
-    used_categories = set()
-    
-    total_episodes = len(selected_categories) * episodes_per_category
-    episode_num = 0
-    
-    for category in selected_categories:
-        print(f"\n--- Testing Category: {category} ---")
+    for persona_index in persona_indices:
+        print(f"\n--- Testing Persona: {persona_index} ---")
         
-        # Check if this category is relevant for the persona
-        is_relevant, max_score = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
+        # Check relevance for this persona
+        is_relevant, max_score = check_persona_category_relevance(persona_index, category, min_score_threshold)
         if not is_relevant:
-            print(f"  Category {category}: Max score {max_score:.1f} ≤ {min_score_threshold}, skipping category")
-            # Skip all episodes for this category
-            for episode in range(episodes_per_category):
+            print(f"  Persona {persona_index}: Max score {max_score:.1f} ≤ {min_score_threshold}, skipping persona")
+            # Skip all episodes for this persona
+            for episode in range(episodes_per_persona):
                 episode_num += 1
             continue
         
-        print(f"  Category {category}: Max score {max_score:.1f} > {min_score_threshold}, proceeding")
-        used_categories.add(category)
-        if category not in category_results:
-            category_results[category] = []
+        print(f"  Persona {persona_index}: Max score {max_score:.1f} > {min_score_threshold}, proceeding")
         
-        for episode in range(episodes_per_category):
+        for episode in range(episodes_per_persona):
             episode_num += 1
-            print(f"Episode {episode_num}/{total_episodes} (Category: {category})")
+            print(f"Episode {episode_num}/{total_episodes} (Persona: {persona_index})")
             
             env = RecoEnv(
                 persona_index=persona_index,
                 max_questions=max_questions,
-                categories=[category],  
+                categories=[category],  # Same category for all episodes
                 agent=agent,
                 feedback_system=feedback_system
             )
@@ -400,9 +484,6 @@ def run_experiment1(persona_index: int = 42,
                 'products_with_scores': []
             }
             
-            # To keep regret and displayed scores consistent, use the environment's
-            # oracle_scores (already averaged across providers) instead of
-            # re-scoring here.
             if hasattr(env, 'products') and hasattr(env, 'oracle_scores'):
                 id_to_product = {p['id']: p for p in env.products}
                 for product_id, avg_score in env.oracle_scores:
@@ -418,7 +499,8 @@ def run_experiment1(persona_index: int = 42,
             episode_result = {
                 'episode': episode_num,
                 'category': category,
-                'episode_in_category': episode + 1,
+                'persona_index': persona_index,
+                'episode_in_persona': episode + 1,
                 'steps': step_count,
                 'terminated': terminated,
                 'truncated': truncated,
@@ -428,30 +510,38 @@ def run_experiment1(persona_index: int = 42,
             }
             
             all_results.append(episode_result)
-            category_results[category].append(episode_result)
-            agent.update_preferences(episode_result)
+            persona_results[persona_index].append(episode_result)
+            agent.update_strategies(episode_result)
             metrics_wrapper.close()
     
     print(f"\n=== Results Analysis ===")
     
-    print("\nPerformance by Category:")
-    for category, results in category_results.items():
+    print("\nPerformance by Persona:")
+    for persona_index, results in persona_results.items():
         scores = [r['final_info'].get('chosen_score', 0) for r in results if 'chosen_score' in r['final_info']]
         top1_rates = [r['final_info'].get('top1', False) for r in results if 'top1' in r['final_info']]
         
         if scores:
             avg_score = np.mean(scores)
             top1_rate = np.mean(top1_rates)
-            print(f"  {category}: Avg Score: {avg_score:.1f}, Top1 Rate: {top1_rate:.1%}, Episodes: {len(scores)}")
+            print(f"  Persona {persona_index}: Avg Score: {avg_score:.1f}, Top1 Rate: {top1_rate:.1%}, Episodes: {len(scores)}")
     
-    print("\nLearning Progression:")
-    for category, results in category_results.items():
+    print("\nLearning Progression (Questioning Strategy Effectiveness):")
+    for persona_index, results in persona_results.items():
         scores = [r['final_info'].get('chosen_score', 0) for r in results if 'chosen_score' in r['final_info']]
         if len(scores) >= 2:
             first_half = np.mean(scores[:len(scores)//2])
             second_half = np.mean(scores[len(scores)//2:])
             improvement = second_half - first_half
-            print(f"  {category}: {first_half:.1f} → {second_half:.1f} (Δ{improvement:+.1f})")
+            print(f"  Persona {persona_index}: {first_half:.1f} → {second_half:.1f} (Δ{improvement:+.1f})")
+    
+    # Analyze learned questioning strategies
+    print("\nLearned Questioning Strategies:")
+    if category in agent.learned_questioning_strategies:
+        strategies = agent.learned_questioning_strategies[category]
+        for question_type, effectiveness_scores in strategies.items():
+            avg_effectiveness = np.mean(effectiveness_scores)
+            print(f"  {question_type}: {avg_effectiveness:.1f} avg effectiveness ({len(effectiveness_scores)} examples)")
     
     episode_regrets = []
     episode_questions = []
@@ -477,27 +567,28 @@ def run_experiment1(persona_index: int = 42,
         'total_questions': sum(episode_questions) if episode_questions else 0
     }
     
-    # Category information
-    category_info = {}
-    for cat, results in category_results.items():
+    # Persona information
+    persona_info = {}
+    for pid, results in persona_results.items():
         if results:
-            category_info[cat] = {
+            persona_info[pid] = {
                 'num_products': results[0]['product_info']['num_products'],
                 'episodes': len(results)
             }
     
-    # Create model-specific filename to avoid collisions
+    # Create model-specific filename
     model_safe_name = model.replace("/", "_").replace(":", "_")
     feedback_safe_name = feedback_type.replace("/", "_").replace(":", "_")
-    results_file = os.path.join(output_dir, f"experiment1_results_{model_safe_name}_{feedback_safe_name}.json")
+    results_file = os.path.join(output_dir, f"experiment2_results_{model_safe_name}_{feedback_safe_name}.json")
     with open(results_file, 'w') as f:
         json.dump({
-            'experiment': 'Experiment 1: LLM Learning Across Categories',
+            'experiment': 'Experiment 2: LLM Learning Questioning Strategies Across Users',
             'timestamp': datetime.now().isoformat(),
             'summary': {
                 'regret_progression': regret_progression,
                 'questions_progression': questions_progression,
-                'category_info': category_info,
+                'persona_info': persona_info,
+                'learned_strategies': agent.learned_questioning_strategies,
                 'overall_performance': {
                     'avg_score': np.mean(episode_scores) if episode_scores else 0,
                     'total_episodes': len(all_results),
@@ -505,51 +596,51 @@ def run_experiment1(persona_index: int = 42,
                 }
             },
             'config': {
-                'persona_index': persona_index,
-                'categories': categories,
-                'episodes_per_category': episodes_per_category,
+                'category': category,
+                'persona_indices': persona_indices,
+                'episodes_per_persona': episodes_per_persona,
                 'max_questions': max_questions,
                 'model': model,
                 'feedback_type': feedback_type
             },
             'results': all_results,
-            'category_summary': {
-                cat: {
+            'persona_summary': {
+                pid: {
                     'avg_score': np.mean([r['final_info'].get('chosen_score', 0) for r in results if 'chosen_score' in r['final_info']]),
                     'top1_rate': np.mean([r['final_info'].get('top1', False) for r in results if 'top1' in r['final_info']]),
                     'episode_count': len(results),
                     'num_products': results[0]['product_info']['num_products'] if results else 0,
                     'products_with_scores': results[0]['product_info']['products_with_scores'] if results else []
                 }
-                for cat, results in category_results.items()
+                for pid, results in persona_results.items()
             }
         }, f, indent=2)
     
     print(f"\nResults saved to: {results_file}")
     print(f"Individual episode metrics saved to: {output_dir}/episode_*.jsonl")
     
-    return all_results, category_results
+    return all_results, persona_results, agent.learned_questioning_strategies
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Run Experiment 1: LLM Learning Across Categories")
-    parser.add_argument("--persona_index", type=int, default=42, help="Persona index to use")
-    parser.add_argument("--categories", nargs="+", default=None, help="Categories to test")
-    parser.add_argument("--num_categories", type=int, default=5, help="Number of categories to randomly select")
-    parser.add_argument("--episodes_per_category", type=int, default=5, help="Episodes per category")
+    parser = argparse.ArgumentParser(description="Run Experiment 2: LLM Learning Questioning Strategies Across Users")
+    parser.add_argument("--category", type=str, default="Electronics", help="Category to test")
+    parser.add_argument("--persona_indices", nargs="+", type=int, default=None, help="Persona indices to use")
+    parser.add_argument("--num_personas", type=int, default=10, help="Number of personas to randomly select")
+    parser.add_argument("--episodes_per_persona", type=int, default=3, help="Episodes per persona")
     parser.add_argument("--max_questions", type=int, default=8, help="Max questions per episode")
     parser.add_argument("--model", type=str, default="gpt-4o", help="LLM model to use")
     parser.add_argument("--feedback_type", type=str, default="none", choices=["none", "regret", "quality"], help="Type of feedback to provide")
     parser.add_argument("--min_score_threshold", type=float, default=50.0, help="Minimum score threshold for category relevance")
-    parser.add_argument("--output_dir", type=str, default="experiment1_results", help="Output directory")
+    parser.add_argument("--output_dir", type=str, default="experiment2_results", help="Output directory")
     
     args = parser.parse_args()
     
-    run_experiment1(
-        persona_index=args.persona_index,
-        categories=args.categories,
-        num_categories=args.num_categories,
-        episodes_per_category=args.episodes_per_category,
+    run_experiment2(
+        category=args.category,
+        persona_indices=args.persona_indices,
+        num_personas=args.num_personas,
+        episodes_per_persona=args.episodes_per_persona,
         max_questions=args.max_questions,
         model=args.model,
         feedback_type=args.feedback_type,
