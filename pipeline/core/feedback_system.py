@@ -8,8 +8,7 @@ LLM agents in recommendation tasks.
 Feedback Types:
 1. No Feedback: Agent receives no information about recommendation quality
 2. Regret Feedback: Agent receives precise numerical regret value
-3. Quality Feedback: Agent receives qualitative feedback based on score (80+ = great, 60-80 = ok, <60 = bad)
-4. Persona Feedback: Agent receives contextual feedback from the persona agent about why the selection wasn't optimal
+3. Persona Feedback: Agent receives contextual feedback from the persona agent about why the selection wasn't optimal
 """
 
 from typing import Dict, Any, Optional, List, Tuple
@@ -21,25 +20,25 @@ class FeedbackSystem:
     Generates different types of feedback for recommendation agents.
     """
     
-    def __init__(self, feedback_type: str = "none", persona_description: str = None):
+    def __init__(self, feedback_type: str = "none", persona_agent=None):
         """
         Initialize feedback system.
         
         Args:
-            feedback_type: Type of feedback to generate ("none", "regret", "quality", "persona")
-            persona_description: Persona description for generating contextual feedback (required for "persona" type)
+            feedback_type: Type of feedback to generate ("none", "regret", "persona")
+            persona_agent: UserModel instance for generating persona feedback (required for "persona" type)
         """
         self.feedback_type = feedback_type
-        self.persona_description = persona_description
+        self.persona_agent = persona_agent
         
         # Validate feedback type
-        valid_types = ["none", "regret", "quality", "persona"]
+        valid_types = ["none", "regret", "persona"]
         if feedback_type not in valid_types:
             raise ValueError(f"Invalid feedback_type: {feedback_type}. Must be one of {valid_types}")
         
-        # Validate persona description for persona feedback type
-        if feedback_type == "persona" and not persona_description:
-            raise ValueError("persona_description is required when feedback_type is 'persona'")
+        # Validate persona agent for persona feedback type
+        if feedback_type == "persona" and not persona_agent:
+            raise ValueError("persona_agent is required when feedback_type is 'persona'")
     
     def generate_feedback(self, 
                          chosen_score: float, 
@@ -47,7 +46,8 @@ class FeedbackSystem:
                          regret: float,
                          chosen_product: Dict[str, Any] = None,
                          available_products: List[Dict[str, Any]] = None,
-                         category: str = None) -> str:
+                         category: str = None,
+                         dialog_history: List[Dict[str, str]] = None) -> str:
         """
         Generate feedback based on the configured feedback type.
         
@@ -58,6 +58,7 @@ class FeedbackSystem:
             chosen_product: Information about the chosen product (for persona feedback)
             available_products: List of all available products (for persona feedback)
             category: Product category (for persona feedback)
+            dialog_history: Conversation history between agent and persona (for persona feedback)
             
         Returns:
             Feedback string for the agent
@@ -66,11 +67,9 @@ class FeedbackSystem:
             return self._generate_no_feedback()
         elif self.feedback_type == "regret":
             return self._generate_regret_feedback(regret, chosen_score, best_score)
-        elif self.feedback_type == "quality":
-            return self._generate_quality_feedback(chosen_score)
         elif self.feedback_type == "persona":
             return self._generate_persona_feedback(regret, chosen_score, best_score, 
-                                                 chosen_product, available_products, category)
+                                                 chosen_product, available_products, category, dialog_history)
         else:
             raise ValueError(f"Unknown feedback type: {self.feedback_type}")
     
@@ -82,63 +81,40 @@ class FeedbackSystem:
         """Generate precise numerical feedback."""
         return f"Recommendation feedback: Chosen score: {chosen_score:.1f}, Best possible: {best_score:.1f}, Regret: {regret:.1f}"
     
-    def _generate_quality_feedback(self, chosen_score: float) -> str:
-        """Generate qualitative feedback based on score ranges."""
-        if chosen_score >= 80:
-            return "Great recommendation!"
-        elif chosen_score >= 60:
-            return "OK recommendation."
-        else:
-            return "Bad recommendation."
-    
     def _generate_persona_feedback(self, regret: float, chosen_score: float, best_score: float,
                                  chosen_product: Dict[str, Any], available_products: List[Dict[str, Any]], 
-                                 category: str) -> str:
-        """Generate contextual feedback from the persona agent about why the selection wasn't optimal."""
-        if not self.persona_description:
+                                 category: str, dialog_history: List[Dict[str, str]] = None) -> str:
+        """Generate contextual feedback from the actual persona agent about why the selection wasn't optimal."""
+        if not self.persona_agent:
             return self._generate_regret_feedback(regret, chosen_score, best_score)
         
-        # Build context about the chosen product and available options
-        chosen_info = ""
-        if chosen_product:
-            chosen_info = f"Chosen product: {chosen_product.get('title', 'Unknown')} (Price: {chosen_product.get('price', 'Unknown')})"
+        from .simulate_interaction import get_products_by_category
+        all_products = get_products_by_category(category)
+        id_to_product = {p['id']: p for p in all_products}
         
-        # Create a summary of available products without revealing which is best
-        products_summary = ""
-        if available_products:
-            products_summary = f"Available {category} products: "
-            product_titles = [p.get('title', 'Unknown')[:50] for p in available_products[:5]]  # Show first 5
-            products_summary += ", ".join(product_titles)
-            if len(available_products) > 5:
-                products_summary += f" (and {len(available_products) - 5} more)"
+        top_products = []
+        for product in available_products:
+            product_id = product.get('id')
+            if product_id and product_id != chosen_product.get('id'):
+                # Get the score for this product from the persona agent
+                scores = self.persona_agent.score_products(category, [product])
+                if scores:
+                    score = scores[0][1]  # (product_id, score)
+                    top_products.append((product_id, score))
         
-        prompt = f"""You are a user with the following persona:
-{self.persona_description}
-
-A recommendation agent just recommended a product to you, but it wasn't the best choice for your preferences. 
-
-Context:
-- {chosen_info}
-- {products_summary}
-- Your satisfaction with the chosen product: {chosen_score:.1f}/100
-- How much better the best option would have been: {regret:.1f} points higher
-
-Provide a short, helpful feedback statement (1-2 sentences) explaining why this recommendation wasn't ideal for you. Focus on your specific preferences and what the agent should consider differently next time. Do NOT reveal which specific product would have been better.
-
-Feedback:"""
-
-        try:
-            response = chat_completion(
-                messages=[{"role": "user", "content": prompt}],
-                model="gpt-4o",
-                temperature=0.7,
-                max_tokens=150
-            )
-            return response.strip()
-        except Exception as e:
-            print(f"Error generating persona feedback: {e}")
-            # Fallback to regret feedback if persona feedback fails
-            return self._generate_regret_feedback(regret, chosen_score, best_score)
+        # Sort by score and take top 3-5
+        top_products.sort(key=lambda x: x[1], reverse=True)
+        top_products = top_products[:5]
+        
+        # Use the persona agent to generate feedback
+        return self.persona_agent.generate_feedback(
+            chosen_product=chosen_product,
+            chosen_score=chosen_score,
+            regret=regret,
+            top_products=top_products,
+            category=category,
+            dialog_history=dialog_history
+        )
     
     
     def get_feedback_type(self) -> str:
@@ -147,7 +123,7 @@ Feedback:"""
     
     def set_feedback_type(self, feedback_type: str):
         """Change the feedback type."""
-        valid_types = ["none", "regret", "quality"]
+        valid_types = ["none", "regret", "persona"]
         if feedback_type not in valid_types:
             raise ValueError(f"Invalid feedback_type: {feedback_type}. Must be one of {valid_types}")
         self.feedback_type = feedback_type
@@ -207,9 +183,6 @@ def create_regret_feedback_system() -> FeedbackSystem:
     """Create a feedback system that provides precise regret values."""
     return FeedbackSystem(feedback_type="regret")
 
-def create_quality_feedback_system() -> FeedbackSystem:
-    """Create a feedback system that provides qualitative feedback."""
-    return FeedbackSystem(feedback_type="quality")
 
 def create_persona_feedback_system(persona_description: str) -> FeedbackSystem:
     """Create a feedback system that provides contextual feedback from a persona agent."""

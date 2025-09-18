@@ -56,11 +56,14 @@ class LLMAgent:
         """Use LLM to decide whether to ask a question or make a recommendation."""
         products = self._get_product_info(obs, info, num_products)
         context = self._build_llm_context(products, dialog_history, category)
+        feedback_context = self._build_feedback_context(category)
         
         unified_prompt = f"""You are a product recommendation agent. Your goal is to find the best product for this user.
 
 Context:
 {context}
+
+{feedback_context}
 
 Task:
 Based on the conversation so far, either:
@@ -142,6 +145,33 @@ Rules:
         
         return f"{product_list}\n{dialog_text}"
     
+    def _build_feedback_context(self, category: str) -> str:
+        """Build context string from previous feedback for this category."""
+        if not hasattr(self, 'learned_preferences') or category not in self.learned_preferences:
+            return ""
+        
+        category_feedback = self.learned_preferences[category]
+        if not category_feedback:
+            return ""
+        
+        feedback_text = f"Previous feedback from {category} recommendations:\n"
+        for i, feedback_entry in enumerate(category_feedback[-3:]):  # Show last 3 feedback entries
+            score = feedback_entry.get('score', 0)
+            feedback = feedback_entry.get('feedback', '')
+            feedback_type = feedback_entry.get('feedback_type', 'unknown')
+            
+            if feedback:
+                feedback_text += f"  Episode {feedback_entry.get('episode', i+1)}: Score {score:.1f} - {feedback}\n"
+            else:
+                feedback_text += f"  Episode {feedback_entry.get('episode', i+1)}: Score {score:.1f} - No feedback\n"
+        
+        # Add learned preferences summary
+        if hasattr(self, 'price_sensitivity') and category in self.price_sensitivity:
+            price_sens = self.price_sensitivity[category]
+            feedback_text += f"  Learned: User is {price_sens} price sensitive for {category}\n"
+        
+        return feedback_text
+    
     def update_preferences(self, episode_result: Dict[str, Any]):
         """Update learned preferences based on episode outcome."""
         self.episode_count += 1
@@ -186,8 +216,6 @@ Rules:
         # Process feedback based on type
         if feedback_type == "regret":
             self._process_regret_feedback(feedback, score, category)
-        elif feedback_type == "quality":
-            self._process_quality_feedback(feedback, score, category)
     
     def _process_regret_feedback(self, feedback: str, score: float, category: str):
         """Process regret-based feedback."""
@@ -201,14 +229,6 @@ Rules:
                 self.price_sensitivity = {}
             self.price_sensitivity[category] = "low"
     
-    def _process_quality_feedback(self, feedback: str, score: float, category: str):
-        """Process quality-based feedback."""
-        # Store quality preferences
-        if not hasattr(self, 'quality_preferences'):
-            self.quality_preferences = {}
-        self.quality_preferences[category] = feedback
-
-
 def save_checkpoint(all_results: List[Dict], category_results: Dict, agent: LLMAgent, 
                    output_dir: str, model: str, feedback_type: str, episode_num: int, seed: Optional[int] = None):
     """Save incremental checkpoint every 5 categories."""
@@ -270,7 +290,7 @@ def load_checkpoint(checkpoint_file: str) -> Tuple[List[Dict], Dict, Dict]:
     return data['all_results'], data['category_results'], data['agent_state']
 
 
-def run_experiment1_with_checkpoints(persona_index: int = 254,
+def run_experiment1(persona_index: int = 254,
                                    categories: List[str] = None,
                                    num_categories: int = 5,
                                    episodes_per_category: int = 5,
@@ -291,7 +311,7 @@ def run_experiment1_with_checkpoints(persona_index: int = 254,
         episodes_per_category: Number of episodes per category
         max_questions: Maximum questions per episode
         model: LLM model to use
-        feedback_type: Type of feedback to provide ("none", "regret", "quality", "persona")
+        feedback_type: Type of feedback to provide ("none", "regret", "persona")
         min_score_threshold: Minimum score threshold for category relevance (default: 50.0)
         output_dir: Directory to save results
         checkpoint_file: Optional checkpoint file to resume from
@@ -334,12 +354,12 @@ def run_experiment1_with_checkpoints(persona_index: int = 254,
     
     # Create feedback system
     from .core.feedback_system import FeedbackSystem
-    from .core.personas import get_persona_description
+    from .core.user_model import UserModel
     
     if feedback_type == "persona":
-        # Get persona description for persona feedback
-        persona_description = get_persona_description(persona_index)
-        feedback_system = FeedbackSystem(feedback_type=feedback_type, persona_description=persona_description)
+        # Create persona agent for persona feedback
+        persona_agent = UserModel(persona_index)
+        feedback_system = FeedbackSystem(feedback_type=feedback_type, persona_agent=persona_agent)
     else:
         feedback_system = FeedbackSystem(feedback_type=feedback_type)
     
@@ -608,7 +628,7 @@ if __name__ == "__main__":
     parser.add_argument("--episodes_per_category", type=int, default=5, help="Episodes per category")
     parser.add_argument("--max_questions", type=int, default=8, help="Max questions per episode")
     parser.add_argument("--model", default="gpt-4o", help="LLM model")
-    parser.add_argument("--feedback_type", default="none", help="Feedback type (none, regret, quality, persona)")
+    parser.add_argument("--feedback_type", default="none", help="Feedback type (none, regret, persona)")
     parser.add_argument("--min_score_threshold", type=float, default=50.0, help="Min score threshold")
     parser.add_argument("--output_dir", default="experiment1_results", help="Output directory")
     parser.add_argument("--resume_from", help="Checkpoint file to resume from")
@@ -616,7 +636,7 @@ if __name__ == "__main__":
     
     args = parser.parse_args()
     
-    run_experiment1_with_checkpoints(
+    run_experiment1(
         persona_index=args.persona,
         categories=args.categories,
         num_categories=args.num_categories,

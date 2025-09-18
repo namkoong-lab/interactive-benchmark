@@ -234,12 +234,7 @@ Rules:
             'dialog_length': len(dialog_history),
             'episode': self.episode_count
         })
-        
-        # Extract insights about questioning effectiveness from feedback
-        if feedback_type == "quality" and dialog_history:
-            # Analyze which questions were most effective based on quality feedback
-            self._analyze_question_effectiveness_from_feedback(feedback, dialog_history, score, category)
-    
+            
     def _analyze_question_effectiveness_from_feedback(self, feedback: str, dialog_history: list, 
                                                      score: float, category: str):
         """Analyze which questions were most effective based on quality feedback."""
@@ -369,7 +364,7 @@ def run_experiment2(category: str = "Electronics",
         episodes_per_persona: Number of episodes per persona
         max_questions: Maximum questions per episode
         model: LLM model to use
-        feedback_type: Type of feedback to provide ("none", "regret", "quality", "persona")
+        feedback_type: Type of feedback to provide ("none", "regret", "persona")
         min_score_threshold: Minimum score threshold for category relevance (default: 50.0)
         output_dir: Directory to save results
         seed: Random seed for reproducible persona selection (None = no seeding)
@@ -735,7 +730,7 @@ if __name__ == "__main__":
     parser.add_argument("--episodes_per_persona", type=int, default=3, help="Episodes per persona")
     parser.add_argument("--max_questions", type=int, default=8, help="Max questions per episode")
     parser.add_argument("--model", type=str, default="gpt-4o", help="LLM model to use")
-    parser.add_argument("--feedback_type", type=str, default="none", choices=["none", "regret", "quality", "persona"], help="Type of feedback to provide")
+    parser.add_argument("--feedback_type", type=str, default="none", choices=["none", "regret", "persona"], help="Type of feedback to provide")
     parser.add_argument("--min_score_threshold", type=float, default=50.0, help="Minimum score threshold for category relevance")
     parser.add_argument("--output_dir", type=str, default="experiment2_results", help="Output directory")
     parser.add_argument("--seed", type=int, default=None, help="Random seed for reproducible persona selection")

@@ -8,7 +8,7 @@ import os
 import random
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
-from pipeline.experiment1_with_checkpoints import run_experiment1_with_checkpoints
+from pipeline.experiment1 import run_experiment1
 
 if __name__ == "__main__":
     # Generate a random seed for reproducible randomness
@@ -16,14 +16,14 @@ if __name__ == "__main__":
     print(f"Using random seed: {random_seed}")
     
     # Example usage with checkpointing
-    results, category_results = run_experiment1_with_checkpoints(
+    results, category_results = run_experiment1(
         persona_index=254,
         categories=None,  
         num_categories=3,  
         episodes_per_category=1, 
         max_questions=5,
         model="gpt-4o",
-        feedback_type="regret",
+        feedback_type="persona",
         min_score_threshold=50.0,
         output_dir="experiment1_results_with_checkpoints",
         checkpoint_file=None,
@@ -36,4 +36,4 @@ if __name__ == "__main__":
     
     # Show how to resume from a checkpoint
     print(f"\nTo resume from a checkpoint, use:")
-    print(f"python run_experiment1_with_checkpoints.py --resume_from experiment1_results_with_checkpoints/checkpoint_categories_XX_episode_XXX_gpt-4o_regret.json")
+    print(f"python run_experiment1.py --resume_from experiment1_results_with_checkpoints/checkpoint_categories_XX_episode_XXX_gpt-4o_regret.json")

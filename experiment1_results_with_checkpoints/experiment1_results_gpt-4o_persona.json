@@ -1,0 +1,2106 @@
+{
+  "experiment": "Experiment 1: LLM Learning Across Categories",
+  "timestamp": "2025-09-18T19:34:49.440467",
+  "summary": {
+    "regret_progression": {
+      "episode_regrets": [
+        52.5,
+        40.0
+      ],
+      "avg_regret": 46.25,
+      "regret_trend": "improving"
+    },
+    "categories_tested": [
+      "Shredders",
+      "Rugs, Pads & Protectors"
+    ],
+    "total_episodes": 2,
+    "episodes_by_category": {
+      "Rugs, Pads & Protectors": 1,
+      "Shredders": 1
+    },
+    "product_counts_by_category": {
+      "Rugs, Pads & Protectors": {
+        "num_products": 139,
+        "episodes": 1
+      },
+      "Shredders": {
+        "num_products": 22,
+        "episodes": 1
+      }
+    }
+  },
+  "config": {
+    "persona_index": 254,
+    "categories": null,
+    "episodes_per_category": 1,
+    "max_questions": 5,
+    "model": "gpt-4o",
+    "feedback_type": "persona",
+    "seed": 60751
+  },
+  "agent_learned_preferences": {
+    "Rugs, Pads & Protectors": [
+      {
+        "score": 40.0,
+        "feedback": "The recommendation of the multicolour felt ball rug doesn't align with my preference for rustic, lodge-style decor that complements my love for the outdoors and Southern heritage. In the future, please consider options that reflect a more natural, earthy aesthetic to better suit my style.",
+        "feedback_type": "persona",
+        "episode": 1
+      }
+    ],
+    "Shredders": [
+      {
+        "score": 37.5,
+        "feedback": "The Fellowes AutoMax shredder is more suited for heavy office use, which doesn't align with my needs for a quieter, more compact shredder suitable for occasional personal use at home. Next time, please consider options that are quieter and more adapted for light, home use.",
+        "feedback_type": "persona",
+        "episode": 2
+      }
+    ]
+  },
+  "agent_feedback_history": [
+    {
+      "feedback": "The recommendation of the multicolour felt ball rug doesn't align with my preference for rustic, lodge-style decor that complements my love for the outdoors and Southern heritage. In the future, please consider options that reflect a more natural, earthy aesthetic to better suit my style.",
+      "feedback_type": "persona",
+      "score": 40.0,
+      "category": "Rugs, Pads & Protectors",
+      "episode": 1
+    },
+    {
+      "feedback": "The Fellowes AutoMax shredder is more suited for heavy office use, which doesn't align with my needs for a quieter, more compact shredder suitable for occasional personal use at home. Next time, please consider options that are quieter and more adapted for light, home use.",
+      "feedback_type": "persona",
+      "score": 37.5,
+      "category": "Shredders",
+      "episode": 2
+    }
+  ],
+  "agent_price_sensitivity": {},
+  "agent_quality_preferences": {},
+  "category_results": {
+    "Rugs, Pads & Protectors": {
+      "avg_score": 40.0,
+      "top1_rate": 0.0,
+      "episode_count": 1,
+      "num_products": 139,
+      "products_with_scores": [
+        {
+          "id": 5025,
+          "name": "Lodge Cabin Round Area Rug Design 362 - (5 Feet 5 Inch X 5 Feet 5 Inch) Round",
+          "price": 112.95,
+          "average_score": 92.5
+        },
+        {
+          "id": 84208,
+          "name": "Lodge Cabin Style Area Rug Runner 2 Feet 2 Inch X 7 Feet 2 Inch Design 381",
+          "price": null,
+          "average_score": 92.5
+        },
+        {
+          "id": 3468,
+          "name": "Earth Rugs 8.25\" x 27\" Oval Printed Braided Stair Treads (Set of 13) (Deer Pinecone)",
+          "price": 130.0,
+          "average_score": 87.5
+        },
+        {
+          "id": 86126,
+          "name": "HUAHOO Genuine Sheepskin Rug Three Pelt Real Sheepskin Blanket Natural Fur (Three/3ft x 5ft, Silver Grey)",
+          "price": 159.0,
+          "average_score": 87.5
+        },
+        {
+          "id": 86943,
+          "name": "Hillyard Cowhide Rug Premium Black and White Real Handcrafted Grade A Natural Cowhide Rug - Sustainably Sourced and Lasts Longer Black and White Extra Large Cut - 7.5 x 6.5 ft",
+          "price": 192.0,
+          "average_score": 87.5
+        },
+        {
+          "id": 84712,
+          "name": "Oriental Weavers SureGrip Rectangle Area Rug",
+          "price": 37.84,
+          "average_score": 82.5
+        },
+        {
+          "id": 83332,
+          "name": "South West Native American Round Area Rug 5 Feet X 5 Feet Green C318",
+          "price": null,
+          "average_score": 80.0
+        },
+        {
+          "id": 84414,
+          "name": "CHUWUJU Fire Retardant Fiberglass Half Round Hearth Fireplace Area Rug, Semi-Circular Non-Slip Fireproof Mat, Protects Floors from Sparks Embers Logs Charcoal, 42 inch x24 inch",
+          "price": 18.49,
+          "average_score": 80.0
+        },
+        {
+          "id": 85663,
+          "name": "Genuine Tricolor Cowhide Rug Cow Skin Leather Area Rug XL 6 x 7 - 8 ft.",
+          "price": 149.0,
+          "average_score": 80.0
+        },
+        {
+          "id": 86026,
+          "name": "Americana Texas Star Area Rug Lone Star Dark Brown Design 5457 (5 Feet 2 Inch X 7 Feet 3 Inch)",
+          "price": 109.0,
+          "average_score": 80.0
+        },
+        {
+          "id": 87049,
+          "name": "ecowhides Zebra Brazilian Cowhide Area Rug, Cowskin Leather Hide for Home Living Room (XL) 7 x 6 ft",
+          "price": 345.0,
+          "average_score": 80.0
+        },
+        {
+          "id": 84388,
+          "name": "IHF Rugs Blackberry Oval Braided Rug - 4'x6'",
+          "price": null,
+          "average_score": 77.5
+        },
+        {
+          "id": 84604,
+          "name": "Chris Loves Julia x Loloi Rosemarie Collection ROE-04 Graphite / Multi 6'-3\" x 9' Area Rug",
+          "price": 134.29,
+          "average_score": 77.5
+        },
+        {
+          "id": 88193,
+          "name": "Maples Rugs Florence Runner Rug Non Slip Washable Hallway Entry Carpet [Made in USA], 2 x 6, Coffee Brown",
+          "price": 38.99,
+          "average_score": 77.5
+        },
+        {
+          "id": 83591,
+          "name": "NaturalAreaRugs Natural Fiber Maritime Seagrass Rug, 5' by 8', Sage/Khaki",
+          "price": null,
+          "average_score": 75.0
+        },
+        {
+          "id": 84745,
+          "name": "Nourison Jubilant Damask Ivory/Pink 4' x 6' Area_Rug, Easy-Cleaning, Non Shedding, Bed Room, Living Room, Dining Room, Kitchen (4x6)",
+          "price": 51.8,
+          "average_score": 75.0
+        },
+        {
+          "id": 84978,
+          "name": "Oriental Traditional Isfahan Persian Area Rugs Sage Green 7'10 x 10'5",
+          "price": null,
+          "average_score": 75.0
+        },
+        {
+          "id": 87904,
+          "name": "Rugs 4 Less Collection Texas Lone Star State Novelty Area Rug R4L 78 Color and Size (Black, 5ft 2in x 7ft 2in)",
+          "price": null,
+          "average_score": 75.0
+        },
+        {
+          "id": 6418,
+          "name": "Goods of the Woods 10967 Guardian Half Round Rug, Sage Green",
+          "price": 131.98,
+          "average_score": 72.5
+        },
+        {
+          "id": 85295,
+          "name": "Dalyn Rugs Utopia Rug, 5' x 7'6\", Sky",
+          "price": 190.38,
+          "average_score": 72.5
+        },
+        {
+          "id": 85357,
+          "name": "Bashian Santa Fe Collection H12 Hand Stitched Leather Area Rug, 5x8\", Ash",
+          "price": 385.8,
+          "average_score": 72.5
+        },
+        {
+          "id": 87316,
+          "name": "Homespice Oval Jute Braided Rugs, 2-Feet 6-Inch by 6-Feet, Kingston",
+          "price": null,
+          "average_score": 72.5
+        },
+        {
+          "id": 88028,
+          "name": "LOCHAS Braided Area Rug Hand Woven Reversible Round Solid Jute&T/C Carpet for Living Room Bedroom Rugs, 1.3' x 1.3'",
+          "price": null,
+          "average_score": 72.5
+        },
+        {
+          "id": 82474,
+          "name": "Minuteman International Coffee Oriental Wool Hearth Rug, Rectangular 56 in x 26 in",
+          "price": 89.99,
+          "average_score": 70.0
+        },
+        {
+          "id": 84940,
+          "name": "Well Woven Barclay Sarouk Green Traditional Area Rug 5'3\" X 6'10\" Oval",
+          "price": null,
+          "average_score": 70.0
+        },
+        {
+          "id": 88064,
+          "name": "Personalized Rug Custom Rug Add Your Logo Design Image Rugs for Living Room Office Home (35''\u00d750'')",
+          "price": null,
+          "average_score": 70.0
+        },
+        {
+          "id": 87052,
+          "name": "Well Woven Timeless Le Petit Palais Red Traditional Area Rug 9'2\" X 12'6\"",
+          "price": 306.46,
+          "average_score": 67.5
+        },
+        {
+          "id": 83316,
+          "name": "Earth Rugs Rug, 20 x 30\", Olive/Burgundy/Gray",
+          "price": 49.66,
+          "average_score": 65.0
+        },
+        {
+          "id": 83843,
+          "name": "Hankyky Christmas Santa Snowmen Reindeer Floor Runner Area Rug\u2026",
+          "price": null,
+          "average_score": 65.0
+        },
+        {
+          "id": 83044,
+          "name": "Unique Loom Edinburgh Collection Classic Oriental Traditional French Cottage Inspired Intricate Design Area Rug, 8 ft x 11 ft, Red/Beige",
+          "price": 191.99,
+          "average_score": 62.5
+        },
+        {
+          "id": 88109,
+          "name": "Home Dynamix Venice Loreta Area Rug, Brown/Ivory, 5'3\"x7'3\"",
+          "price": null,
+          "average_score": 62.5
+        },
+        {
+          "id": 83081,
+          "name": "Sgizoku Cow Print Rug Faux Cowhide Rug Cute Area Rug Fun Western Room Decor Cow Rugs for Living Room Bedroom Non-Slip (43 inches x 29 inches)",
+          "price": 18.88,
+          "average_score": 60.0
+        },
+        {
+          "id": 82562,
+          "name": "Silk Road Concepts Collection Moroccan Shag Rugs, 3'3\" x 4'7\", Orange",
+          "price": null,
+          "average_score": 57.5
+        },
+        {
+          "id": 82668,
+          "name": "PRO RUGS Chocolate/Brown/Gold Abstract Contemporary Modern Design Mixed Colors Area Rug. (5 FEET X 7 FEET)",
+          "price": null,
+          "average_score": 57.5
+        },
+        {
+          "id": 83700,
+          "name": "Solid polypropylene Oval Braided Rug, 2 by 3-feet, French Blue",
+          "price": 28.38,
+          "average_score": 57.5
+        },
+        {
+          "id": 84829,
+          "name": "nuLOOM Cine Crystal Area Rug, 6' Round, Orange",
+          "price": null,
+          "average_score": 57.5
+        },
+        {
+          "id": 85079,
+          "name": "Unique Loom Modern Collection Geometric, High-Low Pile, Vintage, Arrows, Indoor and Outdoor Area Rug, 9' x 12' Rectangle, Beige/Brown",
+          "price": null,
+          "average_score": 57.5
+        },
+        {
+          "id": 85766,
+          "name": "Generations Traditional Opera Persian Area Rug, 8' x 10', Beige/Brown",
+          "price": null,
+          "average_score": 57.5
+        },
+        {
+          "id": 86460,
+          "name": "Rose Green Beige 5'2x7'2 Black Victorian Area Rug Oriental Carpet Large New 2857",
+          "price": null,
+          "average_score": 57.5
+        },
+        {
+          "id": 6790,
+          "name": "nuLOOM Isabella Hand Tufted Wool Runner Rug, 2' 6\" x 8', Multi",
+          "price": 84.67,
+          "average_score": 55.0
+        },
+        {
+          "id": 9831,
+          "name": "Kitchen Rug, Floor Pad Rugs Shaggy Rugs, Kids Children Play Mat Bathroom Rug Mat, Forest Camo Cervus Nippon Sika Deer Throw Rugs Carpet Yoga Mat, Indoor/Outdoor Entryway Rug",
+          "price": 39.58,
+          "average_score": 55.0
+        },
+        {
+          "id": 83123,
+          "name": "Nourison Delano Traditional Blue 3'11\" x 5'11\" Area -Rug, Easy -Cleaning, Non Shedding, Bed Room, Living Room, Dining Room, Kitchen (4x6)",
+          "price": 39.11,
+          "average_score": 55.0
+        },
+        {
+          "id": 83463,
+          "name": "SUPERIOR 4x6RUG Colburn Geometric Indoor/Outdoor Rug, 4' x 6'",
+          "price": 42.34,
+          "average_score": 55.0
+        },
+        {
+          "id": 87674,
+          "name": "Liora Manne 9502/06 LEAF GREEN Rugs, 24\" x 36\",",
+          "price": null,
+          "average_score": 55.0
+        },
+        {
+          "id": 87775,
+          "name": "nuLOOM Machine Made Rug, Green",
+          "price": null,
+          "average_score": 55.0
+        },
+        {
+          "id": 2527,
+          "name": "Solid polypropylene Oval Braided Rug, 2 by 3-feet, Daffodil",
+          "price": 36.01,
+          "average_score": 52.5
+        },
+        {
+          "id": 11179,
+          "name": "KOECKRITZ 12'x4' - Rock-Brown-Multi - Indoor/Outdoor Area Rug Carpet, Runners & Stair Treads with a Light Weight Latex Backing",
+          "price": 132.71,
+          "average_score": 52.5
+        },
+        {
+          "id": 82139,
+          "name": "Animal Print Area Rug Design Skinz 73 Black (5 Feet X 7 Feet)",
+          "price": 99.0,
+          "average_score": 52.5
+        },
+        {
+          "id": 82813,
+          "name": "2002 Burgundy 5 Feet 2 icnes by 7 feet 2 inches Black Isfahan Area Rug Oriental Carpet",
+          "price": null,
+          "average_score": 52.5
+        },
+        {
+          "id": 82851,
+          "name": "Well Woven Imani Boho 8x11 (7'10\" x 9'10\") Area Rug Terrace Blue Distressed Traditional Vintage Floral Oriental Panel",
+          "price": null,
+          "average_score": 52.5
+        },
+        {
+          "id": 82950,
+          "name": "Americana Skull Round Area Rug Brown & Black Design#134 (4ft.x4ft. Round)",
+          "price": 49.97,
+          "average_score": 52.5
+        },
+        {
+          "id": 84318,
+          "name": "EMIRATES Traditional Persian Round Oriental Rug Dark Blue Design 520 (7 Feet 9 Inch X7 Feet 9 Inch)",
+          "price": 149.0,
+          "average_score": 52.5
+        },
+        {
+          "id": 84340,
+          "name": "Garland Rug Medallion Black Area Rug, 6-Feet by 9-Feet, Black",
+          "price": 81.6,
+          "average_score": 52.5
+        },
+        {
+          "id": 84602,
+          "name": "Mudroom Rug with Adhesive Backing 24\u201d x 35\u201d | Non Slip Low Profile Door Mat Tacky-Backed | Made in USA | 100% Recycled Fibers | Absorbent Entry Rug Traps Water, Snowmelt & Dirt | Beige (PM50763)",
+          "price": null,
+          "average_score": 52.5
+        },
+        {
+          "id": 85932,
+          "name": "Soft Area Rug Non Slip Washable for Indoor,Turquoise and Grey Abstract Art Painting,Large Floor Carpets Doormat Covering Living Room Bedroom 3 x 5Ft",
+          "price": 45.99,
+          "average_score": 52.5
+        },
+        {
+          "id": 86656,
+          "name": "Well Woven Tribal Elegance Blue Modern Persian Medallion (5'3\" x 7'3\") Area Rug Vintage Faded Oriental Erased Carpet",
+          "price": null,
+          "average_score": 52.5
+        },
+        {
+          "id": 86880,
+          "name": "Brumlow Mills Caitlin Simple Home Indoor Floral Print Pattern Area Rug Perfect for Any Living Room Decor, Bedroom Carpet, Dining Room, Kitchen or Entryway Rug, 7'6\" x 10', Green",
+          "price": 164.79,
+          "average_score": 52.5
+        },
+        {
+          "id": 82539,
+          "name": "Moroccan Trellis Modern Area Rug Rugs Modela Collection (Navy Blue, 3'3\" x 4'7\")",
+          "price": null,
+          "average_score": 50.0
+        },
+        {
+          "id": 83495,
+          "name": "Rugshop Circles Area Rug 5' x 7' Brown",
+          "price": null,
+          "average_score": 50.0
+        },
+        {
+          "id": 85821,
+          "name": "Spectrumrug Area Rug, Amelia Multi Ivory 10'x13'",
+          "price": null,
+          "average_score": 50.0
+        },
+        {
+          "id": 85979,
+          "name": "Bacova Cherry Blossom Texture Weave Indoor Kitchen Door Mat - Brown/Natural",
+          "price": null,
+          "average_score": 50.0
+        },
+        {
+          "id": 88031,
+          "name": "PURE ERA Carpet Stair Tread Landing Mat Tape Free Self Adhesive Non Slip Skid Resistant Indoor Doormat Area Rug Floor Mat for Kitchen Bathroom Workstations Washable 2' X 3' (Gray)",
+          "price": 29.99,
+          "average_score": 50.0
+        },
+        {
+          "id": 82316,
+          "name": "Awesome Rooster Chicken Area Rug 5'x 7', Educational Polyester Area Rug Mat for Living Dining Dorm Room Bedroom Home Decorative",
+          "price": 25.8,
+          "average_score": 47.5
+        },
+        {
+          "id": 84714,
+          "name": "FH Home Green 4' x 6' FH40 Indoor Outdoor Reversible Recycled Plastic Mat",
+          "price": null,
+          "average_score": 47.5
+        },
+        {
+          "id": 84743,
+          "name": "Amearea Soft Fluffy Plush Faux Fur Rug, 3 x 5, Modern Shaggy Fuzzy Purple Rugs for Bedroom, Living Room, Dorm Nursery Decor, Furry Plush Sofa Faux Sheepskin Carpet, Purple",
+          "price": 35.97,
+          "average_score": 47.5
+        },
+        {
+          "id": 84854,
+          "name": "Noahas Fluffy Bedroom Rug Plush Fuzzy Rugs for Kids Room Living Room, Soft Shaggy Nursery Rug Furry Floor Carpet Modern Indoor Bedroom Decor Cute Boys Girls Room Rug, 2x3 Feet, Black",
+          "price": 12.74,
+          "average_score": 47.5
+        },
+        {
+          "id": 85985,
+          "name": "Ottomanson Area Rug 7'10\" x 9'10\" Morroccan Trellis Gray",
+          "price": null,
+          "average_score": 47.5
+        },
+        {
+          "id": 87398,
+          "name": "Shaw Timber Creek By Phillip Crowe 6-Foot 6-Inch by 9-Foot Rug in Mission Leaf Pattern, Beige",
+          "price": null,
+          "average_score": 47.5
+        },
+        {
+          "id": 82434,
+          "name": "KOECKRITZ Soft & Colorful Lightweight Indoor-Outdoor Area Rugs with Premium Bound Edges to Choose from (12' x 15', Green) NC",
+          "price": 280.13,
+          "average_score": 45.0
+        },
+        {
+          "id": 83179,
+          "name": "3212 Distressed Silver 7'10x10'6 Area Rug Carpet Large New",
+          "price": 169.99,
+          "average_score": 45.0
+        },
+        {
+          "id": 84265,
+          "name": "Luxe Weavers Metropolitan Oriental 8 x 10 Area Rug",
+          "price": null,
+          "average_score": 45.0
+        },
+        {
+          "id": 85053,
+          "name": "Licheng Round Floral Rose Bath Non Slip Area Rugs for Bedroom, Living Rooms, Bathroom, Girls Rooms, Kids Room, Chairs (36inch by 36inch, Green)",
+          "price": null,
+          "average_score": 45.0
+        },
+        {
+          "id": 6862,
+          "name": "Rugs America Sorrento Area Rug, 7-Feet 10-Inch by 10-Feet 10-Inch, Medallion Red",
+          "price": 319.83,
+          "average_score": 42.5
+        },
+        {
+          "id": 7043,
+          "name": "Nourison Paramount Persian Gold 7'10\" x 10'6\" Area -Rug, Easy -Cleaning, Non Shedding, Bed Room, Living Room, Dining Room, Kitchen (8x11)",
+          "price": 119.65,
+          "average_score": 42.5
+        },
+        {
+          "id": 10114,
+          "name": "About Home Handwoven Multicolored Rag Rug for Living Room, Kitchen Floor 20\"x 32\"",
+          "price": 12.99,
+          "average_score": 42.5
+        },
+        {
+          "id": 82942,
+          "name": "T1018 Red Black White 5'2 x 7'2 Modern Contemporary Area Rug Carpet",
+          "price": null,
+          "average_score": 42.5
+        },
+        {
+          "id": 83675,
+          "name": "freneci Modern Area Rug 3D Effect Runner Mat Floor Carpet for Bedroom Living Room - Pebbles",
+          "price": 20.2,
+          "average_score": 42.5
+        },
+        {
+          "id": 84446,
+          "name": "nuLOOM Rima Medallion Accent Rug, 2' x 3', Purple",
+          "price": 27.66,
+          "average_score": 42.5
+        },
+        {
+          "id": 86307,
+          "name": "nuLOOM Shea Vintage Runner Rug, 2' x 6', Grey",
+          "price": 26.64,
+          "average_score": 42.5
+        },
+        {
+          "id": 86337,
+          "name": "Rugs America PT10A Skylar Vintage Transitional Area Rug, 5'x7', Ivory",
+          "price": null,
+          "average_score": 42.5
+        },
+        {
+          "id": 87158,
+          "name": "MIULEE Luxury Super Soft Fluffy Area Rug Faux Fur Rectangle Rug Decorative Plush Shaggy Carpet for Bedside Sofa Floor Nursery 3 x 5 Feet, Khaki",
+          "price": 36.99,
+          "average_score": 42.5
+        },
+        {
+          "id": 740,
+          "name": "Summit 25 New Black White Trellis Lattice Modern Abstract Rug Many Aprx Available , 4'X5' ACTUAL SIZE IS 3'.8'' X 5'",
+          "price": 45.33,
+          "average_score": 40.0
+        },
+        {
+          "id": 4593,
+          "name": "Mimosa 150cm (4'11\") Multicolour Felt Ball Rugs - Genuine Nepalese Handmade Area Rugs - Custom Size Rugs are Also Available",
+          "price": 310.21,
+          "average_score": 40.0
+        },
+        {
+          "id": 7071,
+          "name": "Nourison Somerset Gold Runner Area Rug, 2-Feet by 5-Feet 9-Inches (2' x 5'9\")",
+          "price": 72.38,
+          "average_score": 40.0
+        },
+        {
+          "id": 7133,
+          "name": "Modern Round Contemporary Area Rug Black Beige Bellagio Swirl Design 341 (4 Feet X 4 Feet )",
+          "price": 59.97,
+          "average_score": 40.0
+        },
+        {
+          "id": 8653,
+          "name": "Garland Rug Ivy Oversized Rug Runner, 3' x 12', Black",
+          "price": 25.64,
+          "average_score": 40.0
+        },
+        {
+          "id": 10389,
+          "name": "NOVOGRATZ BY MOMENI Bungalow Collection Notch Area Rug, 7'6\" x 9'6\", Multicolor\"",
+          "price": 299.99,
+          "average_score": 40.0
+        },
+        {
+          "id": 83165,
+          "name": "Unique Loom Decatur Collection Trellis Geometric, Modern Area Rug, 5 ft 2 in x 7 ft 5 in, Black/Ivory",
+          "price": 70.9,
+          "average_score": 40.0
+        },
+        {
+          "id": 83782,
+          "name": "Luxury Contemporary Modern Floral Flowers 5x7 Area Rug, 5' 3\" x 7' 6\", Black Blue Gray Beige Ivory 5x8 Rugs for Living Room",
+          "price": null,
+          "average_score": 40.0
+        },
+        {
+          "id": 84564,
+          "name": "Boho Hand Woven Bathroom Rug Fringe Rug for Bedroom Cotton Woven Tassel Throw Rug\uff0c Moroccan Accent Tribal Decorative Throw Floor Carpet , Exquisite Geometric Minimalist Style (2.0 ft x 3.0 ft, White)",
+          "price": 23.9,
+          "average_score": 40.0
+        },
+        {
+          "id": 5359,
+          "name": "Earth Rugs Stair Tread, 8.25 x 27\", Light Dark Blue/Mustard",
+          "price": 20.0,
+          "average_score": 37.5
+        },
+        {
+          "id": 83400,
+          "name": "LEEVAN Faux Wool Area Rug Cute Pom Pom Fringe Nursery Rug Baby Crawling Mat Kids Play Non-Slip Floor Carpet for Living Room Bedroom Sofa Oval Round Rugs, 3 x 5 ft-Light Grey",
+          "price": null,
+          "average_score": 37.5
+        },
+        {
+          "id": 83526,
+          "name": "Rug Grippers 48pcs Area Anti Curling Rug Gripper Keep Rug in Place & Keep Corners Flat, Best Carpet Gripper with Renewable Carpet Tape, Renewable Skid Tape for Hardwood Floors Will Keep Rug in Place",
+          "price": null,
+          "average_score": 37.5
+        },
+        {
+          "id": 83810,
+          "name": "YIHOUSE Gold Foil Faux Fur Round Rug for Bedroom, Soft Circle Rug for Kids Room,Circular Rug for Girls Baby Living Room Home Decor(Khaki, 4x4 Feet)",
+          "price": 39.99,
+          "average_score": 37.5
+        },
+        {
+          "id": 83959,
+          "name": "Maxy Home Fancy French Border Area Rug EPH4035 3'3 x 4'7 green Area Rug",
+          "price": null,
+          "average_score": 37.5
+        },
+        {
+          "id": 84294,
+          "name": "nuLOOM Tameika Persian Area Rug, 5' x 7' 5\", Aqua",
+          "price": null,
+          "average_score": 37.5
+        },
+        {
+          "id": 85706,
+          "name": "LOCHAS Luxury Shag Area Rug Modern Indoor Plush Fluffy Rugs, Extra Soft and Comfy Carpet, Geometric Moroccan Rugs for Bedroom Living Room Girls Nursery Kids Home 4x6 Feet Dark Grey/White",
+          "price": 26.98,
+          "average_score": 37.5
+        },
+        {
+          "id": 85840,
+          "name": "Contemporary Carved Modern Swirl with Floral Design Area Rug Legacy Collection (5' x 7', Purple/Black)",
+          "price": null,
+          "average_score": 37.5
+        },
+        {
+          "id": 4518,
+          "name": "Shagadelic Chenille Twist Swirl Round Rug, 5 by 5-Feet, Orange",
+          "price": 47.99,
+          "average_score": 35.0
+        },
+        {
+          "id": 83192,
+          "name": "Spectrumrug Traditional Area Rug, Opera 9'2\"x12'6\" Red",
+          "price": null,
+          "average_score": 35.0
+        },
+        {
+          "id": 84127,
+          "name": "Ultra Soft Fluffy Rug Indoor Area Carpet for Kids Room and Nursery, Modern Floor Mat Non-Slip Washable Bedside Faux Fur Sheepskin Area Rug for Bedroom Living Room Home Decor, 47 x 31 in, Blue",
+          "price": null,
+          "average_score": 35.0
+        },
+        {
+          "id": 85288,
+          "name": "Small Rugs for Bathroom & Kitchen 2x3 Entrance Rug Washable Black 2x4 Foyer Rug Indoor Cheap Rugs",
+          "price": null,
+          "average_score": 35.0
+        },
+        {
+          "id": 85578,
+          "name": "Ecoshome Cotton Bath Runner Cotton Diamond Rug Reversible Indoor Area Rug/Mat (24\" x 51\", Beige)",
+          "price": null,
+          "average_score": 35.0
+        },
+        {
+          "id": 86276,
+          "name": "GKLUCKIN Shag Ultra Soft Area Rug, Fluffy 8'x10' Solid Black Rugs Plush Fuzzy Non-Skid Indoor Faux Fur Rugs Furry Carpets for Living Room Bedroom Nursery Kids Playroom Decor",
+          "price": 89.99,
+          "average_score": 35.0
+        },
+        {
+          "id": 86369,
+          "name": "SavaHome Decorative Area Rug Designer's Choice Extremely Durable Stain Resistant Smooty Cozy Pet Friendly, Impressed Rich Color (2'x7', SH1776_BLC_RED)",
+          "price": null,
+          "average_score": 35.0
+        },
+        {
+          "id": 87356,
+          "name": "Well Woven Dulcet Damask Ivory Transitional Area Rug 3'3'' X 5'",
+          "price": 29.23,
+          "average_score": 35.0
+        },
+        {
+          "id": 87493,
+          "name": "Creative Home Traditional Classics Area Rug 12001-611 Ivory/Red Medallion 9' 2\" x 12' 6\" Rectangle",
+          "price": null,
+          "average_score": 35.0
+        },
+        {
+          "id": 88115,
+          "name": "SAFAVIEH Madison Collection 4' x 6' Blue/Orange MAD422F Boho Chic Tribal Distressed Non-Shedding Living Room Bedroom Accent Rug",
+          "price": 44.99,
+          "average_score": 35.0
+        },
+        {
+          "id": 7059,
+          "name": "Artistic Weavers Zan Traditional Medallion Area Rug, 7'10\" x 10', Medium Gray",
+          "price": 213.22,
+          "average_score": 32.5
+        },
+        {
+          "id": 82734,
+          "name": "Untitled",
+          "price": null,
+          "average_score": 32.5
+        },
+        {
+          "id": 84243,
+          "name": "YJ.GWL Luxury Faux Sheepskin Fur Area Rug Soft Fluffy Rugs, Shag Plush Carpet Faux Fur Rug for Bedroom Floor Sofa Living Room, 2 x 3 Feet Rectangle Pink",
+          "price": 29.99,
+          "average_score": 32.5
+        },
+        {
+          "id": 85477,
+          "name": "Softlife Ultra Soft Fluffy Area Rugs for Bedroom, Girls and Boys Room Kids Room Nursery Rug, 3 x 5 Feet Shaggy Fur Indoor Plush Modern Floor Carpet for Living Room, Grey",
+          "price": 17.99,
+          "average_score": 32.5
+        },
+        {
+          "id": 86646,
+          "name": "ANVARUG Fluffy Rugs for Living Room, 5\u2019x8\u2019 Area Rug, Luxurious Shag Carpet Rugs for Bedroom, Anti-Skid Shaggy Rectangular Area Rug, Tie-Dyed Light Purple",
+          "price": 52.99,
+          "average_score": 32.5
+        },
+        {
+          "id": 87953,
+          "name": "Jellybean Awesome Owl Accent Area Rug",
+          "price": null,
+          "average_score": 32.5
+        },
+        {
+          "id": 7091,
+          "name": "nuLOOM Pantone Colorful Stripes Kids Area Rug, 5 ft x 8 ft, Multi",
+          "price": 162.72,
+          "average_score": 30.0
+        },
+        {
+          "id": 82790,
+          "name": "Area Rug Painting Cactus Area Rug for Living Room Bedroom Playing Room 5'x6'",
+          "price": null,
+          "average_score": 30.0
+        },
+        {
+          "id": 83136,
+          "name": "Poowe Kitchen Runner Rugs - Black and White Retro Lattice Area Rugs Hand Woven Washable Rug/Mat Entryway for Bedroom, Kitchen, Laundry Room Washable (2ft x 6ft, Black and White Plaid)",
+          "price": 29.99,
+          "average_score": 30.0
+        },
+        {
+          "id": 83461,
+          "name": "FAONIE Pretty Floral Rural Style Romantic Rose Flower Rug Shaggy Area Rugs Soft Non-Slip Doormat Floor Mat Bath Mat Bathroom Shower Rug Bedroom Living Room Carpet (Light Blue, L)",
+          "price": 29.99,
+          "average_score": 30.0
+        },
+        {
+          "id": 83903,
+          "name": "Ashler faux fur rug, Fluffy Shaggy Area Rug Ultra Soft 2 x 6 Feet Sheepskin Fur Rug, Frosted Bottom Pink Fuzzy Rug Machine Washable Shag Rug, Nursery Decor Throw Rugs for Bedroom, Living Room",
+          "price": 28.04,
+          "average_score": 30.0
+        },
+        {
+          "id": 84720,
+          "name": "Galaxy Floor Mat Pattern Spiral Galaxy in Outer Space Andromeda Nebula Star Dust Universe Astronomy Print Living Dinning Room & Bedroom Mats 5'x6' Mauve Black",
+          "price": 40.0,
+          "average_score": 30.0
+        },
+        {
+          "id": 5175,
+          "name": "Lament Configuration Side A Area Rugs Non-Slip Floor Mat Doormats Home Runner Rug Carpet for Bedroom Indoor Outdoor Kids Play Mat Nursery Throw Rugs Yoga Mat",
+          "price": 55.0,
+          "average_score": 27.5
+        },
+        {
+          "id": 7052,
+          "name": "The Rug Market Dream Children's Area Rug, 2.8' X 4.8",
+          "price": 82.36,
+          "average_score": 27.5
+        },
+        {
+          "id": 9304,
+          "name": "Tropical Palm Leaves Jungle Kitchen Rug Summer Floral Floor Comfort Mats Bath Rugs Entryway Welcome Non Slip Area Rug for Bedroom Living Room Doormats Home Decor 39\" X 20\"",
+          "price": 19.98,
+          "average_score": 27.5
+        },
+        {
+          "id": 87433,
+          "name": "Soft Green Leaf Area Rugs 29.5\u201cx17.7\u201d Cute Door Mat Doormats Floor Carpet for Bathroom Living Room Bedroom Kitchen Decoration, Machine Washable",
+          "price": 16.04,
+          "average_score": 27.5
+        },
+        {
+          "id": 3306,
+          "name": "8' X 10' Faux Fur Throw Rug/True White Shaggy Fake Fur/Sheepskin Accent Rug/Area Throw/New",
+          "price": 599.95,
+          "average_score": 25.0
+        },
+        {
+          "id": 85521,
+          "name": "Garland Rug Jazz Shaggy Washable Nylon Rug, 30-Inch by 50-Inch, Lime Green",
+          "price": null,
+          "average_score": 25.0
+        },
+        {
+          "id": 85841,
+          "name": "Casual Home Contour Rug - Tudor Brown",
+          "price": null,
+          "average_score": 25.0
+        },
+        {
+          "id": 87669,
+          "name": "Ottomanson Multi-Color Contemporary Patchwork Design Kids Rug (5'0\"X7'0\")",
+          "price": null,
+          "average_score": 25.0
+        },
+        {
+          "id": 7118,
+          "name": "Bacati - Elephants Pink/Grey Rug",
+          "price": 36.02,
+          "average_score": 22.5
+        },
+        {
+          "id": 11224,
+          "name": "LUVFABRICS 8'x10' Black Shaggy Fur Faux Fur Rug Rectangle Shape Plush Soft Modern Fur Rug Living Room Area Rug",
+          "price": 399.0,
+          "average_score": 22.5
+        },
+        {
+          "id": 88128,
+          "name": "ALAZA Cartoon Science Theme Area Rug Home Decorative Shaggy Rug Living Room Bedroom Floor Carpet Mat 80x58 Inches",
+          "price": 59.99,
+          "average_score": 22.5
+        },
+        {
+          "id": 11115,
+          "name": "farawamu Indoor Area Rugs, 3D Galaxy Space Anti-Slip Soft Floor Mat Rug Carpet Living Room Bedroom Decor C1014-8 1.21.6m",
+          "price": 39.99,
+          "average_score": 20.0
+        },
+        {
+          "id": 82298,
+          "name": "ZnZ Rugs Gallery Handmade New Zealand Blend Wool Rug, 8 by 10-Feet, Gray",
+          "price": null,
+          "average_score": 20.0
+        },
+        {
+          "id": 86073,
+          "name": "Well Woven StarBright Daisy Butterflies Modern Abstract Pink 3'3\" x 5' Kids Area Rug",
+          "price": null,
+          "average_score": 20.0
+        },
+        {
+          "id": 86831,
+          "name": "Aoile Round Floor Rug, Non Slip Cartoon Printing Children Play Carpet Crawling Carpet for Bedroom Living Room Sofa Round 6 100cm",
+          "price": 32.13,
+          "average_score": 20.0
+        },
+        {
+          "id": 87902,
+          "name": "LOCHAS Luxury Shag Rug Fluffy Area Rugs, Cute Soft Rainbow Rug for Girls Bedroom Kids Room, Shaggy Tie-Dye Throw Carpet for Bedside Living Room Home Decor, 5x8 Feet Pink/White",
+          "price": 45.99,
+          "average_score": 17.5
+        },
+        {
+          "id": 83022,
+          "name": "VANILLACHOCOLATE Heart Shaped Soft Faux Sheepskin Fur Area Rugs for Home Sofa Floor Mat Plush, 3ft x 2.2ft (Peach Pink)",
+          "price": 25.99,
+          "average_score": 15.0
+        },
+        {
+          "id": 86734,
+          "name": "FDGDFG 3D Vortex Illusion Rug, 2022 New Black White Plaid Round Rugs 3D Visual Optical Floor Mat, Abstract Geometric Non-Slip Optical for Living Dinning Room Bedroom Kitchen (40x40in, MDKJ-4)",
+          "price": 12.23,
+          "average_score": 15.0
+        },
+        {
+          "id": 87941,
+          "name": "Halloween Kingdom-Hearts Game Carpet Living Room Rugs (Large)",
+          "price": 139.94,
+          "average_score": 12.5
+        }
+      ]
+    },
+    "Shredders": {
+      "avg_score": 37.5,
+      "top1_rate": 0.0,
+      "episode_count": 1,
+      "num_products": 22,
+      "products_with_scores": [
+        {
+          "id": 107446,
+          "name": "BONSEN 10-Sheet Super Quiet Micro-Cut Paper Shredder High Security Level P-5/50dB Ultra-Quiet/40-Minutes Shredding Shreds Credit Card/Staples, 5.3-Gallons Pullout Bin (S3106)",
+          "price": 129.99,
+          "average_score": 77.5
+        },
+        {
+          "id": 105069,
+          "name": "Bonsaii 12-Sheet Cross Cut Paper Shredder, 5.5 Gal Home Office Heavy Duty Shredder for Paper, Credit Card, Mails, Staples, with Transparent Window, High Security Level P-4 (C275-A)",
+          "price": 53.99,
+          "average_score": 75.0
+        },
+        {
+          "id": 107952,
+          "name": "Amazon Basics 8-Sheet Strip-Cut Paper, CD, and Credit Card Shredder",
+          "price": null,
+          "average_score": 70.0
+        },
+        {
+          "id": 105741,
+          "name": "SimplyShred SG-836C Heavy-Duty 12-Sheet Smart JamStop Micro-Cut Paper Shredder (Security Level 4)",
+          "price": null,
+          "average_score": 67.5
+        },
+        {
+          "id": 105335,
+          "name": "Shredder for Home Office, Bonsaii Micro Cut Paper and Credit Card Shredder, 8-Sheet Document Shredder with 4 Gallons Pull Out Bin and Movable Wheels, Black",
+          "price": null,
+          "average_score": 65.0
+        },
+        {
+          "id": 108364,
+          "name": "Bonsaii 8-Sheet Strip Cut Paper Shredder, Destroys CD, Credit Cards, Paper Clips with 3.4 Gallons Wastebasket, Black (S120-A)",
+          "price": null,
+          "average_score": 65.0
+        },
+        {
+          "id": 105191,
+          "name": "ROYAL Heavy Duty Personal Paper Shredder AG15MX",
+          "price": null,
+          "average_score": 55.0
+        },
+        {
+          "id": 107784,
+          "name": "Paper Shredder Without Basket,VidaTeco 7-Sheet Strip Cut Shredder for Home Use,Mini Paper Shredder Also Shreds Card/Staple,Small Portable Shredder with Extendable Arm,Durable&Fast with Jam Proof(ETL)",
+          "price": null,
+          "average_score": 55.0
+        },
+        {
+          "id": 105373,
+          "name": "Gear Head PS8000MXW 60 Sheet Auto Feed Micro-Cut Shredder CD/DVD (White/Black)",
+          "price": null,
+          "average_score": 52.5
+        },
+        {
+          "id": 106067,
+          "name": "Fellowes Powershred 79Ci 100% Jam Proof 16-Sheet Cross-Cut Heavy Duty Paper Shredder (3227901) and Fellowes Powershred Performance Shredder Oil, 12 oz. Extended Nozzle Bottle (35250) Bundle",
+          "price": 277.46,
+          "average_score": 52.5
+        },
+        {
+          "id": 107382,
+          "name": "Omnitech 11 Sheet Cross Cut Shredder",
+          "price": null,
+          "average_score": 52.5
+        },
+        {
+          "id": 106858,
+          "name": "Comet CM-C12CD 12 Sheet Cross Cut Paper Shredder - Shreds CD/DVD, Credit Cards - Whisper Quiet (3.4 Gallon)",
+          "price": null,
+          "average_score": 50.0
+        },
+        {
+          "id": 108154,
+          "name": "Premium Connection 290-SHRED Premium Paper Shredder",
+          "price": null,
+          "average_score": 47.5
+        },
+        {
+          "id": 108654,
+          "name": "Kensington Shredder - M100S Crosscut Shredder (K52076AM)",
+          "price": 118.75,
+          "average_score": 45.0
+        },
+        {
+          "id": 108245,
+          "name": "Bonsaii C149-C Heavy Duty 18- Sheet Shredder and 50 Shredder Bags",
+          "price": null,
+          "average_score": 42.5
+        },
+        {
+          "id": 106572,
+          "name": "Privacy Guard SH1418PO Strip-Cut Shredder",
+          "price": null,
+          "average_score": 40.0
+        },
+        {
+          "id": 106814,
+          "name": "Amazon Basics 12-Sheet Cross-Cut Paper Shredder and Shredder Sharpening & Lubricant Sheets (Pack of 24) Bundle",
+          "price": null,
+          "average_score": 40.0
+        },
+        {
+          "id": 105763,
+          "name": "Fellowes AutoMax 200M Micro-Cut Auto Feed 2-in-1 Office Shredder with Auto Feed 200-Sheet Capacity (4656201)",
+          "price": 569.42,
+          "average_score": 37.5
+        },
+        {
+          "id": 106987,
+          "name": "Ideal Idesh329 5009 Cross Cut P-2 Shredder Destroy Paper with Top Security 3 Year Warranty",
+          "price": null,
+          "average_score": 35.0
+        },
+        {
+          "id": 107214,
+          "name": "ideal. 2604 Cross-Cut Centralized Office Shredder with Automatic Oiler, Continuous Operation, 23 to 25 Sheet Feed Capacity, 26 gal Bin, Shred Staples/Paper Clips/Credit Cards/CDs/DVDs, P-4 Security",
+          "price": 1779.99,
+          "average_score": 30.0
+        },
+        {
+          "id": 106914,
+          "name": "SHREDDER,CROSS-CUT,P44C",
+          "price": 5125.89,
+          "average_score": 15.0
+        },
+        {
+          "id": 108699,
+          "name": "ideal. 4002 Strip Cut Centralized Office Paper Shredder, Continuous Operation, Shreds 32-35 Sheet Capacity, 44 Gallon Bin, Shred Staples/Paper Clips/Credit Cards/CDs/DVDs, 1 3/4 HP Motor, P-2 Security",
+          "price": 2966.01,
+          "average_score": 15.0
+        }
+      ]
+    }
+  },
+  "all_episodes": [
+    {
+      "episode": 1,
+      "category": "Rugs, Pads & Protectors",
+      "episode_in_category": 1,
+      "steps": 4,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 4593,
+        "chosen_score": 40.0,
+        "best_product_id": 5025,
+        "best_score": 92.5,
+        "regret": 52.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 3,
+        "score_reward": 0.4,
+        "regret_reward": -0.525,
+        "feedback": "The recommendation of the multicolour felt ball rug doesn't align with my preference for rustic, lodge-style decor that complements my love for the outdoors and Southern heritage. In the future, please consider options that reflect a more natural, earthy aesthetic to better suit my style.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "What is your budget for a rug or protector?",
+          "My budget for a rug or protector is around $100."
+        ],
+        [
+          "Do you have a preference for a specific style or color for the rug or protector?",
+          "I prefer a rustic style in earthy tones, like deep greens or browns."
+        ],
+        [
+          "What size rug or protector are you looking for?",
+          "I'm looking for a 5x7 rug."
+        ]
+      ],
+      "product_info": {
+        "num_products": 139,
+        "products_with_scores": [
+          {
+            "id": 5025,
+            "name": "Lodge Cabin Round Area Rug Design 362 - (5 Feet 5 Inch X 5 Feet 5 Inch) Round",
+            "price": 112.95,
+            "average_score": 92.5
+          },
+          {
+            "id": 84208,
+            "name": "Lodge Cabin Style Area Rug Runner 2 Feet 2 Inch X 7 Feet 2 Inch Design 381",
+            "price": null,
+            "average_score": 92.5
+          },
+          {
+            "id": 3468,
+            "name": "Earth Rugs 8.25\" x 27\" Oval Printed Braided Stair Treads (Set of 13) (Deer Pinecone)",
+            "price": 130.0,
+            "average_score": 87.5
+          },
+          {
+            "id": 86126,
+            "name": "HUAHOO Genuine Sheepskin Rug Three Pelt Real Sheepskin Blanket Natural Fur (Three/3ft x 5ft, Silver Grey)",
+            "price": 159.0,
+            "average_score": 87.5
+          },
+          {
+            "id": 86943,
+            "name": "Hillyard Cowhide Rug Premium Black and White Real Handcrafted Grade A Natural Cowhide Rug - Sustainably Sourced and Lasts Longer Black and White Extra Large Cut - 7.5 x 6.5 ft",
+            "price": 192.0,
+            "average_score": 87.5
+          },
+          {
+            "id": 84712,
+            "name": "Oriental Weavers SureGrip Rectangle Area Rug",
+            "price": 37.84,
+            "average_score": 82.5
+          },
+          {
+            "id": 83332,
+            "name": "South West Native American Round Area Rug 5 Feet X 5 Feet Green C318",
+            "price": null,
+            "average_score": 80.0
+          },
+          {
+            "id": 84414,
+            "name": "CHUWUJU Fire Retardant Fiberglass Half Round Hearth Fireplace Area Rug, Semi-Circular Non-Slip Fireproof Mat, Protects Floors from Sparks Embers Logs Charcoal, 42 inch x24 inch",
+            "price": 18.49,
+            "average_score": 80.0
+          },
+          {
+            "id": 85663,
+            "name": "Genuine Tricolor Cowhide Rug Cow Skin Leather Area Rug XL 6 x 7 - 8 ft.",
+            "price": 149.0,
+            "average_score": 80.0
+          },
+          {
+            "id": 86026,
+            "name": "Americana Texas Star Area Rug Lone Star Dark Brown Design 5457 (5 Feet 2 Inch X 7 Feet 3 Inch)",
+            "price": 109.0,
+            "average_score": 80.0
+          },
+          {
+            "id": 87049,
+            "name": "ecowhides Zebra Brazilian Cowhide Area Rug, Cowskin Leather Hide for Home Living Room (XL) 7 x 6 ft",
+            "price": 345.0,
+            "average_score": 80.0
+          },
+          {
+            "id": 84388,
+            "name": "IHF Rugs Blackberry Oval Braided Rug - 4'x6'",
+            "price": null,
+            "average_score": 77.5
+          },
+          {
+            "id": 84604,
+            "name": "Chris Loves Julia x Loloi Rosemarie Collection ROE-04 Graphite / Multi 6'-3\" x 9' Area Rug",
+            "price": 134.29,
+            "average_score": 77.5
+          },
+          {
+            "id": 88193,
+            "name": "Maples Rugs Florence Runner Rug Non Slip Washable Hallway Entry Carpet [Made in USA], 2 x 6, Coffee Brown",
+            "price": 38.99,
+            "average_score": 77.5
+          },
+          {
+            "id": 83591,
+            "name": "NaturalAreaRugs Natural Fiber Maritime Seagrass Rug, 5' by 8', Sage/Khaki",
+            "price": null,
+            "average_score": 75.0
+          },
+          {
+            "id": 84745,
+            "name": "Nourison Jubilant Damask Ivory/Pink 4' x 6' Area_Rug, Easy-Cleaning, Non Shedding, Bed Room, Living Room, Dining Room, Kitchen (4x6)",
+            "price": 51.8,
+            "average_score": 75.0
+          },
+          {
+            "id": 84978,
+            "name": "Oriental Traditional Isfahan Persian Area Rugs Sage Green 7'10 x 10'5",
+            "price": null,
+            "average_score": 75.0
+          },
+          {
+            "id": 87904,
+            "name": "Rugs 4 Less Collection Texas Lone Star State Novelty Area Rug R4L 78 Color and Size (Black, 5ft 2in x 7ft 2in)",
+            "price": null,
+            "average_score": 75.0
+          },
+          {
+            "id": 6418,
+            "name": "Goods of the Woods 10967 Guardian Half Round Rug, Sage Green",
+            "price": 131.98,
+            "average_score": 72.5
+          },
+          {
+            "id": 85295,
+            "name": "Dalyn Rugs Utopia Rug, 5' x 7'6\", Sky",
+            "price": 190.38,
+            "average_score": 72.5
+          },
+          {
+            "id": 85357,
+            "name": "Bashian Santa Fe Collection H12 Hand Stitched Leather Area Rug, 5x8\", Ash",
+            "price": 385.8,
+            "average_score": 72.5
+          },
+          {
+            "id": 87316,
+            "name": "Homespice Oval Jute Braided Rugs, 2-Feet 6-Inch by 6-Feet, Kingston",
+            "price": null,
+            "average_score": 72.5
+          },
+          {
+            "id": 88028,
+            "name": "LOCHAS Braided Area Rug Hand Woven Reversible Round Solid Jute&T/C Carpet for Living Room Bedroom Rugs, 1.3' x 1.3'",
+            "price": null,
+            "average_score": 72.5
+          },
+          {
+            "id": 82474,
+            "name": "Minuteman International Coffee Oriental Wool Hearth Rug, Rectangular 56 in x 26 in",
+            "price": 89.99,
+            "average_score": 70.0
+          },
+          {
+            "id": 84940,
+            "name": "Well Woven Barclay Sarouk Green Traditional Area Rug 5'3\" X 6'10\" Oval",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 88064,
+            "name": "Personalized Rug Custom Rug Add Your Logo Design Image Rugs for Living Room Office Home (35''\u00d750'')",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 87052,
+            "name": "Well Woven Timeless Le Petit Palais Red Traditional Area Rug 9'2\" X 12'6\"",
+            "price": 306.46,
+            "average_score": 67.5
+          },
+          {
+            "id": 83316,
+            "name": "Earth Rugs Rug, 20 x 30\", Olive/Burgundy/Gray",
+            "price": 49.66,
+            "average_score": 65.0
+          },
+          {
+            "id": 83843,
+            "name": "Hankyky Christmas Santa Snowmen Reindeer Floor Runner Area Rug\u2026",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 83044,
+            "name": "Unique Loom Edinburgh Collection Classic Oriental Traditional French Cottage Inspired Intricate Design Area Rug, 8 ft x 11 ft, Red/Beige",
+            "price": 191.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 88109,
+            "name": "Home Dynamix Venice Loreta Area Rug, Brown/Ivory, 5'3\"x7'3\"",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 83081,
+            "name": "Sgizoku Cow Print Rug Faux Cowhide Rug Cute Area Rug Fun Western Room Decor Cow Rugs for Living Room Bedroom Non-Slip (43 inches x 29 inches)",
+            "price": 18.88,
+            "average_score": 60.0
+          },
+          {
+            "id": 82562,
+            "name": "Silk Road Concepts Collection Moroccan Shag Rugs, 3'3\" x 4'7\", Orange",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 82668,
+            "name": "PRO RUGS Chocolate/Brown/Gold Abstract Contemporary Modern Design Mixed Colors Area Rug. (5 FEET X 7 FEET)",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 83700,
+            "name": "Solid polypropylene Oval Braided Rug, 2 by 3-feet, French Blue",
+            "price": 28.38,
+            "average_score": 57.5
+          },
+          {
+            "id": 84829,
+            "name": "nuLOOM Cine Crystal Area Rug, 6' Round, Orange",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 85079,
+            "name": "Unique Loom Modern Collection Geometric, High-Low Pile, Vintage, Arrows, Indoor and Outdoor Area Rug, 9' x 12' Rectangle, Beige/Brown",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 85766,
+            "name": "Generations Traditional Opera Persian Area Rug, 8' x 10', Beige/Brown",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 86460,
+            "name": "Rose Green Beige 5'2x7'2 Black Victorian Area Rug Oriental Carpet Large New 2857",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 6790,
+            "name": "nuLOOM Isabella Hand Tufted Wool Runner Rug, 2' 6\" x 8', Multi",
+            "price": 84.67,
+            "average_score": 55.0
+          },
+          {
+            "id": 9831,
+            "name": "Kitchen Rug, Floor Pad Rugs Shaggy Rugs, Kids Children Play Mat Bathroom Rug Mat, Forest Camo Cervus Nippon Sika Deer Throw Rugs Carpet Yoga Mat, Indoor/Outdoor Entryway Rug",
+            "price": 39.58,
+            "average_score": 55.0
+          },
+          {
+            "id": 83123,
+            "name": "Nourison Delano Traditional Blue 3'11\" x 5'11\" Area -Rug, Easy -Cleaning, Non Shedding, Bed Room, Living Room, Dining Room, Kitchen (4x6)",
+            "price": 39.11,
+            "average_score": 55.0
+          },
+          {
+            "id": 83463,
+            "name": "SUPERIOR 4x6RUG Colburn Geometric Indoor/Outdoor Rug, 4' x 6'",
+            "price": 42.34,
+            "average_score": 55.0
+          },
+          {
+            "id": 87674,
+            "name": "Liora Manne 9502/06 LEAF GREEN Rugs, 24\" x 36\",",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 87775,
+            "name": "nuLOOM Machine Made Rug, Green",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 2527,
+            "name": "Solid polypropylene Oval Braided Rug, 2 by 3-feet, Daffodil",
+            "price": 36.01,
+            "average_score": 52.5
+          },
+          {
+            "id": 11179,
+            "name": "KOECKRITZ 12'x4' - Rock-Brown-Multi - Indoor/Outdoor Area Rug Carpet, Runners & Stair Treads with a Light Weight Latex Backing",
+            "price": 132.71,
+            "average_score": 52.5
+          },
+          {
+            "id": 82139,
+            "name": "Animal Print Area Rug Design Skinz 73 Black (5 Feet X 7 Feet)",
+            "price": 99.0,
+            "average_score": 52.5
+          },
+          {
+            "id": 82813,
+            "name": "2002 Burgundy 5 Feet 2 icnes by 7 feet 2 inches Black Isfahan Area Rug Oriental Carpet",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 82851,
+            "name": "Well Woven Imani Boho 8x11 (7'10\" x 9'10\") Area Rug Terrace Blue Distressed Traditional Vintage Floral Oriental Panel",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 82950,
+            "name": "Americana Skull Round Area Rug Brown & Black Design#134 (4ft.x4ft. Round)",
+            "price": 49.97,
+            "average_score": 52.5
+          },
+          {
+            "id": 84318,
+            "name": "EMIRATES Traditional Persian Round Oriental Rug Dark Blue Design 520 (7 Feet 9 Inch X7 Feet 9 Inch)",
+            "price": 149.0,
+            "average_score": 52.5
+          },
+          {
+            "id": 84340,
+            "name": "Garland Rug Medallion Black Area Rug, 6-Feet by 9-Feet, Black",
+            "price": 81.6,
+            "average_score": 52.5
+          },
+          {
+            "id": 84602,
+            "name": "Mudroom Rug with Adhesive Backing 24\u201d x 35\u201d | Non Slip Low Profile Door Mat Tacky-Backed | Made in USA | 100% Recycled Fibers | Absorbent Entry Rug Traps Water, Snowmelt & Dirt | Beige (PM50763)",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 85932,
+            "name": "Soft Area Rug Non Slip Washable for Indoor,Turquoise and Grey Abstract Art Painting,Large Floor Carpets Doormat Covering Living Room Bedroom 3 x 5Ft",
+            "price": 45.99,
+            "average_score": 52.5
+          },
+          {
+            "id": 86656,
+            "name": "Well Woven Tribal Elegance Blue Modern Persian Medallion (5'3\" x 7'3\") Area Rug Vintage Faded Oriental Erased Carpet",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 86880,
+            "name": "Brumlow Mills Caitlin Simple Home Indoor Floral Print Pattern Area Rug Perfect for Any Living Room Decor, Bedroom Carpet, Dining Room, Kitchen or Entryway Rug, 7'6\" x 10', Green",
+            "price": 164.79,
+            "average_score": 52.5
+          },
+          {
+            "id": 82539,
+            "name": "Moroccan Trellis Modern Area Rug Rugs Modela Collection (Navy Blue, 3'3\" x 4'7\")",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 83495,
+            "name": "Rugshop Circles Area Rug 5' x 7' Brown",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 85821,
+            "name": "Spectrumrug Area Rug, Amelia Multi Ivory 10'x13'",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 85979,
+            "name": "Bacova Cherry Blossom Texture Weave Indoor Kitchen Door Mat - Brown/Natural",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 88031,
+            "name": "PURE ERA Carpet Stair Tread Landing Mat Tape Free Self Adhesive Non Slip Skid Resistant Indoor Doormat Area Rug Floor Mat for Kitchen Bathroom Workstations Washable 2' X 3' (Gray)",
+            "price": 29.99,
+            "average_score": 50.0
+          },
+          {
+            "id": 82316,
+            "name": "Awesome Rooster Chicken Area Rug 5'x 7', Educational Polyester Area Rug Mat for Living Dining Dorm Room Bedroom Home Decorative",
+            "price": 25.8,
+            "average_score": 47.5
+          },
+          {
+            "id": 84714,
+            "name": "FH Home Green 4' x 6' FH40 Indoor Outdoor Reversible Recycled Plastic Mat",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 84743,
+            "name": "Amearea Soft Fluffy Plush Faux Fur Rug, 3 x 5, Modern Shaggy Fuzzy Purple Rugs for Bedroom, Living Room, Dorm Nursery Decor, Furry Plush Sofa Faux Sheepskin Carpet, Purple",
+            "price": 35.97,
+            "average_score": 47.5
+          },
+          {
+            "id": 84854,
+            "name": "Noahas Fluffy Bedroom Rug Plush Fuzzy Rugs for Kids Room Living Room, Soft Shaggy Nursery Rug Furry Floor Carpet Modern Indoor Bedroom Decor Cute Boys Girls Room Rug, 2x3 Feet, Black",
+            "price": 12.74,
+            "average_score": 47.5
+          },
+          {
+            "id": 85985,
+            "name": "Ottomanson Area Rug 7'10\" x 9'10\" Morroccan Trellis Gray",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 87398,
+            "name": "Shaw Timber Creek By Phillip Crowe 6-Foot 6-Inch by 9-Foot Rug in Mission Leaf Pattern, Beige",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 82434,
+            "name": "KOECKRITZ Soft & Colorful Lightweight Indoor-Outdoor Area Rugs with Premium Bound Edges to Choose from (12' x 15', Green) NC",
+            "price": 280.13,
+            "average_score": 45.0
+          },
+          {
+            "id": 83179,
+            "name": "3212 Distressed Silver 7'10x10'6 Area Rug Carpet Large New",
+            "price": 169.99,
+            "average_score": 45.0
+          },
+          {
+            "id": 84265,
+            "name": "Luxe Weavers Metropolitan Oriental 8 x 10 Area Rug",
+            "price": null,
+            "average_score": 45.0
+          },
+          {
+            "id": 85053,
+            "name": "Licheng Round Floral Rose Bath Non Slip Area Rugs for Bedroom, Living Rooms, Bathroom, Girls Rooms, Kids Room, Chairs (36inch by 36inch, Green)",
+            "price": null,
+            "average_score": 45.0
+          },
+          {
+            "id": 6862,
+            "name": "Rugs America Sorrento Area Rug, 7-Feet 10-Inch by 10-Feet 10-Inch, Medallion Red",
+            "price": 319.83,
+            "average_score": 42.5
+          },
+          {
+            "id": 7043,
+            "name": "Nourison Paramount Persian Gold 7'10\" x 10'6\" Area -Rug, Easy -Cleaning, Non Shedding, Bed Room, Living Room, Dining Room, Kitchen (8x11)",
+            "price": 119.65,
+            "average_score": 42.5
+          },
+          {
+            "id": 10114,
+            "name": "About Home Handwoven Multicolored Rag Rug for Living Room, Kitchen Floor 20\"x 32\"",
+            "price": 12.99,
+            "average_score": 42.5
+          },
+          {
+            "id": 82942,
+            "name": "T1018 Red Black White 5'2 x 7'2 Modern Contemporary Area Rug Carpet",
+            "price": null,
+            "average_score": 42.5
+          },
+          {
+            "id": 83675,
+            "name": "freneci Modern Area Rug 3D Effect Runner Mat Floor Carpet for Bedroom Living Room - Pebbles",
+            "price": 20.2,
+            "average_score": 42.5
+          },
+          {
+            "id": 84446,
+            "name": "nuLOOM Rima Medallion Accent Rug, 2' x 3', Purple",
+            "price": 27.66,
+            "average_score": 42.5
+          },
+          {
+            "id": 86307,
+            "name": "nuLOOM Shea Vintage Runner Rug, 2' x 6', Grey",
+            "price": 26.64,
+            "average_score": 42.5
+          },
+          {
+            "id": 86337,
+            "name": "Rugs America PT10A Skylar Vintage Transitional Area Rug, 5'x7', Ivory",
+            "price": null,
+            "average_score": 42.5
+          },
+          {
+            "id": 87158,
+            "name": "MIULEE Luxury Super Soft Fluffy Area Rug Faux Fur Rectangle Rug Decorative Plush Shaggy Carpet for Bedside Sofa Floor Nursery 3 x 5 Feet, Khaki",
+            "price": 36.99,
+            "average_score": 42.5
+          },
+          {
+            "id": 740,
+            "name": "Summit 25 New Black White Trellis Lattice Modern Abstract Rug Many Aprx Available , 4'X5' ACTUAL SIZE IS 3'.8'' X 5'",
+            "price": 45.33,
+            "average_score": 40.0
+          },
+          {
+            "id": 4593,
+            "name": "Mimosa 150cm (4'11\") Multicolour Felt Ball Rugs - Genuine Nepalese Handmade Area Rugs - Custom Size Rugs are Also Available",
+            "price": 310.21,
+            "average_score": 40.0
+          },
+          {
+            "id": 7071,
+            "name": "Nourison Somerset Gold Runner Area Rug, 2-Feet by 5-Feet 9-Inches (2' x 5'9\")",
+            "price": 72.38,
+            "average_score": 40.0
+          },
+          {
+            "id": 7133,
+            "name": "Modern Round Contemporary Area Rug Black Beige Bellagio Swirl Design 341 (4 Feet X 4 Feet )",
+            "price": 59.97,
+            "average_score": 40.0
+          },
+          {
+            "id": 8653,
+            "name": "Garland Rug Ivy Oversized Rug Runner, 3' x 12', Black",
+            "price": 25.64,
+            "average_score": 40.0
+          },
+          {
+            "id": 10389,
+            "name": "NOVOGRATZ BY MOMENI Bungalow Collection Notch Area Rug, 7'6\" x 9'6\", Multicolor\"",
+            "price": 299.99,
+            "average_score": 40.0
+          },
+          {
+            "id": 83165,
+            "name": "Unique Loom Decatur Collection Trellis Geometric, Modern Area Rug, 5 ft 2 in x 7 ft 5 in, Black/Ivory",
+            "price": 70.9,
+            "average_score": 40.0
+          },
+          {
+            "id": 83782,
+            "name": "Luxury Contemporary Modern Floral Flowers 5x7 Area Rug, 5' 3\" x 7' 6\", Black Blue Gray Beige Ivory 5x8 Rugs for Living Room",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 84564,
+            "name": "Boho Hand Woven Bathroom Rug Fringe Rug for Bedroom Cotton Woven Tassel Throw Rug\uff0c Moroccan Accent Tribal Decorative Throw Floor Carpet , Exquisite Geometric Minimalist Style (2.0 ft x 3.0 ft, White)",
+            "price": 23.9,
+            "average_score": 40.0
+          },
+          {
+            "id": 5359,
+            "name": "Earth Rugs Stair Tread, 8.25 x 27\", Light Dark Blue/Mustard",
+            "price": 20.0,
+            "average_score": 37.5
+          },
+          {
+            "id": 83400,
+            "name": "LEEVAN Faux Wool Area Rug Cute Pom Pom Fringe Nursery Rug Baby Crawling Mat Kids Play Non-Slip Floor Carpet for Living Room Bedroom Sofa Oval Round Rugs, 3 x 5 ft-Light Grey",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 83526,
+            "name": "Rug Grippers 48pcs Area Anti Curling Rug Gripper Keep Rug in Place & Keep Corners Flat, Best Carpet Gripper with Renewable Carpet Tape, Renewable Skid Tape for Hardwood Floors Will Keep Rug in Place",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 83810,
+            "name": "YIHOUSE Gold Foil Faux Fur Round Rug for Bedroom, Soft Circle Rug for Kids Room,Circular Rug for Girls Baby Living Room Home Decor(Khaki, 4x4 Feet)",
+            "price": 39.99,
+            "average_score": 37.5
+          },
+          {
+            "id": 83959,
+            "name": "Maxy Home Fancy French Border Area Rug EPH4035 3'3 x 4'7 green Area Rug",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 84294,
+            "name": "nuLOOM Tameika Persian Area Rug, 5' x 7' 5\", Aqua",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 85706,
+            "name": "LOCHAS Luxury Shag Area Rug Modern Indoor Plush Fluffy Rugs, Extra Soft and Comfy Carpet, Geometric Moroccan Rugs for Bedroom Living Room Girls Nursery Kids Home 4x6 Feet Dark Grey/White",
+            "price": 26.98,
+            "average_score": 37.5
+          },
+          {
+            "id": 85840,
+            "name": "Contemporary Carved Modern Swirl with Floral Design Area Rug Legacy Collection (5' x 7', Purple/Black)",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 4518,
+            "name": "Shagadelic Chenille Twist Swirl Round Rug, 5 by 5-Feet, Orange",
+            "price": 47.99,
+            "average_score": 35.0
+          },
+          {
+            "id": 83192,
+            "name": "Spectrumrug Traditional Area Rug, Opera 9'2\"x12'6\" Red",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 84127,
+            "name": "Ultra Soft Fluffy Rug Indoor Area Carpet for Kids Room and Nursery, Modern Floor Mat Non-Slip Washable Bedside Faux Fur Sheepskin Area Rug for Bedroom Living Room Home Decor, 47 x 31 in, Blue",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 85288,
+            "name": "Small Rugs for Bathroom & Kitchen 2x3 Entrance Rug Washable Black 2x4 Foyer Rug Indoor Cheap Rugs",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 85578,
+            "name": "Ecoshome Cotton Bath Runner Cotton Diamond Rug Reversible Indoor Area Rug/Mat (24\" x 51\", Beige)",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 86276,
+            "name": "GKLUCKIN Shag Ultra Soft Area Rug, Fluffy 8'x10' Solid Black Rugs Plush Fuzzy Non-Skid Indoor Faux Fur Rugs Furry Carpets for Living Room Bedroom Nursery Kids Playroom Decor",
+            "price": 89.99,
+            "average_score": 35.0
+          },
+          {
+            "id": 86369,
+            "name": "SavaHome Decorative Area Rug Designer's Choice Extremely Durable Stain Resistant Smooty Cozy Pet Friendly, Impressed Rich Color (2'x7', SH1776_BLC_RED)",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 87356,
+            "name": "Well Woven Dulcet Damask Ivory Transitional Area Rug 3'3'' X 5'",
+            "price": 29.23,
+            "average_score": 35.0
+          },
+          {
+            "id": 87493,
+            "name": "Creative Home Traditional Classics Area Rug 12001-611 Ivory/Red Medallion 9' 2\" x 12' 6\" Rectangle",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 88115,
+            "name": "SAFAVIEH Madison Collection 4' x 6' Blue/Orange MAD422F Boho Chic Tribal Distressed Non-Shedding Living Room Bedroom Accent Rug",
+            "price": 44.99,
+            "average_score": 35.0
+          },
+          {
+            "id": 7059,
+            "name": "Artistic Weavers Zan Traditional Medallion Area Rug, 7'10\" x 10', Medium Gray",
+            "price": 213.22,
+            "average_score": 32.5
+          },
+          {
+            "id": 82734,
+            "name": "Untitled",
+            "price": null,
+            "average_score": 32.5
+          },
+          {
+            "id": 84243,
+            "name": "YJ.GWL Luxury Faux Sheepskin Fur Area Rug Soft Fluffy Rugs, Shag Plush Carpet Faux Fur Rug for Bedroom Floor Sofa Living Room, 2 x 3 Feet Rectangle Pink",
+            "price": 29.99,
+            "average_score": 32.5
+          },
+          {
+            "id": 85477,
+            "name": "Softlife Ultra Soft Fluffy Area Rugs for Bedroom, Girls and Boys Room Kids Room Nursery Rug, 3 x 5 Feet Shaggy Fur Indoor Plush Modern Floor Carpet for Living Room, Grey",
+            "price": 17.99,
+            "average_score": 32.5
+          },
+          {
+            "id": 86646,
+            "name": "ANVARUG Fluffy Rugs for Living Room, 5\u2019x8\u2019 Area Rug, Luxurious Shag Carpet Rugs for Bedroom, Anti-Skid Shaggy Rectangular Area Rug, Tie-Dyed Light Purple",
+            "price": 52.99,
+            "average_score": 32.5
+          },
+          {
+            "id": 87953,
+            "name": "Jellybean Awesome Owl Accent Area Rug",
+            "price": null,
+            "average_score": 32.5
+          },
+          {
+            "id": 7091,
+            "name": "nuLOOM Pantone Colorful Stripes Kids Area Rug, 5 ft x 8 ft, Multi",
+            "price": 162.72,
+            "average_score": 30.0
+          },
+          {
+            "id": 82790,
+            "name": "Area Rug Painting Cactus Area Rug for Living Room Bedroom Playing Room 5'x6'",
+            "price": null,
+            "average_score": 30.0
+          },
+          {
+            "id": 83136,
+            "name": "Poowe Kitchen Runner Rugs - Black and White Retro Lattice Area Rugs Hand Woven Washable Rug/Mat Entryway for Bedroom, Kitchen, Laundry Room Washable (2ft x 6ft, Black and White Plaid)",
+            "price": 29.99,
+            "average_score": 30.0
+          },
+          {
+            "id": 83461,
+            "name": "FAONIE Pretty Floral Rural Style Romantic Rose Flower Rug Shaggy Area Rugs Soft Non-Slip Doormat Floor Mat Bath Mat Bathroom Shower Rug Bedroom Living Room Carpet (Light Blue, L)",
+            "price": 29.99,
+            "average_score": 30.0
+          },
+          {
+            "id": 83903,
+            "name": "Ashler faux fur rug, Fluffy Shaggy Area Rug Ultra Soft 2 x 6 Feet Sheepskin Fur Rug, Frosted Bottom Pink Fuzzy Rug Machine Washable Shag Rug, Nursery Decor Throw Rugs for Bedroom, Living Room",
+            "price": 28.04,
+            "average_score": 30.0
+          },
+          {
+            "id": 84720,
+            "name": "Galaxy Floor Mat Pattern Spiral Galaxy in Outer Space Andromeda Nebula Star Dust Universe Astronomy Print Living Dinning Room & Bedroom Mats 5'x6' Mauve Black",
+            "price": 40.0,
+            "average_score": 30.0
+          },
+          {
+            "id": 5175,
+            "name": "Lament Configuration Side A Area Rugs Non-Slip Floor Mat Doormats Home Runner Rug Carpet for Bedroom Indoor Outdoor Kids Play Mat Nursery Throw Rugs Yoga Mat",
+            "price": 55.0,
+            "average_score": 27.5
+          },
+          {
+            "id": 7052,
+            "name": "The Rug Market Dream Children's Area Rug, 2.8' X 4.8",
+            "price": 82.36,
+            "average_score": 27.5
+          },
+          {
+            "id": 9304,
+            "name": "Tropical Palm Leaves Jungle Kitchen Rug Summer Floral Floor Comfort Mats Bath Rugs Entryway Welcome Non Slip Area Rug for Bedroom Living Room Doormats Home Decor 39\" X 20\"",
+            "price": 19.98,
+            "average_score": 27.5
+          },
+          {
+            "id": 87433,
+            "name": "Soft Green Leaf Area Rugs 29.5\u201cx17.7\u201d Cute Door Mat Doormats Floor Carpet for Bathroom Living Room Bedroom Kitchen Decoration, Machine Washable",
+            "price": 16.04,
+            "average_score": 27.5
+          },
+          {
+            "id": 3306,
+            "name": "8' X 10' Faux Fur Throw Rug/True White Shaggy Fake Fur/Sheepskin Accent Rug/Area Throw/New",
+            "price": 599.95,
+            "average_score": 25.0
+          },
+          {
+            "id": 85521,
+            "name": "Garland Rug Jazz Shaggy Washable Nylon Rug, 30-Inch by 50-Inch, Lime Green",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 85841,
+            "name": "Casual Home Contour Rug - Tudor Brown",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 87669,
+            "name": "Ottomanson Multi-Color Contemporary Patchwork Design Kids Rug (5'0\"X7'0\")",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 7118,
+            "name": "Bacati - Elephants Pink/Grey Rug",
+            "price": 36.02,
+            "average_score": 22.5
+          },
+          {
+            "id": 11224,
+            "name": "LUVFABRICS 8'x10' Black Shaggy Fur Faux Fur Rug Rectangle Shape Plush Soft Modern Fur Rug Living Room Area Rug",
+            "price": 399.0,
+            "average_score": 22.5
+          },
+          {
+            "id": 88128,
+            "name": "ALAZA Cartoon Science Theme Area Rug Home Decorative Shaggy Rug Living Room Bedroom Floor Carpet Mat 80x58 Inches",
+            "price": 59.99,
+            "average_score": 22.5
+          },
+          {
+            "id": 11115,
+            "name": "farawamu Indoor Area Rugs, 3D Galaxy Space Anti-Slip Soft Floor Mat Rug Carpet Living Room Bedroom Decor C1014-8 1.21.6m",
+            "price": 39.99,
+            "average_score": 20.0
+          },
+          {
+            "id": 82298,
+            "name": "ZnZ Rugs Gallery Handmade New Zealand Blend Wool Rug, 8 by 10-Feet, Gray",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 86073,
+            "name": "Well Woven StarBright Daisy Butterflies Modern Abstract Pink 3'3\" x 5' Kids Area Rug",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 86831,
+            "name": "Aoile Round Floor Rug, Non Slip Cartoon Printing Children Play Carpet Crawling Carpet for Bedroom Living Room Sofa Round 6 100cm",
+            "price": 32.13,
+            "average_score": 20.0
+          },
+          {
+            "id": 87902,
+            "name": "LOCHAS Luxury Shag Rug Fluffy Area Rugs, Cute Soft Rainbow Rug for Girls Bedroom Kids Room, Shaggy Tie-Dye Throw Carpet for Bedside Living Room Home Decor, 5x8 Feet Pink/White",
+            "price": 45.99,
+            "average_score": 17.5
+          },
+          {
+            "id": 83022,
+            "name": "VANILLACHOCOLATE Heart Shaped Soft Faux Sheepskin Fur Area Rugs for Home Sofa Floor Mat Plush, 3ft x 2.2ft (Peach Pink)",
+            "price": 25.99,
+            "average_score": 15.0
+          },
+          {
+            "id": 86734,
+            "name": "FDGDFG 3D Vortex Illusion Rug, 2022 New Black White Plaid Round Rugs 3D Visual Optical Floor Mat, Abstract Geometric Non-Slip Optical for Living Dinning Room Bedroom Kitchen (40x40in, MDKJ-4)",
+            "price": 12.23,
+            "average_score": 15.0
+          },
+          {
+            "id": 87941,
+            "name": "Halloween Kingdom-Hearts Game Carpet Living Room Rugs (Large)",
+            "price": 139.94,
+            "average_score": 12.5
+          }
+        ]
+      }
+    },
+    {
+      "episode": 2,
+      "category": "Shredders",
+      "episode_in_category": 1,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 105763,
+        "chosen_score": 37.5,
+        "best_product_id": 107446,
+        "best_score": 77.5,
+        "regret": 40.0,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 1,
+        "score_reward": 0.375,
+        "regret_reward": -0.4,
+        "feedback": "The Fellowes AutoMax shredder is more suited for heavy office use, which doesn't align with my needs for a quieter, more compact shredder suitable for occasional personal use at home. Next time, please consider options that are quieter and more adapted for light, home use.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "What's your budget for a shredder?",
+          "I'd say around $100."
+        ]
+      ],
+      "product_info": {
+        "num_products": 22,
+        "products_with_scores": [
+          {
+            "id": 107446,
+            "name": "BONSEN 10-Sheet Super Quiet Micro-Cut Paper Shredder High Security Level P-5/50dB Ultra-Quiet/40-Minutes Shredding Shreds Credit Card/Staples, 5.3-Gallons Pullout Bin (S3106)",
+            "price": 129.99,
+            "average_score": 77.5
+          },
+          {
+            "id": 105069,
+            "name": "Bonsaii 12-Sheet Cross Cut Paper Shredder, 5.5 Gal Home Office Heavy Duty Shredder for Paper, Credit Card, Mails, Staples, with Transparent Window, High Security Level P-4 (C275-A)",
+            "price": 53.99,
+            "average_score": 75.0
+          },
+          {
+            "id": 107952,
+            "name": "Amazon Basics 8-Sheet Strip-Cut Paper, CD, and Credit Card Shredder",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 105741,
+            "name": "SimplyShred SG-836C Heavy-Duty 12-Sheet Smart JamStop Micro-Cut Paper Shredder (Security Level 4)",
+            "price": null,
+            "average_score": 67.5
+          },
+          {
+            "id": 105335,
+            "name": "Shredder for Home Office, Bonsaii Micro Cut Paper and Credit Card Shredder, 8-Sheet Document Shredder with 4 Gallons Pull Out Bin and Movable Wheels, Black",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 108364,
+            "name": "Bonsaii 8-Sheet Strip Cut Paper Shredder, Destroys CD, Credit Cards, Paper Clips with 3.4 Gallons Wastebasket, Black (S120-A)",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 105191,
+            "name": "ROYAL Heavy Duty Personal Paper Shredder AG15MX",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 107784,
+            "name": "Paper Shredder Without Basket,VidaTeco 7-Sheet Strip Cut Shredder for Home Use,Mini Paper Shredder Also Shreds Card/Staple,Small Portable Shredder with Extendable Arm,Durable&Fast with Jam Proof(ETL)",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 105373,
+            "name": "Gear Head PS8000MXW 60 Sheet Auto Feed Micro-Cut Shredder CD/DVD (White/Black)",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 106067,
+            "name": "Fellowes Powershred 79Ci 100% Jam Proof 16-Sheet Cross-Cut Heavy Duty Paper Shredder (3227901) and Fellowes Powershred Performance Shredder Oil, 12 oz. Extended Nozzle Bottle (35250) Bundle",
+            "price": 277.46,
+            "average_score": 52.5
+          },
+          {
+            "id": 107382,
+            "name": "Omnitech 11 Sheet Cross Cut Shredder",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 106858,
+            "name": "Comet CM-C12CD 12 Sheet Cross Cut Paper Shredder - Shreds CD/DVD, Credit Cards - Whisper Quiet (3.4 Gallon)",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 108154,
+            "name": "Premium Connection 290-SHRED Premium Paper Shredder",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 108654,
+            "name": "Kensington Shredder - M100S Crosscut Shredder (K52076AM)",
+            "price": 118.75,
+            "average_score": 45.0
+          },
+          {
+            "id": 108245,
+            "name": "Bonsaii C149-C Heavy Duty 18- Sheet Shredder and 50 Shredder Bags",
+            "price": null,
+            "average_score": 42.5
+          },
+          {
+            "id": 106572,
+            "name": "Privacy Guard SH1418PO Strip-Cut Shredder",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 106814,
+            "name": "Amazon Basics 12-Sheet Cross-Cut Paper Shredder and Shredder Sharpening & Lubricant Sheets (Pack of 24) Bundle",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 105763,
+            "name": "Fellowes AutoMax 200M Micro-Cut Auto Feed 2-in-1 Office Shredder with Auto Feed 200-Sheet Capacity (4656201)",
+            "price": 569.42,
+            "average_score": 37.5
+          },
+          {
+            "id": 106987,
+            "name": "Ideal Idesh329 5009 Cross Cut P-2 Shredder Destroy Paper with Top Security 3 Year Warranty",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 107214,
+            "name": "ideal. 2604 Cross-Cut Centralized Office Shredder with Automatic Oiler, Continuous Operation, 23 to 25 Sheet Feed Capacity, 26 gal Bin, Shred Staples/Paper Clips/Credit Cards/CDs/DVDs, P-4 Security",
+            "price": 1779.99,
+            "average_score": 30.0
+          },
+          {
+            "id": 106914,
+            "name": "SHREDDER,CROSS-CUT,P44C",
+            "price": 5125.89,
+            "average_score": 15.0
+          },
+          {
+            "id": 108699,
+            "name": "ideal. 4002 Strip Cut Centralized Office Paper Shredder, Continuous Operation, Shreds 32-35 Sheet Capacity, 44 Gallon Bin, Shred Staples/Paper Clips/Credit Cards/CDs/DVDs, 1 3/4 HP Motor, P-2 Security",
+            "price": 2966.01,
+            "average_score": 15.0
+          }
+        ]
+      }
+    }
+  ]
+}
