@@ -1,194 +1,251 @@
 #!/usr/bin/env python3
 """
-Baseline Experiment: Random Recommendation.
+Baseline 2: Random Recommendation (with Checkpointing).
 
-This script runs the same experimental setup as Experiment 1, but uses a
-simple, non-learning agent that makes a random recommendation without asking questions.
-
-This establishes a performance lower-bound.
+This script runs a baseline where the agent makes a purely random recommendation
+without asking any questions. It serves as a performance lower-bound.
+The structure is identical to other baselines for fair comparison.
 """
 
 import gymnasium as gym
 import numpy as np
 import json
 import os
-from typing import Dict, List, Tuple, Any
-import argparse
+from typing import Dict, List, Any, Tuple, Optional
 from datetime import datetime
+import random
+import yaml
+import re
 
 # Import modules from the project
 from .envs.reco_env import RecoEnv
-from .core.llm_client import chat_completion
-from .core.metrics import EpisodeRecord, MetricsRecorder
 from .wrappers.metrics_wrapper import MetricsWrapper
-
+from .core.feedback_system import FeedbackSystem
+from .core.simulate_interaction import list_categories, get_products_by_category
+from .core.user_model import UserModel
+from .experiment1_with_checkpoints import save_checkpoint, load_checkpoint
 
 class RandomAgent:
     """
-    An agent that makes a random recommendation on its first turn.
-    It does not ask questions and does not learn from past episodes.
+    An agent that makes a random recommendation. It does not ask questions
+    and is STATELESS.
     """
-    
     def __init__(self, model: str = "random", max_questions: int = 0):
-        # Parameters are kept for signature consistency with the experiment runner
         self.model = model
-        self.max_questions = max_questions
-        self.current_episode_info = None
+        self.max_questions = 0 
+        self.current_env = None
+        self.last_response = "Random Recommendation"
+        # Compatibility attributes
+        self.last_thinking_block = None
+        self.learned_preferences = {}
+        self.feedback_history = []
+        self.questions_asked_count = 0
 
     def get_action(self, obs: Dict[str, np.ndarray], info: Dict[str, Any]) -> int:
-        """
-        Always chooses to make a recommendation immediately.
-        """
-        if 'num_products' in info:
-            self.current_episode_info = info
-        
-        # A random agent proceeds directly to making a recommendation, no questions needed.
+        """Immediately makes a recommendation."""
         return self._choose_recommendation(obs, info)
-    
+
     def _choose_recommendation(self, obs: Dict[str, np.ndarray], info: Dict[str, Any]) -> int:
-        """
-        Choose a random product to recommend.
-        """
-        # Determine the number of available products from the info dict or observation
-        num_products = 0
-        if self.current_episode_info is not None:
-            num_products = self.current_episode_info['num_products']
-        elif 'num_products' in info:
-             num_products = info['num_products']
-        else:
-            # Fallback via observation if info is incomplete
-            num_products = np.count_nonzero(np.any(obs['product_features'] != 0, axis=1))
-            
+        """CORE LOGIC: Choose a random product index."""
+        num_products = info.get('num_products', 0)
         if num_products == 0:
-            return 0 # Should not happen in theory, but serves as a safe fallback
-            
-        # CORE LOGIC: Choose a random product index
-        best_product_idx = np.random.randint(0, num_products)
-        
-        return int(best_product_idx)
-    
+            return 0 
+        return np.random.randint(0, num_products)
+
     def update_preferences(self, episode_result: Dict[str, Any]):
-        """
-        A random agent does not learn, so this method does nothing.
-        """
+        """This agent does not learn."""
         pass
 
-
-def run_baseline_random(persona_index: int = 42, 
-                        categories: List[str] = None,
-                        episodes_per_category: int = 5,
-                        max_questions: int = 8,
-                        model: str = "random", # model parameter is ignored but kept for consistency
-                        output_dir: str = "baseline_random_results"):
-    """
-    Run the Random Recommendation baseline experiment.
-    The structure is identical to run_experiment1 for fair comparison.
-    """
+def save_checkpoint(all_results, category_results, agent, output_dir, model, feedback_type, episode_num, seed):
+    """Saves the current state of the experiment to a JSON file."""
+    model_safe_name = model.replace("/", "_").replace(":", "_")
+    feedback_safe_name = feedback_type.replace(" ", "_")
+    checkpoint_path = os.path.join(output_dir, f"checkpoint_{model_safe_name}_{feedback_safe_name}.json")
     
-    print(f"=== Baseline Experiment: Random Recommendation ===")
-    print(f"Persona: {persona_index}")
-    print(f"Episodes per category: {episodes_per_category}")
+    agent_state = {
+        'episode_count': agent.episode_count if hasattr(agent, 'episode_count') else 0,
+        'learned_preferences': agent.learned_preferences,
+        'feedback_history': agent.feedback_history,
+    }
+
+    checkpoint_data = {
+        'results': all_results,
+        'category_results': category_results,
+        'agent_state': agent_state,
+        'last_episode_num': episode_num,
+        'seed': seed
+    }
+    
+    with open(checkpoint_path, 'w') as f:
+        json.dump(checkpoint_data, f, indent=2)
+    print(f"  Checkpoint saved at episode {episode_num} to {checkpoint_path}")
+
+def load_checkpoint(checkpoint_file: str) -> Tuple[List, Dict, Dict]:
+    """Loads the experiment state from a checkpoint file."""
+    with open(checkpoint_file, 'r') as f:
+        checkpoint_data = json.load(f)
+    return (
+        checkpoint_data.get('results', []),
+        checkpoint_data.get('category_results', {}),
+        checkpoint_data.get('agent_state', {})
+    )
+
+
+
+
+def run_baseline_random(
+    persona_index: int, 
+    categories: List[str] = None, 
+    num_categories: int = 5, 
+    episodes_per_category: int = 5, 
+    max_questions: int = 0, 
+    model: str = "random",
+    feedback_type: str = "none", 
+    min_score_threshold: float = 50.0,
+    output_dir: str = "baseline_random_results",
+    checkpoint_file: str = None,
+    seed: Optional[int] = None):
+    """
+    Run the 'Random Recommendation' baseline with checkpointing.
+    """
+    print(f"=== Baseline 2: Random Recommendation (with Checkpointing) ===")
+
+    if seed is not None:
+        print(f"Random seed: {seed}")
+        random.seed(seed)
+        np.random.seed(seed)
     
     os.makedirs(output_dir, exist_ok=True)
-    
-    # If the environment is not already registered, register it
     if "RecoEnv-v0" not in gym.envs.registry:
         gym.register("RecoEnv-v0", entry_point="pipeline.envs.reco_env:RecoEnv")
     
-    # Create the RandomAgent
-    agent = RandomAgent(model=model, max_questions=max_questions)
-    
-    from .core.simulate_interaction import list_categories
-    available_categories = list_categories()
-    if categories is None:
-        categories = available_categories[:5]
+    if checkpoint_file and os.path.exists(checkpoint_file):
+        print(f"Resuming from checkpoint: {checkpoint_file}")
+        all_results, category_results, _ = load_checkpoint(checkpoint_file)
+        start_episode = len(all_results) + 1
+        print(f"Resuming from episode {start_episode}")
     else:
-        categories = [cat for cat in categories if cat in available_categories]
+        print("Starting fresh experiment")
+        all_results, category_results, start_episode = [], {}, 1
     
-    print(f"Categories: {categories}")
+    agent = RandomAgent(model=model)
+    feedback_system = FeedbackSystem(feedback_type=feedback_type)
     
-    all_results = []
-    category_results = {cat: [] for cat in categories}
+    available_categories = list_categories()
     
-    total_episodes = len(categories) * episodes_per_category
-    episode_num = 0
+    def is_category_relevant_for_persona(category, persona_index, min_score_threshold):
+        try:
+            products = get_products_by_category(category)
+            if not products: return False, 0.0, []
+            user_model = UserModel(persona_index)
+            scores = user_model.score_products(category, products)
+            if scores:
+                max_score = max(score for _, score in scores)
+                return max_score > min_score_threshold, max_score, scores
+            return False, 0.0, []
+        except Exception as e:
+            print(f"  Error checking category {category}: {e}")
+            return False, 0.0, []
+
+    if categories is None:
+        if len(available_categories) >= num_categories:
+            selected_categories = random.sample(available_categories, num_categories)
+        else:
+            selected_categories = available_categories.copy()
+    else:
+        selected_categories = [cat for cat in categories if cat in available_categories]
     
-    for category in categories:
+    print(f"Initial categories to potentially run: {selected_categories}")
+    
+    used_categories = set(category_results.keys())
+    total_episodes = len(selected_categories) * episodes_per_category
+    episode_num = start_episode - 1
+
+    for category in selected_categories:
+        if category in category_results and len(category_results[category]) >= episodes_per_category:
+            print(f"\n--- Category: {category} (already completed, skipping) ---")
+            continue
+            
         print(f"\n--- Testing Category: {category} ---")
+        
+        is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
+        if not is_relevant:
+            print(f"  Category {category}: Max score {max_score:.1f} <= {min_score_threshold}, skipping.")
+            continue
+        
+        print(f"  Category {category}: Max score {max_score:.1f} > {min_score_threshold}, proceeding.")
+        used_categories.add(category)
+        if category not in category_results:
+            category_results[category] = []
         
         for episode in range(episodes_per_category):
             episode_num += 1
             print(f"Episode {episode_num}/{total_episodes} (Category: {category})")
             
-            env = gym.make("RecoEnv-v0", 
-                           persona_index=persona_index,
-                           max_questions=max_questions,
-                           categories=[category])
-            
-            metrics_wrapper = MetricsWrapper(env, 
-                                             output_path=os.path.join(output_dir, f"episode_{episode_num}.jsonl"))
-            
-            obs, initial_info = metrics_wrapper.reset()
-            
-            # Since RandomAgent recommends immediately, the loop will only run once.
-            terminated = False
-            truncated = False
-            step_count = 0
-            
-            while not terminated and not truncated and step_count < 5: # Safety limit
-                action = agent.get_action(obs, initial_info)
-                obs, reward, terminated, truncated, info = metrics_wrapper.step(action)
-                step_count += 1
+            try:
+                env = RecoEnv(
+                    persona_index=persona_index, max_questions=1, 
+                    categories=[category], agent=agent, 
+                    feedback_system=feedback_system, cached_scores=cached_scores
+                )
                 
-                if info['action_type'] == 'recommend':
-                    print(f"  Step {step_count}: Recommended product {info['chosen_product_id']} (Randomly)")
-                    print(f"    Score: {info['chosen_score']:.1f}, Best Possible: {info['best_score']:.1f}")
-                    break
-            
-            episode_result = {
-                'episode': episode_num, 'category': category,
-                'episode_in_category': episode + 1, 'steps': step_count,
-                'terminated': terminated, 'truncated': truncated,
-                'final_info': info
-            }
-            
-            all_results.append(episode_result)
-            category_results[category].append(episode_result)
-            
-            # This method does nothing, but is called for consistency
-            agent.update_preferences(episode_result)
-            
-            metrics_wrapper.close()
+                metrics_wrapper = MetricsWrapper(env, output_path=os.path.join(output_dir, f"episode_{episode_num}.jsonl"))
+                obs, initial_info = metrics_wrapper.reset()
+                agent.current_env = env
+                
+                action = agent.get_action(obs, initial_info)
+                _, _, _, _, info = metrics_wrapper.step(action)
+                
+                print(f"  Step 1: Recommended product {info['chosen_product_id']}")
+                print(f"    Score: {info['chosen_score']:.1f}, Best: {info['best_score']:.1f}, Regret: {info.get('regret', 'N/A'):.1f}")
+                
+                episode_result = {
+                    'episode': episode_num, 'category': category, 'episode_in_category': episode + 1,
+                    'steps': 1, 'terminated': True, 'truncated': False, 
+                    'final_info': info, 'full_dialog': [], 'product_info': {}, 'thinking_block': None
+                }
+                
+                all_results.append(episode_result)
+                category_results[category].append(episode_result)
+                agent.update_preferences(episode_result)
+                metrics_wrapper.close()
+
+            except Exception as e:
+                print(f"  ERROR in episode {episode_num}: {e}")
+                continue
+        
+        save_checkpoint(all_results, category_results, agent, output_dir, model, feedback_type, episode_num, seed)
+        
+    print(f"\n=== Final Results Analysis ===")
+    model_safe_name = model.replace("/", "_").replace(":", "_")
+    feedback_safe_name = feedback_type.replace(" ", "_")
+    final_results_file = os.path.join(output_dir, f"baseline_random_final_{model_safe_name}_{feedback_safe_name}.json")
     
-    # Analyze results in the same way as in experiment1
-    print(f"\n=== Results Analysis for Random Baseline ===")
-    
-    print("\nPerformance by Category:")
-    for category, results in category_results.items():
-        scores = [r['final_info'].get('chosen_score', 0) for r in results if 'chosen_score' in r['final_info']]
-        if scores:
-            avg_score = np.mean(scores)
-            top1_rate = np.mean([r['final_info'].get('top1', False) for r in results])
-            print(f"  {category}: Avg Score: {avg_score:.1f}, Top-1 Accuracy: {top1_rate:.1%}")
-    
-    print("\nLearning Progression (should be flat for random):")
-    for category, results in category_results.items():
-        scores = [r['final_info'].get('chosen_score', 0) for r in results if 'chosen_score' in r['final_info']]
-        if len(scores) >= 2:
-            first_half = np.mean(scores[:len(scores)//2])
-            second_half = np.mean(scores[len(scores)//2:])
-            improvement = second_half - first_half
-            print(f"  {category}: {first_half:.1f} → {second_half:.1f} (Δ{improvement:+.1f})")
-    
-    results_file = os.path.join(output_dir, "baseline_random_results.json")
-    with open(results_file, 'w') as f:
+    with open(final_results_file, 'w') as f:
         json.dump({
-            'experiment': 'Baseline: Random Recommendation',
+            'experiment': 'Baseline 2: Random Recommendation',
             'timestamp': datetime.now().isoformat(),
-            'config': {'persona_index': persona_index, 'categories': categories, 'episodes_per_category': episodes_per_category},
+            'summary': {
+                'regret_progression': {
+                    'episode_regrets': [r['final_info'].get('regret') for r in all_results if 'regret' in r.get('final_info', {})],
+                    'avg_regret': np.mean([r['final_info'].get('regret') for r in all_results if 'regret' in r.get('final_info', {})]) if any('regret' in r.get('final_info', {}) for r in all_results) else 0.0,
+                },
+                'categories_tested': list(used_categories), 'total_episodes': len(all_results)
+            },
+            'config': {
+                'persona_index': persona_index, 'categories': selected_categories,
+                'episodes_per_category': episodes_per_category, 'max_questions': 0,
+                'model': model, 'feedback_type': feedback_type, 'seed': seed
+            },
+            'category_summary': {
+                cat: {
+                    'avg_score': np.mean([r['final_info'].get('chosen_score', 0) for r in res if 'final_info' in r]),
+                    'avg_regret': np.mean([r['final_info'].get('regret', 100) for r in res if 'final_info' in r]),
+                    'top1_rate': np.mean([r['final_info'].get('top1', False) for r in res if 'final_info' in r]),
+                } for cat, res in category_results.items() if res
+            },
             'results': all_results
         }, f, indent=2)
-    
-    print(f"\nResults saved to: {results_file}")
-    return all_results, category_results
 
+    print(f"\nFinal results saved to: {final_results_file}")
+    return all_results, category_results

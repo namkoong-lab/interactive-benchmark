@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-Simple runner for the Random Recommendation baseline experiment.
+Simple runner for the 'Random Recommendation' baseline (Baseline 2).
 """
 
 import sys
 import os
+import argparse
 
 # Add the 'pipeline' directory to the Python path
 sys.path.append(os.path.join(os.path.dirname(__file__), 'pipeline'))
@@ -13,18 +14,34 @@ sys.path.append(os.path.join(os.path.dirname(__file__), 'pipeline'))
 from pipeline.baseline_random import run_baseline_random
 
 if __name__ == "__main__":
-    # Run a small version of the experiment for testing
-    print("Running Baseline Experiment: Random Recommendation")
-    print("This will establish a performance lower-bound using the Experiment 1 setup.")
+    parser = argparse.ArgumentParser(description="Run Baseline 2 with checkpointing.")
+    parser.add_argument("--resume_from", type=str, default=None, help="Path to a checkpoint file to resume from.")
+    args = parser.parse_args()
+
+    print("Running Baseline Experiment 2: Random Recommendation")
     
-    # Run with the same settings as the main experiment for a fair comparison
+    # Define a standard list of categories to ensure fair comparison across all experiments
+    standard_categories = [
+        "Bath Towel Sets", "Children's History", "Refillable Cosmetic Container Kits",
+        "Hand Percussion Sound Effects", "Men's Watches", "Garage & Shop Products",
+        "Women's Novelty Tanks & Camis", "Manual Foot Massagers", 
+        "Men's Active & Performance Jackets", "Powersports Inner Tubes", "Today's Country"
+    ]
+    
+    # Run with settings that mirror the main experiment
     run_baseline_random(
-        persona_index=42,
-        categories=["Headphones", "Coffee Makers"],  # Use the same categories
-        episodes_per_category=3,                  # Use the same number of episodes
-        output_dir="baseline_random_results"      # Save results to a separate directory
+        persona_index=254,
+        categories=None, # Use the standard list for consistency
+        num_categories=3,
+        episodes_per_category=1,
+        max_questions=0,                # This agent does not ask questions
+        model="random",                 # Model name for logging
+        feedback_type="none",           # This agent does not use feedback
+        min_score_threshold=50.0,
+        output_dir="baseline_random_results_with_checkpoints",
+        checkpoint_file=args.resume_from,
+        seed=60751                      # Use the same seed for reproducibility
     )
     
-    print("\nRandom baseline experiment completed!")
-    print("Check the 'baseline_random_results' directory for detailed results.")
-
+    print("\n'Random Recommendation' baseline experiment completed!")
+    print("Check the 'baseline_random_results_with_checkpoints' directory for detailed results.")
