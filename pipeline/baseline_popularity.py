@@ -23,7 +23,6 @@ from .wrappers.metrics_wrapper import MetricsWrapper
 from .core.feedback_system import FeedbackSystem
 from .core.simulate_interaction import list_categories, get_products_by_category
 from .core.user_model import UserModel
-from .experiment1_with_checkpoints import save_checkpoint, load_checkpoint
 
 class PopularityAgent:
     """
