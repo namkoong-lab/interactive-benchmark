@@ -29,16 +29,9 @@ class RandomAgent:
     An agent that makes a random recommendation. It does not ask questions
     and is STATELESS.
     """
-    def __init__(self, model: str = "random", max_questions: int = 0):
-        self.model = model
-        self.max_questions = 0 
+    def __init__(self):
+        self.model = "random"
         self.current_env = None
-        self.last_response = "Random Recommendation"
-        # Compatibility attributes
-        self.last_thinking_block = None
-        self.learned_preferences = {}
-        self.feedback_history = []
-        self.questions_asked_count = 0
 
     def get_action(self, obs: Dict[str, np.ndarray], info: Dict[str, Any]) -> int:
         """Immediately makes a recommendation."""
@@ -55,22 +48,14 @@ class RandomAgent:
         """This agent does not learn."""
         pass
 
-def save_checkpoint(all_results, category_results, agent, output_dir, model, feedback_type, episode_num, seed):
+def save_checkpoint(all_results, category_results, agent, output_dir, feedback_type, episode_num, seed):
     """Saves the current state of the experiment to a JSON file."""
-    model_safe_name = model.replace("/", "_").replace(":", "_")
     feedback_safe_name = feedback_type.replace(" ", "_")
-    checkpoint_path = os.path.join(output_dir, f"checkpoint_{model_safe_name}_{feedback_safe_name}.json")
+    checkpoint_path = os.path.join(output_dir, f"checkpoint_random_{feedback_safe_name}.json")
     
-    agent_state = {
-        'episode_count': agent.episode_count if hasattr(agent, 'episode_count') else 0,
-        'learned_preferences': agent.learned_preferences,
-        'feedback_history': agent.feedback_history,
-    }
-
     checkpoint_data = {
         'results': all_results,
         'category_results': category_results,
-        'agent_state': agent_state,
         'last_episode_num': episode_num,
         'seed': seed
     }
@@ -97,8 +82,6 @@ def run_baseline_random(
     categories: List[str] = None, 
     num_categories: int = 5, 
     episodes_per_category: int = 5, 
-    max_questions: int = 0, 
-    model: str = "random",
     feedback_type: str = "none", 
     min_score_threshold: float = 50.0,
     output_dir: str = "baseline_random_results",
@@ -127,7 +110,7 @@ def run_baseline_random(
         print("Starting fresh experiment")
         all_results, category_results, start_episode = [], {}, 1
     
-    agent = RandomAgent(model=model)
+    agent = RandomAgent()
     feedback_system = FeedbackSystem(feedback_type=feedback_type)
     
     available_categories = list_categories()
@@ -183,7 +166,7 @@ def run_baseline_random(
             
             try:
                 env = RecoEnv(
-                    persona_index=persona_index, max_questions=1, 
+                    persona_index=persona_index, max_questions=0, 
                     categories=[category], agent=agent, 
                     feedback_system=feedback_system, cached_scores=cached_scores
                 )
@@ -201,7 +184,7 @@ def run_baseline_random(
                 episode_result = {
                     'episode': episode_num, 'category': category, 'episode_in_category': episode + 1,
                     'steps': 1, 'terminated': True, 'truncated': False, 
-                    'final_info': info, 'full_dialog': [], 'product_info': {}, 'thinking_block': None
+                    'final_info': info, 'full_dialog': [], 'product_info': {}
                 }
                 
                 all_results.append(episode_result)
@@ -213,12 +196,11 @@ def run_baseline_random(
                 print(f"  ERROR in episode {episode_num}: {e}")
                 continue
         
-        save_checkpoint(all_results, category_results, agent, output_dir, model, feedback_type, episode_num, seed)
+        save_checkpoint(all_results, category_results, agent, output_dir, feedback_type, episode_num, seed)
         
     print(f"\n=== Final Results Analysis ===")
-    model_safe_name = model.replace("/", "_").replace(":", "_")
     feedback_safe_name = feedback_type.replace(" ", "_")
-    final_results_file = os.path.join(output_dir, f"baseline_random_final_{model_safe_name}_{feedback_safe_name}.json")
+    final_results_file = os.path.join(output_dir, f"baseline_random_final_{feedback_safe_name}.json")
     
     with open(final_results_file, 'w') as f:
         json.dump({
@@ -233,8 +215,7 @@ def run_baseline_random(
             },
             'config': {
                 'persona_index': persona_index, 'categories': selected_categories,
-                'episodes_per_category': episodes_per_category, 'max_questions': 0,
-                'model': model, 'feedback_type': feedback_type, 'seed': seed
+                'episodes_per_category': episodes_per_category, 'feedback_type': feedback_type, 'seed': seed
             },
             'category_summary': {
                 cat: {

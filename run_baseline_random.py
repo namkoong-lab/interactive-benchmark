@@ -34,13 +34,11 @@ if __name__ == "__main__":
         categories=None, # Use the standard list for consistency
         num_categories=3,
         episodes_per_category=1,
-        max_questions=0,                # This agent does not ask questions
-        model="random",                 # Model name for logging
-        feedback_type="none",           # This agent does not use feedback
+        feedback_type="none",         
         min_score_threshold=50.0,
         output_dir="baseline_random_results_with_checkpoints",
         checkpoint_file=args.resume_from,
-        seed=60751                      # Use the same seed for reproducibility
+        seed=60751                   
     )
     
     print("\n'Random Recommendation' baseline experiment completed!")

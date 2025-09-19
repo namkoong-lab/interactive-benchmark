@@ -1,13 +1,13 @@
 {
   "experiment": "Experiment 1: LLM Learning Across Categories",
-  "timestamp": "2025-09-18T19:34:49.440467",
+  "timestamp": "2025-09-18T19:39:50.847553",
   "summary": {
     "regret_progression": {
       "episode_regrets": [
-        52.5,
+        70.0,
         40.0
       ],
-      "avg_regret": 46.25,
+      "avg_regret": 55.0,
       "regret_trend": "improving"
     },
     "categories_tested": [
@@ -42,8 +42,8 @@
   "agent_learned_preferences": {
     "Rugs, Pads & Protectors": [
       {
-        "score": 40.0,
-        "feedback": "The recommendation of the multicolour felt ball rug doesn't align with my preference for rustic, lodge-style decor that complements my love for the outdoors and Southern heritage. In the future, please consider options that reflect a more natural, earthy aesthetic to better suit my style.",
+        "score": 22.5,
+        "feedback": "I appreciate the suggestion, but I'm looking for something that fits more with my rustic, outdoorsy style\u2014maybe a lodge or cabin-themed rug that echoes the warmth of the wilderness.",
         "feedback_type": "persona",
         "episode": 1
       }
@@ -51,7 +51,7 @@
     "Shredders": [
       {
         "score": 37.5,
-        "feedback": "The Fellowes AutoMax shredder is more suited for heavy office use, which doesn't align with my needs for a quieter, more compact shredder suitable for occasional personal use at home. Next time, please consider options that are quieter and more adapted for light, home use.",
+        "feedback": "I appreciate the suggestion, but I'm really just looking for something simple and reliable, maybe a bit quieter, for light use at home. Something more practical and not too fancy would suit me just fine.",
         "feedback_type": "persona",
         "episode": 2
       }
@@ -59,14 +59,14 @@
   },
   "agent_feedback_history": [
     {
-      "feedback": "The recommendation of the multicolour felt ball rug doesn't align with my preference for rustic, lodge-style decor that complements my love for the outdoors and Southern heritage. In the future, please consider options that reflect a more natural, earthy aesthetic to better suit my style.",
+      "feedback": "I appreciate the suggestion, but I'm looking for something that fits more with my rustic, outdoorsy style\u2014maybe a lodge or cabin-themed rug that echoes the warmth of the wilderness.",
       "feedback_type": "persona",
-      "score": 40.0,
+      "score": 22.5,
       "category": "Rugs, Pads & Protectors",
       "episode": 1
     },
     {
-      "feedback": "The Fellowes AutoMax shredder is more suited for heavy office use, which doesn't align with my needs for a quieter, more compact shredder suitable for occasional personal use at home. Next time, please consider options that are quieter and more adapted for light, home use.",
+      "feedback": "I appreciate the suggestion, but I'm really just looking for something simple and reliable, maybe a bit quieter, for light use at home. Something more practical and not too fancy would suit me just fine.",
       "feedback_type": "persona",
       "score": 37.5,
       "category": "Shredders",
@@ -77,7 +77,7 @@
   "agent_quality_preferences": {},
   "category_results": {
     "Rugs, Pads & Protectors": {
-      "avg_score": 40.0,
+      "avg_score": 22.5,
       "top1_rate": 0.0,
       "episode_count": 1,
       "num_products": 139,
@@ -1064,36 +1064,28 @@
       "episode": 1,
       "category": "Rugs, Pads & Protectors",
       "episode_in_category": 1,
-      "steps": 4,
+      "steps": 2,
       "terminated": true,
       "truncated": false,
       "final_info": {
         "action_type": "recommend",
-        "chosen_product_id": 4593,
-        "chosen_score": 40.0,
+        "chosen_product_id": 11224,
+        "chosen_score": 22.5,
         "best_product_id": 5025,
         "best_score": 92.5,
-        "regret": 52.5,
+        "regret": 70.0,
         "top1": false,
         "top3": false,
-        "questions_asked": 3,
-        "score_reward": 0.4,
-        "regret_reward": -0.525,
-        "feedback": "The recommendation of the multicolour felt ball rug doesn't align with my preference for rustic, lodge-style decor that complements my love for the outdoors and Southern heritage. In the future, please consider options that reflect a more natural, earthy aesthetic to better suit my style.",
+        "questions_asked": 1,
+        "score_reward": 0.225,
+        "regret_reward": -0.7,
+        "feedback": "I appreciate the suggestion, but I'm looking for something that fits more with my rustic, outdoorsy style\u2014maybe a lodge or cabin-themed rug that echoes the warmth of the wilderness.",
         "feedback_type": "persona"
       },
       "full_dialog": [
         [
           "What is your budget for a rug or protector?",
-          "My budget for a rug or protector is around $100."
-        ],
-        [
-          "Do you have a preference for a specific style or color for the rug or protector?",
-          "I prefer a rustic style in earthy tones, like deep greens or browns."
-        ],
-        [
-          "What size rug or protector are you looking for?",
-          "I'm looking for a 5x7 rug."
+          "I'd say around $150."
         ]
       ],
       "product_info": {
@@ -1940,7 +1932,7 @@
       "episode": 2,
       "category": "Shredders",
       "episode_in_category": 1,
-      "steps": 2,
+      "steps": 3,
       "terminated": true,
       "truncated": false,
       "final_info": {
@@ -1952,16 +1944,20 @@
         "regret": 40.0,
         "top1": false,
         "top3": false,
-        "questions_asked": 1,
+        "questions_asked": 2,
         "score_reward": 0.375,
         "regret_reward": -0.4,
-        "feedback": "The Fellowes AutoMax shredder is more suited for heavy office use, which doesn't align with my needs for a quieter, more compact shredder suitable for occasional personal use at home. Next time, please consider options that are quieter and more adapted for light, home use.",
+        "feedback": "I appreciate the suggestion, but I'm really just looking for something simple and reliable, maybe a bit quieter, for light use at home. Something more practical and not too fancy would suit me just fine.",
         "feedback_type": "persona"
       },
       "full_dialog": [
         [
           "What's your budget for a shredder?",
-          "I'd say around $100."
+          "Around $100."
+        ],
+        [
+          "Do you have a preference for any specific features in a shredder?",
+          "I'm looking for a shredder that's durable and can handle a good amount of paper at once."
         ]
       ],
       "product_info": {

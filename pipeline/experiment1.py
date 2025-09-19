@@ -28,6 +28,7 @@ class LLMAgent:
         self.max_questions = max_questions
         self.episode_count = 0
         self.learned_preferences = {}  # Store learned user preferences
+        self.conversation_history = {}  # Store conversation history by category
         self.current_episode_info = None  # Store current episode info
         self.last_response = None  # Store last LLM response for question extraction
         
@@ -146,31 +147,53 @@ Rules:
         return f"{product_list}\n{dialog_text}"
     
     def _build_feedback_context(self, category: str) -> str:
-        """Build context string from previous feedback for this category."""
-        if not hasattr(self, 'learned_preferences') or category not in self.learned_preferences:
-            return ""
+        """Build context string from previous feedback and conversations for this category."""
+        context_parts = []
         
-        category_feedback = self.learned_preferences[category]
-        if not category_feedback:
-            return ""
+        # Add conversation history from previous episodes
+        if hasattr(self, 'conversation_history') and category in self.conversation_history:
+            conv_history = self.conversation_history[category]
+            if conv_history:
+                context_parts.append(f"Previous conversations in {category}:")
+                
+                # Show last 2 episodes of conversations
+                for conv_entry in conv_history[-2:]:
+                    episode = conv_entry.get('episode', 0)
+                    dialog = conv_entry.get('dialog', [])
+                    score = conv_entry.get('score', 0)
+                    feedback = conv_entry.get('feedback', '')
+                    
+                    if dialog:
+                        context_parts.append(f"  Episode {episode} (Score: {score:.1f}):")
+                        for i, (question, answer) in enumerate(dialog):
+                            context_parts.append(f"    Q{i+1}: {question}")
+                            context_parts.append(f"    A{i+1}: {answer}")
+                        if feedback:
+                            context_parts.append(f"    Final feedback: {feedback}")
+                        context_parts.append("")  # Empty line for readability
         
-        feedback_text = f"Previous feedback from {category} recommendations:\n"
-        for i, feedback_entry in enumerate(category_feedback[-3:]):  # Show last 3 feedback entries
-            score = feedback_entry.get('score', 0)
-            feedback = feedback_entry.get('feedback', '')
-            feedback_type = feedback_entry.get('feedback_type', 'unknown')
-            
-            if feedback:
-                feedback_text += f"  Episode {feedback_entry.get('episode', i+1)}: Score {score:.1f} - {feedback}\n"
-            else:
-                feedback_text += f"  Episode {feedback_entry.get('episode', i+1)}: Score {score:.1f} - No feedback\n"
+        # Add feedback summary
+        if hasattr(self, 'learned_preferences') and category in self.learned_preferences:
+            category_feedback = self.learned_preferences[category]
+            if category_feedback:
+                context_parts.append(f"Previous feedback from {category} recommendations:")
+                for feedback_entry in category_feedback[-3:]:  # Show last 3 feedback entries
+                    score = feedback_entry.get('score', 0)
+                    feedback = feedback_entry.get('feedback', '')
+                    episode = feedback_entry.get('episode', 0)
+                    
+                    if feedback:
+                        context_parts.append(f"  Episode {episode}: Score {score:.1f} - {feedback}")
+                    else:
+                        context_parts.append(f"  Episode {episode}: Score {score:.1f} - No feedback")
+                context_parts.append("")  # Empty line for readability
         
         # Add learned preferences summary
         if hasattr(self, 'price_sensitivity') and category in self.price_sensitivity:
             price_sens = self.price_sensitivity[category]
-            feedback_text += f"  Learned: User is {price_sens} price sensitive for {category}\n"
+            context_parts.append(f"Learned: User is {price_sens} price sensitive for {category}")
         
-        return feedback_text
+        return "\n".join(context_parts) if context_parts else ""
     
     def update_preferences(self, episode_result: Dict[str, Any]):
         """Update learned preferences based on episode outcome."""
@@ -181,6 +204,7 @@ Rules:
             category = episode_result.get('category', 'unknown')
             feedback = episode_result['final_info'].get('feedback', '')
             feedback_type = episode_result['final_info'].get('feedback_type', 'regret')
+            full_dialog = episode_result.get('full_dialog', [])
             
             if category not in self.learned_preferences:
                 self.learned_preferences[category] = []
@@ -192,6 +216,19 @@ Rules:
                 'feedback_type': feedback_type,
                 'episode': self.episode_count
             })
+            
+            # Store conversation history for this category
+            if full_dialog:
+                if category not in self.conversation_history:
+                    self.conversation_history[category] = []
+                
+                # Store the conversation from this episode
+                self.conversation_history[category].append({
+                    'episode': self.episode_count,
+                    'dialog': full_dialog,
+                    'score': score,
+                    'feedback': feedback
+                })
             
             # Process feedback for learning
             self._process_feedback(feedback, feedback_type, score, category)
@@ -250,6 +287,7 @@ def save_checkpoint(all_results: List[Dict], category_results: Dict, agent: LLMA
         'agent_state': {
             'episode_count': agent.episode_count,
             'learned_preferences': agent.learned_preferences,
+            'conversation_history': getattr(agent, 'conversation_history', {}),
             'feedback_history': getattr(agent, 'feedback_history', []),
             'price_sensitivity': getattr(agent, 'price_sensitivity', {}),
             'quality_preferences': getattr(agent, 'quality_preferences', {})
@@ -338,6 +376,7 @@ def run_experiment1(persona_index: int = 254,
         agent = LLMAgent(model=model, max_questions=max_questions)
         agent.episode_count = agent_state['episode_count']
         agent.learned_preferences = agent_state['learned_preferences']
+        agent.conversation_history = agent_state.get('conversation_history', {})
         agent.feedback_history = agent_state.get('feedback_history', [])
         agent.price_sensitivity = agent_state.get('price_sensitivity', {})
         agent.quality_preferences = agent_state.get('quality_preferences', {})
@@ -597,6 +636,7 @@ def run_experiment1(persona_index: int = 254,
                 'seed': seed
             },
             'agent_learned_preferences': agent.learned_preferences,
+            'agent_conversation_history': getattr(agent, 'conversation_history', {}),
             'agent_feedback_history': getattr(agent, 'feedback_history', []),
             'agent_price_sensitivity': getattr(agent, 'price_sensitivity', {}),
             'agent_quality_preferences': getattr(agent, 'quality_preferences', {}),

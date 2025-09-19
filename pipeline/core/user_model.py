@@ -104,7 +104,7 @@ Context:
 - {top_products_summary}
 {f"- {conversation_context}" if conversation_context else ""}
 
-Respond naturally as this persona would - like you're talking to a helpful salesperson or friend who made a suggestion that missed the mark. Be conversational and specific about what you're looking for instead. Keep it to 1-2 sentences and sound like a real person, not a formal review. Don't mention specific scores or reveal which product would be better.
+Respond naturally as this persona would - like you're talking to a helpful salesperson or friend who made a suggestion that missed the mark. Be conversational and specific about what you're looking for instead. Keep it to 1-2 sentences and sound like a real person, not a formal review. Make it a statement about your preferences, not a question. Don't mention specific scores or reveal which product would be better.
 
 Your response:"""
 
