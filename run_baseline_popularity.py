@@ -20,17 +20,9 @@ if __name__ == "__main__":
 
     print("Running Baseline Experiment 3: Popularity Recommendation")
     
-    # Define a standard list of categories to ensure fair comparison across all experiments
-    standard_categories = [
-        "Bath Towel Sets", "Children's History", "Refillable Cosmetic Container Kits",
-        "Hand Percussion Sound Effects", "Men's Watches", "Garage & Shop Products",
-        "Women's Novelty Tanks & Camis", "Manual Foot Massagers", 
-        "Men's Active & Performance Jackets", "Powersports Inner Tubes", "Today's Country"
-    ]
-    
     # Run with settings that mirror the main experiment
     run_baseline_popularity(
-        categories=None, # Use the standard list for consistency
+        categories=None, # Will select num_categories from all available
         num_categories=3,
         episodes_per_category=1,
         max_questions=0,                # This agent does not ask questions

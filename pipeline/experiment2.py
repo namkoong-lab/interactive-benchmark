@@ -537,19 +537,57 @@ def run_experiment2(persona_indices: List[int] = None,
             return False, []
 
     
+    # NEW: Select exactly num_personas that pass the relevance filter
+    def select_relevant_personas(available_personas, num_personas, category, min_score_threshold):
+        """Select exactly num_personas that pass the relevance filter."""
+        relevant_personas = []
+        tested_personas = set()
+        
+        # Shuffle available personas for randomness
+        shuffled_personas = available_personas.copy()
+        random.shuffle(shuffled_personas)
+        
+        for persona_idx in shuffled_personas:
+            if len(relevant_personas) >= num_personas:
+                break
+                
+            if persona_idx in tested_personas:
+                continue
+                
+            tested_personas.add(persona_idx)
+            
+            # Check if this persona finds the category relevant
+            is_relevant, max_score = check_persona_category_relevance(persona_idx, category, min_score_threshold)
+            if is_relevant:
+                relevant_personas.append(persona_idx)
+                print(f"  Persona {persona_idx}: Max score {max_score:.1f} > {min_score_threshold}, selected")
+            else:
+                print(f"  Persona {persona_idx}: Max score {max_score:.1f} ≤ {min_score_threshold}, skipped")
+        
+        if len(relevant_personas) < num_personas:
+            print(f"Warning: Only found {len(relevant_personas)} relevant personas out of {num_personas} requested")
+        
+        return relevant_personas
+    
     # Select personas first
     if persona_indices is None:
-        # Use a diverse set of personas
-        persona_indices = random.sample(range(0, 1000), min(num_personas, 1000))
+        # Use the new function to select exactly num_personas relevant personas
+        available_personas = list(range(0, 1000))
+        persona_indices = select_relevant_personas(available_personas, num_personas, category, min_score_threshold)
+    else:
+        # Use provided personas, but still check relevance
+        print(f"Using provided personas: {persona_indices}")
+        # Note: We'll still check relevance for each persona individually during testing
     
     # Check category relevance using the first persona that will actually be used
-    first_persona = persona_indices[0]
-    sample_relevance, cached_scores_from_check = check_category_relevance_with_persona(category, first_persona, min_score_threshold)
-    if not sample_relevance:
-        print(f"Note: Category '{category}' may not be relevant to the first persona.")
-        print("Individual personas will be checked and skipped if irrelevant.")
+    first_persona = persona_indices[0] if persona_indices else None
+    if first_persona is not None:
+        sample_relevance, cached_scores_from_check = check_category_relevance_with_persona(category, first_persona, min_score_threshold)
+        if not sample_relevance:
+            print(f"Note: Category '{category}' may not be relevant to the first persona.")
+            print("Individual personas will be checked and skipped if irrelevant.")
     
-    print(f"Personas: {persona_indices}")
+    print(f"Selected personas: {persona_indices}")
     
     from .core.user_model import UserModel
     if feedback_type == "persona":
@@ -591,23 +629,20 @@ def run_experiment2(persona_indices: List[int] = None,
             print(f"  Error checking persona relevance: {e}")
             return False, 0.0
     
-    # Continue testing personas until we reach the target number of successful episodes
-    personas_to_test = persona_indices.copy()
-    persona_index_idx = 0
-    
-    while successful_episodes_count < target_successful_episodes and persona_index_idx < len(personas_to_test):
-        persona_index = personas_to_test[persona_index_idx]
+    # Test the pre-selected relevant personas
+    for persona_index_idx, persona_index in enumerate(persona_indices):
         print(f"\n--- Testing Persona: {persona_index} ---")
         
-        # Check relevance for this persona
-        is_relevant, max_score = check_persona_category_relevance(persona_index, category, min_score_threshold)
-        if not is_relevant:
-            print(f"  Persona {persona_index}: Max score {max_score:.1f} ≤ {min_score_threshold}, skipping persona")
-            # Skip this persona and move to next one
-            persona_index_idx += 1
-            continue
-        
-        print(f"  Persona {persona_index}: Max score {max_score:.1f} > {min_score_threshold}, proceeding")
+        # For provided personas, still check relevance (for fresh experiments)
+        if persona_indices is not None and not checkpoint_file:
+            is_relevant, max_score = check_persona_category_relevance(persona_index, category, min_score_threshold)
+            if not is_relevant:
+                print(f"  Persona {persona_index}: Max score {max_score:.1f} ≤ {min_score_threshold}, skipping persona")
+                continue
+            print(f"  Persona {persona_index}: Max score {max_score:.1f} > {min_score_threshold}, proceeding")
+        else:
+            # For pre-selected personas or checkpoint resumption, assume they're relevant
+            print(f"  Persona {persona_index}: Pre-selected as relevant, proceeding")
         
         for episode in range(episodes_per_persona):
             if successful_episodes_count >= target_successful_episodes:
@@ -708,24 +743,7 @@ def run_experiment2(persona_indices: List[int] = None,
             if successful_episodes_count % 5 == 0:
                 save_checkpoint(all_results, persona_results, agent, output_dir, model, feedback_type, episode_num, seed)
         
-        # Move to next persona
-        persona_index_idx += 1
-        
-        # If we've exhausted all personas but haven't reached target, get more personas
-        if persona_index_idx >= len(personas_to_test) and successful_episodes_count < target_successful_episodes:
-            print(f"\nNeed {target_successful_episodes - successful_episodes_count} more successful episodes. Getting more personas...")
-            
-            # Get additional personas that haven't been tested yet
-            remaining_personas = [pid for pid in range(0, 1000) if pid not in personas_to_test]
-            if remaining_personas:
-                # Add more personas to test
-                additional_needed = (target_successful_episodes - successful_episodes_count + episodes_per_persona - 1) // episodes_per_persona
-                additional_personas = remaining_personas[:additional_needed]
-                personas_to_test.extend(additional_personas)
-                print(f"Added {len(additional_personas)} more personas to test")
-            else:
-                print("No more personas available to test")
-                break
+        # Move to next persona (automatic with the for loop)
     
     print(f"\n=== Results Analysis ===")
     print(f"Target successful episodes: {target_successful_episodes}")
