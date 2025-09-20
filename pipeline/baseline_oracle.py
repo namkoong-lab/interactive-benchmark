@@ -398,13 +398,10 @@ def run_baseline_oracle(
             relevant_categories = []
             tested_categories = set()
             
-            # Shuffle available categories for randomness
-            shuffled_categories = available_categories.copy()
-            random.shuffle(shuffled_categories)
-            
+            # Use categories in deterministic order (no shuffling for reproducibility)
             print(f"Searching for {num_categories} relevant categories...")
             
-            for category in shuffled_categories:
+            for category in available_categories:
                 if len(relevant_categories) >= num_categories:
                     break
                     

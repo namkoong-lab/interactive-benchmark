@@ -528,60 +528,24 @@ def run_experiment1(categories: List[str] = None,
             print(f"  Error checking category {category}: {e}")
             return False, 0.0, []
     
-    # NEW: Select exactly num_categories that pass the relevance filter
-    def select_relevant_categories(available_categories, num_categories, persona_index, min_score_threshold):
-        """Select exactly num_categories that pass the relevance filter."""
-        relevant_categories = []
-        tested_categories = set()
-        
-        # Shuffle available categories for randomness
-        shuffled_categories = available_categories.copy()
-        random.shuffle(shuffled_categories)
-        
-        print(f"Searching for {num_categories} relevant categories...")
-        
-        for category in shuffled_categories:
-            if len(relevant_categories) >= num_categories:
-                break
-                
-            if category in tested_categories:
-                continue
-                
-            tested_categories.add(category)
-            print(f"  Testing category: {category}")
-            
-            is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
-            if is_relevant:
-                relevant_categories.append((category, cached_scores))
-                print(f"    ✓ Category {category}: Max score {max_score:.1f} > {min_score_threshold}")
-            else:
-                print(f"    ✗ Category {category}: Max score {max_score:.1f} ≤ {min_score_threshold}")
-        
-        if len(relevant_categories) < num_categories:
-            print(f"WARNING: Only found {len(relevant_categories)} relevant categories out of {num_categories} requested")
-            print(f"Tested {len(tested_categories)} categories total")
-        
-        return [cat for cat, _ in relevant_categories], {cat: scores for cat, scores in relevant_categories}
+    # Simple category selection - just get all available categories in deterministic order
+    def get_categories_for_seed(available_categories, seed):
+        """Get categories in deterministic order based on seed."""
+        # Set seed for reproducible category ordering
+        random.seed(seed)
+        categories = available_categories.copy()
+        # Don't shuffle - keep deterministic order for reproducibility
+        random.seed()  # Reset seed after use
+        return categories
 
-    # Initialize category selection with new strategy
+    # Initialize category selection with simple approach
     if categories is None:
-        if not checkpoint_file or not os.path.exists(checkpoint_file):
-            # Fresh start: select exactly num_categories that pass the filter
-            selected_categories, cached_scores_map = select_relevant_categories(
-                available_categories, num_categories, persona_index, min_score_threshold
-            )
-            print(f"Selected {len(selected_categories)} relevant categories: {selected_categories}")
-        else:
-            # Resuming from checkpoint: use the original logic for remaining categories
-            if len(available_categories) >= num_categories:
-                selected_categories = random.sample(available_categories, num_categories)
-            else:
-                selected_categories = available_categories.copy()
-            cached_scores_map = {}
+        # Get all categories in deterministic order based on seed
+        selected_categories = get_categories_for_seed(available_categories, seed)
+        print(f"Categories selected deterministically from seed {seed}")
     else:
         # Use provided categories, filtered by availability
         selected_categories = [cat for cat in categories if cat in available_categories]
-        cached_scores_map = {}
     
     # Filter out already completed categories when resuming from checkpoint
     if checkpoint_file and os.path.exists(checkpoint_file):
@@ -608,29 +572,26 @@ def run_experiment1(categories: List[str] = None,
     
     episode_num = start_episode - 1  
     successful_episodes_count = 0  
+        
+    print(f"\n=== Starting Episode Execution ===")
+    print(f"Target: {target_successful_episodes} successful episodes")
+    print(f"Available categories: {len(selected_categories)}")
     
-    # Continue testing categories until we reach the target number of successful episodes
-    categories_to_test = selected_categories.copy()
-    category_index = 0
-    
-    while successful_episodes_count < target_successful_episodes and category_index < len(categories_to_test):
-        category = categories_to_test[category_index]
+    # Simple approach: test categories one by one until we get enough successful episodes
+    for category in selected_categories:
+        if successful_episodes_count >= target_successful_episodes:
+            break
+            
         print(f"\n--- Testing Category: {category} ---")
         
-        # Use cached scores if available, otherwise check relevance
-        if category in cached_scores_map:
-            cached_scores = cached_scores_map[category]
-            print(f"  Category {category}: Using cached scores (already verified as relevant)")
-        else:
-            # Check if this category is relevant for the persona
-            is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
-            if not is_relevant:
-                print(f"  Category {category}: Max score {max_score:.1f} ≤ {min_score_threshold}, skipping category")
-                # Skip this category and move to next one
-                category_index += 1
-                continue
+        # Check if category is relevant for this persona
+        is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
+        
+        if not is_relevant:
+            print(f"  ✗ Category {category}: Max score {max_score:.1f} ≤ {min_score_threshold}, skipping")
+            continue
             
-            print(f"  Category {category}: Max score {max_score:.1f} > {min_score_threshold}, proceeding")
+        print(f"  ✓ Category {category}: Max score {max_score:.1f} > {min_score_threshold}, proceeding")
         
         used_categories.add(category)
         if category not in category_results:
@@ -641,10 +602,9 @@ def run_experiment1(categories: List[str] = None,
                 break
                 
             episode_num += 1
-            successful_episodes_count += 1  # Count this as a successful episode
             
             # Show progress correctly
-            print(f"Episode {episode_num} (Category: {category}) - {successful_episodes_count}/{target_successful_episodes} successful episodes")
+            print(f"Episode {episode_num} (Category: {category}) - {successful_episodes_count + 1}/{target_successful_episodes} planned episodes")
             
             try:
                 env = RecoEnv(
@@ -735,6 +695,9 @@ def run_experiment1(categories: List[str] = None,
                 agent.update_preferences(episode_result)
                 metrics_wrapper.close()
                 
+                # Only increment after episode succeeds
+                successful_episodes_count += 1
+                
                 # Save checkpoint every 5 successful episodes
                 if successful_episodes_count % 5 == 0:
                     save_checkpoint(all_results, category_results, agent, output_dir, model, feedback_type, episode_num, seed)
@@ -745,25 +708,6 @@ def run_experiment1(categories: List[str] = None,
                 if successful_episodes_count % 5 == 0:
                     save_checkpoint(all_results, category_results, agent, output_dir, model, feedback_type, episode_num, seed)
                 continue
-        
-        # Move to next category
-        category_index += 1
-        
-        # If we've exhausted all categories but haven't reached target, get more categories
-        if category_index >= len(categories_to_test) and successful_episodes_count < target_successful_episodes:
-            print(f"\nNeed {target_successful_episodes - successful_episodes_count} more successful episodes. Getting more categories...")
-            
-            # Get additional categories that haven't been tested yet
-            remaining_categories = [cat for cat in available_categories if cat not in used_categories and cat not in categories_to_test]
-            if remaining_categories:
-                # Add more categories to test
-                additional_needed = (target_successful_episodes - successful_episodes_count + episodes_per_category - 1) // episodes_per_category
-                additional_categories = remaining_categories[:additional_needed]
-                categories_to_test.extend(additional_categories)
-                print(f"Added {len(additional_categories)} more categories to test")
-            else:
-                print("No more categories available to test")
-                break
     
     print(f"\n=== Results Analysis ===")
     print(f"Target successful episodes: {target_successful_episodes}")

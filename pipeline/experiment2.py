@@ -481,11 +481,15 @@ def run_experiment2(persona_indices: List[int] = None,
         random.seed(seed)
         np.random.seed(seed)
     
-    # Randomly select a category based on the seed (consistent across episodes)
+    # Deterministically select a category based on the seed
     from .core.simulate_interaction import list_categories
     available_categories = list_categories()
+    
+    # Use seed to deterministically select category (same seed = same category)
+    random.seed(seed)
     category = random.choice(available_categories)
-    print(f"Selected category: {category}")
+    random.seed()  # Reset seed after use
+    print(f"Selected category (deterministic from seed {seed}): {category}")
     
     os.makedirs(output_dir, exist_ok=True)
     gym.register("RecoEnv-v0", entry_point=RecoEnv)
