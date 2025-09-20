@@ -251,14 +251,14 @@ Rules:
             # Show all episodes for context
             for episode_data in self.episode_history:
                 episode_num = episode_data.get('episode', 0)
-                category = episode_data.get('category', 'unknown')
+                episode_category = episode_data.get('category', 'unknown')
                 persona = episode_data.get('persona', 'unknown')
                 dialog = episode_data.get('dialog', [])
                 selected_product_id = episode_data.get('selected_product_id', None)
                 selected_product_name = episode_data.get('selected_product_name', 'Unknown Product')
                 feedback = episode_data.get('feedback', '')
                 
-                context_parts.append(f"Episode {episode_num}: [{category}/Persona {persona}]")
+                context_parts.append(f"Episode {episode_num}: [{episode_category}/Persona {persona}]")
                 
                 # Add dialog
                 if dialog:
@@ -512,68 +512,53 @@ def run_experiment2(persona_indices: List[int] = None,
     
     # Create feedback system
     from .core.feedback_system import FeedbackSystem
-    from .core.personas import get_persona_description
-    
-    if feedback_type == "persona":
-        # Get persona description for persona feedback
-        persona_description = get_persona_description(persona_index)
-        feedback_system = FeedbackSystem(feedback_type=feedback_type, persona_description=persona_description)
-    else:
-        feedback_system = FeedbackSystem(feedback_type=feedback_type)
-    
     from .core.simulate_interaction import list_categories, get_products_by_category
     
-    # Check if category is relevant (has products with score > threshold for at least some personas)
-    def check_category_relevance(category, sample_personas=10, min_score_threshold=min_score_threshold):
-        """Check if a category has relevant products for at least some personas."""
+    # Check if category is relevant for a specific persona (similar to Experiment 1)
+    def check_category_relevance_with_persona(category, persona_index, min_score_threshold):
+        """Check if a category is relevant for a specific persona. Returns (is_relevant, cached_scores)."""
         from .core.user_model import UserModel
-        
         try:
             products = get_products_by_category(category)
             if not products:
                 print(f"Category '{category}' has no products")
-                return False
+                return False, []
                 
-            # Test with a sample of personas
-            test_personas = random.sample(range(0, 1000), min(sample_personas, 1000))
-            relevant_personas = 0
-            
-            print(f"Checking category relevance for '{category}' (testing {len(test_personas)} personas)...")
-            
-            for persona_idx in test_personas:
-                try:
-                    user_model = UserModel(persona_idx)
-                    scores = user_model.score_products(category, products)
-                    if scores:
-                        max_score = max(score for _, score in scores)
-                        if max_score > min_score_threshold:
-                            relevant_personas += 1
-                except Exception as e:
-                    continue
-            
-            relevance_ratio = relevant_personas / len(test_personas)
-            print(f"Category '{category}': {relevant_personas}/{len(test_personas)} personas find it relevant (score > {min_score_threshold})")
-            
-            # Consider category relevant if at least 20% of test personas find it relevant
-            return relevance_ratio >= 0.2
-            
+            user_model = UserModel(persona_index)
+            scores = user_model.score_products(category, products)
+            if scores:
+                max_score = max(score for _, score in scores)
+                print(f"Checking category relevance for '{category}' with persona {persona_index}...")
+                print(f"Category '{category}': Max score {max_score:.1f} > {min_score_threshold}, proceeding")
+                return max_score > min_score_threshold, scores
+            return False, []
         except Exception as e:
-            print(f"Error checking category relevance: {e}")
-            return False
+            print(f"Error checking category {category} for persona {persona_index}: {e}")
+            return False, []
+
     
-    sample_relevance = check_category_relevance(category)
-    if not sample_relevance:
-        print(f"Note: Category '{category}' may not be relevant to many personas.")
-        print("Individual personas will be checked and skipped if irrelevant.")
-    
-    # Select personas
+    # Select personas first
     if persona_indices is None:
         # Use a diverse set of personas
         persona_indices = random.sample(range(0, 1000), min(num_personas, 1000))
-    else:
-        persona_indices = persona_indices[:num_personas]
+    
+    # Check category relevance using the first persona that will actually be used
+    first_persona = persona_indices[0]
+    sample_relevance, cached_scores_from_check = check_category_relevance_with_persona(category, first_persona, min_score_threshold)
+    if not sample_relevance:
+        print(f"Note: Category '{category}' may not be relevant to the first persona.")
+        print("Individual personas will be checked and skipped if irrelevant.")
     
     print(f"Personas: {persona_indices}")
+    
+    from .core.user_model import UserModel
+    if feedback_type == "persona":
+        # For persona feedback, we'll use the first persona's agent
+        first_persona = persona_indices[0]
+        persona_agent = UserModel(first_persona)
+        feedback_system = FeedbackSystem(feedback_type=feedback_type, persona_agent=persona_agent)
+    else:
+        feedback_system = FeedbackSystem(feedback_type=feedback_type)
     
     # Initialize results if not loaded from checkpoint
     if not checkpoint_file or not os.path.exists(checkpoint_file):
@@ -639,7 +624,8 @@ def run_experiment2(persona_indices: List[int] = None,
                 max_questions=max_questions,
                 categories=[category],  # Same category for all episodes
                 agent=agent,
-                feedback_system=feedback_system
+                feedback_system=feedback_system,
+                cached_scores=cached_scores_from_check if persona_index == first_persona else None
             )
             
             metrics_wrapper = MetricsWrapper(env, 
@@ -765,14 +751,6 @@ def run_experiment2(persona_indices: List[int] = None,
             improvement = second_half - first_half
             print(f"  Persona {persona_index}: {first_half:.1f} → {second_half:.1f} (Δ{improvement:+.1f})")
     
-    # Analyze learned questioning strategies
-    print("\nLearned Questioning Strategies:")
-    if category in agent.learned_questioning_strategies:
-        strategies = agent.learned_questioning_strategies[category]
-        for question_type, effectiveness_scores in strategies.items():
-            avg_effectiveness = np.mean(effectiveness_scores)
-            print(f"  {question_type}: {avg_effectiveness:.1f} avg effectiveness ({len(effectiveness_scores)} examples)")
-    
     episode_regrets = []
     episode_questions = []
     episode_scores = []
@@ -852,7 +830,7 @@ def run_experiment2(persona_indices: List[int] = None,
     print(f"Individual episode metrics saved to: {output_dir}/episode_*.jsonl")
     print(f"Checkpoints saved to: {output_dir}/checkpoint_personas_*.json")
     
-    return all_results, persona_results, agent.learned_questioning_strategies
+    return all_results, persona_results
 
 
 if __name__ == "__main__":

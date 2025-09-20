@@ -16,25 +16,24 @@ if __name__ == "__main__":
     print(f"Using random seed: {random_seed}")
     
     # Example usage with checkpointing
-    results, persona_results, learned_strategies = run_experiment2(
+    results, persona_results = run_experiment2(
         persona_indices=None, 
-        num_personas=10,
-        episodes_per_persona=2,
-        max_questions=30,
-        model="gpt-4o",
-        feedback_type="none",
-        min_score_threshold=50.0,
+        num_personas=5,
+        episodes_per_persona=1,
+        max_questions=20,
+        model="gpt-4o", #Options: gpt-4o, gpt-5-nano-2025-08-07, gemini-2.5-pro, gemini-2.5-flash, claude-opus-4-20250514, claude-sonnet-4-20250514
+        feedback_type="persona", #Options: regret, persona, star_rating
+        min_score_threshold=60.0, 
         output_dir="experiment2_results_with_checkpoints",
         checkpoint_file=None,
         seed=60751,
-        context_mode="raw",
-        prompting_tricks="none"
+        context_mode="raw", #Options: raw, summary 
+        prompting_tricks="none" #Options: none, all
     )
     
     print(f"\nExperiment completed!")
     print(f"Total episodes: {len(results)}")
     print(f"Personas tested: {list(persona_results.keys())}")
-    print(f"Learned questioning strategies: {learned_strategies}")
     
     # Show how to resume from a checkpoint
     print(f"\nTo resume from a checkpoint, use:")
