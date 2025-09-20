@@ -23,7 +23,7 @@ if __name__ == "__main__":
     # Run with settings that mirror the main experiment
     run_baseline_popularity(
         categories=None, # Will select num_categories from all available
-        num_categories=3,
+        num_categories=20,
         episodes_per_category=1,
         max_questions=0,                # This agent does not ask questions
         model="popularity",             # Model name for logging
@@ -31,7 +31,7 @@ if __name__ == "__main__":
         min_score_threshold=60.0,
         output_dir="baseline_popularity_results_with_checkpoints",
         checkpoint_file=args.resume_from,
-        seed=60751                      # Use the same seed for reproducibility
+        seed=179322                      # Use the same seed for reproducibility
     )
     
     print("\n'Popularity Recommendation' baseline experiment completed!")

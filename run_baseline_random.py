@@ -23,13 +23,13 @@ if __name__ == "__main__":
     # Run with settings that mirror the main experiment
     run_baseline_random(
         categories=None, # Will select num_categories from all available
-        num_categories=3,
+        num_categories=20,
         episodes_per_category=1,
         feedback_type="none",         
         min_score_threshold=60.0,
         output_dir="baseline_random_results_with_checkpoints",
         checkpoint_file=args.resume_from,
-        seed=60751                   
+        seed=179322                   
     )
     
     print("\n'Random Recommendation' baseline experiment completed!")

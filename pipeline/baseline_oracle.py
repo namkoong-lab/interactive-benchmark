@@ -393,15 +393,24 @@ def run_baseline_oracle(
                 print(f"  Error checking category {category}: {e}")
                 return False, 0.0, []
         
-        def select_relevant_categories(available_categories, num_categories, persona_index, min_score_threshold):
+        def select_relevant_categories(available_categories, num_categories, persona_index, min_score_threshold, seed=None):
             """Select exactly num_categories that pass the relevance filter (same as experiment1)."""
             relevant_categories = []
             tested_categories = set()
             
-            # Use categories in deterministic order (no shuffling for reproducibility)
-            print(f"Searching for {num_categories} relevant categories...")
+            # Shuffle categories based on seed for proper randomization
+            if seed is not None:
+                random.seed(seed)
+                shuffled_categories = available_categories.copy()
+                random.shuffle(shuffled_categories)
+                random.seed()  # Reset seed after use
+                categories_to_test = shuffled_categories
+                print(f"Searching for {num_categories} relevant categories with seed-based randomization...")
+            else:
+                categories_to_test = available_categories
+                print(f"Searching for {num_categories} relevant categories in deterministic order...")
             
-            for category in available_categories:
+            for category in categories_to_test:
                 if len(relevant_categories) >= num_categories:
                     break
                     
@@ -426,7 +435,7 @@ def run_baseline_oracle(
         
         # Select exactly num_categories that pass the filter (same as experiment1)
         selected_categories, cached_scores_map = select_relevant_categories(
-            available_categories, num_categories, persona_index, min_score_threshold
+            available_categories, num_categories, persona_index, min_score_threshold, seed
         )
         print(f"Selected {len(selected_categories)} relevant categories")
         categories = selected_categories

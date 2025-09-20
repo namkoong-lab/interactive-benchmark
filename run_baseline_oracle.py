@@ -17,11 +17,11 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run Baseline 4 with checkpointing.")
     parser.add_argument("--model", type=str, default="gpt-4o", help="LLM model to use")
     parser.add_argument("--persona_index", type=int, default=None, help="Persona index to use (if None, will be randomly selected based on seed)")
-    parser.add_argument("--num_categories", type=int, default=5, help="Number of categories to test")
+    parser.add_argument("--num_categories", type=int, default=20, help="Number of categories to test")
     parser.add_argument("--episodes_per_category", type=int, default=1, help="Episodes per category")
     parser.add_argument("--categories", type=str, nargs="+", default=None, help="Categories to test")
     parser.add_argument("--output_dir", type=str, default="baseline_oracle_results", help="Output directory")
-    parser.add_argument("--seed", type=int, default=60751, help="Random seed (same as other baselines for fair comparison)")
+    parser.add_argument("--seed", type=int, default=179322, help="Random seed (same as other baselines for fair comparison)")
     args = parser.parse_args()
 
     print("Running Baseline Experiment 4: Oracle Recommendation")

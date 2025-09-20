@@ -531,21 +531,22 @@ def run_experiment1(categories: List[str] = None,
             print(f"  Error checking category {category}: {e}")
             return False, 0.0, []
     
-    # Simple category selection - just get all available categories in deterministic order
+    # Category selection with proper seed-based randomization
     def get_categories_for_seed(available_categories, seed):
-        """Get categories in deterministic order based on seed."""
+        """Get categories in randomized order based on seed."""
         # Set seed for reproducible category ordering
         random.seed(seed)
         categories = available_categories.copy()
-        # Don't shuffle - keep deterministic order for reproducibility
+        # Shuffle categories based on seed for proper randomization
+        random.shuffle(categories)
         random.seed()  # Reset seed after use
         return categories
 
-    # Initialize category selection with simple approach
+    # Initialize category selection with proper randomization
     if categories is None:
-        # Get all categories in deterministic order based on seed
+        # Get all categories in randomized order based on seed
         selected_categories = get_categories_for_seed(available_categories, seed)
-        print(f"Categories selected deterministically from seed {seed}")
+        print(f"Categories selected with randomization from seed {seed}")
     else:
         # Use provided categories, filtered by availability
         selected_categories = [cat for cat in categories if cat in available_categories]
