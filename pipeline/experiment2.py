@@ -784,7 +784,16 @@ def run_experiment2(persona_indices: List[int] = None,
         if 'questions_asked' in result['final_info']:
             episode_questions.append(result['final_info']['questions_asked'])
     
+    # Create episode data combining regret and questions for each episode
+    episode_data = []
+    for i in range(len(episode_regrets)):
+        episode_data.append({
+            'regret': episode_regrets[i],
+            'questions': episode_questions[i] if i < len(episode_questions) else 0
+        })
+    
     regret_progression = {
+        'episode_data': episode_data,
         'episode_regrets': episode_regrets,
         'avg_regret': np.mean(episode_regrets) if episode_regrets else 0,
         'regret_trend': 'improving' if len(episode_regrets) > 1 and episode_regrets[-1] < episode_regrets[0] else 'stable'
@@ -822,7 +831,8 @@ def run_experiment2(persona_indices: List[int] = None,
                     'avg_score': np.mean(episode_scores) if episode_scores else 0,
                     'total_episodes': len(all_results),
                     'successful_episodes': successful_episodes_count,
-                    'target_successful_episodes': target_successful_episodes
+                    'target_successful_episodes': target_successful_episodes,
+                    'total_questions_asked': sum(episode_questions) if episode_questions else 0
                 }
             },
             'config': {

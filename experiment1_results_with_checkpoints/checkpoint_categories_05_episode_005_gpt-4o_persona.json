@@ -1,0 +1,4320 @@
+{
+  "experiment": "Experiment 1: LLM Learning Across Categories (Checkpoint)",
+  "timestamp": "2025-09-20T14:38:36.232801",
+  "episode_num": 5,
+  "model": "gpt-4o",
+  "feedback_type": "persona",
+  "seed": 415909,
+  "agent_state": {
+    "episode_count": 5,
+    "episode_history": [
+      {
+        "episode": 1,
+        "category": "2 in 1 Laptop Computers",
+        "persona": 9501,
+        "dialog": [
+          [
+            "What's your budget for a 2 in 1 laptop?",
+            "Around $500."
+          ]
+        ],
+        "selected_product_id": 71217,
+        "selected_product_name": "Dell Chromebook 11-5190 2-in-1 Convertible Notebook, 11.6\" Touchscreen, Intel Celeron N3350 Processor, 32GB eMMC Storage, 4GB DDR4, Wi-Fi + Bluetooth, Chrome OS - Renewed",
+        "feedback": "Well, this Dell Chromebook looks like a nice little device, but I was actually hoping for something with a bit more storage for all the history documents and photos I like to keep. Maybe something with a larger screen would be easier on the eyes, too, for reading all those history books I enjoy."
+      },
+      {
+        "episode": 2,
+        "category": "20th Century Fox Home Entertainment",
+        "persona": 9501,
+        "dialog": [
+          [
+            "Are you looking for a specific type of movie or show from 20th Century Fox?",
+            "I would be interested in a historical drama."
+          ],
+          [
+            "Do you have a budget in mind for the historical drama you're interested in?",
+            "I don't have a specific budget in mind."
+          ],
+          [
+            "Do you prefer a historical drama with a specific historical period or event in mind?",
+            "The Civil Rights Movement."
+          ],
+          [
+            "Are you looking for a movie or a TV series about the Civil Rights Movement?",
+            "A movie."
+          ],
+          [
+            "Do you prefer a movie that focuses on a specific figure or event from the Civil Rights Movement?",
+            "I prefer a movie that focuses on a specific figure from the Civil Rights Movement."
+          ],
+          [
+            "Do you have a preference for a specific historical figure from the Civil Rights Movement?",
+            "Martin Luther King Jr."
+          ],
+          [
+            "Do you have a preference for a specific movie title about Martin Luther King Jr.?",
+            "Selma"
+          ],
+          [
+            "Are you looking for a digital or physical copy of the movie \"Selma\"?",
+            "Physical copy."
+          ],
+          [
+            "Do you want the physical copy of \"Selma\" to be a DVD or Blu-ray?",
+            "DVD"
+          ],
+          [
+            "Do you have a preference for a specific edition or special features for the DVD of \"Selma\"?",
+            "I prefer the edition with the director's commentary."
+          ],
+          [
+            "Do you have a preference for a specific region or store to purchase the DVD of \"Selma\"?",
+            "I prefer to purchase it from a local store in Des Moines."
+          ],
+          [
+            "Do you have a preference for a specific local store in Des Moines to purchase the DVD of \"Selma\"?",
+            "I prefer to purchase it from Beaverdale Books."
+          ],
+          [
+            "Do you want me to check if Beaverdale Books has the DVD of \"Selma\" with the director's commentary?",
+            "Yes, please."
+          ],
+          [
+            "Would you like me to check if Beaverdale Books has the DVD of \"Selma\" with the director's commentary available?",
+            "Yes, please."
+          ],
+          [
+            "Would you like me to check if Beaverdale Books has the DVD of \"Selma\" with the director's commentary available?",
+            "Yes, please."
+          ],
+          [
+            "Would you like me to check if Beaverdale Books has the DVD of \"Selma\" with the director's commentary available?",
+            "Yes, please."
+          ],
+          [
+            "Would you like me to check if Beaverdale Books has the DVD of \"Selma\" with the director's commentary available?",
+            "Yes, please."
+          ],
+          [
+            "Would you like me to check online availability for the DVD of \"Selma\" with the director's commentary since Beaverdale Books might not have it?",
+            "Yes, please."
+          ],
+          [
+            "Would you like me to find an online store that has the DVD of \"Selma\" with the director's commentary available for purchase?",
+            "Yes, please."
+          ],
+          [
+            "Would you like me to find an online store that has the DVD of \"Selma\" with the director's commentary available for purchase?",
+            "Yes, please."
+          ]
+        ],
+        "selected_product_id": 96452,
+        "selected_product_name": "World Destruction Box Set (Independence Day / Chain Reaction / The Day After Tomorrow / Volcano) [DVD]",
+        "feedback": "Oh dear, that\u2019s not quite what I was hoping for. I was actually looking for something more along the lines of a historical documentary or a biography, perhaps something about Iowa's history or the civil rights movement."
+      },
+      {
+        "episode": 3,
+        "category": "A&E Home Video",
+        "persona": 9501,
+        "dialog": [
+          [
+            "Are you looking for a historical documentary or biography from A&E Home Video?",
+            "I'm looking for a historical documentary."
+          ]
+        ],
+        "selected_product_id": 94562,
+        "selected_product_name": "More Sex & The Single Mom",
+        "feedback": "Oh dear, that's not quite what I was looking for. I was hoping for something more along the lines of a historical biography or a book about the civil rights movement\u2014something rich in history and meaningful stories."
+      },
+      {
+        "episode": 4,
+        "category": "AA Batteries",
+        "persona": 9501,
+        "dialog": [
+          [
+            "Are you looking for AA batteries with a specific brand or feature in mind?",
+            "I'm not particular about the brand, just need reliable ones for my remote control."
+          ]
+        ],
+        "selected_product_id": 77361,
+        "selected_product_name": "TEBANTY PKNOVA AA Batteries, 4-Count 1.5V Ultra Alkaline LR6 Batteries for Holiday Christmas Light, 380 Minutes Disposable Double A Battery for Clock,Toys",
+        "feedback": "I appreciate the recommendation, but I was actually hoping to find some rechargeable AA batteries for my portable radio. I like to listen to jazz while gardening and would prefer something more sustainable for regular use."
+      },
+      {
+        "episode": 5,
+        "category": "AC Adapters",
+        "persona": 9501,
+        "dialog": [
+          [
+            "Are you looking for an AC adapter with a specific feature or price range in mind?",
+            "I'm looking for an AC adapter that's reliable and reasonably priced."
+          ]
+        ],
+        "selected_product_id": 1241,
+        "selected_product_name": "Replacement Power Supply/AC Adapter for Korg Electribe Products: EA-1, ER-1, EM-1, ES-1 and all MKII/MK2 versions of those models (Aftermarket)91",
+        "feedback": "Well, that's quite off the mark, I'm afraid. I was actually hoping for a good book on Iowa's history or perhaps a new jazz record to enjoy while I tend to my garden."
+      }
+    ],
+    "episode_summaries": []
+  },
+  "episodes_completed": 5,
+  "all_results": [
+    {
+      "episode": 1,
+      "category": "2 in 1 Laptop Computers",
+      "persona_index": 9501,
+      "episode_in_category": 1,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 71217,
+        "chosen_score": 62.5,
+        "best_product_id": 66801,
+        "best_score": 82.5,
+        "regret": 20.0,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 1,
+        "feedback": "Well, this Dell Chromebook looks like a nice little device, but I was actually hoping for something with a bit more storage for all the history documents and photos I like to keep. Maybe something with a larger screen would be easier on the eyes, too, for reading all those history books I enjoy.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "What's your budget for a 2 in 1 laptop?",
+          "Around $500."
+        ]
+      ],
+      "product_info": {
+        "num_products": 16,
+        "products_with_scores": [
+          {
+            "id": 66801,
+            "name": "2019 HP Spectre x360 13t Gem Cut PRIVACY SCREEN with 13.3\" 2 in 1(i7 8565U, FHD IR webcam, HP Pen, 3 Yr McAfee Internet Security, Windows 10 PRO Upgrade,HP Worldwide Wrnty(16G+1TB SSD, Poseidon Blue)",
+            "price": null,
+            "average_score": 82.5
+          },
+          {
+            "id": 67502,
+            "name": "[Windows 11 Pro] HP Envy x360 15 2-in-1 Business Laptop, 15.6\" FHD Touchscreen, Octa-Core AMD Ryzen 7 5700U (Beat i7-1165G7), 64GB DDR4 RAM, 2TB PCIe SSD, WiFi 6, Fingerprint Reader, 64GB Flash Stylus",
+            "price": 1469.0,
+            "average_score": 77.5
+          },
+          {
+            "id": 68133,
+            "name": "2021 Newest HP Envy x360 2-in-1 Laptop, 15.6\" FHD Touchscreen, Intel Core i5-10210U Processor, 32GB RAM, 1TB SSD, Fingerprint Reader, Backlit Keyboard, USB 3.1, HDMI, Webcam, Win 10 + Oydisen Cloth",
+            "price": 999.0,
+            "average_score": 77.5
+          },
+          {
+            "id": 68256,
+            "name": "Microsoft Surface Book SW5-00001 2-in-1 Notebook PC - Intel Core i7-6600U 2.6 GHz Dual-Core Processor - 8 GB RAM - 256 GB Solid State Drive - 13.5-inch Touchscreen Display - (Renewed)",
+            "price": 844.0,
+            "average_score": 77.5
+          },
+          {
+            "id": 70897,
+            "name": "HP Envy x360 Flagship High Performance 2-in-1 Convertible Laptop PC (2016), 15.6-inch Full HD Touch-Screen Display, Intel Core i5-6200U, 12GB DDR3L RAM, 1TB HDD, Backlit Keyboard, Windows 10",
+            "price": 899.99,
+            "average_score": 77.5
+          },
+          {
+            "id": 70577,
+            "name": "SHOXLAB Supported- NewHP Spectre x360 2-in-1 Convertible, 16\" 3K+ Touchscreen Laptop, Core i7-11390H, 16GB RAM 1TB SSD, Upto17H Battery, HDMI Fingerprint Thunderbolt4 Type-C WiFi6 Win11H",
+            "price": 1329.0,
+            "average_score": 76.5
+          },
+          {
+            "id": 70381,
+            "name": "Lenovo Yoga C930 2-in-1 Laptop, 13.9-inch Full HD ( 1920 x 1080 ) Touchscreen, 8th Gen Intel Core i7-8550U, 12GB RAM, 256 GB SSD, Fingerprint Reader, Windows 10, Iron Gray (Renewed)",
+            "price": null,
+            "average_score": 76.0
+          },
+          {
+            "id": 69300,
+            "name": "Microsoft Surface Laptop Studio - 14.4\" Touchscreen - Intel\u00ae Core\u2122 i7 - 32GB Memory - 2TB SSD - Platinum",
+            "price": 2419.6,
+            "average_score": 75.0
+          },
+          {
+            "id": 72026,
+            "name": "Bmax 2 in 1 Convertible Laptop, 11.6\" FHD (1920 X 1080) IPS Touchscreen, Quad-Core Celeron N4120, 8GB DDR4, 256GB SATA SSD, Expandable 1TB SSD, Windows 10, Type-C, HDMI, All-Metal Body",
+            "price": null,
+            "average_score": 71.5
+          },
+          {
+            "id": 68115,
+            "name": "Dell i5568-7477GRY 15.6-Inches FHD 2-in-1 Laptop (Intel Core i7-6500U 2.5GHz Processor, 16 GB RAM, 256 GB SDD, Windows 10) Gray",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 68688,
+            "name": "ASUS Vivobook Go 2-in-1 Laptop 2023 Newest, 14 Inch Touchscreen Display, Intel Celeron N4500 Processor, 4GB RAM, 64GB eMMC, 128GB MicroSD, Intel UHD Graphics, Bluetooth, Windows 11 in S Mode, Blue",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 71545,
+            "name": "Lenovo 2022 IdeaPad Flex 3 11.6\" HD 2-in-1 Touchscreen Chromebook (8-Core MediaTek MT8183, 4GB RAM, 64GB eMMC, Stylus, Webcam) Flip Convertible Home Education Laptop, IST Computers Pen, Chrome OS",
+            "price": 229.98,
+            "average_score": 70.0
+          },
+          {
+            "id": 68677,
+            "name": "New XPS 13 2-in-1 7390 Intel 10th Gen i7-1065G7 Intel Iris Plus 13.4\" FHD+ WLED Touch (1920 x 1200) Active Stylus Pen + Best Notebook Pen Light (512GB SSD|16GB RAM |W10 Pro) Arctic White (Renewed)",
+            "price": 1099.66,
+            "average_score": 69.0
+          },
+          {
+            "id": 72070,
+            "name": "HP Envy x360 15m-ds0012dx 15.6\" Touchscreen 2 in 1 Notebook, AMD Ryzen 7 3700U, 8GB RAM, 256GB SSD - 5TV96UAR#ABA (Renewed)",
+            "price": null,
+            "average_score": 67.5
+          },
+          {
+            "id": 71217,
+            "name": "Dell Chromebook 11-5190 2-in-1 Convertible Notebook, 11.6\" Touchscreen, Intel Celeron N3350 Processor, 32GB eMMC Storage, 4GB DDR4, Wi-Fi + Bluetooth, Chrome OS - Renewed",
+            "price": 89.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 70104,
+            "name": "ASUS - TUF Gaming 17.3\" Laptop - Intel Core i5-8GB Memory - NVIDIA GeForce RTX3050-512",
+            "price": 847.0,
+            "average_score": 45.0
+          }
+        ]
+      }
+    },
+    {
+      "episode": 2,
+      "category": "20th Century Fox Home Entertainment",
+      "persona_index": 9501,
+      "episode_in_category": 1,
+      "steps": 21,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 96452,
+        "chosen_score": 25.0,
+        "best_product_id": 99424,
+        "best_score": 92.5,
+        "regret": 67.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 20,
+        "feedback": "Oh dear, that\u2019s not quite what I was hoping for. I was actually looking for something more along the lines of a historical documentary or a biography, perhaps something about Iowa's history or the civil rights movement.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "Are you looking for a specific type of movie or show from 20th Century Fox?",
+          "I would be interested in a historical drama."
+        ],
+        [
+          "Do you have a budget in mind for the historical drama you're interested in?",
+          "I don't have a specific budget in mind."
+        ],
+        [
+          "Do you prefer a historical drama with a specific historical period or event in mind?",
+          "The Civil Rights Movement."
+        ],
+        [
+          "Are you looking for a movie or a TV series about the Civil Rights Movement?",
+          "A movie."
+        ],
+        [
+          "Do you prefer a movie that focuses on a specific figure or event from the Civil Rights Movement?",
+          "I prefer a movie that focuses on a specific figure from the Civil Rights Movement."
+        ],
+        [
+          "Do you have a preference for a specific historical figure from the Civil Rights Movement?",
+          "Martin Luther King Jr."
+        ],
+        [
+          "Do you have a preference for a specific movie title about Martin Luther King Jr.?",
+          "Selma"
+        ],
+        [
+          "Are you looking for a digital or physical copy of the movie \"Selma\"?",
+          "Physical copy."
+        ],
+        [
+          "Do you want the physical copy of \"Selma\" to be a DVD or Blu-ray?",
+          "DVD"
+        ],
+        [
+          "Do you have a preference for a specific edition or special features for the DVD of \"Selma\"?",
+          "I prefer the edition with the director's commentary."
+        ],
+        [
+          "Do you have a preference for a specific region or store to purchase the DVD of \"Selma\"?",
+          "I prefer to purchase it from a local store in Des Moines."
+        ],
+        [
+          "Do you have a preference for a specific local store in Des Moines to purchase the DVD of \"Selma\"?",
+          "I prefer to purchase it from Beaverdale Books."
+        ],
+        [
+          "Do you want me to check if Beaverdale Books has the DVD of \"Selma\" with the director's commentary?",
+          "Yes, please."
+        ],
+        [
+          "Would you like me to check if Beaverdale Books has the DVD of \"Selma\" with the director's commentary available?",
+          "Yes, please."
+        ],
+        [
+          "Would you like me to check if Beaverdale Books has the DVD of \"Selma\" with the director's commentary available?",
+          "Yes, please."
+        ],
+        [
+          "Would you like me to check if Beaverdale Books has the DVD of \"Selma\" with the director's commentary available?",
+          "Yes, please."
+        ],
+        [
+          "Would you like me to check if Beaverdale Books has the DVD of \"Selma\" with the director's commentary available?",
+          "Yes, please."
+        ],
+        [
+          "Would you like me to check online availability for the DVD of \"Selma\" with the director's commentary since Beaverdale Books might not have it?",
+          "Yes, please."
+        ],
+        [
+          "Would you like me to find an online store that has the DVD of \"Selma\" with the director's commentary available for purchase?",
+          "Yes, please."
+        ],
+        [
+          "Would you like me to find an online store that has the DVD of \"Selma\" with the director's commentary available for purchase?",
+          "Yes, please."
+        ]
+      ],
+      "product_info": {
+        "num_products": 89,
+        "products_with_scores": [
+          {
+            "id": 99424,
+            "name": "The Lion in Winter",
+            "price": 4.19,
+            "average_score": 92.5
+          },
+          {
+            "id": 99464,
+            "name": "The Comancheros",
+            "price": 6.99,
+            "average_score": 87.5
+          },
+          {
+            "id": 97306,
+            "name": "Heidi",
+            "price": 10.38,
+            "average_score": 85.0
+          },
+          {
+            "id": 6674,
+            "name": "Old Man And The Gun, The",
+            "price": 9.79,
+            "average_score": 80.0
+          },
+          {
+            "id": 97398,
+            "name": "Cardinal Richelieu; I'd Climb The Highest Mountain; Sodom And Gomorrah; Esther And The King",
+            "price": 50.29,
+            "average_score": 80.0
+          },
+          {
+            "id": 99707,
+            "name": "Always Goodbye",
+            "price": 19.99,
+            "average_score": 80.0
+          },
+          {
+            "id": 95440,
+            "name": "Twelve O'Clock High 1949",
+            "price": 11.94,
+            "average_score": 77.5
+          },
+          {
+            "id": 96411,
+            "name": "The Mary Tyler Moore Show - The Complete Fourth Season",
+            "price": 11.2,
+            "average_score": 77.5
+          },
+          {
+            "id": 95288,
+            "name": "I Was a Male War Bride",
+            "price": 32.48,
+            "average_score": 72.5
+          },
+          {
+            "id": 98701,
+            "name": "National Geographic - In Search of the Jaguar",
+            "price": 3.75,
+            "average_score": 72.5
+          },
+          {
+            "id": 99479,
+            "name": "Picket Fences - Season 1",
+            "price": 8.5,
+            "average_score": 72.5
+          },
+          {
+            "id": 96959,
+            "name": "The Shirley Temple Collection: Volume Two (Wee Willie Winkie, Stowaway, Baby Take a Bow, Bright Eyes, Rebecca of Sunnybrook Farm, and Young People)",
+            "price": 49.8,
+            "average_score": 67.5
+          },
+          {
+            "id": 97378,
+            "name": "Robots (Full Screen Edition)",
+            "price": 9.9,
+            "average_score": 67.5
+          },
+          {
+            "id": 6575,
+            "name": "Brain Games: Season 4",
+            "price": 20.0,
+            "average_score": 65.0
+          },
+          {
+            "id": 6672,
+            "name": "Angels - Good or Evil? (History Channel) [DVD]",
+            "price": 27.2,
+            "average_score": 65.0
+          },
+          {
+            "id": 97616,
+            "name": "Magic Roundabout 2004",
+            "price": 8.04,
+            "average_score": 62.5
+          },
+          {
+            "id": 94895,
+            "name": "Jesse James",
+            "price": 10.99,
+            "average_score": 60.0
+          },
+          {
+            "id": 95432,
+            "name": "Classic Quad Set 17: (Fantastic Voyage / The Lost World / The Towering Inferno / Voyage to the Bottom of the Sea)",
+            "price": 34.91,
+            "average_score": 60.0
+          },
+          {
+            "id": 97454,
+            "name": "Casper Meets Wendy Family Fun Edition",
+            "price": 24.99,
+            "average_score": 60.0
+          },
+          {
+            "id": 97326,
+            "name": "Strawberry Shortcake: Cooking Up Fun",
+            "price": 19.99,
+            "average_score": 57.5
+          },
+          {
+            "id": 97699,
+            "name": "The Dolphin: Story of a Dreamer",
+            "price": 18.99,
+            "average_score": 57.5
+          },
+          {
+            "id": 6786,
+            "name": "Shark Men: Season 2",
+            "price": 24.97,
+            "average_score": 52.5
+          },
+          {
+            "id": 96382,
+            "name": "Cocoon / Cocoon - The Return [DVD]",
+            "price": 39.95,
+            "average_score": 52.5
+          },
+          {
+            "id": 94890,
+            "name": "Charlie Chan In Honolulu",
+            "price": 16.99,
+            "average_score": 50.0
+          },
+          {
+            "id": 95468,
+            "name": "Tora! Tora! Tora!",
+            "price": 11.89,
+            "average_score": 50.0
+          },
+          {
+            "id": 99577,
+            "name": "Horton Hears a Who",
+            "price": 8.19,
+            "average_score": 50.0
+          },
+          {
+            "id": 6745,
+            "name": "Voyage to Bottom of the Sea - Season 2, Vol. 1",
+            "price": 55.91,
+            "average_score": 47.5
+          },
+          {
+            "id": 94658,
+            "name": "Moss Rose",
+            "price": 19.49,
+            "average_score": 47.5
+          },
+          {
+            "id": 96561,
+            "name": "The Simpsons: Season 12 (Limited Edition \"Comic Book Guy\" Head Packaging)",
+            "price": 54.1,
+            "average_score": 47.5
+          },
+          {
+            "id": 94636,
+            "name": "The Man I Married",
+            "price": 16.62,
+            "average_score": 45.0
+          },
+          {
+            "id": 95752,
+            "name": "Batman: The Movie (Special Edition)",
+            "price": 17.09,
+            "average_score": 45.0
+          },
+          {
+            "id": 97898,
+            "name": "Miller's Crossing",
+            "price": 8.67,
+            "average_score": 42.5
+          },
+          {
+            "id": 98712,
+            "name": "Rio 2-Movie Collection",
+            "price": 9.99,
+            "average_score": 42.5
+          },
+          {
+            "id": 98784,
+            "name": "Ice Age 4: Continental Drift",
+            "price": 8.89,
+            "average_score": 42.5
+          },
+          {
+            "id": 94904,
+            "name": "Good Year",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 94966,
+            "name": "Wild Alaska",
+            "price": 11.49,
+            "average_score": 40.0
+          },
+          {
+            "id": 97387,
+            "name": "The Resident: The Complete Season 2",
+            "price": 34.94,
+            "average_score": 40.0
+          },
+          {
+            "id": 97896,
+            "name": "Ice Age 2: The Meltdown",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 98292,
+            "name": "Independence Day 20th Anniversary",
+            "price": 9.08,
+            "average_score": 40.0
+          },
+          {
+            "id": 98752,
+            "name": "Classic Crime Collection - Street Justice (Murder Inc., The French Connection, The St. Valentine's Day Massacre, The Seven-Ups) [DVD]",
+            "price": 49.99,
+            "average_score": 40.0
+          },
+          {
+            "id": 96584,
+            "name": "Die Hard (Widescreen Edition)",
+            "price": 5.49,
+            "average_score": 37.5
+          },
+          {
+            "id": 99029,
+            "name": "True Lies [DVD]",
+            "price": 12.79,
+            "average_score": 37.5
+          },
+          {
+            "id": 6748,
+            "name": "King Of Burlesque",
+            "price": 27.73,
+            "average_score": 35.0
+          },
+          {
+            "id": 6871,
+            "name": "Murder On The Orient Express 2017",
+            "price": 13.99,
+            "average_score": 35.0
+          },
+          {
+            "id": 95175,
+            "name": "Wild Congo",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 96201,
+            "name": "Star Wars, Episode III: Revenge of the Sith (Full Screen Edition)",
+            "price": 7.83,
+            "average_score": 35.0
+          },
+          {
+            "id": 96771,
+            "name": "The Blue Max",
+            "price": 22.67,
+            "average_score": 35.0
+          },
+          {
+            "id": 97289,
+            "name": "Bond Remastered - The Living Daylights (1-disc) [DVD] [1987]",
+            "price": 15.16,
+            "average_score": 35.0
+          },
+          {
+            "id": 97739,
+            "name": "The Big Year [DVD] [2011]",
+            "price": 6.5,
+            "average_score": 35.0
+          },
+          {
+            "id": 99925,
+            "name": "Unfaithful (Full Screen Edition)",
+            "price": 12.93,
+            "average_score": 35.0
+          },
+          {
+            "id": 6526,
+            "name": "Die Hard (Widescreen Edition)",
+            "price": 14.94,
+            "average_score": 32.5
+          },
+          {
+            "id": 95085,
+            "name": "24: Redemption",
+            "price": 19.99,
+            "average_score": 32.5
+          },
+          {
+            "id": 96927,
+            "name": "Enough Said",
+            "price": 10.23,
+            "average_score": 32.5
+          },
+          {
+            "id": 98754,
+            "name": "Diary Of A Wimpy Kid 4: The Long Haul [DVD] [2017]",
+            "price": 5.27,
+            "average_score": 32.5
+          },
+          {
+            "id": 6509,
+            "name": "Percy Jackson Double Feature",
+            "price": 22.0,
+            "average_score": 30.0
+          },
+          {
+            "id": 6648,
+            "name": "4 Family Film Favorites: Percy Jackson -The Lightning Thief/ The Chronicles Of Narnia: Voyage Of The Dawn Treader/ Eragon/ The Seeker",
+            "price": 24.99,
+            "average_score": 30.0
+          },
+          {
+            "id": 6856,
+            "name": "Jake Gyllenhaal Triple Feature",
+            "price": 29.63,
+            "average_score": 30.0
+          },
+          {
+            "id": 95576,
+            "name": "Wall Street",
+            "price": 12.44,
+            "average_score": 30.0
+          },
+          {
+            "id": 96738,
+            "name": "Drumline (Special Edition) by 20th Century Fox",
+            "price": 10.81,
+            "average_score": 30.0
+          },
+          {
+            "id": 97039,
+            "name": "AVP: Alien vs. Predator (Widescreen Edition)",
+            "price": 10.93,
+            "average_score": 30.0
+          },
+          {
+            "id": 97940,
+            "name": "Kung Fu Panda: The Midnight Stranger [DVD]",
+            "price": 35.0,
+            "average_score": 30.0
+          },
+          {
+            "id": 98910,
+            "name": "Catch That Kid",
+            "price": 13.65,
+            "average_score": 30.0
+          },
+          {
+            "id": 6656,
+            "name": "Star Wars: Clone Wars - Volume One [DVD]",
+            "price": 15.56,
+            "average_score": 27.5
+          },
+          {
+            "id": 6794,
+            "name": "The Pick-Up Artist [DVD]",
+            "price": 24.28,
+            "average_score": 27.5
+          },
+          {
+            "id": 94555,
+            "name": "Quantum Of Solace",
+            "price": 17.04,
+            "average_score": 27.5
+          },
+          {
+            "id": 95815,
+            "name": "Cheaper by the Dozen 2",
+            "price": 6.29,
+            "average_score": 27.5
+          },
+          {
+            "id": 97750,
+            "name": "Moondance Alexander / Virginia's Run",
+            "price": 14.0,
+            "average_score": 27.5
+          },
+          {
+            "id": 98475,
+            "name": "Prosecuting Casey Anthony",
+            "price": 21.99,
+            "average_score": 27.5
+          },
+          {
+            "id": 98691,
+            "name": "Sons of Anarchy: Season 4",
+            "price": 14.94,
+            "average_score": 27.5
+          },
+          {
+            "id": 95271,
+            "name": "Maze Runner - The Death Cure [DVD] [2018]",
+            "price": 10.83,
+            "average_score": 25.0
+          },
+          {
+            "id": 96452,
+            "name": "World Destruction Box Set (Independence Day / Chain Reaction / The Day After Tomorrow / Volcano) [DVD]",
+            "price": 54.0,
+            "average_score": 25.0
+          },
+          {
+            "id": 97305,
+            "name": "28 Days Later / 28 Weeks Later (Double Feature)",
+            "price": 26.25,
+            "average_score": 25.0
+          },
+          {
+            "id": 97773,
+            "name": "Possession",
+            "price": 8.24,
+            "average_score": 25.0
+          },
+          {
+            "id": 94841,
+            "name": "Kendra: Season 1",
+            "price": 9.98,
+            "average_score": 22.5
+          },
+          {
+            "id": 95848,
+            "name": "Empire: The Complete Fifth Season",
+            "price": 30.2,
+            "average_score": 22.5
+          },
+          {
+            "id": 96359,
+            "name": "Snatched 2017",
+            "price": 10.04,
+            "average_score": 22.5
+          },
+          {
+            "id": 99005,
+            "name": "Jingle All the Way 2",
+            "price": 6.79,
+            "average_score": 22.5
+          },
+          {
+            "id": 6612,
+            "name": "Die Simpsons - Die komplette Season 7 (Collector's Edition, 4 DVDs) [Import allemand]",
+            "price": 22.5,
+            "average_score": 20.0
+          },
+          {
+            "id": 95751,
+            "name": "Night Watch [DVD]",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 98257,
+            "name": "Stay Hungry [DVD]",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 99404,
+            "name": "Sirens: The Complete First Season",
+            "price": 29.48,
+            "average_score": 17.5
+          },
+          {
+            "id": 99465,
+            "name": "Speed Collector Pack (Speed Five Star Collection / Speed 2 - Cruise Control) [DVD]",
+            "price": 39.99,
+            "average_score": 17.5
+          },
+          {
+            "id": 6616,
+            "name": "Ablaze",
+            "price": 12.95,
+            "average_score": 15.0
+          },
+          {
+            "id": 95397,
+            "name": "Hello Kitty Halloween",
+            "price": 11.99,
+            "average_score": 15.0
+          },
+          {
+            "id": 96373,
+            "name": "Princess Bride, The",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 96567,
+            "name": "Devil Wears Prada & 27 Dresses",
+            "price": 8.47,
+            "average_score": 15.0
+          },
+          {
+            "id": 99019,
+            "name": "Transporter: The Series - Season 1",
+            "price": 20.0,
+            "average_score": 15.0
+          },
+          {
+            "id": 99824,
+            "name": "Say it Isn't So! [DVD]",
+            "price": 14.06,
+            "average_score": 15.0
+          },
+          {
+            "id": 100000,
+            "name": "Darkest Knight [DVD]",
+            "price": 9.46,
+            "average_score": 15.0
+          }
+        ]
+      }
+    },
+    {
+      "episode": 3,
+      "category": "A&E Home Video",
+      "persona_index": 9501,
+      "episode_in_category": 1,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 94562,
+        "chosen_score": 15.0,
+        "best_product_id": 95369,
+        "best_score": 87.5,
+        "regret": 72.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 1,
+        "feedback": "Oh dear, that's not quite what I was looking for. I was hoping for something more along the lines of a historical biography or a book about the civil rights movement\u2014something rich in history and meaningful stories.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "Are you looking for a historical documentary or biography from A&E Home Video?",
+          "I'm looking for a historical documentary."
+        ]
+      ],
+      "product_info": {
+        "num_products": 35,
+        "products_with_scores": [
+          {
+            "id": 95369,
+            "name": "American Pickers: Volume 2 [DVD]",
+            "price": 7.99,
+            "average_score": 87.5
+          },
+          {
+            "id": 99674,
+            "name": "JFK - A Presidency Revealed (History Channel)",
+            "price": 18.99,
+            "average_score": 85.0
+          },
+          {
+            "id": 99242,
+            "name": "Save Our History - Gold Rush Ghost Towns (History Channel)",
+            "price": 15.95,
+            "average_score": 80.0
+          },
+          {
+            "id": 97267,
+            "name": "The Planets",
+            "price": 57.88,
+            "average_score": 70.0
+          },
+          {
+            "id": 99931,
+            "name": "The 9/11 Commission Report (History Channel) [DVD]",
+            "price": 6.98,
+            "average_score": 70.0
+          },
+          {
+            "id": 97484,
+            "name": "The True Story of the Bridge on the River Kwai (History Channel) [DVD]",
+            "price": null,
+            "average_score": 67.5
+          },
+          {
+            "id": 99345,
+            "name": "Modern Marvels: Tomcat Sunset",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 99419,
+            "name": "Jerusalem (The History Channel)",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 96422,
+            "name": "Egypt - Beyond The Pyramids",
+            "price": 16.0,
+            "average_score": 60.0
+          },
+          {
+            "id": 95428,
+            "name": "Modern Marvels: The Tool Bench - Power Tools",
+            "price": 16.95,
+            "average_score": 57.5
+          },
+          {
+            "id": 95608,
+            "name": "Failure Is Not an Option (History Channel)",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 96515,
+            "name": "Nostradamus Effect: Season 1",
+            "price": 13.86,
+            "average_score": 52.5
+          },
+          {
+            "id": 97566,
+            "name": "Amer Cast: Newport Mansions",
+            "price": 13.5,
+            "average_score": 47.5
+          },
+          {
+            "id": 95292,
+            "name": "Longitude",
+            "price": 43.97,
+            "average_score": 42.5
+          },
+          {
+            "id": 98353,
+            "name": "Secret Japanese Aircraft of WW2",
+            "price": null,
+            "average_score": 42.5
+          },
+          {
+            "id": 99434,
+            "name": "Secrets of the Aegean Apocalypse",
+            "price": 15.99,
+            "average_score": 40.0
+          },
+          {
+            "id": 95122,
+            "name": "Modern Mar: Aswan Dam",
+            "price": 20.49,
+            "average_score": 35.0
+          },
+          {
+            "id": 98223,
+            "name": "Biography - The Osmonds: Pure and Simple [DVD]",
+            "price": 29.95,
+            "average_score": 25.0
+          },
+          {
+            "id": 96151,
+            "name": "The Quest for Dragons (A&E)",
+            "price": 30.88,
+            "average_score": 22.5
+          },
+          {
+            "id": 99692,
+            "name": "Lifetime Gold Collection",
+            "price": null,
+            "average_score": 22.5
+          },
+          {
+            "id": 96712,
+            "name": "Vanity Fair",
+            "price": 44.8,
+            "average_score": 20.0
+          },
+          {
+            "id": 99206,
+            "name": "The San Francisco Giants 2010 World Series Collector's Edition",
+            "price": 52.59,
+            "average_score": 20.0
+          },
+          {
+            "id": 99299,
+            "name": "Woody Hayes' Ohio State Buckeyes",
+            "price": 11.99,
+            "average_score": 20.0
+          },
+          {
+            "id": 96675,
+            "name": "City Confidential: Wilmington Dangerous Affairs",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 99861,
+            "name": "The Wind in the Willows / A Tale of Two Toads",
+            "price": 29.99,
+            "average_score": 17.5
+          },
+          {
+            "id": 94562,
+            "name": "More Sex & The Single Mom",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 95890,
+            "name": "Profiler - Season 2 [DVD]",
+            "price": 54.31,
+            "average_score": 15.0
+          },
+          {
+            "id": 96808,
+            "name": "Mr. Bean The Animated Series, Vols. 5 & 6 (Grin and Bean It / The Ends Justify the Beans) [DVD]",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 98814,
+            "name": "The Kids in the Hall - Complete Season 1 (1989-1990)",
+            "price": 14.48,
+            "average_score": 12.5
+          },
+          {
+            "id": 99182,
+            "name": "Rex the Runt - The Complete Collection [DVD]",
+            "price": 27.95,
+            "average_score": 12.5
+          },
+          {
+            "id": 95526,
+            "name": "Mr. Bean The Animated Series, Vol. 5 - Grin & Bean It",
+            "price": 33.71,
+            "average_score": 10.0
+          },
+          {
+            "id": 96166,
+            "name": "LYNDA CARTER",
+            "price": null,
+            "average_score": 7.5
+          },
+          {
+            "id": 96702,
+            "name": "The Real Housewives of New York, Season 3",
+            "price": 21.99,
+            "average_score": 7.5
+          },
+          {
+            "id": 98172,
+            "name": "Dillon Episode #40",
+            "price": null,
+            "average_score": 7.5
+          },
+          {
+            "id": 98863,
+            "name": "It's a Living",
+            "price": 13.98,
+            "average_score": 7.5
+          }
+        ]
+      }
+    },
+    {
+      "episode": 4,
+      "category": "AA Batteries",
+      "persona_index": 9501,
+      "episode_in_category": 1,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 77361,
+        "chosen_score": 75.0,
+        "best_product_id": 79206,
+        "best_score": 95.0,
+        "regret": 20.0,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 1,
+        "feedback": "I appreciate the recommendation, but I was actually hoping to find some rechargeable AA batteries for my portable radio. I like to listen to jazz while gardening and would prefer something more sustainable for regular use.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "Are you looking for AA batteries with a specific brand or feature in mind?",
+          "I'm not particular about the brand, just need reliable ones for my remote control."
+        ]
+      ],
+      "product_info": {
+        "num_products": 29,
+        "products_with_scores": [
+          {
+            "id": 79206,
+            "name": "Eneloop Panasonic Pro Ni-MH AA Batteries BK-3HCCA8BA 1.2V 8pk Rechargeable & Advanced pro 4-Hour Quick Charger",
+            "price": 55.26,
+            "average_score": 95.0
+          },
+          {
+            "id": 81040,
+            "name": "Duracell Rechargeable AA NiMH Batteries, MIGNON/HR6/DC1500, 2450mAh, 8-Count Package",
+            "price": 27.03,
+            "average_score": 90.0
+          },
+          {
+            "id": 77643,
+            "name": "Amazon Basics 48 Count AA & AAA High-Performance Batteries Value Pack - 24 Double AA Batteries and 24 Triple AAA Batteries (48 Count)",
+            "price": 28.38,
+            "average_score": 85.0
+          },
+          {
+            "id": 81772,
+            "name": "Rechargeable AA Batteries, 2250mAh 16-Pack 1.2V NiMH Double A for Household Devices (Rechargeable 1200 Times,Precharged,Long-Lasting & Low-self Discharge New Material)",
+            "price": 23.99,
+            "average_score": 85.0
+          },
+          {
+            "id": 78484,
+            "name": "Amazon Basics Alkaline AAA Batteries 1.5V 100 Count & Alkaline AA Batteries 1.5V 100 Count Single Use",
+            "price": null,
+            "average_score": 82.5
+          },
+          {
+            "id": 80486,
+            "name": "Energizer AA Batteries Double A Max Alkaline Battery, 24 Count",
+            "price": 19.69,
+            "average_score": 82.5
+          },
+          {
+            "id": 80997,
+            "name": "Tanatare Rechargeable AA Batteries (4 Count) 2400mAh NiMH AA Recharegeable Batteries, High Capacity, Pre-charege",
+            "price": 7.99,
+            "average_score": 81.0
+          },
+          {
+            "id": 76967,
+            "name": "iMah HR6 AA Rechargeable Batteries Ni-MH 1.2V 1800mAh for Flashlight Remote Control Car Toys Clock, Also Compatible with Panasonic BK-3MCCA8BA BK-3HCCA8BA BK-3MCCA4BA BK-3HCCE4BE, 8-Pack",
+            "price": 15.95,
+            "average_score": 77.5
+          },
+          {
+            "id": 79515,
+            "name": "Type-C Rechargeable Batteries AA Lithium High Capacity 2600mWh AA Rechargeable Battery, Constant 1.5V Output, 1.5 Hours Quick Charge with Type C 4-in-1 Port Cable Pack of 4",
+            "price": null,
+            "average_score": 77.5
+          },
+          {
+            "id": 78323,
+            "name": "Tenergy AA Rechargeable NIMH Battery 2000mAh Pre-charged Household Battery Low Self Discharge High Performance AA Battery Pack for Remote Controller/Toys/Flashlight/Mice (16 PCS)",
+            "price": 22.99,
+            "average_score": 76.5
+          },
+          {
+            "id": 77361,
+            "name": "TEBANTY PKNOVA AA Batteries, 4-Count 1.5V Ultra Alkaline LR6 Batteries for Holiday Christmas Light, 380 Minutes Disposable Double A Battery for Clock,Toys",
+            "price": 4.99,
+            "average_score": 75.0
+          },
+          {
+            "id": 78059,
+            "name": "POWEROWL Solar Rechargeable AA Batteries 2800mAh, Wide Temperature Range Battery, Excellent Performance for Solar Garden Lights, Battery String Lights, Outdoor Devices - Recharge Universal (12 Count)",
+            "price": 21.99,
+            "average_score": 75.0
+          },
+          {
+            "id": 81140,
+            "name": "SEIVI 8 Bay AA AAA Battery Charger with Rechargeable AA Batteries (4 Pack 2800mah) and Rechargeable AAA Batteries (4 Pack 1000mah) - Ni-Mh Rechargeable Batteries (4AA + 4AAA + SN8)",
+            "price": null,
+            "average_score": 75.0
+          },
+          {
+            "id": 80022,
+            "name": "Dura cell Alkaline Battery- AA (4 in 1 Pack) (Pack of 1)",
+            "price": 13.65,
+            "average_score": 74.0
+          },
+          {
+            "id": 80098,
+            "name": "Bower XPB430 AA 4 Pack Rechargeable Battery 3000 maH",
+            "price": null,
+            "average_score": 67.5
+          },
+          {
+            "id": 76558,
+            "name": "Watson C Spacer Pack with 2 AA NiMH Batteries (1.2V, 2300mAh)",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 76933,
+            "name": "Xtech AA Ultra High-Capacity 3100mah Ni-MH Rechargeable Batteries (12 Pack)",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 77407,
+            "name": "Deleepow Rechargeable AA Lithium Batteries 3200mWh, 1500 Cycles 1.5V Constant Output Rechargeable Double A Li-ion Batteries 4 Count\uff0cwith USB LCD Display AA AAA 2 H Fast Charger",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 79293,
+            "name": "20-Pieces Size 1.2V AA(300/600/800mAh) Or AAA (600mAh/800mAh) and Ni-Cd/Ni-MH Rechargeable Battery for Solar Light and Solar Devices (1.2v AA 600mAh Ni-Cd)",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 79932,
+            "name": "100 AA Batteries Medium Duty 1.5v. 100 Pack Wholesale Bulk Lot New Fresh",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 81654,
+            "name": "AA NICD 1.2V 600mAh Rechatgeable Batteries for Solar Lamp,Garden Landscaping Lights(16-Pack)",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 78634,
+            "name": "Newhouse Lighting Rechargeable 1500mah NiMH AA Batteries Optimized for Solar Lights, 8 Count",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 78897,
+            "name": "8X Westinghouse 2/3 AA Ni-Mh Battery Batteries Rechargeable 1.2 V Volt 150 mAh Reusable Chargeable by JL Missouri Parts",
+            "price": 20.74,
+            "average_score": 55.0
+          },
+          {
+            "id": 77070,
+            "name": "HYPERPS (8-Pack) 1.2V AA 700mAh Ni-Cd NiCd Rechargeab\u200ble Battery for NiCd Solar Panel Light Lamp, RC Toy",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 78821,
+            "name": "HotEnergy Yellow Color AA NiCD Precharged Rechargeable Batteries, 600 mAh (8 x aa)",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 77945,
+            "name": "Cutelec 20Pairs Battery Springs AAA Battery Negative to Positive Conversion Spring Contact Nickle Plated 9x9mm",
+            "price": 6.99,
+            "average_score": 30.0
+          },
+          {
+            "id": 78989,
+            "name": "Duracell Size C 10 Coppertop Alkaline Batteries MN1400 Duralock",
+            "price": null,
+            "average_score": 30.0
+          },
+          {
+            "id": 80982,
+            "name": "LP USB Rechargeable AAA Batteries, 4-Pack Batteries with 1100mWh 1.5V Lithium Rechargeable Batteries AAA for Electronics,Game Controller, Mouse,Toy Cars",
+            "price": 21.99,
+            "average_score": 30.0
+          },
+          {
+            "id": 79171,
+            "name": "Genuine Mopar 5161544AA - Boot-Gearshift",
+            "price": 104.0,
+            "average_score": 10.0
+          }
+        ]
+      }
+    },
+    {
+      "episode": 5,
+      "category": "AC Adapters",
+      "persona_index": 9501,
+      "episode_in_category": 1,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 1241,
+        "chosen_score": 5.0,
+        "best_product_id": 1506,
+        "best_score": 82.5,
+        "regret": 77.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 1,
+        "feedback": "Well, that's quite off the mark, I'm afraid. I was actually hoping for a good book on Iowa's history or perhaps a new jazz record to enjoy while I tend to my garden.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "Are you looking for an AC adapter with a specific feature or price range in mind?",
+          "I'm looking for an AC adapter that's reliable and reasonably priced."
+        ]
+      ],
+      "product_info": {
+        "num_products": 133,
+        "products_with_scores": [
+          {
+            "id": 1506,
+            "name": "Omron AC Adapter HEM-ADPTW5",
+            "price": 29.99,
+            "average_score": 82.5
+          },
+          {
+            "id": 1562,
+            "name": "HQRP AC Adapter Compatible with Philips Norelco 422203623771 S9531 S9531/84 S9311 S9311/27 S9311/84 S9531/27 S8950 S5675 S5590 S5550 Shaver Power Cord Charger Adaptor + Cleaning Brush",
+            "price": 5.95,
+            "average_score": 60.0
+          },
+          {
+            "id": 67508,
+            "name": "HQRP 12V AC Adapter Compatible with Philips Respironics MW115RA1200N02 AA24750L AT000713 Remstar Pro M Ault + Adaptor Power Supply Cord + Euro Plug Adapter",
+            "price": 13.91,
+            "average_score": 55.0
+          },
+          {
+            "id": 69241,
+            "name": "Arkare Universal Power Supply 120W AC Adapter Adjustable Power Adapter 4.5V 5V 9V 12V 10A 8A 6A 5A 3A 1A AC/DC AC 100-240V to DC 4~12V Multi Voltage Switching with 15 Tips & Polarity Converter",
+            "price": 20.99,
+            "average_score": 42.5
+          },
+          {
+            "id": 70037,
+            "name": "UpBright 12V AC Adapter Compatible with HOIOTO Samsung ADS-36NP-12-2 ADS-65LSI-12-1 12036G 12042G 12048G ADS-45FSI-12 12040GPCU ADS-45NP-12-1 12045G Honor Buffalo LinkStation 220 LS220D0202 LS220D0402",
+            "price": 20.99,
+            "average_score": 41.0
+          },
+          {
+            "id": 69151,
+            "name": "HQRP AC Adapter for Yamaha PSR-GX76 / PSRGX76 / YPT-210 Keyboard Replacement Power Supply Cord [UL Listed] plus HQRP Euro Plug Adapter",
+            "price": 7.91,
+            "average_score": 40.0
+          },
+          {
+            "id": 70139,
+            "name": "UpBright 2-Prong 29V AC Adapter Compatible with Southern Motion FS2900-2000 FS29002000 SPS-2A29VDC-03-WM-SM Sofa Recliner Lift Chair Couch Tranquil Ease Raffel SPS-2A29VDC-PR CL2902-A CL2902A 2A Power",
+            "price": 24.45,
+            "average_score": 40.0
+          },
+          {
+            "id": 68179,
+            "name": "OMNIHIL AC Power Cord Compatible with Samsung HD 4K LCD LED TVs 2014 Series",
+            "price": 8.96,
+            "average_score": 37.5
+          },
+          {
+            "id": 68253,
+            "name": "Accessory USA AC Adapter for Epson Perfection V200 V300 V350 Photo Scanner Power Supply PSU",
+            "price": 9.86,
+            "average_score": 37.5
+          },
+          {
+            "id": 69324,
+            "name": "UpBright 24V AC/DC Adapter Compatible with Vizio VSB200 NA VSB205 VSB210 VSB206 B VSB207 VHT210 VHT215 VHT510 SB4021-MA1 SB4020E SoundBar Speaker YJS05-2402500D Ktec KSAS0652400270 2.5A Power Supply",
+            "price": 16.54,
+            "average_score": 37.5
+          },
+          {
+            "id": 69545,
+            "name": "[UL Listed] Replacement AC Adapter Charger Compatible OneTouch Verio IQ Blood Glucose Monitoring System Meter with 5Ft Power Supply Cord",
+            "price": 10.99,
+            "average_score": 37.5
+          },
+          {
+            "id": 69617,
+            "name": "19.5V TV Adapter Charger Replacement Power Cord Supply for So-ny Bravia TV KDL-32 KDL-40 W600B W650A W674A W700B KDL-48W600B KDL-42W650A KDL-40W600B KDL-32W700B KDL-40R510C KDL-48R510C Smart LED LCD",
+            "price": 19.88,
+            "average_score": 37.5
+          },
+          {
+            "id": 71029,
+            "name": "Belker 12W Universal 3V 4.5V 5V 6V 7.5V 9V 12V AC DC Adapter Power Supply for Household Electronics Router Speaker Smart Phone Tablet CCTV IP Camera - 1A 1000mA Amp Max.",
+            "price": 13.9,
+            "average_score": 37.5
+          },
+          {
+            "id": 68288,
+            "name": "[UL Listed] OMNIHIL 8 Feet Long AC/DC Adapter Compatible with Xfinity Box XG2v2-P Pace PX022ANM",
+            "price": 12.96,
+            "average_score": 35.0
+          },
+          {
+            "id": 69165,
+            "name": "ABLEGRID AC/DC Adapter for RadioShack PRO-651 Radio Shack Digital Trunking Handheld Radio Scanner Power Supply Cord",
+            "price": 8.58,
+            "average_score": 35.0
+          },
+          {
+            "id": 69183,
+            "name": "HKY 19V AC Adapter Charger for Samsung HW-K360 HW-K850 HW-K950 HW-M4500 HW-M4501 HW-M4510 HW-M4511 HW-K360/ZA HW-M360 HW-KM36 HW-KM36C HW-K370 HW-K370/ZA HW-KM37 HW-KM37C Soundbar Power Supply Cord",
+            "price": 18.99,
+            "average_score": 35.0
+          },
+          {
+            "id": 69625,
+            "name": "HQRP 14V AC Adapter Compatible with Samsung SyncMaster S24E510C S27D590 S27D590C S27D590CS S19B300N S19B300B TFT LCD Monitor Power Supply Cord Adaptor Sync-Master",
+            "price": 9.91,
+            "average_score": 35.0
+          },
+          {
+            "id": 67347,
+            "name": "5V 3A Power Supply by MakerSpot with Switch 2.5A 2A 1.5A 1A Fast Charge AC Adapter w/ 1.5m Extra Long On Off Power Switch Micro USB Cable for Raspberry Pi 3 Model B/B+ Plus (4 Pack)",
+            "price": null,
+            "average_score": 32.5
+          },
+          {
+            "id": 68559,
+            "name": "UpBright 15.3V AC/DC Adapter Compatible with Black & Decker SS12 C SS12C SS12CR HPB12 Ni-Cad Rechargeable Battery B&D BD 12-Volt Cordless Drill Driver 90532614 T12085D 16.5VAC Power Supply Charger PSU",
+            "price": 17.85,
+            "average_score": 32.5
+          },
+          {
+            "id": 69275,
+            "name": "Accessory USA AC Adapter Charger for Altec Lansing ACS41 Multimedia Computer Speaker Power PSU",
+            "price": 9.99,
+            "average_score": 32.5
+          },
+          {
+            "id": 69546,
+            "name": "[UL Listed] OMNIHIL 8 Feet Long AC/DC Adapter Compatible with Campark Trail Game Camera Model: T45",
+            "price": 10.96,
+            "average_score": 32.5
+          },
+          {
+            "id": 69737,
+            "name": "Accessory USA AC DC Adapter for Rally 7471 Portable 8 in 1 Power Source Jump Starter Power Supply Cord",
+            "price": 17.53,
+            "average_score": 32.5
+          },
+          {
+            "id": 69807,
+            "name": "UpBright 4-Pin 12V AC/DC Adapter Compatible with Philips Magnavox 17MD255V/17 17MD255V 17MD255/17 Widescreen 17\" DVD Player HGPOWER ADPV 20 ADPV20 Finecom DC12V 4A-5A 60W Power Supply Battery Charger",
+            "price": 12.99,
+            "average_score": 32.5
+          },
+          {
+            "id": 70084,
+            "name": "SapplySource AC/DC Power Supply Adapter Charger for CenturyLink ZyXEL C3000Z Modem/Router",
+            "price": 13.45,
+            "average_score": 32.5
+          },
+          {
+            "id": 70760,
+            "name": "24V AC Charger Fit for Samsung HW-Q6CT HW-Q67CT HW-T60C HW-T60M HW-T510 HW-T550 HW-S40T HW-R60M HW-T45C Q T Series Soundbar Power Supply Adapter Cord",
+            "price": 24.99,
+            "average_score": 32.5
+          },
+          {
+            "id": 67520,
+            "name": "Hiseeu 12V 1A Power Supply, AC 100-240V to DC 12V 1A 1000mA Power Adapter, 5.5 x 2.1mm, 10 Feet Power Cord, FCC, Power Supply for Security Cameras, Routers, LED Strip Lights, Home Appliances, Scanner",
+            "price": 11.99,
+            "average_score": 30.0
+          },
+          {
+            "id": 68320,
+            "name": "Omnihil AC/DC Power Adapter Compatible with Vtech S005IU0600040 26-360040-4UL-100 TenPao Cable PS Wall Home Charger",
+            "price": 11.96,
+            "average_score": 30.0
+          },
+          {
+            "id": 68673,
+            "name": "PK Power AC/DC Adapter for Uniden BC365CRS 500 Channel Clock/FM Radio Scanner Power Supply Cord Cable PS Wall Charger Mains PSU",
+            "price": 15.89,
+            "average_score": 30.0
+          },
+          {
+            "id": 71173,
+            "name": "UpBright 5V 1A AC/DC Adapter Compatible with Sennheiser RS170 HDR170 RS180 TX180 HDR180 RS 170 RS 180 TX-180 HDR 180 HDR 170 Wireless Headphone TR170 TR180 TR 170 TR 180 Base Dock Power Supply Charger",
+            "price": 9.99,
+            "average_score": 30.0
+          },
+          {
+            "id": 67078,
+            "name": "12 Volt 2 Amp Power Supply 24W 12Volt 2Amp AC Adapter 100-240V 50-60Hz AC to DC 12V 2A Power Adapter with 5.5mm x 2.1mm 2.5mm DC Tip & 1 Female Terminal for LED Strip Light CCTV Camera Routers etc.",
+            "price": 10.19,
+            "average_score": 27.5
+          },
+          {
+            "id": 68712,
+            "name": "Generic Compatible Replacement Worldwide 12V 2A 2000MAH 24W Switching Series AC DC Adapter Power Cord Power Adapter Charger Wire Compatible Parts Barrel Tip 4.0mm x 1.5mm 4.0 1.5",
+            "price": 6.98,
+            "average_score": 27.5
+          },
+          {
+            "id": 69473,
+            "name": "UpBright 7.5V AC/DC Adapter Compatible with Vision Fitness Elliptical Trainer X6200 0812EPC100100914 X6200HRC 48-075-1000 R2200 R2100 RB18 RB42 RB58 R2200HRT MRB43 RB105 RB54D R21005 22HRC Charger PSU",
+            "price": 15.95,
+            "average_score": 27.5
+          },
+          {
+            "id": 69739,
+            "name": "UpBright 9V AC/DC Adapter Replacement for Uniden AD-1010 AD-310 AD-420 PS-0007 AD-0005 U090021D12 Telephone TCX905 TCX930 DCX640 DCX64D DCX750 Handset Cradle Ameriphone 930 D9300 9VDC 210mA 350mA",
+            "price": 8.85,
+            "average_score": 27.5
+          },
+          {
+            "id": 70415,
+            "name": "T-Power 5V 12V 4-PIN Adapter for LACIE Models 706479 710199 800040 ACU034A-0512 ACML-51 710200 ACU057A-0512 Sunfone Hard Disk Drive HDD HD Power Supply",
+            "price": 19.99,
+            "average_score": 26.0
+          },
+          {
+            "id": 67040,
+            "name": "15W AC Charger Fit for Google Nest Hub, Home hub, Nest Hub (2nd Gen) ga01331-us W18-015N1A Power Supply Adapter Cord",
+            "price": 12.99,
+            "average_score": 25.0
+          },
+          {
+            "id": 67530,
+            "name": "30W AC Charger Adapter Fit for Google-Nest-Hub-Max Power Supply Cord (Not Fit Nest Hub/Home Hub)",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 69191,
+            "name": "Uniq-bty DC Vehicle Battery Adapter Car Charger for Model GT-CP12000200-302 Power Supply Cord",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 69317,
+            "name": "KHOI1971 \u00ae Wall Charger Adapter + USB Cable Cord for Kodak PIXPRO AZ521 AZ522 Digital Camera",
+            "price": 12.94,
+            "average_score": 25.0
+          },
+          {
+            "id": 69706,
+            "name": "OMNIHIL AC Power Cord Compatible with Marshall STANMORE Brown Speaker",
+            "price": 8.96,
+            "average_score": 25.0
+          },
+          {
+            "id": 67876,
+            "name": "NorthPada 9V 2A Power Supply Cord Adapter for Brother P-Touch PT-D210 PTD 210 PT-D200VP PTH110 PT-1890 Label Maker, Dymo Colorpop LabelManager LM-160 LM-500TS",
+            "price": null,
+            "average_score": 22.5
+          },
+          {
+            "id": 68528,
+            "name": "AC Adapter for Primera LX400 LX 800 LX810 LX900 Color Label Printer Power Supply",
+            "price": 11.25,
+            "average_score": 22.5
+          },
+          {
+            "id": 69347,
+            "name": "Ac Adapter / Power Supply For AOC LM520 LM720 LM729 LM800 LM914 Lcd Monitor",
+            "price": null,
+            "average_score": 22.5
+          },
+          {
+            "id": 70616,
+            "name": "HQRP AC Adapter Compatible with Brookstone DUL25AF-090200 DUL25AF090200 Speaker Adaptor Power Supply Cord [UL Listed] + Euro Plug Adapter",
+            "price": 9.91,
+            "average_score": 22.5
+          },
+          {
+            "id": 71001,
+            "name": "T-Power car Charger for 12V Midland WR300 WR-300 75-785 75785 40-Channel & WR-10 WR10 Hazard Alert Weather Radio Replacement Power Supply Cord",
+            "price": 13.99,
+            "average_score": 22.5
+          },
+          {
+            "id": 71285,
+            "name": "12V Power Supply Cord for Sceptre AOC Dell Monitor Power Cable, 12V 5A AC/DC Adapter Charger Sceptre 19\" 20\" 22\" 24\" 25\" 27\" 30\" 32\" Series LED Supersonic Monitor Charger",
+            "price": 13.89,
+            "average_score": 22.5
+          },
+          {
+            "id": 71726,
+            "name": "AC Adapter Charger for EVOO EV-C-116-1 Chrome OS Chromebook PC SAW30-120-2000U DC Power Supply Cord Cable, 5 Feet, with LED Indicator, Compatible Replacement",
+            "price": 12.09,
+            "average_score": 21.0
+          },
+          {
+            "id": 66549,
+            "name": "Digipartspower +16V + 32V AC DC Adapter for HP Photosmart 2575 2575V 2575xi Q3020A 5550v All-in-One Printer Scanner Copier Power Supply Cord Cable Charger",
+            "price": 17.85,
+            "average_score": 20.0
+          },
+          {
+            "id": 68237,
+            "name": "UpBright 15V AC/DC Adapter Compatible with Whisker Litter-Robot 3 Open Air Self Cleaning Cat Litter Box 15VDC Power Supply Cord Cable Battery Charger",
+            "price": 10.45,
+            "average_score": 20.0
+          },
+          {
+            "id": 68529,
+            "name": "AC Adapter Compatible Replacement for Shark CH951 14, CH95114 (NOT fit Other Models) UltraCyclone Pet Pro+ Plus Vacuum Vac Cleaner Wall DC Power Supply Charger Cord Cable Adaptor, 5 Feet",
+            "price": 18.94,
+            "average_score": 20.0
+          },
+          {
+            "id": 68792,
+            "name": "HKY 6.25V 16W AC DC Adapter Compatible with Fire TV CL1130,Digital HD Streaming Media Player Fire TV Box 1st Generation Power Supply Switching Charger Plug Cord",
+            "price": 10.99,
+            "average_score": 20.0
+          },
+          {
+            "id": 70562,
+            "name": "Accessory USA 24V AC DC Adapter for Pulse Performance Super C Super-C 161931 163228 Electric Scooter 24 Volt Power Supply Cord (w/Barrel Tip.)",
+            "price": 23.89,
+            "average_score": 20.0
+          },
+          {
+            "id": 70992,
+            "name": "UpBright 18V AC/DC Adapter Compatible with Insignia NS-SB316 NSSB316 NS-HSB318 NSHSB318 2.0-Channel Soundbar Home Theater Speaker 18VDC 2500mA 18.0V 2.5A Power Supply Cord Cable Battery Charger PSU",
+            "price": 10.54,
+            "average_score": 20.0
+          },
+          {
+            "id": 71694,
+            "name": "UpBright 9V AC/DC Adapter Compatible with Donner Mini Pedal Looper Twin Series Ultimate Delay Effects Extreme Driver Tube Dumbal Blues Drive Overdrive Mod Square Guitar Effect DC-9V 9VDC Power Supply",
+            "price": 9.99,
+            "average_score": 20.0
+          },
+          {
+            "id": 70144,
+            "name": "MyVolts 5V Power Supply Adaptor Compatible with/Replacement for Leapfrog Zippity Dance System - US Plug",
+            "price": 18.99,
+            "average_score": 19.0
+          },
+          {
+            "id": 1044,
+            "name": "2A AC Wall Power Charger Adapter Cord for JVC Everio GZ-EX310/AU/S GZ-EX310/BU/S",
+            "price": 9.99,
+            "average_score": 17.5
+          },
+          {
+            "id": 1259,
+            "name": "8 Feet Omnihil AC /DC Power Adapter 18V 1A (1000mA) 5.5x2.5millimeters Compatible with ECOVAC S DEEBOT N79 Robotic VAC uum Cleaner",
+            "price": 11.96,
+            "average_score": 17.5
+          },
+          {
+            "id": 67171,
+            "name": "T POWER Ac dc Adapter for DigiTech JML2 JamMan Stereo Looper Sampler Pedal Replacement Switching Power Supply Cord Charger",
+            "price": 19.99,
+            "average_score": 17.5
+          },
+          {
+            "id": 67796,
+            "name": "T-Power AC Adapter USB Cord for Fujifilm Instax Share Smartphone Printer SP-1 SP1 Instax R Share AC-5VX BKA-AC5VN AC-5VS, AC-5VC, AC-5VN, AC-5VW, AC-5V,AC-5VH, AC-5VHS, AC-5VX, 600005538",
+            "price": 11.99,
+            "average_score": 17.5
+          },
+          {
+            "id": 68631,
+            "name": "UpBright 12V AC/DC Adapter Compatible with Seagate Business Storage 1-Bay NAS SRN01D P/N 1BV5N1-570 2TB 1BV5N3-570 1BV5P2-500 4TB 3TB Hard Disk Drive HDD HD 12VDC 3A 36W DC12V 12.0V Power Supply Cord",
+            "price": 14.99,
+            "average_score": 17.5
+          },
+          {
+            "id": 70523,
+            "name": "UpBright 12V AC Adapter Compatible with Icom IC-A6 IC-A24E IC-A23 IC-W32A IC-R10 IC-T7H IC-T70A IC-T81A IC-T90A IC-91A IC-T8A BC-110A AEC-4112D IC-2SAT IC-3SAT IC-A3 IC-31 IC-51 IC-446S IC-40S IC-T22A",
+            "price": 8.54,
+            "average_score": 17.5
+          },
+          {
+            "id": 70902,
+            "name": "OMNIHIL AC/DC Power Adapter Compatible with LAC ie Grand Hard Disk Switching Cable PS",
+            "price": 12.96,
+            "average_score": 17.5
+          },
+          {
+            "id": 71655,
+            "name": "MTYTOT 9V DC 2A Power Supply 100-240V AC to 9Volt DC 2000mA Switching Supply Power Adapter 5.5 X2.5mm US Plug AC Adapter Transformer Wall Adapter",
+            "price": null,
+            "average_score": 16.5
+          },
+          {
+            "id": 71592,
+            "name": "Aprelco UL Listed AC-DC Adapter Charger Replacement for CY48-0901500 Chen Yow Transformer Switching Transformer Power Supply Cord Mains PSU AC110-240V",
+            "price": 12.99,
+            "average_score": 16.0
+          },
+          {
+            "id": 1004,
+            "name": "UpBright 4-Pin AC/DC Adapter for D-Link DNS-321 DNS-326 DNS-323 DNS-726-4 DNS-722-4 DLink DNS321 DNS326 DNS323 DNS726 4 DNS722 4 2-Bay Network Storage NAS Enclosure HDD HD 5V 3A 12V 3A Power Supply",
+            "price": 18.85,
+            "average_score": 15.0
+          },
+          {
+            "id": 1094,
+            "name": "Accessory USA AC DC Adapter for Five S FS8812 Fives Five Star 10-Motor Massage Seat Cushion with Heat Home Wall Charger Power Supply Cord Cable",
+            "price": 15.89,
+            "average_score": 15.0
+          },
+          {
+            "id": 1220,
+            "name": "T POWER Charger for Stanley Fatmax SL10LEDSL SL10LEDL SL1M09 SL5W09 10 Watt Li-ION LED Rechargeable Spotlight Ac Dc Adapter Power Supply",
+            "price": 11.99,
+            "average_score": 15.0
+          },
+          {
+            "id": 1273,
+            "name": "MaxLLTo\u00ae USB AC Power Adapter Battery Charger Cord for Sony Cybershot DSC-W810",
+            "price": 10.98,
+            "average_score": 15.0
+          },
+          {
+            "id": 1438,
+            "name": "Accessory USA 17V DC 1AMP AC DC Adapter for DieHard 1150 Platinum Portable Power 28.71988. 0898004269-1 2871988. 08980042691 Die Hard 12V JumpStart Starter Battery 17VDC - 18VDC 1A Power Supply Cord",
+            "price": 13.46,
+            "average_score": 15.0
+          },
+          {
+            "id": 66733,
+            "name": "Accessory USA AC DC Adapter for LG Electronics ND8630 AirPlay Dock Speaker Power Supply Cord",
+            "price": 23.89,
+            "average_score": 15.0
+          },
+          {
+            "id": 66963,
+            "name": "UpBright AC DC Adapter Compatible with Milanix MX7 MX7U 7\" MX8 8\" MX12 12.1\" MX13 13.3\" MX14 14.1\" Portable Rechargeable ATSC Widescreen Digital LED Television TV Power Supply Cord Battery Charger PSU",
+            "price": 19.99,
+            "average_score": 15.0
+          },
+          {
+            "id": 67388,
+            "name": "HQRP AC Adapter Compatible with PROFORM 22.0 Crosstrainer Elliptical Exerciser PFEL78060 PFEL78061 Power Supply Cord [UL Listed] + Euro Plug Adapter",
+            "price": 8.91,
+            "average_score": 15.0
+          },
+          {
+            "id": 67663,
+            "name": "Accessory USA AC Adapter for Nordic Track Pro-Form 14730 Elliptical Power Supply Cord",
+            "price": 8.99,
+            "average_score": 15.0
+          },
+          {
+            "id": 67697,
+            "name": "DC12V 2A Power Supply Adapter for DC 12V 3528/5050 LED Light Strip, AMARS AC 100-240V to DC 12V Transformers Power Supply Adaptor, 12 Volt 2 Amp Power Adaptor, 2.1mm 5.5mm US Plug, 24W Max",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 68259,
+            "name": "UpBright NEW AC/DC Adapter For Shenzhen Fujia FJ-SW1201000U Switching Power Supply Cord Cable PS Wall Home Charger Input: 100 - 240 VAC 50/60Hz Worldwide Voltage Use Mains PSU",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 68423,
+            "name": "Power Cord Ac Adapter Charger For Logitech Harmony Link System & Logitech PS3 Adapter",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 68470,
+            "name": "RocketBus 12V DC 2.5A Replacement AC Wall Charger Power Supply Adapter for 12 Volt DC DVR Recorder Surveillance Security Camera System",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 68955,
+            "name": "Lenink Adjustable AC Power Supply Adapter Kit for AA Battery, Replace 2AA, 3AA, 4AA, 6AA, 8AA Battery for LED Light, Decorations, Thermostat, Power Garbage Can",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 69080,
+            "name": "ANS ANiceSeller Replacement 2A Vehicle Battery Adapter for Philips LY-02 Dual Screen DVD Player Car Charger",
+            "price": 11.99,
+            "average_score": 15.0
+          },
+          {
+            "id": 69395,
+            "name": "UpBright 2-Pin AC in Power Cord Cable Plug Compatible with Sony CFD-50 CFD50 Digital CD Radio Stereo Cassette Player DPP-EX5 DPP-EX7 DPP-SV55 DPP-SV77 Photo Thermal Printer CMT-BT60 Bluetooth Speaker",
+            "price": 6.89,
+            "average_score": 15.0
+          },
+          {
+            "id": 70322,
+            "name": "OMNIHIL High Speed 2.0 USB Data Cable Compatible with Canon PIXMA MP, MX, MG, E Pro Series Printers",
+            "price": 11.96,
+            "average_score": 15.0
+          },
+          {
+            "id": 70792,
+            "name": "PK Power AC/DC Adapter for RadioShack Pro-433 CAT. NO. 20-433 Radio Shack Radio Scanner Power Supply Cord Cable PS Wall Home Charger Mains PSU",
+            "price": 14.89,
+            "average_score": 15.0
+          },
+          {
+            "id": 70795,
+            "name": "Power Adapter Supply 9V DC 1A For Guitar Effect Pedal With Cable 5 Way Daisy Chain Cord",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 71525,
+            "name": "TKDY 12V Power Cord for Peloton Exercise Bike, 12 Volt 4.17A AC Adapter Compatible with Peloton ATS050TP121 PLTN-RB1VO Charger Power Supply Replacement.",
+            "price": 20.99,
+            "average_score": 15.0
+          },
+          {
+            "id": 71848,
+            "name": "UpBright\u00a8 New AC Power Cord Replacement for AKAI MPC1000 MPC2000 MPC2000XL MPC2500 MPC3000 MPC4000 MPC5000 Music MIDI Center Machine Number Z-8 S5000 Professional Sampler Audio Manual Roland JV-2080",
+            "price": 4.99,
+            "average_score": 15.0
+          },
+          {
+            "id": 1025,
+            "name": "T-Power 12V Car cigarette plug Charger for RCA , Pyle , DBPOWER , Sylvania, Synagy, Apeman, Craig, COOAU, Dynex, Impecca, Magnavox , UEME Portable Dvd Player Power Supply",
+            "price": 9.99,
+            "average_score": 12.5
+          },
+          {
+            "id": 1169,
+            "name": "UpBright AC/DC Adapter Compatible with Drobo 4-Bay FireWire 800 FW800 SATA Data Robotics DR04DU10 04DD1-10EARS-4 DAS HD DR-P400-2P11 Gen 1 Generation 1 1st Storage Array 4HD 12V 6.6A-7A 80W HIGH POWER",
+            "price": 14.99,
+            "average_score": 12.5
+          },
+          {
+            "id": 1170,
+            "name": "Premium Tech Professional Travel Battery Charger for Nikon EN-EL14 Battery",
+            "price": 7.65,
+            "average_score": 12.5
+          },
+          {
+            "id": 1209,
+            "name": "Accessory USA AC Adapter Charger for TECSUN FM/AM/SW PL-300wt R-9700DX BCL-3000 S-2000 GREEN-88 GREEN-168 GREEN-138 Hand Crank Rechargeable Radio Power Supply",
+            "price": 13.99,
+            "average_score": 12.5
+          },
+          {
+            "id": 1347,
+            "name": "T-Power 24V Charger for Dymo LabelWriter Turbo Printer 310 315 320 330 400 450 450 Turbo,Duo Twin Turbo Printer p,n: 1752266 1752264 1755120 LabelWriter 4XL Printer Ac Dc Adapter Power Supply",
+            "price": 16.99,
+            "average_score": 12.5
+          },
+          {
+            "id": 1516,
+            "name": "UpBright 18V AC/DC Adapter Compatible with Harman Kardon Go + Play Go&Play Portable Speaker Docking Station System Boombox H/K S60-180333-WH01 18VDC 3.3A 3.33A DC18V 18.0V Power Supply Cord Charger",
+            "price": 12.99,
+            "average_score": 12.5
+          },
+          {
+            "id": 68099,
+            "name": "QKKE 18V 1A AC/AC Adaptor Power Supply for YL-48-1801000A Alto Mixer ZMX122 8 Channel",
+            "price": 11.99,
+            "average_score": 12.5
+          },
+          {
+            "id": 68793,
+            "name": "MyVolts 5V Power Supply Adaptor Compatible with/Replacement for LaCie Rug FWSA 320GB External Hard Drive - US Plug",
+            "price": 18.99,
+            "average_score": 12.5
+          },
+          {
+            "id": 69056,
+            "name": "Accessory USA AC DC Adapter Replacement for SENNHEISER DW Office Runner OfficeRunner Wireless Headset OR BS US Orbs-US Art. No: 504381 Power Supply Cord Cable Wall Home Charger",
+            "price": 22.98,
+            "average_score": 12.5
+          },
+          {
+            "id": 69306,
+            "name": "Generic Compatible Replacement AC Adapter Charger for Philips SPF3400C G7 Digital Photo Frame Power Cord Charger",
+            "price": 8.47,
+            "average_score": 12.5
+          },
+          {
+            "id": 70016,
+            "name": "Digipartspower USB PC Computer Data Sync Cable Cord Lead for Nikon Coolpix L610 L 610 Camera",
+            "price": 8.85,
+            "average_score": 12.5
+          },
+          {
+            "id": 70352,
+            "name": "PwrON 6.6FT Extra Long 12V AC to DC Adapter for JBL Flip Wireless Loudspeaker Bluetooth Speaker JBLFLIP 12VDC 1.5A - 2A Power Supply Cord",
+            "price": 15.3,
+            "average_score": 12.5
+          },
+          {
+            "id": 70887,
+            "name": "AT LCC AC Power Adapter Charger for JBL Xtreme Splashproof Wireless Speaker",
+            "price": null,
+            "average_score": 12.5
+          },
+          {
+            "id": 71064,
+            "name": "PPJ 19V AC/DC Adapter Replacement for Samsung Galaxy View SM-T670 SM-T670N SM-T677V NT900X5L NT900X5L-K24P NT910S3K NT910S3K-K38W Tablet PC CE0890 SMT670 19VDC Power Supply Cord Battery Charger",
+            "price": 8.47,
+            "average_score": 12.5
+          },
+          {
+            "id": 1040,
+            "name": "T-Power Car AUTO Charger for WesternDigital WD TV Live Center Streaming Media Player Western Digital WDBHG70000NBK-HESN Model Number: WD00AVN, WDAVN00B, WD00AVN, WDAVN00B, WD00AVP,WDAVP00B",
+            "price": 12.99,
+            "average_score": 10.0
+          },
+          {
+            "id": 1117,
+            "name": "Lightkiwi N9418 6 Watt Power Supply for Modular LED Under Cabinet Lighting (White)",
+            "price": 12.99,
+            "average_score": 10.0
+          },
+          {
+            "id": 1133,
+            "name": "HQRP 20V AC Adapter Compatible with Logitech Wingman Formula Force Game Steering Wheel Racing, Force Joystick J-UA9 Power Supply Cord Adaptor 190010-0000 + Euro Plug Adapter",
+            "price": 10.91,
+            "average_score": 10.0
+          },
+          {
+            "id": 1360,
+            "name": "Accessory USA AC DC Adapter for iHome iP90 iP90BK iP90BZ iP90SK iP90SIL iP90SZ iP90BZC iP90SZC Clock Radio Power Supply Cord",
+            "price": 11.89,
+            "average_score": 10.0
+          },
+          {
+            "id": 1416,
+            "name": "PK Power AC/DC Adapter for CS Model: CS-1203000 Power Supply Cord Cable PS Charger Input: 100-240 VAC 50/60Hz Worldwide Voltage Use Mains PSU\u2026",
+            "price": 11.89,
+            "average_score": 10.0
+          },
+          {
+            "id": 1445,
+            "name": "UpBright New Global 7.5V AC/DC Adapter Replacement for Doctor Who Tardis USB Hub DR115 7.5VDC Power Supply Cord Cable PS Wall Home Charger Mains PSU",
+            "price": 9.99,
+            "average_score": 10.0
+          },
+          {
+            "id": 1494,
+            "name": "HQRP Battery Charger/AC Adapter Works with DT Systems EDT Series, EDT-100 EDT-102 EDT-200 EDT-202 EDT-300 EDT-302 KA12D120030033U RAPT-1450 Electronic Dog Trainer + Euro Plug Adapter",
+            "price": 14.95,
+            "average_score": 10.0
+          },
+          {
+            "id": 1556,
+            "name": "Generic Compatible Replacement AC Adapter Charger for Sony RDP XF300iP iPod iPhone Speaker Dock DC Power Cord Charger",
+            "price": 14.99,
+            "average_score": 10.0
+          },
+          {
+            "id": 66630,
+            "name": "SLLEA AC/DC Adapter for LG Flatron W2286L W2286LV W2286L-PF 22 Widescreen LCD Monitor Power Supply Cord Wall Home Charger PSU",
+            "price": 18.89,
+            "average_score": 10.0
+          },
+          {
+            "id": 67578,
+            "name": "Power Wheels 6 Volt Charger for 00801-0712 RED 6v Battery Genuine Fisher Price",
+            "price": 29.99,
+            "average_score": 10.0
+          },
+          {
+            "id": 67603,
+            "name": "Samsung AD44-00151A ADAPTOR;AA-MA9/XAA,A",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 71063,
+            "name": "PK Power AC/DC Adapter for Swingline Portable Electrics Battery Powered Tapler Model# 48200 SWI48200 S7048200A Power Supply Cord Cable PS Wall Home Charger Mains PSU",
+            "price": 18.89,
+            "average_score": 10.0
+          },
+          {
+            "id": 71430,
+            "name": "BENSN Power Adapter Charger",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 71748,
+            "name": "UpBright 3.3V AC/DC Adapter Compatible with Brookstone L.T.E. LTE12W-S0 LTE12WS0 LTE12W-SO LTE12WSO Brook Stone LTE Li Tone Electronics 3.3VDC 2A 6.6W I.T.E. Power Supply Cord Battery Charger PSU",
+            "price": 12.99,
+            "average_score": 10.0
+          },
+          {
+            "id": 72018,
+            "name": "UpBright 26V AC Adapter Compatible with TINECO A10 VA101000US Dash A11 VA112000US Hero EX Tango Master Stick Vacuum Cleaner Vac DC 21.6V Battery YLS0241A-T260080 DSC550-260070W-1 Power Supply Charger",
+            "price": 12.89,
+            "average_score": 9.0
+          },
+          {
+            "id": 1046,
+            "name": "AC Power Adapter Works with Sony DVDirect VRD-MC10 VRDMC10 DVD Recorder Power Payless",
+            "price": 39.99,
+            "average_score": 7.5
+          },
+          {
+            "id": 1288,
+            "name": "PK Power Ac Power Adapter Cord for GPX Bd707b Ip908b Pd701w Pd711b Pd730 Pd808 Pd818 Pd7711b Pd901w Pd931 Pd951bu Pd951r Portable DVD Players",
+            "price": 6.9,
+            "average_score": 7.5
+          },
+          {
+            "id": 1383,
+            "name": "UpBright 12V AC/DC Adapter Replacement for AT&T Cisco 3G Microcell Wireless DPH151-AT DPH151AT 4035800 ATT Signal Booster Netgear 332-10114-01 & AD661F 12VDC Power Supply Cord Battery Charger PSU",
+            "price": 8.99,
+            "average_score": 7.5
+          },
+          {
+            "id": 67174,
+            "name": "SLLEA Universal 3.7v Battery Charger for Nintendo DS XL 3DS SPR 003 SPR-003 Official",
+            "price": 5.99,
+            "average_score": 7.5
+          },
+          {
+            "id": 68862,
+            "name": "T-Power Charger for Rocketfish 4 Port HDMI Switch Selector RF-G1185 Replacement Ac Dc Adapter Power Supply",
+            "price": 18.49,
+            "average_score": 7.5
+          },
+          {
+            "id": 68975,
+            "name": "4650mAh Extended Life Battery Thicker Back Cover for Virgin HTC EVO V 4G Anroid Phone",
+            "price": 95.88,
+            "average_score": 7.5
+          },
+          {
+            "id": 70858,
+            "name": "Adaptiv A-05-02 TPX Quick-Release Mount Plate",
+            "price": 19.0,
+            "average_score": 7.5
+          },
+          {
+            "id": 70880,
+            "name": "Power Supply 24V",
+            "price": null,
+            "average_score": 7.5
+          },
+          {
+            "id": 71141,
+            "name": "GMJYC 5V 10A 50W Adapter, 100-240V AC to DC 5volt 8.5A 8A 6A Power Supply with 5.5x2.5mm Tip for Christmas Lights, WS2811 WS2812B Pixels Strip Lights, Raspberry Pi, CCTV, Speakers, Routers, 7.5ft Cord",
+            "price": null,
+            "average_score": 7.5
+          },
+          {
+            "id": 71986,
+            "name": "QKKE 18V AC Adapter for PetSafe PAL00-14243 ScoopFree Cat Litter Box Power Cord Cable",
+            "price": 5.99,
+            "average_score": 7.5
+          },
+          {
+            "id": 1241,
+            "name": "Replacement Power Supply/AC Adapter for Korg Electribe Products: EA-1, ER-1, EM-1, ES-1 and all MKII/MK2 versions of those models (Aftermarket)91",
+            "price": 3.39,
+            "average_score": 5.0
+          },
+          {
+            "id": 1327,
+            "name": "Power Payless Compatible with 18V AC Power Adapter Works with ALTEC Lansing T612 Speaker",
+            "price": 43.59,
+            "average_score": 5.0
+          },
+          {
+            "id": 1363,
+            "name": "Generic Compatible Replacement AC Adapter Charger for Foscam FI8918W FI8908W FI8909W WiFi IP Cam Power Supply Charger",
+            "price": 6.46,
+            "average_score": 5.0
+          },
+          {
+            "id": 1458,
+            "name": "UpBright AC/DC Adapter Compatible with 6V KT1227WM Pacific Cycle Disney Princess Minnie Mouse Power KT1192 KT1200WM KT1268WM KT1378WM KT1472 KT1219WM KT1198WM Ride on Toy ATV Quad 6VDC Battery Charger",
+            "price": 8.99,
+            "average_score": 5.0
+          },
+          {
+            "id": 68933,
+            "name": "T POWER 6.6ft Long Cable Ac Dc Adapter for Epson Multi Media Photo P1000, P-1000, P2000, P-2000, P-3000, P3000, P5000, P-5000, P6000, P-6000, P7000, P-7000 Multimedia Storage Viewer",
+            "price": 16.49,
+            "average_score": 5.0
+          },
+          {
+            "id": 69002,
+            "name": "elago Cam Cover Compatible with Google Nest Cam Outdoor (Black, 3Pcs x 2Set) - Full Package, All Weather Protective Cover, Adapter Cover, Easy Installation (NOT Compatible with 2021 Battery Model)",
+            "price": 12.99,
+            "average_score": 5.0
+          },
+          {
+            "id": 69149,
+            "name": "Olympus AC-3 AC Adapter for HLD-6 Grip",
+            "price": null,
+            "average_score": 5.0
+          },
+          {
+            "id": 69885,
+            "name": "10 Pcs 4 x AA 4AA 4 Cell AA 4XAA 6V Battery Holder Case Box Wired ON/Off Switch with Cover",
+            "price": null,
+            "average_score": 2.5
+          },
+          {
+            "id": 69944,
+            "name": "WennoW Premium 5Amp Power Adapter with 8 Way Splitter for Lorex Cameras",
+            "price": null,
+            "average_score": 1.0
+          },
+          {
+            "id": 69202,
+            "name": "Anvil Solid Low-Profile Twill Cap (156)",
+            "price": null,
+            "average_score": 0.0
+          }
+        ]
+      }
+    }
+  ],
+  "category_results": {
+    "2 in 1 Laptop Computers": [
+      {
+        "episode": 1,
+        "category": "2 in 1 Laptop Computers",
+        "persona_index": 9501,
+        "episode_in_category": 1,
+        "steps": 2,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 71217,
+          "chosen_score": 62.5,
+          "best_product_id": 66801,
+          "best_score": 82.5,
+          "regret": 20.0,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 1,
+          "feedback": "Well, this Dell Chromebook looks like a nice little device, but I was actually hoping for something with a bit more storage for all the history documents and photos I like to keep. Maybe something with a larger screen would be easier on the eyes, too, for reading all those history books I enjoy.",
+          "feedback_type": "persona"
+        },
+        "full_dialog": [
+          [
+            "What's your budget for a 2 in 1 laptop?",
+            "Around $500."
+          ]
+        ],
+        "product_info": {
+          "num_products": 16,
+          "products_with_scores": [
+            {
+              "id": 66801,
+              "name": "2019 HP Spectre x360 13t Gem Cut PRIVACY SCREEN with 13.3\" 2 in 1(i7 8565U, FHD IR webcam, HP Pen, 3 Yr McAfee Internet Security, Windows 10 PRO Upgrade,HP Worldwide Wrnty(16G+1TB SSD, Poseidon Blue)",
+              "price": null,
+              "average_score": 82.5
+            },
+            {
+              "id": 67502,
+              "name": "[Windows 11 Pro] HP Envy x360 15 2-in-1 Business Laptop, 15.6\" FHD Touchscreen, Octa-Core AMD Ryzen 7 5700U (Beat i7-1165G7), 64GB DDR4 RAM, 2TB PCIe SSD, WiFi 6, Fingerprint Reader, 64GB Flash Stylus",
+              "price": 1469.0,
+              "average_score": 77.5
+            },
+            {
+              "id": 68133,
+              "name": "2021 Newest HP Envy x360 2-in-1 Laptop, 15.6\" FHD Touchscreen, Intel Core i5-10210U Processor, 32GB RAM, 1TB SSD, Fingerprint Reader, Backlit Keyboard, USB 3.1, HDMI, Webcam, Win 10 + Oydisen Cloth",
+              "price": 999.0,
+              "average_score": 77.5
+            },
+            {
+              "id": 68256,
+              "name": "Microsoft Surface Book SW5-00001 2-in-1 Notebook PC - Intel Core i7-6600U 2.6 GHz Dual-Core Processor - 8 GB RAM - 256 GB Solid State Drive - 13.5-inch Touchscreen Display - (Renewed)",
+              "price": 844.0,
+              "average_score": 77.5
+            },
+            {
+              "id": 70897,
+              "name": "HP Envy x360 Flagship High Performance 2-in-1 Convertible Laptop PC (2016), 15.6-inch Full HD Touch-Screen Display, Intel Core i5-6200U, 12GB DDR3L RAM, 1TB HDD, Backlit Keyboard, Windows 10",
+              "price": 899.99,
+              "average_score": 77.5
+            },
+            {
+              "id": 70577,
+              "name": "SHOXLAB Supported- NewHP Spectre x360 2-in-1 Convertible, 16\" 3K+ Touchscreen Laptop, Core i7-11390H, 16GB RAM 1TB SSD, Upto17H Battery, HDMI Fingerprint Thunderbolt4 Type-C WiFi6 Win11H",
+              "price": 1329.0,
+              "average_score": 76.5
+            },
+            {
+              "id": 70381,
+              "name": "Lenovo Yoga C930 2-in-1 Laptop, 13.9-inch Full HD ( 1920 x 1080 ) Touchscreen, 8th Gen Intel Core i7-8550U, 12GB RAM, 256 GB SSD, Fingerprint Reader, Windows 10, Iron Gray (Renewed)",
+              "price": null,
+              "average_score": 76.0
+            },
+            {
+              "id": 69300,
+              "name": "Microsoft Surface Laptop Studio - 14.4\" Touchscreen - Intel\u00ae Core\u2122 i7 - 32GB Memory - 2TB SSD - Platinum",
+              "price": 2419.6,
+              "average_score": 75.0
+            },
+            {
+              "id": 72026,
+              "name": "Bmax 2 in 1 Convertible Laptop, 11.6\" FHD (1920 X 1080) IPS Touchscreen, Quad-Core Celeron N4120, 8GB DDR4, 256GB SATA SSD, Expandable 1TB SSD, Windows 10, Type-C, HDMI, All-Metal Body",
+              "price": null,
+              "average_score": 71.5
+            },
+            {
+              "id": 68115,
+              "name": "Dell i5568-7477GRY 15.6-Inches FHD 2-in-1 Laptop (Intel Core i7-6500U 2.5GHz Processor, 16 GB RAM, 256 GB SDD, Windows 10) Gray",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 68688,
+              "name": "ASUS Vivobook Go 2-in-1 Laptop 2023 Newest, 14 Inch Touchscreen Display, Intel Celeron N4500 Processor, 4GB RAM, 64GB eMMC, 128GB MicroSD, Intel UHD Graphics, Bluetooth, Windows 11 in S Mode, Blue",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 71545,
+              "name": "Lenovo 2022 IdeaPad Flex 3 11.6\" HD 2-in-1 Touchscreen Chromebook (8-Core MediaTek MT8183, 4GB RAM, 64GB eMMC, Stylus, Webcam) Flip Convertible Home Education Laptop, IST Computers Pen, Chrome OS",
+              "price": 229.98,
+              "average_score": 70.0
+            },
+            {
+              "id": 68677,
+              "name": "New XPS 13 2-in-1 7390 Intel 10th Gen i7-1065G7 Intel Iris Plus 13.4\" FHD+ WLED Touch (1920 x 1200) Active Stylus Pen + Best Notebook Pen Light (512GB SSD|16GB RAM |W10 Pro) Arctic White (Renewed)",
+              "price": 1099.66,
+              "average_score": 69.0
+            },
+            {
+              "id": 72070,
+              "name": "HP Envy x360 15m-ds0012dx 15.6\" Touchscreen 2 in 1 Notebook, AMD Ryzen 7 3700U, 8GB RAM, 256GB SSD - 5TV96UAR#ABA (Renewed)",
+              "price": null,
+              "average_score": 67.5
+            },
+            {
+              "id": 71217,
+              "name": "Dell Chromebook 11-5190 2-in-1 Convertible Notebook, 11.6\" Touchscreen, Intel Celeron N3350 Processor, 32GB eMMC Storage, 4GB DDR4, Wi-Fi + Bluetooth, Chrome OS - Renewed",
+              "price": 89.99,
+              "average_score": 62.5
+            },
+            {
+              "id": 70104,
+              "name": "ASUS - TUF Gaming 17.3\" Laptop - Intel Core i5-8GB Memory - NVIDIA GeForce RTX3050-512",
+              "price": 847.0,
+              "average_score": 45.0
+            }
+          ]
+        }
+      }
+    ],
+    "20th Century Fox Home Entertainment": [
+      {
+        "episode": 2,
+        "category": "20th Century Fox Home Entertainment",
+        "persona_index": 9501,
+        "episode_in_category": 1,
+        "steps": 21,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 96452,
+          "chosen_score": 25.0,
+          "best_product_id": 99424,
+          "best_score": 92.5,
+          "regret": 67.5,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 20,
+          "feedback": "Oh dear, that\u2019s not quite what I was hoping for. I was actually looking for something more along the lines of a historical documentary or a biography, perhaps something about Iowa's history or the civil rights movement.",
+          "feedback_type": "persona"
+        },
+        "full_dialog": [
+          [
+            "Are you looking for a specific type of movie or show from 20th Century Fox?",
+            "I would be interested in a historical drama."
+          ],
+          [
+            "Do you have a budget in mind for the historical drama you're interested in?",
+            "I don't have a specific budget in mind."
+          ],
+          [
+            "Do you prefer a historical drama with a specific historical period or event in mind?",
+            "The Civil Rights Movement."
+          ],
+          [
+            "Are you looking for a movie or a TV series about the Civil Rights Movement?",
+            "A movie."
+          ],
+          [
+            "Do you prefer a movie that focuses on a specific figure or event from the Civil Rights Movement?",
+            "I prefer a movie that focuses on a specific figure from the Civil Rights Movement."
+          ],
+          [
+            "Do you have a preference for a specific historical figure from the Civil Rights Movement?",
+            "Martin Luther King Jr."
+          ],
+          [
+            "Do you have a preference for a specific movie title about Martin Luther King Jr.?",
+            "Selma"
+          ],
+          [
+            "Are you looking for a digital or physical copy of the movie \"Selma\"?",
+            "Physical copy."
+          ],
+          [
+            "Do you want the physical copy of \"Selma\" to be a DVD or Blu-ray?",
+            "DVD"
+          ],
+          [
+            "Do you have a preference for a specific edition or special features for the DVD of \"Selma\"?",
+            "I prefer the edition with the director's commentary."
+          ],
+          [
+            "Do you have a preference for a specific region or store to purchase the DVD of \"Selma\"?",
+            "I prefer to purchase it from a local store in Des Moines."
+          ],
+          [
+            "Do you have a preference for a specific local store in Des Moines to purchase the DVD of \"Selma\"?",
+            "I prefer to purchase it from Beaverdale Books."
+          ],
+          [
+            "Do you want me to check if Beaverdale Books has the DVD of \"Selma\" with the director's commentary?",
+            "Yes, please."
+          ],
+          [
+            "Would you like me to check if Beaverdale Books has the DVD of \"Selma\" with the director's commentary available?",
+            "Yes, please."
+          ],
+          [
+            "Would you like me to check if Beaverdale Books has the DVD of \"Selma\" with the director's commentary available?",
+            "Yes, please."
+          ],
+          [
+            "Would you like me to check if Beaverdale Books has the DVD of \"Selma\" with the director's commentary available?",
+            "Yes, please."
+          ],
+          [
+            "Would you like me to check if Beaverdale Books has the DVD of \"Selma\" with the director's commentary available?",
+            "Yes, please."
+          ],
+          [
+            "Would you like me to check online availability for the DVD of \"Selma\" with the director's commentary since Beaverdale Books might not have it?",
+            "Yes, please."
+          ],
+          [
+            "Would you like me to find an online store that has the DVD of \"Selma\" with the director's commentary available for purchase?",
+            "Yes, please."
+          ],
+          [
+            "Would you like me to find an online store that has the DVD of \"Selma\" with the director's commentary available for purchase?",
+            "Yes, please."
+          ]
+        ],
+        "product_info": {
+          "num_products": 89,
+          "products_with_scores": [
+            {
+              "id": 99424,
+              "name": "The Lion in Winter",
+              "price": 4.19,
+              "average_score": 92.5
+            },
+            {
+              "id": 99464,
+              "name": "The Comancheros",
+              "price": 6.99,
+              "average_score": 87.5
+            },
+            {
+              "id": 97306,
+              "name": "Heidi",
+              "price": 10.38,
+              "average_score": 85.0
+            },
+            {
+              "id": 6674,
+              "name": "Old Man And The Gun, The",
+              "price": 9.79,
+              "average_score": 80.0
+            },
+            {
+              "id": 97398,
+              "name": "Cardinal Richelieu; I'd Climb The Highest Mountain; Sodom And Gomorrah; Esther And The King",
+              "price": 50.29,
+              "average_score": 80.0
+            },
+            {
+              "id": 99707,
+              "name": "Always Goodbye",
+              "price": 19.99,
+              "average_score": 80.0
+            },
+            {
+              "id": 95440,
+              "name": "Twelve O'Clock High 1949",
+              "price": 11.94,
+              "average_score": 77.5
+            },
+            {
+              "id": 96411,
+              "name": "The Mary Tyler Moore Show - The Complete Fourth Season",
+              "price": 11.2,
+              "average_score": 77.5
+            },
+            {
+              "id": 95288,
+              "name": "I Was a Male War Bride",
+              "price": 32.48,
+              "average_score": 72.5
+            },
+            {
+              "id": 98701,
+              "name": "National Geographic - In Search of the Jaguar",
+              "price": 3.75,
+              "average_score": 72.5
+            },
+            {
+              "id": 99479,
+              "name": "Picket Fences - Season 1",
+              "price": 8.5,
+              "average_score": 72.5
+            },
+            {
+              "id": 96959,
+              "name": "The Shirley Temple Collection: Volume Two (Wee Willie Winkie, Stowaway, Baby Take a Bow, Bright Eyes, Rebecca of Sunnybrook Farm, and Young People)",
+              "price": 49.8,
+              "average_score": 67.5
+            },
+            {
+              "id": 97378,
+              "name": "Robots (Full Screen Edition)",
+              "price": 9.9,
+              "average_score": 67.5
+            },
+            {
+              "id": 6575,
+              "name": "Brain Games: Season 4",
+              "price": 20.0,
+              "average_score": 65.0
+            },
+            {
+              "id": 6672,
+              "name": "Angels - Good or Evil? (History Channel) [DVD]",
+              "price": 27.2,
+              "average_score": 65.0
+            },
+            {
+              "id": 97616,
+              "name": "Magic Roundabout 2004",
+              "price": 8.04,
+              "average_score": 62.5
+            },
+            {
+              "id": 94895,
+              "name": "Jesse James",
+              "price": 10.99,
+              "average_score": 60.0
+            },
+            {
+              "id": 95432,
+              "name": "Classic Quad Set 17: (Fantastic Voyage / The Lost World / The Towering Inferno / Voyage to the Bottom of the Sea)",
+              "price": 34.91,
+              "average_score": 60.0
+            },
+            {
+              "id": 97454,
+              "name": "Casper Meets Wendy Family Fun Edition",
+              "price": 24.99,
+              "average_score": 60.0
+            },
+            {
+              "id": 97326,
+              "name": "Strawberry Shortcake: Cooking Up Fun",
+              "price": 19.99,
+              "average_score": 57.5
+            },
+            {
+              "id": 97699,
+              "name": "The Dolphin: Story of a Dreamer",
+              "price": 18.99,
+              "average_score": 57.5
+            },
+            {
+              "id": 6786,
+              "name": "Shark Men: Season 2",
+              "price": 24.97,
+              "average_score": 52.5
+            },
+            {
+              "id": 96382,
+              "name": "Cocoon / Cocoon - The Return [DVD]",
+              "price": 39.95,
+              "average_score": 52.5
+            },
+            {
+              "id": 94890,
+              "name": "Charlie Chan In Honolulu",
+              "price": 16.99,
+              "average_score": 50.0
+            },
+            {
+              "id": 95468,
+              "name": "Tora! Tora! Tora!",
+              "price": 11.89,
+              "average_score": 50.0
+            },
+            {
+              "id": 99577,
+              "name": "Horton Hears a Who",
+              "price": 8.19,
+              "average_score": 50.0
+            },
+            {
+              "id": 6745,
+              "name": "Voyage to Bottom of the Sea - Season 2, Vol. 1",
+              "price": 55.91,
+              "average_score": 47.5
+            },
+            {
+              "id": 94658,
+              "name": "Moss Rose",
+              "price": 19.49,
+              "average_score": 47.5
+            },
+            {
+              "id": 96561,
+              "name": "The Simpsons: Season 12 (Limited Edition \"Comic Book Guy\" Head Packaging)",
+              "price": 54.1,
+              "average_score": 47.5
+            },
+            {
+              "id": 94636,
+              "name": "The Man I Married",
+              "price": 16.62,
+              "average_score": 45.0
+            },
+            {
+              "id": 95752,
+              "name": "Batman: The Movie (Special Edition)",
+              "price": 17.09,
+              "average_score": 45.0
+            },
+            {
+              "id": 97898,
+              "name": "Miller's Crossing",
+              "price": 8.67,
+              "average_score": 42.5
+            },
+            {
+              "id": 98712,
+              "name": "Rio 2-Movie Collection",
+              "price": 9.99,
+              "average_score": 42.5
+            },
+            {
+              "id": 98784,
+              "name": "Ice Age 4: Continental Drift",
+              "price": 8.89,
+              "average_score": 42.5
+            },
+            {
+              "id": 94904,
+              "name": "Good Year",
+              "price": null,
+              "average_score": 40.0
+            },
+            {
+              "id": 94966,
+              "name": "Wild Alaska",
+              "price": 11.49,
+              "average_score": 40.0
+            },
+            {
+              "id": 97387,
+              "name": "The Resident: The Complete Season 2",
+              "price": 34.94,
+              "average_score": 40.0
+            },
+            {
+              "id": 97896,
+              "name": "Ice Age 2: The Meltdown",
+              "price": null,
+              "average_score": 40.0
+            },
+            {
+              "id": 98292,
+              "name": "Independence Day 20th Anniversary",
+              "price": 9.08,
+              "average_score": 40.0
+            },
+            {
+              "id": 98752,
+              "name": "Classic Crime Collection - Street Justice (Murder Inc., The French Connection, The St. Valentine's Day Massacre, The Seven-Ups) [DVD]",
+              "price": 49.99,
+              "average_score": 40.0
+            },
+            {
+              "id": 96584,
+              "name": "Die Hard (Widescreen Edition)",
+              "price": 5.49,
+              "average_score": 37.5
+            },
+            {
+              "id": 99029,
+              "name": "True Lies [DVD]",
+              "price": 12.79,
+              "average_score": 37.5
+            },
+            {
+              "id": 6748,
+              "name": "King Of Burlesque",
+              "price": 27.73,
+              "average_score": 35.0
+            },
+            {
+              "id": 6871,
+              "name": "Murder On The Orient Express 2017",
+              "price": 13.99,
+              "average_score": 35.0
+            },
+            {
+              "id": 95175,
+              "name": "Wild Congo",
+              "price": null,
+              "average_score": 35.0
+            },
+            {
+              "id": 96201,
+              "name": "Star Wars, Episode III: Revenge of the Sith (Full Screen Edition)",
+              "price": 7.83,
+              "average_score": 35.0
+            },
+            {
+              "id": 96771,
+              "name": "The Blue Max",
+              "price": 22.67,
+              "average_score": 35.0
+            },
+            {
+              "id": 97289,
+              "name": "Bond Remastered - The Living Daylights (1-disc) [DVD] [1987]",
+              "price": 15.16,
+              "average_score": 35.0
+            },
+            {
+              "id": 97739,
+              "name": "The Big Year [DVD] [2011]",
+              "price": 6.5,
+              "average_score": 35.0
+            },
+            {
+              "id": 99925,
+              "name": "Unfaithful (Full Screen Edition)",
+              "price": 12.93,
+              "average_score": 35.0
+            },
+            {
+              "id": 6526,
+              "name": "Die Hard (Widescreen Edition)",
+              "price": 14.94,
+              "average_score": 32.5
+            },
+            {
+              "id": 95085,
+              "name": "24: Redemption",
+              "price": 19.99,
+              "average_score": 32.5
+            },
+            {
+              "id": 96927,
+              "name": "Enough Said",
+              "price": 10.23,
+              "average_score": 32.5
+            },
+            {
+              "id": 98754,
+              "name": "Diary Of A Wimpy Kid 4: The Long Haul [DVD] [2017]",
+              "price": 5.27,
+              "average_score": 32.5
+            },
+            {
+              "id": 6509,
+              "name": "Percy Jackson Double Feature",
+              "price": 22.0,
+              "average_score": 30.0
+            },
+            {
+              "id": 6648,
+              "name": "4 Family Film Favorites: Percy Jackson -The Lightning Thief/ The Chronicles Of Narnia: Voyage Of The Dawn Treader/ Eragon/ The Seeker",
+              "price": 24.99,
+              "average_score": 30.0
+            },
+            {
+              "id": 6856,
+              "name": "Jake Gyllenhaal Triple Feature",
+              "price": 29.63,
+              "average_score": 30.0
+            },
+            {
+              "id": 95576,
+              "name": "Wall Street",
+              "price": 12.44,
+              "average_score": 30.0
+            },
+            {
+              "id": 96738,
+              "name": "Drumline (Special Edition) by 20th Century Fox",
+              "price": 10.81,
+              "average_score": 30.0
+            },
+            {
+              "id": 97039,
+              "name": "AVP: Alien vs. Predator (Widescreen Edition)",
+              "price": 10.93,
+              "average_score": 30.0
+            },
+            {
+              "id": 97940,
+              "name": "Kung Fu Panda: The Midnight Stranger [DVD]",
+              "price": 35.0,
+              "average_score": 30.0
+            },
+            {
+              "id": 98910,
+              "name": "Catch That Kid",
+              "price": 13.65,
+              "average_score": 30.0
+            },
+            {
+              "id": 6656,
+              "name": "Star Wars: Clone Wars - Volume One [DVD]",
+              "price": 15.56,
+              "average_score": 27.5
+            },
+            {
+              "id": 6794,
+              "name": "The Pick-Up Artist [DVD]",
+              "price": 24.28,
+              "average_score": 27.5
+            },
+            {
+              "id": 94555,
+              "name": "Quantum Of Solace",
+              "price": 17.04,
+              "average_score": 27.5
+            },
+            {
+              "id": 95815,
+              "name": "Cheaper by the Dozen 2",
+              "price": 6.29,
+              "average_score": 27.5
+            },
+            {
+              "id": 97750,
+              "name": "Moondance Alexander / Virginia's Run",
+              "price": 14.0,
+              "average_score": 27.5
+            },
+            {
+              "id": 98475,
+              "name": "Prosecuting Casey Anthony",
+              "price": 21.99,
+              "average_score": 27.5
+            },
+            {
+              "id": 98691,
+              "name": "Sons of Anarchy: Season 4",
+              "price": 14.94,
+              "average_score": 27.5
+            },
+            {
+              "id": 95271,
+              "name": "Maze Runner - The Death Cure [DVD] [2018]",
+              "price": 10.83,
+              "average_score": 25.0
+            },
+            {
+              "id": 96452,
+              "name": "World Destruction Box Set (Independence Day / Chain Reaction / The Day After Tomorrow / Volcano) [DVD]",
+              "price": 54.0,
+              "average_score": 25.0
+            },
+            {
+              "id": 97305,
+              "name": "28 Days Later / 28 Weeks Later (Double Feature)",
+              "price": 26.25,
+              "average_score": 25.0
+            },
+            {
+              "id": 97773,
+              "name": "Possession",
+              "price": 8.24,
+              "average_score": 25.0
+            },
+            {
+              "id": 94841,
+              "name": "Kendra: Season 1",
+              "price": 9.98,
+              "average_score": 22.5
+            },
+            {
+              "id": 95848,
+              "name": "Empire: The Complete Fifth Season",
+              "price": 30.2,
+              "average_score": 22.5
+            },
+            {
+              "id": 96359,
+              "name": "Snatched 2017",
+              "price": 10.04,
+              "average_score": 22.5
+            },
+            {
+              "id": 99005,
+              "name": "Jingle All the Way 2",
+              "price": 6.79,
+              "average_score": 22.5
+            },
+            {
+              "id": 6612,
+              "name": "Die Simpsons - Die komplette Season 7 (Collector's Edition, 4 DVDs) [Import allemand]",
+              "price": 22.5,
+              "average_score": 20.0
+            },
+            {
+              "id": 95751,
+              "name": "Night Watch [DVD]",
+              "price": null,
+              "average_score": 20.0
+            },
+            {
+              "id": 98257,
+              "name": "Stay Hungry [DVD]",
+              "price": null,
+              "average_score": 17.5
+            },
+            {
+              "id": 99404,
+              "name": "Sirens: The Complete First Season",
+              "price": 29.48,
+              "average_score": 17.5
+            },
+            {
+              "id": 99465,
+              "name": "Speed Collector Pack (Speed Five Star Collection / Speed 2 - Cruise Control) [DVD]",
+              "price": 39.99,
+              "average_score": 17.5
+            },
+            {
+              "id": 6616,
+              "name": "Ablaze",
+              "price": 12.95,
+              "average_score": 15.0
+            },
+            {
+              "id": 95397,
+              "name": "Hello Kitty Halloween",
+              "price": 11.99,
+              "average_score": 15.0
+            },
+            {
+              "id": 96373,
+              "name": "Princess Bride, The",
+              "price": null,
+              "average_score": 15.0
+            },
+            {
+              "id": 96567,
+              "name": "Devil Wears Prada & 27 Dresses",
+              "price": 8.47,
+              "average_score": 15.0
+            },
+            {
+              "id": 99019,
+              "name": "Transporter: The Series - Season 1",
+              "price": 20.0,
+              "average_score": 15.0
+            },
+            {
+              "id": 99824,
+              "name": "Say it Isn't So! [DVD]",
+              "price": 14.06,
+              "average_score": 15.0
+            },
+            {
+              "id": 100000,
+              "name": "Darkest Knight [DVD]",
+              "price": 9.46,
+              "average_score": 15.0
+            }
+          ]
+        }
+      }
+    ],
+    "A&E Home Video": [
+      {
+        "episode": 3,
+        "category": "A&E Home Video",
+        "persona_index": 9501,
+        "episode_in_category": 1,
+        "steps": 2,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 94562,
+          "chosen_score": 15.0,
+          "best_product_id": 95369,
+          "best_score": 87.5,
+          "regret": 72.5,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 1,
+          "feedback": "Oh dear, that's not quite what I was looking for. I was hoping for something more along the lines of a historical biography or a book about the civil rights movement\u2014something rich in history and meaningful stories.",
+          "feedback_type": "persona"
+        },
+        "full_dialog": [
+          [
+            "Are you looking for a historical documentary or biography from A&E Home Video?",
+            "I'm looking for a historical documentary."
+          ]
+        ],
+        "product_info": {
+          "num_products": 35,
+          "products_with_scores": [
+            {
+              "id": 95369,
+              "name": "American Pickers: Volume 2 [DVD]",
+              "price": 7.99,
+              "average_score": 87.5
+            },
+            {
+              "id": 99674,
+              "name": "JFK - A Presidency Revealed (History Channel)",
+              "price": 18.99,
+              "average_score": 85.0
+            },
+            {
+              "id": 99242,
+              "name": "Save Our History - Gold Rush Ghost Towns (History Channel)",
+              "price": 15.95,
+              "average_score": 80.0
+            },
+            {
+              "id": 97267,
+              "name": "The Planets",
+              "price": 57.88,
+              "average_score": 70.0
+            },
+            {
+              "id": 99931,
+              "name": "The 9/11 Commission Report (History Channel) [DVD]",
+              "price": 6.98,
+              "average_score": 70.0
+            },
+            {
+              "id": 97484,
+              "name": "The True Story of the Bridge on the River Kwai (History Channel) [DVD]",
+              "price": null,
+              "average_score": 67.5
+            },
+            {
+              "id": 99345,
+              "name": "Modern Marvels: Tomcat Sunset",
+              "price": null,
+              "average_score": 65.0
+            },
+            {
+              "id": 99419,
+              "name": "Jerusalem (The History Channel)",
+              "price": null,
+              "average_score": 65.0
+            },
+            {
+              "id": 96422,
+              "name": "Egypt - Beyond The Pyramids",
+              "price": 16.0,
+              "average_score": 60.0
+            },
+            {
+              "id": 95428,
+              "name": "Modern Marvels: The Tool Bench - Power Tools",
+              "price": 16.95,
+              "average_score": 57.5
+            },
+            {
+              "id": 95608,
+              "name": "Failure Is Not an Option (History Channel)",
+              "price": null,
+              "average_score": 57.5
+            },
+            {
+              "id": 96515,
+              "name": "Nostradamus Effect: Season 1",
+              "price": 13.86,
+              "average_score": 52.5
+            },
+            {
+              "id": 97566,
+              "name": "Amer Cast: Newport Mansions",
+              "price": 13.5,
+              "average_score": 47.5
+            },
+            {
+              "id": 95292,
+              "name": "Longitude",
+              "price": 43.97,
+              "average_score": 42.5
+            },
+            {
+              "id": 98353,
+              "name": "Secret Japanese Aircraft of WW2",
+              "price": null,
+              "average_score": 42.5
+            },
+            {
+              "id": 99434,
+              "name": "Secrets of the Aegean Apocalypse",
+              "price": 15.99,
+              "average_score": 40.0
+            },
+            {
+              "id": 95122,
+              "name": "Modern Mar: Aswan Dam",
+              "price": 20.49,
+              "average_score": 35.0
+            },
+            {
+              "id": 98223,
+              "name": "Biography - The Osmonds: Pure and Simple [DVD]",
+              "price": 29.95,
+              "average_score": 25.0
+            },
+            {
+              "id": 96151,
+              "name": "The Quest for Dragons (A&E)",
+              "price": 30.88,
+              "average_score": 22.5
+            },
+            {
+              "id": 99692,
+              "name": "Lifetime Gold Collection",
+              "price": null,
+              "average_score": 22.5
+            },
+            {
+              "id": 96712,
+              "name": "Vanity Fair",
+              "price": 44.8,
+              "average_score": 20.0
+            },
+            {
+              "id": 99206,
+              "name": "The San Francisco Giants 2010 World Series Collector's Edition",
+              "price": 52.59,
+              "average_score": 20.0
+            },
+            {
+              "id": 99299,
+              "name": "Woody Hayes' Ohio State Buckeyes",
+              "price": 11.99,
+              "average_score": 20.0
+            },
+            {
+              "id": 96675,
+              "name": "City Confidential: Wilmington Dangerous Affairs",
+              "price": null,
+              "average_score": 17.5
+            },
+            {
+              "id": 99861,
+              "name": "The Wind in the Willows / A Tale of Two Toads",
+              "price": 29.99,
+              "average_score": 17.5
+            },
+            {
+              "id": 94562,
+              "name": "More Sex & The Single Mom",
+              "price": null,
+              "average_score": 15.0
+            },
+            {
+              "id": 95890,
+              "name": "Profiler - Season 2 [DVD]",
+              "price": 54.31,
+              "average_score": 15.0
+            },
+            {
+              "id": 96808,
+              "name": "Mr. Bean The Animated Series, Vols. 5 & 6 (Grin and Bean It / The Ends Justify the Beans) [DVD]",
+              "price": null,
+              "average_score": 15.0
+            },
+            {
+              "id": 98814,
+              "name": "The Kids in the Hall - Complete Season 1 (1989-1990)",
+              "price": 14.48,
+              "average_score": 12.5
+            },
+            {
+              "id": 99182,
+              "name": "Rex the Runt - The Complete Collection [DVD]",
+              "price": 27.95,
+              "average_score": 12.5
+            },
+            {
+              "id": 95526,
+              "name": "Mr. Bean The Animated Series, Vol. 5 - Grin & Bean It",
+              "price": 33.71,
+              "average_score": 10.0
+            },
+            {
+              "id": 96166,
+              "name": "LYNDA CARTER",
+              "price": null,
+              "average_score": 7.5
+            },
+            {
+              "id": 96702,
+              "name": "The Real Housewives of New York, Season 3",
+              "price": 21.99,
+              "average_score": 7.5
+            },
+            {
+              "id": 98172,
+              "name": "Dillon Episode #40",
+              "price": null,
+              "average_score": 7.5
+            },
+            {
+              "id": 98863,
+              "name": "It's a Living",
+              "price": 13.98,
+              "average_score": 7.5
+            }
+          ]
+        }
+      }
+    ],
+    "AA Batteries": [
+      {
+        "episode": 4,
+        "category": "AA Batteries",
+        "persona_index": 9501,
+        "episode_in_category": 1,
+        "steps": 2,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 77361,
+          "chosen_score": 75.0,
+          "best_product_id": 79206,
+          "best_score": 95.0,
+          "regret": 20.0,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 1,
+          "feedback": "I appreciate the recommendation, but I was actually hoping to find some rechargeable AA batteries for my portable radio. I like to listen to jazz while gardening and would prefer something more sustainable for regular use.",
+          "feedback_type": "persona"
+        },
+        "full_dialog": [
+          [
+            "Are you looking for AA batteries with a specific brand or feature in mind?",
+            "I'm not particular about the brand, just need reliable ones for my remote control."
+          ]
+        ],
+        "product_info": {
+          "num_products": 29,
+          "products_with_scores": [
+            {
+              "id": 79206,
+              "name": "Eneloop Panasonic Pro Ni-MH AA Batteries BK-3HCCA8BA 1.2V 8pk Rechargeable & Advanced pro 4-Hour Quick Charger",
+              "price": 55.26,
+              "average_score": 95.0
+            },
+            {
+              "id": 81040,
+              "name": "Duracell Rechargeable AA NiMH Batteries, MIGNON/HR6/DC1500, 2450mAh, 8-Count Package",
+              "price": 27.03,
+              "average_score": 90.0
+            },
+            {
+              "id": 77643,
+              "name": "Amazon Basics 48 Count AA & AAA High-Performance Batteries Value Pack - 24 Double AA Batteries and 24 Triple AAA Batteries (48 Count)",
+              "price": 28.38,
+              "average_score": 85.0
+            },
+            {
+              "id": 81772,
+              "name": "Rechargeable AA Batteries, 2250mAh 16-Pack 1.2V NiMH Double A for Household Devices (Rechargeable 1200 Times,Precharged,Long-Lasting & Low-self Discharge New Material)",
+              "price": 23.99,
+              "average_score": 85.0
+            },
+            {
+              "id": 78484,
+              "name": "Amazon Basics Alkaline AAA Batteries 1.5V 100 Count & Alkaline AA Batteries 1.5V 100 Count Single Use",
+              "price": null,
+              "average_score": 82.5
+            },
+            {
+              "id": 80486,
+              "name": "Energizer AA Batteries Double A Max Alkaline Battery, 24 Count",
+              "price": 19.69,
+              "average_score": 82.5
+            },
+            {
+              "id": 80997,
+              "name": "Tanatare Rechargeable AA Batteries (4 Count) 2400mAh NiMH AA Recharegeable Batteries, High Capacity, Pre-charege",
+              "price": 7.99,
+              "average_score": 81.0
+            },
+            {
+              "id": 76967,
+              "name": "iMah HR6 AA Rechargeable Batteries Ni-MH 1.2V 1800mAh for Flashlight Remote Control Car Toys Clock, Also Compatible with Panasonic BK-3MCCA8BA BK-3HCCA8BA BK-3MCCA4BA BK-3HCCE4BE, 8-Pack",
+              "price": 15.95,
+              "average_score": 77.5
+            },
+            {
+              "id": 79515,
+              "name": "Type-C Rechargeable Batteries AA Lithium High Capacity 2600mWh AA Rechargeable Battery, Constant 1.5V Output, 1.5 Hours Quick Charge with Type C 4-in-1 Port Cable Pack of 4",
+              "price": null,
+              "average_score": 77.5
+            },
+            {
+              "id": 78323,
+              "name": "Tenergy AA Rechargeable NIMH Battery 2000mAh Pre-charged Household Battery Low Self Discharge High Performance AA Battery Pack for Remote Controller/Toys/Flashlight/Mice (16 PCS)",
+              "price": 22.99,
+              "average_score": 76.5
+            },
+            {
+              "id": 77361,
+              "name": "TEBANTY PKNOVA AA Batteries, 4-Count 1.5V Ultra Alkaline LR6 Batteries for Holiday Christmas Light, 380 Minutes Disposable Double A Battery for Clock,Toys",
+              "price": 4.99,
+              "average_score": 75.0
+            },
+            {
+              "id": 78059,
+              "name": "POWEROWL Solar Rechargeable AA Batteries 2800mAh, Wide Temperature Range Battery, Excellent Performance for Solar Garden Lights, Battery String Lights, Outdoor Devices - Recharge Universal (12 Count)",
+              "price": 21.99,
+              "average_score": 75.0
+            },
+            {
+              "id": 81140,
+              "name": "SEIVI 8 Bay AA AAA Battery Charger with Rechargeable AA Batteries (4 Pack 2800mah) and Rechargeable AAA Batteries (4 Pack 1000mah) - Ni-Mh Rechargeable Batteries (4AA + 4AAA + SN8)",
+              "price": null,
+              "average_score": 75.0
+            },
+            {
+              "id": 80022,
+              "name": "Dura cell Alkaline Battery- AA (4 in 1 Pack) (Pack of 1)",
+              "price": 13.65,
+              "average_score": 74.0
+            },
+            {
+              "id": 80098,
+              "name": "Bower XPB430 AA 4 Pack Rechargeable Battery 3000 maH",
+              "price": null,
+              "average_score": 67.5
+            },
+            {
+              "id": 76558,
+              "name": "Watson C Spacer Pack with 2 AA NiMH Batteries (1.2V, 2300mAh)",
+              "price": null,
+              "average_score": 65.0
+            },
+            {
+              "id": 76933,
+              "name": "Xtech AA Ultra High-Capacity 3100mah Ni-MH Rechargeable Batteries (12 Pack)",
+              "price": null,
+              "average_score": 65.0
+            },
+            {
+              "id": 77407,
+              "name": "Deleepow Rechargeable AA Lithium Batteries 3200mWh, 1500 Cycles 1.5V Constant Output Rechargeable Double A Li-ion Batteries 4 Count\uff0cwith USB LCD Display AA AAA 2 H Fast Charger",
+              "price": null,
+              "average_score": 65.0
+            },
+            {
+              "id": 79293,
+              "name": "20-Pieces Size 1.2V AA(300/600/800mAh) Or AAA (600mAh/800mAh) and Ni-Cd/Ni-MH Rechargeable Battery for Solar Light and Solar Devices (1.2v AA 600mAh Ni-Cd)",
+              "price": null,
+              "average_score": 62.5
+            },
+            {
+              "id": 79932,
+              "name": "100 AA Batteries Medium Duty 1.5v. 100 Pack Wholesale Bulk Lot New Fresh",
+              "price": null,
+              "average_score": 60.0
+            },
+            {
+              "id": 81654,
+              "name": "AA NICD 1.2V 600mAh Rechatgeable Batteries for Solar Lamp,Garden Landscaping Lights(16-Pack)",
+              "price": null,
+              "average_score": 60.0
+            },
+            {
+              "id": 78634,
+              "name": "Newhouse Lighting Rechargeable 1500mah NiMH AA Batteries Optimized for Solar Lights, 8 Count",
+              "price": null,
+              "average_score": 55.0
+            },
+            {
+              "id": 78897,
+              "name": "8X Westinghouse 2/3 AA Ni-Mh Battery Batteries Rechargeable 1.2 V Volt 150 mAh Reusable Chargeable by JL Missouri Parts",
+              "price": 20.74,
+              "average_score": 55.0
+            },
+            {
+              "id": 77070,
+              "name": "HYPERPS (8-Pack) 1.2V AA 700mAh Ni-Cd NiCd Rechargeab\u200ble Battery for NiCd Solar Panel Light Lamp, RC Toy",
+              "price": null,
+              "average_score": 50.0
+            },
+            {
+              "id": 78821,
+              "name": "HotEnergy Yellow Color AA NiCD Precharged Rechargeable Batteries, 600 mAh (8 x aa)",
+              "price": null,
+              "average_score": 50.0
+            },
+            {
+              "id": 77945,
+              "name": "Cutelec 20Pairs Battery Springs AAA Battery Negative to Positive Conversion Spring Contact Nickle Plated 9x9mm",
+              "price": 6.99,
+              "average_score": 30.0
+            },
+            {
+              "id": 78989,
+              "name": "Duracell Size C 10 Coppertop Alkaline Batteries MN1400 Duralock",
+              "price": null,
+              "average_score": 30.0
+            },
+            {
+              "id": 80982,
+              "name": "LP USB Rechargeable AAA Batteries, 4-Pack Batteries with 1100mWh 1.5V Lithium Rechargeable Batteries AAA for Electronics,Game Controller, Mouse,Toy Cars",
+              "price": 21.99,
+              "average_score": 30.0
+            },
+            {
+              "id": 79171,
+              "name": "Genuine Mopar 5161544AA - Boot-Gearshift",
+              "price": 104.0,
+              "average_score": 10.0
+            }
+          ]
+        }
+      }
+    ],
+    "AC Adapters": [
+      {
+        "episode": 5,
+        "category": "AC Adapters",
+        "persona_index": 9501,
+        "episode_in_category": 1,
+        "steps": 2,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 1241,
+          "chosen_score": 5.0,
+          "best_product_id": 1506,
+          "best_score": 82.5,
+          "regret": 77.5,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 1,
+          "feedback": "Well, that's quite off the mark, I'm afraid. I was actually hoping for a good book on Iowa's history or perhaps a new jazz record to enjoy while I tend to my garden.",
+          "feedback_type": "persona"
+        },
+        "full_dialog": [
+          [
+            "Are you looking for an AC adapter with a specific feature or price range in mind?",
+            "I'm looking for an AC adapter that's reliable and reasonably priced."
+          ]
+        ],
+        "product_info": {
+          "num_products": 133,
+          "products_with_scores": [
+            {
+              "id": 1506,
+              "name": "Omron AC Adapter HEM-ADPTW5",
+              "price": 29.99,
+              "average_score": 82.5
+            },
+            {
+              "id": 1562,
+              "name": "HQRP AC Adapter Compatible with Philips Norelco 422203623771 S9531 S9531/84 S9311 S9311/27 S9311/84 S9531/27 S8950 S5675 S5590 S5550 Shaver Power Cord Charger Adaptor + Cleaning Brush",
+              "price": 5.95,
+              "average_score": 60.0
+            },
+            {
+              "id": 67508,
+              "name": "HQRP 12V AC Adapter Compatible with Philips Respironics MW115RA1200N02 AA24750L AT000713 Remstar Pro M Ault + Adaptor Power Supply Cord + Euro Plug Adapter",
+              "price": 13.91,
+              "average_score": 55.0
+            },
+            {
+              "id": 69241,
+              "name": "Arkare Universal Power Supply 120W AC Adapter Adjustable Power Adapter 4.5V 5V 9V 12V 10A 8A 6A 5A 3A 1A AC/DC AC 100-240V to DC 4~12V Multi Voltage Switching with 15 Tips & Polarity Converter",
+              "price": 20.99,
+              "average_score": 42.5
+            },
+            {
+              "id": 70037,
+              "name": "UpBright 12V AC Adapter Compatible with HOIOTO Samsung ADS-36NP-12-2 ADS-65LSI-12-1 12036G 12042G 12048G ADS-45FSI-12 12040GPCU ADS-45NP-12-1 12045G Honor Buffalo LinkStation 220 LS220D0202 LS220D0402",
+              "price": 20.99,
+              "average_score": 41.0
+            },
+            {
+              "id": 69151,
+              "name": "HQRP AC Adapter for Yamaha PSR-GX76 / PSRGX76 / YPT-210 Keyboard Replacement Power Supply Cord [UL Listed] plus HQRP Euro Plug Adapter",
+              "price": 7.91,
+              "average_score": 40.0
+            },
+            {
+              "id": 70139,
+              "name": "UpBright 2-Prong 29V AC Adapter Compatible with Southern Motion FS2900-2000 FS29002000 SPS-2A29VDC-03-WM-SM Sofa Recliner Lift Chair Couch Tranquil Ease Raffel SPS-2A29VDC-PR CL2902-A CL2902A 2A Power",
+              "price": 24.45,
+              "average_score": 40.0
+            },
+            {
+              "id": 68179,
+              "name": "OMNIHIL AC Power Cord Compatible with Samsung HD 4K LCD LED TVs 2014 Series",
+              "price": 8.96,
+              "average_score": 37.5
+            },
+            {
+              "id": 68253,
+              "name": "Accessory USA AC Adapter for Epson Perfection V200 V300 V350 Photo Scanner Power Supply PSU",
+              "price": 9.86,
+              "average_score": 37.5
+            },
+            {
+              "id": 69324,
+              "name": "UpBright 24V AC/DC Adapter Compatible with Vizio VSB200 NA VSB205 VSB210 VSB206 B VSB207 VHT210 VHT215 VHT510 SB4021-MA1 SB4020E SoundBar Speaker YJS05-2402500D Ktec KSAS0652400270 2.5A Power Supply",
+              "price": 16.54,
+              "average_score": 37.5
+            },
+            {
+              "id": 69545,
+              "name": "[UL Listed] Replacement AC Adapter Charger Compatible OneTouch Verio IQ Blood Glucose Monitoring System Meter with 5Ft Power Supply Cord",
+              "price": 10.99,
+              "average_score": 37.5
+            },
+            {
+              "id": 69617,
+              "name": "19.5V TV Adapter Charger Replacement Power Cord Supply for So-ny Bravia TV KDL-32 KDL-40 W600B W650A W674A W700B KDL-48W600B KDL-42W650A KDL-40W600B KDL-32W700B KDL-40R510C KDL-48R510C Smart LED LCD",
+              "price": 19.88,
+              "average_score": 37.5
+            },
+            {
+              "id": 71029,
+              "name": "Belker 12W Universal 3V 4.5V 5V 6V 7.5V 9V 12V AC DC Adapter Power Supply for Household Electronics Router Speaker Smart Phone Tablet CCTV IP Camera - 1A 1000mA Amp Max.",
+              "price": 13.9,
+              "average_score": 37.5
+            },
+            {
+              "id": 68288,
+              "name": "[UL Listed] OMNIHIL 8 Feet Long AC/DC Adapter Compatible with Xfinity Box XG2v2-P Pace PX022ANM",
+              "price": 12.96,
+              "average_score": 35.0
+            },
+            {
+              "id": 69165,
+              "name": "ABLEGRID AC/DC Adapter for RadioShack PRO-651 Radio Shack Digital Trunking Handheld Radio Scanner Power Supply Cord",
+              "price": 8.58,
+              "average_score": 35.0
+            },
+            {
+              "id": 69183,
+              "name": "HKY 19V AC Adapter Charger for Samsung HW-K360 HW-K850 HW-K950 HW-M4500 HW-M4501 HW-M4510 HW-M4511 HW-K360/ZA HW-M360 HW-KM36 HW-KM36C HW-K370 HW-K370/ZA HW-KM37 HW-KM37C Soundbar Power Supply Cord",
+              "price": 18.99,
+              "average_score": 35.0
+            },
+            {
+              "id": 69625,
+              "name": "HQRP 14V AC Adapter Compatible with Samsung SyncMaster S24E510C S27D590 S27D590C S27D590CS S19B300N S19B300B TFT LCD Monitor Power Supply Cord Adaptor Sync-Master",
+              "price": 9.91,
+              "average_score": 35.0
+            },
+            {
+              "id": 67347,
+              "name": "5V 3A Power Supply by MakerSpot with Switch 2.5A 2A 1.5A 1A Fast Charge AC Adapter w/ 1.5m Extra Long On Off Power Switch Micro USB Cable for Raspberry Pi 3 Model B/B+ Plus (4 Pack)",
+              "price": null,
+              "average_score": 32.5
+            },
+            {
+              "id": 68559,
+              "name": "UpBright 15.3V AC/DC Adapter Compatible with Black & Decker SS12 C SS12C SS12CR HPB12 Ni-Cad Rechargeable Battery B&D BD 12-Volt Cordless Drill Driver 90532614 T12085D 16.5VAC Power Supply Charger PSU",
+              "price": 17.85,
+              "average_score": 32.5
+            },
+            {
+              "id": 69275,
+              "name": "Accessory USA AC Adapter Charger for Altec Lansing ACS41 Multimedia Computer Speaker Power PSU",
+              "price": 9.99,
+              "average_score": 32.5
+            },
+            {
+              "id": 69546,
+              "name": "[UL Listed] OMNIHIL 8 Feet Long AC/DC Adapter Compatible with Campark Trail Game Camera Model: T45",
+              "price": 10.96,
+              "average_score": 32.5
+            },
+            {
+              "id": 69737,
+              "name": "Accessory USA AC DC Adapter for Rally 7471 Portable 8 in 1 Power Source Jump Starter Power Supply Cord",
+              "price": 17.53,
+              "average_score": 32.5
+            },
+            {
+              "id": 69807,
+              "name": "UpBright 4-Pin 12V AC/DC Adapter Compatible with Philips Magnavox 17MD255V/17 17MD255V 17MD255/17 Widescreen 17\" DVD Player HGPOWER ADPV 20 ADPV20 Finecom DC12V 4A-5A 60W Power Supply Battery Charger",
+              "price": 12.99,
+              "average_score": 32.5
+            },
+            {
+              "id": 70084,
+              "name": "SapplySource AC/DC Power Supply Adapter Charger for CenturyLink ZyXEL C3000Z Modem/Router",
+              "price": 13.45,
+              "average_score": 32.5
+            },
+            {
+              "id": 70760,
+              "name": "24V AC Charger Fit for Samsung HW-Q6CT HW-Q67CT HW-T60C HW-T60M HW-T510 HW-T550 HW-S40T HW-R60M HW-T45C Q T Series Soundbar Power Supply Adapter Cord",
+              "price": 24.99,
+              "average_score": 32.5
+            },
+            {
+              "id": 67520,
+              "name": "Hiseeu 12V 1A Power Supply, AC 100-240V to DC 12V 1A 1000mA Power Adapter, 5.5 x 2.1mm, 10 Feet Power Cord, FCC, Power Supply for Security Cameras, Routers, LED Strip Lights, Home Appliances, Scanner",
+              "price": 11.99,
+              "average_score": 30.0
+            },
+            {
+              "id": 68320,
+              "name": "Omnihil AC/DC Power Adapter Compatible with Vtech S005IU0600040 26-360040-4UL-100 TenPao Cable PS Wall Home Charger",
+              "price": 11.96,
+              "average_score": 30.0
+            },
+            {
+              "id": 68673,
+              "name": "PK Power AC/DC Adapter for Uniden BC365CRS 500 Channel Clock/FM Radio Scanner Power Supply Cord Cable PS Wall Charger Mains PSU",
+              "price": 15.89,
+              "average_score": 30.0
+            },
+            {
+              "id": 71173,
+              "name": "UpBright 5V 1A AC/DC Adapter Compatible with Sennheiser RS170 HDR170 RS180 TX180 HDR180 RS 170 RS 180 TX-180 HDR 180 HDR 170 Wireless Headphone TR170 TR180 TR 170 TR 180 Base Dock Power Supply Charger",
+              "price": 9.99,
+              "average_score": 30.0
+            },
+            {
+              "id": 67078,
+              "name": "12 Volt 2 Amp Power Supply 24W 12Volt 2Amp AC Adapter 100-240V 50-60Hz AC to DC 12V 2A Power Adapter with 5.5mm x 2.1mm 2.5mm DC Tip & 1 Female Terminal for LED Strip Light CCTV Camera Routers etc.",
+              "price": 10.19,
+              "average_score": 27.5
+            },
+            {
+              "id": 68712,
+              "name": "Generic Compatible Replacement Worldwide 12V 2A 2000MAH 24W Switching Series AC DC Adapter Power Cord Power Adapter Charger Wire Compatible Parts Barrel Tip 4.0mm x 1.5mm 4.0 1.5",
+              "price": 6.98,
+              "average_score": 27.5
+            },
+            {
+              "id": 69473,
+              "name": "UpBright 7.5V AC/DC Adapter Compatible with Vision Fitness Elliptical Trainer X6200 0812EPC100100914 X6200HRC 48-075-1000 R2200 R2100 RB18 RB42 RB58 R2200HRT MRB43 RB105 RB54D R21005 22HRC Charger PSU",
+              "price": 15.95,
+              "average_score": 27.5
+            },
+            {
+              "id": 69739,
+              "name": "UpBright 9V AC/DC Adapter Replacement for Uniden AD-1010 AD-310 AD-420 PS-0007 AD-0005 U090021D12 Telephone TCX905 TCX930 DCX640 DCX64D DCX750 Handset Cradle Ameriphone 930 D9300 9VDC 210mA 350mA",
+              "price": 8.85,
+              "average_score": 27.5
+            },
+            {
+              "id": 70415,
+              "name": "T-Power 5V 12V 4-PIN Adapter for LACIE Models 706479 710199 800040 ACU034A-0512 ACML-51 710200 ACU057A-0512 Sunfone Hard Disk Drive HDD HD Power Supply",
+              "price": 19.99,
+              "average_score": 26.0
+            },
+            {
+              "id": 67040,
+              "name": "15W AC Charger Fit for Google Nest Hub, Home hub, Nest Hub (2nd Gen) ga01331-us W18-015N1A Power Supply Adapter Cord",
+              "price": 12.99,
+              "average_score": 25.0
+            },
+            {
+              "id": 67530,
+              "name": "30W AC Charger Adapter Fit for Google-Nest-Hub-Max Power Supply Cord (Not Fit Nest Hub/Home Hub)",
+              "price": null,
+              "average_score": 25.0
+            },
+            {
+              "id": 69191,
+              "name": "Uniq-bty DC Vehicle Battery Adapter Car Charger for Model GT-CP12000200-302 Power Supply Cord",
+              "price": null,
+              "average_score": 25.0
+            },
+            {
+              "id": 69317,
+              "name": "KHOI1971 \u00ae Wall Charger Adapter + USB Cable Cord for Kodak PIXPRO AZ521 AZ522 Digital Camera",
+              "price": 12.94,
+              "average_score": 25.0
+            },
+            {
+              "id": 69706,
+              "name": "OMNIHIL AC Power Cord Compatible with Marshall STANMORE Brown Speaker",
+              "price": 8.96,
+              "average_score": 25.0
+            },
+            {
+              "id": 67876,
+              "name": "NorthPada 9V 2A Power Supply Cord Adapter for Brother P-Touch PT-D210 PTD 210 PT-D200VP PTH110 PT-1890 Label Maker, Dymo Colorpop LabelManager LM-160 LM-500TS",
+              "price": null,
+              "average_score": 22.5
+            },
+            {
+              "id": 68528,
+              "name": "AC Adapter for Primera LX400 LX 800 LX810 LX900 Color Label Printer Power Supply",
+              "price": 11.25,
+              "average_score": 22.5
+            },
+            {
+              "id": 69347,
+              "name": "Ac Adapter / Power Supply For AOC LM520 LM720 LM729 LM800 LM914 Lcd Monitor",
+              "price": null,
+              "average_score": 22.5
+            },
+            {
+              "id": 70616,
+              "name": "HQRP AC Adapter Compatible with Brookstone DUL25AF-090200 DUL25AF090200 Speaker Adaptor Power Supply Cord [UL Listed] + Euro Plug Adapter",
+              "price": 9.91,
+              "average_score": 22.5
+            },
+            {
+              "id": 71001,
+              "name": "T-Power car Charger for 12V Midland WR300 WR-300 75-785 75785 40-Channel & WR-10 WR10 Hazard Alert Weather Radio Replacement Power Supply Cord",
+              "price": 13.99,
+              "average_score": 22.5
+            },
+            {
+              "id": 71285,
+              "name": "12V Power Supply Cord for Sceptre AOC Dell Monitor Power Cable, 12V 5A AC/DC Adapter Charger Sceptre 19\" 20\" 22\" 24\" 25\" 27\" 30\" 32\" Series LED Supersonic Monitor Charger",
+              "price": 13.89,
+              "average_score": 22.5
+            },
+            {
+              "id": 71726,
+              "name": "AC Adapter Charger for EVOO EV-C-116-1 Chrome OS Chromebook PC SAW30-120-2000U DC Power Supply Cord Cable, 5 Feet, with LED Indicator, Compatible Replacement",
+              "price": 12.09,
+              "average_score": 21.0
+            },
+            {
+              "id": 66549,
+              "name": "Digipartspower +16V + 32V AC DC Adapter for HP Photosmart 2575 2575V 2575xi Q3020A 5550v All-in-One Printer Scanner Copier Power Supply Cord Cable Charger",
+              "price": 17.85,
+              "average_score": 20.0
+            },
+            {
+              "id": 68237,
+              "name": "UpBright 15V AC/DC Adapter Compatible with Whisker Litter-Robot 3 Open Air Self Cleaning Cat Litter Box 15VDC Power Supply Cord Cable Battery Charger",
+              "price": 10.45,
+              "average_score": 20.0
+            },
+            {
+              "id": 68529,
+              "name": "AC Adapter Compatible Replacement for Shark CH951 14, CH95114 (NOT fit Other Models) UltraCyclone Pet Pro+ Plus Vacuum Vac Cleaner Wall DC Power Supply Charger Cord Cable Adaptor, 5 Feet",
+              "price": 18.94,
+              "average_score": 20.0
+            },
+            {
+              "id": 68792,
+              "name": "HKY 6.25V 16W AC DC Adapter Compatible with Fire TV CL1130,Digital HD Streaming Media Player Fire TV Box 1st Generation Power Supply Switching Charger Plug Cord",
+              "price": 10.99,
+              "average_score": 20.0
+            },
+            {
+              "id": 70562,
+              "name": "Accessory USA 24V AC DC Adapter for Pulse Performance Super C Super-C 161931 163228 Electric Scooter 24 Volt Power Supply Cord (w/Barrel Tip.)",
+              "price": 23.89,
+              "average_score": 20.0
+            },
+            {
+              "id": 70992,
+              "name": "UpBright 18V AC/DC Adapter Compatible with Insignia NS-SB316 NSSB316 NS-HSB318 NSHSB318 2.0-Channel Soundbar Home Theater Speaker 18VDC 2500mA 18.0V 2.5A Power Supply Cord Cable Battery Charger PSU",
+              "price": 10.54,
+              "average_score": 20.0
+            },
+            {
+              "id": 71694,
+              "name": "UpBright 9V AC/DC Adapter Compatible with Donner Mini Pedal Looper Twin Series Ultimate Delay Effects Extreme Driver Tube Dumbal Blues Drive Overdrive Mod Square Guitar Effect DC-9V 9VDC Power Supply",
+              "price": 9.99,
+              "average_score": 20.0
+            },
+            {
+              "id": 70144,
+              "name": "MyVolts 5V Power Supply Adaptor Compatible with/Replacement for Leapfrog Zippity Dance System - US Plug",
+              "price": 18.99,
+              "average_score": 19.0
+            },
+            {
+              "id": 1044,
+              "name": "2A AC Wall Power Charger Adapter Cord for JVC Everio GZ-EX310/AU/S GZ-EX310/BU/S",
+              "price": 9.99,
+              "average_score": 17.5
+            },
+            {
+              "id": 1259,
+              "name": "8 Feet Omnihil AC /DC Power Adapter 18V 1A (1000mA) 5.5x2.5millimeters Compatible with ECOVAC S DEEBOT N79 Robotic VAC uum Cleaner",
+              "price": 11.96,
+              "average_score": 17.5
+            },
+            {
+              "id": 67171,
+              "name": "T POWER Ac dc Adapter for DigiTech JML2 JamMan Stereo Looper Sampler Pedal Replacement Switching Power Supply Cord Charger",
+              "price": 19.99,
+              "average_score": 17.5
+            },
+            {
+              "id": 67796,
+              "name": "T-Power AC Adapter USB Cord for Fujifilm Instax Share Smartphone Printer SP-1 SP1 Instax R Share AC-5VX BKA-AC5VN AC-5VS, AC-5VC, AC-5VN, AC-5VW, AC-5V,AC-5VH, AC-5VHS, AC-5VX, 600005538",
+              "price": 11.99,
+              "average_score": 17.5
+            },
+            {
+              "id": 68631,
+              "name": "UpBright 12V AC/DC Adapter Compatible with Seagate Business Storage 1-Bay NAS SRN01D P/N 1BV5N1-570 2TB 1BV5N3-570 1BV5P2-500 4TB 3TB Hard Disk Drive HDD HD 12VDC 3A 36W DC12V 12.0V Power Supply Cord",
+              "price": 14.99,
+              "average_score": 17.5
+            },
+            {
+              "id": 70523,
+              "name": "UpBright 12V AC Adapter Compatible with Icom IC-A6 IC-A24E IC-A23 IC-W32A IC-R10 IC-T7H IC-T70A IC-T81A IC-T90A IC-91A IC-T8A BC-110A AEC-4112D IC-2SAT IC-3SAT IC-A3 IC-31 IC-51 IC-446S IC-40S IC-T22A",
+              "price": 8.54,
+              "average_score": 17.5
+            },
+            {
+              "id": 70902,
+              "name": "OMNIHIL AC/DC Power Adapter Compatible with LAC ie Grand Hard Disk Switching Cable PS",
+              "price": 12.96,
+              "average_score": 17.5
+            },
+            {
+              "id": 71655,
+              "name": "MTYTOT 9V DC 2A Power Supply 100-240V AC to 9Volt DC 2000mA Switching Supply Power Adapter 5.5 X2.5mm US Plug AC Adapter Transformer Wall Adapter",
+              "price": null,
+              "average_score": 16.5
+            },
+            {
+              "id": 71592,
+              "name": "Aprelco UL Listed AC-DC Adapter Charger Replacement for CY48-0901500 Chen Yow Transformer Switching Transformer Power Supply Cord Mains PSU AC110-240V",
+              "price": 12.99,
+              "average_score": 16.0
+            },
+            {
+              "id": 1004,
+              "name": "UpBright 4-Pin AC/DC Adapter for D-Link DNS-321 DNS-326 DNS-323 DNS-726-4 DNS-722-4 DLink DNS321 DNS326 DNS323 DNS726 4 DNS722 4 2-Bay Network Storage NAS Enclosure HDD HD 5V 3A 12V 3A Power Supply",
+              "price": 18.85,
+              "average_score": 15.0
+            },
+            {
+              "id": 1094,
+              "name": "Accessory USA AC DC Adapter for Five S FS8812 Fives Five Star 10-Motor Massage Seat Cushion with Heat Home Wall Charger Power Supply Cord Cable",
+              "price": 15.89,
+              "average_score": 15.0
+            },
+            {
+              "id": 1220,
+              "name": "T POWER Charger for Stanley Fatmax SL10LEDSL SL10LEDL SL1M09 SL5W09 10 Watt Li-ION LED Rechargeable Spotlight Ac Dc Adapter Power Supply",
+              "price": 11.99,
+              "average_score": 15.0
+            },
+            {
+              "id": 1273,
+              "name": "MaxLLTo\u00ae USB AC Power Adapter Battery Charger Cord for Sony Cybershot DSC-W810",
+              "price": 10.98,
+              "average_score": 15.0
+            },
+            {
+              "id": 1438,
+              "name": "Accessory USA 17V DC 1AMP AC DC Adapter for DieHard 1150 Platinum Portable Power 28.71988. 0898004269-1 2871988. 08980042691 Die Hard 12V JumpStart Starter Battery 17VDC - 18VDC 1A Power Supply Cord",
+              "price": 13.46,
+              "average_score": 15.0
+            },
+            {
+              "id": 66733,
+              "name": "Accessory USA AC DC Adapter for LG Electronics ND8630 AirPlay Dock Speaker Power Supply Cord",
+              "price": 23.89,
+              "average_score": 15.0
+            },
+            {
+              "id": 66963,
+              "name": "UpBright AC DC Adapter Compatible with Milanix MX7 MX7U 7\" MX8 8\" MX12 12.1\" MX13 13.3\" MX14 14.1\" Portable Rechargeable ATSC Widescreen Digital LED Television TV Power Supply Cord Battery Charger PSU",
+              "price": 19.99,
+              "average_score": 15.0
+            },
+            {
+              "id": 67388,
+              "name": "HQRP AC Adapter Compatible with PROFORM 22.0 Crosstrainer Elliptical Exerciser PFEL78060 PFEL78061 Power Supply Cord [UL Listed] + Euro Plug Adapter",
+              "price": 8.91,
+              "average_score": 15.0
+            },
+            {
+              "id": 67663,
+              "name": "Accessory USA AC Adapter for Nordic Track Pro-Form 14730 Elliptical Power Supply Cord",
+              "price": 8.99,
+              "average_score": 15.0
+            },
+            {
+              "id": 67697,
+              "name": "DC12V 2A Power Supply Adapter for DC 12V 3528/5050 LED Light Strip, AMARS AC 100-240V to DC 12V Transformers Power Supply Adaptor, 12 Volt 2 Amp Power Adaptor, 2.1mm 5.5mm US Plug, 24W Max",
+              "price": null,
+              "average_score": 15.0
+            },
+            {
+              "id": 68259,
+              "name": "UpBright NEW AC/DC Adapter For Shenzhen Fujia FJ-SW1201000U Switching Power Supply Cord Cable PS Wall Home Charger Input: 100 - 240 VAC 50/60Hz Worldwide Voltage Use Mains PSU",
+              "price": null,
+              "average_score": 15.0
+            },
+            {
+              "id": 68423,
+              "name": "Power Cord Ac Adapter Charger For Logitech Harmony Link System & Logitech PS3 Adapter",
+              "price": null,
+              "average_score": 15.0
+            },
+            {
+              "id": 68470,
+              "name": "RocketBus 12V DC 2.5A Replacement AC Wall Charger Power Supply Adapter for 12 Volt DC DVR Recorder Surveillance Security Camera System",
+              "price": null,
+              "average_score": 15.0
+            },
+            {
+              "id": 68955,
+              "name": "Lenink Adjustable AC Power Supply Adapter Kit for AA Battery, Replace 2AA, 3AA, 4AA, 6AA, 8AA Battery for LED Light, Decorations, Thermostat, Power Garbage Can",
+              "price": null,
+              "average_score": 15.0
+            },
+            {
+              "id": 69080,
+              "name": "ANS ANiceSeller Replacement 2A Vehicle Battery Adapter for Philips LY-02 Dual Screen DVD Player Car Charger",
+              "price": 11.99,
+              "average_score": 15.0
+            },
+            {
+              "id": 69395,
+              "name": "UpBright 2-Pin AC in Power Cord Cable Plug Compatible with Sony CFD-50 CFD50 Digital CD Radio Stereo Cassette Player DPP-EX5 DPP-EX7 DPP-SV55 DPP-SV77 Photo Thermal Printer CMT-BT60 Bluetooth Speaker",
+              "price": 6.89,
+              "average_score": 15.0
+            },
+            {
+              "id": 70322,
+              "name": "OMNIHIL High Speed 2.0 USB Data Cable Compatible with Canon PIXMA MP, MX, MG, E Pro Series Printers",
+              "price": 11.96,
+              "average_score": 15.0
+            },
+            {
+              "id": 70792,
+              "name": "PK Power AC/DC Adapter for RadioShack Pro-433 CAT. NO. 20-433 Radio Shack Radio Scanner Power Supply Cord Cable PS Wall Home Charger Mains PSU",
+              "price": 14.89,
+              "average_score": 15.0
+            },
+            {
+              "id": 70795,
+              "name": "Power Adapter Supply 9V DC 1A For Guitar Effect Pedal With Cable 5 Way Daisy Chain Cord",
+              "price": null,
+              "average_score": 15.0
+            },
+            {
+              "id": 71525,
+              "name": "TKDY 12V Power Cord for Peloton Exercise Bike, 12 Volt 4.17A AC Adapter Compatible with Peloton ATS050TP121 PLTN-RB1VO Charger Power Supply Replacement.",
+              "price": 20.99,
+              "average_score": 15.0
+            },
+            {
+              "id": 71848,
+              "name": "UpBright\u00a8 New AC Power Cord Replacement for AKAI MPC1000 MPC2000 MPC2000XL MPC2500 MPC3000 MPC4000 MPC5000 Music MIDI Center Machine Number Z-8 S5000 Professional Sampler Audio Manual Roland JV-2080",
+              "price": 4.99,
+              "average_score": 15.0
+            },
+            {
+              "id": 1025,
+              "name": "T-Power 12V Car cigarette plug Charger for RCA , Pyle , DBPOWER , Sylvania, Synagy, Apeman, Craig, COOAU, Dynex, Impecca, Magnavox , UEME Portable Dvd Player Power Supply",
+              "price": 9.99,
+              "average_score": 12.5
+            },
+            {
+              "id": 1169,
+              "name": "UpBright AC/DC Adapter Compatible with Drobo 4-Bay FireWire 800 FW800 SATA Data Robotics DR04DU10 04DD1-10EARS-4 DAS HD DR-P400-2P11 Gen 1 Generation 1 1st Storage Array 4HD 12V 6.6A-7A 80W HIGH POWER",
+              "price": 14.99,
+              "average_score": 12.5
+            },
+            {
+              "id": 1170,
+              "name": "Premium Tech Professional Travel Battery Charger for Nikon EN-EL14 Battery",
+              "price": 7.65,
+              "average_score": 12.5
+            },
+            {
+              "id": 1209,
+              "name": "Accessory USA AC Adapter Charger for TECSUN FM/AM/SW PL-300wt R-9700DX BCL-3000 S-2000 GREEN-88 GREEN-168 GREEN-138 Hand Crank Rechargeable Radio Power Supply",
+              "price": 13.99,
+              "average_score": 12.5
+            },
+            {
+              "id": 1347,
+              "name": "T-Power 24V Charger for Dymo LabelWriter Turbo Printer 310 315 320 330 400 450 450 Turbo,Duo Twin Turbo Printer p,n: 1752266 1752264 1755120 LabelWriter 4XL Printer Ac Dc Adapter Power Supply",
+              "price": 16.99,
+              "average_score": 12.5
+            },
+            {
+              "id": 1516,
+              "name": "UpBright 18V AC/DC Adapter Compatible with Harman Kardon Go + Play Go&Play Portable Speaker Docking Station System Boombox H/K S60-180333-WH01 18VDC 3.3A 3.33A DC18V 18.0V Power Supply Cord Charger",
+              "price": 12.99,
+              "average_score": 12.5
+            },
+            {
+              "id": 68099,
+              "name": "QKKE 18V 1A AC/AC Adaptor Power Supply for YL-48-1801000A Alto Mixer ZMX122 8 Channel",
+              "price": 11.99,
+              "average_score": 12.5
+            },
+            {
+              "id": 68793,
+              "name": "MyVolts 5V Power Supply Adaptor Compatible with/Replacement for LaCie Rug FWSA 320GB External Hard Drive - US Plug",
+              "price": 18.99,
+              "average_score": 12.5
+            },
+            {
+              "id": 69056,
+              "name": "Accessory USA AC DC Adapter Replacement for SENNHEISER DW Office Runner OfficeRunner Wireless Headset OR BS US Orbs-US Art. No: 504381 Power Supply Cord Cable Wall Home Charger",
+              "price": 22.98,
+              "average_score": 12.5
+            },
+            {
+              "id": 69306,
+              "name": "Generic Compatible Replacement AC Adapter Charger for Philips SPF3400C G7 Digital Photo Frame Power Cord Charger",
+              "price": 8.47,
+              "average_score": 12.5
+            },
+            {
+              "id": 70016,
+              "name": "Digipartspower USB PC Computer Data Sync Cable Cord Lead for Nikon Coolpix L610 L 610 Camera",
+              "price": 8.85,
+              "average_score": 12.5
+            },
+            {
+              "id": 70352,
+              "name": "PwrON 6.6FT Extra Long 12V AC to DC Adapter for JBL Flip Wireless Loudspeaker Bluetooth Speaker JBLFLIP 12VDC 1.5A - 2A Power Supply Cord",
+              "price": 15.3,
+              "average_score": 12.5
+            },
+            {
+              "id": 70887,
+              "name": "AT LCC AC Power Adapter Charger for JBL Xtreme Splashproof Wireless Speaker",
+              "price": null,
+              "average_score": 12.5
+            },
+            {
+              "id": 71064,
+              "name": "PPJ 19V AC/DC Adapter Replacement for Samsung Galaxy View SM-T670 SM-T670N SM-T677V NT900X5L NT900X5L-K24P NT910S3K NT910S3K-K38W Tablet PC CE0890 SMT670 19VDC Power Supply Cord Battery Charger",
+              "price": 8.47,
+              "average_score": 12.5
+            },
+            {
+              "id": 1040,
+              "name": "T-Power Car AUTO Charger for WesternDigital WD TV Live Center Streaming Media Player Western Digital WDBHG70000NBK-HESN Model Number: WD00AVN, WDAVN00B, WD00AVN, WDAVN00B, WD00AVP,WDAVP00B",
+              "price": 12.99,
+              "average_score": 10.0
+            },
+            {
+              "id": 1117,
+              "name": "Lightkiwi N9418 6 Watt Power Supply for Modular LED Under Cabinet Lighting (White)",
+              "price": 12.99,
+              "average_score": 10.0
+            },
+            {
+              "id": 1133,
+              "name": "HQRP 20V AC Adapter Compatible with Logitech Wingman Formula Force Game Steering Wheel Racing, Force Joystick J-UA9 Power Supply Cord Adaptor 190010-0000 + Euro Plug Adapter",
+              "price": 10.91,
+              "average_score": 10.0
+            },
+            {
+              "id": 1360,
+              "name": "Accessory USA AC DC Adapter for iHome iP90 iP90BK iP90BZ iP90SK iP90SIL iP90SZ iP90BZC iP90SZC Clock Radio Power Supply Cord",
+              "price": 11.89,
+              "average_score": 10.0
+            },
+            {
+              "id": 1416,
+              "name": "PK Power AC/DC Adapter for CS Model: CS-1203000 Power Supply Cord Cable PS Charger Input: 100-240 VAC 50/60Hz Worldwide Voltage Use Mains PSU\u2026",
+              "price": 11.89,
+              "average_score": 10.0
+            },
+            {
+              "id": 1445,
+              "name": "UpBright New Global 7.5V AC/DC Adapter Replacement for Doctor Who Tardis USB Hub DR115 7.5VDC Power Supply Cord Cable PS Wall Home Charger Mains PSU",
+              "price": 9.99,
+              "average_score": 10.0
+            },
+            {
+              "id": 1494,
+              "name": "HQRP Battery Charger/AC Adapter Works with DT Systems EDT Series, EDT-100 EDT-102 EDT-200 EDT-202 EDT-300 EDT-302 KA12D120030033U RAPT-1450 Electronic Dog Trainer + Euro Plug Adapter",
+              "price": 14.95,
+              "average_score": 10.0
+            },
+            {
+              "id": 1556,
+              "name": "Generic Compatible Replacement AC Adapter Charger for Sony RDP XF300iP iPod iPhone Speaker Dock DC Power Cord Charger",
+              "price": 14.99,
+              "average_score": 10.0
+            },
+            {
+              "id": 66630,
+              "name": "SLLEA AC/DC Adapter for LG Flatron W2286L W2286LV W2286L-PF 22 Widescreen LCD Monitor Power Supply Cord Wall Home Charger PSU",
+              "price": 18.89,
+              "average_score": 10.0
+            },
+            {
+              "id": 67578,
+              "name": "Power Wheels 6 Volt Charger for 00801-0712 RED 6v Battery Genuine Fisher Price",
+              "price": 29.99,
+              "average_score": 10.0
+            },
+            {
+              "id": 67603,
+              "name": "Samsung AD44-00151A ADAPTOR;AA-MA9/XAA,A",
+              "price": null,
+              "average_score": 10.0
+            },
+            {
+              "id": 71063,
+              "name": "PK Power AC/DC Adapter for Swingline Portable Electrics Battery Powered Tapler Model# 48200 SWI48200 S7048200A Power Supply Cord Cable PS Wall Home Charger Mains PSU",
+              "price": 18.89,
+              "average_score": 10.0
+            },
+            {
+              "id": 71430,
+              "name": "BENSN Power Adapter Charger",
+              "price": null,
+              "average_score": 10.0
+            },
+            {
+              "id": 71748,
+              "name": "UpBright 3.3V AC/DC Adapter Compatible with Brookstone L.T.E. LTE12W-S0 LTE12WS0 LTE12W-SO LTE12WSO Brook Stone LTE Li Tone Electronics 3.3VDC 2A 6.6W I.T.E. Power Supply Cord Battery Charger PSU",
+              "price": 12.99,
+              "average_score": 10.0
+            },
+            {
+              "id": 72018,
+              "name": "UpBright 26V AC Adapter Compatible with TINECO A10 VA101000US Dash A11 VA112000US Hero EX Tango Master Stick Vacuum Cleaner Vac DC 21.6V Battery YLS0241A-T260080 DSC550-260070W-1 Power Supply Charger",
+              "price": 12.89,
+              "average_score": 9.0
+            },
+            {
+              "id": 1046,
+              "name": "AC Power Adapter Works with Sony DVDirect VRD-MC10 VRDMC10 DVD Recorder Power Payless",
+              "price": 39.99,
+              "average_score": 7.5
+            },
+            {
+              "id": 1288,
+              "name": "PK Power Ac Power Adapter Cord for GPX Bd707b Ip908b Pd701w Pd711b Pd730 Pd808 Pd818 Pd7711b Pd901w Pd931 Pd951bu Pd951r Portable DVD Players",
+              "price": 6.9,
+              "average_score": 7.5
+            },
+            {
+              "id": 1383,
+              "name": "UpBright 12V AC/DC Adapter Replacement for AT&T Cisco 3G Microcell Wireless DPH151-AT DPH151AT 4035800 ATT Signal Booster Netgear 332-10114-01 & AD661F 12VDC Power Supply Cord Battery Charger PSU",
+              "price": 8.99,
+              "average_score": 7.5
+            },
+            {
+              "id": 67174,
+              "name": "SLLEA Universal 3.7v Battery Charger for Nintendo DS XL 3DS SPR 003 SPR-003 Official",
+              "price": 5.99,
+              "average_score": 7.5
+            },
+            {
+              "id": 68862,
+              "name": "T-Power Charger for Rocketfish 4 Port HDMI Switch Selector RF-G1185 Replacement Ac Dc Adapter Power Supply",
+              "price": 18.49,
+              "average_score": 7.5
+            },
+            {
+              "id": 68975,
+              "name": "4650mAh Extended Life Battery Thicker Back Cover for Virgin HTC EVO V 4G Anroid Phone",
+              "price": 95.88,
+              "average_score": 7.5
+            },
+            {
+              "id": 70858,
+              "name": "Adaptiv A-05-02 TPX Quick-Release Mount Plate",
+              "price": 19.0,
+              "average_score": 7.5
+            },
+            {
+              "id": 70880,
+              "name": "Power Supply 24V",
+              "price": null,
+              "average_score": 7.5
+            },
+            {
+              "id": 71141,
+              "name": "GMJYC 5V 10A 50W Adapter, 100-240V AC to DC 5volt 8.5A 8A 6A Power Supply with 5.5x2.5mm Tip for Christmas Lights, WS2811 WS2812B Pixels Strip Lights, Raspberry Pi, CCTV, Speakers, Routers, 7.5ft Cord",
+              "price": null,
+              "average_score": 7.5
+            },
+            {
+              "id": 71986,
+              "name": "QKKE 18V AC Adapter for PetSafe PAL00-14243 ScoopFree Cat Litter Box Power Cord Cable",
+              "price": 5.99,
+              "average_score": 7.5
+            },
+            {
+              "id": 1241,
+              "name": "Replacement Power Supply/AC Adapter for Korg Electribe Products: EA-1, ER-1, EM-1, ES-1 and all MKII/MK2 versions of those models (Aftermarket)91",
+              "price": 3.39,
+              "average_score": 5.0
+            },
+            {
+              "id": 1327,
+              "name": "Power Payless Compatible with 18V AC Power Adapter Works with ALTEC Lansing T612 Speaker",
+              "price": 43.59,
+              "average_score": 5.0
+            },
+            {
+              "id": 1363,
+              "name": "Generic Compatible Replacement AC Adapter Charger for Foscam FI8918W FI8908W FI8909W WiFi IP Cam Power Supply Charger",
+              "price": 6.46,
+              "average_score": 5.0
+            },
+            {
+              "id": 1458,
+              "name": "UpBright AC/DC Adapter Compatible with 6V KT1227WM Pacific Cycle Disney Princess Minnie Mouse Power KT1192 KT1200WM KT1268WM KT1378WM KT1472 KT1219WM KT1198WM Ride on Toy ATV Quad 6VDC Battery Charger",
+              "price": 8.99,
+              "average_score": 5.0
+            },
+            {
+              "id": 68933,
+              "name": "T POWER 6.6ft Long Cable Ac Dc Adapter for Epson Multi Media Photo P1000, P-1000, P2000, P-2000, P-3000, P3000, P5000, P-5000, P6000, P-6000, P7000, P-7000 Multimedia Storage Viewer",
+              "price": 16.49,
+              "average_score": 5.0
+            },
+            {
+              "id": 69002,
+              "name": "elago Cam Cover Compatible with Google Nest Cam Outdoor (Black, 3Pcs x 2Set) - Full Package, All Weather Protective Cover, Adapter Cover, Easy Installation (NOT Compatible with 2021 Battery Model)",
+              "price": 12.99,
+              "average_score": 5.0
+            },
+            {
+              "id": 69149,
+              "name": "Olympus AC-3 AC Adapter for HLD-6 Grip",
+              "price": null,
+              "average_score": 5.0
+            },
+            {
+              "id": 69885,
+              "name": "10 Pcs 4 x AA 4AA 4 Cell AA 4XAA 6V Battery Holder Case Box Wired ON/Off Switch with Cover",
+              "price": null,
+              "average_score": 2.5
+            },
+            {
+              "id": 69944,
+              "name": "WennoW Premium 5Amp Power Adapter with 8 Way Splitter for Lorex Cameras",
+              "price": null,
+              "average_score": 1.0
+            },
+            {
+              "id": 69202,
+              "name": "Anvil Solid Low-Profile Twill Cap (156)",
+              "price": null,
+              "average_score": 0.0
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "summary": {
+    "categories_tested": [
+      "2 in 1 Laptop Computers",
+      "20th Century Fox Home Entertainment",
+      "A&E Home Video",
+      "AA Batteries",
+      "AC Adapters"
+    ],
+    "total_episodes": 5,
+    "episodes_by_category": {
+      "2 in 1 Laptop Computers": 1,
+      "20th Century Fox Home Entertainment": 1,
+      "A&E Home Video": 1,
+      "AA Batteries": 1,
+      "AC Adapters": 1
+    },
+    "product_counts_by_category": {
+      "2 in 1 Laptop Computers": {
+        "num_products": 16,
+        "episodes": 1
+      },
+      "20th Century Fox Home Entertainment": {
+        "num_products": 89,
+        "episodes": 1
+      },
+      "A&E Home Video": {
+        "num_products": 35,
+        "episodes": 1
+      },
+      "AA Batteries": {
+        "num_products": 29,
+        "episodes": 1
+      },
+      "AC Adapters": {
+        "num_products": 133,
+        "episodes": 1
+      }
+    }
+  }
+}

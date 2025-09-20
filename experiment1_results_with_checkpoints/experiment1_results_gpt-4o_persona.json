@@ -1,0 +1,1471 @@
+{
+  "experiment": "Experiment 1: LLM Learning Across Categories",
+  "timestamp": "2025-09-20T14:57:25.124848",
+  "summary": {
+    "regret_progression": {
+      "episode_data": [
+        {
+          "regret": 20.0,
+          "questions": 2
+        },
+        {
+          "regret": 62.5,
+          "questions": 7
+        }
+      ],
+      "episode_regrets": [
+        20.0,
+        62.5
+      ],
+      "avg_regret": 41.25,
+      "regret_trend": "stable"
+    },
+    "categories_tested": [
+      "20th Century Fox Home Entertainment",
+      "2 in 1 Laptop Computers"
+    ],
+    "total_episodes": 2,
+    "successful_episodes": 2,
+    "target_successful_episodes": 2,
+    "total_questions_asked": 9,
+    "episodes_by_category": {
+      "2 in 1 Laptop Computers": 1,
+      "20th Century Fox Home Entertainment": 1
+    },
+    "product_counts_by_category": {
+      "2 in 1 Laptop Computers": {
+        "num_products": 16,
+        "episodes": 1
+      },
+      "20th Century Fox Home Entertainment": {
+        "num_products": 89,
+        "episodes": 1
+      }
+    }
+  },
+  "config": {
+    "persona_index": 9501,
+    "categories": null,
+    "episodes_per_category": 1,
+    "max_questions": 20,
+    "model": "gpt-4o",
+    "feedback_type": "persona",
+    "seed": 415909
+  },
+  "agent_episode_history": [
+    {
+      "episode": 1,
+      "category": "2 in 1 Laptop Computers",
+      "persona": 9501,
+      "dialog": [
+        [
+          "What's your budget for a 2 in 1 laptop?",
+          "Around $500."
+        ]
+      ],
+      "selected_product_id": 71217,
+      "selected_product_name": "Dell Chromebook 11-5190 2-in-1 Convertible Notebook, 11.6\" Touchscreen, Intel Celeron N3350 Processor, 32GB eMMC Storage, 4GB DDR4, Wi-Fi + Bluetooth, Chrome OS - Renewed",
+      "feedback": "Well, this Dell Chromebook seems like a decent option, but I was really hoping to find something with a bit more storage and a larger screen for reading my history books and watching videos about Iowa's pioneers."
+    },
+    {
+      "episode": 2,
+      "category": "20th Century Fox Home Entertainment",
+      "persona": 9501,
+      "dialog": [
+        [
+          "Are you looking for a specific type of movie or genre from 20th Century Fox Home Entertainment?",
+          "I'd be interested in a historical drama."
+        ],
+        [
+          "Do you have a specific budget in mind for the historical drama movie?",
+          "I'd say around $15."
+        ],
+        [
+          "Do you have a preference for a specific historical period or event in the drama?",
+          "The Civil Rights Movement."
+        ],
+        [
+          "Do you prefer a movie that focuses on a specific figure from the Civil Rights Movement?",
+          "Yes."
+        ],
+        [
+          "Do you have a preference for a specific actor or director in the movie?",
+          "Denzel Washington."
+        ],
+        [
+          "Do you have a preference for a specific movie title featuring Denzel Washington related to the Civil Rights Movement?",
+          "\"Malcolm X.\""
+        ]
+      ],
+      "selected_product_id": 6648,
+      "selected_product_name": "4 Family Film Favorites: Percy Jackson -The Lightning Thief/ The Chronicles Of Narnia: Voyage Of The Dawn Treader/ Eragon/ The Seeker",
+      "feedback": "Oh, this isn't quite what I had in mind. I was really hoping for something more along the lines of a historical documentary or a film that delves into the stories of the civil rights movement or Iowa's rich past."
+    }
+  ],
+  "category_results": {
+    "2 in 1 Laptop Computers": {
+      "avg_score": 62.5,
+      "top1_rate": 0.0,
+      "episode_count": 1,
+      "num_products": 16,
+      "products_with_scores": [
+        {
+          "id": 66801,
+          "name": "2019 HP Spectre x360 13t Gem Cut PRIVACY SCREEN with 13.3\" 2 in 1(i7 8565U, FHD IR webcam, HP Pen, 3 Yr McAfee Internet Security, Windows 10 PRO Upgrade,HP Worldwide Wrnty(16G+1TB SSD, Poseidon Blue)",
+          "price": null,
+          "average_score": 82.5
+        },
+        {
+          "id": 67502,
+          "name": "[Windows 11 Pro] HP Envy x360 15 2-in-1 Business Laptop, 15.6\" FHD Touchscreen, Octa-Core AMD Ryzen 7 5700U (Beat i7-1165G7), 64GB DDR4 RAM, 2TB PCIe SSD, WiFi 6, Fingerprint Reader, 64GB Flash Stylus",
+          "price": 1469.0,
+          "average_score": 77.5
+        },
+        {
+          "id": 68133,
+          "name": "2021 Newest HP Envy x360 2-in-1 Laptop, 15.6\" FHD Touchscreen, Intel Core i5-10210U Processor, 32GB RAM, 1TB SSD, Fingerprint Reader, Backlit Keyboard, USB 3.1, HDMI, Webcam, Win 10 + Oydisen Cloth",
+          "price": 999.0,
+          "average_score": 77.5
+        },
+        {
+          "id": 68256,
+          "name": "Microsoft Surface Book SW5-00001 2-in-1 Notebook PC - Intel Core i7-6600U 2.6 GHz Dual-Core Processor - 8 GB RAM - 256 GB Solid State Drive - 13.5-inch Touchscreen Display - (Renewed)",
+          "price": 844.0,
+          "average_score": 77.5
+        },
+        {
+          "id": 70897,
+          "name": "HP Envy x360 Flagship High Performance 2-in-1 Convertible Laptop PC (2016), 15.6-inch Full HD Touch-Screen Display, Intel Core i5-6200U, 12GB DDR3L RAM, 1TB HDD, Backlit Keyboard, Windows 10",
+          "price": 899.99,
+          "average_score": 77.5
+        },
+        {
+          "id": 70577,
+          "name": "SHOXLAB Supported- NewHP Spectre x360 2-in-1 Convertible, 16\" 3K+ Touchscreen Laptop, Core i7-11390H, 16GB RAM 1TB SSD, Upto17H Battery, HDMI Fingerprint Thunderbolt4 Type-C WiFi6 Win11H",
+          "price": 1329.0,
+          "average_score": 76.5
+        },
+        {
+          "id": 70381,
+          "name": "Lenovo Yoga C930 2-in-1 Laptop, 13.9-inch Full HD ( 1920 x 1080 ) Touchscreen, 8th Gen Intel Core i7-8550U, 12GB RAM, 256 GB SSD, Fingerprint Reader, Windows 10, Iron Gray (Renewed)",
+          "price": null,
+          "average_score": 76.0
+        },
+        {
+          "id": 69300,
+          "name": "Microsoft Surface Laptop Studio - 14.4\" Touchscreen - Intel\u00ae Core\u2122 i7 - 32GB Memory - 2TB SSD - Platinum",
+          "price": 2419.6,
+          "average_score": 75.0
+        },
+        {
+          "id": 72026,
+          "name": "Bmax 2 in 1 Convertible Laptop, 11.6\" FHD (1920 X 1080) IPS Touchscreen, Quad-Core Celeron N4120, 8GB DDR4, 256GB SATA SSD, Expandable 1TB SSD, Windows 10, Type-C, HDMI, All-Metal Body",
+          "price": null,
+          "average_score": 71.5
+        },
+        {
+          "id": 68115,
+          "name": "Dell i5568-7477GRY 15.6-Inches FHD 2-in-1 Laptop (Intel Core i7-6500U 2.5GHz Processor, 16 GB RAM, 256 GB SDD, Windows 10) Gray",
+          "price": null,
+          "average_score": 70.0
+        },
+        {
+          "id": 68688,
+          "name": "ASUS Vivobook Go 2-in-1 Laptop 2023 Newest, 14 Inch Touchscreen Display, Intel Celeron N4500 Processor, 4GB RAM, 64GB eMMC, 128GB MicroSD, Intel UHD Graphics, Bluetooth, Windows 11 in S Mode, Blue",
+          "price": null,
+          "average_score": 70.0
+        },
+        {
+          "id": 71545,
+          "name": "Lenovo 2022 IdeaPad Flex 3 11.6\" HD 2-in-1 Touchscreen Chromebook (8-Core MediaTek MT8183, 4GB RAM, 64GB eMMC, Stylus, Webcam) Flip Convertible Home Education Laptop, IST Computers Pen, Chrome OS",
+          "price": 229.98,
+          "average_score": 70.0
+        },
+        {
+          "id": 68677,
+          "name": "New XPS 13 2-in-1 7390 Intel 10th Gen i7-1065G7 Intel Iris Plus 13.4\" FHD+ WLED Touch (1920 x 1200) Active Stylus Pen + Best Notebook Pen Light (512GB SSD|16GB RAM |W10 Pro) Arctic White (Renewed)",
+          "price": 1099.66,
+          "average_score": 69.0
+        },
+        {
+          "id": 72070,
+          "name": "HP Envy x360 15m-ds0012dx 15.6\" Touchscreen 2 in 1 Notebook, AMD Ryzen 7 3700U, 8GB RAM, 256GB SSD - 5TV96UAR#ABA (Renewed)",
+          "price": null,
+          "average_score": 67.5
+        },
+        {
+          "id": 71217,
+          "name": "Dell Chromebook 11-5190 2-in-1 Convertible Notebook, 11.6\" Touchscreen, Intel Celeron N3350 Processor, 32GB eMMC Storage, 4GB DDR4, Wi-Fi + Bluetooth, Chrome OS - Renewed",
+          "price": 89.99,
+          "average_score": 62.5
+        },
+        {
+          "id": 70104,
+          "name": "ASUS - TUF Gaming 17.3\" Laptop - Intel Core i5-8GB Memory - NVIDIA GeForce RTX3050-512",
+          "price": 847.0,
+          "average_score": 45.0
+        }
+      ]
+    },
+    "20th Century Fox Home Entertainment": {
+      "avg_score": 30.0,
+      "top1_rate": 0.0,
+      "episode_count": 1,
+      "num_products": 89,
+      "products_with_scores": [
+        {
+          "id": 99424,
+          "name": "The Lion in Winter",
+          "price": 4.19,
+          "average_score": 92.5
+        },
+        {
+          "id": 99464,
+          "name": "The Comancheros",
+          "price": 6.99,
+          "average_score": 87.5
+        },
+        {
+          "id": 97306,
+          "name": "Heidi",
+          "price": 10.38,
+          "average_score": 85.0
+        },
+        {
+          "id": 6674,
+          "name": "Old Man And The Gun, The",
+          "price": 9.79,
+          "average_score": 80.0
+        },
+        {
+          "id": 97398,
+          "name": "Cardinal Richelieu; I'd Climb The Highest Mountain; Sodom And Gomorrah; Esther And The King",
+          "price": 50.29,
+          "average_score": 80.0
+        },
+        {
+          "id": 99707,
+          "name": "Always Goodbye",
+          "price": 19.99,
+          "average_score": 80.0
+        },
+        {
+          "id": 95440,
+          "name": "Twelve O'Clock High 1949",
+          "price": 11.94,
+          "average_score": 77.5
+        },
+        {
+          "id": 96411,
+          "name": "The Mary Tyler Moore Show - The Complete Fourth Season",
+          "price": 11.2,
+          "average_score": 77.5
+        },
+        {
+          "id": 95288,
+          "name": "I Was a Male War Bride",
+          "price": 32.48,
+          "average_score": 72.5
+        },
+        {
+          "id": 98701,
+          "name": "National Geographic - In Search of the Jaguar",
+          "price": 3.75,
+          "average_score": 72.5
+        },
+        {
+          "id": 99479,
+          "name": "Picket Fences - Season 1",
+          "price": 8.5,
+          "average_score": 72.5
+        },
+        {
+          "id": 96959,
+          "name": "The Shirley Temple Collection: Volume Two (Wee Willie Winkie, Stowaway, Baby Take a Bow, Bright Eyes, Rebecca of Sunnybrook Farm, and Young People)",
+          "price": 49.8,
+          "average_score": 67.5
+        },
+        {
+          "id": 97378,
+          "name": "Robots (Full Screen Edition)",
+          "price": 9.9,
+          "average_score": 67.5
+        },
+        {
+          "id": 6575,
+          "name": "Brain Games: Season 4",
+          "price": 20.0,
+          "average_score": 65.0
+        },
+        {
+          "id": 6672,
+          "name": "Angels - Good or Evil? (History Channel) [DVD]",
+          "price": 27.2,
+          "average_score": 65.0
+        },
+        {
+          "id": 97616,
+          "name": "Magic Roundabout 2004",
+          "price": 8.04,
+          "average_score": 62.5
+        },
+        {
+          "id": 94895,
+          "name": "Jesse James",
+          "price": 10.99,
+          "average_score": 60.0
+        },
+        {
+          "id": 95432,
+          "name": "Classic Quad Set 17: (Fantastic Voyage / The Lost World / The Towering Inferno / Voyage to the Bottom of the Sea)",
+          "price": 34.91,
+          "average_score": 60.0
+        },
+        {
+          "id": 97454,
+          "name": "Casper Meets Wendy Family Fun Edition",
+          "price": 24.99,
+          "average_score": 60.0
+        },
+        {
+          "id": 97326,
+          "name": "Strawberry Shortcake: Cooking Up Fun",
+          "price": 19.99,
+          "average_score": 57.5
+        },
+        {
+          "id": 97699,
+          "name": "The Dolphin: Story of a Dreamer",
+          "price": 18.99,
+          "average_score": 57.5
+        },
+        {
+          "id": 6786,
+          "name": "Shark Men: Season 2",
+          "price": 24.97,
+          "average_score": 52.5
+        },
+        {
+          "id": 96382,
+          "name": "Cocoon / Cocoon - The Return [DVD]",
+          "price": 39.95,
+          "average_score": 52.5
+        },
+        {
+          "id": 94890,
+          "name": "Charlie Chan In Honolulu",
+          "price": 16.99,
+          "average_score": 50.0
+        },
+        {
+          "id": 95468,
+          "name": "Tora! Tora! Tora!",
+          "price": 11.89,
+          "average_score": 50.0
+        },
+        {
+          "id": 99577,
+          "name": "Horton Hears a Who",
+          "price": 8.19,
+          "average_score": 50.0
+        },
+        {
+          "id": 6745,
+          "name": "Voyage to Bottom of the Sea - Season 2, Vol. 1",
+          "price": 55.91,
+          "average_score": 47.5
+        },
+        {
+          "id": 94658,
+          "name": "Moss Rose",
+          "price": 19.49,
+          "average_score": 47.5
+        },
+        {
+          "id": 96561,
+          "name": "The Simpsons: Season 12 (Limited Edition \"Comic Book Guy\" Head Packaging)",
+          "price": 54.1,
+          "average_score": 47.5
+        },
+        {
+          "id": 94636,
+          "name": "The Man I Married",
+          "price": 16.62,
+          "average_score": 45.0
+        },
+        {
+          "id": 95752,
+          "name": "Batman: The Movie (Special Edition)",
+          "price": 17.09,
+          "average_score": 45.0
+        },
+        {
+          "id": 97898,
+          "name": "Miller's Crossing",
+          "price": 8.67,
+          "average_score": 42.5
+        },
+        {
+          "id": 98712,
+          "name": "Rio 2-Movie Collection",
+          "price": 9.99,
+          "average_score": 42.5
+        },
+        {
+          "id": 98784,
+          "name": "Ice Age 4: Continental Drift",
+          "price": 8.89,
+          "average_score": 42.5
+        },
+        {
+          "id": 94904,
+          "name": "Good Year",
+          "price": null,
+          "average_score": 40.0
+        },
+        {
+          "id": 94966,
+          "name": "Wild Alaska",
+          "price": 11.49,
+          "average_score": 40.0
+        },
+        {
+          "id": 97387,
+          "name": "The Resident: The Complete Season 2",
+          "price": 34.94,
+          "average_score": 40.0
+        },
+        {
+          "id": 97896,
+          "name": "Ice Age 2: The Meltdown",
+          "price": null,
+          "average_score": 40.0
+        },
+        {
+          "id": 98292,
+          "name": "Independence Day 20th Anniversary",
+          "price": 9.08,
+          "average_score": 40.0
+        },
+        {
+          "id": 98752,
+          "name": "Classic Crime Collection - Street Justice (Murder Inc., The French Connection, The St. Valentine's Day Massacre, The Seven-Ups) [DVD]",
+          "price": 49.99,
+          "average_score": 40.0
+        },
+        {
+          "id": 96584,
+          "name": "Die Hard (Widescreen Edition)",
+          "price": 5.49,
+          "average_score": 37.5
+        },
+        {
+          "id": 99029,
+          "name": "True Lies [DVD]",
+          "price": 12.79,
+          "average_score": 37.5
+        },
+        {
+          "id": 6748,
+          "name": "King Of Burlesque",
+          "price": 27.73,
+          "average_score": 35.0
+        },
+        {
+          "id": 6871,
+          "name": "Murder On The Orient Express 2017",
+          "price": 13.99,
+          "average_score": 35.0
+        },
+        {
+          "id": 95175,
+          "name": "Wild Congo",
+          "price": null,
+          "average_score": 35.0
+        },
+        {
+          "id": 96201,
+          "name": "Star Wars, Episode III: Revenge of the Sith (Full Screen Edition)",
+          "price": 7.83,
+          "average_score": 35.0
+        },
+        {
+          "id": 96771,
+          "name": "The Blue Max",
+          "price": 22.67,
+          "average_score": 35.0
+        },
+        {
+          "id": 97289,
+          "name": "Bond Remastered - The Living Daylights (1-disc) [DVD] [1987]",
+          "price": 15.16,
+          "average_score": 35.0
+        },
+        {
+          "id": 97739,
+          "name": "The Big Year [DVD] [2011]",
+          "price": 6.5,
+          "average_score": 35.0
+        },
+        {
+          "id": 99925,
+          "name": "Unfaithful (Full Screen Edition)",
+          "price": 12.93,
+          "average_score": 35.0
+        },
+        {
+          "id": 6526,
+          "name": "Die Hard (Widescreen Edition)",
+          "price": 14.94,
+          "average_score": 32.5
+        },
+        {
+          "id": 95085,
+          "name": "24: Redemption",
+          "price": 19.99,
+          "average_score": 32.5
+        },
+        {
+          "id": 96927,
+          "name": "Enough Said",
+          "price": 10.23,
+          "average_score": 32.5
+        },
+        {
+          "id": 98754,
+          "name": "Diary Of A Wimpy Kid 4: The Long Haul [DVD] [2017]",
+          "price": 5.27,
+          "average_score": 32.5
+        },
+        {
+          "id": 6509,
+          "name": "Percy Jackson Double Feature",
+          "price": 22.0,
+          "average_score": 30.0
+        },
+        {
+          "id": 6648,
+          "name": "4 Family Film Favorites: Percy Jackson -The Lightning Thief/ The Chronicles Of Narnia: Voyage Of The Dawn Treader/ Eragon/ The Seeker",
+          "price": 24.99,
+          "average_score": 30.0
+        },
+        {
+          "id": 6856,
+          "name": "Jake Gyllenhaal Triple Feature",
+          "price": 29.63,
+          "average_score": 30.0
+        },
+        {
+          "id": 95576,
+          "name": "Wall Street",
+          "price": 12.44,
+          "average_score": 30.0
+        },
+        {
+          "id": 96738,
+          "name": "Drumline (Special Edition) by 20th Century Fox",
+          "price": 10.81,
+          "average_score": 30.0
+        },
+        {
+          "id": 97039,
+          "name": "AVP: Alien vs. Predator (Widescreen Edition)",
+          "price": 10.93,
+          "average_score": 30.0
+        },
+        {
+          "id": 97940,
+          "name": "Kung Fu Panda: The Midnight Stranger [DVD]",
+          "price": 35.0,
+          "average_score": 30.0
+        },
+        {
+          "id": 98910,
+          "name": "Catch That Kid",
+          "price": 13.65,
+          "average_score": 30.0
+        },
+        {
+          "id": 6656,
+          "name": "Star Wars: Clone Wars - Volume One [DVD]",
+          "price": 15.56,
+          "average_score": 27.5
+        },
+        {
+          "id": 6794,
+          "name": "The Pick-Up Artist [DVD]",
+          "price": 24.28,
+          "average_score": 27.5
+        },
+        {
+          "id": 94555,
+          "name": "Quantum Of Solace",
+          "price": 17.04,
+          "average_score": 27.5
+        },
+        {
+          "id": 95815,
+          "name": "Cheaper by the Dozen 2",
+          "price": 6.29,
+          "average_score": 27.5
+        },
+        {
+          "id": 97750,
+          "name": "Moondance Alexander / Virginia's Run",
+          "price": 14.0,
+          "average_score": 27.5
+        },
+        {
+          "id": 98475,
+          "name": "Prosecuting Casey Anthony",
+          "price": 21.99,
+          "average_score": 27.5
+        },
+        {
+          "id": 98691,
+          "name": "Sons of Anarchy: Season 4",
+          "price": 14.94,
+          "average_score": 27.5
+        },
+        {
+          "id": 95271,
+          "name": "Maze Runner - The Death Cure [DVD] [2018]",
+          "price": 10.83,
+          "average_score": 25.0
+        },
+        {
+          "id": 96452,
+          "name": "World Destruction Box Set (Independence Day / Chain Reaction / The Day After Tomorrow / Volcano) [DVD]",
+          "price": 54.0,
+          "average_score": 25.0
+        },
+        {
+          "id": 97305,
+          "name": "28 Days Later / 28 Weeks Later (Double Feature)",
+          "price": 26.25,
+          "average_score": 25.0
+        },
+        {
+          "id": 97773,
+          "name": "Possession",
+          "price": 8.24,
+          "average_score": 25.0
+        },
+        {
+          "id": 94841,
+          "name": "Kendra: Season 1",
+          "price": 9.98,
+          "average_score": 22.5
+        },
+        {
+          "id": 95848,
+          "name": "Empire: The Complete Fifth Season",
+          "price": 30.2,
+          "average_score": 22.5
+        },
+        {
+          "id": 96359,
+          "name": "Snatched 2017",
+          "price": 10.04,
+          "average_score": 22.5
+        },
+        {
+          "id": 99005,
+          "name": "Jingle All the Way 2",
+          "price": 6.79,
+          "average_score": 22.5
+        },
+        {
+          "id": 6612,
+          "name": "Die Simpsons - Die komplette Season 7 (Collector's Edition, 4 DVDs) [Import allemand]",
+          "price": 22.5,
+          "average_score": 20.0
+        },
+        {
+          "id": 95751,
+          "name": "Night Watch [DVD]",
+          "price": null,
+          "average_score": 20.0
+        },
+        {
+          "id": 98257,
+          "name": "Stay Hungry [DVD]",
+          "price": null,
+          "average_score": 17.5
+        },
+        {
+          "id": 99404,
+          "name": "Sirens: The Complete First Season",
+          "price": 29.48,
+          "average_score": 17.5
+        },
+        {
+          "id": 99465,
+          "name": "Speed Collector Pack (Speed Five Star Collection / Speed 2 - Cruise Control) [DVD]",
+          "price": 39.99,
+          "average_score": 17.5
+        },
+        {
+          "id": 6616,
+          "name": "Ablaze",
+          "price": 12.95,
+          "average_score": 15.0
+        },
+        {
+          "id": 95397,
+          "name": "Hello Kitty Halloween",
+          "price": 11.99,
+          "average_score": 15.0
+        },
+        {
+          "id": 96373,
+          "name": "Princess Bride, The",
+          "price": null,
+          "average_score": 15.0
+        },
+        {
+          "id": 96567,
+          "name": "Devil Wears Prada & 27 Dresses",
+          "price": 8.47,
+          "average_score": 15.0
+        },
+        {
+          "id": 99019,
+          "name": "Transporter: The Series - Season 1",
+          "price": 20.0,
+          "average_score": 15.0
+        },
+        {
+          "id": 99824,
+          "name": "Say it Isn't So! [DVD]",
+          "price": 14.06,
+          "average_score": 15.0
+        },
+        {
+          "id": 100000,
+          "name": "Darkest Knight [DVD]",
+          "price": 9.46,
+          "average_score": 15.0
+        }
+      ]
+    }
+  },
+  "all_episodes": [
+    {
+      "episode": 1,
+      "category": "2 in 1 Laptop Computers",
+      "persona_index": 9501,
+      "episode_in_category": 1,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 71217,
+        "chosen_score": 62.5,
+        "best_product_id": 66801,
+        "best_score": 82.5,
+        "regret": 20.0,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 1,
+        "feedback": "Well, this Dell Chromebook seems like a decent option, but I was really hoping to find something with a bit more storage and a larger screen for reading my history books and watching videos about Iowa's pioneers.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "What's your budget for a 2 in 1 laptop?",
+          "Around $500."
+        ]
+      ],
+      "product_info": {
+        "num_products": 16,
+        "products_with_scores": [
+          {
+            "id": 66801,
+            "name": "2019 HP Spectre x360 13t Gem Cut PRIVACY SCREEN with 13.3\" 2 in 1(i7 8565U, FHD IR webcam, HP Pen, 3 Yr McAfee Internet Security, Windows 10 PRO Upgrade,HP Worldwide Wrnty(16G+1TB SSD, Poseidon Blue)",
+            "price": null,
+            "average_score": 82.5
+          },
+          {
+            "id": 67502,
+            "name": "[Windows 11 Pro] HP Envy x360 15 2-in-1 Business Laptop, 15.6\" FHD Touchscreen, Octa-Core AMD Ryzen 7 5700U (Beat i7-1165G7), 64GB DDR4 RAM, 2TB PCIe SSD, WiFi 6, Fingerprint Reader, 64GB Flash Stylus",
+            "price": 1469.0,
+            "average_score": 77.5
+          },
+          {
+            "id": 68133,
+            "name": "2021 Newest HP Envy x360 2-in-1 Laptop, 15.6\" FHD Touchscreen, Intel Core i5-10210U Processor, 32GB RAM, 1TB SSD, Fingerprint Reader, Backlit Keyboard, USB 3.1, HDMI, Webcam, Win 10 + Oydisen Cloth",
+            "price": 999.0,
+            "average_score": 77.5
+          },
+          {
+            "id": 68256,
+            "name": "Microsoft Surface Book SW5-00001 2-in-1 Notebook PC - Intel Core i7-6600U 2.6 GHz Dual-Core Processor - 8 GB RAM - 256 GB Solid State Drive - 13.5-inch Touchscreen Display - (Renewed)",
+            "price": 844.0,
+            "average_score": 77.5
+          },
+          {
+            "id": 70897,
+            "name": "HP Envy x360 Flagship High Performance 2-in-1 Convertible Laptop PC (2016), 15.6-inch Full HD Touch-Screen Display, Intel Core i5-6200U, 12GB DDR3L RAM, 1TB HDD, Backlit Keyboard, Windows 10",
+            "price": 899.99,
+            "average_score": 77.5
+          },
+          {
+            "id": 70577,
+            "name": "SHOXLAB Supported- NewHP Spectre x360 2-in-1 Convertible, 16\" 3K+ Touchscreen Laptop, Core i7-11390H, 16GB RAM 1TB SSD, Upto17H Battery, HDMI Fingerprint Thunderbolt4 Type-C WiFi6 Win11H",
+            "price": 1329.0,
+            "average_score": 76.5
+          },
+          {
+            "id": 70381,
+            "name": "Lenovo Yoga C930 2-in-1 Laptop, 13.9-inch Full HD ( 1920 x 1080 ) Touchscreen, 8th Gen Intel Core i7-8550U, 12GB RAM, 256 GB SSD, Fingerprint Reader, Windows 10, Iron Gray (Renewed)",
+            "price": null,
+            "average_score": 76.0
+          },
+          {
+            "id": 69300,
+            "name": "Microsoft Surface Laptop Studio - 14.4\" Touchscreen - Intel\u00ae Core\u2122 i7 - 32GB Memory - 2TB SSD - Platinum",
+            "price": 2419.6,
+            "average_score": 75.0
+          },
+          {
+            "id": 72026,
+            "name": "Bmax 2 in 1 Convertible Laptop, 11.6\" FHD (1920 X 1080) IPS Touchscreen, Quad-Core Celeron N4120, 8GB DDR4, 256GB SATA SSD, Expandable 1TB SSD, Windows 10, Type-C, HDMI, All-Metal Body",
+            "price": null,
+            "average_score": 71.5
+          },
+          {
+            "id": 68115,
+            "name": "Dell i5568-7477GRY 15.6-Inches FHD 2-in-1 Laptop (Intel Core i7-6500U 2.5GHz Processor, 16 GB RAM, 256 GB SDD, Windows 10) Gray",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 68688,
+            "name": "ASUS Vivobook Go 2-in-1 Laptop 2023 Newest, 14 Inch Touchscreen Display, Intel Celeron N4500 Processor, 4GB RAM, 64GB eMMC, 128GB MicroSD, Intel UHD Graphics, Bluetooth, Windows 11 in S Mode, Blue",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 71545,
+            "name": "Lenovo 2022 IdeaPad Flex 3 11.6\" HD 2-in-1 Touchscreen Chromebook (8-Core MediaTek MT8183, 4GB RAM, 64GB eMMC, Stylus, Webcam) Flip Convertible Home Education Laptop, IST Computers Pen, Chrome OS",
+            "price": 229.98,
+            "average_score": 70.0
+          },
+          {
+            "id": 68677,
+            "name": "New XPS 13 2-in-1 7390 Intel 10th Gen i7-1065G7 Intel Iris Plus 13.4\" FHD+ WLED Touch (1920 x 1200) Active Stylus Pen + Best Notebook Pen Light (512GB SSD|16GB RAM |W10 Pro) Arctic White (Renewed)",
+            "price": 1099.66,
+            "average_score": 69.0
+          },
+          {
+            "id": 72070,
+            "name": "HP Envy x360 15m-ds0012dx 15.6\" Touchscreen 2 in 1 Notebook, AMD Ryzen 7 3700U, 8GB RAM, 256GB SSD - 5TV96UAR#ABA (Renewed)",
+            "price": null,
+            "average_score": 67.5
+          },
+          {
+            "id": 71217,
+            "name": "Dell Chromebook 11-5190 2-in-1 Convertible Notebook, 11.6\" Touchscreen, Intel Celeron N3350 Processor, 32GB eMMC Storage, 4GB DDR4, Wi-Fi + Bluetooth, Chrome OS - Renewed",
+            "price": 89.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 70104,
+            "name": "ASUS - TUF Gaming 17.3\" Laptop - Intel Core i5-8GB Memory - NVIDIA GeForce RTX3050-512",
+            "price": 847.0,
+            "average_score": 45.0
+          }
+        ]
+      }
+    },
+    {
+      "episode": 2,
+      "category": "20th Century Fox Home Entertainment",
+      "persona_index": 9501,
+      "episode_in_category": 1,
+      "steps": 7,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 6648,
+        "chosen_score": 30.0,
+        "best_product_id": 99424,
+        "best_score": 92.5,
+        "regret": 62.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 6,
+        "feedback": "Oh, this isn't quite what I had in mind. I was really hoping for something more along the lines of a historical documentary or a film that delves into the stories of the civil rights movement or Iowa's rich past.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "Are you looking for a specific type of movie or genre from 20th Century Fox Home Entertainment?",
+          "I'd be interested in a historical drama."
+        ],
+        [
+          "Do you have a specific budget in mind for the historical drama movie?",
+          "I'd say around $15."
+        ],
+        [
+          "Do you have a preference for a specific historical period or event in the drama?",
+          "The Civil Rights Movement."
+        ],
+        [
+          "Do you prefer a movie that focuses on a specific figure from the Civil Rights Movement?",
+          "Yes."
+        ],
+        [
+          "Do you have a preference for a specific actor or director in the movie?",
+          "Denzel Washington."
+        ],
+        [
+          "Do you have a preference for a specific movie title featuring Denzel Washington related to the Civil Rights Movement?",
+          "\"Malcolm X.\""
+        ]
+      ],
+      "product_info": {
+        "num_products": 89,
+        "products_with_scores": [
+          {
+            "id": 99424,
+            "name": "The Lion in Winter",
+            "price": 4.19,
+            "average_score": 92.5
+          },
+          {
+            "id": 99464,
+            "name": "The Comancheros",
+            "price": 6.99,
+            "average_score": 87.5
+          },
+          {
+            "id": 97306,
+            "name": "Heidi",
+            "price": 10.38,
+            "average_score": 85.0
+          },
+          {
+            "id": 6674,
+            "name": "Old Man And The Gun, The",
+            "price": 9.79,
+            "average_score": 80.0
+          },
+          {
+            "id": 97398,
+            "name": "Cardinal Richelieu; I'd Climb The Highest Mountain; Sodom And Gomorrah; Esther And The King",
+            "price": 50.29,
+            "average_score": 80.0
+          },
+          {
+            "id": 99707,
+            "name": "Always Goodbye",
+            "price": 19.99,
+            "average_score": 80.0
+          },
+          {
+            "id": 95440,
+            "name": "Twelve O'Clock High 1949",
+            "price": 11.94,
+            "average_score": 77.5
+          },
+          {
+            "id": 96411,
+            "name": "The Mary Tyler Moore Show - The Complete Fourth Season",
+            "price": 11.2,
+            "average_score": 77.5
+          },
+          {
+            "id": 95288,
+            "name": "I Was a Male War Bride",
+            "price": 32.48,
+            "average_score": 72.5
+          },
+          {
+            "id": 98701,
+            "name": "National Geographic - In Search of the Jaguar",
+            "price": 3.75,
+            "average_score": 72.5
+          },
+          {
+            "id": 99479,
+            "name": "Picket Fences - Season 1",
+            "price": 8.5,
+            "average_score": 72.5
+          },
+          {
+            "id": 96959,
+            "name": "The Shirley Temple Collection: Volume Two (Wee Willie Winkie, Stowaway, Baby Take a Bow, Bright Eyes, Rebecca of Sunnybrook Farm, and Young People)",
+            "price": 49.8,
+            "average_score": 67.5
+          },
+          {
+            "id": 97378,
+            "name": "Robots (Full Screen Edition)",
+            "price": 9.9,
+            "average_score": 67.5
+          },
+          {
+            "id": 6575,
+            "name": "Brain Games: Season 4",
+            "price": 20.0,
+            "average_score": 65.0
+          },
+          {
+            "id": 6672,
+            "name": "Angels - Good or Evil? (History Channel) [DVD]",
+            "price": 27.2,
+            "average_score": 65.0
+          },
+          {
+            "id": 97616,
+            "name": "Magic Roundabout 2004",
+            "price": 8.04,
+            "average_score": 62.5
+          },
+          {
+            "id": 94895,
+            "name": "Jesse James",
+            "price": 10.99,
+            "average_score": 60.0
+          },
+          {
+            "id": 95432,
+            "name": "Classic Quad Set 17: (Fantastic Voyage / The Lost World / The Towering Inferno / Voyage to the Bottom of the Sea)",
+            "price": 34.91,
+            "average_score": 60.0
+          },
+          {
+            "id": 97454,
+            "name": "Casper Meets Wendy Family Fun Edition",
+            "price": 24.99,
+            "average_score": 60.0
+          },
+          {
+            "id": 97326,
+            "name": "Strawberry Shortcake: Cooking Up Fun",
+            "price": 19.99,
+            "average_score": 57.5
+          },
+          {
+            "id": 97699,
+            "name": "The Dolphin: Story of a Dreamer",
+            "price": 18.99,
+            "average_score": 57.5
+          },
+          {
+            "id": 6786,
+            "name": "Shark Men: Season 2",
+            "price": 24.97,
+            "average_score": 52.5
+          },
+          {
+            "id": 96382,
+            "name": "Cocoon / Cocoon - The Return [DVD]",
+            "price": 39.95,
+            "average_score": 52.5
+          },
+          {
+            "id": 94890,
+            "name": "Charlie Chan In Honolulu",
+            "price": 16.99,
+            "average_score": 50.0
+          },
+          {
+            "id": 95468,
+            "name": "Tora! Tora! Tora!",
+            "price": 11.89,
+            "average_score": 50.0
+          },
+          {
+            "id": 99577,
+            "name": "Horton Hears a Who",
+            "price": 8.19,
+            "average_score": 50.0
+          },
+          {
+            "id": 6745,
+            "name": "Voyage to Bottom of the Sea - Season 2, Vol. 1",
+            "price": 55.91,
+            "average_score": 47.5
+          },
+          {
+            "id": 94658,
+            "name": "Moss Rose",
+            "price": 19.49,
+            "average_score": 47.5
+          },
+          {
+            "id": 96561,
+            "name": "The Simpsons: Season 12 (Limited Edition \"Comic Book Guy\" Head Packaging)",
+            "price": 54.1,
+            "average_score": 47.5
+          },
+          {
+            "id": 94636,
+            "name": "The Man I Married",
+            "price": 16.62,
+            "average_score": 45.0
+          },
+          {
+            "id": 95752,
+            "name": "Batman: The Movie (Special Edition)",
+            "price": 17.09,
+            "average_score": 45.0
+          },
+          {
+            "id": 97898,
+            "name": "Miller's Crossing",
+            "price": 8.67,
+            "average_score": 42.5
+          },
+          {
+            "id": 98712,
+            "name": "Rio 2-Movie Collection",
+            "price": 9.99,
+            "average_score": 42.5
+          },
+          {
+            "id": 98784,
+            "name": "Ice Age 4: Continental Drift",
+            "price": 8.89,
+            "average_score": 42.5
+          },
+          {
+            "id": 94904,
+            "name": "Good Year",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 94966,
+            "name": "Wild Alaska",
+            "price": 11.49,
+            "average_score": 40.0
+          },
+          {
+            "id": 97387,
+            "name": "The Resident: The Complete Season 2",
+            "price": 34.94,
+            "average_score": 40.0
+          },
+          {
+            "id": 97896,
+            "name": "Ice Age 2: The Meltdown",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 98292,
+            "name": "Independence Day 20th Anniversary",
+            "price": 9.08,
+            "average_score": 40.0
+          },
+          {
+            "id": 98752,
+            "name": "Classic Crime Collection - Street Justice (Murder Inc., The French Connection, The St. Valentine's Day Massacre, The Seven-Ups) [DVD]",
+            "price": 49.99,
+            "average_score": 40.0
+          },
+          {
+            "id": 96584,
+            "name": "Die Hard (Widescreen Edition)",
+            "price": 5.49,
+            "average_score": 37.5
+          },
+          {
+            "id": 99029,
+            "name": "True Lies [DVD]",
+            "price": 12.79,
+            "average_score": 37.5
+          },
+          {
+            "id": 6748,
+            "name": "King Of Burlesque",
+            "price": 27.73,
+            "average_score": 35.0
+          },
+          {
+            "id": 6871,
+            "name": "Murder On The Orient Express 2017",
+            "price": 13.99,
+            "average_score": 35.0
+          },
+          {
+            "id": 95175,
+            "name": "Wild Congo",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 96201,
+            "name": "Star Wars, Episode III: Revenge of the Sith (Full Screen Edition)",
+            "price": 7.83,
+            "average_score": 35.0
+          },
+          {
+            "id": 96771,
+            "name": "The Blue Max",
+            "price": 22.67,
+            "average_score": 35.0
+          },
+          {
+            "id": 97289,
+            "name": "Bond Remastered - The Living Daylights (1-disc) [DVD] [1987]",
+            "price": 15.16,
+            "average_score": 35.0
+          },
+          {
+            "id": 97739,
+            "name": "The Big Year [DVD] [2011]",
+            "price": 6.5,
+            "average_score": 35.0
+          },
+          {
+            "id": 99925,
+            "name": "Unfaithful (Full Screen Edition)",
+            "price": 12.93,
+            "average_score": 35.0
+          },
+          {
+            "id": 6526,
+            "name": "Die Hard (Widescreen Edition)",
+            "price": 14.94,
+            "average_score": 32.5
+          },
+          {
+            "id": 95085,
+            "name": "24: Redemption",
+            "price": 19.99,
+            "average_score": 32.5
+          },
+          {
+            "id": 96927,
+            "name": "Enough Said",
+            "price": 10.23,
+            "average_score": 32.5
+          },
+          {
+            "id": 98754,
+            "name": "Diary Of A Wimpy Kid 4: The Long Haul [DVD] [2017]",
+            "price": 5.27,
+            "average_score": 32.5
+          },
+          {
+            "id": 6509,
+            "name": "Percy Jackson Double Feature",
+            "price": 22.0,
+            "average_score": 30.0
+          },
+          {
+            "id": 6648,
+            "name": "4 Family Film Favorites: Percy Jackson -The Lightning Thief/ The Chronicles Of Narnia: Voyage Of The Dawn Treader/ Eragon/ The Seeker",
+            "price": 24.99,
+            "average_score": 30.0
+          },
+          {
+            "id": 6856,
+            "name": "Jake Gyllenhaal Triple Feature",
+            "price": 29.63,
+            "average_score": 30.0
+          },
+          {
+            "id": 95576,
+            "name": "Wall Street",
+            "price": 12.44,
+            "average_score": 30.0
+          },
+          {
+            "id": 96738,
+            "name": "Drumline (Special Edition) by 20th Century Fox",
+            "price": 10.81,
+            "average_score": 30.0
+          },
+          {
+            "id": 97039,
+            "name": "AVP: Alien vs. Predator (Widescreen Edition)",
+            "price": 10.93,
+            "average_score": 30.0
+          },
+          {
+            "id": 97940,
+            "name": "Kung Fu Panda: The Midnight Stranger [DVD]",
+            "price": 35.0,
+            "average_score": 30.0
+          },
+          {
+            "id": 98910,
+            "name": "Catch That Kid",
+            "price": 13.65,
+            "average_score": 30.0
+          },
+          {
+            "id": 6656,
+            "name": "Star Wars: Clone Wars - Volume One [DVD]",
+            "price": 15.56,
+            "average_score": 27.5
+          },
+          {
+            "id": 6794,
+            "name": "The Pick-Up Artist [DVD]",
+            "price": 24.28,
+            "average_score": 27.5
+          },
+          {
+            "id": 94555,
+            "name": "Quantum Of Solace",
+            "price": 17.04,
+            "average_score": 27.5
+          },
+          {
+            "id": 95815,
+            "name": "Cheaper by the Dozen 2",
+            "price": 6.29,
+            "average_score": 27.5
+          },
+          {
+            "id": 97750,
+            "name": "Moondance Alexander / Virginia's Run",
+            "price": 14.0,
+            "average_score": 27.5
+          },
+          {
+            "id": 98475,
+            "name": "Prosecuting Casey Anthony",
+            "price": 21.99,
+            "average_score": 27.5
+          },
+          {
+            "id": 98691,
+            "name": "Sons of Anarchy: Season 4",
+            "price": 14.94,
+            "average_score": 27.5
+          },
+          {
+            "id": 95271,
+            "name": "Maze Runner - The Death Cure [DVD] [2018]",
+            "price": 10.83,
+            "average_score": 25.0
+          },
+          {
+            "id": 96452,
+            "name": "World Destruction Box Set (Independence Day / Chain Reaction / The Day After Tomorrow / Volcano) [DVD]",
+            "price": 54.0,
+            "average_score": 25.0
+          },
+          {
+            "id": 97305,
+            "name": "28 Days Later / 28 Weeks Later (Double Feature)",
+            "price": 26.25,
+            "average_score": 25.0
+          },
+          {
+            "id": 97773,
+            "name": "Possession",
+            "price": 8.24,
+            "average_score": 25.0
+          },
+          {
+            "id": 94841,
+            "name": "Kendra: Season 1",
+            "price": 9.98,
+            "average_score": 22.5
+          },
+          {
+            "id": 95848,
+            "name": "Empire: The Complete Fifth Season",
+            "price": 30.2,
+            "average_score": 22.5
+          },
+          {
+            "id": 96359,
+            "name": "Snatched 2017",
+            "price": 10.04,
+            "average_score": 22.5
+          },
+          {
+            "id": 99005,
+            "name": "Jingle All the Way 2",
+            "price": 6.79,
+            "average_score": 22.5
+          },
+          {
+            "id": 6612,
+            "name": "Die Simpsons - Die komplette Season 7 (Collector's Edition, 4 DVDs) [Import allemand]",
+            "price": 22.5,
+            "average_score": 20.0
+          },
+          {
+            "id": 95751,
+            "name": "Night Watch [DVD]",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 98257,
+            "name": "Stay Hungry [DVD]",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 99404,
+            "name": "Sirens: The Complete First Season",
+            "price": 29.48,
+            "average_score": 17.5
+          },
+          {
+            "id": 99465,
+            "name": "Speed Collector Pack (Speed Five Star Collection / Speed 2 - Cruise Control) [DVD]",
+            "price": 39.99,
+            "average_score": 17.5
+          },
+          {
+            "id": 6616,
+            "name": "Ablaze",
+            "price": 12.95,
+            "average_score": 15.0
+          },
+          {
+            "id": 95397,
+            "name": "Hello Kitty Halloween",
+            "price": 11.99,
+            "average_score": 15.0
+          },
+          {
+            "id": 96373,
+            "name": "Princess Bride, The",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 96567,
+            "name": "Devil Wears Prada & 27 Dresses",
+            "price": 8.47,
+            "average_score": 15.0
+          },
+          {
+            "id": 99019,
+            "name": "Transporter: The Series - Season 1",
+            "price": 20.0,
+            "average_score": 15.0
+          },
+          {
+            "id": 99824,
+            "name": "Say it Isn't So! [DVD]",
+            "price": 14.06,
+            "average_score": 15.0
+          },
+          {
+            "id": 100000,
+            "name": "Darkest Knight [DVD]",
+            "price": 9.46,
+            "average_score": 15.0
+          }
+        ]
+      }
+    }
+  ]
+}

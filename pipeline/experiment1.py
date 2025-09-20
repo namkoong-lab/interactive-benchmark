@@ -732,11 +732,16 @@ def run_experiment1(categories: List[str] = None,
             improvement = last_score - first_score
             print(f"  {category}: {first_score:.1f} → {last_score:.1f} (Δ{improvement:+.1f})")
     
-    # Calculate regret progression
+    # Calculate regret progression with questions for each episode
     episode_regrets = []
+    episode_data = []  # List of (regret, questions) tuples
+    
     for result in all_results:
         if 'final_info' in result and 'regret' in result['final_info']:
-            episode_regrets.append(result['final_info']['regret'])
+            regret = result['final_info']['regret']
+            questions = result.get('steps', 0)
+            episode_regrets.append(regret)
+            episode_data.append({'regret': regret, 'questions': questions})
     
     if episode_regrets:
         avg_regret = np.mean(episode_regrets)
@@ -746,6 +751,9 @@ def run_experiment1(categories: List[str] = None,
         print(f"  Average Regret: {avg_regret:.1f}")
         print(f"  Trend: {regret_trend}")
         print(f"  Episodes: {len(episode_regrets)}")
+    
+    # Calculate total questions asked across all episodes
+    total_questions_asked = sum(episode.get('steps', 0) for episode in all_results)
     
     # Save final results
     model_safe_name = model.replace("/", "_").replace(":", "_")
@@ -758,6 +766,7 @@ def run_experiment1(categories: List[str] = None,
             'timestamp': datetime.now().isoformat(),
             'summary': {
                 'regret_progression': {
+                    'episode_data': episode_data,
                     'episode_regrets': episode_regrets,
                     'avg_regret': avg_regret if episode_regrets else 0.0,
                     'regret_trend': regret_trend if episode_regrets else "unknown"
@@ -766,6 +775,7 @@ def run_experiment1(categories: List[str] = None,
                 'total_episodes': len(all_results),
                 'successful_episodes': successful_episodes_count,
                 'target_successful_episodes': target_successful_episodes,
+                'total_questions_asked': total_questions_asked,
                 'episodes_by_category': {cat: len(results) for cat, results in category_results.items()},
                 'product_counts_by_category': {
                     cat: {
