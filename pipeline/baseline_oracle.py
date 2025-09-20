@@ -428,7 +428,7 @@ def run_baseline_oracle(
         selected_categories, cached_scores_map = select_relevant_categories(
             available_categories, num_categories, persona_index, min_score_threshold
         )
-        print(f"Selected {len(selected_categories)} relevant categories: {selected_categories}")
+        print(f"Selected {len(selected_categories)} relevant categories")
         categories = selected_categories
     
     print(f"Oracle Baseline Configuration:")
@@ -436,7 +436,7 @@ def run_baseline_oracle(
     print(f"  Persona: {persona_index}")
     print(f"  Num categories: {len(categories)}")
     print(f"  Episodes per category: {episodes_per_category}")
-    print(f"  Categories: {categories}")
+    print(f"  Categories: {len(categories)} total")
     print(f"  Seed: {seed}")
     
     # Create oracle agent

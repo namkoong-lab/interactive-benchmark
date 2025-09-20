@@ -486,7 +486,7 @@ def run_experiment1(categories: List[str] = None,
         
         # Track which categories are already completed
         completed_categories = set(category_results.keys())
-        print(f"Already completed categories: {completed_categories}")
+        print(f"Already completed categories: {len(completed_categories)}")
     else:
         print("Starting fresh experiment")
         all_results = []
@@ -550,12 +550,12 @@ def run_experiment1(categories: List[str] = None,
     # Filter out already completed categories when resuming from checkpoint
     if checkpoint_file and os.path.exists(checkpoint_file):
         remaining_categories = [cat for cat in selected_categories if cat not in completed_categories]
-        print(f"Original categories: {selected_categories}")
-        print(f"Already completed: {completed_categories}")
-        print(f"Remaining categories to test: {remaining_categories}")
+        print(f"Original categories: {len(selected_categories)} total")
+        print(f"Already completed: {len(completed_categories)} categories")
+        print(f"Remaining categories to test: {len(remaining_categories)}")
         selected_categories = remaining_categories
     else:
-        print(f"Categories to test: {selected_categories}")
+        print(f"Categories to test: {len(selected_categories)} total")
     
     used_categories = set()
     
@@ -637,7 +637,7 @@ def run_experiment1(categories: List[str] = None,
                 step_count = 0
                 current_info = initial_info
                 
-                while not terminated and not truncated and step_count < 20:
+                while not terminated and not truncated and step_count <= 20:
                     action = agent.get_action(obs, current_info)
                     obs, reward, terminated, truncated, info = metrics_wrapper.step(action)
                     current_info = info

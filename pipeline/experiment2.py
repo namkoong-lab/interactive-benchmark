@@ -547,11 +547,8 @@ def run_experiment2(persona_indices: List[int] = None,
         relevant_personas = []
         tested_personas = set()
         
-        # Shuffle available personas for randomness
-        shuffled_personas = available_personas.copy()
-        random.shuffle(shuffled_personas)
-        
-        for persona_idx in shuffled_personas:
+        # Use personas in deterministic order (no shuffling for reproducibility)
+        for persona_idx in available_personas:
             if len(relevant_personas) >= num_personas:
                 break
                 
@@ -653,10 +650,9 @@ def run_experiment2(persona_indices: List[int] = None,
                 break
                 
             episode_num += 1
-            successful_episodes_count += 1  # Count this as a successful episode
             
             # Show progress correctly
-            print(f"Episode {episode_num} (Persona: {persona_index}) - {successful_episodes_count}/{target_successful_episodes} successful episodes")
+            print(f"Episode {episode_num} (Persona: {persona_index}) - {successful_episodes_count + 1}/{target_successful_episodes} planned episodes")
             
             env = RecoEnv(
                 persona_index=persona_index,
@@ -688,7 +684,7 @@ def run_experiment2(persona_indices: List[int] = None,
             step_count = 0
             current_info = initial_info
             
-            while not terminated and not truncated and step_count < 20:
+            while not terminated and not truncated and step_count <= 20:
                 action = agent.get_action(obs, current_info)
                 obs, reward, terminated, truncated, info = metrics_wrapper.step(action)
                 current_info = info
@@ -742,6 +738,9 @@ def run_experiment2(persona_indices: List[int] = None,
             persona_results[persona_index].append(episode_result)
             agent.update_strategies(episode_result)
             metrics_wrapper.close()
+            
+            # Increment successful episodes count after episode completes
+            successful_episodes_count += 1
             
             # Save checkpoint every 5 successful episodes
             if successful_episodes_count % 5 == 0:

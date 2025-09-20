@@ -171,7 +171,7 @@ def run_baseline_random(
             selected_categories, cached_scores_map = select_relevant_categories(
                 available_categories, num_categories, persona_index, min_score_threshold
             )
-            print(f"Selected {len(selected_categories)} relevant categories: {selected_categories}")
+            print(f"Selected {len(selected_categories)} relevant categories")
         else:
             # Resuming from checkpoint: use the original logic for remaining categories
             if len(available_categories) >= num_categories:
@@ -184,7 +184,7 @@ def run_baseline_random(
         selected_categories = [cat for cat in categories if cat in available_categories]
         cached_scores_map = {}
     
-    print(f"Categories to test: {selected_categories}")
+    print(f"Categories to test: {len(selected_categories)} total")
     
     used_categories = set(category_results.keys())
     total_episodes = len(selected_categories) * episodes_per_category
