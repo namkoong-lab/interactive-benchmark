@@ -31,7 +31,7 @@ if __name__ == "__main__":
         min_score_threshold=60.0,
         output_dir="baseline_popularity_results_with_checkpoints",
         checkpoint_file=args.resume_from,
-        seed=179322                      # Use the same seed for reproducibility
+        seed=818827                      # Use the same seed for reproducibility
     )
     
     print("\n'Popularity Recommendation' baseline experiment completed!")
