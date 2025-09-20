@@ -11,15 +11,14 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from pipeline.experiment1 import run_experiment1
 
 if __name__ == "__main__":
-    # Generate a random seed for reproducible randomness
+    # Generate a random seed for reproducible randomness (affects category selection and persona selection)
     random_seed = random.randint(1, 1000000)
     print(f"Using random seed: {random_seed}")
     
     # Example usage with checkpointing
     results, category_results = run_experiment1(
-        persona_index=254,
         categories=None,  
-        num_categories=10,  
+        num_categories=20,  
         episodes_per_category=1, 
         max_questions=20,
         model="gpt-4o",

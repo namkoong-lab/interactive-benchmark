@@ -253,8 +253,7 @@ def load_checkpoint(checkpoint_file: str) -> Tuple[List[Dict], Dict, Dict]:
     return data['all_results'], data['category_results'], data['agent_state']
 
 
-def run_experiment1(persona_index: int = 254,
-                                   categories: List[str] = None,
+def run_experiment1(categories: List[str] = None,
                                    num_categories: int = 5,
                                    episodes_per_category: int = 5,
                                    max_questions: int = 8,
@@ -268,7 +267,6 @@ def run_experiment1(persona_index: int = 254,
     Run Experiment 1 with incremental checkpointing.
     
     Args:
-        persona_index: Which persona to use (consistent across episodes)
         categories: List of categories to test (None = randomly choose)
         num_categories: Number of categories to randomly select (if categories is None)
         episodes_per_category: Number of episodes per category
@@ -278,16 +276,20 @@ def run_experiment1(persona_index: int = 254,
         min_score_threshold: Minimum score threshold for category relevance (default: 50.0)
         output_dir: Directory to save results
         checkpoint_file: Optional checkpoint file to resume from
-        seed: Random seed for reproducible category selection (None = no seeding)
+        seed: Random seed for reproducible category selection and persona selection (None = no seeding)
     """
     
     print(f"=== Experiment 1: LLM Learning Across Categories (With Checkpoints) ===")
-    print(f"Persona: {persona_index}, Episodes per category: {episodes_per_category}")
+    print(f"Episodes per category: {episodes_per_category}")
     print(f"Max questions: {max_questions}, Model: {model}, Feedback: {feedback_type}")
     if seed is not None:
         print(f"Random seed: {seed}")
         random.seed(seed)
         np.random.seed(seed)
+    
+    # Randomly select a persona based on the seed (consistent across episodes)
+    persona_index = random.randint(0, 47000)  
+    print(f"Selected persona: {persona_index}")
     
     os.makedirs(output_dir, exist_ok=True)
     gym.register("RecoEnv-v0", entry_point=RecoEnv)
@@ -633,7 +635,6 @@ def run_experiment1(persona_index: int = 254,
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run Experiment 1 with checkpointing")
-    parser.add_argument("--persona", type=int, default=254, help="Persona index")
     parser.add_argument("--categories", nargs="+", help="Categories to test")
     parser.add_argument("--num_categories", type=int, default=5, help="Number of categories")
     parser.add_argument("--episodes_per_category", type=int, default=5, help="Episodes per category")
@@ -643,12 +644,11 @@ if __name__ == "__main__":
     parser.add_argument("--min_score_threshold", type=float, default=50.0, help="Min score threshold")
     parser.add_argument("--output_dir", default="experiment1_results", help="Output directory")
     parser.add_argument("--resume_from", help="Checkpoint file to resume from")
-    parser.add_argument("--seed", type=int, default=None, help="Random seed for reproducible category selection")
+    parser.add_argument("--seed", type=int, default=None, help="Random seed for reproducible category and persona selection")
     
     args = parser.parse_args()
     
     run_experiment1(
-        persona_index=args.persona,
         categories=args.categories,
         num_categories=args.num_categories,
         episodes_per_category=args.episodes_per_category,
