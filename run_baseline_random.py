@@ -34,7 +34,7 @@ if __name__ == "__main__":
         num_categories=3,
         episodes_per_category=1,
         feedback_type="none",         
-        min_score_threshold=50.0,
+        min_score_threshold=60.0,
         output_dir="baseline_random_results_with_checkpoints",
         checkpoint_file=args.resume_from,
         seed=60751                   

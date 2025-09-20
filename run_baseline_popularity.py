@@ -36,7 +36,7 @@ if __name__ == "__main__":
         max_questions=0,                # This agent does not ask questions
         model="popularity",             # Model name for logging
         feedback_type="none",           # This agent does not use feedback
-        min_score_threshold=50.0,
+        min_score_threshold=60.0,
         output_dir="baseline_popularity_results_with_checkpoints",
         checkpoint_file=args.resume_from,
         seed=60751                      # Use the same seed for reproducibility

@@ -132,15 +132,62 @@ def run_baseline_random(
             print(f"  Error checking category {category}: {e}")
             return False, 0.0, []
 
+    # NEW: Select exactly num_categories that pass the relevance filter
+    def select_relevant_categories(available_categories, num_categories, persona_index, min_score_threshold):
+        """Select exactly num_categories that pass the relevance filter."""
+        relevant_categories = []
+        tested_categories = set()
+        
+        # Shuffle available categories for randomness
+        shuffled_categories = available_categories.copy()
+        random.shuffle(shuffled_categories)
+        
+        print(f"Searching for {num_categories} relevant categories...")
+        
+        for category in shuffled_categories:
+            if len(relevant_categories) >= num_categories:
+                break
+                
+            if category in tested_categories:
+                continue
+                
+            tested_categories.add(category)
+            print(f"  Testing category: {category}")
+            
+            is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
+            if is_relevant:
+                relevant_categories.append((category, cached_scores))
+                print(f"    ✓ Category {category}: Max score {max_score:.1f} > {min_score_threshold}")
+            else:
+                print(f"    ✗ Category {category}: Max score {max_score:.1f} ≤ {min_score_threshold}")
+        
+        if len(relevant_categories) < num_categories:
+            print(f"WARNING: Only found {len(relevant_categories)} relevant categories out of {num_categories} requested")
+            print(f"Tested {len(tested_categories)} categories total")
+        
+        return [cat for cat, _ in relevant_categories], {cat: scores for cat, scores in relevant_categories}
+
+    # Initialize category selection with new strategy
     if categories is None:
-        if len(available_categories) >= num_categories:
-            selected_categories = random.sample(available_categories, num_categories)
+        if not checkpoint_file or not os.path.exists(checkpoint_file):
+            # Fresh start: select exactly num_categories that pass the filter
+            selected_categories, cached_scores_map = select_relevant_categories(
+                available_categories, num_categories, persona_index, min_score_threshold
+            )
+            print(f"Selected {len(selected_categories)} relevant categories: {selected_categories}")
         else:
-            selected_categories = available_categories.copy()
+            # Resuming from checkpoint: use the original logic for remaining categories
+            if len(available_categories) >= num_categories:
+                selected_categories = random.sample(available_categories, num_categories)
+            else:
+                selected_categories = available_categories.copy()
+            cached_scores_map = {}
     else:
+        # Use provided categories, filtered by availability
         selected_categories = [cat for cat in categories if cat in available_categories]
+        cached_scores_map = {}
     
-    print(f"Initial categories to potentially run: {selected_categories}")
+    print(f"Categories to test: {selected_categories}")
     
     used_categories = set(category_results.keys())
     total_episodes = len(selected_categories) * episodes_per_category
@@ -153,12 +200,19 @@ def run_baseline_random(
             
         print(f"\n--- Testing Category: {category} ---")
         
-        is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
-        if not is_relevant:
-            print(f"  Category {category}: Max score {max_score:.1f} <= {min_score_threshold}, skipping.")
-            continue
+        # Use cached scores if available, otherwise check relevance
+        if category in cached_scores_map:
+            cached_scores = cached_scores_map[category]
+            print(f"  Category {category}: Using cached scores (already verified as relevant)")
+        else:
+            # Check if this category is relevant for the persona
+            is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
+            if not is_relevant:
+                print(f"  Category {category}: Max score {max_score:.1f} <= {min_score_threshold}, skipping.")
+                continue
+            
+            print(f"  Category {category}: Max score {max_score:.1f} > {min_score_threshold}, proceeding.")
         
-        print(f"  Category {category}: Max score {max_score:.1f} > {min_score_threshold}, proceeding.")
         used_categories.add(category)
         if category not in category_results:
             category_results[category] = []
