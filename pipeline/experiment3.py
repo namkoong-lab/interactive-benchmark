@@ -402,7 +402,7 @@ def save_checkpoint(all_results: List[Dict], persona_category_results: Dict, age
         'persona_category_results': persona_category_results,
         'summary': {
             'total_episodes': len(all_results),
-            'episodes_by_persona_category': {f"{persona}_{category}": len(results) for (persona, category), results in persona_category_results.items()},
+            'episodes_by_persona_category': {key: len(results) for key, results in persona_category_results.items()},
             'unique_personas': len(set(result['persona_index'] for result in all_results)),
             'unique_categories': len(set(result['category'] for result in all_results))
         }
@@ -697,7 +697,7 @@ def run_experiment3(total_episodes: int = 50,
             all_results.append(episode_result)
             
             # Track by persona-category combination
-            key = (persona_index, category)
+            key = f"{persona_index}_{category}"
             if key not in persona_category_results:
                 persona_category_results[key] = []
             persona_category_results[key].append(episode_result)
@@ -771,7 +771,7 @@ def run_experiment3(total_episodes: int = 50,
                 'unique_categories': len(set(result['category'] for result in all_results)),
                 'unique_persona_category_combinations': len(persona_category_results),
                 'total_questions_asked': total_questions_asked,
-                'episodes_by_persona_category': {f"{persona}_{category}": len(results) for (persona, category), results in persona_category_results.items()}
+                'episodes_by_persona_category': {key: len(results) for key, results in persona_category_results.items()}
             },
             'config': {
                 'total_episodes': total_episodes,
@@ -785,13 +785,15 @@ def run_experiment3(total_episodes: int = 50,
             },
             'agent_episode_history': agent.episode_history,
             'persona_category_results': {
-                f"{persona}_{category}": {
+                key: {
+                    'persona': int(key.split('_')[0]),
+                    'category': key.split('_', 1)[1],
                     'avg_score': np.mean([r['final_info'].get('chosen_score', 0) for r in results if 'chosen_score' in r['final_info']]),
                     'top1_rate': np.mean([r['final_info'].get('top1', False) for r in results if 'top1' in r['final_info']]),
                     'episode_count': len(results),
                     'num_products': results[0]['product_info']['num_products'] if results else 0
                 }
-                for (persona, category), results in persona_category_results.items()
+                for key, results in persona_category_results.items()
             },
             'all_episodes': all_results
         }, f, indent=2)
