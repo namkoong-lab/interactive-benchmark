@@ -724,26 +724,33 @@ def run_experiment2(persona_indices: List[int] = None,
                             'average_score': float(avg_score)
                         })
             
-            episode_result = {
-                'episode': episode_num,
-                'category': category,
-                'persona_index': persona_index,
-                'episode_in_persona': episode + 1,
-                'steps': step_count,
-                'terminated': terminated,
-                'truncated': truncated,
-                'final_info': info,
-                'full_dialog': full_dialog,
-                'product_info': product_info
-            }
+            # Only count episodes that successfully made a recommendation
+            if info.get('action_type') == 'recommend' and 'chosen_score' in info:
+                episode_result = {
+                    'episode': episode_num,
+                    'category': category,
+                    'persona_index': persona_index,
+                    'episode_in_persona': episode + 1,
+                    'steps': step_count,
+                    'terminated': terminated,
+                    'truncated': truncated,
+                    'final_info': info,
+                    'full_dialog': full_dialog,
+                    'product_info': product_info
+                }
+                
+                all_results.append(episode_result)
+                persona_results[persona_index].append(episode_result)
+                agent.update_strategies(episode_result)
+                
+                print(f"  Episode {episode_num}: Successfully completed (Score: {info.get('chosen_score', 0):.1f})")
+                
+                # Increment successful episodes count after episode completes
+                successful_episodes_count += 1
+            else:
+                print(f"  Episode {episode_num}: Skipped - No recommendation made or missing score data")
             
-            all_results.append(episode_result)
-            persona_results[persona_index].append(episode_result)
-            agent.update_strategies(episode_result)
             metrics_wrapper.close()
-            
-            # Increment successful episodes count after episode completes
-            successful_episodes_count += 1
             
             # Save checkpoint every 5 successful episodes
             if successful_episodes_count % 5 == 0:
@@ -798,14 +805,14 @@ def run_experiment2(persona_indices: List[int] = None,
     regret_progression = {
         'episode_data': episode_data,
         'episode_regrets': episode_regrets,
-        'avg_regret': np.mean(episode_regrets) if episode_regrets else 0,
+        'avg_regret': np.mean(episode_regrets),
         'regret_trend': 'improving' if len(episode_regrets) > 1 and episode_regrets[-1] < episode_regrets[0] else 'stable'
     }
     
     questions_progression = {
         'episode_questions': episode_questions,
-        'avg_questions': np.mean(episode_questions) if episode_questions else 0,
-        'total_questions': sum(episode_questions) if episode_questions else 0
+        'avg_questions': np.mean(episode_questions),
+        'total_questions': sum(episode_questions)
     }
     
     # Persona information

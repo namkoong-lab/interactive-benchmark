@@ -682,31 +682,39 @@ def run_experiment3(total_episodes: int = 50,
                             'average_score': float(avg_score)
                         })
             
-            episode_result = {
-                'episode': episode_num,
-                'category': category,
-                'persona_index': persona_index,
-                'steps': step_count,
-                'terminated': terminated,
-                'truncated': truncated,
-                'final_info': info,
-                'full_dialog': full_dialog,
-                'product_info': product_info
-            }
+            # Only count episodes that successfully made a recommendation
+            if info.get('action_type') == 'recommend' and 'chosen_score' in info:
+                episode_result = {
+                    'episode': episode_num,
+                    'category': category,
+                    'persona_index': persona_index,
+                    'steps': step_count,
+                    'terminated': terminated,
+                    'truncated': truncated,
+                    'final_info': info,
+                    'full_dialog': full_dialog,
+                    'product_info': product_info
+                }
+                
+                all_results.append(episode_result)
+                
+                # Track by persona-category combination
+                key = f"{persona_index}_{category}"
+                if key not in persona_category_results:
+                    persona_category_results[key] = []
+                persona_category_results[key].append(episode_result)
+                
+                print(f"  Episode {episode_num}: Successfully completed (Score: {info.get('chosen_score', 0):.1f})")
+                
+                # Only increment counters and update agent for successful episodes
+                agent.update_preferences(episode_result)
+                successful_episodes_count += 1
+            else:
+                print(f"  Episode {episode_num}: Skipped - No recommendation made or missing score data")
             
-            all_results.append(episode_result)
-            
-            # Track by persona-category combination
-            key = f"{persona_index}_{category}"
-            if key not in persona_category_results:
-                persona_category_results[key] = []
-            persona_category_results[key].append(episode_result)
-            
-            agent.update_preferences(episode_result)
             metrics_wrapper.close()
             
-            # Increment successful episodes counter
-            successful_episodes_count += 1
+            # Move to next episode
             episode_num += 1
             
             # Save checkpoint every 5 episodes
@@ -738,14 +746,13 @@ def run_experiment3(total_episodes: int = 50,
             episode_regrets.append(regret)
             episode_data.append({'regret': regret, 'questions': questions})
     
-    if episode_regrets:
-        avg_regret = np.mean(episode_regrets)
-        regret_trend = "improving" if len(episode_regrets) > 1 and episode_regrets[-1] < episode_regrets[0] else "stable"
-        
-        print(f"\nRegret Analysis:")
-        print(f"  Average Regret: {avg_regret:.1f}")
-        print(f"  Trend: {regret_trend}")
-        print(f"  Episodes: {len(episode_regrets)}")
+    avg_regret = np.mean(episode_regrets)
+    regret_trend = "improving" if len(episode_regrets) > 1 and episode_regrets[-1] < episode_regrets[0] else "stable"
+    
+    print(f"\nRegret Analysis:")
+    print(f"  Average Regret: {avg_regret:.1f}")
+    print(f"  Trend: {regret_trend}")
+    print(f"  Episodes: {len(episode_regrets)}")
     
     # Calculate total questions asked across all episodes
     total_questions_asked = sum(episode.get('steps', 0) for episode in all_results)
@@ -788,8 +795,8 @@ def run_experiment3(total_episodes: int = 50,
                 key: {
                     'persona': int(key.split('_')[0]),
                     'category': key.split('_', 1)[1],
-                    'avg_score': np.mean([r['final_info'].get('chosen_score', 0) for r in results if 'chosen_score' in r['final_info']]),
-                    'top1_rate': np.mean([r['final_info'].get('top1', False) for r in results if 'top1' in r['final_info']]),
+                    'avg_score': np.mean([r['final_info'].get('chosen_score', 0) for r in results]),
+                    'top1_rate': np.mean([r['final_info'].get('top1', False) for r in results]),
                     'episode_count': len(results),
                     'num_products': results[0]['product_info']['num_products'] if results else 0
                 }

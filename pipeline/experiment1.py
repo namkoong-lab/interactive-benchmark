@@ -707,26 +707,33 @@ def run_experiment1(categories: List[str] = None,
                                 'average_score': float(avg_score)
                             })
                 
-                episode_result = {
-                    'episode': episode_num,
-                    'category': category,
-                    'persona_index': persona_index,
-                    'episode_in_category': episode + 1,
-                    'steps': step_count,
-                    'terminated': terminated,
-                    'truncated': truncated,
-                    'final_info': info,
-                    'full_dialog': full_dialog,
-                    'product_info': product_info
-                }
+                # Only count episodes that successfully made a recommendation
+                if info.get('action_type') == 'recommend' and 'chosen_score' in info:
+                    episode_result = {
+                        'episode': episode_num,
+                        'category': category,
+                        'persona_index': persona_index,
+                        'episode_in_category': episode + 1,
+                        'steps': step_count,
+                        'terminated': terminated,
+                        'truncated': truncated,
+                        'final_info': info,
+                        'full_dialog': full_dialog,
+                        'product_info': product_info
+                    }
+                    
+                    all_results.append(episode_result)
+                    category_results[category].append(episode_result)
+                    agent.update_preferences(episode_result)
+                    
+                    print(f"  Episode {episode_num}: Successfully completed (Score: {info.get('chosen_score', 0):.1f})")
+                    
+                    # Only increment after episode succeeds
+                    successful_episodes_count += 1
+                else:
+                    print(f"  Episode {episode_num}: Skipped - No recommendation made or missing score data")
                 
-                all_results.append(episode_result)
-                category_results[category].append(episode_result)
-                agent.update_preferences(episode_result)
                 metrics_wrapper.close()
-                
-                # Only increment after episode succeeds
-                successful_episodes_count += 1
                 
                 # Log episode timing
                 episode_elapsed = time.time() - episode_start_time
@@ -777,14 +784,13 @@ def run_experiment1(categories: List[str] = None,
             episode_regrets.append(regret)
             episode_data.append({'regret': regret, 'questions': questions})
     
-    if episode_regrets:
-        avg_regret = np.mean(episode_regrets)
-        regret_trend = "improving" if len(episode_regrets) > 1 and episode_regrets[-1] < episode_regrets[0] else "stable"
-        
-        print(f"\nRegret Analysis:")
-        print(f"  Average Regret: {avg_regret:.1f}")
-        print(f"  Trend: {regret_trend}")
-        print(f"  Episodes: {len(episode_regrets)}")
+    avg_regret = np.mean(episode_regrets)
+    regret_trend = "improving" if len(episode_regrets) > 1 and episode_regrets[-1] < episode_regrets[0] else "stable"
+    
+    print(f"\nRegret Analysis:")
+    print(f"  Average Regret: {avg_regret:.1f}")
+    print(f"  Trend: {regret_trend}")
+    print(f"  Episodes: {len(episode_regrets)}")
     
     # Calculate total questions asked across all episodes
     total_questions_asked = sum(episode.get('steps', 0) for episode in all_results)

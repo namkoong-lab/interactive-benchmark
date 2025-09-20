@@ -1,0 +1,2688 @@
+{
+  "experiment": "Experiment 1: LLM Learning Across Categories (Checkpoint)",
+  "timestamp": "2025-09-20T19:40:08.423324",
+  "episode_num": 5,
+  "model": "gpt-4o",
+  "feedback_type": "star_rating",
+  "seed": 179322,
+  "agent_state": {
+    "episode_count": 5,
+    "episode_history": [
+      {
+        "episode": 1,
+        "category": "Alarm Clocks",
+        "persona": 25106,
+        "dialog": [
+          [
+            "What's your budget for an alarm clock?",
+            "Around $30."
+          ]
+        ],
+        "selected_product_id": 87210,
+        "selected_product_name": "TXL Large Digital Day Wall Clock, Custom 8 Languages Calendar, Count up-Down Timer and Temp Reminder, 12/24Hr Desktop Alarm Clock with 14.17\" Extra Large Display for Home Office Studio Hotel, White",
+        "feedback": "Recommendation rating: 5 out of 5 stars (best possible: 5 stars)"
+      },
+      {
+        "episode": 2,
+        "category": "Fully Threaded Rods & Studs",
+        "persona": 25106,
+        "dialog": [
+          [
+            "What's your budget for a fully threaded rod or stud?",
+            "I would allocate around $50 for a fully threaded rod or stud."
+          ]
+        ],
+        "selected_product_id": 91720,
+        "selected_product_name": "L-Track Threaded Stud Fittings (SM)",
+        "feedback": "Recommendation rating: 2 out of 5 stars (best possible: 5 stars)"
+      },
+      {
+        "episode": 3,
+        "category": "Photo Albums, Frames & Accessories",
+        "persona": 25106,
+        "dialog": [
+          [
+            "What's your budget for a photo album or frame?",
+            "I would budget around $50 for a photo album or frame."
+          ]
+        ],
+        "selected_product_id": 87842,
+        "selected_product_name": "SnapeZo Silver Poster Frame A1 Size, 1.2 Inch Aluminum Profile, Front-Loading Snap Frame, Wall Mounting, Premium Series",
+        "feedback": "Recommendation rating: 3 out of 5 stars (best possible: 5 stars)"
+      },
+      {
+        "episode": 4,
+        "category": "Wall Sculptures",
+        "persona": 25106,
+        "dialog": [
+          [
+            "What's your budget for a wall sculpture?",
+            "I'm looking to spend around $200 to $300."
+          ]
+        ],
+        "selected_product_id": 85244,
+        "selected_product_name": "DEKADRON Metal Wall Art - Lotus Flower - 3D Wall Silhouette Metal Wall Decor Home Office Decoration Bedroom Living Room Decor Sculpture (Black, 46\" W x 30\" H / 117x76 cm)",
+        "feedback": "Recommendation rating: 4 out of 5 stars (best possible: 5 stars)"
+      },
+      {
+        "episode": 5,
+        "category": "Quilt Sets",
+        "persona": 25106,
+        "dialog": [
+          [
+            "What's your budget for a quilt set?",
+            "Around $150."
+          ]
+        ],
+        "selected_product_id": 88096,
+        "selected_product_name": "Lush Decor Hygge Geo Pattern Striped 3 Piece Quilt Bedding Set, Full/Queen, Gray & White",
+        "feedback": "Recommendation rating: 4 out of 5 stars (best possible: 5 stars)"
+      }
+    ],
+    "episode_summaries": []
+  },
+  "episodes_completed": 5,
+  "all_results": [
+    {
+      "episode": 1,
+      "category": "Alarm Clocks",
+      "persona_index": 25106,
+      "episode_in_category": 1,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 87210,
+        "chosen_score": 85.0,
+        "best_product_id": 87210,
+        "best_score": 85.0,
+        "regret": 0.0,
+        "top1": true,
+        "top3": true,
+        "questions_asked": 1,
+        "feedback": "Recommendation rating: 5 out of 5 stars (best possible: 5 stars)",
+        "feedback_type": "star_rating"
+      },
+      "full_dialog": [
+        [
+          "What's your budget for an alarm clock?",
+          "Around $30."
+        ]
+      ],
+      "product_info": {
+        "num_products": 39,
+        "products_with_scores": [
+          {
+            "id": 87210,
+            "name": "TXL Large Digital Day Wall Clock, Custom 8 Languages Calendar, Count up-Down Timer and Temp Reminder, 12/24Hr Desktop Alarm Clock with 14.17\" Extra Large Display for Home Office Studio Hotel, White",
+            "price": 39.99,
+            "average_score": 85.0
+          },
+          {
+            "id": 86291,
+            "name": "Timelink Smartlight Blue Digital Rubber Outer Shell Alarm Clock for Bedrooms Travel, for Men Women, Simple Operation, Automatic Smart Night Light Dimmer, Large Display, Snooze, Small Clock for Kids",
+            "price": 13.99,
+            "average_score": 80.0
+          },
+          {
+            "id": 86765,
+            "name": "KWYDYP 3D LED Wall Clock with Remote Control 12/24 Hr Time/Date Display Nightlight Alarm Clock,Digital Clock Brightness to Adjust,Temperature, for Office/Home/Living Room/School (Cool White, 15 inch)",
+            "price": 32.99,
+            "average_score": 80.0
+          },
+          {
+            "id": 87916,
+            "name": "YORTOT Small Digital Alarm Clock - Dual USB A & C Charging Port,Dual Alarm with Weekday/Weekend Mode,0-100% Dimmer,Easy to Set,12/24H,Battery Backup,Compact Clock for Bedside Desk Table Bedrooms,White",
+            "price": null,
+            "average_score": 80.0
+          },
+          {
+            "id": 86352,
+            "name": "LATICITY Digital Alarm Clock with Wireless Charging,15W Fast Wireless Charger with 3 Alarms,Warm Night Lightn,USB Charging Port,12/24H,Modern Digital Mirror Clock, Bedroom, Living Room, Office",
+            "price": 32.99,
+            "average_score": 72.5
+          },
+          {
+            "id": 86475,
+            "name": "IEKA Alarm Clock, Digital Easy to Set and Watch with Large LCD Screen Low Light Soft Night Light Repeating Snooze Month Date & Temperature Display (White)",
+            "price": null,
+            "average_score": 72.5
+          },
+          {
+            "id": 86175,
+            "name": "Westclox 66705 Large LED Alarm Clock, Red Display",
+            "price": 16.99,
+            "average_score": 70.0
+          },
+          {
+            "id": 83597,
+            "name": "PEYOU Projection Alarm Clock with USB Charger, Digital Alarm Clock for Bedroom with Adapter, 7.4\" Mirror Display, 4-Dimmer, 180\u00b0 Rotable, Snooze, Dual Alarm Clock for Heavy Sleepers Adults Kids",
+            "price": 26.99,
+            "average_score": 67.5
+          },
+          {
+            "id": 86569,
+            "name": "AMIR Wake up Light with Alarm Clock, Night Light Clock for Kids with Sunrise Simulation, 5 Natural Sounds, Rechargeable, Touch Sensor Multicolor Dimmable Night Light White1",
+            "price": null,
+            "average_score": 67.5
+          },
+          {
+            "id": 87277,
+            "name": "Analog Alarm Clock - Non Ticking Battery Alarm Clocks for Bedrooms, 4 Inch Small Clocks Battery Operated, Bedside Clock, Silent Retro Small Table Clock and Desk Clocks for Office, Green (Gold Feet)",
+            "price": 11.99,
+            "average_score": 65.0
+          },
+          {
+            "id": 85843,
+            "name": "GENNYUE Digital Alarm Clocks, Non Ticking Battery Operated, Desk Clock Simple Alarm Clock, with Time Temperature Snooze Night Light for Bedrooms Office and Home",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 86713,
+            "name": "SHISEDECO Small Table Clocks, Classic Non-Ticking Tabletop Alarm Clock with Backlight, Battery Operated Desk Astronaut Clock with HD Glass for Living Room Bedroom Bedside Indoor Decor (White)",
+            "price": 14.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 84328,
+            "name": "Oregon Scientific RM511A Portable Radio Controlled Alarm Clock, Dual Alarms, Indoor Temperature, Snooze Function, Time and Date Display, Black",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 83501,
+            "name": "Digital Travel Alarm Clock Timer LCD Clock with Foldable Calendar Temperature Timer\u00a0Snooze Mode, Battery Operated, Portable Large Number Display Clock\u00a012/24 H Small Desk Clock (Black)",
+            "price": 19.99,
+            "average_score": 57.5
+          },
+          {
+            "id": 87269,
+            "name": "GOLDSTAR New Pyramid Digital LCD Alarm Clock with Date and Temperature Display & Light-Activated Sensor Light in 7 LED Colors",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 86242,
+            "name": "Silverzone LED Digital Alarm Clock 6.5'' Big Digit Mirror Surface Smart Loud Alarm with Snooze, 3-Level Auto/Manual Dimmer and Dual USB Charger Port for Kids and Heavy Sleepers (Black Body Blue Word)",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 86533,
+            "name": "BRNEWO Bedroom Moon Lamp, RGB Color Changing Light with Scene Mode and Music Mode, Alarm Clock with Bluetooth Speaker, Suitable for Kids/Adults, Living Room Night Light Lighting Dimmable.",
+            "price": 35.99,
+            "average_score": 55.0
+          },
+          {
+            "id": 86032,
+            "name": "BEW Projection Alarm Clock Digital Clock with Indoor Thermometer Hygrometer, USB Charger, Dual Alarm Clocks for Bedrooms, Travel, AC & Battery Operated",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 87782,
+            "name": "Howard Miller 645-652 Abigail Alarm Clock",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 83099,
+            "name": "Sonnet SONNET-T-4678 Twin Bell Alarm Clock - Very Loud for Heavy Sleepers and Hearing Impaired - Battery Operated Blue Backlight - for Teens and Senior Citizens, 3/8\u201d Digits, Black",
+            "price": 25.0,
+            "average_score": 47.5
+          },
+          {
+            "id": 86152,
+            "name": "Digital Alarm Clock, Temperature Date LED Display Wood Grain Clock 3 Levels Brightness Voice Control Modern Simplicity Wood Digital Clock (Alarm Clock)",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 86515,
+            "name": "Talking Cube Alarm Clock with LED Green Display Backlight",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 82911,
+            "name": "KWANWA Small Alarm Clock with Time Talking | Hourly Report | Real Time& Chime Report| Three Kinds of Alarm Sounds",
+            "price": null,
+            "average_score": 45.0
+          },
+          {
+            "id": 87366,
+            "name": "Timex CD Player Alarm Clock Nature Sounds",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 82704,
+            "name": "Bulova B6123 Traveler Alarm Clock, Silver",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 83570,
+            "name": "Aitey Alarm Clock for Kids, LED Large Display Clock with Temperature, Optional Weekday Alarm, Snooze and Smart Back Light for Bedroom, Desktop and Shelf, Battery Operated Clock (Blue)",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 87965,
+            "name": "Alarm Clock Security Hidden DVR video CCTV Camera Motion Detector mini covert DV Camcorder + webcam recording Clock + LCD Remote",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 85538,
+            "name": "American Flag Digital Alarm Clock",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 83916,
+            "name": "Emerson CKS9051 SmartSet Dual Alarm Clock Radio (Discontinued by Manufacturer)",
+            "price": null,
+            "average_score": 32.5
+          },
+          {
+            "id": 82555,
+            "name": "Audiovox CD-95 Digital AM/FM Alarm Clock with Dual Alarm/NOAA/Weather Alert Radio",
+            "price": null,
+            "average_score": 30.0
+          },
+          {
+            "id": 82673,
+            "name": "SENTRY CL936 Talking Alarm Clock",
+            "price": null,
+            "average_score": 30.0
+          },
+          {
+            "id": 83713,
+            "name": "Timex T318S Easy to Read Alarm Clock Radio (Discontinued by Manufacturer)",
+            "price": null,
+            "average_score": 30.0
+          },
+          {
+            "id": 84925,
+            "name": "Kids Alarm Clock Wake Up Easy Setting Digital Clock for Boys Girls, 7 Colors Changing LED Light Large Display Time/Date/Temp/Alarm with Snooze, Bedside Clock, Night Light Clock - Best Gift for Kids",
+            "price": 8.4,
+            "average_score": 27.5
+          },
+          {
+            "id": 82452,
+            "name": "Pack of 2 Wake up Anti-doze Earpiece Nap Zapper Alarm Ingegrating LED Flashllight Function",
+            "price": 11.98,
+            "average_score": 20.0
+          },
+          {
+            "id": 83369,
+            "name": "The Source Red Robot Clock RobotTime Moveable Bedside Alarm Analogue Clock Flashing Eyes and Sound",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 84140,
+            "name": "Cointone LED Alarm Clock Unicorn Pink Pattern Creative Desk Table Clock Glowing Electronic Colorful Digital Clock for Unisex Adults Girl Boy Kids Children Toy Birthday Present Gift",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 82672,
+            "name": "Present Time Silly Mini Flower Alarm Clock",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 82962,
+            "name": "Kids Alarm Clock,Screen alarm,Temperature display alarm ,Cute Chick Alarm Clock for Girls Boys, Kids Night Light Clock with 3 Color Changing,Children's Sleep Trainer",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 83552,
+            "name": "Beyond Alarm Clock Gray Kitty Cat White",
+            "price": null,
+            "average_score": 12.5
+          }
+        ]
+      }
+    },
+    {
+      "episode": 2,
+      "category": "Fully Threaded Rods & Studs",
+      "persona_index": 25106,
+      "episode_in_category": 1,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 91720,
+        "chosen_score": 40.0,
+        "best_product_id": 90427,
+        "best_score": 87.5,
+        "regret": 47.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 1,
+        "feedback": "Recommendation rating: 2 out of 5 stars (best possible: 5 stars)",
+        "feedback_type": "star_rating"
+      },
+      "full_dialog": [
+        [
+          "What's your budget for a fully threaded rod or stud?",
+          "I would allocate around $50 for a fully threaded rod or stud."
+        ]
+      ],
+      "product_info": {
+        "num_products": 16,
+        "products_with_scores": [
+          {
+            "id": 90427,
+            "name": "12 Pack 8/32 Inch M4 Threaded Rod with Hex Nuts 12 Pcs M4 Stainless Steel Threads Studs Rods 12 Pcs M4 Stainless Steel Fully Threaded Hex Nuts for Beaded Garden Stake Rods (12 Inch)",
+            "price": 22.99,
+            "average_score": 87.5
+          },
+          {
+            "id": 91459,
+            "name": "M8-1.25x50mm 304 Stainless Steel Double End Threaded Stud Screw Bolt 5pcs",
+            "price": 11.29,
+            "average_score": 85.0
+          },
+          {
+            "id": 91625,
+            "name": "Brass Fully Threaded Rod, #8-32 Thread Size, 36\" Length, Right Hand Threads",
+            "price": 24.67,
+            "average_score": 85.0
+          },
+          {
+            "id": 90823,
+            "name": "1/4\"-20 X 1-1/4\" Zinc Plated Threaded Rod Studs (Pack of 12)",
+            "price": 6.48,
+            "average_score": 80.0
+          },
+          {
+            "id": 89002,
+            "name": "10 M10-1.25 x 41mm Double End Studs Class 10.9 Plain",
+            "price": 15.99,
+            "average_score": 77.5
+          },
+          {
+            "id": 88717,
+            "name": "Stanley N218-263 National Hardware 4006Bc Threaded Rod, No 10-32 X 36 in, Steel, Zinc Plated",
+            "price": 24.38,
+            "average_score": 77.5
+          },
+          {
+            "id": 93638,
+            "name": "Brass Fully Threaded Rod, #4-40 Thread Size, 36\" Length, Right Hand Threads",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 93560,
+            "name": "Taytools Push Button Ratchet, 2 Each 3/8 16,Level Adjustable Handles with Threaded Stud (Male Threads) PBRLM-3/8X2, Metal",
+            "price": 14.99,
+            "average_score": 50.0
+          },
+          {
+            "id": 88481,
+            "name": "Threaded Rod, Low Carbon Steel, 1-5x3 ft",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 90132,
+            "name": "Die Cast Zinc Adjustable Clamping Handle, Threaded Stud, 3-1/2\" Length, 2-15/32\" Height, 3/8\"-16 TPI Thread, 49/64\" Thread Length (Pack of 1)",
+            "price": 10.88,
+            "average_score": 42.5
+          },
+          {
+            "id": 93012,
+            "name": "uxcell M8 Handle Adjustable Clamping Lever Thread Push Button Ratchet Female Threaded Stud 5 Pcs",
+            "price": 11.49,
+            "average_score": 42.5
+          },
+          {
+            "id": 94116,
+            "name": "Low-Strength Steel Threaded Rod, 1/4\"-20 Thread Size, 1 Foot Long",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 91720,
+            "name": "L-Track Threaded Stud Fittings (SM)",
+            "price": 67.35,
+            "average_score": 40.0
+          },
+          {
+            "id": 94109,
+            "name": "Prime-Line U 9247 Mending Plates, 3/4 inch x 3 inch, Zinc (10-pack))",
+            "price": 5.92,
+            "average_score": 30.0
+          },
+          {
+            "id": 89891,
+            "name": "Prime-Line Products Z 10765 Box 16d Smooth Box Nails, 3-1/4-Inch",
+            "price": 6.41,
+            "average_score": 22.5
+          },
+          {
+            "id": 89254,
+            "name": "Prime-Line Products PL 15711 Plastic Screen Clip, 1-3/16\", Gray,(Pack of 25)",
+            "price": null,
+            "average_score": 20.0
+          }
+        ]
+      }
+    },
+    {
+      "episode": 3,
+      "category": "Photo Albums, Frames & Accessories",
+      "persona_index": 25106,
+      "episode_in_category": 1,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 87842,
+        "chosen_score": 47.5,
+        "best_product_id": 82355,
+        "best_score": 90.0,
+        "regret": 42.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 1,
+        "feedback": "Recommendation rating: 3 out of 5 stars (best possible: 5 stars)",
+        "feedback_type": "star_rating"
+      },
+      "full_dialog": [
+        [
+          "What's your budget for a photo album or frame?",
+          "I would budget around $50 for a photo album or frame."
+        ]
+      ],
+      "product_info": {
+        "num_products": 27,
+        "products_with_scores": [
+          {
+            "id": 82355,
+            "name": "Grasslands Road - Owl Always Love You Fox \"Family\" 4x6\" Photo Frame - 464840",
+            "price": null,
+            "average_score": 90.0
+          },
+          {
+            "id": 83755,
+            "name": "5x5 Shadow Box Frame with Linen Back - Sturdy Rustic Memory Display Case of Flower, Pictures, Medals and More, Distressed White",
+            "price": 9.99,
+            "average_score": 87.5
+          },
+          {
+            "id": 86919,
+            "name": "BOMINICA Shadow Box Frame 12x12 Shadow Box Display Case with Linen Back, Deep Display Box for Memorabilia, Wedding, Medals, Tickets, Photos and Awards, Black",
+            "price": null,
+            "average_score": 82.5
+          },
+          {
+            "id": 85901,
+            "name": "Lawrence Frames 766081 Nutmeg Wood Picture Frame, 8.5 by 11-Inch",
+            "price": 14.47,
+            "average_score": 82.5
+          },
+          {
+            "id": 84917,
+            "name": "SimpleMe Rustic Wood Picture Frames 8x10 - Pack of 2 \u2013 Farmhouse Tabletop or Wall Mount Display with Glass, Dark Brown",
+            "price": 21.99,
+            "average_score": 80.0
+          },
+          {
+            "id": 87405,
+            "name": "Lawrence Frames 168020 Shadow Box, 10x20, Black",
+            "price": null,
+            "average_score": 77.5
+          },
+          {
+            "id": 84269,
+            "name": "US Art Frames 22x33 Black 1 Inch Flat MDF Wood Composite, Wall Decor Picture or Poster Frame",
+            "price": 55.79,
+            "average_score": 75.0
+          },
+          {
+            "id": 83659,
+            "name": "ArtToFrames 28x38 Inch Black Picture Frame, This 1.25 Inch Custom MDF Poster Frame is Black, Great for Your Art or Photos - Comes with 060 Plexi Glass",
+            "price": 102.34,
+            "average_score": 75.0
+          },
+          {
+            "id": 82420,
+            "name": "Craig Frames 1WB3BK 23 by 35-Inch Picture Frame, Smooth Finish, 1-Inch Wide, Black",
+            "price": 55.79,
+            "average_score": 75.0
+          },
+          {
+            "id": 86288,
+            "name": "Country Chic Wood Picture Frame Narrow 1.5\u201d Inch Solid Wood Molding for Photos, Artwork & Prints Includes Glass - Made in USA - [Southern Yellow - 8\" x 10\"]",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 82869,
+            "name": "MCS Trendsetter Poster Frame, Black, 22.75 x 34 in, Single",
+            "price": 32.99,
+            "average_score": 70.0
+          },
+          {
+            "id": 86227,
+            "name": "CAIUL Compatible 128 Pockets Mini Photo Album for Fujifilm Instax Mini 7s 8 8+ 9 25 26 50s 70 90 Film, Polaroid PIC-300 Z2300 Film (Ice Blue)",
+            "price": 11.99,
+            "average_score": 67.5
+          },
+          {
+            "id": 88296,
+            "name": "ZIMFANQI Grandma Gifts Christmas Gifts Nana Grandma Photo Holder,Picture Frame Birthday Gifts for Grandma from Granddaughter and Grandson, Grandkids Photo Holder Grandpa Nana Grandmother Gifts",
+            "price": 13.99,
+            "average_score": 65.0
+          },
+          {
+            "id": 86222,
+            "name": "Set of 3 Magnetic Refrigerator Photo Frame 4\" x 6\" (3, 4\" x 6\")",
+            "price": 4.99,
+            "average_score": 55.0
+          },
+          {
+            "id": 84962,
+            "name": "LAST G 2-Pack, 8.5x11 Document Frame to Display 8.5 by 11 Inch Certificate Frames Standard Paper Frame Black",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 85293,
+            "name": "Elegant Diploma Frame 13x18 without Mat or 11x14 with Mat - UV Protected - Perfect Degree, College, Document, Certificate Frame - Picture Frame to Preserve and Display any Award, Graduation Gift",
+            "price": 44.99,
+            "average_score": 50.0
+          },
+          {
+            "id": 83305,
+            "name": "ArtToFrames 1.25-Inch Espresso Picture Frame with 4 Openings of 6 by 8-Inch and a Super White Top Mat and Black Bottom Mat",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 87842,
+            "name": "SnapeZo Silver Poster Frame A1 Size, 1.2 Inch Aluminum Profile, Front-Loading Snap Frame, Wall Mounting, Premium Series",
+            "price": 69.99,
+            "average_score": 47.5
+          },
+          {
+            "id": 84687,
+            "name": "3art Diploma Tassel Frame 8X10 BLACK/RED (CUSTOMIZABLE) 2021",
+            "price": 133.54,
+            "average_score": 45.0
+          },
+          {
+            "id": 85461,
+            "name": "Perfect Cases Single Diploma Frame with Tassel and Double Matting for 9\" x 7\" Tall Diploma with Cherry 2\" Frame",
+            "price": 89.65,
+            "average_score": 40.0
+          },
+          {
+            "id": 85213,
+            "name": "Yinuoday Blank Photo Keychain Keyring Acrylic Photo Insert Keychain Rectangle DIY Gift",
+            "price": 19.99,
+            "average_score": 40.0
+          },
+          {
+            "id": 86544,
+            "name": "Candle by the Hour 40-Hour Hurricane Lantern, Black, Eco-friendly Natural Beeswax with Cotton Wick,20625B",
+            "price": 30.84,
+            "average_score": 37.5
+          },
+          {
+            "id": 83340,
+            "name": "Bluemoona 20 Pcs - Drawer Door Library Label Tag Pull Home Cabinet Frame Handle File Name Card Holder Screw",
+            "price": 7.99,
+            "average_score": 35.0
+          },
+          {
+            "id": 87238,
+            "name": "HADLEY HOUSE Out of The Mist-Featuring Isaiah 40:31 Wood Pallet, 11x14",
+            "price": 33.95,
+            "average_score": 30.0
+          },
+          {
+            "id": 86471,
+            "name": "PRINZ Moments Baby Frame",
+            "price": null,
+            "average_score": 30.0
+          },
+          {
+            "id": 85524,
+            "name": "Ultrasound Picture Frame with Burlap Mat in 8\"x10\" - \u201cDaddy to Be\u201d Poem",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 86732,
+            "name": "Dixie Dawgs Oklahoma Laser Cut License Plate Car Tag Sooners Black Red OU",
+            "price": 16.99,
+            "average_score": 12.5
+          }
+        ]
+      }
+    },
+    {
+      "episode": 4,
+      "category": "Wall Sculptures",
+      "persona_index": 25106,
+      "episode_in_category": 1,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 85244,
+        "chosen_score": 72.5,
+        "best_product_id": 87936,
+        "best_score": 87.5,
+        "regret": 15.0,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 1,
+        "feedback": "Recommendation rating: 4 out of 5 stars (best possible: 5 stars)",
+        "feedback_type": "star_rating"
+      },
+      "full_dialog": [
+        [
+          "What's your budget for a wall sculpture?",
+          "I'm looking to spend around $200 to $300."
+        ]
+      ],
+      "product_info": {
+        "num_products": 49,
+        "products_with_scores": [
+          {
+            "id": 87936,
+            "name": "Statements2000 3D Abstract Metal Wall Art Accent Sculpture Modern Home Decor by Jon Allen, 46\" x 10\" - Rojo Wave",
+            "price": null,
+            "average_score": 87.5
+          },
+          {
+            "id": 83368,
+            "name": "Turtle Metal Wall D\u00e9cor or Table Decoration - 3D Design - Hand-Painted - 19\u201d x 19\u201d - Sea Wall Art - Indoor or Outdoor Use \u2013 Contemporary Home Decoration in Coastal Style",
+            "price": null,
+            "average_score": 85.0
+          },
+          {
+            "id": 87845,
+            "name": "MadeTerra Seagrass Fan Wall Decor | Rustic Wall Hanging Boho Woven Home Decor Wall Pediment | Beautiful Wall Art for Apartment, Dorm Room Decoration (31.5\" x H19.7'', Black)",
+            "price": null,
+            "average_score": 75.0
+          },
+          {
+            "id": 83942,
+            "name": "Ebros Nature Spirit God Big Nose Leafman Gargoyle Celtic Greenman Hanging Wall Decor Plaque 9\" High Wiccan Tree Of Life Forest Shepherd Horned God Cernunnos Ent Mythical Fantasy Decorative Sculpture",
+            "price": 30.99,
+            "average_score": 75.0
+          },
+          {
+            "id": 83255,
+            "name": "Deco 79 Metal Leaf Wall Decor, 48\" x 1\" x 12\", Blue",
+            "price": 36.99,
+            "average_score": 72.5
+          },
+          {
+            "id": 82110,
+            "name": "Yihui Arts Handmade Abstract Warm Colorful Art of Metal Wall Decor Fine Light Solid Metallic Impress Modern Artwork for Hotel",
+            "price": null,
+            "average_score": 72.5
+          },
+          {
+            "id": 85244,
+            "name": "DEKADRON Metal Wall Art - Lotus Flower - 3D Wall Silhouette Metal Wall Decor Home Office Decoration Bedroom Living Room Decor Sculpture (Black, 46\" W x 30\" H / 117x76 cm)",
+            "price": 189.9,
+            "average_score": 72.5
+          },
+          {
+            "id": 85518,
+            "name": "21 inch Beautiful Artisan Metal Angel Wings Home Wall Decor Large (Solid Black)",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 85900,
+            "name": "Lechesis Metal Ginkgo Leaf Wall Decor Sculpture, 27.6\" x 20.5\"",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 86029,
+            "name": "Ebros Double Dragon Alchemy in Robust Yin Yang Astrology Fusion Wall Plaque Sculpture Day And Night Dragon Round Medallion Wall Decor",
+            "price": 52.99,
+            "average_score": 70.0
+          },
+          {
+            "id": 87465,
+            "name": "Ridota Metal Flower Wall Decor, 11.5\" Metal Hanging Wall Art Sculpture, Metal Wall Art Decor for Indoor Outdoor Home Bedroom Living Room, Blue",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 82245,
+            "name": "SeasonsEasy Metal Sunflower Wall Decor, Set of 2 Orange Floral Wall Decoration with Wire Hanger for Living Room, Bedroom, Kitchen, Bathroom Room Decor, Outdoor Garden and Patio Wall Art",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 83911,
+            "name": "3 Sizes Coral Reef Fish Wall Art Nautical Decor Sea Theme Art Decorations Wood Hanging Fish Wooden Blue Coastal Art Rustic Fish Decor for Indoor Outdoor Bathroom Office Decoration",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 86344,
+            "name": "ARBOR | Metal Wall Decor, Metal Wall Art, Metal Wall Hangings, Metal Wall Signs, Metal Art, Housewarming Gifts [25.6\"x14.1\" in] x3",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 87304,
+            "name": "18\" Barn Star Black Country",
+            "price": 34.94,
+            "average_score": 65.0
+          },
+          {
+            "id": 3853,
+            "name": "Zhengmy 2 Pieces Metal Tree Leaf Wall Decor Vine Olive Branch Leaf Wall Art Wrought Iron Scroll Above The Bed, Living Room, Outdoor Decoration (Retro Color)",
+            "price": 19.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 8620,
+            "name": "Design Toscano Heraldic Royal Lions Coat of Arms Wall Sculpture",
+            "price": 113.9,
+            "average_score": 62.5
+          },
+          {
+            "id": 82242,
+            "name": "Enterprise Wood Metal Decorative Wall Panel, 24.25 Inches High x 10.25 Inches Wide, Ivory Off-White Distressed Finish with Black Metal Scroll Work Design off-white, black",
+            "price": 39.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 8660,
+            "name": "Moving Sand Art, 17.3inch Dynamic Sand Picture wall Art, Moving Sand Art Picture Wall Decor Wall Sculpture Hanging Art Home Decoration",
+            "price": 123.88,
+            "average_score": 62.5
+          },
+          {
+            "id": 87174,
+            "name": "Steel Roots Decor Metal Black Stacked Coffee Cup Wall Art - Best Gift for Coffee Lover & Coffee Bar, Home Decor, Kitchen Wall Decor - Original Metal Wall Hanging Art - Laser Cut Holes - (18\" Black)",
+            "price": 64.99,
+            "average_score": 60.0
+          },
+          {
+            "id": 88366,
+            "name": "Bion, Large Hamsa Wall Hanging with Evil Eye Bead (Hamsa Horseshoe)",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 7452,
+            "name": "BestGiftEver Rustic Tribal Bull Steer Cow Bison Skull Wall Hanging Decoration with Feathers",
+            "price": 38.99,
+            "average_score": 55.0
+          },
+          {
+            "id": 87471,
+            "name": "WorldBazzar HAND CARVED BLUE WHITE WASH WOOD DOLPHIN WALL ART HANGING TROPICAL NAUTICAL DECOR",
+            "price": 29.94,
+            "average_score": 55.0
+          },
+          {
+            "id": 86547,
+            "name": "Riverside Designs The Blue Marlin Metal Hanging Wall Art Sculpture Hanging Sign (24\", Copper)",
+            "price": 84.95,
+            "average_score": 52.5
+          },
+          {
+            "id": 88341,
+            "name": "IOVEQG Custom Bee Honeycombs Metal Wall Art, Personalized Bee Honeycombs Name Sign Decoration for Room, Bee Honeycombs Home Decor, Custom Honey Bee",
+            "price": 29.9,
+            "average_score": 52.5
+          },
+          {
+            "id": 83596,
+            "name": "AINIJIA&HOLO Love Heart 3D Art Wall,Romantic Hug Couple Bronze Canvas for Home Modern Decor Draw Cores,Wedding Room Decor and Valentine's Day Decorations - Gold/Gray\uff0860x60 cm/24 Inchs\uff09",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 85561,
+            "name": "Circle Of Life Metal Tree Wall Art Round Hallow Hanging Ornament Simple Iron Craft Home Outdoor Decor 25x25cm",
+            "price": 12.69,
+            "average_score": 50.0
+          },
+          {
+            "id": 1,
+            "name": "Deco 79 Metal Floral Wall Decor, 48\" x 3\" x 24\", Gold",
+            "price": 95.83,
+            "average_score": 47.5
+          },
+          {
+            "id": 3830,
+            "name": "Deco 79 Metal Abstract 5 Wavy Panels Wall Decor with Embossed Details, 24\" x 1\" x 20\", Multi Colored",
+            "price": 31.84,
+            "average_score": 45.0
+          },
+          {
+            "id": 3255,
+            "name": "Design Toscano Rampant Lion Crest Shield Medieval Decor Wall Sculpture, Single",
+            "price": 53.9,
+            "average_score": 42.5
+          },
+          {
+            "id": 8522,
+            "name": "Touch of Class Earhart Compass Wall Art - Metal - Tuscan Slate - Indoor, Outdoor - Navigational Decor for Bedroom, Living Room, Office, Den, Foyer, Entryway, Patio, Garden",
+            "price": 64.99,
+            "average_score": 42.5
+          },
+          {
+            "id": 86014,
+            "name": "White Faux Taxidermy The Corduroy | White Faux Jackalope Head with Metallic Silver Antlers Wall Mount. Jackrabbit & Deer/Antelope",
+            "price": null,
+            "average_score": 42.5
+          },
+          {
+            "id": 83527,
+            "name": "Metal Movie Reel Wall Art Abstract Antique Movie Theater Decor Beautiful Movie Reel Wall Decor Contemporary Decorative Wall Art Film Reel for Home Office Studio Decor (Colorful, Rustic Style)",
+            "price": 12.99,
+            "average_score": 40.0
+          },
+          {
+            "id": 83286,
+            "name": "All You Need Is Love And Apple Pie Vintage Look 8X12 Inch Metal Decoration Painting Sign for Home Kitchen Room Garden Farmhosue Funny Wall Decor",
+            "price": 10.0,
+            "average_score": 37.5
+          },
+          {
+            "id": 5091,
+            "name": "Rustic Wall Decor Personalized Celtic Cross Irish Pub Whiskey Barrel Bar Decor for Rustic Home Bar Wall Art Gift Man Cave Wall Decor Natural Wood Brown 22 inch Wall Decor",
+            "price": 99.77,
+            "average_score": 37.5
+          },
+          {
+            "id": 83311,
+            "name": "Vivegate Dog Wall Decor - Living Room Decor for Dogs Abstract Line Minimalist Art Sculpture Wall Art (DOG-04)",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 82691,
+            "name": "Gerson Rooster Welcome Y'all Large Framed Farmhouse Colorful Wall Plaque Kitchen Room Office 12\" x 16\"",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 84040,
+            "name": "DPHGQGK Cowgirl and Horse in A World Full of Princesses Be A Cowgirl Home Living Decor Retro Metal Tin Sign Home Wall Decoration 8x12inch",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 82892,
+            "name": "K&N41 Indoor D\u00e9cor Blue Metal Wall Art Country Farmhouse Rustic Rooster Primitive Collectible Home Decor",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 5473,
+            "name": "LQWE Home Metal Wall Decor, Golden Ginkgo Leaves Metal Wall Decor with Frame, Gold Metal Art Wall Sculpture for Study Living Room Bedroom Artwork Hotel Decor Indoor Outdoor",
+            "price": 49.38,
+            "average_score": 35.0
+          },
+          {
+            "id": 87799,
+            "name": "Metal Tin Sign Vintage Chic Art Decoration Bourbon Street New Orleans for Bar Cafe Home Farm Office Restaurant Club or Garage 12\" X 8\"",
+            "price": 7.97,
+            "average_score": 32.5
+          },
+          {
+            "id": 87851,
+            "name": "DAIERCY Purple Iris Tin Signs 1964 Vintage Botanical Art- Violet Iris Flower Wall Decor- Shabby Chic Wall Decor French Decor Funny Metal Sign Home Decor, 140 X 200 mm",
+            "price": 8.99,
+            "average_score": 32.5
+          },
+          {
+            "id": 85684,
+            "name": "Handpainted Flying Yellow Parrot Wall Mount Decor Plaque 19\"",
+            "price": null,
+            "average_score": 32.5
+          },
+          {
+            "id": 7106,
+            "name": "Creative Tin Sign Dragonfly Choose Kindness Funny Novelty Metal Retro Wall Decor For Home Gate Garden Bars Restaurants Cafes Office Store Pubs Club Gift for Home Coffee Wall Decor 8x12 Inch",
+            "price": 8.99,
+            "average_score": 32.5
+          },
+          {
+            "id": 85973,
+            "name": "Duff Beer Logo Retro Cartoon The Simpson Wall Bar Man Cave Decor Metal Tin Sign TIN Sign 7.8X11.8 INCH",
+            "price": 9.89,
+            "average_score": 30.0
+          },
+          {
+            "id": 2979,
+            "name": "Pipiniuniu Shower Room Retro Look 8X12 Inch Tin Decoration Art Sign for Home Kitchen Bathroom Farmhosue Funny Wall Decor",
+            "price": 12.98,
+            "average_score": 27.5
+          },
+          {
+            "id": 1610,
+            "name": "Fishing Wall Decor Woman and They Lived Happily Ever After Fishing Tin Sign Decor Vintage Chic Metal Poster Wall Decor Art Gift for Man Cave Boys Room Garage 8X12 Inch",
+            "price": 8.99,
+            "average_score": 25.0
+          },
+          {
+            "id": 83582,
+            "name": "Alien Bowing Antique Finish Wall Relief",
+            "price": 29.45,
+            "average_score": 22.5
+          },
+          {
+            "id": 3237,
+            "name": "HOSLEY AMOUR Wood Table & Wall Decor - 15\" Long. Ideal Gift for Weddings and Special Occasions, Can be Used as a Decorative Centerpiece in Your Living/Dining Room O9",
+            "price": 10.99,
+            "average_score": 17.5
+          }
+        ]
+      }
+    },
+    {
+      "episode": 5,
+      "category": "Quilt Sets",
+      "persona_index": 25106,
+      "episode_in_category": 1,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 88096,
+        "chosen_score": 75.0,
+        "best_product_id": 86558,
+        "best_score": 87.5,
+        "regret": 12.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 1,
+        "feedback": "Recommendation rating: 4 out of 5 stars (best possible: 5 stars)",
+        "feedback_type": "star_rating"
+      },
+      "full_dialog": [
+        [
+          "What's your budget for a quilt set?",
+          "Around $150."
+        ]
+      ],
+      "product_info": {
+        "num_products": 54,
+        "products_with_scores": [
+          {
+            "id": 86558,
+            "name": "Lush Decor Scandinavian Floral 3 Piece Quilt Set, King, Navy & White",
+            "price": 92.43,
+            "average_score": 87.5
+          },
+          {
+            "id": 87224,
+            "name": "Rustic Western Southwestern Brown Quilt Set With Native American Designs Grizzly Bears and Pinecone Prints King / California King Bedspread 3 Piece Bear King / Cal-King",
+            "price": 39.99,
+            "average_score": 87.0
+          },
+          {
+            "id": 82309,
+            "name": "VHC Brands Dakota Star Ninepatch Luxury King Quilt Set 120\" x 105\" w/ 2 Shams",
+            "price": 237.95,
+            "average_score": 85.0
+          },
+          {
+            "id": 83746,
+            "name": "Tommy Bahama Quilt Set Reversible Cotton Bedding with Matching Shams, Lightweight Home Decor for All Seasons, Queen, Green/Sky Blue",
+            "price": 90.56,
+            "average_score": 81.0
+          },
+          {
+            "id": 85816,
+            "name": "Flysheep Floral Patchwork Quilt Set 3 Pieces King Size, Green Plaid Reversible Bedspread Coverlet Set, Soft Microfiber Lightweight Bed Cover for All Season (102\" x 90\", 1 Quilt+ 2 Pillow Shams)",
+            "price": 39.99,
+            "average_score": 77.0
+          },
+          {
+            "id": 85736,
+            "name": "UOZZI BEDDING 3 Piece Reversible Quilt Set Gray White Branch with Yellow Dots Queen Full Size 88x88 Soft Microfiber Lightweight Summer Coverlet Bedspread for All Season (1 Quilt+ 2 Shams)",
+            "price": 39.99,
+            "average_score": 76.5
+          },
+          {
+            "id": 87098,
+            "name": "Brielle Premium Heavy Velvet Quilt Set with Cotton Backing, Full/Queen, Seafoam",
+            "price": 66.74,
+            "average_score": 76.0
+          },
+          {
+            "id": 87004,
+            "name": "California King Size Reversible Quilt Set Oversized 102\"x114\" Soft Microfiber Lightweight Large Coverlet Bedspread Summer Bedding Set Bed Cover for All Season Colorful Dots",
+            "price": 55.99,
+            "average_score": 76.0
+          },
+          {
+            "id": 82440,
+            "name": "Western Peak 5 Pc Luxury Western Texas Star Cowboy Horse Cabin Lodge Quilt Bedspread Oversize Comforter (Beige Cowboy, King)",
+            "price": null,
+            "average_score": 75.0
+          },
+          {
+            "id": 88096,
+            "name": "Lush Decor Hygge Geo Pattern Striped 3 Piece Quilt Bedding Set, Full/Queen, Gray & White",
+            "price": 85.49,
+            "average_score": 75.0
+          },
+          {
+            "id": 82119,
+            "name": "Tache Queen Patchwork Quilt - Ivy - Lightweight Floral Turquoise Blue Aqua Patchwork Queen Size Quilts for Bed Reversible Quilted Coverlet Quilt Queen Size",
+            "price": 54.67,
+            "average_score": 75.0
+          },
+          {
+            "id": 82592,
+            "name": "Lush Decor, Full Queen, Navy Aubree Quilt Paisley Damask Print Pattern Reversible 3 Piece Lightweight Bedding Blanket Bedspread Set",
+            "price": 80.99,
+            "average_score": 73.5
+          },
+          {
+            "id": 85124,
+            "name": "VCNY Home Quilt Set Nina Collection, Full/Queen, White",
+            "price": 31.5,
+            "average_score": 72.5
+          },
+          {
+            "id": 88375,
+            "name": "BOURINA Embroidery Quilt Set Coverlet Set 2-Piece Microfiber Bedspread Included 1 sham and 1 Quilt,Twin Size 68\" x 86\" Gold",
+            "price": 39.99,
+            "average_score": 72.5
+          },
+          {
+            "id": 84051,
+            "name": "2 Piece Quilt Set with Sham | Soft & Breathable Bed Cover for Spring & Summer | All-Season Quilt | Multi Layer Coverlet | Lightweight Bedspread | Boho Stripes | Queens Collection (King, Charcoal)",
+            "price": 44.99,
+            "average_score": 72.0
+          },
+          {
+            "id": 86063,
+            "name": "French Connection Adair Reversible Design Blanket 3 Piece Set Includes 1 Quilt and 2 Shams |100% Polyester |Wrinkle Resistant and Anti Pilling, King 3PC, Natural/Rust",
+            "price": 37.92,
+            "average_score": 71.5
+          },
+          {
+            "id": 83302,
+            "name": "Bedsure Linen Quilt Twin Size - Lightweight Soft Quilt Bedding Set for All Seasons, Bedspreads & Coverlets, Corduroy Pattern Quilt Set, 2 Pieces, 1 Quilt (68\"x86\") and 1 Pillow Sham (20\"x26\"+2\")",
+            "price": 45.99,
+            "average_score": 71.5
+          },
+          {
+            "id": 83331,
+            "name": "Levtex Home Mayla Full/Queen Quilt Set, Multi on White, Cotton",
+            "price": null,
+            "average_score": 71.0
+          },
+          {
+            "id": 85402,
+            "name": "ACCOTIA Queen Quilt Set Aqua Blue Bedspread - Lightweight Microfiber Coverlet for All Season with 2 Pillow Shams",
+            "price": 37.99,
+            "average_score": 71.0
+          },
+          {
+            "id": 84523,
+            "name": "Donna Sharp Twin Bedding Set - 2 Piece - Smoothie Contemporary Quilt Set with Twin Quilt and One Standard Pillow Sham - Machine Washable",
+            "price": 54.0,
+            "average_score": 70.5
+          },
+          {
+            "id": 83914,
+            "name": "Comfort Spaces Kienna Quilt Set-Luxury Double Sided Stitching Design All Season, Lightweight, Coverlet Bedspread Bedding, Matching Shams, Oversized King (120\"x118\"), Gray",
+            "price": 61.24,
+            "average_score": 70.5
+          },
+          {
+            "id": 84341,
+            "name": "Wake In Cloud - Geometric Quilt Set, White Black Geometric Modern Pattern Printed, 100% Cotton Fabric with Soft Microfiber Inner Fill Bedspread Coverlet Bedding (3pcs, King Size)",
+            "price": null,
+            "average_score": 70.5
+          },
+          {
+            "id": 82232,
+            "name": "Clara Clark Quilts Queen Size - All Season Bedspread Coverlet Set, Pinsonic Weave Lightweight Queen Quilt Bedding Set - 5 Piece Queen Quilt Set with Pillow Shams, Grid - Navy",
+            "price": 37.79,
+            "average_score": 70.0
+          },
+          {
+            "id": 84435,
+            "name": "Chic Home Woodside 3 Piece Quilt Set Abstract Large Scale Printed Floral-Decorative Pillow Sham Included, King, Black",
+            "price": 51.99,
+            "average_score": 69.5
+          },
+          {
+            "id": 82491,
+            "name": "MaiuFun Cotton Bedspread Quilt Sets King Size (96x108 Inch), Retro Red Classical Striped Bohemian Floral Patchwork Patterns, 3-Piece Bedding Coverlet for All Season (1 Quilt + 2 Pillow Shams)",
+            "price": 79.99,
+            "average_score": 69.0
+          },
+          {
+            "id": 86396,
+            "name": "BASIC CHOICE 3 Piece Quilt Set, Soft Stitched Lightweight Coverlet for All Season, Includes 1 Quilt and 2 Shams - Seamless, Dark Blue, Queen",
+            "price": 63.99,
+            "average_score": 68.0
+          },
+          {
+            "id": 85229,
+            "name": "VEEYOO Bedspread Quilt Set Full/Queen Size - Soft Microfiber Lightweight Coverlet Quilt Set for All Season, Quilt Set 3 Piece (1 Quilt, 2 Pillow Shams), Charcoal",
+            "price": null,
+            "average_score": 67.5
+          },
+          {
+            "id": 82690,
+            "name": "Verefa Yifantacy Lighting_time Summer Comforter Vintage Fresh Green Leaves Pattern Cotton 3-Piece Patchwork Bedspread/Quilted Set fit, Full Queen",
+            "price": null,
+            "average_score": 66.5
+          },
+          {
+            "id": 82511,
+            "name": "GorgeousHomeLinen (NENA) Sage Green Solid Hypoallergenic Quilt Bedspread Bed Bedding Coverlets Cover Set with Pillow Cases Size inc: Twin (2pc) Full Queen King (3pc) (Full/Queen)",
+            "price": 27.72,
+            "average_score": 66.0
+          },
+          {
+            "id": 82438,
+            "name": "sofani Chervon Stripe Stitched Quilt Bedspreads Set Full/Queen Size(White, 90\"x96\") - Super Soft Lightweight Microfiber Coverlet for Queen Bed - 3 Pieces(Includes 1 Quilt, 2 Shams)",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 86211,
+            "name": "ENCOFT Alicemall Light Brown Small Flower Style Cotton Quilt, Fresh Light Brown Flower Summer Quilts/Blanket, Floral Pattern Full Size Bedspreads, 78 inch by 90 inch",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 86877,
+            "name": "VCNY Home - Twin Quilt Set, 4-Piece Bedding with Reversible Quilt, Cozy Room Decor (Casa Re'al, Twin/Twin XL)",
+            "price": 76.37,
+            "average_score": 65.0
+          },
+          {
+            "id": 85375,
+            "name": "Royal Tradition Bonnie Printed Microfiber Oversized Twin-Twin XL 2PC Quilt Set, Shades of Green, Gold and Burgundy",
+            "price": 51.9,
+            "average_score": 64.0
+          },
+          {
+            "id": 84823,
+            "name": "Brilliant Sunshine Burgundy Heart Love, Floral and Lace Patchwork, 3-Piece Quilt Set with 2 Shams, Reversible Bedspread, Soft Lightweight Coverlet, All-Season, King, Burgundy",
+            "price": 54.99,
+            "average_score": 63.0
+          },
+          {
+            "id": 86756,
+            "name": "Bedford Home Lydia Embroidered 3-Piece Quilt Set, Full/Queen",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 83370,
+            "name": "Qucover Red Striped Quilt Cover Sets Queen Size 3 Pieces, Cotton Quilted Bedspread Bedding Sets for Queen Bed",
+            "price": null,
+            "average_score": 62.0
+          },
+          {
+            "id": 84442,
+            "name": "Whale Flotilla Quilt Set Twin Size, Soft Microfiber Lightweight Bedspread Coverlet Bed Cover (Wave Pattern) for All Seasons, Light Grey, 2 Pieces (Includes 1 Quilt, 1 Sham)",
+            "price": 29.99,
+            "average_score": 62.0
+          },
+          {
+            "id": 86016,
+            "name": "SKYHOME - College Collection - Ultra Soft Jersey Knit Quilt & Sham Set, Queen, Smoked Pearl",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 84888,
+            "name": "Barefoot Bungalow Gold Rush Quilt and Pillow Sham Set, 3-Piece King/Cal King, Gray",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 86771,
+            "name": "Western Peak Praying Cowboy Horse Barb Wire Star Cabin Lodge Luxury Quilt Bedspread Coverlet Comforter 3 Piece Beige Brown Set (Beige Queen)",
+            "price": 79.73,
+            "average_score": 60.0
+          },
+          {
+            "id": 87259,
+            "name": "VHC Brands Bingham Star Luxury King Quilt 120Wx105L Country Patchwork Design, Soft Black and Tan",
+            "price": 236.99,
+            "average_score": 55.0
+          },
+          {
+            "id": 82688,
+            "name": "DONI Lightweight Pink Quilt Bedspread Set Twin, All Season Quilt Set Twin Size Quilt Bedding Set Pink, Microfiber Bedspread Coverlet Set with Pillow Shams",
+            "price": 22.8,
+            "average_score": 52.5
+          },
+          {
+            "id": 87893,
+            "name": "Whale Flotilla Quilt Set Twin Size, Soft Microfiber Lightweight Bedspread Coverlet Bed Cover (Diamond Pattern) for All Seasons, Yellow, 2 Pieces (Includes 1 Quilt, 1 Sham)",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 84870,
+            "name": "colors of rajasthan Indian Kantha Blanket, Bed Cover, King Kantha Bedspread, Bohemian Bedding Kantha Hippie Quilts (Purple)",
+            "price": 62.99,
+            "average_score": 50.0
+          },
+          {
+            "id": 85050,
+            "name": "XQL Cotton Boho Stripe 3 Pieces Quilt Set (1 Quilt and 2 Pillow Shams) Queen Size Red",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 87940,
+            "name": "Chic Home Sachi 3 Piece Quilt Set Floral Scroll Pattern Design Bedding - Pillow Shams Included, Queen, Purple",
+            "price": 29.88,
+            "average_score": 45.0
+          },
+          {
+            "id": 87645,
+            "name": "AIKASY Reversible Quilt Set 2-Piece Twin Size with Pillow Shams, Lightweight Microfiber Soft Twin bedspreads Summer Comforter Set Bed Cover for All Season - (Blue, 68\"x86\")",
+            "price": null,
+            "average_score": 45.0
+          },
+          {
+            "id": 85486,
+            "name": "DAWNDIOR King Quilt Set Size Bedspread \uff06 Coverlet Reversible Soft Lightweight Machine Washable Modern Style Bedding Sets for All Season (1 Quilt, 2 Pillow Shams)",
+            "price": null,
+            "average_score": 45.0
+          },
+          {
+            "id": 84234,
+            "name": "Collections Etc Goldfinches and Blooming Flowers Scene Quilt",
+            "price": null,
+            "average_score": 44.0
+          },
+          {
+            "id": 84493,
+            "name": "Christmas Quilt Set Twin Size Christmas Bedding Xmas Home Decor Holiday Quilt Bedding Lodge Snowman Plaid Patchwork Lightweight Quilt Set Bedding Reversible Christmas Bed Set",
+            "price": 14.99,
+            "average_score": 41.5
+          },
+          {
+            "id": 84248,
+            "name": "Grand Linen 3-Piece Fine Printed Quilt Set Reversible Bedspread Coverlet (California) Cal King Size Bed Cover (Black, White, Yellow, Grey)",
+            "price": null,
+            "average_score": 41.0
+          },
+          {
+            "id": 82951,
+            "name": "The Twin Ravens in Norse Mythology\uff0cViking\uff0cHuginn and Muninn\uff0cOdin Bedding Set Lightweight&Soft Twin Queen King Size 3-Piece Bed Set (1 Quilt Cover+2 Pillowcases) white2 104x90 inch",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 87786,
+            "name": "HollyHOME Reversible Super Soft Solid Single Quilted Bed Quilt Bedspread Comforter Bed Cover 86\"x96\", Orange, Full/Queen",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 87442,
+            "name": "Lifestyle Pem America QS8526KG-2300 Heather Quilt with 2 Shams, King",
+            "price": null,
+            "average_score": 32.5
+          }
+        ]
+      }
+    }
+  ],
+  "category_results": {
+    "Alarm Clocks": [
+      {
+        "episode": 1,
+        "category": "Alarm Clocks",
+        "persona_index": 25106,
+        "episode_in_category": 1,
+        "steps": 2,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 87210,
+          "chosen_score": 85.0,
+          "best_product_id": 87210,
+          "best_score": 85.0,
+          "regret": 0.0,
+          "top1": true,
+          "top3": true,
+          "questions_asked": 1,
+          "feedback": "Recommendation rating: 5 out of 5 stars (best possible: 5 stars)",
+          "feedback_type": "star_rating"
+        },
+        "full_dialog": [
+          [
+            "What's your budget for an alarm clock?",
+            "Around $30."
+          ]
+        ],
+        "product_info": {
+          "num_products": 39,
+          "products_with_scores": [
+            {
+              "id": 87210,
+              "name": "TXL Large Digital Day Wall Clock, Custom 8 Languages Calendar, Count up-Down Timer and Temp Reminder, 12/24Hr Desktop Alarm Clock with 14.17\" Extra Large Display for Home Office Studio Hotel, White",
+              "price": 39.99,
+              "average_score": 85.0
+            },
+            {
+              "id": 86291,
+              "name": "Timelink Smartlight Blue Digital Rubber Outer Shell Alarm Clock for Bedrooms Travel, for Men Women, Simple Operation, Automatic Smart Night Light Dimmer, Large Display, Snooze, Small Clock for Kids",
+              "price": 13.99,
+              "average_score": 80.0
+            },
+            {
+              "id": 86765,
+              "name": "KWYDYP 3D LED Wall Clock with Remote Control 12/24 Hr Time/Date Display Nightlight Alarm Clock,Digital Clock Brightness to Adjust,Temperature, for Office/Home/Living Room/School (Cool White, 15 inch)",
+              "price": 32.99,
+              "average_score": 80.0
+            },
+            {
+              "id": 87916,
+              "name": "YORTOT Small Digital Alarm Clock - Dual USB A & C Charging Port,Dual Alarm with Weekday/Weekend Mode,0-100% Dimmer,Easy to Set,12/24H,Battery Backup,Compact Clock for Bedside Desk Table Bedrooms,White",
+              "price": null,
+              "average_score": 80.0
+            },
+            {
+              "id": 86352,
+              "name": "LATICITY Digital Alarm Clock with Wireless Charging,15W Fast Wireless Charger with 3 Alarms,Warm Night Lightn,USB Charging Port,12/24H,Modern Digital Mirror Clock, Bedroom, Living Room, Office",
+              "price": 32.99,
+              "average_score": 72.5
+            },
+            {
+              "id": 86475,
+              "name": "IEKA Alarm Clock, Digital Easy to Set and Watch with Large LCD Screen Low Light Soft Night Light Repeating Snooze Month Date & Temperature Display (White)",
+              "price": null,
+              "average_score": 72.5
+            },
+            {
+              "id": 86175,
+              "name": "Westclox 66705 Large LED Alarm Clock, Red Display",
+              "price": 16.99,
+              "average_score": 70.0
+            },
+            {
+              "id": 83597,
+              "name": "PEYOU Projection Alarm Clock with USB Charger, Digital Alarm Clock for Bedroom with Adapter, 7.4\" Mirror Display, 4-Dimmer, 180\u00b0 Rotable, Snooze, Dual Alarm Clock for Heavy Sleepers Adults Kids",
+              "price": 26.99,
+              "average_score": 67.5
+            },
+            {
+              "id": 86569,
+              "name": "AMIR Wake up Light with Alarm Clock, Night Light Clock for Kids with Sunrise Simulation, 5 Natural Sounds, Rechargeable, Touch Sensor Multicolor Dimmable Night Light White1",
+              "price": null,
+              "average_score": 67.5
+            },
+            {
+              "id": 87277,
+              "name": "Analog Alarm Clock - Non Ticking Battery Alarm Clocks for Bedrooms, 4 Inch Small Clocks Battery Operated, Bedside Clock, Silent Retro Small Table Clock and Desk Clocks for Office, Green (Gold Feet)",
+              "price": 11.99,
+              "average_score": 65.0
+            },
+            {
+              "id": 85843,
+              "name": "GENNYUE Digital Alarm Clocks, Non Ticking Battery Operated, Desk Clock Simple Alarm Clock, with Time Temperature Snooze Night Light for Bedrooms Office and Home",
+              "price": null,
+              "average_score": 62.5
+            },
+            {
+              "id": 86713,
+              "name": "SHISEDECO Small Table Clocks, Classic Non-Ticking Tabletop Alarm Clock with Backlight, Battery Operated Desk Astronaut Clock with HD Glass for Living Room Bedroom Bedside Indoor Decor (White)",
+              "price": 14.99,
+              "average_score": 62.5
+            },
+            {
+              "id": 84328,
+              "name": "Oregon Scientific RM511A Portable Radio Controlled Alarm Clock, Dual Alarms, Indoor Temperature, Snooze Function, Time and Date Display, Black",
+              "price": null,
+              "average_score": 60.0
+            },
+            {
+              "id": 83501,
+              "name": "Digital Travel Alarm Clock Timer LCD Clock with Foldable Calendar Temperature Timer\u00a0Snooze Mode, Battery Operated, Portable Large Number Display Clock\u00a012/24 H Small Desk Clock (Black)",
+              "price": 19.99,
+              "average_score": 57.5
+            },
+            {
+              "id": 87269,
+              "name": "GOLDSTAR New Pyramid Digital LCD Alarm Clock with Date and Temperature Display & Light-Activated Sensor Light in 7 LED Colors",
+              "price": null,
+              "average_score": 57.5
+            },
+            {
+              "id": 86242,
+              "name": "Silverzone LED Digital Alarm Clock 6.5'' Big Digit Mirror Surface Smart Loud Alarm with Snooze, 3-Level Auto/Manual Dimmer and Dual USB Charger Port for Kids and Heavy Sleepers (Black Body Blue Word)",
+              "price": null,
+              "average_score": 55.0
+            },
+            {
+              "id": 86533,
+              "name": "BRNEWO Bedroom Moon Lamp, RGB Color Changing Light with Scene Mode and Music Mode, Alarm Clock with Bluetooth Speaker, Suitable for Kids/Adults, Living Room Night Light Lighting Dimmable.",
+              "price": 35.99,
+              "average_score": 55.0
+            },
+            {
+              "id": 86032,
+              "name": "BEW Projection Alarm Clock Digital Clock with Indoor Thermometer Hygrometer, USB Charger, Dual Alarm Clocks for Bedrooms, Travel, AC & Battery Operated",
+              "price": null,
+              "average_score": 50.0
+            },
+            {
+              "id": 87782,
+              "name": "Howard Miller 645-652 Abigail Alarm Clock",
+              "price": null,
+              "average_score": 50.0
+            },
+            {
+              "id": 83099,
+              "name": "Sonnet SONNET-T-4678 Twin Bell Alarm Clock - Very Loud for Heavy Sleepers and Hearing Impaired - Battery Operated Blue Backlight - for Teens and Senior Citizens, 3/8\u201d Digits, Black",
+              "price": 25.0,
+              "average_score": 47.5
+            },
+            {
+              "id": 86152,
+              "name": "Digital Alarm Clock, Temperature Date LED Display Wood Grain Clock 3 Levels Brightness Voice Control Modern Simplicity Wood Digital Clock (Alarm Clock)",
+              "price": null,
+              "average_score": 47.5
+            },
+            {
+              "id": 86515,
+              "name": "Talking Cube Alarm Clock with LED Green Display Backlight",
+              "price": null,
+              "average_score": 47.5
+            },
+            {
+              "id": 82911,
+              "name": "KWANWA Small Alarm Clock with Time Talking | Hourly Report | Real Time& Chime Report| Three Kinds of Alarm Sounds",
+              "price": null,
+              "average_score": 45.0
+            },
+            {
+              "id": 87366,
+              "name": "Timex CD Player Alarm Clock Nature Sounds",
+              "price": null,
+              "average_score": 40.0
+            },
+            {
+              "id": 82704,
+              "name": "Bulova B6123 Traveler Alarm Clock, Silver",
+              "price": null,
+              "average_score": 37.5
+            },
+            {
+              "id": 83570,
+              "name": "Aitey Alarm Clock for Kids, LED Large Display Clock with Temperature, Optional Weekday Alarm, Snooze and Smart Back Light for Bedroom, Desktop and Shelf, Battery Operated Clock (Blue)",
+              "price": null,
+              "average_score": 37.5
+            },
+            {
+              "id": 87965,
+              "name": "Alarm Clock Security Hidden DVR video CCTV Camera Motion Detector mini covert DV Camcorder + webcam recording Clock + LCD Remote",
+              "price": null,
+              "average_score": 37.5
+            },
+            {
+              "id": 85538,
+              "name": "American Flag Digital Alarm Clock",
+              "price": null,
+              "average_score": 35.0
+            },
+            {
+              "id": 83916,
+              "name": "Emerson CKS9051 SmartSet Dual Alarm Clock Radio (Discontinued by Manufacturer)",
+              "price": null,
+              "average_score": 32.5
+            },
+            {
+              "id": 82555,
+              "name": "Audiovox CD-95 Digital AM/FM Alarm Clock with Dual Alarm/NOAA/Weather Alert Radio",
+              "price": null,
+              "average_score": 30.0
+            },
+            {
+              "id": 82673,
+              "name": "SENTRY CL936 Talking Alarm Clock",
+              "price": null,
+              "average_score": 30.0
+            },
+            {
+              "id": 83713,
+              "name": "Timex T318S Easy to Read Alarm Clock Radio (Discontinued by Manufacturer)",
+              "price": null,
+              "average_score": 30.0
+            },
+            {
+              "id": 84925,
+              "name": "Kids Alarm Clock Wake Up Easy Setting Digital Clock for Boys Girls, 7 Colors Changing LED Light Large Display Time/Date/Temp/Alarm with Snooze, Bedside Clock, Night Light Clock - Best Gift for Kids",
+              "price": 8.4,
+              "average_score": 27.5
+            },
+            {
+              "id": 82452,
+              "name": "Pack of 2 Wake up Anti-doze Earpiece Nap Zapper Alarm Ingegrating LED Flashllight Function",
+              "price": 11.98,
+              "average_score": 20.0
+            },
+            {
+              "id": 83369,
+              "name": "The Source Red Robot Clock RobotTime Moveable Bedside Alarm Analogue Clock Flashing Eyes and Sound",
+              "price": null,
+              "average_score": 20.0
+            },
+            {
+              "id": 84140,
+              "name": "Cointone LED Alarm Clock Unicorn Pink Pattern Creative Desk Table Clock Glowing Electronic Colorful Digital Clock for Unisex Adults Girl Boy Kids Children Toy Birthday Present Gift",
+              "price": null,
+              "average_score": 20.0
+            },
+            {
+              "id": 82672,
+              "name": "Present Time Silly Mini Flower Alarm Clock",
+              "price": null,
+              "average_score": 17.5
+            },
+            {
+              "id": 82962,
+              "name": "Kids Alarm Clock,Screen alarm,Temperature display alarm ,Cute Chick Alarm Clock for Girls Boys, Kids Night Light Clock with 3 Color Changing,Children's Sleep Trainer",
+              "price": null,
+              "average_score": 17.5
+            },
+            {
+              "id": 83552,
+              "name": "Beyond Alarm Clock Gray Kitty Cat White",
+              "price": null,
+              "average_score": 12.5
+            }
+          ]
+        }
+      }
+    ],
+    "Fully Threaded Rods & Studs": [
+      {
+        "episode": 2,
+        "category": "Fully Threaded Rods & Studs",
+        "persona_index": 25106,
+        "episode_in_category": 1,
+        "steps": 2,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 91720,
+          "chosen_score": 40.0,
+          "best_product_id": 90427,
+          "best_score": 87.5,
+          "regret": 47.5,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 1,
+          "feedback": "Recommendation rating: 2 out of 5 stars (best possible: 5 stars)",
+          "feedback_type": "star_rating"
+        },
+        "full_dialog": [
+          [
+            "What's your budget for a fully threaded rod or stud?",
+            "I would allocate around $50 for a fully threaded rod or stud."
+          ]
+        ],
+        "product_info": {
+          "num_products": 16,
+          "products_with_scores": [
+            {
+              "id": 90427,
+              "name": "12 Pack 8/32 Inch M4 Threaded Rod with Hex Nuts 12 Pcs M4 Stainless Steel Threads Studs Rods 12 Pcs M4 Stainless Steel Fully Threaded Hex Nuts for Beaded Garden Stake Rods (12 Inch)",
+              "price": 22.99,
+              "average_score": 87.5
+            },
+            {
+              "id": 91459,
+              "name": "M8-1.25x50mm 304 Stainless Steel Double End Threaded Stud Screw Bolt 5pcs",
+              "price": 11.29,
+              "average_score": 85.0
+            },
+            {
+              "id": 91625,
+              "name": "Brass Fully Threaded Rod, #8-32 Thread Size, 36\" Length, Right Hand Threads",
+              "price": 24.67,
+              "average_score": 85.0
+            },
+            {
+              "id": 90823,
+              "name": "1/4\"-20 X 1-1/4\" Zinc Plated Threaded Rod Studs (Pack of 12)",
+              "price": 6.48,
+              "average_score": 80.0
+            },
+            {
+              "id": 89002,
+              "name": "10 M10-1.25 x 41mm Double End Studs Class 10.9 Plain",
+              "price": 15.99,
+              "average_score": 77.5
+            },
+            {
+              "id": 88717,
+              "name": "Stanley N218-263 National Hardware 4006Bc Threaded Rod, No 10-32 X 36 in, Steel, Zinc Plated",
+              "price": 24.38,
+              "average_score": 77.5
+            },
+            {
+              "id": 93638,
+              "name": "Brass Fully Threaded Rod, #4-40 Thread Size, 36\" Length, Right Hand Threads",
+              "price": null,
+              "average_score": 62.5
+            },
+            {
+              "id": 93560,
+              "name": "Taytools Push Button Ratchet, 2 Each 3/8 16,Level Adjustable Handles with Threaded Stud (Male Threads) PBRLM-3/8X2, Metal",
+              "price": 14.99,
+              "average_score": 50.0
+            },
+            {
+              "id": 88481,
+              "name": "Threaded Rod, Low Carbon Steel, 1-5x3 ft",
+              "price": null,
+              "average_score": 47.5
+            },
+            {
+              "id": 90132,
+              "name": "Die Cast Zinc Adjustable Clamping Handle, Threaded Stud, 3-1/2\" Length, 2-15/32\" Height, 3/8\"-16 TPI Thread, 49/64\" Thread Length (Pack of 1)",
+              "price": 10.88,
+              "average_score": 42.5
+            },
+            {
+              "id": 93012,
+              "name": "uxcell M8 Handle Adjustable Clamping Lever Thread Push Button Ratchet Female Threaded Stud 5 Pcs",
+              "price": 11.49,
+              "average_score": 42.5
+            },
+            {
+              "id": 94116,
+              "name": "Low-Strength Steel Threaded Rod, 1/4\"-20 Thread Size, 1 Foot Long",
+              "price": null,
+              "average_score": 40.0
+            },
+            {
+              "id": 91720,
+              "name": "L-Track Threaded Stud Fittings (SM)",
+              "price": 67.35,
+              "average_score": 40.0
+            },
+            {
+              "id": 94109,
+              "name": "Prime-Line U 9247 Mending Plates, 3/4 inch x 3 inch, Zinc (10-pack))",
+              "price": 5.92,
+              "average_score": 30.0
+            },
+            {
+              "id": 89891,
+              "name": "Prime-Line Products Z 10765 Box 16d Smooth Box Nails, 3-1/4-Inch",
+              "price": 6.41,
+              "average_score": 22.5
+            },
+            {
+              "id": 89254,
+              "name": "Prime-Line Products PL 15711 Plastic Screen Clip, 1-3/16\", Gray,(Pack of 25)",
+              "price": null,
+              "average_score": 20.0
+            }
+          ]
+        }
+      }
+    ],
+    "Photo Albums, Frames & Accessories": [
+      {
+        "episode": 3,
+        "category": "Photo Albums, Frames & Accessories",
+        "persona_index": 25106,
+        "episode_in_category": 1,
+        "steps": 2,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 87842,
+          "chosen_score": 47.5,
+          "best_product_id": 82355,
+          "best_score": 90.0,
+          "regret": 42.5,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 1,
+          "feedback": "Recommendation rating: 3 out of 5 stars (best possible: 5 stars)",
+          "feedback_type": "star_rating"
+        },
+        "full_dialog": [
+          [
+            "What's your budget for a photo album or frame?",
+            "I would budget around $50 for a photo album or frame."
+          ]
+        ],
+        "product_info": {
+          "num_products": 27,
+          "products_with_scores": [
+            {
+              "id": 82355,
+              "name": "Grasslands Road - Owl Always Love You Fox \"Family\" 4x6\" Photo Frame - 464840",
+              "price": null,
+              "average_score": 90.0
+            },
+            {
+              "id": 83755,
+              "name": "5x5 Shadow Box Frame with Linen Back - Sturdy Rustic Memory Display Case of Flower, Pictures, Medals and More, Distressed White",
+              "price": 9.99,
+              "average_score": 87.5
+            },
+            {
+              "id": 86919,
+              "name": "BOMINICA Shadow Box Frame 12x12 Shadow Box Display Case with Linen Back, Deep Display Box for Memorabilia, Wedding, Medals, Tickets, Photos and Awards, Black",
+              "price": null,
+              "average_score": 82.5
+            },
+            {
+              "id": 85901,
+              "name": "Lawrence Frames 766081 Nutmeg Wood Picture Frame, 8.5 by 11-Inch",
+              "price": 14.47,
+              "average_score": 82.5
+            },
+            {
+              "id": 84917,
+              "name": "SimpleMe Rustic Wood Picture Frames 8x10 - Pack of 2 \u2013 Farmhouse Tabletop or Wall Mount Display with Glass, Dark Brown",
+              "price": 21.99,
+              "average_score": 80.0
+            },
+            {
+              "id": 87405,
+              "name": "Lawrence Frames 168020 Shadow Box, 10x20, Black",
+              "price": null,
+              "average_score": 77.5
+            },
+            {
+              "id": 84269,
+              "name": "US Art Frames 22x33 Black 1 Inch Flat MDF Wood Composite, Wall Decor Picture or Poster Frame",
+              "price": 55.79,
+              "average_score": 75.0
+            },
+            {
+              "id": 83659,
+              "name": "ArtToFrames 28x38 Inch Black Picture Frame, This 1.25 Inch Custom MDF Poster Frame is Black, Great for Your Art or Photos - Comes with 060 Plexi Glass",
+              "price": 102.34,
+              "average_score": 75.0
+            },
+            {
+              "id": 82420,
+              "name": "Craig Frames 1WB3BK 23 by 35-Inch Picture Frame, Smooth Finish, 1-Inch Wide, Black",
+              "price": 55.79,
+              "average_score": 75.0
+            },
+            {
+              "id": 86288,
+              "name": "Country Chic Wood Picture Frame Narrow 1.5\u201d Inch Solid Wood Molding for Photos, Artwork & Prints Includes Glass - Made in USA - [Southern Yellow - 8\" x 10\"]",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 82869,
+              "name": "MCS Trendsetter Poster Frame, Black, 22.75 x 34 in, Single",
+              "price": 32.99,
+              "average_score": 70.0
+            },
+            {
+              "id": 86227,
+              "name": "CAIUL Compatible 128 Pockets Mini Photo Album for Fujifilm Instax Mini 7s 8 8+ 9 25 26 50s 70 90 Film, Polaroid PIC-300 Z2300 Film (Ice Blue)",
+              "price": 11.99,
+              "average_score": 67.5
+            },
+            {
+              "id": 88296,
+              "name": "ZIMFANQI Grandma Gifts Christmas Gifts Nana Grandma Photo Holder,Picture Frame Birthday Gifts for Grandma from Granddaughter and Grandson, Grandkids Photo Holder Grandpa Nana Grandmother Gifts",
+              "price": 13.99,
+              "average_score": 65.0
+            },
+            {
+              "id": 86222,
+              "name": "Set of 3 Magnetic Refrigerator Photo Frame 4\" x 6\" (3, 4\" x 6\")",
+              "price": 4.99,
+              "average_score": 55.0
+            },
+            {
+              "id": 84962,
+              "name": "LAST G 2-Pack, 8.5x11 Document Frame to Display 8.5 by 11 Inch Certificate Frames Standard Paper Frame Black",
+              "price": null,
+              "average_score": 52.5
+            },
+            {
+              "id": 85293,
+              "name": "Elegant Diploma Frame 13x18 without Mat or 11x14 with Mat - UV Protected - Perfect Degree, College, Document, Certificate Frame - Picture Frame to Preserve and Display any Award, Graduation Gift",
+              "price": 44.99,
+              "average_score": 50.0
+            },
+            {
+              "id": 83305,
+              "name": "ArtToFrames 1.25-Inch Espresso Picture Frame with 4 Openings of 6 by 8-Inch and a Super White Top Mat and Black Bottom Mat",
+              "price": null,
+              "average_score": 50.0
+            },
+            {
+              "id": 87842,
+              "name": "SnapeZo Silver Poster Frame A1 Size, 1.2 Inch Aluminum Profile, Front-Loading Snap Frame, Wall Mounting, Premium Series",
+              "price": 69.99,
+              "average_score": 47.5
+            },
+            {
+              "id": 84687,
+              "name": "3art Diploma Tassel Frame 8X10 BLACK/RED (CUSTOMIZABLE) 2021",
+              "price": 133.54,
+              "average_score": 45.0
+            },
+            {
+              "id": 85461,
+              "name": "Perfect Cases Single Diploma Frame with Tassel and Double Matting for 9\" x 7\" Tall Diploma with Cherry 2\" Frame",
+              "price": 89.65,
+              "average_score": 40.0
+            },
+            {
+              "id": 85213,
+              "name": "Yinuoday Blank Photo Keychain Keyring Acrylic Photo Insert Keychain Rectangle DIY Gift",
+              "price": 19.99,
+              "average_score": 40.0
+            },
+            {
+              "id": 86544,
+              "name": "Candle by the Hour 40-Hour Hurricane Lantern, Black, Eco-friendly Natural Beeswax with Cotton Wick,20625B",
+              "price": 30.84,
+              "average_score": 37.5
+            },
+            {
+              "id": 83340,
+              "name": "Bluemoona 20 Pcs - Drawer Door Library Label Tag Pull Home Cabinet Frame Handle File Name Card Holder Screw",
+              "price": 7.99,
+              "average_score": 35.0
+            },
+            {
+              "id": 87238,
+              "name": "HADLEY HOUSE Out of The Mist-Featuring Isaiah 40:31 Wood Pallet, 11x14",
+              "price": 33.95,
+              "average_score": 30.0
+            },
+            {
+              "id": 86471,
+              "name": "PRINZ Moments Baby Frame",
+              "price": null,
+              "average_score": 30.0
+            },
+            {
+              "id": 85524,
+              "name": "Ultrasound Picture Frame with Burlap Mat in 8\"x10\" - \u201cDaddy to Be\u201d Poem",
+              "price": null,
+              "average_score": 20.0
+            },
+            {
+              "id": 86732,
+              "name": "Dixie Dawgs Oklahoma Laser Cut License Plate Car Tag Sooners Black Red OU",
+              "price": 16.99,
+              "average_score": 12.5
+            }
+          ]
+        }
+      }
+    ],
+    "Wall Sculptures": [
+      {
+        "episode": 4,
+        "category": "Wall Sculptures",
+        "persona_index": 25106,
+        "episode_in_category": 1,
+        "steps": 2,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 85244,
+          "chosen_score": 72.5,
+          "best_product_id": 87936,
+          "best_score": 87.5,
+          "regret": 15.0,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 1,
+          "feedback": "Recommendation rating: 4 out of 5 stars (best possible: 5 stars)",
+          "feedback_type": "star_rating"
+        },
+        "full_dialog": [
+          [
+            "What's your budget for a wall sculpture?",
+            "I'm looking to spend around $200 to $300."
+          ]
+        ],
+        "product_info": {
+          "num_products": 49,
+          "products_with_scores": [
+            {
+              "id": 87936,
+              "name": "Statements2000 3D Abstract Metal Wall Art Accent Sculpture Modern Home Decor by Jon Allen, 46\" x 10\" - Rojo Wave",
+              "price": null,
+              "average_score": 87.5
+            },
+            {
+              "id": 83368,
+              "name": "Turtle Metal Wall D\u00e9cor or Table Decoration - 3D Design - Hand-Painted - 19\u201d x 19\u201d - Sea Wall Art - Indoor or Outdoor Use \u2013 Contemporary Home Decoration in Coastal Style",
+              "price": null,
+              "average_score": 85.0
+            },
+            {
+              "id": 87845,
+              "name": "MadeTerra Seagrass Fan Wall Decor | Rustic Wall Hanging Boho Woven Home Decor Wall Pediment | Beautiful Wall Art for Apartment, Dorm Room Decoration (31.5\" x H19.7'', Black)",
+              "price": null,
+              "average_score": 75.0
+            },
+            {
+              "id": 83942,
+              "name": "Ebros Nature Spirit God Big Nose Leafman Gargoyle Celtic Greenman Hanging Wall Decor Plaque 9\" High Wiccan Tree Of Life Forest Shepherd Horned God Cernunnos Ent Mythical Fantasy Decorative Sculpture",
+              "price": 30.99,
+              "average_score": 75.0
+            },
+            {
+              "id": 83255,
+              "name": "Deco 79 Metal Leaf Wall Decor, 48\" x 1\" x 12\", Blue",
+              "price": 36.99,
+              "average_score": 72.5
+            },
+            {
+              "id": 82110,
+              "name": "Yihui Arts Handmade Abstract Warm Colorful Art of Metal Wall Decor Fine Light Solid Metallic Impress Modern Artwork for Hotel",
+              "price": null,
+              "average_score": 72.5
+            },
+            {
+              "id": 85244,
+              "name": "DEKADRON Metal Wall Art - Lotus Flower - 3D Wall Silhouette Metal Wall Decor Home Office Decoration Bedroom Living Room Decor Sculpture (Black, 46\" W x 30\" H / 117x76 cm)",
+              "price": 189.9,
+              "average_score": 72.5
+            },
+            {
+              "id": 85518,
+              "name": "21 inch Beautiful Artisan Metal Angel Wings Home Wall Decor Large (Solid Black)",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 85900,
+              "name": "Lechesis Metal Ginkgo Leaf Wall Decor Sculpture, 27.6\" x 20.5\"",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 86029,
+              "name": "Ebros Double Dragon Alchemy in Robust Yin Yang Astrology Fusion Wall Plaque Sculpture Day And Night Dragon Round Medallion Wall Decor",
+              "price": 52.99,
+              "average_score": 70.0
+            },
+            {
+              "id": 87465,
+              "name": "Ridota Metal Flower Wall Decor, 11.5\" Metal Hanging Wall Art Sculpture, Metal Wall Art Decor for Indoor Outdoor Home Bedroom Living Room, Blue",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 82245,
+              "name": "SeasonsEasy Metal Sunflower Wall Decor, Set of 2 Orange Floral Wall Decoration with Wire Hanger for Living Room, Bedroom, Kitchen, Bathroom Room Decor, Outdoor Garden and Patio Wall Art",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 83911,
+              "name": "3 Sizes Coral Reef Fish Wall Art Nautical Decor Sea Theme Art Decorations Wood Hanging Fish Wooden Blue Coastal Art Rustic Fish Decor for Indoor Outdoor Bathroom Office Decoration",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 86344,
+              "name": "ARBOR | Metal Wall Decor, Metal Wall Art, Metal Wall Hangings, Metal Wall Signs, Metal Art, Housewarming Gifts [25.6\"x14.1\" in] x3",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 87304,
+              "name": "18\" Barn Star Black Country",
+              "price": 34.94,
+              "average_score": 65.0
+            },
+            {
+              "id": 3853,
+              "name": "Zhengmy 2 Pieces Metal Tree Leaf Wall Decor Vine Olive Branch Leaf Wall Art Wrought Iron Scroll Above The Bed, Living Room, Outdoor Decoration (Retro Color)",
+              "price": 19.99,
+              "average_score": 62.5
+            },
+            {
+              "id": 8620,
+              "name": "Design Toscano Heraldic Royal Lions Coat of Arms Wall Sculpture",
+              "price": 113.9,
+              "average_score": 62.5
+            },
+            {
+              "id": 82242,
+              "name": "Enterprise Wood Metal Decorative Wall Panel, 24.25 Inches High x 10.25 Inches Wide, Ivory Off-White Distressed Finish with Black Metal Scroll Work Design off-white, black",
+              "price": 39.99,
+              "average_score": 62.5
+            },
+            {
+              "id": 8660,
+              "name": "Moving Sand Art, 17.3inch Dynamic Sand Picture wall Art, Moving Sand Art Picture Wall Decor Wall Sculpture Hanging Art Home Decoration",
+              "price": 123.88,
+              "average_score": 62.5
+            },
+            {
+              "id": 87174,
+              "name": "Steel Roots Decor Metal Black Stacked Coffee Cup Wall Art - Best Gift for Coffee Lover & Coffee Bar, Home Decor, Kitchen Wall Decor - Original Metal Wall Hanging Art - Laser Cut Holes - (18\" Black)",
+              "price": 64.99,
+              "average_score": 60.0
+            },
+            {
+              "id": 88366,
+              "name": "Bion, Large Hamsa Wall Hanging with Evil Eye Bead (Hamsa Horseshoe)",
+              "price": null,
+              "average_score": 60.0
+            },
+            {
+              "id": 7452,
+              "name": "BestGiftEver Rustic Tribal Bull Steer Cow Bison Skull Wall Hanging Decoration with Feathers",
+              "price": 38.99,
+              "average_score": 55.0
+            },
+            {
+              "id": 87471,
+              "name": "WorldBazzar HAND CARVED BLUE WHITE WASH WOOD DOLPHIN WALL ART HANGING TROPICAL NAUTICAL DECOR",
+              "price": 29.94,
+              "average_score": 55.0
+            },
+            {
+              "id": 86547,
+              "name": "Riverside Designs The Blue Marlin Metal Hanging Wall Art Sculpture Hanging Sign (24\", Copper)",
+              "price": 84.95,
+              "average_score": 52.5
+            },
+            {
+              "id": 88341,
+              "name": "IOVEQG Custom Bee Honeycombs Metal Wall Art, Personalized Bee Honeycombs Name Sign Decoration for Room, Bee Honeycombs Home Decor, Custom Honey Bee",
+              "price": 29.9,
+              "average_score": 52.5
+            },
+            {
+              "id": 83596,
+              "name": "AINIJIA&HOLO Love Heart 3D Art Wall,Romantic Hug Couple Bronze Canvas for Home Modern Decor Draw Cores,Wedding Room Decor and Valentine's Day Decorations - Gold/Gray\uff0860x60 cm/24 Inchs\uff09",
+              "price": null,
+              "average_score": 50.0
+            },
+            {
+              "id": 85561,
+              "name": "Circle Of Life Metal Tree Wall Art Round Hallow Hanging Ornament Simple Iron Craft Home Outdoor Decor 25x25cm",
+              "price": 12.69,
+              "average_score": 50.0
+            },
+            {
+              "id": 1,
+              "name": "Deco 79 Metal Floral Wall Decor, 48\" x 3\" x 24\", Gold",
+              "price": 95.83,
+              "average_score": 47.5
+            },
+            {
+              "id": 3830,
+              "name": "Deco 79 Metal Abstract 5 Wavy Panels Wall Decor with Embossed Details, 24\" x 1\" x 20\", Multi Colored",
+              "price": 31.84,
+              "average_score": 45.0
+            },
+            {
+              "id": 3255,
+              "name": "Design Toscano Rampant Lion Crest Shield Medieval Decor Wall Sculpture, Single",
+              "price": 53.9,
+              "average_score": 42.5
+            },
+            {
+              "id": 8522,
+              "name": "Touch of Class Earhart Compass Wall Art - Metal - Tuscan Slate - Indoor, Outdoor - Navigational Decor for Bedroom, Living Room, Office, Den, Foyer, Entryway, Patio, Garden",
+              "price": 64.99,
+              "average_score": 42.5
+            },
+            {
+              "id": 86014,
+              "name": "White Faux Taxidermy The Corduroy | White Faux Jackalope Head with Metallic Silver Antlers Wall Mount. Jackrabbit & Deer/Antelope",
+              "price": null,
+              "average_score": 42.5
+            },
+            {
+              "id": 83527,
+              "name": "Metal Movie Reel Wall Art Abstract Antique Movie Theater Decor Beautiful Movie Reel Wall Decor Contemporary Decorative Wall Art Film Reel for Home Office Studio Decor (Colorful, Rustic Style)",
+              "price": 12.99,
+              "average_score": 40.0
+            },
+            {
+              "id": 83286,
+              "name": "All You Need Is Love And Apple Pie Vintage Look 8X12 Inch Metal Decoration Painting Sign for Home Kitchen Room Garden Farmhosue Funny Wall Decor",
+              "price": 10.0,
+              "average_score": 37.5
+            },
+            {
+              "id": 5091,
+              "name": "Rustic Wall Decor Personalized Celtic Cross Irish Pub Whiskey Barrel Bar Decor for Rustic Home Bar Wall Art Gift Man Cave Wall Decor Natural Wood Brown 22 inch Wall Decor",
+              "price": 99.77,
+              "average_score": 37.5
+            },
+            {
+              "id": 83311,
+              "name": "Vivegate Dog Wall Decor - Living Room Decor for Dogs Abstract Line Minimalist Art Sculpture Wall Art (DOG-04)",
+              "price": null,
+              "average_score": 37.5
+            },
+            {
+              "id": 82691,
+              "name": "Gerson Rooster Welcome Y'all Large Framed Farmhouse Colorful Wall Plaque Kitchen Room Office 12\" x 16\"",
+              "price": null,
+              "average_score": 35.0
+            },
+            {
+              "id": 84040,
+              "name": "DPHGQGK Cowgirl and Horse in A World Full of Princesses Be A Cowgirl Home Living Decor Retro Metal Tin Sign Home Wall Decoration 8x12inch",
+              "price": null,
+              "average_score": 35.0
+            },
+            {
+              "id": 82892,
+              "name": "K&N41 Indoor D\u00e9cor Blue Metal Wall Art Country Farmhouse Rustic Rooster Primitive Collectible Home Decor",
+              "price": null,
+              "average_score": 35.0
+            },
+            {
+              "id": 5473,
+              "name": "LQWE Home Metal Wall Decor, Golden Ginkgo Leaves Metal Wall Decor with Frame, Gold Metal Art Wall Sculpture for Study Living Room Bedroom Artwork Hotel Decor Indoor Outdoor",
+              "price": 49.38,
+              "average_score": 35.0
+            },
+            {
+              "id": 87799,
+              "name": "Metal Tin Sign Vintage Chic Art Decoration Bourbon Street New Orleans for Bar Cafe Home Farm Office Restaurant Club or Garage 12\" X 8\"",
+              "price": 7.97,
+              "average_score": 32.5
+            },
+            {
+              "id": 87851,
+              "name": "DAIERCY Purple Iris Tin Signs 1964 Vintage Botanical Art- Violet Iris Flower Wall Decor- Shabby Chic Wall Decor French Decor Funny Metal Sign Home Decor, 140 X 200 mm",
+              "price": 8.99,
+              "average_score": 32.5
+            },
+            {
+              "id": 85684,
+              "name": "Handpainted Flying Yellow Parrot Wall Mount Decor Plaque 19\"",
+              "price": null,
+              "average_score": 32.5
+            },
+            {
+              "id": 7106,
+              "name": "Creative Tin Sign Dragonfly Choose Kindness Funny Novelty Metal Retro Wall Decor For Home Gate Garden Bars Restaurants Cafes Office Store Pubs Club Gift for Home Coffee Wall Decor 8x12 Inch",
+              "price": 8.99,
+              "average_score": 32.5
+            },
+            {
+              "id": 85973,
+              "name": "Duff Beer Logo Retro Cartoon The Simpson Wall Bar Man Cave Decor Metal Tin Sign TIN Sign 7.8X11.8 INCH",
+              "price": 9.89,
+              "average_score": 30.0
+            },
+            {
+              "id": 2979,
+              "name": "Pipiniuniu Shower Room Retro Look 8X12 Inch Tin Decoration Art Sign for Home Kitchen Bathroom Farmhosue Funny Wall Decor",
+              "price": 12.98,
+              "average_score": 27.5
+            },
+            {
+              "id": 1610,
+              "name": "Fishing Wall Decor Woman and They Lived Happily Ever After Fishing Tin Sign Decor Vintage Chic Metal Poster Wall Decor Art Gift for Man Cave Boys Room Garage 8X12 Inch",
+              "price": 8.99,
+              "average_score": 25.0
+            },
+            {
+              "id": 83582,
+              "name": "Alien Bowing Antique Finish Wall Relief",
+              "price": 29.45,
+              "average_score": 22.5
+            },
+            {
+              "id": 3237,
+              "name": "HOSLEY AMOUR Wood Table & Wall Decor - 15\" Long. Ideal Gift for Weddings and Special Occasions, Can be Used as a Decorative Centerpiece in Your Living/Dining Room O9",
+              "price": 10.99,
+              "average_score": 17.5
+            }
+          ]
+        }
+      }
+    ],
+    "Quilt Sets": [
+      {
+        "episode": 5,
+        "category": "Quilt Sets",
+        "persona_index": 25106,
+        "episode_in_category": 1,
+        "steps": 2,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 88096,
+          "chosen_score": 75.0,
+          "best_product_id": 86558,
+          "best_score": 87.5,
+          "regret": 12.5,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 1,
+          "feedback": "Recommendation rating: 4 out of 5 stars (best possible: 5 stars)",
+          "feedback_type": "star_rating"
+        },
+        "full_dialog": [
+          [
+            "What's your budget for a quilt set?",
+            "Around $150."
+          ]
+        ],
+        "product_info": {
+          "num_products": 54,
+          "products_with_scores": [
+            {
+              "id": 86558,
+              "name": "Lush Decor Scandinavian Floral 3 Piece Quilt Set, King, Navy & White",
+              "price": 92.43,
+              "average_score": 87.5
+            },
+            {
+              "id": 87224,
+              "name": "Rustic Western Southwestern Brown Quilt Set With Native American Designs Grizzly Bears and Pinecone Prints King / California King Bedspread 3 Piece Bear King / Cal-King",
+              "price": 39.99,
+              "average_score": 87.0
+            },
+            {
+              "id": 82309,
+              "name": "VHC Brands Dakota Star Ninepatch Luxury King Quilt Set 120\" x 105\" w/ 2 Shams",
+              "price": 237.95,
+              "average_score": 85.0
+            },
+            {
+              "id": 83746,
+              "name": "Tommy Bahama Quilt Set Reversible Cotton Bedding with Matching Shams, Lightweight Home Decor for All Seasons, Queen, Green/Sky Blue",
+              "price": 90.56,
+              "average_score": 81.0
+            },
+            {
+              "id": 85816,
+              "name": "Flysheep Floral Patchwork Quilt Set 3 Pieces King Size, Green Plaid Reversible Bedspread Coverlet Set, Soft Microfiber Lightweight Bed Cover for All Season (102\" x 90\", 1 Quilt+ 2 Pillow Shams)",
+              "price": 39.99,
+              "average_score": 77.0
+            },
+            {
+              "id": 85736,
+              "name": "UOZZI BEDDING 3 Piece Reversible Quilt Set Gray White Branch with Yellow Dots Queen Full Size 88x88 Soft Microfiber Lightweight Summer Coverlet Bedspread for All Season (1 Quilt+ 2 Shams)",
+              "price": 39.99,
+              "average_score": 76.5
+            },
+            {
+              "id": 87098,
+              "name": "Brielle Premium Heavy Velvet Quilt Set with Cotton Backing, Full/Queen, Seafoam",
+              "price": 66.74,
+              "average_score": 76.0
+            },
+            {
+              "id": 87004,
+              "name": "California King Size Reversible Quilt Set Oversized 102\"x114\" Soft Microfiber Lightweight Large Coverlet Bedspread Summer Bedding Set Bed Cover for All Season Colorful Dots",
+              "price": 55.99,
+              "average_score": 76.0
+            },
+            {
+              "id": 82440,
+              "name": "Western Peak 5 Pc Luxury Western Texas Star Cowboy Horse Cabin Lodge Quilt Bedspread Oversize Comforter (Beige Cowboy, King)",
+              "price": null,
+              "average_score": 75.0
+            },
+            {
+              "id": 88096,
+              "name": "Lush Decor Hygge Geo Pattern Striped 3 Piece Quilt Bedding Set, Full/Queen, Gray & White",
+              "price": 85.49,
+              "average_score": 75.0
+            },
+            {
+              "id": 82119,
+              "name": "Tache Queen Patchwork Quilt - Ivy - Lightweight Floral Turquoise Blue Aqua Patchwork Queen Size Quilts for Bed Reversible Quilted Coverlet Quilt Queen Size",
+              "price": 54.67,
+              "average_score": 75.0
+            },
+            {
+              "id": 82592,
+              "name": "Lush Decor, Full Queen, Navy Aubree Quilt Paisley Damask Print Pattern Reversible 3 Piece Lightweight Bedding Blanket Bedspread Set",
+              "price": 80.99,
+              "average_score": 73.5
+            },
+            {
+              "id": 85124,
+              "name": "VCNY Home Quilt Set Nina Collection, Full/Queen, White",
+              "price": 31.5,
+              "average_score": 72.5
+            },
+            {
+              "id": 88375,
+              "name": "BOURINA Embroidery Quilt Set Coverlet Set 2-Piece Microfiber Bedspread Included 1 sham and 1 Quilt,Twin Size 68\" x 86\" Gold",
+              "price": 39.99,
+              "average_score": 72.5
+            },
+            {
+              "id": 84051,
+              "name": "2 Piece Quilt Set with Sham | Soft & Breathable Bed Cover for Spring & Summer | All-Season Quilt | Multi Layer Coverlet | Lightweight Bedspread | Boho Stripes | Queens Collection (King, Charcoal)",
+              "price": 44.99,
+              "average_score": 72.0
+            },
+            {
+              "id": 86063,
+              "name": "French Connection Adair Reversible Design Blanket 3 Piece Set Includes 1 Quilt and 2 Shams |100% Polyester |Wrinkle Resistant and Anti Pilling, King 3PC, Natural/Rust",
+              "price": 37.92,
+              "average_score": 71.5
+            },
+            {
+              "id": 83302,
+              "name": "Bedsure Linen Quilt Twin Size - Lightweight Soft Quilt Bedding Set for All Seasons, Bedspreads & Coverlets, Corduroy Pattern Quilt Set, 2 Pieces, 1 Quilt (68\"x86\") and 1 Pillow Sham (20\"x26\"+2\")",
+              "price": 45.99,
+              "average_score": 71.5
+            },
+            {
+              "id": 83331,
+              "name": "Levtex Home Mayla Full/Queen Quilt Set, Multi on White, Cotton",
+              "price": null,
+              "average_score": 71.0
+            },
+            {
+              "id": 85402,
+              "name": "ACCOTIA Queen Quilt Set Aqua Blue Bedspread - Lightweight Microfiber Coverlet for All Season with 2 Pillow Shams",
+              "price": 37.99,
+              "average_score": 71.0
+            },
+            {
+              "id": 84523,
+              "name": "Donna Sharp Twin Bedding Set - 2 Piece - Smoothie Contemporary Quilt Set with Twin Quilt and One Standard Pillow Sham - Machine Washable",
+              "price": 54.0,
+              "average_score": 70.5
+            },
+            {
+              "id": 83914,
+              "name": "Comfort Spaces Kienna Quilt Set-Luxury Double Sided Stitching Design All Season, Lightweight, Coverlet Bedspread Bedding, Matching Shams, Oversized King (120\"x118\"), Gray",
+              "price": 61.24,
+              "average_score": 70.5
+            },
+            {
+              "id": 84341,
+              "name": "Wake In Cloud - Geometric Quilt Set, White Black Geometric Modern Pattern Printed, 100% Cotton Fabric with Soft Microfiber Inner Fill Bedspread Coverlet Bedding (3pcs, King Size)",
+              "price": null,
+              "average_score": 70.5
+            },
+            {
+              "id": 82232,
+              "name": "Clara Clark Quilts Queen Size - All Season Bedspread Coverlet Set, Pinsonic Weave Lightweight Queen Quilt Bedding Set - 5 Piece Queen Quilt Set with Pillow Shams, Grid - Navy",
+              "price": 37.79,
+              "average_score": 70.0
+            },
+            {
+              "id": 84435,
+              "name": "Chic Home Woodside 3 Piece Quilt Set Abstract Large Scale Printed Floral-Decorative Pillow Sham Included, King, Black",
+              "price": 51.99,
+              "average_score": 69.5
+            },
+            {
+              "id": 82491,
+              "name": "MaiuFun Cotton Bedspread Quilt Sets King Size (96x108 Inch), Retro Red Classical Striped Bohemian Floral Patchwork Patterns, 3-Piece Bedding Coverlet for All Season (1 Quilt + 2 Pillow Shams)",
+              "price": 79.99,
+              "average_score": 69.0
+            },
+            {
+              "id": 86396,
+              "name": "BASIC CHOICE 3 Piece Quilt Set, Soft Stitched Lightweight Coverlet for All Season, Includes 1 Quilt and 2 Shams - Seamless, Dark Blue, Queen",
+              "price": 63.99,
+              "average_score": 68.0
+            },
+            {
+              "id": 85229,
+              "name": "VEEYOO Bedspread Quilt Set Full/Queen Size - Soft Microfiber Lightweight Coverlet Quilt Set for All Season, Quilt Set 3 Piece (1 Quilt, 2 Pillow Shams), Charcoal",
+              "price": null,
+              "average_score": 67.5
+            },
+            {
+              "id": 82690,
+              "name": "Verefa Yifantacy Lighting_time Summer Comforter Vintage Fresh Green Leaves Pattern Cotton 3-Piece Patchwork Bedspread/Quilted Set fit, Full Queen",
+              "price": null,
+              "average_score": 66.5
+            },
+            {
+              "id": 82511,
+              "name": "GorgeousHomeLinen (NENA) Sage Green Solid Hypoallergenic Quilt Bedspread Bed Bedding Coverlets Cover Set with Pillow Cases Size inc: Twin (2pc) Full Queen King (3pc) (Full/Queen)",
+              "price": 27.72,
+              "average_score": 66.0
+            },
+            {
+              "id": 82438,
+              "name": "sofani Chervon Stripe Stitched Quilt Bedspreads Set Full/Queen Size(White, 90\"x96\") - Super Soft Lightweight Microfiber Coverlet for Queen Bed - 3 Pieces(Includes 1 Quilt, 2 Shams)",
+              "price": null,
+              "average_score": 65.0
+            },
+            {
+              "id": 86211,
+              "name": "ENCOFT Alicemall Light Brown Small Flower Style Cotton Quilt, Fresh Light Brown Flower Summer Quilts/Blanket, Floral Pattern Full Size Bedspreads, 78 inch by 90 inch",
+              "price": null,
+              "average_score": 65.0
+            },
+            {
+              "id": 86877,
+              "name": "VCNY Home - Twin Quilt Set, 4-Piece Bedding with Reversible Quilt, Cozy Room Decor (Casa Re'al, Twin/Twin XL)",
+              "price": 76.37,
+              "average_score": 65.0
+            },
+            {
+              "id": 85375,
+              "name": "Royal Tradition Bonnie Printed Microfiber Oversized Twin-Twin XL 2PC Quilt Set, Shades of Green, Gold and Burgundy",
+              "price": 51.9,
+              "average_score": 64.0
+            },
+            {
+              "id": 84823,
+              "name": "Brilliant Sunshine Burgundy Heart Love, Floral and Lace Patchwork, 3-Piece Quilt Set with 2 Shams, Reversible Bedspread, Soft Lightweight Coverlet, All-Season, King, Burgundy",
+              "price": 54.99,
+              "average_score": 63.0
+            },
+            {
+              "id": 86756,
+              "name": "Bedford Home Lydia Embroidered 3-Piece Quilt Set, Full/Queen",
+              "price": null,
+              "average_score": 62.5
+            },
+            {
+              "id": 83370,
+              "name": "Qucover Red Striped Quilt Cover Sets Queen Size 3 Pieces, Cotton Quilted Bedspread Bedding Sets for Queen Bed",
+              "price": null,
+              "average_score": 62.0
+            },
+            {
+              "id": 84442,
+              "name": "Whale Flotilla Quilt Set Twin Size, Soft Microfiber Lightweight Bedspread Coverlet Bed Cover (Wave Pattern) for All Seasons, Light Grey, 2 Pieces (Includes 1 Quilt, 1 Sham)",
+              "price": 29.99,
+              "average_score": 62.0
+            },
+            {
+              "id": 86016,
+              "name": "SKYHOME - College Collection - Ultra Soft Jersey Knit Quilt & Sham Set, Queen, Smoked Pearl",
+              "price": null,
+              "average_score": 60.0
+            },
+            {
+              "id": 84888,
+              "name": "Barefoot Bungalow Gold Rush Quilt and Pillow Sham Set, 3-Piece King/Cal King, Gray",
+              "price": null,
+              "average_score": 60.0
+            },
+            {
+              "id": 86771,
+              "name": "Western Peak Praying Cowboy Horse Barb Wire Star Cabin Lodge Luxury Quilt Bedspread Coverlet Comforter 3 Piece Beige Brown Set (Beige Queen)",
+              "price": 79.73,
+              "average_score": 60.0
+            },
+            {
+              "id": 87259,
+              "name": "VHC Brands Bingham Star Luxury King Quilt 120Wx105L Country Patchwork Design, Soft Black and Tan",
+              "price": 236.99,
+              "average_score": 55.0
+            },
+            {
+              "id": 82688,
+              "name": "DONI Lightweight Pink Quilt Bedspread Set Twin, All Season Quilt Set Twin Size Quilt Bedding Set Pink, Microfiber Bedspread Coverlet Set with Pillow Shams",
+              "price": 22.8,
+              "average_score": 52.5
+            },
+            {
+              "id": 87893,
+              "name": "Whale Flotilla Quilt Set Twin Size, Soft Microfiber Lightweight Bedspread Coverlet Bed Cover (Diamond Pattern) for All Seasons, Yellow, 2 Pieces (Includes 1 Quilt, 1 Sham)",
+              "price": null,
+              "average_score": 52.5
+            },
+            {
+              "id": 84870,
+              "name": "colors of rajasthan Indian Kantha Blanket, Bed Cover, King Kantha Bedspread, Bohemian Bedding Kantha Hippie Quilts (Purple)",
+              "price": 62.99,
+              "average_score": 50.0
+            },
+            {
+              "id": 85050,
+              "name": "XQL Cotton Boho Stripe 3 Pieces Quilt Set (1 Quilt and 2 Pillow Shams) Queen Size Red",
+              "price": null,
+              "average_score": 50.0
+            },
+            {
+              "id": 87940,
+              "name": "Chic Home Sachi 3 Piece Quilt Set Floral Scroll Pattern Design Bedding - Pillow Shams Included, Queen, Purple",
+              "price": 29.88,
+              "average_score": 45.0
+            },
+            {
+              "id": 87645,
+              "name": "AIKASY Reversible Quilt Set 2-Piece Twin Size with Pillow Shams, Lightweight Microfiber Soft Twin bedspreads Summer Comforter Set Bed Cover for All Season - (Blue, 68\"x86\")",
+              "price": null,
+              "average_score": 45.0
+            },
+            {
+              "id": 85486,
+              "name": "DAWNDIOR King Quilt Set Size Bedspread \uff06 Coverlet Reversible Soft Lightweight Machine Washable Modern Style Bedding Sets for All Season (1 Quilt, 2 Pillow Shams)",
+              "price": null,
+              "average_score": 45.0
+            },
+            {
+              "id": 84234,
+              "name": "Collections Etc Goldfinches and Blooming Flowers Scene Quilt",
+              "price": null,
+              "average_score": 44.0
+            },
+            {
+              "id": 84493,
+              "name": "Christmas Quilt Set Twin Size Christmas Bedding Xmas Home Decor Holiday Quilt Bedding Lodge Snowman Plaid Patchwork Lightweight Quilt Set Bedding Reversible Christmas Bed Set",
+              "price": 14.99,
+              "average_score": 41.5
+            },
+            {
+              "id": 84248,
+              "name": "Grand Linen 3-Piece Fine Printed Quilt Set Reversible Bedspread Coverlet (California) Cal King Size Bed Cover (Black, White, Yellow, Grey)",
+              "price": null,
+              "average_score": 41.0
+            },
+            {
+              "id": 82951,
+              "name": "The Twin Ravens in Norse Mythology\uff0cViking\uff0cHuginn and Muninn\uff0cOdin Bedding Set Lightweight&Soft Twin Queen King Size 3-Piece Bed Set (1 Quilt Cover+2 Pillowcases) white2 104x90 inch",
+              "price": null,
+              "average_score": 37.5
+            },
+            {
+              "id": 87786,
+              "name": "HollyHOME Reversible Super Soft Solid Single Quilted Bed Quilt Bedspread Comforter Bed Cover 86\"x96\", Orange, Full/Queen",
+              "price": null,
+              "average_score": 37.5
+            },
+            {
+              "id": 87442,
+              "name": "Lifestyle Pem America QS8526KG-2300 Heather Quilt with 2 Shams, King",
+              "price": null,
+              "average_score": 32.5
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "summary": {
+    "categories_tested": [
+      "Alarm Clocks",
+      "Fully Threaded Rods & Studs",
+      "Photo Albums, Frames & Accessories",
+      "Wall Sculptures",
+      "Quilt Sets"
+    ],
+    "total_episodes": 5,
+    "episodes_by_category": {
+      "Alarm Clocks": 1,
+      "Fully Threaded Rods & Studs": 1,
+      "Photo Albums, Frames & Accessories": 1,
+      "Wall Sculptures": 1,
+      "Quilt Sets": 1
+    },
+    "product_counts_by_category": {
+      "Alarm Clocks": {
+        "num_products": 39,
+        "episodes": 1
+      },
+      "Fully Threaded Rods & Studs": {
+        "num_products": 16,
+        "episodes": 1
+      },
+      "Photo Albums, Frames & Accessories": {
+        "num_products": 27,
+        "episodes": 1
+      },
+      "Wall Sculptures": {
+        "num_products": 49,
+        "episodes": 1
+      },
+      "Quilt Sets": {
+        "num_products": 54,
+        "episodes": 1
+      }
+    }
+  }
+}

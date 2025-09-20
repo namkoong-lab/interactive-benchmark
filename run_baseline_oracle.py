@@ -21,7 +21,7 @@ if __name__ == "__main__":
     parser.add_argument("--episodes_per_category", type=int, default=1, help="Episodes per category")
     parser.add_argument("--categories", type=str, nargs="+", default=None, help="Categories to test")
     parser.add_argument("--output_dir", type=str, default="baseline_oracle_results", help="Output directory")
-    parser.add_argument("--seed", type=int, default=179322, help="Random seed (same as other baselines for fair comparison)")
+    parser.add_argument("--seed", type=int, default=798407, help="Random seed (same as other baselines for fair comparison)")
     args = parser.parse_args()
 
     print("Running Baseline Experiment 4: Oracle Recommendation")
