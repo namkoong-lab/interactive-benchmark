@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Enhanced Experiment 1 with incremental saving after each episode.
-This prevents data loss if the experiment is interrupted.
+Experiment 1: LLM Learning Across Categories.
 """
 
 import gymnasium as gym
@@ -52,7 +51,68 @@ class LLMAgent:
         if hasattr(self, 'current_env') and self.current_env and hasattr(self.current_env, 'dialog_history'):
             dialog_history = self.current_env.dialog_history
         
+        if len(dialog_history) >= self.max_questions:
+            return self._force_recommendation(obs, info, dialog_history, category, num_products)
+        
         return self._llm_decide_action(obs, info, dialog_history, category, num_products)
+    
+    def _force_recommendation(self, obs: Dict[str, np.ndarray], info: Dict[str, Any], 
+                             dialog_history: List[Tuple[str, str]], category: str, num_products: int) -> int:
+        """Force the agent to make a recommendation by prompting it to do so without revealing the limit."""
+        products = self._get_product_info(obs, info, num_products)
+        context = self._build_llm_context(products, dialog_history, category)
+        
+        # Build previous episode context
+        strategy_context = self._build_feedback_context(category)
+        
+        base_prompt = f"""You are a product recommendation agent for {category} products.
+
+Context:
+{context}
+
+{strategy_context}
+
+Task:
+Based on the extensive conversation so far, you now have sufficient information to make a recommendation. Choose the best product for the customer.
+
+Output format (MUST be exactly one line, no extra text):
+RECOMMEND: <number 0-{num_products-1}>
+
+Rules:
+- You must make a recommendation now
+- Choose the product that best matches the customer's expressed preferences
+- Do not ask any more questions
+- No explanations, just the recommendation
+"""
+
+        # Apply prompting tricks if enabled
+        unified_prompt = self._apply_prompting_tricks(base_prompt)
+
+        try:
+            response = chat_completion(
+                messages=[{"role": "user", "content": unified_prompt}],
+                model=self.model,
+                temperature=0.2,
+                max_tokens=32000
+            )
+            
+            self.last_response = response
+            
+            # Parse recommendation
+            if "RECOMMEND:" in response:
+                try:
+                    product_idx = int(response.split("RECOMMEND:")[-1].strip())
+                    if 0 <= product_idx < num_products:
+                        return product_idx
+                except (ValueError, IndexError):
+                    pass
+            
+            # Fallback: return first product if parsing fails
+            return 0
+            
+        except Exception as e:
+            print(f"Error in forced recommendation: {e}")
+            return 0
     
     def _llm_decide_action(self, obs: Dict[str, np.ndarray], info: Dict[str, Any], 
                           dialog_history: List[Tuple[str, str]], category: str, num_products: int) -> int:
@@ -92,7 +152,7 @@ Rules:
                 messages=[{"role": "user", "content": unified_prompt}],
                 model=self.model,
                 temperature=0.2,
-                max_tokens=400
+                max_tokens=32000
             )
             
             self.last_response = response.strip()
@@ -286,7 +346,7 @@ Write only the summary, no additional commentary:"""
                 messages=[{"role": "user", "content": summary_prompt}],
                 model=self.model,
                 temperature=0.3,
-                max_tokens=200
+                max_tokens=32000
             )
             return response.strip()
         except Exception as e:

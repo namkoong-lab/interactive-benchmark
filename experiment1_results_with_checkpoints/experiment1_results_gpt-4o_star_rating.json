@@ -1,0 +1,1683 @@
+{
+  "experiment": "Experiment 1: LLM Learning Across Categories",
+  "timestamp": "2025-09-20T03:24:34.131120",
+  "summary": {
+    "regret_progression": {
+      "episode_regrets": [
+        42.5,
+        67.5,
+        30.0
+      ],
+      "avg_regret": 46.666666666666664,
+      "regret_trend": "improving"
+    },
+    "categories_tested": [
+      "Fabric Dyes",
+      "Decorative Clear Stamps",
+      "Feather Dusters"
+    ],
+    "total_episodes": 3,
+    "successful_episodes": 3,
+    "target_successful_episodes": 3,
+    "episodes_by_category": {
+      "Feather Dusters": 1,
+      "Decorative Clear Stamps": 1,
+      "Fabric Dyes": 1
+    },
+    "product_counts_by_category": {
+      "Feather Dusters": {
+        "num_products": 28,
+        "episodes": 1
+      },
+      "Decorative Clear Stamps": {
+        "num_products": 69,
+        "episodes": 1
+      },
+      "Fabric Dyes": {
+        "num_products": 23,
+        "episodes": 1
+      }
+    }
+  },
+  "config": {
+    "persona_index": 26089,
+    "categories": null,
+    "episodes_per_category": 1,
+    "max_questions": 3,
+    "model": "gpt-4o",
+    "feedback_type": "star_rating",
+    "seed": 60751
+  },
+  "agent_episode_history": [
+    {
+      "episode": 1,
+      "category": "Feather Dusters",
+      "persona": 26089,
+      "dialog": [
+        [
+          "Do you have a budget in mind for the feather duster?",
+          "I\u2019d say around $10 to $15."
+        ],
+        [
+          "Do you prefer a specific brand or style for the feather duster?",
+          "I prefer a traditional ostrich feather duster."
+        ],
+        [
+          "Do you prefer a specific size or length for the feather duster?",
+          "I prefer a medium-sized feather duster."
+        ]
+      ],
+      "selected_product_id": 80969,
+      "feedback": "Recommendation rating: 3 out of 5 stars (best possible: 5 stars)"
+    },
+    {
+      "episode": 2,
+      "category": "Decorative Clear Stamps",
+      "persona": 26089,
+      "dialog": [
+        [
+          "Do you have a budget in mind for the decorative clear stamps?",
+          "Yes, around $20."
+        ]
+      ],
+      "selected_product_id": 20554,
+      "feedback": "Recommendation rating: 1 out of 5 stars (best possible: 5 stars)"
+    },
+    {
+      "episode": 3,
+      "category": "Fabric Dyes",
+      "persona": 26089,
+      "dialog": [
+        [
+          "Do you have a budget in mind for the fabric dye?",
+          "Yes, around $20."
+        ],
+        [
+          "Do you prefer a specific brand or color for the fabric dye?",
+          "I prefer Rit dye in a deep blue color."
+        ]
+      ],
+      "selected_product_id": 21311,
+      "feedback": "Recommendation rating: 3 out of 5 stars (best possible: 5 stars)"
+    }
+  ],
+  "category_results": {
+    "Feather Dusters": {
+      "avg_score": 45.0,
+      "top1_rate": 0.0,
+      "episode_count": 1,
+      "num_products": 28,
+      "products_with_scores": [
+        {
+          "id": 79252,
+          "name": "Scrub Daddy Damp Duster, Magical Dust Cleaning Sponge, Duster for Cleaning Venetian & Wooden Blinds, Vents, Radiators, Skirting Boards, Mirrors and Cobwebs, Traps Dust, Grey",
+          "price": 10.49,
+          "average_score": 87.5
+        },
+        {
+          "id": 79245,
+          "name": "TIMIVO Microfiber Duster for Cleaning, Dusters with Telescoping Extension Pole, Extendable Washable Mini Dusters for Cleaning Car, Window, Furniture, Office (Blue and Grey)",
+          "price": 6.99,
+          "average_score": 85.0
+        },
+        {
+          "id": 79463,
+          "name": "Midoneat Gray Ostrich Feather Duster with 71Inch Pole ,Extendable Feather Duster for Home Cleaning",
+          "price": 20.99,
+          "average_score": 79.0
+        },
+        {
+          "id": 78307,
+          "name": "EVERSPROUT 8-to-20 Foot Flexible Microfiber Feather Duster and Extension Pole Combo (25 Foot Reach) | Lightweight, High-Grade Aluminum, 3-Stage Telescopic Pole | Extra Long 24-inch Feather Duster",
+          "price": null,
+          "average_score": 77.5
+        },
+        {
+          "id": 78749,
+          "name": "Swiffer\u00ae Duster Starter Kit, White",
+          "price": null,
+          "average_score": 77.5
+        },
+        {
+          "id": 80045,
+          "name": "SetSail Feather Duster, Fluffy Natural Ostrich Feather Dusters for Cleaning with Wooden Handle Eco-Friendly Feather Duster Cleaning Supplies for Furniture, Car, Collectibles.",
+          "price": null,
+          "average_score": 77.5
+        },
+        {
+          "id": 77479,
+          "name": "Retractable Gap Dust Cleaner Under Appliance Microfiber Duster Dust Brush with Extension Pole (36 to 49 inches) Cleaning Duster for Bed High Ceilings Furniture Bottom Household Gap Duster",
+          "price": 13.59,
+          "average_score": 75.0
+        },
+        {
+          "id": 79029,
+          "name": "Microfiber Duster with 100 Inches Extendable Pole, Detachable & Bendable Feather Duster, Stainless Steel Extra Long Telescopic Dusters with Soft Silicone Cap, Perfect for Cleaning Cobweb",
+          "price": null,
+          "average_score": 72.5
+        },
+        {
+          "id": 77852,
+          "name": "Washable Dusters for Cleaning, Phoenixes Feather Duster Extendable Dusting Wand 11\"-30\", Wet or Dry Use (5 Pcs)",
+          "price": null,
+          "average_score": 67.5
+        },
+        {
+          "id": 77138,
+          "name": "Fercaish 2 Pack Microfiber Duster with Extendable Handle(Stainless Steel) Longest\u00a3\u00a833\"),Washable,Bendable Head,Extendable Duster for Car,Ceiling Fan, Interior Roof, Cobweb, Blinds",
+          "price": null,
+          "average_score": 65.0
+        },
+        {
+          "id": 77673,
+          "name": "WAGIC 31338 Giraffe Reach System Bendable Microfiber Duster",
+          "price": null,
+          "average_score": 57.5
+        },
+        {
+          "id": 78276,
+          "name": "1pc Soft Magic Plastic Feather Duster Anti Static Car Home Window Cleaner 28\"",
+          "price": 8.49,
+          "average_score": 57.5
+        },
+        {
+          "id": 77709,
+          "name": "Casabella Feather Duster Wood Handle, 20\"",
+          "price": null,
+          "average_score": 52.5
+        },
+        {
+          "id": 81820,
+          "name": "Atopov Microfiber Duster for Cleaning with 100-inch Stainless Steel Extension Pole Extendable Duster Collector Head Bendable, Washable, Lint Free Dusters, Roof\uff0cCeiling Fan, Blinds, Cobwebs",
+          "price": 7.98,
+          "average_score": 51.5
+        },
+        {
+          "id": 76799,
+          "name": "Quickie Mfg 406 Light Blue Turkey Feather Duster Dusters, Feather & Lambswool",
+          "price": null,
+          "average_score": 45.0
+        },
+        {
+          "id": 80969,
+          "name": "Retractable Gap Dust Cleaner Brush with Extension Pole (29 to 65 inches), Flexible Gap Microfiber Duster Bendable Extendable Washable, Under Appliance Dusters for Cleaning Bed Sofa Furniture",
+          "price": 16.99,
+          "average_score": 45.0
+        },
+        {
+          "id": 81517,
+          "name": "Swiffer\u00ae 360\u00b0 Duster Refills, Yellow, 6 Refills Per Box, Carton Of 4 Boxes",
+          "price": null,
+          "average_score": 45.0
+        },
+        {
+          "id": 80062,
+          "name": "Retractable Gap Dust Cleaner with 55'' Long Handle, Gap Dust Brush Under Appliance, Washable Microfiber Hand Duster for Household Bed Sofa Furniture Gap, Clean Fur Hair, Wet and Dry",
+          "price": 15.99,
+          "average_score": 42.5
+        },
+        {
+          "id": 81770,
+          "name": "2 Pack Ceiling Fan Duster, Microfiber Duster with Extender Handle (30 to 100 inches) Non-Scratch, Bendable, Lint Free Dusters for Cleaning Ceiling Fan, Blinds, Cobwebs-Green",
+          "price": null,
+          "average_score": 42.5
+        },
+        {
+          "id": 79867,
+          "name": "PASLOOTA Baseboard Cleaner with Long Handle - Convex Design Duster Cleaning Mop Tool for Baseboard, Door Molding, Windows & Ceiling with 6 Reusable Microfiber Mop Pads",
+          "price": null,
+          "average_score": 32.5
+        },
+        {
+          "id": 79992,
+          "name": "Kpoooku Hand Broom Cleaning Brushes- Soft Counter Duster Furniture Dusters Brush with Long Wooden Handle Household Dusting Tool (1",
+          "price": 15.98,
+          "average_score": 32.5
+        },
+        {
+          "id": 81511,
+          "name": "6 Pcs Blinds Cleaner Tool, 2 Pcs 7 Finger Window Venetian Dusting Cleaner Brush 2 Pcs Duster Brushes and 2 Pairs Cleaning Gloves for Air Conditioner Dirt House Plant Car Corner Shutter",
+          "price": 18.99,
+          "average_score": 32.5
+        },
+        {
+          "id": 80066,
+          "name": "Unger PFD7G Proflat Duster 75, Reusable Microfiber, Washable, 30\" Length",
+          "price": 26.49,
+          "average_score": 30.0
+        },
+        {
+          "id": 81048,
+          "name": "Cobweb Duster Head Blue 9\" W/o Handle [Set of 4]",
+          "price": 49.85,
+          "average_score": 25.0
+        },
+        {
+          "id": 80781,
+          "name": "EVERSPROUT Microfiber Ceiling & Fan Duster Replacement Sleeve | Only Works 25'' Ceiling Fan Duster (Actual Sleeve Measures Less Than 25'') | Removable & Machine-Washable",
+          "price": null,
+          "average_score": 22.5
+        },
+        {
+          "id": 81209,
+          "name": "Harper Brush #457-1 Syntheti Counter Duster",
+          "price": null,
+          "average_score": 22.5
+        },
+        {
+          "id": 78336,
+          "name": "Microfiber Cleaning Slippers-1 Pair",
+          "price": null,
+          "average_score": 15.0
+        },
+        {
+          "id": 77759,
+          "name": "3 Pack of Shift Duster Dress - Medium to 3X Available (509) (Pack B, 4XL)",
+          "price": null,
+          "average_score": 5.0
+        }
+      ]
+    },
+    "Decorative Clear Stamps": {
+      "avg_score": 5.0,
+      "top1_rate": 0.0,
+      "episode_count": 1,
+      "num_products": 69,
+      "products_with_scores": [
+        {
+          "id": 18532,
+          "name": "Stamp Simply Clear Stamps O Xmas Tree and Wonder of Christmas Sentiments (2-Pack) 4x6 Inch Sheets - 18 Pieces",
+          "price": 41.99,
+          "average_score": 72.5
+        },
+        {
+          "id": 18700,
+          "name": "YULEKITO Magical Angel Clear Stamps for Card Making Decoration DIY Scrapbooking",
+          "price": 6.99,
+          "average_score": 70.0
+        },
+        {
+          "id": 18151,
+          "name": "Thankful Tree Leaves Heart Flowers Clear Stamps for Card Making Decoration DIY Scrapbooking, Thanks Sentiment Valentines Transparent Rubber Seal Stamps for Photo Card Album Crafting Supplies.",
+          "price": 6.99,
+          "average_score": 67.5
+        },
+        {
+          "id": 18012,
+          "name": "KWELLAM Words Happy Birthday to you Merry Christmas Seasons Happy Holidays Clear Stamps for Card Making Decoration and DIY Scrapbooking",
+          "price": 6.99,
+          "average_score": 60.0
+        },
+        {
+          "id": 18297,
+          "name": "Crazy Sentiment Stamps for Card-Making and Scrapbooking Supplies by The Stamps of Life - Encouragement-Fun-Friends - Crazy4Life",
+          "price": null,
+          "average_score": 57.5
+        },
+        {
+          "id": 22158,
+          "name": "Merry Christmas Stars Blessing Words Clear Rubber Stamps for Card Making and Scrapbooking Christmas Silicone Stamps (T1600)",
+          "price": 6.29,
+          "average_score": 57.5
+        },
+        {
+          "id": 21408,
+          "name": "Hero Arts Merry Christmas Message Clear Stamps",
+          "price": 24.99,
+          "average_score": 52.5
+        },
+        {
+          "id": 22097,
+          "name": "6 Sheets Christmas Clear Silicone Stamps Decorative Xmas Theme Santa Deer Winter Wonderland Scrapbooking Stamps for Card Making DIY Photo Album (Assorted Style)",
+          "price": 14.99,
+          "average_score": 50.0
+        },
+        {
+          "id": 18758,
+          "name": "Avery Elle - Caroling Critters Clear Stamps and Dies Set - 2 item bundle",
+          "price": null,
+          "average_score": 47.5
+        },
+        {
+          "id": 22166,
+          "name": "Christmas Penguin Clear Stamps for Card Making Decorative Xmas Theme Winter Blessing Words Penguin \u200bClear Rubber Scrapbooking Stamps with Sentiment for Card Making DIY Photo Album",
+          "price": 6.99,
+          "average_score": 47.5
+        },
+        {
+          "id": 18659,
+          "name": "Simon Hurley Supermom SIMN Hurley Stamps",
+          "price": 24.99,
+          "average_score": 45.0
+        },
+        {
+          "id": 19034,
+          "name": "MaGuo Vintage Typewriter Pen and Ink Envolope Clear Stamps for Card Making Decoration and DIY Scrapbooking",
+          "price": 6.99,
+          "average_score": 45.0
+        },
+        {
+          "id": 19209,
+          "name": "Penny Black PB30020 Clear Stamp Set, Hugs",
+          "price": 15.79,
+          "average_score": 45.0
+        },
+        {
+          "id": 19306,
+          "name": "Penny Black PB30044 Clear Stamp Set, in The Garden",
+          "price": 18.0,
+          "average_score": 45.0
+        },
+        {
+          "id": 21222,
+          "name": "Lavinia Stamps - Christmas Eve (LAV020)",
+          "price": 11.88,
+          "average_score": 45.0
+        },
+        {
+          "id": 21679,
+          "name": "Welcome to Joyful Home 1pc Flower Rabbit Butterfly Happy Easter Rubber Clear Stamp for Card Making Decoration and Scrapbooking",
+          "price": 4.28,
+          "average_score": 42.5
+        },
+        {
+          "id": 19055,
+          "name": "Hero Arts PolyClear Stamps Best Wishes",
+          "price": 14.25,
+          "average_score": 40.0
+        },
+        {
+          "id": 22237,
+          "name": "Woodware Clear Stamps 4\"X6\"-Singles Garden Spray -JGS757",
+          "price": 10.19,
+          "average_score": 40.0
+        },
+        {
+          "id": 18579,
+          "name": "Lawn Fawn Clear Stamps LF1602 Slow Down & Enjoy",
+          "price": 16.49,
+          "average_score": 37.5
+        },
+        {
+          "id": 18773,
+          "name": "Funny Sayings for Women Stamps for Card-Making and Scrapbooking Supplies by The Stamps of Life - Humor4Women Sentiments Phrases",
+          "price": null,
+          "average_score": 37.5
+        },
+        {
+          "id": 18968,
+          "name": "LZBRDY 5.9 by 8.3 Inch Feather Flower Wreath Stamp and Die Set for Card Making and Scrapbooking Thinking of You with Love Words Clear Stamps and Dies",
+          "price": 14.99,
+          "average_score": 37.5
+        },
+        {
+          "id": 19028,
+          "name": "LAWN FAWN Clear Stamps 4\"X6\" Christmas Dreams (LF1466) (\u041en\u0435 \u0420\u0430\u0441k)",
+          "price": 15.25,
+          "average_score": 37.5
+        },
+        {
+          "id": 21686,
+          "name": "Birds of Prey (7\"x10\") Clear Stamps Large Sheet/Retro, Vintage, Owl, Falcon, Eagle",
+          "price": 28.99,
+          "average_score": 37.5
+        },
+        {
+          "id": 18174,
+          "name": "Fiskars 3x6 Inch Clear Stamp, All That Glitters",
+          "price": 7.75,
+          "average_score": 35.0
+        },
+        {
+          "id": 22084,
+          "name": "LZBRDY 5.9 by 8.3 Inch Musical Notes Violin Leaves Clear Rubber Stamps for Scrapbooking Card Making Christmas Valentine's Day Birthday Craft Silicone Stamps",
+          "price": 7.99,
+          "average_score": 35.0
+        },
+        {
+          "id": 18716,
+          "name": "My-Besties Clear Stamps 4\"X6\"-Little Mermaid Girl",
+          "price": 24.0,
+          "average_score": 32.5
+        },
+        {
+          "id": 19786,
+          "name": "Walnut Hollow HotStamps Uppercase Alphabet Set for Branding and Personalization of Wood, Leather, and Other Surfaces",
+          "price": 17.13,
+          "average_score": 32.5
+        },
+        {
+          "id": 21231,
+          "name": "Bestie Best Friends Girls Party English sentiments Stamp Rubber Clear Stamp/Seal Scrapbook/Photo Album Decorative Card Making Clear Stamps-A1437",
+          "price": 7.93,
+          "average_score": 32.5
+        },
+        {
+          "id": 21299,
+          "name": "Welcome to Joyful Home 1pc Ticket Background Rubber Clear Stamp for Card Making Decoration and Scrapbooking15.5x21.5cm",
+          "price": 7.99,
+          "average_score": 32.5
+        },
+        {
+          "id": 21420,
+          "name": "Paper Smooches Lovely Thoughts Stamps, 4 by 6\", Clear",
+          "price": null,
+          "average_score": 32.5
+        },
+        {
+          "id": 20227,
+          "name": "Tim Holtz Collection Stamper's Anonymous Tim Holtz Doodle Dots & Stitches Mixed Media Stamp and Stencil Set THMM114",
+          "price": 16.95,
+          "average_score": 30.0
+        },
+        {
+          "id": 20383,
+          "name": "Acrylic Stamping Blocks Tools Set, BENBO 5 Pieces Assorted Sizes Clear Stamp Blocks with Grid Lines and 1 Sheet Clear Silicone Seal Stamps for Scrapbooking Crafts Card Making",
+          "price": 13.99,
+          "average_score": 30.0
+        },
+        {
+          "id": 20452,
+          "name": "Adhesive Sheets Long (10 Pack) for Card-Making and Scrapbooking Supplies by The Stamps of Life",
+          "price": 9.75,
+          "average_score": 30.0
+        },
+        {
+          "id": 21599,
+          "name": "Card-io Clear Stamps, Polymer A6",
+          "price": 17.06,
+          "average_score": 30.0
+        },
+        {
+          "id": 21839,
+          "name": "Avery Elle Stamp Set, 4-Inch by 3-Inch, Texture Tiles be Cute, Clear",
+          "price": null,
+          "average_score": 30.0
+        },
+        {
+          "id": 18655,
+          "name": "Harriet Tubman 1/2\u201d Thick Clear Acrylic Block Stamp",
+          "price": 14.95,
+          "average_score": 27.5
+        },
+        {
+          "id": 19069,
+          "name": "Kwan Crafts 2 Sheets Different Style Wood Grain Crack Grid Background Clear Stamps for Card Making Decoration and DIY Scrapbooking",
+          "price": 9.99,
+          "average_score": 27.5
+        },
+        {
+          "id": 19349,
+          "name": "Lawn Fawn Coloring Mini Sets - One in A Chameleon and Color My World - Stamps and Dies - 4 Items",
+          "price": 20.0,
+          "average_score": 27.5
+        },
+        {
+          "id": 19497,
+          "name": "ORIGACH Sentiments Words Clear Stamps Silicone Transparent Stamps for Card Making Decoration and DIY Scrapbooking",
+          "price": 6.49,
+          "average_score": 27.5
+        },
+        {
+          "id": 20199,
+          "name": "Pumpkin Pine Cones Clear Stamps for Card Making, Mushroom Apple Leave Birds Blessing Words Clear Rubber Stamps Silicone Reusable Stamp for DIY Scrapbooking Paper Craft Album Decoration",
+          "price": 6.99,
+          "average_score": 27.5
+        },
+        {
+          "id": 20745,
+          "name": "Ranger Ink Letter It Clear Stamp Set 4 x 6 inches Rejoice 1-Pack Bundled with 1 Artsiga Crafts Small Project Bag",
+          "price": 12.89,
+          "average_score": 27.5
+        },
+        {
+          "id": 22133,
+          "name": "Memorial Day Patriotic Clear Stamps for Card Making, Fireworks Patriotic Stamps Transparent Rubber Stamps for Veterans Day Independence Day Paper Card Photo Album Decoration Scrapbooking Supplies",
+          "price": 4.89,
+          "average_score": 27.5
+        },
+        {
+          "id": 22149,
+          "name": "Lighthouse GRANDE 2S Stamp Stock Pages- 5 Pages",
+          "price": 12.92,
+          "average_score": 27.5
+        },
+        {
+          "id": 19118,
+          "name": "Prima Marketing Julie Nutting Planner Bundle - Fall 2016 (Stamps Only)",
+          "price": null,
+          "average_score": 25.0
+        },
+        {
+          "id": 19140,
+          "name": "Avery Elle - Cake for All - Clear Stamps and Dies Set",
+          "price": 31.98,
+          "average_score": 25.0
+        },
+        {
+          "id": 19320,
+          "name": "Concord & 9th Hi There Bear Clear Stamps 6\"X8\"",
+          "price": 39.61,
+          "average_score": 25.0
+        },
+        {
+          "id": 20498,
+          "name": "arriettycraft Father's Day Bear Happy Birthday Hat Tie Clear Stamps for Cards Making Decoration Clear Stamps or Scrapbooking Paper Craft Tools",
+          "price": 7.94,
+          "average_score": 25.0
+        },
+        {
+          "id": 19758,
+          "name": "LANGFON Retro Style Ocean Waves Background Clear Stamps for Card Making Decoration DIY Scrapbooking, Sea Waves Background Silicone Transparent Seal Stamps for Embossing Album Decor Craft.",
+          "price": 6.99,
+          "average_score": 22.5
+        },
+        {
+          "id": 21175,
+          "name": "Postage Stamps for Card-Making and Scrapbooking Supplies by The Stamps of Life - Phrases and Sentiments",
+          "price": 14.89,
+          "average_score": 22.5
+        },
+        {
+          "id": 21759,
+          "name": "Stampendous Frog Yoga Perfectly Clear Stamp Set",
+          "price": 16.83,
+          "average_score": 22.5
+        },
+        {
+          "id": 18197,
+          "name": "CIEHER 4 Pieces Stamp Blocks with Grid Lines Acrylic Clear Stamping Blocks, Essential Stamping Tools for Scrapbooking Crafts Making",
+          "price": null,
+          "average_score": 20.0
+        },
+        {
+          "id": 19839,
+          "name": "Lavinia Stamps - Josie",
+          "price": null,
+          "average_score": 20.0
+        },
+        {
+          "id": 20013,
+          "name": "Birthday Sentiment Stamps for Card-Making and Scrapbooking Supplies by The Stamps of Life - Birthday Dog - Birthday4Cookie",
+          "price": 14.89,
+          "average_score": 20.0
+        },
+        {
+          "id": 20338,
+          "name": "Kwan Crafts Words Letters Happy Birthday Let Us Eat Cake Clear Stamps for Card Making Decoration and DIY Scrapbooking",
+          "price": 7.68,
+          "average_score": 20.0
+        },
+        {
+          "id": 20999,
+          "name": "Kind Cosmo Clear Stamps | Photopolymer Stamps - Clear Rubber Stamps | Flowers Rubber Stamps | Stamps for Card Making",
+          "price": null,
+          "average_score": 20.0
+        },
+        {
+          "id": 22076,
+          "name": "MSE Stamp Sheet, 4 by 6-Inch, Sympathy, Clear",
+          "price": null,
+          "average_score": 20.0
+        },
+        {
+          "id": 18609,
+          "name": "Technique Tuesday DIY Dies, Circles, 1-Inch to 2.5-Inch",
+          "price": null,
+          "average_score": 17.5
+        },
+        {
+          "id": 19684,
+          "name": "Sizzix 661998 Happy Easter Clear Stamps",
+          "price": null,
+          "average_score": 17.5
+        },
+        {
+          "id": 20304,
+          "name": "Stampendous Laurel Burch Stamp Mini Clear Set",
+          "price": null,
+          "average_score": 17.5
+        },
+        {
+          "id": 20761,
+          "name": "MaGuo Slim Sentiments Clear Stamps All Occasion Just for You for Card Making Decoration and DIY Scrapbooking",
+          "price": 1.72,
+          "average_score": 17.5
+        },
+        {
+          "id": 21611,
+          "name": "Garding Tools Ladder Gloves Scissors Shovel Dies and Stamps Sets for Card Making DIY Scrapbooking Thanks for Heping Me Grow Birthday Wishes Words Transparent Silicone Seal Stamps for Paper Crafting",
+          "price": null,
+          "average_score": 17.5
+        },
+        {
+          "id": 20511,
+          "name": "Paper Smooches Clear Stamps 4\"X6\", Slang Gang",
+          "price": null,
+          "average_score": 15.0
+        },
+        {
+          "id": 18541,
+          "name": "Water Wave Night Light Projector, KINGWILL Waterproof LED Projector Lamp with Ripple RGB 46D Water Effect, Remote Control Holiday Projector for Christmas Halloween Wedding Party Holiday Disco",
+          "price": null,
+          "average_score": 12.5
+        },
+        {
+          "id": 19804,
+          "name": "Layers tulips Transparent clear stamp for DIY Scrapbooking Card making/photo Album decoration",
+          "price": null,
+          "average_score": 12.5
+        },
+        {
+          "id": 20314,
+          "name": "Numbers Stamps for Card-Making and Scrapbooking Supplies by The Stamps of Life - Numbers4Train ABC",
+          "price": null,
+          "average_score": 12.5
+        },
+        {
+          "id": 20548,
+          "name": "Illustrated Faith - Clear Stamps - Bright and Brave",
+          "price": 25.99,
+          "average_score": 12.5
+        },
+        {
+          "id": 19915,
+          "name": "My-Besties Clear Stamps 4\"X6\"-Little Sailor Girl",
+          "price": null,
+          "average_score": 10.0
+        },
+        {
+          "id": 20654,
+          "name": "Camera House Love Scrapbook DIY Photo Cards Account Rubber Stamp Clear Stamp Transparent Stamp 10x10cm KW610908 LDCRE",
+          "price": null,
+          "average_score": 10.0
+        },
+        {
+          "id": 20554,
+          "name": "WPA Posters book of 20 Forever USPS Postage Stamp Work Projects Administration (5 books of 20 stamps)",
+          "price": 145.95,
+          "average_score": 5.0
+        }
+      ]
+    },
+    "Fabric Dyes": {
+      "avg_score": 32.5,
+      "top1_rate": 0.0,
+      "episode_count": 1,
+      "num_products": 23,
+      "products_with_scores": [
+        {
+          "id": 21247,
+          "name": "Tie Dye Kit, 8 Colors 16 Dye Packets for Tie Dye Kit for Kids,AIPASA One-Step Tie Dye Set, Textile, T-Shirt, Canvas Supplies for Adults, Women, Men, Artist, Children, Party, Festival Fashion DIY Gift",
+          "price": null,
+          "average_score": 62.5
+        },
+        {
+          "id": 21987,
+          "name": "Tulip Fabric Dye Kits 31672 Fdy Med Psychedelic, 4 Fluid Ounces, As Detailed",
+          "price": 12.02,
+          "average_score": 52.5
+        },
+        {
+          "id": 21564,
+          "name": "Rit Purpose Liquid Dye, 236ml, Denim Blue",
+          "price": 7.99,
+          "average_score": 47.5
+        },
+        {
+          "id": 21255,
+          "name": "Jacquard iDye Poly Fabric Dye 14g-Yellow",
+          "price": 6.93,
+          "average_score": 42.5
+        },
+        {
+          "id": 22037,
+          "name": "Jacquard iDye for Natural Fabrics .49 Oz - Deep Orange",
+          "price": 6.01,
+          "average_score": 42.5
+        },
+        {
+          "id": 21742,
+          "name": "Magic River Handcrafted Tie Dye T Shirts - 6 Adult Sizes - 20 Color Patterns",
+          "price": 20.0,
+          "average_score": 40.0
+        },
+        {
+          "id": 20678,
+          "name": "162 Pieces Tie Dye DIY Kit, Rubber Bands Sealed Bags Plastic Gloves Disposable Aprons Plastic Tablecloth Tie-dye line for Dying Shirts Fabrics Tie-Dye Project",
+          "price": null,
+          "average_score": 32.5
+        },
+        {
+          "id": 20689,
+          "name": "Dylon 87079 Permanent Fabric Dye, Bahama Blue, 1.75-Ounce",
+          "price": null,
+          "average_score": 32.5
+        },
+        {
+          "id": 21311,
+          "name": "Dylon Washing Fabric Clothes Soft Furnishings 350 G Machine Dye Pod Deep Violet 350g, 1 Count (Pack of 1), 12 Ounce",
+          "price": 17.34,
+          "average_score": 32.5
+        },
+        {
+          "id": 19875,
+          "name": "Sntieecr 68 Pieces DIY Tie Dye Kit, T-Shirt Fabrics Tie-dye Kits for Kids Adult Party Group, Including Rubber Bands, Plastic Gloves, Sealed Bags and Plastic Tablecloth",
+          "price": null,
+          "average_score": 30.0
+        },
+        {
+          "id": 19714,
+          "name": "RIT Dye Wide Selection of Colors with Color Fixative",
+          "price": 19.99,
+          "average_score": 27.5
+        },
+        {
+          "id": 20249,
+          "name": "FunkyFish Tie Dye T-Shirt Kit with 3 Dyes, Includes White Kid Size Tshirt and All You Need for DIY Activity, Easy to Use",
+          "price": null,
+          "average_score": 27.5
+        },
+        {
+          "id": 19554,
+          "name": "Create Basics Tie Dye Kit, 47 Piece",
+          "price": 14.95,
+          "average_score": 25.0
+        },
+        {
+          "id": 18209,
+          "name": "Jacquard Acid Dye - Pink - 1/2 Oz Net Wt - Acid Dye for Wool - Silk - Feathers - and Nylons - Brilliant Colorfast and Highly Concentrated",
+          "price": 6.23,
+          "average_score": 22.5
+        },
+        {
+          "id": 18091,
+          "name": "Jacquard Silk Salt",
+          "price": 10.32,
+          "average_score": 20.0
+        },
+        {
+          "id": 18319,
+          "name": "Jacquard Products Silk Colors Dyes, 2-Ounce, Viridian Green",
+          "price": 3.94,
+          "average_score": 20.0
+        },
+        {
+          "id": 19029,
+          "name": "Jacquard Idye Natural Fabric: Aztec Gold",
+          "price": 7.02,
+          "average_score": 20.0
+        },
+        {
+          "id": 19711,
+          "name": "Jacquard Textile Color Exciter Pack 9 Colors",
+          "price": null,
+          "average_score": 17.5
+        },
+        {
+          "id": 20106,
+          "name": "Pack of 2 Rit Dye Laundry Treatment Color Remover",
+          "price": 7.33,
+          "average_score": 15.0
+        },
+        {
+          "id": 19365,
+          "name": "Procion Mx Dye Bright Blue 8oz",
+          "price": 50.23,
+          "average_score": 12.5
+        },
+        {
+          "id": 20064,
+          "name": "Pebeo Setacolor Opaque Fabric Paint 45-Milliliter Bottle, Spring Green",
+          "price": 16.0,
+          "average_score": 12.5
+        },
+        {
+          "id": 20627,
+          "name": "Rit Dye Powder-Tan",
+          "price": null,
+          "average_score": 12.5
+        },
+        {
+          "id": 19702,
+          "name": "Dylon Fabric Dye, 50i, Ocean Blue",
+          "price": null,
+          "average_score": 10.0
+        }
+      ]
+    }
+  },
+  "all_episodes": [
+    {
+      "episode": 1,
+      "category": "Feather Dusters",
+      "persona_index": 26089,
+      "episode_in_category": 1,
+      "steps": 4,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 80969,
+        "chosen_score": 45.0,
+        "best_product_id": 79252,
+        "best_score": 87.5,
+        "regret": 42.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 3,
+        "feedback": "Recommendation rating: 3 out of 5 stars (best possible: 5 stars)",
+        "feedback_type": "star_rating"
+      },
+      "full_dialog": [
+        [
+          "Do you have a budget in mind for the feather duster?",
+          "I\u2019d say around $10 to $15."
+        ],
+        [
+          "Do you prefer a specific brand or style for the feather duster?",
+          "I prefer a traditional ostrich feather duster."
+        ],
+        [
+          "Do you prefer a specific size or length for the feather duster?",
+          "I prefer a medium-sized feather duster."
+        ]
+      ],
+      "product_info": {
+        "num_products": 28,
+        "products_with_scores": [
+          {
+            "id": 79252,
+            "name": "Scrub Daddy Damp Duster, Magical Dust Cleaning Sponge, Duster for Cleaning Venetian & Wooden Blinds, Vents, Radiators, Skirting Boards, Mirrors and Cobwebs, Traps Dust, Grey",
+            "price": 10.49,
+            "average_score": 87.5
+          },
+          {
+            "id": 79245,
+            "name": "TIMIVO Microfiber Duster for Cleaning, Dusters with Telescoping Extension Pole, Extendable Washable Mini Dusters for Cleaning Car, Window, Furniture, Office (Blue and Grey)",
+            "price": 6.99,
+            "average_score": 85.0
+          },
+          {
+            "id": 79463,
+            "name": "Midoneat Gray Ostrich Feather Duster with 71Inch Pole ,Extendable Feather Duster for Home Cleaning",
+            "price": 20.99,
+            "average_score": 79.0
+          },
+          {
+            "id": 78307,
+            "name": "EVERSPROUT 8-to-20 Foot Flexible Microfiber Feather Duster and Extension Pole Combo (25 Foot Reach) | Lightweight, High-Grade Aluminum, 3-Stage Telescopic Pole | Extra Long 24-inch Feather Duster",
+            "price": null,
+            "average_score": 77.5
+          },
+          {
+            "id": 78749,
+            "name": "Swiffer\u00ae Duster Starter Kit, White",
+            "price": null,
+            "average_score": 77.5
+          },
+          {
+            "id": 80045,
+            "name": "SetSail Feather Duster, Fluffy Natural Ostrich Feather Dusters for Cleaning with Wooden Handle Eco-Friendly Feather Duster Cleaning Supplies for Furniture, Car, Collectibles.",
+            "price": null,
+            "average_score": 77.5
+          },
+          {
+            "id": 77479,
+            "name": "Retractable Gap Dust Cleaner Under Appliance Microfiber Duster Dust Brush with Extension Pole (36 to 49 inches) Cleaning Duster for Bed High Ceilings Furniture Bottom Household Gap Duster",
+            "price": 13.59,
+            "average_score": 75.0
+          },
+          {
+            "id": 79029,
+            "name": "Microfiber Duster with 100 Inches Extendable Pole, Detachable & Bendable Feather Duster, Stainless Steel Extra Long Telescopic Dusters with Soft Silicone Cap, Perfect for Cleaning Cobweb",
+            "price": null,
+            "average_score": 72.5
+          },
+          {
+            "id": 77852,
+            "name": "Washable Dusters for Cleaning, Phoenixes Feather Duster Extendable Dusting Wand 11\"-30\", Wet or Dry Use (5 Pcs)",
+            "price": null,
+            "average_score": 67.5
+          },
+          {
+            "id": 77138,
+            "name": "Fercaish 2 Pack Microfiber Duster with Extendable Handle(Stainless Steel) Longest\u00a3\u00a833\"),Washable,Bendable Head,Extendable Duster for Car,Ceiling Fan, Interior Roof, Cobweb, Blinds",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 77673,
+            "name": "WAGIC 31338 Giraffe Reach System Bendable Microfiber Duster",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 78276,
+            "name": "1pc Soft Magic Plastic Feather Duster Anti Static Car Home Window Cleaner 28\"",
+            "price": 8.49,
+            "average_score": 57.5
+          },
+          {
+            "id": 77709,
+            "name": "Casabella Feather Duster Wood Handle, 20\"",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 81820,
+            "name": "Atopov Microfiber Duster for Cleaning with 100-inch Stainless Steel Extension Pole Extendable Duster Collector Head Bendable, Washable, Lint Free Dusters, Roof\uff0cCeiling Fan, Blinds, Cobwebs",
+            "price": 7.98,
+            "average_score": 51.5
+          },
+          {
+            "id": 76799,
+            "name": "Quickie Mfg 406 Light Blue Turkey Feather Duster Dusters, Feather & Lambswool",
+            "price": null,
+            "average_score": 45.0
+          },
+          {
+            "id": 80969,
+            "name": "Retractable Gap Dust Cleaner Brush with Extension Pole (29 to 65 inches), Flexible Gap Microfiber Duster Bendable Extendable Washable, Under Appliance Dusters for Cleaning Bed Sofa Furniture",
+            "price": 16.99,
+            "average_score": 45.0
+          },
+          {
+            "id": 81517,
+            "name": "Swiffer\u00ae 360\u00b0 Duster Refills, Yellow, 6 Refills Per Box, Carton Of 4 Boxes",
+            "price": null,
+            "average_score": 45.0
+          },
+          {
+            "id": 80062,
+            "name": "Retractable Gap Dust Cleaner with 55'' Long Handle, Gap Dust Brush Under Appliance, Washable Microfiber Hand Duster for Household Bed Sofa Furniture Gap, Clean Fur Hair, Wet and Dry",
+            "price": 15.99,
+            "average_score": 42.5
+          },
+          {
+            "id": 81770,
+            "name": "2 Pack Ceiling Fan Duster, Microfiber Duster with Extender Handle (30 to 100 inches) Non-Scratch, Bendable, Lint Free Dusters for Cleaning Ceiling Fan, Blinds, Cobwebs-Green",
+            "price": null,
+            "average_score": 42.5
+          },
+          {
+            "id": 79867,
+            "name": "PASLOOTA Baseboard Cleaner with Long Handle - Convex Design Duster Cleaning Mop Tool for Baseboard, Door Molding, Windows & Ceiling with 6 Reusable Microfiber Mop Pads",
+            "price": null,
+            "average_score": 32.5
+          },
+          {
+            "id": 79992,
+            "name": "Kpoooku Hand Broom Cleaning Brushes- Soft Counter Duster Furniture Dusters Brush with Long Wooden Handle Household Dusting Tool (1",
+            "price": 15.98,
+            "average_score": 32.5
+          },
+          {
+            "id": 81511,
+            "name": "6 Pcs Blinds Cleaner Tool, 2 Pcs 7 Finger Window Venetian Dusting Cleaner Brush 2 Pcs Duster Brushes and 2 Pairs Cleaning Gloves for Air Conditioner Dirt House Plant Car Corner Shutter",
+            "price": 18.99,
+            "average_score": 32.5
+          },
+          {
+            "id": 80066,
+            "name": "Unger PFD7G Proflat Duster 75, Reusable Microfiber, Washable, 30\" Length",
+            "price": 26.49,
+            "average_score": 30.0
+          },
+          {
+            "id": 81048,
+            "name": "Cobweb Duster Head Blue 9\" W/o Handle [Set of 4]",
+            "price": 49.85,
+            "average_score": 25.0
+          },
+          {
+            "id": 80781,
+            "name": "EVERSPROUT Microfiber Ceiling & Fan Duster Replacement Sleeve | Only Works 25'' Ceiling Fan Duster (Actual Sleeve Measures Less Than 25'') | Removable & Machine-Washable",
+            "price": null,
+            "average_score": 22.5
+          },
+          {
+            "id": 81209,
+            "name": "Harper Brush #457-1 Syntheti Counter Duster",
+            "price": null,
+            "average_score": 22.5
+          },
+          {
+            "id": 78336,
+            "name": "Microfiber Cleaning Slippers-1 Pair",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 77759,
+            "name": "3 Pack of Shift Duster Dress - Medium to 3X Available (509) (Pack B, 4XL)",
+            "price": null,
+            "average_score": 5.0
+          }
+        ]
+      }
+    },
+    {
+      "episode": 2,
+      "category": "Decorative Clear Stamps",
+      "persona_index": 26089,
+      "episode_in_category": 1,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 20554,
+        "chosen_score": 5.0,
+        "best_product_id": 18532,
+        "best_score": 72.5,
+        "regret": 67.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 1,
+        "feedback": "Recommendation rating: 1 out of 5 stars (best possible: 5 stars)",
+        "feedback_type": "star_rating"
+      },
+      "full_dialog": [
+        [
+          "Do you have a budget in mind for the decorative clear stamps?",
+          "Yes, around $20."
+        ]
+      ],
+      "product_info": {
+        "num_products": 69,
+        "products_with_scores": [
+          {
+            "id": 18532,
+            "name": "Stamp Simply Clear Stamps O Xmas Tree and Wonder of Christmas Sentiments (2-Pack) 4x6 Inch Sheets - 18 Pieces",
+            "price": 41.99,
+            "average_score": 72.5
+          },
+          {
+            "id": 18700,
+            "name": "YULEKITO Magical Angel Clear Stamps for Card Making Decoration DIY Scrapbooking",
+            "price": 6.99,
+            "average_score": 70.0
+          },
+          {
+            "id": 18151,
+            "name": "Thankful Tree Leaves Heart Flowers Clear Stamps for Card Making Decoration DIY Scrapbooking, Thanks Sentiment Valentines Transparent Rubber Seal Stamps for Photo Card Album Crafting Supplies.",
+            "price": 6.99,
+            "average_score": 67.5
+          },
+          {
+            "id": 18012,
+            "name": "KWELLAM Words Happy Birthday to you Merry Christmas Seasons Happy Holidays Clear Stamps for Card Making Decoration and DIY Scrapbooking",
+            "price": 6.99,
+            "average_score": 60.0
+          },
+          {
+            "id": 18297,
+            "name": "Crazy Sentiment Stamps for Card-Making and Scrapbooking Supplies by The Stamps of Life - Encouragement-Fun-Friends - Crazy4Life",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 22158,
+            "name": "Merry Christmas Stars Blessing Words Clear Rubber Stamps for Card Making and Scrapbooking Christmas Silicone Stamps (T1600)",
+            "price": 6.29,
+            "average_score": 57.5
+          },
+          {
+            "id": 21408,
+            "name": "Hero Arts Merry Christmas Message Clear Stamps",
+            "price": 24.99,
+            "average_score": 52.5
+          },
+          {
+            "id": 22097,
+            "name": "6 Sheets Christmas Clear Silicone Stamps Decorative Xmas Theme Santa Deer Winter Wonderland Scrapbooking Stamps for Card Making DIY Photo Album (Assorted Style)",
+            "price": 14.99,
+            "average_score": 50.0
+          },
+          {
+            "id": 18758,
+            "name": "Avery Elle - Caroling Critters Clear Stamps and Dies Set - 2 item bundle",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 22166,
+            "name": "Christmas Penguin Clear Stamps for Card Making Decorative Xmas Theme Winter Blessing Words Penguin \u200bClear Rubber Scrapbooking Stamps with Sentiment for Card Making DIY Photo Album",
+            "price": 6.99,
+            "average_score": 47.5
+          },
+          {
+            "id": 18659,
+            "name": "Simon Hurley Supermom SIMN Hurley Stamps",
+            "price": 24.99,
+            "average_score": 45.0
+          },
+          {
+            "id": 19034,
+            "name": "MaGuo Vintage Typewriter Pen and Ink Envolope Clear Stamps for Card Making Decoration and DIY Scrapbooking",
+            "price": 6.99,
+            "average_score": 45.0
+          },
+          {
+            "id": 19209,
+            "name": "Penny Black PB30020 Clear Stamp Set, Hugs",
+            "price": 15.79,
+            "average_score": 45.0
+          },
+          {
+            "id": 19306,
+            "name": "Penny Black PB30044 Clear Stamp Set, in The Garden",
+            "price": 18.0,
+            "average_score": 45.0
+          },
+          {
+            "id": 21222,
+            "name": "Lavinia Stamps - Christmas Eve (LAV020)",
+            "price": 11.88,
+            "average_score": 45.0
+          },
+          {
+            "id": 21679,
+            "name": "Welcome to Joyful Home 1pc Flower Rabbit Butterfly Happy Easter Rubber Clear Stamp for Card Making Decoration and Scrapbooking",
+            "price": 4.28,
+            "average_score": 42.5
+          },
+          {
+            "id": 19055,
+            "name": "Hero Arts PolyClear Stamps Best Wishes",
+            "price": 14.25,
+            "average_score": 40.0
+          },
+          {
+            "id": 22237,
+            "name": "Woodware Clear Stamps 4\"X6\"-Singles Garden Spray -JGS757",
+            "price": 10.19,
+            "average_score": 40.0
+          },
+          {
+            "id": 18579,
+            "name": "Lawn Fawn Clear Stamps LF1602 Slow Down & Enjoy",
+            "price": 16.49,
+            "average_score": 37.5
+          },
+          {
+            "id": 18773,
+            "name": "Funny Sayings for Women Stamps for Card-Making and Scrapbooking Supplies by The Stamps of Life - Humor4Women Sentiments Phrases",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 18968,
+            "name": "LZBRDY 5.9 by 8.3 Inch Feather Flower Wreath Stamp and Die Set for Card Making and Scrapbooking Thinking of You with Love Words Clear Stamps and Dies",
+            "price": 14.99,
+            "average_score": 37.5
+          },
+          {
+            "id": 19028,
+            "name": "LAWN FAWN Clear Stamps 4\"X6\" Christmas Dreams (LF1466) (\u041en\u0435 \u0420\u0430\u0441k)",
+            "price": 15.25,
+            "average_score": 37.5
+          },
+          {
+            "id": 21686,
+            "name": "Birds of Prey (7\"x10\") Clear Stamps Large Sheet/Retro, Vintage, Owl, Falcon, Eagle",
+            "price": 28.99,
+            "average_score": 37.5
+          },
+          {
+            "id": 18174,
+            "name": "Fiskars 3x6 Inch Clear Stamp, All That Glitters",
+            "price": 7.75,
+            "average_score": 35.0
+          },
+          {
+            "id": 22084,
+            "name": "LZBRDY 5.9 by 8.3 Inch Musical Notes Violin Leaves Clear Rubber Stamps for Scrapbooking Card Making Christmas Valentine's Day Birthday Craft Silicone Stamps",
+            "price": 7.99,
+            "average_score": 35.0
+          },
+          {
+            "id": 18716,
+            "name": "My-Besties Clear Stamps 4\"X6\"-Little Mermaid Girl",
+            "price": 24.0,
+            "average_score": 32.5
+          },
+          {
+            "id": 19786,
+            "name": "Walnut Hollow HotStamps Uppercase Alphabet Set for Branding and Personalization of Wood, Leather, and Other Surfaces",
+            "price": 17.13,
+            "average_score": 32.5
+          },
+          {
+            "id": 21231,
+            "name": "Bestie Best Friends Girls Party English sentiments Stamp Rubber Clear Stamp/Seal Scrapbook/Photo Album Decorative Card Making Clear Stamps-A1437",
+            "price": 7.93,
+            "average_score": 32.5
+          },
+          {
+            "id": 21299,
+            "name": "Welcome to Joyful Home 1pc Ticket Background Rubber Clear Stamp for Card Making Decoration and Scrapbooking15.5x21.5cm",
+            "price": 7.99,
+            "average_score": 32.5
+          },
+          {
+            "id": 21420,
+            "name": "Paper Smooches Lovely Thoughts Stamps, 4 by 6\", Clear",
+            "price": null,
+            "average_score": 32.5
+          },
+          {
+            "id": 20227,
+            "name": "Tim Holtz Collection Stamper's Anonymous Tim Holtz Doodle Dots & Stitches Mixed Media Stamp and Stencil Set THMM114",
+            "price": 16.95,
+            "average_score": 30.0
+          },
+          {
+            "id": 20383,
+            "name": "Acrylic Stamping Blocks Tools Set, BENBO 5 Pieces Assorted Sizes Clear Stamp Blocks with Grid Lines and 1 Sheet Clear Silicone Seal Stamps for Scrapbooking Crafts Card Making",
+            "price": 13.99,
+            "average_score": 30.0
+          },
+          {
+            "id": 20452,
+            "name": "Adhesive Sheets Long (10 Pack) for Card-Making and Scrapbooking Supplies by The Stamps of Life",
+            "price": 9.75,
+            "average_score": 30.0
+          },
+          {
+            "id": 21599,
+            "name": "Card-io Clear Stamps, Polymer A6",
+            "price": 17.06,
+            "average_score": 30.0
+          },
+          {
+            "id": 21839,
+            "name": "Avery Elle Stamp Set, 4-Inch by 3-Inch, Texture Tiles be Cute, Clear",
+            "price": null,
+            "average_score": 30.0
+          },
+          {
+            "id": 18655,
+            "name": "Harriet Tubman 1/2\u201d Thick Clear Acrylic Block Stamp",
+            "price": 14.95,
+            "average_score": 27.5
+          },
+          {
+            "id": 19069,
+            "name": "Kwan Crafts 2 Sheets Different Style Wood Grain Crack Grid Background Clear Stamps for Card Making Decoration and DIY Scrapbooking",
+            "price": 9.99,
+            "average_score": 27.5
+          },
+          {
+            "id": 19349,
+            "name": "Lawn Fawn Coloring Mini Sets - One in A Chameleon and Color My World - Stamps and Dies - 4 Items",
+            "price": 20.0,
+            "average_score": 27.5
+          },
+          {
+            "id": 19497,
+            "name": "ORIGACH Sentiments Words Clear Stamps Silicone Transparent Stamps for Card Making Decoration and DIY Scrapbooking",
+            "price": 6.49,
+            "average_score": 27.5
+          },
+          {
+            "id": 20199,
+            "name": "Pumpkin Pine Cones Clear Stamps for Card Making, Mushroom Apple Leave Birds Blessing Words Clear Rubber Stamps Silicone Reusable Stamp for DIY Scrapbooking Paper Craft Album Decoration",
+            "price": 6.99,
+            "average_score": 27.5
+          },
+          {
+            "id": 20745,
+            "name": "Ranger Ink Letter It Clear Stamp Set 4 x 6 inches Rejoice 1-Pack Bundled with 1 Artsiga Crafts Small Project Bag",
+            "price": 12.89,
+            "average_score": 27.5
+          },
+          {
+            "id": 22133,
+            "name": "Memorial Day Patriotic Clear Stamps for Card Making, Fireworks Patriotic Stamps Transparent Rubber Stamps for Veterans Day Independence Day Paper Card Photo Album Decoration Scrapbooking Supplies",
+            "price": 4.89,
+            "average_score": 27.5
+          },
+          {
+            "id": 22149,
+            "name": "Lighthouse GRANDE 2S Stamp Stock Pages- 5 Pages",
+            "price": 12.92,
+            "average_score": 27.5
+          },
+          {
+            "id": 19118,
+            "name": "Prima Marketing Julie Nutting Planner Bundle - Fall 2016 (Stamps Only)",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 19140,
+            "name": "Avery Elle - Cake for All - Clear Stamps and Dies Set",
+            "price": 31.98,
+            "average_score": 25.0
+          },
+          {
+            "id": 19320,
+            "name": "Concord & 9th Hi There Bear Clear Stamps 6\"X8\"",
+            "price": 39.61,
+            "average_score": 25.0
+          },
+          {
+            "id": 20498,
+            "name": "arriettycraft Father's Day Bear Happy Birthday Hat Tie Clear Stamps for Cards Making Decoration Clear Stamps or Scrapbooking Paper Craft Tools",
+            "price": 7.94,
+            "average_score": 25.0
+          },
+          {
+            "id": 19758,
+            "name": "LANGFON Retro Style Ocean Waves Background Clear Stamps for Card Making Decoration DIY Scrapbooking, Sea Waves Background Silicone Transparent Seal Stamps for Embossing Album Decor Craft.",
+            "price": 6.99,
+            "average_score": 22.5
+          },
+          {
+            "id": 21175,
+            "name": "Postage Stamps for Card-Making and Scrapbooking Supplies by The Stamps of Life - Phrases and Sentiments",
+            "price": 14.89,
+            "average_score": 22.5
+          },
+          {
+            "id": 21759,
+            "name": "Stampendous Frog Yoga Perfectly Clear Stamp Set",
+            "price": 16.83,
+            "average_score": 22.5
+          },
+          {
+            "id": 18197,
+            "name": "CIEHER 4 Pieces Stamp Blocks with Grid Lines Acrylic Clear Stamping Blocks, Essential Stamping Tools for Scrapbooking Crafts Making",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 19839,
+            "name": "Lavinia Stamps - Josie",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 20013,
+            "name": "Birthday Sentiment Stamps for Card-Making and Scrapbooking Supplies by The Stamps of Life - Birthday Dog - Birthday4Cookie",
+            "price": 14.89,
+            "average_score": 20.0
+          },
+          {
+            "id": 20338,
+            "name": "Kwan Crafts Words Letters Happy Birthday Let Us Eat Cake Clear Stamps for Card Making Decoration and DIY Scrapbooking",
+            "price": 7.68,
+            "average_score": 20.0
+          },
+          {
+            "id": 20999,
+            "name": "Kind Cosmo Clear Stamps | Photopolymer Stamps - Clear Rubber Stamps | Flowers Rubber Stamps | Stamps for Card Making",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 22076,
+            "name": "MSE Stamp Sheet, 4 by 6-Inch, Sympathy, Clear",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 18609,
+            "name": "Technique Tuesday DIY Dies, Circles, 1-Inch to 2.5-Inch",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 19684,
+            "name": "Sizzix 661998 Happy Easter Clear Stamps",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 20304,
+            "name": "Stampendous Laurel Burch Stamp Mini Clear Set",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 20761,
+            "name": "MaGuo Slim Sentiments Clear Stamps All Occasion Just for You for Card Making Decoration and DIY Scrapbooking",
+            "price": 1.72,
+            "average_score": 17.5
+          },
+          {
+            "id": 21611,
+            "name": "Garding Tools Ladder Gloves Scissors Shovel Dies and Stamps Sets for Card Making DIY Scrapbooking Thanks for Heping Me Grow Birthday Wishes Words Transparent Silicone Seal Stamps for Paper Crafting",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 20511,
+            "name": "Paper Smooches Clear Stamps 4\"X6\", Slang Gang",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 18541,
+            "name": "Water Wave Night Light Projector, KINGWILL Waterproof LED Projector Lamp with Ripple RGB 46D Water Effect, Remote Control Holiday Projector for Christmas Halloween Wedding Party Holiday Disco",
+            "price": null,
+            "average_score": 12.5
+          },
+          {
+            "id": 19804,
+            "name": "Layers tulips Transparent clear stamp for DIY Scrapbooking Card making/photo Album decoration",
+            "price": null,
+            "average_score": 12.5
+          },
+          {
+            "id": 20314,
+            "name": "Numbers Stamps for Card-Making and Scrapbooking Supplies by The Stamps of Life - Numbers4Train ABC",
+            "price": null,
+            "average_score": 12.5
+          },
+          {
+            "id": 20548,
+            "name": "Illustrated Faith - Clear Stamps - Bright and Brave",
+            "price": 25.99,
+            "average_score": 12.5
+          },
+          {
+            "id": 19915,
+            "name": "My-Besties Clear Stamps 4\"X6\"-Little Sailor Girl",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 20654,
+            "name": "Camera House Love Scrapbook DIY Photo Cards Account Rubber Stamp Clear Stamp Transparent Stamp 10x10cm KW610908 LDCRE",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 20554,
+            "name": "WPA Posters book of 20 Forever USPS Postage Stamp Work Projects Administration (5 books of 20 stamps)",
+            "price": 145.95,
+            "average_score": 5.0
+          }
+        ]
+      }
+    },
+    {
+      "episode": 3,
+      "category": "Fabric Dyes",
+      "persona_index": 26089,
+      "episode_in_category": 1,
+      "steps": 3,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 21311,
+        "chosen_score": 32.5,
+        "best_product_id": 21247,
+        "best_score": 62.5,
+        "regret": 30.0,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 2,
+        "feedback": "Recommendation rating: 3 out of 5 stars (best possible: 5 stars)",
+        "feedback_type": "star_rating"
+      },
+      "full_dialog": [
+        [
+          "Do you have a budget in mind for the fabric dye?",
+          "Yes, around $20."
+        ],
+        [
+          "Do you prefer a specific brand or color for the fabric dye?",
+          "I prefer Rit dye in a deep blue color."
+        ]
+      ],
+      "product_info": {
+        "num_products": 23,
+        "products_with_scores": [
+          {
+            "id": 21247,
+            "name": "Tie Dye Kit, 8 Colors 16 Dye Packets for Tie Dye Kit for Kids,AIPASA One-Step Tie Dye Set, Textile, T-Shirt, Canvas Supplies for Adults, Women, Men, Artist, Children, Party, Festival Fashion DIY Gift",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 21987,
+            "name": "Tulip Fabric Dye Kits 31672 Fdy Med Psychedelic, 4 Fluid Ounces, As Detailed",
+            "price": 12.02,
+            "average_score": 52.5
+          },
+          {
+            "id": 21564,
+            "name": "Rit Purpose Liquid Dye, 236ml, Denim Blue",
+            "price": 7.99,
+            "average_score": 47.5
+          },
+          {
+            "id": 21255,
+            "name": "Jacquard iDye Poly Fabric Dye 14g-Yellow",
+            "price": 6.93,
+            "average_score": 42.5
+          },
+          {
+            "id": 22037,
+            "name": "Jacquard iDye for Natural Fabrics .49 Oz - Deep Orange",
+            "price": 6.01,
+            "average_score": 42.5
+          },
+          {
+            "id": 21742,
+            "name": "Magic River Handcrafted Tie Dye T Shirts - 6 Adult Sizes - 20 Color Patterns",
+            "price": 20.0,
+            "average_score": 40.0
+          },
+          {
+            "id": 20678,
+            "name": "162 Pieces Tie Dye DIY Kit, Rubber Bands Sealed Bags Plastic Gloves Disposable Aprons Plastic Tablecloth Tie-dye line for Dying Shirts Fabrics Tie-Dye Project",
+            "price": null,
+            "average_score": 32.5
+          },
+          {
+            "id": 20689,
+            "name": "Dylon 87079 Permanent Fabric Dye, Bahama Blue, 1.75-Ounce",
+            "price": null,
+            "average_score": 32.5
+          },
+          {
+            "id": 21311,
+            "name": "Dylon Washing Fabric Clothes Soft Furnishings 350 G Machine Dye Pod Deep Violet 350g, 1 Count (Pack of 1), 12 Ounce",
+            "price": 17.34,
+            "average_score": 32.5
+          },
+          {
+            "id": 19875,
+            "name": "Sntieecr 68 Pieces DIY Tie Dye Kit, T-Shirt Fabrics Tie-dye Kits for Kids Adult Party Group, Including Rubber Bands, Plastic Gloves, Sealed Bags and Plastic Tablecloth",
+            "price": null,
+            "average_score": 30.0
+          },
+          {
+            "id": 19714,
+            "name": "RIT Dye Wide Selection of Colors with Color Fixative",
+            "price": 19.99,
+            "average_score": 27.5
+          },
+          {
+            "id": 20249,
+            "name": "FunkyFish Tie Dye T-Shirt Kit with 3 Dyes, Includes White Kid Size Tshirt and All You Need for DIY Activity, Easy to Use",
+            "price": null,
+            "average_score": 27.5
+          },
+          {
+            "id": 19554,
+            "name": "Create Basics Tie Dye Kit, 47 Piece",
+            "price": 14.95,
+            "average_score": 25.0
+          },
+          {
+            "id": 18209,
+            "name": "Jacquard Acid Dye - Pink - 1/2 Oz Net Wt - Acid Dye for Wool - Silk - Feathers - and Nylons - Brilliant Colorfast and Highly Concentrated",
+            "price": 6.23,
+            "average_score": 22.5
+          },
+          {
+            "id": 18091,
+            "name": "Jacquard Silk Salt",
+            "price": 10.32,
+            "average_score": 20.0
+          },
+          {
+            "id": 18319,
+            "name": "Jacquard Products Silk Colors Dyes, 2-Ounce, Viridian Green",
+            "price": 3.94,
+            "average_score": 20.0
+          },
+          {
+            "id": 19029,
+            "name": "Jacquard Idye Natural Fabric: Aztec Gold",
+            "price": 7.02,
+            "average_score": 20.0
+          },
+          {
+            "id": 19711,
+            "name": "Jacquard Textile Color Exciter Pack 9 Colors",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 20106,
+            "name": "Pack of 2 Rit Dye Laundry Treatment Color Remover",
+            "price": 7.33,
+            "average_score": 15.0
+          },
+          {
+            "id": 19365,
+            "name": "Procion Mx Dye Bright Blue 8oz",
+            "price": 50.23,
+            "average_score": 12.5
+          },
+          {
+            "id": 20064,
+            "name": "Pebeo Setacolor Opaque Fabric Paint 45-Milliliter Bottle, Spring Green",
+            "price": 16.0,
+            "average_score": 12.5
+          },
+          {
+            "id": 20627,
+            "name": "Rit Dye Powder-Tan",
+            "price": null,
+            "average_score": 12.5
+          },
+          {
+            "id": 19702,
+            "name": "Dylon Fabric Dye, 50i, Ocean Blue",
+            "price": null,
+            "average_score": 10.0
+          }
+        ]
+      }
+    }
+  ]
+}

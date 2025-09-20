@@ -161,10 +161,8 @@ class RecoEnv(gym.Env):
             chosen_score = next((score for pid, score in self.oracle_scores if pid == chosen_product_id), 0.0)
             best_id, best_score = self.oracle_scores[0] if self.oracle_scores else (chosen_product_id, chosen_score)
             
-            # Compute reward
+            # Calculate regret for feedback (no reward system)
             regret = max(0.0, best_score - chosen_score)
-            score_reward = chosen_score / 100.0  # Normalize to [0,1]
-            regret_reward = -regret / 100.0  # Negative regret reward
             
             # Get chosen product information
             chosen_product = next((p for p in self.products if p["id"] == chosen_product_id), None)
@@ -179,8 +177,8 @@ class RecoEnv(gym.Env):
                 category=self.current_category
             )
             
-            # Final reward does not include budget-based efficiency bonus
-            reward = score_reward
+            # No reward system - agent motivated only by prompts
+            reward = 0.0
             
             terminated = True
             truncated = False
@@ -195,8 +193,6 @@ class RecoEnv(gym.Env):
                 "top1": chosen_product_id == best_id,
                 "top3": chosen_product_id in [pid for pid, _ in self.oracle_scores[:3]],
                 "questions_asked": len(self.dialog_history),
-                "score_reward": score_reward,
-                "regret_reward": regret_reward,
                 "feedback": feedback,
                 "feedback_type": self.feedback_system.get_feedback_type()
             }
@@ -207,13 +203,11 @@ class RecoEnv(gym.Env):
                 obs[key].fill(0)
             
         elif action == num_products:
-            # Ask question action
             if self.questions_remaining <= 0:
-                # No questions left - small penalty
-                reward = -0.1
+                reward = 0.0
                 terminated = False
-                truncated = True
-                info = {"action_type": "no_questions_left"}
+                truncated = False  
+                info = {"action_type": "force_recommendation", "message": "No more questions allowed, must recommend now"}
             else:
                 # Extract question from agent's last response
                 if self.agent and hasattr(self.agent, 'last_response') and self.agent.last_response:
@@ -236,10 +230,9 @@ class RecoEnv(gym.Env):
                 self.dialog_history.append((question_text, answer))
                 self.questions_remaining -= 1
                 
-                # Small step penalty to encourage efficiency
-                reward = -0.01
+                reward = 0.0
                 terminated = False
-                truncated = (self.questions_remaining <= 0)
+                truncated = False  # Don't truncate immediately, let agent make recommendation next
                 
                 info = {
                     "action_type": "ask",
@@ -251,8 +244,7 @@ class RecoEnv(gym.Env):
             obs = self._build_observation()
         
         else:
-            # Invalid action
-            reward = -0.1
+            reward = 0.0
             terminated = False
             truncated = False
             info = {"action_type": "invalid", "action": action}

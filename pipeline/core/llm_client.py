@@ -157,6 +157,9 @@ def _openai_chat_completion(
             "messages": messages,
             "temperature": temperature,
         }
+        
+        if not model.startswith("gpt-5"):
+            kwargs["temperature"] = temperature
         if json_mode:
             kwargs["response_format"] = {"type": "json_object"}
         
@@ -314,7 +317,17 @@ def _claude_chat_completion(
             system=system_blocks,
             messages=claude_messages,
             temperature=temperature,
+            max_tokens=max_tokens,
+            stream=True,
         )
-        return (resp.content[0].text or "").strip()
+        
+        # Collect streaming response
+        response_text = ""
+        for chunk in resp:
+            if chunk.type == "content_block_delta":
+                if chunk.delta.type == "text_delta":
+                    response_text += chunk.delta.text
+        
+        return response_text.strip()
     
     return _retry_with_backoff(_make_request, max_retries=5, base_delay=1.0, max_delay=60.0)

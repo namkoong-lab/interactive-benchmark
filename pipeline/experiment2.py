@@ -1,20 +1,6 @@
 #!/usr/bin/env python3
 """
-Experiment 2: Cross-User Learning with Same Category.
-
-This experiment tests whether an LLM can learn optimal questioning strategies 
-that work across different user personas within the same product category.
-
-Key questions:
-1. Can the LLM learn optimal questioning strategies for a category across different users?
-2. Do questioning strategies improve as the agent experiences more diverse users?
-3. Are there consistent questioning patterns that work well for a category regardless of user?
-4. Do we need to set particular user groups with consistent preferences?
-
-Setup: Different user personas, same category tested sequentially.
-Hypothesis: Agent should learn category-specific questioning strategies that 
-work across diverse user types (e.g., price-focused questions for electronics, 
-style questions for clothing).
+Experiment 2: Cross-User Learning with Same Category
 """
 
 import gymnasium as gym
@@ -69,7 +55,70 @@ class LLMAgentExperiment2:
         if hasattr(self, 'current_env') and self.current_env and hasattr(self.current_env, 'dialog_history'):
             dialog_history = self.current_env.dialog_history
         
+        # Force recommendation if max_questions have been asked
+        if len(dialog_history) >= self.max_questions:
+            # Force the agent to recommend a product by calling LLM with a prompt that encourages recommendation
+            return self._force_recommendation(obs, info, dialog_history, category, num_products, current_persona)
+        
         return self._llm_decide_action(obs, info, dialog_history, category, num_products, current_persona)
+    
+    def _force_recommendation(self, obs: Dict[str, np.ndarray], info: Dict[str, Any], 
+                             dialog_history: List[Tuple[str, str]], category: str, num_products: int, current_persona: int = None) -> int:
+        """Force the agent to make a recommendation by prompting it to do so without revealing the limit."""
+        products = self._get_product_info(obs, info, num_products)
+        context = self._build_llm_context(products, dialog_history, category)
+        
+        # Add previous episode context
+        strategy_context = self._build_episode_context()
+        
+        base_prompt = f"""You are a product recommendation agent learning optimal questioning strategies for {category} products.
+
+Context:
+{context}
+
+{strategy_context}
+
+Task:
+Based on the extensive conversation so far, you now have sufficient information to make a recommendation. Choose the best product for the customer.
+
+Output format (MUST be exactly one line, no extra text):
+RECOMMEND: <number 0-{num_products-1}>
+
+Rules:
+- You must make a recommendation now
+- Choose the product that best matches the customer's expressed preferences
+- Do not ask any more questions
+- No explanations, just the recommendation
+"""
+
+        # Apply prompting tricks if enabled
+        unified_prompt = self._apply_prompting_tricks(base_prompt)
+
+        try:
+            response = chat_completion(
+                messages=[{"role": "user", "content": unified_prompt}],
+                model=self.model,
+                temperature=0.2,
+                max_tokens=32000
+            )
+            
+            self.last_response = response
+            
+            # Parse recommendation
+            if "RECOMMEND:" in response:
+                try:
+                    product_idx = int(response.split("RECOMMEND:")[-1].strip())
+                    if 0 <= product_idx < num_products:
+                        return product_idx
+                except (ValueError, IndexError):
+                    pass
+            
+            # Fallback: return first product if parsing fails
+            return 0
+            
+        except Exception as e:
+            print(f"Error in forced recommendation: {e}")
+            return 0
     
     def _llm_decide_action(self, obs: Dict[str, np.ndarray], info: Dict[str, Any], 
                           dialog_history: List[Tuple[str, str]], category: str, num_products: int, current_persona: int = None) -> int:
@@ -112,7 +161,7 @@ Rules:
                 messages=[{"role": "user", "content": unified_prompt}],
                 model=self.model,
                 temperature=0.2,
-                max_tokens=400
+                max_tokens=32000
             )
             
             self.last_response = response.strip()
@@ -317,7 +366,7 @@ Write only the summary, no additional commentary:"""
                 messages=[{"role": "user", "content": summary_prompt}],
                 model=self.model,
                 temperature=0.3,
-                max_tokens=200
+                max_tokens=32000
             )
             return response.strip()
         except Exception as e:
@@ -504,8 +553,6 @@ def run_experiment2(category: str = "Electronics",
             print(f"Error checking category relevance: {e}")
             return False
     
-    # Optional: Check if the specified category is relevant to a sample of personas
-    # (This is just informational - we'll check each persona individually during the experiment)
     sample_relevance = check_category_relevance(category)
     if not sample_relevance:
         print(f"Note: Category '{category}' may not be relevant to many personas.")
