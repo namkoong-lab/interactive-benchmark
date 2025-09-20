@@ -36,11 +36,14 @@ class LLMAgentExperiment2:
     dialog + feedback from previous episodes across different personas.
     """
     
-    def __init__(self, model: str = "gpt-4o", max_questions: int = 8):
+    def __init__(self, model: str = "gpt-4o", max_questions: int = 8, context_mode: str = "raw", prompting_tricks: str = "none"):
         self.model = model
         self.max_questions = max_questions
+        self.context_mode = context_mode  # Options: "raw", "summary", "none"
+        self.prompting_tricks = prompting_tricks  # Options: "none", "all"
         self.episode_count = 0
-        self.episode_history = []  # Simple list of episode context
+        self.episode_history = []  
+        self.episode_summaries = [] 
         self.current_episode_info = None
         self.last_response = None
         
@@ -77,7 +80,7 @@ class LLMAgentExperiment2:
         # Add previous episode context
         strategy_context = self._build_episode_context()
         
-        unified_prompt = f"""You are a product recommendation agent learning optimal questioning strategies for {category} products.
+        base_prompt = f"""You are a product recommendation agent learning optimal questioning strategies for {category} products.
 
 Context:
 {context}
@@ -100,6 +103,9 @@ Rules:
 - Consider what types of questions have worked well for this category before
 - No meta commentary, only the question or recommendation
 """
+
+        # Apply prompting tricks if enabled
+        unified_prompt = self._apply_prompting_tricks(base_prompt)
 
         try:
             response = chat_completion(
@@ -178,37 +184,79 @@ Rules:
     
     def _build_episode_context(self) -> str:
         """Build context string from previous episodes."""
-        if not self.episode_history:
+        if self.context_mode == "none" or not self.episode_history:
             return ""
         
         context_parts = ["Previous episodes:"]
         
-        # Show last 3 episodes for context
-        for episode_data in self.episode_history[-3:]:
-            episode_num = episode_data.get('episode', 0)
-            category = episode_data.get('category', 'unknown')
-            persona = episode_data.get('persona', 'unknown')
-            dialog = episode_data.get('dialog', [])
-            feedback = episode_data.get('feedback', '')
-            
-            context_parts.append(f"Episode {episode_num}: [{category}/Persona {persona}]")
-            
-            # Add dialog
-            if dialog:
-                for i, (question, answer) in enumerate(dialog):
-                    context_parts.append(f"  Q{i+1}: {question}")
-                    context_parts.append(f"  A{i+1}: {answer}")
-            
-            # Add feedback
-            if feedback:
-                context_parts.append(f"  Feedback: {feedback}")
-            
-            context_parts.append("")  # Empty line for readability
+        # Choose context mode
+        if self.context_mode == "summary" and self.episode_summaries:
+            # Show last 3 summaries for context
+            for i, summary in enumerate(self.episode_summaries[-3:]):
+                episode_num = len(self.episode_summaries) - 3 + i + 1
+                context_parts.append(f"Episode {episode_num} Summary:")
+                context_parts.append(f"  {summary}")
+                context_parts.append("")  # Empty line for readability
+        elif self.context_mode == "raw":
+            # Show last 3 episodes for context (original behavior)
+            for episode_data in self.episode_history[-3:]:
+                episode_num = episode_data.get('episode', 0)
+                category = episode_data.get('category', 'unknown')
+                persona = episode_data.get('persona', 'unknown')
+                dialog = episode_data.get('dialog', [])
+                selected_product_id = episode_data.get('selected_product_id', None)
+                feedback = episode_data.get('feedback', '')
+                
+                context_parts.append(f"Episode {episode_num}: [{category}/Persona {persona}]")
+                
+                # Add dialog
+                if dialog:
+                    for i, (question, answer) in enumerate(dialog):
+                        context_parts.append(f"  Q{i+1}: {question}")
+                        context_parts.append(f"  A{i+1}: {answer}")
+                
+                # Add selected product
+                if selected_product_id is not None:
+                    context_parts.append(f"  Selected Product: {selected_product_id}")
+                
+                # Add feedback
+                if feedback:
+                    context_parts.append(f"  Feedback: {feedback}")
+                
+                context_parts.append("")  # Empty line for readability
+        # If context_mode is "summary" but no summaries available, fall back to raw
         
         return "\n".join(context_parts)
     
+    def _apply_prompting_tricks(self, base_prompt: str) -> str:
+        """Apply prompting tricks to enhance the base prompt."""
+        if self.prompting_tricks == "none":
+            return base_prompt
+        
+        elif self.prompting_tricks == "all":
+            return f"""{base_prompt}
+
+Let me think through this systematically:
+- Customer preferences: [analyze what I know]
+- Available products: [analyze the options]
+- Best match: [reason about the best choice]
+- Decision: [decide whether to ask or recommend]
+
+Let's reason step by step:
+1. What do I know about the customer so far?
+2. What information am I still missing?
+3. Based on this reasoning, what should I do next?
+
+Before making your decision, think again: What are you unsure about regarding this customer? What questions should you ask next? Consider what additional information would help you make a better recommendation.
+
+Think through each step carefully before responding."""
+        
+        else:
+            # Unknown prompting trick, return original prompt
+            return base_prompt
+    
     def update_strategies(self, episode_result: Dict[str, Any]):
-        """Store episode context: dialog + feedback."""
+        """Store episode context: dialog + selected product + feedback."""
         self.episode_count += 1
         
         if 'final_info' in episode_result:
@@ -216,17 +264,65 @@ Rules:
             persona_index = episode_result.get('persona_index', None)
             feedback = episode_result['final_info'].get('feedback', '')
             full_dialog = episode_result.get('full_dialog', [])
+            chosen_product_id = episode_result['final_info'].get('chosen_product_id', None)
             
-            # Store simple episode context
+            # Store episode context with selected product
             episode_data = {
                 'episode': self.episode_count,
                 'category': category,
                 'persona': persona_index,
                 'dialog': full_dialog,
+                'selected_product_id': chosen_product_id,
                 'feedback': feedback
             }
             
             self.episode_history.append(episode_data)
+            
+            # Generate episode summary if context mode is "summary"
+            if self.context_mode == "summary":
+                summary = self._generate_episode_summary(episode_data)
+                self.episode_summaries.append(summary)
+    
+    def _generate_episode_summary(self, episode_data: Dict[str, Any]) -> str:
+        """Generate a summary of the episode that the agent wants to remember for future episodes."""
+        episode_num = episode_data.get('episode', 0)
+        category = episode_data.get('category', 'unknown')
+        persona = episode_data.get('persona', 'unknown')
+        dialog = episode_data.get('dialog', [])
+        selected_product_id = episode_data.get('selected_product_id', None)
+        feedback = episode_data.get('feedback', '')
+        
+        # Build episode context for summary
+        dialog_text = ""
+        if dialog:
+            for i, (question, answer) in enumerate(dialog):
+                dialog_text += f"Q{i+1}: {question}\nA{i+1}: {answer}\n"
+        
+        summary_prompt = f"""You just completed Episode {episode_num} in the {category} category for Persona {persona}.
+
+Episode Details:
+{dialog_text}
+Selected Product: {selected_product_id}
+Feedback: {feedback}
+
+Your task is to provide the context from this episode that you would want a future agent to know. Focus on:
+- What worked or didn't work in your approach
+- Key insights about user preferences or product selection
+- Any patterns you noticed that could help in similar situations
+
+Write only the summary, no additional commentary:"""
+
+        try:
+            response = chat_completion(
+                messages=[{"role": "user", "content": summary_prompt}],
+                model=self.model,
+                temperature=0.3,
+                max_tokens=200
+            )
+            return response.strip()
+        except Exception as e:
+            print(f"Error generating episode summary: {e}")
+            return f"Episode {episode_num} completed in {category} category for Persona {persona}."
     
 
 
@@ -298,7 +394,9 @@ def run_experiment2(category: str = "Electronics",
                    min_score_threshold: float = 50.0,
                    output_dir: str = "experiment2_results",
                    seed: Optional[int] = None,
-                   checkpoint_file: str = None):
+                   checkpoint_file: str = None,
+                   context_mode: str = "raw",
+                   prompting_tricks: str = "none"):
     """
     Run Experiment 2: LLM learning questioning strategies across users in same category.
     
@@ -309,11 +407,13 @@ def run_experiment2(category: str = "Electronics",
         episodes_per_persona: Number of episodes per persona
         max_questions: Maximum questions per episode
         model: LLM model to use
-        feedback_type: Type of feedback to provide ("none", "regret", "persona")
+        feedback_type: Type of feedback to provide ("none", "regret", "persona", "star_rating")
         min_score_threshold: Minimum score threshold for category relevance (default: 50.0)
         output_dir: Directory to save results
         seed: Random seed for reproducible persona selection (None = no seeding)
         checkpoint_file: Optional checkpoint file to resume from
+        context_mode: How to carry context between episodes ("raw", "summary", "none") (default: "raw")
+        prompting_tricks: Whether to use enhanced prompting tricks ("none", "all") (default: "none")
     """
     
     print(f"=== Experiment 2: LLM Learning Questioning Strategies Across Users ===")
@@ -333,7 +433,7 @@ def run_experiment2(category: str = "Electronics",
         all_results, persona_results, agent_state = load_checkpoint(checkpoint_file)
         
         # Recreate agent with saved state
-        agent = LLMAgentExperiment2(model=model, max_questions=max_questions)
+        agent = LLMAgentExperiment2(model=model, max_questions=max_questions, context_mode=context_mode, prompting_tricks=prompting_tricks)
         agent.episode_count = agent_state['episode_count']
         agent.episode_history = agent_state.get('episode_history', [])
         
@@ -344,7 +444,7 @@ def run_experiment2(category: str = "Electronics",
         print("Starting fresh experiment")
         all_results = []
         persona_results = {}
-        agent = LLMAgentExperiment2(model=model, max_questions=max_questions)
+        agent = LLMAgentExperiment2(model=model, max_questions=max_questions, context_mode=context_mode, prompting_tricks=prompting_tricks)
         start_episode = 1
     
     # Create feedback system
@@ -708,11 +808,13 @@ if __name__ == "__main__":
     parser.add_argument("--episodes_per_persona", type=int, default=3, help="Episodes per persona")
     parser.add_argument("--max_questions", type=int, default=8, help="Max questions per episode")
     parser.add_argument("--model", type=str, default="gpt-4o", help="LLM model to use")
-    parser.add_argument("--feedback_type", type=str, default="none", choices=["none", "regret", "persona"], help="Type of feedback to provide")
+    parser.add_argument("--feedback_type", type=str, default="none", choices=["none", "regret", "persona", "star_rating"], help="Type of feedback to provide")
     parser.add_argument("--min_score_threshold", type=float, default=50.0, help="Minimum score threshold for category relevance")
     parser.add_argument("--output_dir", type=str, default="experiment2_results", help="Output directory")
     parser.add_argument("--seed", type=int, default=None, help="Random seed for reproducible persona selection")
     parser.add_argument("--resume_from", help="Checkpoint file to resume from")
+    parser.add_argument("--context_mode", choices=["raw", "summary", "none"], default="raw", help="How to carry context between episodes: raw (full episode data), summary (agent-generated summaries), none (no context)")
+    parser.add_argument("--prompting_tricks", choices=["none", "all"], default="none", help="Whether to use enhanced prompting tricks: none (standard prompting), all (includes chain-of-thought, ReAct, and think-again prompts)")
     
     args = parser.parse_args()
     
@@ -727,5 +829,7 @@ if __name__ == "__main__":
         min_score_threshold=args.min_score_threshold,
         output_dir=args.output_dir,
         seed=args.seed,
-        checkpoint_file=args.resume_from
+        checkpoint_file=args.resume_from,
+        context_mode=args.context_mode,
+        prompting_tricks=args.prompting_tricks
     )

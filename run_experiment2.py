@@ -27,7 +27,9 @@ if __name__ == "__main__":
         min_score_threshold=50.0,
         output_dir="experiment2_results_with_checkpoints",
         checkpoint_file=None,
-        seed=random_seed
+        seed=60751,
+        context_mode="raw",
+        prompting_tricks="none"
     )
     
     print(f"\nExperiment completed!")

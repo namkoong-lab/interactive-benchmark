@@ -9,6 +9,7 @@ Feedback Types:
 1. No Feedback: Agent receives no information about recommendation quality
 2. Regret Feedback: Agent receives precise numerical regret value
 3. Persona Feedback: Agent receives contextual feedback from the persona agent about why the selection wasn't optimal
+4. Star Rating Feedback: Agent receives lower dimension representation like "3 out of 5 stars"
 """
 
 from typing import Dict, Any, Optional, List, Tuple
@@ -25,14 +26,14 @@ class FeedbackSystem:
         Initialize feedback system.
         
         Args:
-            feedback_type: Type of feedback to generate ("none", "regret", "persona")
+            feedback_type: Type of feedback to generate ("none", "regret", "persona", "star_rating")
             persona_agent: UserModel instance for generating persona feedback (required for "persona" type)
         """
         self.feedback_type = feedback_type
         self.persona_agent = persona_agent
         
         # Validate feedback type
-        valid_types = ["none", "regret", "persona"]
+        valid_types = ["none", "regret", "persona", "star_rating"]
         if feedback_type not in valid_types:
             raise ValueError(f"Invalid feedback_type: {feedback_type}. Must be one of {valid_types}")
         
@@ -67,6 +68,8 @@ class FeedbackSystem:
             return self._generate_no_feedback()
         elif self.feedback_type == "regret":
             return self._generate_regret_feedback(regret, chosen_score, best_score)
+        elif self.feedback_type == "star_rating":
+            return self._generate_star_rating_feedback(chosen_score, best_score)
         elif self.feedback_type == "persona":
             return self._generate_persona_feedback(regret, chosen_score, best_score, 
                                                  chosen_product, available_products, category, dialog_history)
@@ -80,6 +83,16 @@ class FeedbackSystem:
     def _generate_regret_feedback(self, regret: float, chosen_score: float, best_score: float) -> str:
         """Generate precise numerical feedback."""
         return f"Recommendation feedback: Chosen score: {chosen_score:.1f}, Best possible: {best_score:.1f}, Regret: {regret:.1f}"
+    
+    def _generate_star_rating_feedback(self, chosen_score: float, best_score: float) -> str:
+        """Generate star rating feedback (lower dimension representation)."""
+        if best_score <= 0:
+            raise ValueError(f"Invalid best_score: {best_score}. Must be positive for star rating calculation.")
+        
+        chosen_stars = max(1, min(5, round((chosen_score / best_score) * 5)))
+        best_stars = 5  
+        
+        return f"Recommendation rating: {chosen_stars} out of 5 stars (best possible: {best_stars} stars)"
     
     def _generate_persona_feedback(self, regret: float, chosen_score: float, best_score: float,
                                  chosen_product: Dict[str, Any], available_products: List[Dict[str, Any]], 
@@ -123,7 +136,7 @@ class FeedbackSystem:
     
     def set_feedback_type(self, feedback_type: str):
         """Change the feedback type."""
-        valid_types = ["none", "regret", "persona"]
+        valid_types = ["none", "regret", "persona", "star_rating"]
         if feedback_type not in valid_types:
             raise ValueError(f"Invalid feedback_type: {feedback_type}. Must be one of {valid_types}")
         self.feedback_type = feedback_type
@@ -187,3 +200,7 @@ def create_regret_feedback_system() -> FeedbackSystem:
 def create_persona_feedback_system(persona_description: str) -> FeedbackSystem:
     """Create a feedback system that provides contextual feedback from a persona agent."""
     return FeedbackSystem(feedback_type="persona", persona_description=persona_description)
+
+def create_star_rating_feedback_system() -> FeedbackSystem:
+    """Create a feedback system that provides star rating feedback (lower dimension representation)."""
+    return FeedbackSystem(feedback_type="star_rating")
