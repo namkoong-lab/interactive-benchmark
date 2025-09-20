@@ -240,20 +240,22 @@ Rules:
         
         # Choose context mode
         if self.context_mode == "summary" and self.episode_summaries:
-            # Show last 3 summaries for context
-            for i, summary in enumerate(self.episode_summaries[-3:]):
-                episode_num = len(self.episode_summaries) - 3 + i + 1
-                context_parts.append(f"Episode {episode_num} Summary:")
+            for i, (episode_data, summary) in enumerate(zip(self.episode_history, self.episode_summaries)):
+                episode_num = episode_data.get('episode', i + 1)
+                episode_category = episode_data.get('category', 'unknown')
+                persona = episode_data.get('persona', 'unknown')
+                context_parts.append(f"Episode {episode_num}: [{episode_category}/Persona {persona}] Summary:")
                 context_parts.append(f"  {summary}")
                 context_parts.append("")  # Empty line for readability
         elif self.context_mode == "raw":
-            # Show last 3 episodes for context (original behavior)
-            for episode_data in self.episode_history[-3:]:
+            # Show all episodes for context
+            for episode_data in self.episode_history:
                 episode_num = episode_data.get('episode', 0)
                 category = episode_data.get('category', 'unknown')
                 persona = episode_data.get('persona', 'unknown')
                 dialog = episode_data.get('dialog', [])
                 selected_product_id = episode_data.get('selected_product_id', None)
+                selected_product_name = episode_data.get('selected_product_name', 'Unknown Product')
                 feedback = episode_data.get('feedback', '')
                 
                 context_parts.append(f"Episode {episode_num}: [{category}/Persona {persona}]")
@@ -266,7 +268,7 @@ Rules:
                 
                 # Add selected product
                 if selected_product_id is not None:
-                    context_parts.append(f"  Selected Product: {selected_product_id}")
+                    context_parts.append(f"  Selected Product: {selected_product_name}")
                 
                 # Add feedback
                 if feedback:
@@ -315,6 +317,13 @@ Think through each step carefully before responding."""
             full_dialog = episode_result.get('full_dialog', [])
             chosen_product_id = episode_result['final_info'].get('chosen_product_id', None)
             
+            product_name = "Unknown Product"
+            if 'product_info' in episode_result and 'products_with_scores' in episode_result['product_info']:
+                for product in episode_result['product_info']['products_with_scores']:
+                    if product.get('id') == chosen_product_id:
+                        product_name = product.get('name', 'Unknown Product')
+                        break
+            
             # Store episode context with selected product
             episode_data = {
                 'episode': self.episode_count,
@@ -322,6 +331,7 @@ Think through each step carefully before responding."""
                 'persona': persona_index,
                 'dialog': full_dialog,
                 'selected_product_id': chosen_product_id,
+                'selected_product_name': product_name,
                 'feedback': feedback
             }
             

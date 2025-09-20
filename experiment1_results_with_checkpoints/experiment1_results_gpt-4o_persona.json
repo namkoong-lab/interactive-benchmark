@@ -1,20 +1,20 @@
 {
   "experiment": "Experiment 1: LLM Learning Across Categories",
-  "timestamp": "2025-09-20T03:24:34.131120",
+  "timestamp": "2025-09-20T03:36:20.350228",
   "summary": {
     "regret_progression": {
       "episode_regrets": [
         42.5,
-        67.5,
+        45.0,
         30.0
       ],
-      "avg_regret": 46.666666666666664,
+      "avg_regret": 39.166666666666664,
       "regret_trend": "improving"
     },
     "categories_tested": [
-      "Fabric Dyes",
+      "Feather Dusters",
       "Decorative Clear Stamps",
-      "Feather Dusters"
+      "Fabric Dyes"
     ],
     "total_episodes": 3,
     "successful_episodes": 3,
@@ -45,7 +45,7 @@
     "episodes_per_category": 1,
     "max_questions": 3,
     "model": "gpt-4o",
-    "feedback_type": "star_rating",
+    "feedback_type": "persona",
     "seed": 60751
   },
   "agent_episode_history": [
@@ -55,20 +55,13 @@
       "persona": 26089,
       "dialog": [
         [
-          "Do you have a budget in mind for the feather duster?",
-          "I\u2019d say around $10 to $15."
-        ],
-        [
-          "Do you prefer a specific brand or style for the feather duster?",
-          "I prefer a traditional ostrich feather duster."
-        ],
-        [
-          "Do you prefer a specific size or length for the feather duster?",
-          "I prefer a medium-sized feather duster."
+          "Do you have a budget in mind for your feather duster purchase?",
+          "Around $10 to $15."
         ]
       ],
       "selected_product_id": 80969,
-      "feedback": "Recommendation rating: 3 out of 5 stars (best possible: 5 stars)"
+      "selected_product_name": "Retractable Gap Dust Cleaner Brush with Extension Pole (29 to 65 inches), Flexible Gap Microfiber Duster Bendable Extendable Washable, Under Appliance Dusters for Cleaning Bed Sofa Furniture",
+      "feedback": "Well, I appreciate the suggestion, but that's not quite what I was looking for. I was hoping for something more related to outdoor gear or tools for my DIY projects\u2014I\u2019m not much into fancy cleaning gadgets."
     },
     {
       "episode": 2,
@@ -76,12 +69,13 @@
       "persona": 26089,
       "dialog": [
         [
-          "Do you have a budget in mind for the decorative clear stamps?",
-          "Yes, around $20."
+          "Do you have a preferred price range for decorative clear stamps?",
+          "I usually look for decorative clear stamps in the $10 to $20 range."
         ]
       ],
-      "selected_product_id": 20554,
-      "feedback": "Recommendation rating: 1 out of 5 stars (best possible: 5 stars)"
+      "selected_product_id": 19349,
+      "selected_product_name": "Lawn Fawn Coloring Mini Sets - One in A Chameleon and Color My World - Stamps and Dies - 4 Items",
+      "feedback": "Oh man, that's not really what I was hoping for. I was actually looking for something more practical for my workshop, like a sturdy set of new tools or some quality wood stain to finish up a few projects I've been working on."
     },
     {
       "episode": 3,
@@ -89,16 +83,17 @@
       "persona": 26089,
       "dialog": [
         [
-          "Do you have a budget in mind for the fabric dye?",
-          "Yes, around $20."
+          "Do you have a specific color or type of fabric dye in mind for your project?",
+          "I prefer a dark green fabric dye."
         ],
         [
-          "Do you prefer a specific brand or color for the fabric dye?",
-          "I prefer Rit dye in a deep blue color."
+          "Do you have a budget in mind for the dark green fabric dye?",
+          "Around $10."
         ]
       ],
       "selected_product_id": 21311,
-      "feedback": "Recommendation rating: 3 out of 5 stars (best possible: 5 stars)"
+      "selected_product_name": "Dylon Washing Fabric Clothes Soft Furnishings 350 G Machine Dye Pod Deep Violet 350g, 1 Count (Pack of 1), 12 Ounce",
+      "feedback": "Thanks for the suggestion! The dye pod sounds interesting, but I was actually hoping to find something more in line with a durable, outdoor fabric protector for my camping gear."
     }
   ],
   "category_results": {
@@ -279,7 +274,7 @@
       ]
     },
     "Decorative Clear Stamps": {
-      "avg_score": 5.0,
+      "avg_score": 27.5,
       "top1_rate": 0.0,
       "episode_count": 1,
       "num_products": 69,
@@ -853,7 +848,7 @@
       "category": "Feather Dusters",
       "persona_index": 26089,
       "episode_in_category": 1,
-      "steps": 4,
+      "steps": 2,
       "terminated": true,
       "truncated": false,
       "final_info": {
@@ -865,22 +860,14 @@
         "regret": 42.5,
         "top1": false,
         "top3": false,
-        "questions_asked": 3,
-        "feedback": "Recommendation rating: 3 out of 5 stars (best possible: 5 stars)",
-        "feedback_type": "star_rating"
+        "questions_asked": 1,
+        "feedback": "Well, I appreciate the suggestion, but that's not quite what I was looking for. I was hoping for something more related to outdoor gear or tools for my DIY projects\u2014I\u2019m not much into fancy cleaning gadgets.",
+        "feedback_type": "persona"
       },
       "full_dialog": [
         [
-          "Do you have a budget in mind for the feather duster?",
-          "I\u2019d say around $10 to $15."
-        ],
-        [
-          "Do you prefer a specific brand or style for the feather duster?",
-          "I prefer a traditional ostrich feather duster."
-        ],
-        [
-          "Do you prefer a specific size or length for the feather duster?",
-          "I prefer a medium-sized feather duster."
+          "Do you have a budget in mind for your feather duster purchase?",
+          "Around $10 to $15."
         ]
       ],
       "product_info": {
@@ -1067,21 +1054,21 @@
       "truncated": false,
       "final_info": {
         "action_type": "recommend",
-        "chosen_product_id": 20554,
-        "chosen_score": 5.0,
+        "chosen_product_id": 19349,
+        "chosen_score": 27.5,
         "best_product_id": 18532,
         "best_score": 72.5,
-        "regret": 67.5,
+        "regret": 45.0,
         "top1": false,
         "top3": false,
         "questions_asked": 1,
-        "feedback": "Recommendation rating: 1 out of 5 stars (best possible: 5 stars)",
-        "feedback_type": "star_rating"
+        "feedback": "Oh man, that's not really what I was hoping for. I was actually looking for something more practical for my workshop, like a sturdy set of new tools or some quality wood stain to finish up a few projects I've been working on.",
+        "feedback_type": "persona"
       },
       "full_dialog": [
         [
-          "Do you have a budget in mind for the decorative clear stamps?",
-          "Yes, around $20."
+          "Do you have a preferred price range for decorative clear stamps?",
+          "I usually look for decorative clear stamps in the $10 to $20 range."
         ]
       ],
       "product_info": {
@@ -1522,17 +1509,17 @@
         "top1": false,
         "top3": false,
         "questions_asked": 2,
-        "feedback": "Recommendation rating: 3 out of 5 stars (best possible: 5 stars)",
-        "feedback_type": "star_rating"
+        "feedback": "Thanks for the suggestion! The dye pod sounds interesting, but I was actually hoping to find something more in line with a durable, outdoor fabric protector for my camping gear.",
+        "feedback_type": "persona"
       },
       "full_dialog": [
         [
-          "Do you have a budget in mind for the fabric dye?",
-          "Yes, around $20."
+          "Do you have a specific color or type of fabric dye in mind for your project?",
+          "I prefer a dark green fabric dye."
         ],
         [
-          "Do you prefer a specific brand or color for the fabric dye?",
-          "I prefer Rit dye in a deep blue color."
+          "Do you have a budget in mind for the dark green fabric dye?",
+          "Around $10."
         ]
       ],
       "product_info": {
