@@ -151,6 +151,9 @@ Rules:
 - Keep questions specific and helpful for {category} products
 - Consider what types of questions have worked well for this category before
 - No meta commentary, only the question or recommendation
+- CRITICAL: Do not ask questions that are similar to ones already asked in the conversation
+- Build upon previous answers rather than re-asking the same type of question
+- If you've gathered enough information, make a recommendation instead of asking more questions
 """
 
         # Apply prompting tricks if enabled

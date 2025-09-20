@@ -16,7 +16,7 @@ if __name__ == "__main__":
     
     results, category_results = run_experiment1(
         categories=None,  
-        num_categories=2, 
+        num_categories=20, 
         episodes_per_category=1,
         max_questions=20,
         model="gpt-4o", #Options: gpt-4o, gpt-5-nano-2025-08-07, gemini-2.5-pro, gemini-2.5-flash, claude-opus-4-20250514, claude-sonnet-4-20250514
@@ -24,7 +24,7 @@ if __name__ == "__main__":
         min_score_threshold=60.0,
         output_dir="experiment1_results_with_checkpoints",
         checkpoint_file=None,
-        seed=415909,
+        seed=179322,
         context_mode="raw", #Options: raw, summary 
         prompting_tricks="none" #Options: none, all
     )

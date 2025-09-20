@@ -142,6 +142,9 @@ Rules:
 - Avoid jargon; use everyday language a shopper understands
 - Keep questions specific and helpful (budget, size, brand/style preference, key feature)
 - No meta commentary like "this is strategic because…", only the question or recommendation
+- CRITICAL: Do not ask questions that are similar to ones already asked in the conversation
+- Build upon previous answers rather than re-asking the same type of question
+- If you've gathered enough information, make a recommendation instead of asking more questions
 """
 
         # Apply prompting tricks if enabled
