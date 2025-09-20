@@ -111,12 +111,15 @@ class RecoEnv(gym.Env):
         
         # Compute oracle scores (hidden ground truth) - use cached scores if available
         if self.cached_scores:
+            print(f"[DEBUG] Using cached scores: {len(self.cached_scores)} scores provided")
             # Use pre-computed scores to avoid re-scoring
             # cached_scores is a list of (product_id, score) tuples
             self.oracle_scores = [(pid, score) for pid, score in self.cached_scores 
                                  if pid in self.product_ids]
             self.oracle_scores.sort(key=lambda x: x[1], reverse=True)  # Sort by score descending
+            print(f"[DEBUG] Filtered cached scores: {len(self.oracle_scores)} scores for current products")
         else:
+            print(f"[DEBUG] No cached scores provided, computing scores for {len(self.products)} products...")
             # Fallback to scoring if no cached scores provided
             self.oracle_scores = self.user_model.score_products(self.current_category, self.products)
             self.oracle_scores.sort(key=lambda x: x[1], reverse=True)  # Sort by score descending

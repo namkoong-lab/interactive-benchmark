@@ -1,0 +1,2904 @@
+{
+  "experiment": "Experiment 1: LLM Learning Across Categories (Checkpoint)",
+  "timestamp": "2025-09-20T18:00:59.292112",
+  "episode_num": 5,
+  "model": "claude-sonnet-4-20250514",
+  "feedback_type": "persona",
+  "seed": 818827,
+  "agent_state": {
+    "episode_count": 5,
+    "episode_history": [
+      {
+        "episode": 1,
+        "category": "Business Cards",
+        "persona": 46308,
+        "dialog": [
+          [
+            "What's your budget for business cards?",
+            "I don't really have a budget for business cards, as I don't need them anymore."
+          ],
+          [
+            "Are you looking for business cards for someone else, or would you prefer to skip business cards entirely?",
+            "I would prefer to skip business cards entirely."
+          ],
+          [
+            "Are you sure there's no situation where you might need business cards in the future, like networking events or professional meetings?",
+            "No, I don't foresee needing business cards in the future."
+          ],
+          [
+            "Would you consider getting just a small pack of basic business cards to keep on hand, just in case?",
+            "No, I don't think I need business cards anymore."
+          ]
+        ],
+        "selected_product_id": 105103,
+        "selected_product_name": "PPAPPAPPIYO/Cute cat Thank you for supporting My small business cards,Pink Thanks for Supporting Small Business Packaging Inserts(3.5 x 2.1 inches)-100 Business card sized",
+        "feedback": "Well, bless your heart for trying, but those cute cat business cards aren't quite what I was looking for. I was hoping to find some lovely quilt patterns or maybe a good historical fiction novel to dive into."
+      },
+      {
+        "episode": 2,
+        "category": "Wind Chimes",
+        "persona": 46308,
+        "dialog": [
+          [
+            "Are you looking for wind chimes for your garden or porch, or as a gift for someone?",
+            "I'm looking for wind chimes for my garden."
+          ],
+          [
+            "What's your budget range for the wind chimes?",
+            "Around $30 to $50."
+          ],
+          [
+            "Do you prefer wind chimes with a deeper, melodic tone or lighter, tinkling sounds?",
+            "I prefer wind chimes with a deeper, melodic tone."
+          ],
+          [
+            "What size wind chimes would work best for your garden space - smaller ones around 12-18 inches or larger ones over 24 inches?",
+            "Smaller ones around 12-18 inches."
+          ],
+          [
+            "What material would you prefer for your wind chimes - metal for richer tones or bamboo for a more natural look?",
+            "Bamboo for a more natural look."
+          ],
+          [
+            "Would you like wind chimes that hang from a single point or ones with multiple hanging tubes arranged in a cluster?",
+            "I would like wind chimes with multiple hanging tubes arranged in a cluster."
+          ],
+          [
+            "Do you have a preference for the number of tubes in the cluster - would you like a fuller sound with 6-8 tubes or a simpler arrangement with 4-5 tubes?",
+            "I prefer a simpler arrangement with 4-5 tubes."
+          ]
+        ],
+        "selected_product_id": 111248,
+        "selected_product_name": "Corinthian Bells by Wind River - 56 inch Silver Vein Wind Chime for Patio, Backyard, Garden, and Outdoor d\u00e9cor (Aluminum Chime) Made in The USA",
+        "feedback": "Perfect! This is exactly what I was looking for. Great recommendation!"
+      },
+      {
+        "episode": 3,
+        "category": "Women's Chain Necklaces",
+        "persona": 46308,
+        "dialog": [
+          [
+            "What's your budget range for a chain necklace?",
+            "I'd say around $50 to $100."
+          ],
+          [
+            "Do you prefer a simple, classic chain style or something more decorative with charms or pendants?",
+            "I prefer a simple, classic chain style."
+          ],
+          [
+            "What length chain would you prefer - shorter around 16-18 inches or longer around 20-24 inches?",
+            "I prefer a shorter chain around 16-18 inches."
+          ],
+          [
+            "What type of metal do you prefer - gold, silver, or rose gold?",
+            "Gold"
+          ],
+          [
+            "What chain thickness do you prefer - a delicate thin chain or a more substantial chunky chain?",
+            "A delicate thin chain."
+          ]
+        ],
+        "selected_product_id": 4213,
+        "selected_product_name": "LUXURMAN Solid 14K White or Yellow Gold 2.5mm Rope Chain Diamond Cut Necklace or Bracelet Lobster Clasp",
+        "feedback": "Oh dear, that's not quite what I had in mind. I was really hoping for something more practical and meaningful, like a cozy new quilt or perhaps a good historical fiction book to curl up with on the porch."
+      },
+      {
+        "episode": 4,
+        "category": "Hearing Aids, Amplifiers & Accessories",
+        "persona": 46308,
+        "dialog": [
+          [
+            "Are you looking for hearing aids or amplifiers for yourself, or are you shopping for someone else?",
+            "I am looking for hearing aids for myself."
+          ],
+          [
+            "What's your budget range for hearing aids?",
+            "I would say my budget range is around $1,000 to $2,000."
+          ],
+          [
+            "Do you have a preference for behind-the-ear hearing aids or in-the-ear styles?",
+            "I prefer behind-the-ear hearing aids."
+          ],
+          [
+            "Do you have any specific hearing difficulties you'd like the hearing aids to help with, like trouble hearing conversations or background noise?",
+            "Trouble hearing conversations."
+          ],
+          [
+            "Do you need any specific features like rechargeable batteries or Bluetooth connectivity?",
+            "No, I don't need any specific features like rechargeable batteries or Bluetooth connectivity."
+          ],
+          [
+            "Are you looking for prescription hearing aids from an audiologist or over-the-counter hearing amplifiers that don't require a prescription?",
+            "I'm looking for prescription hearing aids from an audiologist."
+          ],
+          [
+            "Would you prefer to purchase hearing aids online or are you planning to visit an audiologist's office for fitting and adjustment?",
+            "I plan to visit an audiologist's office for fitting and adjustment."
+          ],
+          [
+            "Since you're planning to visit an audiologist, are you looking to research and compare hearing aid options beforehand, or do you need something to help with your hearing while you wait for your appointment?",
+            "I need something to help with my hearing while I wait for my appointment."
+          ],
+          [
+            "Would you prefer something very affordable under $50 as a temporary solution, or are you willing to spend more for better quality while you wait?",
+            "I would prefer something very affordable under $50 as a temporary solution."
+          ],
+          [
+            "Do you prefer something that sits completely in your ear or something with a small tube that goes in your ear?",
+            "I prefer something with a small tube that goes in my ear."
+          ],
+          [
+            "Do you prefer something that's barely visible when worn or are you okay with it being somewhat noticeable?",
+            "I'm okay with it being somewhat noticeable."
+          ]
+        ],
+        "selected_product_id": 78400,
+        "selected_product_name": "Rayovac Size 312 Hearing Aid Batteries, Hearing Aid Batteries Size 312, 16 Count",
+        "feedback": "Well, this is almost spot-on! I appreciate the suggestion of the Rayovac Size 312 Hearing Aid Batteries, but I do prefer the 24-count pack since it tends to last me a bit longer. Thank you for the thoughtful recommendation!"
+      },
+      {
+        "episode": 5,
+        "category": "Women's Hiking & Trekking Shoes",
+        "persona": 46308,
+        "dialog": [
+          [
+            "Are you looking for hiking shoes for casual walks and light trails, or do you need something more sturdy for serious hiking and rough terrain?",
+            "I'm looking for hiking shoes for casual walks and light trails."
+          ],
+          [
+            "What's your budget range for the hiking shoes?",
+            "I'd say around $50 to $75."
+          ],
+          [
+            "Do you prefer a specific color for your hiking shoes, like black, brown, or gray?",
+            "Brown."
+          ],
+          [
+            "Do you prefer shoes with more ankle support or low-cut shoes that give you more freedom of movement?",
+            "I prefer shoes with more ankle support."
+          ],
+          [
+            "Do you prefer a specific brand like Merrell, Columbia, or Keen, or are you open to any brand as long as it meets your needs?",
+            "I'm open to any brand as long as it meets my needs."
+          ],
+          [
+            "Do you have a preferred shoe size, or would you like to know about the available sizes for the shoes that match your other preferences?",
+            "I wear a size 7.5."
+          ],
+          [
+            "Do you prefer waterproof hiking shoes or are regular water-resistant shoes fine for your casual walks?",
+            "Regular water-resistant shoes are fine for my casual walks."
+          ],
+          [
+            "Do you prefer lace-up hiking shoes or slip-on styles for easier on and off?",
+            "I prefer slip-on styles for easier on and off."
+          ],
+          [
+            "Do you prefer hiking shoes with a more rugged sole for better grip, or a smoother sole that's more comfortable for walking on pavement and easier trails?",
+            "I prefer hiking shoes with a more rugged sole for better grip."
+          ]
+        ],
+        "selected_product_id": 62626,
+        "selected_product_name": "Touchmosees Women Mary Jane Sneakers Platform Sneakers Air Cushion Slip-on Walking Shoes Orthopedic Diabetic Walking Wedge Sneaker Ladies Toning Rocker Shoes",
+        "feedback": "Well, those sneakers do look comfy, and I appreciate the thought, but I was actually hoping for something a bit more traditional, like a nice pair of leather loafers. I love a classic style that I can wear to church or when I\u2019m out and about in town."
+      }
+    ],
+    "episode_summaries": []
+  },
+  "episodes_completed": 5,
+  "all_results": [
+    {
+      "episode": 1,
+      "category": "Business Cards",
+      "persona_index": 46308,
+      "episode_in_category": 1,
+      "steps": 5,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 105103,
+        "chosen_score": 15.0,
+        "best_product_id": 105907,
+        "best_score": 65.0,
+        "regret": 50.0,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 4,
+        "feedback": "Well, bless your heart for trying, but those cute cat business cards aren't quite what I was looking for. I was hoping to find some lovely quilt patterns or maybe a good historical fiction novel to dive into.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "What's your budget for business cards?",
+          "I don't really have a budget for business cards, as I don't need them anymore."
+        ],
+        [
+          "Are you looking for business cards for someone else, or would you prefer to skip business cards entirely?",
+          "I would prefer to skip business cards entirely."
+        ],
+        [
+          "Are you sure there's no situation where you might need business cards in the future, like networking events or professional meetings?",
+          "No, I don't foresee needing business cards in the future."
+        ],
+        [
+          "Would you consider getting just a small pack of basic business cards to keep on hand, just in case?",
+          "No, I don't think I need business cards anymore."
+        ]
+      ],
+      "product_info": {
+        "num_products": 25,
+        "products_with_scores": [
+          {
+            "id": 105907,
+            "name": "Personalized Business Cards - 3.5\" x 2\" - Thick Sturdy 300GSM Cards - Small Business Designs - 100% Made in the U.S.A. - 100 or 500 Cards (Paw Prints, 100)",
+            "price": 24.95,
+            "average_score": 65.0
+          },
+          {
+            "id": 108480,
+            "name": "200 pcs Full Color Custom 2 Sides Printed Business Card,Personalized Name Card,3.5\" x 2\" (Flower 06)",
+            "price": 14.99,
+            "average_score": 65.0
+          },
+          {
+            "id": 105221,
+            "name": "Premium Custom Business Cards 250 cards Elegant Shimmering Metallic Paper 3.5x2 inches Customizable Design with Luxurious Soft Texture",
+            "price": 17.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 106547,
+            "name": "Organic Custom Printed Business Cards - Set of 250 - 2 x 3-\u00bd inches - Matte Finish - Double-Sided - Gifts for Artists, Florists, Gardeners, Printed in the USA, by Colorful Images",
+            "price": 21.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 107443,
+            "name": "Custom Business Cards Customized Business Cards Double Side Print Business Cards for Small Business Custom-300gsm Waterproof Business Cards",
+            "price": 10.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 108363,
+            "name": "Avery 8471 Business Cards, Inkjet, Matte, 2-Inch X3-1/2-Inch, 1000/Bx, White",
+            "price": 40.74,
+            "average_score": 62.5
+          },
+          {
+            "id": 105375,
+            "name": "Ebamaz 304 Stainless Steel Thick 0.5mm Metal Business Cards Blank Tablet 86X54mm Pack of 10PCS (Silver Brushed Finishing, Blank)",
+            "price": 15.99,
+            "average_score": 57.5
+          },
+          {
+            "id": 107368,
+            "name": "Simple Custom Premium Business Cards 500 pcs Full color - Black front-White back, 16pt Cover Stock (129 lbs. 350gsm-Thick paper), Made in The USA",
+            "price": 32.98,
+            "average_score": 57.5
+          },
+          {
+            "id": 108236,
+            "name": "Amerixun Custom Business Name Card,Upload Your own Design,2\" x 3.5\", Personalized id Card (100)",
+            "price": 9.99,
+            "average_score": 57.5
+          },
+          {
+            "id": 107702,
+            "name": "Custom Premium Business Cards 500 pcs Full color - Marble (129 lbs. 350gsm-Thick paper), UV coating-Front, Matt finishing-Back,Made in The USA (Half Black2)",
+            "price": 32.99,
+            "average_score": 55.0
+          },
+          {
+            "id": 107573,
+            "name": "Royal Brites Matte Business Cards, White, 2 x 3.5 Inches, Pack of 1000 (28992)",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 105269,
+            "name": "PPAPPAPPIYO Blue Paper Business Cards (100) Paper Blue01- Blank",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 106502,
+            "name": "Custom Business Cards 500pcs Full color - Natural Kraft Image - 14pt classic matte stock paper (114 lbs. 308gsm-Thick paper), Made in The USA",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 106498,
+            "name": "Parchment Natural Business Cards, 2\"x3.5\", 250/PK",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 107250,
+            "name": "Business Cards Customer Laser Engraving DIY Gift Cards Office Tool 50Pcs Metal for Home Office Silver",
+            "price": 9.01,
+            "average_score": 42.5
+          },
+          {
+            "id": 108703,
+            "name": "Pajean 120 Pcs Inspirational Encouragement Quote Cards Motivational Kindness Appreciation Gratitude Business Cards Note Cards Mini for Employee, Students, Teachers, Kids, Family, 30 Styles",
+            "price": 7.29,
+            "average_score": 35.0
+          },
+          {
+            "id": 105876,
+            "name": "Avery 8871 Business Card For Inkjet Print",
+            "price": 19.99,
+            "average_score": 32.5
+          },
+          {
+            "id": 108721,
+            "name": "Ebamaz Metal Business Cards Anodized Aluminum Plaque Plate 86X54X0.8mm (Red, Blank,10PCS)",
+            "price": 15.99,
+            "average_score": 20.0
+          },
+          {
+            "id": 105197,
+            "name": "Appointment Reminder Cards - Business Card Size 3.5 X 2 Inches - Pack of 50",
+            "price": 8.25,
+            "average_score": 17.5
+          },
+          {
+            "id": 105103,
+            "name": "PPAPPAPPIYO/Cute cat Thank you for supporting My small business cards,Pink Thanks for Supporting Small Business Packaging Inserts(3.5 x 2.1 inches)-100 Business card sized",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 107338,
+            "name": "DEWALLIE 50 PCS Blank Metal Business Cards, Laser Engraver Engraving Aluminum Name Cards DIY Gift Card for Ortur Laser Master 2 Pro, K40",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 107509,
+            "name": "EMAAN 200 Pieces White Kraft Paper Flash Card Study Cards/Memo Scratch Pads/Bookmark/DIY Greeting Card/Index Card Stock/Note Card(White)",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 108976,
+            "name": "620PCS Thank You Cards and Stickers Set, Holographic Silver Thank You Business Card 500 Piece 1.5 inch Thank You Roll Labels 20PCS Smell Proof Mylar Bags for Business Owners",
+            "price": 11.99,
+            "average_score": 15.0
+          },
+          {
+            "id": 107388,
+            "name": "Thank You for Supporting My Small Business Cards, Premium Look And Feel With Gold Foil Hearts (Business Card Sized 2\"x3.5\") 120 Sheets- Purchase Inserts to Support Small Business (Pink)",
+            "price": null,
+            "average_score": 12.5
+          },
+          {
+            "id": 105866,
+            "name": "30Pcs Among us Theme Bags Birthday Party Supplies",
+            "price": null,
+            "average_score": 2.5
+          }
+        ]
+      }
+    },
+    {
+      "episode": 2,
+      "category": "Wind Chimes",
+      "persona_index": 46308,
+      "episode_in_category": 1,
+      "steps": 8,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 111248,
+        "chosen_score": 95.0,
+        "best_product_id": 111248,
+        "best_score": 95.0,
+        "regret": 0.0,
+        "top1": true,
+        "top3": true,
+        "questions_asked": 7,
+        "feedback": "Perfect! This is exactly what I was looking for. Great recommendation!",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "Are you looking for wind chimes for your garden or porch, or as a gift for someone?",
+          "I'm looking for wind chimes for my garden."
+        ],
+        [
+          "What's your budget range for the wind chimes?",
+          "Around $30 to $50."
+        ],
+        [
+          "Do you prefer wind chimes with a deeper, melodic tone or lighter, tinkling sounds?",
+          "I prefer wind chimes with a deeper, melodic tone."
+        ],
+        [
+          "What size wind chimes would work best for your garden space - smaller ones around 12-18 inches or larger ones over 24 inches?",
+          "Smaller ones around 12-18 inches."
+        ],
+        [
+          "What material would you prefer for your wind chimes - metal for richer tones or bamboo for a more natural look?",
+          "Bamboo for a more natural look."
+        ],
+        [
+          "Would you like wind chimes that hang from a single point or ones with multiple hanging tubes arranged in a cluster?",
+          "I would like wind chimes with multiple hanging tubes arranged in a cluster."
+        ],
+        [
+          "Do you have a preference for the number of tubes in the cluster - would you like a fuller sound with 6-8 tubes or a simpler arrangement with 4-5 tubes?",
+          "I prefer a simpler arrangement with 4-5 tubes."
+        ]
+      ],
+      "product_info": {
+        "num_products": 64,
+        "products_with_scores": [
+          {
+            "id": 111248,
+            "name": "Corinthian Bells by Wind River - 56 inch Silver Vein Wind Chime for Patio, Backyard, Garden, and Outdoor d\u00e9cor (Aluminum Chime) Made in The USA",
+            "price": 358.98,
+            "average_score": 95.0
+          },
+          {
+            "id": 109677,
+            "name": "Soopau Memorial Gifts, Sympathy Wind Chimes Memorial Wind Chimes for Loss of Loved One Prime, Sympathy Gift, Bereavement/Remembrance Gifts in Memory of Loved One Mother Father, 30\" Wooden",
+            "price": 29.99,
+            "average_score": 90.0
+          },
+          {
+            "id": 110511,
+            "name": "LK Creative Memorial Wind Chimes with Photo Frame - Lifetree Engraved Outdoor Ornament with Rich Deep Tone - Memory & Remembrance Keepsake for Loved Ones - Gifts for Sympathy, Bereavement, Funerals",
+            "price": null,
+            "average_score": 87.5
+          },
+          {
+            "id": 111266,
+            "name": "Carson Home Accents 62913 Always Near Sonnet Chime,30\"",
+            "price": 35.9,
+            "average_score": 87.5
+          },
+          {
+            "id": 111411,
+            "name": "Nature\u2019s Melody Aureole Tunes Wind Chimes \u2013 Outdoor Windchime with 6 Tubes Tuned to E Pentatonic Scale, 100% Rustproof Aluminum, Powder Finish & S Hook Hanger for Sympathy, Memorial Gift or Zen Garden",
+            "price": 39.95,
+            "average_score": 87.5
+          },
+          {
+            "id": 110162,
+            "name": "Woodstock Chimes Signature Collection, Bells of Paradise, Pacific Blue 32\"\", Decor Designs Wind Chimes for Outdoor, Patio, Home or Garden D\u00e9cor (BPMPB)",
+            "price": 57.99,
+            "average_score": 85.0
+          },
+          {
+            "id": 111234,
+            "name": "Shenandoah Melodies by Wind River - 35 inch Green Wind Chime for Patio, Backyard, Garden, and Outdoor d\u00e9cor (Aluminum Chime) Made in The USA",
+            "price": 104.98,
+            "average_score": 85.0
+          },
+          {
+            "id": 109487,
+            "name": "2 Pack Pgzsy Memorial Wind Chimes Outdoor Large Deep Tone, Wind Chime Outdoor Sympathy Wind-Chime Personalized with 6 Tuned Tubes, Elegant Chime for Garden Patio Balcony and Home",
+            "price": 16.99,
+            "average_score": 82.5
+          },
+          {
+            "id": 110166,
+            "name": "Cohasset Gifts Bamboo Wind Chimes | Medium 38 inch | Natural Beautiful Sound | Wood Outdoor Home Decor | #127 Blue Butterfly",
+            "price": 36.95,
+            "average_score": 82.5
+          },
+          {
+            "id": 111294,
+            "name": "Woodstock Chimes Signature Collection, Chimes of Bach, 28'' Famous Melodies Wind Chimes for Outdoor, Patio, Home or Garden D\u00e9cor (CBWSI)",
+            "price": 55.99,
+            "average_score": 82.5
+          },
+          {
+            "id": 109995,
+            "name": "Ankinte Handmade Wind Chimes 5 Bamboo Bell Tubes, Half Coconut Wood Top, Low Deep Tone Wooden Chimes Outdoor Indoor Home D\u00e9cor 25 inch",
+            "price": 16.99,
+            "average_score": 80.0
+          },
+          {
+            "id": 111422,
+            "name": "Spoontiques Resin Cardinal Wind Chime",
+            "price": null,
+            "average_score": 80.0
+          },
+          {
+            "id": 110863,
+            "name": "UpBlend Havasu 38\" Brown Outdoor Wind Chimes Deep Tone - Decorations for Home Zen, Patio, Yard and Garden Decor, Deep Sounding Windchimes for Outside Clearance, Housewarming Gifts for New House",
+            "price": 34.94,
+            "average_score": 77.5
+          },
+          {
+            "id": 111629,
+            "name": "Lamris Wind Chimes, Large 36\" Garden Chimes 18 Gold Aluminum Alloy Tubes and Hooks for Patio Outdoors Decor Home Decorations",
+            "price": 13.99,
+            "average_score": 77.5
+          },
+          {
+            "id": 111670,
+            "name": "Mosteck Anodized Aluminium Wind Chimes 26\" Inches, Gift for Unisex, Suitable for Outdoor, Garden, Patio Decoration",
+            "price": 11.97,
+            "average_score": 77.5
+          },
+          {
+            "id": 109952,
+            "name": "Solar Hummingbird Windchimes Garden Gifts for Mom, Color-Changing Hanging Hummingbird Lights Outdoor Yard Waterproof Decor Perfect Mothers Day Birthday Gift Ideas for Mom/Grandma",
+            "price": null,
+            "average_score": 75.0
+          },
+          {
+            "id": 110721,
+            "name": "Cohasset Gifts 174P Passion Bobbing Head Bird Bamboo Wind Chime, Hand Painted Purple Spotted Design",
+            "price": 65.89,
+            "average_score": 75.0
+          },
+          {
+            "id": 110319,
+            "name": "Gifts & Decor Rainbow Butterfly Indoor/Outdoor Garden Wind Chime",
+            "price": 16.17,
+            "average_score": 72.5
+          },
+          {
+            "id": 111819,
+            "name": "Russ Berrie WC-GEO-105 Dragonfly JW Stannard Geotunes Wind Chime",
+            "price": null,
+            "average_score": 72.5
+          },
+          {
+            "id": 109056,
+            "name": "Sunset Vista Designs 92399 Farm Cat Metal Wind Chime, Galvanized",
+            "price": 31.88,
+            "average_score": 70.0
+          },
+          {
+            "id": 110399,
+            "name": "xxschy LED Solar Blue Hummingbird Wind Chime",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 111462,
+            "name": "rockcloud Rock Quartz Raw Stones Wind Chime Home Garden Decoration Figurine",
+            "price": 20.99,
+            "average_score": 70.0
+          },
+          {
+            "id": 109441,
+            "name": "Zaer Ltd. Hanging Copper Colored Fancy Roof Birdhouse Wind Chime (Classic House)",
+            "price": 79.95,
+            "average_score": 67.5
+          },
+          {
+            "id": 111745,
+            "name": "Asli Arts Collection Capiz Solar Chime, Light Blue, 24\" L",
+            "price": null,
+            "average_score": 67.5
+          },
+          {
+            "id": 109838,
+            "name": "Wind Chimes Solar Light Windchimes Glass Hanging Wind Chime with Solar Light for Home,Garden,Patio and Yard Decor,Copyright Certificated",
+            "price": 18.99,
+            "average_score": 65.0
+          },
+          {
+            "id": 109928,
+            "name": "Solar Moon Wind Chime for Outside Clearance, Color Changing Wind Chimes with Solar Lights, Waterproof Hanging Solar Mobile Lights for Garden, Patio, Party, Yard Decoration (8 Moon)",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 111190,
+            "name": "Spoontiques Hummingbird Handpainted Chime, Multicolored",
+            "price": 7.23,
+            "average_score": 65.0
+          },
+          {
+            "id": 111419,
+            "name": "COTTON CRAFT - Rising Sun & Bells Wind Chime - Bring Tranquility, Serenity and Gentle Relaxing Music to Your Home",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 111439,
+            "name": "Spoontiques Hummingbird Wind Chime",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 111542,
+            "name": "Chimesofyourlife E4543 Wind Chime, Papillon/Bronze, 27-Inch",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 109356,
+            "name": "Alpine Corporation HTO108YL Glass Hanging Jellyfish Windchimes, 12 Inch Tall, Yellow",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 109879,
+            "name": "Cohasset Gifts 593 Wind Work Boat Cohasset Bell, White & Blue Distressed Finish",
+            "price": 68.73,
+            "average_score": 62.5
+          },
+          {
+            "id": 110569,
+            "name": "Banfeng 2 Pack Lucky Wind Chimes 3 Bells Feng Shui Wind Bell with S Hook for Good Luck Home Garden Hanging Decoration Gift",
+            "price": 12.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 111787,
+            "name": "Cannon MCC350 Large Round Wood Top Wind Chime",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 109067,
+            "name": "Bunny Boaters Windchime",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 110334,
+            "name": "LAO LA Memorial Wind Chimes for Outdoor - Deep Melodic Wind Chimes for Loss of Loved Ones, Sympathy Gift, Memorial Gifts, and Condolence Remembrances - and Comfort Sounds for Your Home or Backyard",
+            "price": 59.99,
+            "average_score": 60.0
+          },
+          {
+            "id": 110500,
+            "name": "Vindar Wind Chime, Iron Folk Art Owl Model Design Glass Wind Chimes for Wall Hanging Home Art Decor, Beautiful Apartment Room Dorm Decoration, Great Gift Decor for Terrace,Patio,Porch,Garden,Backyard",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 109055,
+            "name": "Woodstock Signature Collection Portrait Chime, 22-1/2-Inch, Jade",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 110686,
+            "name": "Solar Wind Chimes Auto Chang Colors,Gifts for Mom Women,Outdoor Waterproof Decorations Acrylic Mobile for Garden Yard Lawn Patio",
+            "price": 25.99,
+            "average_score": 57.5
+          },
+          {
+            "id": 109688,
+            "name": "WEICHUAN Wind Chimes Wind Bells - Vintage Style Chinese Traditional Fish Feng Shui Bell for Good Luck Blessing Fortune Home Car Crafts Hanging Decoration Gift (Pack of 4)",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 109884,
+            "name": "Spoontiques Swirl Hummingbird Wind Chime",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 110064,
+            "name": "Sunset Vista Design Studios Coffee Time Chime",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 111383,
+            "name": "Wind Chime 3D Butterfly Outdoor Indoor Decor 31\" Metal Glass Music Wind Chimes Mobile Romantic Chimes for Garden, Patio, Yard, Backyard or Festival Decor/Best Mothers and Women Gifts",
+            "price": 14.75,
+            "average_score": 55.0
+          },
+          {
+            "id": 111759,
+            "name": "ASTARIN Windchimes in Memory of a Loved (30 inch) Chimes for Outdoors Clearance with 5 Aluminum Tuned Black Tubes, Memorial Wind Chimes Bereavement Gift Decoration for Home, Garden,Patio,Backyard.",
+            "price": 18.99,
+            "average_score": 55.0
+          },
+          {
+            "id": 111149,
+            "name": "Ebros Rustic Woodlands Emperor Elk Moose Deer Wind Chime Family Decorative Wind Chime Outdoors Cabin Lodge Forest Garden Patio Noisemakers Figurine Statue",
+            "price": 35.99,
+            "average_score": 50.0
+          },
+          {
+            "id": 109397,
+            "name": "Create Your Own Wind Chime With These Petite Wind Chime Tubes",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 109244,
+            "name": "Bizbravo Wind Chimes, Ball Wind Chimes Outdoor,Solar Wind Chimes, Gifts for mom, Birthday Gifts for Women",
+            "price": 15.99,
+            "average_score": 45.0
+          },
+          {
+            "id": 111501,
+            "name": "HiMo Vintage Dragon Fengshui Bell Toy Good Luck Bless for Home Garden Hanging Windchime Blessing Decoration Gift (Dragon)",
+            "price": 5.99,
+            "average_score": 45.0
+          },
+          {
+            "id": 109796,
+            "name": "ECOM Little Succulent Plant Wind Chime Noisemakers with Bell for Patio Outdoor Decor (Warm)",
+            "price": null,
+            "average_score": 42.5
+          },
+          {
+            "id": 109729,
+            "name": "Yeyo Hummingbird Solar Wind Spinner Light, LED Multi Color Changing Solar Mobiles",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 110109,
+            "name": "GUAGLL 2Pcs Outdoor Decoration Solar Environmental Protection Garden Hanging Decoration Gift",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 110571,
+            "name": "Woodstock Chimes Asli Arts Collection, Mini Capiz Chime, 12'' Light Blue Capiz Wind Chimes for Outdoor, Patio, Home or Garden D\u00e9cor (C138)",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 111006,
+            "name": "Woodstock Chimes Encore Collection, Chimes of Polaris, 22'' Silver Wind Chimes for Outdoor, Patio, Home or Garden D\u00e9cor (DCS22)",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 109223,
+            "name": "Hanging LED Solar Stars Wind Chimes Outdoor Decor Waterproof Mobile Romantic Solar Power Color Changing Wind Chime Light Xmas Gifts for Mom, Home, Patio, Yard, Party, Festival, Night Garden Decoration",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 109453,
+            "name": "Ahtliay Solar Butterfly Wind Chimes Color Changing LED Mobile Wind Chime Waterproof Outdoor Decorative Garden Gifts for Mom Garden Decor Solar Butterfly",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 110591,
+            "name": "Carson Beautiful Life Lantern Chime",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 110981,
+            "name": "Antique Iron Cross Wind Chime",
+            "price": null,
+            "average_score": 32.5
+          },
+          {
+            "id": 111176,
+            "name": "Uonlytech 1Pc Line Ball Shape Wind Chimes Color Changing Solar Powered Wind Spinner Lamp Wind Dangler Wind Chime for Patio Home Balcony",
+            "price": null,
+            "average_score": 22.5
+          },
+          {
+            "id": 109050,
+            "name": "Vency Black Christmas Tree Solar Wind Chimes Outdoor Gardening Gifts for mom Unique Birthday Gifts for Women who has Everything Mother Gifts Gifts for Girlfriend Valentine Gifts for Wife",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 109561,
+            "name": "srso Wind Chimes Gift for Woman Solar Skeleton Skull Powered Night Light,LED Solar Skull Wind Chimes Gift for Christmas and Halloween,Waterproof Home Decoration Skull Lights,colorful",
+            "price": 19.99,
+            "average_score": 17.5
+          },
+          {
+            "id": 111284,
+            "name": "Fenfangxilas Wind Chimes, Vintage Wooden Elephant Copper Pipe Wind Chimes for Backyard Patio Homestay Home Garden Hanging Decoration",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 110538,
+            "name": "Juvale Rustic Cast Iron Bird Doorbell Chime (8.7 x 7 x 1.5 Inches)",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 111271,
+            "name": "Vintage Garden Decorative Chain (Flower) by Grasslands Road",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 110281,
+            "name": "Elogio Doormat Indoor Outdoor Doormats Outside Effective Scraping of Dirt Patio Grass Snow Dust Grit Removal Ideal Low Profile Door Mat Front Door Entrance Mat Rug Non Slip Rubber (Gray) 17.5''x 27''",
+            "price": null,
+            "average_score": 5.0
+          }
+        ]
+      }
+    },
+    {
+      "episode": 3,
+      "category": "Women's Chain Necklaces",
+      "persona_index": 46308,
+      "episode_in_category": 1,
+      "steps": 6,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 4213,
+        "chosen_score": 32.5,
+        "best_product_id": 65561,
+        "best_score": 90.0,
+        "regret": 57.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 5,
+        "feedback": "Oh dear, that's not quite what I had in mind. I was really hoping for something more practical and meaningful, like a cozy new quilt or perhaps a good historical fiction book to curl up with on the porch.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "What's your budget range for a chain necklace?",
+          "I'd say around $50 to $100."
+        ],
+        [
+          "Do you prefer a simple, classic chain style or something more decorative with charms or pendants?",
+          "I prefer a simple, classic chain style."
+        ],
+        [
+          "What length chain would you prefer - shorter around 16-18 inches or longer around 20-24 inches?",
+          "I prefer a shorter chain around 16-18 inches."
+        ],
+        [
+          "What type of metal do you prefer - gold, silver, or rose gold?",
+          "Gold"
+        ],
+        [
+          "What chain thickness do you prefer - a delicate thin chain or a more substantial chunky chain?",
+          "A delicate thin chain."
+        ]
+      ],
+      "product_info": {
+        "num_products": 36,
+        "products_with_scores": [
+          {
+            "id": 65561,
+            "name": "ChubbyChicoCharms I Love You to The Moon and Back with Hearts Heart and Crystal 18\" Necklace",
+            "price": 15.99,
+            "average_score": 90.0
+          },
+          {
+            "id": 1786,
+            "name": "1.2mm - 5 mm Sterling Silver Plain Pallini Bead Ball Chain NecklaceNickel Free Italy",
+            "price": 14.76,
+            "average_score": 87.5
+          },
+          {
+            "id": 2181,
+            "name": ".925 Sterling Silver Barrel Cylinder Green Jade Slider Barrel Necklace 18 inches chain included",
+            "price": 9.59,
+            "average_score": 85.0
+          },
+          {
+            "id": 4022,
+            "name": "1928 Jewelry Silver Tone Cable Chain & Faux Pearl Eyeglass Holder Necklace 30 Inches",
+            "price": 19.42,
+            "average_score": 85.0
+          },
+          {
+            "id": 63002,
+            "name": "Verona Jewelers 925 Sterling Silver 1.5MM Adjustable Singapore Chain Twist Chain Necklace For Women- 24\" Slider Necklace, Bolo Necklace for Women",
+            "price": 24.99,
+            "average_score": 81.5
+          },
+          {
+            "id": 1681,
+            "name": "14k Yellow Gold 2.1mm Classic Rolo Cable Chain Necklace with Lobster Claw Clasp - 16\"",
+            "price": 202.0,
+            "average_score": 80.0
+          },
+          {
+            "id": 1859,
+            "name": "925 Sterling Silver .6mm 8 Sided Mirror Box Chain Necklace Pendant Charm Octagonal Fine Jewelry For Women Gifts For Her",
+            "price": 69.45,
+            "average_score": 80.0
+          },
+          {
+            "id": 4653,
+            "name": "Beaded Thai Baht Yellow Gold Plated Filled Necklace Jewelry for women 18 inch",
+            "price": 28.89,
+            "average_score": 80.0
+          },
+          {
+            "id": 62076,
+            "name": "Sterling Silver Wheat Chain 1.5mm 1.9mm 2.6mm 3.4mm 4.4mm 5.1mm 6mm 8mm Solid 925 Italy New Foxtail Spiga Necklace",
+            "price": 25.99,
+            "average_score": 80.0
+          },
+          {
+            "id": 62315,
+            "name": "Kooljewelry 10k Yellow Gold Singapore Chain Necklace For Women (0.7mm, 1mm, 1.4mm, 1.7mm - sizes from 14 to 30 inch long)",
+            "price": 27.0,
+            "average_score": 80.0
+          },
+          {
+            "id": 62881,
+            "name": "925 Sterling Silver 1.5MM Box Chain Italian Necklace- Sturdy and Strong Claps-16\"-30\"",
+            "price": 23.64,
+            "average_score": 80.0
+          },
+          {
+            "id": 1816,
+            "name": "Kooljewelry Sterling Silver 1.5 mm Open Cable Chain Necklace (14, 16, 18, 20, 22, 24, 30 or 36 inch)",
+            "price": 10.99,
+            "average_score": 75.0
+          },
+          {
+            "id": 61660,
+            "name": "PORI JEWELERS Sterling Silver Italian 2.5MM Solid Franco Square Box Link Chain Necklace - Multiple Colors & Sizes Available - Made in Italy",
+            "price": 41.73,
+            "average_score": 75.0
+          },
+          {
+            "id": 2756,
+            "name": "The World Jewelry Center 14k Real Yellow OR White Gold Solid 1.7mm Flat Open Wheat Chain Necklace with Lobster Claw Clasp",
+            "price": 236.0,
+            "average_score": 72.5
+          },
+          {
+            "id": 2785,
+            "name": "Sterling Silver Inch Byzantine 3mm Chain Necklace(Lengths 16\",18\",20\",24\",30\")",
+            "price": 70.07,
+            "average_score": 70.0
+          },
+          {
+            "id": 65162,
+            "name": "JOSCO Pop-Corn 2.5mm Chain Italian Sterling Silver Rhodium Plated Necklace 16,18,20,22,24,30,36\"",
+            "price": 35.99,
+            "average_score": 70.0
+          },
+          {
+            "id": 65620,
+            "name": "Gacimy 925 Sterling Silver Cable Chain Necklace for Women Men and Girls, 1mm Thin 16 18 20 22 24 Inches Necklace Chain",
+            "price": 18.99,
+            "average_score": 70.0
+          },
+          {
+            "id": 4917,
+            "name": "JOSCO Rose-gold Plated Over Sterling Silver 1.5mm Rope Chain .925 Vermeil Necklace. 16,18,20,24,30 Inches",
+            "price": 17.99,
+            "average_score": 67.5
+          },
+          {
+            "id": 62939,
+            "name": "Pyramid Jewelry 14k Tri Color Gold 0.8 mm Singapore Chain Necklace, 12\" to 20\"",
+            "price": null,
+            "average_score": 67.5
+          },
+          {
+            "id": 4406,
+            "name": "Sterling .925 Silver Rhodium Finish 1.5mm Diamond Cut Bead Chain Necklace with Lobster Clasp by IcedTime",
+            "price": 25.0,
+            "average_score": 65.0
+          },
+          {
+            "id": 3151,
+            "name": "Double Accent 3.6mm Stainless Steel Chain Round Box Chain Necklace (Available Length 18\", 20\", 22\", 24\")",
+            "price": 20.95,
+            "average_score": 62.5
+          },
+          {
+            "id": 3519,
+            "name": "Ross-Simons Italian 8mm Sterling Silver Omega Necklace",
+            "price": 249.0,
+            "average_score": 62.5
+          },
+          {
+            "id": 4014,
+            "name": "Vintage Bohemia Dream Catcher Feather Pendants Necklace Antique Bronze Color Women Sweater Chains Party Jewelry 1PC - (Metal Color: 3)",
+            "price": 13.93,
+            "average_score": 60.0
+          },
+          {
+            "id": 61408,
+            "name": "THE ICE EMPIRE JEWELRY, LLC 4mm Italian .925 Sterling Silver Flat Dome Omega Necklace 16in-18in",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 4352,
+            "name": "Bali Balinese Indonesian Black Oxidized .925 Sterling Silver Rope Twist Chain Necklace For Women For Men 16 18 20 24 Inch",
+            "price": 26.99,
+            "average_score": 57.5
+          },
+          {
+            "id": 65662,
+            "name": "Silver Tone 24\" 11mm Herringbone Chain Necklace",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 4439,
+            "name": "Wellingsale 14k Yellow Gold Solid 0.7mm Round Snake Chain Necklace with Lobster Claw Clasp",
+            "price": 259.0,
+            "average_score": 55.0
+          },
+          {
+            "id": 61173,
+            "name": "Handmade Egyptian Nefertiti Jewelry Necklace Pendant Enameled Pharaoh Egypt 102",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 4606,
+            "name": "Solid 14K Yellow Gold Chain 1.5mm Singapore Chain Necklace (16-24 Inches)",
+            "price": 275.99,
+            "average_score": 52.5
+          },
+          {
+            "id": 2070,
+            "name": "NYC Sterling Round Link Chain - Rhodium Necklaces for Men \u2013 Luxurious Rhodium Chain \u2013 2mm Round Box Chain \u2013 Modern and Minimalist Design \u2013 Made in Italy - 16-inch to 30-inch",
+            "price": 44.99,
+            "average_score": 42.5
+          },
+          {
+            "id": 4504,
+            "name": "NAUTORA Offshore Sport Fishing Boat Pendant Crafted in Sterling Silver with a 22\" Necklace Chain",
+            "price": 60.0,
+            "average_score": 35.0
+          },
+          {
+            "id": 59919,
+            "name": "Forge Stainless Steel Dog Tag Bead Chain Necklace 2.3MM 38\" Adjustable (1 Chain)",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 63819,
+            "name": "Necklace Cords and Extension Chains Set - D58 - Two 16\" Black Silk/Satin Cords AND 2 Pcs of 2\" and 2 Pcs of 4\" Extension Chains ~ Silver Tone Plated - SET OF TWO (2) CORDS and FOUR (4) EXTENSION CHAINS",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 4213,
+            "name": "LUXURMAN Solid 14K White or Yellow Gold 2.5mm Rope Chain Diamond Cut Necklace or Bracelet Lobster Clasp",
+            "price": 630.0,
+            "average_score": 32.5
+          },
+          {
+            "id": 64425,
+            "name": "Ross-Simons Italian 14kt Yellow Gold Paper Clip Link Toggle Necklace",
+            "price": 896.25,
+            "average_score": 30.0
+          },
+          {
+            "id": 65863,
+            "name": "Goldenchen Fashion 18k Gold 2mm Snake Chain Necklace Jewelry Chain 16\" - 30\" for Men & Women (18 Inches)",
+            "price": null,
+            "average_score": 30.0
+          }
+        ]
+      }
+    },
+    {
+      "episode": 4,
+      "category": "Hearing Aids, Amplifiers & Accessories",
+      "persona_index": 46308,
+      "episode_in_category": 1,
+      "steps": 12,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 78400,
+        "chosen_score": 85.0,
+        "best_product_id": 76353,
+        "best_score": 92.5,
+        "regret": 7.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 11,
+        "feedback": "Well, this is almost spot-on! I appreciate the suggestion of the Rayovac Size 312 Hearing Aid Batteries, but I do prefer the 24-count pack since it tends to last me a bit longer. Thank you for the thoughtful recommendation!",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "Are you looking for hearing aids or amplifiers for yourself, or are you shopping for someone else?",
+          "I am looking for hearing aids for myself."
+        ],
+        [
+          "What's your budget range for hearing aids?",
+          "I would say my budget range is around $1,000 to $2,000."
+        ],
+        [
+          "Do you have a preference for behind-the-ear hearing aids or in-the-ear styles?",
+          "I prefer behind-the-ear hearing aids."
+        ],
+        [
+          "Do you have any specific hearing difficulties you'd like the hearing aids to help with, like trouble hearing conversations or background noise?",
+          "Trouble hearing conversations."
+        ],
+        [
+          "Do you need any specific features like rechargeable batteries or Bluetooth connectivity?",
+          "No, I don't need any specific features like rechargeable batteries or Bluetooth connectivity."
+        ],
+        [
+          "Are you looking for prescription hearing aids from an audiologist or over-the-counter hearing amplifiers that don't require a prescription?",
+          "I'm looking for prescription hearing aids from an audiologist."
+        ],
+        [
+          "Would you prefer to purchase hearing aids online or are you planning to visit an audiologist's office for fitting and adjustment?",
+          "I plan to visit an audiologist's office for fitting and adjustment."
+        ],
+        [
+          "Since you're planning to visit an audiologist, are you looking to research and compare hearing aid options beforehand, or do you need something to help with your hearing while you wait for your appointment?",
+          "I need something to help with my hearing while I wait for my appointment."
+        ],
+        [
+          "Would you prefer something very affordable under $50 as a temporary solution, or are you willing to spend more for better quality while you wait?",
+          "I would prefer something very affordable under $50 as a temporary solution."
+        ],
+        [
+          "Do you prefer something that sits completely in your ear or something with a small tube that goes in your ear?",
+          "I prefer something with a small tube that goes in my ear."
+        ],
+        [
+          "Do you prefer something that's barely visible when worn or are you okay with it being somewhat noticeable?",
+          "I'm okay with it being somewhat noticeable."
+        ]
+      ],
+      "product_info": {
+        "num_products": 25,
+        "products_with_scores": [
+          {
+            "id": 76353,
+            "name": "Power One Size 312 Hearing Aid Battery No Mercury, 60 Batteries",
+            "price": 12.0,
+            "average_score": 92.5
+          },
+          {
+            "id": 76339,
+            "name": "Hearing Aids,Seniors Rechargeable Hearing Amplifier with Noise Cancelling for Adults Hearing Loss,Digital Ear Hearing Assist Devices with Volume Control,Magnetic Contact Charging Box",
+            "price": null,
+            "average_score": 87.5
+          },
+          {
+            "id": 77350,
+            "name": "Duracell Hearing Aid Batteries Size 13 Pack 60 Batteries 1.45V",
+            "price": 9.99,
+            "average_score": 87.5
+          },
+          {
+            "id": 78400,
+            "name": "Rayovac Size 312 Hearing Aid Batteries, Hearing Aid Batteries Size 312, 16 Count",
+            "price": 6.99,
+            "average_score": 85.0
+          },
+          {
+            "id": 79755,
+            "name": "Hearing aid, Rechargeable Hearing Aids for Seniors & Adults, HealthTree Digital Hearing Personal Amplifiers Sound Amplification with Portable Charging Case Black",
+            "price": 89.99,
+            "average_score": 85.0
+          },
+          {
+            "id": 81127,
+            "name": "Rechargeable BTE Hearing Enhancement Aids",
+            "price": 139.99,
+            "average_score": 85.0
+          },
+          {
+            "id": 76591,
+            "name": "Duracell Size 312 Hearing Aid Batteries (6 Batteries)",
+            "price": null,
+            "average_score": 82.5
+          },
+          {
+            "id": 78442,
+            "name": "Hearing Aids Rechargeable, Double Noise Reduction, Pitch Elimination, Longer Endurance, Portable Hearing Amplifiers with Charging Box for Adults Hearing Loss (Digital chip upgrade)",
+            "price": 59.99,
+            "average_score": 77.5
+          },
+          {
+            "id": 81070,
+            "name": "Hearing Aid Amplifier-Volume Control Layered Noise Reduction Digital Sound Amplifier with Dynamic Compression for Adults",
+            "price": null,
+            "average_score": 77.5
+          },
+          {
+            "id": 77263,
+            "name": "(20 Pack) Oticon 6mm Open Domes for: Agil, Acto, Ino, Dual, Delta, Epoq, Get, Hit, Tego, Vigo",
+            "price": null,
+            "average_score": 75.0
+          },
+          {
+            "id": 78568,
+            "name": "Rechargeable Hearing Amplifier with Volume Control Noise Reduction Digital Personal Sound Amplifier Devices for Adults and Seniors Loss",
+            "price": null,
+            "average_score": 75.0
+          },
+          {
+            "id": 80540,
+            "name": "BuyDBest(TM) Personal Sound Amplifier",
+            "price": null,
+            "average_score": 75.0
+          },
+          {
+            "id": 79685,
+            "name": "Phonak Hearing Aid LARGE Size POWER Domes",
+            "price": 10.99,
+            "average_score": 72.5
+          },
+          {
+            "id": 80379,
+            "name": "Rechargeable Hearing Aids with Bluetooth,Hearing Aids for Seniors Rechargeable with Noise Cancelling. Hearing Amplifier, In-The-Ear Digital Personal sound Amplification. Fast Charging Rechargeable Hearing Aid for Adult, Convenient to Operate, Stylish Appearanc",
+            "price": null,
+            "average_score": 72.5
+          },
+          {
+            "id": 77794,
+            "name": "Rechargeable Hearing Amplifiers - Set of 2 - Digital Quality - Personal Sound Amplification Products PSAP - BTE Desgin - Amplify Sound & Hear Clearer - Recharging Batteries - Instructional Videos - Compated to LifeEar & Siemens",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 78870,
+            "name": "Hearing Aid Batteries Size 312 by Hearing Direct - Pack of 6",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 81902,
+            "name": "6mm OPEN DOMES for BERNAFON Hearing Aids",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 81012,
+            "name": "Bellman & Symfon Mino Personal Amplifier with Stereo Earphone (HC-MINO-EP)",
+            "price": null,
+            "average_score": 67.5
+          },
+          {
+            "id": 77001,
+            "name": "Complete 12 pieces set - High Quality ITE Mini Rechargeable Ear Hearing Amplifier",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 79587,
+            "name": "(6 pack) Phonak Wax Trap",
+            "price": 24.99,
+            "average_score": 65.0
+          },
+          {
+            "id": 76411,
+            "name": "Hearing Aids, Rechargeable Hearing Aids for Seniors with Noise Cancelling, Hearing Amplifier for Adults with Charging Case, Aioze Digital Hearing Aid",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 81535,
+            "name": "New Era Small Convenien Hearing Amplifier Portable Invisible Noise Reduction",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 77238,
+            "name": "Vivtone Customizable Hearing Aids, Bluetooth APP Control & Self-Fitting, Rechargeable Personalized Hearing Assistance with Hearing Test to Customize Hearing Gain, Pair - Xpure",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 77258,
+            "name": "Listen Technologies LR-5200-216 Advanced Intelligent DSP RF Receiver (216 MHz), Dark Grey, Advanced Rechargeable Battery Technology",
+            "price": 261.0,
+            "average_score": 20.0
+          },
+          {
+            "id": 80922,
+            "name": "Meikosks Women's Fashion Letter Print T Shirt O-Neck Short Sleeve Tops Casual Blouses Plus Size Tee",
+            "price": 6.99,
+            "average_score": 5.0
+          }
+        ]
+      }
+    },
+    {
+      "episode": 5,
+      "category": "Women's Hiking & Trekking Shoes",
+      "persona_index": 46308,
+      "episode_in_category": 1,
+      "steps": 10,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 62626,
+        "chosen_score": 62.5,
+        "best_product_id": 60635,
+        "best_score": 80.0,
+        "regret": 17.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 9,
+        "feedback": "Well, those sneakers do look comfy, and I appreciate the thought, but I was actually hoping for something a bit more traditional, like a nice pair of leather loafers. I love a classic style that I can wear to church or when I\u2019m out and about in town.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "Are you looking for hiking shoes for casual walks and light trails, or do you need something more sturdy for serious hiking and rough terrain?",
+          "I'm looking for hiking shoes for casual walks and light trails."
+        ],
+        [
+          "What's your budget range for the hiking shoes?",
+          "I'd say around $50 to $75."
+        ],
+        [
+          "Do you prefer a specific color for your hiking shoes, like black, brown, or gray?",
+          "Brown."
+        ],
+        [
+          "Do you prefer shoes with more ankle support or low-cut shoes that give you more freedom of movement?",
+          "I prefer shoes with more ankle support."
+        ],
+        [
+          "Do you prefer a specific brand like Merrell, Columbia, or Keen, or are you open to any brand as long as it meets your needs?",
+          "I'm open to any brand as long as it meets my needs."
+        ],
+        [
+          "Do you have a preferred shoe size, or would you like to know about the available sizes for the shoes that match your other preferences?",
+          "I wear a size 7.5."
+        ],
+        [
+          "Do you prefer waterproof hiking shoes or are regular water-resistant shoes fine for your casual walks?",
+          "Regular water-resistant shoes are fine for my casual walks."
+        ],
+        [
+          "Do you prefer lace-up hiking shoes or slip-on styles for easier on and off?",
+          "I prefer slip-on styles for easier on and off."
+        ],
+        [
+          "Do you prefer hiking shoes with a more rugged sole for better grip, or a smoother sole that's more comfortable for walking on pavement and easier trails?",
+          "I prefer hiking shoes with a more rugged sole for better grip."
+        ]
+      ],
+      "product_info": {
+        "num_products": 22,
+        "products_with_scores": [
+          {
+            "id": 60635,
+            "name": "Ahnu Women's Sugarpine Air Mesh Hiking Shoe",
+            "price": 69.99,
+            "average_score": 80.0
+          },
+          {
+            "id": 60938,
+            "name": "XPETI Women's Dimo Mid Waterproof Outdoor Hiking Boot Non Slip",
+            "price": 56.99,
+            "average_score": 80.0
+          },
+          {
+            "id": 60976,
+            "name": "Columbia Women's Newton Ridge Plus, Delta/Red Velvet, 6.5",
+            "price": null,
+            "average_score": 72.5
+          },
+          {
+            "id": 66070,
+            "name": "Columbia womens Newton Ridge Plus hiking boots, Deep Wave/Dusty Green, 6.5 US",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 66207,
+            "name": "Ahnu Women's Montara Boot",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 64379,
+            "name": "Nevados Boom 2 Mid Hiking Boots for Women, Water Resistant, Multi-Terrain Lug Pattern, Comfortable & Weather Proof Structure Rubber Traction Outsole Cradled Footbed",
+            "price": null,
+            "average_score": 67.5
+          },
+          {
+            "id": 59578,
+            "name": "Merrell Women's Crosslander 2 Hiking Shoe",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 61961,
+            "name": "Merrell Women's Zion Wp Hiking Shoe",
+            "price": 164.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 62626,
+            "name": "Touchmosees Women Mary Jane Sneakers Platform Sneakers Air Cushion Slip-on Walking Shoes Orthopedic Diabetic Walking Wedge Sneaker Ladies Toning Rocker Shoes",
+            "price": 29.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 62701,
+            "name": "Merrell womens Alverstone Waterproof Hiking Shoe, Brindle, 7 US",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 60492,
+            "name": "adidas Women's Terrex Trailmaker Hiking Shoes",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 60185,
+            "name": "CAMEL CROWN Women's Outdoor Leather Hiking Shoes Low Cut Boots Breathable Lightweight Sneaker for Walking Trekking",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 59136,
+            "name": "Ariat Women's Terrain Pro H2O Hiking Boot",
+            "price": 199.99,
+            "average_score": 50.0
+          },
+          {
+            "id": 59527,
+            "name": "Vasque Women's Canyonlands UltraDry Waterproof Hiking Boot",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 63900,
+            "name": "Salomon Women's X Ultra Pioneer Mid Climasalomon Waterproof Boots Trail Running, Hiking Shoes for Women",
+            "price": 110.34,
+            "average_score": 42.5
+          },
+          {
+            "id": 65473,
+            "name": "Ahnu Women's Northridge Insulated Waterproof Hiking Boot",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 63943,
+            "name": "Women's Hiking Boots Backpacking Trekking Boots Waterproof Lightweight Ankle Booties (Black,US9)",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 60502,
+            "name": "Lowa Women's Renegade LL Mid Hiking Boot",
+            "price": 242.5,
+            "average_score": 27.5
+          },
+          {
+            "id": 58971,
+            "name": "Merrell Work Moab 2 Vent Waterproof SR Boulder",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 62598,
+            "name": "LUCKY STEP Women's Leopard Colorblock lace up Sneakers Cosy Chunky Climbing Hiking Running Shoes.",
+            "price": 30.99,
+            "average_score": 25.0
+          },
+          {
+            "id": 63742,
+            "name": "Oboz Women's Sawtooth Low Bdry Multisport Shoe",
+            "price": 248.53,
+            "average_score": 22.5
+          },
+          {
+            "id": 60789,
+            "name": "Danner Men's Pronghorn 8\" Brown All-Leather 400G",
+            "price": null,
+            "average_score": 10.0
+          }
+        ]
+      }
+    }
+  ],
+  "category_results": {
+    "Business Cards": [
+      {
+        "episode": 1,
+        "category": "Business Cards",
+        "persona_index": 46308,
+        "episode_in_category": 1,
+        "steps": 5,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 105103,
+          "chosen_score": 15.0,
+          "best_product_id": 105907,
+          "best_score": 65.0,
+          "regret": 50.0,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 4,
+          "feedback": "Well, bless your heart for trying, but those cute cat business cards aren't quite what I was looking for. I was hoping to find some lovely quilt patterns or maybe a good historical fiction novel to dive into.",
+          "feedback_type": "persona"
+        },
+        "full_dialog": [
+          [
+            "What's your budget for business cards?",
+            "I don't really have a budget for business cards, as I don't need them anymore."
+          ],
+          [
+            "Are you looking for business cards for someone else, or would you prefer to skip business cards entirely?",
+            "I would prefer to skip business cards entirely."
+          ],
+          [
+            "Are you sure there's no situation where you might need business cards in the future, like networking events or professional meetings?",
+            "No, I don't foresee needing business cards in the future."
+          ],
+          [
+            "Would you consider getting just a small pack of basic business cards to keep on hand, just in case?",
+            "No, I don't think I need business cards anymore."
+          ]
+        ],
+        "product_info": {
+          "num_products": 25,
+          "products_with_scores": [
+            {
+              "id": 105907,
+              "name": "Personalized Business Cards - 3.5\" x 2\" - Thick Sturdy 300GSM Cards - Small Business Designs - 100% Made in the U.S.A. - 100 or 500 Cards (Paw Prints, 100)",
+              "price": 24.95,
+              "average_score": 65.0
+            },
+            {
+              "id": 108480,
+              "name": "200 pcs Full Color Custom 2 Sides Printed Business Card,Personalized Name Card,3.5\" x 2\" (Flower 06)",
+              "price": 14.99,
+              "average_score": 65.0
+            },
+            {
+              "id": 105221,
+              "name": "Premium Custom Business Cards 250 cards Elegant Shimmering Metallic Paper 3.5x2 inches Customizable Design with Luxurious Soft Texture",
+              "price": 17.99,
+              "average_score": 62.5
+            },
+            {
+              "id": 106547,
+              "name": "Organic Custom Printed Business Cards - Set of 250 - 2 x 3-\u00bd inches - Matte Finish - Double-Sided - Gifts for Artists, Florists, Gardeners, Printed in the USA, by Colorful Images",
+              "price": 21.99,
+              "average_score": 62.5
+            },
+            {
+              "id": 107443,
+              "name": "Custom Business Cards Customized Business Cards Double Side Print Business Cards for Small Business Custom-300gsm Waterproof Business Cards",
+              "price": 10.99,
+              "average_score": 62.5
+            },
+            {
+              "id": 108363,
+              "name": "Avery 8471 Business Cards, Inkjet, Matte, 2-Inch X3-1/2-Inch, 1000/Bx, White",
+              "price": 40.74,
+              "average_score": 62.5
+            },
+            {
+              "id": 105375,
+              "name": "Ebamaz 304 Stainless Steel Thick 0.5mm Metal Business Cards Blank Tablet 86X54mm Pack of 10PCS (Silver Brushed Finishing, Blank)",
+              "price": 15.99,
+              "average_score": 57.5
+            },
+            {
+              "id": 107368,
+              "name": "Simple Custom Premium Business Cards 500 pcs Full color - Black front-White back, 16pt Cover Stock (129 lbs. 350gsm-Thick paper), Made in The USA",
+              "price": 32.98,
+              "average_score": 57.5
+            },
+            {
+              "id": 108236,
+              "name": "Amerixun Custom Business Name Card,Upload Your own Design,2\" x 3.5\", Personalized id Card (100)",
+              "price": 9.99,
+              "average_score": 57.5
+            },
+            {
+              "id": 107702,
+              "name": "Custom Premium Business Cards 500 pcs Full color - Marble (129 lbs. 350gsm-Thick paper), UV coating-Front, Matt finishing-Back,Made in The USA (Half Black2)",
+              "price": 32.99,
+              "average_score": 55.0
+            },
+            {
+              "id": 107573,
+              "name": "Royal Brites Matte Business Cards, White, 2 x 3.5 Inches, Pack of 1000 (28992)",
+              "price": null,
+              "average_score": 52.5
+            },
+            {
+              "id": 105269,
+              "name": "PPAPPAPPIYO Blue Paper Business Cards (100) Paper Blue01- Blank",
+              "price": null,
+              "average_score": 50.0
+            },
+            {
+              "id": 106502,
+              "name": "Custom Business Cards 500pcs Full color - Natural Kraft Image - 14pt classic matte stock paper (114 lbs. 308gsm-Thick paper), Made in The USA",
+              "price": null,
+              "average_score": 50.0
+            },
+            {
+              "id": 106498,
+              "name": "Parchment Natural Business Cards, 2\"x3.5\", 250/PK",
+              "price": null,
+              "average_score": 47.5
+            },
+            {
+              "id": 107250,
+              "name": "Business Cards Customer Laser Engraving DIY Gift Cards Office Tool 50Pcs Metal for Home Office Silver",
+              "price": 9.01,
+              "average_score": 42.5
+            },
+            {
+              "id": 108703,
+              "name": "Pajean 120 Pcs Inspirational Encouragement Quote Cards Motivational Kindness Appreciation Gratitude Business Cards Note Cards Mini for Employee, Students, Teachers, Kids, Family, 30 Styles",
+              "price": 7.29,
+              "average_score": 35.0
+            },
+            {
+              "id": 105876,
+              "name": "Avery 8871 Business Card For Inkjet Print",
+              "price": 19.99,
+              "average_score": 32.5
+            },
+            {
+              "id": 108721,
+              "name": "Ebamaz Metal Business Cards Anodized Aluminum Plaque Plate 86X54X0.8mm (Red, Blank,10PCS)",
+              "price": 15.99,
+              "average_score": 20.0
+            },
+            {
+              "id": 105197,
+              "name": "Appointment Reminder Cards - Business Card Size 3.5 X 2 Inches - Pack of 50",
+              "price": 8.25,
+              "average_score": 17.5
+            },
+            {
+              "id": 105103,
+              "name": "PPAPPAPPIYO/Cute cat Thank you for supporting My small business cards,Pink Thanks for Supporting Small Business Packaging Inserts(3.5 x 2.1 inches)-100 Business card sized",
+              "price": null,
+              "average_score": 15.0
+            },
+            {
+              "id": 107338,
+              "name": "DEWALLIE 50 PCS Blank Metal Business Cards, Laser Engraver Engraving Aluminum Name Cards DIY Gift Card for Ortur Laser Master 2 Pro, K40",
+              "price": null,
+              "average_score": 15.0
+            },
+            {
+              "id": 107509,
+              "name": "EMAAN 200 Pieces White Kraft Paper Flash Card Study Cards/Memo Scratch Pads/Bookmark/DIY Greeting Card/Index Card Stock/Note Card(White)",
+              "price": null,
+              "average_score": 15.0
+            },
+            {
+              "id": 108976,
+              "name": "620PCS Thank You Cards and Stickers Set, Holographic Silver Thank You Business Card 500 Piece 1.5 inch Thank You Roll Labels 20PCS Smell Proof Mylar Bags for Business Owners",
+              "price": 11.99,
+              "average_score": 15.0
+            },
+            {
+              "id": 107388,
+              "name": "Thank You for Supporting My Small Business Cards, Premium Look And Feel With Gold Foil Hearts (Business Card Sized 2\"x3.5\") 120 Sheets- Purchase Inserts to Support Small Business (Pink)",
+              "price": null,
+              "average_score": 12.5
+            },
+            {
+              "id": 105866,
+              "name": "30Pcs Among us Theme Bags Birthday Party Supplies",
+              "price": null,
+              "average_score": 2.5
+            }
+          ]
+        }
+      }
+    ],
+    "Wind Chimes": [
+      {
+        "episode": 2,
+        "category": "Wind Chimes",
+        "persona_index": 46308,
+        "episode_in_category": 1,
+        "steps": 8,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 111248,
+          "chosen_score": 95.0,
+          "best_product_id": 111248,
+          "best_score": 95.0,
+          "regret": 0.0,
+          "top1": true,
+          "top3": true,
+          "questions_asked": 7,
+          "feedback": "Perfect! This is exactly what I was looking for. Great recommendation!",
+          "feedback_type": "persona"
+        },
+        "full_dialog": [
+          [
+            "Are you looking for wind chimes for your garden or porch, or as a gift for someone?",
+            "I'm looking for wind chimes for my garden."
+          ],
+          [
+            "What's your budget range for the wind chimes?",
+            "Around $30 to $50."
+          ],
+          [
+            "Do you prefer wind chimes with a deeper, melodic tone or lighter, tinkling sounds?",
+            "I prefer wind chimes with a deeper, melodic tone."
+          ],
+          [
+            "What size wind chimes would work best for your garden space - smaller ones around 12-18 inches or larger ones over 24 inches?",
+            "Smaller ones around 12-18 inches."
+          ],
+          [
+            "What material would you prefer for your wind chimes - metal for richer tones or bamboo for a more natural look?",
+            "Bamboo for a more natural look."
+          ],
+          [
+            "Would you like wind chimes that hang from a single point or ones with multiple hanging tubes arranged in a cluster?",
+            "I would like wind chimes with multiple hanging tubes arranged in a cluster."
+          ],
+          [
+            "Do you have a preference for the number of tubes in the cluster - would you like a fuller sound with 6-8 tubes or a simpler arrangement with 4-5 tubes?",
+            "I prefer a simpler arrangement with 4-5 tubes."
+          ]
+        ],
+        "product_info": {
+          "num_products": 64,
+          "products_with_scores": [
+            {
+              "id": 111248,
+              "name": "Corinthian Bells by Wind River - 56 inch Silver Vein Wind Chime for Patio, Backyard, Garden, and Outdoor d\u00e9cor (Aluminum Chime) Made in The USA",
+              "price": 358.98,
+              "average_score": 95.0
+            },
+            {
+              "id": 109677,
+              "name": "Soopau Memorial Gifts, Sympathy Wind Chimes Memorial Wind Chimes for Loss of Loved One Prime, Sympathy Gift, Bereavement/Remembrance Gifts in Memory of Loved One Mother Father, 30\" Wooden",
+              "price": 29.99,
+              "average_score": 90.0
+            },
+            {
+              "id": 110511,
+              "name": "LK Creative Memorial Wind Chimes with Photo Frame - Lifetree Engraved Outdoor Ornament with Rich Deep Tone - Memory & Remembrance Keepsake for Loved Ones - Gifts for Sympathy, Bereavement, Funerals",
+              "price": null,
+              "average_score": 87.5
+            },
+            {
+              "id": 111266,
+              "name": "Carson Home Accents 62913 Always Near Sonnet Chime,30\"",
+              "price": 35.9,
+              "average_score": 87.5
+            },
+            {
+              "id": 111411,
+              "name": "Nature\u2019s Melody Aureole Tunes Wind Chimes \u2013 Outdoor Windchime with 6 Tubes Tuned to E Pentatonic Scale, 100% Rustproof Aluminum, Powder Finish & S Hook Hanger for Sympathy, Memorial Gift or Zen Garden",
+              "price": 39.95,
+              "average_score": 87.5
+            },
+            {
+              "id": 110162,
+              "name": "Woodstock Chimes Signature Collection, Bells of Paradise, Pacific Blue 32\"\", Decor Designs Wind Chimes for Outdoor, Patio, Home or Garden D\u00e9cor (BPMPB)",
+              "price": 57.99,
+              "average_score": 85.0
+            },
+            {
+              "id": 111234,
+              "name": "Shenandoah Melodies by Wind River - 35 inch Green Wind Chime for Patio, Backyard, Garden, and Outdoor d\u00e9cor (Aluminum Chime) Made in The USA",
+              "price": 104.98,
+              "average_score": 85.0
+            },
+            {
+              "id": 109487,
+              "name": "2 Pack Pgzsy Memorial Wind Chimes Outdoor Large Deep Tone, Wind Chime Outdoor Sympathy Wind-Chime Personalized with 6 Tuned Tubes, Elegant Chime for Garden Patio Balcony and Home",
+              "price": 16.99,
+              "average_score": 82.5
+            },
+            {
+              "id": 110166,
+              "name": "Cohasset Gifts Bamboo Wind Chimes | Medium 38 inch | Natural Beautiful Sound | Wood Outdoor Home Decor | #127 Blue Butterfly",
+              "price": 36.95,
+              "average_score": 82.5
+            },
+            {
+              "id": 111294,
+              "name": "Woodstock Chimes Signature Collection, Chimes of Bach, 28'' Famous Melodies Wind Chimes for Outdoor, Patio, Home or Garden D\u00e9cor (CBWSI)",
+              "price": 55.99,
+              "average_score": 82.5
+            },
+            {
+              "id": 109995,
+              "name": "Ankinte Handmade Wind Chimes 5 Bamboo Bell Tubes, Half Coconut Wood Top, Low Deep Tone Wooden Chimes Outdoor Indoor Home D\u00e9cor 25 inch",
+              "price": 16.99,
+              "average_score": 80.0
+            },
+            {
+              "id": 111422,
+              "name": "Spoontiques Resin Cardinal Wind Chime",
+              "price": null,
+              "average_score": 80.0
+            },
+            {
+              "id": 110863,
+              "name": "UpBlend Havasu 38\" Brown Outdoor Wind Chimes Deep Tone - Decorations for Home Zen, Patio, Yard and Garden Decor, Deep Sounding Windchimes for Outside Clearance, Housewarming Gifts for New House",
+              "price": 34.94,
+              "average_score": 77.5
+            },
+            {
+              "id": 111629,
+              "name": "Lamris Wind Chimes, Large 36\" Garden Chimes 18 Gold Aluminum Alloy Tubes and Hooks for Patio Outdoors Decor Home Decorations",
+              "price": 13.99,
+              "average_score": 77.5
+            },
+            {
+              "id": 111670,
+              "name": "Mosteck Anodized Aluminium Wind Chimes 26\" Inches, Gift for Unisex, Suitable for Outdoor, Garden, Patio Decoration",
+              "price": 11.97,
+              "average_score": 77.5
+            },
+            {
+              "id": 109952,
+              "name": "Solar Hummingbird Windchimes Garden Gifts for Mom, Color-Changing Hanging Hummingbird Lights Outdoor Yard Waterproof Decor Perfect Mothers Day Birthday Gift Ideas for Mom/Grandma",
+              "price": null,
+              "average_score": 75.0
+            },
+            {
+              "id": 110721,
+              "name": "Cohasset Gifts 174P Passion Bobbing Head Bird Bamboo Wind Chime, Hand Painted Purple Spotted Design",
+              "price": 65.89,
+              "average_score": 75.0
+            },
+            {
+              "id": 110319,
+              "name": "Gifts & Decor Rainbow Butterfly Indoor/Outdoor Garden Wind Chime",
+              "price": 16.17,
+              "average_score": 72.5
+            },
+            {
+              "id": 111819,
+              "name": "Russ Berrie WC-GEO-105 Dragonfly JW Stannard Geotunes Wind Chime",
+              "price": null,
+              "average_score": 72.5
+            },
+            {
+              "id": 109056,
+              "name": "Sunset Vista Designs 92399 Farm Cat Metal Wind Chime, Galvanized",
+              "price": 31.88,
+              "average_score": 70.0
+            },
+            {
+              "id": 110399,
+              "name": "xxschy LED Solar Blue Hummingbird Wind Chime",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 111462,
+              "name": "rockcloud Rock Quartz Raw Stones Wind Chime Home Garden Decoration Figurine",
+              "price": 20.99,
+              "average_score": 70.0
+            },
+            {
+              "id": 109441,
+              "name": "Zaer Ltd. Hanging Copper Colored Fancy Roof Birdhouse Wind Chime (Classic House)",
+              "price": 79.95,
+              "average_score": 67.5
+            },
+            {
+              "id": 111745,
+              "name": "Asli Arts Collection Capiz Solar Chime, Light Blue, 24\" L",
+              "price": null,
+              "average_score": 67.5
+            },
+            {
+              "id": 109838,
+              "name": "Wind Chimes Solar Light Windchimes Glass Hanging Wind Chime with Solar Light for Home,Garden,Patio and Yard Decor,Copyright Certificated",
+              "price": 18.99,
+              "average_score": 65.0
+            },
+            {
+              "id": 109928,
+              "name": "Solar Moon Wind Chime for Outside Clearance, Color Changing Wind Chimes with Solar Lights, Waterproof Hanging Solar Mobile Lights for Garden, Patio, Party, Yard Decoration (8 Moon)",
+              "price": null,
+              "average_score": 65.0
+            },
+            {
+              "id": 111190,
+              "name": "Spoontiques Hummingbird Handpainted Chime, Multicolored",
+              "price": 7.23,
+              "average_score": 65.0
+            },
+            {
+              "id": 111419,
+              "name": "COTTON CRAFT - Rising Sun & Bells Wind Chime - Bring Tranquility, Serenity and Gentle Relaxing Music to Your Home",
+              "price": null,
+              "average_score": 65.0
+            },
+            {
+              "id": 111439,
+              "name": "Spoontiques Hummingbird Wind Chime",
+              "price": null,
+              "average_score": 65.0
+            },
+            {
+              "id": 111542,
+              "name": "Chimesofyourlife E4543 Wind Chime, Papillon/Bronze, 27-Inch",
+              "price": null,
+              "average_score": 65.0
+            },
+            {
+              "id": 109356,
+              "name": "Alpine Corporation HTO108YL Glass Hanging Jellyfish Windchimes, 12 Inch Tall, Yellow",
+              "price": null,
+              "average_score": 62.5
+            },
+            {
+              "id": 109879,
+              "name": "Cohasset Gifts 593 Wind Work Boat Cohasset Bell, White & Blue Distressed Finish",
+              "price": 68.73,
+              "average_score": 62.5
+            },
+            {
+              "id": 110569,
+              "name": "Banfeng 2 Pack Lucky Wind Chimes 3 Bells Feng Shui Wind Bell with S Hook for Good Luck Home Garden Hanging Decoration Gift",
+              "price": 12.99,
+              "average_score": 62.5
+            },
+            {
+              "id": 111787,
+              "name": "Cannon MCC350 Large Round Wood Top Wind Chime",
+              "price": null,
+              "average_score": 62.5
+            },
+            {
+              "id": 109067,
+              "name": "Bunny Boaters Windchime",
+              "price": null,
+              "average_score": 60.0
+            },
+            {
+              "id": 110334,
+              "name": "LAO LA Memorial Wind Chimes for Outdoor - Deep Melodic Wind Chimes for Loss of Loved Ones, Sympathy Gift, Memorial Gifts, and Condolence Remembrances - and Comfort Sounds for Your Home or Backyard",
+              "price": 59.99,
+              "average_score": 60.0
+            },
+            {
+              "id": 110500,
+              "name": "Vindar Wind Chime, Iron Folk Art Owl Model Design Glass Wind Chimes for Wall Hanging Home Art Decor, Beautiful Apartment Room Dorm Decoration, Great Gift Decor for Terrace,Patio,Porch,Garden,Backyard",
+              "price": null,
+              "average_score": 60.0
+            },
+            {
+              "id": 109055,
+              "name": "Woodstock Signature Collection Portrait Chime, 22-1/2-Inch, Jade",
+              "price": null,
+              "average_score": 57.5
+            },
+            {
+              "id": 110686,
+              "name": "Solar Wind Chimes Auto Chang Colors,Gifts for Mom Women,Outdoor Waterproof Decorations Acrylic Mobile for Garden Yard Lawn Patio",
+              "price": 25.99,
+              "average_score": 57.5
+            },
+            {
+              "id": 109688,
+              "name": "WEICHUAN Wind Chimes Wind Bells - Vintage Style Chinese Traditional Fish Feng Shui Bell for Good Luck Blessing Fortune Home Car Crafts Hanging Decoration Gift (Pack of 4)",
+              "price": null,
+              "average_score": 55.0
+            },
+            {
+              "id": 109884,
+              "name": "Spoontiques Swirl Hummingbird Wind Chime",
+              "price": null,
+              "average_score": 55.0
+            },
+            {
+              "id": 110064,
+              "name": "Sunset Vista Design Studios Coffee Time Chime",
+              "price": null,
+              "average_score": 55.0
+            },
+            {
+              "id": 111383,
+              "name": "Wind Chime 3D Butterfly Outdoor Indoor Decor 31\" Metal Glass Music Wind Chimes Mobile Romantic Chimes for Garden, Patio, Yard, Backyard or Festival Decor/Best Mothers and Women Gifts",
+              "price": 14.75,
+              "average_score": 55.0
+            },
+            {
+              "id": 111759,
+              "name": "ASTARIN Windchimes in Memory of a Loved (30 inch) Chimes for Outdoors Clearance with 5 Aluminum Tuned Black Tubes, Memorial Wind Chimes Bereavement Gift Decoration for Home, Garden,Patio,Backyard.",
+              "price": 18.99,
+              "average_score": 55.0
+            },
+            {
+              "id": 111149,
+              "name": "Ebros Rustic Woodlands Emperor Elk Moose Deer Wind Chime Family Decorative Wind Chime Outdoors Cabin Lodge Forest Garden Patio Noisemakers Figurine Statue",
+              "price": 35.99,
+              "average_score": 50.0
+            },
+            {
+              "id": 109397,
+              "name": "Create Your Own Wind Chime With These Petite Wind Chime Tubes",
+              "price": null,
+              "average_score": 47.5
+            },
+            {
+              "id": 109244,
+              "name": "Bizbravo Wind Chimes, Ball Wind Chimes Outdoor,Solar Wind Chimes, Gifts for mom, Birthday Gifts for Women",
+              "price": 15.99,
+              "average_score": 45.0
+            },
+            {
+              "id": 111501,
+              "name": "HiMo Vintage Dragon Fengshui Bell Toy Good Luck Bless for Home Garden Hanging Windchime Blessing Decoration Gift (Dragon)",
+              "price": 5.99,
+              "average_score": 45.0
+            },
+            {
+              "id": 109796,
+              "name": "ECOM Little Succulent Plant Wind Chime Noisemakers with Bell for Patio Outdoor Decor (Warm)",
+              "price": null,
+              "average_score": 42.5
+            },
+            {
+              "id": 109729,
+              "name": "Yeyo Hummingbird Solar Wind Spinner Light, LED Multi Color Changing Solar Mobiles",
+              "price": null,
+              "average_score": 40.0
+            },
+            {
+              "id": 110109,
+              "name": "GUAGLL 2Pcs Outdoor Decoration Solar Environmental Protection Garden Hanging Decoration Gift",
+              "price": null,
+              "average_score": 37.5
+            },
+            {
+              "id": 110571,
+              "name": "Woodstock Chimes Asli Arts Collection, Mini Capiz Chime, 12'' Light Blue Capiz Wind Chimes for Outdoor, Patio, Home or Garden D\u00e9cor (C138)",
+              "price": null,
+              "average_score": 37.5
+            },
+            {
+              "id": 111006,
+              "name": "Woodstock Chimes Encore Collection, Chimes of Polaris, 22'' Silver Wind Chimes for Outdoor, Patio, Home or Garden D\u00e9cor (DCS22)",
+              "price": null,
+              "average_score": 37.5
+            },
+            {
+              "id": 109223,
+              "name": "Hanging LED Solar Stars Wind Chimes Outdoor Decor Waterproof Mobile Romantic Solar Power Color Changing Wind Chime Light Xmas Gifts for Mom, Home, Patio, Yard, Party, Festival, Night Garden Decoration",
+              "price": null,
+              "average_score": 35.0
+            },
+            {
+              "id": 109453,
+              "name": "Ahtliay Solar Butterfly Wind Chimes Color Changing LED Mobile Wind Chime Waterproof Outdoor Decorative Garden Gifts for Mom Garden Decor Solar Butterfly",
+              "price": null,
+              "average_score": 35.0
+            },
+            {
+              "id": 110591,
+              "name": "Carson Beautiful Life Lantern Chime",
+              "price": null,
+              "average_score": 35.0
+            },
+            {
+              "id": 110981,
+              "name": "Antique Iron Cross Wind Chime",
+              "price": null,
+              "average_score": 32.5
+            },
+            {
+              "id": 111176,
+              "name": "Uonlytech 1Pc Line Ball Shape Wind Chimes Color Changing Solar Powered Wind Spinner Lamp Wind Dangler Wind Chime for Patio Home Balcony",
+              "price": null,
+              "average_score": 22.5
+            },
+            {
+              "id": 109050,
+              "name": "Vency Black Christmas Tree Solar Wind Chimes Outdoor Gardening Gifts for mom Unique Birthday Gifts for Women who has Everything Mother Gifts Gifts for Girlfriend Valentine Gifts for Wife",
+              "price": null,
+              "average_score": 20.0
+            },
+            {
+              "id": 109561,
+              "name": "srso Wind Chimes Gift for Woman Solar Skeleton Skull Powered Night Light,LED Solar Skull Wind Chimes Gift for Christmas and Halloween,Waterproof Home Decoration Skull Lights,colorful",
+              "price": 19.99,
+              "average_score": 17.5
+            },
+            {
+              "id": 111284,
+              "name": "Fenfangxilas Wind Chimes, Vintage Wooden Elephant Copper Pipe Wind Chimes for Backyard Patio Homestay Home Garden Hanging Decoration",
+              "price": null,
+              "average_score": 15.0
+            },
+            {
+              "id": 110538,
+              "name": "Juvale Rustic Cast Iron Bird Doorbell Chime (8.7 x 7 x 1.5 Inches)",
+              "price": null,
+              "average_score": 10.0
+            },
+            {
+              "id": 111271,
+              "name": "Vintage Garden Decorative Chain (Flower) by Grasslands Road",
+              "price": null,
+              "average_score": 10.0
+            },
+            {
+              "id": 110281,
+              "name": "Elogio Doormat Indoor Outdoor Doormats Outside Effective Scraping of Dirt Patio Grass Snow Dust Grit Removal Ideal Low Profile Door Mat Front Door Entrance Mat Rug Non Slip Rubber (Gray) 17.5''x 27''",
+              "price": null,
+              "average_score": 5.0
+            }
+          ]
+        }
+      }
+    ],
+    "Women's Chain Necklaces": [
+      {
+        "episode": 3,
+        "category": "Women's Chain Necklaces",
+        "persona_index": 46308,
+        "episode_in_category": 1,
+        "steps": 6,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 4213,
+          "chosen_score": 32.5,
+          "best_product_id": 65561,
+          "best_score": 90.0,
+          "regret": 57.5,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 5,
+          "feedback": "Oh dear, that's not quite what I had in mind. I was really hoping for something more practical and meaningful, like a cozy new quilt or perhaps a good historical fiction book to curl up with on the porch.",
+          "feedback_type": "persona"
+        },
+        "full_dialog": [
+          [
+            "What's your budget range for a chain necklace?",
+            "I'd say around $50 to $100."
+          ],
+          [
+            "Do you prefer a simple, classic chain style or something more decorative with charms or pendants?",
+            "I prefer a simple, classic chain style."
+          ],
+          [
+            "What length chain would you prefer - shorter around 16-18 inches or longer around 20-24 inches?",
+            "I prefer a shorter chain around 16-18 inches."
+          ],
+          [
+            "What type of metal do you prefer - gold, silver, or rose gold?",
+            "Gold"
+          ],
+          [
+            "What chain thickness do you prefer - a delicate thin chain or a more substantial chunky chain?",
+            "A delicate thin chain."
+          ]
+        ],
+        "product_info": {
+          "num_products": 36,
+          "products_with_scores": [
+            {
+              "id": 65561,
+              "name": "ChubbyChicoCharms I Love You to The Moon and Back with Hearts Heart and Crystal 18\" Necklace",
+              "price": 15.99,
+              "average_score": 90.0
+            },
+            {
+              "id": 1786,
+              "name": "1.2mm - 5 mm Sterling Silver Plain Pallini Bead Ball Chain NecklaceNickel Free Italy",
+              "price": 14.76,
+              "average_score": 87.5
+            },
+            {
+              "id": 2181,
+              "name": ".925 Sterling Silver Barrel Cylinder Green Jade Slider Barrel Necklace 18 inches chain included",
+              "price": 9.59,
+              "average_score": 85.0
+            },
+            {
+              "id": 4022,
+              "name": "1928 Jewelry Silver Tone Cable Chain & Faux Pearl Eyeglass Holder Necklace 30 Inches",
+              "price": 19.42,
+              "average_score": 85.0
+            },
+            {
+              "id": 63002,
+              "name": "Verona Jewelers 925 Sterling Silver 1.5MM Adjustable Singapore Chain Twist Chain Necklace For Women- 24\" Slider Necklace, Bolo Necklace for Women",
+              "price": 24.99,
+              "average_score": 81.5
+            },
+            {
+              "id": 1681,
+              "name": "14k Yellow Gold 2.1mm Classic Rolo Cable Chain Necklace with Lobster Claw Clasp - 16\"",
+              "price": 202.0,
+              "average_score": 80.0
+            },
+            {
+              "id": 1859,
+              "name": "925 Sterling Silver .6mm 8 Sided Mirror Box Chain Necklace Pendant Charm Octagonal Fine Jewelry For Women Gifts For Her",
+              "price": 69.45,
+              "average_score": 80.0
+            },
+            {
+              "id": 4653,
+              "name": "Beaded Thai Baht Yellow Gold Plated Filled Necklace Jewelry for women 18 inch",
+              "price": 28.89,
+              "average_score": 80.0
+            },
+            {
+              "id": 62076,
+              "name": "Sterling Silver Wheat Chain 1.5mm 1.9mm 2.6mm 3.4mm 4.4mm 5.1mm 6mm 8mm Solid 925 Italy New Foxtail Spiga Necklace",
+              "price": 25.99,
+              "average_score": 80.0
+            },
+            {
+              "id": 62315,
+              "name": "Kooljewelry 10k Yellow Gold Singapore Chain Necklace For Women (0.7mm, 1mm, 1.4mm, 1.7mm - sizes from 14 to 30 inch long)",
+              "price": 27.0,
+              "average_score": 80.0
+            },
+            {
+              "id": 62881,
+              "name": "925 Sterling Silver 1.5MM Box Chain Italian Necklace- Sturdy and Strong Claps-16\"-30\"",
+              "price": 23.64,
+              "average_score": 80.0
+            },
+            {
+              "id": 1816,
+              "name": "Kooljewelry Sterling Silver 1.5 mm Open Cable Chain Necklace (14, 16, 18, 20, 22, 24, 30 or 36 inch)",
+              "price": 10.99,
+              "average_score": 75.0
+            },
+            {
+              "id": 61660,
+              "name": "PORI JEWELERS Sterling Silver Italian 2.5MM Solid Franco Square Box Link Chain Necklace - Multiple Colors & Sizes Available - Made in Italy",
+              "price": 41.73,
+              "average_score": 75.0
+            },
+            {
+              "id": 2756,
+              "name": "The World Jewelry Center 14k Real Yellow OR White Gold Solid 1.7mm Flat Open Wheat Chain Necklace with Lobster Claw Clasp",
+              "price": 236.0,
+              "average_score": 72.5
+            },
+            {
+              "id": 2785,
+              "name": "Sterling Silver Inch Byzantine 3mm Chain Necklace(Lengths 16\",18\",20\",24\",30\")",
+              "price": 70.07,
+              "average_score": 70.0
+            },
+            {
+              "id": 65162,
+              "name": "JOSCO Pop-Corn 2.5mm Chain Italian Sterling Silver Rhodium Plated Necklace 16,18,20,22,24,30,36\"",
+              "price": 35.99,
+              "average_score": 70.0
+            },
+            {
+              "id": 65620,
+              "name": "Gacimy 925 Sterling Silver Cable Chain Necklace for Women Men and Girls, 1mm Thin 16 18 20 22 24 Inches Necklace Chain",
+              "price": 18.99,
+              "average_score": 70.0
+            },
+            {
+              "id": 4917,
+              "name": "JOSCO Rose-gold Plated Over Sterling Silver 1.5mm Rope Chain .925 Vermeil Necklace. 16,18,20,24,30 Inches",
+              "price": 17.99,
+              "average_score": 67.5
+            },
+            {
+              "id": 62939,
+              "name": "Pyramid Jewelry 14k Tri Color Gold 0.8 mm Singapore Chain Necklace, 12\" to 20\"",
+              "price": null,
+              "average_score": 67.5
+            },
+            {
+              "id": 4406,
+              "name": "Sterling .925 Silver Rhodium Finish 1.5mm Diamond Cut Bead Chain Necklace with Lobster Clasp by IcedTime",
+              "price": 25.0,
+              "average_score": 65.0
+            },
+            {
+              "id": 3151,
+              "name": "Double Accent 3.6mm Stainless Steel Chain Round Box Chain Necklace (Available Length 18\", 20\", 22\", 24\")",
+              "price": 20.95,
+              "average_score": 62.5
+            },
+            {
+              "id": 3519,
+              "name": "Ross-Simons Italian 8mm Sterling Silver Omega Necklace",
+              "price": 249.0,
+              "average_score": 62.5
+            },
+            {
+              "id": 4014,
+              "name": "Vintage Bohemia Dream Catcher Feather Pendants Necklace Antique Bronze Color Women Sweater Chains Party Jewelry 1PC - (Metal Color: 3)",
+              "price": 13.93,
+              "average_score": 60.0
+            },
+            {
+              "id": 61408,
+              "name": "THE ICE EMPIRE JEWELRY, LLC 4mm Italian .925 Sterling Silver Flat Dome Omega Necklace 16in-18in",
+              "price": null,
+              "average_score": 60.0
+            },
+            {
+              "id": 4352,
+              "name": "Bali Balinese Indonesian Black Oxidized .925 Sterling Silver Rope Twist Chain Necklace For Women For Men 16 18 20 24 Inch",
+              "price": 26.99,
+              "average_score": 57.5
+            },
+            {
+              "id": 65662,
+              "name": "Silver Tone 24\" 11mm Herringbone Chain Necklace",
+              "price": null,
+              "average_score": 57.5
+            },
+            {
+              "id": 4439,
+              "name": "Wellingsale 14k Yellow Gold Solid 0.7mm Round Snake Chain Necklace with Lobster Claw Clasp",
+              "price": 259.0,
+              "average_score": 55.0
+            },
+            {
+              "id": 61173,
+              "name": "Handmade Egyptian Nefertiti Jewelry Necklace Pendant Enameled Pharaoh Egypt 102",
+              "price": null,
+              "average_score": 55.0
+            },
+            {
+              "id": 4606,
+              "name": "Solid 14K Yellow Gold Chain 1.5mm Singapore Chain Necklace (16-24 Inches)",
+              "price": 275.99,
+              "average_score": 52.5
+            },
+            {
+              "id": 2070,
+              "name": "NYC Sterling Round Link Chain - Rhodium Necklaces for Men \u2013 Luxurious Rhodium Chain \u2013 2mm Round Box Chain \u2013 Modern and Minimalist Design \u2013 Made in Italy - 16-inch to 30-inch",
+              "price": 44.99,
+              "average_score": 42.5
+            },
+            {
+              "id": 4504,
+              "name": "NAUTORA Offshore Sport Fishing Boat Pendant Crafted in Sterling Silver with a 22\" Necklace Chain",
+              "price": 60.0,
+              "average_score": 35.0
+            },
+            {
+              "id": 59919,
+              "name": "Forge Stainless Steel Dog Tag Bead Chain Necklace 2.3MM 38\" Adjustable (1 Chain)",
+              "price": null,
+              "average_score": 35.0
+            },
+            {
+              "id": 63819,
+              "name": "Necklace Cords and Extension Chains Set - D58 - Two 16\" Black Silk/Satin Cords AND 2 Pcs of 2\" and 2 Pcs of 4\" Extension Chains ~ Silver Tone Plated - SET OF TWO (2) CORDS and FOUR (4) EXTENSION CHAINS",
+              "price": null,
+              "average_score": 35.0
+            },
+            {
+              "id": 4213,
+              "name": "LUXURMAN Solid 14K White or Yellow Gold 2.5mm Rope Chain Diamond Cut Necklace or Bracelet Lobster Clasp",
+              "price": 630.0,
+              "average_score": 32.5
+            },
+            {
+              "id": 64425,
+              "name": "Ross-Simons Italian 14kt Yellow Gold Paper Clip Link Toggle Necklace",
+              "price": 896.25,
+              "average_score": 30.0
+            },
+            {
+              "id": 65863,
+              "name": "Goldenchen Fashion 18k Gold 2mm Snake Chain Necklace Jewelry Chain 16\" - 30\" for Men & Women (18 Inches)",
+              "price": null,
+              "average_score": 30.0
+            }
+          ]
+        }
+      }
+    ],
+    "Hearing Aids, Amplifiers & Accessories": [
+      {
+        "episode": 4,
+        "category": "Hearing Aids, Amplifiers & Accessories",
+        "persona_index": 46308,
+        "episode_in_category": 1,
+        "steps": 12,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 78400,
+          "chosen_score": 85.0,
+          "best_product_id": 76353,
+          "best_score": 92.5,
+          "regret": 7.5,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 11,
+          "feedback": "Well, this is almost spot-on! I appreciate the suggestion of the Rayovac Size 312 Hearing Aid Batteries, but I do prefer the 24-count pack since it tends to last me a bit longer. Thank you for the thoughtful recommendation!",
+          "feedback_type": "persona"
+        },
+        "full_dialog": [
+          [
+            "Are you looking for hearing aids or amplifiers for yourself, or are you shopping for someone else?",
+            "I am looking for hearing aids for myself."
+          ],
+          [
+            "What's your budget range for hearing aids?",
+            "I would say my budget range is around $1,000 to $2,000."
+          ],
+          [
+            "Do you have a preference for behind-the-ear hearing aids or in-the-ear styles?",
+            "I prefer behind-the-ear hearing aids."
+          ],
+          [
+            "Do you have any specific hearing difficulties you'd like the hearing aids to help with, like trouble hearing conversations or background noise?",
+            "Trouble hearing conversations."
+          ],
+          [
+            "Do you need any specific features like rechargeable batteries or Bluetooth connectivity?",
+            "No, I don't need any specific features like rechargeable batteries or Bluetooth connectivity."
+          ],
+          [
+            "Are you looking for prescription hearing aids from an audiologist or over-the-counter hearing amplifiers that don't require a prescription?",
+            "I'm looking for prescription hearing aids from an audiologist."
+          ],
+          [
+            "Would you prefer to purchase hearing aids online or are you planning to visit an audiologist's office for fitting and adjustment?",
+            "I plan to visit an audiologist's office for fitting and adjustment."
+          ],
+          [
+            "Since you're planning to visit an audiologist, are you looking to research and compare hearing aid options beforehand, or do you need something to help with your hearing while you wait for your appointment?",
+            "I need something to help with my hearing while I wait for my appointment."
+          ],
+          [
+            "Would you prefer something very affordable under $50 as a temporary solution, or are you willing to spend more for better quality while you wait?",
+            "I would prefer something very affordable under $50 as a temporary solution."
+          ],
+          [
+            "Do you prefer something that sits completely in your ear or something with a small tube that goes in your ear?",
+            "I prefer something with a small tube that goes in my ear."
+          ],
+          [
+            "Do you prefer something that's barely visible when worn or are you okay with it being somewhat noticeable?",
+            "I'm okay with it being somewhat noticeable."
+          ]
+        ],
+        "product_info": {
+          "num_products": 25,
+          "products_with_scores": [
+            {
+              "id": 76353,
+              "name": "Power One Size 312 Hearing Aid Battery No Mercury, 60 Batteries",
+              "price": 12.0,
+              "average_score": 92.5
+            },
+            {
+              "id": 76339,
+              "name": "Hearing Aids,Seniors Rechargeable Hearing Amplifier with Noise Cancelling for Adults Hearing Loss,Digital Ear Hearing Assist Devices with Volume Control,Magnetic Contact Charging Box",
+              "price": null,
+              "average_score": 87.5
+            },
+            {
+              "id": 77350,
+              "name": "Duracell Hearing Aid Batteries Size 13 Pack 60 Batteries 1.45V",
+              "price": 9.99,
+              "average_score": 87.5
+            },
+            {
+              "id": 78400,
+              "name": "Rayovac Size 312 Hearing Aid Batteries, Hearing Aid Batteries Size 312, 16 Count",
+              "price": 6.99,
+              "average_score": 85.0
+            },
+            {
+              "id": 79755,
+              "name": "Hearing aid, Rechargeable Hearing Aids for Seniors & Adults, HealthTree Digital Hearing Personal Amplifiers Sound Amplification with Portable Charging Case Black",
+              "price": 89.99,
+              "average_score": 85.0
+            },
+            {
+              "id": 81127,
+              "name": "Rechargeable BTE Hearing Enhancement Aids",
+              "price": 139.99,
+              "average_score": 85.0
+            },
+            {
+              "id": 76591,
+              "name": "Duracell Size 312 Hearing Aid Batteries (6 Batteries)",
+              "price": null,
+              "average_score": 82.5
+            },
+            {
+              "id": 78442,
+              "name": "Hearing Aids Rechargeable, Double Noise Reduction, Pitch Elimination, Longer Endurance, Portable Hearing Amplifiers with Charging Box for Adults Hearing Loss (Digital chip upgrade)",
+              "price": 59.99,
+              "average_score": 77.5
+            },
+            {
+              "id": 81070,
+              "name": "Hearing Aid Amplifier-Volume Control Layered Noise Reduction Digital Sound Amplifier with Dynamic Compression for Adults",
+              "price": null,
+              "average_score": 77.5
+            },
+            {
+              "id": 77263,
+              "name": "(20 Pack) Oticon 6mm Open Domes for: Agil, Acto, Ino, Dual, Delta, Epoq, Get, Hit, Tego, Vigo",
+              "price": null,
+              "average_score": 75.0
+            },
+            {
+              "id": 78568,
+              "name": "Rechargeable Hearing Amplifier with Volume Control Noise Reduction Digital Personal Sound Amplifier Devices for Adults and Seniors Loss",
+              "price": null,
+              "average_score": 75.0
+            },
+            {
+              "id": 80540,
+              "name": "BuyDBest(TM) Personal Sound Amplifier",
+              "price": null,
+              "average_score": 75.0
+            },
+            {
+              "id": 79685,
+              "name": "Phonak Hearing Aid LARGE Size POWER Domes",
+              "price": 10.99,
+              "average_score": 72.5
+            },
+            {
+              "id": 80379,
+              "name": "Rechargeable Hearing Aids with Bluetooth,Hearing Aids for Seniors Rechargeable with Noise Cancelling. Hearing Amplifier, In-The-Ear Digital Personal sound Amplification. Fast Charging Rechargeable Hearing Aid for Adult, Convenient to Operate, Stylish Appearanc",
+              "price": null,
+              "average_score": 72.5
+            },
+            {
+              "id": 77794,
+              "name": "Rechargeable Hearing Amplifiers - Set of 2 - Digital Quality - Personal Sound Amplification Products PSAP - BTE Desgin - Amplify Sound & Hear Clearer - Recharging Batteries - Instructional Videos - Compated to LifeEar & Siemens",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 78870,
+              "name": "Hearing Aid Batteries Size 312 by Hearing Direct - Pack of 6",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 81902,
+              "name": "6mm OPEN DOMES for BERNAFON Hearing Aids",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 81012,
+              "name": "Bellman & Symfon Mino Personal Amplifier with Stereo Earphone (HC-MINO-EP)",
+              "price": null,
+              "average_score": 67.5
+            },
+            {
+              "id": 77001,
+              "name": "Complete 12 pieces set - High Quality ITE Mini Rechargeable Ear Hearing Amplifier",
+              "price": null,
+              "average_score": 65.0
+            },
+            {
+              "id": 79587,
+              "name": "(6 pack) Phonak Wax Trap",
+              "price": 24.99,
+              "average_score": 65.0
+            },
+            {
+              "id": 76411,
+              "name": "Hearing Aids, Rechargeable Hearing Aids for Seniors with Noise Cancelling, Hearing Amplifier for Adults with Charging Case, Aioze Digital Hearing Aid",
+              "price": null,
+              "average_score": 62.5
+            },
+            {
+              "id": 81535,
+              "name": "New Era Small Convenien Hearing Amplifier Portable Invisible Noise Reduction",
+              "price": null,
+              "average_score": 60.0
+            },
+            {
+              "id": 77238,
+              "name": "Vivtone Customizable Hearing Aids, Bluetooth APP Control & Self-Fitting, Rechargeable Personalized Hearing Assistance with Hearing Test to Customize Hearing Gain, Pair - Xpure",
+              "price": null,
+              "average_score": 52.5
+            },
+            {
+              "id": 77258,
+              "name": "Listen Technologies LR-5200-216 Advanced Intelligent DSP RF Receiver (216 MHz), Dark Grey, Advanced Rechargeable Battery Technology",
+              "price": 261.0,
+              "average_score": 20.0
+            },
+            {
+              "id": 80922,
+              "name": "Meikosks Women's Fashion Letter Print T Shirt O-Neck Short Sleeve Tops Casual Blouses Plus Size Tee",
+              "price": 6.99,
+              "average_score": 5.0
+            }
+          ]
+        }
+      }
+    ],
+    "Women's Hiking & Trekking Shoes": [
+      {
+        "episode": 5,
+        "category": "Women's Hiking & Trekking Shoes",
+        "persona_index": 46308,
+        "episode_in_category": 1,
+        "steps": 10,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 62626,
+          "chosen_score": 62.5,
+          "best_product_id": 60635,
+          "best_score": 80.0,
+          "regret": 17.5,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 9,
+          "feedback": "Well, those sneakers do look comfy, and I appreciate the thought, but I was actually hoping for something a bit more traditional, like a nice pair of leather loafers. I love a classic style that I can wear to church or when I\u2019m out and about in town.",
+          "feedback_type": "persona"
+        },
+        "full_dialog": [
+          [
+            "Are you looking for hiking shoes for casual walks and light trails, or do you need something more sturdy for serious hiking and rough terrain?",
+            "I'm looking for hiking shoes for casual walks and light trails."
+          ],
+          [
+            "What's your budget range for the hiking shoes?",
+            "I'd say around $50 to $75."
+          ],
+          [
+            "Do you prefer a specific color for your hiking shoes, like black, brown, or gray?",
+            "Brown."
+          ],
+          [
+            "Do you prefer shoes with more ankle support or low-cut shoes that give you more freedom of movement?",
+            "I prefer shoes with more ankle support."
+          ],
+          [
+            "Do you prefer a specific brand like Merrell, Columbia, or Keen, or are you open to any brand as long as it meets your needs?",
+            "I'm open to any brand as long as it meets my needs."
+          ],
+          [
+            "Do you have a preferred shoe size, or would you like to know about the available sizes for the shoes that match your other preferences?",
+            "I wear a size 7.5."
+          ],
+          [
+            "Do you prefer waterproof hiking shoes or are regular water-resistant shoes fine for your casual walks?",
+            "Regular water-resistant shoes are fine for my casual walks."
+          ],
+          [
+            "Do you prefer lace-up hiking shoes or slip-on styles for easier on and off?",
+            "I prefer slip-on styles for easier on and off."
+          ],
+          [
+            "Do you prefer hiking shoes with a more rugged sole for better grip, or a smoother sole that's more comfortable for walking on pavement and easier trails?",
+            "I prefer hiking shoes with a more rugged sole for better grip."
+          ]
+        ],
+        "product_info": {
+          "num_products": 22,
+          "products_with_scores": [
+            {
+              "id": 60635,
+              "name": "Ahnu Women's Sugarpine Air Mesh Hiking Shoe",
+              "price": 69.99,
+              "average_score": 80.0
+            },
+            {
+              "id": 60938,
+              "name": "XPETI Women's Dimo Mid Waterproof Outdoor Hiking Boot Non Slip",
+              "price": 56.99,
+              "average_score": 80.0
+            },
+            {
+              "id": 60976,
+              "name": "Columbia Women's Newton Ridge Plus, Delta/Red Velvet, 6.5",
+              "price": null,
+              "average_score": 72.5
+            },
+            {
+              "id": 66070,
+              "name": "Columbia womens Newton Ridge Plus hiking boots, Deep Wave/Dusty Green, 6.5 US",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 66207,
+              "name": "Ahnu Women's Montara Boot",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 64379,
+              "name": "Nevados Boom 2 Mid Hiking Boots for Women, Water Resistant, Multi-Terrain Lug Pattern, Comfortable & Weather Proof Structure Rubber Traction Outsole Cradled Footbed",
+              "price": null,
+              "average_score": 67.5
+            },
+            {
+              "id": 59578,
+              "name": "Merrell Women's Crosslander 2 Hiking Shoe",
+              "price": null,
+              "average_score": 62.5
+            },
+            {
+              "id": 61961,
+              "name": "Merrell Women's Zion Wp Hiking Shoe",
+              "price": 164.99,
+              "average_score": 62.5
+            },
+            {
+              "id": 62626,
+              "name": "Touchmosees Women Mary Jane Sneakers Platform Sneakers Air Cushion Slip-on Walking Shoes Orthopedic Diabetic Walking Wedge Sneaker Ladies Toning Rocker Shoes",
+              "price": 29.99,
+              "average_score": 62.5
+            },
+            {
+              "id": 62701,
+              "name": "Merrell womens Alverstone Waterproof Hiking Shoe, Brindle, 7 US",
+              "price": null,
+              "average_score": 60.0
+            },
+            {
+              "id": 60492,
+              "name": "adidas Women's Terrex Trailmaker Hiking Shoes",
+              "price": null,
+              "average_score": 57.5
+            },
+            {
+              "id": 60185,
+              "name": "CAMEL CROWN Women's Outdoor Leather Hiking Shoes Low Cut Boots Breathable Lightweight Sneaker for Walking Trekking",
+              "price": null,
+              "average_score": 55.0
+            },
+            {
+              "id": 59136,
+              "name": "Ariat Women's Terrain Pro H2O Hiking Boot",
+              "price": 199.99,
+              "average_score": 50.0
+            },
+            {
+              "id": 59527,
+              "name": "Vasque Women's Canyonlands UltraDry Waterproof Hiking Boot",
+              "price": null,
+              "average_score": 50.0
+            },
+            {
+              "id": 63900,
+              "name": "Salomon Women's X Ultra Pioneer Mid Climasalomon Waterproof Boots Trail Running, Hiking Shoes for Women",
+              "price": 110.34,
+              "average_score": 42.5
+            },
+            {
+              "id": 65473,
+              "name": "Ahnu Women's Northridge Insulated Waterproof Hiking Boot",
+              "price": null,
+              "average_score": 40.0
+            },
+            {
+              "id": 63943,
+              "name": "Women's Hiking Boots Backpacking Trekking Boots Waterproof Lightweight Ankle Booties (Black,US9)",
+              "price": null,
+              "average_score": 35.0
+            },
+            {
+              "id": 60502,
+              "name": "Lowa Women's Renegade LL Mid Hiking Boot",
+              "price": 242.5,
+              "average_score": 27.5
+            },
+            {
+              "id": 58971,
+              "name": "Merrell Work Moab 2 Vent Waterproof SR Boulder",
+              "price": null,
+              "average_score": 25.0
+            },
+            {
+              "id": 62598,
+              "name": "LUCKY STEP Women's Leopard Colorblock lace up Sneakers Cosy Chunky Climbing Hiking Running Shoes.",
+              "price": 30.99,
+              "average_score": 25.0
+            },
+            {
+              "id": 63742,
+              "name": "Oboz Women's Sawtooth Low Bdry Multisport Shoe",
+              "price": 248.53,
+              "average_score": 22.5
+            },
+            {
+              "id": 60789,
+              "name": "Danner Men's Pronghorn 8\" Brown All-Leather 400G",
+              "price": null,
+              "average_score": 10.0
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "summary": {
+    "categories_tested": [
+      "Business Cards",
+      "Wind Chimes",
+      "Women's Chain Necklaces",
+      "Hearing Aids, Amplifiers & Accessories",
+      "Women's Hiking & Trekking Shoes"
+    ],
+    "total_episodes": 5,
+    "episodes_by_category": {
+      "Business Cards": 1,
+      "Wind Chimes": 1,
+      "Women's Chain Necklaces": 1,
+      "Hearing Aids, Amplifiers & Accessories": 1,
+      "Women's Hiking & Trekking Shoes": 1
+    },
+    "product_counts_by_category": {
+      "Business Cards": {
+        "num_products": 25,
+        "episodes": 1
+      },
+      "Wind Chimes": {
+        "num_products": 64,
+        "episodes": 1
+      },
+      "Women's Chain Necklaces": {
+        "num_products": 36,
+        "episodes": 1
+      },
+      "Hearing Aids, Amplifiers & Accessories": {
+        "num_products": 25,
+        "episodes": 1
+      },
+      "Women's Hiking & Trekking Shoes": {
+        "num_products": 22,
+        "episodes": 1
+      }
+    }
+  }
+}

@@ -118,8 +118,17 @@ Rules:
                           dialog_history: List[Tuple[str, str]], category: str, num_products: int) -> int:
         """Use LLM to decide whether to ask a question or make a recommendation."""
         products = self._get_product_info(obs, info, num_products)
+        
+        import time
+        context_start_time = time.time()
         context = self._build_llm_context(products, dialog_history, category)
+        context_time = time.time() - context_start_time
+        print(f"[TIMING] Context building: {context_time:.2f}s")
+        
+        feedback_start_time = time.time()
         feedback_context = self._build_feedback_context(category)
+        feedback_time = time.time() - feedback_start_time
+        print(f"[TIMING] Feedback context building: {feedback_time:.2f}s")
         
         base_prompt = f"""You are a product recommendation agent. Your goal is to find the best product for this user.
 
@@ -151,12 +160,16 @@ Rules:
         unified_prompt = self._apply_prompting_tricks(base_prompt)
 
         try:
+            import time
+            llm_start_time = time.time()
             response = chat_completion(
                 messages=[{"role": "user", "content": unified_prompt}],
                 model=self.model,
                 temperature=0.2,
-                max_tokens=32000
+                max_tokens=200
             )
+            llm_elapsed = time.time() - llm_start_time
+            print(f"[TIMING] LLM agent decision: {llm_elapsed:.2f}s")
             
             self.last_response = response.strip()
             
@@ -525,7 +538,9 @@ def run_experiment1(categories: List[str] = None,
             scores = user_model.score_products(category, products)
             if scores:
                 max_score = max(score for _, score in scores)
-                return max_score > min_score_threshold, max_score, scores
+                # Convert to the format expected by RecoEnv: (product_id, score) tuples
+                cached_scores = [(pid, score) for pid, score in scores]
+                return max_score > min_score_threshold, max_score, cached_scores
             return False, 0.0, []
         except Exception as e:
             print(f"  Error checking category {category}: {e}")
@@ -610,6 +625,9 @@ def run_experiment1(categories: List[str] = None,
             # Show progress correctly
             print(f"Episode {episode_num} (Category: {category}) - {successful_episodes_count + 1}/{target_successful_episodes} planned episodes")
             
+            import time
+            episode_start_time = time.time()
+            
             try:
                 env = RecoEnv(
                     persona_index=persona_index,
@@ -642,8 +660,16 @@ def run_experiment1(categories: List[str] = None,
                 current_info = initial_info
                 
                 while not terminated and not truncated and step_count <= 20:
+                    step_start_time = time.time()
                     action = agent.get_action(obs, current_info)
+                    action_time = time.time() - step_start_time
+                    print(f"[TIMING] Agent action decision: {action_time:.2f}s")
+                    
+                    step_start_time = time.time()
                     obs, reward, terminated, truncated, info = metrics_wrapper.step(action)
+                    step_time = time.time() - step_start_time
+                    print(f"[TIMING] Environment step: {step_time:.2f}s")
+                    
                     current_info = info
                     step_count += 1
                     
@@ -701,6 +727,10 @@ def run_experiment1(categories: List[str] = None,
                 
                 # Only increment after episode succeeds
                 successful_episodes_count += 1
+                
+                # Log episode timing
+                episode_elapsed = time.time() - episode_start_time
+                print(f"[TIMING] Episode {episode_num} completed in {episode_elapsed:.2f}s")
                 
                 # Save checkpoint every 5 successful episodes
                 if successful_episodes_count % 5 == 0:

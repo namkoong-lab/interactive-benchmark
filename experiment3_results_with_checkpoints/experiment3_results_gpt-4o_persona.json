@@ -1,0 +1,1545 @@
+{
+  "experiment": "Experiment 3: LLM Learning Across Personas and Categories",
+  "timestamp": "2025-09-20T17:59:07.452315",
+  "summary": {
+    "regret_progression": {
+      "episode_data": [
+        {
+          "regret": 5.0,
+          "questions": 4
+        },
+        {
+          "regret": 40.0,
+          "questions": 3
+        },
+        {
+          "regret": 0.0,
+          "questions": 2
+        },
+        {
+          "regret": 42.5,
+          "questions": 4
+        },
+        {
+          "regret": 70.0,
+          "questions": 3
+        }
+      ],
+      "episode_regrets": [
+        5.0,
+        40.0,
+        0.0,
+        42.5,
+        70.0
+      ],
+      "avg_regret": 31.5,
+      "regret_trend": "stable"
+    },
+    "total_episodes": 5,
+    "unique_personas": 5,
+    "unique_categories": 1,
+    "unique_persona_category_combinations": 5,
+    "total_questions_asked": 16,
+    "episodes_by_persona_category": {
+      "31079_Alarm Clocks": 1,
+      "45298_Alarm Clocks": 1,
+      "19466_Alarm Clocks": 1,
+      "2839_Alarm Clocks": 1,
+      "41821_Alarm Clocks": 1
+    }
+  },
+  "config": {
+    "total_episodes": 5,
+    "max_questions": 20,
+    "model": "gpt-4o",
+    "feedback_type": "persona",
+    "min_score_threshold": 60.0,
+    "seed": 179322,
+    "context_mode": "raw",
+    "prompting_tricks": "none"
+  },
+  "agent_episode_history": [
+    {
+      "episode": 1,
+      "category": "Alarm Clocks",
+      "persona": 31079,
+      "dialog": [
+        [
+          "Do you have a budget in mind for your alarm clock purchase?",
+          "I'd say around $30 to $50 should do the trick."
+        ],
+        [
+          "Do you have any specific features you're looking for in an alarm clock, like a digital display or a radio?",
+          "A digital display."
+        ],
+        [
+          "Do you prefer a specific brand for your alarm clock?",
+          "No, I don't have a preference for a specific brand."
+        ]
+      ],
+      "selected_product_id": 87210,
+      "selected_product_name": "TXL Large Digital Day Wall Clock, Custom 8 Languages Calendar, Count up-Down Timer and Temp Reminder, 12/24Hr Desktop Alarm Clock with 14.17\" Extra Large Display for Home Office Studio Hotel, White",
+      "feedback": "That clock sounds just about perfect for keeping track of time during my daily routines, especially with its large display and multiple language options. If it had a feature to sync with my phone's calendar, it would be absolutely spot on for my needs."
+    },
+    {
+      "episode": 2,
+      "category": "Alarm Clocks",
+      "persona": 45298,
+      "dialog": [
+        [
+          "Are you looking for an alarm clock with any specific additional features, like Bluetooth connectivity or a USB charging port?",
+          "Yes, a USB charging port would be useful."
+        ],
+        [
+          "Do you have a preferred color or style for your alarm clock?",
+          "I prefer a minimalist design in a calming color like soft blue."
+        ]
+      ],
+      "selected_product_id": 83501,
+      "selected_product_name": "Digital Travel Alarm Clock Timer LCD Clock with Foldable Calendar Temperature Timer\u00a0Snooze Mode, Battery Operated, Portable Large Number Display Clock\u00a012/24 H Small Desk Clock (Black)",
+      "feedback": "Oh, I appreciate the suggestion, but that's not quite what I had in mind. I was actually hoping for something more along the lines of a stylish, eco-friendly planner or journal to help keep my writing and community projects organized, rather than a digital alarm clock."
+    },
+    {
+      "episode": 3,
+      "category": "Alarm Clocks",
+      "persona": 19466,
+      "dialog": [
+        [
+          "Are you looking for an alarm clock with any specific features like a snooze function or a night light?",
+          "I would prefer an alarm clock with a night light feature."
+        ]
+      ],
+      "selected_product_id": 87277,
+      "selected_product_name": "Analog Alarm Clock - Non Ticking Battery Alarm Clocks for Bedrooms, 4 Inch Small Clocks Battery Operated, Bedside Clock, Silent Retro Small Table Clock and Desk Clocks for Office, Green (Gold Feet)",
+      "feedback": "Perfect! This is exactly what I was looking for. Great recommendation!"
+    },
+    {
+      "episode": 4,
+      "category": "Alarm Clocks",
+      "persona": 2839,
+      "dialog": [
+        [
+          "Do you have a preferred color or style for your alarm clock?",
+          "A natural wood finish."
+        ],
+        [
+          "Do you have a budget in mind for your alarm clock purchase?",
+          "Yes, I'd like to keep it under $50."
+        ],
+        [
+          "Do you need any specific features like a snooze button or Bluetooth connectivity?",
+          "Bluetooth connectivity."
+        ]
+      ],
+      "selected_product_id": 83501,
+      "selected_product_name": "Digital Travel Alarm Clock Timer LCD Clock with Foldable Calendar Temperature Timer\u00a0Snooze Mode, Battery Operated, Portable Large Number Display Clock\u00a012/24 H Small Desk Clock (Black)",
+      "feedback": "Oh, thanks, but that's not really what I had in mind. I was actually hoping for something more eco-friendly and solar-powered, as I try to minimize battery usage in my daily life."
+    },
+    {
+      "episode": 5,
+      "category": "Alarm Clocks",
+      "persona": 41821,
+      "dialog": [
+        [
+          "Do you have a budget in mind for your alarm clock purchase?",
+          "I haven't set a specific budget, but I'm looking for something reliable and not too expensive."
+        ],
+        [
+          "Are there any specific features you would like in your alarm clock, like a snooze button or a night light?",
+          "A snooze button would be great."
+        ]
+      ],
+      "selected_product_id": 84925,
+      "selected_product_name": "Kids Alarm Clock Wake Up Easy Setting Digital Clock for Boys Girls, 7 Colors Changing LED Light Large Display Time/Date/Temp/Alarm with Snooze, Bedside Clock, Night Light Clock - Best Gift for Kids",
+      "feedback": "Oh, I appreciate the suggestion, but I'm really looking for something that would suit my gardening hobby, maybe some new tools or a nice pair of gardening gloves. An alarm clock for kids isn't quite what I had in mind!"
+    }
+  ],
+  "persona_category_results": {
+    "31079_Alarm Clocks": {
+      "avg_score": 80.0,
+      "top1_rate": 0.0,
+      "episode_count": 1,
+      "num_products": 39
+    },
+    "45298_Alarm Clocks": {
+      "avg_score": 42.5,
+      "top1_rate": 0.0,
+      "episode_count": 1,
+      "num_products": 39
+    },
+    "19466_Alarm Clocks": {
+      "avg_score": 87.5,
+      "top1_rate": 1.0,
+      "episode_count": 1,
+      "num_products": 39
+    },
+    "2839_Alarm Clocks": {
+      "avg_score": 40.0,
+      "top1_rate": 0.0,
+      "episode_count": 1,
+      "num_products": 39
+    },
+    "41821_Alarm Clocks": {
+      "avg_score": 12.5,
+      "top1_rate": 0.0,
+      "episode_count": 1,
+      "num_products": 39
+    }
+  },
+  "all_episodes": [
+    {
+      "episode": 1,
+      "category": "Alarm Clocks",
+      "persona_index": 31079,
+      "steps": 4,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 87210,
+        "chosen_score": 80.0,
+        "best_product_id": 86291,
+        "best_score": 85.0,
+        "regret": 5.0,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 3,
+        "feedback": "That clock sounds just about perfect for keeping track of time during my daily routines, especially with its large display and multiple language options. If it had a feature to sync with my phone's calendar, it would be absolutely spot on for my needs.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "Do you have a budget in mind for your alarm clock purchase?",
+          "I'd say around $30 to $50 should do the trick."
+        ],
+        [
+          "Do you have any specific features you're looking for in an alarm clock, like a digital display or a radio?",
+          "A digital display."
+        ],
+        [
+          "Do you prefer a specific brand for your alarm clock?",
+          "No, I don't have a preference for a specific brand."
+        ]
+      ],
+      "product_info": {
+        "num_products": 39,
+        "products_with_scores": [
+          {
+            "id": 86291,
+            "name": "Timelink Smartlight Blue Digital Rubber Outer Shell Alarm Clock for Bedrooms Travel, for Men Women, Simple Operation, Automatic Smart Night Light Dimmer, Large Display, Snooze, Small Clock for Kids",
+            "price": 13.99,
+            "average_score": 85.0
+          },
+          {
+            "id": 87277,
+            "name": "Analog Alarm Clock - Non Ticking Battery Alarm Clocks for Bedrooms, 4 Inch Small Clocks Battery Operated, Bedside Clock, Silent Retro Small Table Clock and Desk Clocks for Office, Green (Gold Feet)",
+            "price": 11.99,
+            "average_score": 83.5
+          },
+          {
+            "id": 86175,
+            "name": "Westclox 66705 Large LED Alarm Clock, Red Display",
+            "price": 16.99,
+            "average_score": 82.5
+          },
+          {
+            "id": 83099,
+            "name": "Sonnet SONNET-T-4678 Twin Bell Alarm Clock - Very Loud for Heavy Sleepers and Hearing Impaired - Battery Operated Blue Backlight - for Teens and Senior Citizens, 3/8\u201d Digits, Black",
+            "price": 25.0,
+            "average_score": 80.0
+          },
+          {
+            "id": 87210,
+            "name": "TXL Large Digital Day Wall Clock, Custom 8 Languages Calendar, Count up-Down Timer and Temp Reminder, 12/24Hr Desktop Alarm Clock with 14.17\" Extra Large Display for Home Office Studio Hotel, White",
+            "price": 39.99,
+            "average_score": 80.0
+          },
+          {
+            "id": 86515,
+            "name": "Talking Cube Alarm Clock with LED Green Display Backlight",
+            "price": null,
+            "average_score": 77.5
+          },
+          {
+            "id": 83597,
+            "name": "PEYOU Projection Alarm Clock with USB Charger, Digital Alarm Clock for Bedroom with Adapter, 7.4\" Mirror Display, 4-Dimmer, 180\u00b0 Rotable, Snooze, Dual Alarm Clock for Heavy Sleepers Adults Kids",
+            "price": 26.99,
+            "average_score": 72.5
+          },
+          {
+            "id": 83501,
+            "name": "Digital Travel Alarm Clock Timer LCD Clock with Foldable Calendar Temperature Timer\u00a0Snooze Mode, Battery Operated, Portable Large Number Display Clock\u00a012/24 H Small Desk Clock (Black)",
+            "price": 19.99,
+            "average_score": 72.5
+          },
+          {
+            "id": 86475,
+            "name": "IEKA Alarm Clock, Digital Easy to Set and Watch with Large LCD Screen Low Light Soft Night Light Repeating Snooze Month Date & Temperature Display (White)",
+            "price": null,
+            "average_score": 72.5
+          },
+          {
+            "id": 86352,
+            "name": "LATICITY Digital Alarm Clock with Wireless Charging,15W Fast Wireless Charger with 3 Alarms,Warm Night Lightn,USB Charging Port,12/24H,Modern Digital Mirror Clock, Bedroom, Living Room, Office",
+            "price": 32.99,
+            "average_score": 72.5
+          },
+          {
+            "id": 87916,
+            "name": "YORTOT Small Digital Alarm Clock - Dual USB A & C Charging Port,Dual Alarm with Weekday/Weekend Mode,0-100% Dimmer,Easy to Set,12/24H,Battery Backup,Compact Clock for Bedside Desk Table Bedrooms,White",
+            "price": null,
+            "average_score": 71.0
+          },
+          {
+            "id": 86713,
+            "name": "SHISEDECO Small Table Clocks, Classic Non-Ticking Tabletop Alarm Clock with Backlight, Battery Operated Desk Astronaut Clock with HD Glass for Living Room Bedroom Bedside Indoor Decor (White)",
+            "price": 14.99,
+            "average_score": 70.0
+          },
+          {
+            "id": 82911,
+            "name": "KWANWA Small Alarm Clock with Time Talking | Hourly Report | Real Time& Chime Report| Three Kinds of Alarm Sounds",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 84328,
+            "name": "Oregon Scientific RM511A Portable Radio Controlled Alarm Clock, Dual Alarms, Indoor Temperature, Snooze Function, Time and Date Display, Black",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 87782,
+            "name": "Howard Miller 645-652 Abigail Alarm Clock",
+            "price": null,
+            "average_score": 69.0
+          },
+          {
+            "id": 85843,
+            "name": "GENNYUE Digital Alarm Clocks, Non Ticking Battery Operated, Desk Clock Simple Alarm Clock, with Time Temperature Snooze Night Light for Bedrooms Office and Home",
+            "price": null,
+            "average_score": 67.5
+          },
+          {
+            "id": 86242,
+            "name": "Silverzone LED Digital Alarm Clock 6.5'' Big Digit Mirror Surface Smart Loud Alarm with Snooze, 3-Level Auto/Manual Dimmer and Dual USB Charger Port for Kids and Heavy Sleepers (Black Body Blue Word)",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 87269,
+            "name": "GOLDSTAR New Pyramid Digital LCD Alarm Clock with Date and Temperature Display & Light-Activated Sensor Light in 7 LED Colors",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 86765,
+            "name": "KWYDYP 3D LED Wall Clock with Remote Control 12/24 Hr Time/Date Display Nightlight Alarm Clock,Digital Clock Brightness to Adjust,Temperature, for Office/Home/Living Room/School (Cool White, 15 inch)",
+            "price": 32.99,
+            "average_score": 59.0
+          },
+          {
+            "id": 86032,
+            "name": "BEW Projection Alarm Clock Digital Clock with Indoor Thermometer Hygrometer, USB Charger, Dual Alarm Clocks for Bedrooms, Travel, AC & Battery Operated",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 82673,
+            "name": "SENTRY CL936 Talking Alarm Clock",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 82704,
+            "name": "Bulova B6123 Traveler Alarm Clock, Silver",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 86569,
+            "name": "AMIR Wake up Light with Alarm Clock, Night Light Clock for Kids with Sunrise Simulation, 5 Natural Sounds, Rechargeable, Touch Sensor Multicolor Dimmable Night Light White1",
+            "price": null,
+            "average_score": 54.0
+          },
+          {
+            "id": 86533,
+            "name": "BRNEWO Bedroom Moon Lamp, RGB Color Changing Light with Scene Mode and Music Mode, Alarm Clock with Bluetooth Speaker, Suitable for Kids/Adults, Living Room Night Light Lighting Dimmable.",
+            "price": 35.99,
+            "average_score": 50.0
+          },
+          {
+            "id": 86152,
+            "name": "Digital Alarm Clock, Temperature Date LED Display Wood Grain Clock 3 Levels Brightness Voice Control Modern Simplicity Wood Digital Clock (Alarm Clock)",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 83570,
+            "name": "Aitey Alarm Clock for Kids, LED Large Display Clock with Temperature, Optional Weekday Alarm, Snooze and Smart Back Light for Bedroom, Desktop and Shelf, Battery Operated Clock (Blue)",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 83916,
+            "name": "Emerson CKS9051 SmartSet Dual Alarm Clock Radio (Discontinued by Manufacturer)",
+            "price": null,
+            "average_score": 42.5
+          },
+          {
+            "id": 83713,
+            "name": "Timex T318S Easy to Read Alarm Clock Radio (Discontinued by Manufacturer)",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 87366,
+            "name": "Timex CD Player Alarm Clock Nature Sounds",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 85538,
+            "name": "American Flag Digital Alarm Clock",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 82555,
+            "name": "Audiovox CD-95 Digital AM/FM Alarm Clock with Dual Alarm/NOAA/Weather Alert Radio",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 87965,
+            "name": "Alarm Clock Security Hidden DVR video CCTV Camera Motion Detector mini covert DV Camcorder + webcam recording Clock + LCD Remote",
+            "price": null,
+            "average_score": 30.0
+          },
+          {
+            "id": 82452,
+            "name": "Pack of 2 Wake up Anti-doze Earpiece Nap Zapper Alarm Ingegrating LED Flashllight Function",
+            "price": 11.98,
+            "average_score": 20.0
+          },
+          {
+            "id": 84140,
+            "name": "Cointone LED Alarm Clock Unicorn Pink Pattern Creative Desk Table Clock Glowing Electronic Colorful Digital Clock for Unisex Adults Girl Boy Kids Children Toy Birthday Present Gift",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 84925,
+            "name": "Kids Alarm Clock Wake Up Easy Setting Digital Clock for Boys Girls, 7 Colors Changing LED Light Large Display Time/Date/Temp/Alarm with Snooze, Bedside Clock, Night Light Clock - Best Gift for Kids",
+            "price": 8.4,
+            "average_score": 15.0
+          },
+          {
+            "id": 83369,
+            "name": "The Source Red Robot Clock RobotTime Moveable Bedside Alarm Analogue Clock Flashing Eyes and Sound",
+            "price": null,
+            "average_score": 12.5
+          },
+          {
+            "id": 83552,
+            "name": "Beyond Alarm Clock Gray Kitty Cat White",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 82672,
+            "name": "Present Time Silly Mini Flower Alarm Clock",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 82962,
+            "name": "Kids Alarm Clock,Screen alarm,Temperature display alarm ,Cute Chick Alarm Clock for Girls Boys, Kids Night Light Clock with 3 Color Changing,Children's Sleep Trainer",
+            "price": null,
+            "average_score": 7.5
+          }
+        ]
+      }
+    },
+    {
+      "episode": 2,
+      "category": "Alarm Clocks",
+      "persona_index": 45298,
+      "steps": 3,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 83501,
+        "chosen_score": 42.5,
+        "best_product_id": 86352,
+        "best_score": 82.5,
+        "regret": 40.0,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 2,
+        "feedback": "Oh, I appreciate the suggestion, but that's not quite what I had in mind. I was actually hoping for something more along the lines of a stylish, eco-friendly planner or journal to help keep my writing and community projects organized, rather than a digital alarm clock.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "Are you looking for an alarm clock with any specific additional features, like Bluetooth connectivity or a USB charging port?",
+          "Yes, a USB charging port would be useful."
+        ],
+        [
+          "Do you have a preferred color or style for your alarm clock?",
+          "I prefer a minimalist design in a calming color like soft blue."
+        ]
+      ],
+      "product_info": {
+        "num_products": 39,
+        "products_with_scores": [
+          {
+            "id": 86352,
+            "name": "LATICITY Digital Alarm Clock with Wireless Charging,15W Fast Wireless Charger with 3 Alarms,Warm Night Lightn,USB Charging Port,12/24H,Modern Digital Mirror Clock, Bedroom, Living Room, Office",
+            "price": 32.99,
+            "average_score": 82.5
+          },
+          {
+            "id": 87277,
+            "name": "Analog Alarm Clock - Non Ticking Battery Alarm Clocks for Bedrooms, 4 Inch Small Clocks Battery Operated, Bedside Clock, Silent Retro Small Table Clock and Desk Clocks for Office, Green (Gold Feet)",
+            "price": 11.99,
+            "average_score": 72.5
+          },
+          {
+            "id": 86291,
+            "name": "Timelink Smartlight Blue Digital Rubber Outer Shell Alarm Clock for Bedrooms Travel, for Men Women, Simple Operation, Automatic Smart Night Light Dimmer, Large Display, Snooze, Small Clock for Kids",
+            "price": 13.99,
+            "average_score": 70.0
+          },
+          {
+            "id": 86713,
+            "name": "SHISEDECO Small Table Clocks, Classic Non-Ticking Tabletop Alarm Clock with Backlight, Battery Operated Desk Astronaut Clock with HD Glass for Living Room Bedroom Bedside Indoor Decor (White)",
+            "price": 14.99,
+            "average_score": 70.0
+          },
+          {
+            "id": 86475,
+            "name": "IEKA Alarm Clock, Digital Easy to Set and Watch with Large LCD Screen Low Light Soft Night Light Repeating Snooze Month Date & Temperature Display (White)",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 87916,
+            "name": "YORTOT Small Digital Alarm Clock - Dual USB A & C Charging Port,Dual Alarm with Weekday/Weekend Mode,0-100% Dimmer,Easy to Set,12/24H,Battery Backup,Compact Clock for Bedside Desk Table Bedrooms,White",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 86569,
+            "name": "AMIR Wake up Light with Alarm Clock, Night Light Clock for Kids with Sunrise Simulation, 5 Natural Sounds, Rechargeable, Touch Sensor Multicolor Dimmable Night Light White1",
+            "price": null,
+            "average_score": 67.5
+          },
+          {
+            "id": 86533,
+            "name": "BRNEWO Bedroom Moon Lamp, RGB Color Changing Light with Scene Mode and Music Mode, Alarm Clock with Bluetooth Speaker, Suitable for Kids/Adults, Living Room Night Light Lighting Dimmable.",
+            "price": 35.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 86175,
+            "name": "Westclox 66705 Large LED Alarm Clock, Red Display",
+            "price": 16.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 87782,
+            "name": "Howard Miller 645-652 Abigail Alarm Clock",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 87269,
+            "name": "GOLDSTAR New Pyramid Digital LCD Alarm Clock with Date and Temperature Display & Light-Activated Sensor Light in 7 LED Colors",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 86765,
+            "name": "KWYDYP 3D LED Wall Clock with Remote Control 12/24 Hr Time/Date Display Nightlight Alarm Clock,Digital Clock Brightness to Adjust,Temperature, for Office/Home/Living Room/School (Cool White, 15 inch)",
+            "price": 32.99,
+            "average_score": 57.5
+          },
+          {
+            "id": 87210,
+            "name": "TXL Large Digital Day Wall Clock, Custom 8 Languages Calendar, Count up-Down Timer and Temp Reminder, 12/24Hr Desktop Alarm Clock with 14.17\" Extra Large Display for Home Office Studio Hotel, White",
+            "price": 39.99,
+            "average_score": 55.0
+          },
+          {
+            "id": 85843,
+            "name": "GENNYUE Digital Alarm Clocks, Non Ticking Battery Operated, Desk Clock Simple Alarm Clock, with Time Temperature Snooze Night Light for Bedrooms Office and Home",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 86032,
+            "name": "BEW Projection Alarm Clock Digital Clock with Indoor Thermometer Hygrometer, USB Charger, Dual Alarm Clocks for Bedrooms, Travel, AC & Battery Operated",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 86152,
+            "name": "Digital Alarm Clock, Temperature Date LED Display Wood Grain Clock 3 Levels Brightness Voice Control Modern Simplicity Wood Digital Clock (Alarm Clock)",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 83597,
+            "name": "PEYOU Projection Alarm Clock with USB Charger, Digital Alarm Clock for Bedroom with Adapter, 7.4\" Mirror Display, 4-Dimmer, 180\u00b0 Rotable, Snooze, Dual Alarm Clock for Heavy Sleepers Adults Kids",
+            "price": 26.99,
+            "average_score": 50.0
+          },
+          {
+            "id": 84328,
+            "name": "Oregon Scientific RM511A Portable Radio Controlled Alarm Clock, Dual Alarms, Indoor Temperature, Snooze Function, Time and Date Display, Black",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 86242,
+            "name": "Silverzone LED Digital Alarm Clock 6.5'' Big Digit Mirror Surface Smart Loud Alarm with Snooze, 3-Level Auto/Manual Dimmer and Dual USB Charger Port for Kids and Heavy Sleepers (Black Body Blue Word)",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 83501,
+            "name": "Digital Travel Alarm Clock Timer LCD Clock with Foldable Calendar Temperature Timer\u00a0Snooze Mode, Battery Operated, Portable Large Number Display Clock\u00a012/24 H Small Desk Clock (Black)",
+            "price": 19.99,
+            "average_score": 42.5
+          },
+          {
+            "id": 87366,
+            "name": "Timex CD Player Alarm Clock Nature Sounds",
+            "price": null,
+            "average_score": 42.5
+          },
+          {
+            "id": 86515,
+            "name": "Talking Cube Alarm Clock with LED Green Display Backlight",
+            "price": null,
+            "average_score": 42.5
+          },
+          {
+            "id": 85538,
+            "name": "American Flag Digital Alarm Clock",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 82911,
+            "name": "KWANWA Small Alarm Clock with Time Talking | Hourly Report | Real Time& Chime Report| Three Kinds of Alarm Sounds",
+            "price": null,
+            "average_score": 30.0
+          },
+          {
+            "id": 83099,
+            "name": "Sonnet SONNET-T-4678 Twin Bell Alarm Clock - Very Loud for Heavy Sleepers and Hearing Impaired - Battery Operated Blue Backlight - for Teens and Senior Citizens, 3/8\u201d Digits, Black",
+            "price": 25.0,
+            "average_score": 27.5
+          },
+          {
+            "id": 82672,
+            "name": "Present Time Silly Mini Flower Alarm Clock",
+            "price": null,
+            "average_score": 27.5
+          },
+          {
+            "id": 82704,
+            "name": "Bulova B6123 Traveler Alarm Clock, Silver",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 82452,
+            "name": "Pack of 2 Wake up Anti-doze Earpiece Nap Zapper Alarm Ingegrating LED Flashllight Function",
+            "price": 11.98,
+            "average_score": 25.0
+          },
+          {
+            "id": 84925,
+            "name": "Kids Alarm Clock Wake Up Easy Setting Digital Clock for Boys Girls, 7 Colors Changing LED Light Large Display Time/Date/Temp/Alarm with Snooze, Bedside Clock, Night Light Clock - Best Gift for Kids",
+            "price": 8.4,
+            "average_score": 25.0
+          },
+          {
+            "id": 83552,
+            "name": "Beyond Alarm Clock Gray Kitty Cat White",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 82673,
+            "name": "SENTRY CL936 Talking Alarm Clock",
+            "price": null,
+            "average_score": 22.5
+          },
+          {
+            "id": 83570,
+            "name": "Aitey Alarm Clock for Kids, LED Large Display Clock with Temperature, Optional Weekday Alarm, Snooze and Smart Back Light for Bedroom, Desktop and Shelf, Battery Operated Clock (Blue)",
+            "price": null,
+            "average_score": 22.5
+          },
+          {
+            "id": 87965,
+            "name": "Alarm Clock Security Hidden DVR video CCTV Camera Motion Detector mini covert DV Camcorder + webcam recording Clock + LCD Remote",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 83369,
+            "name": "The Source Red Robot Clock RobotTime Moveable Bedside Alarm Analogue Clock Flashing Eyes and Sound",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 83713,
+            "name": "Timex T318S Easy to Read Alarm Clock Radio (Discontinued by Manufacturer)",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 84140,
+            "name": "Cointone LED Alarm Clock Unicorn Pink Pattern Creative Desk Table Clock Glowing Electronic Colorful Digital Clock for Unisex Adults Girl Boy Kids Children Toy Birthday Present Gift",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 83916,
+            "name": "Emerson CKS9051 SmartSet Dual Alarm Clock Radio (Discontinued by Manufacturer)",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 82555,
+            "name": "Audiovox CD-95 Digital AM/FM Alarm Clock with Dual Alarm/NOAA/Weather Alert Radio",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 82962,
+            "name": "Kids Alarm Clock,Screen alarm,Temperature display alarm ,Cute Chick Alarm Clock for Girls Boys, Kids Night Light Clock with 3 Color Changing,Children's Sleep Trainer",
+            "price": null,
+            "average_score": 10.0
+          }
+        ]
+      }
+    },
+    {
+      "episode": 3,
+      "category": "Alarm Clocks",
+      "persona_index": 19466,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 87277,
+        "chosen_score": 87.5,
+        "best_product_id": 87277,
+        "best_score": 87.5,
+        "regret": 0.0,
+        "top1": true,
+        "top3": true,
+        "questions_asked": 1,
+        "feedback": "Perfect! This is exactly what I was looking for. Great recommendation!",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "Are you looking for an alarm clock with any specific features like a snooze function or a night light?",
+          "I would prefer an alarm clock with a night light feature."
+        ]
+      ],
+      "product_info": {
+        "num_products": 39,
+        "products_with_scores": [
+          {
+            "id": 87277,
+            "name": "Analog Alarm Clock - Non Ticking Battery Alarm Clocks for Bedrooms, 4 Inch Small Clocks Battery Operated, Bedside Clock, Silent Retro Small Table Clock and Desk Clocks for Office, Green (Gold Feet)",
+            "price": 11.99,
+            "average_score": 87.5
+          },
+          {
+            "id": 86291,
+            "name": "Timelink Smartlight Blue Digital Rubber Outer Shell Alarm Clock for Bedrooms Travel, for Men Women, Simple Operation, Automatic Smart Night Light Dimmer, Large Display, Snooze, Small Clock for Kids",
+            "price": 13.99,
+            "average_score": 82.5
+          },
+          {
+            "id": 86713,
+            "name": "SHISEDECO Small Table Clocks, Classic Non-Ticking Tabletop Alarm Clock with Backlight, Battery Operated Desk Astronaut Clock with HD Glass for Living Room Bedroom Bedside Indoor Decor (White)",
+            "price": 14.99,
+            "average_score": 77.5
+          },
+          {
+            "id": 83099,
+            "name": "Sonnet SONNET-T-4678 Twin Bell Alarm Clock - Very Loud for Heavy Sleepers and Hearing Impaired - Battery Operated Blue Backlight - for Teens and Senior Citizens, 3/8\u201d Digits, Black",
+            "price": 25.0,
+            "average_score": 75.0
+          },
+          {
+            "id": 86175,
+            "name": "Westclox 66705 Large LED Alarm Clock, Red Display",
+            "price": 16.99,
+            "average_score": 72.5
+          },
+          {
+            "id": 86475,
+            "name": "IEKA Alarm Clock, Digital Easy to Set and Watch with Large LCD Screen Low Light Soft Night Light Repeating Snooze Month Date & Temperature Display (White)",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 86515,
+            "name": "Talking Cube Alarm Clock with LED Green Display Backlight",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 87210,
+            "name": "TXL Large Digital Day Wall Clock, Custom 8 Languages Calendar, Count up-Down Timer and Temp Reminder, 12/24Hr Desktop Alarm Clock with 14.17\" Extra Large Display for Home Office Studio Hotel, White",
+            "price": 39.99,
+            "average_score": 67.5
+          },
+          {
+            "id": 83501,
+            "name": "Digital Travel Alarm Clock Timer LCD Clock with Foldable Calendar Temperature Timer\u00a0Snooze Mode, Battery Operated, Portable Large Number Display Clock\u00a012/24 H Small Desk Clock (Black)",
+            "price": 19.99,
+            "average_score": 65.0
+          },
+          {
+            "id": 85843,
+            "name": "GENNYUE Digital Alarm Clocks, Non Ticking Battery Operated, Desk Clock Simple Alarm Clock, with Time Temperature Snooze Night Light for Bedrooms Office and Home",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 82911,
+            "name": "KWANWA Small Alarm Clock with Time Talking | Hourly Report | Real Time& Chime Report| Three Kinds of Alarm Sounds",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 86569,
+            "name": "AMIR Wake up Light with Alarm Clock, Night Light Clock for Kids with Sunrise Simulation, 5 Natural Sounds, Rechargeable, Touch Sensor Multicolor Dimmable Night Light White1",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 87782,
+            "name": "Howard Miller 645-652 Abigail Alarm Clock",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 83597,
+            "name": "PEYOU Projection Alarm Clock with USB Charger, Digital Alarm Clock for Bedroom with Adapter, 7.4\" Mirror Display, 4-Dimmer, 180\u00b0 Rotable, Snooze, Dual Alarm Clock for Heavy Sleepers Adults Kids",
+            "price": 26.99,
+            "average_score": 60.0
+          },
+          {
+            "id": 84328,
+            "name": "Oregon Scientific RM511A Portable Radio Controlled Alarm Clock, Dual Alarms, Indoor Temperature, Snooze Function, Time and Date Display, Black",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 87916,
+            "name": "YORTOT Small Digital Alarm Clock - Dual USB A & C Charging Port,Dual Alarm with Weekday/Weekend Mode,0-100% Dimmer,Easy to Set,12/24H,Battery Backup,Compact Clock for Bedside Desk Table Bedrooms,White",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 86352,
+            "name": "LATICITY Digital Alarm Clock with Wireless Charging,15W Fast Wireless Charger with 3 Alarms,Warm Night Lightn,USB Charging Port,12/24H,Modern Digital Mirror Clock, Bedroom, Living Room, Office",
+            "price": 32.99,
+            "average_score": 57.5
+          },
+          {
+            "id": 82673,
+            "name": "SENTRY CL936 Talking Alarm Clock",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 83916,
+            "name": "Emerson CKS9051 SmartSet Dual Alarm Clock Radio (Discontinued by Manufacturer)",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 86242,
+            "name": "Silverzone LED Digital Alarm Clock 6.5'' Big Digit Mirror Surface Smart Loud Alarm with Snooze, 3-Level Auto/Manual Dimmer and Dual USB Charger Port for Kids and Heavy Sleepers (Black Body Blue Word)",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 87269,
+            "name": "GOLDSTAR New Pyramid Digital LCD Alarm Clock with Date and Temperature Display & Light-Activated Sensor Light in 7 LED Colors",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 83713,
+            "name": "Timex T318S Easy to Read Alarm Clock Radio (Discontinued by Manufacturer)",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 86533,
+            "name": "BRNEWO Bedroom Moon Lamp, RGB Color Changing Light with Scene Mode and Music Mode, Alarm Clock with Bluetooth Speaker, Suitable for Kids/Adults, Living Room Night Light Lighting Dimmable.",
+            "price": 35.99,
+            "average_score": 50.0
+          },
+          {
+            "id": 82704,
+            "name": "Bulova B6123 Traveler Alarm Clock, Silver",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 86765,
+            "name": "KWYDYP 3D LED Wall Clock with Remote Control 12/24 Hr Time/Date Display Nightlight Alarm Clock,Digital Clock Brightness to Adjust,Temperature, for Office/Home/Living Room/School (Cool White, 15 inch)",
+            "price": 32.99,
+            "average_score": 47.5
+          },
+          {
+            "id": 83570,
+            "name": "Aitey Alarm Clock for Kids, LED Large Display Clock with Temperature, Optional Weekday Alarm, Snooze and Smart Back Light for Bedroom, Desktop and Shelf, Battery Operated Clock (Blue)",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 86152,
+            "name": "Digital Alarm Clock, Temperature Date LED Display Wood Grain Clock 3 Levels Brightness Voice Control Modern Simplicity Wood Digital Clock (Alarm Clock)",
+            "price": null,
+            "average_score": 45.0
+          },
+          {
+            "id": 86032,
+            "name": "BEW Projection Alarm Clock Digital Clock with Indoor Thermometer Hygrometer, USB Charger, Dual Alarm Clocks for Bedrooms, Travel, AC & Battery Operated",
+            "price": null,
+            "average_score": 45.0
+          },
+          {
+            "id": 82555,
+            "name": "Audiovox CD-95 Digital AM/FM Alarm Clock with Dual Alarm/NOAA/Weather Alert Radio",
+            "price": null,
+            "average_score": 45.0
+          },
+          {
+            "id": 85538,
+            "name": "American Flag Digital Alarm Clock",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 87366,
+            "name": "Timex CD Player Alarm Clock Nature Sounds",
+            "price": null,
+            "average_score": 30.0
+          },
+          {
+            "id": 82452,
+            "name": "Pack of 2 Wake up Anti-doze Earpiece Nap Zapper Alarm Ingegrating LED Flashllight Function",
+            "price": 11.98,
+            "average_score": 20.0
+          },
+          {
+            "id": 87965,
+            "name": "Alarm Clock Security Hidden DVR video CCTV Camera Motion Detector mini covert DV Camcorder + webcam recording Clock + LCD Remote",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 84925,
+            "name": "Kids Alarm Clock Wake Up Easy Setting Digital Clock for Boys Girls, 7 Colors Changing LED Light Large Display Time/Date/Temp/Alarm with Snooze, Bedside Clock, Night Light Clock - Best Gift for Kids",
+            "price": 8.4,
+            "average_score": 17.5
+          },
+          {
+            "id": 82672,
+            "name": "Present Time Silly Mini Flower Alarm Clock",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 82962,
+            "name": "Kids Alarm Clock,Screen alarm,Temperature display alarm ,Cute Chick Alarm Clock for Girls Boys, Kids Night Light Clock with 3 Color Changing,Children's Sleep Trainer",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 83369,
+            "name": "The Source Red Robot Clock RobotTime Moveable Bedside Alarm Analogue Clock Flashing Eyes and Sound",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 84140,
+            "name": "Cointone LED Alarm Clock Unicorn Pink Pattern Creative Desk Table Clock Glowing Electronic Colorful Digital Clock for Unisex Adults Girl Boy Kids Children Toy Birthday Present Gift",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 83552,
+            "name": "Beyond Alarm Clock Gray Kitty Cat White",
+            "price": null,
+            "average_score": 7.5
+          }
+        ]
+      }
+    },
+    {
+      "episode": 4,
+      "category": "Alarm Clocks",
+      "persona_index": 2839,
+      "steps": 4,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 83501,
+        "chosen_score": 40.0,
+        "best_product_id": 86569,
+        "best_score": 82.5,
+        "regret": 42.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 3,
+        "feedback": "Oh, thanks, but that's not really what I had in mind. I was actually hoping for something more eco-friendly and solar-powered, as I try to minimize battery usage in my daily life.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "Do you have a preferred color or style for your alarm clock?",
+          "A natural wood finish."
+        ],
+        [
+          "Do you have a budget in mind for your alarm clock purchase?",
+          "Yes, I'd like to keep it under $50."
+        ],
+        [
+          "Do you need any specific features like a snooze button or Bluetooth connectivity?",
+          "Bluetooth connectivity."
+        ]
+      ],
+      "product_info": {
+        "num_products": 39,
+        "products_with_scores": [
+          {
+            "id": 86569,
+            "name": "AMIR Wake up Light with Alarm Clock, Night Light Clock for Kids with Sunrise Simulation, 5 Natural Sounds, Rechargeable, Touch Sensor Multicolor Dimmable Night Light White1",
+            "price": null,
+            "average_score": 82.5
+          },
+          {
+            "id": 86352,
+            "name": "LATICITY Digital Alarm Clock with Wireless Charging,15W Fast Wireless Charger with 3 Alarms,Warm Night Lightn,USB Charging Port,12/24H,Modern Digital Mirror Clock, Bedroom, Living Room, Office",
+            "price": 32.99,
+            "average_score": 82.5
+          },
+          {
+            "id": 86475,
+            "name": "IEKA Alarm Clock, Digital Easy to Set and Watch with Large LCD Screen Low Light Soft Night Light Repeating Snooze Month Date & Temperature Display (White)",
+            "price": null,
+            "average_score": 72.5
+          },
+          {
+            "id": 86291,
+            "name": "Timelink Smartlight Blue Digital Rubber Outer Shell Alarm Clock for Bedrooms Travel, for Men Women, Simple Operation, Automatic Smart Night Light Dimmer, Large Display, Snooze, Small Clock for Kids",
+            "price": 13.99,
+            "average_score": 67.5
+          },
+          {
+            "id": 87277,
+            "name": "Analog Alarm Clock - Non Ticking Battery Alarm Clocks for Bedrooms, 4 Inch Small Clocks Battery Operated, Bedside Clock, Silent Retro Small Table Clock and Desk Clocks for Office, Green (Gold Feet)",
+            "price": 11.99,
+            "average_score": 67.5
+          },
+          {
+            "id": 86533,
+            "name": "BRNEWO Bedroom Moon Lamp, RGB Color Changing Light with Scene Mode and Music Mode, Alarm Clock with Bluetooth Speaker, Suitable for Kids/Adults, Living Room Night Light Lighting Dimmable.",
+            "price": 35.99,
+            "average_score": 65.0
+          },
+          {
+            "id": 86713,
+            "name": "SHISEDECO Small Table Clocks, Classic Non-Ticking Tabletop Alarm Clock with Backlight, Battery Operated Desk Astronaut Clock with HD Glass for Living Room Bedroom Bedside Indoor Decor (White)",
+            "price": 14.99,
+            "average_score": 65.0
+          },
+          {
+            "id": 87916,
+            "name": "YORTOT Small Digital Alarm Clock - Dual USB A & C Charging Port,Dual Alarm with Weekday/Weekend Mode,0-100% Dimmer,Easy to Set,12/24H,Battery Backup,Compact Clock for Bedside Desk Table Bedrooms,White",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 87782,
+            "name": "Howard Miller 645-652 Abigail Alarm Clock",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 86175,
+            "name": "Westclox 66705 Large LED Alarm Clock, Red Display",
+            "price": 16.99,
+            "average_score": 57.5
+          },
+          {
+            "id": 85843,
+            "name": "GENNYUE Digital Alarm Clocks, Non Ticking Battery Operated, Desk Clock Simple Alarm Clock, with Time Temperature Snooze Night Light for Bedrooms Office and Home",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 86242,
+            "name": "Silverzone LED Digital Alarm Clock 6.5'' Big Digit Mirror Surface Smart Loud Alarm with Snooze, 3-Level Auto/Manual Dimmer and Dual USB Charger Port for Kids and Heavy Sleepers (Black Body Blue Word)",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 83597,
+            "name": "PEYOU Projection Alarm Clock with USB Charger, Digital Alarm Clock for Bedroom with Adapter, 7.4\" Mirror Display, 4-Dimmer, 180\u00b0 Rotable, Snooze, Dual Alarm Clock for Heavy Sleepers Adults Kids",
+            "price": 26.99,
+            "average_score": 52.5
+          },
+          {
+            "id": 86032,
+            "name": "BEW Projection Alarm Clock Digital Clock with Indoor Thermometer Hygrometer, USB Charger, Dual Alarm Clocks for Bedrooms, Travel, AC & Battery Operated",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 86765,
+            "name": "KWYDYP 3D LED Wall Clock with Remote Control 12/24 Hr Time/Date Display Nightlight Alarm Clock,Digital Clock Brightness to Adjust,Temperature, for Office/Home/Living Room/School (Cool White, 15 inch)",
+            "price": 32.99,
+            "average_score": 52.5
+          },
+          {
+            "id": 86152,
+            "name": "Digital Alarm Clock, Temperature Date LED Display Wood Grain Clock 3 Levels Brightness Voice Control Modern Simplicity Wood Digital Clock (Alarm Clock)",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 87269,
+            "name": "GOLDSTAR New Pyramid Digital LCD Alarm Clock with Date and Temperature Display & Light-Activated Sensor Light in 7 LED Colors",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 84328,
+            "name": "Oregon Scientific RM511A Portable Radio Controlled Alarm Clock, Dual Alarms, Indoor Temperature, Snooze Function, Time and Date Display, Black",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 87210,
+            "name": "TXL Large Digital Day Wall Clock, Custom 8 Languages Calendar, Count up-Down Timer and Temp Reminder, 12/24Hr Desktop Alarm Clock with 14.17\" Extra Large Display for Home Office Studio Hotel, White",
+            "price": 39.99,
+            "average_score": 47.5
+          },
+          {
+            "id": 83501,
+            "name": "Digital Travel Alarm Clock Timer LCD Clock with Foldable Calendar Temperature Timer\u00a0Snooze Mode, Battery Operated, Portable Large Number Display Clock\u00a012/24 H Small Desk Clock (Black)",
+            "price": 19.99,
+            "average_score": 40.0
+          },
+          {
+            "id": 86515,
+            "name": "Talking Cube Alarm Clock with LED Green Display Backlight",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 85538,
+            "name": "American Flag Digital Alarm Clock",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 87366,
+            "name": "Timex CD Player Alarm Clock Nature Sounds",
+            "price": null,
+            "average_score": 32.5
+          },
+          {
+            "id": 83099,
+            "name": "Sonnet SONNET-T-4678 Twin Bell Alarm Clock - Very Loud for Heavy Sleepers and Hearing Impaired - Battery Operated Blue Backlight - for Teens and Senior Citizens, 3/8\u201d Digits, Black",
+            "price": 25.0,
+            "average_score": 30.0
+          },
+          {
+            "id": 82911,
+            "name": "KWANWA Small Alarm Clock with Time Talking | Hourly Report | Real Time& Chime Report| Three Kinds of Alarm Sounds",
+            "price": null,
+            "average_score": 30.0
+          },
+          {
+            "id": 83916,
+            "name": "Emerson CKS9051 SmartSet Dual Alarm Clock Radio (Discontinued by Manufacturer)",
+            "price": null,
+            "average_score": 27.5
+          },
+          {
+            "id": 83713,
+            "name": "Timex T318S Easy to Read Alarm Clock Radio (Discontinued by Manufacturer)",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 82704,
+            "name": "Bulova B6123 Traveler Alarm Clock, Silver",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 82452,
+            "name": "Pack of 2 Wake up Anti-doze Earpiece Nap Zapper Alarm Ingegrating LED Flashllight Function",
+            "price": 11.98,
+            "average_score": 25.0
+          },
+          {
+            "id": 83570,
+            "name": "Aitey Alarm Clock for Kids, LED Large Display Clock with Temperature, Optional Weekday Alarm, Snooze and Smart Back Light for Bedroom, Desktop and Shelf, Battery Operated Clock (Blue)",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 82555,
+            "name": "Audiovox CD-95 Digital AM/FM Alarm Clock with Dual Alarm/NOAA/Weather Alert Radio",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 84925,
+            "name": "Kids Alarm Clock Wake Up Easy Setting Digital Clock for Boys Girls, 7 Colors Changing LED Light Large Display Time/Date/Temp/Alarm with Snooze, Bedside Clock, Night Light Clock - Best Gift for Kids",
+            "price": 8.4,
+            "average_score": 22.5
+          },
+          {
+            "id": 82673,
+            "name": "SENTRY CL936 Talking Alarm Clock",
+            "price": null,
+            "average_score": 22.5
+          },
+          {
+            "id": 87965,
+            "name": "Alarm Clock Security Hidden DVR video CCTV Camera Motion Detector mini covert DV Camcorder + webcam recording Clock + LCD Remote",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 84140,
+            "name": "Cointone LED Alarm Clock Unicorn Pink Pattern Creative Desk Table Clock Glowing Electronic Colorful Digital Clock for Unisex Adults Girl Boy Kids Children Toy Birthday Present Gift",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 83369,
+            "name": "The Source Red Robot Clock RobotTime Moveable Bedside Alarm Analogue Clock Flashing Eyes and Sound",
+            "price": null,
+            "average_score": 12.5
+          },
+          {
+            "id": 83552,
+            "name": "Beyond Alarm Clock Gray Kitty Cat White",
+            "price": null,
+            "average_score": 12.5
+          },
+          {
+            "id": 82672,
+            "name": "Present Time Silly Mini Flower Alarm Clock",
+            "price": null,
+            "average_score": 12.5
+          },
+          {
+            "id": 82962,
+            "name": "Kids Alarm Clock,Screen alarm,Temperature display alarm ,Cute Chick Alarm Clock for Girls Boys, Kids Night Light Clock with 3 Color Changing,Children's Sleep Trainer",
+            "price": null,
+            "average_score": 10.0
+          }
+        ]
+      }
+    },
+    {
+      "episode": 6,
+      "category": "Alarm Clocks",
+      "persona_index": 41821,
+      "steps": 3,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 84925,
+        "chosen_score": 12.5,
+        "best_product_id": 87277,
+        "best_score": 82.5,
+        "regret": 70.0,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 2,
+        "feedback": "Oh, I appreciate the suggestion, but I'm really looking for something that would suit my gardening hobby, maybe some new tools or a nice pair of gardening gloves. An alarm clock for kids isn't quite what I had in mind!",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "Do you have a budget in mind for your alarm clock purchase?",
+          "I haven't set a specific budget, but I'm looking for something reliable and not too expensive."
+        ],
+        [
+          "Are there any specific features you would like in your alarm clock, like a snooze button or a night light?",
+          "A snooze button would be great."
+        ]
+      ],
+      "product_info": {
+        "num_products": 39,
+        "products_with_scores": [
+          {
+            "id": 87277,
+            "name": "Analog Alarm Clock - Non Ticking Battery Alarm Clocks for Bedrooms, 4 Inch Small Clocks Battery Operated, Bedside Clock, Silent Retro Small Table Clock and Desk Clocks for Office, Green (Gold Feet)",
+            "price": 11.99,
+            "average_score": 82.5
+          },
+          {
+            "id": 86291,
+            "name": "Timelink Smartlight Blue Digital Rubber Outer Shell Alarm Clock for Bedrooms Travel, for Men Women, Simple Operation, Automatic Smart Night Light Dimmer, Large Display, Snooze, Small Clock for Kids",
+            "price": 13.99,
+            "average_score": 80.0
+          },
+          {
+            "id": 83099,
+            "name": "Sonnet SONNET-T-4678 Twin Bell Alarm Clock - Very Loud for Heavy Sleepers and Hearing Impaired - Battery Operated Blue Backlight - for Teens and Senior Citizens, 3/8\u201d Digits, Black",
+            "price": 25.0,
+            "average_score": 75.0
+          },
+          {
+            "id": 86175,
+            "name": "Westclox 66705 Large LED Alarm Clock, Red Display",
+            "price": 16.99,
+            "average_score": 75.0
+          },
+          {
+            "id": 86713,
+            "name": "SHISEDECO Small Table Clocks, Classic Non-Ticking Tabletop Alarm Clock with Backlight, Battery Operated Desk Astronaut Clock with HD Glass for Living Room Bedroom Bedside Indoor Decor (White)",
+            "price": 14.99,
+            "average_score": 75.0
+          },
+          {
+            "id": 87782,
+            "name": "Howard Miller 645-652 Abigail Alarm Clock",
+            "price": null,
+            "average_score": 67.5
+          },
+          {
+            "id": 82911,
+            "name": "KWANWA Small Alarm Clock with Time Talking | Hourly Report | Real Time& Chime Report| Three Kinds of Alarm Sounds",
+            "price": null,
+            "average_score": 65.0
+          },
+          {
+            "id": 83597,
+            "name": "PEYOU Projection Alarm Clock with USB Charger, Digital Alarm Clock for Bedroom with Adapter, 7.4\" Mirror Display, 4-Dimmer, 180\u00b0 Rotable, Snooze, Dual Alarm Clock for Heavy Sleepers Adults Kids",
+            "price": 26.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 83501,
+            "name": "Digital Travel Alarm Clock Timer LCD Clock with Foldable Calendar Temperature Timer\u00a0Snooze Mode, Battery Operated, Portable Large Number Display Clock\u00a012/24 H Small Desk Clock (Black)",
+            "price": 19.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 85843,
+            "name": "GENNYUE Digital Alarm Clocks, Non Ticking Battery Operated, Desk Clock Simple Alarm Clock, with Time Temperature Snooze Night Light for Bedrooms Office and Home",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 84328,
+            "name": "Oregon Scientific RM511A Portable Radio Controlled Alarm Clock, Dual Alarms, Indoor Temperature, Snooze Function, Time and Date Display, Black",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 86515,
+            "name": "Talking Cube Alarm Clock with LED Green Display Backlight",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 86475,
+            "name": "IEKA Alarm Clock, Digital Easy to Set and Watch with Large LCD Screen Low Light Soft Night Light Repeating Snooze Month Date & Temperature Display (White)",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 82673,
+            "name": "SENTRY CL936 Talking Alarm Clock",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 86242,
+            "name": "Silverzone LED Digital Alarm Clock 6.5'' Big Digit Mirror Surface Smart Loud Alarm with Snooze, 3-Level Auto/Manual Dimmer and Dual USB Charger Port for Kids and Heavy Sleepers (Black Body Blue Word)",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 87916,
+            "name": "YORTOT Small Digital Alarm Clock - Dual USB A & C Charging Port,Dual Alarm with Weekday/Weekend Mode,0-100% Dimmer,Easy to Set,12/24H,Battery Backup,Compact Clock for Bedside Desk Table Bedrooms,White",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 86032,
+            "name": "BEW Projection Alarm Clock Digital Clock with Indoor Thermometer Hygrometer, USB Charger, Dual Alarm Clocks for Bedrooms, Travel, AC & Battery Operated",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 86352,
+            "name": "LATICITY Digital Alarm Clock with Wireless Charging,15W Fast Wireless Charger with 3 Alarms,Warm Night Lightn,USB Charging Port,12/24H,Modern Digital Mirror Clock, Bedroom, Living Room, Office",
+            "price": 32.99,
+            "average_score": 52.5
+          },
+          {
+            "id": 87210,
+            "name": "TXL Large Digital Day Wall Clock, Custom 8 Languages Calendar, Count up-Down Timer and Temp Reminder, 12/24Hr Desktop Alarm Clock with 14.17\" Extra Large Display for Home Office Studio Hotel, White",
+            "price": 39.99,
+            "average_score": 50.0
+          },
+          {
+            "id": 83916,
+            "name": "Emerson CKS9051 SmartSet Dual Alarm Clock Radio (Discontinued by Manufacturer)",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 86533,
+            "name": "BRNEWO Bedroom Moon Lamp, RGB Color Changing Light with Scene Mode and Music Mode, Alarm Clock with Bluetooth Speaker, Suitable for Kids/Adults, Living Room Night Light Lighting Dimmable.",
+            "price": 35.99,
+            "average_score": 47.5
+          },
+          {
+            "id": 82704,
+            "name": "Bulova B6123 Traveler Alarm Clock, Silver",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 86569,
+            "name": "AMIR Wake up Light with Alarm Clock, Night Light Clock for Kids with Sunrise Simulation, 5 Natural Sounds, Rechargeable, Touch Sensor Multicolor Dimmable Night Light White1",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 87269,
+            "name": "GOLDSTAR New Pyramid Digital LCD Alarm Clock with Date and Temperature Display & Light-Activated Sensor Light in 7 LED Colors",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 86765,
+            "name": "KWYDYP 3D LED Wall Clock with Remote Control 12/24 Hr Time/Date Display Nightlight Alarm Clock,Digital Clock Brightness to Adjust,Temperature, for Office/Home/Living Room/School (Cool White, 15 inch)",
+            "price": 32.99,
+            "average_score": 47.5
+          },
+          {
+            "id": 86152,
+            "name": "Digital Alarm Clock, Temperature Date LED Display Wood Grain Clock 3 Levels Brightness Voice Control Modern Simplicity Wood Digital Clock (Alarm Clock)",
+            "price": null,
+            "average_score": 45.0
+          },
+          {
+            "id": 83713,
+            "name": "Timex T318S Easy to Read Alarm Clock Radio (Discontinued by Manufacturer)",
+            "price": null,
+            "average_score": 42.5
+          },
+          {
+            "id": 83570,
+            "name": "Aitey Alarm Clock for Kids, LED Large Display Clock with Temperature, Optional Weekday Alarm, Snooze and Smart Back Light for Bedroom, Desktop and Shelf, Battery Operated Clock (Blue)",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 82555,
+            "name": "Audiovox CD-95 Digital AM/FM Alarm Clock with Dual Alarm/NOAA/Weather Alert Radio",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 85538,
+            "name": "American Flag Digital Alarm Clock",
+            "price": null,
+            "average_score": 32.5
+          },
+          {
+            "id": 87366,
+            "name": "Timex CD Player Alarm Clock Nature Sounds",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 87965,
+            "name": "Alarm Clock Security Hidden DVR video CCTV Camera Motion Detector mini covert DV Camcorder + webcam recording Clock + LCD Remote",
+            "price": null,
+            "average_score": 22.5
+          },
+          {
+            "id": 82452,
+            "name": "Pack of 2 Wake up Anti-doze Earpiece Nap Zapper Alarm Ingegrating LED Flashllight Function",
+            "price": 11.98,
+            "average_score": 20.0
+          },
+          {
+            "id": 82672,
+            "name": "Present Time Silly Mini Flower Alarm Clock",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 84140,
+            "name": "Cointone LED Alarm Clock Unicorn Pink Pattern Creative Desk Table Clock Glowing Electronic Colorful Digital Clock for Unisex Adults Girl Boy Kids Children Toy Birthday Present Gift",
+            "price": null,
+            "average_score": 15.0
+          },
+          {
+            "id": 83369,
+            "name": "The Source Red Robot Clock RobotTime Moveable Bedside Alarm Analogue Clock Flashing Eyes and Sound",
+            "price": null,
+            "average_score": 12.5
+          },
+          {
+            "id": 84925,
+            "name": "Kids Alarm Clock Wake Up Easy Setting Digital Clock for Boys Girls, 7 Colors Changing LED Light Large Display Time/Date/Temp/Alarm with Snooze, Bedside Clock, Night Light Clock - Best Gift for Kids",
+            "price": 8.4,
+            "average_score": 12.5
+          },
+          {
+            "id": 82962,
+            "name": "Kids Alarm Clock,Screen alarm,Temperature display alarm ,Cute Chick Alarm Clock for Girls Boys, Kids Night Light Clock with 3 Color Changing,Children's Sleep Trainer",
+            "price": null,
+            "average_score": 10.0
+          },
+          {
+            "id": 83552,
+            "name": "Beyond Alarm Clock Gray Kitty Cat White",
+            "price": null,
+            "average_score": 7.5
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -111,12 +111,18 @@ Respond naturally as this persona would - like you're talking to a helpful sales
 Your response:"""
 
         try:
+            import time
+            start_time = time.time()
+            
             response = chat_completion(
                 messages=[{"role": "user", "content": prompt}],
                 model="gpt-4o",
                 temperature=0.7,
                 max_tokens=150
             )
+            
+            elapsed = time.time() - start_time
+            print(f"[TIMING] Persona feedback generation: {elapsed:.2f}s")
             return response.strip()
         except Exception as e:
             print(f"Error generating persona feedback: {e}")

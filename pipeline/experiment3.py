@@ -558,23 +558,58 @@ def run_experiment3(total_episodes: int = 50,
         
         return episodes
     
-    # Generate episode sequence
-    episodes = generate_episode_sequence(total_episodes, seed)
-    print(f"Generated {len(episodes)} episodes with varying personas and categories")
+    # Get available categories and shuffle them
+    available_categories = list_categories()
+    if seed is not None:
+        random.seed(seed)
+        shuffled_categories = available_categories.copy()
+        random.shuffle(shuffled_categories)
+        random.seed()  # Reset seed
+    else:
+        shuffled_categories = available_categories
     
-    # Run episodes
-    for episode_num, persona_index, category in episodes[start_episode-1:]:
+    # Run episodes directly instead of pre-generating sequence
+    successful_episodes_count = 0
+    episode_num = start_episode
+    
+    while successful_episodes_count < total_episodes:
+        # Generate persona and category for this episode
+        if seed is not None:
+            random.seed(seed + episode_num)  # Use episode number for variation
+        
+        # Select persona for this episode
+        persona_index = random.randint(0, 47000)  # Random persona
+        
+        # Find a random relevant category for this persona
+        category = None
+        max_attempts = len(shuffled_categories)
+        attempts = 0
+        
+        while category is None and attempts < max_attempts:
+            # Pick a random category from the shuffled list
+            category_index = random.randint(0, len(shuffled_categories) - 1)
+            test_category = shuffled_categories[category_index]
+            
+            # Check if this category is relevant for the persona
+            is_relevant, max_score, cached_scores = is_category_relevant_for_persona(test_category, persona_index, min_score_threshold)
+            if is_relevant:
+                category = test_category
+            else:
+                # Remove this category from consideration for this episode
+                shuffled_categories.pop(category_index)
+            
+            attempts += 1
+        
+        if category is None:
+            # Fallback to first category if no relevant category found
+            category = available_categories[0]
+            print(f"  Episode {episode_num}: No relevant category found for persona {persona_index}, using {category}")
+        
         print(f"\nEpisode {episode_num}/{total_episodes} (Persona: {persona_index}, Category: {category})")
         
         try:
-            # Check if this persona-category combination is relevant
-            is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
-            
-            if not is_relevant:
-                print(f"  ✗ Category {category}: Max score {max_score:.1f} ≤ {min_score_threshold}, skipping")
-                continue
-                
-            print(f"  ✓ Category {category}: Max score {max_score:.1f} > {min_score_threshold}, proceeding")
+            # We already found a relevant category above, so proceed directly
+            print(f"  ✓ Category {category}: Proceeding with episode")
             
             # Create environment for this episode with episode-specific feedback system
             episode_feedback_system = create_feedback_system_for_episode(persona_index, feedback_type)
@@ -670,12 +705,17 @@ def run_experiment3(total_episodes: int = 50,
             agent.update_preferences(episode_result)
             metrics_wrapper.close()
             
+            # Increment successful episodes counter
+            successful_episodes_count += 1
+            episode_num += 1
+            
             # Save checkpoint every 5 episodes
             if episode_num % 5 == 0:
                 save_checkpoint(all_results, persona_category_results, agent, output_dir, model, feedback_type, episode_num, seed)
             
         except Exception as e:
             print(f"  Error in episode {episode_num}: {e}")
+            episode_num += 1
             # Save checkpoint even if episode failed
             if episode_num % 5 == 0:
                 save_checkpoint(all_results, persona_category_results, agent, output_dir, model, feedback_type, episode_num, seed)

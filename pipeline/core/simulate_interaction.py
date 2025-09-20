@@ -152,6 +152,9 @@ def simulated_user_respond(persona_description: str, question: str) -> str:
     """
     Simulate a user's answer given a natural-language persona description.
     """
+    import time
+    start_time = time.time()
+    
     prompt = f"""You simulate a user with the following persona description:
 {persona_description}
 
@@ -164,6 +167,7 @@ Answer STRICTLY the question as this user would.
 Question: {question}
 
 Answer:"""
+    
     content = chat_completion(
         model="gpt-4o",
         messages=[
@@ -174,6 +178,9 @@ Answer:"""
         max_tokens=100,
         json_mode=False,
     )
+    
+    elapsed = time.time() - start_time
+    print(f"[TIMING] Persona question answering: {elapsed:.2f}s")
     return content
 
 def score_products_for_persona(persona_description: str, category: str, products: List[Dict[str, Any]], model: str = "gpt-4o") -> List[Tuple[int, float, str]]:
@@ -183,6 +190,9 @@ def score_products_for_persona(persona_description: str, category: str, products
     for products present in both; if only one provider returns a product, use that score.
     Returns list of tuples: (product_id, score_0_100, reason_merged), sorted by score.
     """
+    import time
+    start_time = time.time()
+    print(f"[TIMING] Starting product scoring for {len(products)} products...")
     condensed_products = [
         {
             "id": p.get("id"),
@@ -498,4 +508,7 @@ def score_products_for_persona(persona_description: str, category: str, products
         print(f"{score:6.1f} - {title} (id={pid})")
         print(f"        {reason}")
     print("=== End Persona Scoring ===\n")
+    
+    elapsed = time.time() - start_time
+    print(f"[TIMING] Product scoring completed: {elapsed:.2f}s")
     return combined
