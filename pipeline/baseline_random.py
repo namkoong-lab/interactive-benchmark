@@ -78,7 +78,6 @@ def load_checkpoint(checkpoint_file: str) -> Tuple[List, Dict, Dict]:
 
 
 def run_baseline_random(
-    persona_index: int, 
     categories: List[str] = None, 
     num_categories: int = 5, 
     episodes_per_category: int = 5, 
@@ -96,6 +95,10 @@ def run_baseline_random(
         print(f"Random seed: {seed}")
         random.seed(seed)
         np.random.seed(seed)
+    
+    # Randomly select a persona based on the seed (consistent across episodes)
+    persona_index = random.randint(0, 47000)  
+    print(f"Selected persona: {persona_index}")
     
     os.makedirs(output_dir, exist_ok=True)
     if "RecoEnv-v0" not in gym.envs.registry:

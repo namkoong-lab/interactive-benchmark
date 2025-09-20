@@ -30,7 +30,6 @@ if __name__ == "__main__":
     
     # Run with settings that mirror the main experiment
     run_baseline_random(
-        persona_index=254,
         categories=None, # Use the standard list for consistency
         num_categories=3,
         episodes_per_category=1,

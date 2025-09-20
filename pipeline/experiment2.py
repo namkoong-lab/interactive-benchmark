@@ -443,8 +443,7 @@ def load_checkpoint(checkpoint_file: str) -> Tuple[List[Dict], Dict, Dict]:
     return data['all_results'], data['persona_results'], data['agent_state']
 
 
-def run_experiment2(category: str = "Electronics",
-                   persona_indices: List[int] = None,
+def run_experiment2(persona_indices: List[int] = None,
                    num_personas: int = 10,
                    episodes_per_persona: int = 3,
                    max_questions: int = 8,
@@ -460,7 +459,6 @@ def run_experiment2(category: str = "Electronics",
     Run Experiment 2: LLM learning questioning strategies across users in same category.
     
     Args:
-        category: Single category to test across different users
         persona_indices: List of persona indices to use (None = randomly choose)
         num_personas: Number of personas to randomly select (if persona_indices is None)
         episodes_per_persona: Number of episodes per persona
@@ -469,19 +467,25 @@ def run_experiment2(category: str = "Electronics",
         feedback_type: Type of feedback to provide ("none", "regret", "persona", "star_rating")
         min_score_threshold: Minimum score threshold for category relevance (default: 50.0)
         output_dir: Directory to save results
-        seed: Random seed for reproducible persona selection (None = no seeding)
+        seed: Random seed for reproducible category and persona selection (None = no seeding)
         checkpoint_file: Optional checkpoint file to resume from
         context_mode: How to carry context between episodes ("raw", "summary", "none") (default: "raw")
         prompting_tricks: Whether to use enhanced prompting tricks ("none", "all") (default: "none")
     """
     
     print(f"=== Experiment 2: LLM Learning Questioning Strategies Across Users ===")
-    print(f"Category: {category}, Episodes per persona: {episodes_per_persona}")
+    print(f"Episodes per persona: {episodes_per_persona}")
     print(f"Max questions: {max_questions}, Model: {model}, Feedback: {feedback_type}")
     if seed is not None:
         print(f"Random seed: {seed}")
         random.seed(seed)
         np.random.seed(seed)
+    
+    # Randomly select a category based on the seed (consistent across episodes)
+    from .core.simulate_interaction import list_categories
+    available_categories = list_categories()
+    category = random.choice(available_categories)
+    print(f"Selected category: {category}")
     
     os.makedirs(output_dir, exist_ok=True)
     gym.register("RecoEnv-v0", entry_point=RecoEnv)
@@ -518,12 +522,6 @@ def run_experiment2(category: str = "Electronics",
         feedback_system = FeedbackSystem(feedback_type=feedback_type)
     
     from .core.simulate_interaction import list_categories, get_products_by_category
-    available_categories = list_categories()
-    
-    if category not in available_categories:
-        print(f"Category '{category}' not found. Available categories: {available_categories[:5]}...")
-        category = available_categories[0] if available_categories else "Electronics"
-        print(f"Using category: {category}")
     
     # Check if category is relevant (has products with score > threshold for at least some personas)
     def check_category_relevance(category, sample_personas=10, min_score_threshold=min_score_threshold):
@@ -859,7 +857,6 @@ def run_experiment2(category: str = "Electronics",
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run Experiment 2: LLM Learning Questioning Strategies Across Users")
-    parser.add_argument("--category", type=str, default="Electronics", help="Category to test")
     parser.add_argument("--persona_indices", nargs="+", type=int, default=None, help="Persona indices to use")
     parser.add_argument("--num_personas", type=int, default=10, help="Number of personas to randomly select")
     parser.add_argument("--episodes_per_persona", type=int, default=3, help="Episodes per persona")
@@ -876,7 +873,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     run_experiment2(
-        category=args.category,
         persona_indices=args.persona_indices,
         num_personas=args.num_personas,
         episodes_per_persona=args.episodes_per_persona,

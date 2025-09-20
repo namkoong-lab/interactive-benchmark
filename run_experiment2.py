@@ -17,8 +17,7 @@ if __name__ == "__main__":
     
     # Example usage with checkpointing
     results, persona_results, learned_strategies = run_experiment2(
-        category="Electronics",
-        persona_indices=None,  # Will randomly select
+        persona_indices=None, 
         num_personas=10,
         episodes_per_persona=2,
         max_questions=30,
