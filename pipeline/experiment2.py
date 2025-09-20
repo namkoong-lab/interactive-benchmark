@@ -32,20 +32,17 @@ from .wrappers.metrics_wrapper import MetricsWrapper
 
 class LLMAgentExperiment2:
     """
-    LLM-based agent for Experiment 2 that learns questioning strategies
-    across different users within the same category.
+    LLM-based agent for Experiment 2 that maintains simple context:
+    dialog + feedback from previous episodes across different personas.
     """
     
     def __init__(self, model: str = "gpt-4o", max_questions: int = 8):
         self.model = model
         self.max_questions = max_questions
         self.episode_count = 0
-        self.learned_questioning_strategies = {}  # Store learned questioning patterns
-        self.persona_conversation_history = {}  # Store conversation history by persona
-        self.persona_preferences = {}  # Store learned preferences by persona
+        self.episode_history = []  # Simple list of episode context
         self.current_episode_info = None
         self.last_response = None
-        self.category_question_history = []  # Track questions asked in this category
         
     def get_action(self, obs: Dict[str, np.ndarray], info: Dict[str, Any]) -> int:
         """Decide whether to ask a question or make a recommendation using LLM."""
@@ -77,8 +74,8 @@ class LLMAgentExperiment2:
         products = self._get_product_info(obs, info, num_products)
         context = self._build_llm_context(products, dialog_history, category)
         
-        # Add learned questioning strategies and persona-specific context
-        strategy_context = self._build_strategy_context(category, current_persona)
+        # Add previous episode context
+        strategy_context = self._build_episode_context()
         
         unified_prompt = f"""You are a product recommendation agent learning optimal questioning strategies for {category} products.
 
@@ -179,182 +176,58 @@ Rules:
         
         return f"{product_list}\n{dialog_text}"
     
-    def _build_strategy_context(self, category: str, current_persona: int = None) -> str:
-        """Build context about learned questioning strategies and persona-specific information."""
-        context_parts = []
+    def _build_episode_context(self) -> str:
+        """Build context string from previous episodes."""
+        if not self.episode_history:
+            return ""
         
-        # Add persona-specific conversation history
-        if current_persona is not None and current_persona in self.persona_conversation_history:
-            conv_history = self.persona_conversation_history[current_persona]
-            if conv_history:
-                context_parts.append(f"Previous conversations with Persona {current_persona}:")
-                
-                # Show last 2 episodes of conversations with this persona
-                for conv_entry in conv_history[-2:]:
-                    episode = conv_entry.get('episode', 0)
-                    dialog = conv_entry.get('dialog', [])
-                    score = conv_entry.get('score', 0)
-                    feedback = conv_entry.get('feedback', '')
-                    
-                    if dialog:
-                        context_parts.append(f"  Episode {episode} (Score: {score:.1f}):")
-                        for i, (question, answer) in enumerate(dialog):
-                            context_parts.append(f"    Q{i+1}: {question}")
-                            context_parts.append(f"    A{i+1}: {answer}")
-                        if feedback:
-                            context_parts.append(f"    Final feedback: {feedback}")
-                        context_parts.append("")  # Empty line for readability
+        context_parts = ["Previous episodes:"]
         
-        # Add persona-specific preferences
-        if current_persona is not None and current_persona in self.persona_preferences:
-            persona_prefs = self.persona_preferences[current_persona]
-            if persona_prefs:
-                context_parts.append(f"Learned preferences for Persona {current_persona}:")
-                for pref_type, pref_value in persona_prefs.items():
-                    context_parts.append(f"  {pref_type}: {pref_value}")
-                context_parts.append("")  # Empty line for readability
+        # Show last 3 episodes for context
+        for episode_data in self.episode_history[-3:]:
+            episode_num = episode_data.get('episode', 0)
+            category = episode_data.get('category', 'unknown')
+            persona = episode_data.get('persona', 'unknown')
+            dialog = episode_data.get('dialog', [])
+            feedback = episode_data.get('feedback', '')
+            
+            context_parts.append(f"Episode {episode_num}: [{category}/Persona {persona}]")
+            
+            # Add dialog
+            if dialog:
+                for i, (question, answer) in enumerate(dialog):
+                    context_parts.append(f"  Q{i+1}: {question}")
+                    context_parts.append(f"  A{i+1}: {answer}")
+            
+            # Add feedback
+            if feedback:
+                context_parts.append(f"  Feedback: {feedback}")
+            
+            context_parts.append("")  # Empty line for readability
         
-        # Add category-wide questioning strategies
-        if category in self.learned_questioning_strategies:
-            strategies = self.learned_questioning_strategies[category]
-            if strategies:
-                context_parts.append(f"Learned questioning strategies for {category}:")
-                for question_type, effectiveness_scores in strategies.items():
-                    avg_effectiveness = np.mean(effectiveness_scores) if effectiveness_scores else 0
-                    context_parts.append(f"  {question_type}: {avg_effectiveness:.1f} avg effectiveness ({len(effectiveness_scores)} examples)")
-            else:
-                context_parts.append(f"No effective questioning strategies identified for {category} yet.")
-        else:
-            context_parts.append(f"No previous questioning strategies learned for {category} yet.")
-        
-        return "\n".join(context_parts) if context_parts else ""
+        return "\n".join(context_parts)
     
     def update_strategies(self, episode_result: Dict[str, Any]):
-        """Update learned questioning strategies and persona-specific data based on episode outcome."""
+        """Store episode context: dialog + feedback."""
         self.episode_count += 1
         
-        if 'final_info' in episode_result and 'chosen_score' in episode_result['final_info']:
-            score = episode_result['final_info']['chosen_score']
+        if 'final_info' in episode_result:
             category = episode_result.get('category', 'unknown')
             persona_index = episode_result.get('persona_index', None)
-            dialog_history = episode_result.get('full_dialog', [])
             feedback = episode_result['final_info'].get('feedback', '')
-            feedback_type = episode_result['final_info'].get('feedback_type', 'regret')
+            full_dialog = episode_result.get('full_dialog', [])
             
-            # Store persona-specific conversation history
-            if persona_index is not None and dialog_history:
-                if persona_index not in self.persona_conversation_history:
-                    self.persona_conversation_history[persona_index] = []
-                
-                # Store the conversation from this episode
-                self.persona_conversation_history[persona_index].append({
-                    'episode': self.episode_count,
-                    'dialog': dialog_history,
-                    'score': score,
-                    'feedback': feedback,
-                    'category': category
-                })
+            # Store simple episode context
+            episode_data = {
+                'episode': self.episode_count,
+                'category': category,
+                'persona': persona_index,
+                'dialog': full_dialog,
+                'feedback': feedback
+            }
             
-            # Analyze which questions led to good outcomes
-            if dialog_history:
-                for question, answer in dialog_history:
-                    question_type = self._categorize_question(question)
-                    effectiveness = score  # Use final score as effectiveness measure
-                    
-                    if category not in self.learned_questioning_strategies:
-                        self.learned_questioning_strategies[category] = {}
-                    
-                    if question_type not in self.learned_questioning_strategies[category]:
-                        self.learned_questioning_strategies[category][question_type] = []
-                    
-                    self.learned_questioning_strategies[category][question_type].append(effectiveness)
-            
-            # Process feedback for strategy learning and persona preferences
-            self._process_feedback_for_strategies(feedback, feedback_type, score, category, dialog_history, persona_index)
+            self.episode_history.append(episode_data)
     
-    def _process_feedback_for_strategies(self, feedback: str, feedback_type: str, score: float, 
-                                        category: str, dialog_history: list, persona_index: int = None):
-        """Process feedback specifically for questioning strategy learning and persona preferences."""
-        if not feedback:
-            return
-        
-        # Store persona-specific preferences
-        if persona_index is not None:
-            if persona_index not in self.persona_preferences:
-                self.persona_preferences[persona_index] = {}
-            
-            # Simple keyword-based learning for persona preferences
-            if "expensive" in feedback.lower() or "price" in feedback.lower():
-                self.persona_preferences[persona_index]['price_sensitivity'] = "high"
-            elif "cheap" in feedback.lower() or "affordable" in feedback.lower():
-                self.persona_preferences[persona_index]['price_sensitivity'] = "low"
-            
-            if "quality" in feedback.lower() or "durable" in feedback.lower():
-                self.persona_preferences[persona_index]['quality_focus'] = "high"
-            elif "basic" in feedback.lower() or "simple" in feedback.lower():
-                self.persona_preferences[persona_index]['quality_focus'] = "low"
-        
-        # Store feedback for strategy analysis
-        if not hasattr(self, 'strategy_feedback_history'):
-            self.strategy_feedback_history = []
-        
-        self.strategy_feedback_history.append({
-            'feedback': feedback,
-            'feedback_type': feedback_type,
-            'score': score,
-            'category': category,
-            'dialog_length': len(dialog_history),
-            'episode': self.episode_count,
-            'persona_index': persona_index
-        })
-            
-    def _analyze_question_effectiveness_from_feedback(self, feedback: str, dialog_history: list, 
-                                                     score: float, category: str):
-        """Analyze which questions were most effective based on quality feedback."""
-        # Simple analysis based on quality feedback
-        feedback_lower = feedback.lower()
-        
-        # Determine overall effectiveness based on quality feedback
-        if 'great' in feedback_lower:
-            overall_effectiveness = 'high'
-        elif 'ok' in feedback_lower:
-            overall_effectiveness = 'medium'
-        elif 'bad' in feedback_lower:
-            overall_effectiveness = 'low'
-        else:
-            overall_effectiveness = 'unknown'
-        
-        # Store effectiveness insights
-        if not hasattr(self, 'question_effectiveness_insights'):
-            self.question_effectiveness_insights = {}
-        if category not in self.question_effectiveness_insights:
-            self.question_effectiveness_insights[category] = []
-        
-        self.question_effectiveness_insights[category].append({
-            'overall_effectiveness': overall_effectiveness,
-            'score': score,
-            'feedback': feedback,
-            'dialog_length': len(dialog_history)
-        })
-    
-    def _categorize_question(self, question: str) -> str:
-        """Categorize question type for strategy learning."""
-        question_lower = question.lower()
-        
-        if any(word in question_lower for word in ['price', 'budget', 'cost', 'expensive', 'cheap']):
-            return "price_budget"
-        elif any(word in question_lower for word in ['brand', 'manufacturer', 'company']):
-            return "brand_preference"
-        elif any(word in question_lower for word in ['size', 'dimension', 'measurement']):
-            return "size_specifications"
-        elif any(word in question_lower for word in ['color', 'style', 'design', 'appearance']):
-            return "style_appearance"
-        elif any(word in question_lower for word in ['feature', 'function', 'capability']):
-            return "features_functionality"
-        elif any(word in question_lower for word in ['quality', 'durability', 'reliability']):
-            return "quality_durability"
-        else:
-            return "general_preference"
 
 
 def save_checkpoint(all_results: List[Dict], persona_results: Dict, agent: LLMAgentExperiment2, 
@@ -377,10 +250,7 @@ def save_checkpoint(all_results: List[Dict], persona_results: Dict, agent: LLMAg
         'seed': seed,
         'agent_state': {
             'episode_count': agent.episode_count,
-            'learned_questioning_strategies': agent.learned_questioning_strategies,
-            'persona_conversation_history': getattr(agent, 'persona_conversation_history', {}),
-            'persona_preferences': getattr(agent, 'persona_preferences', {}),
-            'category_question_history': agent.category_question_history
+            'episode_history': agent.episode_history
         },
         'episodes_completed': len(all_results),
         'all_results': all_results,
@@ -465,10 +335,7 @@ def run_experiment2(category: str = "Electronics",
         # Recreate agent with saved state
         agent = LLMAgentExperiment2(model=model, max_questions=max_questions)
         agent.episode_count = agent_state['episode_count']
-        agent.learned_questioning_strategies = agent_state['learned_questioning_strategies']
-        agent.persona_conversation_history = agent_state.get('persona_conversation_history', {})
-        agent.persona_preferences = agent_state.get('persona_preferences', {})
-        agent.category_question_history = agent_state.get('category_question_history', [])
+        agent.episode_history = agent_state.get('episode_history', [])
         
         # Calculate starting episode number
         start_episode = len(all_results) + 1
@@ -558,8 +425,12 @@ def run_experiment2(category: str = "Electronics",
         all_results = []
         persona_results = {pid: [] for pid in persona_indices}
     
+    # Calculate target number of successful episodes (those with regret values)
+    target_successful_episodes = num_personas * episodes_per_persona
+    
     total_episodes = len(persona_indices) * episodes_per_persona
     episode_num = 0
+    successful_episodes_count = 0  # Count only episodes that actually run (have regret values)
     
     # Dynamic persona filtering - check relevance as we encounter personas
     def check_persona_category_relevance(persona_idx, category, min_score_threshold):
@@ -580,23 +451,33 @@ def run_experiment2(category: str = "Electronics",
             print(f"  Error checking persona relevance: {e}")
             return False, 0.0
     
-    for persona_index in persona_indices:
+    # Continue testing personas until we reach the target number of successful episodes
+    personas_to_test = persona_indices.copy()
+    persona_index_idx = 0
+    
+    while successful_episodes_count < target_successful_episodes and persona_index_idx < len(personas_to_test):
+        persona_index = personas_to_test[persona_index_idx]
         print(f"\n--- Testing Persona: {persona_index} ---")
         
         # Check relevance for this persona
         is_relevant, max_score = check_persona_category_relevance(persona_index, category, min_score_threshold)
         if not is_relevant:
             print(f"  Persona {persona_index}: Max score {max_score:.1f} ≤ {min_score_threshold}, skipping persona")
-            # Skip all episodes for this persona
-            for episode in range(episodes_per_persona):
-                episode_num += 1
+            # Skip this persona and move to next one
+            persona_index_idx += 1
             continue
         
         print(f"  Persona {persona_index}: Max score {max_score:.1f} > {min_score_threshold}, proceeding")
         
         for episode in range(episodes_per_persona):
+            if successful_episodes_count >= target_successful_episodes:
+                break
+                
             episode_num += 1
-            print(f"Episode {episode_num}/{total_episodes} (Persona: {persona_index})")
+            successful_episodes_count += 1  # Count this as a successful episode
+            
+            # Show progress correctly
+            print(f"Episode {episode_num} (Persona: {persona_index}) - {successful_episodes_count}/{target_successful_episodes} successful episodes")
             
             env = RecoEnv(
                 persona_index=persona_index,
@@ -682,14 +563,33 @@ def run_experiment2(category: str = "Electronics",
             agent.update_strategies(episode_result)
             metrics_wrapper.close()
             
-            # Save checkpoint every 5 personas (at the end of each persona)
-            if episode == episodes_per_persona - 1:  # Last episode of this persona
-                # Check if we've completed 5 personas (or all personas)
-                completed_personas = len([pid for pid, results in persona_results.items() if len(results) == episodes_per_persona])
-                if completed_personas % 5 == 0 or completed_personas == len(persona_indices):
-                    save_checkpoint(all_results, persona_results, agent, output_dir, model, feedback_type, episode_num, seed)
+            # Save checkpoint every 5 successful episodes
+            if successful_episodes_count % 5 == 0:
+                save_checkpoint(all_results, persona_results, agent, output_dir, model, feedback_type, episode_num, seed)
+        
+        # Move to next persona
+        persona_index_idx += 1
+        
+        # If we've exhausted all personas but haven't reached target, get more personas
+        if persona_index_idx >= len(personas_to_test) and successful_episodes_count < target_successful_episodes:
+            print(f"\nNeed {target_successful_episodes - successful_episodes_count} more successful episodes. Getting more personas...")
+            
+            # Get additional personas that haven't been tested yet
+            remaining_personas = [pid for pid in range(0, 1000) if pid not in personas_to_test]
+            if remaining_personas:
+                # Add more personas to test
+                additional_needed = (target_successful_episodes - successful_episodes_count + episodes_per_persona - 1) // episodes_per_persona
+                additional_personas = remaining_personas[:additional_needed]
+                personas_to_test.extend(additional_personas)
+                print(f"Added {len(additional_personas)} more personas to test")
+            else:
+                print("No more personas available to test")
+                break
     
     print(f"\n=== Results Analysis ===")
+    print(f"Target successful episodes: {target_successful_episodes}")
+    print(f"Actual successful episodes: {successful_episodes_count}")
+    print(f"Personas tested: {len([pid for pid, results in persona_results.items() if results])}")
     
     print("\nPerformance by Persona:")
     for persona_index, results in persona_results.items():
@@ -763,13 +663,12 @@ def run_experiment2(category: str = "Electronics",
                 'regret_progression': regret_progression,
                 'questions_progression': questions_progression,
                 'persona_info': persona_info,
-                'learned_strategies': agent.learned_questioning_strategies,
-                'persona_conversation_history': getattr(agent, 'persona_conversation_history', {}),
-                'persona_preferences': getattr(agent, 'persona_preferences', {}),
+                'agent_episode_history': agent.episode_history,
                 'overall_performance': {
                     'avg_score': np.mean(episode_scores) if episode_scores else 0,
                     'total_episodes': len(all_results),
-                    'successful_episodes': len([r for r in all_results if 'chosen_score' in r['final_info']])
+                    'successful_episodes': successful_episodes_count,
+                    'target_successful_episodes': target_successful_episodes
                 }
             },
             'config': {

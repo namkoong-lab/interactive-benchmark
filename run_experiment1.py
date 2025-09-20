@@ -19,9 +19,9 @@ if __name__ == "__main__":
     results, category_results = run_experiment1(
         persona_index=254,
         categories=None,  
-        num_categories=3,  
+        num_categories=10,  
         episodes_per_category=1, 
-        max_questions=5,
+        max_questions=20,
         model="gpt-4o",
         feedback_type="persona",
         min_score_threshold=50.0,

@@ -55,56 +55,58 @@ class UserModel:
                          category: str,
                          dialog_history: List[Dict[str, str]] = None) -> str:
         """
-        Generate feedback as the persona would, given the regret value and top products.
+        Generate tone-based feedback that reflects how close/far the recommendation was,
+        without revealing regret values or the correct product.
         
         Args:
             chosen_product: The product that was recommended
             chosen_score: Score of the chosen product
             regret: How much better the best option would have been
-            top_products: List of (product_id, score) tuples for top products (without revealing which is best)
+            top_products: List of (product_id, score) tuples for top products
             category: Product category
             dialog_history: Optional conversation history
             
         Returns:
-            Feedback string from the persona's perspective
+            Feedback string with tone reflecting recommendation quality
         """
+        # Special case: if this is the top1 product (regret = 0), give perfect feedback
+        if regret == 0:
+            return "Perfect! This is exactly what I was looking for. Great recommendation!"
+        
+        # Determine feedback tone based on regret level
+        # Small regret (0-10): Pretty close, minor adjustments needed
+        # Medium regret (10-30): Somewhat off, needs improvement
+        # Large regret (30+): Far off, major mismatch
+        
         # Build context about the chosen product
         chosen_info = f"Chosen product: {chosen_product.get('title', 'Unknown')} (Price: {chosen_product.get('price', 'Unknown')})"
-        
-        # Create a summary of top products without revealing which is best
-        top_products_summary = ""
-        if top_products:
-            # Get product details for top products
-            from .simulate_interaction import get_products_by_category
-            all_products = get_products_by_category(category)
-            id_to_product = {p['id']: p for p in all_products}
-            
-            top_product_titles = []
-            for product_id, score in top_products[:3]:  # Show top 3
-                product = id_to_product.get(product_id)
-                if product:
-                    title = product.get('title', 'Unknown')[:50]
-                    top_product_titles.append(f"{title} (Score: {score:.1f})")
-            
-            top_products_summary = f"Some highly-rated {category} options include: " + ", ".join(top_product_titles)
         
         # Build conversation context if available
         conversation_context = ""
         if dialog_history:
-            conversation_context = "Our conversation included: " + "; ".join([f"Q: {q['question'][:50]}... A: {q['answer'][:50]}..." for q in dialog_history[-3:]])
+            recent_dialog = dialog_history[-2:]  # Last 2 exchanges
+            conversation_context = "Our conversation included: " + "; ".join([f"Q: {q['question'][:50]}... A: {q['answer'][:50]}..." for q in recent_dialog])
+        
+        # Create tone instructions based on regret level
+        if regret <= 10:
+            tone_instruction = "Respond positively and encouragingly - the recommendation was quite close to what you wanted, just needs minor adjustments. Sound pleased but mention one small thing that could be better."
+        elif regret <= 30:
+            tone_instruction = "Respond with moderate satisfaction - the recommendation was okay but not quite right. Sound somewhat pleased but mention what you were actually looking for instead."
+        else:
+            tone_instruction = "Respond with clear dissatisfaction - the recommendation was far from what you wanted. Sound disappointed and explain what you were actually looking for."
         
         prompt = f"""You are a user with this persona:
 {self._persona_text}
 
-A recommendation agent just suggested a product to you, but it wasn't quite right for your taste.
+A recommendation agent just suggested a product to you.
 
 Context:
 - {chosen_info}
-- How much better the best option would have been: {regret:.1f} points higher
-- {top_products_summary}
 {f"- {conversation_context}" if conversation_context else ""}
 
-Respond naturally as this persona would - like you're talking to a helpful salesperson or friend who made a suggestion that missed the mark. Be conversational and specific about what you're looking for instead. Keep it to 1-2 sentences and sound like a real person, not a formal review. Make it a statement about your preferences, not a question. Don't mention specific scores or reveal which product would be better.
+{tone_instruction}
+
+Respond naturally as this persona would - like you're talking to a helpful salesperson or friend. Be conversational and specific about your preferences. Keep it to 1-2 sentences and sound like a real person, not a formal review. Make it a statement about your preferences, not a question. Never mention specific scores, regret values, or reveal which product would be better.
 
 Your response:"""
 
@@ -118,7 +120,6 @@ Your response:"""
             return response.strip()
         except Exception as e:
             print(f"Error generating persona feedback: {e}")
-            # Fallback to simple regret-based feedback
-            return f"I wasn't satisfied with this recommendation. A better option would have been {regret:.1f} points higher in my preferences."
+            raise e
 
 
