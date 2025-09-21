@@ -16,16 +16,16 @@ if __name__ == "__main__":
     
     results, category_results = run_experiment1(
         categories=None,  
-        num_categories=20, 
+        num_categories=10, 
         episodes_per_category=1,
         max_questions=20,
         model="gpt-4o", #Options: gpt-4o, gpt-4o-mini, gpt-5-nano-2025-08-07, gemini-2.5-pro, gemini-2.5-flash-lite, claude-opus-4-20250514, claude-sonnet-4-20250514
-        feedback_type="star_rating", #Options: regret, persona, star_rating
+        feedback_type="persona", #Options: regret, persona, star_rating
         min_score_threshold=60.0,
         output_dir="experiment1_results_with_checkpoints",
         checkpoint_file=None,
-        seed=179322,
-        context_mode="raw", #Options: raw, summary 
+        seed=653845,
+        context_mode="summary", #Options: raw, summary 
         prompting_tricks="none" #Options: none, all
     )
     

@@ -38,11 +38,13 @@ class RandomAgent:
         return self._choose_recommendation(obs, info)
 
     def _choose_recommendation(self, obs: Dict[str, np.ndarray], info: Dict[str, Any]) -> int:
-        """CORE LOGIC: Choose a random product index."""
+        """CORE LOGIC: Choose a truly random product index (not seeded)."""
         num_products = info.get('num_products', 0)
         if num_products == 0:
             return 0 
-        return np.random.randint(0, num_products)
+        # Use Python's random module with fresh state for truly random product selection
+        import random as py_random
+        return py_random.randint(0, num_products - 1)
 
     def update_preferences(self, episode_result: Dict[str, Any]):
         """This agent does not learn."""
@@ -92,9 +94,11 @@ def run_baseline_random(
     print(f"=== Baseline 2: Random Recommendation (with Checkpointing) ===")
 
     if seed is not None:
-        print(f"Random seed: {seed}")
+        print(f"Random seed: {seed} (for category selection only)")
+        # Only seed the random module for category/persona selection
+        # Product selection will remain truly random
         random.seed(seed)
-        np.random.seed(seed)
+        # Don't seed np.random to keep product selection truly random
     
     # Randomly select a persona based on the seed (consistent across episodes)
     persona_index = random.randint(0, 47000)  

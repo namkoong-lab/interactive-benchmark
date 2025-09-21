@@ -1,0 +1,2550 @@
+{
+  "experiment": "Experiment 1: LLM Learning Across Categories (Checkpoint)",
+  "timestamp": "2025-09-20T23:10:38.375592",
+  "episode_num": 5,
+  "model": "gpt-4o",
+  "feedback_type": "persona",
+  "seed": 653845,
+  "agent_state": {
+    "episode_count": 5,
+    "episode_history": [
+      {
+        "episode": 1,
+        "category": "Camera & Video Accessory Bundles",
+        "persona": 40698,
+        "dialog": [
+          [
+            "What's your budget for a camera accessory bundle?",
+            "$150."
+          ]
+        ],
+        "selected_product_id": 71253,
+        "selected_product_name": "Canon EF-S 24mm f/2.8 STM Lens for Canon Digital SLR Cameras with 52mm Filter Kit (UV, CPL, FLD) (12 Items)",
+        "feedback": "Thanks for the suggestion! The Canon lens is nice, but I was actually looking for something more versatile for capturing both landscape and close-up shots for my environmental projects."
+      },
+      {
+        "episode": 2,
+        "category": "Video Projectors",
+        "persona": 40698,
+        "dialog": [
+          [
+            "What is your budget for a video projector?",
+            "My budget for a video projector is around $300."
+          ]
+        ],
+        "selected_product_id": 67458,
+        "selected_product_name": "Kodak Wireless WiFi Portable Projector - DLP Pico LED 1080p HD Mini Projector - Supports Android Miracast, iOS Apple Airplay Phones and Devices - Rechargeable with Speakers \u2013 HDMI and Micro SD Card",
+        "feedback": "The projector is pretty cool, especially with the wireless and portable features, but I was actually looking for something more budget-friendly and compact for small gatherings with friends."
+      },
+      {
+        "episode": 3,
+        "category": "Central United States Travel Guides",
+        "persona": 40698,
+        "dialog": [
+          [
+            "Are you looking for a travel guide with specific features or content, like maps or local tips?",
+            "Yes, I'm looking for a travel guide that includes local tips and sustainable travel options."
+          ]
+        ],
+        "selected_product_id": 11610,
+        "selected_product_name": "Backroads of Florida - Second Edition: Along the Byways to Breathtaking Landscapes and Quirky Small Towns",
+        "feedback": "Oh, this isn't quite what I was looking for. I was hoping for something more related to sustainability or environmental activism, maybe a book on eco-friendly practices or a documentary about climate change impacts on marginalized communities."
+      },
+      {
+        "episode": 4,
+        "category": "Health, Fitness & Dieting",
+        "persona": 40698,
+        "dialog": [
+          [
+            "Are you looking for a free or low-cost health and fitness product?",
+            "Yes, I'm looking for a low-cost health and fitness product."
+          ]
+        ],
+        "selected_product_id": 45714,
+        "selected_product_name": "Target Volume Delineation and Field Setup: A Practical Guide for Conformal and Intensity-Modulated Radiation Therapy",
+        "feedback": "Oh wow, that's definitely not what I was looking for. I was actually hoping for something more related to sustainability or maybe a cookbook with some new Latinx recipes to try out in my kitchen."
+      },
+      {
+        "episode": 5,
+        "category": "Beef",
+        "persona": 40698,
+        "dialog": [
+          [
+            "Are you looking for a specific type of beef product, like organic or grass-fed?",
+            "Yes, I prefer grass-fed beef."
+          ],
+          [
+            "Do you have a preferred store or brand for purchasing grass-fed beef?",
+            "I prefer to purchase grass-fed beef from local farmers markets."
+          ],
+          [
+            "Are you looking for any specific cuts of grass-fed beef?",
+            "No, I'm not looking for any specific cuts of grass-fed beef."
+          ]
+        ],
+        "selected_product_id": 76003,
+        "selected_product_name": "Four USDA Prime Filet Mignon Steaks - Combo Pack of 4 Beef Tenderloin Filet Mignon Steak, Aged 21 days",
+        "feedback": "Oh no, that's definitely not what I was looking for! I'm actually trying to find some plant-based options or sustainable seafood to incorporate into my meals, since I'm focusing on a more eco-friendly diet."
+      }
+    ],
+    "episode_summaries": [
+      "The user has a budget of $150 for a camera accessory bundle and is interested in versatile options suitable for both landscape and close-up photography for environmental projects. The selected product, a Canon lens, was appreciated but did not meet the user's need for versatility. Future recommendations should focus on multi-purpose lenses or bundles that cater to diverse photography needs.",
+      "The user has a budget of around $300 for a video projector and prefers a more budget-friendly and compact option suitable for small gatherings with friends. While the selected product (67458) was appreciated for its wireless and portable features, it did not meet the user's budgetary and compactness preferences. Future recommendations should focus on more affordable and smaller-sized projectors that are suitable for casual, social settings.",
+      "The user expressed interest in a travel guide that includes local tips and sustainable travel options. However, the selected product (11610) did not meet their expectations as they were looking for content more focused on sustainability, environmental activism, eco-friendly practices, or documentaries about climate change impacts on marginalized communities. This indicates a preference for materials that emphasize environmental and social responsibility. Future recommendations should prioritize products that align with these themes to better meet the user's interests.",
+      "In Episode 4, the user expressed interest in a low-cost health and fitness product but was dissatisfied with the selected product (45714) as it did not align with their preferences. The user was actually looking for something related to sustainability or a cookbook featuring new Latinx recipes. This indicates a preference for products that combine health and fitness with cultural or sustainable elements. Future interactions should consider exploring options that integrate these aspects to better meet the user's expectations.",
+      "The user initially expressed a preference for grass-fed beef, particularly from local farmers markets, and did not specify any particular cuts. However, the selected product did not align with their actual interest, as they are shifting towards a more eco-friendly diet, seeking plant-based options or sustainable seafood. This indicates a mismatch between the user's stated preference for grass-fed beef and their broader dietary goals. Future interactions should prioritize understanding the user's evolving dietary preferences and focus on eco-friendly and sustainable food options rather than traditional beef products."
+    ]
+  },
+  "episodes_completed": 5,
+  "all_results": [
+    {
+      "episode": 1,
+      "category": "Camera & Video Accessory Bundles",
+      "persona_index": 40698,
+      "episode_in_category": 1,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 71253,
+        "chosen_score": 62.5,
+        "best_product_id": 72075,
+        "best_score": 87.5,
+        "regret": 25.0,
+        "top1": false,
+        "top3": true,
+        "questions_asked": 1,
+        "feedback": "Thanks for the suggestion! The Canon lens is nice, but I was actually looking for something more versatile for capturing both landscape and close-up shots for my environmental projects.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "What's your budget for a camera accessory bundle?",
+          "$150."
+        ]
+      ],
+      "product_info": {
+        "num_products": 19,
+        "products_with_scores": [
+          {
+            "id": 72075,
+            "name": "Katia Instant Camera Accessories for Fujifilm Instax Mini 9 or Mini 8 Instant Film Camera. (Fuji Mini 9 Case with Strap, Photo Album, Frame, Selfie Len, Filters, LED String Clip) - (Ice Blue)",
+            "price": null,
+            "average_score": 87.5
+          },
+          {
+            "id": 69627,
+            "name": "Canon EF 16-35mm f/4L is USM Lens with Professional Bundle Package Deal Kit for EOS 7D Mark II, 6D Mark II, 5D Mark IV, 5D S R, 5D S, 5D Mark III, 80D, 70D, 77D, T5, T6, T6s, T7i, SL2",
+            "price": 1044.05,
+            "average_score": 65.0
+          },
+          {
+            "id": 71253,
+            "name": "Canon EF-S 24mm f/2.8 STM Lens for Canon Digital SLR Cameras with 52mm Filter Kit (UV, CPL, FLD) (12 Items)",
+            "price": 139.9,
+            "average_score": 62.5
+          },
+          {
+            "id": 69386,
+            "name": "Canon Essential NB6LH Battery Bundle for Canon Powershot SX520, SX710, SX700, S120, SX600, SX530, SX610 Cameras Includes 2 NB6LH Batteries, Charger, 32GB Memory Card, 57-Inch Tripod, and More",
+            "price": 44.99,
+            "average_score": 60.0
+          },
+          {
+            "id": 71816,
+            "name": "Canon EF-S 10-22mm F/3.5-4.5 USM Lens Bundle with 60 Inch Camera/Video Tripod, Camera Bag for DSLR and 77mm Multicoated UV Protective Filter",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 66840,
+            "name": "BM Premium Fully Decoded BLN1 Battery and Charger Kit for Olympus Pen F, OM-D E-M1, OM-D E-M5, OM-D E-M5 Mark II, OM-D E-P5 Digital SLR Camera",
+            "price": 16.99,
+            "average_score": 52.5
+          },
+          {
+            "id": 70170,
+            "name": "Sigma 17-50mm f/2.8 EX DC OS HSM FLD Zoom Lens for Nikon DSLR Camera Includes Bonus Xit 60\" Full Size Photo / Video Tripod, and More",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 67624,
+            "name": "Nikon 13534 Landscape and Macro Two Lens Kit Bundle with 64GB Memory Card, 52mm Filter Set, Flash, 72-Inch Monopod, 72mm Filter Kit, 60 Inch Tripod, Paintshop Pro and Accessories (7 Items)",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 71081,
+            "name": "LP-E8 Battery & Charger + 32GB SD Card Essential Bundle for Canon Rebel T3i, T4i, T5i Digital SLR Camera",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 71734,
+            "name": "Tamron AFA022N700 SP 150-600mm Di VC USD G2 f/5.6-40.0 Telephoto-Zoom for Nikon A022, Filter Kit, Ritz Gear Backpack, 64GB & Accessory Bundle",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 68492,
+            "name": "Sigma 100-400mm F5-6.3 DG OS HSM Contemporary Full Frame Telephoto Lens Canon Bundle with Camera Bag for DSLR, 64GB Memory Card, 60 Inch Camera/Video Tripod, 67mm Tulip Lens Hood and 67mm Filter Kit",
+            "price": null,
+            "average_score": 45.0
+          },
+          {
+            "id": 68217,
+            "name": "52MM 0.45X Wide Angle Lens + Macro Includes LIFETIME WARRANTY, Lens Caps, Lens Bag and DavisMAX FiberCloth for Nikon D5000 D5100 D90 D3100 D300 D300s D200 D60 & More!",
+            "price": null,
+            "average_score": 42.5
+          },
+          {
+            "id": 67861,
+            "name": "Lens Cap Bundle - 4 Snap-on Lens Caps for DSLR Cameras - 4 Lens Cap Keepers - Microfiber Cleaning Cloth Included - Compatible Nikon, Canon, Sony Cameras (55mm)",
+            "price": 7.99,
+            "average_score": 37.5
+          },
+          {
+            "id": 66584,
+            "name": "Two Halcyon 1500 mAH Lithium Ion Replacement Battery and Charger Kit + 8GB SDHC Class 10 Memory Card for Olympus SZ-12 14 Megapixels Digital Camera and Olympus LI-50B",
+            "price": null,
+            "average_score": 32.5
+          },
+          {
+            "id": 70578,
+            "name": "62mm 7 Piece Filter Set Includes 3 PC Filter Kit (UV-CPL-FLD-) and 4 PC Close Up Filter Set (+1+2+4+10) for Canon, Sony, FujiFilm, Olympus, Pentax, Sigma, Tamron Digital Cameras and Camcorders",
+            "price": 22.99,
+            "average_score": 30.0
+          },
+          {
+            "id": 70615,
+            "name": "Replacement for Kodak EasyShare LS743 Battery and Charger with Car Plug and EU Adapter - Compatible with Kodak KLIC-5000 Digital Camera Batteries and Chargers (1200mAh 3.7V Lithium-Ion)",
+            "price": 19.99,
+            "average_score": 25.0
+          },
+          {
+            "id": 71450,
+            "name": "SAIKA 11 in 1 Accessories Set for Fujifilm Instax Mini 9 / Mini 8 / Mini 8+ Instant Film Camera - Not Include Case Version (Pink)",
+            "price": null,
+            "average_score": 20.0
+          },
+          {
+            "id": 71676,
+            "name": "EMPTY",
+            "price": null,
+            "average_score": 7.5
+          },
+          {
+            "id": 70072,
+            "name": "EMPTY",
+            "price": null,
+            "average_score": 5.0
+          }
+        ]
+      }
+    },
+    {
+      "episode": 2,
+      "category": "Video Projectors",
+      "persona_index": 40698,
+      "episode_in_category": 1,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 67458,
+        "chosen_score": 70.0,
+        "best_product_id": 68669,
+        "best_score": 85.0,
+        "regret": 15.0,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 1,
+        "feedback": "The projector is pretty cool, especially with the wireless and portable features, but I was actually looking for something more budget-friendly and compact for small gatherings with friends.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "What is your budget for a video projector?",
+          "My budget for a video projector is around $300."
+        ]
+      ],
+      "product_info": {
+        "num_products": 29,
+        "products_with_scores": [
+          {
+            "id": 68669,
+            "name": "HOPVISION Native 1080P Projector Full HD, 15000Lux Movie Projector with 150000 Hours LED Lamp Life, Support 4K 350\" Home Outdoor Projector for Smartphone/PC/Laptop/ PS4/ TV Stick/EXCEL/PPT",
+            "price": 189.99,
+            "average_score": 85.0
+          },
+          {
+            "id": 67348,
+            "name": "Nebula Capsule II Smart Mini Projector with Anker Nebula Wireless Gamepad",
+            "price": null,
+            "average_score": 80.0
+          },
+          {
+            "id": 66961,
+            "name": "Movie Projector HD Outdoor Projector Native 1080P Bluetooth Projector 200\" Display 9500Lumens Compatible with TV Stick, Video Games, Phone, VGA, AV, TF, USB, HD",
+            "price": 49.99,
+            "average_score": 75.0
+          },
+          {
+            "id": 67458,
+            "name": "Kodak Wireless WiFi Portable Projector - DLP Pico LED 1080p HD Mini Projector - Supports Android Miracast, iOS Apple Airplay Phones and Devices - Rechargeable with Speakers \u2013 HDMI and Micro SD Card",
+            "price": 299.95,
+            "average_score": 70.0
+          },
+          {
+            "id": 67692,
+            "name": "RCA Bluetooth 1080p Home Theatre Projector (Renewed)",
+            "price": 39.99,
+            "average_score": 70.0
+          },
+          {
+            "id": 68180,
+            "name": "Projector Mini (Retro White)",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 68647,
+            "name": "Mini Projector Portable 1080P LED Projector, Pocket Pico Video Projector for Home Theater Movie Projector, Outdoor Movie Projector, Cartoon, Kids Gift, HDMI USB TV AV Interfaces and Remote Control",
+            "price": 40.97,
+            "average_score": 65.0
+          },
+          {
+            "id": 70185,
+            "name": "Epson Home Cinema 5050UB 4K PRO-UHD 3-Chip Projector with HDR,White",
+            "price": 2879.0,
+            "average_score": 65.0
+          },
+          {
+            "id": 67547,
+            "name": "Mini Projector -(Newest Version) 50% Brighter Video Projector Full HD LED with 180'' Display and 1080P Support, Compatible with Smartphone,Fire TV Stick, PS4, HDMI, VGA, TF, AV and USB",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 68123,
+            "name": "WOWOTO Projector Portable with Built-in Speakers Support HD 1080P HDMI for Home Theater Entertainment",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 70851,
+            "name": "MOOKA Native 1080P Projector with WiFi and Bluetooth, 8500L FHD Movie Projector for Outdoor, Hi-Fi Speaker, Zoom, Sleep Timer, Bag, Support 300\" Screen Mini Projector for Phone/TV Stick/Laptop/Xbox",
+            "price": 49.99,
+            "average_score": 62.5
+          },
+          {
+            "id": 69744,
+            "name": "Epson EpiqVision Ultra LS500 Laser Ultra Short Throw Projector, 4000 lumens, 4K PRO-UHD, HDR, Android TV, Google Assistant, HDMI 2.0, Built-in Speakers \u2013 Black (Renewed)",
+            "price": 3999.98,
+            "average_score": 60.0
+          },
+          {
+            "id": 71249,
+            "name": "Short Throw Projector WiFi Bluetooth 4K Supported, Arforgo1080p 320 ANSI Mini Portable TV Projector, Support PPT PDF 4D 4P Keystone 50% Zoom, Tiktok, Prime Video, Netflix etc.",
+            "price": null,
+            "average_score": 60.0
+          },
+          {
+            "id": 68398,
+            "name": "Projector, Gigxon G80 Portable 1080p Video Projector, with PC Laptop USB SD AV HDMI,for Ipad iPhone Android Smartphone Video TV Movie Game Home Cinema Theater Entertainment Projector, White",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 70540,
+            "name": "YABER 2022 Upgrade 5G WiFi Bluetooth Projector, 1080P Full HD Supported Portable Projector with Tripod and Carrying Bag, Mini Movie Outdoor Projector Compatible with Smartphone,Laptop,HDMI, VGA,USB,AV",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 70589,
+            "name": "WiFi Bluetooth Projector, VIVIBRIGHT Native 1080P Full HD Projector with 10W Speakers, Outdoor Projector 4K Support, Home Movies Theater Compatible with Phone/TV Stick/PS5/Laptop/HDMI(D5000)",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 66893,
+            "name": "GBTIGER 2200 Lumens Full HD 1080P Portable Mini Projector 1920 x 1080 Pixels 20000Hours Lens Life times LCD LED Projector Home Theater, AV/HDMI/VGA/USB (White)",
+            "price": null,
+            "average_score": 45.0
+          },
+          {
+            "id": 70039,
+            "name": "Movie Projector, iBosi Cheng Mini Home Theater Video Projector Support Full HD 1080P and 300'' Display, Compatible with TV Stick/HDMI/iPhone/Laptop",
+            "price": null,
+            "average_score": 45.0
+          },
+          {
+            "id": 66880,
+            "name": "OAKLETREA 2000 Lumen Video Projector Compatible for iPhone and Android Phone,Directly Mirroring Smartphone Content via USB Cable,Portable LED Projector Support 1080P HDMI USB VGA AV for Movie,Games",
+            "price": null,
+            "average_score": 42.5
+          },
+          {
+            "id": 67523,
+            "name": "InFocus IN1102 Ultra Mobile Widescreen DLP Projector, 2.75 lbs, WXGA, 2200 Lumens",
+            "price": 118.0,
+            "average_score": 40.0
+          },
+          {
+            "id": 71564,
+            "name": "GYMAN Projector LCD Home Theater Projector Video Support 1080P with Free HDMI Cable 3000 lu",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 67626,
+            "name": "Epson Home Cinema 5030UBe 1080p 3D 3LCD Home Theater Projector",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 69653,
+            "name": "InFocus IN3114 Meeting Room DLP Projector, Network Capable, 3D Ready, DisplayLink USB, XGA, 3500 Lumens",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 70972,
+            "name": "BACH & ODIN HXD-1113 HD 3D HOME THEATER PROJECTOR",
+            "price": 169.99,
+            "average_score": 35.0
+          },
+          {
+            "id": 69573,
+            "name": "Projector (Warranty Included),XINDA 2017 Update HD Video Projector Home Theater Cinema Portable LED Projector with USB/HDMI/VGA/AV Support up to 1080P-Black",
+            "price": null,
+            "average_score": 32.5
+          },
+          {
+            "id": 70189,
+            "name": "CO-Z Lumens Projector, 3D LED/LCD, 1080P HD 3000, Home Cinema Theater Multimedia",
+            "price": null,
+            "average_score": 25.0
+          },
+          {
+            "id": 68225,
+            "name": "Link & Rivet Set for Pre-1981 Kodak Carousel Slide Projector - LINK",
+            "price": 15.95,
+            "average_score": 20.0
+          },
+          {
+            "id": 71776,
+            "name": "Vivitek D509 2600 Lumen XGA 3-D Ready Portable DLP Projector (White)",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 69934,
+            "name": "ArtCreativity 2 in 1 Viewfinder Camera with Projector, Set of 6, Battery Operated Projectors with Wild Animal Slides, Great Safari Party Favors, Zoo Party Supplies, & Wild One Party Favors for Kids",
+            "price": 15.97,
+            "average_score": 15.0
+          }
+        ]
+      }
+    },
+    {
+      "episode": 3,
+      "category": "Central United States Travel Guides",
+      "persona_index": 40698,
+      "episode_in_category": 1,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 11610,
+        "chosen_score": 15.0,
+        "best_product_id": 42289,
+        "best_score": 82.5,
+        "regret": 67.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 1,
+        "feedback": "Oh, this isn't quite what I was looking for. I was hoping for something more related to sustainability or environmental activism, maybe a book on eco-friendly practices or a documentary about climate change impacts on marginalized communities.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "Are you looking for a travel guide with specific features or content, like maps or local tips?",
+          "Yes, I'm looking for a travel guide that includes local tips and sustainable travel options."
+        ]
+      ],
+      "product_info": {
+        "num_products": 78,
+        "products_with_scores": [
+          {
+            "id": 42289,
+            "name": "Day Trips\u00ae from Houston: Getaway Ideas for the Local Traveler (Day Trips Series)",
+            "price": 9.73,
+            "average_score": 82.5
+          },
+          {
+            "id": 42946,
+            "name": "Foghorn Outdoors Tom Stienstra's Bay Area Recreation: Get Outside with the San Francisco Chronicle Outdoors Columnist and Member of the California Outdoors Hall of Fame",
+            "price": 3.04,
+            "average_score": 75.0
+          },
+          {
+            "id": 42957,
+            "name": "Best Easy Day Hikes Conejo Valley (Best Easy Day Hikes Series)",
+            "price": 9.95,
+            "average_score": 70.0
+          },
+          {
+            "id": 41471,
+            "name": "Route 66 Across Arizona : A Comprehensive Two-Way Guide for Touring Route 66",
+            "price": 17.35,
+            "average_score": 62.5
+          },
+          {
+            "id": 41702,
+            "name": "Hidden San Francisco and Northern California: Including Napa, Sonoma, Mendocino, Santa Cruz, Monterey, Yosemite, and Lake Tahoe (Hidden Travel)",
+            "price": 1.18,
+            "average_score": 62.5
+          },
+          {
+            "id": 41439,
+            "name": "Velvet Waters, Canyon Walls: A Lake Powell Adventure",
+            "price": 14.99,
+            "average_score": 60.0
+          },
+          {
+            "id": 43106,
+            "name": "Moon Santa Fe, Taos, and Albuquerque (Moon Handbooks)",
+            "price": 19.1,
+            "average_score": 60.0
+          },
+          {
+            "id": 46005,
+            "name": "National Parks & Monuments - Passport Stamp Book: (2021) USA Bucket List Journal \u2013 Adventure Travel Log \u2013 U.S. National Park Map \u2013 Vacation Memory ... Road Trip Planner (For Adults and Kids)",
+            "price": 7.95,
+            "average_score": 60.0
+          },
+          {
+            "id": 40990,
+            "name": "Rock & Roll Traveler USA, 1st Edition (Fodor's)",
+            "price": 12.94,
+            "average_score": 55.0
+          },
+          {
+            "id": 43019,
+            "name": "Yosemite NW: Hetch Hetchy Reservoir Map (National Geographic Trails Illustrated Map, 307)",
+            "price": 11.95,
+            "average_score": 55.0
+          },
+          {
+            "id": 42859,
+            "name": "Rand McNally Seattle Pop-Up Map",
+            "price": 3.95,
+            "average_score": 52.5
+          },
+          {
+            "id": 42196,
+            "name": "Moon Acadia National Park (Moon Handbooks)",
+            "price": 4.95,
+            "average_score": 50.0
+          },
+          {
+            "id": 42444,
+            "name": "Moon Spotlight Michigan's Traverse Bays & Mackinac Island",
+            "price": 9.99,
+            "average_score": 50.0
+          },
+          {
+            "id": 11407,
+            "name": "North Fork: Glacier National Park Map (National Geographic Trails Illustrated Map, 313)",
+            "price": 11.95,
+            "average_score": 45.0
+          },
+          {
+            "id": 40748,
+            "name": "Camping and Backpacking San Francisco Bay Area",
+            "price": 2.99,
+            "average_score": 45.0
+          },
+          {
+            "id": 45154,
+            "name": "Lonely Planet Pocket Portland & the Willamette Valley (Travel Guide)",
+            "price": 13.99,
+            "average_score": 45.0
+          },
+          {
+            "id": 11183,
+            "name": "The Best Travel Guide to Yellowstone and Grand Teton National Parks : Including Jackson Hole Wyoming",
+            "price": 13.59,
+            "average_score": 42.5
+          },
+          {
+            "id": 40661,
+            "name": "Hot Springs and Hot Pools of the Southwest: Jayson Loam's Original Guide",
+            "price": 16.8,
+            "average_score": 42.5
+          },
+          {
+            "id": 43160,
+            "name": "June Keith's Key West & The Florida Keys",
+            "price": 3.95,
+            "average_score": 40.0
+          },
+          {
+            "id": 47804,
+            "name": "Lonely Planet Pacific Northwest's Best Trips (Travel Guide)",
+            "price": 10.61,
+            "average_score": 40.0
+          },
+          {
+            "id": 43569,
+            "name": "Canyoneering 3: Loop Hikes in Utah\u2019s Escalante",
+            "price": 21.95,
+            "average_score": 37.5
+          },
+          {
+            "id": 11605,
+            "name": "New Mexico Artists at Work",
+            "price": 11.65,
+            "average_score": 35.0
+          },
+          {
+            "id": 43212,
+            "name": "Northern Forest Canoe Trail #10 - Greater Jackman: Maine: Spencer Stream to Moosehead Lake (Northern Forest Canoe Trail Maps)",
+            "price": 12.95,
+            "average_score": 35.0
+          },
+          {
+            "id": 44116,
+            "name": "Touring Arizona Hot Springs, 2nd (Touring Hot Springs)",
+            "price": 12.51,
+            "average_score": 35.0
+          },
+          {
+            "id": 42053,
+            "name": "Eyewitness Travel Guide to Hawaii (Eyewitness Travel Guides)",
+            "price": 9.79,
+            "average_score": 32.5
+          },
+          {
+            "id": 44920,
+            "name": "Oregon Off the Beaten Path\u00ae, 10th: A Guide to Unique Places (Off the Beaten Path Series)",
+            "price": 4.95,
+            "average_score": 32.5
+          },
+          {
+            "id": 47030,
+            "name": "Hiking Naked: A Quaker Woman\u2019s Search for Balance",
+            "price": 18.95,
+            "average_score": 32.5
+          },
+          {
+            "id": 40956,
+            "name": "Along the Florida Trail",
+            "price": 29.19,
+            "average_score": 30.0
+          },
+          {
+            "id": 43436,
+            "name": "Moon Minnesota (Moon Handbooks)",
+            "price": 6.05,
+            "average_score": 30.0
+          },
+          {
+            "id": 45400,
+            "name": "Tahoe National Forest East Map [Sierra Buttes, Donner Pass] (National Geographic Trails Illustrated Map, 805)",
+            "price": 14.95,
+            "average_score": 30.0
+          },
+          {
+            "id": 44082,
+            "name": "Fodor's In Focus Florida Keys: with Key West, Marathon & Key Largo (Travel Guide)",
+            "price": 8.57,
+            "average_score": 27.5
+          },
+          {
+            "id": 44432,
+            "name": "Northwest Treasure Hunter's Gem and Mineral Guide (6th Edition): Where and How to Dig, Pan and Mine Your Own Gems and Minerals (Treasure Hunter's Gem & Mineral Guides)",
+            "price": 21.99,
+            "average_score": 27.5
+          },
+          {
+            "id": 46267,
+            "name": "Fodor's California 2016: with the Best Road Trips (Full-color Travel Guide)",
+            "price": 24.0,
+            "average_score": 27.5
+          },
+          {
+            "id": 47012,
+            "name": "Best Trails In and Around Kartchner Caverns State Park",
+            "price": 14.99,
+            "average_score": 27.5
+          },
+          {
+            "id": 47074,
+            "name": "Top 10 Honolulu & Oahu (Eyewitness Top 10 Travel Guide)",
+            "price": 13.0,
+            "average_score": 27.5
+          },
+          {
+            "id": 41832,
+            "name": "Roadside Geology of Mississippi",
+            "price": 24.0,
+            "average_score": 25.0
+          },
+          {
+            "id": 43304,
+            "name": "Frommer's San Francisco with Kids (Frommer's With Kids)",
+            "price": 6.19,
+            "average_score": 25.0
+          },
+          {
+            "id": 44122,
+            "name": "Quixotic Key West & the Lower Keys Travel Guide (Quixotic Travel Guides)",
+            "price": 6.09,
+            "average_score": 25.0
+          },
+          {
+            "id": 45025,
+            "name": "A West Virginia Sesquicentennial Celebration: A Photo Journey Through West Virginia",
+            "price": 8.0,
+            "average_score": 25.0
+          },
+          {
+            "id": 47858,
+            "name": "Quit Your Job & Move To Key West: The Complete Guide",
+            "price": 14.95,
+            "average_score": 25.0
+          },
+          {
+            "id": 9963,
+            "name": "As Southern As It Gets: 1,071 Reasons to Never Leave the South",
+            "price": 10.22,
+            "average_score": 22.5
+          },
+          {
+            "id": 45505,
+            "name": "Seattle Townscape Walks: 210 miles connected by 52 maps for 52 weeks of adventure. (Walk With Me guidebooks)",
+            "price": 20.99,
+            "average_score": 22.5
+          },
+          {
+            "id": 45539,
+            "name": "Salt Desert Mustangs: Discovering wild horses and historic trails in Tooele County, Utah",
+            "price": 24.95,
+            "average_score": 22.5
+          },
+          {
+            "id": 45576,
+            "name": "Yellowstone National Park SW - Old Faithful Trail Map",
+            "price": 11.52,
+            "average_score": 22.5
+          },
+          {
+            "id": 46687,
+            "name": "DK Eyewitness Travel Guide: Chicago",
+            "price": 7.2,
+            "average_score": 22.5
+          },
+          {
+            "id": 44434,
+            "name": "Play Hard, Rest Easy : New England",
+            "price": 25.5,
+            "average_score": 20.0
+          },
+          {
+            "id": 9632,
+            "name": "Best Easy Day Hikes Green Mountains (Best Easy Day Hikes Series)",
+            "price": 10.07,
+            "average_score": 17.5
+          },
+          {
+            "id": 10070,
+            "name": "Insight Guides Florida (Insight Guides, 22)",
+            "price": 3.95,
+            "average_score": 17.5
+          },
+          {
+            "id": 10128,
+            "name": "Best Hikes Near Milwaukee (Best Hikes Near Series)",
+            "price": 8.85,
+            "average_score": 17.5
+          },
+          {
+            "id": 10400,
+            "name": "Frommer's Los Angeles 2009 (Frommer's Complete Guides)",
+            "price": 6.89,
+            "average_score": 17.5
+          },
+          {
+            "id": 10533,
+            "name": "Northern California, Oregon, and the Sandwich Islands",
+            "price": 0.0,
+            "average_score": 17.5
+          },
+          {
+            "id": 10647,
+            "name": "In The Desert Of Desire: Las Vegas And The Culture Of Spectacle",
+            "price": 19.95,
+            "average_score": 17.5
+          },
+          {
+            "id": 10769,
+            "name": "Hidden Carolinas: Including Asheville, Great Smoky Mountains, Outer Banks, and Charleston (Hidden Travel)",
+            "price": 5.97,
+            "average_score": 17.5
+          },
+          {
+            "id": 10890,
+            "name": "Fun with the Family New Mexico (Fun with the Family Series)",
+            "price": 5.97,
+            "average_score": 17.5
+          },
+          {
+            "id": 10926,
+            "name": "Lonely Planet Pocket San Francisco (Travel Guide)",
+            "price": 1.64,
+            "average_score": 17.5
+          },
+          {
+            "id": 43289,
+            "name": "Universal Orlando 2014: The Ultimate Guide to the Ultimate Theme Park Adventure",
+            "price": 1.18,
+            "average_score": 17.5
+          },
+          {
+            "id": 43624,
+            "name": "Santa Barbara Mission Exterior Walk",
+            "price": 4.95,
+            "average_score": 17.5
+          },
+          {
+            "id": 43885,
+            "name": "Glitz of the Hamptons (All that Glitters is Not Gold)",
+            "price": 6.0,
+            "average_score": 17.5
+          },
+          {
+            "id": 9608,
+            "name": "Urban Hikes in and Around Baltimore",
+            "price": 11.99,
+            "average_score": 15.0
+          },
+          {
+            "id": 10961,
+            "name": "Not For Tourists Guide to New York City 2013",
+            "price": 18.95,
+            "average_score": 15.0
+          },
+          {
+            "id": 11582,
+            "name": "River Days: Exploring the Connecticut River from Source to Sea",
+            "price": 13.0,
+            "average_score": 15.0
+          },
+          {
+            "id": 11610,
+            "name": "Backroads of Florida - Second Edition: Along the Byways to Breathtaking Landscapes and Quirky Small Towns",
+            "price": 19.79,
+            "average_score": 15.0
+          },
+          {
+            "id": 46012,
+            "name": "Explorer's Guide North Carolina's Outer Banks (Explorer's Complete)",
+            "price": 21.95,
+            "average_score": 15.0
+          },
+          {
+            "id": 46502,
+            "name": "Bucket List Bars: Historic Saloons, Pubs, and Dives of America",
+            "price": 14.73,
+            "average_score": 15.0
+          },
+          {
+            "id": 47969,
+            "name": "Fishing Florida (Regional Fishing Series)",
+            "price": 27.0,
+            "average_score": 15.0
+          },
+          {
+            "id": 10062,
+            "name": "A Guide to Cleveland's Sacred Landmarks",
+            "price": 18.31,
+            "average_score": 12.5
+          },
+          {
+            "id": 10380,
+            "name": "50 Hikes in Mount Rainier National Park",
+            "price": 33.0,
+            "average_score": 12.5
+          },
+          {
+            "id": 11014,
+            "name": "Florida Off the Beaten Path, 8th (Off the Beaten Path Series)",
+            "price": 6.79,
+            "average_score": 12.5
+          },
+          {
+            "id": 11495,
+            "name": "Fairbanks (Alaska Geographic)",
+            "price": 19.23,
+            "average_score": 12.5
+          },
+          {
+            "id": 46751,
+            "name": "Montana Ghost Stories",
+            "price": 12.37,
+            "average_score": 12.5
+          },
+          {
+            "id": 47000,
+            "name": "Everything Walt Disney & Univ. (Everything Series)",
+            "price": 6.73,
+            "average_score": 12.5
+          },
+          {
+            "id": 47284,
+            "name": "Explorer's Guide Kansas (Explorer's Complete)",
+            "price": 17.09,
+            "average_score": 12.5
+          },
+          {
+            "id": 11575,
+            "name": "Access San Diego 5e (Access Guides)",
+            "price": 21.95,
+            "average_score": 10.0
+          },
+          {
+            "id": 42145,
+            "name": "LSAT Prep Book 2019-2020 by ArgoPrep: Premium LSAT Prep + 14 Days Online Resources Included + Videos + Strategies + Practice Tests.",
+            "price": 4.99,
+            "average_score": 10.0
+          },
+          {
+            "id": 47287,
+            "name": "North Carolina Travel Guide: Planning a Trip to North Carolina: Making Travel Plans for North Carolina.",
+            "price": 6.99,
+            "average_score": 10.0
+          },
+          {
+            "id": 11307,
+            "name": "Hidden Big Island of Hawaii (Hidden Travel)",
+            "price": 1.5,
+            "average_score": 7.5
+          },
+          {
+            "id": 45056,
+            "name": "Trials of the Monkey: An Accidental Memoir",
+            "price": 5.73,
+            "average_score": 7.5
+          },
+          {
+            "id": 10268,
+            "name": "The New England Patriots Playbook: Inside the Huddle for the Greatest Plays in Patriots History",
+            "price": 16.95,
+            "average_score": 2.5
+          }
+        ]
+      }
+    },
+    {
+      "episode": 4,
+      "category": "Health, Fitness & Dieting",
+      "persona_index": 40698,
+      "episode_in_category": 1,
+      "steps": 2,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 45714,
+        "chosen_score": 12.5,
+        "best_product_id": 95061,
+        "best_score": 95.0,
+        "regret": 82.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 1,
+        "feedback": "Oh wow, that's definitely not what I was looking for. I was actually hoping for something more related to sustainability or maybe a cookbook with some new Latinx recipes to try out in my kitchen.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "Are you looking for a free or low-cost health and fitness product?",
+          "Yes, I'm looking for a low-cost health and fitness product."
+        ]
+      ],
+      "product_info": {
+        "num_products": 25,
+        "products_with_scores": [
+          {
+            "id": 95061,
+            "name": "Triple Fit - Cardio, Strength & Yoga Series",
+            "price": 12.99,
+            "average_score": 95.0
+          },
+          {
+            "id": 45815,
+            "name": "From Beer Bongs to Broccoli: The College Kid's Guide To Health and Wellness",
+            "price": 19.99,
+            "average_score": 90.0
+          },
+          {
+            "id": 95970,
+            "name": "15-Minute Full Body Chisel & Burn 7.0 Workout (with weights)",
+            "price": 4.99,
+            "average_score": 90.0
+          },
+          {
+            "id": 45446,
+            "name": "The Perfect Balance Plan - Healthy Living Guide: No-Nonsense Wisdom for Better Health",
+            "price": 5.31,
+            "average_score": 87.5
+          },
+          {
+            "id": 98966,
+            "name": "Yoga for Beginners: Poses for Freedom and Renewal with Kanta Barrios",
+            "price": 7.99,
+            "average_score": 87.5
+          },
+          {
+            "id": 42516,
+            "name": "Great Taste No Pain: 112 of the Most Delicious, Delectable, Scrumptious, Yummy and Healthy Recipes",
+            "price": 26.99,
+            "average_score": 85.0
+          },
+          {
+            "id": 46754,
+            "name": "Stressed Out!!!",
+            "price": 13.95,
+            "average_score": 82.5
+          },
+          {
+            "id": 99642,
+            "name": "15-Minute HIIT 2.0 Workout",
+            "price": 4.99,
+            "average_score": 82.5
+          },
+          {
+            "id": 100038,
+            "name": "Weight Loss Yoga Workout For Beginners w/ Erica Vetra",
+            "price": null,
+            "average_score": 82.5
+          },
+          {
+            "id": 96300,
+            "name": "Passive stretching. Daily stretching routine for flexibility!",
+            "price": null,
+            "average_score": 80.0
+          },
+          {
+            "id": 46157,
+            "name": "Inspired Inside: Connect Your Mind, Body and Soul",
+            "price": null,
+            "average_score": 77.5
+          },
+          {
+            "id": 99867,
+            "name": "Gin Miller's Calorie Burner Workout with Kettlebells",
+            "price": 4.99,
+            "average_score": 77.5
+          },
+          {
+            "id": 96292,
+            "name": "Arms, Abs, Chest and Back: Upper Body Workout",
+            "price": 2.99,
+            "average_score": 75.0
+          },
+          {
+            "id": 100077,
+            "name": "Spine Strengthening Exercises. Beginner's Back flexibility stretches.",
+            "price": null,
+            "average_score": 70.0
+          },
+          {
+            "id": 45908,
+            "name": "Guided Lessons For Students of the Alexander Technique",
+            "price": 28.0,
+            "average_score": 67.5
+          },
+          {
+            "id": 46301,
+            "name": "Macrobiotics: The Way of Healing",
+            "price": 9.54,
+            "average_score": 67.5
+          },
+          {
+            "id": 96470,
+            "name": "Yoga for Sleep Disorders",
+            "price": 7.99,
+            "average_score": 60.0
+          },
+          {
+            "id": 46483,
+            "name": "Rebuild Your Health: with Dr. Ann Wigmore's Living Foods Lifestyle",
+            "price": 193.99,
+            "average_score": 52.5
+          },
+          {
+            "id": 98081,
+            "name": "Step Aerobics Easy",
+            "price": 9.99,
+            "average_score": 47.5
+          },
+          {
+            "id": 98326,
+            "name": "Best sciatica stretch pain relief!",
+            "price": null,
+            "average_score": 45.0
+          },
+          {
+            "id": 42801,
+            "name": "Holistic Cancer Protocols with Essential Oils",
+            "price": 147.42,
+            "average_score": 40.0
+          },
+          {
+            "id": 47554,
+            "name": "Co-alcoholic, para-alcoholic: Who's who and what's the difference? The importance of appropriate terminology and etiological differentiation in ... from families with alcoholism syndrome",
+            "price": null,
+            "average_score": 17.5
+          },
+          {
+            "id": 41209,
+            "name": "Keeping Mobile on Your Scooter: Taming Your Mobility Scooter",
+            "price": 19.0,
+            "average_score": 15.0
+          },
+          {
+            "id": 46235,
+            "name": "Heresies",
+            "price": 102.91,
+            "average_score": 15.0
+          },
+          {
+            "id": 45714,
+            "name": "Target Volume Delineation and Field Setup: A Practical Guide for Conformal and Intensity-Modulated Radiation Therapy",
+            "price": 91.45,
+            "average_score": 12.5
+          }
+        ]
+      }
+    },
+    {
+      "episode": 5,
+      "category": "Beef",
+      "persona_index": 40698,
+      "episode_in_category": 1,
+      "steps": 4,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 76003,
+        "chosen_score": 58.5,
+        "best_product_id": 72866,
+        "best_score": 95.0,
+        "regret": 36.5,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 3,
+        "feedback": "Oh no, that's definitely not what I was looking for! I'm actually trying to find some plant-based options or sustainable seafood to incorporate into my meals, since I'm focusing on a more eco-friendly diet.",
+        "feedback_type": "persona"
+      },
+      "full_dialog": [
+        [
+          "Are you looking for a specific type of beef product, like organic or grass-fed?",
+          "Yes, I prefer grass-fed beef."
+        ],
+        [
+          "Do you have a preferred store or brand for purchasing grass-fed beef?",
+          "I prefer to purchase grass-fed beef from local farmers markets."
+        ],
+        [
+          "Are you looking for any specific cuts of grass-fed beef?",
+          "No, I'm not looking for any specific cuts of grass-fed beef."
+        ]
+      ],
+      "product_info": {
+        "num_products": 20,
+        "products_with_scores": [
+          {
+            "id": 72866,
+            "name": "Baldwin Farms Grassfed 93% Lean 7% Fat Grassfed Ground Beef",
+            "price": null,
+            "average_score": 95.0
+          },
+          {
+            "id": 72215,
+            "name": "100% Grass Fed Beef Tenderloin Steaks Filet Mignon 5oz. (4 pack)",
+            "price": null,
+            "average_score": 92.5
+          },
+          {
+            "id": 74703,
+            "name": "Beef Loin Sirloin Flap Pasture Raised Step 4",
+            "price": null,
+            "average_score": 91.5
+          },
+          {
+            "id": 72159,
+            "name": "Beer Tenderloin Steak Grass Fed Organic Step 4",
+            "price": null,
+            "average_score": 90.0
+          },
+          {
+            "id": 73811,
+            "name": "Beef Hanger Steak Step 1",
+            "price": null,
+            "average_score": 87.5
+          },
+          {
+            "id": 76122,
+            "name": "Organic Rancher, Organic Ground Beef 85% Lean/15% Fat, 16 Ounce",
+            "price": null,
+            "average_score": 84.0
+          },
+          {
+            "id": 73556,
+            "name": "Ultimate Seasoned Beef Burger",
+            "price": null,
+            "average_score": 82.5
+          },
+          {
+            "id": 72429,
+            "name": "New York Strip Steak Angus Beef Cut Fresh Daily (2 Steaks 1.25 Pounds) Chef's Choice",
+            "price": null,
+            "average_score": 80.0
+          },
+          {
+            "id": 74420,
+            "name": "Steakhouse Beef Burger",
+            "price": null,
+            "average_score": 77.5
+          },
+          {
+            "id": 73321,
+            "name": "40 Oz. USDA Choice Black Angus Tomahawk Steak",
+            "price": null,
+            "average_score": 72.5
+          },
+          {
+            "id": 74860,
+            "name": "Beef Sirloin Steak Filet Style, USDA Choice, 6 oz",
+            "price": null,
+            "average_score": 72.5
+          },
+          {
+            "id": 76205,
+            "name": "Beef Flap Steak, USDA Choice (Meat Counter)",
+            "price": null,
+            "average_score": 71.5
+          },
+          {
+            "id": 74577,
+            "name": "Marconda's Meats, New York Strip Steak Wagyu Kobe Style, 12 oz",
+            "price": null,
+            "average_score": 67.5
+          },
+          {
+            "id": 75004,
+            "name": "1/16 Cow Share - 100% Grassfed - Free Shipping",
+            "price": null,
+            "average_score": 62.5
+          },
+          {
+            "id": 76003,
+            "name": "Four USDA Prime Filet Mignon Steaks - Combo Pack of 4 Beef Tenderloin Filet Mignon Steak, Aged 21 days",
+            "price": null,
+            "average_score": 58.5
+          },
+          {
+            "id": 75457,
+            "name": "Jemm Deluxe Beef Patties 4# (4:1) 16 patties",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 76019,
+            "name": "Dickson's Farmstand, Top Sirloin Steak, Boneless, Local NY State Farm-Raised, 12 oz each, 2 count",
+            "price": null,
+            "average_score": 55.0
+          },
+          {
+            "id": 72416,
+            "name": "CHEF'S REQUESTED STEAK CENTER CUT BACON WRAPPED BEEF FILET 2 CT PER PACKAGE 10 OZ PACK OF 2",
+            "price": null,
+            "average_score": 52.5
+          },
+          {
+            "id": 76199,
+            "name": "Harris Ranch, Black Angus Tri-Tip Roast, 2.5 lbs.",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 74761,
+            "name": "Knorr Entree Mixes-Beef Stew (Goulash) Recipe Mix, 2.4-Ounce Pouches (Pack of 12)",
+            "price": null,
+            "average_score": 35.0
+          }
+        ]
+      }
+    }
+  ],
+  "category_results": {
+    "Camera & Video Accessory Bundles": [
+      {
+        "episode": 1,
+        "category": "Camera & Video Accessory Bundles",
+        "persona_index": 40698,
+        "episode_in_category": 1,
+        "steps": 2,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 71253,
+          "chosen_score": 62.5,
+          "best_product_id": 72075,
+          "best_score": 87.5,
+          "regret": 25.0,
+          "top1": false,
+          "top3": true,
+          "questions_asked": 1,
+          "feedback": "Thanks for the suggestion! The Canon lens is nice, but I was actually looking for something more versatile for capturing both landscape and close-up shots for my environmental projects.",
+          "feedback_type": "persona"
+        },
+        "full_dialog": [
+          [
+            "What's your budget for a camera accessory bundle?",
+            "$150."
+          ]
+        ],
+        "product_info": {
+          "num_products": 19,
+          "products_with_scores": [
+            {
+              "id": 72075,
+              "name": "Katia Instant Camera Accessories for Fujifilm Instax Mini 9 or Mini 8 Instant Film Camera. (Fuji Mini 9 Case with Strap, Photo Album, Frame, Selfie Len, Filters, LED String Clip) - (Ice Blue)",
+              "price": null,
+              "average_score": 87.5
+            },
+            {
+              "id": 69627,
+              "name": "Canon EF 16-35mm f/4L is USM Lens with Professional Bundle Package Deal Kit for EOS 7D Mark II, 6D Mark II, 5D Mark IV, 5D S R, 5D S, 5D Mark III, 80D, 70D, 77D, T5, T6, T6s, T7i, SL2",
+              "price": 1044.05,
+              "average_score": 65.0
+            },
+            {
+              "id": 71253,
+              "name": "Canon EF-S 24mm f/2.8 STM Lens for Canon Digital SLR Cameras with 52mm Filter Kit (UV, CPL, FLD) (12 Items)",
+              "price": 139.9,
+              "average_score": 62.5
+            },
+            {
+              "id": 69386,
+              "name": "Canon Essential NB6LH Battery Bundle for Canon Powershot SX520, SX710, SX700, S120, SX600, SX530, SX610 Cameras Includes 2 NB6LH Batteries, Charger, 32GB Memory Card, 57-Inch Tripod, and More",
+              "price": 44.99,
+              "average_score": 60.0
+            },
+            {
+              "id": 71816,
+              "name": "Canon EF-S 10-22mm F/3.5-4.5 USM Lens Bundle with 60 Inch Camera/Video Tripod, Camera Bag for DSLR and 77mm Multicoated UV Protective Filter",
+              "price": null,
+              "average_score": 55.0
+            },
+            {
+              "id": 66840,
+              "name": "BM Premium Fully Decoded BLN1 Battery and Charger Kit for Olympus Pen F, OM-D E-M1, OM-D E-M5, OM-D E-M5 Mark II, OM-D E-P5 Digital SLR Camera",
+              "price": 16.99,
+              "average_score": 52.5
+            },
+            {
+              "id": 70170,
+              "name": "Sigma 17-50mm f/2.8 EX DC OS HSM FLD Zoom Lens for Nikon DSLR Camera Includes Bonus Xit 60\" Full Size Photo / Video Tripod, and More",
+              "price": null,
+              "average_score": 52.5
+            },
+            {
+              "id": 67624,
+              "name": "Nikon 13534 Landscape and Macro Two Lens Kit Bundle with 64GB Memory Card, 52mm Filter Set, Flash, 72-Inch Monopod, 72mm Filter Kit, 60 Inch Tripod, Paintshop Pro and Accessories (7 Items)",
+              "price": null,
+              "average_score": 47.5
+            },
+            {
+              "id": 71081,
+              "name": "LP-E8 Battery & Charger + 32GB SD Card Essential Bundle for Canon Rebel T3i, T4i, T5i Digital SLR Camera",
+              "price": null,
+              "average_score": 47.5
+            },
+            {
+              "id": 71734,
+              "name": "Tamron AFA022N700 SP 150-600mm Di VC USD G2 f/5.6-40.0 Telephoto-Zoom for Nikon A022, Filter Kit, Ritz Gear Backpack, 64GB & Accessory Bundle",
+              "price": null,
+              "average_score": 47.5
+            },
+            {
+              "id": 68492,
+              "name": "Sigma 100-400mm F5-6.3 DG OS HSM Contemporary Full Frame Telephoto Lens Canon Bundle with Camera Bag for DSLR, 64GB Memory Card, 60 Inch Camera/Video Tripod, 67mm Tulip Lens Hood and 67mm Filter Kit",
+              "price": null,
+              "average_score": 45.0
+            },
+            {
+              "id": 68217,
+              "name": "52MM 0.45X Wide Angle Lens + Macro Includes LIFETIME WARRANTY, Lens Caps, Lens Bag and DavisMAX FiberCloth for Nikon D5000 D5100 D90 D3100 D300 D300s D200 D60 & More!",
+              "price": null,
+              "average_score": 42.5
+            },
+            {
+              "id": 67861,
+              "name": "Lens Cap Bundle - 4 Snap-on Lens Caps for DSLR Cameras - 4 Lens Cap Keepers - Microfiber Cleaning Cloth Included - Compatible Nikon, Canon, Sony Cameras (55mm)",
+              "price": 7.99,
+              "average_score": 37.5
+            },
+            {
+              "id": 66584,
+              "name": "Two Halcyon 1500 mAH Lithium Ion Replacement Battery and Charger Kit + 8GB SDHC Class 10 Memory Card for Olympus SZ-12 14 Megapixels Digital Camera and Olympus LI-50B",
+              "price": null,
+              "average_score": 32.5
+            },
+            {
+              "id": 70578,
+              "name": "62mm 7 Piece Filter Set Includes 3 PC Filter Kit (UV-CPL-FLD-) and 4 PC Close Up Filter Set (+1+2+4+10) for Canon, Sony, FujiFilm, Olympus, Pentax, Sigma, Tamron Digital Cameras and Camcorders",
+              "price": 22.99,
+              "average_score": 30.0
+            },
+            {
+              "id": 70615,
+              "name": "Replacement for Kodak EasyShare LS743 Battery and Charger with Car Plug and EU Adapter - Compatible with Kodak KLIC-5000 Digital Camera Batteries and Chargers (1200mAh 3.7V Lithium-Ion)",
+              "price": 19.99,
+              "average_score": 25.0
+            },
+            {
+              "id": 71450,
+              "name": "SAIKA 11 in 1 Accessories Set for Fujifilm Instax Mini 9 / Mini 8 / Mini 8+ Instant Film Camera - Not Include Case Version (Pink)",
+              "price": null,
+              "average_score": 20.0
+            },
+            {
+              "id": 71676,
+              "name": "EMPTY",
+              "price": null,
+              "average_score": 7.5
+            },
+            {
+              "id": 70072,
+              "name": "EMPTY",
+              "price": null,
+              "average_score": 5.0
+            }
+          ]
+        }
+      }
+    ],
+    "Video Projectors": [
+      {
+        "episode": 2,
+        "category": "Video Projectors",
+        "persona_index": 40698,
+        "episode_in_category": 1,
+        "steps": 2,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 67458,
+          "chosen_score": 70.0,
+          "best_product_id": 68669,
+          "best_score": 85.0,
+          "regret": 15.0,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 1,
+          "feedback": "The projector is pretty cool, especially with the wireless and portable features, but I was actually looking for something more budget-friendly and compact for small gatherings with friends.",
+          "feedback_type": "persona"
+        },
+        "full_dialog": [
+          [
+            "What is your budget for a video projector?",
+            "My budget for a video projector is around $300."
+          ]
+        ],
+        "product_info": {
+          "num_products": 29,
+          "products_with_scores": [
+            {
+              "id": 68669,
+              "name": "HOPVISION Native 1080P Projector Full HD, 15000Lux Movie Projector with 150000 Hours LED Lamp Life, Support 4K 350\" Home Outdoor Projector for Smartphone/PC/Laptop/ PS4/ TV Stick/EXCEL/PPT",
+              "price": 189.99,
+              "average_score": 85.0
+            },
+            {
+              "id": 67348,
+              "name": "Nebula Capsule II Smart Mini Projector with Anker Nebula Wireless Gamepad",
+              "price": null,
+              "average_score": 80.0
+            },
+            {
+              "id": 66961,
+              "name": "Movie Projector HD Outdoor Projector Native 1080P Bluetooth Projector 200\" Display 9500Lumens Compatible with TV Stick, Video Games, Phone, VGA, AV, TF, USB, HD",
+              "price": 49.99,
+              "average_score": 75.0
+            },
+            {
+              "id": 67458,
+              "name": "Kodak Wireless WiFi Portable Projector - DLP Pico LED 1080p HD Mini Projector - Supports Android Miracast, iOS Apple Airplay Phones and Devices - Rechargeable with Speakers \u2013 HDMI and Micro SD Card",
+              "price": 299.95,
+              "average_score": 70.0
+            },
+            {
+              "id": 67692,
+              "name": "RCA Bluetooth 1080p Home Theatre Projector (Renewed)",
+              "price": 39.99,
+              "average_score": 70.0
+            },
+            {
+              "id": 68180,
+              "name": "Projector Mini (Retro White)",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 68647,
+              "name": "Mini Projector Portable 1080P LED Projector, Pocket Pico Video Projector for Home Theater Movie Projector, Outdoor Movie Projector, Cartoon, Kids Gift, HDMI USB TV AV Interfaces and Remote Control",
+              "price": 40.97,
+              "average_score": 65.0
+            },
+            {
+              "id": 70185,
+              "name": "Epson Home Cinema 5050UB 4K PRO-UHD 3-Chip Projector with HDR,White",
+              "price": 2879.0,
+              "average_score": 65.0
+            },
+            {
+              "id": 67547,
+              "name": "Mini Projector -(Newest Version) 50% Brighter Video Projector Full HD LED with 180'' Display and 1080P Support, Compatible with Smartphone,Fire TV Stick, PS4, HDMI, VGA, TF, AV and USB",
+              "price": null,
+              "average_score": 62.5
+            },
+            {
+              "id": 68123,
+              "name": "WOWOTO Projector Portable with Built-in Speakers Support HD 1080P HDMI for Home Theater Entertainment",
+              "price": null,
+              "average_score": 62.5
+            },
+            {
+              "id": 70851,
+              "name": "MOOKA Native 1080P Projector with WiFi and Bluetooth, 8500L FHD Movie Projector for Outdoor, Hi-Fi Speaker, Zoom, Sleep Timer, Bag, Support 300\" Screen Mini Projector for Phone/TV Stick/Laptop/Xbox",
+              "price": 49.99,
+              "average_score": 62.5
+            },
+            {
+              "id": 69744,
+              "name": "Epson EpiqVision Ultra LS500 Laser Ultra Short Throw Projector, 4000 lumens, 4K PRO-UHD, HDR, Android TV, Google Assistant, HDMI 2.0, Built-in Speakers \u2013 Black (Renewed)",
+              "price": 3999.98,
+              "average_score": 60.0
+            },
+            {
+              "id": 71249,
+              "name": "Short Throw Projector WiFi Bluetooth 4K Supported, Arforgo1080p 320 ANSI Mini Portable TV Projector, Support PPT PDF 4D 4P Keystone 50% Zoom, Tiktok, Prime Video, Netflix etc.",
+              "price": null,
+              "average_score": 60.0
+            },
+            {
+              "id": 68398,
+              "name": "Projector, Gigxon G80 Portable 1080p Video Projector, with PC Laptop USB SD AV HDMI,for Ipad iPhone Android Smartphone Video TV Movie Game Home Cinema Theater Entertainment Projector, White",
+              "price": null,
+              "average_score": 57.5
+            },
+            {
+              "id": 70540,
+              "name": "YABER 2022 Upgrade 5G WiFi Bluetooth Projector, 1080P Full HD Supported Portable Projector with Tripod and Carrying Bag, Mini Movie Outdoor Projector Compatible with Smartphone,Laptop,HDMI, VGA,USB,AV",
+              "price": null,
+              "average_score": 57.5
+            },
+            {
+              "id": 70589,
+              "name": "WiFi Bluetooth Projector, VIVIBRIGHT Native 1080P Full HD Projector with 10W Speakers, Outdoor Projector 4K Support, Home Movies Theater Compatible with Phone/TV Stick/PS5/Laptop/HDMI(D5000)",
+              "price": null,
+              "average_score": 57.5
+            },
+            {
+              "id": 66893,
+              "name": "GBTIGER 2200 Lumens Full HD 1080P Portable Mini Projector 1920 x 1080 Pixels 20000Hours Lens Life times LCD LED Projector Home Theater, AV/HDMI/VGA/USB (White)",
+              "price": null,
+              "average_score": 45.0
+            },
+            {
+              "id": 70039,
+              "name": "Movie Projector, iBosi Cheng Mini Home Theater Video Projector Support Full HD 1080P and 300'' Display, Compatible with TV Stick/HDMI/iPhone/Laptop",
+              "price": null,
+              "average_score": 45.0
+            },
+            {
+              "id": 66880,
+              "name": "OAKLETREA 2000 Lumen Video Projector Compatible for iPhone and Android Phone,Directly Mirroring Smartphone Content via USB Cable,Portable LED Projector Support 1080P HDMI USB VGA AV for Movie,Games",
+              "price": null,
+              "average_score": 42.5
+            },
+            {
+              "id": 67523,
+              "name": "InFocus IN1102 Ultra Mobile Widescreen DLP Projector, 2.75 lbs, WXGA, 2200 Lumens",
+              "price": 118.0,
+              "average_score": 40.0
+            },
+            {
+              "id": 71564,
+              "name": "GYMAN Projector LCD Home Theater Projector Video Support 1080P with Free HDMI Cable 3000 lu",
+              "price": null,
+              "average_score": 40.0
+            },
+            {
+              "id": 67626,
+              "name": "Epson Home Cinema 5030UBe 1080p 3D 3LCD Home Theater Projector",
+              "price": null,
+              "average_score": 35.0
+            },
+            {
+              "id": 69653,
+              "name": "InFocus IN3114 Meeting Room DLP Projector, Network Capable, 3D Ready, DisplayLink USB, XGA, 3500 Lumens",
+              "price": null,
+              "average_score": 35.0
+            },
+            {
+              "id": 70972,
+              "name": "BACH & ODIN HXD-1113 HD 3D HOME THEATER PROJECTOR",
+              "price": 169.99,
+              "average_score": 35.0
+            },
+            {
+              "id": 69573,
+              "name": "Projector (Warranty Included),XINDA 2017 Update HD Video Projector Home Theater Cinema Portable LED Projector with USB/HDMI/VGA/AV Support up to 1080P-Black",
+              "price": null,
+              "average_score": 32.5
+            },
+            {
+              "id": 70189,
+              "name": "CO-Z Lumens Projector, 3D LED/LCD, 1080P HD 3000, Home Cinema Theater Multimedia",
+              "price": null,
+              "average_score": 25.0
+            },
+            {
+              "id": 68225,
+              "name": "Link & Rivet Set for Pre-1981 Kodak Carousel Slide Projector - LINK",
+              "price": 15.95,
+              "average_score": 20.0
+            },
+            {
+              "id": 71776,
+              "name": "Vivitek D509 2600 Lumen XGA 3-D Ready Portable DLP Projector (White)",
+              "price": null,
+              "average_score": 17.5
+            },
+            {
+              "id": 69934,
+              "name": "ArtCreativity 2 in 1 Viewfinder Camera with Projector, Set of 6, Battery Operated Projectors with Wild Animal Slides, Great Safari Party Favors, Zoo Party Supplies, & Wild One Party Favors for Kids",
+              "price": 15.97,
+              "average_score": 15.0
+            }
+          ]
+        }
+      }
+    ],
+    "Central United States Travel Guides": [
+      {
+        "episode": 3,
+        "category": "Central United States Travel Guides",
+        "persona_index": 40698,
+        "episode_in_category": 1,
+        "steps": 2,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 11610,
+          "chosen_score": 15.0,
+          "best_product_id": 42289,
+          "best_score": 82.5,
+          "regret": 67.5,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 1,
+          "feedback": "Oh, this isn't quite what I was looking for. I was hoping for something more related to sustainability or environmental activism, maybe a book on eco-friendly practices or a documentary about climate change impacts on marginalized communities.",
+          "feedback_type": "persona"
+        },
+        "full_dialog": [
+          [
+            "Are you looking for a travel guide with specific features or content, like maps or local tips?",
+            "Yes, I'm looking for a travel guide that includes local tips and sustainable travel options."
+          ]
+        ],
+        "product_info": {
+          "num_products": 78,
+          "products_with_scores": [
+            {
+              "id": 42289,
+              "name": "Day Trips\u00ae from Houston: Getaway Ideas for the Local Traveler (Day Trips Series)",
+              "price": 9.73,
+              "average_score": 82.5
+            },
+            {
+              "id": 42946,
+              "name": "Foghorn Outdoors Tom Stienstra's Bay Area Recreation: Get Outside with the San Francisco Chronicle Outdoors Columnist and Member of the California Outdoors Hall of Fame",
+              "price": 3.04,
+              "average_score": 75.0
+            },
+            {
+              "id": 42957,
+              "name": "Best Easy Day Hikes Conejo Valley (Best Easy Day Hikes Series)",
+              "price": 9.95,
+              "average_score": 70.0
+            },
+            {
+              "id": 41471,
+              "name": "Route 66 Across Arizona : A Comprehensive Two-Way Guide for Touring Route 66",
+              "price": 17.35,
+              "average_score": 62.5
+            },
+            {
+              "id": 41702,
+              "name": "Hidden San Francisco and Northern California: Including Napa, Sonoma, Mendocino, Santa Cruz, Monterey, Yosemite, and Lake Tahoe (Hidden Travel)",
+              "price": 1.18,
+              "average_score": 62.5
+            },
+            {
+              "id": 41439,
+              "name": "Velvet Waters, Canyon Walls: A Lake Powell Adventure",
+              "price": 14.99,
+              "average_score": 60.0
+            },
+            {
+              "id": 43106,
+              "name": "Moon Santa Fe, Taos, and Albuquerque (Moon Handbooks)",
+              "price": 19.1,
+              "average_score": 60.0
+            },
+            {
+              "id": 46005,
+              "name": "National Parks & Monuments - Passport Stamp Book: (2021) USA Bucket List Journal \u2013 Adventure Travel Log \u2013 U.S. National Park Map \u2013 Vacation Memory ... Road Trip Planner (For Adults and Kids)",
+              "price": 7.95,
+              "average_score": 60.0
+            },
+            {
+              "id": 40990,
+              "name": "Rock & Roll Traveler USA, 1st Edition (Fodor's)",
+              "price": 12.94,
+              "average_score": 55.0
+            },
+            {
+              "id": 43019,
+              "name": "Yosemite NW: Hetch Hetchy Reservoir Map (National Geographic Trails Illustrated Map, 307)",
+              "price": 11.95,
+              "average_score": 55.0
+            },
+            {
+              "id": 42859,
+              "name": "Rand McNally Seattle Pop-Up Map",
+              "price": 3.95,
+              "average_score": 52.5
+            },
+            {
+              "id": 42196,
+              "name": "Moon Acadia National Park (Moon Handbooks)",
+              "price": 4.95,
+              "average_score": 50.0
+            },
+            {
+              "id": 42444,
+              "name": "Moon Spotlight Michigan's Traverse Bays & Mackinac Island",
+              "price": 9.99,
+              "average_score": 50.0
+            },
+            {
+              "id": 11407,
+              "name": "North Fork: Glacier National Park Map (National Geographic Trails Illustrated Map, 313)",
+              "price": 11.95,
+              "average_score": 45.0
+            },
+            {
+              "id": 40748,
+              "name": "Camping and Backpacking San Francisco Bay Area",
+              "price": 2.99,
+              "average_score": 45.0
+            },
+            {
+              "id": 45154,
+              "name": "Lonely Planet Pocket Portland & the Willamette Valley (Travel Guide)",
+              "price": 13.99,
+              "average_score": 45.0
+            },
+            {
+              "id": 11183,
+              "name": "The Best Travel Guide to Yellowstone and Grand Teton National Parks : Including Jackson Hole Wyoming",
+              "price": 13.59,
+              "average_score": 42.5
+            },
+            {
+              "id": 40661,
+              "name": "Hot Springs and Hot Pools of the Southwest: Jayson Loam's Original Guide",
+              "price": 16.8,
+              "average_score": 42.5
+            },
+            {
+              "id": 43160,
+              "name": "June Keith's Key West & The Florida Keys",
+              "price": 3.95,
+              "average_score": 40.0
+            },
+            {
+              "id": 47804,
+              "name": "Lonely Planet Pacific Northwest's Best Trips (Travel Guide)",
+              "price": 10.61,
+              "average_score": 40.0
+            },
+            {
+              "id": 43569,
+              "name": "Canyoneering 3: Loop Hikes in Utah\u2019s Escalante",
+              "price": 21.95,
+              "average_score": 37.5
+            },
+            {
+              "id": 11605,
+              "name": "New Mexico Artists at Work",
+              "price": 11.65,
+              "average_score": 35.0
+            },
+            {
+              "id": 43212,
+              "name": "Northern Forest Canoe Trail #10 - Greater Jackman: Maine: Spencer Stream to Moosehead Lake (Northern Forest Canoe Trail Maps)",
+              "price": 12.95,
+              "average_score": 35.0
+            },
+            {
+              "id": 44116,
+              "name": "Touring Arizona Hot Springs, 2nd (Touring Hot Springs)",
+              "price": 12.51,
+              "average_score": 35.0
+            },
+            {
+              "id": 42053,
+              "name": "Eyewitness Travel Guide to Hawaii (Eyewitness Travel Guides)",
+              "price": 9.79,
+              "average_score": 32.5
+            },
+            {
+              "id": 44920,
+              "name": "Oregon Off the Beaten Path\u00ae, 10th: A Guide to Unique Places (Off the Beaten Path Series)",
+              "price": 4.95,
+              "average_score": 32.5
+            },
+            {
+              "id": 47030,
+              "name": "Hiking Naked: A Quaker Woman\u2019s Search for Balance",
+              "price": 18.95,
+              "average_score": 32.5
+            },
+            {
+              "id": 40956,
+              "name": "Along the Florida Trail",
+              "price": 29.19,
+              "average_score": 30.0
+            },
+            {
+              "id": 43436,
+              "name": "Moon Minnesota (Moon Handbooks)",
+              "price": 6.05,
+              "average_score": 30.0
+            },
+            {
+              "id": 45400,
+              "name": "Tahoe National Forest East Map [Sierra Buttes, Donner Pass] (National Geographic Trails Illustrated Map, 805)",
+              "price": 14.95,
+              "average_score": 30.0
+            },
+            {
+              "id": 44082,
+              "name": "Fodor's In Focus Florida Keys: with Key West, Marathon & Key Largo (Travel Guide)",
+              "price": 8.57,
+              "average_score": 27.5
+            },
+            {
+              "id": 44432,
+              "name": "Northwest Treasure Hunter's Gem and Mineral Guide (6th Edition): Where and How to Dig, Pan and Mine Your Own Gems and Minerals (Treasure Hunter's Gem & Mineral Guides)",
+              "price": 21.99,
+              "average_score": 27.5
+            },
+            {
+              "id": 46267,
+              "name": "Fodor's California 2016: with the Best Road Trips (Full-color Travel Guide)",
+              "price": 24.0,
+              "average_score": 27.5
+            },
+            {
+              "id": 47012,
+              "name": "Best Trails In and Around Kartchner Caverns State Park",
+              "price": 14.99,
+              "average_score": 27.5
+            },
+            {
+              "id": 47074,
+              "name": "Top 10 Honolulu & Oahu (Eyewitness Top 10 Travel Guide)",
+              "price": 13.0,
+              "average_score": 27.5
+            },
+            {
+              "id": 41832,
+              "name": "Roadside Geology of Mississippi",
+              "price": 24.0,
+              "average_score": 25.0
+            },
+            {
+              "id": 43304,
+              "name": "Frommer's San Francisco with Kids (Frommer's With Kids)",
+              "price": 6.19,
+              "average_score": 25.0
+            },
+            {
+              "id": 44122,
+              "name": "Quixotic Key West & the Lower Keys Travel Guide (Quixotic Travel Guides)",
+              "price": 6.09,
+              "average_score": 25.0
+            },
+            {
+              "id": 45025,
+              "name": "A West Virginia Sesquicentennial Celebration: A Photo Journey Through West Virginia",
+              "price": 8.0,
+              "average_score": 25.0
+            },
+            {
+              "id": 47858,
+              "name": "Quit Your Job & Move To Key West: The Complete Guide",
+              "price": 14.95,
+              "average_score": 25.0
+            },
+            {
+              "id": 9963,
+              "name": "As Southern As It Gets: 1,071 Reasons to Never Leave the South",
+              "price": 10.22,
+              "average_score": 22.5
+            },
+            {
+              "id": 45505,
+              "name": "Seattle Townscape Walks: 210 miles connected by 52 maps for 52 weeks of adventure. (Walk With Me guidebooks)",
+              "price": 20.99,
+              "average_score": 22.5
+            },
+            {
+              "id": 45539,
+              "name": "Salt Desert Mustangs: Discovering wild horses and historic trails in Tooele County, Utah",
+              "price": 24.95,
+              "average_score": 22.5
+            },
+            {
+              "id": 45576,
+              "name": "Yellowstone National Park SW - Old Faithful Trail Map",
+              "price": 11.52,
+              "average_score": 22.5
+            },
+            {
+              "id": 46687,
+              "name": "DK Eyewitness Travel Guide: Chicago",
+              "price": 7.2,
+              "average_score": 22.5
+            },
+            {
+              "id": 44434,
+              "name": "Play Hard, Rest Easy : New England",
+              "price": 25.5,
+              "average_score": 20.0
+            },
+            {
+              "id": 9632,
+              "name": "Best Easy Day Hikes Green Mountains (Best Easy Day Hikes Series)",
+              "price": 10.07,
+              "average_score": 17.5
+            },
+            {
+              "id": 10070,
+              "name": "Insight Guides Florida (Insight Guides, 22)",
+              "price": 3.95,
+              "average_score": 17.5
+            },
+            {
+              "id": 10128,
+              "name": "Best Hikes Near Milwaukee (Best Hikes Near Series)",
+              "price": 8.85,
+              "average_score": 17.5
+            },
+            {
+              "id": 10400,
+              "name": "Frommer's Los Angeles 2009 (Frommer's Complete Guides)",
+              "price": 6.89,
+              "average_score": 17.5
+            },
+            {
+              "id": 10533,
+              "name": "Northern California, Oregon, and the Sandwich Islands",
+              "price": 0.0,
+              "average_score": 17.5
+            },
+            {
+              "id": 10647,
+              "name": "In The Desert Of Desire: Las Vegas And The Culture Of Spectacle",
+              "price": 19.95,
+              "average_score": 17.5
+            },
+            {
+              "id": 10769,
+              "name": "Hidden Carolinas: Including Asheville, Great Smoky Mountains, Outer Banks, and Charleston (Hidden Travel)",
+              "price": 5.97,
+              "average_score": 17.5
+            },
+            {
+              "id": 10890,
+              "name": "Fun with the Family New Mexico (Fun with the Family Series)",
+              "price": 5.97,
+              "average_score": 17.5
+            },
+            {
+              "id": 10926,
+              "name": "Lonely Planet Pocket San Francisco (Travel Guide)",
+              "price": 1.64,
+              "average_score": 17.5
+            },
+            {
+              "id": 43289,
+              "name": "Universal Orlando 2014: The Ultimate Guide to the Ultimate Theme Park Adventure",
+              "price": 1.18,
+              "average_score": 17.5
+            },
+            {
+              "id": 43624,
+              "name": "Santa Barbara Mission Exterior Walk",
+              "price": 4.95,
+              "average_score": 17.5
+            },
+            {
+              "id": 43885,
+              "name": "Glitz of the Hamptons (All that Glitters is Not Gold)",
+              "price": 6.0,
+              "average_score": 17.5
+            },
+            {
+              "id": 9608,
+              "name": "Urban Hikes in and Around Baltimore",
+              "price": 11.99,
+              "average_score": 15.0
+            },
+            {
+              "id": 10961,
+              "name": "Not For Tourists Guide to New York City 2013",
+              "price": 18.95,
+              "average_score": 15.0
+            },
+            {
+              "id": 11582,
+              "name": "River Days: Exploring the Connecticut River from Source to Sea",
+              "price": 13.0,
+              "average_score": 15.0
+            },
+            {
+              "id": 11610,
+              "name": "Backroads of Florida - Second Edition: Along the Byways to Breathtaking Landscapes and Quirky Small Towns",
+              "price": 19.79,
+              "average_score": 15.0
+            },
+            {
+              "id": 46012,
+              "name": "Explorer's Guide North Carolina's Outer Banks (Explorer's Complete)",
+              "price": 21.95,
+              "average_score": 15.0
+            },
+            {
+              "id": 46502,
+              "name": "Bucket List Bars: Historic Saloons, Pubs, and Dives of America",
+              "price": 14.73,
+              "average_score": 15.0
+            },
+            {
+              "id": 47969,
+              "name": "Fishing Florida (Regional Fishing Series)",
+              "price": 27.0,
+              "average_score": 15.0
+            },
+            {
+              "id": 10062,
+              "name": "A Guide to Cleveland's Sacred Landmarks",
+              "price": 18.31,
+              "average_score": 12.5
+            },
+            {
+              "id": 10380,
+              "name": "50 Hikes in Mount Rainier National Park",
+              "price": 33.0,
+              "average_score": 12.5
+            },
+            {
+              "id": 11014,
+              "name": "Florida Off the Beaten Path, 8th (Off the Beaten Path Series)",
+              "price": 6.79,
+              "average_score": 12.5
+            },
+            {
+              "id": 11495,
+              "name": "Fairbanks (Alaska Geographic)",
+              "price": 19.23,
+              "average_score": 12.5
+            },
+            {
+              "id": 46751,
+              "name": "Montana Ghost Stories",
+              "price": 12.37,
+              "average_score": 12.5
+            },
+            {
+              "id": 47000,
+              "name": "Everything Walt Disney & Univ. (Everything Series)",
+              "price": 6.73,
+              "average_score": 12.5
+            },
+            {
+              "id": 47284,
+              "name": "Explorer's Guide Kansas (Explorer's Complete)",
+              "price": 17.09,
+              "average_score": 12.5
+            },
+            {
+              "id": 11575,
+              "name": "Access San Diego 5e (Access Guides)",
+              "price": 21.95,
+              "average_score": 10.0
+            },
+            {
+              "id": 42145,
+              "name": "LSAT Prep Book 2019-2020 by ArgoPrep: Premium LSAT Prep + 14 Days Online Resources Included + Videos + Strategies + Practice Tests.",
+              "price": 4.99,
+              "average_score": 10.0
+            },
+            {
+              "id": 47287,
+              "name": "North Carolina Travel Guide: Planning a Trip to North Carolina: Making Travel Plans for North Carolina.",
+              "price": 6.99,
+              "average_score": 10.0
+            },
+            {
+              "id": 11307,
+              "name": "Hidden Big Island of Hawaii (Hidden Travel)",
+              "price": 1.5,
+              "average_score": 7.5
+            },
+            {
+              "id": 45056,
+              "name": "Trials of the Monkey: An Accidental Memoir",
+              "price": 5.73,
+              "average_score": 7.5
+            },
+            {
+              "id": 10268,
+              "name": "The New England Patriots Playbook: Inside the Huddle for the Greatest Plays in Patriots History",
+              "price": 16.95,
+              "average_score": 2.5
+            }
+          ]
+        }
+      }
+    ],
+    "Health, Fitness & Dieting": [
+      {
+        "episode": 4,
+        "category": "Health, Fitness & Dieting",
+        "persona_index": 40698,
+        "episode_in_category": 1,
+        "steps": 2,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 45714,
+          "chosen_score": 12.5,
+          "best_product_id": 95061,
+          "best_score": 95.0,
+          "regret": 82.5,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 1,
+          "feedback": "Oh wow, that's definitely not what I was looking for. I was actually hoping for something more related to sustainability or maybe a cookbook with some new Latinx recipes to try out in my kitchen.",
+          "feedback_type": "persona"
+        },
+        "full_dialog": [
+          [
+            "Are you looking for a free or low-cost health and fitness product?",
+            "Yes, I'm looking for a low-cost health and fitness product."
+          ]
+        ],
+        "product_info": {
+          "num_products": 25,
+          "products_with_scores": [
+            {
+              "id": 95061,
+              "name": "Triple Fit - Cardio, Strength & Yoga Series",
+              "price": 12.99,
+              "average_score": 95.0
+            },
+            {
+              "id": 45815,
+              "name": "From Beer Bongs to Broccoli: The College Kid's Guide To Health and Wellness",
+              "price": 19.99,
+              "average_score": 90.0
+            },
+            {
+              "id": 95970,
+              "name": "15-Minute Full Body Chisel & Burn 7.0 Workout (with weights)",
+              "price": 4.99,
+              "average_score": 90.0
+            },
+            {
+              "id": 45446,
+              "name": "The Perfect Balance Plan - Healthy Living Guide: No-Nonsense Wisdom for Better Health",
+              "price": 5.31,
+              "average_score": 87.5
+            },
+            {
+              "id": 98966,
+              "name": "Yoga for Beginners: Poses for Freedom and Renewal with Kanta Barrios",
+              "price": 7.99,
+              "average_score": 87.5
+            },
+            {
+              "id": 42516,
+              "name": "Great Taste No Pain: 112 of the Most Delicious, Delectable, Scrumptious, Yummy and Healthy Recipes",
+              "price": 26.99,
+              "average_score": 85.0
+            },
+            {
+              "id": 46754,
+              "name": "Stressed Out!!!",
+              "price": 13.95,
+              "average_score": 82.5
+            },
+            {
+              "id": 99642,
+              "name": "15-Minute HIIT 2.0 Workout",
+              "price": 4.99,
+              "average_score": 82.5
+            },
+            {
+              "id": 100038,
+              "name": "Weight Loss Yoga Workout For Beginners w/ Erica Vetra",
+              "price": null,
+              "average_score": 82.5
+            },
+            {
+              "id": 96300,
+              "name": "Passive stretching. Daily stretching routine for flexibility!",
+              "price": null,
+              "average_score": 80.0
+            },
+            {
+              "id": 46157,
+              "name": "Inspired Inside: Connect Your Mind, Body and Soul",
+              "price": null,
+              "average_score": 77.5
+            },
+            {
+              "id": 99867,
+              "name": "Gin Miller's Calorie Burner Workout with Kettlebells",
+              "price": 4.99,
+              "average_score": 77.5
+            },
+            {
+              "id": 96292,
+              "name": "Arms, Abs, Chest and Back: Upper Body Workout",
+              "price": 2.99,
+              "average_score": 75.0
+            },
+            {
+              "id": 100077,
+              "name": "Spine Strengthening Exercises. Beginner's Back flexibility stretches.",
+              "price": null,
+              "average_score": 70.0
+            },
+            {
+              "id": 45908,
+              "name": "Guided Lessons For Students of the Alexander Technique",
+              "price": 28.0,
+              "average_score": 67.5
+            },
+            {
+              "id": 46301,
+              "name": "Macrobiotics: The Way of Healing",
+              "price": 9.54,
+              "average_score": 67.5
+            },
+            {
+              "id": 96470,
+              "name": "Yoga for Sleep Disorders",
+              "price": 7.99,
+              "average_score": 60.0
+            },
+            {
+              "id": 46483,
+              "name": "Rebuild Your Health: with Dr. Ann Wigmore's Living Foods Lifestyle",
+              "price": 193.99,
+              "average_score": 52.5
+            },
+            {
+              "id": 98081,
+              "name": "Step Aerobics Easy",
+              "price": 9.99,
+              "average_score": 47.5
+            },
+            {
+              "id": 98326,
+              "name": "Best sciatica stretch pain relief!",
+              "price": null,
+              "average_score": 45.0
+            },
+            {
+              "id": 42801,
+              "name": "Holistic Cancer Protocols with Essential Oils",
+              "price": 147.42,
+              "average_score": 40.0
+            },
+            {
+              "id": 47554,
+              "name": "Co-alcoholic, para-alcoholic: Who's who and what's the difference? The importance of appropriate terminology and etiological differentiation in ... from families with alcoholism syndrome",
+              "price": null,
+              "average_score": 17.5
+            },
+            {
+              "id": 41209,
+              "name": "Keeping Mobile on Your Scooter: Taming Your Mobility Scooter",
+              "price": 19.0,
+              "average_score": 15.0
+            },
+            {
+              "id": 46235,
+              "name": "Heresies",
+              "price": 102.91,
+              "average_score": 15.0
+            },
+            {
+              "id": 45714,
+              "name": "Target Volume Delineation and Field Setup: A Practical Guide for Conformal and Intensity-Modulated Radiation Therapy",
+              "price": 91.45,
+              "average_score": 12.5
+            }
+          ]
+        }
+      }
+    ],
+    "Beef": [
+      {
+        "episode": 5,
+        "category": "Beef",
+        "persona_index": 40698,
+        "episode_in_category": 1,
+        "steps": 4,
+        "terminated": true,
+        "truncated": false,
+        "final_info": {
+          "action_type": "recommend",
+          "chosen_product_id": 76003,
+          "chosen_score": 58.5,
+          "best_product_id": 72866,
+          "best_score": 95.0,
+          "regret": 36.5,
+          "top1": false,
+          "top3": false,
+          "questions_asked": 3,
+          "feedback": "Oh no, that's definitely not what I was looking for! I'm actually trying to find some plant-based options or sustainable seafood to incorporate into my meals, since I'm focusing on a more eco-friendly diet.",
+          "feedback_type": "persona"
+        },
+        "full_dialog": [
+          [
+            "Are you looking for a specific type of beef product, like organic or grass-fed?",
+            "Yes, I prefer grass-fed beef."
+          ],
+          [
+            "Do you have a preferred store or brand for purchasing grass-fed beef?",
+            "I prefer to purchase grass-fed beef from local farmers markets."
+          ],
+          [
+            "Are you looking for any specific cuts of grass-fed beef?",
+            "No, I'm not looking for any specific cuts of grass-fed beef."
+          ]
+        ],
+        "product_info": {
+          "num_products": 20,
+          "products_with_scores": [
+            {
+              "id": 72866,
+              "name": "Baldwin Farms Grassfed 93% Lean 7% Fat Grassfed Ground Beef",
+              "price": null,
+              "average_score": 95.0
+            },
+            {
+              "id": 72215,
+              "name": "100% Grass Fed Beef Tenderloin Steaks Filet Mignon 5oz. (4 pack)",
+              "price": null,
+              "average_score": 92.5
+            },
+            {
+              "id": 74703,
+              "name": "Beef Loin Sirloin Flap Pasture Raised Step 4",
+              "price": null,
+              "average_score": 91.5
+            },
+            {
+              "id": 72159,
+              "name": "Beer Tenderloin Steak Grass Fed Organic Step 4",
+              "price": null,
+              "average_score": 90.0
+            },
+            {
+              "id": 73811,
+              "name": "Beef Hanger Steak Step 1",
+              "price": null,
+              "average_score": 87.5
+            },
+            {
+              "id": 76122,
+              "name": "Organic Rancher, Organic Ground Beef 85% Lean/15% Fat, 16 Ounce",
+              "price": null,
+              "average_score": 84.0
+            },
+            {
+              "id": 73556,
+              "name": "Ultimate Seasoned Beef Burger",
+              "price": null,
+              "average_score": 82.5
+            },
+            {
+              "id": 72429,
+              "name": "New York Strip Steak Angus Beef Cut Fresh Daily (2 Steaks 1.25 Pounds) Chef's Choice",
+              "price": null,
+              "average_score": 80.0
+            },
+            {
+              "id": 74420,
+              "name": "Steakhouse Beef Burger",
+              "price": null,
+              "average_score": 77.5
+            },
+            {
+              "id": 73321,
+              "name": "40 Oz. USDA Choice Black Angus Tomahawk Steak",
+              "price": null,
+              "average_score": 72.5
+            },
+            {
+              "id": 74860,
+              "name": "Beef Sirloin Steak Filet Style, USDA Choice, 6 oz",
+              "price": null,
+              "average_score": 72.5
+            },
+            {
+              "id": 76205,
+              "name": "Beef Flap Steak, USDA Choice (Meat Counter)",
+              "price": null,
+              "average_score": 71.5
+            },
+            {
+              "id": 74577,
+              "name": "Marconda's Meats, New York Strip Steak Wagyu Kobe Style, 12 oz",
+              "price": null,
+              "average_score": 67.5
+            },
+            {
+              "id": 75004,
+              "name": "1/16 Cow Share - 100% Grassfed - Free Shipping",
+              "price": null,
+              "average_score": 62.5
+            },
+            {
+              "id": 76003,
+              "name": "Four USDA Prime Filet Mignon Steaks - Combo Pack of 4 Beef Tenderloin Filet Mignon Steak, Aged 21 days",
+              "price": null,
+              "average_score": 58.5
+            },
+            {
+              "id": 75457,
+              "name": "Jemm Deluxe Beef Patties 4# (4:1) 16 patties",
+              "price": null,
+              "average_score": 55.0
+            },
+            {
+              "id": 76019,
+              "name": "Dickson's Farmstand, Top Sirloin Steak, Boneless, Local NY State Farm-Raised, 12 oz each, 2 count",
+              "price": null,
+              "average_score": 55.0
+            },
+            {
+              "id": 72416,
+              "name": "CHEF'S REQUESTED STEAK CENTER CUT BACON WRAPPED BEEF FILET 2 CT PER PACKAGE 10 OZ PACK OF 2",
+              "price": null,
+              "average_score": 52.5
+            },
+            {
+              "id": 76199,
+              "name": "Harris Ranch, Black Angus Tri-Tip Roast, 2.5 lbs.",
+              "price": null,
+              "average_score": 37.5
+            },
+            {
+              "id": 74761,
+              "name": "Knorr Entree Mixes-Beef Stew (Goulash) Recipe Mix, 2.4-Ounce Pouches (Pack of 12)",
+              "price": null,
+              "average_score": 35.0
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "summary": {
+    "categories_tested": [
+      "Camera & Video Accessory Bundles",
+      "Video Projectors",
+      "Central United States Travel Guides",
+      "Health, Fitness & Dieting",
+      "Beef"
+    ],
+    "total_episodes": 5,
+    "episodes_by_category": {
+      "Camera & Video Accessory Bundles": 1,
+      "Video Projectors": 1,
+      "Central United States Travel Guides": 1,
+      "Health, Fitness & Dieting": 1,
+      "Beef": 1
+    },
+    "product_counts_by_category": {
+      "Camera & Video Accessory Bundles": {
+        "num_products": 19,
+        "episodes": 1
+      },
+      "Video Projectors": {
+        "num_products": 29,
+        "episodes": 1
+      },
+      "Central United States Travel Guides": {
+        "num_products": 78,
+        "episodes": 1
+      },
+      "Health, Fitness & Dieting": {
+        "num_products": 25,
+        "episodes": 1
+      },
+      "Beef": {
+        "num_products": 20,
+        "episodes": 1
+      }
+    }
+  }
+}
