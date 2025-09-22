@@ -12,7 +12,7 @@ import sys
 import os
 import random
 import numpy as np
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 import json
 from datetime import datetime
 
@@ -23,7 +23,7 @@ from pipeline.core.simulate_interaction import get_products_by_category, list_ca
 from pipeline.core.personas import get_persona_description
 
 
-def test_single_category_consistency(persona_text: str, category: str, num_trials: int, max_products: int):
+def test_single_category_consistency(persona_text: str, category: str, num_trials: int, max_products: Optional[int]):
     """Test consistency for a single category."""
     print(f"\n=== Testing Category: {category} ===")
     
@@ -33,8 +33,8 @@ def test_single_category_consistency(persona_text: str, category: str, num_trial
         print(f"No products found for category '{category}'")
         return None
     
-    # Limit products for faster testing
-    if len(products) > max_products:
+    # Optionally limit products for faster testing (seed control happens outside via global RNG)
+    if max_products is not None and len(products) > max_products:
         products = random.sample(products, max_products)
     
     print(f"Products to score: {len(products)}")
@@ -127,7 +127,8 @@ def test_single_category_consistency(persona_text: str, category: str, num_trial
 def test_scoring_consistency(persona_index: int = 105, 
                            num_categories: int = 10,
                            num_trials: int = 5,
-                           max_products: int = 15):
+                           max_products: Optional[int] = None,
+                           seed: Optional[int] = 42):
     """
     Large-scale test of scoring consistency across multiple categories.
     
@@ -143,6 +144,13 @@ def test_scoring_consistency(persona_index: int = 105,
     print(f"Categories: {num_categories}")
     print(f"Trials per category: {num_trials}")
     print(f"Max products per trial: {max_products}")
+    if seed is not None:
+        print(f"Seed: {seed}")
+
+    # Seed like experiment1 (controls category ordering and sampling)
+    if seed is not None:
+        random.seed(seed)
+        np.random.seed(seed)
     
     # Get persona description
     try:
@@ -158,7 +166,10 @@ def test_scoring_consistency(persona_index: int = 105,
         print(f"Warning: Only {len(available_categories)} categories available, testing all of them")
         categories_to_test = available_categories
     else:
-        categories_to_test = random.sample(available_categories, num_categories)
+        # Randomized order based on seed, then take first N categories
+        categories_shuffled = available_categories.copy()
+        random.shuffle(categories_shuffled)
+        categories_to_test = categories_shuffled[:num_categories]
     
     print(f"Categories to test: {categories_to_test}")
     
@@ -257,7 +268,7 @@ def test_scoring_consistency(persona_index: int = 105,
         'timestamp': datetime.now().isoformat()
     }
     
-    output_file = f"large_scale_consistency_results_{persona_index}_{len(all_category_results)}cats.json"
+    output_file = f"large_scale_consistency_results_{persona_index}_{len(all_category_results)}cats_seed{seed}.json"
     with open(output_file, 'w') as f:
         json.dump(comprehensive_results, f, indent=2)
     
@@ -271,9 +282,10 @@ if __name__ == "__main__":
     
     parser = argparse.ArgumentParser(description="Large-scale test of persona scoring consistency")
     parser.add_argument("--persona_index", type=int, default=42, help="Persona index to test")
-    parser.add_argument("--num_categories", type=int, default=10, help="Number of categories to test")
+    parser.add_argument("--num_categories", type=int, default=10, help="Number of categories to test (first N after seeding)")
     parser.add_argument("--num_trials", type=int, default=5, help="Number of independent scoring trials per category")
-    parser.add_argument("--max_products", type=int, default=15, help="Max products to score per trial")
+    parser.add_argument("--max_products", type=int, default=None, help="Max products to score per trial (omit or None for all)")
+    parser.add_argument("--seed", type=int, default=42, help="Random seed (same behavior as experiment1)")
     
     args = parser.parse_args()
     
@@ -281,5 +293,6 @@ if __name__ == "__main__":
         persona_index=args.persona_index,
         num_categories=args.num_categories,
         num_trials=args.num_trials,
-        max_products=args.max_products
+        max_products=args.max_products,
+        seed=args.seed
     )

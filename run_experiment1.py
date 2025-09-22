@@ -24,7 +24,15 @@ if __name__ == "__main__":
         min_score_threshold=60.0,
         output_dir="experiment1_results_with_checkpoints",
         checkpoint_file=None,
-        seed=825349,
+        #seed=527580,
+        #seed=825349,
+        #seed=359265,
+        #seed = 907642, 
+        #seed = 522792,
+        #seed = 258290,
+        #seed = 364714,
+        #seed = 732239,
+        seed = 384894,
         context_mode="raw", #Options: raw, summary 
         prompting_tricks="none" #Options: none, all
     )

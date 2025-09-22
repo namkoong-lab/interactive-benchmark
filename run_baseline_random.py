@@ -30,7 +30,7 @@ if __name__ == "__main__":
         min_score_threshold=60.0,
         output_dir="baseline_random_results_with_checkpoints",
         checkpoint_file=args.resume_from,
-        seed=args.seed if args.seed is not None else 415909                
+        seed=args.seed if args.seed is not None else 732239                
     )
     
     print("\n'Random Recommendation' baseline experiment completed!")

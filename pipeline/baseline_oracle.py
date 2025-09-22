@@ -60,12 +60,15 @@ Task:
 Given the customer's complete persona description, choose the single best product that would most satisfy their preferences and needs. You have perfect knowledge of what this customer would want.
 
 Output format (MUST be exactly one line, no extra text):
-RECOMMEND: <number 0-{num_products-1}>
+RECOMMEND: <array_index_0_to_{num_products-1}>
+
+IMPORTANT: Return the PRODUCT INDEX (0, 1, 2, etc.), NOT the product ID number.
 
 Rules:
 - Choose the product that best matches the customer's persona
 - Consider all aspects of their preferences, lifestyle, and needs
-- No explanations, just the recommendation number
+- Return the array index (0-based), not the product ID
+- No explanations, just the recommendation index
 - You must recommend exactly one product"""
 
         try:
@@ -131,8 +134,8 @@ Rules:
                 product = {
                     "id": full_product.get("id", i),
                     "title": full_product.get("title", f"Product {i}"),
-                    "price": full_product.get("price", float(product_features[0]) if len(product_features) > 0 else 0.0),
-                    "store": full_product.get("store", f"Store {int(product_features[1])}" if len(product_features) > 1 else "Unknown"),
+                    "price": full_product.get("price", float(product_features[0]) if len(product_features) > 0 and product_features[0] is not None else 0.0),
+                    "store": full_product.get("store", f"Store {int(product_features[1])}" if len(product_features) > 1 and product_features[1] is not None else "Unknown"),
                     "description": description,
                     "raw_attributes": {
                         k: v for k, v in raw_data.items()
@@ -144,8 +147,8 @@ Rules:
                 product = {
                     "id": info.get('product_ids', [])[i] if i < len(info.get('product_ids', [])) else i,
                     "title": f"Product {i}",
-                    "price": float(product_features[0]) if len(product_features) > 0 else 0.0,
-                    "store": f"Store {int(product_features[1])}" if len(product_features) > 1 else "Unknown",
+                    "price": float(product_features[0]) if len(product_features) > 0 and product_features[0] is not None else 0.0,
+                    "store": f"Store {int(product_features[1])}" if len(product_features) > 1 and product_features[1] is not None else "Unknown",
                     "description": product_descriptions[i] if i < len(product_descriptions) else "No description available",
                     "raw_attributes": {}
                 }
@@ -166,7 +169,9 @@ Rules:
             formatted.append(f"Product {i}:")
             formatted.append(f"  ID: {product['id']}")
             formatted.append(f"  Title: {product.get('title', 'No title')}")
-            formatted.append(f"  Price: ${product['price']:.2f}")
+            price = product.get('price', 0.0)
+            price_str = f"${price:.2f}" if isinstance(price, (int, float)) else str(price)
+            formatted.append(f"  Price: {price_str}")
             formatted.append(f"  Store: {product['store']}")
             formatted.append(f"  Description: {description}")
             
@@ -193,7 +198,9 @@ def train_oracle_agent_multi_category(categories: List[str],
                                     persona_index: int,
                                     episodes_per_category: int = 10,
                                     output_dir: str = "oracle_results",
-                                    seed: Optional[int] = None) -> Dict[str, Any]:
+                                    seed: Optional[int] = None,
+                                    min_score_threshold: float = 60.0,
+                                    num_categories: int = 10) -> Dict[str, Any]:
     """
     Train the oracle agent across multiple categories (same pattern as other baselines).
     """
@@ -203,21 +210,54 @@ def train_oracle_agent_multi_category(categories: List[str],
     category_performance = {}
     all_episodes = []
     episode_num = 0
+    successful_episodes_count = 0
     
+    # Calculate target number of episodes (same as experiment1)
+    target_total_episodes = num_categories * episodes_per_category
     total_episodes = episodes_per_category * len(categories)
-    print(f"Running {total_episodes} oracle episodes across {len(categories)} categories")
+    print(f"Running up to {total_episodes} oracle episodes across {len(categories)} categories")
+    print(f"Target: {target_total_episodes} total episodes")
     
+    # Helper function to check category relevance (same as experiment1)
+    def is_category_relevant_for_persona(category: str, persona_index: int, min_score_threshold: float):
+        """Check if category is relevant for persona (same as experiment1)."""
+        try:
+            from .core.simulate_interaction import get_products_by_category
+            from .core.user_model import UserModel
+            
+            # Get products for this category
+            products = get_products_by_category(category)
+            if not products:
+                return False, 0.0, []
+            
+            # Score products for this persona
+            user_model = UserModel(persona_index)
+            scores = user_model.score_products(category, products)
+            
+            # Check if any product scores above threshold
+            max_score = max(score for _, score in scores) if scores else 0.0
+            is_relevant = max_score > min_score_threshold
+            
+            return is_relevant, max_score, scores
+        except Exception as e:
+            print(f"  Error checking category {category}: {e}")
+            return False, 0.0, []
+    
+    # Test categories sequentially until we get enough total episodes (same as experiment1)
     for category in categories:
+        if episode_num >= target_total_episodes:
+            break
+            
         print(f"\n--- Testing Category: {category} ---")
         
-        # Use cached scores if available (same as other baselines)
-        if category in cached_scores_map:
-            cached_scores = cached_scores_map[category]
-            print(f"  Category {category}: Using cached scores (already verified as relevant)")
-        else:
-            # This shouldn't happen since we pre-filtered categories
-            print(f"  Category {category}: No cached scores available")
-            cached_scores = None
+        # Check if category is relevant for this persona (same as experiment1)
+        is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
+        
+        if not is_relevant:
+            print(f"  ✗ Category {category}: Max score {max_score:.1f} ≤ {min_score_threshold}, skipping")
+            continue
+            
+        print(f"  ✓ Category {category}: Max score {max_score:.1f} > {min_score_threshold}, proceeding")
         
         # Create environment for this category with cached scores (same as other baselines)
         env = RecoEnv(
@@ -232,8 +272,11 @@ def train_oracle_agent_multi_category(categories: List[str],
         
         # Run episodes for this category
         for episode in range(episodes_per_category):
+            if episode_num >= target_total_episodes:
+                break
+                
             episode_num += 1
-            print(f"Episode {episode_num}/{total_episodes} (Category: {category})")
+            print(f"Episode {episode_num} (Category: {category}) - {episode_num}/{target_total_episodes} total episodes")
             
             try:
                 # Use MetricsWrapper for detailed logging (same as other baselines)
@@ -263,7 +306,9 @@ def train_oracle_agent_multi_category(categories: List[str],
                 obs, reward, terminated, truncated, info = metrics_wrapper.step(action)
                 
                 print(f"  Recommended product {info['chosen_product_id']}")
-                print(f"    Score: {info['chosen_score']:.1f}, Best: {info['best_score']:.1f}, Regret: {info.get('regret', 'N/A'):.1f}")
+                regret_value = info.get('regret', 0.0)
+                regret_str = f"{regret_value:.1f}" if isinstance(regret_value, (int, float)) else str(regret_value)
+                print(f"    Score: {info['chosen_score']:.1f}, Best: {info['best_score']:.1f}, Regret: {regret_str}")
                 
                 # Create episode result structure (same as other baselines)
                 episode_result = {
@@ -305,6 +350,7 @@ def train_oracle_agent_multi_category(categories: List[str],
                     'best_score': episode_info.get('best_score', 0.0)
                 }
                 all_episodes.append(episode_data)
+                successful_episodes_count += 1
                 
             except Exception as e:
                 print(f"  Error in episode {episode_num}: {e}")
@@ -340,7 +386,7 @@ def train_oracle_agent_multi_category(categories: List[str],
             'categories_tested': list(set(ep['category'] for ep in all_episodes)),
             'total_episodes': len(all_episodes),
             'successful_episodes': len(all_episodes),
-            'target_successful_episodes': len(all_episodes),
+            'target_successful_episodes': target_total_episodes,
             'episodes_by_category': {cat: len([ep for ep in all_episodes if ep['category'] == cat]) for cat in set(ep['category'] for ep in all_episodes)},
             'overall_metrics': {
                 'avg_regret': avg_regret,
@@ -425,82 +471,26 @@ def run_baseline_oracle(
     else:
         print(f"Using specified persona: {persona_index}")
     
-    # Get available categories if not specified
+    # Get available categories if not specified (same logic as experiment1)
     if categories is None:
         from .core.simulate_interaction import list_categories
         available_categories = list_categories()
         print(f"Available categories: {len(available_categories)}")
         
-        # Use same filtering logic as experiment1
-        def is_category_relevant_for_persona(category: str, persona_index: int, min_score_threshold: float):
-            """Check if category is relevant for persona (same as experiment1)."""
-            try:
-                from .core.simulate_interaction import get_products_by_category
-                from .core.user_model import UserModel
-                
-                # Get products for this category
-                products = get_products_by_category(category)
-                if not products:
-                    return False, 0.0, []
-                
-                # Score products for this persona
-                user_model = UserModel(persona_index)
-                scores = user_model.score_products(category, products)
-                
-                # Check if any product scores above threshold
-                max_score = max(score for _, score in scores) if scores else 0.0
-                is_relevant = max_score > min_score_threshold
-                
-                return is_relevant, max_score, scores
-            except Exception as e:
-                print(f"  Error checking category {category}: {e}")
-                return False, 0.0, []
-        
-        def select_relevant_categories(available_categories, num_categories, persona_index, min_score_threshold, seed=None):
-            """Select exactly num_categories that pass the relevance filter (same as experiment1)."""
-            relevant_categories = []
-            tested_categories = set()
-            
+        # Define the same category selection function as experiment1
+        def get_categories_for_seed(available_categories, seed):
+            """Get categories in randomized order based on seed."""
+            # Set seed for reproducible category ordering
+            random.seed(seed)
+            categories = available_categories.copy()
             # Shuffle categories based on seed for proper randomization
-            if seed is not None:
-                random.seed(seed)
-                shuffled_categories = available_categories.copy()
-                random.shuffle(shuffled_categories)
-                random.seed()  # Reset seed after use
-                categories_to_test = shuffled_categories
-                print(f"Searching for {num_categories} relevant categories with seed-based randomization...")
-            else:
-                categories_to_test = available_categories
-                print(f"Searching for {num_categories} relevant categories in deterministic order...")
-            
-            for category in categories_to_test:
-                if len(relevant_categories) >= num_categories:
-                    break
-                    
-                if category in tested_categories:
-                    continue
-                    
-                tested_categories.add(category)
-                print(f"  Testing category: {category}")
-                
-                is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
-                if is_relevant:
-                    relevant_categories.append((category, cached_scores))
-                    print(f"    ✓ Category {category}: Max score {max_score:.1f} > {min_score_threshold}")
-                else:
-                    print(f"    ✗ Category {category}: Max score {max_score:.1f} ≤ {min_score_threshold}")
-            
-            if len(relevant_categories) < num_categories:
-                print(f"WARNING: Only found {len(relevant_categories)} relevant categories out of {num_categories} requested")
-                print(f"Tested {len(tested_categories)} categories total")
-            
-            return [cat for cat, _ in relevant_categories], {cat: scores for cat, scores in relevant_categories}
+            random.shuffle(categories)
+            random.seed()  # Reset seed after use
+            return categories
         
-        # Select exactly num_categories that pass the filter (same as experiment1)
-        selected_categories, cached_scores_map = select_relevant_categories(
-            available_categories, num_categories, persona_index, min_score_threshold, seed
-        )
-        print(f"Selected {len(selected_categories)} relevant categories")
+        # Use same category selection logic as experiment1
+        selected_categories = get_categories_for_seed(available_categories, seed)
+        print(f"Categories selected with randomization from seed {seed}")
         categories = selected_categories
     
     print(f"Oracle Baseline Configuration:")
@@ -514,15 +504,17 @@ def run_baseline_oracle(
     # Create oracle agent
     agent = OracleAgent(model=model, persona_index=persona_index)
     
-    # Run training with per-category environments (same as other baselines)
+    # Run training with per-category environments (same logic as experiment1)
     metrics = train_oracle_agent_multi_category(
         categories=categories,
-        cached_scores_map=cached_scores_map,
+        cached_scores_map={},  # Will be populated during execution
         agent=agent,
         persona_index=persona_index,
         episodes_per_category=episodes_per_category,
         output_dir=output_dir,
-        seed=seed
+        seed=seed,
+        min_score_threshold=min_score_threshold,
+        num_categories=num_categories
     )
     
     return metrics

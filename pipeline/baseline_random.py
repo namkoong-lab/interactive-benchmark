@@ -138,9 +138,12 @@ def run_baseline_random(
 
     # NEW: Select exactly num_categories that pass the relevance filter
     def select_relevant_categories(available_categories, num_categories, persona_index, min_score_threshold, seed=None):
-        """Select exactly num_categories that pass the relevance filter."""
+        """Select exactly num_categories that pass the relevance filter.
+        Returns (selected_categories, cached_scores_map, tested_total, skipped_total)
+        """
         relevant_categories = []
         tested_categories = set()
+        skipped_total = 0
         
         # Shuffle categories based on seed for proper randomization
         if seed is not None:
@@ -170,21 +173,26 @@ def run_baseline_random(
                 print(f"    ✓ Category {category}: Max score {max_score:.1f} > {min_score_threshold}")
             else:
                 print(f"    ✗ Category {category}: Max score {max_score:.1f} ≤ {min_score_threshold}")
+                skipped_total += 1
         
         if len(relevant_categories) < num_categories:
             print(f"WARNING: Only found {len(relevant_categories)} relevant categories out of {num_categories} requested")
             print(f"Tested {len(tested_categories)} categories total")
         
-        return [cat for cat, _ in relevant_categories], {cat: scores for cat, scores in relevant_categories}
+        return [cat for cat, _ in relevant_categories], {cat: scores for cat, scores in relevant_categories}, len(tested_categories), skipped_total
 
     # Initialize category selection with new strategy
+    tested_total = 0
+    skipped_total = 0
     if categories is None:
         if not checkpoint_file or not os.path.exists(checkpoint_file):
             # Fresh start: select exactly num_categories that pass the filter
-            selected_categories, cached_scores_map = select_relevant_categories(
+            selected_categories, cached_scores_map, tested_total, skipped_total = select_relevant_categories(
                 available_categories, num_categories, persona_index, min_score_threshold, seed
             )
             print(f"Selected {len(selected_categories)} relevant categories")
+            print(f"Categories tested during selection: {tested_total}")
+            print(f"Categories skipped during selection: {skipped_total}")
         else:
             # Resuming from checkpoint: use the original logic for remaining categories
             if len(available_categories) >= num_categories:
@@ -278,7 +286,9 @@ def run_baseline_random(
                     'episode_regrets': [r['final_info'].get('regret') for r in all_results if 'regret' in r.get('final_info', {})],
                     'avg_regret': np.mean([r['final_info'].get('regret') for r in all_results if 'regret' in r.get('final_info', {})]) if any('regret' in r.get('final_info', {}) for r in all_results) else 0.0,
                 },
-                'categories_tested': list(used_categories), 'total_episodes': len(all_results)
+                'categories_tested': list(used_categories), 'total_episodes': len(all_results),
+                'categories_tested_total': tested_total,
+                'categories_skipped_total': skipped_total
             },
             'config': {
                 'persona_index': persona_index, 'categories': selected_categories,

@@ -130,7 +130,7 @@ Rules:
         feedback_time = time.time() - feedback_start_time
         print(f"[TIMING] Feedback context building: {feedback_time:.2f}s")
         
-        base_prompt = f"""You are a product recommendation agent. Your goal is to find the best product for this user.
+        base_prompt = f"""You are a product recommendation agent. Your goal is to find the best product for this user, while asking the fewest number of questions before being confident in the best product for the user.
 
 Context:
 {context}
@@ -138,7 +138,9 @@ Context:
 {feedback_context}
 
 Task:
-Based on the conversation so far, either:
+First, analyze what you already know from the conversation:
+
+Then, either:
 - Ask one short, consumer-friendly question to clarify user preferences, or
 - If sufficiently confident, recommend one product by index. 
 
@@ -156,10 +158,8 @@ STRICT RULES:
 - If recommending: RECOMMEND: 5
 
 Additional Guidelines:
-- Keep questions specific and helpful (budget, size, brand/style preference, key feature)
-- Avoid jargon; use everyday language a shopper understands
 - Do not ask questions similar to ones already asked
-- Build upon previous answers rather than re-asking the same type
+- Build upon previous answers
 - If you've gathered enough information, make a recommendation
 """
 
@@ -172,7 +172,7 @@ Additional Guidelines:
             response = chat_completion(
                 messages=[{"role": "user", "content": unified_prompt}],
                 model=self.model,
-                temperature=0.2,  # Lower temperature for more consistent format following
+                temperature=0.4, 
                 max_tokens=200
             )
             llm_elapsed = time.time() - llm_start_time
@@ -698,6 +698,7 @@ def run_experiment1(categories: List[str] = None,
                     elif info['action_type'] == 'recommend':
                         print(f"  Step {step_count}: Recommended product {info['chosen_product_id']}")
                         print(f"    Score: {info['chosen_score']:.1f}, Best: {info['best_score']:.1f}")
+                        print(f"    Regret: {info.get('regret', 0.0):.1f} (lower is better)")
                         print(f"    Top1: {info['top1']}, Top3: {info['top3']}")
                         if 'feedback' in info and info['feedback']:
                             print(f"    Feedback: {info['feedback']}")
@@ -746,7 +747,7 @@ def run_experiment1(categories: List[str] = None,
                     category_results[category].append(episode_result)
                     agent.update_preferences(episode_result)
                     
-                    print(f"  Episode {episode_num}: Successfully completed (Score: {info.get('chosen_score', 0):.1f})")
+                    print(f"  Episode {episode_num}: Successfully completed (Score: {info.get('chosen_score', 0):.1f}, Regret: {info.get('regret', 0.0):.1f})")
                     
                     # Only increment after episode succeeds
                     successful_episodes_count += 1
