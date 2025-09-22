@@ -142,18 +142,25 @@ Based on the conversation so far, either:
 - Ask one short, consumer-friendly question to clarify user preferences, or
 - If sufficiently confident, recommend one product by index. 
 
-Output format (MUST be exactly one line, no extra text):
-- To ask: QUESTION: <your question>
-- To recommend: RECOMMEND: <number 0-{num_products-1}>
+CRITICAL OUTPUT FORMAT (MUST FOLLOW EXACTLY):
+- To ask a question: QUESTION: [your question here]
+- To recommend a product: RECOMMEND: [number between 0 and {num_products-1}]
 
-Rules:
-- Do not include explanations, reasoning, bullets, or multiple questions
-- Avoid jargon; use everyday language a shopper understands
+STRICT RULES:
+- Your response must start with either "QUESTION:" or "RECOMMEND:"
+- Do NOT include any explanations, reasoning, or additional text
+- Do NOT use bullets, multiple lines, or formatting
+- Do NOT add commentary like "I recommend..." or "Let me ask..."
+- Just the format above, nothing else
+- If asking: QUESTION: What is your budget?
+- If recommending: RECOMMEND: 5
+
+Additional Guidelines:
 - Keep questions specific and helpful (budget, size, brand/style preference, key feature)
-- No meta commentary like "this is strategic because…", only the question or recommendation
-- CRITICAL: Do not ask questions that are similar to ones already asked in the conversation
-- Build upon previous answers rather than re-asking the same type of question
-- If you've gathered enough information, make a recommendation instead of asking more questions
+- Avoid jargon; use everyday language a shopper understands
+- Do not ask questions similar to ones already asked
+- Build upon previous answers rather than re-asking the same type
+- If you've gathered enough information, make a recommendation
 """
 
         # Apply prompting tricks if enabled
@@ -165,7 +172,7 @@ Rules:
             response = chat_completion(
                 messages=[{"role": "user", "content": unified_prompt}],
                 model=self.model,
-                temperature=0.2,
+                temperature=0.2,  # Lower temperature for more consistent format following
                 max_tokens=200
             )
             llm_elapsed = time.time() - llm_start_time
@@ -173,21 +180,30 @@ Rules:
             
             self.last_response = response.strip()
             
-            if response.strip().startswith("QUESTION:"):
+            # More flexible parsing for Gemini responses
+            response_text = response.strip()
+            
+            # Check for QUESTION format (more flexible)
+            if "QUESTION:" in response_text:
                 return num_products  # Ask question action
-            elif response.strip().startswith("RECOMMEND:"):
+            elif "RECOMMEND:" in response_text:
                 try:
-                    product_index = int(response.strip().split(":")[1].strip())
-                    if 0 <= product_index < num_products:
-                        return product_index
-                    else:
-                        print(f"Invalid product index {product_index}, defaulting to ask question")
-                        return num_products
+                    # Extract the recommendation part after RECOMMEND:
+                    rec_part = response_text.split("RECOMMEND:")[-1].strip()
+                    # Use regex to find the first number in the text
+                    import re
+                    numbers = re.findall(r'\d+', rec_part)
+                    if numbers:
+                        product_index = int(numbers[0])
+                        if 0 <= product_index < num_products:
+                            return product_index
+                    print(f"Could not parse valid product index from: {rec_part}")
+                    return num_products
                 except (ValueError, IndexError):
-                    print(f"Could not parse recommendation from: {response.strip()}")
+                    print(f"Could not parse recommendation from: {response_text}")
                     return num_products
             else:
-                print(f"Unexpected response format: {response.strip()}")
+                print(f"Unexpected response format: {response_text}")
                 return num_products
                 
         except Exception as e:
@@ -197,6 +213,7 @@ Rules:
     def _get_product_info(self, obs: Dict[str, np.ndarray], info: Dict[str, Any], num_products: int) -> List[Dict]:
         """Extract product information from observation."""
         products = []
+        product_descriptions = info.get('product_descriptions', [])
         
         for i in range(num_products):
             if i < obs['product_features'].shape[0]:
@@ -206,7 +223,8 @@ Rules:
                     'price': float(features[0]) if not np.isnan(features[0]) else 0.0,
                     'store_hash': int(features[1]) if not np.isnan(features[1]) else 0,
                     'title_length': int(features[2]) if not np.isnan(features[2]) else 0,
-                    'features': [float(f) for f in features[3:] if not np.isnan(f)]
+                    'features': [float(f) for f in features[3:] if not np.isnan(f)],
+                    'description': product_descriptions[i] if i < len(product_descriptions) else "No description available"
                 }
                 products.append(product)
         
@@ -216,7 +234,9 @@ Rules:
         """Build context string for LLM decision making."""
         product_list = f"Available {category} products:\n"
         for i, product in enumerate(products):
-            product_list += f"{i}: Product ID {product['id']} - Price: {product['price']}, Store: {product['store_hash']}, Title: {product['title_length']}\n"
+            description = product.get('description', 'No description available')
+            product_list += f"{i}: Product ID {product['id']} - Price: ${product['price']:.2f}\n"
+            product_list += f"   Description: {description}\n\n"
         
         dialog_text = "Conversation so far:\n"
         if dialog_history:

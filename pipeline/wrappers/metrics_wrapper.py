@@ -64,6 +64,12 @@ class MetricsWrapper(gym.Wrapper):
         top1 = self.final_info.get("top1", False)
         top3 = self.final_info.get("top3", False)
         
+        # Extract confidence scores if available
+        confidence_favorite_prob = self.final_info.get("confidence_favorite_prob")
+        confidence_top5_prob = self.final_info.get("confidence_top5_prob")
+        confidence_expected_score = self.final_info.get("confidence_expected_score")
+        confidence_expected_regret = self.final_info.get("confidence_expected_regret")
+        
         # Create episode record
         record = EpisodeRecord(
             episode=self.episode_count,
@@ -77,7 +83,11 @@ class MetricsWrapper(gym.Wrapper):
             top3=top3,
             num_questions=self.questions_asked,
             rationale="",  # Could extract from final_info if available
-            agent_model="gym_agent"  # Could be passed as parameter
+            agent_model="gym_agent",  # Could be passed as parameter
+            confidence_favorite_prob=confidence_favorite_prob,
+            confidence_top5_prob=confidence_top5_prob,
+            confidence_expected_score=confidence_expected_score,
+            confidence_expected_regret=confidence_expected_regret
         )
         
         self.recorder.log(record)

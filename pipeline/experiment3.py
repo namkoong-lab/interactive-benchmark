@@ -188,6 +188,7 @@ Rules:
     def _get_product_info(self, obs: Dict[str, np.ndarray], info: Dict[str, Any], num_products: int) -> List[Dict]:
         """Extract product information from observation."""
         products = []
+        product_descriptions = info.get('product_descriptions', [])
         
         for i in range(num_products):
             if i < obs['product_features'].shape[0]:
@@ -197,7 +198,8 @@ Rules:
                     'price': float(features[0]) if not np.isnan(features[0]) else 0.0,
                     'store_hash': int(features[1]) if not np.isnan(features[1]) else 0,
                     'title_length': int(features[2]) if not np.isnan(features[2]) else 0,
-                    'features': [float(f) for f in features[3:] if not np.isnan(f)]
+                    'features': [float(f) for f in features[3:] if not np.isnan(f)],
+                    'description': product_descriptions[i] if i < len(product_descriptions) else "No description available"
                 }
                 products.append(product)
         
@@ -207,7 +209,9 @@ Rules:
         """Build context string for LLM decision making."""
         product_list = f"Available {category} products:\n"
         for i, product in enumerate(products):
-            product_list += f"{i}: Product ID {product['id']} - Price: {product['price']}, Store: {product['store_hash']}, Title: {product['title_length']}\n"
+            description = product.get('description', 'No description available')
+            product_list += f"{i}: Product ID {product['id']} - Price: ${product['price']:.2f}\n"
+            product_list += f"   Description: {description}\n\n"
         
         dialog_text = "Conversation so far:\n"
         if dialog_history:

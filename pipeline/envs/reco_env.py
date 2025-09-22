@@ -136,6 +136,29 @@ class RecoEnv(gym.Env):
         # Build initial observation
         obs = self._build_observation()
         
+        # Extract product descriptions for agent
+        product_descriptions = []
+        for product in self.products:
+            raw_data = product.get("raw", {})
+            description = ""
+            
+            # Try to get description from raw data
+            if "description" in raw_data and raw_data["description"]:
+                if isinstance(raw_data["description"], list) and raw_data["description"]:
+                    description = raw_data["description"][0]  # Take first description
+                elif isinstance(raw_data["description"], str):
+                    description = raw_data["description"]
+            
+            # Fallback to title if no description
+            if not description:
+                description = product.get("title", "No description available")
+            
+            # Truncate description if too long (to avoid token limits)
+            if len(description) > 500:
+                description = description[:500] + "..."
+            
+            product_descriptions.append(description)
+        
         info = {
             "category": self.current_category,
             "num_products": num_products,
@@ -144,6 +167,8 @@ class RecoEnv(gym.Env):
                 "ask": [num_products]
             },
             "product_ids": self.product_ids,
+            "product_descriptions": product_descriptions,
+            "full_products": self.products,  # Include full product data for oracle baseline
             "oracle_best_id": self.oracle_scores[0][0] if self.oracle_scores else None,
             "oracle_best_score": self.oracle_scores[0][1] if self.oracle_scores else 0.0
         }

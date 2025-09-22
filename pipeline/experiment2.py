@@ -200,6 +200,7 @@ Rules:
         """Extract product information from observation."""
         products = []
         product_features = obs['product_features']
+        product_descriptions = info.get('product_descriptions', [])
         
         for i in range(num_products):
             if i < len(info.get('product_ids', [])):
@@ -214,7 +215,8 @@ Rules:
                     'id': product_id,
                     'price': f"${price:.0f}",
                     'store_hash': f"{store_hash:.2f}",
-                    'title_length': f"{title_length:.0f} chars"
+                    'title_length': f"{title_length:.0f} chars",
+                    'description': product_descriptions[i] if i < len(product_descriptions) else "No description available"
                 })
         
         return products
@@ -223,7 +225,9 @@ Rules:
         """Build context string for LLM decision making."""
         product_list = f"Available {category} products:\n"
         for i, product in enumerate(products):
-            product_list += f"{i}: Product ID {product['id']} - Price: {product['price']}, Store: {product['store_hash']}, Title: {product['title_length']}\n"
+            description = product.get('description', 'No description available')
+            product_list += f"{i}: Product ID {product['id']} - Price: {product['price']}\n"
+            product_list += f"   Description: {description}\n\n"
         
         dialog_text = "Conversation so far:\n"
         if dialog_history:

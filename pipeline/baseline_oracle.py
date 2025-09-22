@@ -98,19 +98,58 @@ Rules:
     def _get_product_info(self, obs: Dict[str, np.ndarray], info: Dict[str, Any], num_products: int) -> List[Dict[str, Any]]:
         """Extract product information from observation."""
         products = []
+        product_descriptions = info.get('product_descriptions', [])
+        
+        # Get full product information from the environment's product data
+        # This should match what the scoring system sees
+        full_products = info.get('full_products', [])
         
         for i in range(num_products):
             product_features = obs['product_features'][i]
             
-            # Extract basic features (assuming standard feature order)
-            product = {
-                "id": i,
-                "title": f"Product {i}",  # Placeholder - would need actual product data
-                "price": float(product_features[0]) if len(product_features) > 0 else 0.0,
-                "store": f"Store {int(product_features[1])}" if len(product_features) > 1 else "Unknown",
-                "rating": float(product_features[2]) if len(product_features) > 2 else 0.0,
-                "features": product_features.tolist()
-            }
+            # Use full product data if available, otherwise fall back to limited info
+            if i < len(full_products):
+                full_product = full_products[i]
+                raw_data = full_product.get("raw", {})
+                
+                # Extract description from raw data (same logic as scoring system)
+                description = ""
+                if "description" in raw_data and raw_data["description"]:
+                    if isinstance(raw_data["description"], list) and raw_data["description"]:
+                        description = raw_data["description"][0]
+                    elif isinstance(raw_data["description"], str):
+                        description = raw_data["description"]
+                
+                # Fallback to title if no description
+                if not description:
+                    description = full_product.get("title", "No description available")
+                
+                # Truncate description if too long
+                if len(description) > 500:
+                    description = description[:500] + "..."
+                
+                product = {
+                    "id": full_product.get("id", i),
+                    "title": full_product.get("title", f"Product {i}"),
+                    "price": full_product.get("price", float(product_features[0]) if len(product_features) > 0 else 0.0),
+                    "store": full_product.get("store", f"Store {int(product_features[1])}" if len(product_features) > 1 else "Unknown"),
+                    "description": description,
+                    "raw_attributes": {
+                        k: v for k, v in raw_data.items()
+                        if isinstance(v, (str, int, float)) and k not in {"description", "title"}
+                    }
+                }
+            else:
+                # Fallback to limited information
+                product = {
+                    "id": info.get('product_ids', [])[i] if i < len(info.get('product_ids', [])) else i,
+                    "title": f"Product {i}",
+                    "price": float(product_features[0]) if len(product_features) > 0 else 0.0,
+                    "store": f"Store {int(product_features[1])}" if len(product_features) > 1 else "Unknown",
+                    "description": product_descriptions[i] if i < len(product_descriptions) else "No description available",
+                    "raw_attributes": {}
+                }
+            
             products.append(product)
         
         return products
@@ -119,7 +158,31 @@ Rules:
         """Format product information for the LLM prompt."""
         formatted = []
         for i, product in enumerate(products):
-            formatted.append(f"Product {i}: Price=${product['price']:.2f}, Store={product['store']}, Rating={product['rating']:.1f}")
+            description = product.get('description', 'No description available')
+            # Truncate description if too long to avoid token limits
+            if len(description) > 300:
+                description = description[:300] + "..."
+            
+            formatted.append(f"Product {i}:")
+            formatted.append(f"  ID: {product['id']}")
+            formatted.append(f"  Title: {product.get('title', 'No title')}")
+            formatted.append(f"  Price: ${product['price']:.2f}")
+            formatted.append(f"  Store: {product['store']}")
+            formatted.append(f"  Description: {description}")
+            
+            # Add key attributes if available
+            raw_attributes = product.get('raw_attributes', {})
+            if raw_attributes:
+                formatted.append(f"  Key Attributes:")
+                # Show most important attributes
+                important_attrs = ['brand', 'material', 'color', 'style', 'size', 'rating', 'average_rating']
+                for attr in important_attrs:
+                    if attr in raw_attributes:
+                        value = raw_attributes[attr]
+                        if isinstance(value, (str, int, float)):
+                            formatted.append(f"    {attr.title()}: {value}")
+            
+            formatted.append("")  # Empty line for readability
         
         return "\n".join(formatted)
 
