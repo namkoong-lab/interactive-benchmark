@@ -12,14 +12,14 @@ from pipeline.experiment_fixed_questions import run_fixed_questions_experiment
 
 if __name__ == "__main__":
     # Use same seed as experiment1 for consistency
-    seed = 522792
+    seed = 798407
     print(f"Using seed: {seed}")
     
     results = run_fixed_questions_experiment(
         categories=None,  # Will randomly select relevant categories
         num_categories=10,  # Test 10 categories (10 episodes total)
         episodes_per_category=1,  # 1 episode per category (10 total episodes)
-        model="claude-sonnet-4-20250514",  # Same model as experiment1
+        model="gpt-4o",   #Options: gpt-4o, gpt-4o-mini, gpt-5-nano-2025-08-07, gemini-2.5-pro, gemini-2.5-flash-lite, claude-opus-4-20250514, claude-sonnet-4-20250514
         feedback_type="persona",  # Same feedback type as experiment1
         min_score_threshold=60.0,  # Same threshold as experiment1
         output_dir="fixed_questions_results",

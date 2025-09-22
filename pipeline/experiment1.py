@@ -471,7 +471,8 @@ def run_experiment1(categories: List[str] = None,
                                    checkpoint_file: str = None,
                                    seed: Optional[int] = None,
                                    context_mode: str = "raw",
-                                   prompting_tricks: str = "none"):
+                                   prompting_tricks: str = "none",
+                                   persona_index_override: Optional[int] = None):
     """
     Run Experiment 1 with incremental checkpointing.
     
@@ -498,9 +499,13 @@ def run_experiment1(categories: List[str] = None,
         random.seed(seed)
         np.random.seed(seed)
     
-    # Randomly select a persona based on the seed (consistent across episodes)
-    persona_index = random.randint(0, 47000)  
-    print(f"Selected persona: {persona_index}")
+    # Select persona: override if provided, else random (seeded if given)
+    if persona_index_override is not None:
+        persona_index = int(persona_index_override)
+        print(f"Selected persona (override): {persona_index}")
+    else:
+        persona_index = random.randint(0, 47000)
+        print(f"Selected persona: {persona_index}")
     
     os.makedirs(output_dir, exist_ok=True)
     gym.register("RecoEnv-v0", entry_point=RecoEnv)
@@ -889,6 +894,7 @@ if __name__ == "__main__":
     parser.add_argument("--seed", type=int, default=None, help="Random seed for reproducible category and persona selection")
     parser.add_argument("--context_mode", choices=["raw", "summary", "none"], default="raw", help="How to carry context between episodes: raw (full episode data), summary (agent-generated summaries), none (no context)")
     parser.add_argument("--prompting_tricks", choices=["none", "all"], default="none", help="Whether to use enhanced prompting tricks: none (standard prompting), all (includes chain-of-thought, ReAct, and think-again prompts)")
+    parser.add_argument("--persona_index", type=int, default=None, help="Override persona index (0..47000)")
     
     args = parser.parse_args()
     
@@ -904,5 +910,6 @@ if __name__ == "__main__":
         checkpoint_file=args.resume_from,
         seed=args.seed,
         context_mode=args.context_mode,
-        prompting_tricks=args.prompting_tricks
+        prompting_tricks=args.prompting_tricks,
+        persona_index_override=args.persona_index
     )

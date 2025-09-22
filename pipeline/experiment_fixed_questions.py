@@ -709,6 +709,7 @@ def run_fixed_questions_experiment(
                 current_info = initial_info
                 regret_progression = []  
                 confidence_progression = []  # Store confidence scores for this episode
+                rank_progression = []  # Store ranks for forced recommendations in tracking episodes
                 
                 while not terminated and not truncated and step_count <= 21:  # 10 questions + 10 forced recs + 1 final recommendation
                     action = agent.get_action(obs, current_info)
@@ -731,8 +732,54 @@ def run_fixed_questions_experiment(
                         else:
                             print(f"  Step {step_count}: Asked question")
 
-                        # Check if we've reached 10 questions and need to force final recommendation
-                        if len(env.dialog_history) >= 10:
+                        # For tracking episodes, force recommendation after each question (including the 10th)
+                        if is_tracking and len(env.dialog_history) <= 10:
+                            rec_action, confidence_scores = agent.force_recommendation_after_question(obs, current_info)
+
+                            # Calculate regret manually using the same logic as the environment
+                            chosen_product_id = env.product_ids[rec_action]
+                            chosen_score = next((score for pid, score in env.oracle_scores if pid == chosen_product_id), 0.0)
+                            best_id, best_score = env.oracle_scores[0] if env.oracle_scores else (chosen_product_id, chosen_score)
+                            regret = max(0.0, best_score - chosen_score)
+
+                            # Calculate rank of chosen product (1 = best)
+                            try:
+                                ordered_product_ids = [pid for pid, _ in env.oracle_scores] if hasattr(env, 'oracle_scores') else []
+                                if chosen_product_id in ordered_product_ids:
+                                    chosen_rank = ordered_product_ids.index(chosen_product_id) + 1
+                                else:
+                                    chosen_rank = None
+                            except Exception:
+                                chosen_rank = None
+
+                            # Do NOT increment step_count here: forced recommendation is not an env step
+                            print(f"    Forced recommendation after question (Regret: {regret:.1f}, Rank: {chosen_rank})")
+                            print(f"    Confidence - Favorite: {confidence_scores['confidence_favorite_prob']:.2f}, Top5: {confidence_scores['confidence_top5_prob']:.2f}, Expected Score: {confidence_scores['confidence_expected_score']:.1f}, Expected Regret: {confidence_scores['confidence_expected_regret']:.1f}")
+                            regret_progression.append(regret)
+                            confidence_progression.append(confidence_scores.copy())
+                            rank_progression.append(chosen_rank)
+
+                            # If this was the 10th question, now do the final recommendation
+                            if len(env.dialog_history) >= 10:
+                                print(f"  Reached 10 questions, forcing final recommendation...")
+                                # Force final recommendation
+                                final_action = agent._make_recommendation(obs, current_info, env.dialog_history, category, len(env.product_ids))
+                                obs, reward, terminated, truncated, final_info = metrics_wrapper.step(final_action)
+                                current_info = final_info
+                                step_count += 1
+
+                                print(f"  Step {step_count}: Final recommendation - Product {final_info['chosen_product_id']}")
+                                print(f"    Score: {final_info['chosen_score']:.1f}, Best: {final_info['best_score']:.1f}")
+                                print(f"    Top1: {final_info['top1']}, Top3: {final_info['top3']}")
+                                if 'feedback' in final_info and final_info['feedback']:
+                                    print(f"    Feedback: {final_info['feedback']}")
+                                break
+                            else:
+                                # Continue the loop to ask the next question (don't break)
+                                continue
+
+                        # Check if we've reached 10 questions and need to force final recommendation (for non-tracking episodes)
+                        elif len(env.dialog_history) >= 10:
                             print(f"  Reached 10 questions, forcing final recommendation...")
                             # Force final recommendation
                             final_action = agent._make_recommendation(obs, current_info, env.dialog_history, category, len(env.product_ids))
@@ -746,24 +793,6 @@ def run_fixed_questions_experiment(
                             if 'feedback' in final_info and final_info['feedback']:
                                 print(f"    Feedback: {final_info['feedback']}")
                             break
-
-                        if is_tracking and len(env.dialog_history) < 10:
-                            rec_action, confidence_scores = agent.force_recommendation_after_question(obs, current_info)
-
-                            # Calculate regret manually using the same logic as the environment
-                            chosen_product_id = env.product_ids[rec_action]
-                            chosen_score = next((score for pid, score in env.oracle_scores if pid == chosen_product_id), 0.0)
-                            best_id, best_score = env.oracle_scores[0] if env.oracle_scores else (chosen_product_id, chosen_score)
-                            regret = max(0.0, best_score - chosen_score)
-
-                            # Do NOT increment step_count here: forced recommendation is not an env step
-                            print(f"    Forced recommendation after question (Regret: {regret:.1f})")
-                            print(f"    Confidence - Favorite: {confidence_scores['confidence_favorite_prob']:.2f}, Top5: {confidence_scores['confidence_top5_prob']:.2f}, Expected Score: {confidence_scores['confidence_expected_score']:.1f}, Expected Regret: {confidence_scores['confidence_expected_regret']:.1f}")
-                            regret_progression.append(regret)
-                            confidence_progression.append(confidence_scores.copy())
-
-                            # Continue the loop to ask the next question (don't break)
-                            continue
 
                     elif info['action_type'] == 'recommend':
                         print(f"  Step {step_count}: Final recommendation - Product {info['chosen_product_id']}")
@@ -799,6 +828,19 @@ def run_fixed_questions_experiment(
                 
                 # Only count episodes that successfully made a recommendation
                 if current_info.get('action_type') == 'recommend' and 'chosen_score' in current_info:
+                    # Compute chosen product's rank among oracle-ranked products (1 = best)
+                    try:
+                        ordered_product_ids = [pid for pid, _ in env.oracle_scores] if hasattr(env, 'oracle_scores') else []
+                        if current_info.get('chosen_product_id') in ordered_product_ids:
+                            chosen_rank = ordered_product_ids.index(current_info.get('chosen_product_id')) + 1
+                        else:
+                            chosen_rank = None
+                    except Exception:
+                        chosen_rank = None
+
+                    # Enhance final_info with rank and total products for clarity
+                    current_info['chosen_rank'] = chosen_rank
+                    current_info['total_products'] = len(env.products) if hasattr(env, 'products') else None
                     episode_result = {
                         'episode': episode_num,
                         'category': category,
@@ -813,6 +855,7 @@ def run_fixed_questions_experiment(
                         'product_info': product_info,
                         'regret_progression': regret_progression if is_tracking else [],
                         'confidence_progression': confidence_progression if is_tracking else [],
+                        'rank_progression': rank_progression if is_tracking else [],
                         'planned_episode_index': planned_episode_index,
                         'attempt_index': episode_num,
                         'questions_asked': [qa[0] for qa in env.dialog_history if isinstance(qa, tuple) and len(qa) >= 2],
@@ -863,8 +906,10 @@ def run_fixed_questions_experiment(
             'episode': episode['episode'],
             'category': episode['category'],
             'final_regret': episode['final_info'].get('regret', 0),
+            'final_rank': episode['final_info'].get('chosen_rank', None),
             'regret_progression': episode.get('regret_progression', []),
             'confidence_progression': episode.get('confidence_progression', []),
+            'rank_progression': episode.get('rank_progression', []),
             'questions_and_answers': episode.get('qa_pairs', [])
         }
         tracking_episodes_analysis.append(episode_analysis)
@@ -886,6 +931,7 @@ def run_fixed_questions_experiment(
                 'avg_final_regret': np.mean([r['final_info'].get('regret', 0) for r in all_results if 'regret' in r['final_info']]),
                 'tracking_episodes_avg_regret': np.mean([r['final_info'].get('regret', 0) for r in tracking_episodes_data if 'regret' in r['final_info']]),
                 'normal_episodes_avg_regret': np.mean([r['final_info'].get('regret', 0) for r in normal_episodes_data if 'regret' in r['final_info']]),
+                'avg_chosen_rank': float(np.mean([r['final_info'].get('chosen_rank', np.nan) for r in all_results if r['final_info'].get('chosen_rank') is not None])) if any(r['final_info'].get('chosen_rank') is not None for r in all_results) else None,
                 'total_episodes_planned': target_successful_episodes,
                 'tracking_episode_indices': [1, 5, 10]
             },
