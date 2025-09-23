@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """
-Greedy variant of the Fixed Questions experiment.
+Dynamic Programming variant of the Fixed Questions experiment.
 
-This implements greedy prompting where the agent is explicitly told to:
-"list all the possible products that you think the customer might like, 
-you only have one more question to ask the customer to make the final recommendation, 
-think about what is the best question you could ask?"
+This implements POMDP planning prompting where the agent is explicitly told to:
+"Think like a planner solving a POMDP with a single terminal reward from the score 
+that the customer would assign to what you recommend. Maintain a belief state, 
+estimate expected value of information for each question, and choose the question 
+with highest expected value."
 """
 
 import gymnasium as gym
@@ -22,11 +23,11 @@ from .core.llm_client import chat_completion
 from .wrappers.metrics_wrapper import MetricsWrapper
 
 
-class GreedyFixedQuestionsAgent:
+class DPFixedQuestionsAgent:
     """
-    Agent that asks exactly 10 questions with greedy prompting, then makes a recommendation.
+    Agent that asks exactly 10 questions with POMDP planning prompting, then makes a recommendation.
     On tracking episodes (1, 5, 10), forces recommendation after each question to measure regret progression.
-    On normal episodes, proceed normally like experiment1 but with greedy prompting.
+    On normal episodes, proceed normally like experiment1 but with POMDP planning prompting.
     """
     
     def __init__(self, model: str = "gpt-4o", context_mode: str = "raw"):
@@ -223,21 +224,23 @@ Context:
 
 {questions_context}
 
-CRITICAL GREEDY MODE TASK:
-You have exactly {questions_remaining} question(s) remaining before you must make your final recommendation. 
+Think like a planner solving a POMDP with a **single terminal reward** from the score that the customer would assign to what you recommend. 
+Note that you have {questions_remaining} turn(s) left. 
 
-INTERNAL REASONING (do not share with customer):
-1. Think about which products the customer might like based on what you know so far
-2. Identify what information would be most valuable to distinguish between these candidates
-3. Consider what preference question would help you make the best final recommendation
+1. **Maintain a belief state** — a probability distribution over possible customer preferences given past answers.
+2. For each possible next question:
+   - Predict how each possible answer will **update your belief**.
+   - Estimate how that updated belief will affect your **final recommendation quality**.
+   - Compute the **expected value of information (EVI)** for that question.
+3. Choose the question with the **highest expected value**, even if it has no immediate payoff.
 
 CUSTOMER INTERACTION:
-Ask the single most informative question that would help you make the best final recommendation.
+Ask the question that maximizes expected value of information for your final recommendation.
 
 Your question should:
-- Be the most informative question possible given you only have {questions_remaining} question(s) left
-- Help you distinguish between the products you think the customer might like
-- Focus on the most important decision factor that's still unclear
+- Maximize the expected value of information for your final recommendation
+- Help you update your belief state about customer preferences most effectively
+- Consider how different answers would change your final recommendation strategy
 - Ask about preferences, needs, and requirements - NOT about specific products or product numbers
 
 CRITICAL OUTPUT FORMAT (MUST FOLLOW EXACTLY):
@@ -251,7 +254,7 @@ STRICT RULES:
 - Ask about preferences, not about specific products
 - Example: QUESTION: What's your budget range for this purchase?
 
-Ask your most informative question:"""
+Ask your highest expected value question:"""
 
         try:
             response = chat_completion(
@@ -443,25 +446,25 @@ Rules:
             self.episode_history.append(episode_data)
 
 
-def run_fixed_questions_experiment_greedy(
+def run_fixed_questions_experiment_dp(
     categories: List[str] = None,
     num_categories: int = 10,
     episodes_per_category: int = 1,  # 10 episodes total (10 categories * 1 episode each)
     model: str = "gpt-4o",
     feedback_type: str = "persona",
     min_score_threshold: float = 60.0,
-    output_dir: str = "fixed_questions_greedy_results",
+    output_dir: str = "fixed_questions_dp_results",
     seed: Optional[int] = None,
     context_mode: str = "raw"
 ) -> Dict[str, Any]:
     """
-    Run greedy fixed questions experiment following experiment1 pattern.
+    Run dynamic programming fixed questions experiment following experiment1 pattern.
     
-    - Fixed 10 questions per episode with GREEDY prompting
+    - Fixed 10 questions per episode with POMDP PLANNING prompting
     - 10 episodes total (10 categories * 1 episode each)
     - Fixed persona, changing categories based on seed
     - On episodes 1, 5, 10: force recommendation after each question to track regret progression
-    - On episodes 2,3,4,6,7,8,9: run normally like experiment1 but with greedy prompting
+    - On episodes 2,3,4,6,7,8,9: run normally like experiment1 but with POMDP planning prompting
     - Between episodes: provide regret feedback from final recommendation after 10th question
     
     Args:
@@ -476,13 +479,13 @@ def run_fixed_questions_experiment_greedy(
         context_mode: How to carry context between episodes
     """
     
-    print(f"=== Greedy Fixed Questions Experiment: Persona Elicitation Effectiveness ===")
-    print(f"Fixed questions per episode: 10 (with GREEDY prompting)")
+    print(f"=== Dynamic Programming Fixed Questions Experiment: Persona Elicitation Effectiveness ===")
+    print(f"Fixed questions per episode: 10 (with POMDP PLANNING prompting)")
     target_successful_episodes = num_categories * episodes_per_category
     print(f"Total episodes planned: {target_successful_episodes} (1 per category)")
     print(f"Tracking episodes: 1, 5, 10 (regret after each question)")
     normal_set = [e for e in range(1, target_successful_episodes + 1) if e not in {1, 5, 10}]
-    print(f"Normal episodes: {', '.join(map(str, normal_set))} (standard experiment1 behavior with greedy prompting)")
+    print(f"Normal episodes: {', '.join(map(str, normal_set))} (standard experiment1 behavior with POMDP planning prompting)")
     print(f"Model: {model}, Feedback: {feedback_type}, Context: {context_mode}")
     if seed is not None:
         print(f"Random seed: {seed}")
@@ -553,8 +556,8 @@ def run_fixed_questions_experiment_greedy(
     
     print(f"Categories to test: {len(selected_categories)}")
     
-    # Create greedy agent
-    agent = GreedyFixedQuestionsAgent(
+    # Create DP agent
+    agent = DPFixedQuestionsAgent(
         model=model,
         context_mode=context_mode
     )
@@ -837,11 +840,11 @@ def run_fixed_questions_experiment_greedy(
     model_safe_name = model.replace("/", "_").replace(":", "_")
     feedback_safe_name = feedback_type.replace(" ", "_")
     seed_suffix = f"_seed{seed}" if seed is not None else ""
-    results_file = os.path.join(output_dir, f"fixed_questions_greedy_experiment_{model_safe_name}_{feedback_safe_name}{seed_suffix}.json")
+    results_file = os.path.join(output_dir, f"fixed_questions_dp_experiment_{model_safe_name}_{feedback_safe_name}{seed_suffix}.json")
     
     with open(results_file, 'w') as f:
         json.dump({
-            'experiment': 'Greedy Fixed Questions: Persona Elicitation Effectiveness',
+            'experiment': 'Dynamic Programming Fixed Questions: Persona Elicitation Effectiveness',
             'timestamp': datetime.now().isoformat(),
             'summary': {
                 'total_episodes': len(all_results),
@@ -883,7 +886,7 @@ def run_fixed_questions_experiment_greedy(
     print(f"Individual episode metrics saved to: {output_dir}/episode_*.jsonl")
     
     return {
-        'experiment': 'Greedy Fixed Questions: Persona Elicitation Effectiveness',
+        'experiment': 'Dynamic Programming Fixed Questions: Persona Elicitation Effectiveness',
         'all_results': all_results,
         'category_results': category_results,
         'tracking_episodes_analysis': tracking_episodes_analysis
@@ -891,21 +894,21 @@ def run_fixed_questions_experiment_greedy(
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Greedy Fixed Questions Experiment")
+    parser = argparse.ArgumentParser(description="Dynamic Programming Fixed Questions Experiment")
     parser.add_argument("--categories", nargs="+", help="Categories to test")
     parser.add_argument("--num_categories", type=int, default=10, help="Number of categories (total episodes)")
     parser.add_argument("--episodes_per_category", type=int, default=1, help="Episodes per category (should be 1)")
     parser.add_argument("--model", default="gpt-4o", help="LLM model")
     parser.add_argument("--feedback_type", default="persona", help="Feedback type")
     parser.add_argument("--min_score_threshold", type=float, default=60.0, help="Min score threshold")
-    parser.add_argument("--output_dir", default="fixed_questions_greedy_results", help="Output directory")
+    parser.add_argument("--output_dir", default="fixed_questions_dp_results", help="Output directory")
     parser.add_argument("--seed", type=int, default=None, help="Random seed")
     parser.add_argument("--context_mode", choices=["raw", "summary", "none"], default="raw", 
                        help="Context mode between episodes")
     
     args = parser.parse_args()
     
-    run_fixed_questions_experiment_greedy(
+    run_fixed_questions_experiment_dp(
         categories=args.categories,
         num_categories=args.num_categories,
         episodes_per_category=args.episodes_per_category,

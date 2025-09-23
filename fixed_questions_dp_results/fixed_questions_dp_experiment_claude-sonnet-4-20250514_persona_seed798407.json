@@ -1,6 +1,6 @@
 {
-  "experiment": "Fixed Questions: Persona Elicitation Effectiveness",
-  "timestamp": "2025-09-23T02:30:14.205990",
+  "experiment": "Dynamic Programming Fixed Questions: Persona Elicitation Effectiveness",
+  "timestamp": "2025-09-23T01:54:44.333056",
   "summary": {
     "total_episodes": 10,
     "tracking_episodes": 3,
@@ -17,10 +17,10 @@
       "License Plate Frames",
       "Purse Making Supplies"
     ],
-    "avg_final_regret": 22.15,
-    "tracking_episodes_avg_regret": 9.166666666666666,
-    "normal_episodes_avg_regret": 27.714285714285715,
-    "avg_chosen_rank": 28.3,
+    "avg_final_regret": 34.75,
+    "tracking_episodes_avg_regret": 16.666666666666668,
+    "normal_episodes_avg_regret": 42.5,
+    "avg_chosen_rank": 47.9,
     "total_episodes_planned": 10,
     "tracking_episode_indices": [
       1,
@@ -32,81 +32,19 @@
     {
       "episode": 1,
       "category": "Contact Lens Care Products",
-      "final_regret": 20.0,
-      "final_rank": 8,
+      "final_regret": 35.0,
+      "final_rank": 15,
       "regret_progression": [
         20.0,
         20.0,
         72.5,
         20.0,
         20.0,
+        35.0,
         20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0
-      ],
-      "confidence_progression": [
-        {
-          "confidence_favorite_prob": 0.7,
-          "confidence_top5_prob": 0.9,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.2,
-          "confidence_top5_prob": 0.8,
-          "confidence_expected_score": 70.0,
-          "confidence_expected_regret": 30.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 50.0,
-          "confidence_expected_regret": 50.0
-        },
-        {
-          "confidence_favorite_prob": 0.7,
-          "confidence_top5_prob": 0.9,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.7,
-          "confidence_top5_prob": 0.9,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.8,
-          "confidence_top5_prob": 0.95,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.85,
-          "confidence_top5_prob": 0.95,
-          "confidence_expected_score": 90.0,
-          "confidence_expected_regret": 10.0
-        },
-        {
-          "confidence_favorite_prob": 0.8,
-          "confidence_top5_prob": 0.95,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.7,
-          "confidence_top5_prob": 0.9,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.8,
-          "confidence_top5_prob": 0.95,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        }
+        35.0,
+        35.0,
+        35.0
       ],
       "rank_progression": [
         8,
@@ -114,52 +52,52 @@
         18,
         8,
         8,
+        15,
         8,
-        8,
-        8,
-        8,
-        8
+        15,
+        15,
+        15
       ],
       "questions_and_answers": [
         [
-          "Are you looking for a contact lens care product that is more travel-friendly or one that is better suited for home use?",
-          "I'm looking for a contact lens care product that is more travel-friendly."
+          "What is your primary need - are you looking for contact lens storage cases, cleaning solutions, or insertion/removal tools?",
+          "Cleaning solutions."
         ],
         [
-          "What's your budget range for this contact lens care product?",
-          "My budget range is $20 to $30."
+          "What type of contact lenses do you wear - daily disposables, weekly/monthly lenses, or hard/gas permeable lenses?",
+          "I wear daily disposables."
         ],
         [
-          "Do you have any specific brand preferences or features you are looking for in a contact lens care product?",
-          "I prefer eco-friendly contact lens care products with minimal packaging and biodegradable materials."
+          "Do you need cleaning solutions for occasional use when your daily lenses get dirty during the day, or are you looking for multipurpose solutions for extended lens care?",
+          "I need cleaning solutions for occasional use when my daily lenses get dirty during the day."
         ],
         [
-          "How often do you plan to use the contact lens care product while traveling?",
-          "I plan to use the contact lens care product daily while traveling."
+          "Do you have sensitive eyes or any allergies that require preservative-free or hypoallergenic cleaning solutions?",
+          "I do prefer hypoallergenic cleaning solutions to avoid any potential irritations."
         ],
         [
-          "Do you prefer a multi-purpose solution or a hydrogen peroxide-based solution for your contact lens care needs?",
-          "I prefer a hydrogen peroxide-based solution for my contact lens care needs."
+          "What's your budget range for contact lens cleaning solutions?",
+          "I typically budget around $10 to $15 for contact lens cleaning solutions."
         ],
         [
-          "Do you have a preference for a specific size or volume for the contact lens care product to ensure it fits well in your travel bag?",
-          "I prefer a compact size that easily fits into my travel bag."
+          "Do you prefer single-use saline vials for portability or larger bottles with rewetting drops that you can use multiple times throughout the day?",
+          "I prefer single-use saline vials for portability."
         ],
         [
-          "Are you looking for a specific brand or manufacturer for the hydrogen peroxide-based solution?",
-          "No specific brand in mind."
+          "Do you have a preferred brand or manufacturer for contact lens solutions based on past positive experiences?",
+          "BioTrue by Bausch + Lomb."
         ],
         [
-          "Do you need the contact lens care product to be TSA-approved for carry-on luggage?",
-          "Yes."
+          "Do you need the cleaning solution to be compatible with any specific lens materials or coatings, such as silicone hydrogel or UV-blocking lenses?",
+          "Yes, it should be compatible with UV-blocking lenses."
         ],
         [
-          "Do you need the contact lens care product to include a lens case for convenience while traveling?",
-          "Yes."
+          "How often do you typically need to clean your daily lenses during the day - just occasionally when something gets in your eye, or do you find yourself needing to clean them multiple times throughout the day?",
+          "Just occasionally when something gets in my eye."
         ],
         [
-          "Do you have a preference for a specific scent or fragrance-free option for the contact lens care product?",
-          "Fragrance-free option."
+          "Do you need the cleaning solution to work quickly for immediate relief, or is gentle cleaning over a longer period more important to you?",
+          "Gentle cleaning over a longer period is more important to me."
         ]
       ]
     },
@@ -169,85 +107,23 @@
       "final_regret": 5.0,
       "final_rank": 4,
       "regret_progression": [
-        47.5,
-        47.5,
-        0.0,
         5.0,
-        0.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0,
         5.0,
         5.0,
         5.0,
         5.0,
         5.0
       ],
-      "confidence_progression": [
-        {
-          "confidence_favorite_prob": 0.3,
-          "confidence_top5_prob": 0.7,
-          "confidence_expected_score": 75.0,
-          "confidence_expected_regret": 25.0
-        },
-        {
-          "confidence_favorite_prob": 0.3,
-          "confidence_top5_prob": 0.7,
-          "confidence_expected_score": 70.0,
-          "confidence_expected_regret": 30.0
-        },
-        {
-          "confidence_favorite_prob": 0.2,
-          "confidence_top5_prob": 0.6,
-          "confidence_expected_score": 75.0,
-          "confidence_expected_regret": 25.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 60.0,
-          "confidence_expected_regret": 40.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        }
-      ],
       "rank_progression": [
-        16,
-        16,
-        1,
         4,
-        1,
+        4,
+        4,
+        4,
+        4,
         4,
         4,
         4,
@@ -256,178 +132,116 @@
       ],
       "questions_and_answers": [
         [
-          "Are you looking for a product that focuses more on eyelash growth or enhancing the appearance of your lashes with a lift or curl?",
-          "Enhancing the appearance of my lashes with a lift or curl."
+          "What is your primary intended use for lash enhancers or primers - daily makeup routine enhancement, special occasion glamour, addressing specific lash concerns like thinness or shortness, or supporting natural lash health and growth?",
+          "Supporting natural lash health and growth."
         ],
         [
-          "What's your budget range for a lash enhancer or primer?",
-          "My budget range for a lash enhancer or primer is around $20 to $30."
+          "What's your budget range for lash enhancers or primers?",
+          "I typically look for options under $30."
         ],
         [
-          "Do you prefer a lash enhancer or primer that is waterproof or easy to remove with regular makeup remover?",
-          "Easy to remove with regular makeup remover."
+          "Do you have any specific ingredients or formulations you prefer to avoid in lash products, such as prostaglandins, parabens, sulfates, or synthetic fragrances, especially given your focus on natural lash health?",
+          "I prefer to avoid parabens, sulfates, and synthetic fragrances in lash products."
         ],
         [
-          "Do you have a preference for a specific brand or ingredient that you trust or have had good experiences with in lash enhancers or primers?",
-          "I prefer using natural and eco-friendly brands, like Honest Beauty, for lash enhancers or primers."
+          "Do you prefer lash enhancers and primers that are certified organic or made with natural/plant-based ingredients, or are you primarily focused on avoiding specific harmful ingredients regardless of whether the product is labeled as natural or organic?",
+          "I prefer lash enhancers and primers that are certified organic or made with natural/plant-based ingredients."
         ],
         [
-          "Do you prefer a lash enhancer or primer that adds volume, length, or both to your lashes?",
-          "I prefer a lash enhancer that adds both volume and length to my lashes."
+          "What is your preferred application method for lash products - do you prefer a clear formula that can be used alone or under mascara, a tinted formula that provides some color enhancement, or do you have no preference as long as the product supports natural lash health?",
+          "I have no preference as long as the product supports natural lash health."
         ],
         [
-          "Do you prefer a lash enhancer or primer that is suitable for sensitive eyes or contact lens wearers?",
-          "I prefer a lash enhancer that is suitable for sensitive eyes."
+          "How long are you typically willing to wait to see results from a lash health product - are you looking for immediate visible effects within days, gradual improvement over weeks, or are you patient enough to wait months for long-term natural lash growth and health benefits?",
+          "I'm patient enough to wait months for long-term natural lash growth and health benefits."
         ],
         [
-          "Do you prefer a lash enhancer or primer that has a specific scent or is fragrance-free?",
-          "Fragrance-free."
+          "Do you have any specific brand preferences for natural or organic lash products, or are you more interested in knowing about specific certifications or ingredient standards (like USDA Organic, cruelty-free, or vegan certifications) that you prioritize when making your decision?",
+          "I'm more interested in knowing about specific certifications like USDA Organic and cruelty-free."
         ],
         [
-          "Do you prefer a lash enhancer or primer that comes in a specific type of applicator, like a brush or wand?",
-          "I prefer a lash enhancer or primer that comes with a wand applicator."
+          "Given that all available products in our current inventory are priced under $0.03 and lack detailed ingredient or certification information, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your organic certification and natural ingredient requirements?",
+          "I would rather wait to find products elsewhere that better meet my organic certification and natural ingredient requirements."
         ],
         [
-          "Do you prefer a lash enhancer or primer that is vegan and cruelty-free?",
-          "I prefer a lash primer that is vegan and cruelty-free."
+          "Since you prefer to wait for products that meet your organic certification requirements, would you be open to receiving information about specific ingredient categories or natural compounds (like peptides, botanical extracts, or vitamins) that are most effective for lash health so you can look for these when shopping elsewhere?",
+          "Yes."
         ],
         [
-          "Do you prefer a lash enhancer or primer that has a specific color or is clear?",
-          "Clear."
+          "What specific natural compounds or botanical ingredients are you most interested in learning about for lash health - peptides that stimulate growth, vitamin-rich oils like castor or argan oil, plant extracts like ginseng or green tea, or amino acids and proteins that strengthen lash structure?",
+          "Vitamin-rich oils like castor or argan oil."
         ]
       ]
     },
     {
       "episode": 10,
       "category": "Purse Making Supplies",
-      "final_regret": 2.5,
-      "final_rank": 3,
+      "final_regret": 10.0,
+      "final_rank": 15,
       "regret_progression": [
-        15.0,
-        15.0,
-        15.0,
-        15.0,
-        15.0,
-        15.0,
-        15.0,
-        2.5,
-        2.5,
-        2.5
-      ],
-      "confidence_progression": [
-        {
-          "confidence_favorite_prob": 0.6,
-          "confidence_top5_prob": 0.8,
-          "confidence_expected_score": 75.0,
-          "confidence_expected_regret": 25.0
-        },
-        {
-          "confidence_favorite_prob": 0.6,
-          "confidence_top5_prob": 0.9,
-          "confidence_expected_score": 75.0,
-          "confidence_expected_regret": 25.0
-        },
-        {
-          "confidence_favorite_prob": 0.6,
-          "confidence_top5_prob": 0.9,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.6,
-          "confidence_top5_prob": 0.9,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.6,
-          "confidence_top5_prob": 0.8,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.6,
-          "confidence_top5_prob": 0.8,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.75,
-          "confidence_top5_prob": 0.9,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        }
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0
       ],
       "rank_progression": [
-        18,
-        18,
-        18,
-        18,
-        18,
-        18,
-        18,
-        3,
-        3,
-        3
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15
       ],
       "questions_and_answers": [
         [
-          "Are you looking for a specific type of purse making supply, such as chains, straps, or hooks, to complete your project?",
-          "I'm not currently working on a purse-making project, but if I were, I'd likely be interested in eco-friendly materials."
+          "What is your primary intended use for purse making supplies - creating a completely new handbag from scratch, repairing or refurbishing an existing purse, or replacing specific components like straps or hardware on a current bag?",
+          "Creating a completely new handbag from scratch."
         ],
         [
-          "Are you looking for purse making supplies that are specifically made from eco-friendly or sustainable materials?",
-          "Yes."
+          "What's your budget range for purse making supplies?",
+          "I typically budget around $50 to $100 for purse making supplies."
         ],
         [
-          "What's your budget range for eco-friendly purse making supplies?",
-          "My budget range for eco-friendly purse making supplies is $50 to $100."
+          "What type of handbag are you planning to create - a tote bag, crossbody bag, clutch, backpack, or another specific style?",
+          "Tote bag."
         ],
         [
-          "Do you have a preference for any specific type of eco-friendly material, like recycled fabric or natural fibers, for your purse making supplies?",
-          "Natural fibers."
+          "What specific materials do you prefer for your tote bag - leather, canvas, denim, synthetic materials, or eco-friendly/sustainable fabrics like organic cotton or recycled materials?",
+          "Eco-friendly/sustainable fabrics like organic cotton or recycled materials."
         ],
         [
-          "Do you have a preference for any specific colors or patterns in the natural fiber purse making supplies you are looking for?",
-          "I prefer earthy tones and nature-inspired patterns."
+          "What is your experience level with purse making - are you a complete beginner who would need basic tools and step-by-step instructions, an intermediate crafter with some sewing experience, or an advanced maker who already has most tools and just needs specific specialty supplies?",
+          "I'm an intermediate crafter with some sewing experience."
         ],
         [
-          "Are you looking for any specific types of purse making supplies, like handles, clasps, or fabric, that are made from natural fibers and come in earthy tones or nature-inspired patterns?",
-          "Yes, I'm looking for fabric made from natural fibers in earthy tones."
+          "Given that all available purse making supplies in our current inventory are priced under $0.02 (significantly lower than your $50-$100 budget) and lack detailed descriptions about materials, eco-friendly certifications, or specific components needed for tote bag construction, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and sustainable material requirements?",
+          "I would rather wait to find products elsewhere that better meet my budget range and sustainable material requirements."
         ],
         [
-          "Are you looking for a specific texture or weave in the natural fiber fabric for your purse-making project?",
-          "Yes, I'm looking for a sturdy canvas weave."
+          "Since you prefer to wait for products that better meet your budget and sustainable material requirements, would you be interested in exploring eco-friendly gardening tools or sustainable outdoor gear instead, given your environmental focus?",
+          "Yes, I would be interested in exploring eco-friendly gardening tools."
         ],
         [
-          "Are you looking for any specific brand or certification that ensures the natural fiber fabric is eco-friendly and sustainably sourced?",
-          "GOTS (Global Organic Textile Standard) certification."
+          "What specific types of eco-friendly gardening tools are you most interested in - hand tools like trowels and pruners, watering equipment, soil preparation tools, or composting supplies?",
+          "Composting supplies."
         ],
         [
-          "Are you looking for any specific size or dimensions for the natural fiber fabric in your purse-making project?",
-          "Yes, I'd like to find fabric that is approximately 18\" x 18\"."
+          "What's your budget range for composting supplies?",
+          "I aim to keep my budget for composting supplies around $50 to $100."
         ],
         [
-          "Are you looking for any specific brands or manufacturers known for their eco-friendly and sustainable practices in purse making supplies?",
-          "I'm interested in Corkor for their eco-friendly cork products."
+          "What type of composting system are you most interested in - a traditional outdoor compost bin, a tumbler composter for faster decomposition, an indoor worm composting system, or composting accessories like thermometers and turning tools?",
+          "A traditional outdoor compost bin."
         ]
       ]
     }
@@ -436,7 +250,7 @@
     "persona_index": 34087,
     "categories": null,
     "episodes_per_category": 1,
-    "model": "gpt-4o",
+    "model": "claude-sonnet-4-20250514",
     "feedback_type": "persona",
     "context_mode": "raw",
     "seed": 798407,
@@ -452,67 +266,99 @@
       "category": "Contact Lens Care Products",
       "dialog": [
         [
-          "Are you looking for a contact lens care product that is more travel-friendly or one that is better suited for home use?",
-          "I'm looking for a contact lens care product that is more travel-friendly."
+          "What is your primary need - are you looking for contact lens storage cases, cleaning solutions, or insertion/removal tools?",
+          "Cleaning solutions."
         ],
         [
-          "What's your budget range for this contact lens care product?",
-          "My budget range is $20 to $30."
+          "What type of contact lenses do you wear - daily disposables, weekly/monthly lenses, or hard/gas permeable lenses?",
+          "I wear daily disposables."
         ],
         [
-          "Do you have any specific brand preferences or features you are looking for in a contact lens care product?",
-          "I prefer eco-friendly contact lens care products with minimal packaging and biodegradable materials."
+          "Do you need cleaning solutions for occasional use when your daily lenses get dirty during the day, or are you looking for multipurpose solutions for extended lens care?",
+          "I need cleaning solutions for occasional use when my daily lenses get dirty during the day."
         ],
         [
-          "How often do you plan to use the contact lens care product while traveling?",
-          "I plan to use the contact lens care product daily while traveling."
+          "Do you have sensitive eyes or any allergies that require preservative-free or hypoallergenic cleaning solutions?",
+          "I do prefer hypoallergenic cleaning solutions to avoid any potential irritations."
         ],
         [
-          "Do you prefer a multi-purpose solution or a hydrogen peroxide-based solution for your contact lens care needs?",
-          "I prefer a hydrogen peroxide-based solution for my contact lens care needs."
+          "What's your budget range for contact lens cleaning solutions?",
+          "I typically budget around $10 to $15 for contact lens cleaning solutions."
         ],
         [
-          "Do you have a preference for a specific size or volume for the contact lens care product to ensure it fits well in your travel bag?",
-          "I prefer a compact size that easily fits into my travel bag."
+          "Do you prefer single-use saline vials for portability or larger bottles with rewetting drops that you can use multiple times throughout the day?",
+          "I prefer single-use saline vials for portability."
         ],
         [
-          "Are you looking for a specific brand or manufacturer for the hydrogen peroxide-based solution?",
-          "No specific brand in mind."
+          "Do you have a preferred brand or manufacturer for contact lens solutions based on past positive experiences?",
+          "BioTrue by Bausch + Lomb."
         ],
         [
-          "Do you need the contact lens care product to be TSA-approved for carry-on luggage?",
-          "Yes."
+          "Do you need the cleaning solution to be compatible with any specific lens materials or coatings, such as silicone hydrogel or UV-blocking lenses?",
+          "Yes, it should be compatible with UV-blocking lenses."
         ],
         [
-          "Do you need the contact lens care product to include a lens case for convenience while traveling?",
-          "Yes."
+          "How often do you typically need to clean your daily lenses during the day - just occasionally when something gets in your eye, or do you find yourself needing to clean them multiple times throughout the day?",
+          "Just occasionally when something gets in my eye."
         ],
         [
-          "Do you have a preference for a specific scent or fragrance-free option for the contact lens care product?",
-          "Fragrance-free option."
+          "Do you need the cleaning solution to work quickly for immediate relief, or is gentle cleaning over a longer period more important to you?",
+          "Gentle cleaning over a longer period is more important to me."
         ]
       ],
-      "selected_product_id": 80752,
-      "selected_product_name": "Menicon Unique pH Multi-Purpose Solution 4 Oz, Unique pH Travel Pack 2.5 Oz and DMV Scleral Cup Large Contact Lens Handler, Remover Bundle of 3 Items",
-      "feedback": "I appreciate the suggestion, but I was actually looking for a more eco-friendly contact lens solution, something with sustainable packaging or refill options would be ideal. Thanks for trying to help, though!",
-      "regret": 20.0
+      "selected_product_id": 77626,
+      "selected_product_name": "Cute Fashion Contact Lens Case,Portable Travel Glitter Luxury Bling Stars Liquid Quicksand Contact Lens Cases Eye Care Set(Black-2)",
+      "feedback": "Oh, this isn't quite what I was looking for\u2014I was hoping for something more practical and eco-friendly, maybe a reusable water bottle or a sustainable travel accessory. I appreciate the thought, but glittery contact lens cases just aren't really my style.",
+      "regret": 35.0
     },
     {
       "episode": 2,
       "category": "Cooking & Baking Oils",
       "dialog": [
         [
-          "Do you have a preference for a specific type of oil, such as olive oil, coconut oil, or a specialty oil like truffle or sesame oil?",
+          "What is your primary intended use for cooking oil - everyday cooking, special occasion dishes, or health-focused meal preparation?",
+          "Health-focused meal preparation."
+        ],
+        [
+          "What specific health benefits are you looking for in a cooking oil - heart health, weight management, anti-inflammatory properties, or high nutrient content?",
+          "Heart health."
+        ],
+        [
+          "What's your budget range for cooking oil purchases?",
+          "I typically budget around $10 to $15 for cooking oil purchases."
+        ],
+        [
+          "Do you have any dietary restrictions or preferences that would influence your cooking oil choice, such as following a Mediterranean diet, avoiding certain types of fats, or preferring organic products?",
+          "I prefer using organic products and tend to choose oils that are environmentally sustainable."
+        ],
+        [
+          "What cooking methods do you primarily use - high-heat techniques like stir-frying and searing, medium-heat methods like saut\u00e9ing and baking, or low-heat approaches like gentle simmering and salad dressings?",
+          "Low-heat approaches like gentle simmering and salad dressings."
+        ],
+        [
+          "What type of oil do you prefer for your heart-healthy cooking - olive oil, avocado oil, or other plant-based oils like flaxseed or walnut oil?",
           "Olive oil."
         ],
         [
-          "What's your budget range for purchasing olive oil?",
-          "I typically budget around $15 to $20 for a good quality olive oil."
+          "Do you prefer extra virgin olive oil for its stronger flavor and higher antioxidant content, or do you prefer lighter olive oils like pure or light olive oil for their milder taste and versatility?",
+          "I prefer extra virgin olive oil for its stronger flavor and higher antioxidant content."
+        ],
+        [
+          "What size or quantity of extra virgin olive oil do you typically prefer to purchase - smaller bottles for freshness, larger bottles for value, or do you have a specific volume preference?",
+          "Smaller bottles for freshness."
+        ],
+        [
+          "Do you have any specific flavor preferences for your extra virgin olive oil - do you prefer a mild, buttery taste, a robust peppery finish, or a fruity Mediterranean flavor profile?",
+          "I prefer a robust peppery finish."
+        ],
+        [
+          "Do you have any specific country or region of origin preference for your extra virgin olive oil, such as Italian, Greek, Spanish, or California oils, as different regions can affect the peppery intensity and overall quality you're seeking?",
+          "I prefer California oils."
         ]
       ],
       "selected_product_id": 75260,
       "selected_product_name": "Kasandrinos Organic HUGE 3 LITER Extra Virgin Greek Olive Oil Pack of Two",
-      "feedback": "I appreciate the suggestion of the Kasandrinos Organic Olive Oil, but I was actually hoping to find something a bit more locally sourced, ideally from a small Oregon producer. I love supporting regional businesses, especially those that prioritize sustainable practices.",
+      "feedback": "Thanks for the suggestion! I always appreciate a good quality olive oil, but I was actually looking for a smaller, locally-sourced option that aligns more with my efforts to support regional producers and reduce my carbon footprint.",
       "regret": 20.0
     },
     {
@@ -520,13 +366,49 @@
       "category": "Religious Worship & Devotion",
       "dialog": [
         [
-          "Are you looking for a devotional product that focuses on a specific theme or message, such as love, grace, or daily reflections?",
-          "I'm not currently looking for a devotional product."
+          "What is your primary purpose for seeking religious or devotional materials - personal daily reflection and prayer, spiritual study and learning, or inspirational reading for comfort and guidance?",
+          "Personal daily reflection and prayer."
+        ],
+        [
+          "What format do you prefer for your daily reflection and prayer materials - physical books or journals you can write in, digital apps or e-books for convenience, or audio content you can listen to?",
+          "Physical books or journals I can write in."
+        ],
+        [
+          "What type of content do you prefer for your daily reflection and prayer - structured guided prayers and devotions, blank or lightly prompted journal pages for free-form writing, or a combination of both guided content and open writing space?",
+          "A combination of both guided content and open writing space."
+        ],
+        [
+          "What's your budget range for religious or devotional materials?",
+          "I generally focus my budget on environmental and community projects rather than religious or devotional materials."
+        ],
+        [
+          "Do you prefer devotional materials that focus on a specific religious tradition or faith, or are you more interested in interfaith or universal spiritual content that draws from multiple traditions?",
+          "I am more interested in interfaith or universal spiritual content that draws from multiple traditions."
+        ],
+        [
+          "What time of day do you typically prefer to do your daily reflection and prayer - morning to start your day with intention, evening to reflect on the day's experiences, or do you prefer flexibility to use it at different times depending on your schedule?",
+          "Morning to start my day with intention."
+        ],
+        [
+          "What size or format do you prefer for your devotional journal - a compact pocket-sized book you can carry with you throughout the day, a standard-sized journal for your home morning routine, or a larger format with more writing space per page?",
+          "A standard-sized journal for my home morning routine."
+        ],
+        [
+          "Do you prefer devotional materials that are produced by environmentally conscious publishers using sustainable practices and recycled materials, or is the environmental impact of the product not a primary concern for you?",
+          "I prefer devotional materials that are produced by environmentally conscious publishers using sustainable practices and recycled materials."
+        ],
+        [
+          "Given your preference for environmentally conscious materials and limited budget for devotional items, would you be willing to consider a very low-cost option (under $0.05) if it met your other requirements for interfaith content and journaling space, or would you prefer to invest more in a higher-quality sustainable product even if it means spending more than you typically would on devotional materials?",
+          "I would prefer to invest more in a higher-quality sustainable product."
+        ],
+        [
+          "What is the maximum amount you would be willing to spend on a high-quality, sustainably-produced interfaith devotional journal that combines guided content with writing space?",
+          "I would be willing to spend up to $50 on a high-quality, sustainably-produced interfaith devotional journal."
         ]
       ],
-      "selected_product_id": 47283,
-      "selected_product_name": "A Daily Walk Through the New Testament",
-      "feedback": "Oh, this isn't quite what I was hoping for\u2014I'm actually looking for books focused on permaculture techniques or eco-friendly gardening tips. I'm always eager to learn new ways to make my garden more sustainable!",
+      "selected_product_id": 46768,
+      "selected_product_name": "Holy Ground",
+      "feedback": "Oh, I'm really sorry, but Holy Ground isn't quite what I was looking for. I was actually hoping for something more focused on eco-friendly gardening tools or sustainable outdoor gear to support my permaculture projects.",
       "regret": 47.5
     },
     {
@@ -534,67 +416,99 @@
       "category": "Laptop Backpacks",
       "dialog": [
         [
-          "What size laptop do you need the backpack to accommodate?",
-          "15-inch laptop."
+          "What is your primary intended use for a laptop backpack - daily work commuting, college classes, travel, or outdoor activities like hiking?",
+          "Daily work commuting."
         ],
         [
           "What's your budget range for a laptop backpack?",
-          "Around $100 to $150."
+          "I'd say around $100 to $150."
+        ],
+        [
+          "What laptop screen size do you typically carry, and do you need the backpack to accommodate any additional work equipment like chargers, documents, or external accessories?",
+          "I typically carry a 13-inch laptop, and I do need the backpack to accommodate additional work equipment like chargers, documents, and sometimes an external mouse."
+        ],
+        [
+          "Do you have any specific preferences for backpack materials or construction features, such as water-resistant fabric, padded laptop compartments, ergonomic straps, or sustainable/eco-friendly materials?",
+          "Sustainable/eco-friendly materials."
+        ],
+        [
+          "How important is it that the backpack has specific organizational features like multiple compartments, dedicated pockets for different items, or would you prefer a simpler design with fewer but larger compartments?",
+          "I prefer a backpack with specific organizational features like multiple compartments and dedicated pockets for different items."
+        ],
+        [
+          "Do you prefer a backpack with a more professional business appearance for office environments, or would you be comfortable with a more casual/outdoor style as long as it meets your sustainability and organizational requirements?",
+          "I would be comfortable with a more casual/outdoor style as long as it meets my sustainability and organizational requirements."
+        ],
+        [
+          "What is the maximum weight you're comfortable carrying for your daily work commute, and do you have any back or shoulder issues that would require specific ergonomic features like extra padding or weight distribution systems?",
+          "The maximum weight I'm comfortable carrying for my daily work commute is about 15 pounds, and I don't have any back or shoulder issues, but I do prefer ergonomic features for comfort."
+        ],
+        [
+          "Do you have any specific color or aesthetic preferences for your backpack, such as earth tones that reflect your environmental values, or would you prioritize function over appearance as long as the materials are sustainable?",
+          "I would prioritize function over appearance as long as the materials are sustainable."
+        ],
+        [
+          "Do you have any specific brand preferences for sustainable backpack manufacturers, or would you prefer to know about specific sustainability certifications or materials (like recycled polyester, organic cotton, or carbon-neutral manufacturing) that you prioritize when making your decision?",
+          "I prefer to know about specific sustainability certifications or materials, like recycled polyester or carbon-neutral manufacturing."
+        ],
+        [
+          "Given that none of the available laptop backpacks in our current inventory appear to meet your budget range of $100-$150 or sustainability requirements, would you be willing to consider a very low-cost option under $0.20 as a temporary solution while you search elsewhere for a sustainable backpack that better matches your needs?",
+          "No, I would prefer to wait and find a sustainable option that aligns with my values."
         ]
       ],
-      "selected_product_id": 67404,
-      "selected_product_name": "Kipling Women's Seoul GO XL Black Laptop Backpack, One Size",
-      "feedback": "Oh, I really love the look and functionality of the Kipling Women's Seoul GO XL laptop backpack, especially for when I'm juggling work stuff and outdoor adventures. If it had a dedicated water bottle pocket, it would be absolutely perfect for my hikes and gardening days!",
-      "regret": 1.5
+      "selected_product_id": 66515,
+      "selected_product_name": "AUGUR Travel Laptop Backpack",
+      "feedback": "Oh, I was really hoping for something more eco-friendly and sustainable, maybe made from recycled materials. I try to be mindful of my purchases and prioritize products that align with my values, especially when it comes to supporting the planet.",
+      "regret": 62.5
     },
     {
       "episode": 5,
       "category": "Lash Enhancers & Primers",
       "dialog": [
         [
-          "Are you looking for a product that focuses more on eyelash growth or enhancing the appearance of your lashes with a lift or curl?",
-          "Enhancing the appearance of my lashes with a lift or curl."
+          "What is your primary intended use for lash enhancers or primers - daily makeup routine enhancement, special occasion glamour, addressing specific lash concerns like thinness or shortness, or supporting natural lash health and growth?",
+          "Supporting natural lash health and growth."
         ],
         [
-          "What's your budget range for a lash enhancer or primer?",
-          "My budget range for a lash enhancer or primer is around $20 to $30."
+          "What's your budget range for lash enhancers or primers?",
+          "I typically look for options under $30."
         ],
         [
-          "Do you prefer a lash enhancer or primer that is waterproof or easy to remove with regular makeup remover?",
-          "Easy to remove with regular makeup remover."
+          "Do you have any specific ingredients or formulations you prefer to avoid in lash products, such as prostaglandins, parabens, sulfates, or synthetic fragrances, especially given your focus on natural lash health?",
+          "I prefer to avoid parabens, sulfates, and synthetic fragrances in lash products."
         ],
         [
-          "Do you have a preference for a specific brand or ingredient that you trust or have had good experiences with in lash enhancers or primers?",
-          "I prefer using natural and eco-friendly brands, like Honest Beauty, for lash enhancers or primers."
+          "Do you prefer lash enhancers and primers that are certified organic or made with natural/plant-based ingredients, or are you primarily focused on avoiding specific harmful ingredients regardless of whether the product is labeled as natural or organic?",
+          "I prefer lash enhancers and primers that are certified organic or made with natural/plant-based ingredients."
         ],
         [
-          "Do you prefer a lash enhancer or primer that adds volume, length, or both to your lashes?",
-          "I prefer a lash enhancer that adds both volume and length to my lashes."
+          "What is your preferred application method for lash products - do you prefer a clear formula that can be used alone or under mascara, a tinted formula that provides some color enhancement, or do you have no preference as long as the product supports natural lash health?",
+          "I have no preference as long as the product supports natural lash health."
         ],
         [
-          "Do you prefer a lash enhancer or primer that is suitable for sensitive eyes or contact lens wearers?",
-          "I prefer a lash enhancer that is suitable for sensitive eyes."
+          "How long are you typically willing to wait to see results from a lash health product - are you looking for immediate visible effects within days, gradual improvement over weeks, or are you patient enough to wait months for long-term natural lash growth and health benefits?",
+          "I'm patient enough to wait months for long-term natural lash growth and health benefits."
         ],
         [
-          "Do you prefer a lash enhancer or primer that has a specific scent or is fragrance-free?",
-          "Fragrance-free."
+          "Do you have any specific brand preferences for natural or organic lash products, or are you more interested in knowing about specific certifications or ingredient standards (like USDA Organic, cruelty-free, or vegan certifications) that you prioritize when making your decision?",
+          "I'm more interested in knowing about specific certifications like USDA Organic and cruelty-free."
         ],
         [
-          "Do you prefer a lash enhancer or primer that comes in a specific type of applicator, like a brush or wand?",
-          "I prefer a lash enhancer or primer that comes with a wand applicator."
+          "Given that all available products in our current inventory are priced under $0.03 and lack detailed ingredient or certification information, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your organic certification and natural ingredient requirements?",
+          "I would rather wait to find products elsewhere that better meet my organic certification and natural ingredient requirements."
         ],
         [
-          "Do you prefer a lash enhancer or primer that is vegan and cruelty-free?",
-          "I prefer a lash primer that is vegan and cruelty-free."
+          "Since you prefer to wait for products that meet your organic certification requirements, would you be open to receiving information about specific ingredient categories or natural compounds (like peptides, botanical extracts, or vitamins) that are most effective for lash health so you can look for these when shopping elsewhere?",
+          "Yes."
         ],
         [
-          "Do you prefer a lash enhancer or primer that has a specific color or is clear?",
-          "Clear."
+          "What specific natural compounds or botanical ingredients are you most interested in learning about for lash health - peptides that stimulate growth, vitamin-rich oils like castor or argan oil, plant extracts like ginseng or green tea, or amino acids and proteins that strengthen lash structure?",
+          "Vitamin-rich oils like castor or argan oil."
         ]
       ],
       "selected_product_id": 34468,
       "selected_product_name": "VitaLash Natural Eyelash Serum to Grow Lashes - Eyebrow Growth Serum for thicker brows - 100% Vegan and Organic Castor Oil - Advance Lash Booster - Safe & Irritation Free Formula",
-      "feedback": "Oh, this VitaLash serum looks fantastic, especially since it's vegan and organic\u2014right up my alley! If it had a bit more focus on sustainable packaging, it would be absolutely perfect for me.",
+      "feedback": "Oh, this VitaLash serum sounds wonderful, especially since it's vegan and organic, which aligns with my values. I just wish it had a bit more information on its sustainability practices, as I try to support companies that prioritize eco-friendly packaging.",
       "regret": 5.0
     },
     {
@@ -602,89 +516,89 @@
       "category": "Musicals & Performing Arts",
       "dialog": [
         [
-          "Are you interested in a specific type of performance, such as opera, ballet, or a concert, for your Musicals & Performing Arts product?",
-          "I am interested in a concert."
+          "What is your primary interest in musicals and performing arts - are you looking for classical opera and ballet performances, contemporary musical theater and Broadway shows, educational content about music and dance, or live concert recordings?",
+          "Contemporary musical theater and Broadway shows."
         ],
         [
-          "What's your budget range for a concert-related Musicals & Performing Arts product?",
-          "My budget range is around $50 to $100."
+          "What's your budget range for musicals and performing arts products?",
+          "My budget range for musicals and performing arts products is around $50 to $100 per ticket."
+        ],
+        [
+          "Do you prefer to purchase or rent musical theater and Broadway show content, or are you looking for subscription-based streaming services that offer access to multiple shows?",
+          "I prefer subscription-based streaming services that offer access to multiple shows."
+        ],
+        [
+          "Are you looking for streaming services that specialize exclusively in Broadway and musical theater content, or would you prefer a general entertainment platform that includes musicals along with other types of shows and movies?",
+          "I would prefer a general entertainment platform that includes musicals along with other types of shows and movies."
+        ],
+        [
+          "What devices do you primarily use to watch streaming content - smart TV, laptop/computer, tablet, smartphone, or a combination of these?",
+          "Smart TV."
+        ],
+        [
+          "Given that all available products in our inventory are priced under $0.25 (much lower than typical streaming service costs), would you be interested in exploring these very low-cost digital content options, or would you prefer to look elsewhere for traditional subscription streaming services that better match your expected price range?",
+          "I would prefer to look elsewhere for traditional subscription streaming services that better match my expected price range."
         ]
       ],
-      "selected_product_id": 99987,
-      "selected_product_name": "Introduction To Bass Guitar DVD",
-      "feedback": "Oh, this isn't quite what I was looking for. I was hoping for something more aligned with sustainable gardening or eco-friendly home improvements, not a bass guitar tutorial.",
-      "regret": 37.5
+      "selected_product_id": 94642,
+      "selected_product_name": "30th Anniversary Gala Concert / Pavarotti, Verrett, Sabbatini, Anderson, Cappuccilli, Kabaivanska, Furlanetto, Teatro Valli in Reggio Emilia Opera",
+      "feedback": "Oh, the 30th Anniversary Gala Concert sounds interesting, but I was actually hoping to find something more focused on nature sounds or ambient music that I can play while gardening or painting.",
+      "regret": 17.5
     },
     {
       "episode": 7,
       "category": "Baby Stroller Bunting Bags",
       "dialog": [
         [
-          "Are you looking for a bunting bag with specific features like water repellency or a removable top cover for different weather conditions?",
-          "Yes, I'm looking for a bunting bag with water repellency."
+          "What is your primary intended use for a baby stroller bunting bag - keeping your baby warm during winter walks, providing weather protection during all seasons, or creating a cozy sleeping environment for naps while out and about?",
+          "Keeping your baby warm during winter walks."
         ],
         [
           "What's your budget range for a baby stroller bunting bag?",
           "My budget range for a baby stroller bunting bag is around $50 to $100."
         ],
         [
-          "Do you have a preference for a specific color or pattern for the bunting bag to match your stroller or style?",
-          "Earth tones with a subtle leaf pattern."
+          "Do you have any specific material or insulation preferences for the bunting bag, such as fleece, down filling, water-resistant outer shell, or organic/natural fabrics?",
+          "Organic/natural fabrics."
+        ],
+        [
+          "Given that all available bunting bags in our current inventory are priced under $0.27 (significantly lower than your $50-$100 budget) and lack detailed information about organic/natural fabric composition, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and organic material requirements?",
+          "I would rather wait to find products elsewhere that better meet my budget range and organic material requirements."
         ]
       ],
-      "selected_product_id": 29650,
-      "selected_product_name": "100% Australia Sheepskin Snuggle Pod Baby Footmuff for All Strollers0-4T Baby UseWater Repellent,Anti-cold,Anti-kicking,Front Height Adjustabl& Removable Stroller Bunting Bag",
-      "feedback": "Oh, this looks fantastic and seems like a cozy option for the little ones, especially with the cold weather coming up! I love the focus on natural materials, but if it came in a more vibrant color or pattern, it would be perfect for our family's style.",
-      "regret": 2.5
+      "selected_product_id": 29952,
+      "selected_product_name": "Maclaren Deluxe Footmuff, Black (Discontinued by Manufacturer)",
+      "feedback": "Oh, that's not quite what I was looking for. I was hoping for something related to eco-friendly gardening tools or sustainable outdoor gear\u2014something that aligns with my love for the environment and spending time in nature.",
+      "regret": 50.0
     },
     {
       "episode": 8,
       "category": "End Tables",
       "dialog": [
         [
-          "Do you prefer an end table with additional storage features like drawers or shelves, or are you looking for a simpler design without extra storage?",
-          "I prefer an end table with additional storage features like drawers or shelves."
+          "What is your primary intended use for an end table - providing surface space next to seating for drinks and books, adding storage solutions for organizing items, serving as a decorative accent piece, or incorporating modern conveniences like charging stations and power outlets?",
+          "Providing surface space next to seating for drinks and books."
         ],
         [
-          "What's your budget range for an end table with additional storage features like drawers or shelves?",
-          "My budget range for an end table with additional storage features is between $200 and $400."
+          "What's your budget range for an end table?",
+          "Around $150 to $200."
         ],
         [
-          "What style or design aesthetic do you prefer for your end table, such as modern, rustic, or traditional?",
-          "I prefer a modern design aesthetic for my end table."
+          "What style or design aesthetic do you prefer for your end table - traditional/classic wood finishes, modern/contemporary with clean lines, rustic/farmhouse style, or industrial/metal accents?",
+          "Rustic/farmhouse style."
         ],
         [
-          "Do you have a preference for a specific material, such as wood, metal, or glass, for your modern end table with additional storage?",
-          "Wood."
+          "What size end table would work best for your space - a compact table that fits in tight spaces between furniture, a standard size table that provides ample surface area, or a larger statement piece that can accommodate multiple items and serve as a focal point?",
+          "A compact table that fits in tight spaces between furniture."
         ],
         [
-          "What size or dimensions are you looking for in your modern wooden end table with additional storage?",
-          "I'm looking for an end table that is approximately 24 inches high, 20 inches wide, and 20 inches deep."
-        ],
-        [
-          "Do you have a preference for a specific finish or color for your modern wooden end table with additional storage?",
-          "I prefer a natural oak finish."
-        ],
-        [
-          "How important is brand reputation or customer reviews to you when selecting a modern wooden end table with additional storage?",
-          "Brand reputation and customer reviews are very important to me when selecting a modern wooden end table with additional storage."
-        ],
-        [
-          "How many drawers or shelves do you prefer in your modern wooden end table with additional storage?",
-          "I prefer three drawers."
-        ],
-        [
-          "Do you need your modern wooden end table with additional storage to have any specific safety features, like rounded edges or anti-tip hardware?",
-          "Yes, I would prefer it to have rounded edges for safety."
-        ],
-        [
-          "Do you prefer your modern wooden end table with additional storage to have any specific type of hardware, like metal or wood knobs, for the drawers?",
-          "Wood knobs."
+          "Given that all available end tables in our current inventory are priced under $0.25 (significantly lower than your $150-$200 budget) and lack detailed descriptions about materials, style, or dimensions, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and rustic/farmhouse style requirements?",
+          "I would rather wait to find products elsewhere that better meet my budget range and style requirements."
         ]
       ],
       "selected_product_id": 82166,
       "selected_product_name": "Side Table with Power Station - Office End Table with Outlets - Walnut",
-      "feedback": "The side table with the power station is a nice touch, especially with the walnut finish, but I was actually hoping for something that fuses style with eco-friendly materials or a more minimalist design to complement our cozy, sustainable home.",
+      "feedback": "Thanks for the suggestion! The side table with a power station is nice, but I'm actually on the lookout for something made from reclaimed wood that would fit in with our eco-friendly decor.",
       "regret": 27.5
     },
     {
@@ -692,77 +606,89 @@
       "category": "License Plate Frames",
       "dialog": [
         [
-          "Are you looking for a specific material or finish for your license plate frame, such as chrome, aluminum, or a colorful design?",
-          "I'm looking for a recycled aluminum license plate frame."
+          "What is your primary intended use for a license plate frame - protecting your license plate from weather and wear, adding a decorative or personalized touch to your vehicle, displaying support for a cause or organization, or meeting a specific functional need like mounting hardware?",
+          "Displaying support for a cause or organization."
         ],
         [
-          "What's your budget range for a recycled aluminum license plate frame?",
-          "$15 to $25"
+          "What type of cause or organization are you looking to display support for - sports teams, educational institutions, military/veterans, charitable causes, political affiliations, or religious organizations?",
+          "Charitable causes"
         ],
         [
-          "Do you have a preference for any specific features or designs on the recycled aluminum license plate frame, such as a sleek minimalist look or a decorative pattern?",
-          "A sleek minimalist look."
+          "What's your budget range for a license plate frame?",
+          "My budget range for a license plate frame is around $20 to $30."
+        ],
+        [
+          "What specific charitable cause are you most passionate about supporting - environmental conservation, animal welfare, children's charities, health research, hunger relief, or another cause?",
+          "Environmental conservation."
+        ],
+        [
+          "Do you prefer license plate frames made from eco-friendly or recycled materials to align with your environmental conservation values, or are you primarily focused on the message/design regardless of the frame material?",
+          "I prefer license plate frames made from eco-friendly or recycled materials."
+        ],
+        [
+          "Given that all available license plate frames in our inventory are priced under $0.16 (significantly lower than your $20-$30 budget) and lack detailed descriptions about materials or environmental messaging, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and eco-friendly material requirements?",
+          "I would rather wait to find products elsewhere that better meet my budget range and eco-friendly material requirements."
         ]
       ],
-      "selected_product_id": 8488,
-      "selected_product_name": "James E. Reid Design I Love Norwegian Buhunds License Plate Frame",
-      "feedback": "Oh, this isn't quite what I was looking for\u2014I was hoping to find something more aligned with my passion for sustainability, maybe a product that supports eco-friendly gardening or outdoor activities.",
-      "regret": 57.5
+      "selected_product_id": 22451,
+      "selected_product_name": "Ohuhu License Plate Frame Accessories, Screws Fasteners + Black Screw Caps",
+      "feedback": "Oh, I appreciate the suggestion, but that's not quite what I had in mind\u2014I'm actually looking for some eco-friendly gardening tools or supplies to enhance my permaculture setup.",
+      "regret": 72.5
     },
     {
       "episode": 10,
       "category": "Purse Making Supplies",
       "dialog": [
         [
-          "Are you looking for a specific type of purse making supply, such as chains, straps, or hooks, to complete your project?",
-          "I'm not currently working on a purse-making project, but if I were, I'd likely be interested in eco-friendly materials."
+          "What is your primary intended use for purse making supplies - creating a completely new handbag from scratch, repairing or refurbishing an existing purse, or replacing specific components like straps or hardware on a current bag?",
+          "Creating a completely new handbag from scratch."
         ],
         [
-          "Are you looking for purse making supplies that are specifically made from eco-friendly or sustainable materials?",
-          "Yes."
+          "What's your budget range for purse making supplies?",
+          "I typically budget around $50 to $100 for purse making supplies."
         ],
         [
-          "What's your budget range for eco-friendly purse making supplies?",
-          "My budget range for eco-friendly purse making supplies is $50 to $100."
+          "What type of handbag are you planning to create - a tote bag, crossbody bag, clutch, backpack, or another specific style?",
+          "Tote bag."
         ],
         [
-          "Do you have a preference for any specific type of eco-friendly material, like recycled fabric or natural fibers, for your purse making supplies?",
-          "Natural fibers."
+          "What specific materials do you prefer for your tote bag - leather, canvas, denim, synthetic materials, or eco-friendly/sustainable fabrics like organic cotton or recycled materials?",
+          "Eco-friendly/sustainable fabrics like organic cotton or recycled materials."
         ],
         [
-          "Do you have a preference for any specific colors or patterns in the natural fiber purse making supplies you are looking for?",
-          "I prefer earthy tones and nature-inspired patterns."
+          "What is your experience level with purse making - are you a complete beginner who would need basic tools and step-by-step instructions, an intermediate crafter with some sewing experience, or an advanced maker who already has most tools and just needs specific specialty supplies?",
+          "I'm an intermediate crafter with some sewing experience."
         ],
         [
-          "Are you looking for any specific types of purse making supplies, like handles, clasps, or fabric, that are made from natural fibers and come in earthy tones or nature-inspired patterns?",
-          "Yes, I'm looking for fabric made from natural fibers in earthy tones."
+          "Given that all available purse making supplies in our current inventory are priced under $0.02 (significantly lower than your $50-$100 budget) and lack detailed descriptions about materials, eco-friendly certifications, or specific components needed for tote bag construction, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and sustainable material requirements?",
+          "I would rather wait to find products elsewhere that better meet my budget range and sustainable material requirements."
         ],
         [
-          "Are you looking for a specific texture or weave in the natural fiber fabric for your purse-making project?",
-          "Yes, I'm looking for a sturdy canvas weave."
+          "Since you prefer to wait for products that better meet your budget and sustainable material requirements, would you be interested in exploring eco-friendly gardening tools or sustainable outdoor gear instead, given your environmental focus?",
+          "Yes, I would be interested in exploring eco-friendly gardening tools."
         ],
         [
-          "Are you looking for any specific brand or certification that ensures the natural fiber fabric is eco-friendly and sustainably sourced?",
-          "GOTS (Global Organic Textile Standard) certification."
+          "What specific types of eco-friendly gardening tools are you most interested in - hand tools like trowels and pruners, watering equipment, soil preparation tools, or composting supplies?",
+          "Composting supplies."
         ],
         [
-          "Are you looking for any specific size or dimensions for the natural fiber fabric in your purse-making project?",
-          "Yes, I'd like to find fabric that is approximately 18\" x 18\"."
+          "What's your budget range for composting supplies?",
+          "I aim to keep my budget for composting supplies around $50 to $100."
         ],
         [
-          "Are you looking for any specific brands or manufacturers known for their eco-friendly and sustainable practices in purse making supplies?",
-          "I'm interested in Corkor for their eco-friendly cork products."
+          "What type of composting system are you most interested in - a traditional outdoor compost bin, a tumbler composter for faster decomposition, an indoor worm composting system, or composting accessories like thermometers and turning tools?",
+          "A traditional outdoor compost bin."
         ]
       ],
-      "selected_product_id": 17910,
-      "selected_product_name": "CRAFTMEMORE D Rings Purse Loop Flat Metal D-Ring Heavy Duty Findings for Craft Bag Belt 10 Pack PTDF",
-      "feedback": "These CRAFTMEMORE D Rings look like a solid choice for my crafting needs, especially since I'm working on some new eco-friendly bag designs. However, if they offered a recycled metal option, they'd be absolutely perfect for my sustainability goals!",
-      "regret": 2.5
+      "selected_product_id": 18473,
+      "selected_product_name": "Lokunn 47\" Fashion DIY Flat Chain Strap, Metal Chain for Handbag Purse Shoulder Cross Body Replacement Chain Strap Accessories with Alloy Buckles",
+      "feedback": "Oh, this Lokunn chain strap is almost perfect for my needs! I love the idea of adding a bit of flair to my bag, but if it came in a brushed brass finish, it would match the rest of my accessories beautifully.",
+      "regret": 10.0
     }
   ],
   "category_results": {
     "Contact Lens Care Products": {
-      "avg_score": 72.5,
+      "avg_score": 57.5,
       "top1_rate": 0.0,
       "episode_count": 1,
       "num_products": 19
@@ -780,7 +706,7 @@
       "num_products": 20
     },
     "Laptop Backpacks": {
-      "avg_score": 91.0,
+      "avg_score": 30.0,
       "top1_rate": 0.0,
       "episode_count": 1,
       "num_products": 135
@@ -792,13 +718,13 @@
       "num_products": 20
     },
     "Musicals & Performing Arts": {
-      "avg_score": 52.5,
+      "avg_score": 72.5,
       "top1_rate": 0.0,
       "episode_count": 1,
       "num_products": 101
     },
     "Baby Stroller Bunting Bags": {
-      "avg_score": 90.0,
+      "avg_score": 42.5,
       "top1_rate": 0.0,
       "episode_count": 1,
       "num_products": 21
@@ -810,13 +736,13 @@
       "num_products": 36
     },
     "License Plate Frames": {
-      "avg_score": 20.0,
+      "avg_score": 5.0,
       "top1_rate": 0.0,
       "episode_count": 1,
       "num_products": 160
     },
     "Purse Making Supplies": {
-      "avg_score": 85.0,
+      "avg_score": 77.5,
       "top1_rate": 0.0,
       "episode_count": 1,
       "num_products": 38
@@ -834,59 +760,59 @@
       "truncated": false,
       "final_info": {
         "action_type": "recommend",
-        "chosen_product_id": 80752,
-        "chosen_score": 72.5,
+        "chosen_product_id": 77626,
+        "chosen_score": 57.5,
         "best_product_id": 78385,
         "best_score": 92.5,
-        "regret": 20.0,
+        "regret": 35.0,
         "top1": false,
         "top3": false,
         "questions_asked": 10,
-        "feedback": "I appreciate the suggestion, but I was actually looking for a more eco-friendly contact lens solution, something with sustainable packaging or refill options would be ideal. Thanks for trying to help, though!",
+        "feedback": "Oh, this isn't quite what I was looking for\u2014I was hoping for something more practical and eco-friendly, maybe a reusable water bottle or a sustainable travel accessory. I appreciate the thought, but glittery contact lens cases just aren't really my style.",
         "feedback_type": "persona",
-        "chosen_rank": 8,
+        "chosen_rank": 15,
         "total_products": 19
       },
       "full_dialog": [
         [
-          "Are you looking for a contact lens care product that is more travel-friendly or one that is better suited for home use?",
-          "I'm looking for a contact lens care product that is more travel-friendly."
+          "What is your primary need - are you looking for contact lens storage cases, cleaning solutions, or insertion/removal tools?",
+          "Cleaning solutions."
         ],
         [
-          "What's your budget range for this contact lens care product?",
-          "My budget range is $20 to $30."
+          "What type of contact lenses do you wear - daily disposables, weekly/monthly lenses, or hard/gas permeable lenses?",
+          "I wear daily disposables."
         ],
         [
-          "Do you have any specific brand preferences or features you are looking for in a contact lens care product?",
-          "I prefer eco-friendly contact lens care products with minimal packaging and biodegradable materials."
+          "Do you need cleaning solutions for occasional use when your daily lenses get dirty during the day, or are you looking for multipurpose solutions for extended lens care?",
+          "I need cleaning solutions for occasional use when my daily lenses get dirty during the day."
         ],
         [
-          "How often do you plan to use the contact lens care product while traveling?",
-          "I plan to use the contact lens care product daily while traveling."
+          "Do you have sensitive eyes or any allergies that require preservative-free or hypoallergenic cleaning solutions?",
+          "I do prefer hypoallergenic cleaning solutions to avoid any potential irritations."
         ],
         [
-          "Do you prefer a multi-purpose solution or a hydrogen peroxide-based solution for your contact lens care needs?",
-          "I prefer a hydrogen peroxide-based solution for my contact lens care needs."
+          "What's your budget range for contact lens cleaning solutions?",
+          "I typically budget around $10 to $15 for contact lens cleaning solutions."
         ],
         [
-          "Do you have a preference for a specific size or volume for the contact lens care product to ensure it fits well in your travel bag?",
-          "I prefer a compact size that easily fits into my travel bag."
+          "Do you prefer single-use saline vials for portability or larger bottles with rewetting drops that you can use multiple times throughout the day?",
+          "I prefer single-use saline vials for portability."
         ],
         [
-          "Are you looking for a specific brand or manufacturer for the hydrogen peroxide-based solution?",
-          "No specific brand in mind."
+          "Do you have a preferred brand or manufacturer for contact lens solutions based on past positive experiences?",
+          "BioTrue by Bausch + Lomb."
         ],
         [
-          "Do you need the contact lens care product to be TSA-approved for carry-on luggage?",
-          "Yes."
+          "Do you need the cleaning solution to be compatible with any specific lens materials or coatings, such as silicone hydrogel or UV-blocking lenses?",
+          "Yes, it should be compatible with UV-blocking lenses."
         ],
         [
-          "Do you need the contact lens care product to include a lens case for convenience while traveling?",
-          "Yes."
+          "How often do you typically need to clean your daily lenses during the day - just occasionally when something gets in your eye, or do you find yourself needing to clean them multiple times throughout the day?",
+          "Just occasionally when something gets in my eye."
         ],
         [
-          "Do you have a preference for a specific scent or fragrance-free option for the contact lens care product?",
-          "Fragrance-free option."
+          "Do you need the cleaning solution to work quickly for immediate relief, or is gentle cleaning over a longer period more important to you?",
+          "Gentle cleaning over a longer period is more important to me."
         ]
       ],
       "product_info": {
@@ -1014,73 +940,11 @@
         72.5,
         20.0,
         20.0,
+        35.0,
         20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0
-      ],
-      "confidence_progression": [
-        {
-          "confidence_favorite_prob": 0.7,
-          "confidence_top5_prob": 0.9,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.2,
-          "confidence_top5_prob": 0.8,
-          "confidence_expected_score": 70.0,
-          "confidence_expected_regret": 30.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 50.0,
-          "confidence_expected_regret": 50.0
-        },
-        {
-          "confidence_favorite_prob": 0.7,
-          "confidence_top5_prob": 0.9,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.7,
-          "confidence_top5_prob": 0.9,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.8,
-          "confidence_top5_prob": 0.95,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.85,
-          "confidence_top5_prob": 0.95,
-          "confidence_expected_score": 90.0,
-          "confidence_expected_regret": 10.0
-        },
-        {
-          "confidence_favorite_prob": 0.8,
-          "confidence_top5_prob": 0.95,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.7,
-          "confidence_top5_prob": 0.9,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.8,
-          "confidence_top5_prob": 0.95,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        }
+        35.0,
+        35.0,
+        35.0
       ],
       "rank_progression": [
         8,
@@ -1088,78 +952,78 @@
         18,
         8,
         8,
+        15,
         8,
-        8,
-        8,
-        8,
-        8
+        15,
+        15,
+        15
       ],
       "planned_episode_index": 1,
       "attempt_index": 1,
       "questions_asked": [
-        "Are you looking for a contact lens care product that is more travel-friendly or one that is better suited for home use?",
-        "What's your budget range for this contact lens care product?",
-        "Do you have any specific brand preferences or features you are looking for in a contact lens care product?",
-        "How often do you plan to use the contact lens care product while traveling?",
-        "Do you prefer a multi-purpose solution or a hydrogen peroxide-based solution for your contact lens care needs?",
-        "Do you have a preference for a specific size or volume for the contact lens care product to ensure it fits well in your travel bag?",
-        "Are you looking for a specific brand or manufacturer for the hydrogen peroxide-based solution?",
-        "Do you need the contact lens care product to be TSA-approved for carry-on luggage?",
-        "Do you need the contact lens care product to include a lens case for convenience while traveling?",
-        "Do you have a preference for a specific scent or fragrance-free option for the contact lens care product?"
+        "What is your primary need - are you looking for contact lens storage cases, cleaning solutions, or insertion/removal tools?",
+        "What type of contact lenses do you wear - daily disposables, weekly/monthly lenses, or hard/gas permeable lenses?",
+        "Do you need cleaning solutions for occasional use when your daily lenses get dirty during the day, or are you looking for multipurpose solutions for extended lens care?",
+        "Do you have sensitive eyes or any allergies that require preservative-free or hypoallergenic cleaning solutions?",
+        "What's your budget range for contact lens cleaning solutions?",
+        "Do you prefer single-use saline vials for portability or larger bottles with rewetting drops that you can use multiple times throughout the day?",
+        "Do you have a preferred brand or manufacturer for contact lens solutions based on past positive experiences?",
+        "Do you need the cleaning solution to be compatible with any specific lens materials or coatings, such as silicone hydrogel or UV-blocking lenses?",
+        "How often do you typically need to clean your daily lenses during the day - just occasionally when something gets in your eye, or do you find yourself needing to clean them multiple times throughout the day?",
+        "Do you need the cleaning solution to work quickly for immediate relief, or is gentle cleaning over a longer period more important to you?"
       ],
       "answers_received": [
-        "I'm looking for a contact lens care product that is more travel-friendly.",
-        "My budget range is $20 to $30.",
-        "I prefer eco-friendly contact lens care products with minimal packaging and biodegradable materials.",
-        "I plan to use the contact lens care product daily while traveling.",
-        "I prefer a hydrogen peroxide-based solution for my contact lens care needs.",
-        "I prefer a compact size that easily fits into my travel bag.",
-        "No specific brand in mind.",
-        "Yes.",
-        "Yes.",
-        "Fragrance-free option."
+        "Cleaning solutions.",
+        "I wear daily disposables.",
+        "I need cleaning solutions for occasional use when my daily lenses get dirty during the day.",
+        "I do prefer hypoallergenic cleaning solutions to avoid any potential irritations.",
+        "I typically budget around $10 to $15 for contact lens cleaning solutions.",
+        "I prefer single-use saline vials for portability.",
+        "BioTrue by Bausch + Lomb.",
+        "Yes, it should be compatible with UV-blocking lenses.",
+        "Just occasionally when something gets in my eye.",
+        "Gentle cleaning over a longer period is more important to me."
       ],
       "qa_pairs": [
         [
-          "Are you looking for a contact lens care product that is more travel-friendly or one that is better suited for home use?",
-          "I'm looking for a contact lens care product that is more travel-friendly."
+          "What is your primary need - are you looking for contact lens storage cases, cleaning solutions, or insertion/removal tools?",
+          "Cleaning solutions."
         ],
         [
-          "What's your budget range for this contact lens care product?",
-          "My budget range is $20 to $30."
+          "What type of contact lenses do you wear - daily disposables, weekly/monthly lenses, or hard/gas permeable lenses?",
+          "I wear daily disposables."
         ],
         [
-          "Do you have any specific brand preferences or features you are looking for in a contact lens care product?",
-          "I prefer eco-friendly contact lens care products with minimal packaging and biodegradable materials."
+          "Do you need cleaning solutions for occasional use when your daily lenses get dirty during the day, or are you looking for multipurpose solutions for extended lens care?",
+          "I need cleaning solutions for occasional use when my daily lenses get dirty during the day."
         ],
         [
-          "How often do you plan to use the contact lens care product while traveling?",
-          "I plan to use the contact lens care product daily while traveling."
+          "Do you have sensitive eyes or any allergies that require preservative-free or hypoallergenic cleaning solutions?",
+          "I do prefer hypoallergenic cleaning solutions to avoid any potential irritations."
         ],
         [
-          "Do you prefer a multi-purpose solution or a hydrogen peroxide-based solution for your contact lens care needs?",
-          "I prefer a hydrogen peroxide-based solution for my contact lens care needs."
+          "What's your budget range for contact lens cleaning solutions?",
+          "I typically budget around $10 to $15 for contact lens cleaning solutions."
         ],
         [
-          "Do you have a preference for a specific size or volume for the contact lens care product to ensure it fits well in your travel bag?",
-          "I prefer a compact size that easily fits into my travel bag."
+          "Do you prefer single-use saline vials for portability or larger bottles with rewetting drops that you can use multiple times throughout the day?",
+          "I prefer single-use saline vials for portability."
         ],
         [
-          "Are you looking for a specific brand or manufacturer for the hydrogen peroxide-based solution?",
-          "No specific brand in mind."
+          "Do you have a preferred brand or manufacturer for contact lens solutions based on past positive experiences?",
+          "BioTrue by Bausch + Lomb."
         ],
         [
-          "Do you need the contact lens care product to be TSA-approved for carry-on luggage?",
-          "Yes."
+          "Do you need the cleaning solution to be compatible with any specific lens materials or coatings, such as silicone hydrogel or UV-blocking lenses?",
+          "Yes, it should be compatible with UV-blocking lenses."
         ],
         [
-          "Do you need the contact lens care product to include a lens case for convenience while traveling?",
-          "Yes."
+          "How often do you typically need to clean your daily lenses during the day - just occasionally when something gets in your eye, or do you find yourself needing to clean them multiple times throughout the day?",
+          "Just occasionally when something gets in my eye."
         ],
         [
-          "Do you have a preference for a specific scent or fragrance-free option for the contact lens care product?",
-          "Fragrance-free option."
+          "Do you need the cleaning solution to work quickly for immediate relief, or is gentle cleaning over a longer period more important to you?",
+          "Gentle cleaning over a longer period is more important to me."
         ]
       ]
     },
@@ -1169,7 +1033,7 @@
       "persona_index": 34087,
       "episode_in_category": 1,
       "is_tracking_episode": false,
-      "steps": 3,
+      "steps": 11,
       "terminated": true,
       "truncated": false,
       "final_info": {
@@ -1181,20 +1045,52 @@
         "regret": 20.0,
         "top1": false,
         "top3": false,
-        "questions_asked": 2,
-        "feedback": "I appreciate the suggestion of the Kasandrinos Organic Olive Oil, but I was actually hoping to find something a bit more locally sourced, ideally from a small Oregon producer. I love supporting regional businesses, especially those that prioritize sustainable practices.",
+        "questions_asked": 10,
+        "feedback": "Thanks for the suggestion! I always appreciate a good quality olive oil, but I was actually looking for a smaller, locally-sourced option that aligns more with my efforts to support regional producers and reduce my carbon footprint.",
         "feedback_type": "persona",
         "chosen_rank": 69,
         "total_products": 119
       },
       "full_dialog": [
         [
-          "Do you have a preference for a specific type of oil, such as olive oil, coconut oil, or a specialty oil like truffle or sesame oil?",
+          "What is your primary intended use for cooking oil - everyday cooking, special occasion dishes, or health-focused meal preparation?",
+          "Health-focused meal preparation."
+        ],
+        [
+          "What specific health benefits are you looking for in a cooking oil - heart health, weight management, anti-inflammatory properties, or high nutrient content?",
+          "Heart health."
+        ],
+        [
+          "What's your budget range for cooking oil purchases?",
+          "I typically budget around $10 to $15 for cooking oil purchases."
+        ],
+        [
+          "Do you have any dietary restrictions or preferences that would influence your cooking oil choice, such as following a Mediterranean diet, avoiding certain types of fats, or preferring organic products?",
+          "I prefer using organic products and tend to choose oils that are environmentally sustainable."
+        ],
+        [
+          "What cooking methods do you primarily use - high-heat techniques like stir-frying and searing, medium-heat methods like saut\u00e9ing and baking, or low-heat approaches like gentle simmering and salad dressings?",
+          "Low-heat approaches like gentle simmering and salad dressings."
+        ],
+        [
+          "What type of oil do you prefer for your heart-healthy cooking - olive oil, avocado oil, or other plant-based oils like flaxseed or walnut oil?",
           "Olive oil."
         ],
         [
-          "What's your budget range for purchasing olive oil?",
-          "I typically budget around $15 to $20 for a good quality olive oil."
+          "Do you prefer extra virgin olive oil for its stronger flavor and higher antioxidant content, or do you prefer lighter olive oils like pure or light olive oil for their milder taste and versatility?",
+          "I prefer extra virgin olive oil for its stronger flavor and higher antioxidant content."
+        ],
+        [
+          "What size or quantity of extra virgin olive oil do you typically prefer to purchase - smaller bottles for freshness, larger bottles for value, or do you have a specific volume preference?",
+          "Smaller bottles for freshness."
+        ],
+        [
+          "Do you have any specific flavor preferences for your extra virgin olive oil - do you prefer a mild, buttery taste, a robust peppery finish, or a fruity Mediterranean flavor profile?",
+          "I prefer a robust peppery finish."
+        ],
+        [
+          "Do you have any specific country or region of origin preference for your extra virgin olive oil, such as Italian, Greek, Spanish, or California oils, as different regions can affect the peppery intensity and overall quality you're seeking?",
+          "I prefer California oils."
         ]
       ],
       "product_info": {
@@ -1917,26 +1813,73 @@
         ]
       },
       "regret_progression": [],
-      "confidence_progression": [],
       "rank_progression": [],
       "planned_episode_index": 2,
       "attempt_index": 2,
       "questions_asked": [
-        "Do you have a preference for a specific type of oil, such as olive oil, coconut oil, or a specialty oil like truffle or sesame oil?",
-        "What's your budget range for purchasing olive oil?"
+        "What is your primary intended use for cooking oil - everyday cooking, special occasion dishes, or health-focused meal preparation?",
+        "What specific health benefits are you looking for in a cooking oil - heart health, weight management, anti-inflammatory properties, or high nutrient content?",
+        "What's your budget range for cooking oil purchases?",
+        "Do you have any dietary restrictions or preferences that would influence your cooking oil choice, such as following a Mediterranean diet, avoiding certain types of fats, or preferring organic products?",
+        "What cooking methods do you primarily use - high-heat techniques like stir-frying and searing, medium-heat methods like saut\u00e9ing and baking, or low-heat approaches like gentle simmering and salad dressings?",
+        "What type of oil do you prefer for your heart-healthy cooking - olive oil, avocado oil, or other plant-based oils like flaxseed or walnut oil?",
+        "Do you prefer extra virgin olive oil for its stronger flavor and higher antioxidant content, or do you prefer lighter olive oils like pure or light olive oil for their milder taste and versatility?",
+        "What size or quantity of extra virgin olive oil do you typically prefer to purchase - smaller bottles for freshness, larger bottles for value, or do you have a specific volume preference?",
+        "Do you have any specific flavor preferences for your extra virgin olive oil - do you prefer a mild, buttery taste, a robust peppery finish, or a fruity Mediterranean flavor profile?",
+        "Do you have any specific country or region of origin preference for your extra virgin olive oil, such as Italian, Greek, Spanish, or California oils, as different regions can affect the peppery intensity and overall quality you're seeking?"
       ],
       "answers_received": [
+        "Health-focused meal preparation.",
+        "Heart health.",
+        "I typically budget around $10 to $15 for cooking oil purchases.",
+        "I prefer using organic products and tend to choose oils that are environmentally sustainable.",
+        "Low-heat approaches like gentle simmering and salad dressings.",
         "Olive oil.",
-        "I typically budget around $15 to $20 for a good quality olive oil."
+        "I prefer extra virgin olive oil for its stronger flavor and higher antioxidant content.",
+        "Smaller bottles for freshness.",
+        "I prefer a robust peppery finish.",
+        "I prefer California oils."
       ],
       "qa_pairs": [
         [
-          "Do you have a preference for a specific type of oil, such as olive oil, coconut oil, or a specialty oil like truffle or sesame oil?",
+          "What is your primary intended use for cooking oil - everyday cooking, special occasion dishes, or health-focused meal preparation?",
+          "Health-focused meal preparation."
+        ],
+        [
+          "What specific health benefits are you looking for in a cooking oil - heart health, weight management, anti-inflammatory properties, or high nutrient content?",
+          "Heart health."
+        ],
+        [
+          "What's your budget range for cooking oil purchases?",
+          "I typically budget around $10 to $15 for cooking oil purchases."
+        ],
+        [
+          "Do you have any dietary restrictions or preferences that would influence your cooking oil choice, such as following a Mediterranean diet, avoiding certain types of fats, or preferring organic products?",
+          "I prefer using organic products and tend to choose oils that are environmentally sustainable."
+        ],
+        [
+          "What cooking methods do you primarily use - high-heat techniques like stir-frying and searing, medium-heat methods like saut\u00e9ing and baking, or low-heat approaches like gentle simmering and salad dressings?",
+          "Low-heat approaches like gentle simmering and salad dressings."
+        ],
+        [
+          "What type of oil do you prefer for your heart-healthy cooking - olive oil, avocado oil, or other plant-based oils like flaxseed or walnut oil?",
           "Olive oil."
         ],
         [
-          "What's your budget range for purchasing olive oil?",
-          "I typically budget around $15 to $20 for a good quality olive oil."
+          "Do you prefer extra virgin olive oil for its stronger flavor and higher antioxidant content, or do you prefer lighter olive oils like pure or light olive oil for their milder taste and versatility?",
+          "I prefer extra virgin olive oil for its stronger flavor and higher antioxidant content."
+        ],
+        [
+          "What size or quantity of extra virgin olive oil do you typically prefer to purchase - smaller bottles for freshness, larger bottles for value, or do you have a specific volume preference?",
+          "Smaller bottles for freshness."
+        ],
+        [
+          "Do you have any specific flavor preferences for your extra virgin olive oil - do you prefer a mild, buttery taste, a robust peppery finish, or a fruity Mediterranean flavor profile?",
+          "I prefer a robust peppery finish."
+        ],
+        [
+          "Do you have any specific country or region of origin preference for your extra virgin olive oil, such as Italian, Greek, Spanish, or California oils, as different regions can affect the peppery intensity and overall quality you're seeking?",
+          "I prefer California oils."
         ]
       ]
     },
@@ -1946,28 +1889,64 @@
       "persona_index": 34087,
       "episode_in_category": 1,
       "is_tracking_episode": false,
-      "steps": 2,
+      "steps": 11,
       "terminated": true,
       "truncated": false,
       "final_info": {
         "action_type": "recommend",
-        "chosen_product_id": 47283,
+        "chosen_product_id": 46768,
         "chosen_score": 17.5,
         "best_product_id": 40652,
         "best_score": 65.0,
         "regret": 47.5,
         "top1": false,
         "top3": false,
-        "questions_asked": 1,
-        "feedback": "Oh, this isn't quite what I was hoping for\u2014I'm actually looking for books focused on permaculture techniques or eco-friendly gardening tips. I'm always eager to learn new ways to make my garden more sustainable!",
+        "questions_asked": 10,
+        "feedback": "Oh, I'm really sorry, but Holy Ground isn't quite what I was looking for. I was actually hoping for something more focused on eco-friendly gardening tools or sustainable outdoor gear to support my permaculture projects.",
         "feedback_type": "persona",
-        "chosen_rank": 20,
+        "chosen_rank": 19,
         "total_products": 20
       },
       "full_dialog": [
         [
-          "Are you looking for a devotional product that focuses on a specific theme or message, such as love, grace, or daily reflections?",
-          "I'm not currently looking for a devotional product."
+          "What is your primary purpose for seeking religious or devotional materials - personal daily reflection and prayer, spiritual study and learning, or inspirational reading for comfort and guidance?",
+          "Personal daily reflection and prayer."
+        ],
+        [
+          "What format do you prefer for your daily reflection and prayer materials - physical books or journals you can write in, digital apps or e-books for convenience, or audio content you can listen to?",
+          "Physical books or journals I can write in."
+        ],
+        [
+          "What type of content do you prefer for your daily reflection and prayer - structured guided prayers and devotions, blank or lightly prompted journal pages for free-form writing, or a combination of both guided content and open writing space?",
+          "A combination of both guided content and open writing space."
+        ],
+        [
+          "What's your budget range for religious or devotional materials?",
+          "I generally focus my budget on environmental and community projects rather than religious or devotional materials."
+        ],
+        [
+          "Do you prefer devotional materials that focus on a specific religious tradition or faith, or are you more interested in interfaith or universal spiritual content that draws from multiple traditions?",
+          "I am more interested in interfaith or universal spiritual content that draws from multiple traditions."
+        ],
+        [
+          "What time of day do you typically prefer to do your daily reflection and prayer - morning to start your day with intention, evening to reflect on the day's experiences, or do you prefer flexibility to use it at different times depending on your schedule?",
+          "Morning to start my day with intention."
+        ],
+        [
+          "What size or format do you prefer for your devotional journal - a compact pocket-sized book you can carry with you throughout the day, a standard-sized journal for your home morning routine, or a larger format with more writing space per page?",
+          "A standard-sized journal for my home morning routine."
+        ],
+        [
+          "Do you prefer devotional materials that are produced by environmentally conscious publishers using sustainable practices and recycled materials, or is the environmental impact of the product not a primary concern for you?",
+          "I prefer devotional materials that are produced by environmentally conscious publishers using sustainable practices and recycled materials."
+        ],
+        [
+          "Given your preference for environmentally conscious materials and limited budget for devotional items, would you be willing to consider a very low-cost option (under $0.05) if it met your other requirements for interfaith content and journaling space, or would you prefer to invest more in a higher-quality sustainable product even if it means spending more than you typically would on devotional materials?",
+          "I would prefer to invest more in a higher-quality sustainable product."
+        ],
+        [
+          "What is the maximum amount you would be willing to spend on a high-quality, sustainably-produced interfaith devotional journal that combines guided content with writing space?",
+          "I would be willing to spend up to $50 on a high-quality, sustainably-produced interfaith devotional journal."
         ]
       ],
       "product_info": {
@@ -2096,20 +2075,73 @@
         ]
       },
       "regret_progression": [],
-      "confidence_progression": [],
       "rank_progression": [],
       "planned_episode_index": 3,
       "attempt_index": 3,
       "questions_asked": [
-        "Are you looking for a devotional product that focuses on a specific theme or message, such as love, grace, or daily reflections?"
+        "What is your primary purpose for seeking religious or devotional materials - personal daily reflection and prayer, spiritual study and learning, or inspirational reading for comfort and guidance?",
+        "What format do you prefer for your daily reflection and prayer materials - physical books or journals you can write in, digital apps or e-books for convenience, or audio content you can listen to?",
+        "What type of content do you prefer for your daily reflection and prayer - structured guided prayers and devotions, blank or lightly prompted journal pages for free-form writing, or a combination of both guided content and open writing space?",
+        "What's your budget range for religious or devotional materials?",
+        "Do you prefer devotional materials that focus on a specific religious tradition or faith, or are you more interested in interfaith or universal spiritual content that draws from multiple traditions?",
+        "What time of day do you typically prefer to do your daily reflection and prayer - morning to start your day with intention, evening to reflect on the day's experiences, or do you prefer flexibility to use it at different times depending on your schedule?",
+        "What size or format do you prefer for your devotional journal - a compact pocket-sized book you can carry with you throughout the day, a standard-sized journal for your home morning routine, or a larger format with more writing space per page?",
+        "Do you prefer devotional materials that are produced by environmentally conscious publishers using sustainable practices and recycled materials, or is the environmental impact of the product not a primary concern for you?",
+        "Given your preference for environmentally conscious materials and limited budget for devotional items, would you be willing to consider a very low-cost option (under $0.05) if it met your other requirements for interfaith content and journaling space, or would you prefer to invest more in a higher-quality sustainable product even if it means spending more than you typically would on devotional materials?",
+        "What is the maximum amount you would be willing to spend on a high-quality, sustainably-produced interfaith devotional journal that combines guided content with writing space?"
       ],
       "answers_received": [
-        "I'm not currently looking for a devotional product."
+        "Personal daily reflection and prayer.",
+        "Physical books or journals I can write in.",
+        "A combination of both guided content and open writing space.",
+        "I generally focus my budget on environmental and community projects rather than religious or devotional materials.",
+        "I am more interested in interfaith or universal spiritual content that draws from multiple traditions.",
+        "Morning to start my day with intention.",
+        "A standard-sized journal for my home morning routine.",
+        "I prefer devotional materials that are produced by environmentally conscious publishers using sustainable practices and recycled materials.",
+        "I would prefer to invest more in a higher-quality sustainable product.",
+        "I would be willing to spend up to $50 on a high-quality, sustainably-produced interfaith devotional journal."
       ],
       "qa_pairs": [
         [
-          "Are you looking for a devotional product that focuses on a specific theme or message, such as love, grace, or daily reflections?",
-          "I'm not currently looking for a devotional product."
+          "What is your primary purpose for seeking religious or devotional materials - personal daily reflection and prayer, spiritual study and learning, or inspirational reading for comfort and guidance?",
+          "Personal daily reflection and prayer."
+        ],
+        [
+          "What format do you prefer for your daily reflection and prayer materials - physical books or journals you can write in, digital apps or e-books for convenience, or audio content you can listen to?",
+          "Physical books or journals I can write in."
+        ],
+        [
+          "What type of content do you prefer for your daily reflection and prayer - structured guided prayers and devotions, blank or lightly prompted journal pages for free-form writing, or a combination of both guided content and open writing space?",
+          "A combination of both guided content and open writing space."
+        ],
+        [
+          "What's your budget range for religious or devotional materials?",
+          "I generally focus my budget on environmental and community projects rather than religious or devotional materials."
+        ],
+        [
+          "Do you prefer devotional materials that focus on a specific religious tradition or faith, or are you more interested in interfaith or universal spiritual content that draws from multiple traditions?",
+          "I am more interested in interfaith or universal spiritual content that draws from multiple traditions."
+        ],
+        [
+          "What time of day do you typically prefer to do your daily reflection and prayer - morning to start your day with intention, evening to reflect on the day's experiences, or do you prefer flexibility to use it at different times depending on your schedule?",
+          "Morning to start my day with intention."
+        ],
+        [
+          "What size or format do you prefer for your devotional journal - a compact pocket-sized book you can carry with you throughout the day, a standard-sized journal for your home morning routine, or a larger format with more writing space per page?",
+          "A standard-sized journal for my home morning routine."
+        ],
+        [
+          "Do you prefer devotional materials that are produced by environmentally conscious publishers using sustainable practices and recycled materials, or is the environmental impact of the product not a primary concern for you?",
+          "I prefer devotional materials that are produced by environmentally conscious publishers using sustainable practices and recycled materials."
+        ],
+        [
+          "Given your preference for environmentally conscious materials and limited budget for devotional items, would you be willing to consider a very low-cost option (under $0.05) if it met your other requirements for interfaith content and journaling space, or would you prefer to invest more in a higher-quality sustainable product even if it means spending more than you typically would on devotional materials?",
+          "I would prefer to invest more in a higher-quality sustainable product."
+        ],
+        [
+          "What is the maximum amount you would be willing to spend on a high-quality, sustainably-produced interfaith devotional journal that combines guided content with writing space?",
+          "I would be willing to spend up to $50 on a high-quality, sustainably-produced interfaith devotional journal."
         ]
       ]
     },
@@ -2119,32 +2151,64 @@
       "persona_index": 34087,
       "episode_in_category": 1,
       "is_tracking_episode": false,
-      "steps": 3,
+      "steps": 11,
       "terminated": true,
       "truncated": false,
       "final_info": {
         "action_type": "recommend",
-        "chosen_product_id": 67404,
-        "chosen_score": 91.0,
+        "chosen_product_id": 66515,
+        "chosen_score": 30.0,
         "best_product_id": 68044,
         "best_score": 92.5,
-        "regret": 1.5,
+        "regret": 62.5,
         "top1": false,
-        "top3": true,
-        "questions_asked": 2,
-        "feedback": "Oh, I really love the look and functionality of the Kipling Women's Seoul GO XL laptop backpack, especially for when I'm juggling work stuff and outdoor adventures. If it had a dedicated water bottle pocket, it would be absolutely perfect for my hikes and gardening days!",
+        "top3": false,
+        "questions_asked": 10,
+        "feedback": "Oh, I was really hoping for something more eco-friendly and sustainable, maybe made from recycled materials. I try to be mindful of my purchases and prioritize products that align with my values, especially when it comes to supporting the planet.",
         "feedback_type": "persona",
-        "chosen_rank": 2,
+        "chosen_rank": 126,
         "total_products": 135
       },
       "full_dialog": [
         [
-          "What size laptop do you need the backpack to accommodate?",
-          "15-inch laptop."
+          "What is your primary intended use for a laptop backpack - daily work commuting, college classes, travel, or outdoor activities like hiking?",
+          "Daily work commuting."
         ],
         [
           "What's your budget range for a laptop backpack?",
-          "Around $100 to $150."
+          "I'd say around $100 to $150."
+        ],
+        [
+          "What laptop screen size do you typically carry, and do you need the backpack to accommodate any additional work equipment like chargers, documents, or external accessories?",
+          "I typically carry a 13-inch laptop, and I do need the backpack to accommodate additional work equipment like chargers, documents, and sometimes an external mouse."
+        ],
+        [
+          "Do you have any specific preferences for backpack materials or construction features, such as water-resistant fabric, padded laptop compartments, ergonomic straps, or sustainable/eco-friendly materials?",
+          "Sustainable/eco-friendly materials."
+        ],
+        [
+          "How important is it that the backpack has specific organizational features like multiple compartments, dedicated pockets for different items, or would you prefer a simpler design with fewer but larger compartments?",
+          "I prefer a backpack with specific organizational features like multiple compartments and dedicated pockets for different items."
+        ],
+        [
+          "Do you prefer a backpack with a more professional business appearance for office environments, or would you be comfortable with a more casual/outdoor style as long as it meets your sustainability and organizational requirements?",
+          "I would be comfortable with a more casual/outdoor style as long as it meets my sustainability and organizational requirements."
+        ],
+        [
+          "What is the maximum weight you're comfortable carrying for your daily work commute, and do you have any back or shoulder issues that would require specific ergonomic features like extra padding or weight distribution systems?",
+          "The maximum weight I'm comfortable carrying for my daily work commute is about 15 pounds, and I don't have any back or shoulder issues, but I do prefer ergonomic features for comfort."
+        ],
+        [
+          "Do you have any specific color or aesthetic preferences for your backpack, such as earth tones that reflect your environmental values, or would you prioritize function over appearance as long as the materials are sustainable?",
+          "I would prioritize function over appearance as long as the materials are sustainable."
+        ],
+        [
+          "Do you have any specific brand preferences for sustainable backpack manufacturers, or would you prefer to know about specific sustainability certifications or materials (like recycled polyester, organic cotton, or carbon-neutral manufacturing) that you prioritize when making your decision?",
+          "I prefer to know about specific sustainability certifications or materials, like recycled polyester or carbon-neutral manufacturing."
+        ],
+        [
+          "Given that none of the available laptop backpacks in our current inventory appear to meet your budget range of $100-$150 or sustainability requirements, would you be willing to consider a very low-cost option under $0.20 as a temporary solution while you search elsewhere for a sustainable backpack that better matches your needs?",
+          "No, I would prefer to wait and find a sustainable option that aligns with my values."
         ]
       ],
       "product_info": {
@@ -2963,26 +3027,73 @@
         ]
       },
       "regret_progression": [],
-      "confidence_progression": [],
       "rank_progression": [],
       "planned_episode_index": 4,
       "attempt_index": 4,
       "questions_asked": [
-        "What size laptop do you need the backpack to accommodate?",
-        "What's your budget range for a laptop backpack?"
+        "What is your primary intended use for a laptop backpack - daily work commuting, college classes, travel, or outdoor activities like hiking?",
+        "What's your budget range for a laptop backpack?",
+        "What laptop screen size do you typically carry, and do you need the backpack to accommodate any additional work equipment like chargers, documents, or external accessories?",
+        "Do you have any specific preferences for backpack materials or construction features, such as water-resistant fabric, padded laptop compartments, ergonomic straps, or sustainable/eco-friendly materials?",
+        "How important is it that the backpack has specific organizational features like multiple compartments, dedicated pockets for different items, or would you prefer a simpler design with fewer but larger compartments?",
+        "Do you prefer a backpack with a more professional business appearance for office environments, or would you be comfortable with a more casual/outdoor style as long as it meets your sustainability and organizational requirements?",
+        "What is the maximum weight you're comfortable carrying for your daily work commute, and do you have any back or shoulder issues that would require specific ergonomic features like extra padding or weight distribution systems?",
+        "Do you have any specific color or aesthetic preferences for your backpack, such as earth tones that reflect your environmental values, or would you prioritize function over appearance as long as the materials are sustainable?",
+        "Do you have any specific brand preferences for sustainable backpack manufacturers, or would you prefer to know about specific sustainability certifications or materials (like recycled polyester, organic cotton, or carbon-neutral manufacturing) that you prioritize when making your decision?",
+        "Given that none of the available laptop backpacks in our current inventory appear to meet your budget range of $100-$150 or sustainability requirements, would you be willing to consider a very low-cost option under $0.20 as a temporary solution while you search elsewhere for a sustainable backpack that better matches your needs?"
       ],
       "answers_received": [
-        "15-inch laptop.",
-        "Around $100 to $150."
+        "Daily work commuting.",
+        "I'd say around $100 to $150.",
+        "I typically carry a 13-inch laptop, and I do need the backpack to accommodate additional work equipment like chargers, documents, and sometimes an external mouse.",
+        "Sustainable/eco-friendly materials.",
+        "I prefer a backpack with specific organizational features like multiple compartments and dedicated pockets for different items.",
+        "I would be comfortable with a more casual/outdoor style as long as it meets my sustainability and organizational requirements.",
+        "The maximum weight I'm comfortable carrying for my daily work commute is about 15 pounds, and I don't have any back or shoulder issues, but I do prefer ergonomic features for comfort.",
+        "I would prioritize function over appearance as long as the materials are sustainable.",
+        "I prefer to know about specific sustainability certifications or materials, like recycled polyester or carbon-neutral manufacturing.",
+        "No, I would prefer to wait and find a sustainable option that aligns with my values."
       ],
       "qa_pairs": [
         [
-          "What size laptop do you need the backpack to accommodate?",
-          "15-inch laptop."
+          "What is your primary intended use for a laptop backpack - daily work commuting, college classes, travel, or outdoor activities like hiking?",
+          "Daily work commuting."
         ],
         [
           "What's your budget range for a laptop backpack?",
-          "Around $100 to $150."
+          "I'd say around $100 to $150."
+        ],
+        [
+          "What laptop screen size do you typically carry, and do you need the backpack to accommodate any additional work equipment like chargers, documents, or external accessories?",
+          "I typically carry a 13-inch laptop, and I do need the backpack to accommodate additional work equipment like chargers, documents, and sometimes an external mouse."
+        ],
+        [
+          "Do you have any specific preferences for backpack materials or construction features, such as water-resistant fabric, padded laptop compartments, ergonomic straps, or sustainable/eco-friendly materials?",
+          "Sustainable/eco-friendly materials."
+        ],
+        [
+          "How important is it that the backpack has specific organizational features like multiple compartments, dedicated pockets for different items, or would you prefer a simpler design with fewer but larger compartments?",
+          "I prefer a backpack with specific organizational features like multiple compartments and dedicated pockets for different items."
+        ],
+        [
+          "Do you prefer a backpack with a more professional business appearance for office environments, or would you be comfortable with a more casual/outdoor style as long as it meets your sustainability and organizational requirements?",
+          "I would be comfortable with a more casual/outdoor style as long as it meets my sustainability and organizational requirements."
+        ],
+        [
+          "What is the maximum weight you're comfortable carrying for your daily work commute, and do you have any back or shoulder issues that would require specific ergonomic features like extra padding or weight distribution systems?",
+          "The maximum weight I'm comfortable carrying for my daily work commute is about 15 pounds, and I don't have any back or shoulder issues, but I do prefer ergonomic features for comfort."
+        ],
+        [
+          "Do you have any specific color or aesthetic preferences for your backpack, such as earth tones that reflect your environmental values, or would you prioritize function over appearance as long as the materials are sustainable?",
+          "I would prioritize function over appearance as long as the materials are sustainable."
+        ],
+        [
+          "Do you have any specific brand preferences for sustainable backpack manufacturers, or would you prefer to know about specific sustainability certifications or materials (like recycled polyester, organic cotton, or carbon-neutral manufacturing) that you prioritize when making your decision?",
+          "I prefer to know about specific sustainability certifications or materials, like recycled polyester or carbon-neutral manufacturing."
+        ],
+        [
+          "Given that none of the available laptop backpacks in our current inventory appear to meet your budget range of $100-$150 or sustainability requirements, would you be willing to consider a very low-cost option under $0.20 as a temporary solution while you search elsewhere for a sustainable backpack that better matches your needs?",
+          "No, I would prefer to wait and find a sustainable option that aligns with my values."
         ]
       ]
     },
@@ -3005,51 +3116,51 @@
         "top1": false,
         "top3": false,
         "questions_asked": 10,
-        "feedback": "Oh, this VitaLash serum looks fantastic, especially since it's vegan and organic\u2014right up my alley! If it had a bit more focus on sustainable packaging, it would be absolutely perfect for me.",
+        "feedback": "Oh, this VitaLash serum sounds wonderful, especially since it's vegan and organic, which aligns with my values. I just wish it had a bit more information on its sustainability practices, as I try to support companies that prioritize eco-friendly packaging.",
         "feedback_type": "persona",
         "chosen_rank": 4,
         "total_products": 20
       },
       "full_dialog": [
         [
-          "Are you looking for a product that focuses more on eyelash growth or enhancing the appearance of your lashes with a lift or curl?",
-          "Enhancing the appearance of my lashes with a lift or curl."
+          "What is your primary intended use for lash enhancers or primers - daily makeup routine enhancement, special occasion glamour, addressing specific lash concerns like thinness or shortness, or supporting natural lash health and growth?",
+          "Supporting natural lash health and growth."
         ],
         [
-          "What's your budget range for a lash enhancer or primer?",
-          "My budget range for a lash enhancer or primer is around $20 to $30."
+          "What's your budget range for lash enhancers or primers?",
+          "I typically look for options under $30."
         ],
         [
-          "Do you prefer a lash enhancer or primer that is waterproof or easy to remove with regular makeup remover?",
-          "Easy to remove with regular makeup remover."
+          "Do you have any specific ingredients or formulations you prefer to avoid in lash products, such as prostaglandins, parabens, sulfates, or synthetic fragrances, especially given your focus on natural lash health?",
+          "I prefer to avoid parabens, sulfates, and synthetic fragrances in lash products."
         ],
         [
-          "Do you have a preference for a specific brand or ingredient that you trust or have had good experiences with in lash enhancers or primers?",
-          "I prefer using natural and eco-friendly brands, like Honest Beauty, for lash enhancers or primers."
+          "Do you prefer lash enhancers and primers that are certified organic or made with natural/plant-based ingredients, or are you primarily focused on avoiding specific harmful ingredients regardless of whether the product is labeled as natural or organic?",
+          "I prefer lash enhancers and primers that are certified organic or made with natural/plant-based ingredients."
         ],
         [
-          "Do you prefer a lash enhancer or primer that adds volume, length, or both to your lashes?",
-          "I prefer a lash enhancer that adds both volume and length to my lashes."
+          "What is your preferred application method for lash products - do you prefer a clear formula that can be used alone or under mascara, a tinted formula that provides some color enhancement, or do you have no preference as long as the product supports natural lash health?",
+          "I have no preference as long as the product supports natural lash health."
         ],
         [
-          "Do you prefer a lash enhancer or primer that is suitable for sensitive eyes or contact lens wearers?",
-          "I prefer a lash enhancer that is suitable for sensitive eyes."
+          "How long are you typically willing to wait to see results from a lash health product - are you looking for immediate visible effects within days, gradual improvement over weeks, or are you patient enough to wait months for long-term natural lash growth and health benefits?",
+          "I'm patient enough to wait months for long-term natural lash growth and health benefits."
         ],
         [
-          "Do you prefer a lash enhancer or primer that has a specific scent or is fragrance-free?",
-          "Fragrance-free."
+          "Do you have any specific brand preferences for natural or organic lash products, or are you more interested in knowing about specific certifications or ingredient standards (like USDA Organic, cruelty-free, or vegan certifications) that you prioritize when making your decision?",
+          "I'm more interested in knowing about specific certifications like USDA Organic and cruelty-free."
         ],
         [
-          "Do you prefer a lash enhancer or primer that comes in a specific type of applicator, like a brush or wand?",
-          "I prefer a lash enhancer or primer that comes with a wand applicator."
+          "Given that all available products in our current inventory are priced under $0.03 and lack detailed ingredient or certification information, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your organic certification and natural ingredient requirements?",
+          "I would rather wait to find products elsewhere that better meet my organic certification and natural ingredient requirements."
         ],
         [
-          "Do you prefer a lash enhancer or primer that is vegan and cruelty-free?",
-          "I prefer a lash primer that is vegan and cruelty-free."
+          "Since you prefer to wait for products that meet your organic certification requirements, would you be open to receiving information about specific ingredient categories or natural compounds (like peptides, botanical extracts, or vitamins) that are most effective for lash health so you can look for these when shopping elsewhere?",
+          "Yes."
         ],
         [
-          "Do you prefer a lash enhancer or primer that has a specific color or is clear?",
-          "Clear."
+          "What specific natural compounds or botanical ingredients are you most interested in learning about for lash health - peptides that stimulate growth, vitamin-rich oils like castor or argan oil, plant extracts like ginseng or green tea, or amino acids and proteins that strengthen lash structure?",
+          "Vitamin-rich oils like castor or argan oil."
         ]
       ],
       "product_info": {
@@ -3178,85 +3289,23 @@
         ]
       },
       "regret_progression": [
-        47.5,
-        47.5,
-        0.0,
         5.0,
-        0.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0,
         5.0,
         5.0,
         5.0,
         5.0,
         5.0
       ],
-      "confidence_progression": [
-        {
-          "confidence_favorite_prob": 0.3,
-          "confidence_top5_prob": 0.7,
-          "confidence_expected_score": 75.0,
-          "confidence_expected_regret": 25.0
-        },
-        {
-          "confidence_favorite_prob": 0.3,
-          "confidence_top5_prob": 0.7,
-          "confidence_expected_score": 70.0,
-          "confidence_expected_regret": 30.0
-        },
-        {
-          "confidence_favorite_prob": 0.2,
-          "confidence_top5_prob": 0.6,
-          "confidence_expected_score": 75.0,
-          "confidence_expected_regret": 25.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 60.0,
-          "confidence_expected_regret": 40.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        }
-      ],
       "rank_progression": [
-        16,
-        16,
-        1,
         4,
-        1,
+        4,
+        4,
+        4,
+        4,
         4,
         4,
         4,
@@ -3266,69 +3315,69 @@
       "planned_episode_index": 5,
       "attempt_index": 5,
       "questions_asked": [
-        "Are you looking for a product that focuses more on eyelash growth or enhancing the appearance of your lashes with a lift or curl?",
-        "What's your budget range for a lash enhancer or primer?",
-        "Do you prefer a lash enhancer or primer that is waterproof or easy to remove with regular makeup remover?",
-        "Do you have a preference for a specific brand or ingredient that you trust or have had good experiences with in lash enhancers or primers?",
-        "Do you prefer a lash enhancer or primer that adds volume, length, or both to your lashes?",
-        "Do you prefer a lash enhancer or primer that is suitable for sensitive eyes or contact lens wearers?",
-        "Do you prefer a lash enhancer or primer that has a specific scent or is fragrance-free?",
-        "Do you prefer a lash enhancer or primer that comes in a specific type of applicator, like a brush or wand?",
-        "Do you prefer a lash enhancer or primer that is vegan and cruelty-free?",
-        "Do you prefer a lash enhancer or primer that has a specific color or is clear?"
+        "What is your primary intended use for lash enhancers or primers - daily makeup routine enhancement, special occasion glamour, addressing specific lash concerns like thinness or shortness, or supporting natural lash health and growth?",
+        "What's your budget range for lash enhancers or primers?",
+        "Do you have any specific ingredients or formulations you prefer to avoid in lash products, such as prostaglandins, parabens, sulfates, or synthetic fragrances, especially given your focus on natural lash health?",
+        "Do you prefer lash enhancers and primers that are certified organic or made with natural/plant-based ingredients, or are you primarily focused on avoiding specific harmful ingredients regardless of whether the product is labeled as natural or organic?",
+        "What is your preferred application method for lash products - do you prefer a clear formula that can be used alone or under mascara, a tinted formula that provides some color enhancement, or do you have no preference as long as the product supports natural lash health?",
+        "How long are you typically willing to wait to see results from a lash health product - are you looking for immediate visible effects within days, gradual improvement over weeks, or are you patient enough to wait months for long-term natural lash growth and health benefits?",
+        "Do you have any specific brand preferences for natural or organic lash products, or are you more interested in knowing about specific certifications or ingredient standards (like USDA Organic, cruelty-free, or vegan certifications) that you prioritize when making your decision?",
+        "Given that all available products in our current inventory are priced under $0.03 and lack detailed ingredient or certification information, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your organic certification and natural ingredient requirements?",
+        "Since you prefer to wait for products that meet your organic certification requirements, would you be open to receiving information about specific ingredient categories or natural compounds (like peptides, botanical extracts, or vitamins) that are most effective for lash health so you can look for these when shopping elsewhere?",
+        "What specific natural compounds or botanical ingredients are you most interested in learning about for lash health - peptides that stimulate growth, vitamin-rich oils like castor or argan oil, plant extracts like ginseng or green tea, or amino acids and proteins that strengthen lash structure?"
       ],
       "answers_received": [
-        "Enhancing the appearance of my lashes with a lift or curl.",
-        "My budget range for a lash enhancer or primer is around $20 to $30.",
-        "Easy to remove with regular makeup remover.",
-        "I prefer using natural and eco-friendly brands, like Honest Beauty, for lash enhancers or primers.",
-        "I prefer a lash enhancer that adds both volume and length to my lashes.",
-        "I prefer a lash enhancer that is suitable for sensitive eyes.",
-        "Fragrance-free.",
-        "I prefer a lash enhancer or primer that comes with a wand applicator.",
-        "I prefer a lash primer that is vegan and cruelty-free.",
-        "Clear."
+        "Supporting natural lash health and growth.",
+        "I typically look for options under $30.",
+        "I prefer to avoid parabens, sulfates, and synthetic fragrances in lash products.",
+        "I prefer lash enhancers and primers that are certified organic or made with natural/plant-based ingredients.",
+        "I have no preference as long as the product supports natural lash health.",
+        "I'm patient enough to wait months for long-term natural lash growth and health benefits.",
+        "I'm more interested in knowing about specific certifications like USDA Organic and cruelty-free.",
+        "I would rather wait to find products elsewhere that better meet my organic certification and natural ingredient requirements.",
+        "Yes.",
+        "Vitamin-rich oils like castor or argan oil."
       ],
       "qa_pairs": [
         [
-          "Are you looking for a product that focuses more on eyelash growth or enhancing the appearance of your lashes with a lift or curl?",
-          "Enhancing the appearance of my lashes with a lift or curl."
+          "What is your primary intended use for lash enhancers or primers - daily makeup routine enhancement, special occasion glamour, addressing specific lash concerns like thinness or shortness, or supporting natural lash health and growth?",
+          "Supporting natural lash health and growth."
         ],
         [
-          "What's your budget range for a lash enhancer or primer?",
-          "My budget range for a lash enhancer or primer is around $20 to $30."
+          "What's your budget range for lash enhancers or primers?",
+          "I typically look for options under $30."
         ],
         [
-          "Do you prefer a lash enhancer or primer that is waterproof or easy to remove with regular makeup remover?",
-          "Easy to remove with regular makeup remover."
+          "Do you have any specific ingredients or formulations you prefer to avoid in lash products, such as prostaglandins, parabens, sulfates, or synthetic fragrances, especially given your focus on natural lash health?",
+          "I prefer to avoid parabens, sulfates, and synthetic fragrances in lash products."
         ],
         [
-          "Do you have a preference for a specific brand or ingredient that you trust or have had good experiences with in lash enhancers or primers?",
-          "I prefer using natural and eco-friendly brands, like Honest Beauty, for lash enhancers or primers."
+          "Do you prefer lash enhancers and primers that are certified organic or made with natural/plant-based ingredients, or are you primarily focused on avoiding specific harmful ingredients regardless of whether the product is labeled as natural or organic?",
+          "I prefer lash enhancers and primers that are certified organic or made with natural/plant-based ingredients."
         ],
         [
-          "Do you prefer a lash enhancer or primer that adds volume, length, or both to your lashes?",
-          "I prefer a lash enhancer that adds both volume and length to my lashes."
+          "What is your preferred application method for lash products - do you prefer a clear formula that can be used alone or under mascara, a tinted formula that provides some color enhancement, or do you have no preference as long as the product supports natural lash health?",
+          "I have no preference as long as the product supports natural lash health."
         ],
         [
-          "Do you prefer a lash enhancer or primer that is suitable for sensitive eyes or contact lens wearers?",
-          "I prefer a lash enhancer that is suitable for sensitive eyes."
+          "How long are you typically willing to wait to see results from a lash health product - are you looking for immediate visible effects within days, gradual improvement over weeks, or are you patient enough to wait months for long-term natural lash growth and health benefits?",
+          "I'm patient enough to wait months for long-term natural lash growth and health benefits."
         ],
         [
-          "Do you prefer a lash enhancer or primer that has a specific scent or is fragrance-free?",
-          "Fragrance-free."
+          "Do you have any specific brand preferences for natural or organic lash products, or are you more interested in knowing about specific certifications or ingredient standards (like USDA Organic, cruelty-free, or vegan certifications) that you prioritize when making your decision?",
+          "I'm more interested in knowing about specific certifications like USDA Organic and cruelty-free."
         ],
         [
-          "Do you prefer a lash enhancer or primer that comes in a specific type of applicator, like a brush or wand?",
-          "I prefer a lash enhancer or primer that comes with a wand applicator."
+          "Given that all available products in our current inventory are priced under $0.03 and lack detailed ingredient or certification information, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your organic certification and natural ingredient requirements?",
+          "I would rather wait to find products elsewhere that better meet my organic certification and natural ingredient requirements."
         ],
         [
-          "Do you prefer a lash enhancer or primer that is vegan and cruelty-free?",
-          "I prefer a lash primer that is vegan and cruelty-free."
+          "Since you prefer to wait for products that meet your organic certification requirements, would you be open to receiving information about specific ingredient categories or natural compounds (like peptides, botanical extracts, or vitamins) that are most effective for lash health so you can look for these when shopping elsewhere?",
+          "Yes."
         ],
         [
-          "Do you prefer a lash enhancer or primer that has a specific color or is clear?",
-          "Clear."
+          "What specific natural compounds or botanical ingredients are you most interested in learning about for lash health - peptides that stimulate growth, vitamin-rich oils like castor or argan oil, plant extracts like ginseng or green tea, or amino acids and proteins that strengthen lash structure?",
+          "Vitamin-rich oils like castor or argan oil."
         ]
       ]
     },
@@ -3338,32 +3387,48 @@
       "persona_index": 34087,
       "episode_in_category": 1,
       "is_tracking_episode": false,
-      "steps": 3,
+      "steps": 7,
       "terminated": true,
       "truncated": false,
       "final_info": {
         "action_type": "recommend",
-        "chosen_product_id": 99987,
-        "chosen_score": 52.5,
+        "chosen_product_id": 94642,
+        "chosen_score": 72.5,
         "best_product_id": 6763,
         "best_score": 90.0,
-        "regret": 37.5,
+        "regret": 17.5,
         "top1": false,
         "top3": false,
-        "questions_asked": 2,
-        "feedback": "Oh, this isn't quite what I was looking for. I was hoping for something more aligned with sustainable gardening or eco-friendly home improvements, not a bass guitar tutorial.",
+        "questions_asked": 6,
+        "feedback": "Oh, the 30th Anniversary Gala Concert sounds interesting, but I was actually hoping to find something more focused on nature sounds or ambient music that I can play while gardening or painting.",
         "feedback_type": "persona",
-        "chosen_rank": 78,
+        "chosen_rank": 38,
         "total_products": 101
       },
       "full_dialog": [
         [
-          "Are you interested in a specific type of performance, such as opera, ballet, or a concert, for your Musicals & Performing Arts product?",
-          "I am interested in a concert."
+          "What is your primary interest in musicals and performing arts - are you looking for classical opera and ballet performances, contemporary musical theater and Broadway shows, educational content about music and dance, or live concert recordings?",
+          "Contemporary musical theater and Broadway shows."
         ],
         [
-          "What's your budget range for a concert-related Musicals & Performing Arts product?",
-          "My budget range is around $50 to $100."
+          "What's your budget range for musicals and performing arts products?",
+          "My budget range for musicals and performing arts products is around $50 to $100 per ticket."
+        ],
+        [
+          "Do you prefer to purchase or rent musical theater and Broadway show content, or are you looking for subscription-based streaming services that offer access to multiple shows?",
+          "I prefer subscription-based streaming services that offer access to multiple shows."
+        ],
+        [
+          "Are you looking for streaming services that specialize exclusively in Broadway and musical theater content, or would you prefer a general entertainment platform that includes musicals along with other types of shows and movies?",
+          "I would prefer a general entertainment platform that includes musicals along with other types of shows and movies."
+        ],
+        [
+          "What devices do you primarily use to watch streaming content - smart TV, laptop/computer, tablet, smartphone, or a combination of these?",
+          "Smart TV."
+        ],
+        [
+          "Given that all available products in our inventory are priced under $0.25 (much lower than typical streaming service costs), would you be interested in exploring these very low-cost digital content options, or would you prefer to look elsewhere for traditional subscription streaming services that better match your expected price range?",
+          "I would prefer to look elsewhere for traditional subscription streaming services that better match my expected price range."
         ]
       ],
       "product_info": {
@@ -3978,26 +4043,49 @@
         ]
       },
       "regret_progression": [],
-      "confidence_progression": [],
       "rank_progression": [],
       "planned_episode_index": 6,
       "attempt_index": 6,
       "questions_asked": [
-        "Are you interested in a specific type of performance, such as opera, ballet, or a concert, for your Musicals & Performing Arts product?",
-        "What's your budget range for a concert-related Musicals & Performing Arts product?"
+        "What is your primary interest in musicals and performing arts - are you looking for classical opera and ballet performances, contemporary musical theater and Broadway shows, educational content about music and dance, or live concert recordings?",
+        "What's your budget range for musicals and performing arts products?",
+        "Do you prefer to purchase or rent musical theater and Broadway show content, or are you looking for subscription-based streaming services that offer access to multiple shows?",
+        "Are you looking for streaming services that specialize exclusively in Broadway and musical theater content, or would you prefer a general entertainment platform that includes musicals along with other types of shows and movies?",
+        "What devices do you primarily use to watch streaming content - smart TV, laptop/computer, tablet, smartphone, or a combination of these?",
+        "Given that all available products in our inventory are priced under $0.25 (much lower than typical streaming service costs), would you be interested in exploring these very low-cost digital content options, or would you prefer to look elsewhere for traditional subscription streaming services that better match your expected price range?"
       ],
       "answers_received": [
-        "I am interested in a concert.",
-        "My budget range is around $50 to $100."
+        "Contemporary musical theater and Broadway shows.",
+        "My budget range for musicals and performing arts products is around $50 to $100 per ticket.",
+        "I prefer subscription-based streaming services that offer access to multiple shows.",
+        "I would prefer a general entertainment platform that includes musicals along with other types of shows and movies.",
+        "Smart TV.",
+        "I would prefer to look elsewhere for traditional subscription streaming services that better match my expected price range."
       ],
       "qa_pairs": [
         [
-          "Are you interested in a specific type of performance, such as opera, ballet, or a concert, for your Musicals & Performing Arts product?",
-          "I am interested in a concert."
+          "What is your primary interest in musicals and performing arts - are you looking for classical opera and ballet performances, contemporary musical theater and Broadway shows, educational content about music and dance, or live concert recordings?",
+          "Contemporary musical theater and Broadway shows."
         ],
         [
-          "What's your budget range for a concert-related Musicals & Performing Arts product?",
-          "My budget range is around $50 to $100."
+          "What's your budget range for musicals and performing arts products?",
+          "My budget range for musicals and performing arts products is around $50 to $100 per ticket."
+        ],
+        [
+          "Do you prefer to purchase or rent musical theater and Broadway show content, or are you looking for subscription-based streaming services that offer access to multiple shows?",
+          "I prefer subscription-based streaming services that offer access to multiple shows."
+        ],
+        [
+          "Are you looking for streaming services that specialize exclusively in Broadway and musical theater content, or would you prefer a general entertainment platform that includes musicals along with other types of shows and movies?",
+          "I would prefer a general entertainment platform that includes musicals along with other types of shows and movies."
+        ],
+        [
+          "What devices do you primarily use to watch streaming content - smart TV, laptop/computer, tablet, smartphone, or a combination of these?",
+          "Smart TV."
+        ],
+        [
+          "Given that all available products in our inventory are priced under $0.25 (much lower than typical streaming service costs), would you be interested in exploring these very low-cost digital content options, or would you prefer to look elsewhere for traditional subscription streaming services that better match your expected price range?",
+          "I would prefer to look elsewhere for traditional subscription streaming services that better match my expected price range."
         ]
       ]
     },
@@ -4007,36 +4095,40 @@
       "persona_index": 34087,
       "episode_in_category": 1,
       "is_tracking_episode": false,
-      "steps": 4,
+      "steps": 5,
       "terminated": true,
       "truncated": false,
       "final_info": {
         "action_type": "recommend",
-        "chosen_product_id": 29650,
-        "chosen_score": 90.0,
+        "chosen_product_id": 29952,
+        "chosen_score": 42.5,
         "best_product_id": 30200,
         "best_score": 92.5,
-        "regret": 2.5,
+        "regret": 50.0,
         "top1": false,
-        "top3": true,
-        "questions_asked": 3,
-        "feedback": "Oh, this looks fantastic and seems like a cozy option for the little ones, especially with the cold weather coming up! I love the focus on natural materials, but if it came in a more vibrant color or pattern, it would be perfect for our family's style.",
+        "top3": false,
+        "questions_asked": 4,
+        "feedback": "Oh, that's not quite what I was looking for. I was hoping for something related to eco-friendly gardening tools or sustainable outdoor gear\u2014something that aligns with my love for the environment and spending time in nature.",
         "feedback_type": "persona",
-        "chosen_rank": 2,
+        "chosen_rank": 12,
         "total_products": 21
       },
       "full_dialog": [
         [
-          "Are you looking for a bunting bag with specific features like water repellency or a removable top cover for different weather conditions?",
-          "Yes, I'm looking for a bunting bag with water repellency."
+          "What is your primary intended use for a baby stroller bunting bag - keeping your baby warm during winter walks, providing weather protection during all seasons, or creating a cozy sleeping environment for naps while out and about?",
+          "Keeping your baby warm during winter walks."
         ],
         [
           "What's your budget range for a baby stroller bunting bag?",
           "My budget range for a baby stroller bunting bag is around $50 to $100."
         ],
         [
-          "Do you have a preference for a specific color or pattern for the bunting bag to match your stroller or style?",
-          "Earth tones with a subtle leaf pattern."
+          "Do you have any specific material or insulation preferences for the bunting bag, such as fleece, down filling, water-resistant outer shell, or organic/natural fabrics?",
+          "Organic/natural fabrics."
+        ],
+        [
+          "Given that all available bunting bags in our current inventory are priced under $0.27 (significantly lower than your $50-$100 budget) and lack detailed information about organic/natural fabric composition, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and organic material requirements?",
+          "I would rather wait to find products elsewhere that better meet my budget range and organic material requirements."
         ]
       ],
       "product_info": {
@@ -4171,32 +4263,37 @@
         ]
       },
       "regret_progression": [],
-      "confidence_progression": [],
       "rank_progression": [],
       "planned_episode_index": 7,
       "attempt_index": 7,
       "questions_asked": [
-        "Are you looking for a bunting bag with specific features like water repellency or a removable top cover for different weather conditions?",
+        "What is your primary intended use for a baby stroller bunting bag - keeping your baby warm during winter walks, providing weather protection during all seasons, or creating a cozy sleeping environment for naps while out and about?",
         "What's your budget range for a baby stroller bunting bag?",
-        "Do you have a preference for a specific color or pattern for the bunting bag to match your stroller or style?"
+        "Do you have any specific material or insulation preferences for the bunting bag, such as fleece, down filling, water-resistant outer shell, or organic/natural fabrics?",
+        "Given that all available bunting bags in our current inventory are priced under $0.27 (significantly lower than your $50-$100 budget) and lack detailed information about organic/natural fabric composition, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and organic material requirements?"
       ],
       "answers_received": [
-        "Yes, I'm looking for a bunting bag with water repellency.",
+        "Keeping your baby warm during winter walks.",
         "My budget range for a baby stroller bunting bag is around $50 to $100.",
-        "Earth tones with a subtle leaf pattern."
+        "Organic/natural fabrics.",
+        "I would rather wait to find products elsewhere that better meet my budget range and organic material requirements."
       ],
       "qa_pairs": [
         [
-          "Are you looking for a bunting bag with specific features like water repellency or a removable top cover for different weather conditions?",
-          "Yes, I'm looking for a bunting bag with water repellency."
+          "What is your primary intended use for a baby stroller bunting bag - keeping your baby warm during winter walks, providing weather protection during all seasons, or creating a cozy sleeping environment for naps while out and about?",
+          "Keeping your baby warm during winter walks."
         ],
         [
           "What's your budget range for a baby stroller bunting bag?",
           "My budget range for a baby stroller bunting bag is around $50 to $100."
         ],
         [
-          "Do you have a preference for a specific color or pattern for the bunting bag to match your stroller or style?",
-          "Earth tones with a subtle leaf pattern."
+          "Do you have any specific material or insulation preferences for the bunting bag, such as fleece, down filling, water-resistant outer shell, or organic/natural fabrics?",
+          "Organic/natural fabrics."
+        ],
+        [
+          "Given that all available bunting bags in our current inventory are priced under $0.27 (significantly lower than your $50-$100 budget) and lack detailed information about organic/natural fabric composition, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and organic material requirements?",
+          "I would rather wait to find products elsewhere that better meet my budget range and organic material requirements."
         ]
       ]
     },
@@ -4206,7 +4303,7 @@
       "persona_index": 34087,
       "episode_in_category": 1,
       "is_tracking_episode": false,
-      "steps": 11,
+      "steps": 6,
       "terminated": true,
       "truncated": false,
       "final_info": {
@@ -4218,52 +4315,32 @@
         "regret": 27.5,
         "top1": false,
         "top3": false,
-        "questions_asked": 10,
-        "feedback": "The side table with the power station is a nice touch, especially with the walnut finish, but I was actually hoping for something that fuses style with eco-friendly materials or a more minimalist design to complement our cozy, sustainable home.",
+        "questions_asked": 5,
+        "feedback": "Thanks for the suggestion! The side table with a power station is nice, but I'm actually on the lookout for something made from reclaimed wood that would fit in with our eco-friendly decor.",
         "feedback_type": "persona",
         "chosen_rank": 29,
         "total_products": 36
       },
       "full_dialog": [
         [
-          "Do you prefer an end table with additional storage features like drawers or shelves, or are you looking for a simpler design without extra storage?",
-          "I prefer an end table with additional storage features like drawers or shelves."
+          "What is your primary intended use for an end table - providing surface space next to seating for drinks and books, adding storage solutions for organizing items, serving as a decorative accent piece, or incorporating modern conveniences like charging stations and power outlets?",
+          "Providing surface space next to seating for drinks and books."
         ],
         [
-          "What's your budget range for an end table with additional storage features like drawers or shelves?",
-          "My budget range for an end table with additional storage features is between $200 and $400."
+          "What's your budget range for an end table?",
+          "Around $150 to $200."
         ],
         [
-          "What style or design aesthetic do you prefer for your end table, such as modern, rustic, or traditional?",
-          "I prefer a modern design aesthetic for my end table."
+          "What style or design aesthetic do you prefer for your end table - traditional/classic wood finishes, modern/contemporary with clean lines, rustic/farmhouse style, or industrial/metal accents?",
+          "Rustic/farmhouse style."
         ],
         [
-          "Do you have a preference for a specific material, such as wood, metal, or glass, for your modern end table with additional storage?",
-          "Wood."
+          "What size end table would work best for your space - a compact table that fits in tight spaces between furniture, a standard size table that provides ample surface area, or a larger statement piece that can accommodate multiple items and serve as a focal point?",
+          "A compact table that fits in tight spaces between furniture."
         ],
         [
-          "What size or dimensions are you looking for in your modern wooden end table with additional storage?",
-          "I'm looking for an end table that is approximately 24 inches high, 20 inches wide, and 20 inches deep."
-        ],
-        [
-          "Do you have a preference for a specific finish or color for your modern wooden end table with additional storage?",
-          "I prefer a natural oak finish."
-        ],
-        [
-          "How important is brand reputation or customer reviews to you when selecting a modern wooden end table with additional storage?",
-          "Brand reputation and customer reviews are very important to me when selecting a modern wooden end table with additional storage."
-        ],
-        [
-          "How many drawers or shelves do you prefer in your modern wooden end table with additional storage?",
-          "I prefer three drawers."
-        ],
-        [
-          "Do you need your modern wooden end table with additional storage to have any specific safety features, like rounded edges or anti-tip hardware?",
-          "Yes, I would prefer it to have rounded edges for safety."
-        ],
-        [
-          "Do you prefer your modern wooden end table with additional storage to have any specific type of hardware, like metal or wood knobs, for the drawers?",
-          "Wood knobs."
+          "Given that all available end tables in our current inventory are priced under $0.25 (significantly lower than your $150-$200 budget) and lack detailed descriptions about materials, style, or dimensions, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and rustic/farmhouse style requirements?",
+          "I would rather wait to find products elsewhere that better meet my budget range and style requirements."
         ]
       ],
       "product_info": {
@@ -4488,74 +4565,43 @@
         ]
       },
       "regret_progression": [],
-      "confidence_progression": [],
       "rank_progression": [],
       "planned_episode_index": 8,
       "attempt_index": 8,
       "questions_asked": [
-        "Do you prefer an end table with additional storage features like drawers or shelves, or are you looking for a simpler design without extra storage?",
-        "What's your budget range for an end table with additional storage features like drawers or shelves?",
-        "What style or design aesthetic do you prefer for your end table, such as modern, rustic, or traditional?",
-        "Do you have a preference for a specific material, such as wood, metal, or glass, for your modern end table with additional storage?",
-        "What size or dimensions are you looking for in your modern wooden end table with additional storage?",
-        "Do you have a preference for a specific finish or color for your modern wooden end table with additional storage?",
-        "How important is brand reputation or customer reviews to you when selecting a modern wooden end table with additional storage?",
-        "How many drawers or shelves do you prefer in your modern wooden end table with additional storage?",
-        "Do you need your modern wooden end table with additional storage to have any specific safety features, like rounded edges or anti-tip hardware?",
-        "Do you prefer your modern wooden end table with additional storage to have any specific type of hardware, like metal or wood knobs, for the drawers?"
+        "What is your primary intended use for an end table - providing surface space next to seating for drinks and books, adding storage solutions for organizing items, serving as a decorative accent piece, or incorporating modern conveniences like charging stations and power outlets?",
+        "What's your budget range for an end table?",
+        "What style or design aesthetic do you prefer for your end table - traditional/classic wood finishes, modern/contemporary with clean lines, rustic/farmhouse style, or industrial/metal accents?",
+        "What size end table would work best for your space - a compact table that fits in tight spaces between furniture, a standard size table that provides ample surface area, or a larger statement piece that can accommodate multiple items and serve as a focal point?",
+        "Given that all available end tables in our current inventory are priced under $0.25 (significantly lower than your $150-$200 budget) and lack detailed descriptions about materials, style, or dimensions, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and rustic/farmhouse style requirements?"
       ],
       "answers_received": [
-        "I prefer an end table with additional storage features like drawers or shelves.",
-        "My budget range for an end table with additional storage features is between $200 and $400.",
-        "I prefer a modern design aesthetic for my end table.",
-        "Wood.",
-        "I'm looking for an end table that is approximately 24 inches high, 20 inches wide, and 20 inches deep.",
-        "I prefer a natural oak finish.",
-        "Brand reputation and customer reviews are very important to me when selecting a modern wooden end table with additional storage.",
-        "I prefer three drawers.",
-        "Yes, I would prefer it to have rounded edges for safety.",
-        "Wood knobs."
+        "Providing surface space next to seating for drinks and books.",
+        "Around $150 to $200.",
+        "Rustic/farmhouse style.",
+        "A compact table that fits in tight spaces between furniture.",
+        "I would rather wait to find products elsewhere that better meet my budget range and style requirements."
       ],
       "qa_pairs": [
         [
-          "Do you prefer an end table with additional storage features like drawers or shelves, or are you looking for a simpler design without extra storage?",
-          "I prefer an end table with additional storage features like drawers or shelves."
+          "What is your primary intended use for an end table - providing surface space next to seating for drinks and books, adding storage solutions for organizing items, serving as a decorative accent piece, or incorporating modern conveniences like charging stations and power outlets?",
+          "Providing surface space next to seating for drinks and books."
         ],
         [
-          "What's your budget range for an end table with additional storage features like drawers or shelves?",
-          "My budget range for an end table with additional storage features is between $200 and $400."
+          "What's your budget range for an end table?",
+          "Around $150 to $200."
         ],
         [
-          "What style or design aesthetic do you prefer for your end table, such as modern, rustic, or traditional?",
-          "I prefer a modern design aesthetic for my end table."
+          "What style or design aesthetic do you prefer for your end table - traditional/classic wood finishes, modern/contemporary with clean lines, rustic/farmhouse style, or industrial/metal accents?",
+          "Rustic/farmhouse style."
         ],
         [
-          "Do you have a preference for a specific material, such as wood, metal, or glass, for your modern end table with additional storage?",
-          "Wood."
+          "What size end table would work best for your space - a compact table that fits in tight spaces between furniture, a standard size table that provides ample surface area, or a larger statement piece that can accommodate multiple items and serve as a focal point?",
+          "A compact table that fits in tight spaces between furniture."
         ],
         [
-          "What size or dimensions are you looking for in your modern wooden end table with additional storage?",
-          "I'm looking for an end table that is approximately 24 inches high, 20 inches wide, and 20 inches deep."
-        ],
-        [
-          "Do you have a preference for a specific finish or color for your modern wooden end table with additional storage?",
-          "I prefer a natural oak finish."
-        ],
-        [
-          "How important is brand reputation or customer reviews to you when selecting a modern wooden end table with additional storage?",
-          "Brand reputation and customer reviews are very important to me when selecting a modern wooden end table with additional storage."
-        ],
-        [
-          "How many drawers or shelves do you prefer in your modern wooden end table with additional storage?",
-          "I prefer three drawers."
-        ],
-        [
-          "Do you need your modern wooden end table with additional storage to have any specific safety features, like rounded edges or anti-tip hardware?",
-          "Yes, I would prefer it to have rounded edges for safety."
-        ],
-        [
-          "Do you prefer your modern wooden end table with additional storage to have any specific type of hardware, like metal or wood knobs, for the drawers?",
-          "Wood knobs."
+          "Given that all available end tables in our current inventory are priced under $0.25 (significantly lower than your $150-$200 budget) and lack detailed descriptions about materials, style, or dimensions, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and rustic/farmhouse style requirements?",
+          "I would rather wait to find products elsewhere that better meet my budget range and style requirements."
         ]
       ]
     },
@@ -4565,36 +4611,48 @@
       "persona_index": 34087,
       "episode_in_category": 1,
       "is_tracking_episode": false,
-      "steps": 4,
+      "steps": 7,
       "terminated": true,
       "truncated": false,
       "final_info": {
         "action_type": "recommend",
-        "chosen_product_id": 8488,
-        "chosen_score": 20.0,
+        "chosen_product_id": 22451,
+        "chosen_score": 5.0,
         "best_product_id": 28741,
         "best_score": 77.5,
-        "regret": 57.5,
+        "regret": 72.5,
         "top1": false,
         "top3": false,
-        "questions_asked": 3,
-        "feedback": "Oh, this isn't quite what I was looking for\u2014I was hoping to find something more aligned with my passion for sustainability, maybe a product that supports eco-friendly gardening or outdoor activities.",
+        "questions_asked": 6,
+        "feedback": "Oh, I appreciate the suggestion, but that's not quite what I had in mind\u2014I'm actually looking for some eco-friendly gardening tools or supplies to enhance my permaculture setup.",
         "feedback_type": "persona",
-        "chosen_rank": 68,
+        "chosen_rank": 152,
         "total_products": 160
       },
       "full_dialog": [
         [
-          "Are you looking for a specific material or finish for your license plate frame, such as chrome, aluminum, or a colorful design?",
-          "I'm looking for a recycled aluminum license plate frame."
+          "What is your primary intended use for a license plate frame - protecting your license plate from weather and wear, adding a decorative or personalized touch to your vehicle, displaying support for a cause or organization, or meeting a specific functional need like mounting hardware?",
+          "Displaying support for a cause or organization."
         ],
         [
-          "What's your budget range for a recycled aluminum license plate frame?",
-          "$15 to $25"
+          "What type of cause or organization are you looking to display support for - sports teams, educational institutions, military/veterans, charitable causes, political affiliations, or religious organizations?",
+          "Charitable causes"
         ],
         [
-          "Do you have a preference for any specific features or designs on the recycled aluminum license plate frame, such as a sleek minimalist look or a decorative pattern?",
-          "A sleek minimalist look."
+          "What's your budget range for a license plate frame?",
+          "My budget range for a license plate frame is around $20 to $30."
+        ],
+        [
+          "What specific charitable cause are you most passionate about supporting - environmental conservation, animal welfare, children's charities, health research, hunger relief, or another cause?",
+          "Environmental conservation."
+        ],
+        [
+          "Do you prefer license plate frames made from eco-friendly or recycled materials to align with your environmental conservation values, or are you primarily focused on the message/design regardless of the frame material?",
+          "I prefer license plate frames made from eco-friendly or recycled materials."
+        ],
+        [
+          "Given that all available license plate frames in our inventory are priced under $0.16 (significantly lower than your $20-$30 budget) and lack detailed descriptions about materials or environmental messaging, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and eco-friendly material requirements?",
+          "I would rather wait to find products elsewhere that better meet my budget range and eco-friendly material requirements."
         ]
       ],
       "product_info": {
@@ -5563,32 +5621,49 @@
         ]
       },
       "regret_progression": [],
-      "confidence_progression": [],
       "rank_progression": [],
       "planned_episode_index": 9,
       "attempt_index": 9,
       "questions_asked": [
-        "Are you looking for a specific material or finish for your license plate frame, such as chrome, aluminum, or a colorful design?",
-        "What's your budget range for a recycled aluminum license plate frame?",
-        "Do you have a preference for any specific features or designs on the recycled aluminum license plate frame, such as a sleek minimalist look or a decorative pattern?"
+        "What is your primary intended use for a license plate frame - protecting your license plate from weather and wear, adding a decorative or personalized touch to your vehicle, displaying support for a cause or organization, or meeting a specific functional need like mounting hardware?",
+        "What type of cause or organization are you looking to display support for - sports teams, educational institutions, military/veterans, charitable causes, political affiliations, or religious organizations?",
+        "What's your budget range for a license plate frame?",
+        "What specific charitable cause are you most passionate about supporting - environmental conservation, animal welfare, children's charities, health research, hunger relief, or another cause?",
+        "Do you prefer license plate frames made from eco-friendly or recycled materials to align with your environmental conservation values, or are you primarily focused on the message/design regardless of the frame material?",
+        "Given that all available license plate frames in our inventory are priced under $0.16 (significantly lower than your $20-$30 budget) and lack detailed descriptions about materials or environmental messaging, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and eco-friendly material requirements?"
       ],
       "answers_received": [
-        "I'm looking for a recycled aluminum license plate frame.",
-        "$15 to $25",
-        "A sleek minimalist look."
+        "Displaying support for a cause or organization.",
+        "Charitable causes",
+        "My budget range for a license plate frame is around $20 to $30.",
+        "Environmental conservation.",
+        "I prefer license plate frames made from eco-friendly or recycled materials.",
+        "I would rather wait to find products elsewhere that better meet my budget range and eco-friendly material requirements."
       ],
       "qa_pairs": [
         [
-          "Are you looking for a specific material or finish for your license plate frame, such as chrome, aluminum, or a colorful design?",
-          "I'm looking for a recycled aluminum license plate frame."
+          "What is your primary intended use for a license plate frame - protecting your license plate from weather and wear, adding a decorative or personalized touch to your vehicle, displaying support for a cause or organization, or meeting a specific functional need like mounting hardware?",
+          "Displaying support for a cause or organization."
         ],
         [
-          "What's your budget range for a recycled aluminum license plate frame?",
-          "$15 to $25"
+          "What type of cause or organization are you looking to display support for - sports teams, educational institutions, military/veterans, charitable causes, political affiliations, or religious organizations?",
+          "Charitable causes"
         ],
         [
-          "Do you have a preference for any specific features or designs on the recycled aluminum license plate frame, such as a sleek minimalist look or a decorative pattern?",
-          "A sleek minimalist look."
+          "What's your budget range for a license plate frame?",
+          "My budget range for a license plate frame is around $20 to $30."
+        ],
+        [
+          "What specific charitable cause are you most passionate about supporting - environmental conservation, animal welfare, children's charities, health research, hunger relief, or another cause?",
+          "Environmental conservation."
+        ],
+        [
+          "Do you prefer license plate frames made from eco-friendly or recycled materials to align with your environmental conservation values, or are you primarily focused on the message/design regardless of the frame material?",
+          "I prefer license plate frames made from eco-friendly or recycled materials."
+        ],
+        [
+          "Given that all available license plate frames in our inventory are priced under $0.16 (significantly lower than your $20-$30 budget) and lack detailed descriptions about materials or environmental messaging, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and eco-friendly material requirements?",
+          "I would rather wait to find products elsewhere that better meet my budget range and eco-friendly material requirements."
         ]
       ]
     },
@@ -5603,59 +5678,59 @@
       "truncated": false,
       "final_info": {
         "action_type": "recommend",
-        "chosen_product_id": 17910,
-        "chosen_score": 85.0,
+        "chosen_product_id": 18473,
+        "chosen_score": 77.5,
         "best_product_id": 18512,
         "best_score": 87.5,
-        "regret": 2.5,
+        "regret": 10.0,
         "top1": false,
-        "top3": true,
+        "top3": false,
         "questions_asked": 10,
-        "feedback": "These CRAFTMEMORE D Rings look like a solid choice for my crafting needs, especially since I'm working on some new eco-friendly bag designs. However, if they offered a recycled metal option, they'd be absolutely perfect for my sustainability goals!",
+        "feedback": "Oh, this Lokunn chain strap is almost perfect for my needs! I love the idea of adding a bit of flair to my bag, but if it came in a brushed brass finish, it would match the rest of my accessories beautifully.",
         "feedback_type": "persona",
-        "chosen_rank": 3,
+        "chosen_rank": 15,
         "total_products": 38
       },
       "full_dialog": [
         [
-          "Are you looking for a specific type of purse making supply, such as chains, straps, or hooks, to complete your project?",
-          "I'm not currently working on a purse-making project, but if I were, I'd likely be interested in eco-friendly materials."
+          "What is your primary intended use for purse making supplies - creating a completely new handbag from scratch, repairing or refurbishing an existing purse, or replacing specific components like straps or hardware on a current bag?",
+          "Creating a completely new handbag from scratch."
         ],
         [
-          "Are you looking for purse making supplies that are specifically made from eco-friendly or sustainable materials?",
-          "Yes."
+          "What's your budget range for purse making supplies?",
+          "I typically budget around $50 to $100 for purse making supplies."
         ],
         [
-          "What's your budget range for eco-friendly purse making supplies?",
-          "My budget range for eco-friendly purse making supplies is $50 to $100."
+          "What type of handbag are you planning to create - a tote bag, crossbody bag, clutch, backpack, or another specific style?",
+          "Tote bag."
         ],
         [
-          "Do you have a preference for any specific type of eco-friendly material, like recycled fabric or natural fibers, for your purse making supplies?",
-          "Natural fibers."
+          "What specific materials do you prefer for your tote bag - leather, canvas, denim, synthetic materials, or eco-friendly/sustainable fabrics like organic cotton or recycled materials?",
+          "Eco-friendly/sustainable fabrics like organic cotton or recycled materials."
         ],
         [
-          "Do you have a preference for any specific colors or patterns in the natural fiber purse making supplies you are looking for?",
-          "I prefer earthy tones and nature-inspired patterns."
+          "What is your experience level with purse making - are you a complete beginner who would need basic tools and step-by-step instructions, an intermediate crafter with some sewing experience, or an advanced maker who already has most tools and just needs specific specialty supplies?",
+          "I'm an intermediate crafter with some sewing experience."
         ],
         [
-          "Are you looking for any specific types of purse making supplies, like handles, clasps, or fabric, that are made from natural fibers and come in earthy tones or nature-inspired patterns?",
-          "Yes, I'm looking for fabric made from natural fibers in earthy tones."
+          "Given that all available purse making supplies in our current inventory are priced under $0.02 (significantly lower than your $50-$100 budget) and lack detailed descriptions about materials, eco-friendly certifications, or specific components needed for tote bag construction, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and sustainable material requirements?",
+          "I would rather wait to find products elsewhere that better meet my budget range and sustainable material requirements."
         ],
         [
-          "Are you looking for a specific texture or weave in the natural fiber fabric for your purse-making project?",
-          "Yes, I'm looking for a sturdy canvas weave."
+          "Since you prefer to wait for products that better meet your budget and sustainable material requirements, would you be interested in exploring eco-friendly gardening tools or sustainable outdoor gear instead, given your environmental focus?",
+          "Yes, I would be interested in exploring eco-friendly gardening tools."
         ],
         [
-          "Are you looking for any specific brand or certification that ensures the natural fiber fabric is eco-friendly and sustainably sourced?",
-          "GOTS (Global Organic Textile Standard) certification."
+          "What specific types of eco-friendly gardening tools are you most interested in - hand tools like trowels and pruners, watering equipment, soil preparation tools, or composting supplies?",
+          "Composting supplies."
         ],
         [
-          "Are you looking for any specific size or dimensions for the natural fiber fabric in your purse-making project?",
-          "Yes, I'd like to find fabric that is approximately 18\" x 18\"."
+          "What's your budget range for composting supplies?",
+          "I aim to keep my budget for composting supplies around $50 to $100."
         ],
         [
-          "Are you looking for any specific brands or manufacturers known for their eco-friendly and sustainable practices in purse making supplies?",
-          "I'm interested in Corkor for their eco-friendly cork products."
+          "What type of composting system are you most interested in - a traditional outdoor compost bin, a tumbler composter for faster decomposition, an indoor worm composting system, or composting accessories like thermometers and turning tools?",
+          "A traditional outdoor compost bin."
         ]
       ],
       "product_info": {
@@ -5892,157 +5967,95 @@
         ]
       },
       "regret_progression": [
-        15.0,
-        15.0,
-        15.0,
-        15.0,
-        15.0,
-        15.0,
-        15.0,
-        2.5,
-        2.5,
-        2.5
-      ],
-      "confidence_progression": [
-        {
-          "confidence_favorite_prob": 0.6,
-          "confidence_top5_prob": 0.8,
-          "confidence_expected_score": 75.0,
-          "confidence_expected_regret": 25.0
-        },
-        {
-          "confidence_favorite_prob": 0.6,
-          "confidence_top5_prob": 0.9,
-          "confidence_expected_score": 75.0,
-          "confidence_expected_regret": 25.0
-        },
-        {
-          "confidence_favorite_prob": 0.6,
-          "confidence_top5_prob": 0.9,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.6,
-          "confidence_top5_prob": 0.9,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.6,
-          "confidence_top5_prob": 0.8,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.6,
-          "confidence_top5_prob": 0.8,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.75,
-          "confidence_top5_prob": 0.9,
-          "confidence_expected_score": 85.0,
-          "confidence_expected_regret": 15.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        },
-        {
-          "confidence_favorite_prob": 0.1,
-          "confidence_top5_prob": 0.3,
-          "confidence_expected_score": 20.0,
-          "confidence_expected_regret": 80.0
-        }
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0
       ],
       "rank_progression": [
-        18,
-        18,
-        18,
-        18,
-        18,
-        18,
-        18,
-        3,
-        3,
-        3
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15
       ],
       "planned_episode_index": 10,
       "attempt_index": 10,
       "questions_asked": [
-        "Are you looking for a specific type of purse making supply, such as chains, straps, or hooks, to complete your project?",
-        "Are you looking for purse making supplies that are specifically made from eco-friendly or sustainable materials?",
-        "What's your budget range for eco-friendly purse making supplies?",
-        "Do you have a preference for any specific type of eco-friendly material, like recycled fabric or natural fibers, for your purse making supplies?",
-        "Do you have a preference for any specific colors or patterns in the natural fiber purse making supplies you are looking for?",
-        "Are you looking for any specific types of purse making supplies, like handles, clasps, or fabric, that are made from natural fibers and come in earthy tones or nature-inspired patterns?",
-        "Are you looking for a specific texture or weave in the natural fiber fabric for your purse-making project?",
-        "Are you looking for any specific brand or certification that ensures the natural fiber fabric is eco-friendly and sustainably sourced?",
-        "Are you looking for any specific size or dimensions for the natural fiber fabric in your purse-making project?",
-        "Are you looking for any specific brands or manufacturers known for their eco-friendly and sustainable practices in purse making supplies?"
+        "What is your primary intended use for purse making supplies - creating a completely new handbag from scratch, repairing or refurbishing an existing purse, or replacing specific components like straps or hardware on a current bag?",
+        "What's your budget range for purse making supplies?",
+        "What type of handbag are you planning to create - a tote bag, crossbody bag, clutch, backpack, or another specific style?",
+        "What specific materials do you prefer for your tote bag - leather, canvas, denim, synthetic materials, or eco-friendly/sustainable fabrics like organic cotton or recycled materials?",
+        "What is your experience level with purse making - are you a complete beginner who would need basic tools and step-by-step instructions, an intermediate crafter with some sewing experience, or an advanced maker who already has most tools and just needs specific specialty supplies?",
+        "Given that all available purse making supplies in our current inventory are priced under $0.02 (significantly lower than your $50-$100 budget) and lack detailed descriptions about materials, eco-friendly certifications, or specific components needed for tote bag construction, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and sustainable material requirements?",
+        "Since you prefer to wait for products that better meet your budget and sustainable material requirements, would you be interested in exploring eco-friendly gardening tools or sustainable outdoor gear instead, given your environmental focus?",
+        "What specific types of eco-friendly gardening tools are you most interested in - hand tools like trowels and pruners, watering equipment, soil preparation tools, or composting supplies?",
+        "What's your budget range for composting supplies?",
+        "What type of composting system are you most interested in - a traditional outdoor compost bin, a tumbler composter for faster decomposition, an indoor worm composting system, or composting accessories like thermometers and turning tools?"
       ],
       "answers_received": [
-        "I'm not currently working on a purse-making project, but if I were, I'd likely be interested in eco-friendly materials.",
-        "Yes.",
-        "My budget range for eco-friendly purse making supplies is $50 to $100.",
-        "Natural fibers.",
-        "I prefer earthy tones and nature-inspired patterns.",
-        "Yes, I'm looking for fabric made from natural fibers in earthy tones.",
-        "Yes, I'm looking for a sturdy canvas weave.",
-        "GOTS (Global Organic Textile Standard) certification.",
-        "Yes, I'd like to find fabric that is approximately 18\" x 18\".",
-        "I'm interested in Corkor for their eco-friendly cork products."
+        "Creating a completely new handbag from scratch.",
+        "I typically budget around $50 to $100 for purse making supplies.",
+        "Tote bag.",
+        "Eco-friendly/sustainable fabrics like organic cotton or recycled materials.",
+        "I'm an intermediate crafter with some sewing experience.",
+        "I would rather wait to find products elsewhere that better meet my budget range and sustainable material requirements.",
+        "Yes, I would be interested in exploring eco-friendly gardening tools.",
+        "Composting supplies.",
+        "I aim to keep my budget for composting supplies around $50 to $100.",
+        "A traditional outdoor compost bin."
       ],
       "qa_pairs": [
         [
-          "Are you looking for a specific type of purse making supply, such as chains, straps, or hooks, to complete your project?",
-          "I'm not currently working on a purse-making project, but if I were, I'd likely be interested in eco-friendly materials."
+          "What is your primary intended use for purse making supplies - creating a completely new handbag from scratch, repairing or refurbishing an existing purse, or replacing specific components like straps or hardware on a current bag?",
+          "Creating a completely new handbag from scratch."
         ],
         [
-          "Are you looking for purse making supplies that are specifically made from eco-friendly or sustainable materials?",
-          "Yes."
+          "What's your budget range for purse making supplies?",
+          "I typically budget around $50 to $100 for purse making supplies."
         ],
         [
-          "What's your budget range for eco-friendly purse making supplies?",
-          "My budget range for eco-friendly purse making supplies is $50 to $100."
+          "What type of handbag are you planning to create - a tote bag, crossbody bag, clutch, backpack, or another specific style?",
+          "Tote bag."
         ],
         [
-          "Do you have a preference for any specific type of eco-friendly material, like recycled fabric or natural fibers, for your purse making supplies?",
-          "Natural fibers."
+          "What specific materials do you prefer for your tote bag - leather, canvas, denim, synthetic materials, or eco-friendly/sustainable fabrics like organic cotton or recycled materials?",
+          "Eco-friendly/sustainable fabrics like organic cotton or recycled materials."
         ],
         [
-          "Do you have a preference for any specific colors or patterns in the natural fiber purse making supplies you are looking for?",
-          "I prefer earthy tones and nature-inspired patterns."
+          "What is your experience level with purse making - are you a complete beginner who would need basic tools and step-by-step instructions, an intermediate crafter with some sewing experience, or an advanced maker who already has most tools and just needs specific specialty supplies?",
+          "I'm an intermediate crafter with some sewing experience."
         ],
         [
-          "Are you looking for any specific types of purse making supplies, like handles, clasps, or fabric, that are made from natural fibers and come in earthy tones or nature-inspired patterns?",
-          "Yes, I'm looking for fabric made from natural fibers in earthy tones."
+          "Given that all available purse making supplies in our current inventory are priced under $0.02 (significantly lower than your $50-$100 budget) and lack detailed descriptions about materials, eco-friendly certifications, or specific components needed for tote bag construction, would you prefer to receive a recommendation from these limited options as a starting point for your research, or would you rather wait to find products elsewhere that better meet your budget range and sustainable material requirements?",
+          "I would rather wait to find products elsewhere that better meet my budget range and sustainable material requirements."
         ],
         [
-          "Are you looking for a specific texture or weave in the natural fiber fabric for your purse-making project?",
-          "Yes, I'm looking for a sturdy canvas weave."
+          "Since you prefer to wait for products that better meet your budget and sustainable material requirements, would you be interested in exploring eco-friendly gardening tools or sustainable outdoor gear instead, given your environmental focus?",
+          "Yes, I would be interested in exploring eco-friendly gardening tools."
         ],
         [
-          "Are you looking for any specific brand or certification that ensures the natural fiber fabric is eco-friendly and sustainably sourced?",
-          "GOTS (Global Organic Textile Standard) certification."
+          "What specific types of eco-friendly gardening tools are you most interested in - hand tools like trowels and pruners, watering equipment, soil preparation tools, or composting supplies?",
+          "Composting supplies."
         ],
         [
-          "Are you looking for any specific size or dimensions for the natural fiber fabric in your purse-making project?",
-          "Yes, I'd like to find fabric that is approximately 18\" x 18\"."
+          "What's your budget range for composting supplies?",
+          "I aim to keep my budget for composting supplies around $50 to $100."
         ],
         [
-          "Are you looking for any specific brands or manufacturers known for their eco-friendly and sustainable practices in purse making supplies?",
-          "I'm interested in Corkor for their eco-friendly cork products."
+          "What type of composting system are you most interested in - a traditional outdoor compost bin, a tumbler composter for faster decomposition, an indoor worm composting system, or composting accessories like thermometers and turning tools?",
+          "A traditional outdoor compost bin."
         ]
       ]
     }
