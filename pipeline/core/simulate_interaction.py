@@ -126,7 +126,6 @@ def save_scores(persona_index: int, category_name: str, scores: List[Tuple[int, 
         _ensure_scores_schema(conn)
         category_id = _get_category_id(conn, category_name)
         if category_id is None:
-            # Category must exist to save scores; skip silently
             return
         cur = conn.cursor()
         cur.executemany(
@@ -209,7 +208,6 @@ def score_products_for_persona(persona_description: str, category: str, products
     ]
 
     def _score_once(target_model: str) -> Dict[int, Tuple[float, str]]:
-        # Helper to query a subset of products (used for Gemini batching)
         def _query_with_products(prod_subset: List[Dict[str, Any]], array_only: bool = False) -> str:
             if array_only:
                 user_payload = {
@@ -270,7 +268,6 @@ def score_products_for_persona(persona_description: str, category: str, products
             chunk_size = 15
             for i in range(0, len(condensed_products), chunk_size):
                 chunk = condensed_products[i:i+chunk_size]
-                # Retry for transient errors with exponential backoff
                 content_local = None
                 for attempt in range(5):
                     try:
@@ -278,16 +275,15 @@ def score_products_for_persona(persona_description: str, category: str, products
                         break
                     except Exception as e:
                         if attempt < 4:
-                            delay = min(1.0 * (2 ** attempt), 30.0)  # Exponential backoff, max 30s
-                            jitter = random.uniform(0, delay * 0.1)  # Add jitter
+                            delay = min(1.0 * (2 ** attempt), 30.0)  
+                            jitter = random.uniform(0, delay * 0.1)  
                             print(f"Gemini chunk attempt {attempt + 1} failed: {e}. Retrying in {delay + jitter:.2f}s...")
                             time.sleep(delay + jitter)
                         else:
                             print(f"Gemini chunk failed after 5 attempts: {e}")
                             raise
                 raw_outputs.append(content_local)
-        else:
-            # Chunk OpenAI if large to reduce payload / errors
+        else:   
             if not target_model.startswith("gemini-") and len(condensed_products) >= 30:
                 chunk_size = 25
                 for i in range(0, len(condensed_products), chunk_size):
@@ -300,13 +296,13 @@ def score_products_for_persona(persona_description: str, category: str, products
                             break
                         except Exception as e:
                             if attempt < 4:
-                                delay = min(1.0 * (2 ** attempt), 30.0)  # Exponential backoff, max 30s
-                                jitter = random.uniform(0, delay * 0.1)  # Add jitter
+                                delay = min(1.0 * (2 ** attempt), 30.0)  
+                                jitter = random.uniform(0, delay * 0.1) 
                                 print(f"OpenAI chunk attempt {attempt + 1} failed: {e}. Retrying in {delay + jitter:.2f}s...")
                                 time.sleep(delay + jitter)
                             else:
                                 print(f"OpenAI chunk {i//chunk_size + 1} failed after 5 attempts: {e}. Skipping this chunk.")
-                                content_part = None  # Mark as failed but continue
+                                content_part = None  
                                 break
                     raw_outputs.append(content_part)
             else:
@@ -317,8 +313,8 @@ def score_products_for_persona(persona_description: str, category: str, products
                         break
                     except Exception as e:
                         if attempt < 4:
-                            delay = min(1.0 * (2 ** attempt), 30.0)  # Exponential backoff, max 30s
-                            jitter = random.uniform(0, delay * 0.1)  # Add jitter
+                            delay = min(1.0 * (2 ** attempt), 30.0) 
+                            jitter = random.uniform(0, delay * 0.1)  
                             print(f"Model attempt {attempt + 1} failed: {e}. Retrying in {delay + jitter:.2f}s...")
                             time.sleep(delay + jitter)
                         else:
@@ -327,14 +323,12 @@ def score_products_for_persona(persona_description: str, category: str, products
                 raw_outputs.append(content_local)
             
         def _extract_json_block(text: str) -> str:
-            # If fenced, strip fences
             if text.strip().startswith("```"):
                 try:
                     return text.split("\n", 1)[1].rsplit("\n", 1)[0]
                 except Exception:
                     pass
             s = text
-            # Detect array JSON
             if '[' in s and (s.find('[') < s.find('{') or '{' not in s):
                 start = s.find('[')
                 end = s.rfind(']')
@@ -352,7 +346,6 @@ def score_products_for_persona(persona_description: str, category: str, products
                     if last_balanced_idx != -1:
                         return candidate[: last_balanced_idx + 1]
                     return candidate
-            # Otherwise try object JSON
             start = s.find('{')
             end = s.rfind('}')
             if start != -1 and end != -1 and end > start:
@@ -371,30 +364,26 @@ def score_products_for_persona(persona_description: str, category: str, products
                 return candidate
             return text
 
-        # Parse and aggregate from one or multiple raw outputs
         aggregated_items: List[Dict[str, Any]] = []
         for i, content_local in enumerate(raw_outputs):
             if content_local is None or content_local.strip() == "":
                 print(f"[WARN] Chunk {i} returned empty content, skipping")
                 continue
             
-            if i == 0:  # Only show for first chunk to avoid spam
+            if i == 0:  
                 print(f"[DEBUG] Chunk {i} content preview: {content_local[:200]}...")
             try:
                 parsed_local = json.loads(content_local)
-                # Support multiple formats: array, dict with results/result, or single object
                 if isinstance(parsed_local, dict):
                     if "results" in parsed_local:
                         data_local = parsed_local["results"]
                     elif "result" in parsed_local:
                         data_local = parsed_local["result"]
                     else:
-                        # Single object - wrap in list
                         data_local = [parsed_local]
                 elif isinstance(parsed_local, list):
                     data_local = parsed_local
                 else:
-                    # Single value - wrap in list
                     data_local = [parsed_local]
             except Exception as e:
                 print(f"[WARN] Failed to parse chunk {i} as JSON: {e}")
@@ -416,13 +405,11 @@ def score_products_for_persona(persona_description: str, category: str, products
                     print(f"[WARN] Failed to extract JSON from chunk {i}: {e2}")
                     continue
             
-            # Now data_local should always be a list
             if isinstance(data_local, list):
                 aggregated_items.extend(data_local)
             else:
                 print(f"[WARN] Chunk {i} still not a list after processing, got: {type(data_local)}. Content: {str(data_local)[:100]}...")
-        
-        # Normalize scores to 0-100 if model under-ranges (e.g., 0-1 or 0-10)
+
         raw_scores: List[float] = []
         for item in aggregated_items:
             try:
@@ -452,7 +439,6 @@ def score_products_for_persona(persona_description: str, category: str, products
                 continue
         return out
 
-    # Run scoring on OpenAI and Gemini
     openai_model = "gpt-4o"
     gemini_model = "gemini-1.5-pro"
 
@@ -475,7 +461,6 @@ def score_products_for_persona(persona_description: str, category: str, products
         import traceback
         print(f"[ERROR] Gemini traceback: {traceback.format_exc()}")
 
-    # Combine
     combined: List[Tuple[int, float, str]] = []
     all_ids = {int(p.get("id")) for p in products if p.get("id") is not None}
     for pid in all_ids:
@@ -500,7 +485,6 @@ def score_products_for_persona(persona_description: str, category: str, products
 
     combined.sort(key=lambda t: t[1], reverse=True)
 
-    # Log product titles with scores (top to bottom)
     id_to_title = {int(p.get("id")): p.get("title") for p in products if p.get("id") is not None}
     print("\n=== Persona Scoring (ensemble, highest to lowest) ===")
     for pid, score, reason in combined:

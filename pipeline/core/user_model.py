@@ -33,17 +33,14 @@ class UserModel:
 
     def score_products(self, category: str, products: List[Dict]) -> List[Tuple[int, float]]:
         product_ids = [int(p.get('id')) for p in products if p.get('id') is not None]
-        # Try cache first
         cached_pairs = load_cached_scores(self._persona_index, category, product_ids)
         if cached_pairs and len({pid for pid, _ in cached_pairs}) == len(product_ids):
             return [(int(pid), float(score)) for pid, score in cached_pairs]
 
-        # Compute fresh scores and persist
         scored = score_products_for_persona(self._persona_text, category, products)
         try:
             save_scores(self._persona_index, category, scored, model="ensemble")
         except Exception:
-            # Don't break scoring if DB write fails
             pass
         return [(int(pid), float(score)) for pid, score, _ in scored]
 
@@ -69,25 +66,16 @@ class UserModel:
         Returns:
             Feedback string with tone reflecting recommendation quality
         """
-        # Special case: if this is the top1 product (regret = 0), give perfect feedback
         if regret == 0:
             return "Perfect! This is exactly what I was looking for. Great recommendation!"
         
-        # Determine feedback tone based on regret level
-        # Small regret (0-10): Pretty close, minor adjustments needed
-        # Medium regret (10-30): Somewhat off, needs improvement
-        # Large regret (30+): Far off, major mismatch
         
-        # Build context about the chosen product
         chosen_info = f"Chosen product: {chosen_product.get('title', 'Unknown')} (Price: {chosen_product.get('price', 'Unknown')})"
-        
-        # Build conversation context if available
         conversation_context = ""
         if dialog_history:
-            recent_dialog = dialog_history[-2:]  # Last 2 exchanges
+            recent_dialog = dialog_history[-2:]  
             conversation_context = "Our conversation included: " + "; ".join([f"Q: {q['question'][:50]}... A: {q['answer'][:50]}..." for q in recent_dialog])
         
-        # Create tone instructions based on regret level
         if regret <= 10:
             tone_instruction = "Respond positively and encouragingly - the recommendation was quite close to what you wanted, just needs minor adjustments. Sound pleased but mention one small thing that could be better."
         elif regret <= 30:

@@ -2,8 +2,7 @@ from datasets import load_dataset
 import sys
 from typing import Optional
 
-_dataset_cache = None  # lazy-loaded HF dataset
-
+_dataset_cache = None  
 
 def _get_dataset():
     global _dataset_cache

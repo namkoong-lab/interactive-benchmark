@@ -22,9 +22,7 @@ def _get_openai_client() -> OpenAI:
 _gemini_available = True
 try:
     import google.generativeai as genai
-    # Test if GenerativeModel is available
     _ = genai.GenerativeModel
-    # Check version
     try:
         import google.generativeai
     except:
@@ -163,7 +161,6 @@ def _openai_chat_completion(
         if json_mode:
             kwargs["response_format"] = {"type": "json_object"}
         
-        # Add some debugging info
         print(f"[DEBUG] OpenAI request - Model: {model}, Messages: {len(messages)}, JSON mode: {json_mode}")
         
         resp = client.chat.completions.create(**kwargs)
@@ -223,16 +220,12 @@ def _gemini_chat_completion(
             generation_config=generation_config,
         )
 
-        # Handle finish_reason before using resp.text to avoid ValueError
         try:
             candidates = getattr(resp, "candidates", []) or []
             finish_reason = None
             if candidates:
-                # Newer SDK: finish_reason is an enum/int on candidate
                 finish_reason = getattr(candidates[0], "finish_reason", None)
 
-            # If stopped due to reaching max tokens (finish_reason == 2),
-            # assemble partial text from parts instead of using resp.text
             if finish_reason == 2:
                 content_obj = getattr(candidates[0], "content", None)
                 parts = getattr(content_obj, "parts", None) if content_obj else None
@@ -245,17 +238,14 @@ def _gemini_chat_completion(
                     partial = "\n".join(collected).strip()
                     if partial:
                         return partial
-                # No parts to salvage
                 raise RuntimeError(
                     "Gemini stopped due to max_tokens; increase max_tokens in caller"
                 )
 
-            # Otherwise, prefer quick accessor
             text = getattr(resp, "text", None)
             if text is not None:
                 return (resp.text or "").strip()
 
-            # Fallback: parse first candidate parts
             if candidates:
                 content_obj = getattr(candidates[0], "content", None)
                 parts = getattr(content_obj, "parts", None) if content_obj else None
@@ -268,10 +258,8 @@ def _gemini_chat_completion(
                     if collected:
                         return "\n".join(collected).strip()
         except Exception as _:
-            # Fall through to generic accessor error if anything unexpected
             pass
 
-        # Last resort
         return (getattr(resp, "text", "") or "").strip()
     
     return _retry_with_backoff(_make_request, max_retries=5, base_delay=1.0, max_delay=60.0)
@@ -287,7 +275,6 @@ def _claude_chat_completion(
 ) -> str:
     def _make_request():
         client = _get_anthropic_client()
-        # Extract optional system prompt
         system_prompt = system_prompt_override
         if not system_prompt:
             for m in messages:
@@ -295,7 +282,6 @@ def _claude_chat_completion(
                     system_prompt = m.get("content")
                     break
 
-        # Convert messages to Anthropic format: content must be a list of blocks
         claude_messages: List[Dict[str, Any]] = []
         for m in messages:
             role = m.get("role")
@@ -307,7 +293,6 @@ def _claude_chat_completion(
                 "content": [{"type": "text", "text": m.get("content", "")}],
             })
 
-        # Anthropic expects system as list of content blocks or an empty list
         system_blocks = (
             [{"type": "text", "text": system_prompt}] if system_prompt else []
         )
@@ -321,7 +306,6 @@ def _claude_chat_completion(
             stream=True,
         )
         
-        # Collect streaming response
         response_text = ""
         for chunk in resp:
             if chunk.type == "content_block_delta":

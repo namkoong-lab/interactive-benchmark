@@ -32,12 +32,10 @@ class FeedbackSystem:
         self.feedback_type = feedback_type
         self.persona_agent = persona_agent
         
-        # Validate feedback type
         valid_types = ["none", "regret", "persona", "star_rating"]
         if feedback_type not in valid_types:
             raise ValueError(f"Invalid feedback_type: {feedback_type}. Must be one of {valid_types}")
         
-        # Validate persona agent for persona feedback type
         if feedback_type == "persona" and not persona_agent:
             raise ValueError("persona_agent is required when feedback_type is 'persona'")
     
@@ -109,17 +107,14 @@ class FeedbackSystem:
         for product in available_products:
             product_id = product.get('id')
             if product_id and product_id != chosen_product.get('id'):
-                # Get the score for this product from the persona agent
                 scores = self.persona_agent.score_products(category, [product])
                 if scores:
-                    score = scores[0][1]  # (product_id, score)
+                    score = scores[0][1]  
                     top_products.append((product_id, score))
         
-        # Sort by score and take top 3-5
         top_products.sort(key=lambda x: x[1], reverse=True)
         top_products = top_products[:5]
         
-        # Use the persona agent to generate feedback
         return self.persona_agent.generate_feedback(
             chosen_product=chosen_product,
             chosen_score=chosen_score,
@@ -164,7 +159,6 @@ class FeedbackAnalyzer:
         if not self.feedback_history:
             return {}
         
-        # Group by feedback type
         by_type = {}
         for entry in self.feedback_history:
             ftype = entry['feedback_type']
@@ -186,8 +180,6 @@ class FeedbackAnalyzer:
         
         return analysis
 
-
-# Convenience functions for common feedback types
 def create_no_feedback_system() -> FeedbackSystem:
     """Create a feedback system that provides no feedback."""
     return FeedbackSystem(feedback_type="none")

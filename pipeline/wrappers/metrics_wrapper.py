@@ -19,30 +19,21 @@ class MetricsWrapper(gym.Wrapper):
         self.recorder = MetricsRecorder()
         self.output_path = output_path
         self.episode_count = 0
-        
-        # Episode state tracking
         self.episode_start_info = None
         self.questions_asked = 0
         self.final_info = None
     
     def reset(self, *, seed: Optional[int] = None, options: Optional[Dict[str, Any]] = None):
         obs, info = self.env.reset(seed=seed, options=options)
-        
-        # Store episode start info
         self.episode_start_info = info.copy()
         self.questions_asked = 0
         self.final_info = None
-        
         return obs, info
     
     def step(self, action: ActType):
         obs, reward, terminated, truncated, info = self.env.step(action)
-        
-        # Track questions asked
         if info.get("action_type") == "ask":
             self.questions_asked += 1
-        
-        # If episode ended, log metrics
         if terminated or truncated:
             self.final_info = info.copy()
             self._log_episode()
@@ -54,7 +45,6 @@ class MetricsWrapper(gym.Wrapper):
         if not self.episode_start_info or not self.final_info:
             return
         
-        # Extract metrics from episode info
         category = self.episode_start_info.get("category", "unknown")
         chosen_id = self.final_info.get("chosen_product_id", -1)
         best_id = self.final_info.get("best_product_id", -1)
@@ -64,13 +54,11 @@ class MetricsWrapper(gym.Wrapper):
         top1 = self.final_info.get("top1", False)
         top3 = self.final_info.get("top3", False)
         
-        # Extract confidence scores if available
         confidence_favorite_prob = self.final_info.get("confidence_favorite_prob")
         confidence_top5_prob = self.final_info.get("confidence_top5_prob")
         confidence_expected_score = self.final_info.get("confidence_expected_score")
         confidence_expected_regret = self.final_info.get("confidence_expected_regret")
         
-        # Create episode record
         record = EpisodeRecord(
             episode=self.episode_count,
             category=category,
@@ -82,8 +70,8 @@ class MetricsWrapper(gym.Wrapper):
             top1=top1,
             top3=top3,
             num_questions=self.questions_asked,
-            rationale="",  # Could extract from final_info if available
-            agent_model="gym_agent",  # Could be passed as parameter
+            rationale="",  
+            agent_model="gym_agent", 
             confidence_favorite_prob=confidence_favorite_prob,
             confidence_top5_prob=confidence_top5_prob,
             confidence_expected_score=confidence_expected_score,
