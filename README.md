@@ -59,12 +59,6 @@ python experiment_runners/run_planning_dp.py
 python experiment_runners/run_variable_persona.py
 ```
 
-For visualization:
-
-```bash
-python graphing/graphing_ece.py --input results.csv
-```
-
 ## Research Applications
 
 DARE enables research in:
