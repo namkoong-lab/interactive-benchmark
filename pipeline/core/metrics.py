@@ -18,7 +18,6 @@ class EpisodeRecord:
     num_questions: int
     rationale: str
     agent_model: str
-    # Confidence metrics
     confidence_favorite_prob: Optional[float] = None
     confidence_top5_prob: Optional[float] = None
     confidence_expected_score: Optional[float] = None
