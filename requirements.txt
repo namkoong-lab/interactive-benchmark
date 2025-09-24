@@ -1,24 +1,17 @@
-# Core dependencies for the personas project
 openai>=1.0.0
 python-dotenv>=1.0.0
 datasets>=2.0.0
-
-# Data processing and analysis
 numpy>=1.21.0
 pandas>=1.3.0
 scikit-learn>=1.0.0
-
-# Visualization
 plotly>=5.0.0
-
-# Web interface
+matplotlib>=3.5.0
+seaborn>=0.11.0
 streamlit>=1.25.0
-
-# Utilities
-tqdm>=4.62.0 
-
-# Gemini
-google-generativeai>=0.7.2
-
-# Reinforcement Learning
+tqdm>=4.62.0
+rich>=12.0.0
+anthropic>=0.7.0
+sentence-transformers>=2.2.0
+huggingface-hub>=0.16.0
 gymnasium>=1.0.0
+google-generativeai>=0.7.2
