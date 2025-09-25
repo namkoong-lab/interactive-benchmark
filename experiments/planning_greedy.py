@@ -93,9 +93,8 @@ Context:
 {questions_context}
 
 INTERNAL REASONING (do not share with customer):
-1. Think about which products the customer might like based on what you know so far
-2. Identify what information would be most valuable to distinguish between these candidates
-3. Consider what preference question would help you make the best final recommendation
+- First, list all the possible products that you think the customer might like based on what you know so far.
+- Then, think about what is the best question you could ask the customer to eliminate the most number of products from the list.
 
 CUSTOMER INTERACTION:
 You can either ask another question to learn more about the user's preferences, or make a recommendation if you feel you have enough information.
@@ -113,11 +112,6 @@ Rules:
 - Do NOT use multiple lines or formatting
 - Just the format above, nothing else
 - Ask about preferences, not about specific products
-
-Examples:
-QUESTION: What's your budget range for this purchase?
-QUESTION: What style do you prefer - casual or formal?
-RECOMMEND: 5
 
 Your choice:"""
 
@@ -213,7 +207,6 @@ INTERNAL REASONING (do not share with customer):
 - Then, think about what is the best question you could ask the customer to eliminate the most number of products from the list.
 
 Your question should:
-- Be the most informative question possible given you only have {questions_remaining} question(s) left
 - Help you distinguish between the products you think the customer might like
 - Focus on the most important decision factor that's still unclear
 - Ask about preferences, needs, and requirements - NOT about specific products or product numbers
@@ -225,11 +218,9 @@ STRICT RULES:
 - Your response must start with "QUESTION:"
 - Do NOT include any explanations, reasoning, or additional text
 - Do NOT use bullets, multiple lines, or formatting
-- Just the question format above, nothing else
-- Ask about preferences, not about specific products
-- Example: QUESTION: What's your budget range for this purchase?
 
-Ask your most informative question:"""
+QUESTION:
+"""
 
         try:
             response = chat_completion(
