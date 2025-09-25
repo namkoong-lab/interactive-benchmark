@@ -74,7 +74,6 @@ class DPFixedQuestionsAgent:
     
     def _choose_action(self, obs: Dict[str, np.ndarray], info: Dict[str, Any], 
                        dialog_history: List[Tuple[str, str]], category: str, num_products: int) -> int:
-        """Choose between asking a question or making a recommendation with greedy prompting."""
         products = self._get_product_info(obs, info, num_products)
         context = self._build_llm_context(products, dialog_history, category)
         feedback_context = self._build_feedback_context(category)
