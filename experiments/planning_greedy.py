@@ -208,16 +208,9 @@ Context:
 
 {questions_context}
 
-CRITICAL GREEDY MODE TASK:
-You have exactly {questions_remaining} question(s) remaining before you must make your final recommendation. 
-
 INTERNAL REASONING (do not share with customer):
-1. Think about which products the customer might like based on what you know so far
-2. Identify what information would be most valuable to distinguish between these candidates
-3. Consider what preference question would help you make the best final recommendation
-
-CUSTOMER INTERACTION:
-Ask the single most informative question that would help you make the best final recommendation.
+- First, list all the possible products that you think the customer might like based on what you know so far.
+- Then, think about what is the best question you could ask the customer to eliminate the most number of products from the list.
 
 Your question should:
 - Be the most informative question possible given you only have {questions_remaining} question(s) left
