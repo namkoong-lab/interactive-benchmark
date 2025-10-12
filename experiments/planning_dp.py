@@ -768,7 +768,7 @@ def run_fixed_questions_experiment_dp(
     model_safe_name = model.replace("/", "_").replace(":", "_")
     feedback_safe_name = feedback_type.replace(" ", "_")
     seed_suffix = f"_seed{seed}" if seed is not None else ""
-    results_file = os.path.join(output_dir, f"fixed_questions_dp_experiment_{model_safe_name}_{feedback_safe_name}{seed_suffix}.json")
+    results_file = os.path.join(output_dir, f"fixed_questions_dp_experiment_{model_safe_name}_{feedback_safe_name}.json")
     
     with open(results_file, 'w') as f:
         json.dump({

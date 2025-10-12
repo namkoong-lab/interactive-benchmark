@@ -312,3 +312,35 @@ def run_baseline_popularity(
 
     print(f"\nFinal results saved to: {final_results_file}")
     return all_results, category_results
+
+import argparse
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Run the Popularity Baseline experiment.")
+    
+    parser.add_argument('--num_categories', type=int, default=5,
+                        help='Number of categories to run the experiment on.')
+    parser.add_argument('--episodes_per_category', type=int, default=1,
+                        help='Number of episodes to run for each category.')
+    parser.add_argument('--min_score_threshold', type=float, default=50.0,
+                        help='Minimum score for a category to be considered relevant for a persona.')
+    parser.add_argument('--output_dir', type=str, default="baseline_popularity_results",
+                        help='Directory to save the output results.')
+    parser.add_argument('--seed', type=int, default=None,
+                        help='Random seed for category selection and persona initialization.')
+    parser.add_argument('--checkpoint_file', type=str, default=None,
+                        help='Path to a checkpoint file to resume from.')
+    # parser.add_argument('--feedback_type', type=str, default="none",
+    #                     help='Type of feedback to use (e.g., "none", "persona").')
+
+    args = parser.parse_args()
+
+    run_baseline_popularity(
+        num_categories=args.num_categories,
+        episodes_per_category=args.episodes_per_category,
+        min_score_threshold=args.min_score_threshold,
+        output_dir=args.output_dir,
+        seed=args.seed,
+        checkpoint_file=args.checkpoint_file
+        # feedback_type=args.feedback_type
+    )
