@@ -1,0 +1,10 @@
+{
+  "model_name": "Example Model",
+  "description": "An example autonomous agent model for demonstration purposes",
+  "authors": ["Author Name"],
+  "institution": "Research Institution",
+  "paper_url": "https://arxiv.org/abs/XXXX.XXXXX",
+  "code_url": "https://github.com/username/example-model",
+  "contact": "contact@example.com"
+}
+
