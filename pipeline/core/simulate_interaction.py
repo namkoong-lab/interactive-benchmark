@@ -147,25 +147,86 @@ def save_scores(persona_index: int, category_name: str, scores: List[Tuple[int, 
     finally:
         conn.close()
 
-def simulated_user_respond(persona_description: str, question: str) -> str:
+def simulated_user_respond(persona_description: str, question: str, dialog_history: list[dict[str, str]] = None, purchase_context: str = "I am buying this for myself.",products: List[Dict] = None,
+                           scores: List[Tuple[int, float]] = None) -> str:
     """
     Simulate a user's answer given a natural-language persona description.
     """
     import time
     start_time = time.time()
     
-    prompt = f"""You simulate a user with the following persona description:
+#     prompt = f"""You simulate a user with the following persona description:
+# {persona_description}
+
+# Answer STRICTLY the question as this user would.
+# - Only answer the question asked
+# - Do not volunteer extra information
+# - Do not restate persona or add rationale
+# - If a choice is requested, give one choice only
+
+# Question: {question}
+
+# Answer:"""
+    knowledge_summary = ""
+    if products and scores:
+        id_to_product = {p['id']: p for p in products}
+        sorted_scores = sorted(scores, key=lambda x: x[1], reverse=True)
+        
+        top_products_info = []
+        for pid, score in sorted_scores[:3]:
+            if pid in id_to_product:
+                top_products_info.append(f"- {id_to_product[pid]['title']}")
+
+        bottom_products_info = []
+        for pid, score in sorted_scores[-3:]:
+            if pid in id_to_product:
+                bottom_products_info.append(f"- {id_to_product[pid]['title']}")
+        
+        category = products[0].get('main_category', 'this category') if products else 'this category'
+        knowledge_summary = f"""**Your Internal Knowledge about '{category}' products:**
+This knowledge forms the basis of your opinions and preferences.
+*You have a strong preference for products like:*
+{'\n'.join(top_products_info)}
+
+*You have a strong dislike for products like:*
+{'\n'.join(bottom_products_info)}"""
+
+    history_str = "This is our first interaction."
+    if dialog_history:
+        history_lines = []
+        for turn in dialog_history:
+            history_lines.append(f"Q: {turn.get('question', '')}")
+            history_lines.append(f"A: {turn.get('answer', '')}")
+        history_str = "\n".join(history_lines)
+    rules = f"""**Rule #1 (HIGHEST PRIORITY): BE HONEST & COOPERATIVE.**
+- If your interest level is 'very low', you MUST state your disinterest directly. Do not answer questions about a category you don't care about. Instead, you can mention a topic you are genuinely interested in.
+- Example: If asked about truck parts when your interest is low, say "I'm not really looking for truck parts, I'm more interested in hiking gear."
+
+**Rule #2: BE CONSISTENT & RELIABLE.**
+- If you choose to engage (your interest is not 'very low'), your answers must be 100% consistent with your Core Persona, Purchase Goal, and your Internal Knowledge (your high/low preference for certain products).
+
+**Rule #3: BE CONCISE.**
+- Keep your answers brief to encourage follow-up questions."""
+    prompt = f"""You are a role-player governed by a strict set of rules.
+
+{rules}
+---
+**Core Persona (Who you are):**
 {persona_description}
+---
+**Current Situation (The setting you are in):**
+- **Purchase Goal:** {purchase_context}
+- **Conversation History:**
+{history_str}
+---
+{knowledge_summary}
+---
+**Your Task:**
+Based on all the information above, especially your internal knowledge, provide a consistent and concise answer to the question. Your spoken preferences should align with the types of products you secretly like or dislike.
 
-Answer STRICTLY the question as this user would.
-- Only answer the question asked
-- Do not volunteer extra information
-- Do not restate persona or add rationale
-- If a choice is requested, give one choice only
+**Question:** "{question}"
 
-Question: {question}
-
-Answer:"""
+**Your Answer:**"""
     
     content = chat_completion(
         model="gpt-4o",

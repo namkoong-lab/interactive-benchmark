@@ -32,7 +32,8 @@ class RecoEnv(gym.Env):
                  seed: Optional[int] = None,
                  agent: Optional[Any] = None,
                  feedback_system: Optional[FeedbackSystem] = None,
-                 cached_scores: Optional[List[Tuple[int, float]]] = None):
+                 cached_scores: Optional[List[Tuple[int, float]]] = None,
+                ):
         super().__init__()
         
         self.persona_index = persona_index
@@ -216,7 +217,8 @@ class RecoEnv(gym.Env):
                 else:   
                     question_text = "What are your preferences for this product category?"
                 
-                answer = self.user_model.respond(question_text)
+                answer = self.user_model.respond(question_text,products=self.products,
+                    scores=self.cached_scores)
                 
                 self.dialog_history.append((question_text, answer))
                 self.questions_remaining -= 1

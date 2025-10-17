@@ -28,8 +28,10 @@ class UserModel:
     def get_persona_text(self) -> str:
         return self._persona_text
 
-    def respond(self, question: str) -> str:
-        return simulated_user_respond(self._persona_text, question)
+    def respond(self, question: str,products: List[Dict] = None, 
+                scores: List[Tuple[int, float]] = None) -> str:
+        return simulated_user_respond(self._persona_text, question,products=products,
+            scores=scores)
 
     def score_products(self, category: str, products: List[Dict]) -> List[Tuple[int, float]]:
         product_ids = [int(p.get('id')) for p in products if p.get('id') is not None]
@@ -50,7 +52,10 @@ class UserModel:
                          regret: float,
                          top_products: List[Tuple[int, float]],
                          category: str,
-                         dialog_history: List[Dict[str, str]] = None) -> str:
+                         dialog_history: List[Dict[str, str]] = None,
+                         purchase_context: str = "I'm buying this for myself.",
+                         products: List[Dict] = None,
+                         scores: List[Tuple[int, float]] = None) -> str:
         """
         Generate tone-based feedback that reflects how close/far the recommendation was,
         without revealing regret values or the correct product.
@@ -83,10 +88,51 @@ class UserModel:
         else:
             tone_instruction = "Respond with clear dissatisfaction - the recommendation was far from what you wanted. Sound disappointed and explain what you were actually looking for."
         
-        prompt = f"""You are a user with this persona:
-{self._persona_text}
+#         prompt = f"""You are a user with this persona:
+# {self._persona_text}
 
+# A recommendation agent just suggested a product to you.
+
+# Context:
+# - {chosen_info}
+# {f"- {conversation_context}" if conversation_context else ""}
+
+# {tone_instruction}
+
+# Respond naturally as this persona would - like you're talking to a helpful salesperson or friend. Be conversational and specific about your preferences. Keep it to 1-2 sentences and sound like a real person, not a formal review. Make it a statement about your preferences, not a question. Never mention specific scores, regret values, or reveal which product would be better.
+
+# Your response:"""
+        id_to_product = {p['id']: p for p in products}
+        sorted_scores = sorted(scores, key=lambda x: x[1], reverse=True)
+                
+        top_products_info = []
+        for pid, score in sorted_scores[:3]:
+            if pid in id_to_product:
+                top_products_info.append(f"- {id_to_product[pid]['title']} (Score: {score:.0f}/100)")
+
+        bottom_products_info = []
+        for pid, score in sorted_scores[-3:]:
+            if pid in id_to_product:
+                bottom_products_info.append(f"- {id_to_product[pid]['title']} (Score: {score:.0f}/100)")
+        
+        knowledge_summary = f"""**Your Internal Knowledge about '{category}' products:**
+You have a clear sense of what you like and dislike in this category.
+*You have a strong preference for products like:*
+{'\n'.join(top_products_info)}
+
+*You have a strong dislike for products like:*
+{'\n'.join(bottom_products_info)}"""
+        prompt = f"""You are role-playing a character who just received a product recommendation. Your task is to provide conversational feedback.
+
+**Core Persona (Who you are):**
+---
+{self._persona_text}
+---
 A recommendation agent just suggested a product to you.
+
+{knowledge_summary}
+**Your Task:**
+Based on your persona and your internal knowledge, provide conversational feedback on the agent's suggestion: "{chosen_product.get('title', 'Unknown')}". Your feedback should be consistent with how its quality compares to the products you love or dislike. For example, if it's a mediocre product, explain what makes the products you love better.
 
 Context:
 - {chosen_info}
@@ -94,7 +140,7 @@ Context:
 
 {tone_instruction}
 
-Respond naturally as this persona would - like you're talking to a helpful salesperson or friend. Be conversational and specific about your preferences. Keep it to 1-2 sentences and sound like a real person, not a formal review. Make it a statement about your preferences, not a question. Never mention specific scores, regret values, or reveal which product would be better.
+Respond naturally as this persona would. Be conversational and specific about your preferences. Keep it to 1-2 sentences. Never mention specific scores.
 
 Your response:"""
 
