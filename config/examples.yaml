@@ -1,0 +1,155 @@
+# Example Configurations for Experiments
+
+# ============================================================================
+# QUICK TEST - Fast test run for development
+# ============================================================================
+quick_test:
+  experiment_type: variable_category
+  model: gpt-4o
+  episodes_per_trajectory: 2
+  total_trajectories: 1
+  max_questions: 8
+  context_mode: none
+  feedback_type: none
+  seeds: [42]  # Single seed as list
+  max_products_per_category: 100
+
+# ============================================================================
+# VARIABLE CATEGORY - Learn one customer across categories
+# ============================================================================
+variable_category_single:
+  experiment_type: variable_category
+  model: gpt-4o
+  episodes_per_trajectory: 5
+  total_trajectories: 1
+  max_questions: 8
+  context_mode: raw
+  feedback_type: persona
+  seeds: [42]  # Single seed as list
+  max_products_per_category: 100
+
+variable_category_batch:
+  experiment_type: variable_category
+  model: gpt-4o
+  episodes_per_trajectory: 5
+  total_trajectories: 10
+  max_questions: 8
+  context_mode: raw
+  feedback_type: persona
+  num_seeds: 10  # Run 10 times with different seeds
+  max_products_per_category: 100
+
+# ============================================================================
+# VARIABLE PERSONA - Learn questioning strategies
+# ============================================================================
+variable_persona_single:
+  experiment_type: variable_persona
+  model: gpt-4o
+  num_personas: 10
+  episodes_per_persona: 3
+  max_questions: 8
+  context_mode: raw
+  feedback_type: regret
+  seeds: [42]  # Single seed as list
+  max_products_per_category: 100
+
+variable_persona_batch:
+  experiment_type: variable_persona
+  model: gpt-4o
+  num_personas: 10
+  episodes_per_persona: 3
+  max_questions: 8
+  context_mode: raw
+  feedback_type: persona
+  seeds: [42, 43, 44, 45, 46]  # Specific seeds
+
+# ============================================================================
+# VARIABLE SETTINGS - Learn general strategies
+# ============================================================================
+variable_settings_single:
+  experiment_type: variable_settings
+  model: gpt-4o
+  total_episodes: 50
+  max_questions: 8
+  context_mode: summary
+  feedback_type: persona
+  prompting_tricks: all
+  seeds: [42]  # Single seed as list
+  max_products_per_category: 100
+
+# ============================================================================
+# MODEL COMPARISON - Test different models
+# ============================================================================
+compare_gpt4o:
+  experiment_type: variable_category
+  model: gpt-4o
+  num_categories: 3
+  episodes_per_category: 3
+  context_mode: raw
+  feedback_type: none
+  seeds: [42]  # Single seed as list
+  max_products_per_category: 100
+
+compare_claude:
+  experiment_type: variable_category
+  model: claude-3-5-sonnet-20241022
+  num_categories: 3
+  episodes_per_category: 3
+  context_mode: raw
+  feedback_type: none
+  seeds: [42]  # Single seed as list
+  max_products_per_category: 100
+
+compare_gemini:
+  experiment_type: variable_category
+  model: gemini-2.0-flash-exp
+  num_categories: 3
+  episodes_per_category: 3
+  context_mode: raw
+  feedback_type: none
+  seeds: [42]  # Single seed as list
+  max_products_per_category: 100
+
+# ============================================================================
+# ABLATION STUDY - Test feedback types
+# ============================================================================
+ablation_no_feedback:
+  experiment_type: variable_category
+  model: gpt-4o
+  num_categories: 5
+  episodes_per_category: 5
+  context_mode: raw
+  feedback_type: none
+  num_seeds: 5
+  max_products_per_category: 100
+
+ablation_regret:
+  experiment_type: variable_category
+  model: gpt-4o
+  num_categories: 5
+  episodes_per_category: 5
+  context_mode: raw
+  feedback_type: regret
+  num_seeds: 5
+  max_products_per_category: 100
+
+ablation_persona:
+  experiment_type: variable_category
+  model: gpt-4o
+  num_categories: 5
+  episodes_per_category: 5
+  context_mode: raw
+  feedback_type: persona
+  num_seeds: 5
+  max_products_per_category: 100
+
+ablation_star_rating:
+  experiment_type: variable_category
+  model: gpt-4o
+  num_categories: 5
+  episodes_per_category: 5
+  context_mode: raw
+  feedback_type: star_rating
+  num_seeds: 5
+  max_products_per_category: 100
+

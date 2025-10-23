@@ -28,10 +28,8 @@ class UserModel:
     def get_persona_text(self) -> str:
         return self._persona_text
 
-    def respond(self, question: str,products: List[Dict] = None, 
-                scores: List[Tuple[int, float]] = None) -> str:
-        return simulated_user_respond(self._persona_text, question,products=products,
-            scores=scores)
+    def respond(self, question: str, category: str, dialog_history: List[Tuple[str, str]] = None) -> str:
+        return simulated_user_respond(self._persona_text, question, category, dialog_history)
 
     def score_products(self, category: str, products: List[Dict]) -> List[Tuple[int, float]]:
         product_ids = [int(p.get('id')) for p in products if p.get('id') is not None]
@@ -50,23 +48,18 @@ class UserModel:
                          chosen_product: Dict[str, Any],
                          chosen_score: float,
                          regret: float,
-                         top_products: List[Tuple[int, float]],
                          category: str,
-                         dialog_history: List[Dict[str, str]] = None,
-                         purchase_context: str = "I'm buying this for myself.",
-                         products: List[Dict] = None,
-                         scores: List[Tuple[int, float]] = None) -> str:
+                         dialog_history: List[Tuple[str, str]] = None) -> str:
         """
         Generate tone-based feedback that reflects how close/far the recommendation was,
-        without revealing regret values or the correct product.
+        without revealing regret values or specific product scores.
         
         Args:
             chosen_product: The product that was recommended
             chosen_score: Score of the chosen product
             regret: How much better the best option would have been
-            top_products: List of (product_id, score) tuples for top products
             category: Product category
-            dialog_history: Optional conversation history
+            dialog_history: List of (question, answer) tuples from conversation
             
         Returns:
             Feedback string with tone reflecting recommendation quality
@@ -74,73 +67,47 @@ class UserModel:
         if regret == 0:
             return "Perfect! This is exactly what I was looking for. Great recommendation!"
         
-        
+        # Build conversation context with full dialog historyl
         chosen_info = f"Chosen product: {chosen_product.get('title', 'Unknown')} (Price: {chosen_product.get('price', 'Unknown')})"
         conversation_context = ""
         if dialog_history:
-            recent_dialog = dialog_history[-2:]  
-            conversation_context = "Our conversation included: " + "; ".join([f"Q: {q['question'][:50]}... A: {q['answer'][:50]}..." for q in recent_dialog])
+            conversation_lines = []
+            for i, (q, a) in enumerate(dialog_history, 1):
+                conversation_lines.append(f"Q{i}: {q}")
+                conversation_lines.append(f"A{i}: {a}")
+            conversation_context = "\n".join(conversation_lines)
         
+        # Set tone based on regret level (without revealing the actual regret value)
         if regret <= 10:
-            tone_instruction = "Respond positively and encouragingly - the recommendation was quite close to what you wanted, just needs minor adjustments. Sound pleased but mention one small thing that could be better."
+            tone_instruction = "Respond positively and encouragingly - the recommendation is quite close to what you wanted, just needs minor adjustments. Sound pleased but mention one small thing that could be better based on your persona's preferences."
         elif regret <= 30:
-            tone_instruction = "Respond with moderate satisfaction - the recommendation was okay but not quite right. Sound somewhat pleased but mention what you were actually looking for instead."
+            tone_instruction = "Respond with moderate satisfaction - the recommendation is okay but not quite right. Sound somewhat pleased but mention what you were actually looking for based on your persona's preferences."
         else:
-            tone_instruction = "Respond with clear dissatisfaction - the recommendation was far from what you wanted. Sound disappointed and explain what you were actually looking for."
+            tone_instruction = "Respond with clear dissatisfaction - the recommendation is far from what you wanted. Sound disappointed and explain what you were actually looking for based on your persona's preferences."
         
-#         prompt = f"""You are a user with this persona:
-# {self._persona_text}
+        prompt = f"""You are role-playing as a customer who just received a product recommendation for {category} products.
 
-# A recommendation agent just suggested a product to you.
-
-# Context:
-# - {chosen_info}
-# {f"- {conversation_context}" if conversation_context else ""}
-
-# {tone_instruction}
-
-# Respond naturally as this persona would - like you're talking to a helpful salesperson or friend. Be conversational and specific about your preferences. Keep it to 1-2 sentences and sound like a real person, not a formal review. Make it a statement about your preferences, not a question. Never mention specific scores, regret values, or reveal which product would be better.
-
-# Your response:"""
-        id_to_product = {p['id']: p for p in products}
-        sorted_scores = sorted(scores, key=lambda x: x[1], reverse=True)
-                
-        top_products_info = []
-        for pid, score in sorted_scores[:3]:
-            if pid in id_to_product:
-                top_products_info.append(f"- {id_to_product[pid]['title']} (Score: {score:.0f}/100)")
-
-        bottom_products_info = []
-        for pid, score in sorted_scores[-3:]:
-            if pid in id_to_product:
-                bottom_products_info.append(f"- {id_to_product[pid]['title']} (Score: {score:.0f}/100)")
-        
-        knowledge_summary = f"""**Your Internal Knowledge about '{category}' products:**
-You have a clear sense of what you like and dislike in this category.
-*You have a strong preference for products like:*
-{'\n'.join(top_products_info)}
-
-*You have a strong dislike for products like:*
-{'\n'.join(bottom_products_info)}"""
-        prompt = f"""You are role-playing a character who just received a product recommendation. Your task is to provide conversational feedback.
-
-**Core Persona (Who you are):**
----
+**Who You Are:**
 {self._persona_text}
 ---
-A recommendation agent just suggested a product to you.
+**Current Situation:**
+A recommendation agent just suggested this product to you: "{chosen_product.get('title', 'Unknown')}"
 
-{knowledge_summary}
-**Your Task:**
-Based on your persona and your internal knowledge, provide conversational feedback on the agent's suggestion: "{chosen_product.get('title', 'Unknown')}". Your feedback should be consistent with how its quality compares to the products you love or dislike. For example, if it's a mediocre product, explain what makes the products you love better.
-
-Context:
+**Recommended Product:**
 - {chosen_info}
-{f"- {conversation_context}" if conversation_context else ""}
 
-{tone_instruction}
+**Full Conversation History:**
+{conversation_context if conversation_context else "No previous conversation."}
+---
+**Your Task:**
+Provide conversational feedback on this recommendation. {tone_instruction}
 
-Respond naturally as this persona would. Be conversational and specific about your preferences. Keep it to 1-2 sentences. Never mention specific scores.
+Base your feedback on:
+1. Your general preferences and needs from your persona description
+2. What you mentioned during the full conversation above
+3. Whether this product seems to match what you're looking for
+
+Keep it to 1-2 sentences. Sound natural and conversational, like talking to a salesperson. Don't mention scores or technical details.
 
 Your response:"""
 

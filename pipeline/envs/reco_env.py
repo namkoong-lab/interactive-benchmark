@@ -33,6 +33,7 @@ class RecoEnv(gym.Env):
                  agent: Optional[Any] = None,
                  feedback_system: Optional[FeedbackSystem] = None,
                  cached_scores: Optional[List[Tuple[int, float]]] = None,
+                 max_products_per_category: Optional[int] = None,
                 ):
         super().__init__()
         
@@ -42,7 +43,8 @@ class RecoEnv(gym.Env):
         self.seed = seed
         self.agent = agent
         self.last_agent_response = None  
-        self.cached_scores = cached_scores 
+        self.cached_scores = cached_scores
+        self.max_products_per_category = max_products_per_category 
         
         self.user_model = UserModel(persona_index)
         
@@ -83,10 +85,18 @@ class RecoEnv(gym.Env):
         self.current_category = self.categories[self.episode_count % len(self.categories)]
         self.category_episode_counts[self.current_category] += 1
 
-        self.products = get_products_by_category(self.current_category)
+        self.products = get_products_by_category(
+            self.current_category,
+            limit=self.max_products_per_category,
+            seed=self.seed
+        )
         if not self.products:
             for cat in self.categories:
-                self.products = get_products_by_category(cat)
+                self.products = get_products_by_category(
+                    cat,
+                    limit=self.max_products_per_category,
+                    seed=self.seed
+                )
                 if self.products:
                     self.current_category = cat
                     break
@@ -217,8 +227,7 @@ class RecoEnv(gym.Env):
                 else:   
                     question_text = "What are your preferences for this product category?"
                 
-                answer = self.user_model.respond(question_text,products=self.products,
-                    scores=self.cached_scores)
+                answer = self.user_model.respond(question_text, category=self.current_category, dialog_history=self.dialog_history)
                 
                 self.dialog_history.append((question_text, answer))
                 self.questions_remaining -= 1

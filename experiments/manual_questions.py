@@ -144,7 +144,9 @@ def run_manual_questions_interactive(
     feedback_type: str = "persona",
     min_score_threshold: float = 60.0,
     output_dir: str = "manual_questions_results",
-    exit_key: str = "/done"
+    exit_key: str = "/done",
+    max_products_per_category: Optional[int] = None,
+    seed: Optional[int] = None
 ) -> Dict[str, Any]:
     """
     Interactive variant: user types questions in terminal, persona agent answers.
@@ -171,7 +173,7 @@ def run_manual_questions_interactive(
     from pipeline.core.simulate_interaction import get_products_by_category
 
     try:
-        products = get_products_by_category(category)
+        products = get_products_by_category(category, limit=max_products_per_category, seed=seed)
         if not products:
             raise ValueError(f"No products found for category: {category}")
 
@@ -217,7 +219,9 @@ def run_manual_questions_interactive(
             categories=[category],
             agent=agent,
             feedback_system=feedback_system,
-            cached_scores=cached_scores
+            cached_scores=cached_scores,
+            max_products_per_category=max_products_per_category,
+            seed=seed
         )
 
         metrics_wrapper = MetricsWrapper(env,
@@ -332,7 +336,8 @@ def run_manual_questions_experiment(
     feedback_type: str = "persona",
     min_score_threshold: float = 60.0,
     output_dir: str = "manual_questions_results",
-    seed: Optional[int] = None
+    seed: Optional[int] = None,
+    max_products_per_category: Optional[int] = None
 ) -> Dict[str, Any]:
     """
     Run manual questions experiment.
@@ -373,7 +378,7 @@ def run_manual_questions_experiment(
     from pipeline.core.simulate_interaction import get_products_by_category
     
     try:
-        products = get_products_by_category(category)
+        products = get_products_by_category(category, limit=max_products_per_category, seed=seed)
         if not products:
             raise ValueError(f"No products found for category: {category}")
             
@@ -404,7 +409,9 @@ def run_manual_questions_experiment(
             categories=[category],  
             agent=agent,
             feedback_system=feedback_system,
-            cached_scores=cached_scores
+            cached_scores=cached_scores,
+            max_products_per_category=max_products_per_category,
+            seed=seed
         )
         
         metrics_wrapper = MetricsWrapper(env, 

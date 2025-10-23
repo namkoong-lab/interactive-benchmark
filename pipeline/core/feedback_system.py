@@ -46,7 +46,7 @@ class FeedbackSystem:
                          chosen_product: Dict[str, Any] = None,
                          available_products: List[Dict[str, Any]] = None,
                          category: str = None,
-                         dialog_history: List[Dict[str, str]] = None) -> str:
+                         dialog_history: List[Tuple[str, str]] = None) -> str:
         """
         Generate feedback based on the configured feedback type.
         
@@ -94,32 +94,15 @@ class FeedbackSystem:
     
     def _generate_persona_feedback(self, regret: float, chosen_score: float, best_score: float,
                                  chosen_product: Dict[str, Any], available_products: List[Dict[str, Any]], 
-                                 category: str, dialog_history: List[Dict[str, str]] = None) -> str:
+                                 category: str, dialog_history: List[Tuple[str, str]] = None) -> str:
         """Generate contextual feedback from the actual persona agent about why the selection wasn't optimal."""
         if not self.persona_agent:
             return self._generate_regret_feedback(regret, chosen_score, best_score)
-        
-        from .simulate_interaction import get_products_by_category
-        all_products = get_products_by_category(category)
-        id_to_product = {p['id']: p for p in all_products}
-        
-        top_products = []
-        for product in available_products:
-            product_id = product.get('id')
-            if product_id and product_id != chosen_product.get('id'):
-                scores = self.persona_agent.score_products(category, [product])
-                if scores:
-                    score = scores[0][1]  
-                    top_products.append((product_id, score))
-        
-        top_products.sort(key=lambda x: x[1], reverse=True)
-        top_products = top_products[:5]
         
         return self.persona_agent.generate_feedback(
             chosen_product=chosen_product,
             chosen_score=chosen_score,
             regret=regret,
-            top_products=top_products,
             category=category,
             dialog_history=dialog_history
         )

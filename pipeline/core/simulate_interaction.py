@@ -25,7 +25,24 @@ def list_categories(db_path: str = DB_PATH) -> List[str]:
     finally:
         conn.close()
 
-def get_products_by_category(category_name: str, db_path: str = DB_PATH) -> List[Dict[str, Any]]:
+def get_products_by_category(
+    category_name: str, 
+    db_path: str = DB_PATH,
+    limit: Optional[int] = None,
+    seed: Optional[int] = None
+) -> List[Dict[str, Any]]:
+    """
+    Get products in a category, optionally limited to a random sample.
+    
+    Args:
+        category_name: Category to query
+        db_path: Path to database
+        limit: If specified, randomly sample this many products (or all if fewer)
+        seed: Random seed for reproducible product sampling (uses independent RNG)
+    
+    Returns:
+        List of product dictionaries
+    """
     conn = _get_connection(db_path)
     try:
         cur = conn.cursor()
@@ -59,6 +76,26 @@ def get_products_by_category(category_name: str, db_path: str = DB_PATH) -> List
                     "raw": raw,
                 }
             )
+        
+        # Apply random sampling if limit is specified
+        # Uses independent random state to avoid affecting experiment-level randomness
+        if limit is not None and len(products) > limit:
+            if seed is not None:
+                # Create independent Random instance with deterministic seed
+                # Derive unique seed from both the provided seed and category name
+                category_hash = hash(category_name) % (2**31)
+                derived_seed = (seed + category_hash) % (2**31)
+                rng = random.Random(derived_seed)
+            else:
+                # Use independent Random instance without seed (truly random)
+                rng = random.Random()
+            
+            total_before_sampling = len(products)
+            products = rng.sample(products, limit)
+            # Re-sort by id for consistency
+            products.sort(key=lambda p: p["id"])
+            print(f"[INFO] Sampled {limit} products from {total_before_sampling} total in category '{category_name}'")
+        
         return products
     finally:
         conn.close()
@@ -147,82 +184,62 @@ def save_scores(persona_index: int, category_name: str, scores: List[Tuple[int, 
     finally:
         conn.close()
 
-def simulated_user_respond(persona_description: str, question: str, dialog_history: list[dict[str, str]] = None, purchase_context: str = "I am buying this for myself.",products: List[Dict] = None,
-                           scores: List[Tuple[int, float]] = None) -> str:
+def simulated_user_respond(persona_description: str, question: str, category: str, dialog_history: List[Tuple[str, str]] = None) -> str:
     """
     Simulate a user's answer given a natural-language persona description.
+    The persona only knows their own characteristics and the product category,
+    not the specific products or their scores.
+    
+    Args:
+        persona_description: Natural language description of the persona
+        question: The question being asked
+        category: Product category being shopped
+        dialog_history: List of (question, answer) tuples from previous conversation
+    
+    Returns:
+        The persona's answer as a string
     """
     import time
     start_time = time.time()
     
-#     prompt = f"""You simulate a user with the following persona description:
-# {persona_description}
-
-# Answer STRICTLY the question as this user would.
-# - Only answer the question asked
-# - Do not volunteer extra information
-# - Do not restate persona or add rationale
-# - If a choice is requested, give one choice only
-
-# Question: {question}
-
-# Answer:"""
-    knowledge_summary = ""
-    if products and scores:
-        id_to_product = {p['id']: p for p in products}
-        sorted_scores = sorted(scores, key=lambda x: x[1], reverse=True)
-        
-        top_products_info = []
-        for pid, score in sorted_scores[:3]:
-            if pid in id_to_product:
-                top_products_info.append(f"- {id_to_product[pid]['title']}")
-
-        bottom_products_info = []
-        for pid, score in sorted_scores[-3:]:
-            if pid in id_to_product:
-                bottom_products_info.append(f"- {id_to_product[pid]['title']}")
-        
-        category = products[0].get('main_category', 'this category') if products else 'this category'
-        knowledge_summary = f"""**Your Internal Knowledge about '{category}' products:**
-This knowledge forms the basis of your opinions and preferences.
-*You have a strong preference for products like:*
-{'\n'.join(top_products_info)}
-
-*You have a strong dislike for products like:*
-{'\n'.join(bottom_products_info)}"""
-
-    history_str = "This is our first interaction."
+    # Build conversation history
+    history_str = ""
     if dialog_history:
         history_lines = []
-        for turn in dialog_history:
-            history_lines.append(f"Q: {turn.get('question', '')}")
-            history_lines.append(f"A: {turn.get('answer', '')}")
+        for q, a in dialog_history:
+            history_lines.append(f"Q: {q}")
+            history_lines.append(f"A: {a}")
         history_str = "\n".join(history_lines)
-    rules = f"""**Rule #1 (HIGHEST PRIORITY): BE HONEST & COOPERATIVE.**
-- If your interest level is 'very low', you MUST state your disinterest directly. Do not answer questions about a category you don't care about. Instead, you can mention a topic you are genuinely interested in.
-- Example: If asked about truck parts when your interest is low, say "I'm not really looking for truck parts, I'm more interested in hiking gear."
+    else:
+        history_str = "No previous conversation."
+    
+    # Simplified rules - no interest level check needed (categories are pre-filtered)
+    rules = """**Rule #1: BE CONSISTENT.**
+- Your answers must be 100% consistent with your persona description.
+- Answer based on your general preferences, lifestyle, and needs described in your persona.
 
-**Rule #2: BE CONSISTENT & RELIABLE.**
-- If you choose to engage (your interest is not 'very low'), your answers must be 100% consistent with your Core Persona, Purchase Goal, and your Internal Knowledge (your high/low preference for certain products).
+**Rule #2: BE HELPFUL & HONEST.**
+- Answer questions truthfully as this persona would.
+- If you don't have a strong preference, say so naturally.
 
 **Rule #3: BE CONCISE.**
-- Keep your answers brief to encourage follow-up questions."""
-    prompt = f"""You are a role-player governed by a strict set of rules.
+- Keep your answers brief (1-2 sentences) to encourage follow-up questions.
+- Don't volunteer extra information beyond what's asked."""
+    
+    prompt = f"""You are role-playing as a customer shopping for {category} products.
 
 {rules}
 ---
-**Core Persona (Who you are):**
+**Who You Are:**
 {persona_description}
 ---
-**Current Situation (The setting you are in):**
-- **Purchase Goal:** {purchase_context}
-- **Conversation History:**
+**Current Shopping Context:**
+- You are shopping for {category} products for yourself
+- Conversation history:
 {history_str}
 ---
-{knowledge_summary}
----
 **Your Task:**
-Based on all the information above, especially your internal knowledge, provide a consistent and concise answer to the question. Your spoken preferences should align with the types of products you secretly like or dislike.
+Answer the following question naturally and consistently with your persona. Base your answer on your general preferences, needs, and lifestyle.
 
 **Question:** "{question}"
 
@@ -275,7 +292,7 @@ def score_products_for_persona(persona_description: str, category: str, products
                     "persona_description": persona_description,
                     "category": category,
                     "products": prod_subset,
-                    "instructions": "You MUST return a JSON array containing exactly one object per product. Each object must have 'id' and 'score' fields. Score must be an integer from 0 to 100. Example: [{\"id\": 123, \"score\": 85}, {\"id\": 456, \"score\": 70}]. Do not return a single object, return an array.",
+                    "instructions": "You ARE the persona described. You are shopping for YOURSELF (not for a friend or anyone else). Rate each product with a score from 0 to 100 (integers only) based on how much YOU would like it for YOUR OWN use. Return a JSON array containing exactly one object per product with 'id' and 'score' fields. Example: [{\"id\": 123, \"score\": 85}, {\"id\": 456, \"score\": 70}]. Do not return a single object, return an array.",
                 }
                 response_schema_local = {
                     "type": "array",
@@ -293,7 +310,7 @@ def score_products_for_persona(persona_description: str, category: str, products
                     "persona_description": persona_description,
                     "category": category,
                     "products": prod_subset,
-                    "instructions": "You ARE the persona described. Rate each product with a score from 0 to 100 (integers only) based on how much YOU would like it. Return a JSON object with key 'results' as an array of objects: {id, score}. Do not include any other keys or text.",
+                    "instructions": "You ARE the persona described. You are shopping for YOURSELF (not for a friend or anyone else). Rate each product with a score from 0 to 100 (integers only) based on how much YOU would like it for YOUR OWN use. Return a JSON object with key 'results' as an array of objects: {id, score}. Do not include any other keys or text.",
                 }
                 response_schema_local = {
                     "type": "object",
@@ -315,7 +332,7 @@ def score_products_for_persona(persona_description: str, category: str, products
             return chat_completion(
                 model=target_model,
                 messages=[
-                    {"role": "system", "content": "You evaluate product-persona fit and must return strict JSON only."},
+                    {"role": "system", "content": "You evaluate product-persona fit for personal use and must return strict JSON only."},
                     {"role": "user", "content": json.dumps(user_payload, ensure_ascii=False)},
                 ],
                 temperature=0.2,
@@ -501,7 +518,7 @@ def score_products_for_persona(persona_description: str, category: str, products
         return out
 
     openai_model = "gpt-4o"
-    gemini_model = "gemini-1.5-pro"
+    gemini_model = "gemini-2.0-flash-exp"
 
     scores_openai: Dict[int, Tuple[float, str]] = {}
     scores_gemini: Dict[int, Tuple[float, str]] = {}

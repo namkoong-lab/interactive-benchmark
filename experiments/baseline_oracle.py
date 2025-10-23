@@ -184,7 +184,8 @@ def train_oracle_agent_multi_category(categories: List[str],
                                     output_dir: str = "oracle_results",
                                     seed: Optional[int] = None,
                                     min_score_threshold: float = 60.0,
-                                    num_categories: int = 10) -> Dict[str, Any]:
+                                    num_categories: int = 10,
+                                    max_products_per_category: Optional[int] = None) -> Dict[str, Any]:
     """
     Train the oracle agent across multiple categories (same pattern as other baselines).
     """
@@ -200,13 +201,13 @@ def train_oracle_agent_multi_category(categories: List[str],
     print(f"Running up to {total_episodes} oracle episodes across {len(categories)} categories")
     print(f"Target: {target_total_episodes} total episodes")
     
-    def is_category_relevant_for_persona(category: str, persona_index: int, min_score_threshold: float):
+    def is_category_relevant_for_persona(category: str, persona_index: int, min_score_threshold: float, max_products=None, seed=None):
         """Check if category is relevant for persona (same as experiment1)."""
         try:
             from pipeline.core.simulate_interaction import get_products_by_category
             from pipeline.core.user_model import UserModel
             
-            products = get_products_by_category(category)
+            products = get_products_by_category(category, limit=max_products, seed=seed)
             if not products:
                 return False, 0.0, []
             
@@ -227,7 +228,7 @@ def train_oracle_agent_multi_category(categories: List[str],
             
         print(f"\n--- Testing Category: {category} ---")
         
-        is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
+        is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold, max_products=max_products_per_category, seed=seed)
         
         if not is_relevant:
             print(f"  ✗ Category {category}: Max score {max_score:.1f} ≤ {min_score_threshold}, skipping")
@@ -242,7 +243,8 @@ def train_oracle_agent_multi_category(categories: List[str],
             seed=seed,
             agent=agent,
             feedback_system=None,  
-            cached_scores=cached_scores
+            cached_scores=cached_scores,
+            max_products_per_category=max_products_per_category
         )
         
         for episode in range(episodes_per_category):
@@ -411,7 +413,8 @@ def run_baseline_oracle(
     persona_index: int = None,
     output_dir: str = "baseline_oracle_results",
     seed: int = 60751,
-    min_score_threshold: float = 60.0
+    min_score_threshold: float = 60.0,
+    max_products_per_category: Optional[int] = None
 ) -> Dict[str, Any]:
     """Run oracle baseline with specified parameters."""
     
@@ -462,7 +465,8 @@ def run_baseline_oracle(
         output_dir=output_dir,
         seed=seed,
         min_score_threshold=min_score_threshold,
-        num_categories=num_categories
+        num_categories=num_categories,
+        max_products_per_category=max_products_per_category
     )
     
     return metrics

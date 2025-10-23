@@ -12,6 +12,7 @@ from .simulate_interaction import (
 )
 from .user_model import UserModel
 from .metrics import EpisodeRecord, MetricsRecorder
+from .unified_agent import UnifiedAgent
 
 __all__ = [
     'chat_completion',
@@ -22,5 +23,6 @@ __all__ = [
     'score_products_for_persona',
     'UserModel',
     'EpisodeRecord',
-    'MetricsRecorder'
+    'MetricsRecorder',
+    'UnifiedAgent'
 ]

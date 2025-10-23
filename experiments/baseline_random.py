@@ -81,7 +81,8 @@ def run_baseline_random(
     min_score_threshold: float = 50.0,
     output_dir: str = "baseline_random_results",
     checkpoint_file: str = None,
-    seed: Optional[int] = None):
+    seed: Optional[int] = None,
+    max_products_per_category: Optional[int] = None):
     """
     Run the 'Random Recommendation' baseline with checkpointing.
     """
@@ -112,9 +113,9 @@ def run_baseline_random(
     
     available_categories = list_categories()
     
-    def is_category_relevant_for_persona(category, persona_index, min_score_threshold):
+    def is_category_relevant_for_persona(category, persona_index, min_score_threshold, max_products=None, seed=None):
         try:
-            products = get_products_by_category(category)
+            products = get_products_by_category(category, limit=max_products, seed=seed)
             if not products: return False, 0.0, []
             user_model = UserModel(persona_index)
             scores = user_model.score_products(category, products)
@@ -126,7 +127,7 @@ def run_baseline_random(
             print(f"  Error checking category {category}: {e}")
             return False, 0.0, []
 
-    def select_relevant_categories(available_categories, num_categories, persona_index, min_score_threshold, seed=None):
+    def select_relevant_categories(available_categories, num_categories, persona_index, min_score_threshold, seed=None, max_products=None):
         """Select exactly num_categories that pass the relevance filter.
         Returns (selected_categories, cached_scores_map, tested_total, skipped_total)
         """
@@ -155,7 +156,7 @@ def run_baseline_random(
             tested_categories.add(category)
             print(f"  Testing category: {category}")
             
-            is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
+            is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold, max_products=max_products, seed=seed)
             if is_relevant:
                 relevant_categories.append((category, cached_scores))
                 print(f"    ✓ Category {category}: Max score {max_score:.1f} > {min_score_threshold}")
@@ -174,7 +175,7 @@ def run_baseline_random(
     if categories is None:
         if not checkpoint_file or not os.path.exists(checkpoint_file):
             selected_categories, cached_scores_map, tested_total, skipped_total = select_relevant_categories(
-                available_categories, num_categories, persona_index, min_score_threshold, seed
+                available_categories, num_categories, persona_index, min_score_threshold, seed, max_products=max_products_per_category
             )
             print(f"Selected {len(selected_categories)} relevant categories")
             print(f"Categories tested during selection: {tested_total}")
@@ -206,7 +207,7 @@ def run_baseline_random(
             cached_scores = cached_scores_map[category]
             print(f"  Category {category}: Using cached scores (already verified as relevant)")
         else:  
-            is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold)
+            is_relevant, max_score, cached_scores = is_category_relevant_for_persona(category, persona_index, min_score_threshold, max_products=max_products_per_category, seed=seed)
             if not is_relevant:
                 print(f"  Category {category}: Max score {max_score:.1f} <= {min_score_threshold}, skipping.")
                 continue
@@ -225,7 +226,8 @@ def run_baseline_random(
                 env = RecoEnv(
                     persona_index=persona_index, max_questions=0, 
                     categories=[category], agent=agent, 
-                    feedback_system=feedback_system, cached_scores=cached_scores
+                    feedback_system=feedback_system, cached_scores=cached_scores,
+                    max_products_per_category=max_products_per_category, seed=seed
                 )
                 
                 metrics_wrapper = MetricsWrapper(env, output_path=os.path.join(output_dir, f"episode_{episode_num}.jsonl"))
