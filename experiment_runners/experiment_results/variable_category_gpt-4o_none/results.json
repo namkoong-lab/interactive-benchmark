@@ -1,0 +1,281 @@
+{
+  "config": {
+    "experiment_type": "variable_category",
+    "model": null,
+    "max_questions": 10,
+    "context_mode": null,
+    "prompting_tricks": null,
+    "feedback_type": null,
+    "seeds": [
+      42
+    ],
+    "num_seeds": 1,
+    "categories": [
+      "Artificial Plants & Greenery"
+    ],
+    "persona_indices": [
+      38498
+    ],
+    "min_score_threshold": null,
+    "max_products_per_category": null,
+    "output_dir": null,
+    "experiment_name": null,
+    "checkpoint_file": null,
+    "episodes_per_trajectory": 1,
+    "total_trajectories": 1
+  },
+  "summary": {
+    "experiment_type": "variable_category",
+    "model": "gpt-4o",
+    "total_trajectories": 1,
+    "episodes_per_trajectory": 1,
+    "total_episodes": 1,
+    "successful_episodes": 1,
+    "total_questions_asked": 3,
+    "avg_regret": 25.0,
+    "avg_score": 40.0,
+    "regret_std": 0.0,
+    "trajectory_stats": [
+      {
+        "trajectory": "trajectory_1",
+        "episodes": 1,
+        "avg_regret": 25.0,
+        "avg_score": 40.0,
+        "total_questions": 3
+      }
+    ]
+  },
+  "results": [
+    {
+      "episode": 1,
+      "category": "Artificial Plants & Greenery",
+      "persona_index": 38498,
+      "steps": 3,
+      "terminated": true,
+      "truncated": false,
+      "final_info": {
+        "action_type": "recommend",
+        "chosen_product_id": 85438,
+        "chosen_score": 40.0,
+        "best_product_id": 85386,
+        "best_score": 65.0,
+        "regret": 25.0,
+        "top1": false,
+        "top3": false,
+        "questions_asked": 2,
+        "feedback": "",
+        "feedback_type": "none"
+      },
+      "full_dialog": [
+        [
+          "What type of artificial plant are you looking for?",
+          "I'm looking for something that reflects the natural beauty of the Black Hills, maybe an artificial pine or fern to complement my cabin's rustic vibe."
+        ],
+        [
+          "What is your budget?",
+          "I'm looking to keep it under $100, as I prefer to invest more in experiences and gear for my outdoor adventures."
+        ]
+      ],
+      "product_info": {
+        "num_products": 29,
+        "products_with_scores": [
+          {
+            "id": 85386,
+            "name": "10pcs Dried Eucalyptus, 100% Natural Fresh Eucalyptus Stems, Eucalyptus Branches Eucalyptus Leaves for Shower, Home Decor, Wedding, Party, Hotel, Office Decor, 15.74\"-16.93\" Tall",
+            "price": 11.99,
+            "average_score": 65.0
+          },
+          {
+            "id": 87315,
+            "name": "FUNARTY 15pcs Artificial Eucalyptus Leaves Stems 18\" Tall Greenery Decor Faux Eucalyptuses Real Touch for Wedding Bouquet Centerpiece Home Decor",
+            "price": 8.49,
+            "average_score": 62.5
+          },
+          {
+            "id": 83702,
+            "name": "Set of 3 Artificial Mini Potted Plants Assorted Flocked Eucalyptus Grey Green Grass Greenery in Pots Small Houseplants for Indoor Kitchen Dining Room Office Tabletop Centerpiece Decorations 8.7\" Tall",
+            "price": null,
+            "average_score": 57.5
+          },
+          {
+            "id": 84622,
+            "name": "PENGYEE Artificial Succulent Plants Potted,4 Pcs Mini Succulents Plants Artificial in Pots Faux Succulents Plants Indoor Home Decorations Bookshelf, Kitchen Counter Decor (4 Packs B)",
+            "price": 14.99,
+            "average_score": 55.0
+          },
+          {
+            "id": 85928,
+            "name": "Set of 3 Assorted Small Potted Plants Fake Eucalyptus Plants and Rosemary Plant in Rustic Wooden Planters for Mother Gifts Farmhouse Table Centerpiece Bathroom Shelf Office Desk Indoor Greenery Decor",
+            "price": 17.99,
+            "average_score": 55.0
+          },
+          {
+            "id": 82169,
+            "name": "MyGift 4.75 Inch Assorted Artificial Potted Succulent Plant Arrangement with Rustic Brown Square Wood Planter",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 82487,
+            "name": "Beebel Artificial Plant Potted 17.5\" Green Eucalyptus Leaf Faux Plants in Pot for Desk Office Greenery and Room Decor 12 Leaves",
+            "price": null,
+            "average_score": 50.0
+          },
+          {
+            "id": 86841,
+            "name": "MRPlus Artificial Eucalyptus Plant Faux Elegant Eucalyptus Stems Greenery Plants Decor for Home, Office, Bedroom and Classroom Decoration (3 Pack)",
+            "price": 14.99,
+            "average_score": 47.5
+          },
+          {
+            "id": 87168,
+            "name": "CADNLY Realistic Fake Plants Artificial Plants - Modern Faux Plants Potted Green Plants Decor - House Plants Artificial Potted Plants Farmhouse Greenery - Fake Desk Plant for Office Bathroom Bedroom",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 87805,
+            "name": "OUIVIAL Artificial Potted Plants - 3 Pack Fake Potted Plants Plastic Flower Eucalyptus Leaves Plants with White Metal Basin for Home, Kitchen, Indoor Outdoor Decor. (3 Colors Mixed Fake Plants)",
+            "price": null,
+            "average_score": 47.5
+          },
+          {
+            "id": 87825,
+            "name": "HUAESIN Fake Hanging Plants 2pcs Faux Ivy Plant Plastic Hanging Greenery for Farmhouse Home Decor Wall Proch Indoor Outdoor Hanging Basket",
+            "price": 9.99,
+            "average_score": 47.5
+          },
+          {
+            "id": 84590,
+            "name": "Supla 3 Pcs Faux Eucalyptus Leave Branches Red Burgundy Artificial Silver Dollar Eucalyptus Stems Plants for Floral Arrangement Centerpiece Fall Autumn Wedding Shower Indoor Outdoor D\u00e9cor",
+            "price": null,
+            "average_score": 42.5
+          },
+          {
+            "id": 86782,
+            "name": "Fake Succulent Plants - Set of 9 Artificial Succulent Plants - Mixed Colors - Fake Plants for Decoration",
+            "price": null,
+            "average_score": 42.5
+          },
+          {
+            "id": 86826,
+            "name": "Hisow Hanging Plants Artificial Decor, Fake Hanging Plant in Clay Pot Artificial Hanging Plants with Fake Leaves and Hook for Wall Home Room Indoor Outdoor D\u00e9cor (Dark Green)",
+            "price": 32.99,
+            "average_score": 42.5
+          },
+          {
+            "id": 82116,
+            "name": "SHACOS 20 Pack Artificial Blueberry Picks with Green Leaves 9.8 inch Blueberry Stems Blueberries Spray Floral Arrangement Bouquet Filler for Home Wedding Christmas Decoration (20 PCS, Blueberry)",
+            "price": 21.99,
+            "average_score": 40.0
+          },
+          {
+            "id": 84508,
+            "name": "Nearly Natural Pothos with Ledge Basket, Green,34x18x15",
+            "price": 45.98,
+            "average_score": 40.0
+          },
+          {
+            "id": 84791,
+            "name": "Supla 4 Pcs Eucalyptus Leaves Artificial Greenery Eucalyptus Branches Floral Stems Fake Eucalyptus Plant Spray Floral Greens Tall Greenery for Vases Farmhouse Wedding Jungle Party Outdoor Decor",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 85438,
+            "name": "AMERIQUE 5 Feet Unique Tropical Fan Palm Tree Artificial Silk Plant, UV Protection, Indoor and Outdoor Display, with Nursery Plastic Pot, Feel Real Technology, Emerald Green",
+            "price": 95.77,
+            "average_score": 40.0
+          },
+          {
+            "id": 87010,
+            "name": "Omldggr 18 Pieces Artificial Succulents Plants Artificial Succulents with Fake Moss, Unpotted Fake Succulent Plants for Home Office Decoration",
+            "price": null,
+            "average_score": 40.0
+          },
+          {
+            "id": 88215,
+            "name": "2pcs Artificial Hanging Plants, 32in Simulation Wall Hanging Flower Vine Dragon Tree Vine Fake Ivy Vine Leaves Greeny for Home Room Wedding Party Patio Indoor Outdoor Wall Decor",
+            "price": null,
+            "average_score": 37.5
+          },
+          {
+            "id": 85906,
+            "name": "Shinoda Design Center Green/Burgundy 7\" Faux Succulent Stem 2pc Set, 7\"",
+            "price": null,
+            "average_score": 35.0
+          },
+          {
+            "id": 82641,
+            "name": "JOHOUSE 18PCS 126FT Artificial Ivy Leaf Plants Hanging Greenery Garlands for Wedding Party Wall or Yard Decor, Fake Plant Decor",
+            "price": null,
+            "average_score": 27.5
+          },
+          {
+            "id": 85240,
+            "name": "Romantik Desk Top Plant in Terrarium",
+            "price": null,
+            "average_score": 27.5
+          },
+          {
+            "id": 85383,
+            "name": "JUYO VONSAN\u00ae 8pcs Artificial Plants Epipremnum Aureus Leaves Fake Plants Bridal Home Garden Office Floor Restaurant Wedding Decoration (8, Green)",
+            "price": null,
+            "average_score": 27.5
+          },
+          {
+            "id": 86048,
+            "name": "Bird Fiy 26\" Artificial Eucalyptus Greenery Leaf Fake Eucalyptus Sprays Leave for Wedding Party Home Decor (2PCS)",
+            "price": null,
+            "average_score": 27.5
+          },
+          {
+            "id": 87949,
+            "name": "Everlasting House Plant",
+            "price": null,
+            "average_score": 22.5
+          },
+          {
+            "id": 83086,
+            "name": "Nearly Natural Bromeliad and Fern Artificial Green Vase Silk Plants, Red",
+            "price": 59.25,
+            "average_score": 20.0
+          },
+          {
+            "id": 84259,
+            "name": "Nearly Natural 1365 Fern and Orchid Arrangement",
+            "price": 72.42,
+            "average_score": 20.0
+          },
+          {
+            "id": 85031,
+            "name": "RERXN 4 Bunchs Artificial Ivy Vine Greenery Fake Hanging Plant Leaves for Indoor Outdoor Decor (Raisin Leaves)",
+            "price": null,
+            "average_score": 20.0
+          }
+        ]
+      }
+    }
+  ],
+  "agent_history": [
+    {
+      "episode": 1,
+      "category": "Artificial Plants & Greenery",
+      "persona": 38498,
+      "dialog": [
+        [
+          "What type of artificial plant are you looking for?",
+          "I'm looking for something that reflects the natural beauty of the Black Hills, maybe an artificial pine or fern to complement my cabin's rustic vibe."
+        ],
+        [
+          "What is your budget?",
+          "I'm looking to keep it under $100, as I prefer to invest more in experiences and gear for my outdoor adventures."
+        ]
+      ],
+      "selected_product_id": 85438,
+      "selected_product_name": "AMERIQUE 5 Feet Unique Tropical Fan Palm Tree Artificial Silk Plant, UV Protection, Indoor and Outdoor Display, with Nursery Plastic Pot, Feel Real Technology, Emerald Green",
+      "feedback": ""
+    }
+  ],
+  "timestamp": "2025-10-23T03:13:21.349798"
+}

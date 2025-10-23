@@ -32,7 +32,8 @@ if __name__ == "__main__":
         model="gpt-4o",
         feedback_type="persona",
         min_score_threshold=60.0,
-        output_dir="manual_questions_results"
+        output_dir="manual_questions_results",
+        max_products_per_category=None  # Set to limit products per category
     )
 
     if 'error' in results:

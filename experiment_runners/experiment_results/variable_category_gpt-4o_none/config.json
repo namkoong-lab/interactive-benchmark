@@ -1,0 +1,21 @@
+{
+  "experiment_type": "variable_category",
+  "model": "gpt-4o",
+  "max_questions": 10,
+  "context_mode": "raw",
+  "prompting_tricks": "none",
+  "feedback_type": "none",
+  "seeds": [
+    42
+  ],
+  "num_seeds": null,
+  "categories": null,
+  "persona_indices": null,
+  "min_score_threshold": 60.0,
+  "max_products_per_category": 100,
+  "output_dir": "experiment_results",
+  "experiment_name": null,
+  "checkpoint_file": null,
+  "episodes_per_trajectory": 1,
+  "total_trajectories": 1
+}

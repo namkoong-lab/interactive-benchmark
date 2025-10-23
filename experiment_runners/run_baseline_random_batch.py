@@ -19,6 +19,7 @@ def run_batch_experiments():
         "num_categories": 10,
         "min_score_threshold": 60,
         "episodes_per_category": 1,
+        "max_products": None,  # Set to limit products per category (e.g., 100)
     }
 
     seeds = [798407, 415909]
@@ -53,6 +54,10 @@ def run_batch_experiments():
             '--output_dir', output_dir,
             '--seed', str(seed),
         ]
+        
+        # Add max_products if specified
+        if config.get('max_products') is not None:
+            command.extend(['--max_products', str(config['max_products'])])
         
         print(f"Output Directory: {output_dir}")
         print(f"Executing command...\n")

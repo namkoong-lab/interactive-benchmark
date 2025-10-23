@@ -17,9 +17,12 @@ from experiments.baseline_popularity import run_baseline_popularity
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run Baseline 3 with checkpointing.")
     parser.add_argument("--resume_from", type=str, default=None, help="Path to a checkpoint file to resume from.")
+    parser.add_argument("--max-products", type=int, default=None, help="Maximum number of products to randomly sample per category (default: use all products)")
     args = parser.parse_args()
 
     print("Running Baseline Experiment 3: Popularity Recommendation")
+    if args.max_products:
+        print(f"Using max {args.max_products} products per category")
     
     # Run with settings that mirror the main experiment
     run_baseline_popularity(
@@ -32,7 +35,8 @@ if __name__ == "__main__":
         min_score_threshold=60.0,
         output_dir="baseline_popularity_results_with_checkpoints",
         checkpoint_file=args.resume_from,
-        seed=179322                      # Use the same seed for reproducibility
+        seed=179322,                     # Use the same seed for reproducibility
+        max_products_per_category=args.max_products
     )
     
     print("\n'Popularity Recommendation' baseline experiment completed!")

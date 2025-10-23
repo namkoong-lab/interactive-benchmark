@@ -23,9 +23,12 @@ if __name__ == "__main__":
     parser.add_argument("--categories", type=str, nargs="+", default=None, help="Categories to test")
     parser.add_argument("--output_dir", type=str, default="baseline_oracle_results", help="Output directory")
     parser.add_argument("--seed", type=int, default=732239, help="Random seed (same as other baselines for fair comparison)")
+    parser.add_argument("--max-products", type=int, default=None, help="Maximum number of products to randomly sample per category (default: use all products)")
     args = parser.parse_args()
 
     print("Running Baseline Experiment 4: Oracle Recommendation")
+    if args.max_products:
+        print(f"Using max {args.max_products} products per category")
     
     run_baseline_oracle(
         categories=args.categories, 
@@ -34,7 +37,8 @@ if __name__ == "__main__":
         model=args.model,
         persona_index=args.persona_index,
         output_dir=args.output_dir,
-        seed=args.seed
+        seed=args.seed,
+        max_products_per_category=args.max_products
     )
     
     print("\n'Oracle Recommendation' baseline experiment completed!")
