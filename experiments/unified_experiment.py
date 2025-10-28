@@ -9,7 +9,6 @@ import numpy as np
 import json
 import os
 import random
-import time
 from typing import Dict, List, Any, Optional, Tuple
 from datetime import datetime
 
@@ -193,7 +192,34 @@ class UnifiedExperiment:
                     persona = traj_personas[episode_num]
                     episode_plan.append((episode_num + 1, persona, category))
             
-            else:
+            else:  # variable_settings
+                # Balance categories and personas if lengths differ
+                if len(traj_categories) != len(traj_personas):
+                    if len(traj_categories) < len(traj_personas):
+                        # Need more categories - sample additional ones
+                        needed = len(traj_personas) - len(traj_categories)
+                        all_categories = list_categories()
+                        available = [c for c in all_categories if c not in traj_categories]
+                        if available:
+                            additional = random.sample(available, min(needed, len(available)))
+                            traj_categories.extend(additional)
+                    elif len(traj_personas) < len(traj_categories):
+                        # Need more personas - sample additional ones
+                        from pipeline.core.personas import get_persona_description
+                        max_persona_index = 0
+                        while True:
+                            try:
+                                get_persona_description(max_persona_index)
+                                max_persona_index += 1
+                            except:
+                                break
+                        needed = len(traj_categories) - len(traj_personas)
+                        available = [p for p in range(max_persona_index) if p not in traj_personas]
+                        if available:
+                            additional = random.sample(available, min(needed, len(available)))
+                            traj_personas.extend(additional)
+                
+                # Now create episode plan with balanced lists
                 num_episodes = max(len(traj_categories), len(traj_personas))
                 for episode_num in range(num_episodes):
                     persona = traj_personas[episode_num % len(traj_personas)]
@@ -208,7 +234,7 @@ class UnifiedExperiment:
         """Check if this episode should use planning mode (regret tracking)."""
         if self.config.planning_mode == "none":
             return False
-        return episode_num_in_trajectory % self.config.planning_interval == 0
+        return (episode_num_in_trajectory - 1) % self.config.planning_interval == 0
     
     def _get_planning_strategy(self) -> str:
         """Get strategy name for planning episodes."""
@@ -222,17 +248,19 @@ class UnifiedExperiment:
     def _run_single_episode(self, episode_num: int, persona_index: int, category: str, 
                            cached_scores: Optional[List[Tuple[int, float]]] = None,
                            trajectory_seed: Optional[int] = None,
-                           episode_num_in_trajectory: int = None) -> Optional[Dict[str, Any]]:
+                           episode_num_in_trajectory: int = None,
+                           trajectory_num: int = None) -> Optional[Dict[str, Any]]:
         """Run a single episode. Delegates to planning or regular mode based on episode number."""
         # Determine if this is a planning episode
         if episode_num_in_trajectory and self._is_planning_episode(episode_num_in_trajectory):
-            return self._run_planning_episode(episode_num, persona_index, category, cached_scores, trajectory_seed)
+            return self._run_planning_episode(episode_num, persona_index, category, cached_scores, trajectory_seed, trajectory_num)
         else:
-            return self._run_regular_episode(episode_num, persona_index, category, cached_scores, trajectory_seed)
+            return self._run_regular_episode(episode_num, persona_index, category, cached_scores, trajectory_seed, trajectory_num)
     
     def _run_regular_episode(self, episode_num: int, persona_index: int, category: str, 
                            cached_scores: Optional[List[Tuple[int, float]]] = None,
-                           trajectory_seed: Optional[int] = None) -> Optional[Dict[str, Any]]:
+                           trajectory_seed: Optional[int] = None,
+                           trajectory_num: int = None) -> Optional[Dict[str, Any]]:
         """Run a regular (non-planning) episode."""
         if self.config.debug_mode:
             print(f"\nEpisode {episode_num}: Persona #{persona_index}, Category: {category}")
@@ -256,7 +284,9 @@ class UnifiedExperiment:
                 debug_mode=self.config.debug_mode
             )
             
-            metrics_wrapper = MetricsWrapper(env, output_path=os.path.join(self.output_path, f"episode_{episode_num}.jsonl"))
+            # Include trajectory number in filename to prevent collisions across trajectories
+            filename = f"trajectory_{trajectory_num}_episode_{episode_num}.jsonl" if trajectory_num else f"episode_{episode_num}.jsonl"
+            metrics_wrapper = MetricsWrapper(env, output_path=os.path.join(self.output_path, filename))
             
             obs, info = metrics_wrapper.reset()
             self.agent.current_env = env
@@ -333,7 +363,8 @@ class UnifiedExperiment:
     
     def _run_planning_episode(self, episode_num: int, persona_index: int, category: str,
                              cached_scores: Optional[List[Tuple[int, float]]] = None,
-                             trajectory_seed: Optional[int] = None) -> Optional[Dict[str, Any]]:
+                             trajectory_seed: Optional[int] = None,
+                             trajectory_num: int = None) -> Optional[Dict[str, Any]]:
         """
         Run a planning episode with regret tracking after each question.
         
@@ -373,7 +404,9 @@ class UnifiedExperiment:
                 debug_mode=self.config.debug_mode
             )
             
-            metrics_wrapper = MetricsWrapper(env, output_path=os.path.join(self.output_path, f"episode_{episode_num}_planning.jsonl"))
+            # Include trajectory number in filename to prevent collisions across trajectories
+            filename = f"trajectory_{trajectory_num}_episode_{episode_num}_planning.jsonl" if trajectory_num else f"episode_{episode_num}_planning.jsonl"
+            metrics_wrapper = MetricsWrapper(env, output_path=os.path.join(self.output_path, filename))
             obs, info = metrics_wrapper.reset()
             self.agent.current_env = env
             
@@ -382,13 +415,13 @@ class UnifiedExperiment:
             question_count = 0
             terminated = False
             truncated = False
+            num_products = len(env.products) if hasattr(env, 'products') else 0
             
             # Planning mode: Force agent to ask max_questions, secretly track recommendations
             while question_count < self.config.max_questions and not terminated and not truncated:
                 # Let agent choose action, but override if it tries to recommend early
                 action = self.agent.get_action(obs, info)
                 
-                num_products = len(env.products) if hasattr(env, 'products') else 0
                 if action < num_products:  # Agent wants to recommend
                     action = num_products  # Force ask question instead
                 
@@ -490,71 +523,35 @@ class UnifiedExperiment:
     
     def _get_intermediate_recommendation(self, env, obs, info):
         """
-        Get a recommendation from the agent based on dialog so far.
-        Agent sees all questions and answers, but not previous recommendations.
+        Get agent's actual recommendation using its real decision-making logic.
+        Saves and restores agent state to make this transparent (agent doesn't remember).
         """
         try:
-            from pipeline.core.llm_client import chat_completion
+            import copy
             
+            # Save agent's current state
+            saved_last_response = self.agent.last_response
+            saved_current_episode_info = copy.deepcopy(self.agent.current_episode_info) if self.agent.current_episode_info else None
+            
+            # Get agent's REAL recommendation (uses its full logic, strategy, and context)
+            action = self.agent.get_action(obs, info)
+            
+            # Restore agent's state (pretend this recommendation never happened)
+            self.agent.last_response = saved_last_response
+            self.agent.current_episode_info = saved_current_episode_info
+            
+            # If action is "ask question", fallback to recommending first product
             num_products = len(env.products) if hasattr(env, 'products') else 0
-            category = info.get('category', 'unknown')
-            dialog_history = env.dialog_history if hasattr(env, 'dialog_history') else []
+            if action >= num_products:
+                return 0  # Agent chose to ask question, use first product as fallback
             
-            # Build product context
-            products_text = []
-            if hasattr(env, 'products'):
-                for i, product in enumerate(env.products[:num_products]):
-                    products_text.append(f"[{i}] {product.get('title', 'Unknown')} (${product.get('price', 'N/A')})")
-            
-            products_str = "\n".join(products_text) if products_text else "No products available"
-            
-            # Build dialog context
-            dialog_str = ""
-            if dialog_history:
-                dialog_str = "\n".join([f"Q: {q}\nA: {a}" for q, a in dialog_history])
-            
-            # Build strategy-specific prompt section
-            strategy_section = ""
-            if self.agent.strategy == "greedy":
-                strategy_section = "\n=== GREEDY STRATEGY ===\nAsk questions that ELIMINATE THE MOST products.\n"
-            elif self.agent.strategy == "pomdp":
-                strategy_section = "\n=== POMDP PLANNING ===\nConsider future question value, not just immediate gain.\n"
-            
-            # Prompt for intermediate recommendation
-            prompt = f"""You are a product recommendation agent.
-
-Category: {category}
-Products available:
-{products_str}
-
-Dialog so far:
-{dialog_str}
-{strategy_section}
-Based on what you've learned, which product would you recommend?
-Respond with ONLY the product number (0-{num_products-1}).
-
-Product number:"""
-            
-            response = chat_completion(
-                model=self.agent.model,
-                messages=[{"role": "user", "content": prompt}],
-                temperature=0.0,  # Deterministic
-                max_tokens=10
-            )
-            
-            # Parse product number
-            try:
-                product_num = int(response.strip())
-                if 0 <= product_num < num_products:
-                    return product_num
-                else:
-                    return 0  # Fallback
-            except ValueError:
-                return 0  # Fallback
+            return action
                 
         except Exception as e:
             if self.config.debug_mode:
                 print(f"    Error getting intermediate recommendation: {e}")
+                import traceback
+                traceback.print_exc()
             return 0  # Fallback to first product
     
     def run(self) -> Dict[str, Any]:
@@ -649,7 +646,7 @@ Product number:"""
                     episode_tried_categories.add(current_category)
                     
                     if retry > 0 and self.config.debug_mode:
-                            print(f"    Retry {retry}: Trying category {current_category}")
+                        print(f"    Retry {retry}: Trying category {current_category}")
                     
                     is_relevant, max_score, scores = self._is_category_relevant_for_persona(
                         current_category, persona_idx, seed=trajectory_seed
@@ -662,12 +659,12 @@ Product number:"""
                     
                     result = self._run_single_episode(episode_num, persona_idx, current_category, 
                                                      cached_scores=scores, trajectory_seed=trajectory_seed,
-                                                     episode_num_in_trajectory=episode_num)
+                                                     episode_num_in_trajectory=episode_num, trajectory_num=traj_num)
                     
                     if result:
                         break
                     elif self.config.debug_mode:
-                            print(f"    Episode failed for other reasons, trying another category...")
+                        print(f"    Episode failed for other reasons, trying another category...")
                 
                 if result:
                     trajectory_results.append(result)
@@ -707,8 +704,8 @@ Product number:"""
             executed_categories_per_traj.append(trajectory_executed_categories)
             executed_personas_per_traj.append(trajectory_executed_personas)
         
-        self.config._used_categories = executed_categories_per_traj if executed_categories_per_traj else None
-        self.config._used_persona_indices = executed_personas_per_traj if executed_personas_per_traj else None
+        self.config._used_categories = executed_categories_per_traj if any(executed_categories_per_traj) else None
+        self.config._used_persona_indices = executed_personas_per_traj if any(executed_personas_per_traj) else None
         
         return self._save_results()
     
@@ -796,12 +793,17 @@ Product number:"""
         
         if all_seed_data:
             max_length = max(len(traj) for traj in all_seed_data)
-            padded_data = [traj + [0.0] * (max_length - len(traj)) for traj in all_seed_data]
-            
-            mean_values = [float(np.mean([traj[i] for traj in padded_data if i < len(traj)])) 
-                          for i in range(max_length)]
-            std_values = [float(np.std([traj[i] for traj in padded_data if i < len(traj)])) 
-                         for i in range(max_length)]
+            mean_values = []
+            std_values = []
+            for i in range(max_length):
+                # Get values from trajectories that have an episode at position i
+                values_at_i = [all_seed_data[j][i] for j in range(len(all_seed_data)) if i < len(all_seed_data[j])]
+                if values_at_i:
+                    mean_values.append(float(np.mean(values_at_i)))
+                    std_values.append(float(np.std(values_at_i)))
+                else:
+                    mean_values.append(0.0)
+                    std_values.append(0.0)
             
             return {'all_seed_data': all_seed_data, 'mean': mean_values, 'standard_error': std_values}
         
@@ -818,12 +820,17 @@ Product number:"""
         
         if all_seed_data:
             max_length = max(len(traj) for traj in all_seed_data)
-            padded_data = [traj + [0] * (max_length - len(traj)) for traj in all_seed_data]
-            
-            mean_values = [float(np.mean([traj[i] for traj in padded_data if i < len(traj)])) 
-                          for i in range(max_length)]
-            std_values = [float(np.std([traj[i] for traj in padded_data if i < len(traj)])) 
-                         for i in range(max_length)]
+            mean_values = []
+            std_values = []
+            for i in range(max_length):
+                # Get values from trajectories that have an episode at position i
+                values_at_i = [all_seed_data[j][i] for j in range(len(all_seed_data)) if i < len(all_seed_data[j])]
+                if values_at_i:
+                    mean_values.append(float(np.mean(values_at_i)))
+                    std_values.append(float(np.std(values_at_i)))
+                else:
+                    mean_values.append(0.0)
+                    std_values.append(0.0)
             
             return {'all_seed_data': all_seed_data, 'mean': mean_values, 'standard_error': std_values}
         
@@ -842,4 +849,3 @@ Product number:"""
             raise ValueError(f"Unknown config file format: {config_path}")
         
         return cls(config)
-
