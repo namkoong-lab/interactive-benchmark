@@ -8,6 +8,12 @@ from openai import OpenAI
 load_dotenv()
 
 _openai_client: Optional[OpenAI] = None
+_debug_mode: bool = False  # Global debug flag
+
+def set_debug_mode(debug: bool):
+    """Set global debug mode for LLM client."""
+    global _debug_mode
+    _debug_mode = debug
 
 def _get_openai_client() -> OpenAI:
     global _openai_client
@@ -15,7 +21,8 @@ def _get_openai_client() -> OpenAI:
         api_key = os.getenv("OPENAI_API_KEY")
         if not api_key:
             raise RuntimeError("OPENAI_API_KEY is not set in environment.")
-        print(f"[DEBUG] OpenAI API key found: {api_key[:8]}...")
+        if _debug_mode:
+            print(f"[DEBUG] OpenAI API key found: {api_key[:8]}...")
         _openai_client = OpenAI(api_key=api_key)
     return _openai_client
 
@@ -161,7 +168,8 @@ def _openai_chat_completion(
         if json_mode:
             kwargs["response_format"] = {"type": "json_object"}
         
-        print(f"[DEBUG] OpenAI request - Model: {model}, Messages: {len(messages)}, JSON mode: {json_mode}")
+        if _debug_mode:
+            print(f"[DEBUG] OpenAI request - Model: {model}, Messages: {len(messages)}, JSON mode: {json_mode}")
         
         resp = client.chat.completions.create(**kwargs)
         return resp.choices[0].message.content.strip()

@@ -4,6 +4,7 @@ import json
 import random
 import sqlite3
 import time
+import hashlib
 from typing import Dict, List, Any, Tuple, Optional
 from dotenv import load_dotenv
 from .llm_client import chat_completion
@@ -12,6 +13,13 @@ load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 DB_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "database", "products.db"))
+
+_debug_mode: bool = False  # Global debug flag
+
+def set_debug_mode(debug: bool):
+    """Set global debug mode for simulate_interaction."""
+    global _debug_mode
+    _debug_mode = debug
 
 def _get_connection(db_path: str = DB_PATH) -> sqlite3.Connection:
     return sqlite3.connect(db_path)
@@ -83,7 +91,8 @@ def get_products_by_category(
             if seed is not None:
                 # Create independent Random instance with deterministic seed
                 # Derive unique seed from both the provided seed and category name
-                category_hash = hash(category_name) % (2**31)
+                # Use MD5 hash for cross-platform reproducibility (Python's hash() is not deterministic)
+                category_hash = int(hashlib.md5(category_name.encode('utf-8')).hexdigest(), 16) % (2**31)
                 derived_seed = (seed + category_hash) % (2**31)
                 rng = random.Random(derived_seed)
             else:
@@ -257,7 +266,8 @@ Answer the following question naturally and consistently with your persona. Base
     )
     
     elapsed = time.time() - start_time
-    print(f"[TIMING] Persona question answering: {elapsed:.2f}s")
+    if _debug_mode:
+        print(f"[TIMING] Persona question answering: {elapsed:.2f}s")
     return content
 
 def score_products_for_persona(persona_description: str, category: str, products: List[Dict[str, Any]], model: str = "gpt-4o") -> List[Tuple[int, float, str]]:
@@ -269,7 +279,8 @@ def score_products_for_persona(persona_description: str, category: str, products
     """
     import time
     start_time = time.time()
-    print(f"[TIMING] Starting product scoring for {len(products)} products...")
+    if _debug_mode:
+        print(f"[TIMING] Starting product scoring for {len(products)} products...")
     condensed_products = [
         {
             "id": p.get("id"),
@@ -366,7 +377,8 @@ def score_products_for_persona(persona_description: str, category: str, products
                 chunk_size = 25
                 for i in range(0, len(condensed_products), chunk_size):
                     chunk = condensed_products[i:i+chunk_size]
-                    print(f"[DEBUG] Processing chunk {i//chunk_size + 1} with {len(chunk)} products")
+                    if _debug_mode:
+                        print(f"[DEBUG] Processing chunk {i//chunk_size + 1} with {len(chunk)} products")
                     content_part = None
                     for attempt in range(5):
                         try:
@@ -449,7 +461,8 @@ def score_products_for_persona(persona_description: str, category: str, products
                 continue
             
             if i == 0:  
-                print(f"[DEBUG] Chunk {i} content preview: {content_local[:200]}...")
+                if _debug_mode:
+                    print(f"[DEBUG] Chunk {i} content preview: {content_local[:200]}...")
             try:
                 parsed_local = json.loads(content_local)
                 if isinstance(parsed_local, dict):
@@ -563,14 +576,16 @@ def score_products_for_persona(persona_description: str, category: str, products
 
     combined.sort(key=lambda t: t[1], reverse=True)
 
-    id_to_title = {int(p.get("id")): p.get("title") for p in products if p.get("id") is not None}
-    print("\n=== Persona Scoring (ensemble, highest to lowest) ===")
-    for pid, score, reason in combined:
-        title = id_to_title.get(pid, "<unknown title>")
-        print(f"{score:6.1f} - {title} (id={pid})")
-        print(f"        {reason}")
-    print("=== End Persona Scoring ===\n")
+    if _debug_mode:
+        id_to_title = {int(p.get("id")): p.get("title") for p in products if p.get("id") is not None}
+        print("\n=== Persona Scoring (ensemble, highest to lowest) ===")
+        for pid, score, reason in combined:
+            title = id_to_title.get(pid, "<unknown title>")
+            print(f"{score:6.1f} - {title} (id={pid})")
+            print(f"        {reason}")
+        print("=== End Persona Scoring ===\n")
     
     elapsed = time.time() - start_time
-    print(f"[TIMING] Product scoring completed: {elapsed:.2f}s")
+    if _debug_mode:
+        print(f"[TIMING] Product scoring completed: {elapsed:.2f}s")
     return combined

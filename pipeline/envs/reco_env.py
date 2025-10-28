@@ -4,6 +4,7 @@ from gymnasium import spaces
 from typing import Dict, List, Tuple, Any, Optional
 import json
 import random
+import hashlib
 
 from ..core.simulate_interaction import get_products_by_category, list_categories
 from ..core.user_model import UserModel
@@ -34,6 +35,7 @@ class RecoEnv(gym.Env):
                  feedback_system: Optional[FeedbackSystem] = None,
                  cached_scores: Optional[List[Tuple[int, float]]] = None,
                  max_products_per_category: Optional[int] = None,
+                 debug_mode: bool = False,
                 ):
         super().__init__()
         
@@ -44,7 +46,8 @@ class RecoEnv(gym.Env):
         self.agent = agent
         self.last_agent_response = None  
         self.cached_scores = cached_scores
-        self.max_products_per_category = max_products_per_category 
+        self.max_products_per_category = max_products_per_category
+        self.debug_mode = debug_mode 
         
         self.user_model = UserModel(persona_index)
         
@@ -108,13 +111,16 @@ class RecoEnv(gym.Env):
         self.product_ids = [p["id"] for p in self.products]
         
         if self.cached_scores:
-            print(f"[DEBUG] Using cached scores: {len(self.cached_scores)} scores provided")
+            if self.debug_mode:
+                print(f"[DEBUG] Using cached scores: {len(self.cached_scores)} scores provided")
             self.oracle_scores = [(pid, score) for pid, score in self.cached_scores 
                                  if pid in self.product_ids]
             self.oracle_scores.sort(key=lambda x: x[1], reverse=True)  
-            print(f"[DEBUG] Filtered cached scores: {len(self.oracle_scores)} scores for current products")
+            if self.debug_mode:
+                print(f"[DEBUG] Filtered cached scores: {len(self.oracle_scores)} scores for current products")
         else:
-            print(f"[DEBUG] No cached scores provided, computing scores for {len(self.products)} products...")
+            if self.debug_mode:
+                print(f"[DEBUG] No cached scores provided, computing scores for {len(self.products)} products...")
             self.oracle_scores = self.user_model.score_products(self.current_category, self.products)
             self.oracle_scores.sort(key=lambda x: x[1], reverse=True)  
         
@@ -266,7 +272,9 @@ class RecoEnv(gym.Env):
             product_features[i, 0] = min(price / 1000.0, 1.0)  
             
             store = str(product.get("store", ""))
-            product_features[i, 1] = hash(store) % 100 / 100.0
+            # Use MD5 for cross-platform reproducibility
+            store_hash = int(hashlib.md5(store.encode('utf-8')).hexdigest(), 16) % 100
+            product_features[i, 1] = store_hash / 100.0
             
             title = str(product.get("title", ""))
             product_features[i, 2] = min(len(title) / 100.0, 1.0)
@@ -288,7 +296,8 @@ class RecoEnv(gym.Env):
         
         category_encoded = np.zeros(10, dtype=np.float32)
         if self.current_category:
-            cat_hash = hash(self.current_category) % 10
+            # Use MD5 for cross-platform reproducibility
+            cat_hash = int(hashlib.md5(self.current_category.encode('utf-8')).hexdigest(), 16) % 10
             category_encoded[cat_hash] = 1.0
         
         return {
