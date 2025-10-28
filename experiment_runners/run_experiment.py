@@ -8,14 +8,14 @@ Replaces:
 - run_variable_settings.py + run_variable_settings_batch.py
 
 Usage examples:
-    # Single run
-    python run_experiment.py --experiment_type variable_category --model gpt-4o --seeds 42
+    # Single trajectory
+    python run_experiment.py --experiment_type variable_category --model gpt-4o --total_trajectories 1 --seeds 42
     
-    # Batch run (multiple seeds)
-    python run_experiment.py --experiment_type variable_category --model gpt-4o --seeds 42 43 44
+    # Multiple trajectories with specific seeds
+    python run_experiment.py --experiment_type variable_category --model gpt-4o --total_trajectories 5 --seeds 42 43 44
     
-    # Auto-generate seeds
-    python run_experiment.py --experiment_type variable_category --model gpt-4o --num_seeds 10
+    # Multiple trajectories with random seeds
+    python run_experiment.py --experiment_type variable_category --model gpt-4o --total_trajectories 10
     
     # From config file
     python run_experiment.py --config my_config.yaml
@@ -105,14 +105,14 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Single run
-  %(prog)s --experiment_type variable_category --model gpt-4o --seeds 42
+  # Single trajectory with specific seed
+  %(prog)s --experiment_type variable_category --model gpt-4o --total_trajectories 1 --seeds 42
   
-  # Batch run with specific seeds
-  %(prog)s --experiment_type variable_category --model gpt-4o --seeds 42 43 44 45
+  # Multiple trajectories with specific seeds
+  %(prog)s --experiment_type variable_category --model gpt-4o --total_trajectories 5 --seeds 42 43 44
   
-  # Batch run with auto-generated seeds
-  %(prog)s --experiment_type variable_category --model gpt-4o --num_seeds 10
+  # Multiple trajectories with random seeds
+  %(prog)s --experiment_type variable_category --model gpt-4o --total_trajectories 10
   
   # From config file
   %(prog)s --config my_config.yaml
@@ -131,9 +131,8 @@ Examples:
     parser.add_argument("--model", default="gpt-4o", 
                        help="LLM model (gpt-4o, claude-3-5-sonnet, gemini-2.0-flash, etc.)")
     
-    # Seed settings (simplified)
-    parser.add_argument("--seeds", nargs="+", type=int, help="List of seeds (1 or many)")
-    parser.add_argument("--num_seeds", type=int, help="Auto-generate N random seeds")
+    # Seed settings
+    parser.add_argument("--seeds", nargs="+", type=int, help="Optional list of seeds (first total_trajectories used, pad with random if needed)")
     
     # Experiment parameters
     parser.add_argument("--max_questions", type=int, default=8, help="Max questions per episode")
@@ -151,12 +150,13 @@ Examples:
     
     # Data settings
     parser.add_argument("--max_products", type=int, default=100, help="Max products per category (default: 100)")
-    parser.add_argument("--categories", nargs="+", help="Specific categories to test")
-    parser.add_argument("--persona_indices", nargs="+", type=int, help="Specific personas to test")
+    # NOTE: categories and persona_indices must be specified via config file (list-of-lists structure)
+    # Command-line only supports random generation
     
     # Output
     parser.add_argument("--output_dir", default="experiment_results", help="Output directory")
     parser.add_argument("--name", help="Custom experiment name")
+    parser.add_argument("--debug_mode", action="store_true", help="Enable debug mode with detailed output")
     
     # Experiment-specific parameters
     parser.add_argument("--episodes_per_trajectory", type=int,
@@ -175,21 +175,22 @@ Examples:
             parser.error("--experiment_type is required when not using --config")
         
         # Create base config with common parameters
+        # NOTE: categories and persona_indices not supported via CLI (use config file for list-of-lists)
         config_kwargs = {
             'experiment_type': args.experiment_type,
             'model': args.model,
             'seeds': args.seeds,
-            'num_seeds': args.num_seeds,
             'max_questions': args.max_questions,
             'context_mode': args.context_mode,
             'prompting_tricks': args.prompting_tricks,
             'feedback_type': args.feedback_type,
             'min_score_threshold': args.min_score_threshold,
             'max_products_per_category': args.max_products,
-            'categories': args.categories,
-            'persona_indices': args.persona_indices,
+            'categories': None,  # Not supported via CLI
+            'persona_indices': None,  # Not supported via CLI
             'output_dir': args.output_dir,
             'experiment_name': args.name,
+            'debug_mode': args.debug_mode,
         }
         
         # Add experiment-specific parameters only if provided
@@ -197,13 +198,16 @@ Examples:
             config_kwargs['episodes_per_trajectory'] = args.episodes_per_trajectory
         if args.total_trajectories is not None:
             config_kwargs['total_trajectories'] = args.total_trajectories
+        else:
+            # total_trajectories is required but has a default in ExperimentConfig
+            pass
             
         config = ExperimentConfig(**config_kwargs)
         
         # Validate experiment constraints
         config.validate_experiment_constraints()
     
-    # Get seeds (will be 1 or many)
+    # Get seeds for trajectories
     seeds = config.get_seeds()
     
     print(f"\n{'='*70}")
@@ -211,54 +215,15 @@ Examples:
     print(f"{'='*70}")
     print(f"Type: {config.experiment_type}")
     print(f"Model: {config.model}")
+    print(f"Total trajectories: {config.total_trajectories}")
     print(f"Seeds: {seeds if len(seeds) <= 5 else f'{seeds[:5]}... ({len(seeds)} total)'}")
     print(f"{'='*70}\n")
     
-    # Run experiment(s)
-    all_run_results = []
+    # Run single experiment with all trajectories
+    experiment = UnifiedExperiment(config)
+    results = experiment.run()
     
-    for i, seed in enumerate(seeds, 1):
-        if len(seeds) > 1:
-            print(f"\n{'='*70}")
-            print(f"  RUN {i}/{len(seeds)} - SEED {seed}")
-            print(f"{'='*70}")
-        
-        # Create config for this seed
-        run_config = ExperimentConfig(
-            experiment_type=config.experiment_type,
-            model=config.model,
-            seeds=[seed],  # Use this specific seed as list
-            max_questions=config.max_questions,
-            context_mode=config.context_mode,
-            prompting_tricks=config.prompting_tricks,
-            feedback_type=config.feedback_type,
-            min_score_threshold=config.min_score_threshold,
-            max_products_per_category=config.max_products_per_category,
-            categories=config.categories,
-            persona_indices=config.persona_indices,
-            output_dir=config.output_dir,
-            experiment_name=config.experiment_name,
-            episodes_per_trajectory=config.episodes_per_trajectory,
-            total_trajectories=config.total_trajectories
-        )
-        
-        # Run experiment
-        experiment = UnifiedExperiment(run_config)
-        results = experiment.run()
-        all_run_results.append(results)
-    
-    # If batch run (multiple seeds), aggregate results
-    if len(seeds) > 1:
-        base_output = config.output_dir
-        if config.experiment_name:
-            base_output = os.path.join(base_output, config.experiment_name)
-        else:
-            base_output = os.path.join(base_output, f"{config.experiment_type}_{config.model.replace('/', '_')}")
-        
-        os.makedirs(base_output, exist_ok=True)
-        aggregate_results(all_run_results, base_output)
-    
-    print(f"\n✅ All experiments complete!")
+    print(f"\n✅ Experiment complete!")
 
 
 if __name__ == "__main__":
