@@ -44,7 +44,34 @@ git clone <repo_url>
 pip install -r requirements.txt
 ```
 
-Set up a `.env` file with API keys (OpenAI, Google Gemini, Claude).
+Set up a `.env` file with API keys:
+```bash
+OPENAI_API_KEY=sk-...
+GEMINI_API_KEY=...
+ANTHROPIC_API_KEY=sk-ant-...
+```
+
+### Database Setup
+
+The product database will **automatically download** from HuggingFace on first run.
+
+**Option 1: Automatic (Recommended)**
+```bash
+# Just run an experiment - database downloads automatically
+python experiment_runners/run_experiment.py --help
+```
+
+**Option 2: Manual Setup**
+```bash
+# Pre-download the database
+cd database
+python setup_database.py
+```
+
+This downloads 4 Parquet files from HuggingFace and builds a local SQLite database with:
+- 71,088 products
+- 2,030 categories  
+- Cached persona scores (grows during experiments)
 
 ## Quick Start 
 

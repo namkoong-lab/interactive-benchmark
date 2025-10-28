@@ -15,13 +15,60 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 DB_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "database", "products.db"))
 
 _debug_mode: bool = False  # Global debug flag
+_database_ensured: bool = False  # Track if we've checked for database
 
 def set_debug_mode(debug: bool):
     """Set global debug mode for simulate_interaction."""
     global _debug_mode
     _debug_mode = debug
 
+def _ensure_database_exists():
+    """
+    Ensure database exists. Downloads and builds from HuggingFace if needed.
+    This is called automatically on first database access.
+    """
+    global _database_ensured
+    
+    # Only check once per process
+    if _database_ensured:
+        return
+    
+    if os.path.exists(DB_PATH):
+        _database_ensured = True
+        return
+    
+    # Database doesn't exist - try to download and rebuild
+    print(f"\n{'='*70}")
+    print(f"  🔄 Product Database Setup")
+    print(f"{'='*70}")
+    print(f"\nDatabase not found at: {DB_PATH}")
+    print(f"Downloading from HuggingFace and building local database...\n")
+    
+    try:
+        # Import here to avoid circular dependency
+        import sys
+        database_dir = os.path.dirname(DB_PATH)
+        if database_dir not in sys.path:
+            sys.path.insert(0, os.path.dirname(database_dir))
+        
+        from database.rebuild_from_parquet import ensure_database
+        ensure_database(force_rebuild=False)
+        
+        _database_ensured = True
+        print(f"\n✅ Database setup complete!\n")
+        
+    except Exception as e:
+        print(f"\n❌ Failed to setup database: {e}")
+        print(f"\nManual setup:")
+        print(f"  cd database")
+        print(f"  python setup_database.py")
+        raise RuntimeError(
+            f"Database not found and auto-download failed. "
+            f"Please run 'python database/setup_database.py' manually."
+        )
+
 def _get_connection(db_path: str = DB_PATH) -> sqlite3.Connection:
+    _ensure_database_exists()
     return sqlite3.connect(db_path)
 
 def list_categories(db_path: str = DB_PATH) -> List[str]:

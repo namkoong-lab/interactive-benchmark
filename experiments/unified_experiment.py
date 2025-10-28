@@ -646,7 +646,7 @@ class UnifiedExperiment:
                     episode_tried_categories.add(current_category)
                     
                     if retry > 0 and self.config.debug_mode:
-                        print(f"    Retry {retry}: Trying category {current_category}")
+                            print(f"    Retry {retry}: Trying category {current_category}")
                     
                     is_relevant, max_score, scores = self._is_category_relevant_for_persona(
                         current_category, persona_idx, seed=trajectory_seed
@@ -664,7 +664,7 @@ class UnifiedExperiment:
                     if result:
                         break
                     elif self.config.debug_mode:
-                        print(f"    Episode failed for other reasons, trying another category...")
+                            print(f"    Episode failed for other reasons, trying another category...")
                 
                 if result:
                     trajectory_results.append(result)
