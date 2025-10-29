@@ -18,7 +18,8 @@ PARQUET_FILES = [
     'products.parquet',
     'categories.parquet',
     'product_category.parquet',
-    'persona_scores.parquet'
+    'persona_scores.parquet',
+    'metadata.json'
 ]
 
 def download_parquet_files(cache_dir: Optional[str] = None) -> dict:
@@ -37,12 +38,21 @@ def download_parquet_files(cache_dir: Optional[str] = None) -> dict:
                 cache_dir=cache_dir
             )
             downloaded_files[filename] = file_path
-            print(f"   ✅ {filename}")
+            
+            # Validate file was downloaded
+            if not os.path.exists(file_path):
+                raise FileNotFoundError(f"Downloaded file not found at {file_path}")
+            
+            file_size = os.path.getsize(file_path)
+            if file_size == 0:
+                raise ValueError(f"Downloaded file {filename} is empty")
+            
+            print(f"   ✅ {filename} ({file_size / (1024*1024):.2f} MB)")
         except Exception as e:
             print(f"   ❌ Failed to download {filename}: {e}")
             raise
     
-    print(f"\n✅ All files downloaded\n")
+    print(f"\n✅ All files downloaded successfully\n")
     return downloaded_files
 
 def rebuild_database(parquet_files: dict, output_db_path: str = LOCAL_DB_PATH):
@@ -111,7 +121,7 @@ def rebuild_database(parquet_files: dict, output_db_path: str = LOCAL_DB_PATH):
     
     conn.commit()
     
-    # Import data from Parquet files
+    # Import data from Parquet files (skip metadata.json - it's just for reference)
     table_map = {
         'categories.parquet': 'categories',
         'products.parquet': 'products',
@@ -126,6 +136,10 @@ def rebuild_database(parquet_files: dict, output_db_path: str = LOCAL_DB_PATH):
         
         print(f"   Importing {table_name}...")
         df = pd.read_parquet(parquet_files[parquet_file])
+        
+        # Validate DataFrame is not empty
+        if len(df) == 0:
+            print(f"      ⚠️  Warning: {table_name} is empty")
         
         # Import to SQLite
         df.to_sql(table_name, conn, if_exists='append', index=False)
@@ -191,17 +205,20 @@ def ensure_database(force_rebuild: bool = False) -> str:
 
 if __name__ == "__main__":
     print("="*70)
-    print("  Upload Parquet Files to HuggingFace")
+    print("  Download and Rebuild Database from HuggingFace")
     print("="*70)
     print()
     
-    print("⚠️  Prerequisites:")
-    print("   1. Run export_to_parquet.py first")
-    print("   2. Login to HuggingFace: huggingface-cli login")
+    print("This will download Parquet files from HuggingFace and rebuild")
+    print("the local SQLite database.")
     print()
     
-    input("Press Enter to continue or Ctrl+C to cancel...")
-    print()
-    
-    upload_to_huggingface()
+    try:
+        db_path = ensure_database(force_rebuild=True)
+        print(f"\n✅ Database rebuilt successfully!")
+        print(f"   Location: {db_path}")
+    except Exception as e:
+        print(f"\n❌ Rebuild failed: {e}")
+        import sys
+        sys.exit(1)
 

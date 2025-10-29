@@ -74,7 +74,8 @@ def export_database_to_parquet():
         
         # Save to Parquet
         output_path = os.path.join(OUTPUT_DIR, parquet_file)
-        df.to_parquet(output_path, index=False, compression='snappy')
+        row_group_size = 10000 if table_name == 'products' else None
+        df.to_parquet(output_path, index=False, compression='snappy', row_group_size=row_group_size)
         
         # Stats
         file_size = os.path.getsize(output_path) / (1024 * 1024)
