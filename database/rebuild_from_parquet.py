@@ -133,7 +133,7 @@ def rebuild_database(parquet_files: dict, output_db_path: str = LOCAL_DB_PATH):
             score REAL NOT NULL,
             reason TEXT,
             model TEXT,
-            created_at INTEGER NOT NULL,
+            created_at INTEGER NOT NULL DEFAULT (STRFTIME('%s', 'now')),
             PRIMARY KEY (persona_index, category_id, product_id)
         )
     """)
