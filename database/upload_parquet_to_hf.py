@@ -18,22 +18,27 @@ def upload_to_huggingface():
         print("Please run export_to_parquet.py first!")
         return
     
-    # Get list of files
-    parquet_files = [
-        'products.parquet',
-        'categories.parquet',
-        'product_category.parquet',
-        'persona_scores.parquet',
-        'metadata.json'
-    ]
+    # Define table mappings: local_filename -> (subdirectory, remote_filename)
+    # HuggingFace expects files in subdirectories for multi-table datasets
+    table_files = {
+        'products.parquet': ('products', 'train-00000.parquet'),
+        'categories.parquet': ('categories', 'train-00000.parquet'),
+        'product_category.parquet': ('product_category', 'train-00000.parquet'),
+        'persona_scores.parquet': ('persona_scores', 'train-00000.parquet'),
+    }
+    
+    # Metadata goes in root
+    metadata_file = 'metadata.json'
     
     # Check all files exist
-    missing = [f for f in parquet_files if not os.path.exists(os.path.join(PARQUET_DIR, f))]
+    all_files = list(table_files.keys()) + [metadata_file]
+    missing = [f for f in all_files if not os.path.exists(os.path.join(PARQUET_DIR, f))]
     if missing:
         print(f"❌ Error: Missing files: {missing}")
         return
     
     print(f"📤 Uploading to HuggingFace dataset: {REPO_ID}")
+    print(f"   Using multi-table structure (each table in its own subdirectory)")
     print()
     
     api = HfApi()
@@ -50,25 +55,43 @@ def upload_to_huggingface():
     except Exception as e:
         print(f"ℹ️  Repository status: {e}\n")
     
-    # Upload each file
-    for filename in parquet_files:
-        file_path = os.path.join(PARQUET_DIR, filename)
+    # Upload table files to subdirectories
+    for local_filename, (subdir, remote_filename) in table_files.items():
+        file_path = os.path.join(PARQUET_DIR, local_filename)
         file_size_mb = os.path.getsize(file_path) / (1024 * 1024)
+        path_in_repo = f"{subdir}/{remote_filename}"
         
-        print(f"📤 Uploading {filename} ({file_size_mb:.2f} MB)...")
+        print(f"📤 Uploading {local_filename} → {path_in_repo} ({file_size_mb:.2f} MB)...")
         
         try:
             api.upload_file(
                 path_or_fileobj=file_path,
-                path_in_repo=filename,
+                path_in_repo=path_in_repo,
                 repo_id=REPO_ID,
                 repo_type="dataset",
-                commit_message=f"Upload {filename}"
+                commit_message=f"Upload {subdir} table"
             )
-            print(f"   ✅ {filename} uploaded\n")
+            print(f"   ✅ Uploaded to {path_in_repo}\n")
         except Exception as e:
-            print(f"   ❌ Failed to upload {filename}: {e}\n")
+            print(f"   ❌ Failed to upload {local_filename}: {e}\n")
             return
+    
+    # Upload metadata to root
+    metadata_path = os.path.join(PARQUET_DIR, metadata_file)
+    file_size_mb = os.path.getsize(metadata_path) / (1024 * 1024)
+    print(f"📤 Uploading {metadata_file} ({file_size_mb:.2f} MB)...")
+    
+    try:
+        api.upload_file(
+            path_or_fileobj=metadata_path,
+            path_in_repo=metadata_file,
+            repo_id=REPO_ID,
+            repo_type="dataset",
+            commit_message=f"Upload metadata"
+        )
+        print(f"   ✅ {metadata_file} uploaded\n")
+    except Exception as e:
+        print(f"   ⚠️  Metadata upload failed: {e}\n")
     
     # Create and upload README
     print("📝 Creating README...")

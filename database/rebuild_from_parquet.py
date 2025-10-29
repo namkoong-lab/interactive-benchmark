@@ -14,13 +14,16 @@ DB_FILE = "products.db"
 LOCAL_DB_DIR = os.path.dirname(__file__)
 LOCAL_DB_PATH = os.path.join(LOCAL_DB_DIR, DB_FILE)
 
-PARQUET_FILES = [
-    'products.parquet',
-    'categories.parquet',
-    'product_category.parquet',
-    'persona_scores.parquet',
-    'metadata.json'
-]
+# Map table names to their HuggingFace paths
+# HuggingFace stores each table in subdirectories for multi-table datasets
+TABLE_FILES = {
+    'products': 'products/train-00000.parquet',
+    'categories': 'categories/train-00000.parquet',
+    'product_category': 'product_category/train-00000.parquet',
+    'persona_scores': 'persona_scores/train-00000.parquet',
+}
+
+METADATA_FILE = 'metadata.json'
 
 def download_parquet_files(cache_dir: Optional[str] = None) -> dict:
     """Download all Parquet files from HuggingFace."""
@@ -28,16 +31,18 @@ def download_parquet_files(cache_dir: Optional[str] = None) -> dict:
     
     downloaded_files = {}
     
-    for filename in PARQUET_FILES:
-        print(f"   Downloading {filename}...")
+    # Download table files
+    for table_name, hf_path in TABLE_FILES.items():
+        print(f"   Downloading {table_name} table...")
         try:
             file_path = hf_hub_download(
                 repo_id=REPO_ID,
-                filename=filename,
+                filename=hf_path,
                 repo_type="dataset",
                 cache_dir=cache_dir
             )
-            downloaded_files[filename] = file_path
+            # Store with .parquet extension for consistency with rebuild function
+            downloaded_files[f'{table_name}.parquet'] = file_path
             
             # Validate file was downloaded
             if not os.path.exists(file_path):
@@ -45,12 +50,26 @@ def download_parquet_files(cache_dir: Optional[str] = None) -> dict:
             
             file_size = os.path.getsize(file_path)
             if file_size == 0:
-                raise ValueError(f"Downloaded file {filename} is empty")
+                raise ValueError(f"Downloaded file for {table_name} is empty")
             
-            print(f"   ✅ {filename} ({file_size / (1024*1024):.2f} MB)")
+            print(f"   ✅ {table_name}: {file_size / (1024*1024):.2f} MB")
         except Exception as e:
-            print(f"   ❌ Failed to download {filename}: {e}")
+            print(f"   ❌ Failed to download {table_name}: {e}")
             raise
+    
+    # Download metadata (optional, non-critical)
+    print(f"   Downloading {METADATA_FILE}...")
+    try:
+        file_path = hf_hub_download(
+            repo_id=REPO_ID,
+            filename=METADATA_FILE,
+            repo_type="dataset",
+            cache_dir=cache_dir
+        )
+        downloaded_files[METADATA_FILE] = file_path
+        print(f"   ✅ {METADATA_FILE}")
+    except Exception as e:
+        print(f"   ⚠️  {METADATA_FILE} not found (optional): {e}")
     
     print(f"\n✅ All files downloaded successfully\n")
     return downloaded_files
