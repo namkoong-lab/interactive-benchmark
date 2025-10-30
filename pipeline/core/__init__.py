@@ -2,7 +2,7 @@
 Core modules for the personas pipeline.
 """
 
-from .llm_client import chat_completion
+from .llm_providers import chat_completion
 from .personas import get_persona_description
 from .simulate_interaction import (
     get_products_by_category, 

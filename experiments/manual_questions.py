@@ -13,7 +13,7 @@ from typing import Dict, List, Tuple, Any, Optional
 import argparse
 from datetime import datetime
 from pipeline.envs.reco_env import RecoEnv
-from pipeline.core.llm_client import chat_completion
+from pipeline.core.llm_providers import chat_completion
 from pipeline.wrappers.metrics_wrapper import MetricsWrapper
 
 

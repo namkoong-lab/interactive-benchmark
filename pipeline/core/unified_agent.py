@@ -15,7 +15,7 @@ The UnifiedAgent handles all experiment types through configuration parameters.
 from typing import Dict, List, Tuple, Optional, Any, Literal
 import numpy as np
 import re
-from .llm_client import chat_completion
+from .llm_providers import chat_completion
 
 
 class UnifiedAgent:

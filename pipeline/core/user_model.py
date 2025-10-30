@@ -8,7 +8,7 @@ from .simulate_interaction import (
     load_cached_scores,
     save_scores,
 )
-from .llm_client import chat_completion
+from .llm_providers import chat_completion
 
 
 class UserModel:

@@ -13,7 +13,7 @@ Feedback Types:
 """
 
 from typing import Dict, Any, Optional, List, Tuple
-from .llm_client import chat_completion
+from .llm_providers import chat_completion
 
 
 class FeedbackSystem:

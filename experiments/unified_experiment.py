@@ -18,7 +18,7 @@ from pipeline.core.feedback_system import FeedbackSystem
 from pipeline.core.user_model import UserModel
 from pipeline.core.simulate_interaction import list_categories, get_products_by_category
 from pipeline.core.unified_agent import UnifiedAgent
-from pipeline.core import llm_client
+from pipeline.core import llm_providers
 from pipeline.core import simulate_interaction
 
 
@@ -564,7 +564,7 @@ class UnifiedExperiment:
             print(f"{e}\n")
             raise
         
-        llm_client.set_debug_mode(self.config.debug_mode)
+        llm_providers.set_debug_mode(self.config.debug_mode)
         simulate_interaction.set_debug_mode(self.config.debug_mode)
         
         if self.config.debug_mode:

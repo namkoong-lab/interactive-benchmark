@@ -7,7 +7,7 @@ import time
 import hashlib
 from typing import Dict, List, Any, Tuple, Optional
 from dotenv import load_dotenv
-from .llm_client import chat_completion
+from .llm_providers import chat_completion
 
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
