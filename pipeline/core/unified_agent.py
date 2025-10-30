@@ -83,11 +83,13 @@ class UnifiedAgent:
         self.episode_count = 0
         self.episode_history: List[Dict[str, Any]] = []
         self.episode_summaries: List[str] = []
+        self.episode_prompts: List[List[str]] = []  # Track prompts per episode
         
         # Current episode state
         self.current_episode_info: Optional[Dict[str, Any]] = None
         self.current_env = None
         self.last_response: Optional[str] = None
+        self.current_episode_prompts: List[str] = []  # Prompts for current episode
         
         # Configuration
         self.force_all_questions = force_all_questions
@@ -222,6 +224,9 @@ Your choice:"""
         # Apply prompting tricks if enabled
         if self.prompting_tricks == "all":
             base_prompt = self._apply_prompting_tricks(base_prompt)
+        
+        # Store prompt for debugging
+        self.current_episode_prompts.append(base_prompt)
         
         # Call LLM and parse response
         response = chat_completion(
@@ -491,6 +496,10 @@ Write only the summary, no additional commentary:"""
         episode_data = self._build_episode_data(episode_result)
         self.episode_history.append(episode_data)
         
+        # Save prompts for this episode
+        self.episode_prompts.append(self.current_episode_prompts.copy())
+        self.current_episode_prompts = []  # Reset for next episode
+        
         # Generate summary if in summary mode
         if self.context_mode == "summary":
             summary = self._generate_episode_summary(episode_data)
@@ -679,6 +688,9 @@ RECOMMEND: 5
 Your response:"""
 
         unified_prompt = self._apply_prompting_tricks(base_prompt)
+        
+        # Store prompt for debugging
+        self.current_episode_prompts.append(unified_prompt)
 
         try:
             response = chat_completion(
@@ -761,6 +773,9 @@ RECOMMEND: 5
 Your response:"""
 
         unified_prompt = self._apply_prompting_tricks(base_prompt)
+        
+        # Store prompt for debugging
+        self.current_episode_prompts.append(unified_prompt)
 
         try:
             response = chat_completion(

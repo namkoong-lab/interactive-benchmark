@@ -563,18 +563,46 @@ def score_products_for_persona(persona_description: str, category: str, products
                 scale_factor = 10.0
 
         out: Dict[int, Tuple[float, str]] = {}
+        invalid_ids = []
+        invalid_scores = []
+        
         for item in aggregated_items:
             try:
                 pid = int(item.get("id"))
-                score = float(item.get("score")) * scale_factor
+            except (ValueError, TypeError):
+                # Invalid product ID
+                invalid_ids.append(str(item))
+                continue
+            
+            # Handle score - STRICT: no defaults allowed
+            score_raw = item.get("score")
+            try:
+                if score_raw is None or score_raw == "N/A" or score_raw == "":
+                    raise ValueError(f"Score is None/N/A/empty for product {pid}")
+                score = float(score_raw) * scale_factor
                 if score < 0:
                     score = 0.0
                 if score > 100:
                     score = 100.0
-                reason = str(item.get("reason") or "")
-                out[pid] = (score, reason)
-            except Exception:
-                continue
+            except (ValueError, TypeError) as e:
+                # CRITICAL: Invalid scores trigger retry
+                invalid_scores.append((pid, score_raw))
+                continue  # Skip this product, check others, then fail at end
+            
+            reason = str(item.get("reason") or "")
+            out[pid] = (score, reason)
+        
+        # Raise error if any invalid scores detected (triggers retry)
+        if invalid_scores:
+            error_details = ", ".join([f"product {pid}: '{score}'" for pid, score in invalid_scores[:5]])
+            raise ValueError(
+                f"Invalid scores from LLM for {len(invalid_scores)} products ({error_details}...). "
+                f"LLM must return valid numeric scores. Retrying..."
+            )
+        
+        if invalid_ids:
+            print(f"[WARN] {len(invalid_ids)} items had invalid product IDs and were skipped")
+        
         return out
 
     openai_model = "gpt-4o"
@@ -601,25 +629,37 @@ def score_products_for_persona(persona_description: str, category: str, products
 
     combined: List[Tuple[int, float, str]] = []
     all_ids = {int(p.get("id")) for p in products if p.get("id") is not None}
+    products_missing_both_scores = []
+    
     for pid in all_ids:
         have_o = pid in scores_openai
         have_g = pid in scores_gemini
+        
         if not have_o and not have_g:
-            continue
-        if have_o and have_g:
+            products_missing_both_scores.append(pid)
+        elif have_o and have_g:
             s_o, r_o = scores_openai[pid]
             s_g, r_g = scores_gemini[pid]
             avg = (s_o + s_g) / 2.0
             reason = f"OpenAI score: {s_o:.1f} | Gemini score: {s_g:.1f}"
+            combined.append((pid, avg, reason))
         elif have_o:
             s_o, r_o = scores_openai[pid]
             avg = s_o
-            reason = f"OpenAI score: {s_o:.1f} | Gemini score: N/A"
+            reason = f"OpenAI score: {s_o:.1f} | Gemini score: failed (using OpenAI only)"
+            combined.append((pid, avg, reason))
         else:
             s_g, r_g = scores_gemini[pid]
             avg = s_g
-            reason = f"OpenAI score: N/A | Gemini score: {s_g:.1f}"
-        combined.append((pid, avg, reason))
+            reason = f"OpenAI score: failed | Gemini score: {s_g:.1f} (using Gemini only)"
+            combined.append((pid, avg, reason))
+    
+    if products_missing_both_scores:
+        raise ValueError(
+            f"CRITICAL: {len(products_missing_both_scores)} products not scored by either provider. "
+            f"Product IDs: {products_missing_both_scores[:10]}{'...' if len(products_missing_both_scores) > 10 else ''}. "
+            f"This violates experiment consistency. Retrying..."
+        )
 
     combined.sort(key=lambda t: t[1], reverse=True)
 

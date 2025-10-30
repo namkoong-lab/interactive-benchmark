@@ -104,7 +104,10 @@ class ClaudeProvider(BaseLLMProvider):
                     if chunk.delta.type == "text_delta":
                         response_text += chunk.delta.text
             
-            return response_text.strip()
+            result = response_text.strip()
+            if not result:
+                raise ValueError("Claude returned empty response")
+            return result
         
         return retry_with_backoff(_make_request, max_retries=5, base_delay=1.0, max_delay=60.0)
     

@@ -54,11 +54,11 @@ class ExperimentConfig:
     feedback_type: Literal["none", "regret", "persona", "star_rating"] = "none"
     
     # === SEED SETTINGS ===
-    seeds: Optional[List[int]] = None  # Optional list of seeds (if provided, first total_trajectories are used)
+    seeds: Optional[List[int]] = None 
     
     # === DATA SETTINGS ===
-    categories: Optional[List[List[str]]] = None  # List of lists: [[cats for traj1], [cats for traj2], ...]
-    persona_indices: Optional[List[List[int]]] = None  # List of lists: [[personas for traj1], [personas for traj2], ...]
+    categories: Optional[List[List[str]]] = None  
+    persona_indices: Optional[List[List[int]]] = None 
     min_score_threshold: float = 60.0
     max_products_per_category: int = 100  
     
@@ -66,18 +66,17 @@ class ExperimentConfig:
     output_dir: str = "experiment_results"
     experiment_name: Optional[str] = None
     checkpoint_file: Optional[str] = None
-    debug_mode: bool = False  # If True, show detailed output; if False, simplified output
+    debug_mode: bool = False  
+    show_product_scores: bool = False
+    show_internal_prompts: bool = False  
     
     # === EXPERIMENT-SPECIFIC PARAMETERS ===
-    # Trajectory-based parameters (replaces episodes_per_category/episodes_per_persona/total_episodes)
-    episodes_per_trajectory: int = 5  # Episodes per trajectory (continuous context/feedback)
-    total_trajectories: int = 10      # Number of trajectories (agent runs)
+    episodes_per_trajectory: int = 5  
+    total_trajectories: int = 10     
     
     # === PLANNING MODE PARAMETERS ===
-    # Can be applied to any experiment type to track regret progression
     planning_mode: Literal["none", "no_strat", "greedy", "pomdp"] = "none"
-    planning_interval: int = 5  # Run planning episode every N episodes (e.g., 5 = episodes 5, 10, 15, ...)
-                                 # Only applies when planning_mode != "none"
+    planning_interval: int = 5  
     
     def validate(self):
         """

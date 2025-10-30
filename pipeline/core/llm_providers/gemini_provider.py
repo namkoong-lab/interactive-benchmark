@@ -141,7 +141,10 @@ class GeminiProvider(BaseLLMProvider):
             except Exception as _:
                 pass
 
-            return (getattr(resp, "text", "") or "").strip()
+            result = (getattr(resp, "text", "") or "").strip()
+            if not result:
+                raise ValueError("Gemini returned empty response")
+            return result
         
         return retry_with_backoff(_make_request, max_retries=5, base_delay=1.0, max_delay=60.0)
     

@@ -67,7 +67,10 @@ class OpenAIProvider(BaseLLMProvider):
                 print(f"[DEBUG] OpenAI request: model={model}, messages={len(messages)}, json_mode={json_mode}")
             
             resp = self.client.chat.completions.create(**kwargs)
-            return resp.choices[0].message.content.strip()
+            content = resp.choices[0].message.content
+            if content is None:
+                raise ValueError("OpenAI returned None for message content")
+            return content.strip()
         
         return retry_with_backoff(_make_request, max_retries=5, base_delay=1.0, max_delay=60.0)
     

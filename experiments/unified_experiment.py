@@ -627,43 +627,99 @@ class UnifiedExperiment:
                 
                 result = None
                 episode_tried_categories = set()
+                episode_tried_personas = set()
+                failed_category_prefixes = set()  # Track semantic clusters that failed
                 current_category = category
+                current_persona = persona_idx
                 
                 from pipeline.core.simulate_interaction import list_categories
                 all_available_categories = set(list_categories())
                 
-                max_retries = min(10, len(all_available_categories))
+                # Get all available personas
+                from pipeline.core.personas import get_persona_description
+                max_persona_index = 0
+                while True:
+                    try:
+                        get_persona_description(max_persona_index)
+                        max_persona_index += 1
+                    except:
+                        break
+                all_available_personas = set(range(max_persona_index))
+                
+                # Determine retry strategy based on experiment type
+                if self.config.experiment_type == "variable_persona":
+                    max_retries = min(10, len(all_available_personas))
+                else:  # variable_category or variable_settings
+                    max_retries = min(10, len(all_available_categories))
                 
                 for retry in range(max_retries):
-                    if current_category in episode_tried_categories:
-                        untried = [c for c in all_available_categories 
-                                  if c not in episode_tried_categories and c not in trajectory_tried_categories]
-                        if not untried:
-                            break
-                        untried_sorted = sorted(untried)
-                        current_category = random.choice(untried_sorted)
-                    
-                    episode_tried_categories.add(current_category)
+                    # Decide what to retry based on experiment type
+                    if self.config.experiment_type == "variable_persona":
+                        # Fixed category, varying personas → retry with new persona
+                        if current_persona in episode_tried_personas:
+                            untried = [p for p in all_available_personas 
+                                      if p not in episode_tried_personas]
+                            if not untried:
+                                break
+                            current_persona = random.choice(sorted(untried))
+                        episode_tried_personas.add(current_persona)
+                    else:
+                        # variable_category or variable_settings → retry with new category
+                        if current_category in episode_tried_categories:
+                            untried = [c for c in all_available_categories 
+                                      if c not in episode_tried_categories and c not in trajectory_tried_categories]
+                            if not untried:
+                                break
+                            
+                            weighted_choices = []
+                            for cat in untried:
+                                cat_prefix = cat.split()[0] if ' ' in cat else cat
+                                if cat_prefix in failed_category_prefixes:
+                                    weighted_choices.extend([cat] * 1)
+                                else:
+                                    weighted_choices.extend([cat] * 9)
+                            
+                            if weighted_choices:
+                                current_category = random.choice(weighted_choices)
+                            else:
+                                current_category = random.choice(sorted(untried))
+                        episode_tried_categories.add(current_category)
                     
                     if retry > 0 and self.config.debug_mode:
+                        if self.config.experiment_type == "variable_persona":
+                            print(f"    Retry {retry}: Trying persona {current_persona}")
+                        else:
                             print(f"    Retry {retry}: Trying category {current_category}")
                     
                     is_relevant, max_score, scores = self._is_category_relevant_for_persona(
-                        current_category, persona_idx, seed=trajectory_seed
+                        current_category, current_persona, seed=trajectory_seed
                     )
                     
                     if not is_relevant:
+                        # Track semantic cluster (first word) of failed category (for category retries)
+                        if self.config.experiment_type != "variable_persona":
+                            category_prefix = current_category.split()[0] if ' ' in current_category else current_category
+                            failed_category_prefixes.add(category_prefix)
+                        
                         if self.config.debug_mode:
-                            print(f"    Category {current_category} not relevant (max score: {max_score:.1f} < {self.config.min_score_threshold})")
+                            if self.config.experiment_type == "variable_persona":
+                                print(f"    Persona {current_persona} not interested in {current_category} (max score: {max_score:.1f} < {self.config.min_score_threshold})")
+                            else:
+                                print(f"    Category {current_category} not relevant for persona {current_persona} (max score: {max_score:.1f} < {self.config.min_score_threshold})")
+                                if self.config.experiment_type != "variable_persona":
+                                    print(f"    Downweighting categories starting with '{category_prefix}'")
                         continue
                     
-                    result = self._run_single_episode(episode_num, persona_idx, current_category, 
+                    result = self._run_single_episode(episode_num, current_persona, current_category, 
                                                      cached_scores=scores, trajectory_seed=trajectory_seed,
                                                      episode_num_in_trajectory=episode_num, trajectory_num=traj_num)
                     
                     if result:
                         break
                     elif self.config.debug_mode:
+                        if self.config.experiment_type == "variable_persona":
+                            print(f"    Episode failed for other reasons, trying another persona...")
+                        else:
                             print(f"    Episode failed for other reasons, trying another category...")
                 
                 if result:
@@ -743,44 +799,98 @@ class UnifiedExperiment:
         
         summary['trajectory_stats'] = trajectory_stats
         
+        # Always save config separately
+        config_file = os.path.join(self.output_path, "config.json")
+        with open(config_file, 'w') as f:
+            json.dump(self.config.to_dict_complete(), f, indent=2)
+        
         if self.config.debug_mode:
-            results_data = {
-                'config': self.config.to_dict_complete(),
+            processed_results = []
+            for result in self.all_results:
+                result_copy = result.copy()
+                
+                # Add feedback from final_info
+                if 'final_info' in result and 'feedback' in result['final_info']:
+                    result_copy['feedback'] = result['final_info']['feedback']
+                
+                # Add episode summary if in summary mode
+                if self.config.context_mode == "summary" and hasattr(self.agent, 'episode_summaries'):
+                    episode_idx = result.get('episode', 0) - 1  # episode numbers are 1-indexed
+                    if 0 <= episode_idx < len(self.agent.episode_summaries):
+                        result_copy['episode_summary'] = self.agent.episode_summaries[episode_idx]
+                
+                # Add internal prompts if show_internal_prompts is True
+                if self.config.show_internal_prompts and hasattr(self.agent, 'episode_prompts'):
+                    episode_idx = result.get('episode', 0) - 1
+                    if 0 <= episode_idx < len(self.agent.episode_prompts):
+                        result_copy['internal_prompts'] = self.agent.episode_prompts[episode_idx]
+                
+                # Remove product_info unless show_product_scores is True
+                if not self.config.show_product_scores and 'product_info' in result_copy:
+                    del result_copy['product_info']
+                
+                processed_results.append(result_copy)
+            
+            full_results_data = {
                 'summary': summary,
-                'results': self.all_results,
-                'agent_history': self.agent.episode_history if hasattr(self.agent, 'episode_history') else [],
+                'results': processed_results,
                 'timestamp': datetime.now().isoformat()
             }
-            # Add planning regret progression if any planning episodes were run
             if self.planning_regret_data:
-                results_data['planning_regret_progression'] = self.planning_regret_data
-        else:
+                full_results_data['planning_regret_progression'] = self.planning_regret_data
+            
+            results_file = os.path.join(self.output_path, "results.json")
+            with open(results_file, 'w') as f:
+                json.dump(full_results_data, f, indent=2)
+            
+            # 2. Aggregated metrics (results_summary.json) - same as non-debug mode
             regret_progression = self._calculate_regret_progression()
             questions_progression = self._calculate_questions_progression()
-            results_data = {
+            summary_data = {
                 'regret_progression': regret_progression,
                 'questions_progression': questions_progression
             }
-            # Add planning regret progression if any planning episodes were run
             if self.planning_regret_data:
-                results_data['planning_regret_progression'] = self.planning_regret_data
-        
-        results_file = os.path.join(self.output_path, "results.json")
-        with open(results_file, 'w') as f:
-            json.dump(results_data, f, indent=2)
-        
-        if self.config.debug_mode:
+                summary_data['planning_regret_progression'] = self.planning_regret_data
+            
+            summary_file = os.path.join(self.output_path, "results_summary.json")
+            with open(summary_file, 'w') as f:
+                json.dump(summary_data, f, indent=2)
+            
             print(f"\n{'='*70}")
             print(f"  EXPERIMENT COMPLETE")
             print(f"{'='*70}")
             print(f"Total episodes: {len(self.all_results)}")
             print(f"Average regret: {summary['avg_regret']:.2f}")
             print(f"Average score: {summary['avg_score']:.2f}")
-            print(f"Results saved to: {results_file}")
+            print(f"\nFiles saved:")
+            print(f"  - Config:           {config_file}")
+            print(f"  - Full results:     {results_file}")
+            print(f"  - Summary metrics:  {summary_file}")
+            
+            return full_results_data
+            
         else:
-            print(f"\n✅ Experiment complete! Results saved to: {results_file}")
-        
-        return results_data
+            # Non-debug mode: Save ONE aggregated results file
+            regret_progression = self._calculate_regret_progression()
+            questions_progression = self._calculate_questions_progression()
+            results_data = {
+                'regret_progression': regret_progression,
+                'questions_progression': questions_progression
+            }
+            if self.planning_regret_data:
+                results_data['planning_regret_progression'] = self.planning_regret_data
+            
+            results_file = os.path.join(self.output_path, "results.json")
+            with open(results_file, 'w') as f:
+                json.dump(results_data, f, indent=2)
+            
+            print(f"\n✅ Experiment complete!")
+            print(f"Files saved:")
+            print(f"  - Config:   {config_file}")
+            print(f"  - Results:  {results_file}")
+            
+            return results_data
     
     def _calculate_regret_progression(self) -> Dict[str, Any]:
         """Calculate regret progression across trajectories."""
