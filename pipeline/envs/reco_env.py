@@ -109,7 +109,6 @@ class RecoEnv(gym.Env):
         
         
         self.product_ids = [p["id"] for p in self.products]
-        
         if self.cached_scores:
             if self.debug_mode:
                 print(f"[DEBUG] Using cached scores: {len(self.cached_scores)} scores provided")
@@ -151,7 +150,7 @@ class RecoEnv(gym.Env):
                 description = description[:500] + "..."
             
             product_descriptions.append(description)
-        
+        self.product_descriptions = product_descriptions
         info = {
             "category": self.current_category,
             "num_products": num_products,
@@ -247,7 +246,11 @@ class RecoEnv(gym.Env):
                     "action_type": "ask",
                     "question_text": question_text,
                     "answer": answer,
-                    "dialog_length": len(self.dialog_history)
+                    "dialog_length": len(self.dialog_history),
+                    "product_ids": self.product_ids,
+                    "product_descriptions": self.product_descriptions,
+                    "num_products": len(self.products),
+                    "category": self.current_category
                 }
             
             obs = self._build_observation()
