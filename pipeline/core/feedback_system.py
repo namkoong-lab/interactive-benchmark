@@ -31,6 +31,7 @@ class FeedbackSystem:
         """
         self.feedback_type = feedback_type
         self.persona_agent = persona_agent
+        self.last_feedback_prompt = None  # Store last prompt for debugging
         
         valid_types = ["none", "regret", "persona", "star_rating"]
         if feedback_type not in valid_types:
@@ -99,13 +100,19 @@ class FeedbackSystem:
         if not self.persona_agent:
             return self._generate_regret_feedback(regret, chosen_score, best_score)
         
-        return self.persona_agent.generate_feedback(
+        feedback = self.persona_agent.generate_feedback(
             chosen_product=chosen_product,
             chosen_score=chosen_score,
             regret=regret,
             category=category,
             dialog_history=dialog_history
         )
+        
+        # Capture the prompt used
+        if hasattr(self.persona_agent, '_last_feedback_prompt'):
+            self.last_feedback_prompt = self.persona_agent._last_feedback_prompt
+        
+        return feedback
     
     
     def get_feedback_type(self) -> str:

@@ -823,7 +823,13 @@ class UnifiedExperiment:
                 if self.config.show_internal_prompts and hasattr(self.agent, 'episode_prompts'):
                     episode_idx = result.get('episode', 0) - 1
                     if 0 <= episode_idx < len(self.agent.episode_prompts):
-                        result_copy['internal_prompts'] = self.agent.episode_prompts[episode_idx]
+                        prompts = self.agent.episode_prompts[episode_idx]
+                        # Also add feedback prompt from final_info if available
+                        if 'final_info' in result and 'feedback_prompt' in result['final_info']:
+                            if prompts:  # prompts is a dict
+                                prompts = prompts.copy()
+                                prompts['feedback_generation_prompt'] = result['final_info']['feedback_prompt']
+                        result_copy['internal_prompts'] = prompts
                 
                 # Remove product_info unless show_product_scores is True
                 if not self.config.show_product_scores and 'product_info' in result_copy:

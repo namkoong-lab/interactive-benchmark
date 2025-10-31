@@ -24,6 +24,7 @@ class UserModel:
     def __init__(self, persona_index: int) -> None:
         self._persona_index = int(persona_index)
         self._persona_text: str = get_persona_description(self._persona_index)
+        self._last_feedback_prompt = None  # Store last feedback prompt for debugging
 
     def get_persona_text(self) -> str:
         return self._persona_text
@@ -144,6 +145,9 @@ Your response:"""
         try:
             import time
             start_time = time.time()
+            
+            # Store prompt for debugging
+            self._last_feedback_prompt = prompt
             
             response = chat_completion(
                 messages=[{"role": "user", "content": prompt}],

@@ -208,7 +208,8 @@ class RecoEnv(gym.Env):
                 "top3": chosen_product_id in [pid for pid, _ in self.oracle_scores[:3]],
                 "questions_asked": len(self.dialog_history),
                 "feedback": feedback,
-                "feedback_type": self.feedback_system.get_feedback_type()
+                "feedback_type": self.feedback_system.get_feedback_type(),
+                "feedback_prompt": self.feedback_system.last_feedback_prompt  # Pass prompt for debugging
             }
             
             obs = self._build_observation()

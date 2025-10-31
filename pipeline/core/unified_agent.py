@@ -83,13 +83,13 @@ class UnifiedAgent:
         self.episode_count = 0
         self.episode_history: List[Dict[str, Any]] = []
         self.episode_summaries: List[str] = []
-        self.episode_prompts: List[List[str]] = []  # Track prompts per episode
+        self.episode_prompts: List[Dict[str, str]] = []  # Track categorized prompts per episode
         
         # Current episode state
         self.current_episode_info: Optional[Dict[str, Any]] = None
         self.current_env = None
         self.last_response: Optional[str] = None
-        self.current_episode_prompts: List[str] = []  # Prompts for current episode
+        self.current_episode_prompts: Dict[str, str] = {}  # Categorized prompts for current episode
         
         # Configuration
         self.force_all_questions = force_all_questions
@@ -224,9 +224,6 @@ Your choice:"""
         # Apply prompting tricks if enabled
         if self.prompting_tricks == "all":
             base_prompt = self._apply_prompting_tricks(base_prompt)
-        
-        # Store prompt for debugging
-        self.current_episode_prompts.append(base_prompt)
         
         # Call LLM and parse response
         response = chat_completion(
@@ -469,6 +466,9 @@ Your task is to provide the context from this episode that you would want a futu
 Write only the summary, no additional commentary:"""
 
         try:
+            # Store episode summary generation prompt
+            self.current_episode_prompts['episode_summary_prompt'] = summary_prompt
+            
             response = chat_completion(
                 messages=[{"role": "user", "content": summary_prompt}],
                 model=self.model,
@@ -498,7 +498,7 @@ Write only the summary, no additional commentary:"""
         
         # Save prompts for this episode
         self.episode_prompts.append(self.current_episode_prompts.copy())
-        self.current_episode_prompts = []  # Reset for next episode
+        self.current_episode_prompts = {}  # Reset for next episode
         
         # Generate summary if in summary mode
         if self.context_mode == "summary":
@@ -519,12 +519,19 @@ Write only the summary, no additional commentary:"""
         """
         products = []
         product_descriptions = info.get('product_descriptions', [])
+        product_ids = info.get('product_ids', [])
+        
+        if len(product_ids) != num_products:
+            raise ValueError(
+                f"Product ID mismatch: expected {num_products} IDs, got {len(product_ids)}. "
+                f"This indicates an environment error."
+            )
         
         for i in range(num_products):
             if i < obs['product_features'].shape[0]:
                 features = obs['product_features'][i]
                 product = {
-                    'id': info.get('product_ids', [])[i] if i < len(info.get('product_ids', [])) else i,
+                    'id': product_ids[i],  # Use actual product ID (no fallback to index)
                     'price': float(features[0]) if not np.isnan(features[0]) else 0.0,
                     'store_hash': int(features[1]) if not np.isnan(features[1]) else 0,
                     'title_length': int(features[2]) if not np.isnan(features[2]) else 0,
@@ -688,9 +695,6 @@ RECOMMEND: 5
 Your response:"""
 
         unified_prompt = self._apply_prompting_tricks(base_prompt)
-        
-        # Store prompt for debugging
-        self.current_episode_prompts.append(unified_prompt)
 
         try:
             response = chat_completion(
@@ -706,6 +710,8 @@ Your response:"""
             if "QUESTION:" in response_text:
                 return num_products
             elif "RECOMMEND:" in response_text:
+                # Store final recommendation prompt
+                self.current_episode_prompts['recommendation_prompt'] = unified_prompt
                 try:
                     rec_part = response_text.split("RECOMMEND:")[-1].strip()
                     numbers = re.findall(r'\d+', rec_part)
@@ -774,8 +780,8 @@ Your response:"""
 
         unified_prompt = self._apply_prompting_tricks(base_prompt)
         
-        # Store prompt for debugging
-        self.current_episode_prompts.append(unified_prompt)
+        # Store final recommendation prompt (force recommendation mode)
+        self.current_episode_prompts['final_recommendation_prompt'] = unified_prompt
 
         try:
             response = chat_completion(
