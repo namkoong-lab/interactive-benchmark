@@ -4,7 +4,7 @@ max_questions: 10
 context_mode: none
 prompting_tricks: none
 feedback_type: none
-planning_mode: no_strat
+planning_mode: pomdp
 planning_interval: 2
 min_score_threshold: 60.0
 max_products_per_category: 50

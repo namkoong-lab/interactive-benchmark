@@ -188,7 +188,8 @@ class RecoEnv(gym.Env):
                 regret=regret,
                 chosen_product=chosen_product,
                 available_products=self.products,
-                category=self.current_category
+                category=self.current_category,
+                dialog_history=self.dialog_history
             )
             
             reward = 0.0
@@ -208,7 +209,7 @@ class RecoEnv(gym.Env):
                 "questions_asked": len(self.dialog_history),
                 "feedback": feedback,
                 "feedback_type": self.feedback_system.get_feedback_type(),
-                "feedback_prompt": self.feedback_system.last_feedback_prompt  # Pass prompt for debugging
+                "feedback_prompt": self.feedback_system.last_feedback_prompt  
             }
             
             obs = self._build_observation()
@@ -220,7 +221,15 @@ class RecoEnv(gym.Env):
                 reward = 0.0
                 terminated = False
                 truncated = False  
-                info = {"action_type": "force_recommendation", "message": "No more questions allowed, must recommend now"}
+                info = {
+                    "action_type": "force_recommendation", 
+                    "message": "No more questions allowed, must recommend now",
+                    "category": self.current_category,
+                    "num_products": num_products,
+                    "product_ids": self.product_ids,
+                    "product_descriptions": [p.get('description', p.get('title', 'No description')) for p in self.products],
+                    "full_products": self.products
+                }
             else:
                 if self.agent and hasattr(self.agent, 'last_response') and self.agent.last_response:
                     response = self.agent.last_response
@@ -247,10 +256,11 @@ class RecoEnv(gym.Env):
                     "question_text": question_text,
                     "answer": answer,
                     "dialog_length": len(self.dialog_history),
+                    "category": self.current_category,
+                    "num_products": num_products,
                     "product_ids": self.product_ids,
-                    "product_descriptions": self.product_descriptions,
-                    "num_products": len(self.products),
-                    "category": self.current_category
+                    "product_descriptions": [p.get('description', p.get('title', 'No description')) for p in self.products],
+                    "full_products": self.products
                 }
             
             obs = self._build_observation()

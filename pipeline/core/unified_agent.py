@@ -311,28 +311,25 @@ Consider future question value, not just immediate gain.
         if not self.vary_persona and self.vary_category:
             if self.episode_history:
                 persona = self.episode_history[0].get('persona', 'unknown')
-                return f"""Focus on Customer #{persona}:
-- This customer's preferences across categories
-- Budget ranges and decision factors that transfer
-- Patterns in how THIS CUSTOMER responds"""
+                mode_description = f"You are recommending to the SAME customer (#{persona}) across DIFFERENT categories."
             else:
-                return """Focus on this customer:
-- Customer's preferences across categories
-- Budget ranges and decision factors that transfer
-- Patterns in how this customer responds"""
+                mode_description = "You are recommending to the SAME customer across DIFFERENT categories."
         
         # Different customers, same category
         elif self.vary_persona and not self.vary_category:
-            return """Focus on questioning strategies:
-- What question types work well for this category
-- Patterns across different customers
-- Effective question sequences"""
+            if self.episode_history:
+                category = self.episode_history[0].get('category', 'unknown')
+                mode_description = f"You are recommending to DIFFERENT customers in the SAME category ({category})."
+            else:
+                mode_description = "You are recommending to DIFFERENT customers in the SAME category."
         
         # Both vary
         else:
-            return """Focus on general strategies:
-- Approaches that work broadly
-- Transferable patterns across contexts"""
+            mode_description = "You are recommending to DIFFERENT customers across DIFFERENT categories."
+        
+        return f"""{mode_description}
+
+Reflect on what information from this episode would be most helpful for your next recommendation. Focus on insights that will improve your performance in future episodes."""
     
     def set_tracking_episode(self, is_tracking: bool):
         """Enable regret tracking (planning experiments)."""

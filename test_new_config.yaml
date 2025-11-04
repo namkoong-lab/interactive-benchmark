@@ -12,3 +12,4 @@ output_dir: test_results
 show_product_scores: false
 show_internal_prompts: true
 debug_mode: true
+seeds: [205291, 285696] 
