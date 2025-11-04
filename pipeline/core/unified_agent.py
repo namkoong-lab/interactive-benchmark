@@ -554,7 +554,7 @@ Write only the summary, no additional commentary:"""
         product_list = f"Available {category} products:\n"
         for i, product in enumerate(products):
             description = product.get('description', 'No description available')
-            product_list += f"{i}: Product ID {product['id']} - Price: ${product['price']:.2f}\n"
+            product_list += f"Product ID {product['id']}: Price: ${product['price']:.2f}\n"
             product_list += f"   Description: {description}\n\n"
         
         dialog_text = "Conversation so far:\n"
@@ -674,12 +674,12 @@ You MUST respond in EXACTLY ONE of these two formats. NO OTHER TEXT ALLOWED.
 To ask a question:
 QUESTION: [your question]
 
-To recommend a product:
-RECOMMEND: [number from 0 to {num_products-1}]
+To recommend a product (use the product ID shown in the list above):
+RECOMMEND: [product ID]
 
 Examples:
-QUESTION: What is your budget?
-RECOMMEND: 5
+QUESTION: Do you have a preferred material for this product?
+RECOMMEND: 972804
 
 === RULES ===
 1. Your response MUST start with either "QUESTION:" or "RECOMMEND:"
@@ -713,18 +713,45 @@ Your response:"""
                     rec_part = response_text.split("RECOMMEND:")[-1].strip()
                     numbers = re.findall(r'\d+', rec_part)
                     if numbers:
-                        product_index = int(numbers[0])
-                        if 0 <= product_index < num_products:
+                        recommended_id = int(numbers[0])
+                        
+                        # Map product ID to index
+                        product_index = None
+                        for i, product in enumerate(products):
+                            if product['id'] == recommended_id:
+                                product_index = i
+                                break
+                        
+                        if product_index is not None:
                             return product_index
-                    return num_products
-                except (ValueError, IndexError):
-                    return num_products
+                        else:
+                            # Show available product IDs for debugging
+                            available_ids = [p['id'] for p in products[:10]]  # Show first 10
+                            raise ValueError(
+                                f"Agent recommended product ID {recommended_id} which is not in the available product list.\n"
+                                f"Available product IDs (first 10): {available_ids}..."
+                            )
+                    else:
+                        raise ValueError(
+                            f"Agent said 'RECOMMEND:' but no product ID found in: {rec_part[:100]}"
+                        )
+                except (ValueError, IndexError) as e:
+                    print(f"\n{'='*80}")
+                    print("AGENT RECOMMENDATION ERROR")
+                    print(f"{'='*80}")
+                    print(f"Agent response: {response_text}")
+                    print(f"Error: {e}")
+                    print(f"{'='*80}\n")
+                    raise
             else:
-                return num_products
+                raise ValueError(
+                    f"Agent response missing both 'QUESTION:' and 'RECOMMEND:' markers. Got: {response_text[:200]}\n"
+                    "The agent must respond with either 'QUESTION: [text]' or 'RECOMMEND: [number]'"
+                )
                 
         except Exception as e:
             print(f"Error in LLM decision: {e}")
-            return num_products
+            raise
     
     def _force_recommendation(self, obs: Dict[str, np.ndarray], info: Dict[str, Any],
                              dialog_history: List[Tuple[str, str]], category: str, 
@@ -763,10 +790,10 @@ SESSION: Customer #{persona} | Episode {episode_num} | Category: {category}
 You have gathered sufficient information. Make your final recommendation now.
 
 === OUTPUT FORMAT ===
-RECOMMEND: [number from 0 to {num_products-1}]
+RECOMMEND: [product ID from the list above]
 
 Example:
-RECOMMEND: 5
+RECOMMEND: 972804
 
 === RULES ===
 1. Choose the product that best matches the user's preferences
@@ -792,9 +819,20 @@ Your response:"""
             
             if "RECOMMEND:" in response:
                 try:
-                    product_idx = int(response.split("RECOMMEND:")[-1].strip())
-                    if 0 <= product_idx < num_products:
-                        return product_idx
+                    rec_part = response.split("RECOMMEND:")[-1].strip()
+                    numbers = re.findall(r'\d+', rec_part)
+                    if numbers:
+                        recommended_id = int(numbers[0])
+                        
+                        # Map product ID to index
+                        products = self._get_product_info(obs, info, num_products)
+                        for i, product in enumerate(products):
+                            if product['id'] == recommended_id:
+                                return i
+                        
+                        # If product ID not found, return first product as fallback
+                        print(f"[WARN] Product ID {recommended_id} not found in _force_recommendation, defaulting to first product")
+                        return 0
                 except (ValueError, IndexError):
                     pass
             return 0
