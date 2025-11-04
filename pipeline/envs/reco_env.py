@@ -231,16 +231,27 @@ class RecoEnv(gym.Env):
                     "full_products": self.products
                 }
             else:
-                if self.agent and hasattr(self.agent, 'last_response') and self.agent.last_response:
-                    response = self.agent.last_response
-                    if "QUESTION:" in response.upper():
-                        question_text = response.split("QUESTION:", 1)[1].strip()
-                        if not question_text.endswith('?'):
-                            question_text += "?"
-                    else:
-                        question_text = "What are your preferences for this product category?"
-                else:   
-                    question_text = "What are your preferences for this product category?"
+                if not self.agent or not hasattr(self.agent, 'last_response') or not self.agent.last_response:
+                    raise RuntimeError(
+                        "Agent action was 'ask question' but no last_response found. "
+                        "This indicates the agent didn't generate a response properly."
+                    )
+                
+                response = self.agent.last_response
+                if "QUESTION:" not in response.upper():
+                    print(f"\n{'='*80}")
+                    print("AGENT RESPONSE FORMAT ERROR")
+                    print(f"{'='*80}")
+                    print(f"Full agent response:\n{response}")
+                    print(f"{'='*80}\n")
+                    raise ValueError(
+                        f"Agent response missing 'QUESTION:' marker. Got: {response[:200]}\n"
+                        "The agent must respond with 'QUESTION: [text]' when asking a question."
+                    )
+                
+                question_text = response.split("QUESTION:", 1)[1].strip()
+                if not question_text.endswith('?'):
+                    question_text += "?"
                 
                 answer = self.user_model.respond(question_text, category=self.current_category, dialog_history=self.dialog_history)
                 

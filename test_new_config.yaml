@@ -7,7 +7,7 @@ feedback_type: persona
 min_score_threshold: 60.0
 max_products_per_category: 30
 total_trajectories: 2
-episodes_per_trajectory: 2
+episodes_per_trajectory: 3
 output_dir: test_results
 show_product_scores: false
 show_internal_prompts: true

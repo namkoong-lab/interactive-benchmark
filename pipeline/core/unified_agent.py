@@ -668,8 +668,8 @@ SESSION: Customer #{persona} | Episode {episode_num} | Category: {category}
 
 {feedback_context}
 
-=== OUTPUT FORMAT ===
-You must respond with EXACTLY ONE of these formats:
+=== CRITICAL: OUTPUT FORMAT ===
+You MUST respond in EXACTLY ONE of these two formats. NO OTHER TEXT ALLOWED.
 
 To ask a question:
 QUESTION: [your question]
@@ -682,12 +682,12 @@ QUESTION: What is your budget?
 RECOMMEND: 5
 
 === RULES ===
-1. Start your response with "QUESTION:" or "RECOMMEND:" - nothing else
-2. No explanations, reasoning, or extra text
-3. Questions must be short and consumer-friendly
-4. Never repeat questions already asked
-5. Use previous answers to inform your decision
-6. Recommend when you have sufficient information
+1. Your response MUST start with either "QUESTION:" or "RECOMMEND:"
+2. Do NOT add any explanations, reasoning, or extra text before or after
+3. Do NOT repeat any questions that were already asked (check conversation history above)
+4. Questions must be short, specific, and consumer-friendly
+5. Use previous answers to narrow down options intelligently
+6. Recommend when you have sufficient information to make a confident choice
 
 Your response:"""
 
