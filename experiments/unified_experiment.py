@@ -527,6 +527,7 @@ class UnifiedExperiment:
             if info.get('action_type') == 'recommend' and 'chosen_score' in info:
                 episode_result = {
                     'episode': episode_num,
+                    'trajectory': f"trajectory_{trajectory_num}" if trajectory_num else "unknown",
                     'category': category,
                     'persona_index': persona_index,
                     'steps': step_count,
@@ -684,6 +685,7 @@ class UnifiedExperiment:
             if info.get('action_type') == 'recommend' and 'chosen_score' in info:
                 episode_result = {
                     'episode': episode_num,
+                    'trajectory': f"trajectory_{trajectory_num}" if trajectory_num else "unknown",
                     'category': category,
                     'persona_index': persona_index,
                     'steps': question_count + 1,  # All questions + final recommendation
@@ -972,17 +974,17 @@ class UnifiedExperiment:
                     else:
                         if self.config.debug_mode:
                             print(f"    Episode {episode_num} failed after {max_retries} attempts")
+                
+                # End of episode loop - save trajectory results
+                self.grouped_results[f"trajectory_{traj_num}"] = trajectory_results
+                executed_categories_per_traj.append(trajectory_executed_categories)
+                executed_personas_per_traj.append(trajectory_executed_personas)
+                
+                # === TRAJECTORY CHECKPOINT ===
+                if self.config.checkpoint_enabled and self.config.checkpoint_after_each_trajectory:
+                    self.save_checkpoint(trajectory_idx=actual_traj_idx, reason="trajectory_complete")
             
-            # End of episode loop - save trajectory results
-            self.grouped_results[f"trajectory_{traj_num}"] = trajectory_results
-            executed_categories_per_traj.append(trajectory_executed_categories)
-            executed_personas_per_traj.append(trajectory_executed_personas)
-            
-            # === TRAJECTORY CHECKPOINT ===
-            if self.config.checkpoint_enabled and self.config.checkpoint_after_each_trajectory:
-                self.save_checkpoint(trajectory_idx=actual_traj_idx, reason="trajectory_complete")
-            
-            # Normal completion
+            # All trajectories complete - save results
             self.config._used_categories = executed_categories_per_traj if any(executed_categories_per_traj) else None
             self.config._used_persona_indices = executed_personas_per_traj if any(executed_personas_per_traj) else None
             
