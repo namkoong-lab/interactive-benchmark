@@ -1,0 +1,134 @@
+# ConfigurationReference
+
+# ============================================================================
+# EXPERIMENT TYPE (REQUIRED)
+#   - "variable_category": Same customer tries different product categories
+#   - "variable_persona": Different customers try the same category
+#   - "variable_settings": Both customer and category vary
+# ============================================================================
+experiment_type: "variable_persona"
+
+# ============================================================================
+# MODEL SETTINGS
+# ============================================================================
+model: "gpt-4o"
+
+# ============================================================================
+# EXPERIMENT PARAMETERS
+# ============================================================================
+max_questions: 8 # Max # of questions an agent can ask per episode 
+episodes_per_trajectory: 5
+total_trajectories: 10
+
+# ============================================================================
+# LEARNING SETTINGS
+# ============================================================================
+# Options:
+#   - "raw": Full dialog history from previous episodes
+#   - "summary": LLM-generated summary of previous episodes
+#   - "none": No context from previous episodes (memoryless)
+context_mode: "raw"
+# Options:
+#   - "none": No feedback
+#   - "regret": Numerical regret score (best_score - chosen_score)
+#   - "persona": Natural language feedback from simulated user persona
+#   - "star_rating": Star rating (1-5 stars)
+feedback_type: "persona"
+# Options:
+#   - "none": Standard prompts only
+#   - "all": Include all prompting tricks (chain-of-thought, etc.)
+prompting_tricks: "none"
+
+# ============================================================================
+# DATA SETTINGS
+# ============================================================================
+# Specific categories to use for each trajectory (list of lists)
+# Example:
+#   categories:
+#     - ["Coffee Makers", "Blenders"]        # Trajectory 1
+#     - ["Running Shoes", "Yoga Mats"]       # Trajectory 2
+# Default: null (auto-generate)
+categories: null
+
+# Specific persona IDs to use for each trajectory (list of lists)
+# Example:
+#   persona_indices:
+#     - [12345, 67890]  # Trajectory 1
+#     - [11111, 22222]  # Trajectory 2
+# Default: null (auto-generate)
+persona_indices: null
+
+# Minimum score threshold for persona-category relevance (range: 0.0 - 100.0)
+min_score_threshold: 60.0
+
+# Maximum number of products to sample per category (range: >= 1)
+max_products_per_category: 100
+
+# Random seeds for reproducibility (one per trajectory)
+seeds: null
+
+# ============================================================================
+# OUTPUT SETTINGS
+# ============================================================================
+
+output_dir: "experiment_results"
+experiment_name: null
+
+#Debug options: 
+debug_mode: false
+
+# Include product scores in results.json
+show_product_scores: false
+
+# Include internal prompts in results.json
+show_internal_prompts: false
+
+# ============================================================================
+# CHECKPOINT SETTINGS 
+# ============================================================================
+checkpoint_enabled: false
+
+# Save checkpoint every N episodes
+checkpoint_every_n_episodes: null
+
+# Save checkpoint after completing each trajectory
+checkpoint_after_each_trajectory: true
+
+# Number of checkpoints to keep (oldest are deleted)
+checkpoint_keep_last: 5
+
+# Save checkpoint when user interrupts (Ctrl+C)
+checkpoint_on_interrupt: true
+
+# Path to checkpoint file to resume from
+# Example: "experiment_results/variable_persona_gpt-4o/checkpoints/checkpoint_traj002_ep0008.json"
+resume_from_checkpoint: null
+
+# ============================================================================
+# INTERACTIVE MODE 
+# ============================================================================
+interactive_mode: false
+
+# Number of variants to generate per episode
+interactive_variants: 10
+
+# Path to previous episode variant to continue from
+interactive_input_file: null
+
+interactive_output_dir: "interactive_variants"
+
+# ============================================================================
+# PLANNING MODE (REGRET TRACKING)
+# ============================================================================
+# Options:
+#   - "none": No planning mode (standard episodes only)
+#   - "no_strat": Planning without strategy hints
+#   - "greedy": Planning with greedy information gain prompts
+#   - "pomdp": Planning with POMDP-style forward-thinking prompts
+# Planning mode forces agent to ask all max_questions and tracks regret after each question
+planning_mode: "none"
+
+# Run planning mode every Nth episode
+# Example: 5 = Episodes 5, 10, 15, 20, ... are planning episodes
+# Range: >= 1 and <= episodes_per_trajectory
+planning_interval: 5

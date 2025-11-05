@@ -748,6 +748,339 @@ class UnifiedExperiment:
                 traceback.print_exc()
             return 0  # Fallback to first product
     
+    def run_interactive(self) -> Dict[str, Any]:
+        """
+        Run in interactive mode: Generate multiple variants of the same episode
+        for manual curation to build a golden trajectory.
+        
+        Workflow:
+        1. If no input file: Generate N variants of Episode 1
+        2. If input file provided: Load it, extract settings, generate N variants of next episode
+        3. Save each variant to separate file for manual review
+        4. User picks their favorite and re-runs with that file as input
+        """
+        print(f"\n{'='*70}")
+        print(f"  INTERACTIVE EPISODE MODE")
+        print(f"{'='*70}")
+        
+        # Setup output directory
+        self.output_path = self.config.get_output_path()
+        os.makedirs(self.output_path, exist_ok=True)
+        
+        output_base = os.path.join(self.output_path, self.config.interactive_output_dir)
+        os.makedirs(output_base, exist_ok=True)
+        
+        # Initialize agent
+        self.agent = self._create_agent()
+        
+        # Determine episode context
+        previous_episode = None  # Initialize for scope
+        
+        if self.config.interactive_input_file is None:
+            # Starting Episode 1 - need to find a relevant persona/category combo
+            episode_num = 1
+            
+            print(f"\n🚀 Starting new trajectory - Finding relevant persona/category combination...")
+            
+            # Get available personas and categories
+            from pipeline.core.simulate_interaction import list_categories
+            from pipeline.core.personas import get_persona_description
+            
+            all_categories = list_categories()
+            
+            # Get max persona index
+            max_persona_index = 0
+            while True:
+                try:
+                    get_persona_description(max_persona_index)
+                    max_persona_index += 1
+                except:
+                    break
+            all_personas = list(range(max_persona_index))
+            
+            # Try to find a relevant combo (like normal experiment retry logic)
+            max_retries = 50
+            persona_id = None
+            category = None
+            scores = None
+            
+            for retry in range(max_retries):
+                # Sample a persona and category
+                test_persona = random.choice(all_personas)
+                test_category = random.choice(all_categories)
+                
+                # Check if relevant
+                is_relevant, max_score, test_scores = self._is_category_relevant_for_persona(
+                    test_category, test_persona, seed=self.config.get_seeds()[0]
+                )
+                
+                if is_relevant:
+                    persona_id = test_persona
+                    category = test_category
+                    scores = test_scores
+                    print(f"   ✅ Found match after {retry + 1} attempt(s)")
+                    print(f"   Persona: {persona_id}")
+                    print(f"   Category: {category}")
+                    print(f"   Max score: {max_score:.1f}")
+                    break
+            
+            if persona_id is None:
+                raise ValueError(
+                    f"Could not find relevant persona/category combination after {max_retries} attempts. "
+                    f"Try lowering min_score_threshold (current: {self.config.min_score_threshold})"
+                )
+            
+            print(f"\n   Generating {self.config.interactive_variants} variants of Episode 1...")
+            
+        else:
+            # Continuing from previous episode
+            print(f"\n📂 Loading previous episode from: {self.config.interactive_input_file}")
+            previous_episode = self._load_variant_file(self.config.interactive_input_file)
+            
+            episode_num = previous_episode['episode'] + 1
+            
+            # Restore agent state
+            self.agent.update_preferences(previous_episode)
+            
+            print(f"   Continuing to Episode {episode_num}")
+            
+            # Determine what varies based on experiment_type
+            from pipeline.core.simulate_interaction import list_categories
+            from pipeline.core.personas import get_persona_description
+            
+            if self.config.experiment_type == "variable_persona":
+                # Keep category constant, find new persona
+                category = previous_episode['category']
+                print(f"   Category: {category} (unchanged)")
+                print(f"   Finding new persona...")
+                
+                # Get all personas
+                max_persona_index = 0
+                while True:
+                    try:
+                        get_persona_description(max_persona_index)
+                        max_persona_index += 1
+                    except:
+                        break
+                all_personas = list(range(max_persona_index))
+                
+                # Try to find a relevant persona
+                max_retries = 50
+                persona_id = None
+                scores = None
+                
+                for retry in range(max_retries):
+                    test_persona = random.choice(all_personas)
+                    is_relevant, max_score, test_scores = self._is_category_relevant_for_persona(
+                        category, test_persona, seed=self.config.get_seeds()[0]
+                    )
+                    
+                    if is_relevant:
+                        persona_id = test_persona
+                        scores = test_scores
+                        print(f"   ✅ Found persona {persona_id} after {retry + 1} attempt(s) (score: {max_score:.1f})")
+                        break
+                
+                if persona_id is None:
+                    raise ValueError(
+                        f"Could not find relevant persona for category '{category}' after {max_retries} attempts"
+                    )
+                    
+            elif self.config.experiment_type == "variable_category":
+                # Keep persona constant, find new category
+                persona_id = previous_episode['persona_index']
+                print(f"   Persona: {persona_id} (unchanged)")
+                print(f"   Finding new category...")
+                
+                all_categories = list_categories()
+                
+                # Try to find a relevant category
+                max_retries = 50
+                category = None
+                scores = None
+                
+                for retry in range(max_retries):
+                    test_category = random.choice(all_categories)
+                    is_relevant, max_score, test_scores = self._is_category_relevant_for_persona(
+                        test_category, persona_id, seed=self.config.get_seeds()[0]
+                    )
+                    
+                    if is_relevant:
+                        category = test_category
+                        scores = test_scores
+                        print(f"   ✅ Found category '{category}' after {retry + 1} attempt(s) (score: {max_score:.1f})")
+                        break
+                
+                if category is None:
+                    raise ValueError(
+                        f"Could not find relevant category for persona {persona_id} after {max_retries} attempts"
+                    )
+                    
+            else:  # variable_settings
+                # Both vary - find new persona AND category
+                print(f"   Finding new persona and category...")
+                
+                all_categories = list_categories()
+                max_persona_index = 0
+                while True:
+                    try:
+                        get_persona_description(max_persona_index)
+                        max_persona_index += 1
+                    except:
+                        break
+                all_personas = list(range(max_persona_index))
+                
+                # Try to find a relevant combo
+                max_retries = 50
+                persona_id = None
+                category = None
+                scores = None
+                
+                for retry in range(max_retries):
+                    test_persona = random.choice(all_personas)
+                    test_category = random.choice(all_categories)
+                    is_relevant, max_score, test_scores = self._is_category_relevant_for_persona(
+                        test_category, test_persona, seed=self.config.get_seeds()[0]
+                    )
+                    
+                    if is_relevant:
+                        persona_id = test_persona
+                        category = test_category
+                        scores = test_scores
+                        print(f"   ✅ Found match after {retry + 1} attempt(s)")
+                        print(f"      Persona: {persona_id}, Category: {category} (score: {max_score:.1f})")
+                        break
+                
+                if persona_id is None:
+                    raise ValueError(
+                        f"Could not find relevant persona/category combination after {max_retries} attempts"
+                    )
+            
+            print(f"   Generating {self.config.interactive_variants} variants...")
+        
+        # Generate N variants
+        variants = []
+        base_seed = self.config.get_seeds()[0]
+        
+        print(f"\n{'='*70}")
+        print(f"  GENERATING VARIANTS")
+        print(f"{'='*70}\n")
+        
+        for variant_idx in range(self.config.interactive_variants):
+            # Use different seed for each variant
+            variant_seed = base_seed + variant_idx
+            random.seed(variant_seed)
+            np.random.seed(variant_seed)
+            
+            print(f"  Variant {variant_idx + 1}/{self.config.interactive_variants}...")
+            
+            # Reset agent for this variant (start fresh)
+            # But restore memory from previous episode if continuing
+            if self.config.interactive_input_file is not None:
+                # Recreate agent and restore state from previous episode
+                self.agent = self._create_agent()
+                self.agent.update_preferences(previous_episode)
+            else:
+                # Fresh agent for Episode 1
+                self.agent = self._create_agent()
+            
+            # Run episode
+            result = self._run_regular_episode(
+                episode_num=episode_num,
+                persona_index=persona_id,
+                category=category,
+                cached_scores=scores,
+                trajectory_seed=variant_seed,
+                trajectory_num=1
+            )
+            
+            if result:
+                # Add variant metadata
+                result['variant_id'] = variant_idx + 1
+                result['variant_seed'] = variant_seed
+                variants.append(result)
+                
+                # Save variant to file
+                variant_filename = f"episode_{episode_num:02d}_variant_{variant_idx + 1:03d}.json"
+                variant_path = os.path.join(output_base, variant_filename)
+                self._save_variant_file(variant_path, result)
+                
+                print(f"    ✅ Saved: {variant_filename} (regret: {result['final_info'].get('regret', 0):.1f})")
+            else:
+                print(f"    ❌ Failed to generate variant {variant_idx + 1}")
+        
+        # Summary
+        print(f"\n{'='*70}")
+        print(f"  GENERATION COMPLETE")
+        print(f"{'='*70}")
+        print(f"\nGenerated {len(variants)}/{self.config.interactive_variants} variants of Episode {episode_num}")
+        print(f"Location: {output_base}/")
+        print(f"\n📋 Next Steps:")
+        print(f"   1. Review variant files: episode_{episode_num:02d}_variant_001.json ... episode_{episode_num:02d}_variant_{self.config.interactive_variants:03d}.json")
+        print(f"   2. Delete variants you don't like")
+        print(f"   3. Pick your favorite variant")
+        
+        if episode_num < self.config.episodes_per_trajectory:
+            print(f"   4. Re-run with: --interactive_input_file {output_base}/episode_{episode_num:02d}_variant_XXX.json")
+            print(f"      (This will generate Episode {episode_num + 1} variants)")
+        else:
+            print(f"   4. Trajectory complete! ({self.config.episodes_per_trajectory} episodes)")
+        
+        print()
+        
+        # Return summary
+        return {
+            'mode': 'interactive',
+            'episode_num': episode_num,
+            'variants_generated': len(variants),
+            'output_directory': output_base,
+            'variants': variants
+        }
+    
+    def _get_persona_for_episode(self, episode_num: int) -> int:
+        """Get persona ID for an episode in interactive mode."""
+        personas_list = self.config.get_persona_indices()
+        if personas_list and len(personas_list) > 0:
+            # Use first trajectory's first persona
+            if len(personas_list[0]) > 0:
+                return personas_list[0][0]
+        
+        # Fallback: random persona
+        from pipeline.core.personas import get_persona_description
+        max_persona_index = 0
+        while True:
+            try:
+                get_persona_description(max_persona_index)
+                max_persona_index += 1
+            except:
+                break
+        return random.randint(0, max_persona_index - 1)
+    
+    def _get_category_for_episode(self, episode_num: int) -> str:
+        """Get category for an episode in interactive mode."""
+        categories_list = self.config.get_categories()
+        if categories_list and len(categories_list) > 0:
+            # Use first trajectory's first category
+            if len(categories_list[0]) > 0:
+                return categories_list[0][0]
+        
+        # Fallback: random category
+        from pipeline.core.simulate_interaction import list_categories
+        all_categories = list_categories()
+        return random.choice(all_categories)
+    
+    def _load_variant_file(self, filepath: str) -> Dict[str, Any]:
+        """Load a variant file from previous episode."""
+        with open(filepath, 'r') as f:
+            data = json.load(f)
+        return data
+    
+    def _save_variant_file(self, filepath: str, variant: Dict[str, Any]):
+        """Save a single variant to file."""
+        # Save with nice formatting
+        with open(filepath, 'w') as f:
+            json.dump(variant, f, indent=2)
+    
     def run(self) -> Dict[str, Any]:
         """Run the experiment based on configuration."""
         # Validate configuration BEFORE doing any work
@@ -760,6 +1093,10 @@ class UnifiedExperiment:
         
         llm_providers.set_debug_mode(self.config.debug_mode)
         simulate_interaction.set_debug_mode(self.config.debug_mode)
+        
+        # Route to interactive mode if enabled
+        if self.config.interactive_mode:
+            return self.run_interactive()
         
         if self.config.debug_mode:
             print(f"\n{'='*70}")

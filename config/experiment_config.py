@@ -71,11 +71,17 @@ class ExperimentConfig:
     
     # === CHECKPOINT SETTINGS ===
     checkpoint_enabled: bool = False
-    checkpoint_every_n_episodes: Optional[int] = None  # e.g., 5, 10, 20
+    checkpoint_every_n_episodes: Optional[int] = None  
     checkpoint_after_each_trajectory: bool = True
-    checkpoint_keep_last: Optional[int] = 5  # Keep last N checkpoints, None = keep all
+    checkpoint_keep_last: Optional[int] = 5  
     checkpoint_on_interrupt: bool = True
-    resume_from_checkpoint: Optional[str] = None  
+    resume_from_checkpoint: Optional[str] = None
+    
+    # === INTERACTIVE MODE SETTINGS ===
+    interactive_mode: bool = False
+    interactive_variants: int = 10
+    interactive_input_file: Optional[str] = None
+    interactive_output_dir: str = "interactive_variants"
     
     # === EXPERIMENT-SPECIFIC PARAMETERS ===
     episodes_per_trajectory: int = 5  
@@ -153,6 +159,22 @@ class ExperimentConfig:
         # Validate max_questions
         if self.max_questions < 1:
             raise ValueError(f"max_questions must be >= 1, got {self.max_questions}")
+        
+        # Validate interactive mode
+        if self.interactive_mode:
+            if self.interactive_variants < 1:
+                raise ValueError(f"interactive_variants must be >= 1, got {self.interactive_variants}")
+            
+            # In interactive mode, force single trajectory
+            if self.total_trajectories != 1:
+                print(f"⚠️  Warning: interactive_mode=True forces total_trajectories=1 (was {self.total_trajectories})")
+                self.total_trajectories = 1
+            
+            # If continuing from input file, validate it exists
+            if self.interactive_input_file is not None:
+                import os
+                if not os.path.exists(self.interactive_input_file):
+                    raise ValueError(f"interactive_input_file does not exist: {self.interactive_input_file}")
     
     def get_categories(self) -> List[List[str]]:
         """

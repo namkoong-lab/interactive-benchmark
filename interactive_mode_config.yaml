@@ -1,0 +1,51 @@
+experiment_type: "variable_category"  
+model: "gpt-4o"
+interactive_mode: true
+interactive_variants: 10  
+interactive_input_file: null  
+interactive_output_dir: "interactive_variants"  
+max_questions: 8
+episodes_per_trajectory: 4 
+context_mode: "raw"  
+feedback_type: "persona"  
+prompting_tricks: "none"
+min_score_threshold: 60.0
+max_products_per_category: 20
+seeds: [42]  
+output_dir: "interactive_results"
+debug_mode: true
+show_product_scores: false
+show_internal_prompts: false
+planning_mode: "none"  
+
+# ============================================================================
+# USAGE INSTRUCTIONS
+# ============================================================================
+#
+# STEP 1: Generate Episode 1 variants
+#   python experiment_runners/run_experiment.py --config interactive_mode_config.yaml
+#
+#   This will create:
+#   - interactive_results/interactive_variants/episode_01_variant_001.json
+#   - interactive_results/interactive_variants/episode_01_variant_002.json
+#   - ... (10 variants total)
+#
+# STEP 2: Review and pick your favorite
+#   Review the variant files and delete the ones you don't like.
+#   Keep your favorite, e.g., episode_01_variant_005.json
+#
+# STEP 3: Generate Episode 2 variants
+#   Update this config file:
+#   interactive_input_file: "interactive_results/interactive_variants/episode_01_variant_005.json"
+#
+#   Then run again:
+#   python experiment_runners/run_experiment.py --config interactive_mode_config.yaml
+#
+#   This will generate Episode 2 variants using the same persona/category
+#
+# STEP 4: Repeat until episodes_per_trajectory is reached
+#   Keep updating interactive_input_file with your chosen variant
+#   and re-running to build your golden trajectory!
+#
+# ============================================================================
+
