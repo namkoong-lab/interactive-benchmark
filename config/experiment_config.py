@@ -65,10 +65,17 @@ class ExperimentConfig:
     # === OUTPUT ===
     output_dir: str = "experiment_results"
     experiment_name: Optional[str] = None
-    checkpoint_file: Optional[str] = None
     debug_mode: bool = False  
     show_product_scores: bool = False
-    show_internal_prompts: bool = False  
+    show_internal_prompts: bool = False
+    
+    # === CHECKPOINT SETTINGS ===
+    checkpoint_enabled: bool = False
+    checkpoint_every_n_episodes: Optional[int] = None  # e.g., 5, 10, 20
+    checkpoint_after_each_trajectory: bool = True
+    checkpoint_keep_last: Optional[int] = 5  # Keep last N checkpoints, None = keep all
+    checkpoint_on_interrupt: bool = True
+    resume_from_checkpoint: Optional[str] = None  
     
     # === EXPERIMENT-SPECIFIC PARAMETERS ===
     episodes_per_trajectory: int = 5  

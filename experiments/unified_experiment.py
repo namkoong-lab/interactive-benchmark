@@ -76,6 +76,198 @@ class UnifiedExperiment:
         else:
             raise ValueError(f"Unknown experiment type: {self.config.experiment_type}")
     
+    # ===================================================================
+    # CHECKPOINT METHODS
+    # ===================================================================
+    
+    def save_checkpoint(self, trajectory_idx: int, reason: str = "periodic") -> str:
+        """
+        Save checkpoint of current experiment state.
+        
+        Args:
+            trajectory_idx: Current trajectory index (0-based)
+            reason: "periodic", "trajectory_complete", "interrupt", "error"
+            
+        Returns:
+            Path to saved checkpoint file
+        """
+        checkpoint_dir = os.path.join(self.output_path, "checkpoints")
+        os.makedirs(checkpoint_dir, exist_ok=True)
+        
+        # Generate filename
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        traj_num = trajectory_idx + 1
+        ep_num = len(self.all_results)
+        checkpoint_filename = f"checkpoint_traj{traj_num:03d}_ep{ep_num:04d}_{timestamp}.json"
+        checkpoint_path = os.path.join(checkpoint_dir, checkpoint_filename)
+        
+        # Build checkpoint data
+        checkpoint_data = {
+            "checkpoint_version": "1.0",
+            "timestamp": datetime.now().isoformat(),
+            "reason": reason,
+            
+            "config": self.config.to_dict_complete(),
+            
+            "progress": {
+                "completed_trajectories": trajectory_idx if reason == "trajectory_complete" else trajectory_idx,
+                "completed_episodes": len(self.all_results),
+                "next_trajectory_idx": trajectory_idx + 1 if reason == "trajectory_complete" else trajectory_idx,
+                "next_episode_num": len(self.all_results) + 1,
+            },
+            
+            "all_results": self.all_results,
+            "grouped_results": {str(k): v for k, v in self.grouped_results.items()},
+            "planning_regret_data": getattr(self, 'planning_regret_data', {}),
+            
+            "agent_state": self._serialize_agent_state(),
+            
+            "execution_history": {
+                "trajectory_seeds": getattr(self, 'trajectory_seeds', []),
+                "executed_categories_per_traj": getattr(self, 'executed_categories_per_traj', []),
+                "executed_personas_per_traj": getattr(self, 'executed_personas_per_traj', []),
+            },
+            
+            "stats": self._compute_checkpoint_stats()
+        }
+        
+        # Save checkpoint
+        with open(checkpoint_path, 'w') as f:
+            json.dump(checkpoint_data, f, indent=2)
+        
+        # Also save as latest
+        latest_path = os.path.join(checkpoint_dir, "checkpoint_latest.json")
+        with open(latest_path, 'w') as f:
+            json.dump(checkpoint_data, f, indent=2)
+        
+        # Cleanup old checkpoints if configured
+        if self.config.checkpoint_keep_last is not None:
+            self._cleanup_old_checkpoints(checkpoint_dir)
+        
+        if self.config.debug_mode:
+            print(f"💾 Checkpoint saved: {checkpoint_filename} (reason: {reason})")
+        
+        return checkpoint_path
+    
+    def load_checkpoint(self, checkpoint_file: str) -> int:
+        """
+        Load checkpoint and restore experiment state.
+        
+        Args:
+            checkpoint_file: Path to checkpoint file
+            
+        Returns:
+            Next trajectory index to resume from (0-based)
+        """
+        print(f"📂 Loading checkpoint: {os.path.basename(checkpoint_file)}")
+        
+        with open(checkpoint_file, 'r') as f:
+            checkpoint_data = json.load(f)
+        
+        # Validate version
+        if checkpoint_data.get("checkpoint_version") != "1.0":
+            raise ValueError(f"Incompatible checkpoint version: {checkpoint_data.get('checkpoint_version')}")
+        
+        # Restore results
+        self.all_results = checkpoint_data["all_results"]
+        self.grouped_results = {int(k): v for k, v in checkpoint_data["grouped_results"].items()}
+        self.planning_regret_data = checkpoint_data.get("planning_regret_data", {})
+        
+        # Restore agent state
+        self._restore_agent_state(checkpoint_data["agent_state"])
+        
+        # Restore execution history
+        exec_history = checkpoint_data.get("execution_history", {})
+        self.trajectory_seeds = exec_history.get("trajectory_seeds", [])
+        self.executed_categories_per_traj = exec_history.get("executed_categories_per_traj", [])
+        self.executed_personas_per_traj = exec_history.get("executed_personas_per_traj", [])
+        
+        # Get resume point
+        progress = checkpoint_data["progress"]
+        next_traj_idx = progress["next_trajectory_idx"]
+        
+        print(f"✅ Checkpoint loaded:")
+        print(f"   Timestamp: {checkpoint_data['timestamp']}")
+        print(f"   Episodes completed: {progress['completed_episodes']}")
+        print(f"   Trajectories completed: {progress['completed_trajectories']}")
+        print(f"   Resuming from trajectory {next_traj_idx + 1}")
+        
+        return next_traj_idx
+    
+    def _serialize_agent_state(self) -> dict:
+        """Extract serializable agent state."""
+        if not self.agent:
+            return {}
+        
+        return {
+            "episode_history": self.agent.episode_history,
+            "episode_summaries": self.agent.episode_summaries,
+            "episode_prompts": getattr(self.agent, 'episode_prompts', []),
+            "episode_count": self.agent.episode_count,
+        }
+    
+    def _restore_agent_state(self, agent_state: dict):
+        """Restore agent state from checkpoint."""
+        if not self.agent:
+            self.agent = self._create_agent()
+        
+        self.agent.episode_history = agent_state.get("episode_history", [])
+        self.agent.episode_summaries = agent_state.get("episode_summaries", [])
+        self.agent.episode_prompts = agent_state.get("episode_prompts", [])
+        self.agent.episode_count = agent_state.get("episode_count", 0)
+    
+    def _compute_checkpoint_stats(self) -> dict:
+        """Compute summary statistics for checkpoint."""
+        if not self.all_results:
+            return {}
+        
+        regrets = [r['final_info']['regret'] for r in self.all_results if 'regret' in r['final_info']]
+        scores = [r['final_info']['chosen_score'] for r in self.all_results if 'chosen_score' in r['final_info']]
+        
+        return {
+            "avg_regret": float(np.mean(regrets)) if regrets else 0.0,
+            "avg_score": float(np.mean(scores)) if scores else 0.0,
+            "total_questions_asked": sum(r.get('steps', 0) for r in self.all_results),
+            "top1_rate": float(np.mean([r['final_info'].get('top1', False) for r in self.all_results])),
+        }
+    
+    def _cleanup_old_checkpoints(self, checkpoint_dir: str):
+        """Remove old checkpoints, keeping only the most recent N."""
+        import glob
+        
+        checkpoint_files = glob.glob(os.path.join(checkpoint_dir, "checkpoint_traj*.json"))
+        
+        if len(checkpoint_files) <= self.config.checkpoint_keep_last:
+            return
+        
+        # Sort by modification time (newest first)
+        checkpoint_files.sort(key=os.path.getmtime, reverse=True)
+        
+        # Delete old ones
+        for file_path in checkpoint_files[self.config.checkpoint_keep_last:]:
+            try:
+                os.remove(file_path)
+            except Exception as e:
+                if self.config.debug_mode:
+                    print(f"   Warning: Could not delete old checkpoint: {e}")
+    
+    def _get_latest_checkpoint(self) -> Optional[str]:
+        """Find the most recent checkpoint file."""
+        checkpoint_dir = os.path.join(self.output_path, "checkpoints")
+        
+        if not os.path.exists(checkpoint_dir):
+            return None
+        
+        latest_path = os.path.join(checkpoint_dir, "checkpoint_latest.json")
+        if os.path.exists(latest_path):
+            return latest_path
+        
+        return None
+    
+    # ===================================================================
+    # END CHECKPOINT METHODS
+    # ===================================================================
+    
     def _is_category_relevant_for_persona(self, category: str, persona_index: int, 
                                           seed: Optional[int] = None) -> Tuple[bool, float, List]:
         """Check if category is relevant for persona (max score > threshold)."""
@@ -586,6 +778,15 @@ class UnifiedExperiment:
         self.config.to_json(os.path.join(self.output_path, "config.json"))
         self.agent = self._create_agent()
         
+        # === CHECKPOINT LOADING ===
+        start_trajectory_idx = 0
+        if self.config.checkpoint_enabled and self.config.resume_from_checkpoint:
+            if os.path.exists(self.config.resume_from_checkpoint):
+                start_trajectory_idx = self.load_checkpoint(self.config.resume_from_checkpoint)
+            else:
+                print(f"⚠️  Warning: Checkpoint file not found: {self.config.resume_from_checkpoint}")
+                print("   Starting from beginning...")
+        
         executed_categories_per_traj = []
         executed_personas_per_traj = []
         trajectories = self._plan_trajectories()
@@ -596,174 +797,224 @@ class UnifiedExperiment:
             print(f"  Episodes per trajectory: {self.config.episodes_per_trajectory}")
             print(f"  Total episodes: {len(trajectories) * self.config.episodes_per_trajectory}")
         
-        self.all_results = []
-        self.grouped_results = {}
-        self.planning_regret_data = {}  # Track planning episode regret progressions
+        # Skip completed trajectories if resuming
+        if start_trajectory_idx > 0:
+            print(f"\n⏭️  Skipping {start_trajectory_idx} completed trajectories")
+            trajectories = trajectories[start_trajectory_idx:]
+        
+        self.all_results = self.all_results if start_trajectory_idx > 0 else []
+        self.grouped_results = self.grouped_results if start_trajectory_idx > 0 else {}
+        self.planning_regret_data = getattr(self, 'planning_regret_data', {})
+        self.executed_categories_per_traj = getattr(self, 'executed_categories_per_traj', [])
+        self.executed_personas_per_traj = getattr(self, 'executed_personas_per_traj', [])
         successful_count = 0
         
-        for traj_idx, (traj_num, categories, personas, episode_plan) in enumerate(trajectories):
-            trajectory_seed = self.trajectory_seeds[traj_idx] if traj_idx < len(self.trajectory_seeds) else None
-            if trajectory_seed is not None:
-                random.seed(trajectory_seed)
-                np.random.seed(trajectory_seed)
-            
-            if self.config.debug_mode:
-                print(f"\n{'='*50}")
-                print(f"TRAJECTORY {traj_num}/{len(trajectories)} (seed: {trajectory_seed})")
-                print(f"{'='*50}")
-            else:
-                print(f"\n📍 Trajectory {traj_num}/{len(trajectories)} (seed: {trajectory_seed})")
-            
-            trajectory_results = []
-            trajectory_executed_categories = []
-            trajectory_executed_personas = []
-            trajectory_tried_categories = set()
-            
-            for episode_num, persona_idx, category in episode_plan:
+        try:
+            for traj_idx, (traj_num, categories, personas, episode_plan) in enumerate(trajectories):
+                # Adjust trajectory index if resuming
+                actual_traj_idx = start_trajectory_idx + traj_idx
+                trajectory_seed = self.trajectory_seeds[traj_idx] if traj_idx < len(self.trajectory_seeds) else None
+                if trajectory_seed is not None:
+                    random.seed(trajectory_seed)
+                    np.random.seed(trajectory_seed)
+                
                 if self.config.debug_mode:
-                    print(f"\n  Episode {episode_num}/{len(episode_plan)}: Persona {persona_idx}, Category {category}")
+                    print(f"\n{'='*50}")
+                    print(f"TRAJECTORY {traj_num}/{len(trajectories)} (seed: {trajectory_seed})")
+                    print(f"{'='*50}")
                 else:
-                    print(f"  Episode {episode_num}/{len(episode_plan)}: Persona {persona_idx}, Category {category}")
+                    print(f"\n📍 Trajectory {traj_num}/{len(trajectories)} (seed: {trajectory_seed})")
                 
-                result = None
-                episode_tried_categories = set()
-                episode_tried_personas = set()
-                failed_category_prefixes = set()  # Track semantic clusters that failed
-                current_category = category
-                current_persona = persona_idx
+                trajectory_results = []
+                trajectory_executed_categories = []
+                trajectory_executed_personas = []
+                trajectory_tried_categories = set()
                 
-                from pipeline.core.simulate_interaction import list_categories
-                all_available_categories = set(list_categories())
-                
-                # Get all available personas
-                from pipeline.core.personas import get_persona_description
-                max_persona_index = 0
-                while True:
-                    try:
-                        get_persona_description(max_persona_index)
-                        max_persona_index += 1
-                    except:
-                        break
-                all_available_personas = set(range(max_persona_index))
-                
-                # Determine retry strategy based on experiment type
-                if self.config.experiment_type == "variable_persona":
-                    max_retries = min(10, len(all_available_personas))
-                else:  # variable_category or variable_settings
-                    max_retries = min(10, len(all_available_categories))
-                
-                for retry in range(max_retries):
-                    # Decide what to retry based on experiment type
-                    if self.config.experiment_type == "variable_persona":
-                        # Fixed category, varying personas → retry with new persona
-                        if current_persona in episode_tried_personas:
-                            untried = [p for p in all_available_personas 
-                                      if p not in episode_tried_personas]
-                            if not untried:
-                                break
-                            current_persona = random.choice(sorted(untried))
-                        episode_tried_personas.add(current_persona)
+                for episode_num, persona_idx, category in episode_plan:
+                    if self.config.debug_mode:
+                        print(f"\n  Episode {episode_num}/{len(episode_plan)}: Persona {persona_idx}, Category {category}")
                     else:
-                        # variable_category or variable_settings → retry with new category
-                        if current_category in episode_tried_categories:
-                            untried = [c for c in all_available_categories 
-                                      if c not in episode_tried_categories and c not in trajectory_tried_categories]
-                            if not untried:
-                                break
-                            
-                            weighted_choices = []
-                            for cat in untried:
-                                cat_prefix = cat.split()[0] if ' ' in cat else cat
-                                if cat_prefix in failed_category_prefixes:
-                                    weighted_choices.extend([cat] * 1)
-                                else:
-                                    weighted_choices.extend([cat] * 9)
-                            
-                            if weighted_choices:
-                                current_category = random.choice(weighted_choices)
-                            else:
-                                current_category = random.choice(sorted(untried))
-                        episode_tried_categories.add(current_category)
+                        print(f"  Episode {episode_num}/{len(episode_plan)}: Persona {persona_idx}, Category {category}")
                     
-                    if retry > 0 and self.config.debug_mode:
+                    result = None
+                    episode_tried_categories = set()
+                    episode_tried_personas = set()
+                    failed_category_prefixes = set()  # Track semantic clusters that failed
+                    current_category = category
+                    current_persona = persona_idx
+                    
+                    from pipeline.core.simulate_interaction import list_categories
+                    all_available_categories = set(list_categories())
+                    
+                    # Get all available personas
+                    from pipeline.core.personas import get_persona_description
+                    max_persona_index = 0
+                    while True:
+                        try:
+                            get_persona_description(max_persona_index)
+                            max_persona_index += 1
+                        except:
+                            break
+                    all_available_personas = set(range(max_persona_index))
+                    
+                    # Determine retry strategy based on experiment type
+                    if self.config.experiment_type == "variable_persona":
+                        max_retries = min(10, len(all_available_personas))
+                    else:  # variable_category or variable_settings
+                        max_retries = min(10, len(all_available_categories))
+                    
+                    for retry in range(max_retries):
+                        # Decide what to retry based on experiment type
                         if self.config.experiment_type == "variable_persona":
-                            print(f"    Retry {retry}: Trying persona {current_persona}")
+                            # Fixed category, varying personas → retry with new persona
+                            if current_persona in episode_tried_personas:
+                                untried = [p for p in all_available_personas 
+                                          if p not in episode_tried_personas]
+                                if not untried:
+                                    break
+                                current_persona = random.choice(sorted(untried))
+                            episode_tried_personas.add(current_persona)
                         else:
-                            print(f"    Retry {retry}: Trying category {current_category}")
-                    
-                    is_relevant, max_score, scores = self._is_category_relevant_for_persona(
-                        current_category, current_persona, seed=trajectory_seed
-                    )
-                    
-                    if not is_relevant:
-                        # Track semantic cluster (first word) of failed category (for category retries)
-                        if self.config.experiment_type != "variable_persona":
-                            category_prefix = current_category.split()[0] if ' ' in current_category else current_category
-                            failed_category_prefixes.add(category_prefix)
+                            # variable_category or variable_settings → retry with new category
+                            if current_category in episode_tried_categories:
+                                untried = [c for c in all_available_categories 
+                                          if c not in episode_tried_categories and c not in trajectory_tried_categories]
+                                if not untried:
+                                    break
+                                
+                                weighted_choices = []
+                                for cat in untried:
+                                    cat_prefix = cat.split()[0] if ' ' in cat else cat
+                                    if cat_prefix in failed_category_prefixes:
+                                        weighted_choices.extend([cat] * 1)
+                                    else:
+                                        weighted_choices.extend([cat] * 9)
+                                
+                                if weighted_choices:
+                                    current_category = random.choice(weighted_choices)
+                                else:
+                                    current_category = random.choice(sorted(untried))
+                            episode_tried_categories.add(current_category)
                         
-                        if self.config.debug_mode:
+                        if retry > 0 and self.config.debug_mode:
                             if self.config.experiment_type == "variable_persona":
-                                print(f"    Persona {current_persona} not interested in {current_category} (max score: {max_score:.1f} < {self.config.min_score_threshold})")
+                                print(f"    Retry {retry}: Trying persona {current_persona}")
                             else:
-                                print(f"    Category {current_category} not relevant for persona {current_persona} (max score: {max_score:.1f} < {self.config.min_score_threshold})")
-                                if self.config.experiment_type != "variable_persona":
-                                    print(f"    Downweighting categories starting with '{category_prefix}'")
-                        continue
-                    
-                    result = self._run_single_episode(episode_num, current_persona, current_category, 
-                                                     cached_scores=scores, trajectory_seed=trajectory_seed,
-                                                     episode_num_in_trajectory=episode_num, trajectory_num=traj_num)
+                                print(f"    Retry {retry}: Trying category {current_category}")
+                        
+                        is_relevant, max_score, scores = self._is_category_relevant_for_persona(
+                            current_category, current_persona, seed=trajectory_seed
+                        )
+                        
+                        if not is_relevant:
+                            # Track semantic cluster (first word) of failed category (for category retries)
+                            if self.config.experiment_type != "variable_persona":
+                                category_prefix = current_category.split()[0] if ' ' in current_category else current_category
+                                failed_category_prefixes.add(category_prefix)
+                            
+                            if self.config.debug_mode:
+                                if self.config.experiment_type == "variable_persona":
+                                    print(f"    Persona {current_persona} not interested in {current_category} (max score: {max_score:.1f} < {self.config.min_score_threshold})")
+                                else:
+                                    print(f"    Category {current_category} not relevant for persona {current_persona} (max score: {max_score:.1f} < {self.config.min_score_threshold})")
+                                    if self.config.experiment_type != "variable_persona":
+                                        print(f"    Downweighting categories starting with '{category_prefix}'")
+                            continue
+                        
+                        result = self._run_single_episode(episode_num, current_persona, current_category, 
+                                                         cached_scores=scores, trajectory_seed=trajectory_seed,
+                                                         episode_num_in_trajectory=episode_num, trajectory_num=traj_num)
+                        
+                        if result:
+                            break
+                        elif self.config.debug_mode:
+                            if self.config.experiment_type == "variable_persona":
+                                print(f"    Episode failed for other reasons, trying another persona...")
+                            else:
+                                print(f"    Episode failed for other reasons, trying another category...")
                     
                     if result:
-                        break
-                    elif self.config.debug_mode:
-                        if self.config.experiment_type == "variable_persona":
-                            print(f"    Episode failed for other reasons, trying another persona...")
-                        else:
-                            print(f"    Episode failed for other reasons, trying another category...")
-                
-                if result:
-                    trajectory_results.append(result)
-                    self.all_results.append(result)
-                    successful_count += 1
-                    
-                    # Track planning episode regret progression
-                    if result.get('planning_mode') and 'regret_progression' in result:
-                        ep_key = f"EP{episode_num}"
-                        self.planning_regret_data[ep_key] = {
-                            f"Q{item['question_number']}": item['regret'] 
-                            for item in result['regret_progression']
-                        }
-                    
-                    if self.config.experiment_type == "variable_category":
-                        if result['category'] not in trajectory_executed_categories:
-                            trajectory_executed_categories.append(result['category'])
-                        if not trajectory_executed_personas:
-                            trajectory_executed_personas.append(result['persona_index'])
-                    elif self.config.experiment_type == "variable_persona":
-                        if result['persona_index'] not in trajectory_executed_personas:
-                            trajectory_executed_personas.append(result['persona_index'])
-                        if not trajectory_executed_categories:
-                            trajectory_executed_categories.append(result['category'])
-                    else:  # variable_settings
-                        if result['category'] not in trajectory_executed_categories:
-                            trajectory_executed_categories.append(result['category'])
-                        if result['persona_index'] not in trajectory_executed_personas:
-                            trajectory_executed_personas.append(result['persona_index'])
-                    
-                    trajectory_tried_categories.add(result['category'])
-                else:
-                    if self.config.debug_mode:
-                        print(f"    Episode {episode_num} failed after {max_retries} attempts")
+                        trajectory_results.append(result)
+                        self.all_results.append(result)
+                        successful_count += 1
+                        
+                        # Track planning episode regret progression
+                        if result.get('planning_mode') and 'regret_progression' in result:
+                            ep_key = f"EP{episode_num}"
+                            self.planning_regret_data[ep_key] = {
+                                f"Q{item['question_number']}": item['regret'] 
+                                for item in result['regret_progression']
+                            }
+                        
+                        # === PERIODIC CHECKPOINT ===
+                        if (self.config.checkpoint_enabled and 
+                            self.config.checkpoint_every_n_episodes and
+                            len(self.all_results) % self.config.checkpoint_every_n_episodes == 0):
+                            self.save_checkpoint(trajectory_idx=actual_traj_idx, reason="periodic")
+                        
+                        if self.config.experiment_type == "variable_category":
+                            if result['category'] not in trajectory_executed_categories:
+                                trajectory_executed_categories.append(result['category'])
+                            if not trajectory_executed_personas:
+                                trajectory_executed_personas.append(result['persona_index'])
+                        elif self.config.experiment_type == "variable_persona":
+                            if result['persona_index'] not in trajectory_executed_personas:
+                                trajectory_executed_personas.append(result['persona_index'])
+                            if not trajectory_executed_categories:
+                                trajectory_executed_categories.append(result['category'])
+                        else:  # variable_settings
+                            if result['category'] not in trajectory_executed_categories:
+                                trajectory_executed_categories.append(result['category'])
+                            if result['persona_index'] not in trajectory_executed_personas:
+                                trajectory_executed_personas.append(result['persona_index'])
+                        
+                        trajectory_tried_categories.add(result['category'])
+                    else:
+                        if self.config.debug_mode:
+                            print(f"    Episode {episode_num} failed after {max_retries} attempts")
             
+            # End of episode loop - save trajectory results
             self.grouped_results[f"trajectory_{traj_num}"] = trajectory_results
             executed_categories_per_traj.append(trajectory_executed_categories)
             executed_personas_per_traj.append(trajectory_executed_personas)
+            
+            # === TRAJECTORY CHECKPOINT ===
+            if self.config.checkpoint_enabled and self.config.checkpoint_after_each_trajectory:
+                self.save_checkpoint(trajectory_idx=actual_traj_idx, reason="trajectory_complete")
+            
+            # Normal completion
+            self.config._used_categories = executed_categories_per_traj if any(executed_categories_per_traj) else None
+            self.config._used_persona_indices = executed_personas_per_traj if any(executed_personas_per_traj) else None
+            
+            return self._save_results()
+            
+        except KeyboardInterrupt:
+            print("\n\n⚠️  Experiment interrupted by user (Ctrl+C)")
+            
+            if self.config.checkpoint_enabled and self.config.checkpoint_on_interrupt and len(self.all_results) > 0:
+                print("💾 Saving interrupt checkpoint...")
+                actual_traj_idx = start_trajectory_idx + len(self.grouped_results) - 1
+                checkpoint_path = self.save_checkpoint(trajectory_idx=actual_traj_idx, reason="interrupt")
+                print(f"✅ Progress saved to: {os.path.basename(checkpoint_path)}")
+                print(f"\nTo resume, add to your config:")
+                print(f"  resume_from_checkpoint: {checkpoint_path}")
+            
+            raise
         
-        self.config._used_categories = executed_categories_per_traj if any(executed_categories_per_traj) else None
-        self.config._used_persona_indices = executed_personas_per_traj if any(executed_personas_per_traj) else None
-        
-        return self._save_results()
+        except Exception as e:
+            print(f"\n❌ Experiment failed with error: {e}")
+            
+            # Emergency checkpoint on crash
+            if self.config.checkpoint_enabled and len(self.all_results) > 0:
+                print("💾 Saving emergency checkpoint...")
+                try:
+                    actual_traj_idx = start_trajectory_idx + len(self.grouped_results) - 1
+                    checkpoint_path = self.save_checkpoint(trajectory_idx=max(0, actual_traj_idx), reason="error")
+                    print(f"✅ Emergency checkpoint saved: {os.path.basename(checkpoint_path)}")
+                except Exception as save_error:
+                    print(f"⚠️  Could not save emergency checkpoint: {save_error}")
+            
+            raise
     
     def _save_results(self) -> Dict[str, Any]:
         """Save experiment results to file."""
