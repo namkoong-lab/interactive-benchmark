@@ -1,0 +1,26 @@
+# Basic Variable Settings Experiment
+# Tests agent's ability to adapt to both changing personas
+# and product categories (full adaptation challenge)
+
+experiment_type: "variable_settings"
+model: "gpt-4o"
+
+# Experiment scale
+total_trajectories: 3
+episodes_per_trajectory: 4
+seeds: [42, 43, 44]
+
+# Agent settings
+max_questions: 8
+context_mode: "raw"
+feedback_type: "persona"
+temperature: 0.7
+
+# Filtering
+min_score_threshold: 60.0
+max_products_per_category: 30
+
+# Output
+output_dir: "results/variable_settings"
+debug_mode: false
+

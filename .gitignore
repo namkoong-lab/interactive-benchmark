@@ -8,3 +8,4 @@ amazon_dataset/benchmark_metadata
 database/*.jsonl
 database/parquet_export/
 experiment_runners/test_results/
+experiment_runners/interactive_results/

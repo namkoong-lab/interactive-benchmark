@@ -6,12 +6,13 @@ interactive_input_file: null
 interactive_output_dir: "interactive_variants"  
 max_questions: 8
 episodes_per_trajectory: 4 
+total_trajectories: 1
 context_mode: "raw"  
 feedback_type: "persona"  
 prompting_tricks: "none"
 min_score_threshold: 60.0
-max_products_per_category: 20
-seeds: [42]  
+max_products_per_category: 50
+seeds: [63737]  
 output_dir: "interactive_results"
 debug_mode: true
 show_product_scores: false

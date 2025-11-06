@@ -280,7 +280,7 @@ class UnifiedExperiment:
             scores = user_model.score_products(category, products)
             if scores:
                 max_score = max(score for _, score in scores)
-                return max_score > self.config.min_score_threshold, max_score, scores
+                return max_score >= self.config.min_score_threshold, max_score, scores
             return False, 0.0, []
         except Exception as e:
             print(f"  Error checking category {category} for persona {persona_index}: {e}")
@@ -762,6 +762,10 @@ class UnifiedExperiment:
         print(f"\n{'='*70}")
         print(f"  INTERACTIVE EPISODE MODE")
         print(f"{'='*70}")
+        
+        base_seed = self.config.get_seeds()[0]
+        random.seed(base_seed)
+        np.random.seed(base_seed)
         
         # Setup output directory
         self.output_path = self.config.get_output_path()

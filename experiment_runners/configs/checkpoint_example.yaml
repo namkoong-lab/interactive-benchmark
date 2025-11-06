@@ -1,0 +1,36 @@
+# Checkpoint Example
+# Long-running experiment with automatic checkpointing
+# for resumption after interruptions or crashes
+
+experiment_type: "variable_category"
+model: "gpt-4o"
+
+# Large-scale experiment
+total_trajectories: 10
+episodes_per_trajectory: 10
+seeds: [42, 43, 44, 45, 46, 47, 48, 49, 50, 51]
+
+# Agent settings
+max_questions: 8
+context_mode: "summary"
+feedback_type: "persona"
+temperature: 0.7
+
+# Filtering
+min_score_threshold: 60.0
+max_products_per_category: 30
+
+# Checkpointing configuration
+checkpoint_enabled: true
+checkpoint_every_n_episodes: 5           # Save every 5 episodes
+checkpoint_after_each_trajectory: true   # Save after each trajectory
+checkpoint_keep_last: 3                  # Keep last 3 checkpoints
+checkpoint_on_interrupt: true            # Emergency save on Ctrl+C
+
+# To resume: uncomment and specify checkpoint path
+# resume_from_checkpoint: "results/checkpointing/checkpoints/checkpoint_traj3_ep15.json"
+
+# Output
+output_dir: "results/checkpointing"
+debug_mode: false
+
