@@ -80,7 +80,7 @@ class UnifiedExperiment:
     # CHECKPOINT METHODS
     # ===================================================================
     
-    def save_checkpoint(self, trajectory_idx: int, reason: str = "periodic") -> str:
+    def save_checkpoint(self, trajectory_idx: int, reason: str = "periodic", trajectory_seed: Optional[int] = None) -> str:
         """
         Save checkpoint of current experiment state.
         
@@ -98,11 +98,17 @@ class UnifiedExperiment:
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         traj_num = trajectory_idx + 1
         ep_num = len(self.all_results)
-        checkpoint_filename = f"checkpoint_traj{traj_num:03d}_ep{ep_num:04d}_{timestamp}.json"
+        seed_str = f"_seed{trajectory_seed}" if trajectory_seed is not None else ""
+        checkpoint_filename = f"checkpoint_traj{traj_num:03d}_{seed_str}_{timestamp}.json"
         checkpoint_path = os.path.join(checkpoint_dir, checkpoint_filename)
-        
+        if reason == "trajectory_complete":
+            completed_trajectories = trajectory_idx + 1
+            next_trajectory_idx = trajectory_idx + 1
+        else: # "periodic", "interrupt", "error"
+            completed_trajectories = trajectory_idx
+            next_trajectory_idx = trajectory_idx
         # Build checkpoint data
-        checkpoint_data = {
+        cumulative_data = {
             "checkpoint_version": "1.0",
             "timestamp": datetime.now().isoformat(),
             "reason": reason,
@@ -110,9 +116,9 @@ class UnifiedExperiment:
             "config": self.config.to_dict_complete(),
             
             "progress": {
-                "completed_trajectories": trajectory_idx if reason == "trajectory_complete" else trajectory_idx,
+                "completed_trajectories": completed_trajectories,
                 "completed_episodes": len(self.all_results),
-                "next_trajectory_idx": trajectory_idx + 1 if reason == "trajectory_complete" else trajectory_idx,
+                "next_trajectory_idx": next_trajectory_idx,
                 "next_episode_num": len(self.all_results) + 1,
             },
             
@@ -120,7 +126,7 @@ class UnifiedExperiment:
             "grouped_results": {str(k): v for k, v in self.grouped_results.items()},
             "planning_regret_data": getattr(self, 'planning_regret_data', {}),
             
-            "agent_state": self._serialize_agent_state(),
+            "agent_state": self._serialize_agent_state(), 
             
             "execution_history": {
                 "trajectory_seeds": getattr(self, 'trajectory_seeds', []),
@@ -131,14 +137,25 @@ class UnifiedExperiment:
             "stats": self._compute_checkpoint_stats()
         }
         
-        # Save checkpoint
-        with open(checkpoint_path, 'w') as f:
-            json.dump(checkpoint_data, f, indent=2)
-        
-        # Also save as latest
         latest_path = os.path.join(checkpoint_dir, "checkpoint_latest.json")
         with open(latest_path, 'w') as f:
-            json.dump(checkpoint_data, f, indent=2)
+            json.dump(cumulative_data, f, indent=2)
+            
+        import copy
+        standalone_data = copy.deepcopy(cumulative_data)
+        
+        traj_key = f"trajectory_{traj_num}"
+        current_traj_results = self.grouped_results.get(traj_key, [])
+        
+        standalone_data["all_results"] = current_traj_results
+        standalone_data["grouped_results"] = {traj_key: current_traj_results}
+        
+        standalone_data["progress"]["completed_trajectories"] = 1 if current_traj_results else 0
+        standalone_data["progress"]["completed_episodes"] = len(current_traj_results)
+        
+        
+        with open(checkpoint_path, 'w') as f:
+            json.dump(standalone_data, f, indent=2)
         
         # Cleanup old checkpoints if configured
         if self.config.checkpoint_keep_last is not None:
@@ -168,13 +185,31 @@ class UnifiedExperiment:
         if checkpoint_data.get("checkpoint_version") != "1.0":
             raise ValueError(f"Incompatible checkpoint version: {checkpoint_data.get('checkpoint_version')}")
         
-        # Restore results
-        self.all_results = checkpoint_data["all_results"]
-        self.grouped_results = {int(k): v for k, v in checkpoint_data["grouped_results"].items()}
-        self.planning_regret_data = checkpoint_data.get("planning_regret_data", {})
+        progress = checkpoint_data["progress"]
+        reason = progress.get("reason", "trajectory_complete")
+        completed_trajectories = progress["completed_trajectories"]
+        next_traj_idx = progress["next_trajectory_idx"]
         
-        # Restore agent state
-        self._restore_agent_state(checkpoint_data["agent_state"])
+        all_results_from_file = checkpoint_data["all_results"]
+        grouped_results_from_file = checkpoint_data["grouped_results"]
+        start_trajectory_idx = 0
+        
+        if reason != "trajectory_complete":            
+            episodes_in_completed_trajs = completed_trajectories * self.config.episodes_per_trajectory
+            
+            self.all_results = all_results_from_file[:episodes_in_completed_trajs]
+            
+            print(f"   Rollback: Interruption detected. Purging {len(all_results_from_file) - len(self.all_results)} orphaned episodes.")
+            
+            start_trajectory_idx = next_traj_idx
+            
+        else:
+            self.all_results = all_results_from_file
+            self.grouped_results = grouped_results_from_file
+            start_trajectory_idx = next_traj_idx
+
+        # self.grouped_results = checkpoint_data["grouped_results"]
+        self.planning_regret_data = checkpoint_data.get("planning_regret_data", {})
         
         # Restore execution history
         exec_history = checkpoint_data.get("execution_history", {})
@@ -182,17 +217,13 @@ class UnifiedExperiment:
         self.executed_categories_per_traj = exec_history.get("executed_categories_per_traj", [])
         self.executed_personas_per_traj = exec_history.get("executed_personas_per_traj", [])
         
-        # Get resume point
-        progress = checkpoint_data["progress"]
-        next_traj_idx = progress["next_trajectory_idx"]
-        
         print(f"✅ Checkpoint loaded:")
         print(f"   Timestamp: {checkpoint_data['timestamp']}")
-        print(f"   Episodes completed: {progress['completed_episodes']}")
-        print(f"   Trajectories completed: {progress['completed_trajectories']}")
-        print(f"   Resuming from trajectory {next_traj_idx + 1}")
+        print(f"   Episodes completed (after rollback): {len(self.all_results)}")
+        print(f"   Trajectories completed: {completed_trajectories}")
+        print(f"   Resuming from trajectory {start_trajectory_idx + 1}")
         
-        return next_traj_idx
+        return start_trajectory_idx
     
     def _serialize_agent_state(self) -> dict:
         """Extract serializable agent state."""
@@ -1119,7 +1150,7 @@ class UnifiedExperiment:
         self.output_path = self.config.get_output_path()
         os.makedirs(self.output_path, exist_ok=True)
         self.config.to_json(os.path.join(self.output_path, "config.json"))
-        self.agent = self._create_agent()
+        # self.agent = self._create_agent()
         
         # === CHECKPOINT LOADING ===
         start_trajectory_idx = 0
@@ -1154,8 +1185,24 @@ class UnifiedExperiment:
         
         try:
             for traj_idx, (traj_num, categories, personas, episode_plan) in enumerate(trajectories):
-                # Adjust trajectory index if resuming
                 actual_traj_idx = start_trajectory_idx + traj_idx
+                self.agent = self._create_agent()
+                
+                if hasattr(self, 'restored_agent_state') and self.restored_agent_state:
+                    
+                    resume_traj_idx = getattr(self, 'resume_progress', {}).get('next_trajectory_idx', 0)
+                    resume_reason = getattr(self, 'resume_progress', {}).get('reason', 'trajectory_complete')
+                    
+                    
+                    
+                    if actual_traj_idx == resume_traj_idx and resume_reason != "trajectory_complete":
+                        print(f"   Resuming agent state for in-progress trajectory {actual_traj_idx + 1}...")
+                        self._restore_agent_state(self.restored_agent_state)
+                    
+                    self.restored_agent_state = None
+                    self.resume_progress = None
+                # Adjust trajectory index if resuming
+                # actual_traj_idx = start_trajectory_idx + traj_idx
                 trajectory_seed = self.trajectory_seeds[traj_idx] if traj_idx < len(self.trajectory_seeds) else None
                 if trajectory_seed is not None:
                     random.seed(trajectory_seed)
@@ -1293,7 +1340,7 @@ class UnifiedExperiment:
                         if (self.config.checkpoint_enabled and 
                             self.config.checkpoint_every_n_episodes and
                             len(self.all_results) % self.config.checkpoint_every_n_episodes == 0):
-                            self.save_checkpoint(trajectory_idx=actual_traj_idx, reason="periodic")
+                            self.save_checkpoint(trajectory_idx=actual_traj_idx, reason="periodic",trajectory_seed=trajectory_seed)
                         
                         if self.config.experiment_type == "variable_category":
                             if result['category'] not in trajectory_executed_categories:
@@ -1323,7 +1370,7 @@ class UnifiedExperiment:
                 
                 # === TRAJECTORY CHECKPOINT ===
                 if self.config.checkpoint_enabled and self.config.checkpoint_after_each_trajectory:
-                    self.save_checkpoint(trajectory_idx=actual_traj_idx, reason="trajectory_complete")
+                    self.save_checkpoint(trajectory_idx=actual_traj_idx, reason="trajectory_complete",trajectory_seed=trajectory_seed)
             
             # All trajectories complete - save results
             self.config._used_categories = executed_categories_per_traj if any(executed_categories_per_traj) else None
@@ -1336,8 +1383,8 @@ class UnifiedExperiment:
             
             if self.config.checkpoint_enabled and self.config.checkpoint_on_interrupt and len(self.all_results) > 0:
                 print("💾 Saving interrupt checkpoint...")
-                actual_traj_idx = start_trajectory_idx + len(self.grouped_results) - 1
-                checkpoint_path = self.save_checkpoint(trajectory_idx=actual_traj_idx, reason="interrupt")
+                # actual_traj_idx = start_trajectory_idx + len(self.grouped_results) - 1
+                checkpoint_path = self.save_checkpoint(trajectory_idx=actual_traj_idx, reason="interrupt",trajectory_seed=trajectory_seed)
                 print(f"✅ Progress saved to: {os.path.basename(checkpoint_path)}")
                 print(f"\nTo resume, add to your config:")
                 print(f"  resume_from_checkpoint: {checkpoint_path}")
@@ -1351,8 +1398,8 @@ class UnifiedExperiment:
             if self.config.checkpoint_enabled and len(self.all_results) > 0:
                 print("💾 Saving emergency checkpoint...")
                 try:
-                    actual_traj_idx = start_trajectory_idx + len(self.grouped_results) - 1
-                    checkpoint_path = self.save_checkpoint(trajectory_idx=max(0, actual_traj_idx), reason="error")
+                    # actual_traj_idx = start_trajectory_idx + len(self.grouped_results) - 1
+                    checkpoint_path = self.save_checkpoint(trajectory_idx=max(0, actual_traj_idx), reason="error",trajectory_seed=trajectory_seed)
                     print(f"✅ Emergency checkpoint saved: {os.path.basename(checkpoint_path)}")
                 except Exception as save_error:
                     print(f"⚠️  Could not save emergency checkpoint: {save_error}")
