@@ -103,6 +103,28 @@ def list_providers():
     """
     return _registry.list_providers()
 
+def get_total_usage_stats() -> dict:
+    """
+    Get cumulative usage stats from ALL registered providers.
+    """
+    total_stats = {"input_tokens": 0, "output_tokens": 0}
+    
+    # _registry 是在第 58 行创建的 ProviderRegistry 实例
+    # 根据 registry.py，provider 列表存储在 ._providers 属性中
+    
+    if not hasattr(_registry, '_providers'):
+        print("Warning: Cannot get token stats. ProviderRegistry (in registry.py) "
+              "does not have a '_providers' attribute to iterate over.")
+        return total_stats
+        
+    # 遍历注册表中的所有 provider 实例
+    for provider in _registry._providers:
+        if hasattr(provider, 'get_usage_stats'):
+            stats = provider.get_usage_stats() #
+            total_stats["input_tokens"] += stats.get("input_tokens", 0)
+            total_stats["output_tokens"] += stats.get("output_tokens", 0)
+            
+    return total_stats
 
-__all__ = ['chat_completion', 'set_debug_mode', 'list_providers']
+__all__ = ['chat_completion', 'set_debug_mode', 'list_providers', 'get_total_usage_stats']
 

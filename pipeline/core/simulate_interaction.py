@@ -606,7 +606,7 @@ def score_products_for_persona(persona_description: str, category: str, products
         return out
 
     openai_model = "gpt-4o"
-    gemini_model = "gemini-2.0-flash-exp"
+    gemini_model = "gemini-2.5-flash"
 
     scores_openai: Dict[int, Tuple[float, str]] = {}
     scores_gemini: Dict[int, Tuple[float, str]] = {}

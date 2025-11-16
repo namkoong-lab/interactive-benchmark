@@ -96,7 +96,7 @@ def inspect_checkpoint(checkpoint_file: str):
     except Exception as e:
         print(f"Error reading checkpoint: {e}")
 
-def clean_old_checkpoints(output_dir: str = "experiment1_results_with_checkpoints", keep_last: int = 5):
+def clean_old_checkpoints(output_dir: str = "experiment1_results_with_checkpoints", keep_last: int = 1000):
     """Clean old checkpoints, keeping only the most recent ones."""
     if not os.path.exists(output_dir):
         print(f"Output directory {output_dir} does not exist")

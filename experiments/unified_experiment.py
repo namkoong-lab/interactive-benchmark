@@ -158,8 +158,8 @@ class UnifiedExperiment:
             json.dump(standalone_data, f, indent=2)
         
         # Cleanup old checkpoints if configured
-        if self.config.checkpoint_keep_last is not None:
-            self._cleanup_old_checkpoints(checkpoint_dir)
+        # if self.config.checkpoint_keep_last is not None:
+        #     self._cleanup_old_checkpoints(checkpoint_dir)
         
         if self.config.debug_mode:
             print(f"💾 Checkpoint saved: {checkpoint_filename} (reason: {reason})")
@@ -1424,6 +1424,15 @@ class UnifiedExperiment:
             'avg_score': float(np.mean(episode_scores)) if episode_scores else 0.0,
             'regret_std': float(np.std(episode_regrets)) if episode_regrets else 0.0
         }
+        token_usage_stats = None
+        try:
+            if hasattr(llm_providers, 'get_total_usage_stats'):
+                token_usage_stats = llm_providers.get_total_usage_stats()
+                summary['token_usage'] = token_usage_stats  
+        except Exception as e:
+            if self.config.debug_mode:
+                print(f"   Warning: Could not retrieve token usage: {e}")
+        
         
         trajectory_stats = []
         for traj_key, traj_results in self.grouped_results.items():
@@ -1499,7 +1508,8 @@ class UnifiedExperiment:
             }
             if self.planning_regret_data:
                 summary_data['planning_regret_progression'] = self.planning_regret_data
-            
+            if token_usage_stats:
+                summary_data['token_usage'] = token_usage_stats
             summary_file = os.path.join(self.output_path, "results_summary.json")
             with open(summary_file, 'w') as f:
                 json.dump(summary_data, f, indent=2)
@@ -1510,6 +1520,11 @@ class UnifiedExperiment:
             print(f"Total episodes: {len(self.all_results)}")
             print(f"Average regret: {summary['avg_regret']:.2f}")
             print(f"Average score: {summary['avg_score']:.2f}")
+            
+            if token_usage_stats:
+                print(f"Token Usage (Input):  {token_usage_stats['input_tokens']}")
+                print(f"Token Usage (Output): {token_usage_stats['output_tokens']}")
+                
             print(f"\nFiles saved:")
             print(f"  - Config:           {config_file}")
             print(f"  - Full results:     {results_file}")
@@ -1527,12 +1542,18 @@ class UnifiedExperiment:
             }
             if self.planning_regret_data:
                 results_data['planning_regret_progression'] = self.planning_regret_data
-            
+            if token_usage_stats:
+                results_data['token_usage'] = token_usage_stats
             results_file = os.path.join(self.output_path, "results.json")
             with open(results_file, 'w') as f:
                 json.dump(results_data, f, indent=2)
             
             print(f"\n✅ Experiment complete!")
+            
+            # if token_usage_stats:
+            print(f"Token Usage (Input):  {token_usage_stats['input_tokens']}")
+            print(f"Token Usage (Output): {token_usage_stats['output_tokens']}")
+                
             print(f"Files saved:")
             print(f"  - Config:   {config_file}")
             print(f"  - Results:  {results_file}")
