@@ -24,6 +24,11 @@ class GeminiProvider(BaseLLMProvider):
     def __init__(self):
         self._configured = False
         self._debug_mode = False
+        self.total_usage_stats = {"input_tokens": 0, "output_tokens": 0}
+        
+    def get_usage_stats(self) -> Dict[str, int]:
+        """Returns the cumulative token usage."""
+        return self.total_usage_stats
     
     def get_provider_name(self) -> str:
         return "gemini"
@@ -99,7 +104,15 @@ class GeminiProvider(BaseLLMProvider):
                 contents,
                 generation_config=generation_config,
             )
-            
+            if hasattr(resp, 'usage_metadata'):
+                input_tokens = resp.usage_metadata.prompt_token_count
+                output_tokens = resp.usage_metadata.candidates_token_count
+                self.total_usage_stats["input_tokens"] += input_tokens
+                self.total_usage_stats["output_tokens"] += output_tokens
+                
+                if self._debug_mode:
+                    print(f"[DEBUG] Gemini Usage (Current): Input={input_tokens}, Output={output_tokens}")
+                    print(f"[DEBUG] Gemini Usage (Total): Input={self.total_usage_stats['input_tokens']}, Output={self.total_usage_stats['output_tokens']}")
             # Extract text (handle various response formats)
             try:
                 candidates = getattr(resp, "candidates", []) or []

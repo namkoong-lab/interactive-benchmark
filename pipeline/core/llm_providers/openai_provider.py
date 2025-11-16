@@ -17,6 +17,11 @@ class OpenAIProvider(BaseLLMProvider):
     def __init__(self):
         self.client: Optional[OpenAI] = None
         self._debug_mode: bool = False
+        self.total_usage_stats = {"input_tokens": 0, "output_tokens": 0}
+        
+    def get_usage_stats(self) -> Dict[str, int]:
+        """Returns the cumulative token usage."""
+        return self.total_usage_stats
     
     def get_provider_name(self) -> str:
         return "openai"
@@ -67,11 +72,21 @@ class OpenAIProvider(BaseLLMProvider):
                 print(f"[DEBUG] OpenAI request: model={model}, messages={len(messages)}, json_mode={json_mode}")
             
             resp = self.client.chat.completions.create(**kwargs)
+            if resp.usage:
+                input_tokens = resp.usage.prompt_tokens
+                output_tokens = resp.usage.completion_tokens
+                self.total_usage_stats["input_tokens"] += input_tokens
+                self.total_usage_stats["output_tokens"] += output_tokens
+                
+                if self._debug_mode:
+                    print(f"[DEBUG] OpenAI Usage (Current): Input={input_tokens}, Output={output_tokens}")
+                    print(f"[DEBUG] OpenAI Usage (Total): Input={self.total_usage_stats['input_tokens']}, Output={self.total_usage_stats['output_tokens']}")
+            
             content = resp.choices[0].message.content
             if content is None:
                 raise ValueError("OpenAI returned None for message content")
             return content.strip()
-        
+            
         return retry_with_backoff(_make_request, max_retries=5, base_delay=1.0, max_delay=60.0)
     
     def supports_json_mode(self) -> bool:
