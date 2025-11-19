@@ -196,16 +196,28 @@ class RecoEnv(gym.Env):
             
             terminated = True
             truncated = False
+            top3_pids = [pid for pid, _ in self.oracle_scores[:3]]
+            top5_pids = [pid for pid, _ in self.oracle_scores[:5]]
             
+            actual_rank = -1  # Default if not found
+            if self.oracle_scores:
+                for i, (pid, score) in enumerate(self.oracle_scores):
+                    if pid == chosen_product_id:
+                        actual_rank = i + 1  # 1-indexed rank
+                        break
             info = {
                 "action_type": "recommend",
                 "chosen_product_id": chosen_product_id,
                 "chosen_score": chosen_score,
                 "best_product_id": best_id,
                 "best_score": best_score,
+                
                 "regret": regret,
-                "top1": chosen_product_id == best_id,
-                "top3": chosen_product_id in [pid for pid, _ in self.oracle_scores[:3]],
+                "Actual Rank": actual_rank,
+                "Probability Favourite": chosen_product_id == best_id,  # (This is top-1)
+                "Probability Top-3": chosen_product_id in [pid for pid, _ in self.oracle_scores[:3]],
+                "Probability Top-5": chosen_product_id in top5_pids,
+                
                 "questions_asked": len(self.dialog_history),
                 "feedback": feedback,
                 "feedback_type": self.feedback_system.get_feedback_type(),

@@ -126,22 +126,38 @@ class UnifiedAgent:
             dialog_history = self.current_env.dialog_history
         
         # PLANNING MODE: Must ask all questions
-        if self.force_all_questions:
+        # if self.force_all_questions:
+        #     if len(dialog_history) >= self.max_questions:
+        #         return self._force_recommendation(obs, info, dialog_history, category, num_products)
+        #     else:
+        #         # Planning mode: always ask question
+        #         # if self.is_tracking_episode:
+        #         return self._ask_question_only(obs, info, dialog_history, category, num_products)
+        #         # else:
+        #         #     return self._llm_decide_action(obs, info, dialog_history, category, num_products)
+        if self.is_tracking_episode:
             if len(dialog_history) >= self.max_questions:
                 return self._force_recommendation(obs, info, dialog_history, category, num_products)
             else:
-                # Planning mode: always ask question
-                if self.is_tracking_episode:
-                    return self._ask_question_only(obs, info, dialog_history, category, num_products)
-                else:
-                    return self._llm_decide_action(obs, info, dialog_history, category, num_products)
-        
-        # VARIABLE MODE: Can stop early
+                return self._ask_question_only(obs, info, dialog_history, category, num_products)
+
+        elif self.force_all_questions:
+            if len(dialog_history) >= self.max_questions:
+                return self._force_recommendation(obs, info, dialog_history, category, num_products)
+            else:
+                return self._ask_question_only(obs, info, dialog_history, category, num_products)
+
         else:
             if len(dialog_history) >= self.max_questions:
                 return self._force_recommendation(obs, info, dialog_history, category, num_products)
             else:
                 return self._llm_decide_action(obs, info, dialog_history, category, num_products)
+        # VARIABLE MODE: Can stop early
+        # else:
+        #     if len(dialog_history) >= self.max_questions:
+        #         return self._force_recommendation(obs, info, dialog_history, category, num_products)
+        #     else:
+        #         return self._llm_decide_action(obs, info, dialog_history, category, num_products)
     
     def _ask_question_only(self, obs, info, dialog_history, category, num_products):
         """Ask question without recommendation option (for regret tracking)."""
@@ -183,7 +199,7 @@ Your question:"""
         
         if self.verbose:
             print(f"Question-only response: {response}")
-        
+        self.last_response = response.strip()
         return num_products  # Always ask question
     
     def _llm_decide_action(self, obs, info, dialog_history, category, num_products, current_persona=None):
@@ -303,7 +319,152 @@ Consider future question value, not just immediate gain.
             if current_persona and category:
                 return f"=== PREVIOUS EPISODES ===\nCurrent: Customer #{current_persona}, {category}"
             return "=== PREVIOUS EPISODES ==="
-    
+        
+    def _make_recommendation_with_confidence(self, obs: Dict[str, np.ndarray], info: Dict[str, Any], 
+                                           dialog_history: List[Tuple[str, str]], category: str, num_products: int) -> Tuple[int, Dict[str, float]]:
+        """Make recommendation with confidence scores for tracking episodes."""
+        products = self._get_product_info(obs, info, num_products)
+        context = self._build_llm_context(products, dialog_history, category)
+        feedback_context = self._build_feedback_context(category)
+        
+        base_prompt = f"""You are a product recommendation agent for {category} products.
+
+Context:
+{context}
+
+{feedback_context}
+
+Task:
+Based on the information you've gathered so far, make a recommendation and provide confidence scores about the potential regret. Regret is the score difference between the best possible product and the one you recommend (0 = perfect choice).
+
+Output format (MUST be exactly as shown, no extra text):
+RECOMMEND: <number 0-{num_products-1}>
+CONFIDENCE_FAVORITE: <probability 0.0-1.0 that this is the user's #1 favorite>
+CONFIDENCE_TOP5: <probability 0.0-1.0 that this is in the user's top 5>
+PREDICTED_REGRET: <your single most likely prediction for the regret value, 0.0-100.0>
+CONFIDENCE_REGRET_WITHIN_5: <probability 0.0-1.0 that the actual regret is within 5 of your prediction>
+CONFIDENCE_REGRET_WITHIN_10: <probability 0.0-1.0 that the actual regret is within 10 of your prediction>
+CONFIDENCE_REGRET_WITHIN_20: <probability 0.0-1.0 that the actual regret is within 20 of your prediction>
+CONFIDENCE_REGRET_WITHIN_30: <probability 0.0-1.0 that the actual regret is within 30 of your prediction>
+
+Rules:
+- Choose the product that best matches the user's expressed preferences.
+- All probability values must be between 0.0 and 1.0.
+- All values must be numeric, no explanations."""
+
+        try:
+            response = chat_completion(
+                messages=[{"role": "user", "content": base_prompt}],
+                model=self.model,
+                temperature=0.2,
+                max_tokens=300
+            )
+            
+            self.last_response = response.strip()
+            print("\n---- RAW LLM RESPONSE FOR CONFIDENCE SCORES ----")
+            print(self.last_response)
+            print("-------------------------------------------------\n")
+            # Parse recommendation and confidence scores
+            product_idx = 0
+            confidence_scores = {
+                'confidence_favorite_prob': 0.0,
+                'confidence_top5_prob': 0.0,
+                'predicted_regret': 0.0,
+                'confidence_regret_within_5': 0.0,
+                'confidence_regret_within_10': 0.0,
+                'confidence_regret_within_20': 0.0,
+                'confidence_regret_within_30': 0.0,
+            }
+            
+            lines = response.strip().split('\n')
+            for line in lines:
+                line = line.strip()
+                if line.startswith("RECOMMEND:"):
+                    try:
+                        product_idx = int(line.split(":")[-1].strip())
+                        if not (0 <= product_idx < num_products):
+                            product_idx = 0
+                    except (ValueError, IndexError):
+                        product_idx = 0
+                elif line.startswith("CONFIDENCE_FAVORITE:"):
+                    try:
+                        confidence_scores['confidence_favorite_prob'] = float(line.split(":")[-1].strip())
+                    except (ValueError, IndexError):
+                        pass
+                elif line.startswith("CONFIDENCE_TOP5:"):
+                    try:
+                        confidence_scores['confidence_top5_prob'] = float(line.split(":")[-1].strip())
+                    except (ValueError, IndexError):
+                        pass
+                elif line.startswith("PREDICTED_REGRET:"):
+                    try:
+                        confidence_scores['predicted_regret'] = float(line.split(":")[-1].strip())
+                    except (ValueError, IndexError):
+                        pass
+                elif line.startswith("CONFIDENCE_REGRET_WITHIN_5:"):
+                    try:
+                        confidence_scores['confidence_regret_within_5'] = float(line.split(":")[-1].strip())
+                    except (ValueError, IndexError):
+                        pass
+                elif line.startswith("CONFIDENCE_REGRET_WITHIN_10:"):
+                    try:
+                        confidence_scores['confidence_regret_within_10'] = float(line.split(":")[-1].strip())
+                    except (ValueError, IndexError):
+                        pass
+                elif line.startswith("CONFIDENCE_REGRET_WITHIN_20:"):
+                    try:
+                        confidence_scores['confidence_regret_within_20'] = float(line.split(":")[-1].strip())
+                    except (ValueError, IndexError):
+                        pass
+                elif line.startswith("CONFIDENCE_REGRET_WITHIN_30:"):
+                    try:
+                        confidence_scores['confidence_regret_within_30'] = float(line.split(":")[-1].strip())
+                    except (ValueError, IndexError):
+                        pass
+
+            # Clamp confidence values to valid ranges
+            confidence_scores['confidence_favorite_prob'] = max(0.0, min(1.0, confidence_scores['confidence_favorite_prob']))
+            confidence_scores['confidence_top5_prob'] = max(0.0, min(1.0, confidence_scores['confidence_top5_prob']))
+            confidence_scores['predicted_regret'] = max(0.0, min(100.0, confidence_scores['predicted_regret']))
+            confidence_scores['confidence_regret_within_5'] = max(0.0, min(1.0, confidence_scores['confidence_regret_within_5']))
+            confidence_scores['confidence_regret_within_10'] = max(0.0, min(1.0, confidence_scores['confidence_regret_within_10']))
+            confidence_scores['confidence_regret_within_20'] = max(0.0, min(1.0, confidence_scores['confidence_regret_within_20']))
+            confidence_scores['confidence_regret_within_30'] = max(0.0, min(1.0, confidence_scores['confidence_regret_within_30']))
+            
+            return product_idx, confidence_scores
+            
+        except Exception as e:
+            print(f"Error making recommendation with confidence: {e}")
+            return 0, {
+                'confidence_favorite_prob': 0.0,
+                'confidence_top5_prob': 0.0,
+                'predicted_regret': 0.0,
+                'confidence_regret_within_5': 0.0,
+                'confidence_regret_within_10': 0.0,
+                'confidence_regret_within_20': 0.0,
+                'confidence_regret_within_30': 0.0,
+            }    
+            
+    def _get_product_info(self, obs: Dict[str, np.ndarray], info: Dict[str, Any], num_products: int) -> List[Dict]:
+        """Extract product information from observation."""
+        products = []
+        product_descriptions = info.get('product_descriptions', [])
+        
+        for i in range(num_products):
+            if i < obs['product_features'].shape[0]:
+                features = obs['product_features'][i]
+                product = {
+                    'id': info.get('product_ids', [])[i] if i < len(info.get('product_ids', [])) else i,
+                    'price': float(features[0]) if not np.isnan(features[0]) else 0.0,
+                    'store_hash': int(features[1]) if not np.isnan(features[1]) else 0,
+                    'title_length': int(features[2]) if not np.isnan(features[2]) else 0,
+                    'features': [float(f) for f in features[3:] if not np.isnan(f)],
+                    'description': product_descriptions[i] if i < len(product_descriptions) else "No description available"
+                }
+                products.append(product)
+        
+        return products
+
     def _get_summary_focus_instructions(self):
         """Summary focus based on what varies."""
         

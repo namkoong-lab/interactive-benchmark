@@ -457,7 +457,11 @@ class UnifiedExperiment:
         """Check if this episode should use planning mode (regret tracking)."""
         if self.config.planning_mode == "none":
             return False
-        return (episode_num_in_trajectory - 1) % self.config.planning_interval == 0
+        if episode_num_in_trajectory == 1:
+            return True  
+        if self.config.planning_interval <= 0:
+            return False           
+        return (episode_num_in_trajectory % self.config.planning_interval == 0)
     
     def _get_planning_strategy(self) -> str:
         """Get strategy name for planning episodes."""
@@ -593,12 +597,10 @@ class UnifiedExperiment:
         Run a planning episode with regret tracking after each question.
         
         Flow:
-        1. Ask Question 1 → Get intermediate recommendation → Track regret (hidden from agent)
-        2. Ask Question 2 → Get intermediate recommendation → Track regret (hidden from agent)
+        1. Ask Question 1 → Get intermediate recommendation + confidence → Track metrics (hidden from agent)
+        2. Ask Question 2 → Get intermediate recommendation + confidence → Track metrics (hidden from agent)
         ...
-        N. Ask Question N → Get final recommendation → Track regret + Give feedback
-        
-        The agent doesn't know about intermediate recommendations and only gets feedback for the final one.
+        N. Ask Question N → Get final recommendation → Track metrics + Give feedback
         """
         if self.config.debug_mode:
             strategy_name = self._get_planning_strategy()
@@ -628,66 +630,92 @@ class UnifiedExperiment:
                 debug_mode=self.config.debug_mode
             )
             
-            # Include trajectory number in filename to prevent collisions across trajectories
             filename = f"trajectory_{trajectory_num}_episode_{episode_num}_planning.jsonl" if trajectory_num else f"episode_{episode_num}_planning.jsonl"
             metrics_wrapper = MetricsWrapper(env, output_path=os.path.join(self.output_path, filename))
             obs, info = metrics_wrapper.reset()
             self.agent.current_env = env
             
-            # Regret progression tracking
             regret_progression = []
+            rank_progression = []
+            confidence_progression = []
+            
             question_count = 0
             terminated = False
             truncated = False
             num_products = len(env.products) if hasattr(env, 'products') else 0
             
-            # Planning mode: Force agent to ask max_questions, secretly track recommendations
+            # Planning mode: Force agent to ask max_questions
             while question_count < self.config.max_questions and not terminated and not truncated:
-                # Let agent choose action, but override if it tries to recommend early
-                action = self.agent.get_action(obs, info)
+                # 1. AGENT ASKS A QUESTION (Forced)
+                action_ask = num_products
+                self.agent.set_tracking_episode(True) 
+                _ = self.agent.get_action(obs, info) 
+                self.agent.set_tracking_episode(False)
                 
-                if action < num_products:  # Agent wants to recommend
-                    action = num_products  # Force ask question instead
-                
-                # Execute the question
-                obs, reward, terminated, truncated, info = metrics_wrapper.step(action)
+                # 2. ENVIRONMENT RESPONDS
+                obs, reward, terminated, truncated, info = metrics_wrapper.step(action_ask)
                 question_count += 1
                 
                 if self.config.debug_mode:
                     print(f"  Step {question_count}: Asked question")
                 
-                # Secretly ask agent for recommendation (agent doesn't remember this)
-                intermediate_recommendation = self._get_intermediate_recommendation(env, obs, info)
+                # --- START: NEW METRIC LOGGING BLOCK ---
                 
-                if intermediate_recommendation is not None:
-                    # Calculate regret for this hidden recommendation
-                    best_score = max(score for _, score in env.oracle_scores) if hasattr(env, 'oracle_scores') else 0
-                    recommended_product_id = env.products[intermediate_recommendation]['id']
-                    recommended_score = 0
-                    for pid, score in env.oracle_scores:
-                        if pid == recommended_product_id:
-                            recommended_score = score
-                            break
-                    
-                    intermediate_regret = best_score - recommended_score
-                    regret_progression.append({
-                        'question_number': question_count,
-                        'recommended_product_id': recommended_product_id,
-                        'recommended_score': recommended_score,
-                        'best_score': best_score,
-                        'regret': intermediate_regret
-                    })
-                    
-                    if self.config.debug_mode:
-                        print(f"    → Hidden recommendation: Product {recommended_product_id}, Regret: {intermediate_regret:.1f}")
-            
-            # After max_questions, let agent make FINAL recommendation
-            final_action = self.agent.get_action(obs, info)
-            if final_action >= num_products:
-                final_action = 0  # Fallback
+                # 3. GET INTERMEDIATE RECOMMENDATION AND BELIEFS
+                intermediate_recommendation_idx, current_belief_state = self.agent._make_recommendation_with_confidence(
+                    obs, info, env.dialog_history, category, num_products
+                )
+                confidence_progression.append(current_belief_state)
+
+                # 4. GET GROUND-TRUTH (FACTS) FOR THIS RECOMMENDATION
+                best_id, best_score = env.oracle_scores[0] if hasattr(env, 'oracle_scores') and env.oracle_scores else (None, 0)
+                recommended_product_id = -1
+                recommended_score = 0.0
+                intermediate_regret = best_score 
+                intermediate_rank = -1
+
+                if intermediate_recommendation_idx is not None and hasattr(env, 'products') and intermediate_recommendation_idx < len(env.products):
+                    try:
+                        recommended_product_id = env.products[intermediate_recommendation_idx]['id']
+                        for i, (pid, score) in enumerate(env.oracle_scores):
+                            if pid == recommended_product_id:
+                                recommended_score = score
+                                intermediate_rank = i + 1 # 1-indexed rank
+                                break
+                        intermediate_regret = max(0.0, best_score - recommended_score)
+                    except Exception as e:
+                        if self.config.debug_mode:
+                            print(f"    [WARN] Error calculating intermediate stats: {e}")
+
+                # 5. LOG GROUND-TRUTH (FACTS)
+                regret_progression.append({
+                    'question_number': question_count,
+                    'recommended_product_id': recommended_product_id,
+                    'recommended_score': recommended_score,
+                    'best_score': best_score,
+                    'regret': intermediate_regret # Factual Regret
+                })
+                
+                rank_progression.append({
+                    'question_number': question_count,
+                    'recommended_product_id': recommended_product_id,
+                    'actual_rank': intermediate_rank # Factual Rank
+                })
+                
+                # 6. PRINT LOG (FACTS vs BELIEFS)
+                if self.config.debug_mode:
+                    print(f"    → Hidden Rec (Q{question_count}): Rank {intermediate_rank}, Fact Regret: {intermediate_regret:.1f}")
+                    if current_belief_state:
+                         print(f"    → Agent Belief: Predicted Regret: {current_belief_state.get('predicted_regret', 0):.1f}, Conf (Fav): {current_belief_state.get('confidence_favorite_prob', 0):.1%}")
+
+
+            # After max_questions, get FINAL recommendation
+            final_action_idx, final_beliefs = self.agent._make_recommendation_with_confidence(
+                obs, info, env.dialog_history, category, num_products
+            )
             
             # Execute final recommendation and give feedback
-            obs, reward, terminated, truncated, info = metrics_wrapper.step(final_action)
+            obs, reward, terminated, truncated, info = metrics_wrapper.step(final_action_idx)
             
             if self.config.debug_mode:
                 print(f"  Final Recommendation: Product {info.get('chosen_product_id')}")
@@ -714,6 +742,23 @@ class UnifiedExperiment:
                         })
             
             if info.get('action_type') == 'recommend' and 'chosen_score' in info:
+                
+                regret_progression.append({
+                    'question_number': question_count + 1, # (Final rec step)
+                    'recommended_product_id': info.get('chosen_product_id'),
+                    'recommended_score': info.get('chosen_score'),
+                    'best_score': info.get('best_score'),
+                    'regret': info.get('regret', 0) 
+                })
+                
+                rank_progression.append({
+                    'question_number': question_count + 1,
+                    'recommended_product_id': info.get('chosen_product_id'),
+                    'actual_rank': info.get('Actual Rank', -1) 
+                })
+                
+                confidence_progression.append(final_beliefs)
+
                 episode_result = {
                     'episode': episode_num,
                     'trajectory': f"trajectory_{trajectory_num}" if trajectory_num else "unknown",
@@ -726,7 +771,9 @@ class UnifiedExperiment:
                     'full_dialog': full_dialog,
                     'product_info': product_info,
                     'planning_mode': True,
-                    'regret_progression': regret_progression  # Track how regret improves with more questions
+                    'regret_progression': regret_progression,
+                    'rank_progression': rank_progression,
+                    'confidence_progression': confidence_progression
                 }
                 
                 self.agent.update_preferences(episode_result)
@@ -745,8 +792,9 @@ class UnifiedExperiment:
         finally:
             # Restore original strategy
             self.agent.strategy = original_strategy
-    
+                
     def _get_intermediate_recommendation(self, env, obs, info):
+        
         """
         Get agent's actual recommendation using its real decision-making logic.
         Saves and restores agent state to make this transparent (agent doesn't remember).
