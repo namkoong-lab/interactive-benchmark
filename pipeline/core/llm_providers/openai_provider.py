@@ -31,7 +31,11 @@ class OpenAIProvider(BaseLLMProvider):
         # OpenAI handles: gpt-*, o1-*, or anything not matching other providers
         return not (
             model.startswith("gemini-") or 
-            model.startswith("claude-")
+            model.startswith("claude-") or
+            model.startswith("qwen-") or       
+            model.startswith("deepseek-") or   
+            model.startswith("moonshot-") or   
+            model.startswith("kimi-")          
         )
     
     def initialize(self) -> None:

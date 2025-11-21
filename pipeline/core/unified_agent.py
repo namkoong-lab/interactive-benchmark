@@ -357,7 +357,7 @@ Rules:
                 messages=[{"role": "user", "content": base_prompt}],
                 model=self.model,
                 temperature=0.2,
-                max_tokens=300
+                max_tokens=2048
             )
             
             self.last_response = response.strip()
@@ -859,61 +859,54 @@ Your response:"""
                 messages=[{"role": "user", "content": unified_prompt}],
                 model=self.model,
                 temperature=0.4,
-                max_tokens=200
+                max_tokens=4096 
             )
             
-            self.last_response = response.strip()
-            response_text = response.strip()
+            raw_text = response.strip()
             
-            if "QUESTION:" in response_text:
-                return num_products
-            elif "RECOMMEND:" in response_text:
-                # Store final recommendation prompt
-                self.current_episode_prompts['recommendation_prompt'] = unified_prompt
-                try:
-                    rec_part = response_text.split("RECOMMEND:")[-1].strip()
-                    numbers = re.findall(r'\d+', rec_part)
-                    if numbers:
-                        recommended_id = int(numbers[0])
-                        
-                        # Map product ID to index
-                        product_index = None
-                        for i, product in enumerate(products):
-                            if product['id'] == recommended_id:
-                                product_index = i
-                                break
-                        
-                        if product_index is not None:
-                            return product_index
-                        else:
-                            # Show available product IDs for debugging
-                            available_ids = [p['id'] for p in products[:10]]  # Show first 10
-                            raise ValueError(
-                                f"Agent recommended product ID {recommended_id} which is not in the available product list.\n"
-                                f"Available product IDs (first 10): {available_ids}..."
-                            )
-                    else:
-                        raise ValueError(
-                            f"Agent said 'RECOMMEND:' but no product ID found in: {rec_part[:100]}"
-                        )
-                except (ValueError, IndexError) as e:
-                    print(f"\n{'='*80}")
-                    print("AGENT RECOMMENDATION ERROR")
-                    print(f"{'='*80}")
-                    print(f"Agent response: {response_text}")
-                    print(f"Error: {e}")
-                    print(f"{'='*80}\n")
-                    raise
+            clean_text = re.sub(r'<think>.*?</think>', '', raw_text, flags=re.DOTALL).strip()
+            clean_text = clean_text.replace('**', '').replace('__', '')
+            
+            self.last_response = clean_text if clean_text else raw_text
+
+            if not clean_text or ("<think>" in raw_text and "</think>" not in raw_text):
+                if self.verbose:
+                    print("[WARN] Answer buried in thought or truncated. Searching raw text.")
+                search_text = raw_text
             else:
-                raise ValueError(
-                    f"Agent response missing both 'QUESTION:' and 'RECOMMEND:' markers. Got: {response_text[:200]}\n"
-                    "The agent must respond with either 'QUESTION: [text]' or 'RECOMMEND: [number]'"
-                )
-                
+                search_text = clean_text
+
+            search_text = search_text.replace('**', '').replace('__', '')
+
+
+            rec_match = re.search(r'RECOMMEND:?\s*(\d+)', search_text, re.IGNORECASE)
+            if rec_match:
+                try:
+                    recommended_id = int(rec_match.group(1))
+                    for i, product in enumerate(products):
+                        if product['id'] == recommended_id:
+                            return i
+                    
+                    print(f"[WARN] ID {recommended_id} not found. Asking instead.")
+                    return num_products
+                except: 
+                    pass
+
+            if re.search(r'QUESTION:', search_text, re.IGNORECASE):
+                return num_products
+            
+            if "?" in search_text or any(q in search_text.lower() for q in ["ask", "could you", "what is"]):
+                if self.verbose:
+                    print(f"[WARN] Fuzzy matching used. Treating as Question. Got: {search_text[-50:]}")
+                return num_products
+
+            raise ValueError(
+                f"Agent response invalid. Cleaned: {clean_text[:100]}... Raw: {raw_text[:100]}..."
+            )
+
         except Exception as e:
             print(f"Error in LLM decision: {e}")
-            raise
-    
+            raise        
     def _force_recommendation(self, obs: Dict[str, np.ndarray], info: Dict[str, Any],
                              dialog_history: List[Tuple[str, str]], category: str, 
                              num_products: int, current_persona: Optional[int] = None) -> int:
