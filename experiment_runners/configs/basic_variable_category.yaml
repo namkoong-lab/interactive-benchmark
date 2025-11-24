@@ -6,15 +6,14 @@ experiment_type: "variable_category"
 model: "gpt-4o"
 
 # Experiment scale
-total_trajectories: 3
-episodes_per_trajectory: 4
+total_trajectories: 2
+episodes_per_trajectory: 3
 seeds: [42, 43, 44]
 
 # Agent settings
 max_questions: 8
 context_mode: "raw"
 feedback_type: "persona"
-temperature: 0.7
 
 # Filtering
 min_score_threshold: 60.0

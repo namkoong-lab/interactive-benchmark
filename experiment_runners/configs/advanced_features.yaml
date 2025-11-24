@@ -14,7 +14,6 @@ seeds: [100, 101]
 max_questions: 10
 context_mode: "summary"              # Use summarized episode history
 feedback_type: "oracle"              # Perfect oracle feedback
-temperature: 0.9                     # Higher temperature for exploration
 prompting_tricks: "all"              # Enable all prompting enhancements
 
 # Custom personas and categories

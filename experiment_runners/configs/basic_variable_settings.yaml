@@ -14,7 +14,6 @@ seeds: [42, 43, 44]
 max_questions: 8
 context_mode: "raw"
 feedback_type: "persona"
-temperature: 0.7
 
 # Filtering
 min_score_threshold: 60.0
