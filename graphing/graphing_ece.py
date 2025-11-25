@@ -1,6 +1,7 @@
 import argparse
 import re
 import math
+import json
 from typing import Dict, Tuple, List
 import numpy as np
 import pandas as pd
@@ -23,6 +24,66 @@ ROW_MAP = {
 def _match_row(name: str, targets: List[str]) -> bool:
     s = str(name).lower().strip()
     return any(s == t for t in targets)
+
+def load_buckets_from_json(json_path: str) -> Dict[Tuple[str, int], Dict[str, List[float]]]:
+    """
+    Parse the JSON into buckets keyed by (Episode, QuestionIndex 1..10).
+    Each bucket holds lists for the various rows (prob_fav, actual_rank, etc.).
+    """
+    with open(json_path, 'r') as f:
+        data = json.load(f)
+    
+    buckets: Dict[Tuple[str, int], Dict[str, List[float]]] = {}
+    
+    # Filter episodes 1, 5, and 10
+    target_episodes = {1, 5, 10}
+    
+    for result in data.get("results", []):
+        episode_num = result.get("episode")
+        if episode_num not in target_episodes:
+            continue
+        
+        ep_key = f"EP{episode_num}"
+        
+        # Get progression arrays
+        confidence_prog = result.get("confidence_progression", [])
+        regret_prog = result.get("regret_progression", [])
+        rank_prog = result.get("rank_progression", [])
+        
+        # Process questions 1-10 (indices 0-9 in arrays)
+        for qi in range(1, 11):
+            idx = qi - 1  # 0-indexed
+            
+            # Confidence data
+            if idx < len(confidence_prog):
+                conf_data = confidence_prog[idx]
+                if "confidence_favorite_prob" in conf_data:
+                    buckets.setdefault((ep_key, qi), {}).setdefault("prob_fav", []).append(float(conf_data["confidence_favorite_prob"]))
+                if "confidence_top5_prob" in conf_data:
+                    buckets.setdefault((ep_key, qi), {}).setdefault("prob_top5", []).append(float(conf_data["confidence_top5_prob"]))
+                if "confidence_regret_within_5" in conf_data:
+                    buckets.setdefault((ep_key, qi), {}).setdefault("conf_within_5", []).append(float(conf_data["confidence_regret_within_5"]))
+                if "confidence_regret_within_10" in conf_data:
+                    buckets.setdefault((ep_key, qi), {}).setdefault("conf_within_10", []).append(float(conf_data["confidence_regret_within_10"]))
+                if "confidence_regret_within_20" in conf_data:
+                    buckets.setdefault((ep_key, qi), {}).setdefault("conf_within_20", []).append(float(conf_data["confidence_regret_within_20"]))
+                if "confidence_regret_within_30" in conf_data:
+                    buckets.setdefault((ep_key, qi), {}).setdefault("conf_within_30", []).append(float(conf_data["confidence_regret_within_30"]))
+            
+            # Regret data
+            if idx < len(regret_prog):
+                regret_data = regret_prog[idx]
+                if "regret" in regret_data:
+                    buckets.setdefault((ep_key, qi), {}).setdefault("regret", []).append(float(regret_data["regret"]))
+            
+            # Rank data
+            if idx < len(rank_prog):
+                rank_data = rank_prog[idx]
+                if "actual_rank" in rank_data:
+                    buckets.setdefault((ep_key, qi), {}).setdefault("actual_rank", []).append(float(rank_data["actual_rank"]))
+    
+    return buckets
+
 
 def load_buckets(csv_path: str) -> Dict[Tuple[str, int], Dict[str, List[float]]]:
     """
@@ -99,7 +160,8 @@ def reliability_stats(probs: np.ndarray, labels: np.ndarray, M: int = 10, binnin
         sel = (probs >= lo) & ((probs <= hi) if last else (probs < hi))
         if sel.any():
             acc[m] = labels[sel].mean()
-            conf[m] = probs[sel].mean()
+            # Use bin center for conf, so bar tops meet diagonal at center
+            conf[m] = centers[m]
             counts[m] = sel.sum()
         else:
             acc[m] = np.nan
@@ -116,13 +178,40 @@ def reliability_stats(probs: np.ndarray, labels: np.ndarray, M: int = 10, binnin
 def plot_reliability_panel(ax, probs, labels, title, M=10, binning="fixed", font_size=10):
     centers, acc, conf, counts, ece = reliability_stats(probs, labels, M=M, binning=binning)
     width = (1.0 / M) * 0.8
-    ax.bar(centers, acc, width=width, align='center', label="Accuracy")
-    base = np.minimum(acc, conf)
-    gap = np.abs(acc - conf)
-    base = np.where(np.isnan(base), 0.0, base)
-    gap = np.where(np.isnan(gap), 0.0, gap)
-    ax.bar(centers, gap, width=width, bottom=base, align='center', hatch='//', alpha=0.5, label="Gap")
-    ax.plot([0, 1], [0, 1], linestyle='--')
+    
+    # Handle NaN values - for empty buckets, use center as confidence (diagonal value)
+    empty_mask = (counts == 0)
+    acc = np.where(np.isnan(acc), 0.0, acc)
+    # For empty buckets, confidence should be the center value (diagonal at that x)
+    conf = np.where(np.isnan(conf), centers, conf)
+    
+    # Blue bar: accuracy (capped at confidence to never exceed diagonal)
+    # If accuracy > confidence, cap it at confidence so blue bar stays below diagonal
+    acc_bar = np.minimum(acc, conf)
+    
+    # Orange bar: gap from accuracy to confidence (diagonal line)
+    # Orange bar top should reach the diagonal
+    gap = conf - acc_bar
+    
+    # For empty buckets, show full orange bar up to diagonal
+    acc_bar[empty_mask] = 0.0
+    gap[empty_mask] = conf[empty_mask]  # Full orange up to diagonal
+    
+    ax.bar(centers, acc_bar, width=width, align='center', label="Outputs", color='steelblue')
+    ax.bar(
+        centers,
+        gap,
+        width=width,
+        bottom=acc_bar,
+        align='center',
+        color='#F28C28',
+        alpha=0.7,
+        hatch='//',
+        edgecolor='black',
+        label="Gap"
+    )
+    
+    ax.plot([0, 1], [0, 1], linestyle='--', color='lightblue', linewidth=1.5)
     ax.set_xlim(0, 1)
     ax.set_ylim(0, 1)
     tick_fs = max(6, font_size - 1)
@@ -131,6 +220,7 @@ def plot_reliability_panel(ax, probs, labels, title, M=10, binning="fixed", font
     ax.set_ylabel("Accuracy", fontsize=font_size)
     ax.tick_params(axis='both', which='major', labelsize=tick_fs)
     ax.set_title(f"{title}\nECE = {ece:.4f}" if not math.isnan(ece) else f"{title}\nECE = n/a", fontsize=title_fs)
+    ax.legend(loc='upper left', fontsize=tick_fs)
 
 
 # ----------------------------- Driver -----------------------------
@@ -190,7 +280,8 @@ def extract_pooled_probs_labels(buckets, episode: str, metric: str, k: int = 10)
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--csv", default="ece.csv", help="Path to input CSV (default: ece.csv)")
+    ap.add_argument("--csv", default=None, help="Path to input CSV file")
+    ap.add_argument("--json", default=None, help="Path to input JSON file")
     ap.add_argument("--question", type=int, required=False, default=None, help="Question index (1..10). Not required with --collapse_questions")
     ap.add_argument("--metric", choices=["top1", "top5", "regk", "all"], required=True, help="Which metric to plot or 'all' for all panels")
     ap.add_argument("--k", type=int, default=10, help="Threshold for regk (one of 5,10,20,30)")
@@ -204,7 +295,27 @@ def main():
     if (not args.collapse_questions) and (not args.summary_one_line) and (args.question is None):
         raise SystemExit("error: --question is required unless --collapse_questions or --summary_one_line is provided")
 
-    buckets = load_buckets(args.csv)
+    # Determine input file
+    if args.json:
+        input_file = args.json
+        buckets = load_buckets_from_json(args.json)
+    elif args.csv:
+        input_file = args.csv
+        buckets = load_buckets(args.csv)
+    else:
+        # Try default CSV, then look for JSON in current directory
+        import os
+        if os.path.exists("ece.csv"):
+            input_file = "ece.csv"
+            buckets = load_buckets("ece.csv")
+        else:
+            # Look for JSON files
+            json_files = [f for f in os.listdir(".") if f.endswith(".json")]
+            if json_files:
+                input_file = json_files[0]
+                buckets = load_buckets_from_json(json_files[0])
+            else:
+                raise SystemExit("error: No input file specified. Use --csv or --json, or place ece.csv in current directory")
 
     episodes = ["EP1", "EP5", "EP10"]
     
@@ -220,7 +331,7 @@ def main():
             N = int(counts.sum())
             results.append((ep, N, ece))
         parts = [f"{ep}: N={N}, ECE={ece:.4f}" if not math.isnan(ece) else f"{ep}: N={N}, ECE=nan" for ep, N, ece in results]
-        header = f"Summary | file={args.csv} | metric={args.metric}{(' k='+str(args.k)) if args.metric=='regk' else ''} | pooled=AllQuestions"
+        header = f"Summary | file={input_file} | metric={args.metric}{(' k='+str(args.k)) if args.metric=='regk' else ''} | pooled=AllQuestions"
         print(header + " | " + " | ".join(parts))
         return
 
@@ -232,14 +343,8 @@ def main():
             else:
                 probs, labels = extract_probs_labels(buckets, ep, args.question, args.metric, k=args.k)
             ax = plt.subplot(1, 3, i)
-            title = f"{ep} | All Questions" if args.collapse_questions else f"{ep} | Q{args.question}"
+            title = f"Episode {ep[2:]}"
             print(f"Plot: {title} | Metric: {args.metric}{(' (k=' + str(args.k) + ')') if args.metric=='regk' else ''} | N={labels.size}")
-            if args.metric == "regk":
-                title += f" | Regret ≤ {args.k}"
-            elif args.metric == "top1":
-                title += " | Top-1"
-            else:
-                title += " | Top-5"
 
             if probs.size == 0 or labels.size == 0:
                 ax.text(0.5, 0.5, "No data", ha='center', va='center')

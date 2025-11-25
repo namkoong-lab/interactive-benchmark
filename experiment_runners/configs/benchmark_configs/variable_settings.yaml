@@ -1,0 +1,808 @@
+experiment_type: variable_settings
+model: gpt-4o
+max_questions: 20
+feedback_type: persona
+max_products_per_category: 30
+episodes_per_trajectory: 10
+output_dir: exp3_results
+explicit_trajectories:
+- persona_index: 35852
+  category: Gas Detectors & Alarms
+- persona_index: 15933
+  category: Hand & Arm Protection
+- persona_index: 6772
+  category: Oil Dispensing Oil Sprayers
+- persona_index: 32537
+  category: Women's Coin Purses & Pouches
+- persona_index: 36345
+  category: Karaoke Home System Packages
+- persona_index: 32353
+  category: Hair Dryers & Accessories
+- persona_index: 19209
+  category: Swing Jazz
+- persona_index: 6621
+  category: Shirataki Noodles
+- persona_index: 24969
+  category: Cell Phone SIM Cards
+- persona_index: 27774
+  category: Climbing Holds
+- persona_index: 6595
+  category: Peanuts
+- persona_index: 10306
+  category: Classic Southern Rock
+- persona_index: 493
+  category: Bumper Covers
+- persona_index: 19732
+  category: Drumsticks, Mallets & Brushes
+- persona_index: 28779
+  category: Dice & Accessories
+- persona_index: 30262
+  category: VHS Custom Stores
+- persona_index: 26859
+  category: Standalone Virtual Reality Accessories
+- persona_index: 9285
+  category: Ice Hockey Accessories
+- persona_index: 46362
+  category: Frozen Bread & Dough
+- persona_index: 36153
+  category: Nintendo Switch Skin & Protector Sets
+- persona_index: 39342
+  category: Automotive Performance Ignition & Electrical Systems
+- persona_index: 40034
+  category: Fuel System Tools
+- persona_index: 16150
+  category: Gunsmithing Tools
+- persona_index: 10679
+  category: Dog Agility Tunnels
+- persona_index: 42974
+  category: Fruit & Nut Gifts
+- persona_index: 34248
+  category: Automotive Replacement Fuel Sending Switches
+- persona_index: 21911
+  category: Bill Counters
+- persona_index: 9184
+  category: Salt & Pepper Shaker Sets
+- persona_index: 21543
+  category: Back, Neck & Shoulder Supports
+- persona_index: 35402
+  category: Baby Bedding
+- persona_index: 19215
+  category: Roller Hockey Skates
+- persona_index: 46825
+  category: Play Set Attachments
+- persona_index: 26218
+  category: Copy & Printing Paper
+- persona_index: 28255
+  category: Aquarium Gravel
+- persona_index: 967
+  category: Camping Tents & Shelters
+- persona_index: 17499
+  category: Storage Drawer Units
+- persona_index: 28544
+  category: Sexual Lubricants
+- persona_index: 934
+  category: Breadcrumbs
+- persona_index: 2009
+  category: CD Players
+- persona_index: 43127
+  category: Household Cleaning Metal Polishes
+- persona_index: 32642
+  category: Garden Trellises
+- persona_index: 29013
+  category: Violin Stands
+- persona_index: 27408
+  category: Job Site & Security Lighting
+- persona_index: 39393
+  category: Nursery Window Treatments
+- persona_index: 42123
+  category: Dried Pineapples
+- persona_index: 32239
+  category: Fashion Waist Packs
+- persona_index: 42866
+  category: Outdoor Fire Tables
+- persona_index: 46444
+  category: Heatsinks
+- persona_index: 1832
+  category: Family Features
+- persona_index: 32486
+  category: Fresh Prepared Dips, Salsas & Spreads
+- persona_index: 22459
+  category: Memorabilia Display Cases
+- persona_index: 10539
+  category: Tower Computers
+- persona_index: 2454
+  category: Skin Care Products
+- persona_index: 592
+  category: Towing Hitch Engine Oil Coolers & Kits
+- persona_index: 34697
+  category: Travel Games
+- persona_index: 31735
+  category: Audio Component Preamplifiers
+- persona_index: 14261
+  category: Office Platforms, Stands & Shelves
+- persona_index: 12882
+  category: Cable Straps
+- persona_index: 6278
+  category: Men's Cold Weather Scarves
+- persona_index: 8906
+  category: Lamp Finials
+- persona_index: 29266
+  category: Tire & Wheel Care Products
+- persona_index: 1031
+  category: Household Cleaning
+- persona_index: 9974
+  category: Towing Drawbar Hitches
+- persona_index: 5560
+  category: Caribbean & Cuban Music
+- persona_index: 39292
+  category: Outdoor Firewood Racks
+- persona_index: 10639
+  category: Abrasive & Finishing Products
+- persona_index: 32340
+  category: Gardening Spades, Shovels & Trowels
+- persona_index: 9287
+  category: Men's Card & ID Cases
+- persona_index: 28924
+  category: Men's Costume Headwear
+- persona_index: 41950
+  category: Safety Mirrors
+- persona_index: 44540
+  category: Dessert Syrups & Sauces
+- persona_index: 15238
+  category: Drum & Pail Liners
+- persona_index: 21542
+  category: Canned & Jarred Corn
+- persona_index: 1597
+  category: Fire Starters
+- persona_index: 14595
+  category: Exercise & Fitness
+- persona_index: 1368
+  category: Indoor Air Quality Meters
+- persona_index: 9664
+  category: Sports Fan Toys & Game Room
+- persona_index: 24409
+  category: Cat Feather Toys
+- persona_index: 17018
+  category: Sugar Cookies
+- persona_index: 5684
+  category: Jam, Jelly & Sweet Spread Gifts
+- persona_index: 21684
+  category: Indoor Insect & Pest Control
+- persona_index: 12104
+  category: Bunion Pads
+- persona_index: 26644
+  category: Capellini Pasta
+- persona_index: 865
+  category: Air Mattresses & Accessories
+- persona_index: 44282
+  category: Made-for-TV Movies
+- persona_index: 25155
+  category: Fish Bowls
+- persona_index: 45091
+  category: Dried Fruits
+- persona_index: 26110
+  category: Key Hooks
+- persona_index: 13209
+  category: Travel Pillows
+- persona_index: 47839
+  category: Bed Pillow Pillowcases
+- persona_index: 39593
+  category: Handheld Pool Vacuums
+- persona_index: 37471
+  category: Champagne Glasses
+- persona_index: 37369
+  category: Floor Pillows & Cushions
+- persona_index: 31123
+  category: Kids' Party Decorations
+- persona_index: 17135
+  category: Clipboards & Forms Holders
+- persona_index: 8784
+  category: Computer Memory Card Accessories
+- persona_index: 28820
+  category: Camping Shelters
+- persona_index: 35733
+  category: Medical Eye Patches
+- persona_index: 29194
+  category: Coffee Gifts
+- persona_index: 24573
+  category: Kids' Wearable Blankets
+- persona_index: 1757
+  category: Cell Phone OTG Adapters
+- persona_index: 3574
+  category: License Plate Covers
+- persona_index: 13297
+  category: Archery Arrows & Parts
+- persona_index: 34184
+  category: Cake Mixes
+- persona_index: 23076
+  category: Music of Jamaica
+- persona_index: 26659
+  category: Lamp Finials
+- persona_index: 28682
+  category: Christian Education
+- persona_index: 4594
+  category: Flatware Sets
+- persona_index: 37054
+  category: Flash Cards
+- persona_index: 37748
+  category: Poetry Recordings
+- persona_index: 24090
+  category: Diaper Changing Tables
+- persona_index: 40035
+  category: License Plate Frames
+- persona_index: 18546
+  category: Computer Audio & Video Accessories
+- persona_index: 44769
+  category: Beauty Tools & Accessories
+- persona_index: 37854
+  category: Floor Cord Covers
+- persona_index: 21242
+  category: Dried Figs
+- persona_index: 43330
+  category: Suspension Tools
+- persona_index: 25760
+  category: Patio Umbrella Stands & Bases
+- persona_index: 24051
+  category: Hair Brushes
+- persona_index: 15103
+  category: Cabaret Vocalists
+- persona_index: 23918
+  category: Southern Gospel
+- persona_index: 8532
+  category: Tablet Batteries
+- persona_index: 6618
+  category: Jewelry Pliers
+- persona_index: 25768
+  category: Gardening Saws
+- persona_index: 5798
+  category: Aquarium Décor
+- persona_index: 9070
+  category: Horror Literature & Fiction
+- persona_index: 7439
+  category: Omelet Pans
+- persona_index: 27407
+  category: Characters & Series
+- persona_index: 11605
+  category: AV Carts & Stands
+- persona_index: 19450
+  category: Shirataki Noodles
+- persona_index: 34600
+  category: Camp Kitchen Equipment
+- persona_index: 20194
+  category: Airflow & Air Quality
+- persona_index: 35638
+  category: Thread Gauges
+- persona_index: 11179
+  category: Women's Drop & Dangle Earrings
+- persona_index: 25456
+  category: Fencing Railings & Pickets
+- persona_index: 525
+  category: Deep Fryers
+- persona_index: 31266
+  category: Congolese Music
+- persona_index: 536
+  category: False Eyelash & Adhesive Sets
+- persona_index: 28
+  category: Wart Removal Products
+- persona_index: 9823
+  category: Floor Cord Covers
+- persona_index: 28082
+  category: Gardening Saws
+- persona_index: 40591
+  category: Dog Training Leashes
+- persona_index: 7244
+  category: Weather Stations
+- persona_index: 42983
+  category: EMF Meters
+- persona_index: 46002
+  category: RV Exterior Parts & Accessories
+- persona_index: 17602
+  category: Dog Carrier Slings
+- persona_index: 33671
+  category: Sports Fan Clothing Accessories
+- persona_index: 1938
+  category: Dried Cherries
+- persona_index: 26923
+  category: Low Strength Aids
+- persona_index: 12405
+  category: Interior & Exterior House Paint
+- persona_index: 35690
+  category: Baby Stroller Inner Tubes & Tires
+- persona_index: 21417
+  category: Loop Chains
+- persona_index: 13412
+  category: Pressure Probes & Sensors
+- persona_index: 41630
+  category: Cheese Spreaders
+- persona_index: 44539
+  category: Packaged Chowders
+- persona_index: 10143
+  category: Commercial All-Purpose Cleaners
+- persona_index: 44113
+  category: Gymnastics Rings
+- persona_index: 28033
+  category: Kitchen & Table Linens
+- persona_index: 45954
+  category: Foot Creams & Lotions
+- persona_index: 36674
+  category: Camping Cots & Hammocks
+- persona_index: 30618
+  category: Kitchen Sink Installation Parts
+- persona_index: 10480
+  category: Christian Living
+- persona_index: 34513
+  category: Standing Baker's Racks
+- persona_index: 37294
+  category: Games & Accessories
+- persona_index: 26228
+  category: Lab Erlenmeyer Flasks
+- persona_index: 25040
+  category: Lab Ergonomic Supports
+- persona_index: 23777
+  category: Post-Punk
+- persona_index: 29930
+  category: Bathtub Accessories
+- persona_index: 7240
+  category: Automotive Exterior Accessories
+- persona_index: 22209
+  category: Yoga Starter Sets
+- persona_index: 39652
+  category: Home Fragrance Accessories
+- persona_index: 46009
+  category: Men's Baseball Caps
+- persona_index: 14951
+  category: Shipping Mailers
+- persona_index: 15338
+  category: Other Religions, Practices & Sacred Texts
+- persona_index: 25304
+  category: Beer
+- persona_index: 13108
+  category: Medical Tapes
+- persona_index: 17913
+  category: Sports Fan Golf Club Bags
+- persona_index: 44639
+  category: Platform Trucks
+- persona_index: 20819
+  category: End Tables
+- persona_index: 16191
+  category: Towing Hitch Wiring
+- persona_index: 44809
+  category: Dried White Rice
+- persona_index: 19591
+  category: Outdoor Step Lights
+- persona_index: 43849
+  category: Human Resources
+- persona_index: 28266
+  category: 20th Century Fox Home Entertainment
+- persona_index: 31469
+  category: Colombian Music
+- persona_index: 31582
+  category: Paint Pens, Markers & Daubers
+- persona_index: 775
+  category: HVAC Controls
+- persona_index: 28213
+  category: Safer Sex Products
+- persona_index: 6245
+  category: Champagne Glasses
+- persona_index: 43754
+  category: Powersports Gauges
+- persona_index: 42036
+  category: Men's Active & Performance Jackets
+- persona_index: 2203
+  category: Fragrance Dusting Powders
+- persona_index: 9936
+  category: Small Animal Playpens
+- persona_index: 1880
+  category: Snow Shovels
+- persona_index: 32742
+  category: Art Paintbrush Sets
+- persona_index: 13953
+  category: Showerheads & Handheld Showers
+- persona_index: 45173
+  category: Cortisone Treatments
+- persona_index: 11567
+  category: Statues
+- persona_index: 29179
+  category: Commercial Food & Dish Transport
+- persona_index: 45088
+  category: Water Dispenser Replacement Parts
+- persona_index: 45814
+  category: Automotive Exhaust Systems & Parts
+- persona_index: 4035
+  category: Bath Towel Sets
+- persona_index: 30527
+  category: Cheese Tools
+- persona_index: 37762
+  category: Strength Training Benches
+- persona_index: 9178
+  category: Children's Lullabies
+- persona_index: 44662
+  category: Mac-compatible Games
+- persona_index: 8419
+  category: Built-in Cabinetry
+- persona_index: 29364
+  category: Rocksteady
+- persona_index: 24872
+  category: Camera Lenses
+- persona_index: 38362
+  category: Dog Car Seat Covers
+- persona_index: 34852
+  category: Foam Tape
+- persona_index: 7223
+  category: Canned & Jarred Mixed Fruits
+- persona_index: 32944
+  category: Headlamps
+- persona_index: 44950
+  category: Electrical Outlet Switches
+- persona_index: 1840
+  category: Wall Clocks
+- persona_index: 24106
+  category: TV Shows
+- persona_index: 42046
+  category: Men's Card & ID Cases
+- persona_index: 38845
+  category: Peppercorns
+- persona_index: 13869
+  category: Cigarette Papers & Tubes
+- persona_index: 13076
+  category: Electrical Cable Ties
+- persona_index: 18405
+  category: Measuring Cups
+- persona_index: 22272
+  category: Electric Blues
+- persona_index: 46299
+  category: Office Lateral File Cabinets
+- persona_index: 12688
+  category: Fire Pits & Outdoor Fireplaces
+- persona_index: 7812
+  category: Dried Vegetables
+- persona_index: 35480
+  category: Ceiling Light Fixtures
+- persona_index: 41667
+  category: Breadcrumbs & Seasoned Coatings
+- persona_index: 28774
+  category: Home Décor Accents
+- persona_index: 2643
+  category: Shower Curtain Sets
+- persona_index: 34948
+  category: Home Stereo System Components
+- persona_index: 38702
+  category: Seasoned Salts
+- persona_index: 16336
+  category: Awards & Certificates
+- persona_index: 35688
+  category: Potato Mashers
+- persona_index: 17327
+  category: Aromatherapy Mists & Hydrosols
+- persona_index: 46859
+  category: Hair Cutting Kits
+- persona_index: 16673
+  category: Building Materials
+- persona_index: 44223
+  category: Dial Thermometers
+- persona_index: 27211
+  category: PlayStation 4 Thumb Grips
+- persona_index: 6347
+  category: Sage Leaf
+- persona_index: 2163
+  category: Physical Therapy Arm Exercisers
+- persona_index: 40722
+  category: Outdoor Hanging Brackets
+- persona_index: 28188
+  category: Pool Liners
+- persona_index: 15436
+  category: Boat Cleaners
+- persona_index: 13401
+  category: Packaged Chicken Broths
+- persona_index: 45094
+  category: Xbox Series X & S Controllers
+- persona_index: 29976
+  category: Fresh Cut Flowers
+- persona_index: 44284
+  category: Nintendo Switch Repair Tools & Replacement Parts
+- persona_index: 9260
+  category: Cat Combs
+- persona_index: 34548
+  category: Kids' Handheld Games
+- persona_index: 29158
+  category: British & Celtic Folk
+- persona_index: 243
+  category: PC Virtual Reality Accessories
+- persona_index: 21246
+  category: Diaper Changing Tables
+- persona_index: 30015
+  category: Utility Tables
+- persona_index: 10967
+  category: Powersports Springer Front Ends
+- persona_index: 11361
+  category: Christmas Ornaments
+- persona_index: 16470
+  category: PlayStation 5 Consoles
+- persona_index: 798
+  category: Electrical Connectors
+- persona_index: 27810
+  category: Snow & Ice Melters
+- persona_index: 45408
+  category: Automotive Doors
+- persona_index: 33515
+  category: Cosmetic Bags
+- persona_index: 13345
+  category: Mirrorless Cameras
+- persona_index: 38881
+  category: Dish Cloths & Dish Towels
+- persona_index: 8695
+  category: Cabinet & Furniture Pulls
+- persona_index: 40175
+  category: MGM Home Entertainment
+- persona_index: 11104
+  category: Automotive Replacement Fuel Injection Pressure Regulators
+- persona_index: 42057
+  category: Computer Memory Card Adapters
+- persona_index: 10263
+  category: Frozen Fruits
+- persona_index: 44592
+  category: Automotive Replacement Electrical Equipment
+- persona_index: 22370
+  category: Bore Gauges
+- persona_index: 42924
+  category: Oven Mitts
+- persona_index: 33291
+  category: Cell Phone Repair Kits
+- persona_index: 18799
+  category: Boating & Sailing
+- persona_index: 16176
+  category: Pasta Makers & Accessories
+- persona_index: 34793
+  category: Chocolate Cookies
+- persona_index: 20722
+  category: Guitar Effects
+- persona_index: 45070
+  category: Boat Engine Propellers
+- persona_index: 20062
+  category: Mattress & Box Spring Sets
+- persona_index: 43491
+  category: Women's Cold Weather Headbands
+- persona_index: 33483
+  category: Furniture
+- persona_index: 13497
+  category: Wood Art Boards
+- persona_index: 9827
+  category: Electric Can Openers
+- persona_index: 3416
+  category: RC Aircraft Landing Gear
+- persona_index: 39986
+  category: Door Knockers
+- persona_index: 36835
+  category: Quadcopters & Accessories
+- persona_index: 45381
+  category: USB Hubs
+- persona_index: 4854
+  category: Office Glue & Adhesives
+- persona_index: 23564
+  category: Powersports Silencers & Mufflers
+- persona_index: 22117
+  category: Air Mattresses
+- persona_index: 1894
+  category: Push-to-Connect Fittings
+- persona_index: 7320
+  category: Bedspread & Coverlet Sets
+- persona_index: 13170
+  category: Ladders
+- persona_index: 2516
+  category: Automotive Replacement Engine Timing Part Sets & Kits
+- persona_index: 31577
+  category: Egg Poachers
+- persona_index: 41651
+  category: Hunting Knives
+- persona_index: 8212
+  category: Engineering
+- persona_index: 22063
+  category: Automotive Replacement Power Door Lock Kit Motors
+- persona_index: 38755
+  category: Mailbox Posts
+- persona_index: 6465
+  category: Specialty & Novelty Cake Pans
+- persona_index: 23053
+  category: Sesame Seed
+- persona_index: 35703
+  category: Women's Water Shoes
+- persona_index: 1198
+  category: Adult Contemporary
+- persona_index: 29725
+  category: Self-Stick Note Pad Holders
+- persona_index: 23179
+  category: Dog Treats
+- persona_index: 6090
+  category: Automotive Replacement Brake Wear Sensors
+- persona_index: 16941
+  category: Automotive Cargo Nets
+- persona_index: 5706
+  category: Underwater Photography Camcorders
+- persona_index: 14903
+  category: Pool Ladders
+- persona_index: 37333
+  category: Dog Supplies
+- persona_index: 20519
+  category: Power Sander Fiber Backed Abrasive Discs
+- persona_index: 42663
+  category: Seasoned Salts
+- persona_index: 45573
+  category: Religious Literature & Fiction
+- persona_index: 2027
+  category: Kids' Decorative Pillows & Covers
+- persona_index: 9486
+  category: Wart Removal Products
+- persona_index: 36192
+  category: Toilet Tank Covers
+- persona_index: 35207
+  category: Portable CD Players
+- persona_index: 17728
+  category: Yoga Equipment
+- persona_index: 6608
+  category: Safety Footwear
+- persona_index: 41074
+  category: Computer Science
+- persona_index: 38763
+  category: Fresh Citrus Fruits
+- persona_index: 4860
+  category: PlayStation 4 Cases & Storage
+- persona_index: 6357
+  category: Baby Boys' Hats & Caps
+- persona_index: 17336
+  category: Computer Speakers
+- persona_index: 5382
+  category: Bathroom Accessories
+- persona_index: 9854
+  category: Jumping Trainers
+- persona_index: 35483
+  category: Patio Wall Light Fixture
+- persona_index: 46226
+  category: Adhesive Caulk
+- persona_index: 30513
+  category: Bath & Body Brushes
+- persona_index: 2618
+  category: Breadcrumbs
+- persona_index: 42849
+  category: Laboratory Notebooks
+- persona_index: 13044
+  category: Shoelaces
+- persona_index: 42815
+  category: Cat Hairball Remedy Pastes & Gels
+- persona_index: 41899
+  category: Commercial Cooking Equipment
+- persona_index: 45722
+  category: Window Hardware Rod Holders
+- persona_index: 38454
+  category: Men's Chelsea Boots
+- persona_index: 82
+  category: Standard Hangers
+- persona_index: 15560
+  category: Bed Risers
+- persona_index: 3421
+  category: Women's Leg Warmers
+- persona_index: 44408
+  category: Electric Motor Mounts & Accessories
+- persona_index: 25489
+  category: Sauces, Gravies & Marinades
+- persona_index: 7545
+  category: Herb, Spice & Seasoning Gifts
+- persona_index: 31487
+  category: Automotive Replacement Intake & Exhaust Manifold Gaskets
+- persona_index: 16564
+  category: Electric Motors
+- persona_index: 42534
+  category: Dog Multivitamins
+- persona_index: 27325
+  category: RV Waste Water & Sanitation Products
+- persona_index: 40038
+  category: Flatware
+- persona_index: 5
+  category: Camping Safety & Survival Equipment
+- persona_index: 2945
+  category: Wood Scratch Covers & Removers
+- persona_index: 20093
+  category: Automotive Replacement Engine Cooling & Climate Control
+- persona_index: 23125
+  category: Cinnamon
+- persona_index: 6616
+  category: Door Knockers
+- persona_index: 33795
+  category: Paint Mediums & Additives
+- persona_index: 30176
+  category: Mouse Pads
+- persona_index: 21503
+  category: Slow-Pitch Softball Bats
+- persona_index: 11403
+  category: Ragtime
+- persona_index: 30104
+  category: Golf Hitting Mats
+- persona_index: 12726
+  category: Dog Relaxants
+- persona_index: 3607
+  category: Kitchen Cookware Sets
+- persona_index: 9515
+  category: Delta Blues
+- persona_index: 21206
+  category: Commercial Degreasers
+- persona_index: 20357
+  category: Safety Apparel
+- persona_index: 46073
+  category: Vegetable Relishes
+- persona_index: 24751
+  category: Tactical Bag Accessories
+- persona_index: 23019
+  category: Automotive Vinyl Wrap Accessories
+- persona_index: 33420
+  category: Headphones, Earbuds & Accessories
+- persona_index: 12197
+  category: Drum & Pail Handling Equipment
+- persona_index: 46445
+  category: Baseball Bats
+- persona_index: 43891
+  category: Baking Mats
+- persona_index: 38389
+  category: Canadian Travel Guides
+- persona_index: 46380
+  category: Nicotine Gums & Lozenges
+- persona_index: 6367
+  category: Plant Support Structures
+- persona_index: 6524
+  category: Men's Basketball Shoes
+- persona_index: 17469
+  category: Decorative Clear Stamps
+- persona_index: 3502
+  category: Girls' Accessories
+- persona_index: 32082
+  category: Dog Repellents
+- persona_index: 46150
+  category: Sports Fan Headbands
+- persona_index: 47897
+  category: Climbing Rope
+- persona_index: 680
+  category: Christmas Garlands
+- persona_index: 46469
+  category: Disposable Food Storage Bags
+- persona_index: 8655
+  category: Take Out Containers
+- persona_index: 32813
+  category: Seasoned Salts
+- persona_index: 33989
+  category: Computer Input Devices
+- persona_index: 16333
+  category: Yoga Foam Wedges
+- persona_index: 38443
+  category: Electric Blankets
+- persona_index: 14450
+  category: Automotive Air Fresheners
+- persona_index: 4782
+  category: Glockenspiels
+- persona_index: 35239
+  category: Home Automation Devices
+- persona_index: 16737
+  category: Calf & Shin Supports
+- persona_index: 42635
+  category: Towing Hitch Covers
+- persona_index: 40919
+  category: Food Strainers
+- persona_index: 28273
+  category: Water Detectors & Alarms
+- persona_index: 30252
+  category: Teen & Young Adult Education & Reference
+- persona_index: 37179
+  category: Camping Stove Accessories
+- persona_index: 2120
+  category: Snare Drum Wire
+- persona_index: 5416
+  category: Shipping Mailers
+- persona_index: 32411
+  category: Retaining Rings
+- persona_index: 5294
+  category: British & Irish Literature & Fiction
+- persona_index: 15377
+  category: Men's Walking Shoes
+- persona_index: 40154
+  category: Decorative Bookends
+- persona_index: 6863
+  category: Hearing Aid & Amplifier Earwax Guards
+- persona_index: 37823
+  category: History of Medicine

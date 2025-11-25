@@ -1,0 +1,488 @@
+experiment_type: variable_category
+model: gpt-4o
+max_questions: 10
+feedback_type: persona
+max_products_per_category: 30
+episodes_per_trajectory: 10
+output_dir: exp1_results
+explicit_trajectories:
+- persona_index: 35852
+  categories:
+  - Gas Detectors & Alarms
+  - Electrical Testing
+  - Oil Dispensing Oil Sprayers
+  - Women's Coin Purses & Pouches
+  - Karaoke Home System Packages
+  - Hair Dryers & Accessories
+  - Swing Jazz
+  - Shirataki Noodles
+  - Cell Phone SIM Cards
+  - Climbing Holds
+- persona_index: 6595
+  categories:
+  - Peanuts
+  - Classic Southern Rock
+  - Bumper Covers
+  - Drumsticks, Mallets & Brushes
+  - Dice & Accessories
+  - VHS Custom Stores
+  - Holiday & Wedding
+  - Ice Hockey Accessories
+  - Frozen Bread & Dough
+  - Nintendo Switch Skin & Protector Sets
+- persona_index: 39342
+  categories:
+  - Essential Oil Blends
+  - Fuel System Tools
+  - Gunsmithing Tools
+  - Dog Agility Tunnels
+  - Lab Coveralls
+  - Cat Odor & Stain Removers
+  - Bill Counters
+  - Engine Timing Belt Tools
+  - Back, Neck & Shoulder Supports
+  - Baby Bedding
+- persona_index: 19215
+  categories:
+  - Roller Hockey Skates
+  - Play Set Attachments
+  - Copy & Printing Paper
+  - Aquarium Gravel
+  - Camping Tents & Shelters
+  - Storage Drawer Units
+  - Counterfeit Bill Detectors
+  - Dice & Marble Games
+  - CD Players
+  - Permanent Magnet Motors
+- persona_index: 32642
+  categories:
+  - Garden Trellises
+  - Women's Novelty Tanks & Camis
+  - Job Site & Security Lighting
+  - Television
+  - Dried Pineapples
+  - Fashion Waist Packs
+  - Outdoor Fire Tables
+  - Household Mops, Buckets & Accessories
+  - Family Features
+  - Fresh Prepared Dips, Salsas & Spreads
+- persona_index: 22459
+  categories:
+  - Memorabilia Display Cases
+  - Tower Computers
+  - Proto Punk
+  - Household Paint Wall Stencils
+  - Travel Games
+  - Audio Component Preamplifiers
+  - Office Platforms, Stands & Shelves
+  - Dog Flying Discs
+  - Children's Outdoor Inflatable Bouncers
+  - Lamp Finials
+- persona_index: 29266
+  categories:
+  - Tire & Wheel Care Products
+  - Household Cleaning
+  - Towing Drawbar Hitches
+  - Caribbean & Cuban Music
+  - Outdoor Firewood Racks
+  - Candy & Chocolate
+  - Gardening Spades, Shovels & Trowels
+  - Men's Card & ID Cases
+  - Cable Straps
+  - Safety Mirrors
+- persona_index: 44540
+  categories:
+  - Dessert Syrups & Sauces
+  - Garden Hose Connectors & Accessories
+  - Canned & Jarred Corn
+  - Fire Starters
+  - Exercise & Fitness
+  - Indoor Air Quality Meters
+  - Sports Fan Toys & Game Room
+  - Coin Roll Wrappers
+  - Sugar Cookies
+  - Jam, Jelly & Sweet Spread Gifts
+- persona_index: 21684
+  categories:
+  - Indoor Insect & Pest Control
+  - Bunion Pads
+  - Capellini Pasta
+  - Air Mattresses & Accessories
+  - Made-for-TV Movies
+  - Medical Isolation Gowns
+  - Dried Fruits
+  - Key Hooks
+  - Travel Pillows
+  - Bed Pillow Pillowcases
+- persona_index: 39593
+  categories:
+  - Handheld Pool Vacuums
+  - Champagne Glasses
+  - Automotive Weather Stripping
+  - Kids' Party Decorations
+  - Clipboards & Forms Holders
+  - Computer Memory Card Accessories
+  - Camping Shelters
+  - Medical Eye Patches
+  - Lab Funnels
+  - Kids' Wearable Blankets
+- persona_index: 1757
+  categories:
+  - Cell Phone OTG Adapters
+  - License Plate Covers
+  - Automotive Replacement Cables
+  - Lab Dishes
+  - Music of Jamaica
+  - Baby & Child Personal Care Products
+  - Christian Education
+  - Playard Bedding
+  - Flash Cards
+  - Poetry Recordings
+- persona_index: 24090
+  categories:
+  - Diaper Changing Tables
+  - Play Set Climber Attachments
+  - Computer Audio & Video Accessories
+  - PlayStation 4  Consoles
+  - Coffee Makers
+  - Dried Figs
+  - Horse Tack Care
+  - Patio Umbrella Stands & Bases
+  - Hair Brushes
+  - Cabaret Vocalists
+- persona_index: 23918
+  categories:
+  - Southern Gospel
+  - Women's Mules & Clogs
+  - Bonito Flakes
+  - Gardening Saws
+  - Aquarium Décor
+  - Drum Set Tom-Tom Drumheads
+  - Omelet Pans
+  - Characters & Series
+  - AV Carts & Stands
+  - Shirataki Noodles
+- persona_index: 34600
+  categories:
+  - Camp Kitchen Equipment
+  - Acoustic Violins
+  - Hanging Shelves
+  - Women's Drop & Dangle Earrings
+  - Floor Fans
+  - Deep Fryers
+  - Congolese Music
+  - Makeup Brush Sets & Kits
+  - Wart Removal Products
+  - Floor Cord Covers
+- persona_index: 28082
+  categories:
+  - Gardening Saws
+  - Xbox One Cases & Storage
+  - Weather Stations
+  - Nintendo Switch Batteries & Chargers
+  - Passport Covers
+  - Dog Carrier Slings
+  - Sports Fan Clothing Accessories
+  - Makeup Blenders & Sponges
+  - Electrical Cords, Adapters & Multi-Outlets
+  - Fantasy
+- persona_index: 35690
+  categories:
+  - Baby Stroller Inner Tubes & Tires
+  - Clocks
+  - Pressure Probes & Sensors
+  - Makeup Blenders & Sponges
+  - Packaged Chowders
+  - Men's Motorcycle Protective Boots
+  - Gymnastics Rings
+  - Kitchen & Table Linens
+  - Foot Creams & Lotions
+  - Camping Cots & Hammocks
+- persona_index: 30618
+  categories:
+  - Kitchen Sink Installation Parts
+  - Christian Living
+  - Automotive Replacement Fuel System Fittings
+  - Games & Accessories
+  - Lab Erlenmeyer Flasks
+  - Lab Ergonomic Supports
+  - Baby Grooming & Health Kits
+  - Bathtub Accessories
+  - Automotive Exterior Accessories
+  - Cricket Equipment
+- persona_index: 39652
+  categories:
+  - Home Fragrance Accessories
+  - Material Handling Wheels
+  - Shipping Mailers
+  - Other Religions, Practices & Sacred Texts
+  - Beer
+  - Medical Tapes
+  - Golf Club Head Covers
+  - Platform Trucks
+  - End Tables
+  - Toy Golf Products
+- persona_index: 44809
+  categories:
+  - Dried White Rice
+  - Outdoor Step Lights
+  - Air Mattresses & Accessories
+  - 20th Century Fox Home Entertainment
+  - Chorizo Sausage
+  - Paint Pens, Markers & Daubers
+  - Electrical Wire
+  - Safer Sex Products
+  - Champagne Glasses
+  - Cooking Spoons
+- persona_index: 42036
+  categories:
+  - Men's Active & Performance Jackets
+  - Fragrance Dusting Powders
+  - Small Animal Playpens
+  - Snow Shovels
+  - Art Paintbrush Sets
+  - Computer & Mobile Device Repair Kits
+  - Cortisone Treatments
+  - Korean Music
+  - Horse Tack Care
+  - Water Dispenser Replacement Parts
+- persona_index: 45814
+  categories:
+  - Automotive Exhaust Systems & Parts
+  - Fish Bowls
+  - Cheese Tools
+  - Temperature Controllers
+  - Men's Novelty Belt Buckles
+  - Mac-compatible Games
+  - Built-in Cabinetry
+  - Aquarium Décor Plastic Plants
+  - Exercise & Fitness
+  - Outdoor Backpack Reservoirs
+- persona_index: 34852
+  categories:
+  - Men's Eyeglass Cases
+  - Automotive Cargo Nets
+  - Jewelry Making Kits
+  - Electrical Outlet Switches
+  - Men's Cowboy Hats
+  - TV Shows
+  - Men's Card & ID Cases
+  - Acoustic & Classical Guitar Pick Guards
+  - Commercial Toilet Tissue Dispensers
+  - Electrical Cable Ties
+- persona_index: 18405
+  categories:
+  - Measuring Cups
+  - Electric Blues
+  - Men's Sports & Recreation Shorts
+  - Fire Pits & Outdoor Fireplaces
+  - Men's Suits & Sport Coats
+  - Adhesive Bandages
+  - Free Standing Shoe Racks
+  - Home Décor Accents
+  - Shower Curtain Sets
+  - Baby Photo Albums
+- persona_index: 38702
+  categories:
+  - Seasoned Salts
+  - Awards & Certificates
+  - Potato Mashers
+  - Aromatherapy Mists & Hydrosols
+  - Hair Cutting Kits
+  - Building Materials
+  - Viola Parts
+  - PlayStation 4 Thumb Grips
+  - Sage Leaf
+  - Physical Therapy Arm Exercisers
+- persona_index: 40722
+  categories:
+  - Outdoor Hanging Brackets
+  - Pool Liners
+  - Contemporary Blues
+  - Packaged Chicken Broths
+  - Industrial Magnets
+  - Specialty Clocks
+  - Nintendo Switch Repair Tools & Replacement Parts
+  - Cat Combs
+  - Automotive Replacement Battery Switches
+  - Bungee Cords
+- persona_index: 243
+  categories:
+  - PC Virtual Reality Accessories
+  - Diaper Changing Tables
+  - Utility Tables
+  - African Travel Guides
+  - Christmas Ornaments
+  - Automotive Replacement Battery Switches
+  - Electrical Connectors
+  - Artists' Manikins
+  - Automotive Doors
+  - Cosmetic Bags
+- persona_index: 13345
+  categories:
+  - Mirrorless Cameras
+  - Dish Cloths & Dish Towels
+  - Cabinet & Furniture Pulls
+  - Oscilloscope Probes
+  - Music of the Andes
+  - Computer Memory Card Adapters
+  - Frozen Fruits
+  - Camcorder Bundles
+  - Bore Gauges
+  - Wheelchair Accessories
+- persona_index: 33291
+  categories:
+  - Cell Phone Repair Kits
+  - Boating & Sailing
+  - Pasta Makers & Accessories
+  - Chocolate Cookies
+  - Guitar Effects
+  - Kitchen Sinks
+  - Mattress & Box Spring Sets
+  - Punk-Pop
+  - RC Electric Motors & Parts
+  - Wood Art Boards
+- persona_index: 9827
+  categories:
+  - Electric Can Openers
+  - Farrier Tools
+  - Door Knockers
+  - Goth & Industrial
+  - USB Hubs
+  - Office Glue & Adhesives
+  - Powersports Silencers & Mufflers
+  - Air Mattresses
+  - Push-to-Connect Fittings
+  - Bedspread & Coverlet Sets
+- persona_index: 13170
+  categories:
+  - Ladders
+  - Automotive Replacement Engine Timing Part Sets & Kits
+  - Egg Poachers
+  - Airbrush Painting Supplies
+  - Engineering
+  - Women's Handbag Accessories
+  - Mailbox Posts
+  - Specialty & Novelty Cake Pans
+  - Sesame Seed
+  - Women's Water Shoes
+- persona_index: 1198
+  categories:
+  - Adult Contemporary
+  - Self-Stick Note Pad Holders
+  - Dog Treats
+  - Fishing Plugs
+  - Automotive Cargo Nets
+  - Underwater Photography Camcorders
+  - Cat Houses & Condos
+  - Dog Supplies
+  - Patio Conversation Sets
+  - Kids' Ride-On Accessories
+- persona_index: 45573
+  categories:
+  - Religious Literature & Fiction
+  - Chemistry
+  - Automotive Replacement Master Cylinder Caps
+  - Automotive Replacement Parking Brake Components
+  - Desk Supplies Holders & Dispensers
+  - Yoga Equipment
+  - Safety Footwear
+  - Computer Science
+  - Fresh Citrus Fruits
+  - PlayStation 4 Cases & Storage
+- persona_index: 6357
+  categories:
+  - Baby Boys' Hats & Caps
+  - Computer Speakers
+  - Clarinet Mouthpieces
+  - Shoe Inserts & Insoles
+  - Patio Wall Light Fixture
+  - Adhesive Caulk
+  - Smartwatch Accessories
+  - Refillable Cosmetic Container Kits
+  - LGBTQ+ Literature & Fiction
+  - Shoelaces
+- persona_index: 42815
+  categories:
+  - Cat Hairball Remedy Pastes & Gels
+  - Orchestral String Instrument Cleaning & Care Products
+  - Window Hardware Rod Holders
+  - Men's Chelsea Boots
+  - Standard Hangers
+  - Bed Risers
+  - Women's Leg Warmers
+  - Relief Printing Brayers
+  - Girls' One-Piece Swimwear
+  - Herb, Spice & Seasoning Gifts
+- persona_index: 31487
+  categories:
+  - Automotive Replacement Intake & Exhaust Manifold Gaskets
+  - Rare Earth Magnets
+  - Dog Multivitamins
+  - RV Waste Water & Sanitation Products
+  - Tarps
+  - Camping Safety & Survival Equipment
+  - Wood Scratch Covers & Removers
+  - Bass Guitar Amplifier Cabinets
+  - Men's Costume Accessories
+  - Door Knockers
+- persona_index: 33795
+  categories:
+  - Paint Mediums & Additives
+  - Mouse Pads
+  - Slow-Pitch Softball Bats
+  - Ragtime
+  - Yarn Needles
+  - Law
+  - Kitchen Cookware Sets
+  - Delta Blues
+  - Trip-hop
+  - Women's Uniforms, Work & Safety
+- persona_index: 46073
+  categories:
+  - Ice Cream Scoops
+  - Guitar Capos
+  - Face Blushes
+  - Finishing Products
+  - Baby Gift Baskets
+  - Telephone Stands
+  - Baking Mats
+  - Canadian Travel Guides
+  - Health, Fitness & Dieting
+  - Martial Arts Headgear
+- persona_index: 6524
+  categories:
+  - Men's Basketball Shoes
+  - Disposable Cookware
+  - Human Resources Forms
+  - Dog Repellents
+  - Sports Fan Headbands
+  - Capers
+  - Christmas Garlands
+  - Disposable Food Storage Bags
+  - Take Out Containers
+  - Seasoned Salts
+- persona_index: 33989
+  categories:
+  - Computer Input Devices
+  - Yoga Foam Wedges
+  - Electric Blankets
+  - PlayStation 5 Batteries & Chargers
+  - Glockenspiels
+  - Home Automation Devices
+  - Calf & Shin Supports
+  - Hardware Plugs
+  - Food Strainers
+  - Water Detectors & Alarms
+- persona_index: 30252
+  categories:
+  - Vocal Pop
+  - Seasoning & Spice Choppers
+  - Hubcaps
+  - Shipping Mailers
+  - Retaining Rings
+  - British & Irish Literature & Fiction
+  - Flange Nuts
+  - Decorative Bookends
+  - Decorative Bottles
+  - History of Medicine

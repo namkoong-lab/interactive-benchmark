@@ -1,0 +1,37 @@
+# Persona Alignment Experiment Config
+# 10 trajectories, 10 episodes each
+
+experiment_type: "variable_settings"
+model: "gpt-4o"
+
+# Experiment parameters
+max_questions: 10
+episodes_per_trajectory: 10
+total_trajectories: 10
+
+# Learning settings
+context_mode: "raw"
+prompting_tricks: "none"
+feedback_type: "none"
+
+# Data settings
+min_score_threshold: 60.0
+max_products_per_category: 30
+
+# Output settings
+output_dir: "experiment_results"
+experiment_name: null
+debug_mode: true
+
+# Seeds (optional - will generate random if not provided)
+seeds: 
+- 421524
+- 953812
+- 415355
+- 501424
+- 853463
+- 934235
+- 149567
+- 254636
+- 641244
+- 777777

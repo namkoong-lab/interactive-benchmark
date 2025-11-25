@@ -1,0 +1,487 @@
+experiment_type: variable_persona
+model: gpt-4o
+max_questions: 20
+feedback_type: persona
+max_products_per_category: 30
+episodes_per_trajectory: 10
+output_dir: exp2_results
+explicit_trajectories:
+- category: Gas Detectors & Alarms
+  persona_indices:
+  - 21847
+  - 40142
+  - 32147
+  - 28001
+  - 13023
+  - 14735
+  - 35852
+  - 15933
+  - 21848
+  - 32537
+- category: Peanuts
+  persona_indices:
+  - 14459
+  - 10237
+  - 21017
+  - 18502
+  - 30699
+  - 24852
+  - 39345
+  - 6595
+  - 10306
+  - 493
+- category: Women's Bikini Tops
+  persona_indices:
+  - 25106
+  - 25106
+  - 19127
+  - 33559
+  - 8371
+  - 22138
+  - 6544
+  - 5655
+  - 19127
+  - 40034
+- category: Roller Hockey Skates
+  persona_indices:
+  - 42912
+  - 46765
+  - 42913
+  - 11382
+  - 17006
+  - 18509
+  - 10439
+  - 17009
+  - 19215
+  - 18509
+- category: Garden Trellises
+  persona_indices:
+  - 32048
+  - 39665
+  - 20649
+  - 22953
+  - 40639
+  - 22860
+  - 24735
+  - 32642
+  - 29013
+  - 27408
+- category: Memorabilia Display Cases
+  persona_indices:
+  - 20893
+  - 2259
+  - 40029
+  - 7015
+  - 13735
+  - 36581
+  - 22459
+  - 10539
+  - 2454
+  - 592
+- category: Tire & Wheel Care Products
+  persona_indices:
+  - 29944
+  - 12022
+  - 40647
+  - 14325
+  - 25827
+  - 36747
+  - 9875
+  - 29944
+  - 29266
+  - 1031
+- category: Dessert Syrups & Sauces
+  persona_indices:
+  - 20791
+  - 11493
+  - 23283
+  - 22320
+  - 30945
+  - 15133
+  - 31758
+  - 44540
+  - 15238
+  - 21542
+- category: Indoor Insect & Pest Control
+  persona_indices:
+  - 10286
+  - 11795
+  - 850
+  - 35406
+  - 23350
+  - 20590
+  - 32205
+  - 8025
+  - 21684
+  - 12104
+- category: Handheld Pool Vacuums
+  persona_indices:
+  - 13267
+  - 24438
+  - 32723
+  - 14789
+  - 16093
+  - 11255
+  - 36406
+  - 33057
+  - 39593
+  - 37471
+- category: Cell Phone OTG Adapters
+  persona_indices:
+  - 34593
+  - 3447
+  - 33590
+  - 38811
+  - 30709
+  - 13970
+  - 43212
+  - 23587
+  - 43331
+  - 1757
+- category: Diaper Changing Tables
+  persona_indices:
+  - 42923
+  - 15891
+  - 42954
+  - 15891
+  - 36269
+  - 29773
+  - 27852
+  - 37858
+  - 43332
+  - 24090
+- category: Southern Gospel
+  persona_indices:
+  - 9501
+  - 25792
+  - 1467
+  - 20983
+  - 40232
+  - 13284
+  - 228
+  - 23918
+  - 8532
+  - 6618
+- category: Camp Kitchen Equipment
+  persona_indices:
+  - 496
+  - 1491
+  - 23058
+  - 18029
+  - 16448
+  - 3978
+  - 23732
+  - 34600
+  - 20194
+  - 35638
+- category: Gardening Saws
+  persona_indices:
+  - 23702
+  - 45547
+  - 19302
+  - 35531
+  - 35116
+  - 22899
+  - 28082
+  - 40591
+  - 7244
+  - 42983
+- category: Baby Stroller Inner Tubes & Tires
+  persona_indices:
+  - 35088
+  - 44730
+  - 35531
+  - 41155
+  - 32730
+  - 27758
+  - 33142
+  - 24310
+  - 11081
+  - 35690
+- category: Kitchen Sink Installation Parts
+  persona_indices:
+  - 13994
+  - 4316
+  - 25425
+  - 33645
+  - 33633
+  - 6252
+  - 7845
+  - 2615
+  - 17190
+  - 30618
+- category: Home Fragrance Accessories
+  persona_indices:
+  - 12730
+  - 40450
+  - 8235
+  - 36537
+  - 26880
+  - 42896
+  - 22100
+  - 39652
+  - 46009
+  - 14951
+- category: Dried White Rice
+  persona_indices:
+  - 40858
+  - 35900
+  - 31
+  - 3760
+  - 41439
+  - 27822
+  - 47065
+  - 13267
+  - 44240
+  - 44809
+- category: Men's Active & Performance Jackets
+  persona_indices:
+  - 24510
+  - 1976
+  - 15869
+  - 16915
+  - 33383
+  - 29775
+  - 42036
+  - 2203
+  - 9936
+  - 1880
+- category: Automotive Exhaust Systems & Parts
+  persona_indices:
+  - 2601
+  - 35370
+  - 17577
+  - 45815
+  - 30529
+  - 9178
+  - 35986
+  - 17575
+  - 45814
+  - 44663
+- category: Volleyball Protective Gear
+  persona_indices:
+  - 45272
+  - 21799
+  - 24377
+  - 36750
+  - 435
+  - 45273
+  - 21698
+  - 21799
+  - 7223
+  - 32944
+- category: Measuring Cups
+  persona_indices:
+  - 21324
+  - 40003
+  - 23269
+  - 37686
+  - 44197
+  - 29403
+  - 2958
+  - 18405
+  - 22272
+  - 46299
+- category: Seasoned Salts
+  persona_indices:
+  - 5547
+  - 43770
+  - 1944
+  - 27967
+  - 10146
+  - 43107
+  - 47267
+  - 42518
+  - 38702
+  - 16336
+- category: Outdoor Hanging Brackets
+  persona_indices:
+  - 43478
+  - 8705
+  - 41134
+  - 3746
+  - 27624
+  - 39333
+  - 12246
+  - 3253
+  - 1362
+  - 40722
+- category: PC Virtual Reality Accessories
+  persona_indices:
+  - 18438
+  - 739
+  - 14094
+  - 41042
+  - 21714
+  - 26268
+  - 18439
+  - 739
+  - 243
+  - 21246
+- category: Mirrorless Cameras
+  persona_indices:
+  - 18728
+  - 10517
+  - 40407
+  - 4228
+  - 16100
+  - 24899
+  - 3657
+  - 9184
+  - 13345
+  - 38881
+- category: Cell Phone Repair Kits
+  persona_indices:
+  - 8866
+  - 41826
+  - 13865
+  - 12989
+  - 8867
+  - 41827
+  - 45091
+  - 45256
+  - 33291
+  - 13865
+- category: Electric Can Openers
+  persona_indices:
+  - 22948
+  - 20262
+  - 39983
+  - 44502
+  - 844
+  - 45111
+  - 8162
+  - 9827
+  - 3416
+  - 39986
+- category: Ladders
+  persona_indices:
+  - 3979
+  - 21267
+  - 37054
+  - 22166
+  - 4720
+  - 35488
+  - 13170
+  - 2516
+  - 31577
+  - 41651
+- category: Adult Contemporary
+  persona_indices:
+  - 20080
+  - 3428
+  - 2492
+  - 43456
+  - 19977
+  - 43880
+  - 32902
+  - 1198
+  - 29725
+  - 23179
+- category: Religious Literature & Fiction
+  persona_indices:
+  - 13418
+  - 4694
+  - 13140
+  - 47161
+  - 16262
+  - 24586
+  - 43023
+  - 45573
+  - 46309
+  - 9486
+- category: Baby Boys' Hats & Caps
+  persona_indices:
+  - 16288
+  - 5804
+  - 32118
+  - 16288
+  - 32120
+  - 2407
+  - 35484
+  - 6357
+  - 30514
+- category: Cat Hairball Remedy Pastes & Gels
+  persona_indices:
+  - 12372
+  - 36782
+  - 8061
+  - 21596
+  - 36783
+  - 28970
+  - 42815
+  - 41899
+  - 45722
+  - 38454
+- category: Automotive Replacement Intake & Exhaust Manifold Gaskets
+  persona_indices:
+  - 21604
+  - 19739
+  - 45712
+  - 11240
+  - 3787
+  - 36839
+  - 20263
+  - 31487
+  - 4528
+  - 21604
+- category: Paint Mediums & Additives
+  persona_indices:
+  - 38646
+  - 45789
+  - 26931
+  - 19850
+  - 33180
+  - 41418
+  - 47080
+  - 33795
+  - 38647
+  - 21503
+- category: Korean Music
+  persona_indices:
+  - 16212
+  - 39225
+  - 46075
+  - 24752
+  - 33422
+  - 46447
+  - 38390
+  - 6367
+  - 25667
+  - 21638
+- category: Men's Basketball Shoes
+  persona_indices:
+  - 8473
+  - 22141
+  - 36658
+  - 14742
+  - 8473
+  - 22142
+  - 6524
+  - 17469
+  - 3502
+  - 14742
+- category: Computer Input Devices
+  persona_indices:
+  - 21316
+  - 43125
+  - 16028
+  - 29352
+  - 10687
+  - 24265
+  - 33989
+  - 16333
+  - 38443
+  - 14450
+- category: Nicotine Gums & Lozenges
+  persona_indices:
+  - 39220
+  - 36847
+  - 46577
+  - 9940
+  - 46578
+  - 9940
+  - 29190
+  - 29186
+  - 2120
+  - 6865
