@@ -343,7 +343,14 @@ def main():
             else:
                 probs, labels = extract_probs_labels(buckets, ep, args.question, args.metric, k=args.k)
             ax = plt.subplot(1, 3, i)
-            title = f"Episode {ep[2:]}"
+            # Construct the title as originally
+            title = f"{ep} | All Questions" if args.collapse_questions else f"{ep} | Q{args.question}"
+            if args.metric == "regk":
+                title += f" | Regret ≤ {args.k}"
+            elif args.metric == "top1":
+                title += " | Top-1"
+            else:
+                title += " | Top-5"
             print(f"Plot: {title} | Metric: {args.metric}{(' (k=' + str(args.k) + ')') if args.metric=='regk' else ''} | N={labels.size}")
 
             if probs.size == 0 or labels.size == 0:
@@ -375,7 +382,7 @@ def main():
             k_use = k_val if metric == "regk" else args.k
             if args.collapse_questions:
                 probs, labels = extract_pooled_probs_labels(buckets, ep, metric, k=k_use)
-                title = f"{ep} | All Questions\n{col_title}"
+                title = f"{ep} | {col_title}"
             else:
                 probs, labels = extract_probs_labels(buckets, ep, args.question, metric, k=k_use)
                 title = f"{ep} | Q{args.question}\n{col_title}"
