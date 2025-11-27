@@ -1,8 +1,8 @@
-import { Routes, Route } from 'react-router-dom'
-import Hero from './components/Hero'
-import Home from './pages/Home'
-import Submit from './pages/Submit'
-import Leaderboard from './pages/Leaderboard'
+import { Routes, Route } from "react-router-dom";
+import Hero from "./components/Hero";
+import Home from "./pages/Home";
+import Submit from "./pages/Submit";
+import Leaderboard from "./pages/Leaderboard";
 
 function App() {
   return (
@@ -18,8 +18,7 @@ function App() {
         </Routes>
       </main>
     </div>
-  )
+  );
 }
 
-export default App
-
+export default App;

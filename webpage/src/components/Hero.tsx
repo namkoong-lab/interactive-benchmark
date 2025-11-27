@@ -86,15 +86,15 @@ export default function Hero() {
 
   const navItems = [
     { name: "Home", href: "/", icon: HomeIcon, external: false },
-    {
-      name: "Paper",
-      href: "https://arxiv.org/abs/XXXX.XXXXX",
-      icon: PaperIcon,
-      external: true,
-    },
+    // {
+    //   name: "Paper",
+    //   href: "https://arxiv.org/abs/XXXX.XXXXX",
+    //   icon: PaperIcon,
+    //   external: true,
+    // },
     {
       name: "Code",
-      href: "https://github.com/namkoong-lab/data-recipes",
+      href: "https://github.com/namkoong-lab/interactive-benchmark",
       icon: CodeIcon,
       external: true,
     },
@@ -120,26 +120,28 @@ export default function Hero() {
             className="inline-block hover:opacity-90 transition-opacity"
           >
             <h1 className="text-6xl md:text-8xl font-extrabold mb-8 tracking-tight drop-shadow-lg">
-              Agent Thesis
+              Benchmarking In-context Experiential Learning
             </h1>
           </Link>
 
           {/* Subtitle/Description */}
           <p className="text-2xl md:text-3xl mb-10 text-white/95 max-w-4xl mx-auto font-light">
-            A Groundbreaking Benchmark for Evaluating AI Agents
+            Through Repeated Product Recommendations
           </p>
 
           {/* Authors */}
           <div className="mb-8">
             <p className="text-lg md:text-xl text-white/90 font-medium">
-              Author Name<sup className="text-sm">1</sup>, Collaborator Name
-              <sup className="text-sm">2</sup>, Another Author
-              <sup className="text-sm">1,3</sup>
+              Gilbert Yang<sup className="text-sm">1</sup>,
+              Yaqin Chen<sup className="text-sm">2</sup>,
+              Thomson Yen<sup className="text-sm">1</sup>,
+              Hongseok Namkoong<sup className="text-sm">1</sup>
             </p>
             <p className="text-base md:text-lg text-white/75 mt-3">
-              <sup className="text-xs">1</sup>Institution Name ·{" "}
-              <sup className="text-xs">2</sup>University Name ·{" "}
-              <sup className="text-xs">3</sup>Research Lab
+              <sup className="text-xs">1</sup>Decision, Risk, and Operations Division, Columbia Business School{" "}
+            </p>
+            <p className="text-base md:text-lg text-white/75 mt-3">
+            <sup className="text-xs">2</sup>School of Mathematics (Zhuhai), Sun Yat-sen University{" "}
             </p>
           </div>
         </div>

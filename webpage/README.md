@@ -1,18 +1,6 @@
-# Agent Thesis
+# Experiential Learning Benchmark
 
-A modern, responsive website for presenting AI agent research, built with React, TypeScript, and Tailwind CSS.
-
-## 🚀 Features
-
-- **Hero Section**: Eye-catching landing page with gradient design
-- **About**: Project overview and research description
-- **Service Demo**: Video demonstrations of services
-- **Agent Demo**: Video demonstrations of agent capabilities
-- **Citation**: BibTeX citation for research papers
-- **Quick Start**: Getting started guides
-- **Contact**: Contact information and links
-- **Submit**: Instructions for submitting model results
-- **Leaderboard**: Compare performance metrics across different models
+Built with React, TypeScript, and Tailwind CSS.
 
 ## 🛠️ Tech Stack
 
@@ -69,17 +57,3 @@ To add your model to the leaderboard:
 3. Submit a pull request
 
 See `results/README.md` for detailed instructions.
-
-## 🎨 Customization
-
-- **Colors**: Edit `tailwind.config.ts` to change the color scheme
-- **Content**: Update text and images in component files
-- **Styling**: Modify Tailwind classes or add custom CSS in `index.css`
-
-## 📄 License
-
-[Your License Here]
-
-## 📧 Contact
-
-For questions or contributions, please contact: contact@agent-thesis.com

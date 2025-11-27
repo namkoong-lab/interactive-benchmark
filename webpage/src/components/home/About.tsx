@@ -15,46 +15,14 @@ export default function About() {
 
               <div className="text-gray-700 text-lg leading-relaxed space-y-10">
                 <p>
-                  We interact with computers on an everyday basis, be it in everyday life or work, and many aspects of work can be done entirely with access to a computer and the Internet. At the same time, thanks to improvements in large language models (LLMs), there has also been a rapid development in AI agents that interact with and affect change in their surrounding environments. But how performant are AI agents at helping to accelerate or even autonomously perform work-related tasks? The answer to this question has important implications for both industry looking to adopt AI into their workflows, and for economic policy to understand the effects that adoption of AI may have on the labor market. TheAgentCompany measures the progress of these LLM agents' performance on performing real-world professional tasks, by providing an extensible benchmark for evaluating AI agents that interact with the world in similar ways to those of a digital worker: by browsing the Web, writing code, running programs, and communicating with other coworkers.
+        To reliably navigate ever-shifting real-world environments, agents must grapple with incomplete knowledge and adapt their behavior through <i>experience</i>. However, current evaluations largely focus on tasks that leave no ambiguity, and do not measure agents' ability to adaptively learn and reason through the experiences they accrued. We exemplify the need for this in-context experiential learning in a product recommendation context, where agents must navigate shifting customer preferences and product landscapes through natural language dialogue. We curate a benchmark for experiential learning and active exploration (<b>BELA</b>) that combines (1) rich real-world products from Amazon, (2) a diverse collection of user personas to represent heterogeneous yet latent preferences, and (3) a LLM user simulator powered by the persona to create rich interactive trajectories. We observe that current frontier models struggle to meaningfully improve across episodes, underscoring the need for agentic systems with strong in-context learning capabilities.
                 </p>
 
-                <div className="bg-gradient-to-br from-indigo-100 via-blue-100 to-cyan-100 p-10 md:p-12 rounded-xl flex items-center justify-center min-h-[400px]">
-                  <div className="text-center">
-                    {/* Placeholder for image - you can replace this with actual image */}
-                    <div className="w-full h-full flex items-center justify-center">
-                      <div className="space-y-4">
-                        <svg
-                          className="w-48 h-48 mx-auto text-indigo-600"
-                          fill="none"
-                          stroke="currentColor"
-                          viewBox="0 0 24 24"
-                        >
-                          <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            strokeWidth={1.5}
-                            d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z"
-                          />
-                        </svg>
-                        <p className="text-gray-600 text-sm">
-                          Replace with your image
-                          <br />
-                          <span className="text-xs text-gray-500">
-                            (Recommended size: 800x600px)
-                          </span>
-                        </p>
-                      </div>
-                    </div>
-
-                    {/* Uncomment and use this when you have an actual image:
-                    <img
-                      src="/path-to-your-image.png"
-                      alt="Agent Thesis Diagram"
-                      className="w-full h-auto rounded-lg shadow-lg"
+                <img
+                      src="/setup.png"
+                      alt="Setup Documentation"
+                      className="w-full h-auto max-w-8xl rounded-lg "
                     />
-                    */}
-                  </div>
-                </div>
               </div>
             </div>
 

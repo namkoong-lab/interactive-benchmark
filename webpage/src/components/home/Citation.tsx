@@ -3,11 +3,10 @@ import { useState } from 'react'
 export default function Citation() {
   const [copied, setCopied] = useState(false)
 
-  const bibtex = `@article{agentthesis2024,
-  title={Agent Thesis: A Comprehensive Benchmark for Autonomous Agents},
-  author={Your Name and Contributors},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2024}
+  const bibtex = `@misc{yang2025bela,
+  title={Benchmarking In-context Experiential Reasoning Through Repeated Product Recommendations},
+  author={Yang, Gilbert and Chen, Yaqin and Yen, Thomson and Namkoong, Hongseok},
+  year={2025}
 }`
 
   const handleCopy = () => {
@@ -31,7 +30,7 @@ export default function Citation() {
           >
             {copied ? 'Copied!' : 'Copy'}
           </button>
-          <pre className="text-gray-100 text-sm overflow-x-auto pr-20">
+          <pre className="text-gray-100 text-sm pr-20">
             <code>{bibtex}</code>
           </pre>
         </div>

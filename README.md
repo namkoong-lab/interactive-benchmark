@@ -2,7 +2,7 @@
 
 **Benchmarking In-context Experiential Reasoning Through Repeated Product Recommendations**
 
-This repository implements AIR, a benchmark for evaluating how LLM agents learn and adapt through experiential reasoning in multi-episode product recommendation scenarios. AIR challenges agents to improve performance across episodes by learning through natural language interactions rather than through explicit parameter updates. 
+This repository implements AIR, a benchmark for evaluating how LLM agents learn and adapt through experiential reasoning in multi-episode product recommendation scenarios. AIR challenges agents to improve performance across episodes by learning through natural language interactions rather than through explicit parameter updates.
 
 ## Overview
 
@@ -61,8 +61,8 @@ AIR supports three experimental paradigms to isolate different adaptation challe
 
 ### Planning Modes
 
-Planning modes force the agent to give a recommendation after each question within an episode, enabling analysis of within-episode improvement and whether this learning rate increases across later episodes. 
-- **`planning_no_strat`**: Non-modified experiment 
+Planning modes force the agent to give a recommendation after each question within an episode, enabling analysis of within-episode improvement and whether this learning rate increases across later episodes.
+- **`planning_no_strat`**: Non-modified experiment
 - **`planning_greedy`**: Greedy question selection
 - **`planning_dp`**: Dynamic programming-style lookahead
 
@@ -118,7 +118,7 @@ GEMINI_API_KEY=AIza...
 
 **4. Database Setup**
 
-The product database is hosted on HuggingFace and will **automatically download** on first run. 
+The product database is hosted on HuggingFace and will **automatically download** on first run.
 
 #### Automatic Setup (Recommended)
 ```bash
@@ -233,7 +233,7 @@ For advanced agent behavior (custom prompting, tool use, RAG), extend `UnifiedAg
 ## Citation
 
 ```bibtex
-@inproceedings{yang2025air,
+@article{yang2025bela,
   title={Benchmarking In-context Experiential Reasoning Through Repeated Product Recommendations},
   author={Yang, Gilbert and Chen, Yaqin and Yen, Thomson and Namkoong, Hongseok},
   year={2025}

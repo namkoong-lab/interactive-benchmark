@@ -9,13 +9,13 @@ export default function Home() {
   return (
     <div className="w-full">
       <About />
-      <ServiceDemo />
+      {/* <ServiceDemo /> */}
       <Citation />
-      <QuickStart />
+      {/* <QuickStart />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <RunInstructions />
-      </div>
-      <Contact />
+      </div> */}
+      {/* <Contact /> */}
     </div>
   );
 }
