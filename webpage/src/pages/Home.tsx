@@ -1,9 +1,9 @@
 import About from "@/components/home/About";
-import ServiceDemo from "@/components/home/ServiceDemo";
-import RunInstructions from "@/components/home/RunInstructions";
+// import ServiceDemo from "@/components/home/ServiceDemo";
+// import RunInstructions from "@/components/home/RunInstructions";
 import Citation from "@/components/home/Citation";
-import QuickStart from "@/components/home/QuickStart";
-import Contact from "@/components/home/Contact";
+// import QuickStart from "@/components/home/QuickStart";
+// import Contact from "@/components/home/Contact";
 
 export default function Home() {
   return (
