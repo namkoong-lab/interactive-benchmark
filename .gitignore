@@ -9,3 +9,4 @@ database/*.jsonl
 database/parquet_export/
 experiment_runners/test_results/
 experiment_runners/interactive_results/
+webpage/node_modules/
