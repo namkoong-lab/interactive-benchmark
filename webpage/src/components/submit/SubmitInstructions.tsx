@@ -5,9 +5,10 @@ export default function SubmitInstructions() {
 
       <div className="bg-blue-50 border-l-4 border-primary p-6 rounded-r-lg mb-8">
         <h3 className="text-lg font-semibold text-primary mb-2">Important Note</h3>
-        <p className="text-gray-700">
+        <p className="text-gray-700 mb-2">
           You can submit results to one or more of the three leaderboards (variable_category, variable_persona, or variable_settings). 
-          Submit only the <code className="bg-gray-100 px-2 py-1 rounded">results.json</code> file for each experiment you run.
+          Submit only the <code className="bg-gray-100 px-2 py-1 rounded">results.json</code> file for each experiment you run. Furthermore, you'll need to integrate your custom model by adding a provider file first. 
+          See the <a href="https://github.com/namkoong-lab/personas#integrating-custom-models" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">README</a> for detailed instructions on integrating custom models.
         </p>
       </div>
 

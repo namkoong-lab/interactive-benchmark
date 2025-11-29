@@ -47,6 +47,18 @@ python run_experiment.py --config configs/basic_variable_category.yaml`}</code>
           </div>
         </div>
 
+        <div className="bg-blue-50 border-l-4 border-primary p-6 rounded-r-lg mt-8">
+          <h3 className="text-lg font-semibold text-primary mb-2">Using Your Own Custom Model</h3>
+          <p className="text-gray-700 mb-2">
+            To benchmark your own custom LLM model, you'll need to integrate it first by adding a custom provider file. 
+            See the <a href="https://github.com/namkoong-lab/personas#integrating-custom-models" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">README</a> for detailed instructions on:
+          </p>
+          <ul className="list-disc list-inside space-y-1 text-gray-700 ml-2">
+            <li>Adding a new LLM provider</li>
+            <li>Integrating custom agent logic</li>
+          </ul>
+        </div>
+
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mt-8">
           <a
             href="https://github.com/namkoong-lab/personas"
