@@ -1,12 +1,12 @@
-# AIR: Agentic In-context Experiential Reasoning
+# BELA: Agentic In-context Experiential Reasoning
 
 **Benchmarking In-context Experiential Reasoning Through Repeated Product Recommendations**
 
-This repository implements AIR, a benchmark for evaluating how LLM agents learn and adapt through experiential reasoning in multi-episode product recommendation scenarios. AIR challenges agents to improve performance across episodes by learning through natural language interactions rather than through explicit parameter updates.
+This repository implements BELA, a benchmark for evaluating how LLM agents learn and adapt through experiential reasoning in multi-episode product recommendation scenarios. BELA challenges agents to improve performance across episodes by learning through natural language interactions rather than through explicit parameter updates. 
 
 ## Overview
 
-AIR evaluates an agent's ability to perform **in-context experiential reasoning**. Specifically, agents must:
+BELA evaluates an agent's ability to perform **in-context experiential reasoning**. Specifically, agents must:
 - Elicit latent user preferences through strategic questioning
 - Navigate evolving product landscapes and user needs
 - Leverage cross-episode memory to improve recommendations
@@ -17,6 +17,82 @@ AIR evaluates an agent's ability to perform **in-context experiential reasoning*
 1. **Real-world Products**: 71K+ Amazon items across 2K+ categories with rich metadata
 2. **Diverse Personas**: 40K+ user profiles with varied, latent preferences and demographics
 3. **LLM User Simulator**: Realistic interaction trajectories powered by persona-driven response generation
+
+## Quick Start
+
+### Basic Experiments
+
+```bash
+cd experiment_runners
+
+# Run with example config
+python run_experiment.py --config configs/basic_variable_category.yaml
+
+# Interactive trajectory building
+python run_experiment.py --config configs/interactive_example.yaml
+```
+
+### Resuming from Checkpoint
+
+```yaml
+checkpoint_enabled: true
+resume_from_checkpoint: "experiment_results/checkpoint_traj2_ep8.json"
+```
+
+## Submitting Results to the Leaderboard
+
+Submit your results to the official leaderboard:
+
+**Website**: [https://www.experiential-learning-benchmark.com/](https://www.experiential-learning-benchmark.com/)
+
+### Running Benchmark Experiments
+
+To contribute results to the BELA benchmark leaderboard, use the official benchmark configuration files located in `experiment_runners/configs/benchmark_configs/`. There are three main benchmark experiments:
+
+1. **Variable Category** (`variable_category.yaml`): Fixed persona, varying product categories
+2. **Variable Persona** (`variable_persona.yaml`): Fixed category, varying user personas  
+3. **Variable Settings** (`variable_settings.yaml`): Both persona and category vary
+
+**Important**: Before running, update the `model` field in each config file to specify the model you are submitting. For example:
+```yaml
+model: "gpt-4o"  # Change this to your model name
+```
+
+#### Running Each Benchmark
+
+```bash
+cd experiment_runners
+
+# Run Variable Category benchmark
+python run_experiment.py --config configs/benchmark_configs/variable_category.yaml
+
+# Run Variable Persona benchmark
+python run_experiment.py --config configs/benchmark_configs/variable_persona.yaml
+
+# Run Variable Settings benchmark
+python run_experiment.py --config configs/benchmark_configs/variable_settings.yaml
+```
+
+Results are automatically saved to the `experiment_results/` directory with the following structure:
+
+```
+experiment_results/
+└── {experiment_type}_{model}_{feedback_type}/
+    ├── config.json              # Full configuration used
+    └── results.json             # Results with config file path reference
+```
+
+### Submission Requirements
+
+You can submit results to **one or more** of the three leaderboards (variable_category, variable_persona, or variable_settings). For each leaderboard you want to submit to:
+
+1. Run the corresponding benchmark experiment (see [Running Each Benchmark](#running-each-benchmark) above)
+2. Submit **only the `results.json` file** (not the config.json file)
+
+The `results.json` file is located at:
+```
+experiment_results/{experiment_type}_{model}_{feedback_type}/results.json
+```
 
 ## Project Structure
 
@@ -53,7 +129,7 @@ All experiments use YAML configs with 31 parameters covering:
 
 ### Experiment Types
 
-AIR supports three experimental paradigms to isolate different adaptation challenges:
+BELA supports three experimental paradigms to isolate different adaptation challenges:
 
 - **`variable_category`**: Fixed persona, varying product categories (preference generalization)
 - **`variable_persona`**: Fixed category, varying user personas (user adaptation)
@@ -61,8 +137,8 @@ AIR supports three experimental paradigms to isolate different adaptation challe
 
 ### Planning Modes
 
-Planning modes force the agent to give a recommendation after each question within an episode, enabling analysis of within-episode improvement and whether this learning rate increases across later episodes.
-- **`planning_no_strat`**: Non-modified experiment
+Planning modes force the agent to give a recommendation after each question within an episode, enabling analysis of within-episode improvement and whether this learning rate increases across later episodes. 
+- **`planning_no_strat`**: Non-modified experiment 
 - **`planning_greedy`**: Greedy question selection
 - **`planning_dp`**: Dynamic programming-style lookahead
 
@@ -118,7 +194,7 @@ GEMINI_API_KEY=AIza...
 
 **4. Database Setup**
 
-The product database is hosted on HuggingFace and will **automatically download** on first run.
+The product database is hosted on HuggingFace and will **automatically download** on first run. 
 
 #### Automatic Setup (Recommended)
 ```bash
@@ -145,7 +221,7 @@ This downloads 4 Parquet files (~500MB total) from HuggingFace and builds a loca
 
 ### Database Contents
 
-The AIR database contains:
+The BELA database contains:
 - **71,088 products** from Amazon with rich metadata
 - **2,030 product categories** organized into substitute sets
 - **Product attributes**: titles, prices, ratings, descriptions, images
@@ -165,30 +241,9 @@ database/
 
 **Score Caching**: The database includes a `persona_scores` table that grows during experiments. Cached scores are reused across runs, speeding up repeated experiments with the same personas/categories.
 
-## Quick Start
-
-### Basic Experiments
-
-```bash
-cd experiment_runners
-
-# Run with example config
-python run_experiment.py --config configs/basic_variable_category.yaml
-
-# Interactive trajectory building
-python run_experiment.py --config configs/interactive_example.yaml
-```
-
-### Resuming from Checkpoint
-
-```yaml
-checkpoint_enabled: true
-resume_from_checkpoint: "experiment_results/checkpoint_traj2_ep8.json"
-```
-
 ## Integrating Custom Models
 
-AIR's modular architecture makes it easy to benchmark your own LLM models and agents.
+BELA's modular architecture makes it easy to benchmark your own LLM models and agents.
 
 ### Option 1: Add a New LLM Provider
 
@@ -233,7 +288,7 @@ For advanced agent behavior (custom prompting, tool use, RAG), extend `UnifiedAg
 ## Citation
 
 ```bibtex
-@article{yang2025bela,
+@inproceedings{yang2025bela,
   title={Benchmarking In-context Experiential Reasoning Through Repeated Product Recommendations},
   author={Yang, Gilbert and Chen, Yaqin and Yen, Thomson and Namkoong, Hongseok},
   year={2025}
