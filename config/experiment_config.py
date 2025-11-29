@@ -5,6 +5,7 @@ Unified configuration for all experiment types.
 
 from dataclasses import dataclass, field, asdict
 from typing import Optional, List, Literal, Dict, Any
+import os
 import random
 import yaml
 import json
@@ -68,6 +69,9 @@ class ExperimentConfig:
     debug_mode: bool = False  
     show_product_scores: bool = False
     show_internal_prompts: bool = False
+    
+    # === CONFIG FILE TRACKING ===
+    config_file_path: Optional[str] = None  # Path to the source config file (if loaded from file)
     
     # === CHECKPOINT SETTINGS ===
     checkpoint_enabled: bool = False
@@ -498,9 +502,11 @@ class ExperimentConfig:
         Raises:
             ValueError: If configuration parameters are invalid
         """
+        abs_path = os.path.abspath(yaml_path)
         with open(yaml_path, 'r') as f:
             data = yaml.safe_load(f)
         config = cls(**data)
+        config.config_file_path = abs_path  # Store the absolute path to the config file
         config.validate()  # Validate immediately after loading
         return config
     
@@ -512,9 +518,11 @@ class ExperimentConfig:
         Raises:
             ValueError: If configuration parameters are invalid
         """
+        abs_path = os.path.abspath(json_path)
         with open(json_path, 'r') as f:
             data = json.load(f)
         config = cls(**data)
+        config.config_file_path = abs_path  # Store the absolute path to the config file
         config.validate()  # Validate immediately after loading
         return config
     

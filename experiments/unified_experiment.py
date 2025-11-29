@@ -1538,7 +1538,8 @@ class UnifiedExperiment:
             full_results_data = {
                 'summary': summary,
                 'results': processed_results,
-                'timestamp': datetime.now().isoformat()
+                'timestamp': datetime.now().isoformat(),
+                'config_file_path': self.config.config_file_path  # Reference to source config file
             }
             if self.planning_regret_data:
                 full_results_data['planning_regret_progression'] = self.planning_regret_data
@@ -1551,6 +1552,12 @@ class UnifiedExperiment:
             regret_progression = self._calculate_regret_progression()
             questions_progression = self._calculate_questions_progression()
             summary_data = {
+                'experiment_type': self.config.experiment_type,
+                'model': self.config.model,
+                'context_mode': self.config.context_mode,
+                'feedback_type': self.config.feedback_type,
+                'prompting_tricks': self.config.prompting_tricks,
+                'config_file_path': self.config.config_file_path,  # Reference to source config file
                 'regret_progression': regret_progression,
                 'questions_progression': questions_progression
             }
@@ -1585,6 +1592,12 @@ class UnifiedExperiment:
             regret_progression = self._calculate_regret_progression()
             questions_progression = self._calculate_questions_progression()
             results_data = {
+                'experiment_type': self.config.experiment_type,
+                'model': self.config.model,
+                'context_mode': self.config.context_mode,
+                'feedback_type': self.config.feedback_type,
+                'prompting_tricks': self.config.prompting_tricks,
+                'config_file_path': self.config.config_file_path,  # Reference to source config file
                 'regret_progression': regret_progression,
                 'questions_progression': questions_progression
             }

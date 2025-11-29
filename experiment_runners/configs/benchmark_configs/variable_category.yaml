@@ -4,7 +4,7 @@ max_questions: 10
 feedback_type: persona
 max_products_per_category: 30
 episodes_per_trajectory: 10
-output_dir: exp1_results
+output_dir: experiment_results
 explicit_trajectories:
 - persona_index: 35852
   categories:

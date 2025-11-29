@@ -20,6 +20,6 @@ min_score_threshold: 60.0
 max_products_per_category: 30
 
 # Output
-output_dir: "results/variable_settings"
+output_dir: "experiment_results"
 debug_mode: false
 
