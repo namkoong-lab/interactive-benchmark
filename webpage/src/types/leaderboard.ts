@@ -10,65 +10,37 @@ export interface ModelResult {
   /** Display name of the model */
   model_name: string
 
-  /** Model version (e.g., "1.0.0") */
-  version: string
+  /** Average regret across all episodes */
+  average_regret: number
+
+  /** Average number of questions asked across all episodes */
+  average_questions_asked: number
+
+  /** Improvement: regret at EP10 - regret at EP1 */
+  improvement: number
+
+  /** Regret at the 5th episode */
+  regret_5th: number
+
+  /** Regret at the 10th episode */
+  regret_10th: number
+
+  /** Questions asked at the 1st episode */
+  questions_asked_1st: number
+
+  /** Questions asked at the 10th episode */
+  questions_asked_10th: number
+
+  /** Organization name */
+  organization: string
 
   /** Submission date in YYYY-MM-DD format */
   date: string
-
-  /** Overall performance score (0-100) */
-  overall_score: number
-
-  /** Performance metrics */
-  metrics: ModelMetrics
-
-  /** Optional detailed task breakdown */
-  task_breakdown?: TaskBreakdown
-}
-
-/**
- * Performance metrics for a model
- */
-export interface ModelMetrics {
-  /** Accuracy percentage (0-100) */
-  accuracy: number
-
-  /** Success rate percentage (0-100) */
-  success_rate: number
-
-  /** Average number of steps taken */
-  average_steps: number
-
-  /** Average time in seconds */
-  avg_time: number
-
-  org: string
-
-  check_sign: boolean
-
-}
-
-/**
- * Detailed breakdown of task performance
- */
-export interface TaskBreakdown {
-  [taskName: string]: TaskResult
-}
-
-/**
- * Result for a single task
- */
-export interface TaskResult {
-  /** Score for this task (0-100) */
-  score: number
-
-  /** Whether the task was completed successfully */
-  success: boolean
 }
 
 /**
  * Sorting configuration for leaderboard table
  */
-export type SortKey = keyof ModelResult | 'metrics.accuracy'
+export type SortKey = keyof ModelResult
 export type SortOrder = 'asc' | 'desc'
 

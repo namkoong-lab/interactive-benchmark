@@ -2,97 +2,344 @@ import { useState } from 'react'
 import type { ModelResult, SortKey, SortOrder } from '@/types/leaderboard'
 import type { LeaderboardType } from '@/pages/Leaderboard'
 
-// TODO: Replace this with actual data loading from JSON files
-// In the future, this data will be loaded from the results/ directory
-// Each subfolder will contain a results.json file
-// The page will automatically discover and load all JSON files
-
-const SAMPLE_DATA: ModelResult[] = [
+// Leaderboard data by type
+const VARIABLE_CATEGORY_DATA: ModelResult[] = [
   {
-    model_name: "GPT-4-Agent",
-    version: "1.0.0",
-    date: "2024-10-14",
-    overall_score: 88.5,
-    metrics: {
-      accuracy: 90.2,
-      success_rate: 86.8,
-      average_steps: 12.5,
-      avg_time: 45.3,
-      org: "CMU",
-      check_sign: true
-    }
+    model_name: "claude-sonnet-4",
+    average_regret: 22.6137,
+    average_questions_asked: 4.0975,
+    improvement: 0.0125,
+    regret_5th: 19.9000,
+    regret_10th: 21.1875,
+    questions_asked_1st: 3.5000,
+    questions_asked_10th: 4.3000,
+    organization: "Anthropic",
+    date: "2025-12-09"
   },
   {
-    model_name: "Claude-3-Opus-Agent",
-    version: "2.1.0",
-    date: "2024-10-13",
-    overall_score: 86.3,
-    metrics: {
-      accuracy: 88.1,
-      success_rate: 84.5,
-      average_steps: 13.2,
-      avg_time: 42.7,
-      org: "CMU",
-      check_sign: true
-
-    }
+    model_name: "claude-opus-4",
+    average_regret: 22.8425,
+    average_questions_asked: 2.3075,
+    improvement: 4.9125,
+    regret_5th: 20.2625,
+    regret_10th: 27.1125,
+    questions_asked_1st: 2.2250,
+    questions_asked_10th: 2.2250,
+    organization: "Anthropic",
+    date: "2025-12-09"
   },
   {
-    model_name: "Custom-Agent-X",
-    version: "1.5.2",
-    date: "2024-10-12",
-    overall_score: 82.7,
-    metrics: {
-      accuracy: 85.3,
-      success_rate: 80.1,
-      average_steps: 15.8,
-      avg_time: 52.1,
-      org: "CMU",
-      check_sign: true
-    }
+    model_name: "gpt-4o",
+    average_regret: 23.0813,
+    average_questions_asked: 4.6675,
+    improvement: 3.9625,
+    regret_5th: 24.9500,
+    regret_10th: 28.7500,
+    questions_asked_1st: 4.5750,
+    questions_asked_10th: 4.2750,
+    organization: "OpenAI",
+    date: "2025-12-09"
   },
   {
-    model_name: "AutoGPT-Enhanced",
-    version: "3.0.0",
-    date: "2024-10-11",
-    overall_score: 79.4,
-    metrics: {
-      accuracy: 82.6,
-      success_rate: 76.2,
-      average_steps: 18.3,
-      avg_time: 58.9,
-      org: "CMU",
-      check_sign: false
-    }
+    model_name: "kimi-k2-thinking",
+    average_regret: 23.9700,
+    average_questions_asked: 1.2900,
+    improvement: 10.7500,
+    regret_5th: 25.3500,
+    regret_10th: 34.2500,
+    questions_asked_1st: 1.5000,
+    questions_asked_10th: 1.4000,
+    organization: "Moonshot AI",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "gemini-2.5-pro",
+    average_regret: 23.9825,
+    average_questions_asked: 1.1550,
+    improvement: 6.8250,
+    regret_5th: 22.6500,
+    regret_10th: 30.5125,
+    questions_asked_1st: 2.1000,
+    questions_asked_10th: 1.1250,
+    organization: "Google",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "deepseek-reasoner",
+    average_regret: 24.7150,
+    average_questions_asked: 0.8800,
+    improvement: 21.9000,
+    regret_5th: 24.5000,
+    regret_10th: 41.6500,
+    questions_asked_1st: 1.3000,
+    questions_asked_10th: 0.5000,
+    organization: "DeepSeek",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "qwen-max",
+    average_regret: 25.1900,
+    average_questions_asked: 1.8400,
+    improvement: 4.1500,
+    regret_5th: 27.7000,
+    regret_10th: 30.8500,
+    questions_asked_1st: 1.6000,
+    questions_asked_10th: 1.4000,
+    organization: "Alibaba",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "gemini-2.5-flash",
+    average_regret: 25.2038,
+    average_questions_asked: 0.9462,
+    improvement: 6.8333,
+    regret_5th: 23.8333,
+    regret_10th: 31.7179,
+    questions_asked_1st: 2.3077,
+    questions_asked_10th: 0.4359,
+    organization: "Google",
+    date: "2025-12-09"
   },
 ]
+
+const VARIABLE_PERSONA_DATA: ModelResult[] = [
+  {
+    model_name: "qwen-max",
+    average_regret: 19.8600,
+    average_questions_asked: 1.0200,
+    improvement: 6.4000,
+    regret_5th: 20.5000,
+    regret_10th: 21.6500,
+    questions_asked_1st: 1.6000,
+    questions_asked_10th: 0.3000,
+    organization: "Alibaba",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "gpt-4o",
+    average_regret: 23.5423,
+    average_questions_asked: 4.5410,
+    improvement: 2.7821,
+    regret_5th: 21.4744,
+    regret_10th: 27.1410,
+    questions_asked_1st: 5.2308,
+    questions_asked_10th: 4.5128,
+    organization: "OpenAI",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "claude-sonnet-4",
+    average_regret: 23.8295,
+    average_questions_asked: 3.9205,
+    improvement: -0.3590,
+    regret_5th: 24.7821,
+    regret_10th: 24.2436,
+    questions_asked_1st: 3.5641,
+    questions_asked_10th: 4.3077,
+    organization: "Anthropic",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "deepseek-reasoner",
+    average_regret: 23.8600,
+    average_questions_asked: 0.6400,
+    improvement: 3.0500,
+    regret_5th: 20.3500,
+    regret_10th: 27.6500,
+    questions_asked_1st: 1.6000,
+    questions_asked_10th: 0.9000,
+    organization: "DeepSeek",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "gemini-2.5-pro",
+    average_regret: 24.6679,
+    average_questions_asked: 1.9667,
+    improvement: 1.1410,
+    regret_5th: 21.6538,
+    regret_10th: 25.4231,
+    questions_asked_1st: 2.3590,
+    questions_asked_10th: 2.3077,
+    organization: "Google",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "claude-opus-4",
+    average_regret: 24.7474,
+    average_questions_asked: 2.5103,
+    improvement: 2.4744,
+    regret_5th: 26.2179,
+    regret_10th: 25.7821,
+    questions_asked_1st: 2.3333,
+    questions_asked_10th: 2.4615,
+    organization: "Anthropic",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "kimi-k2-thinking",
+    average_regret: 24.9300,
+    average_questions_asked: 1.5500,
+    improvement: -3.2000,
+    regret_5th: 28.2000,
+    regret_10th: 17.4000,
+    questions_asked_1st: 1.5000,
+    questions_asked_10th: 1.7000,
+    organization: "Moonshot AI",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "gemini-2.5-flash",
+    average_regret: 25.2782,
+    average_questions_asked: 1.0821,
+    improvement: -3.7821,
+    regret_5th: 24.8462,
+    regret_10th: 22.7564,
+    questions_asked_1st: 1.8462,
+    questions_asked_10th: 1.1282,
+    organization: "Google",
+    date: "2025-12-09"
+  },
+]
+
+const VARIABLE_SETTING_DATA: ModelResult[] = [
+  {
+    model_name: "kimi-k2-thinking",
+    average_regret: 21.3600,
+    average_questions_asked: 1.8600,
+    improvement: 1.0500,
+    regret_5th: 12.4000,
+    regret_10th: 21.5500,
+    questions_asked_1st: 1.1000,
+    questions_asked_10th: 1.9000,
+    organization: "Moonshot AI",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "gemini-2.5-pro",
+    average_regret: 22.0625,
+    average_questions_asked: 2.0300,
+    improvement: 5.9000,
+    regret_5th: 24.2250,
+    regret_10th: 28.1375,
+    questions_asked_1st: 2.2000,
+    questions_asked_10th: 1.6000,
+    organization: "Google",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "claude-sonnet-4-20250514",
+    average_regret: 23.5538,
+    average_questions_asked: 3.9075,
+    improvement: -0.1250,
+    regret_5th: 25.8000,
+    regret_10th: 23.7750,
+    questions_asked_1st: 3.4000,
+    questions_asked_10th: 3.7750,
+    organization: "Anthropic",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "qwen-max",
+    average_regret: 23.7500,
+    average_questions_asked: 2.3900,
+    improvement: 6.2000,
+    regret_5th: 24.1500,
+    regret_10th: 27.5000,
+    questions_asked_1st: 1.8000,
+    questions_asked_10th: 1.8000,
+    organization: "Alibaba",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "gpt-4o",
+    average_regret: 24.0963,
+    average_questions_asked: 5.9875,
+    improvement: 0.0500,
+    regret_5th: 28.5750,
+    regret_10th: 20.1750,
+    questions_asked_1st: 6.6250,
+    questions_asked_10th: 5.5500,
+    organization: "OpenAI",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "claude-opus-4-20250514",
+    average_regret: 24.2150,
+    average_questions_asked: 2.4125,
+    improvement: -5.7625,
+    regret_5th: 27.3750,
+    regret_10th: 20.3000,
+    questions_asked_1st: 2.3000,
+    questions_asked_10th: 2.3500,
+    organization: "Anthropic",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "deepseek-reasoner",
+    average_regret: 24.3050,
+    average_questions_asked: 1.4600,
+    improvement: -1.9000,
+    regret_5th: 25.0500,
+    regret_10th: 27.8500,
+    questions_asked_1st: 1.4000,
+    questions_asked_10th: 1.2000,
+    organization: "DeepSeek",
+    date: "2025-12-09"
+  },
+  {
+    model_name: "gemini-2.5-flash",
+    average_regret: 24.8650,
+    average_questions_asked: 1.3500,
+    improvement: -2.9750,
+    regret_5th: 28.4125,
+    regret_10th: 27.4625,
+    questions_asked_1st: 2.6500,
+    questions_asked_10th: 0.8750,
+    organization: "Google",
+    date: "2025-12-09"
+  },
+]
+
+const getLeaderboardData = (type: LeaderboardType): ModelResult[] => {
+  switch (type) {
+    case 'variable_category':
+      return VARIABLE_CATEGORY_DATA
+    case 'variable_persona':
+      return VARIABLE_PERSONA_DATA
+    case 'variable_setting':
+      return VARIABLE_SETTING_DATA
+    default:
+      return []
+  }
+}
 
 interface LeaderboardTableProps {
   leaderboardType: LeaderboardType
 }
 
 export default function LeaderboardTable({ leaderboardType }: LeaderboardTableProps) {
-  const [sortKey, setSortKey] = useState<SortKey>('overall_score')
-  const [sortOrder, setSortOrder] = useState<SortOrder>('desc')
+  const [sortKey, setSortKey] = useState<SortKey>('average_regret')
+  const [sortOrder, setSortOrder] = useState<SortOrder>('asc')
+  
+  const data = getLeaderboardData(leaderboardType)
 
   const handleSort = (key: SortKey) => {
     if (sortKey === key) {
       setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc')
     } else {
       setSortKey(key)
-      setSortOrder('desc')
+      // Default sort order: ascending for regret-related fields (lower is better)
+      // For improvement, negative is better, so ascending makes sense
+      const ascendingFields: SortKey[] = ['average_regret', 'regret_5th', 'regret_10th', 'improvement', 'average_questions_asked', 'questions_asked_1st', 'questions_asked_10th', 'model_name', 'organization', 'date']
+      setSortOrder(ascendingFields.includes(key) ? 'asc' : 'desc')
     }
   }
 
   const getValue = (item: ModelResult, key: SortKey): any => {
-    if (key.includes('.')) {
-      const [parent, child] = key.split('.')
-      return (item as any)[parent][child]
-    }
     return item[key as keyof ModelResult]
   }
 
-  const sortedData = [...SAMPLE_DATA].sort((a, b) => {
+  const sortedData = [...data].sort((a, b) => {
     const aVal = getValue(a, sortKey)
     const bVal = getValue(b, sortKey)
 
@@ -112,6 +359,14 @@ export default function LeaderboardTable({ leaderboardType }: LeaderboardTablePr
     return <span>{sortOrder === 'asc' ? '↑' : '↓'}</span>
   }
 
+  if (data.length === 0) {
+    return (
+      <div className="bg-white rounded-lg shadow-lg overflow-hidden p-8">
+        <p className="text-center text-gray-500">No data available for this leaderboard yet.</p>
+      </div>
+    )
+  }
+
   return (
     <div className="bg-white rounded-lg shadow-lg overflow-hidden">
       <div className="overflow-x-auto">
@@ -129,36 +384,51 @@ export default function LeaderboardTable({ leaderboardType }: LeaderboardTablePr
               </th>
               <th
                 className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
-                onClick={() => handleSort('version')}
+                onClick={() => handleSort('average_regret')}
               >
-                Version <SortIcon columnKey="version" />
+                Average Regret <SortIcon columnKey="average_regret" />
               </th>
               <th
                 className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
-                onClick={() => handleSort('overall_score')}
+                onClick={() => handleSort('average_questions_asked')}
               >
-                Overall Score <SortIcon columnKey="overall_score" />
+                Average Questions Asked <SortIcon columnKey="average_questions_asked" />
               </th>
               <th
                 className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
-                onClick={() => handleSort('metrics.accuracy' as any)}
+                onClick={() => handleSort('improvement')}
               >
-                Accuracy <SortIcon columnKey="metrics.accuracy" />
+                Improvement* <SortIcon columnKey="improvement" />
               </th>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                Success Rate
+              <th
+                className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
+                onClick={() => handleSort('regret_5th')}
+              >
+                Regret 5th <SortIcon columnKey="regret_5th" />
               </th>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                Avg Steps
+              <th
+                className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
+                onClick={() => handleSort('regret_10th')}
+              >
+                Regret at 10th <SortIcon columnKey="regret_10th" />
               </th>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                Avg Time (s)
+              <th
+                className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
+                onClick={() => handleSort('questions_asked_1st')}
+              >
+                Questions Asked at 1st <SortIcon columnKey="questions_asked_1st" />
               </th>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                Org
+              <th
+                className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
+                onClick={() => handleSort('questions_asked_10th')}
+              >
+                Questions Asked at 10th <SortIcon columnKey="questions_asked_10th" />
               </th>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                Check Sign
+              <th
+                className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
+                onClick={() => handleSort('organization')}
+              >
+                Organization <SortIcon columnKey="organization" />
               </th>
               <th
                 className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
@@ -191,41 +461,31 @@ export default function LeaderboardTable({ leaderboardType }: LeaderboardTablePr
                   <div className="text-sm font-medium text-gray-900">{model.model_name}</div>
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
-                  <div className="text-sm text-gray-500">{model.version}</div>
+                  <div className="text-sm text-gray-900">{model.average_regret.toFixed(2)}</div>
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
-                  <div className="flex items-center">
-                    <div className="text-sm font-semibold text-primary">
-                      {model.overall_score.toFixed(1)}
-                    </div>
-                    <div className="ml-2 w-20 bg-gray-200 rounded-full h-2">
-                      <div
-                        className="bg-primary h-2 rounded-full"
-                        style={{ width: `${model.overall_score}%` }}
-                      />
-                    </div>
+                  <div className="text-sm text-gray-900">{model.average_questions_asked.toFixed(1)}</div>
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  <div className="text-sm text-gray-900">
+                    {model.improvement >= 0 ? '+' : ''}{model.improvement.toFixed(2)}
                   </div>
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
-                  <div className="text-sm text-gray-900">{model.metrics.accuracy.toFixed(1)}%</div>
+                  <div className="text-sm text-gray-900">{model.regret_5th.toFixed(2)}</div>
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
-                  <div className="text-sm text-gray-900">{model.metrics.success_rate.toFixed(1)}%</div>
+                  <div className="text-sm text-gray-900">{model.regret_10th.toFixed(2)}</div>
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
-                  <div className="text-sm text-gray-900">{model.metrics.average_steps.toFixed(1)}</div>
+                  <div className="text-sm text-gray-900">{model.questions_asked_1st}</div>
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
-                  <div className="text-sm text-gray-900">{model.metrics.avg_time.toFixed(1)}</div>
+                  <div className="text-sm text-gray-900">{model.questions_asked_10th}</div>
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
-                  <div className="text-sm text-gray-900">{model.metrics.org}</div>
+                  <div className="text-sm text-gray-900">{model.organization}</div>
                 </td>
-                 <td className="px-6 py-4 whitespace-nowrap">
-                   <div className="flex items-center justify-center text-xl">
-                     {model.metrics.check_sign ? '✅' : '❌'}
-                   </div>
-                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
                   <div className="text-sm text-gray-500">{model.date}</div>
                 </td>
@@ -236,9 +496,14 @@ export default function LeaderboardTable({ leaderboardType }: LeaderboardTablePr
       </div>
 
       <div className="bg-gray-50 px-6 py-4 border-t border-gray-200">
-        <p className="text-sm text-gray-600">
-          Showing {sortedData.length} model{sortedData.length !== 1 ? 's' : ''}
-        </p>
+        <div className="flex justify-between items-center">
+          <p className="text-sm text-gray-600">
+            Showing {sortedData.length} model{sortedData.length !== 1 ? 's' : ''}
+          </p>
+          <p className="text-xs text-gray-500 italic">
+            *Improvement = Regret at EP10 - Regret at EP1
+          </p>
+        </div>
       </div>
     </div>
   )

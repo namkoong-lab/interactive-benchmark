@@ -1,0 +1,10 @@
+Model Name	Average Regret	Average Questions Asked	Improvement*	Regret 5th	Regret at 10th	Questions Asked at 1st	Questions Asked at 10th	Organization	Date
+*Improvement = Regret EP10 - EP1
+claude-opus-4-20250514	24.2150	2.4125	-5.7625	27.3750	20.3000	2.3000	2.3500	Anthropic	2025-12-09
+claude-sonnet-4-20250514	23.5538	3.9075	-0.1250	25.8000	23.7750	3.4000	3.7750	Anthropic	2025-12-09
+gemini-2.5-flash	24.8650	1.3500	-2.9750	28.4125	27.4625	2.6500	0.8750	Google	2025-12-09
+gemini-2.5-pro	22.0625	2.0300	5.9000	24.2250	28.1375	2.2000	1.6000	Google	2025-12-09
+gpt-4o	24.0963	5.9875	0.0500	28.5750	20.1750	6.6250	5.5500	OpenAI	2025-12-09
+deepseek-reasoner	24.3050	1.4600	-1.9000	25.0500	27.8500	1.4000	1.2000	DeepSeek	2025-12-09
+kimi-k2-thinking	21.3600	1.8600	1.0500	12.4000	21.5500	1.1000	1.9000	Moonshot AI	2025-12-09
+qwen-max	23.7500	2.3900	6.2000	24.1500	27.5000	1.8000	1.8000	Alibaba	2025-12-09

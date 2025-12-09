@@ -1,14 +1,14 @@
 import { useState } from 'react'
 import LeaderboardTable from '@/components/leaderboard/LeaderboardTable'
 
-export type LeaderboardType = 'variable_persona' | 'variable_category' | 'variable_setting'
+export type LeaderboardType = 'variable_category' | 'variable_persona' | 'variable_setting'
 
 export default function Leaderboard() {
-  const [leaderboardType, setLeaderboardType] = useState<LeaderboardType>('variable_persona')
+  const [leaderboardType, setLeaderboardType] = useState<LeaderboardType>('variable_category')
 
   const leaderboardTypes: { key: LeaderboardType; label: string }[] = [
-    { key: 'variable_persona', label: 'Variable Persona' },
     { key: 'variable_category', label: 'Variable Category' },
+    { key: 'variable_persona', label: 'Variable Persona' },
     { key: 'variable_setting', label: 'Variable Setting' },
   ]
 
