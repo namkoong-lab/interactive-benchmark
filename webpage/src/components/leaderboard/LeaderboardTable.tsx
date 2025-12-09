@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import type { ModelResult, SortKey, SortOrder } from '@/types/leaderboard'
+import type { LeaderboardType } from '@/pages/Leaderboard'
 
 // TODO: Replace this with actual data loading from JSON files
 // In the future, this data will be loaded from the results/ directory
@@ -66,7 +67,11 @@ const SAMPLE_DATA: ModelResult[] = [
   },
 ]
 
-export default function LeaderboardTable() {
+interface LeaderboardTableProps {
+  leaderboardType: LeaderboardType
+}
+
+export default function LeaderboardTable({ leaderboardType }: LeaderboardTableProps) {
   const [sortKey, setSortKey] = useState<SortKey>('overall_score')
   const [sortOrder, setSortOrder] = useState<SortOrder>('desc')
 
