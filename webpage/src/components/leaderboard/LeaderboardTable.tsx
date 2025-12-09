@@ -227,7 +227,7 @@ const VARIABLE_SETTING_DATA: ModelResult[] = [
     date: "2025-12-09"
   },
   {
-    model_name: "claude-sonnet-4-20250514",
+    model_name: "claude-sonnet-4",
     average_regret: 23.5538,
     average_questions_asked: 3.9075,
     improvement: -0.1250,
@@ -263,7 +263,7 @@ const VARIABLE_SETTING_DATA: ModelResult[] = [
     date: "2025-12-09"
   },
   {
-    model_name: "claude-opus-4-20250514",
+    model_name: "claude-opus-4",
     average_regret: 24.2150,
     average_questions_asked: 2.4125,
     improvement: -5.7625,
