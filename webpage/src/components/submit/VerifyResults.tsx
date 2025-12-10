@@ -56,6 +56,16 @@ export default function VerifyResults() {
         return
       }
 
+      // Check that mean and standard_error arrays have matching lengths
+      if (data.regret_progression.mean.length !== data.regret_progression.standard_error.length) {
+        setVerificationResult({
+          valid: false,
+          message: 'Validation failed: regret_progression mean and standard_error arrays must have the same length',
+          errors: [`mean array length (${data.regret_progression.mean.length}) does not match standard_error array length (${data.regret_progression.standard_error.length})`]
+        })
+        return
+      }
+
       // Check questions_progression structure
       if (typeof data.questions_progression !== 'object' || !Array.isArray(data.questions_progression.mean)) {
         setVerificationResult({
@@ -72,6 +82,16 @@ export default function VerifyResults() {
           valid: false,
           message: 'Validation failed: questions_progression must contain all_seed_data and standard_error arrays',
           errors: ['questions_progression missing all_seed_data or standard_error']
+        })
+        return
+      }
+
+      // Check that mean and standard_error arrays have matching lengths
+      if (data.questions_progression.mean.length !== data.questions_progression.standard_error.length) {
+        setVerificationResult({
+          valid: false,
+          message: 'Validation failed: questions_progression mean and standard_error arrays must have the same length',
+          errors: [`mean array length (${data.questions_progression.mean.length}) does not match standard_error array length (${data.questions_progression.standard_error.length})`]
         })
         return
       }
