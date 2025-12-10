@@ -12,8 +12,8 @@ export default function VerifyResults() {
     try {
       const data = JSON.parse(jsonInput)
 
-      // Required fields validation
-      const requiredFields = ['model_name', 'version', 'date', 'overall_score', 'metrics']
+      // Required fields validation based on actual results.json format
+      const requiredFields = ['experiment_type', 'model', 'config_file_path', 'regret_progression', 'questions_progression']
       const missingFields = requiredFields.filter(field => !(field in data))
 
       if (missingFields.length > 0) {
@@ -25,22 +25,53 @@ export default function VerifyResults() {
         return
       }
 
-      // Check metrics object
-      if (typeof data.metrics !== 'object') {
+      // Check experiment_type
+      const validExperimentTypes = ['variable_category', 'variable_persona', 'variable_settings']
+      if (!validExperimentTypes.includes(data.experiment_type)) {
         setVerificationResult({
           valid: false,
-          message: 'Validation failed: metrics must be an object',
-          errors: ['Invalid metrics format']
+          message: 'Validation failed: Invalid experiment_type',
+          errors: [`experiment_type must be one of: ${validExperimentTypes.join(', ')}`]
         })
         return
       }
 
-      // Check score range
-      if (data.overall_score < 0 || data.overall_score > 100) {
+      // Check regret_progression structure
+      if (typeof data.regret_progression !== 'object' || !Array.isArray(data.regret_progression.mean)) {
         setVerificationResult({
           valid: false,
-          message: 'Validation failed: overall_score must be between 0 and 100',
-          errors: ['Invalid score range']
+          message: 'Validation failed: regret_progression must be an object with mean array',
+          errors: ['Invalid regret_progression format']
+        })
+        return
+      }
+
+      // Check regret_progression has required fields
+      if (!Array.isArray(data.regret_progression.all_seed_data) || !Array.isArray(data.regret_progression.standard_error)) {
+        setVerificationResult({
+          valid: false,
+          message: 'Validation failed: regret_progression must contain all_seed_data and standard_error arrays',
+          errors: ['regret_progression missing all_seed_data or standard_error']
+        })
+        return
+      }
+
+      // Check questions_progression structure
+      if (typeof data.questions_progression !== 'object' || !Array.isArray(data.questions_progression.mean)) {
+        setVerificationResult({
+          valid: false,
+          message: 'Validation failed: questions_progression must be an object with mean array',
+          errors: ['Invalid questions_progression format']
+        })
+        return
+      }
+
+      // Check questions_progression has required fields
+      if (!Array.isArray(data.questions_progression.all_seed_data) || !Array.isArray(data.questions_progression.standard_error)) {
+        setVerificationResult({
+          valid: false,
+          message: 'Validation failed: questions_progression must contain all_seed_data and standard_error arrays',
+          errors: ['questions_progression missing all_seed_data or standard_error']
         })
         return
       }
@@ -121,19 +152,27 @@ export default function VerifyResults() {
           <h4 className="font-semibold text-gray-900 mb-2">Example Valid JSON:</h4>
           <pre className="bg-gray-900 text-gray-100 p-4 rounded-md overflow-x-auto text-xs">
             <code>{`{
-  "model_name": "GPT-4-Agent",
-  "version": "1.0.0",
-  "date": "2024-10-14",
-  "overall_score": 85.5,
-  "metrics": {
-    "accuracy": 87.2,
-    "success_rate": 83.8,
-    "average_steps": 12.5,
-    "avg_time": 45.3
+  "experiment_type": "variable_category",
+  "model": "gpt-4o",
+  "context_mode": "raw",
+  "feedback_type": "persona",
+  "prompting_tricks": "none",
+  "config_file_path": "configs/benchmark_configs/variable_category.yaml",
+  "regret_progression": {
+    "all_seed_data": [
+      [22.5, 21.3, 20.1, 19.5, 18.9, 18.2, 17.8, 17.5, 17.2, 16.9],
+      [23.1, 22.0, 20.8, 20.2, 19.6, 19.0, 18.5, 18.1, 17.8, 17.5]
+    ],
+    "mean": [22.8, 21.65, 20.45, 19.85, 19.25, 18.6, 18.15, 17.8, 17.5, 17.2],
+    "standard_error": [0.3, 0.35, 0.35, 0.35, 0.35, 0.4, 0.35, 0.3, 0.3, 0.3]
   },
-  "task_breakdown": {
-    "task_1": { "score": 90.0, "success": true },
-    "task_2": { "score": 88.5, "success": true }
+  "questions_progression": {
+    "all_seed_data": [
+      [8, 7, 6, 5, 4, 3, 2, 1, 0, 0],
+      [8, 7, 6, 5, 4, 3, 2, 1, 0, 0]
+    ],
+    "mean": [8.0, 7.0, 6.0, 5.0, 4.0, 3.0, 2.0, 1.0, 0.0, 0.0],
+    "standard_error": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
   }
 }`}</code>
           </pre>

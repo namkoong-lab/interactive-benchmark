@@ -5,20 +5,24 @@ This is an example model submission to demonstrate the required format.
 ## Model Information
 
 - **Name**: Example Model
-- **Version**: 1.0.0
-- **Date**: 2024-10-14
+- **Description**: This is a template showing how to structure your model submission
 
-## Results Summary
+## File Structure
 
-- **Overall Score**: 85.5
-- **Accuracy**: 87.2%
-- **Success Rate**: 83.8%
+Each model folder should contain JSON files for each benchmark type you participated in:
 
-## How to Reproduce
+- `variable_category.json` - Results for Variable Category benchmark
+- `variable_persona.json` - Results for Variable Persona benchmark (optional)
+- `variable_settings.json` - Results for Variable Settings benchmark (optional)
+- `metadata.json` - Model metadata (optional)
+- `README.md` - Additional information (optional)
 
-1. Clone the repository
-2. Install dependencies
-3. Run evaluation script
+## How to Submit
+
+1. Create a folder with your model name in the `results/` directory
+2. Copy your benchmark results JSON files to this folder
+3. Name them according to the benchmark type (e.g., `variable_category.json`)
+4. Submit a pull request
 
 ## Citation
 
