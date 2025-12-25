@@ -46,6 +46,7 @@ function calculateLeaderboardMetrics(jsonData: any, metadata: Metadata | null): 
     const questions_asked_10th = Math.round((questionsMean.length >= 10 ? questionsMean[9] : questionsMean[questionsMean.length - 1] || 0) * 100) / 100
 
     return {
+      rank: 0, // Will be assigned after sorting by average_regret
       model_name: metadata?.model_name || jsonData.model || 'unknown',
       average_regret,
       average_questions_asked,
@@ -131,6 +132,12 @@ export function loadLeaderboardData(type: LeaderboardType): ModelResult[] {
       console.error(`Error loading file ${path}:`, error)
     }
   }
+
+  // Sort by average_regret (ascending - lower is better) and assign ranks
+  results.sort((a, b) => a.average_regret - b.average_regret)
+  results.forEach((result, index) => {
+    result.rank = index + 1
+  })
 
   return results
 }

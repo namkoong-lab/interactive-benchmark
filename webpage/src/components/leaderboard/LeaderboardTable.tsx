@@ -130,21 +130,21 @@ export default function LeaderboardTable({ leaderboardType }: LeaderboardTablePr
             </tr>
           </thead>
           <tbody className="bg-white divide-y divide-gray-200">
-            {sortedData.map((model, index) => (
+            {sortedData.map((model) => (
               <tr key={model.model_name} className="hover:bg-gray-50 transition-colors">
                 <td className="px-6 py-4 whitespace-nowrap">
                   <div className="flex items-center">
-                    {index === 0 && (
+                    {model.rank === 1 && (
                       <span className="text-2xl mr-2">🥇</span>
                     )}
-                    {index === 1 && (
+                    {model.rank === 2 && (
                       <span className="text-2xl mr-2">🥈</span>
                     )}
-                    {index === 2 && (
+                    {model.rank === 3 && (
                       <span className="text-2xl mr-2">🥉</span>
                     )}
                     <span className="text-sm font-medium text-gray-900">
-                      #{index + 1}
+                      #{model.rank}
                     </span>
                   </div>
                 </td>

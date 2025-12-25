@@ -7,6 +7,9 @@
  * Used for displaying model performance metrics on the leaderboard
  */
 export interface ModelResult {
+  /** Rank based on average_regret (lower is better) */
+  rank: number
+
   /** Display name of the model */
   model_name: string
 
