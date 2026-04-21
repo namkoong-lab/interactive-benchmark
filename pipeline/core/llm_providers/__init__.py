@@ -65,6 +65,11 @@ _registry = _auto_discover_providers()
 
 
 # Public API
+def chat_completion_with_tools(*args, **kwargs):
+    """One chat turn with function tools (OpenAI-compatible providers)."""
+    return _registry.chat_completion_with_tools(*args, **kwargs)
+
+
 def chat_completion(*args, **kwargs):
     """
     Central chat completion API for all providers.
@@ -75,6 +80,7 @@ def chat_completion(*args, **kwargs):
         temperature: Sampling temperature (default: 0.3)
         max_tokens: Maximum tokens in response (default: 256)
         json_mode: Request JSON-formatted response (default: False)
+        count_usage: If False, omit from cumulative token stats (e.g. product scoring); recommender calls should use True (default).
         response_schema: Optional JSON schema for structured output
         system_prompt_override: Override system message if needed
     
@@ -106,6 +112,9 @@ def list_providers():
 def get_total_usage_stats() -> dict:
     """
     Get cumulative usage stats from ALL registered providers.
+
+    Only includes API calls made with count_usage=True (default). Product-persona
+    scoring uses count_usage=False and is excluded so totals reflect the recommender.
     """
     total_stats = {"input_tokens": 0, "output_tokens": 0}
     
@@ -123,5 +132,11 @@ def get_total_usage_stats() -> dict:
             
     return total_stats
 
-__all__ = ['chat_completion', 'set_debug_mode', 'list_providers', 'get_total_usage_stats']
+__all__ = [
+    'chat_completion',
+    'chat_completion_with_tools',
+    'set_debug_mode',
+    'list_providers',
+    'get_total_usage_stats',
+]
 

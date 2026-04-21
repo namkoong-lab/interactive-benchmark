@@ -3,7 +3,9 @@ from typing import Dict, List, Tuple, Any
 
 from .personas import get_persona_description
 from .simulate_interaction import (
+    DegenerateScoresError,
     score_products_for_persona,
+    scores_look_degenerate,
     simulated_user_respond,
     load_cached_scores,
     save_scores,
@@ -32,48 +34,63 @@ class UserModel:
     def respond(self, question: str, category: str, dialog_history: List[Tuple[str, str]] = None) -> str:
         return simulated_user_respond(self._persona_text, question, category, dialog_history)
 
-    def score_products(self, category: str, products: List[Dict]) -> List[Tuple[int, float]]:
+    def score_products(
+        self,
+        category: str,
+        products: List[Dict],
+        *,
+        _skip_cache: bool = False,
+        _degenerate_retry_done: bool = False,
+    ) -> List[Tuple[int, float]]:
         product_ids = [int(p.get('id')) for p in products if p.get('id') is not None]
         
-        # Load cached scores from database
-        cached_pairs = load_cached_scores(self._persona_index, category, product_ids)
-        cached_dict = {pid: score for pid, score in cached_pairs} if cached_pairs else {}
+        cached_dict: Dict[int, float] = {}
+        if not _skip_cache:
+            cached_pairs = load_cached_scores(self._persona_index, category, product_ids)
+            cached_dict = {pid: score for pid, score in cached_pairs} if cached_pairs else {}
         
-        # Check which products need scoring
         uncached_product_ids = [pid for pid in product_ids if pid not in cached_dict]
         
-        # If all products are cached, return immediately
-        if not uncached_product_ids:
+        if not uncached_product_ids and not _skip_cache:
             print(f"✅ Using {len(product_ids)} cached scores from database (100% cache hit)")
-            return [(int(pid), float(cached_dict[pid])) for pid in product_ids]
         
-        # Partial cache hit - only score uncached products
-        if cached_dict:
-            print(f"🔄 Partial cache hit: {len(cached_dict)}/{len(product_ids)} cached, scoring {len(uncached_product_ids)} new products")
+        if uncached_product_ids:
+            if cached_dict and not _skip_cache:
+                print(f"🔄 Partial cache hit: {len(cached_dict)}/{len(product_ids)} cached, scoring {len(uncached_product_ids)} new products")
+            elif not cached_dict:
+                print(f"🔄 Computing scores for {len(uncached_product_ids)} products (no cache)")
+            
+            uncached_products = [p for p in products if int(p.get('id')) in uncached_product_ids]
+            scored = score_products_for_persona(self._persona_text, category, uncached_products)
+            try:
+                save_scores(self._persona_index, category, scored, model="ensemble")
+                print(f"💾 Saved {len(scored)} new scores to database cache")
+            except Exception as e:
+                print(f"⚠️ Failed to save scores to database: {e}")
+            
+            result_dict = cached_dict.copy()
+            for pid, score, _ in scored:
+                result_dict[int(pid)] = float(score)
         else:
-            print(f"🔄 Computing scores for {len(uncached_product_ids)} products (no cache)")
+            result_dict = cached_dict.copy()
         
-        # Get only uncached products for scoring
-        uncached_products = [p for p in products if int(p.get('id')) in uncached_product_ids]
+        out = [(int(pid), float(result_dict[pid])) for pid in product_ids if pid in result_dict]
+        vals = [s for _, s in out]
         
-        # Score only uncached products
-        scored = score_products_for_persona(self._persona_text, category, uncached_products)
+        if len(vals) >= 3 and scores_look_degenerate(vals):
+            if not _degenerate_retry_done:
+                print(
+                    "⚠️ Degenerate score distribution (many zeros or flat near-zero). "
+                    "Retrying once with fresh ensemble scoring (ignoring cache)..."
+                )
+                return self.score_products(
+                    category, products, _skip_cache=True, _degenerate_retry_done=True
+                )
+            raise DegenerateScoresError(
+                f"Scores still degenerate after retry (n={len(vals)}, range {min(vals):.1f}–{max(vals):.1f})."
+            )
         
-        # Save new scores to database
-        try:
-            save_scores(self._persona_index, category, scored, model="ensemble")
-            print(f"💾 Saved {len(scored)} new scores to database cache")
-        except Exception as e:
-            print(f"⚠️ Failed to save scores to database: {e}")
-            pass
-        
-        # Combine cached and newly scored
-        result_dict = cached_dict.copy()
-        for pid, score, _ in scored:
-            result_dict[int(pid)] = float(score)
-        
-        # Return in original product order
-        return [(int(pid), float(result_dict[pid])) for pid in product_ids if pid in result_dict]
+        return out
 
     def generate_feedback(self, 
                          chosen_product: Dict[str, Any],

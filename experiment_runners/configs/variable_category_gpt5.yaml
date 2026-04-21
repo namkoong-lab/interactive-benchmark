@@ -1,0 +1,33 @@
+# Experiment 1 (variable_category) — GPT-5 mini snapshot, 10 trajectories, fixed seeds.
+# Requires OPENAI_API_KEY.
+
+experiment_type: "variable_category"
+model: "gpt-5.4-mini-2026-03-17"
+
+total_trajectories: 20
+episodes_per_trajectory: 10
+seeds: [798407, 415909, 170653, 805991, 451934, 818827, 179322, 967033, 640995, 653845, 531676, 527580, 825349, 359265, 907642, 522792, 364714, 258290, 384894, 732239]
+
+max_questions: 10
+context_mode: "raw"
+feedback_type: "persona"
+prompting_tricks: "none"
+use_openai_react_tools: false
+
+min_score_threshold: 60.0
+max_products_per_category: 50
+
+output_dir: "experiment_results"
+
+# Debugging
+debug_mode: true
+show_product_scores: true
+show_internal_prompts: true
+
+# Checkpoints (resume with resume_from_checkpoint)
+checkpoint_enabled: true
+checkpoint_every_n_episodes: 1
+checkpoint_after_each_trajectory: true
+checkpoint_keep_last: 10
+checkpoint_on_interrupt: true
+resume_from_checkpoint: null

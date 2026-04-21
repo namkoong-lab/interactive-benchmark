@@ -144,6 +144,11 @@ Examples:
                        help="How to carry context between episodes")
     parser.add_argument("--prompting_tricks", choices=["none", "all"], default="none",
                        help="Prompting enhancements (none or all)")
+    parser.add_argument(
+        "--use_openai_react_tools",
+        action="store_true",
+        help="Use OpenAI tool-calling ReAct (requires variable_category + OpenAI model)",
+    )
     parser.add_argument("--feedback_type", 
                        choices=["none", "regret", "persona", "star_rating"], default="none",
                        help="Type of feedback to provide")
@@ -170,6 +175,7 @@ Examples:
     if args.config:
         print(f"Loading configuration from: {args.config}")
         config = ExperimentConfig.from_yaml(args.config) if args.config.endswith('.yaml') or args.config.endswith('.yml') else ExperimentConfig.from_json(args.config)
+        config.validate_experiment_constraints()
     else:
         if not args.experiment_type:
             parser.error("--experiment_type is required when not using --config")
@@ -183,6 +189,7 @@ Examples:
             'max_questions': args.max_questions,
             'context_mode': args.context_mode,
             'prompting_tricks': args.prompting_tricks,
+            'use_openai_react_tools': args.use_openai_react_tools,
             'feedback_type': args.feedback_type,
             'min_score_threshold': args.min_score_threshold,
             'max_products_per_category': args.max_products,

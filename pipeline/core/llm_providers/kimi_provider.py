@@ -60,6 +60,7 @@ class KimiProvider(BaseLLMProvider):
         json_mode: bool = False,
         response_schema: Optional[Dict[str, Any]] = None,
         system_prompt_override: Optional[str] = None,
+        count_usage: bool = True,
     ) -> str:
         def _make_request():
             current_model = model

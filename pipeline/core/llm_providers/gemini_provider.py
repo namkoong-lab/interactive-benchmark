@@ -63,6 +63,7 @@ class GeminiProvider(BaseLLMProvider):
         json_mode: bool = False,
         response_schema: Optional[Dict[str, Any]] = None,
         system_prompt_override: Optional[str] = None,
+        count_usage: bool = True,
     ) -> str:
         def _make_request():
             # Extract system instruction
@@ -86,7 +87,10 @@ class GeminiProvider(BaseLLMProvider):
                 })
             
             # Generation config
-            generation_config: Dict[str, Any] = {"temperature": temperature}
+            generation_config: Dict[str, Any] = {
+                "temperature": temperature,
+                "max_output_tokens": max_tokens,
+            }
             if json_mode:
                 generation_config["response_mime_type"] = "application/json"
                 if response_schema:
@@ -107,12 +111,14 @@ class GeminiProvider(BaseLLMProvider):
             if hasattr(resp, 'usage_metadata'):
                 input_tokens = resp.usage_metadata.prompt_token_count
                 output_tokens = resp.usage_metadata.candidates_token_count
-                self.total_usage_stats["input_tokens"] += input_tokens
-                self.total_usage_stats["output_tokens"] += output_tokens
+                if count_usage:
+                    self.total_usage_stats["input_tokens"] += input_tokens
+                    self.total_usage_stats["output_tokens"] += output_tokens
                 
                 if self._debug_mode:
                     print(f"[DEBUG] Gemini Usage (Current): Input={input_tokens}, Output={output_tokens}")
-                    print(f"[DEBUG] Gemini Usage (Total): Input={self.total_usage_stats['input_tokens']}, Output={self.total_usage_stats['output_tokens']}")
+                    if count_usage:
+                        print(f"[DEBUG] Gemini Usage (Total): Input={self.total_usage_stats['input_tokens']}, Output={self.total_usage_stats['output_tokens']}")
             # Extract text (handle various response formats)
             try:
                 candidates = getattr(resp, "candidates", []) or []

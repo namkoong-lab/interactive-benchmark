@@ -13,9 +13,40 @@ The UnifiedAgent handles all experiment types through configuration parameters.
 """
 
 from typing import Dict, List, Tuple, Optional, Any, Literal
+import json
 import numpy as np
 import re
-from .llm_providers import chat_completion
+from .llm_providers import chat_completion, chat_completion_with_tools
+
+
+def _count_text_tokens(text: str, model: str) -> int:
+    """Best-effort token count for agent prompts (OpenAI-compatible)."""
+    if not text:
+        return 0
+    try:
+        import tiktoken
+        try:
+            enc = tiktoken.encoding_for_model(model)
+        except KeyError:
+            enc = tiktoken.get_encoding("cl100k_base")
+        return len(enc.encode(text))
+    except Exception:
+        return max(1, len(text) // 4)
+
+
+def _count_message_list_tokens(messages: List[Dict[str, Any]], model: str) -> int:
+    """Token estimate for chat API messages (user/assistant/system/tool)."""
+    total = 0
+    for m in messages:
+        c = m.get("content")
+        if isinstance(c, str):
+            total += _count_text_tokens(c, model)
+        elif c is not None:
+            total += _count_text_tokens(str(c), model)
+        tc = m.get("tool_calls")
+        if tc:
+            total += _count_text_tokens(json.dumps(tc), model)
+    return total
 
 
 class UnifiedAgent:
@@ -51,6 +82,7 @@ class UnifiedAgent:
         temperature: float = 0.7,
         max_tokens: int = 1000,
         verbose: bool = False,
+        use_openai_react_tools: bool = False,
     ):
         """
         Initialize unified agent.
@@ -73,6 +105,7 @@ class UnifiedAgent:
             temperature: LLM temperature (0.0-2.0)
             max_tokens: Maximum tokens for LLM responses
             verbose: Enable verbose logging
+            use_openai_react_tools: If True, use OpenAI tool calls for ask/recommend (Exp 1 only via config).
         """
         self.model = model
         self.max_questions = max_questions
@@ -100,10 +133,45 @@ class UnifiedAgent:
         self.temperature = temperature
         self.max_tokens = max_tokens
         self.verbose = verbose
+        self.use_openai_react_tools = use_openai_react_tools
         
         # Planning-specific
         self.is_tracking_episode = False
         self.current_question_count = 0
+        
+        # Per-episode max input tokens (largest single LLM prompt in this episode)
+        self._episode_context_input_tokens_max = 0
+        self._context_token_counting_backend: Optional[str] = None
+    
+    def reset_episode_context_token_stats(self) -> None:
+        """Call once at episode start (after env reset)."""
+        self._episode_context_input_tokens_max = 0
+        self._context_token_counting_backend = None
+    
+    def _ensure_context_token_backend(self) -> None:
+        if self._context_token_counting_backend is not None:
+            return
+        try:
+            import tiktoken  # noqa: F401
+            self._context_token_counting_backend = "tiktoken"
+        except Exception:
+            self._context_token_counting_backend = "chars_div_4"
+    
+    def _note_context_prompt_tokens(self, text: str) -> None:
+        self._ensure_context_token_backend()
+        n = _count_text_tokens(text, self.model)
+        self._episode_context_input_tokens_max = max(self._episode_context_input_tokens_max, n)
+    
+    def _note_context_messages_tokens(self, messages: List[Dict[str, Any]]) -> None:
+        self._ensure_context_token_backend()
+        n = _count_message_list_tokens(messages, self.model)
+        self._episode_context_input_tokens_max = max(self._episode_context_input_tokens_max, n)
+    
+    def get_episode_max_context_input_tokens(self) -> int:
+        return int(self._episode_context_input_tokens_max)
+    
+    def get_context_token_counting_backend(self) -> str:
+        return self._context_token_counting_backend or "none"
     
     def get_action(self, obs, info):
         """Decide action based on configuration."""
@@ -151,6 +219,10 @@ class UnifiedAgent:
             if len(dialog_history) >= self.max_questions:
                 return self._force_recommendation(obs, info, dialog_history, category, num_products)
             else:
+                if self.use_openai_react_tools:
+                    return self._llm_decide_action_openai_react(
+                        obs, info, dialog_history, category, num_products
+                    )
                 return self._llm_decide_action(obs, info, dialog_history, category, num_products)
         # VARIABLE MODE: Can stop early
         # else:
@@ -190,6 +262,7 @@ QUESTION: [your question]
 
 Your question:"""
         
+        self._note_context_prompt_tokens(prompt)
         response = chat_completion(
             model=self.model,
             messages=[{"role": "user", "content": prompt}],
@@ -242,6 +315,7 @@ Your choice:"""
             base_prompt = self._apply_prompting_tricks(base_prompt)
         
         # Call LLM and parse response
+        self._note_context_prompt_tokens(base_prompt)
         response = chat_completion(
             model=self.model,
             messages=[{"role": "user", "content": base_prompt}],
@@ -353,6 +427,7 @@ Rules:
 - All values must be numeric, no explanations."""
 
         try:
+            self._note_context_prompt_tokens(base_prompt)
             response = chat_completion(
                 messages=[{"role": "user", "content": base_prompt}],
                 model=self.model,
@@ -796,6 +871,183 @@ Write only the summary, no additional commentary:"""
         episode_num = self.episode_count + 1
         return str(persona), episode_num
     
+    def _llm_decide_action_openai_react(
+        self,
+        obs: Dict[str, np.ndarray],
+        info: Dict[str, Any],
+        dialog_history: List[Tuple[str, str]],
+        category: str,
+        num_products: int,
+    ) -> int:
+        """
+        OpenAI tool-calling loop: tools ask_customer / recommend_product.
+        Ends with the same env contract as _llm_decide_action (index or num_products, QUESTION: in last_response).
+        """
+        products = self._get_product_info(obs, info, num_products)
+        context = self._build_llm_context(products, dialog_history, category)
+        feedback_context = self._build_feedback_context(category, None)
+        persona, episode_num = self._get_session_info()
+        valid_ids = [p["id"] for p in products]
+
+        user_body = f"""You are a product recommendation agent. Find the best product for this user while asking the fewest questions.
+
+SESSION: Customer #{persona} | Episode {episode_num} | Category: {category}
+
+=== AVAILABLE PRODUCTS ===
+{context}
+
+{feedback_context}
+
+=== INSTRUCTIONS ===
+Use the provided tools. To finish this step you MUST call exactly one of:
+- ask_customer: one preference question (consumer-friendly; do not repeat prior questions).
+- recommend_product: only when you have carefully considered any prior-episode feedback above and the conversation so far, and are confident in the choice; product_id must match a numeric id from the list above. If you are not sure yet, call ask_customer instead.
+
+If you need to think step by step, do so in natural language before calling a tool. Prefer a single tool call to complete the turn."""
+
+        system_msg = (
+            "You are a shopping assistant. Complete each decision by calling exactly one tool: "
+            "ask_customer OR recommend_product."
+        )
+
+        tools: List[Dict[str, Any]] = [
+            {
+                "type": "function",
+                "function": {
+                    "name": "ask_customer",
+                    "description": "Ask the simulated customer one new preference question. Ends this decision step.",
+                    "parameters": {
+                        "type": "object",
+                        "properties": {
+                            "question": {
+                                "type": "string",
+                                "description": "The question to ask the customer",
+                            }
+                        },
+                        "required": ["question"],
+                    },
+                },
+            },
+            {
+                "type": "function",
+                "function": {
+                    "name": "recommend_product",
+                    "description": "Recommend one product by catalog product_id from the current list.",
+                    "parameters": {
+                        "type": "object",
+                        "properties": {
+                            "product_id": {
+                                "type": "integer",
+                                "description": "Numeric product ID from the AVAILABLE PRODUCTS list",
+                            }
+                        },
+                        "required": ["product_id"],
+                    },
+                },
+            },
+        ]
+
+        messages: List[Dict[str, Any]] = [
+            {"role": "system", "content": system_msg},
+            {"role": "user", "content": user_body},
+        ]
+
+        max_rounds = 16
+        last_text = ""
+        for _ in range(max_rounds):
+            self._note_context_messages_tokens(messages)
+            assistant = chat_completion_with_tools(
+                messages=messages,
+                model=self.model,
+                tools=tools,
+                temperature=0.4,
+                max_tokens=4096,
+            )
+            last_text = (assistant.get("content") or "").strip()
+            messages.append(assistant)
+
+            tool_calls = assistant.get("tool_calls") or []
+            if not tool_calls:
+                rec_match = re.search(r"RECOMMEND:?\s*(\d+)", last_text, re.IGNORECASE)
+                if rec_match:
+                    recommended_id = int(rec_match.group(1))
+                    for i, product in enumerate(products):
+                        if product["id"] == recommended_id:
+                            self.last_response = f"RECOMMEND: {recommended_id}"
+                            return i
+                if re.search(r"QUESTION:", last_text, re.IGNORECASE):
+                    self.last_response = (
+                        last_text
+                        if "QUESTION:" in last_text.upper()
+                        else f"QUESTION: {last_text}"
+                    )
+                    return num_products
+                raise ValueError(
+                    "OpenAI ReAct: expected tool_calls or QUESTION:/RECOMMEND: in assistant message. "
+                    f"Got: {last_text[:200]!r}"
+                )
+
+            terminal_ask: Optional[str] = None
+            terminal_rec: Optional[Tuple[int, int]] = None  # (list_index, product_id)
+            tool_messages: List[Tuple[str, str]] = []
+
+            for tc in tool_calls:
+                fn = tc.get("function") or {}
+                name = fn.get("name") or ""
+                raw_args = fn.get("arguments") or "{}"
+                tid = tc.get("id") or ""
+                try:
+                    args = json.loads(raw_args) if isinstance(raw_args, str) else raw_args
+                except json.JSONDecodeError:
+                    tool_messages.append((tid, f"Invalid JSON arguments: {raw_args!r}"))
+                    continue
+
+                if name == "ask_customer":
+                    q = (args.get("question") or "").strip() or "What features matter most to you?"
+                    tool_messages.append(
+                        (tid, "Question recorded; environment will return the customer's answer next step.")
+                    )
+                    if terminal_ask is None:
+                        terminal_ask = q
+                elif name == "recommend_product":
+                    try:
+                        pid = int(args.get("product_id"))
+                    except (TypeError, ValueError):
+                        tool_messages.append((tid, "Invalid product_id; provide an integer catalog id."))
+                        continue
+                    found_idx = None
+                    for i, product in enumerate(products):
+                        if product["id"] == pid:
+                            found_idx = i
+                            break
+                    if found_idx is not None:
+                        tool_messages.append((tid, "Recommendation accepted."))
+                        if terminal_rec is None:
+                            terminal_rec = (found_idx, pid)
+                    else:
+                        hint = f"{valid_ids[:20]}{'...' if len(valid_ids) > 20 else ''}"
+                        tool_messages.append(
+                            (tid, f"product_id {pid} not in current list. Valid ids include: {hint}")
+                        )
+                else:
+                    tool_messages.append((tid, f"Unknown tool {name!r}."))
+
+            for tid, content in tool_messages:
+                messages.append({"role": "tool", "tool_call_id": tid, "content": content})
+
+            if terminal_rec is not None:
+                idx, pid = terminal_rec
+                self.last_response = f"RECOMMEND: {pid}"
+                return idx
+            if terminal_ask is not None:
+                self.last_response = f"QUESTION: {terminal_ask}"
+                return num_products
+
+        if self.verbose:
+            print("[WARN] OpenAI ReAct: max rounds exceeded; defaulting to a generic question.")
+        self.last_response = "QUESTION: What else should I know about what you're looking for?"
+        return num_products
+    
     def _llm_decide_action(self, obs: Dict[str, np.ndarray], info: Dict[str, Any],
                           dialog_history: List[Tuple[str, str]], category: str, 
                           num_products: int, current_persona: Optional[int] = None) -> int:
@@ -848,13 +1100,15 @@ RECOMMEND: 972804
 3. Do NOT repeat any questions that were already asked (check conversation history above)
 4. Questions must be short, specific, and consumer-friendly
 5. Use previous answers to narrow down options intelligently
-6. Recommend when you have sufficient information to make a confident choice
+6. Recommend only when you have sufficient information to make a confident choice
+7. Read any prior-episode customer feedback above with care; only output RECOMMEND: when you are sure the product fits what you learned there and in this conversation. If you are not sure, output QUESTION: instead of guessing.
 
 Your response:"""
 
         unified_prompt = self._apply_prompting_tricks(base_prompt)
 
         try:
+            self._note_context_prompt_tokens(unified_prompt)
             response = chat_completion(
                 messages=[{"role": "user", "content": unified_prompt}],
                 model=self.model,
@@ -941,7 +1195,7 @@ SESSION: Customer #{persona} | Episode {episode_num} | Category: {category}
 {feedback_context}
 
 === TASK ===
-You have gathered sufficient information. Make your final recommendation now.
+You have gathered sufficient information. Make your final recommendation now. Read any prior-episode customer feedback above carefully and choose the product ID that best respects that history and the answers in this episode.
 
 === OUTPUT FORMAT ===
 RECOMMEND: [product ID from the list above]
@@ -962,6 +1216,7 @@ Your response:"""
         self.current_episode_prompts['final_recommendation_prompt'] = unified_prompt
 
         try:
+            self._note_context_prompt_tokens(unified_prompt)
             response = chat_completion(
                 messages=[{"role": "user", "content": unified_prompt}],
                 model=self.model,

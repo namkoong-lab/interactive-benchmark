@@ -38,6 +38,10 @@ feedback_type: "persona"
 #   - "none": Standard prompts only
 #   - "all": Include all prompting tricks (chain-of-thought, etc.)
 prompting_tricks: "none"
+# OpenAI tool-calling ReAct (ask_customer / recommend_product). Only valid when:
+#   experiment_type is "variable_category" AND model is OpenAI-routed (e.g. gpt-4o).
+# Default false: unchanged behavior for all existing configs.
+use_openai_react_tools: false
 
 # ============================================================================
 # DATA SETTINGS

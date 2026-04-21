@@ -16,7 +16,11 @@ from pipeline.envs.reco_env import RecoEnv
 from pipeline.wrappers.metrics_wrapper import MetricsWrapper
 from pipeline.core.feedback_system import FeedbackSystem
 from pipeline.core.user_model import UserModel
-from pipeline.core.simulate_interaction import list_categories, get_products_by_category
+from pipeline.core.simulate_interaction import (
+    list_categories,
+    get_products_by_category,
+    DegenerateScoresError,
+)
 from pipeline.core.unified_agent import UnifiedAgent
 from pipeline.core import llm_providers
 from pipeline.core import simulate_interaction
@@ -45,7 +49,8 @@ class UnifiedExperiment:
                 force_all_questions=False,
                 strategy="none",
                 vary_persona=False,
-                vary_category=True
+                vary_category=True,
+                use_openai_react_tools=self.config.use_openai_react_tools,
             )
         
         elif self.config.experiment_type == "variable_persona":
@@ -313,6 +318,9 @@ class UnifiedExperiment:
                 max_score = max(score for _, score in scores)
                 return max_score >= self.config.min_score_threshold, max_score, scores
             return False, 0.0, []
+        except DegenerateScoresError as e:
+            print(f"    Skipping '{category}': degenerate scores after one rescore ({e})")
+            return False, 0.0, []
         except Exception as e:
             print(f"  Error checking category {category} for persona {persona_index}: {e}")
             return False, 0.0, []
@@ -517,6 +525,7 @@ class UnifiedExperiment:
             
             obs, info = metrics_wrapper.reset()
             self.agent.current_env = env
+            self.agent.reset_episode_context_token_stats()
             
             if not self.config.debug_mode:
                 print(f"    → Running episode...")
@@ -570,7 +579,11 @@ class UnifiedExperiment:
                     'truncated': truncated,
                     'final_info': info,
                     'full_dialog': full_dialog,
-                    'product_info': product_info
+                    'product_info': product_info,
+                    'context_tokens': {
+                        'max_input_tokens': self.agent.get_episode_max_context_input_tokens(),
+                        'counting_backend': self.agent.get_context_token_counting_backend(),
+                    },
                 }
                 
                 self.agent.update_preferences(episode_result)
@@ -634,6 +647,7 @@ class UnifiedExperiment:
             metrics_wrapper = MetricsWrapper(env, output_path=os.path.join(self.output_path, filename))
             obs, info = metrics_wrapper.reset()
             self.agent.current_env = env
+            self.agent.reset_episode_context_token_stats()
             
             regret_progression = []
             rank_progression = []
@@ -773,7 +787,11 @@ class UnifiedExperiment:
                     'planning_mode': True,
                     'regret_progression': regret_progression,
                     'rank_progression': rank_progression,
-                    'confidence_progression': confidence_progression
+                    'confidence_progression': confidence_progression,
+                    'context_tokens': {
+                        'max_input_tokens': self.agent.get_episode_max_context_input_tokens(),
+                        'counting_backend': self.agent.get_context_token_counting_backend(),
+                    },
                 }
                 
                 self.agent.update_preferences(episode_result)
@@ -1190,6 +1208,7 @@ class UnifiedExperiment:
             print(f"Context mode: {self.config.context_mode}")
             print(f"Feedback type: {self.config.feedback_type}")
             print(f"Prompting tricks: {self.config.prompting_tricks}")
+            print(f"OpenAI ReAct tools: {self.config.use_openai_react_tools}")
             print(f"Seed: {self.config.get_seeds()[0]}")
         else:
             print(f"\n🚀 Running {self.config.experiment_type} experiment with {self.config.model}")
@@ -1472,6 +1491,20 @@ class UnifiedExperiment:
             'avg_score': float(np.mean(episode_scores)) if episode_scores else 0.0,
             'regret_std': float(np.std(episode_regrets)) if episode_regrets else 0.0
         }
+        ctx_max_list = [
+            r.get('context_tokens', {}).get('max_input_tokens', 0)
+            for r in self.all_results
+            if r.get('context_tokens')
+        ]
+        if ctx_max_list:
+            summary['context_token_measurement'] = {
+                'mean_max_input_tokens_per_episode': float(np.mean(ctx_max_list)),
+                'max_input_tokens_any_episode': int(max(ctx_max_list)),
+                'description': (
+                    'max_input_tokens is the largest agent prompt (single user message or summed message list '
+                    'for tool rounds) within that episode, in tokenizer units (tiktoken cl100k_base fallback).'
+                ),
+            }
         token_usage_stats = None
         try:
             if hasattr(llm_providers, 'get_total_usage_stats'):
@@ -1487,12 +1520,19 @@ class UnifiedExperiment:
             if traj_results:
                 traj_regrets = [r['final_info']['regret'] for r in traj_results if 'regret' in r['final_info']]
                 traj_scores = [r['final_info']['chosen_score'] for r in traj_results if 'chosen_score' in r['final_info']]
+                ctx_traj = [
+                    r.get('context_tokens', {}).get('max_input_tokens', 0)
+                    for r in traj_results
+                    if r.get('context_tokens')
+                ]
                 trajectory_stats.append({
                     'trajectory': traj_key,
                     'episodes': len(traj_results),
                     'avg_regret': float(np.mean(traj_regrets)) if traj_regrets else 0.0,
                     'avg_score': float(np.mean(traj_scores)) if traj_scores else 0.0,
-                    'total_questions': sum(r.get('steps', 0) for r in traj_results)
+                    'total_questions': sum(r.get('steps', 0) for r in traj_results),
+                    'max_input_tokens_any_episode': int(max(ctx_traj)) if ctx_traj else 0,
+                    'mean_max_input_tokens_per_episode': float(np.mean(ctx_traj)) if ctx_traj else 0.0,
                 })
         
         summary['trajectory_stats'] = trajectory_stats
@@ -1551,15 +1591,18 @@ class UnifiedExperiment:
             # 2. Aggregated metrics (results_summary.json) - same as non-debug mode
             regret_progression = self._calculate_regret_progression()
             questions_progression = self._calculate_questions_progression()
+            context_tokens_progression = self._calculate_context_tokens_progression()
             summary_data = {
                 'experiment_type': self.config.experiment_type,
                 'model': self.config.model,
                 'context_mode': self.config.context_mode,
                 'feedback_type': self.config.feedback_type,
                 'prompting_tricks': self.config.prompting_tricks,
+                'use_openai_react_tools': self.config.use_openai_react_tools,
                 'config_file_path': self.config.config_file_path,  # Reference to source config file
                 'regret_progression': regret_progression,
-                'questions_progression': questions_progression
+                'questions_progression': questions_progression,
+                'context_tokens_progression': context_tokens_progression,
             }
             if self.planning_regret_data:
                 summary_data['planning_regret_progression'] = self.planning_regret_data
@@ -1591,15 +1634,18 @@ class UnifiedExperiment:
             # Non-debug mode: Save ONE aggregated results file
             regret_progression = self._calculate_regret_progression()
             questions_progression = self._calculate_questions_progression()
+            context_tokens_progression = self._calculate_context_tokens_progression()
             results_data = {
                 'experiment_type': self.config.experiment_type,
                 'model': self.config.model,
                 'context_mode': self.config.context_mode,
                 'feedback_type': self.config.feedback_type,
                 'prompting_tricks': self.config.prompting_tricks,
+                'use_openai_react_tools': self.config.use_openai_react_tools,
                 'config_file_path': self.config.config_file_path,  # Reference to source config file
                 'regret_progression': regret_progression,
-                'questions_progression': questions_progression
+                'questions_progression': questions_progression,
+                'context_tokens_progression': context_tokens_progression,
             }
             if self.planning_regret_data:
                 results_data['planning_regret_progression'] = self.planning_regret_data
@@ -1621,6 +1667,15 @@ class UnifiedExperiment:
             
             return results_data
     
+    @staticmethod
+    def _standard_error_of_mean(values: List[float]) -> float:
+        """Standard error of the mean: sample SD (ddof=1) / sqrt(n)."""
+        arr = np.asarray(values, dtype=float)
+        n = int(arr.size)
+        if n < 2:
+            return 0.0
+        return float(np.std(arr, ddof=1) / np.sqrt(n))
+    
     def _calculate_regret_progression(self) -> Dict[str, Any]:
         """Calculate regret progression across trajectories."""
         all_seed_data = []
@@ -1639,7 +1694,7 @@ class UnifiedExperiment:
                 values_at_i = [all_seed_data[j][i] for j in range(len(all_seed_data)) if i < len(all_seed_data[j])]
                 if values_at_i:
                     mean_values.append(float(np.mean(values_at_i)))
-                    std_values.append(float(np.std(values_at_i)))
+                    std_values.append(self._standard_error_of_mean(values_at_i))
                 else:
                     mean_values.append(0.0)
                     std_values.append(0.0)
@@ -1666,7 +1721,38 @@ class UnifiedExperiment:
                 values_at_i = [all_seed_data[j][i] for j in range(len(all_seed_data)) if i < len(all_seed_data[j])]
                 if values_at_i:
                     mean_values.append(float(np.mean(values_at_i)))
-                    std_values.append(float(np.std(values_at_i)))
+                    std_values.append(self._standard_error_of_mean(values_at_i))
+                else:
+                    mean_values.append(0.0)
+                    std_values.append(0.0)
+            
+            return {'all_seed_data': all_seed_data, 'mean': mean_values, 'standard_error': std_values}
+        
+        return {'all_seed_data': [], 'mean': [], 'standard_error': []}
+    
+    def _calculate_context_tokens_progression(self) -> Dict[str, Any]:
+        """Max agent prompt size (tokens) per episode, aligned with regret_progression layout."""
+        all_seed_data = []
+        
+        for traj_key, traj_results in self.grouped_results.items():
+            if traj_results:
+                trajectory_tokens = [
+                    r.get('context_tokens', {}).get('max_input_tokens', 0) for r in traj_results
+                ]
+                all_seed_data.append(trajectory_tokens)
+        
+        if all_seed_data:
+            max_length = max(len(traj) for traj in all_seed_data)
+            mean_values = []
+            std_values = []
+            for i in range(max_length):
+                values_at_i = [
+                    all_seed_data[j][i] for j in range(len(all_seed_data))
+                    if i < len(all_seed_data[j])
+                ]
+                if values_at_i:
+                    mean_values.append(float(np.mean(values_at_i)))
+                    std_values.append(self._standard_error_of_mean(values_at_i))
                 else:
                     mean_values.append(0.0)
                     std_values.append(0.0)

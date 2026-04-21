@@ -61,6 +61,7 @@ class ClaudeProvider(BaseLLMProvider):
         json_mode: bool = False,
         response_schema: Optional[Dict[str, Any]] = None,
         system_prompt_override: Optional[str] = None,
+        count_usage: bool = True,
     ) -> str:
         def _make_request():
             # Extract system prompt
@@ -126,12 +127,14 @@ class ClaudeProvider(BaseLLMProvider):
                 if self._debug_mode:
                     print("[DEBUG] Claude returned empty response text.")
                     
-            self.total_usage_stats["input_tokens"] += input_tokens
-            self.total_usage_stats["output_tokens"] += output_tokens
+            if count_usage:
+                self.total_usage_stats["input_tokens"] += input_tokens
+                self.total_usage_stats["output_tokens"] += output_tokens
             
             if self._debug_mode:
                 print(f"[DEBUG] Claude Usage (Current): Input={input_tokens}, Output={output_tokens}")
-                print(f"[DEBUG] Claude Usage (Total): Input={self.total_usage_stats['input_tokens']}, Output={self.total_usage_stats['output_tokens']}")
+                if count_usage:
+                    print(f"[DEBUG] Claude Usage (Total): Input={self.total_usage_stats['input_tokens']}, Output={self.total_usage_stats['output_tokens']}")
             if not result:
                 raise ValueError("Claude returned empty response")
             return result

@@ -5,10 +5,12 @@ Core modules for the personas pipeline.
 from .llm_providers import chat_completion
 from .personas import get_persona_description
 from .simulate_interaction import (
-    get_products_by_category, 
+    get_products_by_category,
     list_categories,
     simulated_user_respond,
-    score_products_for_persona
+    score_products_for_persona,
+    DegenerateScoresError,
+    scores_look_degenerate,
 )
 from .user_model import UserModel
 from .metrics import EpisodeRecord, MetricsRecorder
@@ -21,6 +23,8 @@ __all__ = [
     'list_categories',
     'simulated_user_respond',
     'score_products_for_persona',
+    'DegenerateScoresError',
+    'scores_look_degenerate',
     'UserModel',
     'EpisodeRecord',
     'MetricsRecorder',

@@ -179,9 +179,20 @@ cd personas
 ```
 
 **2. Install Dependencies**
+
+Use the **same** interpreter you will run experiments with (especially if you use conda: plain `pip` can target a different Python than `python`).
+
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
+
+Verify Hugging Face `datasets` is visible to that interpreter:
+
+```bash
+python -c "from datasets import load_dataset; import datasets; print(datasets.__file__)"
+```
+
+If `load_dataset` still fails, you installed into the wrong environment—run `which python` and `python -m pip --version` and reinstall with `python -m pip`.
 
 **3. Configure API Keys**
 

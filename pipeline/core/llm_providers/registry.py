@@ -44,6 +44,11 @@ class ProviderRegistry:
         provider = self.get_provider(model)
         return provider.chat_completion(messages, model, **kwargs)
     
+    def chat_completion_with_tools(self, messages, model, tools, **kwargs):
+        """Single tool-capable completion turn; see BaseLLMProvider.chat_completion_with_tools."""
+        provider = self.get_provider(model)
+        return provider.chat_completion_with_tools(messages, model, tools, **kwargs)
+    
     def set_debug_mode(self, debug: bool):
         """Set debug mode for all providers."""
         self._debug_mode = debug

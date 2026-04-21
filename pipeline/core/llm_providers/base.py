@@ -55,6 +55,7 @@ class BaseLLMProvider(ABC):
         json_mode: bool = False,
         response_schema: Optional[Dict[str, Any]] = None,
         system_prompt_override: Optional[str] = None,
+        count_usage: bool = True,
     ) -> str:
         """
         Execute chat completion and return response text.
@@ -67,11 +68,30 @@ class BaseLLMProvider(ABC):
             json_mode: Request JSON-formatted response
             response_schema: Optional JSON schema for structured output
             system_prompt_override: Override system message if needed
+            count_usage: If False, do not add this call to cumulative token usage stats (e.g. product scoring).
         
         Returns:
             Response text as string
         """
         pass
+    
+    def chat_completion_with_tools(
+        self,
+        messages: List[Dict[str, Any]],
+        model: str,
+        tools: List[Dict[str, Any]],
+        temperature: float = 0.3,
+        max_tokens: int = 4096,
+    ) -> Dict[str, Any]:
+        """
+        Single chat completion turn with function tools. Returns assistant message as a dict
+        (role, content, optional tool_calls) suitable for appending to messages and re-calling.
+
+        Override in providers that support tool calling; default raises NotImplementedError.
+        """
+        raise NotImplementedError(
+            f"Provider '{self.get_provider_name()}' does not implement chat_completion_with_tools"
+        )
     
     def supports_json_mode(self) -> bool:
         """Whether provider natively supports JSON mode."""

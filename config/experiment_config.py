@@ -11,6 +11,18 @@ import yaml
 import json
 
 
+def _model_routes_to_openai(model: str) -> bool:
+    """True if the model name is handled by OpenAIProvider (matches pipeline OpenAIProvider.matches_model)."""
+    return not (
+        model.startswith("gemini-")
+        or model.startswith("claude-")
+        or model.startswith("qwen-")
+        or model.startswith("deepseek-")
+        or model.startswith("moonshot-")
+        or model.startswith("kimi-")
+    )
+
+
 @dataclass
 class ExperimentConfig:
     """
@@ -52,6 +64,8 @@ class ExperimentConfig:
     # === LEARNING SETTINGS ===
     context_mode: Literal["raw", "summary", "none"] = "raw"
     prompting_tricks: Literal["none", "all"] = "none"
+    # OpenAI native tool-calling ReAct loop (UnifiedAgent); only variable_category + OpenAI-routed models
+    use_openai_react_tools: bool = False
     feedback_type: Literal["none", "regret", "persona", "star_rating"] = "none"
     
     # === SEED SETTINGS ===
@@ -140,6 +154,18 @@ class ExperimentConfig:
                 f"Invalid prompting_tricks: '{self.prompting_tricks}'. "
                 f"Must be one of {valid_prompting_tricks}"
             )
+        
+        if self.use_openai_react_tools:
+            if self.experiment_type != "variable_category":
+                raise ValueError(
+                    "use_openai_react_tools is only supported when experiment_type is "
+                    "'variable_category' (Experiment 1)."
+                )
+            if not _model_routes_to_openai(self.model):
+                raise ValueError(
+                    f"use_openai_react_tools requires an OpenAI-routed model; "
+                    f"'{self.model}' is handled by another provider."
+                )
         
         # Validate planning_interval
         if self.planning_mode != "none":

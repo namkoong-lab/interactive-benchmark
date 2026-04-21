@@ -1,11 +1,13 @@
 from openai import OpenAI
 import os
 import json
+import re
 import random
 import sqlite3
 import time
 import hashlib
-from typing import Dict, List, Any, Tuple, Optional
+import statistics
+from typing import Any, Dict, List, Optional, Tuple
 from dotenv import load_dotenv
 from .llm_providers import chat_completion
 
@@ -13,6 +15,125 @@ load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 DB_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "database", "products.db"))
+
+
+def _repair_json_for_parse(s: str) -> str:
+    """Remove trailing commas before ] or } (invalid JSON, but common in LLM output, especially Gemini)."""
+    if not s:
+        return s
+    prev = None
+    while prev != s:
+        prev = s
+        s = re.sub(r",(\s*[\]}])", r"\1", s)
+    return s
+
+
+def _extract_json_block(text: str) -> str:
+    """Best-effort slice of first balanced JSON array or object."""
+    if text.strip().startswith("```"):
+        try:
+            return text.split("\n", 1)[1].rsplit("\n", 1)[0]
+        except Exception:
+            pass
+    s = text
+    if "[" in s and (s.find("[") < s.find("{") or "{" not in s):
+        start = s.find("[")
+        end = s.rfind("]")
+        if start != -1 and end != -1 and end > start:
+            candidate = s[start : end + 1]
+            stack = 0
+            last_balanced_idx = -1
+            for i, ch in enumerate(candidate):
+                if ch == "[":
+                    stack += 1
+                elif ch == "]":
+                    stack -= 1
+                    if stack == 0:
+                        last_balanced_idx = i
+            if last_balanced_idx != -1:
+                return candidate[: last_balanced_idx + 1]
+            return candidate
+    start = s.find("{")
+    end = s.rfind("}")
+    if start != -1 and end != -1 and end > start:
+        candidate = s[start : end + 1]
+        stack = 0
+        last_balanced_idx = -1
+        for i, ch in enumerate(candidate):
+            if ch == "{":
+                stack += 1
+            elif ch == "}":
+                stack -= 1
+                if stack == 0:
+                    last_balanced_idx = i
+        if last_balanced_idx != -1:
+            return candidate[: last_balanced_idx + 1]
+        return candidate
+    return text
+
+
+def _salvage_score_items_from_text(text: str) -> List[Dict[str, Any]]:
+    """Recover {id, score} pairs from truncated or noisy model output."""
+    seen = set()
+    out: List[Dict[str, Any]] = []
+    for pat in (
+        r'\{\s*"id"\s*:\s*(\d+)\s*,\s*"score"\s*:\s*([-+]?\d*\.?\d+)',
+        r'\{\s*"score"\s*:\s*([-+]?\d*\.?\d+)\s*,\s*"id"\s*:\s*(\d+)',
+    ):
+        for m in re.finditer(pat, text):
+            if m.lastindex == 2:
+                a, b = m.group(1), m.group(2)
+                if pat.startswith(r'\{\s*"id"'):
+                    pid, sc = int(a), float(b)
+                else:
+                    sc, pid = float(a), int(b)
+                if pid not in seen:
+                    seen.add(pid)
+                    out.append({"id": pid, "score": sc})
+    return out
+
+
+def _items_from_scoring_response(text: str) -> List[Dict[str, Any]]:
+    """Parse model output into a list of {id, score} dicts."""
+    if not (text or "").strip():
+        return []
+    t = _repair_json_for_parse(text.strip())
+    try:
+        parsed: Any = json.loads(t)
+    except Exception:
+        try:
+            t2 = _repair_json_for_parse(_extract_json_block(text.strip()))
+            parsed = json.loads(t2)
+        except Exception:
+            return _salvage_score_items_from_text(text)
+
+    if isinstance(parsed, dict):
+        if "results" in parsed:
+            inner = parsed["results"]
+        elif "result" in parsed:
+            r = parsed["result"]
+            inner = r if isinstance(r, list) else [r]
+        else:
+            inner = [parsed]
+    elif isinstance(parsed, list):
+        inner = parsed
+    else:
+        inner = [parsed]
+    if not isinstance(inner, list):
+        return []
+    return inner
+
+
+def _chunk_score_ids_match(chunk: List[Dict[str, Any]], items: List[Dict[str, Any]]) -> bool:
+    want = {int(p["id"]) for p in chunk if p.get("id") is not None}
+    got = set()
+    for it in items:
+        try:
+            got.add(int(it.get("id")))
+        except (TypeError, ValueError):
+            return False
+    return want == got
+
 
 _debug_mode: bool = False  # Global debug flag
 _database_ensured: bool = False  # Track if we've checked for database
@@ -317,6 +438,34 @@ Answer the following question naturally and consistently with your persona. Base
         print(f"[TIMING] Persona question answering: {elapsed:.2f}s")
     return content
 
+
+class DegenerateScoresError(RuntimeError):
+    """Raised when ensemble scores still look unusable after one fresh rescoring attempt."""
+
+
+def scores_look_degenerate(scores: List[float]) -> bool:
+    """
+    Heuristic: scoring failed or is unusable — too many near-zero scores, or almost no spread near zero.
+
+    Used to trigger one full rescore (no cache) before skipping the category.
+    """
+    if not scores or len(scores) < 3:
+        return False
+    n = len(scores)
+    vals = [float(s) for s in scores]
+    zeroish = sum(1 for s in vals if s <= 0.51)
+    if zeroish > max(3, int(0.12 * n)):
+        return True
+    mean = statistics.fmean(vals)
+    std = statistics.pstdev(vals) if n > 1 else 0.0
+    mx = max(vals)
+    if mean <= 10.0 and std <= 5.0:
+        return True
+    if mx <= 15.0 and std <= 4.0:
+        return True
+    return False
+
+
 def score_products_for_persona(persona_description: str, category: str, products: List[Dict[str, Any]], model: str = "gpt-4o") -> List[Tuple[int, float, str]]:
     """
     Score each product for the given persona using an ensemble of providers.
@@ -344,209 +493,109 @@ def score_products_for_persona(persona_description: str, category: str, products
     ]
 
     def _score_once(target_model: str) -> Dict[int, Tuple[float, str]]:
-        def _query_with_products(prod_subset: List[Dict[str, Any]], array_only: bool = False) -> str:
-            if array_only:
-                user_payload = {
-                    "persona_description": persona_description,
-                    "category": category,
-                    "products": prod_subset,
-                    "instructions": "You ARE the persona described. You are shopping for YOURSELF (not for a friend or anyone else). Rate each product with a score from 0 to 100 (integers only) based on how much YOU would like it for YOUR OWN use. Return a JSON array containing exactly one object per product with 'id' and 'score' fields. Example: [{\"id\": 123, \"score\": 85}, {\"id\": 456, \"score\": 70}]. Do not return a single object, return an array.",
-                }
-                response_schema_local = {
-                    "type": "array",
-                    "items": {
-                        "type": "object",
-                        "properties": {
-                            "id": {"type": "number"},
-                            "score": {"type": "number"},
-                        },
-                        "required": ["id", "score"],
-                    },
-                }
-            else:
-                user_payload = {
-                    "persona_description": persona_description,
-                    "category": category,
-                    "products": prod_subset,
-                    "instructions": "You ARE the persona described. You are shopping for YOURSELF (not for a friend or anyone else). Rate each product with a score from 0 to 100 (integers only) based on how much YOU would like it for YOUR OWN use. Return a JSON object with key 'results' as an array of objects: {id, score}. Do not include any other keys or text.",
-                }
-                response_schema_local = {
-                    "type": "object",
-                    "properties": {
-                        "results": {
-                            "type": "array",
-                            "items": {
-                                "type": "object",
-                                "properties": {
-                                    "id": {"type": "number"},
-                                    "score": {"type": "number"},
-                                },
-                                "required": ["id", "score"],
+        """
+        Score all products with one provider: fixed-size chunks, one JSON shape for everyone.
+
+        Always request {\"results\": [{\"id\", \"score\"}, ...]} so OpenAI json_object mode and Gemini
+        schema stay aligned. No silent dropped chunks.
+        """
+        chunk_size = 20
+        label = "Gemini" if target_model.startswith("gemini-") else "OpenAI"
+
+        def _query_with_products(prod_subset: List[Dict[str, Any]]) -> str:
+            n = len(prod_subset)
+            instructions = (
+                "You ARE the persona described. You are shopping for YOURSELF. "
+                "Rate each listed product from 0 to 100 (integers) by how much you would like it for your own use. "
+                f"Respond with ONLY a JSON object: key \"results\" maps to an array of exactly {n} objects, "
+                "one object per product id in the request, each object {\"id\": number, \"score\": number}. "
+                "Strict JSON: no trailing commas; no markdown; no extra keys or commentary."
+            )
+            user_payload = {
+                "persona_description": persona_description,
+                "category": category,
+                "products": prod_subset,
+                "instructions": instructions,
+            }
+            response_schema_local = {
+                "type": "object",
+                "properties": {
+                    "results": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "id": {"type": "number"},
+                                "score": {"type": "number"},
                             },
-                        }
-                    },
-                    "required": ["results"],
-                }
+                            "required": ["id", "score"],
+                        },
+                    }
+                },
+                "required": ["results"],
+            }
+            max_out = min(8192, max(512, 100 * n + 500))
+            if target_model.startswith("gemini-"):
+                max_out = min(8192, max(max_out, int(max_out * 1.6) + 512))
             return chat_completion(
                 model=target_model,
                 messages=[
-                    {"role": "system", "content": "You evaluate product-persona fit for personal use and must return strict JSON only."},
+                    {
+                        "role": "system",
+                        "content": (
+                            "You evaluate product–persona fit for a shopping simulation. "
+                            "Output strict JSON only. When products differ, scores should usually differ; "
+                            "do not collapse everything to the same number unless truly indifferent."
+                        ),
+                    },
                     {"role": "user", "content": json.dumps(user_payload, ensure_ascii=False)},
                 ],
-                temperature=0.2,
-                max_tokens=600 if array_only else 800,
+                temperature=0.1,
+                max_tokens=max_out,
                 json_mode=True,
                 response_schema=response_schema_local,
+                count_usage=False,
             )
 
-        raw_outputs: List[str] = []
-        if target_model.startswith("gemini-") and len(condensed_products) >= 15:
-            chunk_size = 15
-            for i in range(0, len(condensed_products), chunk_size):
-                chunk = condensed_products[i:i+chunk_size]
-                content_local = None
-                for attempt in range(5):
-                    try:
-                        content_local = _query_with_products(chunk, array_only=True)
-                        break
-                    except Exception as e:
-                        if attempt < 4:
-                            delay = min(1.0 * (2 ** attempt), 30.0)  
-                            jitter = random.uniform(0, delay * 0.1)  
-                            print(f"Gemini chunk attempt {attempt + 1} failed: {e}. Retrying in {delay + jitter:.2f}s...")
-                            time.sleep(delay + jitter)
-                        else:
-                            print(f"Gemini chunk failed after 5 attempts: {e}")
-                            raise
-                raw_outputs.append(content_local)
-        else:   
-            if not target_model.startswith("gemini-") and len(condensed_products) >= 30:
-                chunk_size = 25
-                for i in range(0, len(condensed_products), chunk_size):
-                    chunk = condensed_products[i:i+chunk_size]
-                    if _debug_mode:
-                        print(f"[DEBUG] Processing chunk {i//chunk_size + 1} with {len(chunk)} products")
-                    content_part = None
-                    for attempt in range(5):
-                        try:
-                            content_part = _query_with_products(chunk, array_only=True)
-                            break
-                        except Exception as e:
-                            if attempt < 4:
-                                delay = min(1.0 * (2 ** attempt), 30.0)  
-                                jitter = random.uniform(0, delay * 0.1) 
-                                print(f"OpenAI chunk attempt {attempt + 1} failed: {e}. Retrying in {delay + jitter:.2f}s...")
-                                time.sleep(delay + jitter)
-                            else:
-                                print(f"OpenAI chunk {i//chunk_size + 1} failed after 5 attempts: {e}. Skipping this chunk.")
-                                content_part = None  
-                                break
-                    raw_outputs.append(content_part)
-            else:
-                content_local = None
-                for attempt in range(5):
-                    try:
-                        content_local = _query_with_products(condensed_products, array_only=False)
-                        break
-                    except Exception as e:
-                        if attempt < 4:
-                            delay = min(1.0 * (2 ** attempt), 30.0) 
-                            jitter = random.uniform(0, delay * 0.1)  
-                            print(f"Model attempt {attempt + 1} failed: {e}. Retrying in {delay + jitter:.2f}s...")
-                            time.sleep(delay + jitter)
-                        else:
-                            print(f"Model failed after 5 attempts: {e}")
-                            raise
-                raw_outputs.append(content_local)
-            
-        def _extract_json_block(text: str) -> str:
-            if text.strip().startswith("```"):
-                try:
-                    return text.split("\n", 1)[1].rsplit("\n", 1)[0]
-                except Exception:
-                    pass
-            s = text
-            if '[' in s and (s.find('[') < s.find('{') or '{' not in s):
-                start = s.find('[')
-                end = s.rfind(']')
-                if start != -1 and end != -1 and end > start:
-                    candidate = s[start:end+1]
-                    stack = 0
-                    last_balanced_idx = -1
-                    for i, ch in enumerate(candidate):
-                        if ch == '[':
-                            stack += 1
-                        elif ch == ']':
-                            stack -= 1
-                            if stack == 0:
-                                last_balanced_idx = i
-                    if last_balanced_idx != -1:
-                        return candidate[: last_balanced_idx + 1]
-                    return candidate
-            start = s.find('{')
-            end = s.rfind('}')
-            if start != -1 and end != -1 and end > start:
-                candidate = s[start:end+1]
-                stack = 0
-                last_balanced_idx = -1
-                for i, ch in enumerate(candidate):
-                    if ch == '{':
-                        stack += 1
-                    elif ch == '}':
-                        stack -= 1
-                        if stack == 0:
-                            last_balanced_idx = i
-                if last_balanced_idx != -1:
-                    return candidate[: last_balanced_idx + 1]
-                return candidate
-            return text
-
         aggregated_items: List[Dict[str, Any]] = []
-        for i, content_local in enumerate(raw_outputs):
-            if content_local is None or content_local.strip() == "":
-                print(f"[WARN] Chunk {i} returned empty content, skipping")
+        for start in range(0, len(condensed_products), chunk_size):
+            chunk = condensed_products[start : start + chunk_size]
+            want = {int(p["id"]) for p in chunk if p.get("id") is not None}
+            if not want:
                 continue
-            
-            if i == 0:  
-                if _debug_mode:
-                    print(f"[DEBUG] Chunk {i} content preview: {content_local[:200]}...")
-            try:
-                parsed_local = json.loads(content_local)
-                if isinstance(parsed_local, dict):
-                    if "results" in parsed_local:
-                        data_local = parsed_local["results"]
-                    elif "result" in parsed_local:
-                        data_local = parsed_local["result"]
-                    else:
-                        data_local = [parsed_local]
-                elif isinstance(parsed_local, list):
-                    data_local = parsed_local
-                else:
-                    data_local = [parsed_local]
-            except Exception as e:
-                print(f"[WARN] Failed to parse chunk {i} as JSON: {e}")
+            if _debug_mode:
+                print(f"[DEBUG] {label} scoring chunk products {start + 1}-{start + len(chunk)} ({len(chunk)} items)")
+            last_err: Optional[Exception] = None
+            chunk_ok = False
+            for attempt in range(5):
                 try:
-                    extracted = _extract_json_block(content_local)
-                    parsed_local = json.loads(extracted)
-                    if isinstance(parsed_local, dict):
-                        if "results" in parsed_local:
-                            data_local = parsed_local["results"]
-                        elif "result" in parsed_local:
-                            data_local = parsed_local["result"]
-                        else:
-                            data_local = [parsed_local]
-                    elif isinstance(parsed_local, list):
-                        data_local = parsed_local
-                    else:
-                        data_local = [parsed_local]
-                except Exception as e2:
-                    print(f"[WARN] Failed to extract JSON from chunk {i}: {e2}")
-                    continue
-            
-            if isinstance(data_local, list):
-                aggregated_items.extend(data_local)
-            else:
-                print(f"[WARN] Chunk {i} still not a list after processing, got: {type(data_local)}. Content: {str(data_local)[:100]}...")
+                    raw = _query_with_products(chunk)
+                    items = _items_from_scoring_response(raw)
+                    if not _chunk_score_ids_match(chunk, items):
+                        raise ValueError(
+                            f"id mismatch: need exactly {len(want)} scores for chunk ids, "
+                            f"parsed {len(items)} rows"
+                        )
+                    aggregated_items.extend(items)
+                    if _debug_mode:
+                        print(f"[DEBUG] {label} chunk ok, preview: {raw[:180]}...")
+                    chunk_ok = True
+                    break
+                except Exception as e:
+                    last_err = e
+                    if attempt < 4:
+                        delay = min(1.0 * (2**attempt), 30.0)
+                        jitter = random.uniform(0, delay * 0.1)
+                        print(
+                            f"[WARN] {label} scoring chunk @ offset {start} attempt {attempt + 1}/5: {e}. "
+                            f"Retry in {delay + jitter:.2f}s..."
+                        )
+                        time.sleep(delay + jitter)
+            if not chunk_ok:
+                raise RuntimeError(
+                    f"{label} scoring failed for chunk starting at index {start} ({len(chunk)} products) "
+                    f"after 5 attempts: {last_err}"
+                ) from last_err
 
         raw_scores: List[float] = []
         for item in aggregated_items:
@@ -606,14 +655,18 @@ def score_products_for_persona(persona_description: str, category: str, products
         return out
 
     openai_model = "gpt-4o"
-    gemini_model = "gemini-2.5-flash"
+    gemini_model = "gemini-3.1-flash-lite-preview"
 
     scores_openai: Dict[int, Tuple[float, str]] = {}
     scores_gemini: Dict[int, Tuple[float, str]] = {}
+    n_products = len([p for p in products if p.get("id") is not None])
     try:
         print(f"[INFO] Starting OpenAI scoring with model: {openai_model}")
         scores_openai = _score_once(openai_model)
-        print(f"[INFO] OpenAI scoring completed successfully, got {len(scores_openai)} scores")
+        if n_products and len(scores_openai) == 0:
+            print(f"[WARN] OpenAI scoring returned 0 scores (expected ~{n_products}); check JSON/parsing.")
+        else:
+            print(f"[INFO] OpenAI scoring completed successfully, got {len(scores_openai)} scores")
     except Exception as e:
         print(f"[ERROR] OpenAI scoring failed: {type(e).__name__}: {e}")
         import traceback
@@ -621,7 +674,10 @@ def score_products_for_persona(persona_description: str, category: str, products
     try:
         print(f"[INFO] Starting Gemini scoring with model: {gemini_model}")
         scores_gemini = _score_once(gemini_model)
-        print(f"[INFO] Gemini scoring completed successfully, got {len(scores_gemini)} scores")
+        if n_products and len(scores_gemini) == 0:
+            print(f"[WARN] Gemini scoring returned 0 scores (expected ~{n_products}); often truncation or malformed JSON.")
+        else:
+            print(f"[INFO] Gemini scoring completed successfully, got {len(scores_gemini)} scores")
     except Exception as e:
         print(f"[ERROR] Gemini scoring failed: {type(e).__name__}: {e}")
         import traceback
